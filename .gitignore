@@ -20,3 +20,8 @@ work/
 
 # macOS
 .DS_Store
+
+# vim swap 文件
+*.swp
+*.swo
+*~
