@@ -1,0 +1,7885 @@
+{
+  "file_stem": "14_HowtotalkAboutSalaryNegotiation10EssentialApproaches",
+  "no": 14,
+  "title_keywords": [
+    [
+      "talk",
+      "talk"
+    ],
+    [
+      "salary",
+      "salary"
+    ],
+    [
+      "negotiation",
+      "negotiation"
+    ],
+    [
+      "essential",
+      "essential"
+    ],
+    [
+      "approaches",
+      "approach"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "salary",
+      156,
+      "B1+"
+    ],
+    [
+      "say",
+      71,
+      "A2"
+    ],
+    [
+      "thank",
+      69,
+      "A2"
+    ],
+    [
+      "offer",
+      67,
+      "A2"
+    ],
+    [
+      "talk",
+      64,
+      "A2"
+    ],
+    [
+      "discuss",
+      53,
+      "B1+"
+    ],
+    [
+      "negotiation",
+      51,
+      "B1+"
+    ],
+    [
+      "professional",
+      47,
+      "B1+"
+    ],
+    [
+      "based",
+      45,
+      "B1+"
+    ],
+    [
+      "exactly",
+      43,
+      "B1+"
+    ],
+    [
+      "sounds",
+      42,
+      "A2"
+    ],
+    [
+      "role",
+      41,
+      "B1+"
+    ],
+    [
+      "experience",
+      40,
+      "A2"
+    ],
+    [
+      "today",
+      36,
+      "A2"
+    ],
+    [
+      "example",
+      35,
+      "A2"
+    ],
+    [
+      "important",
+      34,
+      "A2"
+    ],
+    [
+      "benefits",
+      31,
+      "B1+"
+    ],
+    [
+      "feel",
+      31,
+      "A2"
+    ],
+    [
+      "great",
+      31,
+      "A2"
+    ],
+    [
+      "job",
+      30,
+      "A2"
+    ],
+    [
+      "expecting",
+      27,
+      "A2"
+    ],
+    [
+      "number",
+      27,
+      "B1+"
+    ],
+    [
+      "asking",
+      26,
+      "A2"
+    ],
+    [
+      "mistake",
+      26,
+      "A2"
+    ],
+    [
+      "help",
+      25,
+      "A2"
+    ],
+    [
+      "us",
+      25,
+      "A2"
+    ],
+    [
+      "always",
+      24,
+      "B1+"
+    ],
+    [
+      "situations",
+      24,
+      "A2"
+    ],
+    [
+      "give",
+      23,
+      "A2"
+    ],
+    [
+      "people",
+      23,
+      "A2"
+    ],
+    [
+      "range",
+      23,
+      "B1+"
+    ],
+    [
+      "everyone",
+      22,
+      "A2"
+    ],
+    [
+      "flexibility",
+      22,
+      "B1+"
+    ],
+    [
+      "polite",
+      22,
+      "A2"
+    ],
+    [
+      "responsibilities",
+      22,
+      "B1+"
+    ],
+    [
+      "work",
+      22,
+      "A2"
+    ],
+    [
+      "year",
+      22,
+      "A2"
+    ],
+    [
+      "english",
+      21,
+      "A2"
+    ],
+    [
+      "good",
+      21,
+      "A2"
+    ],
+    [
+      "many",
+      21,
+      "A2"
+    ],
+    [
+      "start",
+      21,
+      "A2"
+    ],
+    [
+      "clear",
+      20,
+      "A2"
+    ],
+    [
+      "confident",
+      20,
+      "B1+"
+    ],
+    [
+      "question",
+      20,
+      "A2"
+    ],
+    [
+      "skills",
+      20,
+      "A2"
+    ],
+    [
+      "emily",
+      19,
+      "B1+"
+    ],
+    [
+      "higher",
+      19,
+      "B1+"
+    ],
+    [
+      "one",
+      19,
+      "A2"
+    ],
+    [
+      "additional",
+      18,
+      "B1+"
+    ],
+    [
+      "conversation",
+      18,
+      "B1+"
+    ],
+    [
+      "excited",
+      18,
+      "B1+"
+    ],
+    [
+      "expectations",
+      18,
+      "B1+"
+    ],
+    [
+      "first",
+      18,
+      "A2"
+    ],
+    [
+      "flexible",
+      18,
+      "B1+"
+    ],
+    [
+      "practice",
+      18,
+      "A2"
+    ],
+    [
+      "shows",
+      18,
+      "A2"
+    ],
+    [
+      "another",
+      17,
+      "A2"
+    ],
+    [
+      "appreciate",
+      17,
+      "B1+"
+    ],
+    [
+      "compensation",
+      17,
+      "B1+"
+    ],
+    [
+      "money",
+      17,
+      "A2"
+    ],
+    [
+      "open",
+      17,
+      "A2"
+    ],
+    [
+      "research",
+      17,
+      "B1+"
+    ],
+    [
+      "want",
+      17,
+      "A2"
+    ],
+    [
+      "also",
+      16,
+      "A2"
+    ],
+    [
+      "answer",
+      16,
+      "A2"
+    ],
+    [
+      "know",
+      16,
+      "A2"
+    ],
+    [
+      "much",
+      16,
+      "A2"
+    ],
+    [
+      "negotiating",
+      16,
+      "B1+"
+    ],
+    [
+      "performance",
+      16,
+      "B1+"
+    ],
+    [
+      "play",
+      16,
+      "A2"
+    ],
+    [
+      "common",
+      15,
+      "A2"
+    ],
+    [
+      "confidence",
+      15,
+      "B1+"
+    ],
+    [
+      "increase",
+      15,
+      "A2"
+    ],
+    [
+      "jack",
+      15,
+      "B1+"
+    ],
+    [
+      "negotiate",
+      15,
+      "B1+"
+    ],
+    [
+      "something",
+      15,
+      "B1+"
+    ],
+    [
+      "discussion",
+      14,
+      "B1+"
+    ],
+    [
+      "hoping",
+      14,
+      "B1+"
+    ],
+    [
+      "perfect",
+      14,
+      "A2"
+    ],
+    [
+      "practical",
+      14,
+      "B1+"
+    ],
+    [
+      "real",
+      14,
+      "A2"
+    ],
+    [
+      "business",
+      13,
+      "B1+"
+    ],
+    [
+      "need",
+      13,
+      "A2"
+    ],
+    [
+      "position",
+      13,
+      "B1+"
+    ],
+    [
+      "review",
+      13,
+      "B1+"
+    ],
+    [
+      "simple",
+      13,
+      "A2"
+    ],
+    [
+      "think",
+      13,
+      "A2"
+    ],
+    [
+      "understand",
+      13,
+      "A2"
+    ],
+    [
+      "value",
+      13,
+      "B1+"
+    ],
+    [
+      "bonuses",
+      12,
+      "B1+"
+    ],
+    [
+      "get",
+      12,
+      "A2"
+    ],
+    [
+      "happy",
+      12,
+      "A2"
+    ],
+    [
+      "market",
+      12,
+      "A2"
+    ],
+    [
+      "opportunity",
+      12,
+      "B1+"
+    ],
+    [
+      "possible",
+      12,
+      "A2"
+    ],
+    [
+      "speak",
+      12,
+      "A2"
+    ],
+    [
+      "taken",
+      12,
+      "A2"
+    ],
+    [
+      "time",
+      12,
+      "A2"
+    ],
+    [
+      "closer",
+      11,
+      "B1+"
+    ],
+    [
+      "gives",
+      11,
+      "B1+"
+    ],
+    [
+      "language",
+      11,
+      "A2"
+    ],
+    [
+      "package",
+      11,
+      "B1+"
+    ],
+    [
+      "phrases",
+      11,
+      "B1+"
+    ],
+    [
+      "projects",
+      11,
+      "B1+"
+    ],
+    [
+      "use",
+      11,
+      "A2"
+    ],
+    [
+      "vacation",
+      11,
+      "A2"
+    ],
+    [
+      "accepting",
+      10,
+      "B1+"
+    ],
+    [
+      "consider",
+      10,
+      "B1+"
+    ],
+    [
+      "explain",
+      10,
+      "B1+"
+    ],
+    [
+      "forget",
+      10,
+      "A2"
+    ],
+    [
+      "happen",
+      10,
+      "A2"
+    ],
+    [
+      "hi",
+      10,
+      "A2"
+    ],
+    [
+      "lesson",
+      10,
+      "A2"
+    ],
+    [
+      "meeting",
+      10,
+      "A2"
+    ],
+    [
+      "mistakes",
+      10,
+      "B1+"
+    ],
+    [
+      "past",
+      10,
+      "A2"
+    ],
+    [
+      "pounds",
+      10,
+      "A2"
+    ],
+    [
+      "strong",
+      10,
+      "A2"
+    ],
+    [
+      "team",
+      10,
+      "A2"
+    ],
+    [
+      "topic",
+      10,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "let's talk",
+      "count": 31,
+      "example": "Now let's talk about an important strategy, giving a range instead of a single number.",
+      "t": 161.78
+    },
+    {
+      "text": "salary negotiation",
+      "count": 23,
+      "example": "How to talk about salary negotiation and business English.",
+      "t": 51.92
+    },
+    {
+      "text": "many people",
+      "count": 17,
+      "example": "Many people feel nervous when talking about salary.",
+      "t": 58.24
+    },
+    {
+      "text": "higher salary",
+      "count": 15,
+      "example": "What should you say if you want a higher salary?",
+      "t": 193.94
+    },
+    {
+      "text": "mistake number",
+      "count": 15,
+      "example": "Mistake number one, not doing research.",
+      "t": 1076.29
+    },
+    {
+      "text": "role play",
+      "count": 13,
+      "example": "Let's do a role play.",
+      "t": 223.18
+    },
+    {
+      "text": "talk about salary",
+      "count": 12,
+      "example": "How to talk about salary negotiation and business English.",
+      "t": 51.92
+    },
+    {
+      "text": "salary expectations",
+      "count": 11,
+      "example": "Right. At some point, the interviewer may ask, what are your salary expectations?",
+      "t": 109.88
+    },
+    {
+      "text": "people feel",
+      "count": 10,
+      "example": "Many people feel nervous when talking about salary.",
+      "t": 58.24
+    },
+    {
+      "text": "i'm open",
+      "count": 10,
+      "example": "what's a good way to respond? You can say, I'm open to discussing salary based on the",
+      "t": 126.88
+    }
+  ],
+  "phrases": [
+    {
+      "text": "let's talk",
+      "count": 31,
+      "example": "Now let's talk about an important strategy, giving a range instead of a single number.",
+      "t": 161.78
+    },
+    {
+      "text": "salary negotiation",
+      "count": 23,
+      "example": "How to talk about salary negotiation and business English.",
+      "t": 51.92
+    },
+    {
+      "text": "many people",
+      "count": 17,
+      "example": "Many people feel nervous when talking about salary.",
+      "t": 58.24
+    },
+    {
+      "text": "higher salary",
+      "count": 15,
+      "example": "What should you say if you want a higher salary?",
+      "t": 193.94
+    },
+    {
+      "text": "mistake number",
+      "count": 15,
+      "example": "Mistake number one, not doing research.",
+      "t": 1076.29
+    },
+    {
+      "text": "role play",
+      "count": 13,
+      "example": "Let's do a role play.",
+      "t": 223.18
+    },
+    {
+      "text": "talk about salary",
+      "count": 12,
+      "example": "How to talk about salary negotiation and business English.",
+      "t": 51.92
+    },
+    {
+      "text": "salary expectations",
+      "count": 11,
+      "example": "Right. At some point, the interviewer may ask, what are your salary expectations?",
+      "t": 109.88
+    },
+    {
+      "text": "people feel",
+      "count": 10,
+      "example": "Many people feel nervous when talking about salary.",
+      "t": 58.24
+    },
+    {
+      "text": "i'm open",
+      "count": 10,
+      "example": "what's a good way to respond? You can say, I'm open to discussing salary based on the",
+      "t": 126.88
+    },
+    {
+      "text": "expecting something",
+      "count": 10,
+      "example": "I was expecting something closer to $60,000.",
+      "t": 238.86
+    },
+    {
+      "text": "past year",
+      "count": 10,
+      "example": "Over the past year, I've taken on additional responsibilities and contributed to several",
+      "t": 321.02
+    },
+    {
+      "text": "don't forget",
+      "count": 9,
+      "example": "If you enjoy this lesson, don't forget to give us a thumbs up and subscribe.",
+      "t": 34.72
+    },
+    {
+      "text": "many people feel",
+      "count": 9,
+      "example": "Many people feel nervous when talking about salary.",
+      "t": 58.24
+    },
+    {
+      "text": "i'm looking",
+      "count": 8,
+      "example": "Sure, based on my experience and industry standards, I'm looking for a salary in the",
+      "t": 149.82
+    },
+    {
+      "text": "say thank",
+      "count": 8,
+      "example": "You can say, thank you for the offer.",
+      "t": 203.38
+    },
+    {
+      "text": "i'm really excited",
+      "count": 8,
+      "example": "I'm really excited about this opportunity.",
+      "t": 205.5
+    },
+    {
+      "text": "year i've",
+      "count": 8,
+      "example": "Over the past year, I've taken on additional responsibilities and contributed to several",
+      "t": 321.02
+    },
+    {
+      "text": "i've taken",
+      "count": 8,
+      "example": "Over the past year, I've taken on additional responsibilities and contributed to several",
+      "t": 321.02
+    },
+    {
+      "text": "past year i've",
+      "count": 8,
+      "example": "Over the past year, I've taken on additional responsibilities and contributed to several",
+      "t": 321.02
+    },
+    {
+      "text": "that's a great",
+      "count": 8,
+      "example": "That's a great way to introduce the topic.",
+      "t": 348.3
+    },
+    {
+      "text": "remote work",
+      "count": 8,
+      "example": "flexible working hours, or remote work options.",
+      "t": 361.42
+    },
+    {
+      "text": "per year",
+      "count": 8,
+      "example": "to $60,000 per year.",
+      "t": 677.39
+    },
+    {
+      "text": "job offer",
+      "count": 8,
+      "example": "Now let's discuss negotiating during a job offer.",
+      "t": 983.75
+    },
+    {
+      "text": "us today",
+      "count": 7,
+      "example": "Hello, everyone. We're really happy to have you with us today.",
+      "t": 13.92
+    },
+    {
+      "text": "help you speak",
+      "count": 7,
+      "example": "And I'm Jack. On this channel, we help you speak clear, natural English with confidence in professional environments.",
+      "t": 27.12
+    },
+    {
+      "text": "we're going",
+      "count": 7,
+      "example": "That's right. So today, we're going to help you speak confidently, professionally, and clearly",
+      "t": 72.16
+    },
+    {
+      "text": "job interview",
+      "count": 7,
+      "example": "Let's start with the most common situation, a job interview.",
+      "t": 105.88
+    },
+    {
+      "text": "discuss additional",
+      "count": 7,
+      "example": "For example, if the salary is fixed, would it be possible to discuss additional benefits?",
+      "t": 365.78
+    },
+    {
+      "text": "additional benefits",
+      "count": 7,
+      "example": "For example, if the salary is fixed, would it be possible to discuss additional benefits?",
+      "t": 365.78
+    },
+    {
+      "text": "discuss the salary",
+      "count": 7,
+      "example": "I'd like to discuss the salary.",
+      "t": 441.9
+    },
+    {
+      "text": "let's practice",
+      "count": 7,
+      "example": "Let's practice that.",
+      "t": 693.15
+    },
+    {
+      "text": "open to discussion",
+      "count": 7,
+      "example": "However, I'm open to discussion depending on the benefits and responsibilities.",
+      "t": 706.83
+    },
+    {
+      "text": "hello everyone",
+      "count": 6,
+      "example": "Hello, everyone. We're really happy to have you with us today.",
+      "t": 13.92
+    },
+    {
+      "text": "we're really happy",
+      "count": 6,
+      "example": "Hello, everyone. We're really happy to have you with us today.",
+      "t": 13.92
+    },
+    {
+      "text": "hi everyone",
+      "count": 6,
+      "example": "Hi, everyone. Thanks for joining us.",
+      "t": 17.92
+    },
+    {
+      "text": "joining us",
+      "count": 6,
+      "example": "Hi, everyone. Thanks for joining us.",
+      "t": 17.92
+    },
+    {
+      "text": "thanks for joining",
+      "count": 6,
+      "example": "Hi, everyone. Thanks for joining us.",
+      "t": 17.92
+    },
+    {
+      "text": "improve your english",
+      "count": 6,
+      "example": "If you're here to improve your English for real business situations, you're absolutely in the right place.",
+      "t": 19.92
+    },
+    {
+      "text": "speak clear",
+      "count": 6,
+      "example": "And I'm Jack. On this channel, we help you speak clear, natural English with confidence in professional environments.",
+      "t": 27.12
+    },
+    {
+      "text": "clear natural",
+      "count": 6,
+      "example": "And I'm Jack. On this channel, we help you speak clear, natural English with confidence in professional environments.",
+      "t": 27.12
+    },
+    {
+      "text": "natural english",
+      "count": 6,
+      "example": "And I'm Jack. On this channel, we help you speak clear, natural English with confidence in professional environments.",
+      "t": 27.12
+    },
+    {
+      "text": "speak clear natural",
+      "count": 6,
+      "example": "And I'm Jack. On this channel, we help you speak clear, natural English with confidence in professional environments.",
+      "t": 27.12
+    },
+    {
+      "text": "clear natural english",
+      "count": 6,
+      "example": "And I'm Jack. On this channel, we help you speak clear, natural English with confidence in professional environments.",
+      "t": 27.12
+    },
+    {
+      "text": "english with confidence",
+      "count": 6,
+      "example": "And I'm Jack. On this channel, we help you speak clear, natural English with confidence in professional environments.",
+      "t": 27.12
+    },
+    {
+      "text": "helps us",
+      "count": 6,
+      "example": "Yes, your support really helps us create more practical lessons like this.",
+      "t": 39.28
+    },
+    {
+      "text": "talking about today",
+      "count": 6,
+      "example": "So, Jack, what are we talking about today?",
+      "t": 45.76
+    },
+    {
+      "text": "feel nervous",
+      "count": 6,
+      "example": "Many people feel nervous when talking about salary.",
+      "t": 58.24
+    },
+    {
+      "text": "people feel nervous",
+      "count": 6,
+      "example": "Many people feel nervous when talking about salary.",
+      "t": 58.24
+    },
+    {
+      "text": "open to discussing",
+      "count": 6,
+      "example": "what's a good way to respond? You can say, I'm open to discussing salary based on the",
+      "t": 126.88
+    },
+    {
+      "text": "another situation",
+      "count": 6,
+      "example": "Now, let's move to another situation when the company makes you an offer.",
+      "t": 178.66
+    },
+    {
+      "text": "something closer",
+      "count": 6,
+      "example": "I was hoping for something closer to $65,000",
+      "t": 209.62
+    },
+    {
+      "text": "say i'd",
+      "count": 6,
+      "example": "You can say, I'd like to discuss my compensation.",
+      "t": 311.1
+    },
+    {
+      "text": "year i've taken",
+      "count": 6,
+      "example": "Over the past year, I've taken on additional responsibilities and contributed to several",
+      "t": 321.02
+    },
+    {
+      "text": "possible to discuss",
+      "count": 6,
+      "example": "For example, if the salary is fixed, would it be possible to discuss additional benefits?",
+      "t": 365.78
+    },
+    {
+      "text": "common mistakes",
+      "count": 6,
+      "example": "Now let's talk about common mistakes.",
+      "t": 401.82
+    },
+    {
+      "text": "compensation package",
+      "count": 6,
+      "example": "Is there flexibility in the overall compensation package,",
+      "t": 460.26
+    },
+    {
+      "text": "sounds great",
+      "count": 6,
+      "example": "That sounds great.",
+      "t": 469.34
+    },
+    {
+      "text": "i'm excited",
+      "count": 6,
+      "example": "I'm excited.",
+      "t": 619.79
+    },
+    {
+      "text": "i'm jack",
+      "count": 5,
+      "example": "And I'm Jack. On this channel, we help you speak clear, natural English with confidence in professional environments.",
+      "t": 27.12
+    },
+    {
+      "text": "channel we help",
+      "count": 5,
+      "example": "And I'm Jack. On this channel, we help you speak clear, natural English with confidence in professional environments.",
+      "t": 27.12
+    },
+    {
+      "text": "give us",
+      "count": 5,
+      "example": "If you enjoy this lesson, don't forget to give us a thumbs up and subscribe.",
+      "t": 34.72
+    },
+    {
+      "text": "us a thumbs",
+      "count": 5,
+      "example": "If you enjoy this lesson, don't forget to give us a thumbs up and subscribe.",
+      "t": 34.72
+    },
+    {
+      "text": "say i'm",
+      "count": 5,
+      "example": "what's a good way to respond? You can say, I'm open to discussing salary based on the",
+      "t": 126.88
+    },
+    {
+      "text": "market rate",
+      "count": 5,
+      "example": "Based on my experience and the market rate, I'm expecting a salary in the range of...",
+      "t": 139.28
+    },
+    {
+      "text": "i'm expecting",
+      "count": 5,
+      "example": "Based on my experience and the market rate, I'm expecting a salary in the range of...",
+      "t": 139.28
+    },
+    {
+      "text": "expecting a salary",
+      "count": 5,
+      "example": "Based on my experience and the market rate, I'm expecting a salary in the range of...",
+      "t": 139.28
+    },
+    {
+      "text": "i'm very interested",
+      "count": 5,
+      "example": "I'm very interested in the role.",
+      "t": 233.5
+    },
+    {
+      "text": "experience and skills",
+      "count": 5,
+      "example": "However, based on my experience and skills,",
+      "t": 235.62
+    },
+    {
+      "text": "expecting something closer",
+      "count": 5,
+      "example": "I was expecting something closer to $60,000.",
+      "t": 238.86
+    },
+    {
+      "text": "current job",
+      "count": 5,
+      "example": "Now let's talk about another situation, negotiating your salary in your current job.",
+      "t": 295.64
+    },
+    {
+      "text": "talk about another",
+      "count": 5,
+      "example": "Now let's talk about another situation, negotiating your salary in your current job.",
+      "t": 295.64
+    },
+    {
+      "text": "additional responsibilities",
+      "count": 5,
+      "example": "Over the past year, I've taken on additional responsibilities and contributed to several",
+      "t": 321.02
+    },
+    {
+      "text": "vacation days",
+      "count": 5,
+      "example": "You can also discuss bonuses, vacation days,",
+      "t": 357.78
+    },
+    {
+      "text": "flexible working",
+      "count": 5,
+      "example": "flexible working hours, or remote work options.",
+      "t": 361.42
+    },
+    {
+      "text": "discuss additional benefits",
+      "count": 5,
+      "example": "For example, if the salary is fixed, would it be possible to discuss additional benefits?",
+      "t": 365.78
+    },
+    {
+      "text": "experience i'm",
+      "count": 5,
+      "example": "Try saying, based on my experience, I'm expecting...",
+      "t": 523.98
+    },
+    {
+      "text": "saying i want",
+      "count": 5,
+      "example": "Okay, so we avoid saying, I want more money. That sounds rude.",
+      "t": 745.57
+    },
+    {
+      "text": "want more money",
+      "count": 5,
+      "example": "Okay, so we avoid saying, I want more money. That sounds rude.",
+      "t": 745.57
+    },
+    {
+      "text": "additional vacation",
+      "count": 5,
+      "example": "Could we discuss other options such as additional vacation days, flexible work hours, or a",
+      "t": 851.97
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen, practice, speak. Practice makes you perfect."
+    },
+    {
+      "t": 13.92,
+      "text": "Hello, everyone. We're really happy to have you with us today."
+    },
+    {
+      "t": 17.92,
+      "text": "Hi, everyone. Thanks for joining us."
+    },
+    {
+      "t": 19.92,
+      "text": "If you're here to improve your English for real business situations, you're absolutely in the right place."
+    },
+    {
+      "t": 25.92,
+      "text": "I'm Emily."
+    },
+    {
+      "t": 27.12,
+      "text": "And I'm Jack. On this channel, we help you speak clear, natural English with confidence in professional environments."
+    },
+    {
+      "t": 34.72,
+      "text": "If you enjoy this lesson, don't forget to give us a thumbs up and subscribe."
+    },
+    {
+      "t": 39.28,
+      "text": "Yes, your support really helps us create more practical lessons like this."
+    },
+    {
+      "t": 43.68,
+      "text": "Thank you so much for being here."
+    },
+    {
+      "t": 45.76,
+      "text": "So, Jack, what are we talking about today?"
+    },
+    {
+      "t": 48.48,
+      "text": "Today we have a very important and practical topic."
+    },
+    {
+      "t": 51.92,
+      "text": "How to talk about salary negotiation and business English."
+    },
+    {
+      "t": 55.92,
+      "text": "That is such an important skill."
+    },
+    {
+      "t": 58.24,
+      "text": "Many people feel nervous when talking about salary."
+    },
+    {
+      "t": 61.28,
+      "text": "Exactly. Even confident professionals sometimes struggle when it comes to discussing money."
+    },
+    {
+      "t": 66.4,
+      "text": "And if you don't communicate clearly during salary discussions, you might miss opportunities."
+    },
+    {
+      "t": 72.16,
+      "text": "That's right. So today, we're going to help you speak confidently, professionally, and clearly"
+    },
+    {
+      "t": 77.52,
+      "text": "when negotiating your salary. And we're going to keep everything very practical."
+    },
+    {
+      "t": 82.96,
+      "text": "Yes. Real phrases, real examples, and real conversations."
+    },
+    {
+      "t": 86.88,
+      "text": "OK. Let's start with a simple question. When does salary negotiation usually happen?"
+    },
+    {
+      "t": 93.88,
+      "text": "Good question. It usually happens during job interviews, job offers, promotions, or performance reviews."
+    },
+    {
+      "t": 100.88,
+      "text": "Exactly. And each situation requires slightly different language."
+    },
+    {
+      "t": 105.88,
+      "text": "Let's start with the most common situation, a job interview."
+    },
+    {
+      "t": 109.88,
+      "text": "Right. At some point, the interviewer may ask, what are your salary expectations?"
+    },
+    {
+      "t": 114.88,
+      "text": "patients. This is a very important question. Many people don't know how to answer it. Yes,"
+    },
+    {
+      "t": 121.26,
+      "text": "and some people make mistakes like giving a number too quickly or sounding unsure. So"
+    },
+    {
+      "t": 126.88,
+      "text": "what's a good way to respond? You can say, I'm open to discussing salary based on the"
+    },
+    {
+      "t": 132.64,
+      "text": "role and responsibilities. That's a very professional answer. Another option is,"
+    },
+    {
+      "t": 139.28,
+      "text": "Based on my experience and the market rate, I'm expecting a salary in the range of..."
+    },
+    {
+      "t": 145.02,
+      "text": "That shows preparation and confidence."
+    },
+    {
+      "t": 147.98,
+      "text": "Let's give a full example."
+    },
+    {
+      "t": 149.82,
+      "text": "Sure, based on my experience and industry standards, I'm looking for a salary in the"
+    },
+    {
+      "t": 155.02,
+      "text": "range of $60,000 to $70,000."
+    },
+    {
+      "t": 158.74,
+      "text": "That's clear, realistic, and professional."
+    },
+    {
+      "t": 161.78,
+      "text": "Now let's talk about an important strategy, giving a range instead of a single number."
+    },
+    {
+      "t": 166.9,
+      "text": "Yes, this gives flexibility and shows that you're open to negotiation."
+    },
+    {
+      "t": 171.94,
+      "text": "Exactly. If you give one number, you limit the conversation."
+    },
+    {
+      "t": 175.54,
+      "text": "But a range keeps the discussion open."
+    },
+    {
+      "t": 178.66,
+      "text": "Now, let's move to another situation when the company makes you an offer."
+    },
+    {
+      "t": 183.38,
+      "text": "Yes, this is where negotiation really begins."
+    },
+    {
+      "t": 187.3,
+      "text": "Imagine the employer says, we'd like to offer you this position with a salary of $55,000."
+    },
+    {
+      "t": 193.94,
+      "text": "What should you say if you want a higher salary?"
+    },
+    {
+      "t": 197.18,
+      "text": "First, don't say no immediately."
+    },
+    {
+      "t": 200.02,
+      "text": "Yes, always show appreciation first."
+    },
+    {
+      "t": 203.38,
+      "text": "You can say, thank you for the offer."
+    },
+    {
+      "t": 205.5,
+      "text": "I'm really excited about this opportunity."
+    },
+    {
+      "t": 208.02,
+      "text": "Then you can continue."
+    },
+    {
+      "t": 209.62,
+      "text": "I was hoping for something closer to $65,000"
+    },
+    {
+      "t": 213.34,
+      "text": "based on my experience."
+    },
+    {
+      "t": 214.98,
+      "text": "Is there any flexibility?"
+    },
+    {
+      "t": 216.9,
+      "text": "That's polite and confident."
+    },
+    {
+      "t": 219.14,
+      "text": "Exactly, you're not rejecting, you're negotiating."
+    },
+    {
+      "t": 223.18,
+      "text": "Let's do a role play."
+    },
+    {
+      "t": 224.82,
+      "text": "Great idea."
+    },
+    {
+      "t": 225.98,
+      "text": "We'd like to offer you the position"
+    },
+    {
+      "t": 227.78,
+      "text": "with a salary of $50,000."
+    },
+    {
+      "t": 230.42,
+      "text": "Thank you for the offer."
+    },
+    {
+      "t": 231.94,
+      "text": "I really appreciate it."
+    },
+    {
+      "t": 233.5,
+      "text": "I'm very interested in the role."
+    },
+    {
+      "t": 235.62,
+      "text": "However, based on my experience and skills,"
+    },
+    {
+      "t": 238.86,
+      "text": "I was expecting something closer to $60,000."
+    },
+    {
+      "t": 242.46,
+      "text": "Is there any flexibility?"
+    },
+    {
+      "t": 244.18,
+      "text": "That's excellent."
+    },
+    {
+      "t": 245.14,
+      "text": "Very professional and respectful."
+    },
+    {
+      "t": 247.42,
+      "text": "Notice the structure, appreciation, expectation,"
+    },
+    {
+      "t": 251.5,
+      "text": "and question."
+    },
+    {
+      "t": 252.86,
+      "text": "Yes, that's a powerful formula."
+    },
+    {
+      "t": 255.36,
+      "text": "Now let's talk about justifying your salary request."
+    },
+    {
+      "t": 259.16,
+      "text": "This is very important."
+    },
+    {
+      "t": 260.84,
+      "text": "You need to explain why you deserve a higher salary."
+    },
+    {
+      "t": 264.4,
+      "text": "You can mention your experience."
+    },
+    {
+      "t": 266.56,
+      "text": "For example, I have over five years"
+    },
+    {
+      "t": 269.12,
+      "text": "of experience in this field."
+    },
+    {
+      "t": 271.04,
+      "text": "You can mention your skills."
+    },
+    {
+      "t": 272.92,
+      "text": "I have strong skills in project management"
+    },
+    {
+      "t": 275.56,
+      "text": "and team leadership."
+    },
+    {
+      "t": 277.16,
+      "text": "And you can mention achievements."
+    },
+    {
+      "t": 279.68,
+      "text": "In my previous role,"
+    },
+    {
+      "t": 280.88,
+      "text": "I increased sales by 30 percent."
+    },
+    {
+      "t": 284.1,
+      "text": "Let's combine everything."
+    },
+    {
+      "t": 286.32,
+      "text": "Based on my experience, my skill set, and my previous results, I believe a higher salary"
+    },
+    {
+      "t": 291.8,
+      "text": "would be appropriate."
+    },
+    {
+      "t": 293.6,
+      "text": "That sounds very convincing."
+    },
+    {
+      "t": 295.64,
+      "text": "Now let's talk about another situation, negotiating your salary in your current job."
+    },
+    {
+      "t": 301.24,
+      "text": "Yes, for example, during a performance review."
+    },
+    {
+      "t": 304.84,
+      "text": "Your manager might ask, do you have any questions or requests?"
+    },
+    {
+      "t": 309.22,
+      "text": "This is your opportunity."
+    },
+    {
+      "t": 311.1,
+      "text": "You can say, I'd like to discuss my compensation."
+    },
+    {
+      "t": 314.78,
+      "text": "Or I'd like to talk about a possible salary adjustment."
+    },
+    {
+      "t": 318.78,
+      "text": "Then explain your reasons."
+    },
+    {
+      "t": 321.02,
+      "text": "Over the past year, I've taken on additional responsibilities and contributed to several"
+    },
+    {
+      "t": 326.22,
+      "text": "successful projects."
+    },
+    {
+      "t": 328.22,
+      "text": "That's a strong argument."
+    },
+    {
+      "t": 329.86,
+      "text": "Yes, always focus on value."
+    },
+    {
+      "t": 333.22,
+      "text": "Let's do another role play."
+    },
+    {
+      "t": 334.94,
+      "text": "Okay."
+    },
+    {
+      "t": 335.94,
+      "text": "So, how do you feel about your current role?"
+    },
+    {
+      "t": 338.34,
+      "text": "I'm very happy with my role and the team."
+    },
+    {
+      "t": 340.98,
+      "text": "I've learned a lot."
+    },
+    {
+      "t": 342.3,
+      "text": "I'd also like to discuss my compensation"
+    },
+    {
+      "t": 344.86,
+      "text": "as I've taken on more responsibilities over the past year."
+    },
+    {
+      "t": 348.3,
+      "text": "That's a great way to introduce the topic."
+    },
+    {
+      "t": 350.98,
+      "text": "Now let's talk about negotiating benefits."
+    },
+    {
+      "t": 354.22,
+      "text": "Yes, salary is not the only thing you can negotiate."
+    },
+    {
+      "t": 357.78,
+      "text": "You can also discuss bonuses, vacation days,"
+    },
+    {
+      "t": 361.42,
+      "text": "flexible working hours, or remote work options."
+    },
+    {
+      "t": 364.66,
+      "text": "Exactly."
+    },
+    {
+      "t": 365.78,
+      "text": "For example, if the salary is fixed, would it be possible to discuss additional benefits?"
+    },
+    {
+      "t": 371.86,
+      "text": "Or would there be flexibility in terms of remote work?"
+    },
+    {
+      "t": 375.7,
+      "text": "That shows you're flexible and solution-oriented."
+    },
+    {
+      "t": 379.06,
+      "text": "Now let's talk about confidence."
+    },
+    {
+      "t": 381.46,
+      "text": "Yes, this is key."
+    },
+    {
+      "t": 383.46,
+      "text": "Even if your English is not perfect, speak clearly and calmly."
+    },
+    {
+      "t": 388.02,
+      "text": "Avoid sounding unsure."
+    },
+    {
+      "t": 390.34,
+      "text": "For example, don't say, maybe, I think, if possible, too much."
+    },
+    {
+      "t": 395.78,
+      "text": "Instead, say, I believe or I would expect."
+    },
+    {
+      "t": 400.26,
+      "text": "That sounds stronger."
+    },
+    {
+      "t": 401.82,
+      "text": "Now let's talk about common mistakes."
+    },
+    {
+      "t": 404.42,
+      "text": "Yes, this is very important."
+    },
+    {
+      "t": 407.22,
+      "text": "Mistake one is accepting the first offer immediately."
+    },
+    {
+      "t": 411.22,
+      "text": "Always take time to think."
+    },
+    {
+      "t": 413.5,
+      "text": "Mistake two is being too aggressive."
+    },
+    {
+      "t": 416.06,
+      "text": "Yes, negotiation is not a fight."
+    },
+    {
+      "t": 418.74,
+      "text": "It's a conversation."
+    },
+    {
+      "t": 420.5,
+      "text": "Mistake three is not doing research."
+    },
+    {
+      "t": 423.3,
+      "text": "You should know the market salary for your role."
+    },
+    {
+      "t": 426.46,
+      "text": "Mistake 4 is focusing only on money."
+    },
+    {
+      "t": 429.34,
+      "text": "Remember, benefits also matter."
+    },
+    {
+      "t": 431.98,
+      "text": "Now let's do a longer real-life conversation."
+    },
+    {
+      "t": 435.38,
+      "text": "Great."
+    },
+    {
+      "t": 436.38,
+      "text": "Thank you for the offer."
+    },
+    {
+      "t": 437.38,
+      "text": "I'm very excited about this opportunity."
+    },
+    {
+      "t": 440.1,
+      "text": "We're happy to have you on board."
+    },
+    {
+      "t": 441.9,
+      "text": "I'd like to discuss the salary."
+    },
+    {
+      "t": 444.34,
+      "text": "Based on my experience and the responsibilities of the role, I was expecting something"
+    },
+    {
+      "t": 448.7,
+      "text": "slightly higher."
+    },
+    {
+      "t": 450.5,
+      "text": "What range are you considering?"
+    },
+    {
+      "t": 452.18,
+      "text": "I was thinking of a range between $70,000 and $80,000."
+    },
+    {
+      "t": 456.88,
+      "text": "That's a bit above our budget."
+    },
+    {
+      "t": 459.04,
+      "text": "I understand."
+    },
+    {
+      "t": 460.26,
+      "text": "Is there flexibility in the overall compensation package,"
+    },
+    {
+      "t": 464.06,
+      "text": "such as bonuses or additional benefits?"
+    },
+    {
+      "t": 466.78,
+      "text": "We can discuss a performance bonus."
+    },
+    {
+      "t": 469.34,
+      "text": "That sounds great."
+    },
+    {
+      "t": 470.54,
+      "text": "I'd be happy to consider that."
+    },
+    {
+      "t": 472.34,
+      "text": "That's an excellent example of negotiation."
+    },
+    {
+      "t": 475.22,
+      "text": "Yes, it's respectful, flexible, and professional."
+    },
+    {
+      "t": 479.38,
+      "text": "Now, let's talk about ending the negotiation."
+    },
+    {
+      "t": 482.42,
+      "text": "Yes, always end positively."
+    },
+    {
+      "t": 485.62,
+      "text": "You can say, thank you for taking the time to discuss this."
+    },
+    {
+      "t": 489.06,
+      "text": "Or, I appreciate your consideration."
+    },
+    {
+      "t": 492.02,
+      "text": "This leaves a good impression."
+    },
+    {
+      "t": 493.98,
+      "text": "Now, let's summarize."
+    },
+    {
+      "t": 496.02,
+      "text": "First, be prepared and know your value."
+    },
+    {
+      "t": 498.82,
+      "text": "Second, use clear and professional language."
+    },
+    {
+      "t": 502.22,
+      "text": "Third, be confident but polite."
+    },
+    {
+      "t": 504.9,
+      "text": "Fourth, be open to negotiation and alternatives."
+    },
+    {
+      "t": 508.98,
+      "text": "And remember, negotiation is normal."
+    },
+    {
+      "t": 511.94,
+      "text": "Yes, it's expected in many professional situations."
+    },
+    {
+      "t": 515.94,
+      "text": "So don't be afraid to speak up."
+    },
+    {
+      "t": 518.5,
+      "text": "Your skills and experience have value."
+    },
+    {
+      "t": 521.66,
+      "text": "Now it's your turn to practice."
+    },
+    {
+      "t": 523.98,
+      "text": "Try saying, based on my experience, I'm expecting..."
+    },
+    {
+      "t": 528.46,
+      "text": "Try it until it feels natural."
+    },
+    {
+      "t": 530.66,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 532.94,
+      "text": "We hope this helps you feel more confident"
+    },
+    {
+      "t": 535.26,
+      "text": "in salary negotiations."
+    },
+    {
+      "t": 537.26,
+      "text": "Don't forget to like and subscribe."
+    },
+    {
+      "t": 539.86,
+      "text": "And we'll see you in the next lesson."
+    },
+    {
+      "t": 542.06,
+      "text": "Bye, everyone."
+    },
+    {
+      "t": 545.63,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 546.83,
+      "text": "We're really happy to have you with us today."
+    },
+    {
+      "t": 549.19,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 550.19,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 551.47,
+      "text": "If you're here to improve your English and get better at professional conversations,"
+    },
+    {
+      "t": 555.87,
+      "text": "you're in the right place."
+    },
+    {
+      "t": 556.99,
+      "text": "I'm Emily."
+    },
+    {
+      "t": 558.15,
+      "text": "And I'm Jack."
+    },
+    {
+      "t": 559.31,
+      "text": "On this channel, we help you speak clear, natural English with confidence in real-life"
+    },
+    {
+      "t": 564.03,
+      "text": "situations."
+    },
+    {
+      "t": 565.23,
+      "text": "If you enjoyed this video, please give us a thumbs up and don't forget to subscribe."
+    },
+    {
+      "t": 569.47,
+      "text": "Yes, your support helps us so much."
+    },
+    {
+      "t": 572.35,
+      "text": "Thank you for being here."
+    },
+    {
+      "t": 573.75,
+      "text": "So Emily, what are we talking about today?"
+    },
+    {
+      "t": 576.31,
+      "text": "Today we have a very practical and important topic."
+    },
+    {
+      "t": 579.55,
+      "text": "We're going to learn how to talk about salary negotiation in English."
+    },
+    {
+      "t": 583.79,
+      "text": "Ah, salary negotiation."
+    },
+    {
+      "t": 586.39,
+      "text": "That's something many people feel nervous about, but it's so important if you want"
+    },
+    {
+      "t": 590.31,
+      "text": "to earn what you deserve."
+    },
+    {
+      "t": 592.19,
+      "text": "Exactly, Jack."
+    },
+    {
+      "t": 593.51,
+      "text": "Whether it's your first job, a promotion, or a new role, knowing how to discuss your"
+    },
+    {
+      "t": 597.91,
+      "text": "salary professionally is key."
+    },
+    {
+      "t": 600.65,
+      "text": "And today, we're going to make it super easy and practical."
+    },
+    {
+      "t": 603.99,
+      "text": "We'll cover useful phrases, common mistakes, and even do some practice together."
+    },
+    {
+      "t": 608.87,
+      "text": "Sounds perfect."
+    },
+    {
+      "t": 609.87,
+      "text": "So Emily, before we start, how are you feeling today?"
+    },
+    {
+      "t": 613.11,
+      "text": "I'm feeling great, actually."
+    },
+    {
+      "t": 614.67,
+      "text": "I reviewed some salary reports this morning, so it's fresh in my mind."
+    },
+    {
+      "t": 618.79,
+      "text": "How about you?"
+    },
+    {
+      "t": 619.79,
+      "text": "I'm excited."
+    },
+    {
+      "t": 620.79,
+      "text": "I think our viewers will find this lesson really useful."
+    },
+    {
+      "t": 623.39,
+      "text": "I think so too."
+    },
+    {
+      "t": 624.67,
+      "text": "Okay, everyone, let's get started."
+    },
+    {
+      "t": 626.55,
+      "text": "All right."
+    },
+    {
+      "t": 627.39,
+      "text": "First, let's talk about the most common question"
+    },
+    {
+      "t": 630.35,
+      "text": "when it comes to salaries."
+    },
+    {
+      "t": 632.19,
+      "text": "Emily, if you're offered a job,"
+    },
+    {
+      "t": 634.07,
+      "text": "how do you start a salary conversation?"
+    },
+    {
+      "t": 636.59,
+      "text": "Good question."
+    },
+    {
+      "t": 637.63,
+      "text": "A common and polite way to start is by asking,"
+    },
+    {
+      "t": 640.39,
+      "text": "can we discuss the salary"
+    },
+    {
+      "t": 642.03,
+      "text": "or I'd like to talk about the compensation package?"
+    },
+    {
+      "t": 645.31,
+      "text": "That sounds simple and professional."
+    },
+    {
+      "t": 647.55,
+      "text": "Can we also say what's the salary for this position?"
+    },
+    {
+      "t": 650.91,
+      "text": "Yes, you can, but it sounds more direct."
+    },
+    {
+      "t": 653.87,
+      "text": "It's okay in some situations, but usually people start with a polite preface like,"
+    },
+    {
+      "t": 658.67,
+      "text": "I'm very interested in the role."
+    },
+    {
+      "t": 660.71,
+      "text": "Could we discuss the salary?"
+    },
+    {
+      "t": 662.27,
+      "text": "Got it."
+    },
+    {
+      "t": 663.27,
+      "text": "So starting politely is always better."
+    },
+    {
+      "t": 665.79,
+      "text": "And how do we respond if the employer asks about your salary expectations?"
+    },
+    {
+      "t": 670.15,
+      "text": "There are a few ways to answer this."
+    },
+    {
+      "t": 672.27,
+      "text": "You can give a range, for example, based on my experience I'm looking for $50,000"
+    },
+    {
+      "t": 677.39,
+      "text": "to $60,000 per year."
+    },
+    {
+      "t": 679.87,
+      "text": "Or you can say, I'm flexible, but based on my research, I believe a fair salary for"
+    },
+    {
+      "t": 684.41,
+      "text": "this role is around $55,000."
+    },
+    {
+      "t": 687.23,
+      "text": "Ah, so we give numbers but also sound flexible and professional."
+    },
+    {
+      "t": 692.15,
+      "text": "Exactly."
+    },
+    {
+      "t": 693.15,
+      "text": "Let's practice that."
+    },
+    {
+      "t": 694.15,
+      "text": "Jack, imagine you're asked about your salary expectations."
+    },
+    {
+      "t": 697.79,
+      "text": "Okay."
+    },
+    {
+      "t": 698.79,
+      "text": "I'd say, based on my experience and skills, I'm looking for a salary between $70,000"
+    },
+    {
+      "t": 704.91,
+      "text": "and $80,000 per year."
+    },
+    {
+      "t": 706.83,
+      "text": "However, I'm open to discussion depending on the benefits and responsibilities."
+    },
+    {
+      "t": 711.55,
+      "text": "Beautiful answer. Very professional and confident."
+    },
+    {
+      "t": 714.99,
+      "text": "Thank you. And what if the employer offers a number lower than your expectation?"
+    },
+    {
+      "t": 719.87,
+      "text": "That's when negotiation skills come in. You can politely respond,"
+    },
+    {
+      "t": 724.19,
+      "text": "thank you for the offer. Based on my research and experience,"
+    },
+    {
+      "t": 727.55,
+      "text": "I was expecting a salary closer to $75,000. Is there room to adjust?"
+    },
+    {
+      "t": 733.07,
+      "text": "That's perfect. We're polite, but we also state our value."
+    },
+    {
+      "t": 737.07,
+      "text": "Exactly. Remember, the key words are,"
+    },
+    {
+      "t": 740.07,
+      "text": "based on my experience, I was expecting, and is there room to adjust?"
+    },
+    {
+      "t": 745.57,
+      "text": "Okay, so we avoid saying, I want more money. That sounds rude."
+    },
+    {
+      "t": 749.77,
+      "text": "Yes. Always frame it professionally."
+    },
+    {
+      "t": 752.27,
+      "text": "So let's give more practical examples."
+    },
+    {
+      "t": 755.17,
+      "text": "Imagine someone is negotiating their first job after university."
+    },
+    {
+      "t": 759.27,
+      "text": "Sure. You could say,"
+    },
+    {
+      "t": 760.77,
+      "text": "Thank you for the offer. I'm very excited about the role. I did some research and noticed that"
+    },
+    {
+      "t": 765.73,
+      "text": "similar positions in this city pay around 50,000 to 55,000 dollars. Would it be possible to consider"
+    },
+    {
+      "t": 772.13,
+      "text": "something in that range? That sounds very polite and confident. We're showing that we did our"
+    },
+    {
+      "t": 777.09,
+      "text": "research. Exactly. Salary negotiation is not just about asking for more. It's about showing"
+    },
+    {
+      "t": 783.09,
+      "text": "that you know your worth and have done your homework. So research is important. How do"
+    },
+    {
+      "t": 788.21,
+      "text": "How do you research salaries?"
+    },
+    {
+      "t": 789.97,
+      "text": "There are websites like Glassdoor, LinkedIn, and PayScale."
+    },
+    {
+      "t": 794.27,
+      "text": "Also talking to peers in the same industry can give you an idea."
+    },
+    {
+      "t": 797.93,
+      "text": "You want to know the average for your role, your experience, and your location."
+    },
+    {
+      "t": 802.29,
+      "text": "Okay, that makes sense."
+    },
+    {
+      "t": 803.65,
+      "text": "Emily, what about negotiating a raise for a current job?"
+    },
+    {
+      "t": 807.49,
+      "text": "Ah, this is very common."
+    },
+    {
+      "t": 809.49,
+      "text": "First, you need to prepare."
+    },
+    {
+      "t": 811.57,
+      "text": "List your accomplishments, extra responsibilities, and any results you delivered."
+    },
+    {
+      "t": 816.61,
+      "text": "Then you can ask, I'd like to discuss my current compensation."
+    },
+    {
+      "t": 820.21,
+      "text": "Over the past year, I've taken on additional responsibilities and contributed to several"
+    },
+    {
+      "t": 824.89,
+      "text": "successful projects."
+    },
+    {
+      "t": 826.65,
+      "text": "I'd like to explore adjusting my salary accordingly."
+    },
+    {
+      "t": 830.01,
+      "text": "That's so professional."
+    },
+    {
+      "t": 831.33,
+      "text": "We focus on our achievements, not our personal needs."
+    },
+    {
+      "t": 834.89,
+      "text": "Exactly."
+    },
+    {
+      "t": 836.05,
+      "text": "Avoid saying, I need more money because of expenses."
+    },
+    {
+      "t": 839.19,
+      "text": "That doesn't sound professional."
+    },
+    {
+      "t": 840.97,
+      "text": "Focus on your value to the company."
+    },
+    {
+      "t": 843.09,
+      "text": "Got it."
+    },
+    {
+      "t": 844.09,
+      "text": "If the manager says we don't have budget for a raise right now, then you can ask about"
+    },
+    {
+      "t": 848.39,
+      "text": "alternative benefits."
+    },
+    {
+      "t": 849.93,
+      "text": "For example, I understand."
+    },
+    {
+      "t": 851.97,
+      "text": "Could we discuss other options such as additional vacation days, flexible work hours, or a"
+    },
+    {
+      "t": 857.45,
+      "text": "performance-based bonus?"
+    },
+    {
+      "t": 859.49,
+      "text": "So negotiation isn't just about the salary."
+    },
+    {
+      "t": 862.53,
+      "text": "Correct."
+    },
+    {
+      "t": 863.53,
+      "text": "Many benefits can add value."
+    },
+    {
+      "t": 865.37,
+      "text": "Let's practice a role play."
+    },
+    {
+      "t": 867.21,
+      "text": "Imagine I'm the employee asking for a raise and you're my manager."
+    },
+    {
+      "t": 871.09,
+      "text": "Perfect."
+    },
+    {
+      "t": 872.09,
+      "text": "Go ahead, Jack."
+    },
+    {
+      "t": 873.09,
+      "text": "Emily, thanks for meeting with me today."
+    },
+    {
+      "t": 875.47,
+      "text": "I wanted to discuss my current compensation."
+    },
+    {
+      "t": 878.61,
+      "text": "Over the past year, I've successfully led two major projects and helped increase our"
+    },
+    {
+      "t": 883.21,
+      "text": "team's revenue by 20%."
+    },
+    {
+      "t": 885.87,
+      "text": "Based on my performance, I'd like to explore adjusting my salary."
+    },
+    {
+      "t": 889.93,
+      "text": "Thank you, Jack."
+    },
+    {
+      "t": 890.93,
+      "text": "I appreciate your contributions."
+    },
+    {
+      "t": 892.77,
+      "text": "Currently, our budget is tight, but we can consider a 5% increase."
+    },
+    {
+      "t": 897.69,
+      "text": "Would that work for you?"
+    },
+    {
+      "t": 898.85,
+      "text": "I really appreciate the offer, Emily."
+    },
+    {
+      "t": 901.69,
+      "text": "Based on my research and the impact of my work, I was hoping for a 10% increase."
+    },
+    {
+      "t": 907.27,
+      "text": "Is there flexibility to meet halfway?"
+    },
+    {
+      "t": 909.95,
+      "text": "Perhaps 7% to 8%?"
+    },
+    {
+      "t": 912.83,
+      "text": "Let me check the budget and get back to you."
+    },
+    {
+      "t": 914.95,
+      "text": "I like your approach."
+    },
+    {
+      "t": 916.45,
+      "text": "You stayed professional and presented facts."
+    },
+    {
+      "t": 919.13,
+      "text": "Thank you, Emily."
+    },
+    {
+      "t": 920.13,
+      "text": "I wanted to ensure a fair discussion."
+    },
+    {
+      "t": 922.51,
+      "text": "Great example for everyone watching."
+    },
+    {
+      "t": 924.87,
+      "text": "Always focus on accomplishments, be specific, and remain professional."
+    },
+    {
+      "t": 928.83,
+      "text": "Now, let's talk about tricky language."
+    },
+    {
+      "t": 932.23,
+      "text": "Sometimes people get nervous and say things like,"
+    },
+    {
+      "t": 934.59,
+      "text": "I want a bigger salary or I need more money."
+    },
+    {
+      "t": 937.95,
+      "text": "Right."
+    },
+    {
+      "t": 938.95,
+      "text": "That sounds casual and can be interpreted as demanding."
+    },
+    {
+      "t": 941.99,
+      "text": "Instead, use phrases like,"
+    },
+    {
+      "t": 943.87,
+      "text": "I'd like to discuss an adjustment to my compensation"
+    },
+    {
+      "t": 946.87,
+      "text": "or, based on my responsibilities,"
+    },
+    {
+      "t": 949.11,
+      "text": "I believe my salary should reflect my contribution."
+    },
+    {
+      "t": 952.31,
+      "text": "Yes."
+    },
+    {
+      "t": 953.31,
+      "text": "Tone and wording are very important."
+    },
+    {
+      "t": 955.51,
+      "text": "Absolutely."
+    },
+    {
+      "t": 956.83,
+      "text": "Another useful phrase is, I'd like to explore the possibility of a salary adjustment, or"
+    },
+    {
+      "t": 962.11,
+      "text": "I'd like to review my compensation based on my performance."
+    },
+    {
+      "t": 965.75,
+      "text": "Okay, and what about responding if the employer says, we can't meet that number?"
+    },
+    {
+      "t": 970.99,
+      "text": "You can respond politely, for example, I understand the constraints."
+    },
+    {
+      "t": 975.13,
+      "text": "Could we discuss performance goals that would allow a salary increase in the near future?"
+    },
+    {
+      "t": 980.03,
+      "text": "That's smart."
+    },
+    {
+      "t": 981.03,
+      "text": "It shows we're flexible but still proactive."
+    },
+    {
+      "t": 983.75,
+      "text": "Now let's discuss negotiating during a job offer."
+    },
+    {
+      "t": 987.31,
+      "text": "Sometimes companies give an initial offer lower than expected."
+    },
+    {
+      "t": 990.43,
+      "text": "Yes, and many people just accept it."
+    },
+    {
+      "t": 993.27,
+      "text": "That's a mistake."
+    },
+    {
+      "t": 994.43,
+      "text": "Exactly."
+    },
+    {
+      "t": 995.51,
+      "text": "You can say, thank you for the offer."
+    },
+    {
+      "t": 997.39,
+      "text": "I'm excited about the role."
+    },
+    {
+      "t": 998.95,
+      "text": "I noticed the offer is $55,000 per year."
+    },
+    {
+      "t": 1002.77,
+      "text": "Based on my experience in market research, I was hoping for $65,000."
+    },
+    {
+      "t": 1007.81,
+      "text": "Is there any flexibility in the offer?"
+    },
+    {
+      "t": 1010.37,
+      "text": "And if they say yes, great."
+    },
+    {
+      "t": 1012.45,
+      "text": "If not, you can consider negotiating benefits, right?"
+    },
+    {
+      "t": 1015.73,
+      "text": "Yes."
+    },
+    {
+      "t": 1016.73,
+      "text": "Benefits like remote work, extra vacation, flexible hours, or training opportunities are"
+    },
+    {
+      "t": 1021.97,
+      "text": "all part of the total package."
+    },
+    {
+      "t": 1024.21,
+      "text": "Let's practice a job offer negotiation."
+    },
+    {
+      "t": 1026.73,
+      "text": "I'll be the candidate and you'll be the HR manager."
+    },
+    {
+      "t": 1029.81,
+      "text": "Okay."
+    },
+    {
+      "t": 1030.81,
+      "text": "Go ahead, Jack."
+    },
+    {
+      "t": 1031.81,
+      "text": "Thank you for the offer, Emily."
+    },
+    {
+      "t": 1033.17,
+      "text": "I'm really excited to join the team."
+    },
+    {
+      "t": 1035.33,
+      "text": "I noticed the offer is $55,000 per year."
+    },
+    {
+      "t": 1039.41,
+      "text": "Based on my experience and market research, I was hoping for $65,000."
+    },
+    {
+      "t": 1044.65,
+      "text": "Is there any flexibility in the offer?"
+    },
+    {
+      "t": 1046.97,
+      "text": "We appreciate your enthusiasm, Jack."
+    },
+    {
+      "t": 1049.41,
+      "text": "We can offer $60,000 and we provide extra benefits including remote work and health insurance."
+    },
+    {
+      "t": 1055.81,
+      "text": "Would that work for you?"
+    },
+    {
+      "t": 1057.17,
+      "text": "That sounds great, Emily."
+    },
+    {
+      "t": 1058.29,
+      "text": "I appreciate your flexibility."
+    },
+    {
+      "t": 1060.29,
+      "text": "I'm happy to accept $60,000 along with the benefits."
+    },
+    {
+      "t": 1064.13,
+      "text": "Perfect."
+    },
+    {
+      "t": 1065.13,
+      "text": "That's a successful negotiation."
+    },
+    {
+      "t": 1067.13,
+      "text": "See how polite, confident, and clear language helps you get a better outcome?"
+    },
+    {
+      "t": 1071.45,
+      "text": "Now, let's talk about some common mistakes in salary negotiation."
+    },
+    {
+      "t": 1076.29,
+      "text": "Mistake number one, not doing research."
+    },
+    {
+      "t": 1078.89,
+      "text": "If you don't know the market rate, you risk asking too much or too little."
+    },
+    {
+      "t": 1083.37,
+      "text": "Mistake number two, sounding emotional."
+    },
+    {
+      "t": 1086.29,
+      "text": "Words like, I deserve more or I need money don't sound professional."
+    },
+    {
+      "t": 1091.25,
+      "text": "Mistake number three, accepting the first offer immediately."
+    },
+    {
+      "t": 1095.29,
+      "text": "Always pause and consider if you want to negotiate."
+    },
+    {
+      "t": 1098.49,
+      "text": "Mistake number four, being aggressive, threatening to leave or saying, give me more or I quit"
+    },
+    {
+      "t": 1104.01,
+      "text": "is never professional."
+    },
+    {
+      "t": 1105.97,
+      "text": "Mistake number five, forgetting to consider benefits."
+    },
+    {
+      "t": 1109.45,
+      "text": "Total compensation is more than salary."
+    },
+    {
+      "t": 1112.33,
+      "text": "Mistake number six, not using numbers and facts."
+    },
+    {
+      "t": 1116.07,
+      "text": "Always refer to your experience, accomplishments, and market rates."
+    },
+    {
+      "t": 1120.25,
+      "text": "Mistake number seven, not practicing."
+    },
+    {
+      "t": 1122.81,
+      "text": "play your negotiation before the actual meeting."
+    },
+    {
+      "t": 1125.97,
+      "text": "Okay, let's do a role play combining everything."
+    },
+    {
+      "t": 1129.25,
+      "text": "Imagine you are negotiating a promotion."
+    },
+    {
+      "t": 1131.97,
+      "text": "Perfect."
+    },
+    {
+      "t": 1132.97,
+      "text": "Go ahead, Jack."
+    },
+    {
+      "t": 1133.97,
+      "text": "Hi, Emily."
+    },
+    {
+      "t": 1134.97,
+      "text": "I'd like to discuss my promotion and salary adjustment."
+    },
+    {
+      "t": 1138.49,
+      "text": "Over the past year, I've managed three major projects, increased sales by 25% and"
+    },
+    {
+      "t": 1144.53,
+      "text": "mentor junior staff."
+    },
+    {
+      "t": 1146.45,
+      "text": "Considering these contributions, I'd like to explore adjusted nice salary to reflect"
+    },
+    {
+      "t": 1151.05,
+      "text": "my new responsibilities."
+    },
+    {
+      "t": 1152.69,
+      "text": "Thank you, Jack. We appreciate your hard work. Based on the budget, we can offer a 7% increase."
+    },
+    {
+      "t": 1159.01,
+      "text": "I appreciate that, Emily. Based on my accomplishments and the market rate, I was hoping for a 12%"
+    },
+    {
+      "t": 1166.09,
+      "text": "increase. Could we meet at 10%?"
+    },
+    {
+      "t": 1168.41,
+      "text": "Let me review this with the finance team. Your approach was professional, focused on"
+    },
+    {
+      "t": 1172.69,
+      "text": "facts and polite."
+    },
+    {
+      "t": 1174.41,
+      "text": "Thank you, Emily. I wanted to ensure a fair discussion."
+    },
+    {
+      "t": 1177.81,
+      "text": "example for everyone watching. Always focus on accomplishments, be specific, and remain professional."
+    },
+    {
+      "t": 1184.21,
+      "text": "Now, before we finish, let's summarize the key points."
+    },
+    {
+      "t": 1187.89,
+      "text": "First, always start politely. Use phrases like, could we discuss compensation?"
+    },
+    {
+      "t": 1193.17,
+      "text": "Second, know your market value and research salary ranges."
+    },
+    {
+      "t": 1197.01,
+      "text": "Third, focus on accomplishments, responsibilities, and value."
+    },
+    {
+      "t": 1200.85,
+      "text": "Hello, everyone. We're really happy to have you with us today."
+    },
+    {
+      "t": 1204.45,
+      "text": "Hi, everyone. Thanks for joining us. If you're here to improve your English,"
+    },
+    {
+      "t": 1208.29,
+      "text": "you're in the right place. I'm Emily. And I'm Jack. On this podcast,"
+    },
+    {
+      "t": 1213.17,
+      "text": "we help you speak clear, natural English with confidence in real life situations,"
+    },
+    {
+      "t": 1218.05,
+      "text": "especially in business communication. If you enjoyed this episode, don't forget to follow"
+    },
+    {
+      "t": 1223.41,
+      "text": "and share it with your friends. Yes, your support helps us so much. Thank you for being here."
+    },
+    {
+      "t": 1228.53,
+      "text": "So, Emily, what are we talking about today?"
+    },
+    {
+      "t": 1232.09,
+      "text": "Today we have a very important and practical topic."
+    },
+    {
+      "t": 1235.89,
+      "text": "We're going to learn how to talk about salary negotiation in business English."
+    },
+    {
+      "t": 1240.57,
+      "text": "This is such an important skill."
+    },
+    {
+      "t": 1242.73,
+      "text": "Many people feel uncomfortable talking about money, especially in professional situations."
+    },
+    {
+      "t": 1247.85,
+      "text": "Exactly."
+    },
+    {
+      "t": 1249.01,
+      "text": "But salary negotiation is a normal part of business."
+    },
+    {
+      "t": 1252.57,
+      "text": "And if you don't speak up, you might miss great opportunities."
+    },
+    {
+      "t": 1256.21,
+      "text": "That's true."
+    },
+    {
+      "t": 1257.29,
+      "text": "Today, we'll teach you how to talk about salary confidently, politely, and professionally."
+    },
+    {
+      "t": 1262.89,
+      "text": "And we'll include lots of practical examples, so you can use these phrases in real life."
+    },
+    {
+      "t": 1268.69,
+      "text": "Sounds perfect."
+    },
+    {
+      "t": 1269.69,
+      "text": "So, Emily, before we start, how are you feeling today?"
+    },
+    {
+      "t": 1272.81,
+      "text": "I'm feeling great."
+    },
+    {
+      "t": 1274.05,
+      "text": "I think this topic will really help people grow in their careers."
+    },
+    {
+      "t": 1277.49,
+      "text": "How about you?"
+    },
+    {
+      "t": 1278.49,
+      "text": "I'm excited too."
+    },
+    {
+      "t": 1279.97,
+      "text": "I know many people struggle with this, so this will be very useful."
+    },
+    {
+      "t": 1283.97,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1284.97,
+      "text": "Okay, everyone, let's get started."
+    },
+    {
+      "t": 1287.17,
+      "text": "Let's begin with a simple question."
+    },
+    {
+      "t": 1289.59,
+      "text": "When does salary negotiation usually happen?"
+    },
+    {
+      "t": 1292.49,
+      "text": "It usually happens during a job interview after you receive a job offer or during a performance"
+    },
+    {
+      "t": 1298.25,
+      "text": "review."
+    },
+    {
+      "t": 1299.25,
+      "text": "That makes sense."
+    },
+    {
+      "t": 1300.37,
+      "text": "So let's imagine you were in a job interview."
+    },
+    {
+      "t": 1302.95,
+      "text": "What is the first question about salary you might hear?"
+    },
+    {
+      "t": 1306.05,
+      "text": "A very common question is, what are your salary expectations?"
+    },
+    {
+      "t": 1310.85,
+      "text": "That question can feel a bit scary."
+    },
+    {
+      "t": 1313.25,
+      "text": "How should you answer it?"
+    },
+    {
+      "t": 1314.85,
+      "text": "You can say something like, I'm open to discussing a salary that reflects my skills and experience."
+    },
+    {
+      "t": 1321.33,
+      "text": "That's a very safe and professional answer."
+    },
+    {
+      "t": 1323.81,
+      "text": "Yes, and you can also give a range."
+    },
+    {
+      "t": 1326.49,
+      "text": "For example, based on my experience, I'm expecting a salary between $50,000 and $60,000."
+    },
+    {
+      "t": 1334.25,
+      "text": "Giving a range is a good idea."
+    },
+    {
+      "t": 1335.81,
+      "text": "It shows flexibility."
+    },
+    {
+      "t": 1337.61,
+      "text": "Exactly."
+    },
+    {
+      "t": 1338.61,
+      "text": "Now let's practice."
+    },
+    {
+      "t": 1339.73,
+      "text": "I'll be the interviewer."
+    },
+    {
+      "t": 1341.37,
+      "text": "Okay, I'm ready."
+    },
+    {
+      "t": 1343.21,
+      "text": "What are your salary expectations?"
+    },
+    {
+      "t": 1345.81,
+      "text": "Based on my experience and skills, I'm expecting a salary in the range of $60,000 to $70,000."
+    },
+    {
+      "t": 1351.97,
+      "text": "However, I'm open to discussion."
+    },
+    {
+      "t": 1354.81,
+      "text": "That's excellent."
+    },
+    {
+      "t": 1355.97,
+      "text": "Very professional and confident."
+    },
+    {
+      "t": 1358.09,
+      "text": "Thank you."
+    },
+    {
+      "t": 1359.09,
+      "text": "Now, let's talk about another situation."
+    },
+    {
+      "t": 1361.65,
+      "text": "You received a job offer, but the salary is lower than you expected."
+    },
+    {
+      "t": 1366.31,
+      "text": "That happens a lot."
+    },
+    {
+      "t": 1367.69,
+      "text": "What should we say?"
+    },
+    {
+      "t": 1369.29,
+      "text": "First, always be polite and positive."
+    },
+    {
+      "t": 1371.69,
+      "text": "You can say, thank you for the offer."
+    },
+    {
+      "t": 1373.71,
+      "text": "I'm very interested in this position."
+    },
+    {
+      "t": 1376.39,
+      "text": "That shows appreciation."
+    },
+    {
+      "t": 1377.87,
+      "text": "Yes."
+    },
+    {
+      "t": 1378.87,
+      "text": "Then you can say, however, I was hoping for a higher salary based on my experience."
+    },
+    {
+      "t": 1384.55,
+      "text": "That sounds respectful, not aggressive."
+    },
+    {
+      "t": 1387.03,
+      "text": "Exactly."
+    },
+    {
+      "t": 1388.03,
+      "text": "Let's do a role play."
+    },
+    {
+      "t": 1389.55,
+      "text": "Great."
+    },
+    {
+      "t": 1390.55,
+      "text": "We'd like to offer you the position with a salary of $50,000 per year."
+    },
+    {
+      "t": 1395.43,
+      "text": "Thank you for the offer."
+    },
+    {
+      "t": 1396.43,
+      "text": "I'm really excited about this opportunity."
+    },
+    {
+      "t": 1398.95,
+      "text": "However, based on my experience and the responsibilities of this role, I was expecting something closer"
+    },
+    {
+      "t": 1404.87,
+      "text": "to $60,000."
+    },
+    {
+      "t": 1405.87,
+      "text": "That's a perfect response."
+    },
+    {
+      "t": 1409.03,
+      "text": "Thank you."
+    },
+    {
+      "t": 1410.03,
+      "text": "Notice how polite and professional that sounds."
+    },
+    {
+      "t": 1412.67,
+      "text": "Yes, you're not saying, this is too low."
+    },
+    {
+      "t": 1415.87,
+      "text": "You're explaining your expectation."
+    },
+    {
+      "t": 1417.87,
+      "text": "Exactly."
+    },
+    {
+      "t": 1418.87,
+      "text": "Now, let's talk about negotiating benefits."
+    },
+    {
+      "t": 1422.59,
+      "text": "Good point."
+    },
+    {
+      "t": 1423.67,
+      "text": "Salary is not the only thing."
+    },
+    {
+      "t": 1425.59,
+      "text": "Yes."
+    },
+    {
+      "t": 1426.59,
+      "text": "If the company cannot increase the salary, you can negotiate other benefits."
+    },
+    {
+      "t": 1431.39,
+      "text": "Like what?"
+    },
+    {
+      "t": 1432.39,
+      "text": "You can ask about bonuses, flexible working hours, remote work, or additional vacation"
+    },
+    {
+      "t": 1437.47,
+      "text": "days."
+    },
+    {
+      "t": 1438.47,
+      "text": "That's very useful."
+    },
+    {
+      "t": 1440.07,
+      "text": "For example, you can ask, is there flexibility in the benefits package?"
+    },
+    {
+      "t": 1444.83,
+      "text": "Or would it be possible to discuss additional leave?"
+    },
+    {
+      "t": 1448.43,
+      "text": "Exactly."
+    },
+    {
+      "t": 1449.43,
+      "text": "Let's practice again."
+    },
+    {
+      "t": 1450.91,
+      "text": "Okay."
+    },
+    {
+      "t": 1451.91,
+      "text": "Unfortunately, we cannot increase the salary."
+    },
+    {
+      "t": 1454.71,
+      "text": "I understand."
+    },
+    {
+      "t": 1456.07,
+      "text": "In that case, would be possible to discuss additional benefits such as flexible working"
+    },
+    {
+      "t": 1460.47,
+      "text": "hours or extra leave?"
+    },
+    {
+      "t": 1462.83,
+      "text": "That's excellent negotiation."
+    },
+    {
+      "t": 1465.07,
+      "text": "Thank you."
+    },
+    {
+      "t": 1466.07,
+      "text": "Now let's talk about confidence."
+    },
+    {
+      "t": 1468.59,
+      "text": "This is very important."
+    },
+    {
+      "t": 1470.55,
+      "text": "Many people feel nervous talking about salary."
+    },
+    {
+      "t": 1473.35,
+      "text": "Yes, especially if it's their first job."
+    },
+    {
+      "t": 1476.31,
+      "text": "But remember, negotiation is normal."
+    },
+    {
+      "t": 1479.23,
+      "text": "Companies expect it."
+    },
+    {
+      "t": 1480.23,
+      "text": "That's a great mindset."
+    },
+    {
+      "t": 1482.15,
+      "text": "Now let's talk about common mistakes."
+    },
+    {
+      "t": 1484.79,
+      "text": "Yes, this is important."
+    },
+    {
+      "t": 1486.79,
+      "text": "Mistake number one, being too direct."
+    },
+    {
+      "t": 1489.79,
+      "text": "Like saying, I want more money."
+    },
+    {
+      "t": 1492.79,
+      "text": "Exactly. That sounds rude."
+    },
+    {
+      "t": 1494.79,
+      "text": "Instead, say, I was hoping for a higher salary."
+    },
+    {
+      "t": 1497.79,
+      "text": "Much better."
+    },
+    {
+      "t": 1499.79,
+      "text": "Mistake number two, not doing research."
+    },
+    {
+      "t": 1502.79,
+      "text": "You need to know the market salary."
+    },
+    {
+      "t": 1504.79,
+      "text": "Yes, you can say based on industry standards."
+    },
+    {
+      "t": 1508.79,
+      "text": "That makes your argument stronger."
+    },
+    {
+      "t": 1510.79,
+      "text": "Mistake number three, accepting too quickly."
+    },
+    {
+      "t": 1513.79,
+      "text": "quickly. You should always take time to think. Yes, you can say thank you. I'd like"
+    },
+    {
+      "t": 1519.97,
+      "text": "some time to review the offer. That's very professional. Now let's do a longer role"
+    },
+    {
+      "t": 1525.49,
+      "text": "play. Perfect. Congratulations. We'd like to offer you the position. Thank you very"
+    },
+    {
+      "t": 1531.07,
+      "text": "much. I'm really excited about this opportunity. The salary we're offering is"
+    },
+    {
+      "t": 1535.51,
+      "text": "$55,000 per year. Thank you for the offer. I appreciate it. Based on my"
+    },
+    {
+      "t": 1540.91,
+      "text": "experience and the responsibilities of this role, I was expecting something"
+    },
+    {
+      "t": 1545.23,
+      "text": "closer to $65,000. I understand. Let me check what we can do. Thank you. I'm open"
+    },
+    {
+      "t": 1551.91,
+      "text": "to discussing this further. We can increase the salary to $60,000. I"
+    },
+    {
+      "t": 1556.55,
+      "text": "appreciate that. Would it also be possible to discuss performance"
+    },
+    {
+      "t": 1560.79,
+      "text": "bonuses or additional benefits? Yes, we can include a performance bonus. That"
+    },
+    {
+      "t": 1566.19,
+      "text": "That sounds great. Thank you for your flexibility."
+    },
+    {
+      "t": 1568.99,
+      "text": "Excellent negotiation."
+    },
+    {
+      "t": 1570.79,
+      "text": "Yes, very realistic. Now let's talk about internal salary negotiation."
+    },
+    {
+      "t": 1576.39,
+      "text": "You mean asking for a raise?"
+    },
+    {
+      "t": 1578.49,
+      "text": "Exactly."
+    },
+    {
+      "t": 1579.79,
+      "text": "That can be even more difficult."
+    },
+    {
+      "t": 1582.09,
+      "text": "Yes, but you can use phrases like, I'd like to discuss my compensation."
+    },
+    {
+      "t": 1587.09,
+      "text": "Or, based on my performance, I'd like to review my salary."
+    },
+    {
+      "t": 1591.19,
+      "text": "Let's practice."
+    },
+    {
+      "t": 1592.49,
+      "text": "Okay."
+    },
+    {
+      "t": 1593.39,
+      "text": "What would you like to discuss today?"
+    },
+    {
+      "t": 1595.49,
+      "text": "I'd like to discuss my current salary. Based on my recent performance and contributions to the team,"
+    },
+    {
+      "t": 1601.09,
+      "text": "I believe an adjustment would be appropriate. That's very professional. Thank you. You can also"
+    },
+    {
+      "t": 1607.17,
+      "text": "give examples of your achievements. Yes, that makes your case stronger. For example,"
+    },
+    {
+      "t": 1612.69,
+      "text": "I successfully managed three major projects this year. Or I helped increase sales by 20%."
+    },
+    {
+      "t": 1619.17,
+      "text": "Exactly."
+    },
+    {
+      "t": 1621.17,
+      "text": "Now let's do one more role play."
+    },
+    {
+      "t": 1623.17,
+      "text": "Good idea."
+    },
+    {
+      "t": 1624.17,
+      "text": "Hi, thanks for meeting with me."
+    },
+    {
+      "t": 1626.17,
+      "text": "Of course. How can I help?"
+    },
+    {
+      "t": 1628.17,
+      "text": "I'd like to discuss my salary."
+    },
+    {
+      "t": 1630.17,
+      "text": "Over the past year, I've taken on additional responsibilities"
+    },
+    {
+      "t": 1633.17,
+      "text": "and contributed to several successful projects."
+    },
+    {
+      "t": 1636.17,
+      "text": "That's true. You've done a great job."
+    },
+    {
+      "t": 1638.17,
+      "text": "Thank you. Based on my performance, I'd like to request a salary review."
+    },
+    {
+      "t": 1643.17,
+      "text": "That's a very professional way to ask."
+    },
+    {
+      "t": 1646.17,
+      "text": "Thank you."
+    },
+    {
+      "t": 1647.17,
+      "text": "Now, let's wrap up."
+    },
+    {
+      "t": 1649.17,
+      "text": "We covered a lot today."
+    },
+    {
+      "t": 1650.77,
+      "text": "Yes."
+    },
+    {
+      "t": 1651.77,
+      "text": "We learned how to talk about salary expectations."
+    },
+    {
+      "t": 1654.93,
+      "text": "How to respond to job offers."
+    },
+    {
+      "t": 1657.07,
+      "text": "How to negotiate benefits."
+    },
+    {
+      "t": 1659.25,
+      "text": "How to ask for a raise."
+    },
+    {
+      "t": 1661.01,
+      "text": "The most important thing is to be polite, confident, and prepared."
+    },
+    {
+      "t": 1665.57,
+      "text": "And always use professional language."
+    },
+    {
+      "t": 1668.33,
+      "text": "Now it's your turn."
+    },
+    {
+      "t": 1670.01,
+      "text": "Practice these phrases."
+    },
+    {
+      "t": 1671.61,
+      "text": "Try speaking in front of a mirror."
+    },
+    {
+      "t": 1673.73,
+      "text": "Or practice with a friend."
+    },
+    {
+      "t": 1675.57,
+      "text": "Don't be afraid to negotiate."
+    },
+    {
+      "t": 1677.49,
+      "text": "You deserve it."
+    },
+    {
+      "t": 1679.05,
+      "text": "Before we finish, thank you so much for listening."
+    },
+    {
+      "t": 1682.37,
+      "text": "Your support means everything to us."
+    },
+    {
+      "t": 1684.97,
+      "text": "Keep practicing and keep improving."
+    },
+    {
+      "t": 1687.49,
+      "text": "See you in the next episode."
+    },
+    {
+      "t": 1689.17,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1690.17,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 1691.65,
+      "text": "We're really happy to have you with us today."
+    },
+    {
+      "t": 1694.17,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 1695.29,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 1696.53,
+      "text": "If you're here to improve your English for real business situations, you're in the"
+    },
+    {
+      "t": 1700.89,
+      "text": "right place."
+    },
+    {
+      "t": 1702.13,
+      "text": "I'm Emily."
+    },
+    {
+      "t": 1703.41,
+      "text": "And I'm Jack."
+    },
+    {
+      "t": 1704.53,
+      "text": "On this channel, we help you speak clear, natural English with confidence in real life"
+    },
+    {
+      "t": 1709.85,
+      "text": "and professional situations."
+    },
+    {
+      "t": 1711.97,
+      "text": "If you enjoy this lesson, please give us a thumbs up and don't forget to subscribe."
+    },
+    {
+      "t": 1716.61,
+      "text": "Yes, your support helps us a lot."
+    },
+    {
+      "t": 1719.25,
+      "text": "Thank you for being here."
+    },
+    {
+      "t": 1720.61,
+      "text": "So, Jack, what are we talking about today?"
+    },
+    {
+      "t": 1723.57,
+      "text": "Today we have a very important and practical topic, how to talk about salary negotiation"
+    },
+    {
+      "t": 1729.33,
+      "text": "in English."
+    },
+    {
+      "t": 1730.33,
+      "text": "That's such a powerful skill."
+    },
+    {
+      "t": 1732.85,
+      "text": "Many people feel nervous when talking about money."
+    },
+    {
+      "t": 1735.73,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1736.89,
+      "text": "Even native speakers sometimes feel uncomfortable discussing salary."
+    },
+    {
+      "t": 1740.89,
+      "text": "But it's a normal and important part of professional life."
+    },
+    {
+      "t": 1744.73,
+      "text": "Exactly."
+    },
+    {
+      "t": 1745.73,
+      "text": "Whether you're in a job interview, asking for a raise, or changing jobs, you need to"
+    },
+    {
+      "t": 1750.53,
+      "text": "know how to talk about salary confidently."
+    },
+    {
+      "t": 1753.77,
+      "text": "And today we'll make it simple, clear, and practical with real examples you can use."
+    },
+    {
+      "t": 1760.01,
+      "text": "Sounds great."
+    },
+    {
+      "t": 1761.01,
+      "text": "So Emily, let's start with a basic situation."
+    },
+    {
+      "t": 1764.13,
+      "text": "You're in a job interview, and the interviewer asks, what are your salary expectations?"
+    },
+    {
+      "t": 1769.17,
+      "text": "Yes, that's one of the most common questions."
+    },
+    {
+      "t": 1772.77,
+      "text": "And many people panic when they hear it."
+    },
+    {
+      "t": 1775.17,
+      "text": "Exactly."
+    },
+    {
+      "t": 1776.17,
+      "text": "But you don't need to panic, you just need a clear strategy."
+    },
+    {
+      "t": 1780.13,
+      "text": "So how can you answer this question professionally?"
+    },
+    {
+      "t": 1783.33,
+      "text": "One simple way is to give a range instead of one number."
+    },
+    {
+      "t": 1787.37,
+      "text": "For example, I'm looking for a salary in the range of $50,000 to $60,000."
+    },
+    {
+      "t": 1793.73,
+      "text": "That sounds flexible and realistic."
+    },
+    {
+      "t": 1796.49,
+      "text": "Another way is to say, I'm open to discussing a competitive salary based on the role and"
+    },
+    {
+      "t": 1801.65,
+      "text": "responsibilities."
+    },
+    {
+      "t": 1803.15,
+      "text": "That's a great answer, especially if you're not sure about the market rate."
+    },
+    {
+      "t": 1807.69,
+      "text": "Let's do a quick example."
+    },
+    {
+      "t": 1809.29,
+      "text": "Okay."
+    },
+    {
+      "t": 1810.29,
+      "text": "What are your salary expectations?"
+    },
+    {
+      "t": 1812.67,
+      "text": "Based on my experience and the responsibilities of this role, I'm expecting something in the"
+    },
+    {
+      "t": 1817.83,
+      "text": "range of $55,000 to $65,000."
+    },
+    {
+      "t": 1822.35,
+      "text": "That's a strong, confident answer."
+    },
+    {
+      "t": 1824.51,
+      "text": "Yes, and it shows that you've thought about it."
+    },
+    {
+      "t": 1827.51,
+      "text": "Now let's talk about another situation."
+    },
+    {
+      "t": 1829.95,
+      "text": "The company gives you an offer, but the salary is lower than expected."
+    },
+    {
+      "t": 1834.43,
+      "text": "This is where negotiation begins."
+    },
+    {
+      "t": 1837.11,
+      "text": "Exactly, and many people feel uncomfortable asking for more money."
+    },
+    {
+      "t": 1841.51,
+      "text": "it's completely normal to negotiate. So how can you respond politely? You can say,"
+    },
+    {
+      "t": 1847.67,
+      "text": "thank you for the offer. I'm very interested in the position, but I was hoping for a higher salary."
+    },
+    {
+      "t": 1853.83,
+      "text": "That sounds respectful and professional. You can also say,"
+    },
+    {
+      "t": 1857.43,
+      "text": "is there any flexibility in the salary? Simple and direct. Let's do a real example."
+    },
+    {
+      "t": 1863.59,
+      "text": "Okay. We're offering you $50,000 per year. Thank you for the offer. I'm excited about"
+    },
+    {
+      "t": 1869.91,
+      "text": "the opportunity. Based on my experience, I was expecting something closer to $60,000."
+    },
+    {
+      "t": 1876.47,
+      "text": "Is there room for negotiation? That's perfect. You're polite, confident,"
+    },
+    {
+      "t": 1881.63,
+      "text": "and clear. Yes, and notice we didn't sound aggressive."
+    },
+    {
+      "t": 1885.83,
+      "text": "Exactly. Tone is very important in salary discussions."
+    },
+    {
+      "t": 1890.15,
+      "text": "Now let's talk about explaining your value. Yes, this is key to successful negotiation."
+    },
+    {
+      "t": 1896.67,
+      "text": "You need to explain why you deserve a higher salary."
+    },
+    {
+      "t": 1900.39,
+      "text": "For example, you can say, I have five years of experience in this field."
+    },
+    {
+      "t": 1905.07,
+      "text": "Or I have strong skills in project management and leadership."
+    },
+    {
+      "t": 1909.67,
+      "text": "Or in my previous role, I increased sales by 20%."
+    },
+    {
+      "t": 1914.51,
+      "text": "That's a great example because it shows results."
+    },
+    {
+      "t": 1917.75,
+      "text": "Employers like numbers and achievements."
+    },
+    {
+      "t": 1920.31,
+      "text": "Let's create a full answer."
+    },
+    {
+      "t": 1922.35,
+      "text": "Based on my experience and the results I've achieved in my previous role, I believe a"
+    },
+    {
+      "t": 1927.43,
+      "text": "higher salary would be appropriate."
+    },
+    {
+      "t": 1930.03,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 1931.51,
+      "text": "Now, let's talk about another situation, asking for a raise in your current job."
+    },
+    {
+      "t": 1937.07,
+      "text": "Yes, this can be even more difficult."
+    },
+    {
+      "t": 1940.03,
+      "text": "Because you're already working there."
+    },
+    {
+      "t": 1942.03,
+      "text": "So how do you start the conversation?"
+    },
+    {
+      "t": 1944.63,
+      "text": "You can say, I'd like to discuss my salary."
+    },
+    {
+      "t": 1947.87,
+      "text": "Or I'd like to talk about my compensation."
+    },
+    {
+      "t": 1950.95,
+      "text": "you explain your reasons. For example, I've taken on more responsibilities over"
+    },
+    {
+      "t": 1956.35,
+      "text": "the past year. Or I've consistently met my targets. Or I've contributed to the"
+    },
+    {
+      "t": 1962.31,
+      "text": "team's success. Let's do a role play. Great. Hi, do you have a moment to talk?"
+    },
+    {
+      "t": 1967.55,
+      "text": "Sure. What's up? I'd like to discuss my salary. Over the past year I've taken"
+    },
+    {
+      "t": 1973.07,
+      "text": "on additional responsibilities and successfully completed several"
+    },
+    {
+      "t": 1976.71,
+      "text": "projects. Yes, I've noticed your work. Thank you. Based on my contributions, I'd"
+    },
+    {
+      "t": 1982.67,
+      "text": "like to request a salary increase. That's a very professional way to ask. Yes, it's"
+    },
+    {
+      "t": 1988.47,
+      "text": "clear and respectful. Now, let's talk about what to do if the answer is no."
+    },
+    {
+      "t": 1993.39,
+      "text": "That's a realistic situation. You can say, I understand. Can we review this"
+    },
+    {
+      "t": 1999.39,
+      "text": "again in the future? Or, what can I do to qualify for a race? That shows"
+    },
+    {
+      "t": 2004.87,
+      "text": "you're motivated and professional. Exactly. Now let's talk about benefits"
+    },
+    {
+      "t": 2009.79,
+      "text": "because salary is not the only thing. Yes, this is very important. Sometimes you"
+    },
+    {
+      "t": 2016.03,
+      "text": "can't get a higher salary but you can negotiate other benefits. For example,"
+    },
+    {
+      "t": 2021.11,
+      "text": "is there flexibility in working hours? Or can we discuss additional vacation"
+    },
+    {
+      "t": 2026.55,
+      "text": "days? Or is remote work an option? These are all valuable. Let's do another"
+    },
+    {
+      "t": 2032.59,
+      "text": "example. Okay. We can't increase the salary at this time. I understand. In that case, would"
+    },
+    {
+      "t": 2039.43,
+      "text": "it be possible to discuss additional benefits such as flexible working hours or extra vacation"
+    },
+    {
+      "t": 2045.31,
+      "text": "days? That's smart negotiation. Yes. Always think about the full package. Now, let's"
+    },
+    {
+      "t": 2051.83,
+      "text": "talk about confidence. This is probably the most important part. Many people feel"
+    },
+    {
+      "t": 2057.19,
+      "text": "nervous talking about money."
+    },
+    {
+      "t": 2059.29,
+      "text": "But remember, this is a normal business conversation."
+    },
+    {
+      "t": 2062.53,
+      "text": "You are not asking for a favor."
+    },
+    {
+      "t": 2064.89,
+      "text": "You are discussing your value."
+    },
+    {
+      "t": 2066.73,
+      "text": "Exactly."
+    },
+    {
+      "t": 2067.73,
+      "text": "Let's practice a full negotiation conversation."
+    },
+    {
+      "t": 2070.85,
+      "text": "Great idea."
+    },
+    {
+      "t": 2071.85,
+      "text": "We'd like to offer you the position with a salary of $55,000."
+    },
+    {
+      "t": 2076.49,
+      "text": "Thank you for the offer."
+    },
+    {
+      "t": 2077.61,
+      "text": "I'm very excited about the opportunity."
+    },
+    {
+      "t": 2080.45,
+      "text": "We're glad to hear that."
+    },
+    {
+      "t": 2082.05,
+      "text": "Based on my experience and skills, I was hoping for a salary closer to $65,000."
+    },
+    {
+      "t": 2088.27,
+      "text": "Is there any flexibility?"
+    },
+    {
+      "t": 2090.09,
+      "text": "Let me check what we can do."
+    },
+    {
+      "t": 2091.85,
+      "text": "Thank you."
+    },
+    {
+      "t": 2092.85,
+      "text": "I appreciate it."
+    },
+    {
+      "t": 2093.85,
+      "text": "That's a perfect negotiation example."
+    },
+    {
+      "t": 2095.97,
+      "text": "Yes."
+    },
+    {
+      "t": 2096.97,
+      "text": "Polite, confident, and clear."
+    },
+    {
+      "t": 2099.05,
+      "text": "Now let's talk about some common mistakes."
+    },
+    {
+      "t": 2101.93,
+      "text": "One mistake is being too direct."
+    },
+    {
+      "t": 2104.25,
+      "text": "Like saying, I want more money."
+    },
+    {
+      "t": 2106.69,
+      "text": "That sounds too aggressive."
+    },
+    {
+      "t": 2108.81,
+      "text": "Another mistake is being too vague."
+    },
+    {
+      "t": 2111.01,
+      "text": "Like saying, I don't know, anything is fine."
+    },
+    {
+      "t": 2114.37,
+      "text": "That shows a lack of confidence."
+    },
+    {
+      "t": 2116.57,
+      "text": "Another mistake is not preparing."
+    },
+    {
+      "t": 2118.65,
+      "text": "Yes, you should always research salary ranges before negotiating."
+    },
+    {
+      "t": 2124.01,
+      "text": "Preparation gives you confidence."
+    },
+    {
+      "t": 2125.77,
+      "text": "Now let's do one more role play."
+    },
+    {
+      "t": 2128.17,
+      "text": "Okay."
+    },
+    {
+      "t": 2129.17,
+      "text": "What are your salary expectations?"
+    },
+    {
+      "t": 2131.45,
+      "text": "Based on my research and experience, I'm looking for a salary in the range of $60,000"
+    },
+    {
+      "t": 2136.89,
+      "text": "to $70,000."
+    },
+    {
+      "t": 2139.05,
+      "text": "slightly above our budget. I understand. I'm open to discussing the full compensation package,"
+    },
+    {
+      "t": 2145.45,
+      "text": "including benefits. That's a very strong answer. Yes, flexible, but confident. So what's the"
+    },
+    {
+      "t": 2152.09,
+      "text": "key message today? Salary negotiation is a skill. You can learn it and improve it. Use"
+    },
+    {
+      "t": 2158.41,
+      "text": "polite language. Be clear about your expectations. And always know your value. Exactly. That's"
+    },
+    {
+      "t": 2166.17,
+      "text": "That's all for today."
+    },
+    {
+      "t": 2167.35,
+      "text": "We hope this helps you feel more confident in your next salary discussion."
+    },
+    {
+      "t": 2171.53,
+      "text": "If you enjoyed this, don't forget to like and subscribe."
+    },
+    {
+      "t": 2174.93,
+      "text": "And share it with someone who needs help with business English."
+    },
+    {
+      "t": 2178.37,
+      "text": "See you next time."
+    },
+    {
+      "t": 2179.45,
+      "text": "Bye, everyone."
+    },
+    {
+      "t": 2180.45,
+      "text": "Bye."
+    },
+    {
+      "t": 2181.45,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 2182.45,
+      "text": "We're really happy to have you with us today."
+    },
+    {
+      "t": 2184.85,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 2185.85,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 2187.05,
+      "text": "If you're here to improve your English, you're in the right place."
+    },
+    {
+      "t": 2190.29,
+      "text": "I'm Emma."
+    },
+    {
+      "t": 2191.45,
+      "text": "And I'm Jack."
+    },
+    {
+      "t": 2192.69,
+      "text": "On this channel, we help you speak clear, natural English with confidence in real business"
+    },
+    {
+      "t": 2198.09,
+      "text": "situations."
+    },
+    {
+      "t": 2199.25,
+      "text": "If you enjoyed this lesson, please give us a thumbs up and don't forget to subscribe."
+    },
+    {
+      "t": 2204.17,
+      "text": "Yes, your support helps us so much."
+    },
+    {
+      "t": 2207.09,
+      "text": "Thank you for being here."
+    },
+    {
+      "t": 2208.73,
+      "text": "So Emma, what are we talking about today?"
+    },
+    {
+      "t": 2211.13,
+      "text": "Today we have a very important and practical topic."
+    },
+    {
+      "t": 2214.81,
+      "text": "We're going to learn how to talk about salary negotiation in business English."
+    },
+    {
+      "t": 2220.21,
+      "text": "That's a big one."
+    },
+    {
+      "t": 2221.53,
+      "text": "I think many people feel nervous when they hear the word salary negotiation."
+    },
+    {
+      "t": 2225.89,
+      "text": "Exactly."
+    },
+    {
+      "t": 2226.89,
+      "text": "It's one of the most uncomfortable conversations for many professionals."
+    },
+    {
+      "t": 2231.41,
+      "text": "But it's also one of the most important conversations in your career."
+    },
+    {
+      "t": 2235.29,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2236.45,
+      "text": "If you don't know how to talk about salary, you might miss opportunities."
+    },
+    {
+      "t": 2240.93,
+      "text": "And today we'll make it simple, clear and practical with real examples."
+    },
+    {
+      "t": 2245.69,
+      "text": "Yes."
+    },
+    {
+      "t": 2246.69,
+      "text": "you phrases, strategies, and role plays so you can feel confident."
+    },
+    {
+      "t": 2251.57,
+      "text": "Sounds great."
+    },
+    {
+      "t": 2252.57,
+      "text": "Before we start, how are you feeling today?"
+    },
+    {
+      "t": 2254.49,
+      "text": "I'm feeling great."
+    },
+    {
+      "t": 2255.89,
+      "text": "I'm excited because this topic can really change someone's career."
+    },
+    {
+      "t": 2260.25,
+      "text": "How about you?"
+    },
+    {
+      "t": 2261.25,
+      "text": "Same here."
+    },
+    {
+      "t": 2262.25,
+      "text": "I've had many salary discussions and I know how stressful they can be."
+    },
+    {
+      "t": 2266.33,
+      "text": "Exactly."
+    },
+    {
+      "t": 2267.33,
+      "text": "Okay, everyone, let's get started."
+    },
+    {
+      "t": 2269.69,
+      "text": "Let's begin with the basics."
+    },
+    {
+      "t": 2271.47,
+      "text": "When does salary negotiation usually happen?"
+    },
+    {
+      "t": 2274.45,
+      "text": "Good question."
+    },
+    {
+      "t": 2275.57,
+      "text": "What usually happens during a job interview or after you receive a job offer?"
+    },
+    {
+      "t": 2280.85,
+      "text": "Right."
+    },
+    {
+      "t": 2281.85,
+      "text": "When the company says, we'd like to offer you the position."
+    },
+    {
+      "t": 2284.77,
+      "text": "Exactly."
+    },
+    {
+      "t": 2285.77,
+      "text": "That's your opportunity to discuss salary."
+    },
+    {
+      "t": 2288.45,
+      "text": "Can you talk about salary before that?"
+    },
+    {
+      "t": 2290.77,
+      "text": "You can, but it's usually better to wait until the employer brings it up or gives"
+    },
+    {
+      "t": 2295.89,
+      "text": "an offer."
+    },
+    {
+      "t": 2296.97,
+      "text": "That makes sense."
+    },
+    {
+      "t": 2297.97,
+      "text": "Now, let's talk about the most common question."
+    },
+    {
+      "t": 2301.21,
+      "text": "Yes, the famous one."
+    },
+    {
+      "t": 2303.33,
+      "text": "What are your salary expectations?"
+    },
+    {
+      "t": 2305.85,
+      "text": "That question makes many people nervous."
+    },
+    {
+      "t": 2308.61,
+      "text": "Exactly."
+    },
+    {
+      "t": 2309.61,
+      "text": "But don't worry, there are simple ways to answer."
+    },
+    {
+      "t": 2312.69,
+      "text": "So, how do you answer that question?"
+    },
+    {
+      "t": 2315.13,
+      "text": "You can say, I'm looking for a salary in the range of..."
+    },
+    {
+      "t": 2319.53,
+      "text": "That sounds flexible."
+    },
+    {
+      "t": 2320.73,
+      "text": "Yes."
+    },
+    {
+      "t": 2321.73,
+      "text": "For example, I'm looking for a salary in the range of 40,000 pounds to 50,000 pounds."
+    },
+    {
+      "t": 2328.73,
+      "text": "That gives a range, not a fixed number."
+    },
+    {
+      "t": 2331.41,
+      "text": "Exactly."
+    },
+    {
+      "t": 2332.41,
+      "text": "shows you're open to discussion."
+    },
+    {
+      "t": 2334.53,
+      "text": "What if you don't want to give a number first?"
+    },
+    {
+      "t": 2337.21,
+      "text": "You can say, I'm open to discussion based on the role and responsibilities."
+    },
+    {
+      "t": 2342.53,
+      "text": "That's a very smart answer."
+    },
+    {
+      "t": 2344.49,
+      "text": "Another option is, could you share the budget for this role?"
+    },
+    {
+      "t": 2348.31,
+      "text": "That turns the question back to the employer."
+    },
+    {
+      "t": 2350.89,
+      "text": "Exactly."
+    },
+    {
+      "t": 2351.89,
+      "text": "Now, let's say you receive a job offer."
+    },
+    {
+      "t": 2354.37,
+      "text": "What do you say first?"
+    },
+    {
+      "t": 2356.13,
+      "text": "First always show appreciation."
+    },
+    {
+      "t": 2358.77,
+      "text": "That's important."
+    },
+    {
+      "t": 2359.81,
+      "text": "You can say, thank you for the offer."
+    },
+    {
+      "t": 2362.09,
+      "text": "I'm really excited about this opportunity."
+    },
+    {
+      "t": 2364.97,
+      "text": "That sounds positive and professional."
+    },
+    {
+      "t": 2367.29,
+      "text": "Then you move to negotiation."
+    },
+    {
+      "t": 2369.33,
+      "text": "Okay."
+    },
+    {
+      "t": 2370.33,
+      "text": "How?"
+    },
+    {
+      "t": 2371.33,
+      "text": "You can say, I'd like to discuss the salary package."
+    },
+    {
+      "t": 2374.81,
+      "text": "That's polite and direct."
+    },
+    {
+      "t": 2376.69,
+      "text": "Or is there any flexibility in the salary?"
+    },
+    {
+      "t": 2380.37,
+      "text": "That's a very useful phrase."
+    },
+    {
+      "t": 2382.33,
+      "text": "Yes, it's simple and effective."
+    },
+    {
+      "t": 2384.89,
+      "text": "Let's give a full example."
+    },
+    {
+      "t": 2386.69,
+      "text": "Sure."
+    },
+    {
+      "t": 2387.69,
+      "text": "Thank you for the offer."
+    },
+    {
+      "t": 2388.69,
+      "text": "I'm very interested in the role, however, I was hoping for a slightly higher salary."
+    },
+    {
+      "t": 2395.15,
+      "text": "Is there any flexibility?"
+    },
+    {
+      "t": 2397.09,
+      "text": "That's very natural."
+    },
+    {
+      "t": 2398.09,
+      "text": "Yes, it's polite and confident."
+    },
+    {
+      "t": 2401.07,
+      "text": "What if you want to justify your request?"
+    },
+    {
+      "t": 2403.69,
+      "text": "Good point."
+    },
+    {
+      "t": 2404.69,
+      "text": "You should always give a reason."
+    },
+    {
+      "t": 2406.85,
+      "text": "For example?"
+    },
+    {
+      "t": 2407.85,
+      "text": "Based on my experience and skills, I was expecting a salary closer to 50,000 pounds."
+    },
+    {
+      "t": 2414.97,
+      "text": "That's strong, but professional."
+    },
+    {
+      "t": 2416.97,
+      "text": "Exactly."
+    },
+    {
+      "t": 2417.97,
+      "text": "Now let's talk about using soft language."
+    },
+    {
+      "t": 2421.33,
+      "text": "Yes, very important."
+    },
+    {
+      "t": 2423.33,
+      "text": "Why is soft language important?"
+    },
+    {
+      "t": 2425.89,
+      "text": "Because negotiation should feel like a conversation, not a conflict."
+    },
+    {
+      "t": 2430.29,
+      "text": "That's true."
+    },
+    {
+      "t": 2431.41,
+      "text": "Instead of saying, I want more money, say, I was hoping for a higher salary."
+    },
+    {
+      "t": 2437.17,
+      "text": "That sounds much better."
+    },
+    {
+      "t": 2438.69,
+      "text": "Or instead of, this is too low, say, this is slightly below my expectations."
+    },
+    {
+      "t": 2445.17,
+      "text": "Very professional."
+    },
+    {
+      "t": 2446.53,
+      "text": "Now let's talk about benefits."
+    },
+    {
+      "t": 2448.93,
+      "text": "Yes, salary is not the only thing."
+    },
+    {
+      "t": 2451.65,
+      "text": "Exactly."
+    },
+    {
+      "t": 2452.73,
+      "text": "You can also negotiate benefits, like bonuses,"
+    },
+    {
+      "t": 2456.21,
+      "text": "vacation, or flexible hours."
+    },
+    {
+      "t": 2458.73,
+      "text": "So what can you say?"
+    },
+    {
+      "t": 2460.29,
+      "text": "If the salary is fixed,"
+    },
+    {
+      "t": 2462.17,
+      "text": "could we discuss additional benefits?"
+    },
+    {
+      "t": 2464.57,
+      "text": "That's a great strategy."
+    },
+    {
+      "t": 2466.41,
+      "text": "Or is there any possibility of a performance bonus?"
+    },
+    {
+      "t": 2470.53,
+      "text": "Very useful."
+    },
+    {
+      "t": 2471.91,
+      "text": "You can also say,"
+    },
+    {
+      "t": 2473.41,
+      "text": "could we discuss flexible working options?"
+    },
+    {
+      "t": 2476.49,
+      "text": "That's very common today."
+    },
+    {
+      "t": 2478.41,
+      "text": "Now let's do a role play."
+    },
+    {
+      "t": 2480.49,
+      "text": "Great idea."
+    },
+    {
+      "t": 2481.45,
+      "text": "I'll be the candidate."
+    },
+    {
+      "t": 2482.89,
+      "text": "You be the employer."
+    },
+    {
+      "t": 2484.45,
+      "text": "Okay."
+    },
+    {
+      "t": 2485.29,
+      "text": "We're pleased to offer you the position"
+    },
+    {
+      "t": 2486.97,
+      "text": "with a salary of 40,000 pounds."
+    },
+    {
+      "t": 2489.49,
+      "text": "Thank you very much for the offer."
+    },
+    {
+      "t": 2491.37,
+      "text": "I'm really excited about the opportunity."
+    },
+    {
+      "t": 2493.89,
+      "text": "Great."
+    },
+    {
+      "t": 2494.73,
+      "text": "I was hoping for a slightly higher salary"
+    },
+    {
+      "t": 2497.49,
+      "text": "based on my experience."
+    },
+    {
+      "t": 2499.37,
+      "text": "Is there any flexibility?"
+    },
+    {
+      "t": 2501.17,
+      "text": "What range were you expecting?"
+    },
+    {
+      "t": 2502.97,
+      "text": "I was expecting something closer to 45,000 pounds."
+    },
+    {
+      "t": 2507.33,
+      "text": "Let me check what we can do."
+    },
+    {
+      "t": 2508.85,
+      "text": "Thank you, I appreciate that."
+    },
+    {
+      "t": 2510.81,
+      "text": "That was very smooth."
+    },
+    {
+      "t": 2512.25,
+      "text": "Yes, polite and professional."
+    },
+    {
+      "t": 2514.57,
+      "text": "Let's do another example with benefits."
+    },
+    {
+      "t": 2517.09,
+      "text": "Sure."
+    },
+    {
+      "t": 2517.85,
+      "text": "The salary we can offer is 42,000 pounds and it's fixed."
+    },
+    {
+      "t": 2522.25,
+      "text": "I understand."
+    },
+    {
+      "t": 2523.25,
+      "text": "Thank you for explaining that."
+    },
+    {
+      "t": 2524.89,
+      "text": "Yes."
+    },
+    {
+      "t": 2525.61,
+      "text": "In that case, could we discuss additional benefits,"
+    },
+    {
+      "t": 2528.81,
+      "text": "such as a bonus or extra vacation days?"
+    },
+    {
+      "t": 2532.17,
+      "text": "That's a great negotiation."
+    },
+    {
+      "t": 2534.21,
+      "text": "Exactly."
+    },
+    {
+      "t": 2535.21,
+      "text": "Always look for alternatives."
+    },
+    {
+      "t": 2537.49,
+      "text": "Now let's talk about confidence."
+    },
+    {
+      "t": 2539.93,
+      "text": "Yes, this is key."
+    },
+    {
+      "t": 2541.89,
+      "text": "Many people feel shy asking for more money."
+    },
+    {
+      "t": 2544.69,
+      "text": "That's true."
+    },
+    {
+      "t": 2545.77,
+      "text": "But remember, negotiation is normal in business."
+    },
+    {
+      "t": 2549.41,
+      "text": "So it's not rude?"
+    },
+    {
+      "t": 2550.97,
+      "text": "Not at all."
+    },
+    {
+      "t": 2552.09,
+      "text": "It's expected."
+    },
+    {
+      "t": 2553.17,
+      "text": "That's important to understand."
+    },
+    {
+      "t": 2555.05,
+      "text": "Yes, companies expect candidates to negotiate."
+    },
+    {
+      "t": 2558.89,
+      "text": "Now let's talk about mistakes."
+    },
+    {
+      "t": 2561.29,
+      "text": "Good idea."
+    },
+    {
+      "t": 2562.29,
+      "text": "Mistake one, accepting the first offer immediately."
+    },
+    {
+      "t": 2565.81,
+      "text": "Yes, you should at least consider negotiating."
+    },
+    {
+      "t": 2569.21,
+      "text": "Mistake two, being too aggressive."
+    },
+    {
+      "t": 2571.85,
+      "text": "Exactly."
+    },
+    {
+      "t": 2572.85,
+      "text": "Don't say, this is unacceptable."
+    },
+    {
+      "t": 2575.33,
+      "text": "Instead, be polite."
+    },
+    {
+      "t": 2577.05,
+      "text": "Yes."
+    },
+    {
+      "t": 2577.87,
+      "text": "Mistake three, not preparing."
+    },
+    {
+      "t": 2580.21,
+      "text": "You should always research salary ranges."
+    },
+    {
+      "t": 2583.29,
+      "text": "That gives you confidence."
+    },
+    {
+      "t": 2584.91,
+      "text": "Exactly."
+    },
+    {
+      "t": 2585.85,
+      "text": "Let's do a more detailed role play."
+    },
+    {
+      "t": 2588.17,
+      "text": "Okay, tell me about your salary expectations."
+    },
+    {
+      "t": 2591.73,
+      "text": "Based on my experience, I'm looking for a salary"
+    },
+    {
+      "t": 2594.47,
+      "text": "in the range of 45,000 pounds to 55,000 pounds."
+    },
+    {
+      "t": 2598.99,
+      "text": "That's slightly above our budget."
+    },
+    {
+      "t": 2601.57,
+      "text": "I understand."
+    },
+    {
+      "t": 2602.49,
+      "text": "I'm open to discussion depending on the overall package."
+    },
+    {
+      "t": 2605.83,
+      "text": "That's flexible."
+    },
+    {
+      "t": 2607.17,
+      "text": "Yes."
+    },
+    {
+      "t": 2608.01,
+      "text": "We can offer 43,000 pounds."
+    },
+    {
+      "t": 2611.09,
+      "text": "Thank you for the offer."
+    },
+    {
+      "t": 2612.25,
+      "text": "I really appreciate it."
+    },
+    {
+      "t": 2613.67,
+      "text": "You're welcome."
+    },
+    {
+      "t": 2614.59,
+      "text": "Considering my experience and the responsibilities"
+    },
+    {
+      "t": 2617.97,
+      "text": "the role, would it be possible to move closer to 48,000 pounds? That's a strong negotiation."
+    },
+    {
+      "t": 2625.49,
+      "text": "Yes, but still polite. Let's continue. Okay, we may not reach 48,000, but we can offer 45,000."
+    },
+    {
+      "t": 2634.45,
+      "text": "That sounds reasonable. Thank you for your flexibility. Deal. Great. That was very realistic."
+    },
+    {
+      "t": 2640.53,
+      "text": "Yes, and very practical. Now let's talk about closing the conversation."
+    },
+    {
+      "t": 2645.89,
+      "text": "Good idea. What do you say when you agree?"
+    },
+    {
+      "t": 2648.69,
+      "text": "You can say,"
+    },
+    {
+      "t": 2649.81,
+      "text": "that sounds great."
+    },
+    {
+      "t": 2651.09,
+      "text": "I'm happy to accept the offer."
+    },
+    {
+      "t": 2653.25,
+      "text": "Simple and clear."
+    },
+    {
+      "t": 2654.61,
+      "text": "Or, I'm pleased to accept this offer."
+    },
+    {
+      "t": 2657.65,
+      "text": "Thank you."
+    },
+    {
+      "t": 2658.53,
+      "text": "Very professional."
+    },
+    {
+      "t": 2659.89,
+      "text": "Now let's wrap up."
+    },
+    {
+      "t": 2661.25,
+      "text": "Today we learned how to talk about salary negotiation confidently."
+    },
+    {
+      "t": 2665.57,
+      "text": "Use polite language."
+    },
+    {
+      "t": 2667.33,
+      "text": "Be clear about your expectations."
+    },
+    {
+      "t": 2669.65,
+      "text": "Always give reasons."
+    },
+    {
+      "t": 2671.49,
+      "text": "And be open to discussion."
+    },
+    {
+      "t": 2673.33,
+      "text": "The most important thing is confidence."
+    },
+    {
+      "t": 2676.21,
+      "text": "You deserve to be paid fairly."
+    },
+    {
+      "t": 2678.53,
+      "text": "Now it's your turn."
+    },
+    {
+      "t": 2680.05,
+      "text": "What would you say in a salary negotiation?"
+    },
+    {
+      "t": 2682.93,
+      "text": "Practice these phrases."
+    },
+    {
+      "t": 2684.69,
+      "text": "Try role-playing with a friend."
+    },
+    {
+      "t": 2686.61,
+      "text": "Thank you so much for watching."
+    },
+    {
+      "t": 2688.69,
+      "text": "Keep practicing and improving."
+    },
+    {
+      "t": 2690.69,
+      "text": "We'll see you in the next lesson."
+    },
+    {
+      "t": 2692.69,
+      "text": "Take care."
+    },
+    {
+      "t": 2693.49,
+      "text": "Goodbye."
+    },
+    {
+      "t": 2697.06,
+      "text": "Hello everyone."
+    },
+    {
+      "t": 2698.18,
+      "text": "We're really happy to have you with us today."
+    },
+    {
+      "t": 2700.9,
+      "text": "Hi everyone."
+    },
+    {
+      "t": 2701.86,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 2703.22,
+      "text": "If you're here to improve your English for real business situations,"
+    },
+    {
+      "t": 2706.5,
+      "text": "you're absolutely in the right place."
+    },
+    {
+      "t": 2708.82,
+      "text": "I'm Olivia."
+    },
+    {
+      "t": 2710.1,
+      "text": "And I'm James."
+    },
+    {
+      "t": 2711.3,
+      "text": "On this channel, we help you speak clear, natural English with confidence in professional environments."
+    },
+    {
+      "t": 2717.78,
+      "text": "If you enjoy this lesson, don't forget to give us a thumbs up and subscribe."
+    },
+    {
+      "t": 2722.42,
+      "text": "Your support really helps us continue creating content like this."
+    },
+    {
+      "t": 2726.58,
+      "text": "Yes, thank you so much for being here."
+    },
+    {
+      "t": 2728.82,
+      "text": "So, Olivia, what are we talking about today?"
+    },
+    {
+      "t": 2731.3,
+      "text": "But today you were focusing on a topic that many people find stressful but extremely important,"
+    },
+    {
+      "t": 2737.82,
+      "text": "how to talk about salary negotiation in English."
+    },
+    {
+      "t": 2741.18,
+      "text": "Oh wow, that's a big one."
+    },
+    {
+      "t": 2743.42,
+      "text": "I think a lot of people feel nervous when they hear the words salary negotiation."
+    },
+    {
+      "t": 2748.18,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2749.66,
+      "text": "Even native speakers sometimes feel uncomfortable talking about money, especially in professional"
+    },
+    {
+      "t": 2755.42,
+      "text": "situations."
+    },
+    {
+      "t": 2756.42,
+      "text": "That's true."
+    },
+    {
+      "t": 2757.66,
+      "text": "But at the same time, it's such an important skill."
+    },
+    {
+      "t": 2760.66,
+      "text": "If you don't talk about your salary, you might miss opportunities."
+    },
+    {
+      "t": 2764.26,
+      "text": "Exactly."
+    },
+    {
+      "t": 2765.66,
+      "text": "Learning how to communicate clearly and confidently about salary can make a huge difference in"
+    },
+    {
+      "t": 2771.06,
+      "text": "your career."
+    },
+    {
+      "t": 2772.06,
+      "text": "So, today we're going to help everyone feel more comfortable and prepared."
+    },
+    {
+      "t": 2776.58,
+      "text": "Yes, we'll teach useful phrases, practical examples, and real conversations so you"
+    },
+    {
+      "t": 2782.54,
+      "text": "can negotiate professionally and confidently."
+    },
+    {
+      "t": 2785.98,
+      "text": "Sounds amazing."
+    },
+    {
+      "t": 2786.98,
+      "text": "So, Olivia, before we start, how are you feeling today?"
+    },
+    {
+      "t": 2789.74,
+      "text": "I'm feeling great."
+    },
+    {
+      "t": 2791.18,
+      "text": "I'm excited about this topic because I know it will really help our listeners."
+    },
+    {
+      "t": 2795.94,
+      "text": "How about you?"
+    },
+    {
+      "t": 2796.94,
+      "text": "I'm doing well."
+    },
+    {
+      "t": 2797.94,
+      "text": "I had a busy morning, but I'm ready to dive into this lesson."
+    },
+    {
+      "t": 2801.42,
+      "text": "Perfect."
+    },
+    {
+      "t": 2802.42,
+      "text": "Let's get started."
+    },
+    {
+      "t": 2803.42,
+      "text": "Okay, Olivia, let's begin with something simple."
+    },
+    {
+      "t": 2806.62,
+      "text": "When does salary negotiation usually happen?"
+    },
+    {
+      "t": 2809.9,
+      "text": "Good question."
+    },
+    {
+      "t": 2811.3,
+      "text": "Salary negotiation can happen in different situations."
+    },
+    {
+      "t": 2814.66,
+      "text": "For example, during a job interview, after receiving a job offer, or when asking for"
+    },
+    {
+      "t": 2820.16,
+      "text": "a raise."
+    },
+    {
+      "t": 2821.16,
+      "text": "Right, so it's not just for new jobs."
+    },
+    {
+      "t": 2823.6,
+      "text": "You can also negotiate your salary in your current job."
+    },
+    {
+      "t": 2826.84,
+      "text": "Exactly."
+    },
+    {
+      "t": 2827.84,
+      "text": "And the language you use is very important in all these situations."
+    },
+    {
+      "t": 2832.44,
+      "text": "So let's start with a common situation."
+    },
+    {
+      "t": 2835.32,
+      "text": "Receiving a job offer."
+    },
+    {
+      "t": 2836.56,
+      "text": "What happens next?"
+    },
+    {
+      "t": 2837.84,
+      "text": "Usually, the company will tell you the salary they are offering."
+    },
+    {
+      "t": 2841.52,
+      "text": "Then you can accept it or negotiate."
+    },
+    {
+      "t": 2844.16,
+      "text": "And many people are afraid to negotiate, right?"
+    },
+    {
+      "t": 2846.96,
+      "text": "Yes, they think it's rude or risky, but actually it's very normal in business."
+    },
+    {
+      "t": 2852.16,
+      "text": "That's a great point."
+    },
+    {
+      "t": 2853.8,
+      "text": "So how can someone start a salary negotiation politely?"
+    },
+    {
+      "t": 2857.5,
+      "text": "You can use soft and professional language."
+    },
+    {
+      "t": 2860.48,
+      "text": "For example, you can say, thank you for the offer."
+    },
+    {
+      "t": 2863.52,
+      "text": "I'm really excited about this opportunity."
+    },
+    {
+      "t": 2866.08,
+      "text": "I was wondering if we could discuss the salary."
+    },
+    {
+      "t": 2869.28,
+      "text": "That sounds very polite."
+    },
+    {
+      "t": 2870.88,
+      "text": "showing appreciation and then asking to negotiate."
+    },
+    {
+      "t": 2874.24,
+      "text": "Exactly. It's important to sound positive and respectful."
+    },
+    {
+      "t": 2878.24,
+      "text": "Let's give more examples. What are some other ways to start the conversation?"
+    },
+    {
+      "t": 2882.32,
+      "text": "Sure. You could say, I appreciate the offer."
+    },
+    {
+      "t": 2885.84,
+      "text": "Based on my experience, I was expecting something slightly higher."
+    },
+    {
+      "t": 2890.32,
+      "text": "Nice. That sounds confident but not aggressive."
+    },
+    {
+      "t": 2893.68,
+      "text": "Yes. Or you could say, is there any flexibility in the salary range?"
+    },
+    {
+      "t": 2898.8,
+      "text": "Oh, I like that one. It's simple and direct."
+    },
+    {
+      "t": 2901.8,
+      "text": "Another example is, I'd like to discuss the compensation package in more detail."
+    },
+    {
+      "t": 2906.8,
+      "text": "Compensation package? That's a useful phrase."
+    },
+    {
+      "t": 2909.8,
+      "text": "Yes. It includes salary, bonuses, benefits, and more."
+    },
+    {
+      "t": 2914.8,
+      "text": "Now, let's talk about giving reasons. Why is it important to explain why you want a higher salary?"
+    },
+    {
+      "t": 2920.8,
+      "text": "Because it shows that your request is reasonable. You're not just asking for more money, you have a reason."
+    },
+    {
+      "t": 2927.8,
+      "text": "So, what kind of reasons can people give?"
+    },
+    {
+      "t": 2931.08,
+      "text": "You can mention your experience, skills, or the market rate."
+    },
+    {
+      "t": 2935.06,
+      "text": "For example, I have five years of experience in this field, and I bring strong skills in"
+    },
+    {
+      "t": 2940.8,
+      "text": "project management."
+    },
+    {
+      "t": 2942.52,
+      "text": "That's a strong argument."
+    },
+    {
+      "t": 2944.12,
+      "text": "Or you can say, based on industry standards, I believe a higher salary would be appropriate."
+    },
+    {
+      "t": 2950.36,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 2952.24,
+      "text": "Yes, you can also mention your achievements."
+    },
+    {
+      "t": 2955.36,
+      "text": "For example, in my previous role, I increased sales by 20%."
+    },
+    {
+      "t": 2960.6,
+      "text": "That's impressive."
+    },
+    {
+      "t": 2961.92,
+      "text": "Numbers always help."
+    },
+    {
+      "t": 2963.44,
+      "text": "Exactly."
+    },
+    {
+      "t": 2964.44,
+      "text": "Now, let's do a quick role play."
+    },
+    {
+      "t": 2966.64,
+      "text": "I'll be the employer and you'll be the candidate."
+    },
+    {
+      "t": 2969.52,
+      "text": "Sounds good."
+    },
+    {
+      "t": 2970.52,
+      "text": "Let's do it."
+    },
+    {
+      "t": 2971.52,
+      "text": "Congratulations, Olivia."
+    },
+    {
+      "t": 2972.52,
+      "text": "We'd like to offer you the position with a salary of $50,000 per year."
+    },
+    {
+      "t": 2977.12,
+      "text": "Thank you so much."
+    },
+    {
+      "t": 2978.12,
+      "text": "I'm really excited about the opportunity."
+    },
+    {
+      "t": 2980.52,
+      "text": "I was wondering if we could discuss the salary."
+    },
+    {
+      "t": 2983.36,
+      "text": "Of course, what do you have in mind?"
+    },
+    {
+      "t": 2985.6,
+      "text": "Based on my experience and the responsibilities of this role,"
+    },
+    {
+      "t": 2989.72,
+      "text": "I was expecting something closer to $60,000."
+    },
+    {
+      "t": 2993.44,
+      "text": "I see."
+    },
+    {
+      "t": 2994.16,
+      "text": "That's a bit higher than our initial offer."
+    },
+    {
+      "t": 2996.64,
+      "text": "I understand."
+    },
+    {
+      "t": 2997.72,
+      "text": "I'm open to discussing it further."
+    },
+    {
+      "t": 2999.8,
+      "text": "I believe my skills and experience"
+    },
+    {
+      "t": 3001.88,
+      "text": "would bring strong value to the team."
+    },
+    {
+      "t": 3004.2,
+      "text": "Let me check with the team and see what we can do."
+    },
+    {
+      "t": 3006.8,
+      "text": "Thank you."
+    },
+    {
+      "t": 3007.44,
+      "text": "I appreciate that."
+    },
+    {
+      "t": 3008.76,
+      "text": "That was excellent."
+    },
+    {
+      "t": 3010.0,
+      "text": "Thank you."
+    },
+    {
+      "t": 3010.68,
+      "text": "It felt realistic."
+    },
+    {
+      "t": 3012.2,
+      "text": "Now, let's talk about another situation."
+    },
+    {
+      "t": 3014.88,
+      "text": "Asking for a raise in your current job."
+    },
+    {
+      "t": 3017.64,
+      "text": "This can be even more difficult"
+    },
+    {
+      "t": 3019.6,
+      "text": "because you already have a relationship with your manager."
+    },
+    {
+      "t": 3023.0,
+      "text": "Right, so how can someone start that conversation?"
+    },
+    {
+      "t": 3026.28,
+      "text": "You can say, I'd like to schedule a meeting"
+    },
+    {
+      "t": 3028.84,
+      "text": "to discuss my performance and compensation."
+    },
+    {
+      "t": 3031.8,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 3033.88,
+      "text": "Or you can say, I'd like to talk about the possibility"
+    },
+    {
+      "t": 3037.12,
+      "text": "of a salary increase."
+    },
+    {
+      "t": 3038.84,
+      "text": "Simple and clear."
+    },
+    {
+      "t": 3040.24,
+      "text": "During the meeting, you should explain your value."
+    },
+    {
+      "t": 3043.36,
+      "text": "For example, over the past year, I've taken on additional responsibilities and contributed"
+    },
+    {
+      "t": 3048.6,
+      "text": "to several successful projects."
+    },
+    {
+      "t": 3050.8,
+      "text": "That's good."
+    },
+    {
+      "t": 3051.8,
+      "text": "You're showing what you've done."
+    },
+    {
+      "t": 3053.48,
+      "text": "Yes."
+    },
+    {
+      "t": 3054.48,
+      "text": "Then you can say, I'd like to discuss adjusting my salary to reflect my contributions."
+    },
+    {
+      "t": 3060.4,
+      "text": "Very nice."
+    },
+    {
+      "t": 3061.4,
+      "text": "Let's do another role play."
+    },
+    {
+      "t": 3063.44,
+      "text": "This time, you're the employee."
+    },
+    {
+      "t": 3065.48,
+      "text": "Okay."
+    },
+    {
+      "t": 3066.48,
+      "text": "I'm ready."
+    },
+    {
+      "t": 3067.48,
+      "text": "Hi, Olivia."
+    },
+    {
+      "t": 3068.48,
+      "text": "Thanks for meeting with me."
+    },
+    {
+      "t": 3069.48,
+      "text": "Of course. What would you like to discuss?"
+    },
+    {
+      "t": 3071.48,
+      "text": "I wanted to talk about my performance and my salary."
+    },
+    {
+      "t": 3075.48,
+      "text": "Over the past year, I've taken on more responsibilities"
+    },
+    {
+      "t": 3078.48,
+      "text": "and helped improve our team's results."
+    },
+    {
+      "t": 3080.48,
+      "text": "Yes, I've noticed your contributions."
+    },
+    {
+      "t": 3083.48,
+      "text": "Thank you. I was hoping we could discuss a possible salary increase"
+    },
+    {
+      "t": 3087.48,
+      "text": "that reflects my work."
+    },
+    {
+      "t": 3088.48,
+      "text": "That's a reasonable request."
+    },
+    {
+      "t": 3090.48,
+      "text": "Let me review your performance and we can continue this conversation."
+    },
+    {
+      "t": 3094.48,
+      "text": "I appreciate that. Thank you."
+    },
+    {
+      "t": 3096.48,
+      "text": "That was excellent."
+    },
+    {
+      "t": 3098.48,
+      "text": "Thank you, it felt realistic."
+    },
+    {
+      "t": 3100.52,
+      "text": "Now let's talk about negotiating benefits, not just salary."
+    },
+    {
+      "t": 3104.64,
+      "text": "Oh yes, that's important."
+    },
+    {
+      "t": 3106.58,
+      "text": "Sometimes the company can't increase salary, but they can offer other benefits."
+    },
+    {
+      "t": 3111.04,
+      "text": "Exactly."
+    },
+    {
+      "t": 3112.04,
+      "text": "For example, you can negotiate flexible hours, remote work, or extra vacation days."
+    },
+    {
+      "t": 3118.24,
+      "text": "So what can you say?"
+    },
+    {
+      "t": 3119.76,
+      "text": "You can say, if the salary is fixed, would it be possible to discuss other benefits?"
+    },
+    {
+      "t": 3125.48,
+      "text": "That's smart."
+    },
+    {
+      "t": 3126.48,
+      "text": "Or you can say, would there be flexibility in terms of remote work or additional vacation"
+    },
+    {
+      "t": 3132.16,
+      "text": "time?"
+    },
+    {
+      "t": 3133.16,
+      "text": "Very useful phrases."
+    },
+    {
+      "t": 3134.56,
+      "text": "Now let's talk about common mistakes."
+    },
+    {
+      "t": 3137.28,
+      "text": "This is important."
+    },
+    {
+      "t": 3138.6,
+      "text": "Many people make mistakes when negotiating salary."
+    },
+    {
+      "t": 3142.32,
+      "text": "Mistake number one, being too direct, saying, I want more money."
+    },
+    {
+      "t": 3146.84,
+      "text": "Yes, that sounds aggressive."
+    },
+    {
+      "t": 3149.04,
+      "text": "Instead, say, I was hoping for a higher salary."
+    },
+    {
+      "t": 3153.12,
+      "text": "Mistake number two, not giving reasons."
+    },
+    {
+      "t": 3155.76,
+      "text": "Right. You need to explain why."
+    },
+    {
+      "t": 3158.08,
+      "text": "Mistake number three, sounding negative."
+    },
+    {
+      "t": 3161.08,
+      "text": "For example, this salary is too low."
+    },
+    {
+      "t": 3163.92,
+      "text": "Better to say, I was expecting a higher range."
+    },
+    {
+      "t": 3167.68,
+      "text": "Mistake number four, not being prepared."
+    },
+    {
+      "t": 3170.76,
+      "text": "You should research the market before negotiating."
+    },
+    {
+      "t": 3173.76,
+      "text": "Mistake number five, accepting too quickly."
+    },
+    {
+      "t": 3177.08,
+      "text": "Yes. Sometimes you should take time to think."
+    },
+    {
+      "t": 3179.92,
+      "text": "Exactly. You can say, thank you for the offer."
+    },
+    {
+      "t": 3183.16,
+      "text": "I'd like some time to review it."
+    },
+    {
+      "t": 3185.12,
+      "text": "That's a great phrase."
+    },
+    {
+      "t": 3186.72,
+      "text": "Now let's do one more detailed role play with a full negotiation."
+    },
+    {
+      "t": 3191.44,
+      "text": "Perfect. Let's go."
+    },
+    {
+      "t": 3192.96,
+      "text": "We're happy to offer you the position with a salary of $55,000."
+    },
+    {
+      "t": 3197.84,
+      "text": "Thank you. I'm very excited about the role and the company."
+    },
+    {
+      "t": 3201.44,
+      "text": "I'd like to discuss the salary if possible."
+    },
+    {
+      "t": 3204.24,
+      "text": "Sure. What are your expectations?"
+    },
+    {
+      "t": 3206.64,
+      "text": "Based on my experience and the industry standards,"
+    },
+    {
+      "t": 3209.92,
+      "text": "I was expecting something in the range of $60,000 to $65,000."
+    },
+    {
+      "t": 3215.2,
+      "text": "That's slightly above our budget."
+    },
+    {
+      "t": 3217.28,
+      "text": "I understand. Is there any flexibility in the compensation package?"
+    },
+    {
+      "t": 3221.76,
+      "text": "We might be able to offer a signing bonus or additional vacation days."
+    },
+    {
+      "t": 3226.16,
+      "text": "That would be great. I'd be open to discussing those options."
+    },
+    {
+      "t": 3229.84,
+      "text": "Let me review this and get back to you."
+    },
+    {
+      "t": 3232.0,
+      "text": "Thank you. I really appreciate your consideration."
+    },
+    {
+      "t": 3235.2,
+      "text": "That was excellent. Very natural and professional."
+    },
+    {
+      "t": 3238.72,
+      "text": "Thank you."
+    },
+    {
+      "t": 3239.6,
+      "text": "Now let's wrap up with some final tips."
+    },
+    {
+      "t": 3242.4,
+      "text": "First, always be polite and professional."
+    },
+    {
+      "t": 3245.6,
+      "text": "Second, be confident but not aggressive."
+    },
+    {
+      "t": 3248.8,
+      "text": "Third, give clear reasons for your request."
+    },
+    {
+      "t": 3252.1,
+      "text": "Fourth, be open to discussion and compromise."
+    },
+    {
+      "t": 3255.5,
+      "text": "And finally, practice your English before the conversation."
+    },
+    {
+      "t": 3259.3,
+      "text": "Practice is key. The more you practice, the more confident you'll feel."
+    },
+    {
+      "t": 3263.6,
+      "text": "Absolutely."
+    },
+    {
+      "t": 3265.0,
+      "text": "Now it's time for our question of the day."
+    },
+    {
+      "t": 3267.6,
+      "text": "Have you ever negotiated your salary? What did you say?"
+    },
+    {
+      "t": 3271.28,
+      "text": "Or if you haven't, what would you say in a salary negotiation?"
+    },
+    {
+      "t": 3275.44,
+      "text": "Write your answers and practice your sentences."
+    },
+    {
+      "t": 3278.32,
+      "text": "Don't be afraid of making mistakes. That's how you learn."
+    },
+    {
+      "t": 3281.52,
+      "text": "Thank you so much for being here with us today."
+    },
+    {
+      "t": 3284.0,
+      "text": "If you enjoyed this lesson, don't forget to like and subscribe."
+    },
+    {
+      "t": 3287.84,
+      "text": "Keep practicing, keep improving, and stay confident."
+    },
+    {
+      "t": 3291.2,
+      "text": "We'll see you in the next episode."
+    },
+    {
+      "t": 3293.52,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 3294.72,
+      "text": "Goodbye."
+    }
+  ],
+  "lemmas": [
+    [
+      "salary",
+      156
+    ],
+    [
+      "say",
+      71
+    ],
+    [
+      "thank",
+      69
+    ],
+    [
+      "offer",
+      67
+    ],
+    [
+      "talk",
+      64
+    ],
+    [
+      "discuss",
+      53
+    ],
+    [
+      "negotiation",
+      51
+    ],
+    [
+      "professional",
+      47
+    ],
+    [
+      "bas",
+      45
+    ],
+    [
+      "exactly",
+      43
+    ],
+    [
+      "sound",
+      42
+    ],
+    [
+      "role",
+      41
+    ],
+    [
+      "experience",
+      40
+    ],
+    [
+      "today",
+      36
+    ],
+    [
+      "example",
+      35
+    ],
+    [
+      "important",
+      34
+    ],
+    [
+      "feel",
+      31
+    ],
+    [
+      "great",
+      31
+    ],
+    [
+      "benefit",
+      31
+    ],
+    [
+      "job",
+      30
+    ],
+    [
+      "number",
+      27
+    ],
+    [
+      "expect",
+      27
+    ],
+    [
+      "ask",
+      26
+    ],
+    [
+      "mistake",
+      26
+    ],
+    [
+      "us",
+      25
+    ],
+    [
+      "help",
+      25
+    ],
+    [
+      "situation",
+      24
+    ],
+    [
+      "alway",
+      24
+    ],
+    [
+      "give",
+      23
+    ],
+    [
+      "person",
+      23
+    ],
+    [
+      "range",
+      23
+    ],
+    [
+      "everyone",
+      22
+    ],
+    [
+      "responsibiliti",
+      22
+    ],
+    [
+      "flexibility",
+      22
+    ],
+    [
+      "polite",
+      22
+    ],
+    [
+      "year",
+      22
+    ],
+    [
+      "work",
+      22
+    ],
+    [
+      "english",
+      21
+    ],
+    [
+      "many",
+      21
+    ],
+    [
+      "start",
+      21
+    ],
+    [
+      "good",
+      21
+    ],
+    [
+      "clear",
+      20
+    ],
+    [
+      "skill",
+      20
+    ],
+    [
+      "confident",
+      20
+    ],
+    [
+      "question",
+      20
+    ],
+    [
+      "emily",
+      19
+    ],
+    [
+      "one",
+      19
+    ],
+    [
+      "higher",
+      19
+    ],
+    [
+      "practice",
+      18
+    ],
+    [
+      "conversation",
+      18
+    ],
+    [
+      "expectation",
+      18
+    ],
+    [
+      "show",
+      18
+    ],
+    [
+      "first",
+      18
+    ],
+    [
+      "excit",
+      18
+    ],
+    [
+      "additional",
+      18
+    ],
+    [
+      "flexible",
+      18
+    ],
+    [
+      "money",
+      17
+    ],
+    [
+      "open",
+      17
+    ],
+    [
+      "another",
+      17
+    ],
+    [
+      "want",
+      17
+    ],
+    [
+      "appreciate",
+      17
+    ],
+    [
+      "compensation",
+      17
+    ],
+    [
+      "research",
+      17
+    ],
+    [
+      "much",
+      16
+    ],
+    [
+      "negotiat",
+      16
+    ],
+    [
+      "performance",
+      16
+    ],
+    [
+      "know",
+      16
+    ],
+    [
+      "answer",
+      16
+    ],
+    [
+      "play",
+      16
+    ],
+    [
+      "also",
+      16
+    ],
+    [
+      "jack",
+      15
+    ],
+    [
+      "confidence",
+      15
+    ],
+    [
+      "common",
+      15
+    ],
+    [
+      "someth",
+      15
+    ],
+    [
+      "negotiate",
+      15
+    ],
+    [
+      "increase",
+      15
+    ],
+    [
+      "perfect",
+      14
+    ],
+    [
+      "real",
+      14
+    ],
+    [
+      "practical",
+      14
+    ],
+    [
+      "discussion",
+      14
+    ],
+    [
+      "hop",
+      14
+    ],
+    [
+      "business",
+      13
+    ],
+    [
+      "simple",
+      13
+    ],
+    [
+      "review",
+      13
+    ],
+    [
+      "position",
+      13
+    ],
+    [
+      "need",
+      13
+    ],
+    [
+      "value",
+      13
+    ],
+    [
+      "think",
+      13
+    ],
+    [
+      "understand",
+      13
+    ],
+    [
+      "speak",
+      12
+    ],
+    [
+      "happy",
+      12
+    ],
+    [
+      "market",
+      12
+    ],
+    [
+      "opportunity",
+      12
+    ],
+    [
+      "possible",
+      12
+    ],
+    [
+      "take",
+      12
+    ],
+    [
+      "bonus",
+      12
+    ],
+    [
+      "time",
+      12
+    ],
+    [
+      "get",
+      12
+    ],
+    [
+      "phras",
+      11
+    ],
+    [
+      "language",
+      11
+    ],
+    [
+      "giv",
+      11
+    ],
+    [
+      "closer",
+      11
+    ],
+    [
+      "project",
+      11
+    ],
+    [
+      "vacation",
+      11
+    ],
+    [
+      "package",
+      11
+    ],
+    [
+      "use",
+      11
+    ],
+    [
+      "hi",
+      10
+    ],
+    [
+      "lesson",
+      10
+    ],
+    [
+      "forget",
+      10
+    ],
+    [
+      "topic",
+      10
+    ],
+    [
+      "usually",
+      10
+    ],
+    [
+      "happen",
+      10
+    ],
+    [
+      "mistak",
+      10
+    ],
+    [
+      "way",
+      10
+    ],
+    [
+      "explain",
+      10
+    ],
+    [
+      "strong",
+      10
+    ],
+    [
+      "team",
+      10
+    ],
+    [
+      "past",
+      10
+    ],
+    [
+      "accept",
+      10
+    ],
+    [
+      "consider",
+      10
+    ],
+    [
+      "useful",
+      10
+    ],
+    [
+      "meet",
+      10
+    ],
+    [
+      "pound",
+      10
+    ],
+    [
+      "mak",
+      9
+    ],
+    [
+      "natural",
+      9
+    ],
+    [
+      "nervous",
+      9
+    ],
+    [
+      "slightly",
+      9
+    ],
+    [
+      "look",
+      9
+    ],
+    [
+      "instead",
+      9
+    ],
+    [
+      "employer",
+      9
+    ],
+    [
+      "current",
+      9
+    ],
+    [
+      "reason",
+      9
+    ],
+    [
+      "focus",
+      9
+    ],
+    [
+      "learn",
+      9
+    ],
+    [
+      "day",
+      9
+    ],
+    [
+      "hour",
+      9
+    ],
+    [
+      "aggressive",
+      9
+    ],
+    [
+      "budget",
+      9
+    ],
+    [
+      "raise",
+      9
+    ],
+    [
+      "improve",
+      8
+    ],
+    [
+      "absolutely",
+      8
+    ],
+    [
+      "enjoy",
+      8
+    ],
+    [
+      "subscribe",
+      8
+    ],
+    [
+      "even",
+      8
+    ],
+    [
+      "sometim",
+      8
+    ],
+    [
+      "exampl",
+      8
+    ],
+    [
+      "interview",
+      8
+    ],
+    [
+      "sure",
+      8
+    ],
+    [
+      "company",
+      8
+    ],
+    [
+      "idea",
+      8
+    ],
+    [
+      "excellent",
+      8
+    ],
+    [
+      "request",
+      8
+    ],
+    [
+      "believe",
+      8
+    ],
+    [
+      "remote",
+      8
+    ],
+    [
+      "key",
+      8
+    ],
+    [
+      "normal",
+      8
+    ],
+    [
+      "see",
+      8
+    ],
+    [
+      "per",
+      8
+    ],
+    [
+      "let",
+      8
+    ],
+    [
+      "join",
+      7
+    ],
+    [
+      "support",
+      7
+    ],
+    [
+      "going",
+      7
+    ],
+    [
+      "keep",
+      7
+    ],
+    [
+      "respond",
+      7
+    ],
+    [
+      "option",
+      7
+    ],
+    [
+      "full",
+      7
+    ],
+    [
+      "realistic",
+      7
+    ],
+    [
+      "wed",
+      7
+    ],
+    [
+      "thing",
+      7
+    ],
+    [
+      "three",
+      7
+    ],
+    [
+      "next",
+      7
+    ],
+    [
+      "direct",
+      7
+    ],
+    [
+      "politely",
+      7
+    ],
+    [
+      "extra",
+      7
+    ],
+    [
+      "contribution",
+      7
+    ],
+    [
+      "hello",
+      6
+    ],
+    [
+      "place",
+      6
+    ],
+    [
+      "confidently",
+      6
+    ],
+    [
+      "professionally",
+      6
+    ],
+    [
+      "make",
+      6
+    ],
+    [
+      "imagine",
+      6
+    ],
+    [
+      "however",
+      6
+    ],
+    [
+      "respectful",
+      6
+    ],
+    [
+      "deserve",
+      6
+    ],
+    [
+      "successful",
+      6
+    ],
+    [
+      "lot",
+      6
+    ],
+    [
+      "two",
+      6
+    ],
+    [
+      "remember",
+      6
+    ],
+    [
+      "prepar",
+      6
+    ],
+    [
+      "adjust",
+      6
+    ],
+    [
+      "accomplishment",
+      6
+    ],
+    [
+      "olivia",
+      6
+    ],
+    [
+      "channel",
+      5
+    ],
+    [
+      "thumb",
+      5
+    ],
+    [
+      "opportuniti",
+      5
+    ],
+    [
+      "point",
+      5
+    ],
+    [
+      "rate",
+      5
+    ],
+    [
+      "industry",
+      5
+    ],
+    [
+      "begin",
+      5
+    ],
+    [
+      "appreciation",
+      5
+    ],
+    [
+      "interest",
+      5
+    ],
+    [
+      "mention",
+      5
+    ],
+    [
+      "five",
+      5
+    ],
+    [
+      "achievement",
+      5
+    ],
+    [
+      "previous",
+      5
+    ],
+    [
+      "sal",
+      5
+    ],
+    [
+      "result",
+      5
+    ],
+    [
+      "manager",
+      5
+    ],
+    [
+      "adjustment",
+      5
+    ],
+    [
+      "contribut",
+      5
+    ],
+    [
+      "several",
+      5
+    ],
+    [
+      "fix",
+      5
+    ],
+    [
+      "word",
+      5
+    ],
+    [
+      "notic",
+      5
+    ],
+    [
+      "check",
+      5
+    ],
+    [
+      "reflect",
+      5
+    ],
+    [
+      "especially",
+      5
+    ],
+    [
+      "uncomfortable",
+      5
+    ],
+    [
+      "true",
+      5
+    ],
+    [
+      "hear",
+      5
+    ],
+    [
+      "clearly",
+      4
+    ],
+    [
+      "miss",
+      4
+    ],
+    [
+      "everyth",
+      4
+    ],
+    [
+      "promotion",
+      4
+    ],
+    [
+      "quickly",
+      4
+    ],
+    [
+      "standard",
+      4
+    ],
+    [
+      "immediately",
+      4
+    ],
+    [
+      "continue",
+      4
+    ],
+    [
+      "increas",
+      4
+    ],
+    [
+      "appropriate",
+      4
+    ],
+    [
+      "afraid",
+      4
+    ],
+    [
+      "turn",
+      4
+    ],
+    [
+      "try",
+      4
+    ],
+    [
+      "lower",
+      4
+    ],
+    [
+      "rude",
+      4
+    ],
+    [
+      "someone",
+      4
+    ],
+    [
+      "explore",
+      4
+    ],
+    [
+      "go",
+      4
+    ],
+    [
+      "phrase",
+      4
+    ],
+    [
+      "smart",
+      4
+    ],
+    [
+      "part",
+      4
+    ],
+    [
+      "practic",
+      4
+    ],
+    [
+      "life",
+      4
+    ],
+    [
+      "career",
+      4
+    ],
+    [
+      "case",
+      4
+    ],
+    [
+      "goodbye",
+      4
+    ],
+    [
+      "listen",
+      3
+    ],
+    [
+      "interviewer",
+      3
+    ],
+    [
+      "strategy",
+      3
+    ],
+    [
+      "move",
+      3
+    ],
+    [
+      "notice",
+      3
+    ],
+    [
+      "field",
+      3
+    ],
+    [
+      "management",
+      3
+    ],
+    [
+      "argument",
+      3
+    ],
+    [
+      "avoid",
+      3
+    ],
+    [
+      "stronger",
+      3
+    ],
+    [
+      "bit",
+      3
+    ],
+    [
+      "second",
+      3
+    ],
+    [
+      "third",
+      3
+    ],
+    [
+      "bye",
+      3
+    ],
+    [
+      "please",
+      3
+    ],
+    [
+      "ah",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "fair",
+      3
+    ],
+    [
+      "room",
+      3
+    ],
+    [
+      "done",
+      3
+    ],
+    [
+      "sense",
+      3
+    ],
+    [
+      "ahead",
+      3
+    ],
+    [
+      "successfully",
+      3
+    ],
+    [
+      "major",
+      3
+    ],
+    [
+      "back",
+      3
+    ],
+    [
+      "fact",
+      3
+    ],
+    [
+      "watch",
+      3
+    ],
+    [
+      "possibility",
+      3
+    ],
+    [
+      "compani",
+      3
+    ],
+    [
+      "candidate",
+      3
+    ],
+    [
+      "youll",
+      3
+    ],
+    [
+      "includ",
+      3
+    ],
+    [
+      "leave",
+      3
+    ],
+    [
+      "nice",
+      3
+    ],
+    [
+      "rang",
+      3
+    ],
+    [
+      "episode",
+      3
+    ],
+    [
+      "share",
+      3
+    ],
+    [
+      "friend",
+      3
+    ],
+    [
+      "receive",
+      3
+    ],
+    [
+      "ready",
+      3
+    ],
+    [
+      "receiv",
+      3
+    ],
+    [
+      "positive",
+      3
+    ],
+    [
+      "low",
+      3
+    ],
+    [
+      "difficult",
+      3
+    ],
+    [
+      "course",
+      3
+    ],
+    [
+      "youve",
+      3
+    ],
+    [
+      "wrap",
+      3
+    ],
+    [
+      "improv",
+      3
+    ],
+    [
+      "bring",
+      3
+    ],
+    [
+      "soft",
+      3
+    ],
+    [
+      "detail",
+      3
+    ],
+    [
+      "reasonable",
+      3
+    ],
+    [
+      "oh",
+      3
+    ],
+    [
+      "environment",
+      2
+    ],
+    [
+      "create",
+      2
+    ],
+    [
+      "struggle",
+      2
+    ],
+    [
+      "com",
+      2
+    ],
+    [
+      "communicate",
+      2
+    ],
+    [
+      "different",
+      2
+    ],
+    [
+      "unsure",
+      2
+    ],
+    [
+      "preparation",
+      2
+    ],
+    [
+      "powerful",
+      2
+    ],
+    [
+      "justify",
+      2
+    ],
+    [
+      "leadership",
+      2
+    ],
+    [
+      "term",
+      2
+    ],
+    [
+      "longer",
+      2
+    ],
+    [
+      "real-life",
+      2
+    ],
+    [
+      "overall",
+      2
+    ],
+    [
+      "end",
+      2
+    ],
+    [
+      "consideration",
+      2
+    ],
+    [
+      "summarize",
+      2
+    ],
+    [
+      "fourth",
+      2
+    ],
+    [
+      "alternativ",
+      2
+    ],
+    [
+      "hope",
+      2
+    ],
+    [
+      "whether",
+      2
+    ],
+    [
+      "cover",
+      2
+    ],
+    [
+      "morn",
+      2
+    ],
+    [
+      "mind",
+      2
+    ],
+    [
+      "find",
+      2
+    ],
+    [
+      "salari",
+      2
+    ],
+    [
+      "around",
+      2
+    ],
+    [
+      "depend",
+      2
+    ],
+    [
+      "employee",
+      2
+    ],
+    [
+      "approach",
+      2
+    ],
+    [
+      "stay",
+      2
+    ],
+    [
+      "ensure",
+      2
+    ],
+    [
+      "specific",
+      2
+    ],
+    [
+      "remain",
+      2
+    ],
+    [
+      "tone",
+      2
+    ],
+    [
+      "future",
+      2
+    ],
+    [
+      "still",
+      2
+    ],
+    [
+      "initial",
+      2
+    ],
+    [
+      "total",
+      2
+    ],
+    [
+      "four",
+      2
+    ],
+    [
+      "using",
+      2
+    ],
+    [
+      "manag",
+      2
+    ],
+    [
+      "finish",
+      2
+    ],
+    [
+      "teach",
+      2
+    ],
+    [
+      "include",
+      2
+    ],
+    [
+      "congratulation",
+      2
+    ],
+    [
+      "mean",
+      2
+    ],
+    [
+      "native",
+      2
+    ],
+    [
+      "speaker",
+      2
+    ],
+    [
+      "basic",
+      2
+    ],
+    [
+      "panic",
+      2
+    ],
+    [
+      "quick",
+      2
+    ],
+    [
+      "already",
+      2
+    ],
+    [
+      "emma",
+      2
+    ],
+    [
+      "big",
+      2
+    ],
+    [
+      "stressful",
+      2
+    ],
+    [
+      "pleas",
+      2
+    ],
+    [
+      "tell",
+      2
+    ],
+    [
+      "wonder",
+      2
+    ],
+    [
+      "requir",
+      1
+    ],
+    [
+      "patient",
+      1
+    ],
+    [
+      "single",
+      1
+    ],
+    [
+      "limit",
+      1
+    ],
+    [
+      "reject",
+      1
+    ],
+    [
+      "structure",
+      1
+    ],
+    [
+      "formula",
+      1
+    ],
+    [
+      "percent",
+      1
+    ],
+    [
+      "combine",
+      1
+    ],
+    [
+      "set",
+      1
+    ],
+    [
+      "convinc",
+      1
+    ],
+    [
+      "introduce",
+      1
+    ],
+    [
+      "solution-orient",
+      1
+    ],
+    [
+      "calmly",
+      1
+    ],
+    [
+      "maybe",
+      1
+    ],
+    [
+      "fight",
+      1
+    ],
+    [
+      "matter",
+      1
+    ],
+    [
+      "board",
+      1
+    ],
+    [
+      "positively",
+      1
+    ],
+    [
+      "tak",
+      1
+    ],
+    [
+      "leav",
+      1
+    ],
+    [
+      "impression",
+      1
+    ],
+    [
+      "video",
+      1
+    ],
+    [
+      "earn",
+      1
+    ],
+    [
+      "super",
+      1
+    ],
+    [
+      "easy",
+      1
+    ],
+    [
+      "together",
+      1
+    ],
+    [
+      "report",
+      1
+    ],
+    [
+      "fresh",
+      1
+    ],
+    [
+      "viewer",
+      1
+    ],
+    [
+      "preface",
+      1
+    ],
+    [
+      "beautiful",
+      1
+    ],
+    [
+      "come",
+      1
+    ],
+    [
+      "state",
+      1
+    ],
+    [
+      "frame",
+      1
+    ],
+    [
+      "university",
+      1
+    ],
+    [
+      "similar",
+      1
+    ],
+    [
+      "city",
+      1
+    ],
+    [
+      "pay",
+      1
+    ],
+    [
+      "dollar",
+      1
+    ],
+    [
+      "worth",
+      1
+    ],
+    [
+      "homework",
+      1
+    ],
+    [
+      "websit",
+      1
+    ],
+    [
+      "glassdoor",
+      1
+    ],
+    [
+      "linkedin",
+      1
+    ],
+    [
+      "payscale",
+      1
+    ],
+    [
+      "peer",
+      1
+    ],
+    [
+      "average",
+      1
+    ],
+    [
+      "location",
+      1
+    ],
+    [
+      "prepare",
+      1
+    ],
+    [
+      "list",
+      1
+    ],
+    [
+      "deliver",
+      1
+    ],
+    [
+      "accordingly",
+      1
+    ],
+    [
+      "personal",
+      1
+    ],
+    [
+      "expens",
+      1
+    ],
+    [
+      "alternative",
+      1
+    ],
+    [
+      "performance-bas",
+      1
+    ],
+    [
+      "correct",
+      1
+    ],
+    [
+      "add",
+      1
+    ],
+    [
+      "led",
+      1
+    ],
+    [
+      "revenue",
+      1
+    ],
+    [
+      "currently",
+      1
+    ],
+    [
+      "tight",
+      1
+    ],
+    [
+      "impact",
+      1
+    ],
+    [
+      "halfway",
+      1
+    ],
+    [
+      "perhap",
+      1
+    ],
+    [
+      "present",
+      1
+    ],
+    [
+      "tricky",
+      1
+    ],
+    [
+      "bigger",
+      1
+    ],
+    [
+      "casual",
+      1
+    ],
+    [
+      "interpret",
+      1
+    ],
+    [
+      "demand",
+      1
+    ],
+    [
+      "constraint",
+      1
+    ],
+    [
+      "goal",
+      1
+    ],
+    [
+      "allow",
+      1
+    ],
+    [
+      "near",
+      1
+    ],
+    [
+      "proactive",
+      1
+    ],
+    [
+      "train",
+      1
+    ],
+    [
+      "hr",
+      1
+    ],
+    [
+      "enthusiasm",
+      1
+    ],
+    [
+      "provide",
+      1
+    ],
+    [
+      "health",
+      1
+    ],
+    [
+      "insurance",
+      1
+    ],
+    [
+      "along",
+      1
+    ],
+    [
+      "outcome",
+      1
+    ],
+    [
+      "risk",
+      1
+    ],
+    [
+      "little",
+      1
+    ],
+    [
+      "emotional",
+      1
+    ],
+    [
+      "pause",
+      1
+    ],
+    [
+      "threaten",
+      1
+    ],
+    [
+      "quit",
+      1
+    ],
+    [
+      "never",
+      1
+    ],
+    [
+      "six",
+      1
+    ],
+    [
+      "refer",
+      1
+    ],
+    [
+      "rat",
+      1
+    ],
+    [
+      "seven",
+      1
+    ],
+    [
+      "actual",
+      1
+    ],
+    [
+      "combin",
+      1
+    ],
+    [
+      "mentor",
+      1
+    ],
+    [
+      "junior",
+      1
+    ],
+    [
+      "staff",
+      1
+    ],
+    [
+      "hard",
+      1
+    ],
+    [
+      "finance",
+      1
+    ],
+    [
+      "podcast",
+      1
+    ],
+    [
+      "communication",
+      1
+    ],
+    [
+      "follow",
+      1
+    ],
+    [
+      "grow",
+      1
+    ],
+    [
+      "scary",
+      1
+    ],
+    [
+      "safe",
+      1
+    ],
+    [
+      "response",
+      1
+    ],
+    [
+      "unfortunately",
+      1
+    ],
+    [
+      "mindset",
+      1
+    ],
+    [
+      "internal",
+      1
+    ],
+    [
+      "recent",
+      1
+    ],
+    [
+      "front",
+      1
+    ],
+    [
+      "mirror",
+      1
+    ],
+    [
+      "chang",
+      1
+    ],
+    [
+      "competitive",
+      1
+    ],
+    [
+      "completely",
+      1
+    ],
+    [
+      "achiev",
+      1
+    ],
+    [
+      "consistently",
+      1
+    ],
+    [
+      "target",
+      1
+    ],
+    [
+      "success",
+      1
+    ],
+    [
+      "moment",
+      1
+    ],
+    [
+      "complet",
+      1
+    ],
+    [
+      "qualify",
+      1
+    ],
+    [
+      "race",
+      1
+    ],
+    [
+      "motivat",
+      1
+    ],
+    [
+      "valuable",
+      1
+    ],
+    [
+      "probably",
+      1
+    ],
+    [
+      "favor",
+      1
+    ],
+    [
+      "glad",
+      1
+    ],
+    [
+      "vague",
+      1
+    ],
+    [
+      "anyth",
+      1
+    ],
+    [
+      "fine",
+      1
+    ],
+    [
+      "lack",
+      1
+    ],
+    [
+      "message",
+      1
+    ],
+    [
+      "strategi",
+      1
+    ],
+    [
+      "change",
+      1
+    ],
+    [
+      "someon",
+      1
+    ],
+    [
+      "wait",
+      1
+    ],
+    [
+      "famous",
+      1
+    ],
+    [
+      "worry",
+      1
+    ],
+    [
+      "effective",
+      1
+    ],
+    [
+      "conflict",
+      1
+    ],
+    [
+      "smooth",
+      1
+    ],
+    [
+      "shy",
+      1
+    ],
+    [
+      "candidat",
+      1
+    ],
+    [
+      "least",
+      1
+    ],
+    [
+      "unacceptable",
+      1
+    ],
+    [
+      "welcome",
+      1
+    ],
+    [
+      "reach",
+      1
+    ],
+    [
+      "deal",
+      1
+    ],
+    [
+      "clos",
+      1
+    ],
+    [
+      "agree",
+      1
+    ],
+    [
+      "paid",
+      1
+    ],
+    [
+      "fairly",
+      1
+    ],
+    [
+      "role-play",
+      1
+    ],
+    [
+      "care",
+      1
+    ],
+    [
+      "jam",
+      1
+    ],
+    [
+      "creat",
+      1
+    ],
+    [
+      "content",
+      1
+    ],
+    [
+      "extremely",
+      1
+    ],
+    [
+      "wow",
+      1
+    ],
+    [
+      "huge",
+      1
+    ],
+    [
+      "difference",
+      1
+    ],
+    [
+      "comfortable",
+      1
+    ],
+    [
+      "amaz",
+      1
+    ],
+    [
+      "listener",
+      1
+    ],
+    [
+      "busy",
+      1
+    ],
+    [
+      "dive",
+      1
+    ],
+    [
+      "risky",
+      1
+    ],
+    [
+      "kind",
+      1
+    ],
+    [
+      "impressive",
+      1
+    ],
+    [
+      "relationship",
+      1
+    ],
+    [
+      "schedule",
+      1
+    ],
+    [
+      "negative",
+      1
+    ],
+    [
+      "able",
+      1
+    ],
+    [
+      "sign",
+      1
+    ],
+    [
+      "final",
+      1
+    ],
+    [
+      "tip",
+      1
+    ],
+    [
+      "compromise",
+      1
+    ],
+    [
+      "finally",
+      1
+    ],
+    [
+      "ever",
+      1
+    ],
+    [
+      "write",
+      1
+    ],
+    [
+      "sentenc",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 7964,
+    "unique_words": 545,
+    "duration_min": 55.1
+  }
+}

@@ -12,11 +12,11 @@
 | 8 | The Mindset Trap Most Professionals Fall Into Business English Learning | 74.0 | done | 1856 | [08_TheMindsetTrapMostProfessionalsFallIntoBusinessEnglishLearning.md](08_TheMindsetTrapMostProfessionalsFallIntoBusinessEnglishLearning.md) |
 | 9 | 100 Real Conversations & How to use AI in Business Meetings | 39.8 | done | 614 | [09_100RealConversationsHowtouseAIinBusinessMeetings.md](09_100RealConversationsHowtouseAIinBusinessMeetings.md) |
 | 10 | How to Discuss About Changing Your Job Professionally | 55.1 | done | 614 | [10_HowtoDiscussAboutChangingYourJobProfessionally.md](10_HowtoDiscussAboutChangingYourJobProfessionally.md) |
-| 11 | How to Speak with Coworkers in Office Conversations | 68.3 | pending |  | 11_HowtoSpeakwithCoworkersinOfficeConversations.md |
-| 12 | 100 Essential Phrases about workplace communication | 38.3 | pending |  | 12_100EssentialPhrasesaboutworkplacecommunication.md |
-| 13 | How to Improve your Presentation Skills in Business English | 42.4 | pending |  | 13_HowtoImproveyourPresentationSkillsinBusinessEnglish.md |
-| 14 | How to talk About Salary Negotiation & 10 Essential Approaches | 55.1 | pending |  | 14_HowtotalkAboutSalaryNegotiation10EssentialApproaches.md |
-| 15 | How to Speak up in Business Meeting with Confidence & 100 Essential Phrases | 48.3 | pending |  | 15_HowtoSpeakupinBusinessMeetingwithConfidence100EssentialPhrases.md |
+| 11 | How to Speak with Coworkers in Office Conversations | 68.3 | done | 715 | [11_HowtoSpeakwithCoworkersinOfficeConversations.md](11_HowtoSpeakwithCoworkersinOfficeConversations.md) |
+| 12 | 100 Essential Phrases about workplace communication | 38.3 | done | 493 | [12_100EssentialPhrasesaboutworkplacecommunication.md](12_100EssentialPhrasesaboutworkplacecommunication.md) |
+| 13 | How to Improve your Presentation Skills in Business English | 42.4 | done | 588 | [13_HowtoImproveyourPresentationSkillsinBusinessEnglish.md](13_HowtoImproveyourPresentationSkillsinBusinessEnglish.md) |
+| 14 | How to talk About Salary Negotiation & 10 Essential Approaches | 55.1 | done | 545 | [14_HowtotalkAboutSalaryNegotiation10EssentialApproaches.md](14_HowtotalkAboutSalaryNegotiation10EssentialApproaches.md) |
+| 15 | How to Speak up in Business Meeting with Confidence & 100 Essential Phrases | 48.3 | done | 625 | [15_HowtoSpeakupinBusinessMeetingwithConfidence100EssentialPhrases.md](15_HowtoSpeakupinBusinessMeetingwithConfidence100EssentialPhrases.md) |
 | 16 | How to Explain Work Experience in Job Interview | 48.6 | pending |  | 16_HowtoExplainWorkExperienceinJobInterview.md |
 | 17 | How to Talk About Your Job in English | 53.6 | pending |  | 17_HowtoTalkAboutYourJobinEnglish.md |
 | 18 | How to Talk About Your Achievement in Business Meetings | 41.7 | pending |  | 18_HowtoTalkAboutYourAchievementinBusinessMeetings.md |

@@ -226,13 +226,13 @@
     "slug": "HowtoSpeakwithCoworkersinOfficeConversations",
     "file_stem": "11_HowtoSpeakwithCoworkersinOfficeConversations",
     "duration_min": 68.3,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.995,
+      "word_count": 10949,
+      "repetition_ratio": 0.0625,
       "flags": []
     }
   },
@@ -247,13 +247,13 @@
     "slug": "100EssentialPhrasesaboutworkplacecommunication",
     "file_stem": "12_100EssentialPhrasesaboutworkplacecommunication",
     "duration_min": 38.3,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.994,
+      "word_count": 5863,
+      "repetition_ratio": 0.0435,
       "flags": []
     }
   },
@@ -268,13 +268,13 @@
     "slug": "HowtoImproveyourPresentationSkillsinBusinessEnglish",
     "file_stem": "13_HowtoImproveyourPresentationSkillsinBusinessEnglish",
     "duration_min": 42.4,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.995,
+      "word_count": 5861,
+      "repetition_ratio": 0.0588,
       "flags": []
     }
   },
@@ -291,13 +291,13 @@
     "slug": "HowtotalkAboutSalaryNegotiation10EssentialApproaches",
     "file_stem": "14_HowtotalkAboutSalaryNegotiation10EssentialApproaches",
     "duration_min": 55.1,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.996,
+      "word_count": 7969,
+      "repetition_ratio": 0.037,
       "flags": []
     }
   },
@@ -314,13 +314,13 @@
     "slug": "HowtoSpeakupinBusinessMeetingwithConfidence100EssentialPhrases",
     "file_stem": "15_HowtoSpeakupinBusinessMeetingwithConfidence100EssentialPhrases",
     "duration_min": 48.3,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.996,
+      "word_count": 7163,
+      "repetition_ratio": 0.037,
       "flags": []
     }
   },
