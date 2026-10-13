@@ -1,0 +1,7009 @@
+{
+  "file_stem": "04_HowtoStopProcrastination",
+  "no": 4,
+  "title_keywords": [
+    [
+      "stop",
+      "stop"
+    ],
+    [
+      "procrastination",
+      "procrastination"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "task",
+      93,
+      "B1+"
+    ],
+    [
+      "start",
+      58,
+      "A2"
+    ],
+    [
+      "work",
+      50,
+      "A2"
+    ],
+    [
+      "procrastination",
+      46,
+      "B1+"
+    ],
+    [
+      "exactly",
+      44,
+      "B1+"
+    ],
+    [
+      "feel",
+      43,
+      "A2"
+    ],
+    [
+      "time",
+      33,
+      "A2"
+    ],
+    [
+      "focus",
+      32,
+      "B1+"
+    ],
+    [
+      "talk",
+      30,
+      "A2"
+    ],
+    [
+      "think",
+      30,
+      "A2"
+    ],
+    [
+      "delay",
+      29,
+      "B1+"
+    ],
+    [
+      "step",
+      29,
+      "A2"
+    ],
+    [
+      "today",
+      29,
+      "A2"
+    ],
+    [
+      "important",
+      28,
+      "A2"
+    ],
+    [
+      "break",
+      25,
+      "B1+"
+    ],
+    [
+      "one",
+      24,
+      "A2"
+    ],
+    [
+      "situation",
+      24,
+      "A2"
+    ],
+    [
+      "example",
+      23,
+      "A2"
+    ],
+    [
+      "help",
+      23,
+      "A2"
+    ],
+    [
+      "good",
+      22,
+      "A2"
+    ],
+    [
+      "conversation",
+      21,
+      "B1+"
+    ],
+    [
+      "small",
+      20,
+      "A2"
+    ],
+    [
+      "another",
+      18,
+      "A2"
+    ],
+    [
+      "first",
+      18,
+      "A2"
+    ],
+    [
+      "keep",
+      18,
+      "A2"
+    ],
+    [
+      "english",
+      17,
+      "A2"
+    ],
+    [
+      "report",
+      17,
+      "A2"
+    ],
+    [
+      "avoid",
+      16,
+      "B1+"
+    ],
+    [
+      "great",
+      16,
+      "A2"
+    ],
+    [
+      "sometimes",
+      16,
+      "B1+"
+    ],
+    [
+      "thank",
+      16,
+      "A2"
+    ],
+    [
+      "even",
+      15,
+      "B1+"
+    ],
+    [
+      "often",
+      15,
+      "A2"
+    ],
+    [
+      "progress",
+      15,
+      "B1+"
+    ],
+    [
+      "real",
+      15,
+      "A2"
+    ],
+    [
+      "action",
+      14,
+      "B1+"
+    ],
+    [
+      "instead",
+      14,
+      "A2"
+    ],
+    [
+      "also",
+      13,
+      "A2"
+    ],
+    [
+      "makes",
+      13,
+      "B1+"
+    ],
+    [
+      "perfect",
+      13,
+      "A2"
+    ],
+    [
+      "something",
+      13,
+      "B1+"
+    ],
+    [
+      "sure",
+      13,
+      "A2"
+    ],
+    [
+      "try",
+      13,
+      "A2"
+    ],
+    [
+      "workplace",
+      13,
+      "B1+"
+    ],
+    [
+      "common",
+      12,
+      "A2"
+    ],
+    [
+      "everyone",
+      12,
+      "A2"
+    ],
+    [
+      "part",
+      12,
+      "A2"
+    ],
+    [
+      "practical",
+      12,
+      "B1+"
+    ],
+    [
+      "practice",
+      12,
+      "A2"
+    ],
+    [
+      "smaller",
+      12,
+      "B1+"
+    ],
+    [
+      "sounds",
+      12,
+      "A2"
+    ],
+    [
+      "take",
+      12,
+      "A2"
+    ],
+    [
+      "big",
+      11,
+      "A2"
+    ],
+    [
+      "distractions",
+      11,
+      "B1+"
+    ],
+    [
+      "goal",
+      11,
+      "B1+"
+    ],
+    [
+      "imagine",
+      11,
+      "A2"
+    ],
+    [
+      "many",
+      11,
+      "A2"
+    ],
+    [
+      "mean",
+      11,
+      "A2"
+    ],
+    [
+      "mindset",
+      11,
+      "B1+"
+    ],
+    [
+      "use",
+      11,
+      "A2"
+    ],
+    [
+      "data",
+      10,
+      "B1+"
+    ],
+    [
+      "deadlines",
+      10,
+      "B1+"
+    ],
+    [
+      "easier",
+      10,
+      "B1+"
+    ],
+    [
+      "finish",
+      10,
+      "A2"
+    ],
+    [
+      "know",
+      10,
+      "A2"
+    ],
+    [
+      "make",
+      10,
+      "A2"
+    ],
+    [
+      "people",
+      10,
+      "A2"
+    ],
+    [
+      "say",
+      10,
+      "A2"
+    ],
+    [
+      "approach",
+      9,
+      "B1+"
+    ],
+    [
+      "build",
+      9,
+      "A2"
+    ],
+    [
+      "daniel",
+      9,
+      "B1+"
+    ],
+    [
+      "deadline",
+      9,
+      "B1+"
+    ],
+    [
+      "emails",
+      9,
+      "A2"
+    ],
+    [
+      "going",
+      9,
+      "B1+"
+    ],
+    [
+      "minutes",
+      9,
+      "B1+"
+    ],
+    [
+      "motivates",
+      9,
+      "B1+"
+    ],
+    [
+      "need",
+      9,
+      "A2"
+    ],
+    [
+      "overwhelmed",
+      9,
+      "B1+"
+    ],
+    [
+      "plan",
+      9,
+      "A2"
+    ],
+    [
+      "point",
+      9,
+      "A2"
+    ],
+    [
+      "stay",
+      9,
+      "A2"
+    ],
+    [
+      "blocks",
+      8,
+      "A2"
+    ],
+    [
+      "complete",
+      8,
+      "B1+"
+    ],
+    [
+      "creates",
+      8,
+      "B1+"
+    ],
+    [
+      "happens",
+      8,
+      "A2"
+    ],
+    [
+      "improve",
+      8,
+      "B1+"
+    ],
+    [
+      "less",
+      8,
+      "A2"
+    ],
+    [
+      "much",
+      8,
+      "A2"
+    ],
+    [
+      "question",
+      8,
+      "A2"
+    ],
+    [
+      "reduces",
+      8,
+      "B1+"
+    ],
+    [
+      "speak",
+      8,
+      "A2"
+    ],
+    [
+      "strategy",
+      8,
+      "B1+"
+    ],
+    [
+      "asking",
+      7,
+      "A2"
+    ],
+    [
+      "beat",
+      7,
+      "A2"
+    ],
+    [
+      "continue",
+      7,
+      "B1+"
+    ],
+    [
+      "create",
+      7,
+      "A2"
+    ],
+    [
+      "detailed",
+      7,
+      "B1+"
+    ],
+    [
+      "discussed",
+      7,
+      "B1+"
+    ],
+    [
+      "reduce",
+      7,
+      "B1+"
+    ],
+    [
+      "rewards",
+      7,
+      "B1+"
+    ],
+    [
+      "see",
+      7,
+      "A2"
+    ],
+    [
+      "sense",
+      7,
+      "A2"
+    ],
+    [
+      "set",
+      7,
+      "B1+"
+    ],
+    [
+      "sophia",
+      7,
+      "B1+"
+    ],
+    [
+      "strong",
+      7,
+      "A2"
+    ],
+    [
+      "tell",
+      7,
+      "A2"
+    ],
+    [
+      "welcome",
+      7,
+      "A2"
+    ],
+    [
+      "affect",
+      6,
+      "B1+"
+    ],
+    [
+      "analysis",
+      6,
+      "B1+"
+    ],
+    [
+      "brain",
+      6,
+      "B1+"
+    ],
+    [
+      "completing",
+      6,
+      "B1+"
+    ],
+    [
+      "day",
+      6,
+      "A2"
+    ],
+    [
+      "especially",
+      6,
+      "B1+"
+    ],
+    [
+      "examples",
+      6,
+      "B1+"
+    ],
+    [
+      "give",
+      6,
+      "A2"
+    ],
+    [
+      "honest",
+      6,
+      "A2"
+    ],
+    [
+      "idea",
+      6,
+      "A2"
+    ],
+    [
+      "key",
+      6,
+      "A2"
+    ],
+    [
+      "main",
+      6,
+      "A2"
+    ],
+    [
+      "motivation",
+      6,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "let's talk",
+      "count": 18,
+      "example": "Let's talk about another reason for procrastination. Do you ever feel afraid of making mistakes?",
+      "t": 274.38
+    },
+    {
+      "text": "that's a great",
+      "count": 9,
+      "example": "That's a great point. Procrastination is often linked to emotions, not just time management.",
+      "t": 68.5
+    },
+    {
+      "text": "we're going",
+      "count": 8,
+      "example": "And today we're going to talk about something that almost everyone experiences at some point",
+      "t": 38.9
+    },
+    {
+      "text": "important tasks",
+      "count": 8,
+      "example": "Many professionals have important tasks to complete, but sometimes they delay starting",
+      "t": 52.08
+    },
+    {
+      "text": "smaller steps",
+      "count": 8,
+      "example": "That does sound like a large task. Maybe we can divide it into smaller steps.",
+      "t": 190.42
+    },
+    {
+      "text": "procrastination at work",
+      "count": 7,
+      "example": "Yes, today's topic is how to beat procrastination at work.",
+      "t": 44.78
+    },
+    {
+      "text": "that's very common",
+      "count": 7,
+      "example": "That's very common. Perfectionism often leads to procrastination.",
+      "t": 285.82
+    },
+    {
+      "text": "beat procrastination",
+      "count": 6,
+      "example": "Yes, today's topic is how to beat procrastination at work.",
+      "t": 44.78
+    },
+    {
+      "text": "first step",
+      "count": 6,
+      "example": "Okay, let's break it into parts. What is the first step?",
+      "t": 200.46
+    },
+    {
+      "text": "that's a strong",
+      "count": 6,
+      "example": "Excellent. That's a strong plan.",
+      "t": 413.52
+    }
+  ],
+  "phrases": [
+    {
+      "text": "let's talk",
+      "count": 18,
+      "example": "Let's talk about another reason for procrastination. Do you ever feel afraid of making mistakes?",
+      "t": 274.38
+    },
+    {
+      "text": "that's a great",
+      "count": 9,
+      "example": "That's a great point. Procrastination is often linked to emotions, not just time management.",
+      "t": 68.5
+    },
+    {
+      "text": "we're going",
+      "count": 8,
+      "example": "And today we're going to talk about something that almost everyone experiences at some point",
+      "t": 38.9
+    },
+    {
+      "text": "important tasks",
+      "count": 8,
+      "example": "Many professionals have important tasks to complete, but sometimes they delay starting",
+      "t": 52.08
+    },
+    {
+      "text": "smaller steps",
+      "count": 8,
+      "example": "That does sound like a large task. Maybe we can divide it into smaller steps.",
+      "t": 190.42
+    },
+    {
+      "text": "procrastination at work",
+      "count": 7,
+      "example": "Yes, today's topic is how to beat procrastination at work.",
+      "t": 44.78
+    },
+    {
+      "text": "that's very common",
+      "count": 7,
+      "example": "That's very common. Perfectionism often leads to procrastination.",
+      "t": 285.82
+    },
+    {
+      "text": "beat procrastination",
+      "count": 6,
+      "example": "Yes, today's topic is how to beat procrastination at work.",
+      "t": 44.78
+    },
+    {
+      "text": "first step",
+      "count": 6,
+      "example": "Okay, let's break it into parts. What is the first step?",
+      "t": 200.46
+    },
+    {
+      "text": "that's a strong",
+      "count": 6,
+      "example": "Excellent. That's a strong plan.",
+      "t": 413.52
+    },
+    {
+      "text": "many people",
+      "count": 6,
+      "example": "Exactly. And many people think procrastination is just about laziness,",
+      "t": 633.46
+    },
+    {
+      "text": "practical examples",
+      "count": 5,
+      "example": "we help you speak English naturally and confidently through real conversations, practical examples,",
+      "t": 29.06
+    },
+    {
+      "text": "workplace situations",
+      "count": 5,
+      "example": "and everyday workplace situations.",
+      "t": 35.26
+    },
+    {
+      "text": "today we're",
+      "count": 5,
+      "example": "And today we're going to talk about something that almost everyone experiences at some point",
+      "t": 38.9
+    },
+    {
+      "text": "today we're going",
+      "count": 5,
+      "example": "And today we're going to talk about something that almost everyone experiences at some point",
+      "t": 38.9
+    },
+    {
+      "text": "going to talk",
+      "count": 5,
+      "example": "And today we're going to talk about something that almost everyone experiences at some point",
+      "t": 38.9
+    },
+    {
+      "text": "makes sense",
+      "count": 5,
+      "example": "That makes sense. When something feels too big, our brain tries to avoid it.",
+      "t": 157.26
+    },
+    {
+      "text": "talk about another",
+      "count": 5,
+      "example": "Let's talk about another reason for procrastination. Do you ever feel afraid of making mistakes?",
+      "t": 274.38
+    },
+    {
+      "text": "that's true",
+      "count": 5,
+      "example": "That's true. I spend too much time thinking instead of doing.",
+      "t": 290.46
+    },
+    {
+      "text": "one task",
+      "count": 5,
+      "example": "by time blocking? It means setting a specific period of time to focus on one task without",
+      "t": 804.9
+    },
+    {
+      "text": "welcome back",
+      "count": 4,
+      "example": "Hello and welcome back to Business English Podcast.",
+      "t": 14.18
+    },
+    {
+      "text": "business english",
+      "count": 4,
+      "example": "Hello and welcome back to Business English Podcast.",
+      "t": 14.18
+    },
+    {
+      "text": "hello and welcome",
+      "count": 4,
+      "example": "Hello and welcome back to Business English Podcast.",
+      "t": 14.18
+    },
+    {
+      "text": "happy you're",
+      "count": 4,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel,",
+      "t": 23.98
+    },
+    {
+      "text": "us today",
+      "count": 4,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel,",
+      "t": 23.98
+    },
+    {
+      "text": "we're really happy",
+      "count": 4,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel,",
+      "t": 23.98
+    },
+    {
+      "text": "you're here learning",
+      "count": 4,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel,",
+      "t": 23.98
+    },
+    {
+      "text": "learning with us",
+      "count": 4,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel,",
+      "t": 23.98
+    },
+    {
+      "text": "real conversations",
+      "count": 4,
+      "example": "we help you speak English naturally and confidently through real conversations, practical examples,",
+      "t": 29.06
+    },
+    {
+      "text": "today's topic",
+      "count": 4,
+      "example": "Yes, today's topic is how to beat procrastination at work.",
+      "t": 44.78
+    },
+    {
+      "text": "real workplace",
+      "count": 4,
+      "example": "We'll also include real workplace examples and natural English phrases you can use in conversations.",
+      "t": 85.7
+    },
+    {
+      "text": "small steps",
+      "count": 4,
+      "example": "The goal is to take action, even small steps, and build momentum.",
+      "t": 95.54
+    },
+    {
+      "text": "let's begin",
+      "count": 4,
+      "example": "Exactly. So let's begin.",
+      "t": 100.34
+    },
+    {
+      "text": "don't know",
+      "count": 4,
+      "example": "I don't know where to start, so I end up doing smaller, less important tasks instead.",
+      "t": 151.82
+    },
+    {
+      "text": "less important",
+      "count": 4,
+      "example": "I don't know where to start, so I end up doing smaller, less important tasks instead.",
+      "t": 151.82
+    },
+    {
+      "text": "that's a classic",
+      "count": 4,
+      "example": "That's a classic sign of procrastination. You're busy, but not productive.",
+      "t": 170.06
+    },
+    {
+      "text": "main task",
+      "count": 4,
+      "example": "Let's try to break it down. What is the main task you've been avoiding?",
+      "t": 177.26
+    },
+    {
+      "text": "instead of thinking",
+      "count": 4,
+      "example": "So instead of thinking about the entire report, you can focus on just one step at a time.",
+      "t": 217.42
+    },
+    {
+      "text": "that's a good",
+      "count": 4,
+      "example": "That's a good idea. I'm usually more focused in the morning.",
+      "t": 241.62
+    },
+    {
+      "text": "focus on progress",
+      "count": 4,
+      "example": "A good strategy is to focus on progress, not perfection.",
+      "t": 294.94
+    },
+    {
+      "text": "becomes easier",
+      "count": 4,
+      "example": "Exactly. Once you start, it becomes easier to continue.",
+      "t": 306.86
+    },
+    {
+      "text": "hardest part",
+      "count": 4,
+      "example": "I think starting is the hardest part.",
+      "t": 310.94
+    },
+    {
+      "text": "another strategy",
+      "count": 4,
+      "example": "Another strategy is to remove distractions. What usually distracts you?",
+      "t": 332.3
+    },
+    {
+      "text": "time blocks",
+      "count": 4,
+      "example": "Also, you can set specific time blocks for focused work.",
+      "t": 348.24
+    },
+    {
+      "text": "task into smaller",
+      "count": 4,
+      "example": "Or, I'm breaking this task into smaller steps",
+      "t": 500.38
+    },
+    {
+      "text": "much for listening",
+      "count": 4,
+      "example": "Thank you so much for listening today.",
+      "t": 584.14
+    },
+    {
+      "text": "goodbye everyone",
+      "count": 4,
+      "example": "Goodbye, everyone.",
+      "t": 592.54
+    },
+    {
+      "text": "let's imagine",
+      "count": 4,
+      "example": "Now let's imagine a real work situation.",
+      "t": 831.24
+    },
+    {
+      "text": "i'm working",
+      "count": 4,
+      "example": "Sometimes I'm busy, but I'm working on less important things.",
+      "t": 1221.78
+    },
+    {
+      "text": "english podcast",
+      "count": 3,
+      "example": "Hello and welcome back to Business English Podcast.",
+      "t": 14.18
+    },
+    {
+      "text": "back to business",
+      "count": 3,
+      "example": "Hello and welcome back to Business English Podcast.",
+      "t": 14.18
+    },
+    {
+      "text": "business english podcast",
+      "count": 3,
+      "example": "Hello and welcome back to Business English Podcast.",
+      "t": 14.18
+    },
+    {
+      "text": "hi everyone",
+      "count": 3,
+      "example": "Hi everyone, welcome to today's English Conversation Practice. I'm Daniel.",
+      "t": 18.3
+    },
+    {
+      "text": "i'm daniel",
+      "count": 3,
+      "example": "Hi everyone, welcome to today's English Conversation Practice. I'm Daniel.",
+      "t": 18.3
+    },
+    {
+      "text": "i'm sophia",
+      "count": 3,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel,",
+      "t": 23.98
+    },
+    {
+      "text": "speak english",
+      "count": 3,
+      "example": "we help you speak English naturally and confidently through real conversations, practical examples,",
+      "t": 29.06
+    },
+    {
+      "text": "english naturally",
+      "count": 3,
+      "example": "we help you speak English naturally and confidently through real conversations, practical examples,",
+      "t": 29.06
+    },
+    {
+      "text": "help you speak",
+      "count": 3,
+      "example": "we help you speak English naturally and confidently through real conversations, practical examples,",
+      "t": 29.06
+    },
+    {
+      "text": "speak english naturally",
+      "count": 3,
+      "example": "we help you speak English naturally and confidently through real conversations, practical examples,",
+      "t": 29.06
+    },
+    {
+      "text": "confidently through real",
+      "count": 3,
+      "example": "we help you speak English naturally and confidently through real conversations, practical examples,",
+      "t": 29.06
+    },
+    {
+      "text": "almost everyone",
+      "count": 3,
+      "example": "And today we're going to talk about something that almost everyone experiences at some point",
+      "t": 38.9
+    },
+    {
+      "text": "talk about something",
+      "count": 3,
+      "example": "And today we're going to talk about something that almost everyone experiences at some point",
+      "t": 38.9
+    },
+    {
+      "text": "delay starting",
+      "count": 3,
+      "example": "Many professionals have important tasks to complete, but sometimes they delay starting",
+      "t": 52.08
+    },
+    {
+      "text": "feeling overwhelmed",
+      "count": 3,
+      "example": "Often it's about feeling overwhelmed, uncertain, or even afraid of making mistakes.",
+      "t": 62.5
+    },
+    {
+      "text": "making mistakes",
+      "count": 3,
+      "example": "Often it's about feeling overwhelmed, uncertain, or even afraid of making mistakes.",
+      "t": 62.5
+    },
+    {
+      "text": "afraid of making",
+      "count": 3,
+      "example": "Often it's about feeling overwhelmed, uncertain, or even afraid of making mistakes.",
+      "t": 62.5
+    },
+    {
+      "text": "great point",
+      "count": 3,
+      "example": "That's a great point. Procrastination is often linked to emotions, not just time management.",
+      "t": 68.5
+    },
+    {
+      "text": "procrastination happens",
+      "count": 3,
+      "example": "procrastination happens and how to overcome it using practical strategies.",
+      "t": 80.5
+    },
+    {
+      "text": "we'll also",
+      "count": 3,
+      "example": "We'll also include real workplace examples and natural English phrases you can use in conversations.",
+      "t": 85.7
+    },
+    {
+      "text": "keep delaying",
+      "count": 3,
+      "example": "Honestly, I feel a bit overwhelmed. I know what needs to be done, but I keep delaying starting the most important parts.",
+      "t": 134.14
+    },
+    {
+      "text": "task feels",
+      "count": 3,
+      "example": "I think part of it is that the task feels too big.",
+      "t": 148.14
+    },
+    {
+      "text": "feels too big",
+      "count": 3,
+      "example": "I think part of it is that the task feels too big.",
+      "t": 148.14
+    },
+    {
+      "text": "less important tasks",
+      "count": 3,
+      "example": "I don't know where to start, so I end up doing smaller, less important tasks instead.",
+      "t": 151.82
+    },
+    {
+      "text": "data analysis",
+      "count": 3,
+      "example": "The main task is preparing the final project report. It includes data analysis, writing,",
+      "t": 182.54
+    },
+    {
+      "text": "good idea",
+      "count": 3,
+      "example": "That's a good idea. I'm usually more focused in the morning.",
+      "t": 241.62
+    },
+    {
+      "text": "easier to continue",
+      "count": 3,
+      "example": "Exactly. Once you start, it becomes easier to continue.",
+      "t": 306.86
+    },
+    {
+      "text": "social media",
+      "count": 3,
+      "example": "My phone, emails, and sometimes social media.",
+      "t": 337.5
+    },
+    {
+      "text": "reduce procrastination",
+      "count": 3,
+      "example": "Clear goals reduce procrastination.",
+      "t": 389.64
+    },
+    {
+      "text": "let's continue",
+      "count": 3,
+      "example": "Let's continue with a real scenario.",
+      "t": 393.88
+    },
+    {
+      "text": "strong plan",
+      "count": 3,
+      "example": "Excellent. That's a strong plan.",
+      "t": 413.52
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen, practice, speak. Practice makes you perfect."
+    },
+    {
+      "t": 14.18,
+      "text": "Hello and welcome back to Business English Podcast."
+    },
+    {
+      "t": 18.3,
+      "text": "Hi everyone, welcome to today's English Conversation Practice. I'm Daniel."
+    },
+    {
+      "t": 23.98,
+      "text": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel,"
+    },
+    {
+      "t": 29.06,
+      "text": "we help you speak English naturally and confidently through real conversations, practical examples,"
+    },
+    {
+      "t": 35.26,
+      "text": "and everyday workplace situations."
+    },
+    {
+      "t": 37.9,
+      "text": "That's right!"
+    },
+    {
+      "t": 38.9,
+      "text": "And today we're going to talk about something that almost everyone experiences at some point"
+    },
+    {
+      "t": 43.5,
+      "text": "in their career."
+    },
+    {
+      "t": 44.78,
+      "text": "Yes, today's topic is how to beat procrastination at work."
+    },
+    {
+      "t": 49.74,
+      "text": "This is a very common challenge."
+    },
+    {
+      "t": 52.08,
+      "text": "Many professionals have important tasks to complete, but sometimes they delay starting"
+    },
+    {
+      "t": 57.02,
+      "text": "or finishing them."
+    },
+    {
+      "t": 58.74,
+      "text": "Exactly."
+    },
+    {
+      "t": 59.74,
+      "text": "And procrastination doesn't mean you are lazy."
+    },
+    {
+      "t": 62.5,
+      "text": "Often it's about feeling overwhelmed, uncertain, or even afraid of making mistakes."
+    },
+    {
+      "t": 68.5,
+      "text": "That's a great point. Procrastination is often linked to emotions, not just time management."
+    },
+    {
+      "t": 74.58,
+      "text": "So today we're going to simulate a detailed and realistic conversation where we explore why"
+    },
+    {
+      "t": 80.5,
+      "text": "procrastination happens and how to overcome it using practical strategies."
+    },
+    {
+      "t": 85.7,
+      "text": "We'll also include real workplace examples and natural English phrases you can use in conversations."
+    },
+    {
+      "t": 92.34,
+      "text": "And remember, the goal is not to be perfect."
+    },
+    {
+      "t": 95.54,
+      "text": "The goal is to take action, even small steps, and build momentum."
+    },
+    {
+      "t": 100.34,
+      "text": "Exactly. So let's begin."
+    },
+    {
+      "t": 102.66,
+      "text": "Imagine this situation. Sophia and I are colleagues discussing a project deadline that is approaching."
+    },
+    {
+      "t": 109.3,
+      "text": "Yes, and Daniel has been delaying some important tasks,"
+    },
+    {
+      "t": 112.98,
+      "text": "so we're going to talk through it and find solutions together."
+    },
+    {
+      "t": 116.5,
+      "text": "All right, let's start the conversation."
+    },
+    {
+      "t": 119.14,
+      "text": "Hey, Daniel. Do you have a few minutes to talk about the project timeline?"
+    },
+    {
+      "t": 123.14,
+      "text": "Yes, of course, Sophia. I was actually just looking at it."
+    },
+    {
+      "t": 126.64,
+      "text": "Great. I noticed that some tasks are still pending and the deadline is getting close. How are you feeling about it?"
+    },
+    {
+      "t": 134.14,
+      "text": "Honestly, I feel a bit overwhelmed. I know what needs to be done, but I keep delaying starting the most important parts."
+    },
+    {
+      "t": 142.14,
+      "text": "Thank you for being honest. That's actually very common. What do you think is causing the delay?"
+    },
+    {
+      "t": 148.14,
+      "text": "I think part of it is that the task feels too big."
+    },
+    {
+      "t": 151.82,
+      "text": "I don't know where to start, so I end up doing smaller, less important tasks instead."
+    },
+    {
+      "t": 157.26,
+      "text": "That makes sense. When something feels too big, our brain tries to avoid it."
+    },
+    {
+      "t": 162.7,
+      "text": "Exactly. I spend time answering emails or organizing files, but I'm not making real progress."
+    },
+    {
+      "t": 170.06,
+      "text": "That's a classic sign of procrastination. You're busy, but not productive."
+    },
+    {
+      "t": 175.18,
+      "text": "Yes, that's exactly how it feels."
+    },
+    {
+      "t": 177.26,
+      "text": "Let's try to break it down. What is the main task you've been avoiding?"
+    },
+    {
+      "t": 182.54,
+      "text": "The main task is preparing the final project report. It includes data analysis, writing,"
+    },
+    {
+      "t": 188.82,
+      "text": "and recommendations."
+    },
+    {
+      "t": 190.42,
+      "text": "That does sound like a large task. Maybe we can divide it into smaller steps."
+    },
+    {
+      "t": 195.74,
+      "text": "That could help. Right now it just feels like one big difficult job."
+    },
+    {
+      "t": 200.46,
+      "text": "Okay, let's break it into parts. What is the first step?"
+    },
+    {
+      "t": 204.54,
+      "text": "The first step would be gathering all the data."
+    },
+    {
+      "t": 207.3,
+      "text": "Great, and after that?"
+    },
+    {
+      "t": 209.74,
+      "text": "Then analyzing the data and identifying key insights."
+    },
+    {
+      "t": 213.74,
+      "text": "And then writing the report?"
+    },
+    {
+      "t": 215.66,
+      "text": "Yes, exactly."
+    },
+    {
+      "t": 217.42,
+      "text": "So instead of thinking about the entire report, you can focus on just one step at a time."
+    },
+    {
+      "t": 223.58,
+      "text": "That already feels more manageable."
+    },
+    {
+      "t": 225.7,
+      "text": "Good."
+    },
+    {
+      "t": 226.78,
+      "text": "Another question, when do you usually try to work on this task?"
+    },
+    {
+      "t": 231.5,
+      "text": "in the afternoon, but by then I feel tired and distracted."
+    },
+    {
+      "t": 235.86,
+      "text": "That might be part of the problem. Maybe you should schedule it during your most productive"
+    },
+    {
+      "t": 240.62,
+      "text": "time."
+    },
+    {
+      "t": 241.62,
+      "text": "That's a good idea. I'm usually more focused in the morning."
+    },
+    {
+      "t": 245.34,
+      "text": "Then try working on the most important task first thing in the morning."
+    },
+    {
+      "t": 249.7,
+      "text": "That makes sense. I often delay it thinking I'll do it later, but later never comes."
+    },
+    {
+      "t": 255.98,
+      "text": "Exactly. There's a useful phrase, eat the frog first."
+    },
+    {
+      "t": 260.22,
+      "text": "I've heard that before. It means doing the hardest task first, right?"
+    },
+    {
+      "t": 264.7,
+      "text": "Yes, exactly. Once you complete the most difficult task, the rest of the day feels easier."
+    },
+    {
+      "t": 270.94,
+      "text": "I like that idea. It gives a sense of accomplishment."
+    },
+    {
+      "t": 274.38,
+      "text": "Let's talk about another reason for procrastination. Do you ever feel afraid of making mistakes?"
+    },
+    {
+      "t": 280.78,
+      "text": "Yes, actually. I want the report to be perfect so I keep delaying it."
+    },
+    {
+      "t": 285.82,
+      "text": "That's very common. Perfectionism often leads to procrastination."
+    },
+    {
+      "t": 290.46,
+      "text": "That's true. I spend too much time thinking instead of doing."
+    },
+    {
+      "t": 294.94,
+      "text": "A good strategy is to focus on progress, not perfection."
+    },
+    {
+      "t": 299.02,
+      "text": "That's a helpful mindset."
+    },
+    {
+      "t": 300.94,
+      "text": "You can start with a rough draft. It doesn't have to be perfect."
+    },
+    {
+      "t": 304.86,
+      "text": "That feels less stressful."
+    },
+    {
+      "t": 306.86,
+      "text": "Exactly. Once you start, it becomes easier to continue."
+    },
+    {
+      "t": 310.94,
+      "text": "I think starting is the hardest part."
+    },
+    {
+      "t": 313.74,
+      "text": "Yes, and there's a simple technique called the five-minute rule."
+    },
+    {
+      "t": 317.9,
+      "text": "What's that?"
+    },
+    {
+      "t": 319.02,
+      "text": "You tell yourself you will work on the task for just five minutes."
+    },
+    {
+      "t": 323.18,
+      "text": "That sounds easy."
+    },
+    {
+      "t": 324.62,
+      "text": "Yes, and often once you start, you continue working longer."
+    },
+    {
+      "t": 328.86,
+      "text": "That's true. Starting is the biggest challenge."
+    },
+    {
+      "t": 332.3,
+      "text": "Another strategy is to remove distractions. What usually distracts you?"
+    },
+    {
+      "t": 337.5,
+      "text": "My phone, emails, and sometimes social media."
+    },
+    {
+      "t": 341.34,
+      "text": "That's very common. You can try turning off notifications while working."
+    },
+    {
+      "t": 346.18,
+      "text": "I should definitely do that."
+    },
+    {
+      "t": 348.24,
+      "text": "Also, you can set specific time blocks for focused work."
+    },
+    {
+      "t": 352.24,
+      "text": "Like a schedule?"
+    },
+    {
+      "t": 353.78,
+      "text": "Yes. For example, 9 a.m. to 10 30 is deep work time."
+    },
+    {
+      "t": 358.86,
+      "text": "That sounds structured."
+    },
+    {
+      "t": 360.58,
+      "text": "It helps train your brain to focus."
+    },
+    {
+      "t": 363.2,
+      "text": "I think I need that discipline."
+    },
+    {
+      "t": 365.42,
+      "text": "Let's talk about accountability. Do you share your deadlines with anyone?"
+    },
+    {
+      "t": 369.92,
+      "text": "Not really."
+    },
+    {
+      "t": 371.36,
+      "text": "It can help to tell someone your goals."
+    },
+    {
+      "t": 374.08,
+      "text": "Why is that?"
+    },
+    {
+      "t": 375.32,
+      "text": "Because it creates responsibility."
+    },
+    {
+      "t": 377.6,
+      "text": "You're more likely to follow through."
+    },
+    {
+      "t": 379.84,
+      "text": "That makes sense."
+    },
+    {
+      "t": 381.24,
+      "text": "For example, you can say, I will finish the data analysis"
+    },
+    {
+      "t": 385.08,
+      "text": "by tomorrow."
+    },
+    {
+      "t": 386.32,
+      "text": "That sounds clear and measurable."
+    },
+    {
+      "t": 388.68,
+      "text": "Exactly."
+    },
+    {
+      "t": 389.64,
+      "text": "Clear goals reduce procrastination."
+    },
+    {
+      "t": 392.4,
+      "text": "I see that now."
+    },
+    {
+      "t": 393.88,
+      "text": "Let's continue with a real scenario."
+    },
+    {
+      "t": 396.28,
+      "text": "Imagine you're starting your day tomorrow."
+    },
+    {
+      "t": 398.88,
+      "text": "OK."
+    },
+    {
+      "t": 399.8,
+      "text": "What will you do first?"
+    },
+    {
+      "t": 401.68,
+      "text": "I will start with data gathering for the report."
+    },
+    {
+      "t": 404.88,
+      "text": "Good. How long will you work on it?"
+    },
+    {
+      "t": 407.36,
+      "text": "I'll start with 30 minutes."
+    },
+    {
+      "t": 409.52,
+      "text": "That's realistic."
+    },
+    {
+      "t": 410.92,
+      "text": "And I'll turn off notifications."
+    },
+    {
+      "t": 413.52,
+      "text": "Excellent. That's a strong plan."
+    },
+    {
+      "t": 415.96,
+      "text": "I already feel more confident."
+    },
+    {
+      "t": 418.24,
+      "text": "That's great to hear."
+    },
+    {
+      "t": 419.5,
+      "text": "Confidence comes from clarity."
+    },
+    {
+      "t": 421.76,
+      "text": "Yes, I think I was confused before."
+    },
+    {
+      "t": 424.8,
+      "text": "Let's talk about another example."
+    },
+    {
+      "t": 426.92,
+      "text": "Have you ever delayed sending an important email?"
+    },
+    {
+      "t": 430.14,
+      "text": "Yes, many times."
+    },
+    {
+      "t": 431.98,
+      "text": "Why?"
+    },
+    {
+      "t": 432.86,
+      "text": "Because I wanted to sound perfect."
+    },
+    {
+      "t": 435.26,
+      "text": "That's a common situation."
+    },
+    {
+      "t": 437.26,
+      "text": "I rewrite it many times."
+    },
+    {
+      "t": 439.58,
+      "text": "A better approach is to write quickly, then edit once."
+    },
+    {
+      "t": 443.62,
+      "text": "That saves time."
+    },
+    {
+      "t": 445.18,
+      "text": "Yes, and reduces stress."
+    },
+    {
+      "t": 447.38,
+      "text": "I'll try that."
+    },
+    {
+      "t": 448.82,
+      "text": "Another example is meetings."
+    },
+    {
+      "t": 450.9,
+      "text": "Do you ever delay preparing for meetings?"
+    },
+    {
+      "t": 453.7,
+      "text": "Yes, especially when I don't feel ready."
+    },
+    {
+      "t": 456.78,
+      "text": "Preparation doesn't have to be long."
+    },
+    {
+      "t": 459.08,
+      "text": "Even 10 minutes helps."
+    },
+    {
+      "t": 461.0,
+      "text": "That's true."
+    },
+    {
+      "t": 462.18,
+      "text": "Small preparation is better than no preparation."
+    },
+    {
+      "t": 465.7,
+      "text": "I agree."
+    },
+    {
+      "t": 466.82,
+      "text": "Let's talk about motivation."
+    },
+    {
+      "t": 468.86,
+      "text": "What motivates you at work?"
+    },
+    {
+      "t": 470.86,
+      "text": "Completing tasks and achieving goals."
+    },
+    {
+      "t": 473.66,
+      "text": "Then focus on the result, not just the task."
+    },
+    {
+      "t": 477.06,
+      "text": "That's a good perspective."
+    },
+    {
+      "t": 478.74,
+      "text": "For example, finishing the report"
+    },
+    {
+      "t": 480.82,
+      "text": "means contributing to the team's success."
+    },
+    {
+      "t": 483.58,
+      "text": "That makes the work more meaningful."
+    },
+    {
+      "t": 485.82,
+      "text": "Exactly. Meaning reduces procrastination."
+    },
+    {
+      "t": 489.14,
+      "text": "I never thought about it that way."
+    },
+    {
+      "t": 491.24,
+      "text": "Let's continue practicing useful phrases."
+    },
+    {
+      "t": 494.26,
+      "text": "Good idea."
+    },
+    {
+      "t": 495.38,
+      "text": "You can say, I've been delaying this task,"
+    },
+    {
+      "t": 498.38,
+      "text": "but I'm ready to start now."
+    },
+    {
+      "t": 500.38,
+      "text": "Or, I'm breaking this task into smaller steps"
+    },
+    {
+      "t": 503.62,
+      "text": "to make it manageable."
+    },
+    {
+      "t": 505.1,
+      "text": "Another one is, I'll focus on progress"
+    },
+    {
+      "t": 508.1,
+      "text": "rather than perfection."
+    },
+    {
+      "t": 509.86,
+      "text": "That's a powerful statement."
+    },
+    {
+      "t": 511.9,
+      "text": "Yes, it changes your mindset."
+    },
+    {
+      "t": 514.18,
+      "text": "Let's continue the scenario."
+    },
+    {
+      "t": 516.22,
+      "text": "Sure."
+    },
+    {
+      "t": 517.14,
+      "text": "Daniel, how is your progress now?"
+    },
+    {
+      "t": 519.82,
+      "text": "Much better."
+    },
+    {
+      "t": 520.7,
+      "text": "I started with small steps and stayed focused."
+    },
+    {
+      "t": 523.86,
+      "text": "That's great to hear."
+    },
+    {
+      "t": 525.26,
+      "text": "I realized that starting is more important"
+    },
+    {
+      "t": 528.14,
+      "text": "than waiting for the perfect moment."
+    },
+    {
+      "t": 530.34,
+      "text": "Exactly."
+    },
+    {
+      "t": 531.26,
+      "text": "There is no perfect moment."
+    },
+    {
+      "t": 533.38,
+      "text": "Action creates momentum."
+    },
+    {
+      "t": 535.58,
+      "text": "That's a great sentence."
+    },
+    {
+      "t": 537.46,
+      "text": "Thank you."
+    },
+    {
+      "t": 538.38,
+      "text": "Let's move toward closing the conversation."
+    },
+    {
+      "t": 541.06,
+      "text": "Sure."
+    },
+    {
+      "t": 541.98,
+      "text": "Today, we discussed how to beat procrastination at work."
+    },
+    {
+      "t": 546.18,
+      "text": "We talked about breaking tasks into smaller steps."
+    },
+    {
+      "t": 549.58,
+      "text": "We also discussed managing time and reducing distractions."
+    },
+    {
+      "t": 553.82,
+      "text": "And we explored the importance of mindset and taking action."
+    },
+    {
+      "t": 557.98,
+      "text": "Remember, procrastination is normal, but it can be managed."
+    },
+    {
+      "t": 562.38,
+      "text": "Start small, stay consistent, and focus on progress."
+    },
+    {
+      "t": 566.9,
+      "text": "Before we finish, here's a question for you."
+    },
+    {
+      "t": 569.86,
+      "text": "What task have you been delaying?"
+    },
+    {
+      "t": 572.26,
+      "text": "And what is one small step you can take today?"
+    },
+    {
+      "t": 575.66,
+      "text": "Practice speaking your answer out loud."
+    },
+    {
+      "t": 578.22,
+      "text": "Imagine you are discussing it with a colleague."
+    },
+    {
+      "t": 580.9,
+      "text": "The more you practice, the more confident you become."
+    },
+    {
+      "t": 584.14,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 586.66,
+      "text": "Keep practicing, keep improving, and keep speaking English."
+    },
+    {
+      "t": 590.74,
+      "text": "See you in the next episode."
+    },
+    {
+      "t": 592.54,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 594.06,
+      "text": "Hello, and welcome back to Business English Podcast."
+    },
+    {
+      "t": 597.78,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 598.62,
+      "text": "I'm Daniel."
+    },
+    {
+      "t": 599.62,
+      "text": "And I'm Sophia."
+    },
+    {
+      "t": 600.9,
+      "text": "We're really happy you're here learning with us today."
+    },
+    {
+      "t": 604.02,
+      "text": "On this channel, we help you speak English naturally"
+    },
+    {
+      "t": 606.94,
+      "text": "and confidently through real conversations,"
+    },
+    {
+      "t": 609.78,
+      "text": "practical examples, and real workplace situations."
+    },
+    {
+      "t": 613.38,
+      "text": "That's right."
+    },
+    {
+      "t": 614.22,
+      "text": "And today we're going to talk about something"
+    },
+    {
+      "t": 616.34,
+      "text": "that almost everyone struggles with"
+    },
+    {
+      "t": 618.66,
+      "text": "at some point in their career."
+    },
+    {
+      "t": 620.74,
+      "text": "Yes, today's topic is how to beat procrastination at work."
+    },
+    {
+      "t": 625.3,
+      "text": "This is a very practical and important topic"
+    },
+    {
+      "t": 628.06,
+      "text": "because procrastination can affect productivity, performance, and even confidence."
+    },
+    {
+      "t": 633.46,
+      "text": "Exactly. And many people think procrastination is just about laziness,"
+    },
+    {
+      "t": 638.42,
+      "text": "but in reality, it's often about fear, confusion, or lack of clarity."
+    },
+    {
+      "t": 643.58,
+      "text": "That's a great point. Sometimes people delay tasks not because they don't want to do them,"
+    },
+    {
+      "t": 648.9,
+      "text": "but because they don't know how to start."
+    },
+    {
+      "t": 651.22,
+      "text": "So today, we're going to walk you through a realistic, detailed conversation"
+    },
+    {
+      "t": 655.94,
+      "text": "where we explore why procrastination happens"
+    },
+    {
+      "t": 658.7,
+      "text": "and how to deal with it step by step."
+    },
+    {
+      "t": 661.38,
+      "text": "We'll include practical examples, natural English,"
+    },
+    {
+      "t": 664.5,
+      "text": "and useful phrases that you can use in your daily work life."
+    },
+    {
+      "t": 668.22,
+      "text": "And remember, the goal is not to become perfect,"
+    },
+    {
+      "t": 671.14,
+      "text": "but to become more aware"
+    },
+    {
+      "t": 672.58,
+      "text": "and take small actions consistently."
+    },
+    {
+      "t": 675.26,
+      "text": "Exactly."
+    },
+    {
+      "t": 676.2,
+      "text": "So let's begin."
+    },
+    {
+      "t": 677.62,
+      "text": "Imagine this situation."
+    },
+    {
+      "t": 679.42,
+      "text": "Sophia is a manager,"
+    },
+    {
+      "t": 681.14,
+      "text": "and I'm an employee who has been struggling"
+    },
+    {
+      "t": 683.54,
+      "text": "with procrastination."
+    },
+    {
+      "t": 685.1,
+      "text": "Let's start the conversation."
+    },
+    {
+      "t": 686.9,
+      "text": "Hi, Daniel, do you have a few minutes to talk?"
+    },
+    {
+      "t": 689.66,
+      "text": "Hi, Sophia."
+    },
+    {
+      "t": 690.62,
+      "text": "Yes, of course."
+    },
+    {
+      "t": 691.9,
+      "text": "I wanted to check in with you about a few deadlines."
+    },
+    {
+      "t": 694.74,
+      "text": "I noticed that some of your recent tasks were delayed."
+    },
+    {
+      "t": 697.94,
+      "text": "Is everything okay?"
+    },
+    {
+      "t": 699.3,
+      "text": "Thank you for asking."
+    },
+    {
+      "t": 700.62,
+      "text": "To be honest, I've been struggling a bit"
+    },
+    {
+      "t": 702.72,
+      "text": "with staying focused and starting tasks on time."
+    },
+    {
+      "t": 706.22,
+      "text": "I appreciate your honesty."
+    },
+    {
+      "t": 707.94,
+      "text": "That's the first step."
+    },
+    {
+      "t": 709.38,
+      "text": "Can you tell me more about what's causing the delay?"
+    },
+    {
+      "t": 712.32,
+      "text": "I think it's a combination of things."
+    },
+    {
+      "t": 714.5,
+      "text": "Sometimes the tasks feel overwhelming, and I don't know where to start."
+    },
+    {
+      "t": 718.66,
+      "text": "Other times I get distracted easily."
+    },
+    {
+      "t": 720.66,
+      "text": "That's very common."
+    },
+    {
+      "t": 722.66,
+      "text": "Let's break it down."
+    },
+    {
+      "t": 723.82,
+      "text": "Can you give me an example of a task you delayed recently?"
+    },
+    {
+      "t": 727.06,
+      "text": "Yes."
+    },
+    {
+      "t": 728.06,
+      "text": "Last week I had to prepare a detailed report."
+    },
+    {
+      "t": 730.86,
+      "text": "I kept postponing it until the last moment."
+    },
+    {
+      "t": 733.9,
+      "text": "What made that task difficult to start?"
+    },
+    {
+      "t": 736.66,
+      "text": "It felt too big."
+    },
+    {
+      "t": 738.06,
+      "text": "There were too many sections, and I wasn't sure how to organize everything."
+    },
+    {
+      "t": 741.74,
+      "text": "That's a classic situation."
+    },
+    {
+      "t": 744.02,
+      "text": "When a task feels too big, our brain tends to avoid it."
+    },
+    {
+      "t": 747.62,
+      "text": "Yes, that's exactly how I felt."
+    },
+    {
+      "t": 750.34,
+      "text": "So one effective strategy is to break the task into smaller parts."
+    },
+    {
+      "t": 755.22,
+      "text": "Instead of thinking, I need to write a report, you can think, I will write the introduction"
+    },
+    {
+      "t": 760.54,
+      "text": "first."
+    },
+    {
+      "t": 761.54,
+      "text": "That sounds much more manageable."
+    },
+    {
+      "t": 763.5,
+      "text": "Exactly."
+    },
+    {
+      "t": 764.5,
+      "text": "Let's try applying that to your report."
+    },
+    {
+      "t": 767.34,
+      "text": "What could be the first small step?"
+    },
+    {
+      "t": 770.06,
+      "text": "Maybe outlining the main sections?"
+    },
+    {
+      "t": 772.34,
+      "text": "Perfect."
+    },
+    {
+      "t": 773.54,
+      "text": "after that? Then I could write just one section at a time. That's a great approach. Now let's talk"
+    },
+    {
+      "t": 779.94,
+      "text": "about another issue you mentioned, distractions. What kind of distractions do you face? Mostly my phone,"
+    },
+    {
+      "t": 787.06,
+      "text": "emails, and sometimes social media. That's very common in modern workplaces. What do you usually"
+    },
+    {
+      "t": 793.3,
+      "text": "do when you get distracted? I tell myself I'll check something quickly, but then I lose track"
+    },
+    {
+      "t": 798.34,
+      "text": "of time. That happens to many people. One technique you can use is time blocking. What do you mean"
+    },
+    {
+      "t": 804.9,
+      "text": "by time blocking? It means setting a specific period of time to focus on one task without"
+    },
+    {
+      "t": 811.46,
+      "text": "interruptions. That sounds helpful. How long should the time block be? You can start with 25 minutes,"
+    },
+    {
+      "t": 818.34,
+      "text": "focus completely during that time, then take a short break. That seems doable."
+    },
+    {
+      "t": 823.54,
+      "text": "Yes, it's often called the focus and break method."
+    },
+    {
+      "t": 827.14,
+      "text": "It helps train your brain to stay focused."
+    },
+    {
+      "t": 829.74,
+      "text": "I like that idea."
+    },
+    {
+      "t": 831.24,
+      "text": "Now let's imagine a real work situation."
+    },
+    {
+      "t": 834.24,
+      "text": "Sure."
+    },
+    {
+      "t": 835.04,
+      "text": "You arrive at work and you have three important tasks."
+    },
+    {
+      "t": 838.84,
+      "text": "What would you do differently now?"
+    },
+    {
+      "t": 840.84,
+      "text": "First, I would list the tasks and break them into smaller steps."
+    },
+    {
+      "t": 845.04,
+      "text": "Good."
+    },
+    {
+      "t": 845.84,
+      "text": "Then I would prioritize them based on importance."
+    },
+    {
+      "t": 849.04,
+      "text": "Excellent."
+    },
+    {
+      "t": 850.04,
+      "text": "After that, I would start with one task and set a 25-minute focus timer."
+    },
+    {
+      "t": 854.84,
+      "text": "That's a strong plan."
+    },
+    {
+      "t": 856.6,
+      "text": "Thank you."
+    },
+    {
+      "t": 857.6,
+      "text": "Let's go deeper."
+    },
+    {
+      "t": 859.44,
+      "text": "Sometimes procrastination is not just about tasks."
+    },
+    {
+      "t": 862.64,
+      "text": "It can also be about emotions."
+    },
+    {
+      "t": 864.96,
+      "text": "Do you ever feel anxious about certain tasks?"
+    },
+    {
+      "t": 867.84,
+      "text": "Yes, especially when the task is important or when I'm afraid of making mistakes."
+    },
+    {
+      "t": 872.8,
+      "text": "That's very important to recognize."
+    },
+    {
+      "t": 875.72,
+      "text": "Fear of failure can lead to procrastination."
+    },
+    {
+      "t": 878.6,
+      "text": "That makes sense."
+    },
+    {
+      "t": 879.76,
+      "text": "So in those situations, it helps to change your mindset."
+    },
+    {
+      "t": 883.84,
+      "text": "Instead of aiming for perfection, aim for progress."
+    },
+    {
+      "t": 887.4,
+      "text": "So just start even if it's not perfect."
+    },
+    {
+      "t": 890.32,
+      "text": "Exactly."
+    },
+    {
+      "t": 891.44,
+      "text": "Starting is often the hardest part."
+    },
+    {
+      "t": 893.52,
+      "text": "I agree."
+    },
+    {
+      "t": 894.6,
+      "text": "Once I start, it becomes easier to continue."
+    },
+    {
+      "t": 897.76,
+      "text": "That's because your brain shifts from resistance to action."
+    },
+    {
+      "t": 901.56,
+      "text": "That's interesting."
+    },
+    {
+      "t": 902.56,
+      "text": "Let's practice a real work situation."
+    },
+    {
+      "t": 905.4,
+      "text": "Sure."
+    },
+    {
+      "t": 906.4,
+      "text": "you need to write an email, but you keep delaying it. What would you do?"
+    },
+    {
+      "t": 910.8,
+      "text": "I would start by writing a simple first draft without worrying too much about perfection."
+    },
+    {
+      "t": 916.16,
+      "text": "Great."
+    },
+    {
+      "t": 916.8,
+      "text": "Then I would revise it after."
+    },
+    {
+      "t": 918.64,
+      "text": "That's the right approach."
+    },
+    {
+      "t": 920.08,
+      "text": "Yes, that feels less stressful."
+    },
+    {
+      "t": 922.24,
+      "text": "Now let's talk about deadlines. Do deadlines help you or stress you?"
+    },
+    {
+      "t": 926.96,
+      "text": "Both. They help me focus, but sometimes I wait until the last minute."
+    },
+    {
+      "t": 931.36,
+      "text": "That's a common pattern. One solution is to create personal deadlines before the actual deadline."
+    },
+    {
+      "t": 937.76,
+      "text": "That's a good idea."
+    },
+    {
+      "t": 939.04,
+      "text": "For example, if something is due on Friday, you can aim to finish it by Wednesday."
+    },
+    {
+      "t": 944.0,
+      "text": "That would reduce last-minute stress."
+    },
+    {
+      "t": 946.32,
+      "text": "Exactly."
+    },
+    {
+      "t": 947.2,
+      "text": "I'll try that."
+    },
+    {
+      "t": 948.4,
+      "text": "Now, let's imagine another workplace situation."
+    },
+    {
+      "t": 951.84,
+      "text": "Sure."
+    },
+    {
+      "t": 952.56,
+      "text": "You're assigned a complex project. What would be your first step?"
+    },
+    {
+      "t": 957.04,
+      "text": "I would clarify the requirements to make sure I understand the task."
+    },
+    {
+      "t": 961.2,
+      "text": "That's very important."
+    },
+    {
+      "t": 962.68,
+      "text": "Then I would break the project into faces."
+    },
+    {
+      "t": 965.36,
+      "text": "Good."
+    },
+    {
+      "t": 966.04,
+      "text": "And set small goals for each face."
+    },
+    {
+      "t": 968.72,
+      "text": "Excellent."
+    },
+    {
+      "t": 969.56,
+      "text": "I would also schedule regular check-ins to track progress."
+    },
+    {
+      "t": 973.2,
+      "text": "That shows strong planning skills."
+    },
+    {
+      "t": 975.44,
+      "text": "Thank you."
+    },
+    {
+      "t": 976.2,
+      "text": "Now let's talk about motivation."
+    },
+    {
+      "t": 978.48,
+      "text": "What motivates you to complete tasks?"
+    },
+    {
+      "t": 981.04,
+      "text": "Completing tasks and seeing progress motivates me."
+    },
+    {
+      "t": 984.32,
+      "text": "That's great."
+    },
+    {
+      "t": 985.4,
+      "text": "You can use that by rewarding yourself after completing small steps."
+    },
+    {
+      "t": 989.92,
+      "text": "Like taking a break or having a coffee?"
+    },
+    {
+      "t": 992.42,
+      "text": "Exactly."
+    },
+    {
+      "t": 993.42,
+      "text": "That sounds motivating."
+    },
+    {
+      "t": 994.92,
+      "text": "Now, let's address another issue."
+    },
+    {
+      "t": 997.42,
+      "text": "Sometimes people procrastinate because they don't find the task interesting."
+    },
+    {
+      "t": 1001.92,
+      "text": "Yes, that happens to me sometimes."
+    },
+    {
+      "t": 1004.42,
+      "text": "In that case, you can try connecting the task to a bigger goal."
+    },
+    {
+      "t": 1008.42,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 1009.92,
+      "text": "For example, if you're doing a repetitive task,"
+    },
+    {
+      "t": 1012.92,
+      "text": "remind yourself that it contributes to your team's success or your career growth."
+    },
+    {
+      "t": 1017.92,
+      "text": "That gives more meaning to the task."
+    },
+    {
+      "t": 1020.3,
+      "text": "Exactly."
+    },
+    {
+      "t": 1021.18,
+      "text": "That's helpful."
+    },
+    {
+      "t": 1022.22,
+      "text": "Now let's simulate a deeper conversation,"
+    },
+    {
+      "t": 1025.02,
+      "text": "like in a performance review."
+    },
+    {
+      "t": 1026.82,
+      "text": "Sure."
+    },
+    {
+      "t": 1027.54,
+      "text": "Daniel, how do you plan to improve your productivity"
+    },
+    {
+      "t": 1030.62,
+      "text": "moving forward?"
+    },
+    {
+      "t": 1031.86,
+      "text": "I plan to break tasks into smaller steps,"
+    },
+    {
+      "t": 1034.9,
+      "text": "reduce distractions, and use time blocking techniques."
+    },
+    {
+      "t": 1038.7,
+      "text": "That's a strong plan."
+    },
+    {
+      "t": 1040.22,
+      "text": "I will also set personal deadlines"
+    },
+    {
+      "t": 1042.26,
+      "text": "and focus on starting tasks early."
+    },
+    {
+      "t": 1044.78,
+      "text": "Excellent."
+    },
+    {
+      "t": 1045.66,
+      "text": "and I will work on managing my mindset,"
+    },
+    {
+      "t": 1048.1,
+      "text": "especially when I feel overwhelmed."
+    },
+    {
+      "t": 1050.38,
+      "text": "That's very important."
+    },
+    {
+      "t": 1051.98,
+      "text": "Thank you."
+    },
+    {
+      "t": 1052.82,
+      "text": "What do you think will be the biggest challenge?"
+    },
+    {
+      "t": 1055.3,
+      "text": "Staying consistent."
+    },
+    {
+      "t": 1057.22,
+      "text": "That's honest."
+    },
+    {
+      "t": 1058.38,
+      "text": "Consistency is key."
+    },
+    {
+      "t": 1060.22,
+      "text": "Yes, I need to build better habits."
+    },
+    {
+      "t": 1062.62,
+      "text": "Exactly."
+    },
+    {
+      "t": 1063.46,
+      "text": "Small daily improvements lead to big results."
+    },
+    {
+      "t": 1066.66,
+      "text": "I agree."
+    },
+    {
+      "t": 1067.66,
+      "text": "Now let's move toward closing the conversation."
+    },
+    {
+      "t": 1070.7,
+      "text": "Sure."
+    },
+    {
+      "t": 1071.54,
+      "text": "Thank you for being open and discussing this honestly."
+    },
+    {
+      "t": 1074.78,
+      "text": "Thank you for your guidance."
+    },
+    {
+      "t": 1076.46,
+      "text": "I'm confident you can improve with these strategies."
+    },
+    {
+      "t": 1079.38,
+      "text": "I will definitely apply them."
+    },
+    {
+      "t": 1081.22,
+      "text": "Great."
+    },
+    {
+      "t": 1082.06,
+      "text": "Now let's switch back to podcast mode."
+    },
+    {
+      "t": 1084.5,
+      "text": "Today we explored how to beat procrastination at work."
+    },
+    {
+      "t": 1088.42,
+      "text": "We talked about breaking tasks into smaller steps,"
+    },
+    {
+      "t": 1091.62,
+      "text": "managing distractions, and improving focus."
+    },
+    {
+      "t": 1094.56,
+      "text": "We also discussed mindset, motivation,"
+    },
+    {
+      "t": 1097.34,
+      "text": "and practical techniques."
+    },
+    {
+      "t": 1098.98,
+      "text": "Remember, procrastination is not a permanent problem."
+    },
+    {
+      "t": 1102.54,
+      "text": "It's something you can improve"
+    },
+    {
+      "t": 1103.86,
+      "text": "with awareness and action."
+    },
+    {
+      "t": 1105.7,
+      "text": "Skirt small, stay consistent, and focus on progress."
+    },
+    {
+      "t": 1109.66,
+      "text": "Before we finish, here's a challenge for you."
+    },
+    {
+      "t": 1112.66,
+      "text": "Think of one task you've been delaying."
+    },
+    {
+      "t": 1114.98,
+      "text": "Break it into small steps and start the first step today."
+    },
+    {
+      "t": 1118.94,
+      "text": "Even five minutes of action is better than waiting."
+    },
+    {
+      "t": 1122.16,
+      "text": "The more you practice, the easier it becomes."
+    },
+    {
+      "t": 1125.18,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 1127.34,
+      "text": "Keep practicing, keep improving,"
+    },
+    {
+      "t": 1129.54,
+      "text": "and keep speaking English."
+    },
+    {
+      "t": 1131.38,
+      "text": "See you in the next episode."
+    },
+    {
+      "t": 1132.98,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1134.38,
+      "text": "Hello and welcome to Business English Conversations."
+    },
+    {
+      "t": 1138.06,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 1138.9,
+      "text": "Welcome back to the podcast where we practice real English"
+    },
+    {
+      "t": 1142.3,
+      "text": "for the workplace."
+    },
+    {
+      "t": 1143.46,
+      "text": "My name is Marco."
+    },
+    {
+      "t": 1144.62,
+      "text": "And I'm Erica."
+    },
+    {
+      "t": 1145.66,
+      "text": "We're really happy you're here learning with us today."
+    },
+    {
+      "t": 1148.34,
+      "text": "In this podcast, we help you improve your English"
+    },
+    {
+      "t": 1150.86,
+      "text": "through real conversations, practical examples,"
+    },
+    {
+      "t": 1153.58,
+      "text": "and professional situations."
+    },
+    {
+      "t": 1155.58,
+      "text": "Yes, especially situations that are not always easy"
+    },
+    {
+      "t": 1158.9,
+      "text": "to talk about, like productivity, time management,"
+    },
+    {
+      "t": 1162.3,
+      "text": "and workplace habits."
+    },
+    {
+      "t": 1164.26,
+      "text": "And today's topic is something that affects almost everyone at some point in their career."
+    },
+    {
+      "t": 1169.66,
+      "text": "That's right."
+    },
+    {
+      "t": 1170.66,
+      "text": "Today we are going to talk about how to beat procrastination at work."
+    },
+    {
+      "t": 1174.78,
+      "text": "This is not just about delaying tasks, it's about understanding why we procrastinate"
+    },
+    {
+      "t": 1179.76,
+      "text": "and learning how to take control of our time and energy."
+    },
+    {
+      "t": 1183.38,
+      "text": "Exactly."
+    },
+    {
+      "t": 1184.38,
+      "text": "And in today's conversation, we're going to go deeper than usual."
+    },
+    {
+      "t": 1187.78,
+      "text": "We'll explore real workplace situations, practical strategies, and also the psychology"
+    },
+    {
+      "t": 1193.22,
+      "text": "behind procrastination."
+    },
+    {
+      "t": 1195.42,
+      "text": "We'll also demonstrate how you can talk about these situations in English, especially in"
+    },
+    {
+      "t": 1200.18,
+      "text": "meetings, performance reviews, or conversations with your manager."
+    },
+    {
+      "t": 1204.3,
+      "text": "So let's begin."
+    },
+    {
+      "t": 1205.74,
+      "text": "Let me start with a direct question."
+    },
+    {
+      "t": 1208.3,
+      "text": "Speaker 1, what does procrastination mean to you in a work context?"
+    },
+    {
+      "t": 1213.22,
+      "text": "For me, procrastination is when I delay an important task, even though I know it needs"
+    },
+    {
+      "t": 1218.58,
+      "text": "to be done."
+    },
+    {
+      "t": 1219.58,
+      "text": "It's not just about being lazy."
+    },
+    {
+      "t": 1221.78,
+      "text": "Sometimes I'm busy, but I'm working on less important things."
+    },
+    {
+      "t": 1224.9,
+      "text": "That's a very important distinction."
+    },
+    {
+      "t": 1227.46,
+      "text": "You're not doing nothing, but you're avoiding the right thing."
+    },
+    {
+      "t": 1231.14,
+      "text": "Exactly."
+    },
+    {
+      "t": 1232.14,
+      "text": "It often looks like productivity, but it's actually avoidance."
+    },
+    {
+      "t": 1235.98,
+      "text": "Can you share a recent example from your work?"
+    },
+    {
+      "t": 1238.66,
+      "text": "Yes, recently I had to prepare a detailed performance analysis for a quarterly review meeting."
+    },
+    {
+      "t": 1244.4,
+      "text": "It required data, charts, and insights."
+    },
+    {
+      "t": 1247.16,
+      "text": "I knew it was important, but I kept postponing it."
+    },
+    {
+      "t": 1250.54,
+      "text": "What did you do instead?"
+    },
+    {
+      "t": 1251.8,
+      "text": "I answered emails, attended minor meetings, organized files, and even updated documents"
+    },
+    {
+      "t": 1257.32,
+      "text": "that were not urgent."
+    },
+    {
+      "t": 1259.06,
+      "text": "So you stayed busy but avoided the main task?"
+    },
+    {
+      "t": 1262.68,
+      "text": "Yes, exactly."
+    },
+    {
+      "t": 1263.98,
+      "text": "And at first it didn't feel like procrastination."
+    },
+    {
+      "t": 1266.72,
+      "text": "felt like I was being productive."
+    },
+    {
+      "t": 1269.04,
+      "text": "That's one of the most dangerous forms of procrastination."
+    },
+    {
+      "t": 1272.28,
+      "text": "I agree, because you don't immediately realize what you're doing."
+    },
+    {
+      "t": 1276.0,
+      "text": "So let's analyze this situation."
+    },
+    {
+      "t": 1278.56,
+      "text": "Why do you think you delayed the report?"
+    },
+    {
+      "t": 1280.88,
+      "text": "I think there were three main reasons."
+    },
+    {
+      "t": 1283.32,
+      "text": "First, the task was complex."
+    },
+    {
+      "t": 1285.68,
+      "text": "Second, I wasn't confident with the data analysis."
+    },
+    {
+      "t": 1289.16,
+      "text": "And third, I didn't have a clear starting point."
+    },
+    {
+      "t": 1292.44,
+      "text": "Those are very common triggers."
+    },
+    {
+      "t": 1294.24,
+      "text": "complexity, lack of clarity, and low confidence."
+    },
+    {
+      "t": 1297.32,
+      "text": "Yes, and all three together made the task feel overwhelming."
+    },
+    {
+      "t": 1301.92,
+      "text": "Let's talk about that feeling of being overwhelmed."
+    },
+    {
+      "t": 1304.74,
+      "text": "What happens in your mind at that moment?"
+    },
+    {
+      "t": 1306.76,
+      "text": "I start thinking this will take too long, or I might not do it well, so I delay starting."
+    },
+    {
+      "t": 1313.04,
+      "text": "That's very insightful."
+    },
+    {
+      "t": 1314.56,
+      "text": "Procrastination is often emotional, not logical."
+    },
+    {
+      "t": 1317.84,
+      "text": "Yes, it's about avoiding discomfort."
+    },
+    {
+      "t": 1320.56,
+      "text": "Exactly."
+    },
+    {
+      "t": 1321.56,
+      "text": "So the key question is, how do we reduce that discomfort?"
+    },
+    {
+      "t": 1325.24,
+      "text": "For me, the first step was breaking the task into smaller parts."
+    },
+    {
+      "t": 1329.56,
+      "text": "Let's go deeper into that."
+    },
+    {
+      "t": 1331.32,
+      "text": "How exactly did you break it down?"
+    },
+    {
+      "t": 1333.48,
+      "text": "I divided the report into sections, data collection, data cleaning, analysis, visualization,"
+    },
+    {
+      "t": 1340.64,
+      "text": "and final writing."
+    },
+    {
+      "t": 1342.12,
+      "text": "That's very structured."
+    },
+    {
+      "t": 1343.4,
+      "text": "Yes, and instead of thinking about the full reports, I focused on just one section"
+    },
+    {
+      "t": 1348.16,
+      "text": "at a time."
+    },
+    {
+      "t": 1349.32,
+      "text": "How did that change your behavior?"
+    },
+    {
+      "t": 1351.28,
+      "text": "It made the task feel manageable."
+    },
+    {
+      "t": 1353.44,
+      "text": "I told myself, just collect the data today."
+    },
+    {
+      "t": 1356.52,
+      "text": "That felt easier than finish the report."
+    },
+    {
+      "t": 1359.24,
+      "text": "That's a powerful shift, from a big abstract task to a small concrete action."
+    },
+    {
+      "t": 1365.0,
+      "text": "Exactly."
+    },
+    {
+      "t": 1366.0,
+      "text": "And once I started, I felt less resistance."
+    },
+    {
+      "t": 1368.84,
+      "text": "That's something many people experience."
+    },
+    {
+      "t": 1371.48,
+      "text": "Action reduces anxiety."
+    },
+    {
+      "t": 1373.16,
+      "text": "Yes, starting is often the hardest part."
+    },
+    {
+      "t": 1376.12,
+      "text": "Let's talk about another strategy."
+    },
+    {
+      "t": 1378.12,
+      "text": "Did you use time-based techniques?"
+    },
+    {
+      "t": 1380.28,
+      "text": "Yes, I used focus time blocks."
+    },
+    {
+      "t": 1382.98,
+      "text": "For example, I worked for 25 minutes without interruption."
+    },
+    {
+      "t": 1386.78,
+      "text": "Like the Pomodoro technique?"
+    },
+    {
+      "t": 1388.58,
+      "text": "Yes, something similar."
+    },
+    {
+      "t": 1390.18,
+      "text": "After 25 minutes, I took a short break."
+    },
+    {
+      "t": 1392.78,
+      "text": "How did that help?"
+    },
+    {
+      "t": 1393.98,
+      "text": "It made the work feel less exhausting."
+    },
+    {
+      "t": 1396.18,
+      "text": "I knew I only had to focus for a short time."
+    },
+    {
+      "t": 1398.98,
+      "text": "That reduces mental resistance."
+    },
+    {
+      "t": 1401.18,
+      "text": "Exactly."
+    },
+    {
+      "t": 1402.18,
+      "text": "Let me share a different example from my experience."
+    },
+    {
+      "t": 1405.18,
+      "text": "Sure, go ahead."
+    },
+    {
+      "t": 1406.38,
+      "text": "I used to procrastinate a lot when I had to write client proposals."
+    },
+    {
+      "t": 1410.54,
+      "text": "Why proposals specifically?"
+    },
+    {
+      "t": 1412.7,
+      "text": "Because they required both creativity and accuracy. I wanted them to be perfect."
+    },
+    {
+      "t": 1418.38,
+      "text": "So perfectionism again?"
+    },
+    {
+      "t": 1420.38,
+      "text": "Yes, I would spend hours thinking about the best way to start, but I wouldn't actually start."
+    },
+    {
+      "t": 1426.54,
+      "text": "That's very common."
+    },
+    {
+      "t": 1427.9,
+      "text": "So eventually I changed my approach. I started writing a very simple first draft."
+    },
+    {
+      "t": 1434.06,
+      "text": "What did that look like?"
+    },
+    {
+      "t": 1435.34,
+      "text": "It was messy, incomplete, and not very polished, but it existed."
+    },
+    {
+      "t": 1440.06,
+      "text": "And that was enough to begin."
+    },
+    {
+      "t": 1441.98,
+      "text": "Exactly. Once I had something, I could improve it step by step."
+    },
+    {
+      "t": 1446.38,
+      "text": "So the goal was progress, not perfection."
+    },
+    {
+      "t": 1449.42,
+      "text": "Yes, and that reduced procrastination significantly."
+    },
+    {
+      "t": 1452.94,
+      "text": "That's a very important lesson."
+    },
+    {
+      "t": 1455.1,
+      "text": "Let's talk about another real situation."
+    },
+    {
+      "t": 1457.74,
+      "text": "Imagine you have a task with a deadline in two weeks,"
+    },
+    {
+      "t": 1461.02,
+      "text": "but you keep thinking, I still have time."
+    },
+    {
+      "t": 1463.9,
+      "text": "Yes, that's a classic situation."
+    },
+    {
+      "t": 1466.06,
+      "text": "What happens then?"
+    },
+    {
+      "t": 1467.34,
+      "text": "You delay starting because the deadline feels far away."
+    },
+    {
+      "t": 1470.86,
+      "text": "And suddenly, the deadline is very close."
+    },
+    {
+      "t": 1473.82,
+      "text": "Exactly. Then stress increases and you rush."
+    },
+    {
+      "t": 1477.18,
+      "text": "How can we avoid that?"
+    },
+    {
+      "t": 1478.7,
+      "text": "One method is to create artificial deadlines."
+    },
+    {
+      "t": 1481.98,
+      "text": "What do you mean by that?"
+    },
+    {
+      "t": 1483.58,
+      "text": "Instead of one final deadline, you set earlier deadlines for each part of the task."
+    },
+    {
+      "t": 1488.94,
+      "text": "That creates urgency earlier."
+    },
+    {
+      "t": 1491.26,
+      "text": "Yes, and it spreads the workload over time."
+    },
+    {
+      "t": 1494.14,
+      "text": "That's a very practical strategy."
+    },
+    {
+      "t": 1496.3,
+      "text": "Another thing that helps is visualizing the consequences."
+    },
+    {
+      "t": 1499.74,
+      "text": "Can you explain that?"
+    },
+    {
+      "t": 1501.1,
+      "text": "I imagine what will happen if I delay."
+    },
+    {
+      "t": 1503.74,
+      "text": "For example, stress, poor quality work, or negative feedback."
+    },
+    {
+      "t": 1508.22,
+      "text": "That creates motivation."
+    },
+    {
+      "t": 1509.98,
+      "text": "Yes, it reminds me why the task matters."
+    },
+    {
+      "t": 1513.02,
+      "text": "Let's talk about workplace communication."
+    },
+    {
+      "t": 1515.5,
+      "text": "Suppose you're procrastinating and your manager asks for an update."
+    },
+    {
+      "t": 1519.18,
+      "text": "That can be stressful."
+    },
+    {
+      "t": 1520.62,
+      "text": "What is a professional way to respond?"
+    },
+    {
+      "t": 1523.02,
+      "text": "I would say I've started working on the task and identified the key steps."
+    },
+    {
+      "t": 1527.66,
+      "text": "I'm currently focusing on the analysis phase and plan to complete it by Friday."
+    },
+    {
+      "t": 1532.22,
+      "text": "That's a strong response. It shows progress and a plan."
+    },
+    {
+      "t": 1536.22,
+      "text": "Yes, even if you are behind, it's important to communicate clearly."
+    },
+    {
+      "t": 1540.22,
+      "text": "What should you avoid saying?"
+    },
+    {
+      "t": 1542.22,
+      "text": "Avoid vague answers like, I'll do it soon or I'm working on it without details."
+    },
+    {
+      "t": 1548.22,
+      "text": "Exactly. Specific communication builds trust."
+    },
+    {
+      "t": 1551.9,
+      "text": "Let's talk about distractions in the workplace."
+    },
+    {
+      "t": 1554.7,
+      "text": "Yes, they play a role in procrastination."
+    },
+    {
+      "t": 1557.42,
+      "text": "For example, constant emails, messages, or notifications."
+    },
+    {
+      "t": 1561.5,
+      "text": "How do you manage them?"
+    },
+    {
+      "t": 1562.86,
+      "text": "I schedule specific times to check emails instead of checking them continuously."
+    },
+    {
+      "t": 1567.9,
+      "text": "That improves focus."
+    },
+    {
+      "t": 1569.5,
+      "text": "Yes, and I also turn off unnecessary notifications during focused work."
+    },
+    {
+      "t": 1574.3,
+      "text": "That's very effective."
+    },
+    {
+      "t": 1575.98,
+      "text": "Another strategy is changing your environment."
+    },
+    {
+      "t": 1578.82,
+      "text": "What do you mean?"
+    },
+    {
+      "t": 1579.9,
+      "text": "For example, if I work from home,"
+    },
+    {
+      "t": 1582.02,
+      "text": "I choose a dedicated workspace without distractions."
+    },
+    {
+      "t": 1585.38,
+      "text": "Environment affects behavior."
+    },
+    {
+      "t": 1587.54,
+      "text": "Exactly."
+    },
+    {
+      "t": 1588.46,
+      "text": "Let's talk about energy levels."
+    },
+    {
+      "t": 1590.42,
+      "text": "Sometimes, procrastination is not about the task,"
+    },
+    {
+      "t": 1593.82,
+      "text": "but about your energy."
+    },
+    {
+      "t": 1595.18,
+      "text": "That's true."
+    },
+    {
+      "t": 1596.02,
+      "text": "If you're tired, it's harder to start."
+    },
+    {
+      "t": 1598.22,
+      "text": "How do you handle that?"
+    },
+    {
+      "t": 1599.62,
+      "text": "I try to schedule important tasks"
+    },
+    {
+      "t": 1601.86,
+      "text": "during my most productive hours."
+    },
+    {
+      "t": 1603.82,
+      "text": "That's very smart."
+    },
+    {
+      "t": 1605.22,
+      "text": "For me, that's usually in the morning."
+    },
+    {
+      "t": 1607.22,
+      "text": "And less important tasks later."
+    },
+    {
+      "t": 1609.22,
+      "text": "Yes."
+    },
+    {
+      "t": 1610.22,
+      "text": "Let's explore accountability."
+    },
+    {
+      "t": 1612.22,
+      "text": "How can it help?"
+    },
+    {
+      "t": 1613.22,
+      "text": "When you share your goals with someone, you feel responsible."
+    },
+    {
+      "t": 1617.22,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 1618.22,
+      "text": "I sometimes tell a colleague,"
+    },
+    {
+      "t": 1620.22,
+      "text": "I'll finish this report by tomorrow."
+    },
+    {
+      "t": 1622.22,
+      "text": "That creates pressure to follow through."
+    },
+    {
+      "t": 1624.22,
+      "text": "Positive pressure."
+    },
+    {
+      "t": 1625.22,
+      "text": "Exactly."
+    },
+    {
+      "t": 1626.22,
+      "text": "Let's talk about rewards."
+    },
+    {
+      "t": 1628.22,
+      "text": "Yes, they can be very motivating."
+    },
+    {
+      "t": 1630.22,
+      "text": "What kind of rewards?"
+    },
+    {
+      "t": 1632.22,
+      "text": "Small rewards, like taking a break,"
+    },
+    {
+      "t": 1634.22,
+      "text": "Taking a break, having a coffee, or doing something enjoyable after completing a task."
+    },
+    {
+      "t": 1639.66,
+      "text": "That builds a positive habit."
+    },
+    {
+      "t": 1641.3,
+      "text": "Yes, your brain starts associating work with reward."
+    },
+    {
+      "t": 1644.74,
+      "text": "Let's do a detailed scenario."
+    },
+    {
+      "t": 1647.18,
+      "text": "Sure."
+    },
+    {
+      "t": 1648.18,
+      "text": "Imagine you have a big presentation next week and you haven't started yet."
+    },
+    {
+      "t": 1653.26,
+      "text": "First I would define the objective of the presentation."
+    },
+    {
+      "t": 1656.54,
+      "text": "Good start."
+    },
+    {
+      "t": 1657.7,
+      "text": "Then I would create a simple outline."
+    },
+    {
+      "t": 1660.18,
+      "text": "Breaking it down."
+    },
+    {
+      "t": 1661.18,
+      "text": "Yes."
+    },
+    {
+      "t": 1662.18,
+      "text": "I would work on one section at a time using focused time blocks."
+    },
+    {
+      "t": 1666.34,
+      "text": "And what about review?"
+    },
+    {
+      "t": 1667.7,
+      "text": "I would review and improve it gradually, instead of trying to perfect it in one session."
+    },
+    {
+      "t": 1673.1,
+      "text": "That's a strong approach."
+    },
+    {
+      "t": 1674.62,
+      "text": "And I would practice presenting it out loud."
+    },
+    {
+      "t": 1677.16,
+      "text": "That builds confidence."
+    },
+    {
+      "t": 1678.7,
+      "text": "Exactly."
+    },
+    {
+      "t": 1679.7,
+      "text": "Let's talk about long-term change."
+    },
+    {
+      "t": 1681.74,
+      "text": "Sure."
+    },
+    {
+      "t": 1682.74,
+      "text": "How can someone permanently reduce procrastination?"
+    },
+    {
+      "t": 1685.84,
+      "text": "By building consistent habits, for example, starting work at the same time every day."
+    },
+    {
+      "t": 1691.78,
+      "text": "creates structure."
+    },
+    {
+      "t": 1693.22,
+      "text": "Yes, and structure reduces decision making."
+    },
+    {
+      "t": 1696.06,
+      "text": "That's a very important point."
+    },
+    {
+      "t": 1698.34,
+      "text": "Also, reflecting daily helps."
+    },
+    {
+      "t": 1700.82,
+      "text": "What kind of reflection?"
+    },
+    {
+      "t": 1702.66,
+      "text": "Asking yourself, what did I complete today?"
+    },
+    {
+      "t": 1705.34,
+      "text": "What can I improve tomorrow?"
+    },
+    {
+      "t": 1707.18,
+      "text": "That builds awareness."
+    },
+    {
+      "t": 1708.7,
+      "text": "Exactly."
+    },
+    {
+      "t": 1709.7,
+      "text": "Before we finish, let's summarize the key ideas in a natural way."
+    },
+    {
+      "t": 1714.1,
+      "text": "Sure."
+    },
+    {
+      "t": 1715.1,
+      "text": "Procrastination often comes from feeling overwhelmed, unclear, or afraid of imperfection."
+    },
+    {
+      "t": 1720.7,
+      "text": "The solution is to take small, clear steps."
+    },
+    {
+      "t": 1723.98,
+      "text": "Break tasks into parts."
+    },
+    {
+      "t": 1725.74,
+      "text": "Start even if it's not perfect."
+    },
+    {
+      "t": 1727.9,
+      "text": "Manage your time and energy."
+    },
+    {
+      "t": 1729.86,
+      "text": "Reduce distractions."
+    },
+    {
+      "t": 1731.38,
+      "text": "And communicate clearly at work."
+    },
+    {
+      "t": 1733.54,
+      "text": "That's a strong summary."
+    },
+    {
+      "t": 1735.1,
+      "text": "Before we end, here's a question for our listeners."
+    },
+    {
+      "t": 1738.06,
+      "text": "What is one task you have been delaying?"
+    },
+    {
+      "t": 1740.86,
+      "text": "And what is the smallest step you can take today?"
+    },
+    {
+      "t": 1743.82,
+      "text": "Try it right after this episode."
+    },
+    {
+      "t": 1745.9,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 1747.54,
+      "text": "We hope this conversation helps you become more"
+    },
+    {
+      "t": 1749.86,
+      "text": "productive and confident at work."
+    },
+    {
+      "t": 1751.9,
+      "text": "Keep practicing, keep improving, and keep moving forward."
+    },
+    {
+      "t": 1755.5,
+      "text": "See you next time."
+    },
+    {
+      "t": 1756.54,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1774.01,
+      "text": "Hello and welcome back to Business English Podcast."
+    },
+    {
+      "t": 1777.93,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 1778.77,
+      "text": "Welcome to today's English Conversation Practice."
+    },
+    {
+      "t": 1781.81,
+      "text": "I'm Daniel."
+    },
+    {
+      "t": 1782.77,
+      "text": "And I'm Sophia."
+    },
+    {
+      "t": 1783.93,
+      "text": "And we're really happy you're here learning with us today."
+    },
+    {
+      "t": 1786.85,
+      "text": "On this channel, we help you speak English naturally"
+    },
+    {
+      "t": 1789.61,
+      "text": "and confidently through real conversations,"
+    },
+    {
+      "t": 1792.37,
+      "text": "practical examples and everyday workplace situations."
+    },
+    {
+      "t": 1796.05,
+      "text": "That's right. And today we're going to talk about something that almost"
+    },
+    {
+      "t": 1799.57,
+      "text": "everyone experiences at work at some point. Yes."
+    },
+    {
+      "t": 1803.17,
+      "text": "Today's topic is how to beat procrastination at work."
+    },
+    {
+      "t": 1806.61,
+      "text": "This is a very real challenge for professionals in every industry."
+    },
+    {
+      "t": 1810.93,
+      "text": "Absolutely. Whether you're working in an office,"
+    },
+    {
+      "t": 1813.41,
+      "text": "remotely, or even studying, procrastination can affect your productivity and performance."
+    },
+    {
+      "t": 1819.41,
+      "text": "And the good news is, procrastination is something you can manage and improve with the right mindset"
+    },
+    {
+      "t": 1824.77,
+      "text": "and strategies. Exactly. In today's conversation, we're going to walk through real workplace situations"
+    },
+    {
+      "t": 1831.65,
+      "text": "where procrastination happens and how to deal with them using practical English."
+    },
+    {
+      "t": 1836.45,
+      "text": "We'll also share useful phrases you can use in meetings,"
+    },
+    {
+      "t": 1839.89,
+      "text": "conversations with colleagues, and even when talking to yourself to stay motivated."
+    },
+    {
+      "t": 1844.69,
+      "text": "That's a great point. So, let's begin."
+    },
+    {
+      "t": 1847.57,
+      "text": "Daniel, let me ask you honestly. Do you ever procrastinate at work?"
+    },
+    {
+      "t": 1852.13,
+      "text": "I think if I'm honest, yes I do, especially when I have a task that feels difficult or unclear."
+    },
+    {
+      "t": 1858.77,
+      "text": "That's very common. Many people think procrastination is just laziness,"
+    },
+    {
+      "t": 1863.41,
+      "text": "but it's often related to feeling overwhelmed."
+    },
+    {
+      "t": 1866.45,
+      "text": "I completely agree. For example, last week I had to prepare a detailed report"
+    },
+    {
+      "t": 1871.81,
+      "text": "and I kept delaying it."
+    },
+    {
+      "t": 1873.61,
+      "text": "What made you delay it?"
+    },
+    {
+      "t": 1875.25,
+      "text": "The task felt too big."
+    },
+    {
+      "t": 1877.05,
+      "text": "I didn't know where to start,"
+    },
+    {
+      "t": 1878.61,
+      "text": "so I kept telling myself I would do it later."
+    },
+    {
+      "t": 1881.25,
+      "text": "That's a classic situation."
+    },
+    {
+      "t": 1883.49,
+      "text": "When a task feels too large,"
+    },
+    {
+      "t": 1885.25,
+      "text": "it becomes easier to avoid it."
+    },
+    {
+      "t": 1887.45,
+      "text": "Exactly."
+    },
+    {
+      "t": 1888.41,
+      "text": "Instead, I started checking emails"
+    },
+    {
+      "t": 1890.69,
+      "text": "and doing smaller, less important tasks."
+    },
+    {
+      "t": 1893.45,
+      "text": "That's what we call productive procrastination."
+    },
+    {
+      "t": 1896.65,
+      "text": "That's a great term."
+    },
+    {
+      "t": 1897.93,
+      "text": "It feels like you're working,"
+    },
+    {
+      "t": 1899.49,
+      "text": "but you're actually avoiding the main task."
+    },
+    {
+      "t": 1901.93,
+      "text": "Right, so how did you eventually handle it?"
+    },
+    {
+      "t": 1905.05,
+      "text": "I decided to break the task into smaller steps."
+    },
+    {
+      "t": 1908.45,
+      "text": "Instead of thinking about the whole report,"
+    },
+    {
+      "t": 1910.73,
+      "text": "I focused on just writing the introduction."
+    },
+    {
+      "t": 1913.21,
+      "text": "That's a very effective strategy."
+    },
+    {
+      "t": 1915.45,
+      "text": "Yes, once I started, it became easier to continue."
+    },
+    {
+      "t": 1918.97,
+      "text": "That's an important lesson."
+    },
+    {
+      "t": 1920.57,
+      "text": "Starting is often the hardest part."
+    },
+    {
+      "t": 1923.17,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1924.49,
+      "text": "Do you have any techniques you use"
+    },
+    {
+      "t": 1926.29,
+      "text": "to avoid procrastination?"
+    },
+    {
+      "t": 1927.89,
+      "text": "Yes, one technique I use is setting very clear deadlines for myself."
+    },
+    {
+      "t": 1932.85,
+      "text": "Even if the company doesn't give you a deadline?"
+    },
+    {
+      "t": 1934.97,
+      "text": "Exactly."
+    },
+    {
+      "t": 1935.97,
+      "text": "I create my own deadlines and treat them seriously."
+    },
+    {
+      "t": 1939.09,
+      "text": "That sounds like a good habit."
+    },
+    {
+      "t": 1940.65,
+      "text": "It is."
+    },
+    {
+      "t": 1941.65,
+      "text": "For example, I might say, I will complete this task by 3pm today."
+    },
+    {
+      "t": 1946.21,
+      "text": "That makes the goal specific."
+    },
+    {
+      "t": 1947.77,
+      "text": "Yes, and it creates a sense of urgency."
+    },
+    {
+      "t": 1950.65,
+      "text": "I think urgency is important."
+    },
+    {
+      "t": 1952.85,
+      "text": "Without it, tasks can easily be delayed."
+    },
+    {
+      "t": 1955.57,
+      "text": "Very true."
+    },
+    {
+      "t": 1956.65,
+      "text": "Another strategy I use is prioritization."
+    },
+    {
+      "t": 1959.53,
+      "text": "How do you prioritize your tasks?"
+    },
+    {
+      "t": 1961.69,
+      "text": "I ask myself, which task will have the biggest impact if I complete it today?"
+    },
+    {
+      "t": 1967.13,
+      "text": "That's a powerful question."
+    },
+    {
+      "t": 1968.89,
+      "text": "It helps me focus on what really matters instead of small, easy tasks."
+    },
+    {
+      "t": 1973.37,
+      "text": "I think many people avoid important tasks because they are more challenging."
+    },
+    {
+      "t": 1977.73,
+      "text": "Exactly, but those tasks are often the most valuable."
+    },
+    {
+      "t": 1981.65,
+      "text": "Let's imagine a workplace situation."
+    },
+    {
+      "t": 1984.17,
+      "text": "You have a deadline coming up, but you haven't started the task yet."
+    },
+    {
+      "t": 1988.11,
+      "text": "What would you say to your manager?"
+    },
+    {
+      "t": 1989.95,
+      "text": "That's a good question."
+    },
+    {
+      "t": 1990.95,
+      "text": "I would be honest, but professional."
+    },
+    {
+      "t": 1993.19,
+      "text": "I might say, I realize I need to make progress on this task, and I'm currently working on"
+    },
+    {
+      "t": 1997.99,
+      "text": "a plan to complete it efficiently."
+    },
+    {
+      "t": 2000.53,
+      "text": "That sounds responsible."
+    },
+    {
+      "t": 2001.53,
+      "text": "Yes, it shows awareness and action."
+    },
+    {
+      "t": 2004.77,
+      "text": "What if you need help?"
+    },
+    {
+      "t": 2005.97,
+      "text": "I would say, I'd appreciate some guidance on how to prioritize this task."
+    },
+    {
+      "t": 2011.15,
+      "text": "That's a great way to ask for support."
+    },
+    {
+      "t": 2013.35,
+      "text": "Thank you. Asking for help can actually reduce procrastination."
+    },
+    {
+      "t": 2017.15,
+      "text": "That's true. Sometimes we delay tasks because we feel stuck."
+    },
+    {
+      "t": 2021.55,
+      "text": "Exactly. Getting clarity can make a big difference."
+    },
+    {
+      "t": 2025.15,
+      "text": "Let's talk about another situation. You're working from home and you keep getting distracted."
+    },
+    {
+      "t": 2030.75,
+      "text": "That's very common in remote work."
+    },
+    {
+      "t": 2033.15,
+      "text": "Yes, there are many distractions like social media, household tasks, and even just feeling tired."
+    },
+    {
+      "t": 2039.55,
+      "text": "How would you handle that?"
+    },
+    {
+      "t": 2041.15,
+      "text": "I try to create a structured schedule."
+    },
+    {
+      "t": 2043.65,
+      "text": "What does that look like?"
+    },
+    {
+      "t": 2045.05,
+      "text": "I divide my day into time blocks."
+    },
+    {
+      "t": 2047.45,
+      "text": "For example, I might work from 9 to 11 on one task, then take a short break."
+    },
+    {
+      "t": 2052.65,
+      "text": "That's a great method."
+    },
+    {
+      "t": 2054.25,
+      "text": "It helps me stay focused because I know exactly what I should be doing."
+    },
+    {
+      "t": 2058.25,
+      "text": "I use a similar technique. It's sometimes called the focus session method."
+    },
+    {
+      "t": 2062.75,
+      "text": "Yes, working in short, focused periods."
+    },
+    {
+      "t": 2065.85,
+      "text": "Exactly, and during that time I avoid all distractions."
+    },
+    {
+      "t": 2069.95,
+      "text": "That requires discipline."
+    },
+    {
+      "t": 2071.63,
+      "text": "It does, but it becomes easier with practice."
+    },
+    {
+      "t": 2074.67,
+      "text": "What about motivation?"
+    },
+    {
+      "t": 2076.43,
+      "text": "Sometimes people procrastinate because they don't feel motivated."
+    },
+    {
+      "t": 2080.11,
+      "text": "That's a big factor."
+    },
+    {
+      "t": 2081.71,
+      "text": "Motivation can change from day to day."
+    },
+    {
+      "t": 2084.27,
+      "text": "So what can you do when you don't feel motivated?"
+    },
+    {
+      "t": 2087.23,
+      "text": "I remind myself of the purpose behind the task."
+    },
+    {
+      "t": 2090.75,
+      "text": "Can you explain that?"
+    },
+    {
+      "t": 2091.95,
+      "text": "For example, if I'm working on a report,"
+    },
+    {
+      "t": 2094.43,
+      "text": "I remind myself that it will help the team make better decisions."
+    },
+    {
+      "t": 2098.59,
+      "text": "That gives meaning to the task."
+    },
+    {
+      "t": 2100.83,
+      "text": "Exactly. When you see the bigger picture, it's easier to take action."
+    },
+    {
+      "t": 2105.39,
+      "text": "That's very insightful."
+    },
+    {
+      "t": 2107.03,
+      "text": "Thank you. Another thing I do is reward myself."
+    },
+    {
+      "t": 2110.51,
+      "text": "How does that work?"
+    },
+    {
+      "t": 2111.83,
+      "text": "After completing a task, I give myself a small reward, like a coffee break or watching a short video."
+    },
+    {
+      "t": 2118.19,
+      "text": "That sounds motivating."
+    },
+    {
+      "t": 2119.63,
+      "text": "It is. It creates a positive connection with completing tasks."
+    },
+    {
+      "t": 2123.87,
+      "text": "Let's talk about teamwork. Can procrastination affect a team?"
+    },
+    {
+      "t": 2128.15,
+      "text": "Definitely. If one person delays their work, it can affect the entire team."
+    },
+    {
+      "t": 2133.15,
+      "text": "That can create stress for others."
+    },
+    {
+      "t": 2135.45,
+      "text": "Yes, and it can damage trust."
+    },
+    {
+      "t": 2138.05,
+      "text": "So, how can you communicate if you're falling behind?"
+    },
+    {
+      "t": 2141.25,
+      "text": "I would say, I want to update you on my progress."
+    },
+    {
+      "t": 2144.55,
+      "text": "I've encountered some delays, but I'm working on resolving them."
+    },
+    {
+      "t": 2148.05,
+      "text": "That sounds honest and professional."
+    },
+    {
+      "t": 2150.05,
+      "text": "Yes, transparency is important."
+    },
+    {
+      "t": 2152.55,
+      "text": "What if someone else on your team is procrastinating?"
+    },
+    {
+      "t": 2155.45,
+      "text": "That's a sensitive situation."
+    },
+    {
+      "t": 2157.75,
+      "text": "How would you handle it?"
+    },
+    {
+      "t": 2159.07,
+      "text": "I would approach it politely."
+    },
+    {
+      "t": 2160.87,
+      "text": "For example, do you need any support with this task?"
+    },
+    {
+      "t": 2163.95,
+      "text": "I noticed it's still in progress."
+    },
+    {
+      "t": 2166.27,
+      "text": "That's a very supportive approach."
+    },
+    {
+      "t": 2168.39,
+      "text": "Yes, it avoids blame and encourages collaboration."
+    },
+    {
+      "t": 2172.03,
+      "text": "Let's talk about mindset."
+    },
+    {
+      "t": 2174.11,
+      "text": "Do you think mindset plays a role in procrastination?"
+    },
+    {
+      "t": 2177.51,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2178.67,
+      "text": "A negative mindset can increase procrastination."
+    },
+    {
+      "t": 2181.95,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 2183.31,
+      "text": "If someone thinks this task is too difficult,"
+    },
+    {
+      "t": 2186.39,
+      "text": "they are more likely to avoid it."
+    },
+    {
+      "t": 2188.35,
+      "text": "That makes sense."
+    },
+    {
+      "t": 2189.59,
+      "text": "Instead, it's better to think,"
+    },
+    {
+      "t": 2191.47,
+      "text": "I can start with a small step."
+    },
+    {
+      "t": 2193.67,
+      "text": "That feels more manageable."
+    },
+    {
+      "t": 2195.39,
+      "text": "Exactly."
+    },
+    {
+      "t": 2196.35,
+      "text": "Changing your thoughts can change your actions."
+    },
+    {
+      "t": 2199.27,
+      "text": "That's very powerful."
+    },
+    {
+      "t": 2201.07,
+      "text": "Thank you."
+    },
+    {
+      "t": 2201.91,
+      "text": "Let's imagine another scenario."
+    },
+    {
+      "t": 2204.03,
+      "text": "You have multiple tasks"
+    },
+    {
+      "t": 2205.51,
+      "text": "and you don't know where to start."
+    },
+    {
+      "t": 2207.51,
+      "text": "That can feel overwhelming."
+    },
+    {
+      "t": 2209.35,
+      "text": "What would you do?"
+    },
+    {
+      "t": 2210.55,
+      "text": "I would create a simple task list"
+    },
+    {
+      "t": 2212.79,
+      "text": "and rank tasks by priority."
+    },
+    {
+      "t": 2215.11,
+      "text": "And then start with the most important one?"
+    },
+    {
+      "t": 2217.67,
+      "text": "Yes, or sometimes I start with a small task to build momentum."
+    },
+    {
+      "t": 2222.15,
+      "text": "That's interesting."
+    },
+    {
+      "t": 2223.51,
+      "text": "It depends on the situation."
+    },
+    {
+      "t": 2225.19,
+      "text": "The key is to start somewhere."
+    },
+    {
+      "t": 2227.23,
+      "text": "Starting seems to be a recurring theme."
+    },
+    {
+      "t": 2230.15,
+      "text": "Yes, because action reduces procrastination."
+    },
+    {
+      "t": 2233.59,
+      "text": "That's a great takeaway."
+    },
+    {
+      "t": 2235.23,
+      "text": "Another useful phrase in the workplace is,"
+    },
+    {
+      "t": 2237.87,
+      "text": "let me break this down into smaller steps."
+    },
+    {
+      "t": 2240.83,
+      "text": "That shows a problem-solving mindset."
+    },
+    {
+      "t": 2243.35,
+      "text": "Exactly."
+    },
+    {
+      "t": 2244.51,
+      "text": "It also helps you communicate your approach clearly."
+    },
+    {
+      "t": 2247.35,
+      "text": "Before we finish, what is your number one tip for beating procrastination?"
+    },
+    {
+      "t": 2252.19,
+      "text": "My number one tip is to take immediate action, even if it's small."
+    },
+    {
+      "t": 2256.59,
+      "text": "That's very practical."
+    },
+    {
+      "t": 2257.99,
+      "text": "What about you?"
+    },
+    {
+      "t": 2258.99,
+      "text": "I would say focus on clarity."
+    },
+    {
+      "t": 2261.47,
+      "text": "If you understand the task clearly, it's easier to start."
+    },
+    {
+      "t": 2265.03,
+      "text": "That's excellent advice."
+    },
+    {
+      "t": 2266.95,
+      "text": "Thank you."
+    },
+    {
+      "t": 2267.95,
+      "text": "Well, this has been a very helpful conversation."
+    },
+    {
+      "t": 2270.31,
+      "text": "Yes, I think many people will relate to this topic."
+    },
+    {
+      "t": 2273.87,
+      "text": "Before we end, here's a question for you."
+    },
+    {
+      "t": 2276.35,
+      "text": "How do you deal with procrastination at work?"
+    },
+    {
+      "t": 2278.99,
+      "text": "Try to answer using the phrases we discussed today."
+    },
+    {
+      "t": 2282.23,
+      "text": "Practice speaking out loud to build confidence."
+    },
+    {
+      "t": 2285.17,
+      "text": "And remember, progress is better than perfection."
+    },
+    {
+      "t": 2288.43,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 2290.39,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 2291.55,
+      "text": "See you next time."
+    }
+  ],
+  "lemmas": [
+    [
+      "task",
+      93
+    ],
+    [
+      "start",
+      58
+    ],
+    [
+      "work",
+      50
+    ],
+    [
+      "procrastination",
+      46
+    ],
+    [
+      "exactly",
+      44
+    ],
+    [
+      "feel",
+      43
+    ],
+    [
+      "time",
+      33
+    ],
+    [
+      "focus",
+      32
+    ],
+    [
+      "talk",
+      30
+    ],
+    [
+      "think",
+      30
+    ],
+    [
+      "today",
+      29
+    ],
+    [
+      "delay",
+      29
+    ],
+    [
+      "step",
+      29
+    ],
+    [
+      "important",
+      28
+    ],
+    [
+      "break",
+      25
+    ],
+    [
+      "situation",
+      24
+    ],
+    [
+      "one",
+      24
+    ],
+    [
+      "help",
+      23
+    ],
+    [
+      "example",
+      23
+    ],
+    [
+      "good",
+      22
+    ],
+    [
+      "conversation",
+      21
+    ],
+    [
+      "small",
+      20
+    ],
+    [
+      "keep",
+      18
+    ],
+    [
+      "first",
+      18
+    ],
+    [
+      "another",
+      18
+    ],
+    [
+      "english",
+      17
+    ],
+    [
+      "report",
+      17
+    ],
+    [
+      "sometim",
+      16
+    ],
+    [
+      "great",
+      16
+    ],
+    [
+      "thank",
+      16
+    ],
+    [
+      "avoid",
+      16
+    ],
+    [
+      "real",
+      15
+    ],
+    [
+      "often",
+      15
+    ],
+    [
+      "even",
+      15
+    ],
+    [
+      "progress",
+      15
+    ],
+    [
+      "action",
+      14
+    ],
+    [
+      "instead",
+      14
+    ],
+    [
+      "mak",
+      13
+    ],
+    [
+      "perfect",
+      13
+    ],
+    [
+      "workplace",
+      13
+    ],
+    [
+      "someth",
+      13
+    ],
+    [
+      "also",
+      13
+    ],
+    [
+      "try",
+      13
+    ],
+    [
+      "sure",
+      13
+    ],
+    [
+      "practice",
+      12
+    ],
+    [
+      "everyone",
+      12
+    ],
+    [
+      "practical",
+      12
+    ],
+    [
+      "common",
+      12
+    ],
+    [
+      "take",
+      12
+    ],
+    [
+      "part",
+      12
+    ],
+    [
+      "smaller",
+      12
+    ],
+    [
+      "sound",
+      12
+    ],
+    [
+      "many",
+      11
+    ],
+    [
+      "mean",
+      11
+    ],
+    [
+      "use",
+      11
+    ],
+    [
+      "goal",
+      11
+    ],
+    [
+      "imagine",
+      11
+    ],
+    [
+      "big",
+      11
+    ],
+    [
+      "mindset",
+      11
+    ],
+    [
+      "distraction",
+      11
+    ],
+    [
+      "finish",
+      10
+    ],
+    [
+      "know",
+      10
+    ],
+    [
+      "data",
+      10
+    ],
+    [
+      "easier",
+      10
+    ],
+    [
+      "deadlin",
+      10
+    ],
+    [
+      "say",
+      10
+    ],
+    [
+      "make",
+      10
+    ],
+    [
+      "person",
+      10
+    ],
+    [
+      "daniel",
+      9
+    ],
+    [
+      "going",
+      9
+    ],
+    [
+      "point",
+      9
+    ],
+    [
+      "overwhelm",
+      9
+    ],
+    [
+      "build",
+      9
+    ],
+    [
+      "deadline",
+      9
+    ],
+    [
+      "approach",
+      9
+    ],
+    [
+      "minut",
+      9
+    ],
+    [
+      "need",
+      9
+    ],
+    [
+      "email",
+      9
+    ],
+    [
+      "plan",
+      9
+    ],
+    [
+      "motivat",
+      9
+    ],
+    [
+      "stay",
+      9
+    ],
+    [
+      "speak",
+      8
+    ],
+    [
+      "complete",
+      8
+    ],
+    [
+      "happen",
+      8
+    ],
+    [
+      "less",
+      8
+    ],
+    [
+      "question",
+      8
+    ],
+    [
+      "much",
+      8
+    ],
+    [
+      "strategy",
+      8
+    ],
+    [
+      "block",
+      8
+    ],
+    [
+      "creat",
+      8
+    ],
+    [
+      "reduc",
+      8
+    ],
+    [
+      "improve",
+      8
+    ],
+    [
+      "welcome",
+      7
+    ],
+    [
+      "sophia",
+      7
+    ],
+    [
+      "beat",
+      7
+    ],
+    [
+      "detail",
+      7
+    ],
+    [
+      "discuss",
+      7
+    ],
+    [
+      "sense",
+      7
+    ],
+    [
+      "continue",
+      7
+    ],
+    [
+      "tell",
+      7
+    ],
+    [
+      "set",
+      7
+    ],
+    [
+      "reduce",
+      7
+    ],
+    [
+      "see",
+      7
+    ],
+    [
+      "strong",
+      7
+    ],
+    [
+      "ask",
+      7
+    ],
+    [
+      "create",
+      7
+    ],
+    [
+      "reward",
+      7
+    ],
+    [
+      "podcast",
+      6
+    ],
+    [
+      "exampl",
+      6
+    ],
+    [
+      "topic",
+      6
+    ],
+    [
+      "professional",
+      6
+    ],
+    [
+      "honest",
+      6
+    ],
+    [
+      "brain",
+      6
+    ],
+    [
+      "productive",
+      6
+    ],
+    [
+      "main",
+      6
+    ],
+    [
+      "analysis",
+      6
+    ],
+    [
+      "writ",
+      6
+    ],
+    [
+      "key",
+      6
+    ],
+    [
+      "schedule",
+      6
+    ],
+    [
+      "idea",
+      6
+    ],
+    [
+      "thing",
+      6
+    ],
+    [
+      "day",
+      6
+    ],
+    [
+      "want",
+      6
+    ],
+    [
+      "true",
+      6
+    ],
+    [
+      "perfection",
+      6
+    ],
+    [
+      "write",
+      6
+    ],
+    [
+      "stress",
+      6
+    ],
+    [
+      "especially",
+      6
+    ],
+    [
+      "motivation",
+      6
+    ],
+    [
+      "complet",
+      6
+    ],
+    [
+      "team",
+      6
+    ],
+    [
+      "affect",
+      6
+    ],
+    [
+      "give",
+      6
+    ],
+    [
+      "section",
+      6
+    ],
+    [
+      "without",
+      6
+    ],
+    [
+      "short",
+      6
+    ],
+    [
+      "listen",
+      5
+    ],
+    [
+      "hello",
+      5
+    ],
+    [
+      "back",
+      5
+    ],
+    [
+      "hi",
+      5
+    ],
+    [
+      "learn",
+      5
+    ],
+    [
+      "challenge",
+      5
+    ],
+    [
+      "phras",
+      5
+    ],
+    [
+      "remember",
+      5
+    ],
+    [
+      "begin",
+      5
+    ],
+    [
+      "project",
+      5
+    ],
+    [
+      "get",
+      5
+    ],
+    [
+      "answer",
+      5
+    ],
+    [
+      "difficult",
+      5
+    ],
+    [
+      "manageable",
+      5
+    ],
+    [
+      "usually",
+      5
+    ],
+    [
+      "distract",
+      5
+    ],
+    [
+      "useful",
+      5
+    ],
+    [
+      "hardest",
+      5
+    ],
+    [
+      "ever",
+      5
+    ],
+    [
+      "becom",
+      5
+    ],
+    [
+      "simple",
+      5
+    ],
+    [
+      "technique",
+      5
+    ],
+    [
+      "specific",
+      5
+    ],
+    [
+      "share",
+      5
+    ],
+    [
+      "someone",
+      5
+    ],
+    [
+      "clear",
+      5
+    ],
+    [
+      "excellent",
+      5
+    ],
+    [
+      "confident",
+      5
+    ],
+    [
+      "confidence",
+      5
+    ],
+    [
+      "clarity",
+      5
+    ],
+    [
+      "meeting",
+      5
+    ],
+    [
+      "agree",
+      5
+    ],
+    [
+      "way",
+      5
+    ],
+    [
+      "improv",
+      5
+    ],
+    [
+      "next",
+      5
+    ],
+    [
+      "productivity",
+      5
+    ],
+    [
+      "performance",
+      5
+    ],
+    [
+      "check",
+      5
+    ],
+    [
+      "change",
+      5
+    ],
+    [
+      "procrastinate",
+      5
+    ],
+    [
+      "review",
+      5
+    ],
+    [
+      "habit",
+      5
+    ],
+    [
+      "business",
+      4
+    ],
+    [
+      "happy",
+      4
+    ],
+    [
+      "us",
+      4
+    ],
+    [
+      "almost",
+      4
+    ],
+    [
+      "career",
+      4
+    ],
+    [
+      "afraid",
+      4
+    ],
+    [
+      "explore",
+      4
+    ],
+    [
+      "using",
+      4
+    ],
+    [
+      "strategi",
+      4
+    ],
+    [
+      "look",
+      4
+    ],
+    [
+      "classic",
+      4
+    ],
+    [
+      "later",
+      4
+    ],
+    [
+      "com",
+      4
+    ],
+    [
+      "helpful",
+      4
+    ],
+    [
+      "call",
+      4
+    ],
+    [
+      "notification",
+      4
+    ],
+    [
+      "tomorrow",
+      4
+    ],
+    [
+      "scenario",
+      4
+    ],
+    [
+      "long",
+      4
+    ],
+    [
+      "tim",
+      4
+    ],
+    [
+      "practic",
+      4
+    ],
+    [
+      "powerful",
+      4
+    ],
+    [
+      "chang",
+      4
+    ],
+    [
+      "moment",
+      4
+    ],
+    [
+      "manag",
+      4
+    ],
+    [
+      "tak",
+      4
+    ],
+    [
+      "consistent",
+      4
+    ],
+    [
+      "become",
+      4
+    ],
+    [
+      "goodbye",
+      4
+    ],
+    [
+      "manager",
+      4
+    ],
+    [
+      "last",
+      4
+    ],
+    [
+      "week",
+      4
+    ],
+    [
+      "method",
+      4
+    ],
+    [
+      "go",
+      4
+    ],
+    [
+      "deeper",
+      4
+    ],
+    [
+      "show",
+      4
+    ],
+    [
+      "remind",
+      4
+    ],
+    [
+      "techniqu",
+      4
+    ],
+    [
+      "energy",
+      4
+    ],
+    [
+      "behind",
+      4
+    ],
+    [
+      "let",
+      4
+    ],
+    [
+      "communicate",
+      4
+    ],
+    [
+      "clearly",
+      4
+    ],
+    [
+      "handle",
+      4
+    ],
+    [
+      "channel",
+      3
+    ],
+    [
+      "naturally",
+      3
+    ],
+    [
+      "confidently",
+      3
+    ],
+    [
+      "mistak",
+      3
+    ],
+    [
+      "realistic",
+      3
+    ],
+    [
+      "natural",
+      3
+    ],
+    [
+      "momentum",
+      3
+    ],
+    [
+      "solution",
+      3
+    ],
+    [
+      "notic",
+      3
+    ],
+    [
+      "still",
+      3
+    ],
+    [
+      "honestly",
+      3
+    ],
+    [
+      "end",
+      3
+    ],
+    [
+      "spend",
+      3
+    ],
+    [
+      "busy",
+      3
+    ],
+    [
+      "final",
+      3
+    ],
+    [
+      "maybe",
+      3
+    ],
+    [
+      "tir",
+      3
+    ],
+    [
+      "morn",
+      3
+    ],
+    [
+      "giv",
+      3
+    ],
+    [
+      "lead",
+      3
+    ],
+    [
+      "draft",
+      3
+    ],
+    [
+      "stressful",
+      3
+    ],
+    [
+      "easy",
+      3
+    ],
+    [
+      "biggest",
+      3
+    ],
+    [
+      "social",
+      3
+    ],
+    [
+      "media",
+      3
+    ],
+    [
+      "turn",
+      3
+    ],
+    [
+      "definitely",
+      3
+    ],
+    [
+      "structur",
+      3
+    ],
+    [
+      "preparation",
+      3
+    ],
+    [
+      "wait",
+      3
+    ],
+    [
+      "loud",
+      3
+    ],
+    [
+      "episode",
+      3
+    ],
+    [
+      "struggl",
+      3
+    ],
+    [
+      "deal",
+      3
+    ],
+    [
+      "daily",
+      3
+    ],
+    [
+      "prepare",
+      3
+    ],
+    [
+      "effective",
+      3
+    ],
+    [
+      "kind",
+      3
+    ],
+    [
+      "three",
+      3
+    ],
+    [
+      "prioritize",
+      3
+    ],
+    [
+      "aim",
+      3
+    ],
+    [
+      "resistance",
+      3
+    ],
+    [
+      "interest",
+      3
+    ],
+    [
+      "understand",
+      3
+    ],
+    [
+      "coffee",
+      3
+    ],
+    [
+      "awareness",
+      3
+    ],
+    [
+      "requir",
+      3
+    ],
+    [
+      "urgency",
+      3
+    ],
+    [
+      "manage",
+      3
+    ],
+    [
+      "positive",
+      3
+    ],
+    [
+      "absolutely",
+      3
+    ],
+    [
+      "everyday",
+      2
+    ],
+    [
+      "experienc",
+      2
+    ],
+    [
+      "lazy",
+      2
+    ],
+    [
+      "emotion",
+      2
+    ],
+    [
+      "management",
+      2
+    ],
+    [
+      "simulate",
+      2
+    ],
+    [
+      "include",
+      2
+    ],
+    [
+      "colleagu",
+      2
+    ],
+    [
+      "find",
+      2
+    ],
+    [
+      "together",
+      2
+    ],
+    [
+      "course",
+      2
+    ],
+    [
+      "close",
+      2
+    ],
+    [
+      "bit",
+      2
+    ],
+    [
+      "done",
+      2
+    ],
+    [
+      "caus",
+      2
+    ],
+    [
+      "organiz",
+      2
+    ],
+    [
+      "fil",
+      2
+    ],
+    [
+      "youve",
+      2
+    ],
+    [
+      "prepar",
+      2
+    ],
+    [
+      "large",
+      2
+    ],
+    [
+      "divide",
+      2
+    ],
+    [
+      "gather",
+      2
+    ],
+    [
+      "insight",
+      2
+    ],
+    [
+      "entire",
+      2
+    ],
+    [
+      "already",
+      2
+    ],
+    [
+      "problem",
+      2
+    ],
+    [
+      "never",
+      2
+    ],
+    [
+      "ther",
+      2
+    ],
+    [
+      "phrase",
+      2
+    ],
+    [
+      "reason",
+      2
+    ],
+    [
+      "perfectionism",
+      2
+    ],
+    [
+      "five",
+      2
+    ],
+    [
+      "phone",
+      2
+    ],
+    [
+      "train",
+      2
+    ],
+    [
+      "discipline",
+      2
+    ],
+    [
+      "accountability",
+      2
+    ],
+    [
+      "likely",
+      2
+    ],
+    [
+      "follow",
+      2
+    ],
+    [
+      "hear",
+      2
+    ],
+    [
+      "quickly",
+      2
+    ],
+    [
+      "ready",
+      2
+    ],
+    [
+      "result",
+      2
+    ],
+    [
+      "contribut",
+      2
+    ],
+    [
+      "success",
+      2
+    ],
+    [
+      "move",
+      2
+    ],
+    [
+      "toward",
+      2
+    ],
+    [
+      "clos",
+      2
+    ],
+    [
+      "explor",
+      2
+    ],
+    [
+      "importance",
+      2
+    ],
+    [
+      "colleague",
+      2
+    ],
+    [
+      "laziness",
+      2
+    ],
+    [
+      "fear",
+      2
+    ],
+    [
+      "lack",
+      2
+    ],
+    [
+      "walk",
+      2
+    ],
+    [
+      "recent",
+      2
+    ],
+    [
+      "everyth",
+      2
+    ],
+    [
+      "appreciate",
+      2
+    ],
+    [
+      "easily",
+      2
+    ],
+    [
+      "recently",
+      2
+    ],
+    [
+      "postpon",
+      2
+    ],
+    [
+      "introduction",
+      2
+    ],
+    [
+      "apply",
+      2
+    ],
+    [
+      "issue",
+      2
+    ],
+    [
+      "face",
+      2
+    ],
+    [
+      "track",
+      2
+    ],
+    [
+      "period",
+      2
+    ],
+    [
+      "interruption",
+      2
+    ],
+    [
+      "completely",
+      2
+    ],
+    [
+      "seem",
+      2
+    ],
+    [
+      "list",
+      2
+    ],
+    [
+      "minute",
+      2
+    ],
+    [
+      "shift",
+      2
+    ],
+    [
+      "personal",
+      2
+    ],
+    [
+      "friday",
+      2
+    ],
+    [
+      "complex",
+      2
+    ],
+    [
+      "bigger",
+      2
+    ],
+    [
+      "mov",
+      2
+    ],
+    [
+      "forward",
+      2
+    ],
+    [
+      "guidance",
+      2
+    ],
+    [
+      "realize",
+      2
+    ],
+    [
+      "insightful",
+      2
+    ],
+    [
+      "discomfort",
+      2
+    ],
+    [
+      "behavior",
+      2
+    ],
+    [
+      "experience",
+      2
+    ],
+    [
+      "used",
+      2
+    ],
+    [
+      "similar",
+      2
+    ],
+    [
+      "proposal",
+      2
+    ],
+    [
+      "hour",
+      2
+    ],
+    [
+      "eventually",
+      2
+    ],
+    [
+      "lesson",
+      2
+    ],
+    [
+      "earlier",
+      2
+    ],
+    [
+      "explain",
+      2
+    ],
+    [
+      "negative",
+      2
+    ],
+    [
+      "matter",
+      2
+    ],
+    [
+      "communication",
+      2
+    ],
+    [
+      "procrastinat",
+      2
+    ],
+    [
+      "update",
+      2
+    ],
+    [
+      "currently",
+      2
+    ],
+    [
+      "trust",
+      2
+    ],
+    [
+      "play",
+      2
+    ],
+    [
+      "role",
+      2
+    ],
+    [
+      "environment",
+      2
+    ],
+    [
+      "home",
+      2
+    ],
+    [
+      "responsible",
+      2
+    ],
+    [
+      "pressure",
+      2
+    ],
+    [
+      "presentation",
+      2
+    ],
+    [
+      "yet",
+      2
+    ],
+    [
+      "session",
+      2
+    ],
+    [
+      "every",
+      2
+    ],
+    [
+      "structure",
+      2
+    ],
+    [
+      "decision",
+      2
+    ],
+    [
+      "unclear",
+      2
+    ],
+    [
+      "support",
+      2
+    ],
+    [
+      "number",
+      2
+    ],
+    [
+      "tip",
+      2
+    ],
+    [
+      "uncertain",
+      1
+    ],
+    [
+      "link",
+      1
+    ],
+    [
+      "overcome",
+      1
+    ],
+    [
+      "hey",
+      1
+    ],
+    [
+      "timeline",
+      1
+    ],
+    [
+      "pend",
+      1
+    ],
+    [
+      "tri",
+      1
+    ],
+    [
+      "sign",
+      1
+    ],
+    [
+      "includ",
+      1
+    ],
+    [
+      "recommendation",
+      1
+    ],
+    [
+      "job",
+      1
+    ],
+    [
+      "analyz",
+      1
+    ],
+    [
+      "identify",
+      1
+    ],
+    [
+      "afternoon",
+      1
+    ],
+    [
+      "eat",
+      1
+    ],
+    [
+      "frog",
+      1
+    ],
+    [
+      "heard",
+      1
+    ],
+    [
+      "rest",
+      1
+    ],
+    [
+      "accomplishment",
+      1
+    ],
+    [
+      "rough",
+      1
+    ],
+    [
+      "five-minute",
+      1
+    ],
+    [
+      "rule",
+      1
+    ],
+    [
+      "longer",
+      1
+    ],
+    [
+      "remove",
+      1
+    ],
+    [
+      "deep",
+      1
+    ],
+    [
+      "anyone",
+      1
+    ],
+    [
+      "responsibility",
+      1
+    ],
+    [
+      "measurable",
+      1
+    ],
+    [
+      "confus",
+      1
+    ],
+    [
+      "send",
+      1
+    ],
+    [
+      "rewrite",
+      1
+    ],
+    [
+      "edit",
+      1
+    ],
+    [
+      "sav",
+      1
+    ],
+    [
+      "achiev",
+      1
+    ],
+    [
+      "perspective",
+      1
+    ],
+    [
+      "meaningful",
+      1
+    ],
+    [
+      "rather",
+      1
+    ],
+    [
+      "statement",
+      1
+    ],
+    [
+      "realiz",
+      1
+    ],
+    [
+      "sentence",
+      1
+    ],
+    [
+      "normal",
+      1
+    ],
+    [
+      "reality",
+      1
+    ],
+    [
+      "confusion",
+      1
+    ],
+    [
+      "life",
+      1
+    ],
+    [
+      "aware",
+      1
+    ],
+    [
+      "consistently",
+      1
+    ],
+    [
+      "employee",
+      1
+    ],
+    [
+      "honesty",
+      1
+    ],
+    [
+      "combination",
+      1
+    ],
+    [
+      "organize",
+      1
+    ],
+    [
+      "tend",
+      1
+    ],
+    [
+      "outlin",
+      1
+    ],
+    [
+      "mention",
+      1
+    ],
+    [
+      "mostly",
+      1
+    ],
+    [
+      "modern",
+      1
+    ],
+    [
+      "workplac",
+      1
+    ],
+    [
+      "lose",
+      1
+    ],
+    [
+      "doable",
+      1
+    ],
+    [
+      "arrive",
+      1
+    ],
+    [
+      "differently",
+      1
+    ],
+    [
+      "bas",
+      1
+    ],
+    [
+      "timer",
+      1
+    ],
+    [
+      "anxious",
+      1
+    ],
+    [
+      "certain",
+      1
+    ],
+    [
+      "recognize",
+      1
+    ],
+    [
+      "failure",
+      1
+    ],
+    [
+      "worry",
+      1
+    ],
+    [
+      "revise",
+      1
+    ],
+    [
+      "pattern",
+      1
+    ],
+    [
+      "actual",
+      1
+    ],
+    [
+      "due",
+      1
+    ],
+    [
+      "wednesday",
+      1
+    ],
+    [
+      "last-minute",
+      1
+    ],
+    [
+      "assign",
+      1
+    ],
+    [
+      "clarify",
+      1
+    ],
+    [
+      "requirement",
+      1
+    ],
+    [
+      "fac",
+      1
+    ],
+    [
+      "regular",
+      1
+    ],
+    [
+      "check-in",
+      1
+    ],
+    [
+      "skill",
+      1
+    ],
+    [
+      "address",
+      1
+    ],
+    [
+      "case",
+      1
+    ],
+    [
+      "connect",
+      1
+    ],
+    [
+      "repetitive",
+      1
+    ],
+    [
+      "growth",
+      1
+    ],
+    [
+      "early",
+      1
+    ],
+    [
+      "consistency",
+      1
+    ],
+    [
+      "improvement",
+      1
+    ],
+    [
+      "open",
+      1
+    ],
+    [
+      "switch",
+      1
+    ],
+    [
+      "mode",
+      1
+    ],
+    [
+      "permanent",
+      1
+    ],
+    [
+      "skirt",
+      1
+    ],
+    [
+      "name",
+      1
+    ],
+    [
+      "marco",
+      1
+    ],
+    [
+      "erica",
+      1
+    ],
+    [
+      "alway",
+      1
+    ],
+    [
+      "control",
+      1
+    ],
+    [
+      "usual",
+      1
+    ],
+    [
+      "psychology",
+      1
+    ],
+    [
+      "demonstrate",
+      1
+    ],
+    [
+      "direct",
+      1
+    ],
+    [
+      "speaker",
+      1
+    ],
+    [
+      "context",
+      1
+    ],
+    [
+      "though",
+      1
+    ],
+    [
+      "distinction",
+      1
+    ],
+    [
+      "noth",
+      1
+    ],
+    [
+      "avoidance",
+      1
+    ],
+    [
+      "quarterly",
+      1
+    ],
+    [
+      "meet",
+      1
+    ],
+    [
+      "chart",
+      1
+    ],
+    [
+      "attend",
+      1
+    ],
+    [
+      "minor",
+      1
+    ],
+    [
+      "updat",
+      1
+    ],
+    [
+      "document",
+      1
+    ],
+    [
+      "urgent",
+      1
+    ],
+    [
+      "dangerous",
+      1
+    ],
+    [
+      "form",
+      1
+    ],
+    [
+      "immediately",
+      1
+    ],
+    [
+      "analyze",
+      1
+    ],
+    [
+      "second",
+      1
+    ],
+    [
+      "third",
+      1
+    ],
+    [
+      "trigger",
+      1
+    ],
+    [
+      "complexity",
+      1
+    ],
+    [
+      "low",
+      1
+    ],
+    [
+      "mind",
+      1
+    ],
+    [
+      "emotional",
+      1
+    ],
+    [
+      "logical",
+      1
+    ],
+    [
+      "divid",
+      1
+    ],
+    [
+      "collection",
+      1
+    ],
+    [
+      "clean",
+      1
+    ],
+    [
+      "visualization",
+      1
+    ],
+    [
+      "full",
+      1
+    ],
+    [
+      "collect",
+      1
+    ],
+    [
+      "abstract",
+      1
+    ],
+    [
+      "concrete",
+      1
+    ],
+    [
+      "anxiety",
+      1
+    ],
+    [
+      "time-bas",
+      1
+    ],
+    [
+      "pomodoro",
+      1
+    ],
+    [
+      "exhaust",
+      1
+    ],
+    [
+      "mental",
+      1
+    ],
+    [
+      "different",
+      1
+    ],
+    [
+      "ahead",
+      1
+    ],
+    [
+      "lot",
+      1
+    ],
+    [
+      "client",
+      1
+    ],
+    [
+      "specifically",
+      1
+    ],
+    [
+      "creativity",
+      1
+    ],
+    [
+      "accuracy",
+      1
+    ],
+    [
+      "messy",
+      1
+    ],
+    [
+      "incomplete",
+      1
+    ],
+    [
+      "polish",
+      1
+    ],
+    [
+      "exist",
+      1
+    ],
+    [
+      "enough",
+      1
+    ],
+    [
+      "significantly",
+      1
+    ],
+    [
+      "two",
+      1
+    ],
+    [
+      "far",
+      1
+    ],
+    [
+      "away",
+      1
+    ],
+    [
+      "suddenly",
+      1
+    ],
+    [
+      "increas",
+      1
+    ],
+    [
+      "rush",
+      1
+    ],
+    [
+      "artificial",
+      1
+    ],
+    [
+      "spread",
+      1
+    ],
+    [
+      "workload",
+      1
+    ],
+    [
+      "visualiz",
+      1
+    ],
+    [
+      "consequenc",
+      1
+    ],
+    [
+      "poor",
+      1
+    ],
+    [
+      "quality",
+      1
+    ],
+    [
+      "feedback",
+      1
+    ],
+    [
+      "suppose",
+      1
+    ],
+    [
+      "respond",
+      1
+    ],
+    [
+      "identifi",
+      1
+    ],
+    [
+      "phase",
+      1
+    ],
+    [
+      "response",
+      1
+    ],
+    [
+      "vague",
+      1
+    ],
+    [
+      "soon",
+      1
+    ],
+    [
+      "constant",
+      1
+    ],
+    [
+      "messag",
+      1
+    ],
+    [
+      "continuously",
+      1
+    ],
+    [
+      "unnecessary",
+      1
+    ],
+    [
+      "choose",
+      1
+    ],
+    [
+      "dedicat",
+      1
+    ],
+    [
+      "workspace",
+      1
+    ],
+    [
+      "level",
+      1
+    ],
+    [
+      "harder",
+      1
+    ],
+    [
+      "smart",
+      1
+    ],
+    [
+      "enjoyable",
+      1
+    ],
+    [
+      "associat",
+      1
+    ],
+    [
+      "define",
+      1
+    ],
+    [
+      "objective",
+      1
+    ],
+    [
+      "outline",
+      1
+    ],
+    [
+      "gradually",
+      1
+    ],
+    [
+      "present",
+      1
+    ],
+    [
+      "long-term",
+      1
+    ],
+    [
+      "permanently",
+      1
+    ],
+    [
+      "reflect",
+      1
+    ],
+    [
+      "reflection",
+      1
+    ],
+    [
+      "summarize",
+      1
+    ],
+    [
+      "imperfection",
+      1
+    ],
+    [
+      "summary",
+      1
+    ],
+    [
+      "listener",
+      1
+    ],
+    [
+      "smallest",
+      1
+    ],
+    [
+      "hope",
+      1
+    ],
+    [
+      "industry",
+      1
+    ],
+    [
+      "whether",
+      1
+    ],
+    [
+      "office",
+      1
+    ],
+    [
+      "remotely",
+      1
+    ],
+    [
+      "study",
+      1
+    ],
+    [
+      "new",
+      1
+    ],
+    [
+      "relat",
+      1
+    ],
+    [
+      "term",
+      1
+    ],
+    [
+      "decid",
+      1
+    ],
+    [
+      "whole",
+      1
+    ],
+    [
+      "became",
+      1
+    ],
+    [
+      "company",
+      1
+    ],
+    [
+      "treat",
+      1
+    ],
+    [
+      "seriously",
+      1
+    ],
+    [
+      "pm",
+      1
+    ],
+    [
+      "prioritization",
+      1
+    ],
+    [
+      "impact",
+      1
+    ],
+    [
+      "challeng",
+      1
+    ],
+    [
+      "valuable",
+      1
+    ],
+    [
+      "efficiently",
+      1
+    ],
+    [
+      "stuck",
+      1
+    ],
+    [
+      "difference",
+      1
+    ],
+    [
+      "remote",
+      1
+    ],
+    [
+      "household",
+      1
+    ],
+    [
+      "factor",
+      1
+    ],
+    [
+      "purpose",
+      1
+    ],
+    [
+      "picture",
+      1
+    ],
+    [
+      "watch",
+      1
+    ],
+    [
+      "video",
+      1
+    ],
+    [
+      "connection",
+      1
+    ],
+    [
+      "teamwork",
+      1
+    ],
+    [
+      "damage",
+      1
+    ],
+    [
+      "fall",
+      1
+    ],
+    [
+      "encounter",
+      1
+    ],
+    [
+      "resolv",
+      1
+    ],
+    [
+      "transparency",
+      1
+    ],
+    [
+      "else",
+      1
+    ],
+    [
+      "sensitive",
+      1
+    ],
+    [
+      "politely",
+      1
+    ],
+    [
+      "supportive",
+      1
+    ],
+    [
+      "blame",
+      1
+    ],
+    [
+      "encourag",
+      1
+    ],
+    [
+      "collaboration",
+      1
+    ],
+    [
+      "increase",
+      1
+    ],
+    [
+      "thought",
+      1
+    ],
+    [
+      "multiple",
+      1
+    ],
+    [
+      "rank",
+      1
+    ],
+    [
+      "priority",
+      1
+    ],
+    [
+      "depend",
+      1
+    ],
+    [
+      "somewhere",
+      1
+    ],
+    [
+      "recur",
+      1
+    ],
+    [
+      "theme",
+      1
+    ],
+    [
+      "takeaway",
+      1
+    ],
+    [
+      "problem-solv",
+      1
+    ],
+    [
+      "immediate",
+      1
+    ],
+    [
+      "advice",
+      1
+    ],
+    [
+      "relate",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 5648,
+    "unique_words": 648,
+    "duration_min": 38.5
+  }
+}

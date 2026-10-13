@@ -1,0 +1,7413 @@
+{
+  "file_stem": "07_HowtoDescribeYourJobTasksResponsibilitiesProfessionally",
+  "no": 7,
+  "title_keywords": [
+    [
+      "describe",
+      "describe"
+    ],
+    [
+      "job",
+      "job"
+    ],
+    [
+      "tasks",
+      "task"
+    ],
+    [
+      "responsibilities",
+      "responsibiliti"
+    ],
+    [
+      "professionally",
+      "professionally"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "tasks",
+      154,
+      "B1+"
+    ],
+    [
+      "working",
+      112,
+      "A2"
+    ],
+    [
+      "need",
+      81,
+      "A2"
+    ],
+    [
+      "today",
+      73,
+      "A2"
+    ],
+    [
+      "talk",
+      63,
+      "A2"
+    ],
+    [
+      "finish",
+      60,
+      "A2"
+    ],
+    [
+      "report",
+      58,
+      "A2"
+    ],
+    [
+      "good",
+      55,
+      "A2"
+    ],
+    [
+      "say",
+      47,
+      "A2"
+    ],
+    [
+      "thanks",
+      40,
+      "A2"
+    ],
+    [
+      "day",
+      39,
+      "A2"
+    ],
+    [
+      "help",
+      39,
+      "A2"
+    ],
+    [
+      "hey",
+      37,
+      "B1+"
+    ],
+    [
+      "tina",
+      35,
+      "B1+"
+    ],
+    [
+      "completed",
+      33,
+      "B1+"
+    ],
+    [
+      "sure",
+      33,
+      "A2"
+    ],
+    [
+      "english",
+      31,
+      "A2"
+    ],
+    [
+      "exactly",
+      31,
+      "B1+"
+    ],
+    [
+      "sounds",
+      31,
+      "A2"
+    ],
+    [
+      "important",
+      30,
+      "A2"
+    ],
+    [
+      "great",
+      29,
+      "A2"
+    ],
+    [
+      "make",
+      29,
+      "A2"
+    ],
+    [
+      "presentation",
+      28,
+      "B1+"
+    ],
+    [
+      "emails",
+      27,
+      "A2"
+    ],
+    [
+      "practice",
+      27,
+      "A2"
+    ],
+    [
+      "daniel",
+      26,
+      "B1+"
+    ],
+    [
+      "meeting",
+      26,
+      "A2"
+    ],
+    [
+      "started",
+      25,
+      "A2"
+    ],
+    [
+      "project",
+      24,
+      "B1+"
+    ],
+    [
+      "clear",
+      23,
+      "A2"
+    ],
+    [
+      "review",
+      23,
+      "B1+"
+    ],
+    [
+      "also",
+      22,
+      "A2"
+    ],
+    [
+      "explain",
+      22,
+      "B1+"
+    ],
+    [
+      "morning",
+      22,
+      "B1+"
+    ],
+    [
+      "time",
+      22,
+      "A2"
+    ],
+    [
+      "client",
+      21,
+      "B1+"
+    ],
+    [
+      "focus",
+      21,
+      "B1+"
+    ],
+    [
+      "sophia",
+      21,
+      "B1+"
+    ],
+    [
+      "data",
+      20,
+      "B1+"
+    ],
+    [
+      "first",
+      20,
+      "A2"
+    ],
+    [
+      "try",
+      20,
+      "A2"
+    ],
+    [
+      "conversation",
+      19,
+      "B1+"
+    ],
+    [
+      "job",
+      19,
+      "A2"
+    ],
+    [
+      "natural",
+      19,
+      "A2"
+    ],
+    [
+      "everything",
+      18,
+      "B1+"
+    ],
+    [
+      "next",
+      18,
+      "A2"
+    ],
+    [
+      "updating",
+      18,
+      "B1+"
+    ],
+    [
+      "update",
+      18,
+      "B1+"
+    ],
+    [
+      "learning",
+      17,
+      "A2"
+    ],
+    [
+      "take",
+      17,
+      "A2"
+    ],
+    [
+      "ask",
+      16,
+      "A2"
+    ],
+    [
+      "busy",
+      16,
+      "A2"
+    ],
+    [
+      "done",
+      16,
+      "B1+"
+    ],
+    [
+      "plan",
+      16,
+      "A2"
+    ],
+    [
+      "prepare",
+      16,
+      "A2"
+    ],
+    [
+      "usually",
+      16,
+      "B1+"
+    ],
+    [
+      "clearly",
+      15,
+      "B1+"
+    ],
+    [
+      "deadline",
+      15,
+      "B1+"
+    ],
+    [
+      "organized",
+      15,
+      "B1+"
+    ],
+    [
+      "something",
+      15,
+      "B1+"
+    ],
+    [
+      "every",
+      14,
+      "A2"
+    ],
+    [
+      "example",
+      14,
+      "A2"
+    ],
+    [
+      "handle",
+      14,
+      "B1+"
+    ],
+    [
+      "lot",
+      14,
+      "A2"
+    ],
+    [
+      "preparing",
+      14,
+      "B1+"
+    ],
+    [
+      "problem",
+      14,
+      "A2"
+    ],
+    [
+      "still",
+      14,
+      "A2"
+    ],
+    [
+      "everyone",
+      13,
+      "A2"
+    ],
+    [
+      "give",
+      13,
+      "A2"
+    ],
+    [
+      "going",
+      13,
+      "B1+"
+    ],
+    [
+      "makes",
+      13,
+      "B1+"
+    ],
+    [
+      "perfect",
+      13,
+      "A2"
+    ],
+    [
+      "professional",
+      13,
+      "B1+"
+    ],
+    [
+      "progress",
+      13,
+      "B1+"
+    ],
+    [
+      "want",
+      13,
+      "A2"
+    ],
+    [
+      "complete",
+      12,
+      "B1+"
+    ],
+    [
+      "meetings",
+      12,
+      "B1+"
+    ],
+    [
+      "simple",
+      12,
+      "A2"
+    ],
+    [
+      "sometimes",
+      12,
+      "B1+"
+    ],
+    [
+      "team",
+      12,
+      "A2"
+    ],
+    [
+      "always",
+      11,
+      "B1+"
+    ],
+    [
+      "describe",
+      11,
+      "A2"
+    ],
+    [
+      "listening",
+      11,
+      "A2"
+    ],
+    [
+      "use",
+      11,
+      "A2"
+    ],
+    [
+      "communication",
+      10,
+      "B1+"
+    ],
+    [
+      "documents",
+      10,
+      "B1+"
+    ],
+    [
+      "idea",
+      10,
+      "A2"
+    ],
+    [
+      "later",
+      10,
+      "B1+"
+    ],
+    [
+      "one",
+      10,
+      "A2"
+    ],
+    [
+      "see",
+      10,
+      "A2"
+    ],
+    [
+      "show",
+      10,
+      "A2"
+    ],
+    [
+      "useful",
+      10,
+      "A2"
+    ],
+    [
+      "common",
+      9,
+      "A2"
+    ],
+    [
+      "feel",
+      9,
+      "A2"
+    ],
+    [
+      "follow",
+      9,
+      "A2"
+    ],
+    [
+      "happens",
+      9,
+      "A2"
+    ],
+    [
+      "keep",
+      9,
+      "A2"
+    ],
+    [
+      "know",
+      9,
+      "A2"
+    ],
+    [
+      "leo",
+      9,
+      "B1+"
+    ],
+    [
+      "let",
+      9,
+      "A2"
+    ],
+    [
+      "part",
+      9,
+      "A2"
+    ],
+    [
+      "phrases",
+      9,
+      "B1+"
+    ],
+    [
+      "practical",
+      9,
+      "B1+"
+    ],
+    [
+      "reply",
+      9,
+      "A2"
+    ],
+    [
+      "slides",
+      9,
+      "B1+"
+    ],
+    [
+      "tomorrow",
+      9,
+      "A2"
+    ],
+    [
+      "welcome",
+      9,
+      "A2"
+    ],
+    [
+      "answer",
+      8,
+      "A2"
+    ],
+    [
+      "currently",
+      8,
+      "B1+"
+    ],
+    [
+      "deadlines",
+      8,
+      "B1+"
+    ],
+    [
+      "go",
+      8,
+      "A2"
+    ],
+    [
+      "handling",
+      8,
+      "B1+"
+    ],
+    [
+      "look",
+      8,
+      "A2"
+    ],
+    [
+      "managing",
+      8,
+      "B1+"
+    ],
+    [
+      "oh",
+      8,
+      "B1+"
+    ],
+    [
+      "practicing",
+      8,
+      "B1+"
+    ],
+    [
+      "ready",
+      8,
+      "A2"
+    ],
+    [
+      "real",
+      8,
+      "A2"
+    ],
+    [
+      "respond",
+      8,
+      "B1+"
+    ],
+    [
+      "appreciate",
+      7,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "let's talk",
+      "count": 33,
+      "example": "Let's talk about multitasking.",
+      "t": 203.61
+    },
+    {
+      "text": "i've completed",
+      "count": 22,
+      "example": "I've completed the first part of the project,",
+      "t": 174.61
+    },
+    {
+      "text": "i'm working",
+      "count": 21,
+      "example": "and now I'm working on the second phase.",
+      "t": 177.05
+    },
+    {
+      "text": "job tasks",
+      "count": 13,
+      "example": "How to talk about job tasks in English.",
+      "t": 36.13
+    },
+    {
+      "text": "let's practice",
+      "count": 13,
+      "example": "Exactly! That's a very common question at work. Let's practice that.",
+      "t": 2344.26
+    },
+    {
+      "text": "that's a good",
+      "count": 12,
+      "example": "That's a good idea. I'll check it now.",
+      "t": 282.53
+    },
+    {
+      "text": "hey tina",
+      "count": 12,
+      "example": "Hey Tina, how are you today?",
+      "t": 499.79
+    },
+    {
+      "text": "that's a great",
+      "count": 12,
+      "example": "That's a great sentence.",
+      "t": 722.91
+    },
+    {
+      "text": "need to finish",
+      "count": 11,
+      "example": "The deadline is tomorrow, so I need to finish it today.",
+      "t": 132.65
+    },
+    {
+      "text": "hey sophia",
+      "count": 11,
+      "example": "Hey, Sophia, can I give you a quick update?",
+      "t": 171.01
+    }
+  ],
+  "phrases": [
+    {
+      "text": "let's talk",
+      "count": 33,
+      "example": "Let's talk about multitasking.",
+      "t": 203.61
+    },
+    {
+      "text": "i've completed",
+      "count": 22,
+      "example": "I've completed the first part of the project,",
+      "t": 174.61
+    },
+    {
+      "text": "i'm working",
+      "count": 21,
+      "example": "and now I'm working on the second phase.",
+      "t": 177.05
+    },
+    {
+      "text": "job tasks",
+      "count": 13,
+      "example": "How to talk about job tasks in English.",
+      "t": 36.13
+    },
+    {
+      "text": "let's practice",
+      "count": 13,
+      "example": "Exactly! That's a very common question at work. Let's practice that.",
+      "t": 2344.26
+    },
+    {
+      "text": "that's a good",
+      "count": 12,
+      "example": "That's a good idea. I'll check it now.",
+      "t": 282.53
+    },
+    {
+      "text": "hey tina",
+      "count": 12,
+      "example": "Hey Tina, how are you today?",
+      "t": 499.79
+    },
+    {
+      "text": "that's a great",
+      "count": 12,
+      "example": "That's a great sentence.",
+      "t": 722.91
+    },
+    {
+      "text": "need to finish",
+      "count": 11,
+      "example": "The deadline is tomorrow, so I need to finish it today.",
+      "t": 132.65
+    },
+    {
+      "text": "hey sophia",
+      "count": 11,
+      "example": "Hey, Sophia, can I give you a quick update?",
+      "t": 171.01
+    },
+    {
+      "text": "hey daniel",
+      "count": 10,
+      "example": "Hey, Daniel, how are you today?",
+      "t": 72.21
+    },
+    {
+      "text": "good morning",
+      "count": 10,
+      "example": "Good morning, Sophia.",
+      "t": 119.41
+    },
+    {
+      "text": "working on today",
+      "count": 9,
+      "example": "you working on today? I'm currently working on a presentation for a client. I also need",
+      "t": 104.45
+    },
+    {
+      "text": "say i'm",
+      "count": 9,
+      "example": "For example, I might say, I'm having some difficulty with the data analysis,",
+      "t": 596.87
+    },
+    {
+      "text": "every day",
+      "count": 8,
+      "example": "every day at work.",
+      "t": 26.63
+    },
+    {
+      "text": "day at work",
+      "count": 8,
+      "example": "every day at work.",
+      "t": 26.63
+    },
+    {
+      "text": "busy day",
+      "count": 8,
+      "example": "It's going to be a busy day.",
+      "t": 80.37
+    },
+    {
+      "text": "english learning",
+      "count": 7,
+      "example": "Our goal is to make English learning simple, useful, and realistic.",
+      "t": 28.35
+    },
+    {
+      "text": "talk about job",
+      "count": 7,
+      "example": "How to talk about job tasks in English.",
+      "t": 36.13
+    },
+    {
+      "text": "tasks in english",
+      "count": 7,
+      "example": "How to talk about job tasks in English.",
+      "t": 36.13
+    },
+    {
+      "text": "i'm currently",
+      "count": 7,
+      "example": "you working on today? I'm currently working on a presentation for a client. I also need",
+      "t": 104.45
+    },
+    {
+      "text": "currently working",
+      "count": 7,
+      "example": "you working on today? I'm currently working on a presentation for a client. I also need",
+      "t": 104.45
+    },
+    {
+      "text": "i'm focusing",
+      "count": 7,
+      "example": "I'm focusing on the sales report this morning.",
+      "t": 123.57
+    },
+    {
+      "text": "i'm still",
+      "count": 7,
+      "example": "Not yet. I'm still working on the final section.",
+      "t": 267.03
+    },
+    {
+      "text": "still working",
+      "count": 7,
+      "example": "Not yet. I'm still working on the final section.",
+      "t": 267.03
+    },
+    {
+      "text": "i'm still working",
+      "count": 7,
+      "example": "Not yet. I'm still working on the final section.",
+      "t": 267.03
+    },
+    {
+      "text": "make sure",
+      "count": 7,
+      "example": "I just want to make sure everything is correct before I submit it.",
+      "t": 278.63
+    },
+    {
+      "text": "good idea",
+      "count": 7,
+      "example": "That's a good idea. I'll check it now.",
+      "t": 282.53
+    },
+    {
+      "text": "need to explain",
+      "count": 7,
+      "example": "You always need to explain what you are doing,",
+      "t": 465.33
+    },
+    {
+      "text": "usually say",
+      "count": 7,
+      "example": "I usually say what I'm working on, what I've completed, and what I'll do next.",
+      "t": 575.23
+    },
+    {
+      "text": "take care",
+      "count": 7,
+      "example": "could you take care of this task? Or, can you handle this part of the project?",
+      "t": 780.83
+    },
+    {
+      "text": "help you learn",
+      "count": 6,
+      "example": "And I'm Sophia. We're here to help you learn natural, practical English that you can use",
+      "t": 21.23
+    },
+    {
+      "text": "make english",
+      "count": 6,
+      "example": "Our goal is to make English learning simple, useful, and realistic.",
+      "t": 28.35
+    },
+    {
+      "text": "make english learning",
+      "count": 6,
+      "example": "Our goal is to make English learning simple, useful, and realistic.",
+      "t": 28.35
+    },
+    {
+      "text": "describe your tasks",
+      "count": 6,
+      "example": "right phrases to describe your tasks clearly.",
+      "t": 55.19
+    },
+    {
+      "text": "also need",
+      "count": 6,
+      "example": "you working on today? I'm currently working on a presentation for a client. I also need",
+      "t": 104.45
+    },
+    {
+      "text": "i'm currently working",
+      "count": 6,
+      "example": "you working on today? I'm currently working on a presentation for a client. I also need",
+      "t": 104.45
+    },
+    {
+      "text": "i'm not sure",
+      "count": 6,
+      "example": "complete this task, but I'm not sure what to do next. Could you take a look?",
+      "t": 144.93
+    },
+    {
+      "text": "take a look",
+      "count": 6,
+      "example": "complete this task, but I'm not sure what to do next. Could you take a look?",
+      "t": 144.93
+    },
+    {
+      "text": "makes sense",
+      "count": 6,
+      "example": "Oh, that makes sense now.",
+      "t": 161.73
+    },
+    {
+      "text": "that's great",
+      "count": 6,
+      "example": "That's great progress.",
+      "t": 179.69
+    },
+    {
+      "text": "say i've",
+      "count": 6,
+      "example": "For example, I might say, I've completed the first part of the project and now I'm working",
+      "t": 581.07
+    },
+    {
+      "text": "also say",
+      "count": 6,
+      "example": "You can also say, I've already sent the email, or I've completed the task.",
+      "t": 646.07
+    },
+    {
+      "text": "welcome back",
+      "count": 5,
+      "example": "Welcome back to Business English Podcast. Hello, everyone, and thanks for joining us today.",
+      "t": 14.31
+    },
+    {
+      "text": "learn natural",
+      "count": 5,
+      "example": "And I'm Sophia. We're here to help you learn natural, practical English that you can use",
+      "t": 21.23
+    },
+    {
+      "text": "still need",
+      "count": 5,
+      "example": "You talk about what you're doing, what you finished, what you still need to do, and",
+      "t": 43.33
+    },
+    {
+      "text": "we're going",
+      "count": 5,
+      "example": "And today, we're going to show you all of this through natural conversation, just like",
+      "t": 58.73
+    },
+    {
+      "text": "let's get",
+      "count": 5,
+      "example": "Let's get started.",
+      "t": 71.21
+    },
+    {
+      "text": "get started",
+      "count": 5,
+      "example": "Let's get started.",
+      "t": 71.21
+    },
+    {
+      "text": "let's get started",
+      "count": 5,
+      "example": "Let's get started.",
+      "t": 71.21
+    },
+    {
+      "text": "stay organized",
+      "count": 5,
+      "example": "helps me stay organized. Exactly. So what's on your list today?",
+      "t": 87.77
+    },
+    {
+      "text": "today i'm",
+      "count": 5,
+      "example": "you working on today? I'm currently working on a presentation for a client. I also need",
+      "t": 104.45
+    },
+    {
+      "text": "let me know",
+      "count": 5,
+      "example": "Let me know if you need any help.",
+      "t": 137.45
+    },
+    {
+      "text": "completed the first",
+      "count": 5,
+      "example": "I've completed the first part of the project,",
+      "t": 174.61
+    },
+    {
+      "text": "it's important",
+      "count": 5,
+      "example": "Good. It's important to fix mistakes quickly.",
+      "t": 236.33
+    },
+    {
+      "text": "thanks for listening",
+      "count": 5,
+      "example": "Hello, and thanks for listening today.",
+      "t": 438.53
+    },
+    {
+      "text": "say i've completed",
+      "count": 5,
+      "example": "For example, I might say, I've completed the first part of the project and now I'm working",
+      "t": 581.07
+    },
+    {
+      "text": "that's clear",
+      "count": 5,
+      "example": "That's clear and professional.",
+      "t": 769.75
+    },
+    {
+      "text": "need to review",
+      "count": 5,
+      "example": "Almost. I've completed most of it, but I still need to review the data and make sure",
+      "t": 973.9
+    },
+    {
+      "text": "need to prepare",
+      "count": 5,
+      "example": "What do we need to prepare?",
+      "t": 1131.88
+    },
+    {
+      "text": "i'll take",
+      "count": 5,
+      "example": "You can handle the report and I'll take care of the slides.",
+      "t": 1144.1
+    },
+    {
+      "text": "let's try",
+      "count": 5,
+      "example": "Let's try that.",
+      "t": 1440.8
+    },
+    {
+      "text": "business english",
+      "count": 4,
+      "example": "Welcome back to Business English Podcast. Hello, everyone, and thanks for joining us today.",
+      "t": 14.31
+    },
+    {
+      "text": "english podcast",
+      "count": 4,
+      "example": "Welcome back to Business English Podcast. Hello, everyone, and thanks for joining us today.",
+      "t": 14.31
+    },
+    {
+      "text": "back to business",
+      "count": 4,
+      "example": "Welcome back to Business English Podcast. Hello, everyone, and thanks for joining us today.",
+      "t": 14.31
+    },
+    {
+      "text": "business english podcast",
+      "count": 4,
+      "example": "Welcome back to Business English Podcast. Hello, everyone, and thanks for joining us today.",
+      "t": 14.31
+    },
+    {
+      "text": "tasks clearly",
+      "count": 4,
+      "example": "right phrases to describe your tasks clearly.",
+      "t": 55.19
+    },
+    {
+      "text": "helps me stay",
+      "count": 4,
+      "example": "helps me stay organized. Exactly. So what's on your list today?",
+      "t": 87.77
+    },
+    {
+      "text": "morning daniel",
+      "count": 4,
+      "example": "Good morning, Daniel.",
+      "t": 120.81
+    },
+    {
+      "text": "good morning daniel",
+      "count": 4,
+      "example": "Good morning, Daniel.",
+      "t": 120.81
+    },
+    {
+      "text": "first part",
+      "count": 4,
+      "example": "I've already finished the first part, but I'm confused about the second part.",
+      "t": 151.81
+    },
+    {
+      "text": "finish everything",
+      "count": 4,
+      "example": "I think I'll be able to finish everything",
+      "t": 181.21
+    },
+    {
+      "text": "that's important",
+      "count": 4,
+      "example": "That's important.",
+      "t": 195.45
+    },
+    {
+      "text": "sounds good",
+      "count": 4,
+      "example": "Sounds good.",
+      "t": 202.61
+    },
+    {
+      "text": "talk about multitasking",
+      "count": 4,
+      "example": "Let's talk about multitasking.",
+      "t": 203.61
+    },
+    {
+      "text": "i'm handling",
+      "count": 4,
+      "example": "Same here, I'm handling two tasks at the same time.",
+      "t": 219.49
+    },
+    {
+      "text": "made a mistake",
+      "count": 4,
+      "example": "Hey Sophia, I think I made a mistake.",
+      "t": 223.29
+    },
+    {
+      "text": "don't worry",
+      "count": 4,
+      "example": "Don't worry, these things happen.",
+      "t": 231.01
+    },
+    {
+      "text": "emails and prepare",
+      "count": 4,
+      "example": "I need to finish a report, reply to emails, and prepare for a meeting.",
+      "t": 244.83
+    },
+    {
+      "text": "sure everything",
+      "count": 4,
+      "example": "I just want to make sure everything is correct before I submit it.",
+      "t": 278.63
+    }
+  ],
+  "sentences": [
+    {
+      "t": 7.02,
+      "text": "Listen. Practice. Speak. Practice makes you perfect."
+    },
+    {
+      "t": 14.31,
+      "text": "Welcome back to Business English Podcast. Hello, everyone, and thanks for joining us today."
+    },
+    {
+      "t": 20.23,
+      "text": "I'm Daniel."
+    },
+    {
+      "t": 21.23,
+      "text": "And I'm Sophia. We're here to help you learn natural, practical English that you can use"
+    },
+    {
+      "t": 26.63,
+      "text": "every day at work."
+    },
+    {
+      "t": 28.35,
+      "text": "Our goal is to make English learning simple, useful, and realistic."
+    },
+    {
+      "t": 33.59,
+      "text": "This topic is extremely important."
+    },
+    {
+      "t": 36.13,
+      "text": "How to talk about job tasks in English."
+    },
+    {
+      "t": 38.93,
+      "text": "Yes, this is something you do every single day at work."
+    },
+    {
+      "t": 43.33,
+      "text": "You talk about what you're doing, what you finished, what you still need to do, and"
+    },
+    {
+      "t": 47.85,
+      "text": "what problems you have."
+    },
+    {
+      "t": 49.53,
+      "text": "Exactly."
+    },
+    {
+      "t": 50.53,
+      "text": "Whether you're talking to your boss, your coworkers, or even clients, you need the"
+    },
+    {
+      "t": 55.19,
+      "text": "right phrases to describe your tasks clearly."
+    },
+    {
+      "t": 58.73,
+      "text": "And today, we're going to show you all of this through natural conversation, just like"
+    },
+    {
+      "t": 63.81,
+      "text": "real life."
+    },
+    {
+      "t": 64.81,
+      "text": "So, if you find this helpful, don't forget to practice along with us."
+    },
+    {
+      "t": 69.33,
+      "text": "Alright, are you ready?"
+    },
+    {
+      "t": 71.21,
+      "text": "Let's get started."
+    },
+    {
+      "t": 72.21,
+      "text": "Hey, Daniel, how are you today?"
+    },
+    {
+      "t": 74.65,
+      "text": "I'm doing well, thanks."
+    },
+    {
+      "t": 76.53,
+      "text": "But honestly, I have a lot of tasks to finish today."
+    },
+    {
+      "t": 80.37,
+      "text": "It's going to be a busy day."
+    },
+    {
+      "t": 82.53,
+      "text": "Same here."
+    },
+    {
+      "t": 83.53,
+      "text": "I made a long to-do list this morning."
+    },
+    {
+      "t": 85.93,
+      "text": "Oh, I do that too."
+    },
+    {
+      "t": 87.77,
+      "text": "helps me stay organized. Exactly. So what's on your list today?"
+    },
+    {
+      "t": 92.73,
+      "text": "Well, first I need to reply to emails, then I have to prepare a report, and later I have"
+    },
+    {
+      "t": 99.49,
+      "text": "a meeting with the team. That sounds like a full schedule. What about you? What are"
+    },
+    {
+      "t": 104.45,
+      "text": "you working on today? I'm currently working on a presentation for a client. I also need"
+    },
+    {
+      "t": 109.89,
+      "text": "to update a spreadsheet and finish a document before the deadline. Wow, that's a lot."
+    },
+    {
+      "t": 116.13,
+      "text": "Let's imagine we're in the office starting our day."
+    },
+    {
+      "t": 119.41,
+      "text": "Good morning, Sophia."
+    },
+    {
+      "t": 120.81,
+      "text": "Good morning, Daniel."
+    },
+    {
+      "t": 122.15,
+      "text": "What are you working on today?"
+    },
+    {
+      "t": 123.57,
+      "text": "I'm focusing on the sales report this morning."
+    },
+    {
+      "t": 126.17,
+      "text": "I need to analyze the data and summarize the results."
+    },
+    {
+      "t": 130.21,
+      "text": "That sounds important."
+    },
+    {
+      "t": 131.57,
+      "text": "When does it do?"
+    },
+    {
+      "t": 132.65,
+      "text": "The deadline is tomorrow, so I need to finish it today."
+    },
+    {
+      "t": 136.45,
+      "text": "Good luck."
+    },
+    {
+      "t": 137.45,
+      "text": "Let me know if you need any help."
+    },
+    {
+      "t": 138.93,
+      "text": "Thanks."
+    },
+    {
+      "t": 139.93,
+      "text": "I appreciate it."
+    },
+    {
+      "t": 140.93,
+      "text": "Hey, Daniel."
+    },
+    {
+      "t": 141.93,
+      "text": "Do you have a minute?"
+    },
+    {
+      "t": 142.93,
+      "text": "Sure."
+    },
+    {
+      "t": 143.93,
+      "text": "What's up?"
+    },
+    {
+      "t": 144.93,
+      "text": "complete this task, but I'm not sure what to do next. Could you take a look?"
+    },
+    {
+      "t": 149.93,
+      "text": "Of course. Let me see."
+    },
+    {
+      "t": 151.81,
+      "text": "I've already finished the first part, but I'm confused about the second part."
+    },
+    {
+      "t": 156.69,
+      "text": "I see. You just need to follow the same structure as the first section."
+    },
+    {
+      "t": 161.73,
+      "text": "Oh, that makes sense now."
+    },
+    {
+      "t": 163.61,
+      "text": "Sometimes tasks seem complicated, but they're actually simple once you understand them."
+    },
+    {
+      "t": 168.81,
+      "text": "That's true. Thanks for your help."
+    },
+    {
+      "t": 171.01,
+      "text": "Hey, Sophia, can I give you a quick update?"
+    },
+    {
+      "t": 173.85,
+      "text": "Sure."
+    },
+    {
+      "t": 174.61,
+      "text": "I've completed the first part of the project,"
+    },
+    {
+      "t": 177.05,
+      "text": "and now I'm working on the second phase."
+    },
+    {
+      "t": 179.69,
+      "text": "That's great progress."
+    },
+    {
+      "t": 181.21,
+      "text": "I think I'll be able to finish everything"
+    },
+    {
+      "t": 183.05,
+      "text": "by the end of the day."
+    },
+    {
+      "t": 184.41,
+      "text": "Perfect."
+    },
+    {
+      "t": 185.21,
+      "text": "Keep me posted."
+    },
+    {
+      "t": 186.45,
+      "text": "Hey, Daniel, how's your presentation going?"
+    },
+    {
+      "t": 189.17,
+      "text": "It's going well."
+    },
+    {
+      "t": 190.25,
+      "text": "I finished most of the slides,"
+    },
+    {
+      "t": 192.29,
+      "text": "but I still need to add some data and visuals."
+    },
+    {
+      "t": 195.45,
+      "text": "That's important."
+    },
+    {
+      "t": 196.49,
+      "text": "Visuals make presentations clearer."
+    },
+    {
+      "t": 199.25,
+      "text": "Exactly."
+    },
+    {
+      "t": 200.21,
+      "text": "I'm planning to finish it this afternoon."
+    },
+    {
+      "t": 202.61,
+      "text": "Sounds good."
+    },
+    {
+      "t": 203.61,
+      "text": "Let's talk about multitasking."
+    },
+    {
+      "t": 206.15,
+      "text": "Oh yes, that happens a lot at work."
+    },
+    {
+      "t": 208.85,
+      "text": "Hey Daniel, what are you doing right now?"
+    },
+    {
+      "t": 211.31,
+      "text": "I'm answering emails while reviewing a document."
+    },
+    {
+      "t": 214.73,
+      "text": "Wow, you're multitasking."
+    },
+    {
+      "t": 216.73,
+      "text": "I have to, there's too much work today."
+    },
+    {
+      "t": 219.49,
+      "text": "Same here, I'm handling two tasks at the same time."
+    },
+    {
+      "t": 223.29,
+      "text": "Hey Sophia, I think I made a mistake."
+    },
+    {
+      "t": 226.05,
+      "text": "What happened?"
+    },
+    {
+      "t": 227.13,
+      "text": "I was working on the spreadsheet"
+    },
+    {
+      "t": 229.01,
+      "text": "and I entered the wrong data."
+    },
+    {
+      "t": 231.01,
+      "text": "Don't worry, these things happen."
+    },
+    {
+      "t": 233.33,
+      "text": "Can you fix it?"
+    },
+    {
+      "t": 234.33,
+      "text": "Yes, I'm correcting it now."
+    },
+    {
+      "t": 236.33,
+      "text": "Good. It's important to fix mistakes quickly."
+    },
+    {
+      "t": 239.33,
+      "text": "Hey Daniel, can you help me prioritize my tasks?"
+    },
+    {
+      "t": 242.83,
+      "text": "Sure. What do you have to do?"
+    },
+    {
+      "t": 244.83,
+      "text": "I need to finish a report, reply to emails, and prepare for a meeting."
+    },
+    {
+      "t": 249.83,
+      "text": "I'd say start with the report since it has a deadline, then reply to emails and prepare for the meeting last."
+    },
+    {
+      "t": 257.83,
+      "text": "That makes sense."
+    },
+    {
+      "t": 258.83,
+      "text": "Prioritizing tasks is very important."
+    },
+    {
+      "t": 261.83,
+      "text": "Yes, it helps reduce stress."
+    },
+    {
+      "t": 264.23,
+      "text": "Hey Sophia, are you done with your report?"
+    },
+    {
+      "t": 267.03,
+      "text": "Not yet. I'm still working on the final section."
+    },
+    {
+      "t": 270.13,
+      "text": "Do you think you'll finish it today?"
+    },
+    {
+      "t": 272.03,
+      "text": "Yes, I'm almost done."
+    },
+    {
+      "t": 273.83,
+      "text": "Great!"
+    },
+    {
+      "t": 274.63,
+      "text": "Hey Daniel, can you review my work?"
+    },
+    {
+      "t": 277.03,
+      "text": "Sure, send it to me."
+    },
+    {
+      "t": 278.63,
+      "text": "I just want to make sure everything is correct before I submit it."
+    },
+    {
+      "t": 282.53,
+      "text": "That's a good idea. I'll check it now."
+    },
+    {
+      "t": 285.03,
+      "text": "Thanks."
+    },
+    {
+      "t": 285.83,
+      "text": "Hey Sophia, I've reviewed your report. It looks really good."
+    },
+    {
+      "t": 289.93,
+      "text": "Thank you. Did you find any mistakes?"
+    },
+    {
+      "t": 292.33,
+      "text": "Just a few small ones, but overall it's excellent."
+    },
+    {
+      "t": 295.93,
+      "text": "I appreciate your feedback. Let's talk about deadlines again."
+    },
+    {
+      "t": 299.77,
+      "text": "Yes, deadlines are very important."
+    },
+    {
+      "t": 302.81,
+      "text": "Hey Daniel, are you on track with your tasks?"
+    },
+    {
+      "t": 305.69,
+      "text": "Yes, I'm making good progress. I should meet the deadline."
+    },
+    {
+      "t": 309.45,
+      "text": "That's great. What about you?"
+    },
+    {
+      "t": 311.53,
+      "text": "I'm a bit behind schedule, but I'm catching up."
+    },
+    {
+      "t": 314.89,
+      "text": "Do you need any help?"
+    },
+    {
+      "t": 316.33,
+      "text": "Maybe later. Thanks."
+    },
+    {
+      "t": 317.85,
+      "text": "Hey Sophia, I'm having some difficulty with this task."
+    },
+    {
+      "t": 321.45,
+      "text": "What's the problem?"
+    },
+    {
+      "t": 322.65,
+      "text": "I don't fully understand the instructions."
+    },
+    {
+      "t": 325.55,
+      "text": "You should ask for clarification."
+    },
+    {
+      "t": 327.55,
+      "text": "Yes, I'll talk to the manager."
+    },
+    {
+      "t": 329.65,
+      "text": "Hey Daniel, how did it go?"
+    },
+    {
+      "t": 331.75,
+      "text": "Much better. I asked for clarification and now I understand what to do."
+    },
+    {
+      "t": 337.05,
+      "text": "Good. Asking questions is always better than guessing."
+    },
+    {
+      "t": 340.95,
+      "text": "Hey Sophia, I've just finished my tasks for the day."
+    },
+    {
+      "t": 344.55,
+      "text": "That's great. I still have a few things to complete."
+    },
+    {
+      "t": 347.75,
+      "text": "Do you want help?"
+    },
+    {
+      "t": 348.95,
+      "text": "Yes, that would be amazing."
+    },
+    {
+      "t": 350.95,
+      "text": "Alright, what can I do?"
+    },
+    {
+      "t": 352.95,
+      "text": "Can you help me organize this data?"
+    },
+    {
+      "t": 354.95,
+      "text": "Sure."
+    },
+    {
+      "t": 355.95,
+      "text": "Thanks for helping me. Now I can finish everything on time."
+    },
+    {
+      "t": 359.55,
+      "text": "No problem. Teamwork makes everything easier."
+    },
+    {
+      "t": 363.05,
+      "text": "Absolutely."
+    },
+    {
+      "t": 364.25,
+      "text": "Hey Sophia, let's quickly go over tomorrow's tasks."
+    },
+    {
+      "t": 367.95,
+      "text": "Good idea."
+    },
+    {
+      "t": 369.05,
+      "text": "I need to start a new project and attend two meetings."
+    },
+    {
+      "t": 373.35,
+      "text": "I have to finalize a document and follow up with the client."
+    },
+    {
+      "t": 377.15,
+      "text": "Sounds like another busy day."
+    },
+    {
+      "t": 379.65,
+      "text": "Definitely."
+    },
+    {
+      "t": 380.95,
+      "text": "Hey, Daniel. Before we finish, can we summarize what we've learned today?"
+    },
+    {
+      "t": 385.75,
+      "text": "Sure. We talked about how to describe tasks like,"
+    },
+    {
+      "t": 389.65,
+      "text": "I'm working on a report or I need to finish this today."
+    },
+    {
+      "t": 393.85,
+      "text": "We also talked about giving updates like,"
+    },
+    {
+      "t": 396.45,
+      "text": "I've completed this or I'm still working on it."
+    },
+    {
+      "t": 399.35,
+      "text": "And asking for help like, could you help me with this?"
+    },
+    {
+      "t": 402.95,
+      "text": "Plus handling problems like,"
+    },
+    {
+      "t": 405.25,
+      "text": "I made a mistake or I need clarification."
+    },
+    {
+      "t": 408.33,
+      "text": "Exactly. These are all real phrases you'll use every day at work."
+    },
+    {
+      "t": 413.45,
+      "text": "And remember, the key is to be clear, polite, and confident."
+    },
+    {
+      "t": 417.93,
+      "text": "Don't worry about perfect grammar. Focus on communication."
+    },
+    {
+      "t": 422.23,
+      "text": "Practice these conversations and you'll improve quickly."
+    },
+    {
+      "t": 425.53,
+      "text": "Alright everyone, that's all for today."
+    },
+    {
+      "t": 428.09,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 429.73,
+      "text": "Keep practicing and keep improving your English."
+    },
+    {
+      "t": 432.89,
+      "text": "Have a great day at work."
+    },
+    {
+      "t": 434.33,
+      "text": "Good-bye."
+    },
+    {
+      "t": 435.33,
+      "text": "Bye."
+    },
+    {
+      "t": 436.33,
+      "text": "Welcome back to Business English Podcast."
+    },
+    {
+      "t": 438.53,
+      "text": "Hello, and thanks for listening today."
+    },
+    {
+      "t": 440.69,
+      "text": "I'm Leo."
+    },
+    {
+      "t": 441.85,
+      "text": "And I'm Tina."
+    },
+    {
+      "t": 442.85,
+      "text": "We're here to help you learn natural conversational English and feel confident using it in real"
+    },
+    {
+      "t": 448.09,
+      "text": "life."
+    },
+    {
+      "t": 449.09,
+      "text": "Our goal is to make English learning simple, practical, and useful for your daily work"
+    },
+    {
+      "t": 454.41,
+      "text": "life."
+    },
+    {
+      "t": 455.41,
+      "text": "Today we have a very important and practical topic."
+    },
+    {
+      "t": 459.05,
+      "text": "How to talk about job tasks in English."
+    },
+    {
+      "t": 461.57,
+      "text": "Yes."
+    },
+    {
+      "t": 462.57,
+      "text": "something you need every single day at work."
+    },
+    {
+      "t": 465.33,
+      "text": "You always need to explain what you are doing,"
+    },
+    {
+      "t": 468.29,
+      "text": "what you finished, what you will do next,"
+    },
+    {
+      "t": 471.09,
+      "text": "and sometimes what problems you have."
+    },
+    {
+      "t": 473.53,
+      "text": "Exactly."
+    },
+    {
+      "t": 474.53,
+      "text": "Whether you are talking to your boss,"
+    },
+    {
+      "t": 476.33,
+      "text": "your coworkers, or even clients,"
+    },
+    {
+      "t": 479.03,
+      "text": "you need to clearly describe your tasks."
+    },
+    {
+      "t": 481.45,
+      "text": "And today we are going to show you a long, natural,"
+    },
+    {
+      "t": 484.65,
+      "text": "and detailed conversation full of real examples."
+    },
+    {
+      "t": 487.97,
+      "text": "No subtopics, just continuous conversation,"
+    },
+    {
+      "t": 491.21,
+      "text": "just like real life."
+    },
+    {
+      "t": 492.45,
+      "text": "So, listen carefully, repeat the phrases, and imagine yourself using them at work."
+    },
+    {
+      "t": 497.95,
+      "text": "All right, let's get started."
+    },
+    {
+      "t": 499.79,
+      "text": "Hey Tina, how are you today?"
+    },
+    {
+      "t": 501.63,
+      "text": "Hi Leo, I'm doing well, thanks. How about you?"
+    },
+    {
+      "t": 504.59,
+      "text": "I'm good, but I have a lot of tasks to handle today."
+    },
+    {
+      "t": 507.91,
+      "text": "Same here, it's one of those busy days."
+    },
+    {
+      "t": 510.69,
+      "text": "Yeah, I just sat down and started reviewing my task list."
+    },
+    {
+      "t": 514.31,
+      "text": "That's a good habit. I always make it to-do list in the morning."
+    },
+    {
+      "t": 517.75,
+      "text": "Me too, it helps me stay organized and focused."
+    },
+    {
+      "t": 520.87,
+      "text": "So, what are you working on today?"
+    },
+    {
+      "t": 522.87,
+      "text": "Well, first I need to finish updating the weekly report."
+    },
+    {
+      "t": 526.99,
+      "text": "Oh right, the report you were working on yesterday."
+    },
+    {
+      "t": 529.55,
+      "text": "Yes, exactly."
+    },
+    {
+      "t": 530.67,
+      "text": "I completed most of it,"
+    },
+    {
+      "t": 532.11,
+      "text": "but I still need to add the latest data."
+    },
+    {
+      "t": 534.43,
+      "text": "That makes sense."
+    },
+    {
+      "t": 535.59,
+      "text": "After that, what's next?"
+    },
+    {
+      "t": 537.11,
+      "text": "After that, I need to reply to some client emails"
+    },
+    {
+      "t": 540.11,
+      "text": "and then prepare for the afternoon meeting."
+    },
+    {
+      "t": 542.39,
+      "text": "That sounds like a full schedule."
+    },
+    {
+      "t": 544.31,
+      "text": "It is."
+    },
+    {
+      "t": 545.27,
+      "text": "What about you?"
+    },
+    {
+      "t": 546.15,
+      "text": "What tasks are you handling today?"
+    },
+    {
+      "t": 548.23,
+      "text": "I'm currently working on organizing project files and updating our shared documents."
+    },
+    {
+      "t": 553.23,
+      "text": "That sounds important. Keeping everything organized saves time later."
+    },
+    {
+      "t": 557.23,
+      "text": "Exactly. I'm also responsible for scheduling meetings this week."
+    },
+    {
+      "t": 561.23,
+      "text": "Oh, that can be tricky sometimes."
+    },
+    {
+      "t": 564.23,
+      "text": "Yes, especially when everyone has different availability."
+    },
+    {
+      "t": 567.23,
+      "text": "Hey Tina, quick question. How do you usually explain your tasks to your manager?"
+    },
+    {
+      "t": 573.23,
+      "text": "I try to be clear and structured."
+    },
+    {
+      "t": 575.23,
+      "text": "I usually say what I'm working on, what I've completed, and what I'll do next."
+    },
+    {
+      "t": 580.07,
+      "text": "That's a good approach."
+    },
+    {
+      "t": 581.07,
+      "text": "For example, I might say, I've completed the first part of the project and now I'm working"
+    },
+    {
+      "t": 585.81,
+      "text": "on the final section."
+    },
+    {
+      "t": 587.47,
+      "text": "That sounds very clear and professional."
+    },
+    {
+      "t": 589.63,
+      "text": "Yes, and if there's a problem, I also mention it."
+    },
+    {
+      "t": 593.07,
+      "text": "Right, it's important to communicate challenges."
+    },
+    {
+      "t": 595.87,
+      "text": "Exactly."
+    },
+    {
+      "t": 596.87,
+      "text": "For example, I might say, I'm having some difficulty with the data analysis,"
+    },
+    {
+      "t": 601.35,
+      "text": "so I may need more time."
+    },
+    {
+      "t": 603.39,
+      "text": "That's honest and helpful."
+    },
+    {
+      "t": 604.75,
+      "text": "Tina, can I run something by you?"
+    },
+    {
+      "t": 606.99,
+      "text": "Sure, go ahead."
+    },
+    {
+      "t": 608.15,
+      "text": "I'm trying to explain my tasks better during meetings,"
+    },
+    {
+      "t": 611.27,
+      "text": "but sometimes I don't know what to say."
+    },
+    {
+      "t": 613.59,
+      "text": "That's normal."
+    },
+    {
+      "t": 614.63,
+      "text": "You can use simple and clear sentences."
+    },
+    {
+      "t": 617.03,
+      "text": "Like what?"
+    },
+    {
+      "t": 617.99,
+      "text": "For example, today I'm working on preparing the presentation,"
+    },
+    {
+      "t": 621.75,
+      "text": "or I've just finished reviewing the documents."
+    },
+    {
+      "t": 624.63,
+      "text": "That sounds easy to use."
+    },
+    {
+      "t": 626.19,
+      "text": "Yes, and if you want to talk about future tasks,"
+    },
+    {
+      "t": 629.03,
+      "text": "you can say, next I will start working on the new project."
+    },
+    {
+      "t": 632.63,
+      "text": "That's helpful."
+    },
+    {
+      "t": 633.67,
+      "text": "I'll try that."
+    },
+    {
+      "t": 634.81,
+      "text": "By the way, how do you talk about completed tasks?"
+    },
+    {
+      "t": 638.07,
+      "text": "I usually use past tense."
+    },
+    {
+      "t": 640.15,
+      "text": "For example, I completed the report, or I finished updating the files."
+    },
+    {
+      "t": 645.07,
+      "text": "That makes sense."
+    },
+    {
+      "t": 646.07,
+      "text": "You can also say, I've already sent the email, or I've completed the task."
+    },
+    {
+      "t": 651.03,
+      "text": "I see."
+    },
+    {
+      "t": 652.07,
+      "text": "That sounds more natural."
+    },
+    {
+      "t": 653.47,
+      "text": "Yes, especially in professional settings."
+    },
+    {
+      "t": 656.19,
+      "text": "Tina, what do you say when you have too many tasks?"
+    },
+    {
+      "t": 659.67,
+      "text": "I usually say, I have a lot on my plates, or I'm quite busy at the moment."
+    },
+    {
+      "t": 664.95,
+      "text": "I like that expression, on my plate."
+    },
+    {
+      "t": 667.63,
+      "text": "It's very common in the workplace."
+    },
+    {
+      "t": 669.67,
+      "text": "What if you can't finish everything on time?"
+    },
+    {
+      "t": 672.55,
+      "text": "Then I communicate early."
+    },
+    {
+      "t": 674.31,
+      "text": "I might say, I may not be able to finish this today."
+    },
+    {
+      "t": 677.51,
+      "text": "Can we extend the deadline?"
+    },
+    {
+      "t": 679.31,
+      "text": "That's a good way to handle it."
+    },
+    {
+      "t": 680.51,
+      "text": "Hey Tina, can you help me with something?"
+    },
+    {
+      "t": 682.59,
+      "text": "Of course."
+    },
+    {
+      "t": 683.59,
+      "text": "What do you need?"
+    },
+    {
+      "t": 684.59,
+      "text": "I'm trying to prioritize my tasks, but I'm not sure which one is more urgent."
+    },
+    {
+      "t": 689.43,
+      "text": "Let's take a look."
+    },
+    {
+      "t": 690.63,
+      "text": "What are your tasks?"
+    },
+    {
+      "t": 691.63,
+      "text": "I need to finish the report, respond to emails, and prepare a presentation."
+    },
+    {
+      "t": 696.95,
+      "text": "I'd say the report is the highest priority if it has a deadline."
+    },
+    {
+      "t": 700.79,
+      "text": "Yes, it's due today."
+    },
+    {
+      "t": 702.75,
+      "text": "Then focus on that first."
+    },
+    {
+      "t": 704.69,
+      "text": "After that, you can handle the emails."
+    },
+    {
+      "t": 707.03,
+      "text": "That makes sense."
+    },
+    {
+      "t": 708.03,
+      "text": "And you can prepare the presentation later."
+    },
+    {
+      "t": 710.23,
+      "text": "Thanks."
+    },
+    {
+      "t": 711.23,
+      "text": "That helps a lot."
+    },
+    {
+      "t": 712.23,
+      "text": "Tina, how do you describe your daily tasks in general?"
+    },
+    {
+      "t": 715.27,
+      "text": "I usually say something like, my main tasks include managing emails, attending meetings,"
+    },
+    {
+      "t": 721.19,
+      "text": "and working on projects."
+    },
+    {
+      "t": 722.91,
+      "text": "That's a great sentence."
+    },
+    {
+      "t": 724.11,
+      "text": "You can also say, I'm responsible for organizing files and supporting the team."
+    },
+    {
+      "t": 729.31,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 730.95,
+      "text": "Yes, it's useful when introducing your job."
+    },
+    {
+      "t": 733.79,
+      "text": "Hey, what do you say when you need more time to complete a task?"
+    },
+    {
+      "t": 737.39,
+      "text": "I try to be polite and clear."
+    },
+    {
+      "t": 739.59,
+      "text": "I might say, I need a bit more time to complete this task."
+    },
+    {
+      "t": 743.39,
+      "text": "That's simple and effective."
+    },
+    {
+      "t": 745.11,
+      "text": "Or I'm still working on it and expect to finish it by tomorrow."
+    },
+    {
+      "t": 749.11,
+      "text": "That's a good way to give an update."
+    },
+    {
+      "t": 750.63,
+      "text": "Tina, do you ever have to explain tasks and meetings?"
+    },
+    {
+      "t": 753.91,
+      "text": "All the time."
+    },
+    {
+      "t": 754.91,
+      "text": "What do you usually say?"
+    },
+    {
+      "t": 756.19,
+      "text": "I might say I'm currently working on improving the process or I've been focusing on client"
+    },
+    {
+      "t": 761.91,
+      "text": "communication."
+    },
+    {
+      "t": 763.15,
+      "text": "That sounds very natural."
+    },
+    {
+      "t": 764.75,
+      "text": "And if I finished something, I say I've completed the task and shared it with"
+    },
+    {
+      "t": 768.75,
+      "text": "the team."
+    },
+    {
+      "t": 769.75,
+      "text": "That's clear and professional."
+    },
+    {
+      "t": 771.27,
+      "text": "Tina, what about when you assign tasks to others?"
+    },
+    {
+      "t": 774.67,
+      "text": "question, I try to be polite and clear. Can you give an example? Sure. I might say,"
+    },
+    {
+      "t": 780.83,
+      "text": "could you take care of this task? Or, can you handle this part of the project?"
+    },
+    {
+      "t": 785.15,
+      "text": "That sounds polite. Yes, and I also explain the details clearly."
+    },
+    {
+      "t": 789.55,
+      "text": "That's important. Tina, what do you say when you finish all your tasks?"
+    },
+    {
+      "t": 793.71,
+      "text": "I usually say, I've completed all my tasks for today."
+    },
+    {
+      "t": 797.39,
+      "text": "Nice and simple. Or, everything is done. Let me know if there's anything else."
+    },
+    {
+      "t": 801.87,
+      "text": "That's very helpful for the team. Tina, I noticed you're very organized with your tasks."
+    },
+    {
+      "t": 806.91,
+      "text": "Thank you. I try to plan everything in advance."
+    },
+    {
+      "t": 809.87,
+      "text": "Do you always follow your plan?"
+    },
+    {
+      "t": 812.11,
+      "text": "Not always. Sometimes unexpected tasks come up."
+    },
+    {
+      "t": 815.71,
+      "text": "That happens to me too."
+    },
+    {
+      "t": 817.07,
+      "text": "When that happens, I adjust my priorities."
+    },
+    {
+      "t": 819.87,
+      "text": "That's a good strategy."
+    },
+    {
+      "t": 821.23,
+      "text": "Tina, what do you say when you make a mistake in a task?"
+    },
+    {
+      "t": 824.11,
+      "text": "I try to be honest. I say, I made a mistake and I'm working on fixing it."
+    },
+    {
+      "t": 829.15,
+      "text": "That's responsible."
+    },
+    {
+      "t": 830.35,
+      "text": "Or, I apologize for the error. I will correct it immediately."
+    },
+    {
+      "t": 834.11,
+      "text": "That sounds very professional. Tina, how do you report your progress?"
+    },
+    {
+      "t": 838.19,
+      "text": "I usually say, the task is in progress. Or, I'm halfway done."
+    },
+    {
+      "t": 842.83,
+      "text": "That's useful."
+    },
+    {
+      "t": 843.87,
+      "text": "Or, I've made good progress and expect to finish soon."
+    },
+    {
+      "t": 847.71,
+      "text": "I like that phrase. Tina, do you enjoy talking about your tasks?"
+    },
+    {
+      "t": 851.63,
+      "text": "Yes, because it helps keep everyone informed."
+    },
+    {
+      "t": 854.51,
+      "text": "That's true."
+    },
+    {
+      "t": 855.47,
+      "text": "Good communication makes teamwork easier."
+    },
+    {
+      "t": 857.95,
+      "text": "I agree. Well, Tina, we covered a lot today."
+    },
+    {
+      "t": 860.91,
+      "text": "Yes, we talked about how to describe tasks, give updates, ask for help, and communicate clearly at work."
+    },
+    {
+      "t": 867.79,
+      "text": "These are essential skills for any job."
+    },
+    {
+      "t": 870.35,
+      "text": "Absolutely. And the more you practice, the more natural it will feel."
+    },
+    {
+      "t": 874.51,
+      "text": "So keep practicing these phrases every day."
+    },
+    {
+      "t": 877.31,
+      "text": "And don't be afraid to speak."
+    },
+    {
+      "t": 879.15,
+      "text": "Thanks for listening, everyone."
+    },
+    {
+      "t": 880.59,
+      "text": "See you next time."
+    },
+    {
+      "t": 884.16,
+      "text": "Welcome, everyone. Let's begin today's English conversation."
+    },
+    {
+      "t": 888.24,
+      "text": "And I'm Sophia. We're here to help you learn natural conversational English."
+    },
+    {
+      "t": 893.92,
+      "text": "Our goal is to make English learning practical, realistic, and easy to use in your daily work life."
+    },
+    {
+      "t": 900.72,
+      "text": "Today we have a very important topic, how to talk about job tasks in English."
+    },
+    {
+      "t": 907.36,
+      "text": "This is extremely useful because every day at work you need to explain what you are doing,"
+    },
+    {
+      "t": 912.72,
+      "text": "what you have done, and what you are going to do."
+    },
+    {
+      "t": 915.12,
+      "text": "Exactly. You need to describe your tasks, give updates, ask questions, and communicate"
+    },
+    {
+      "t": 922.28,
+      "text": "clearly with your coworkers and your manager."
+    },
+    {
+      "t": 925.7,
+      "text": "So today, instead of just teaching phrases, we will show you a long, natural, real-life"
+    },
+    {
+      "t": 931.24,
+      "text": "conversation."
+    },
+    {
+      "t": 932.74,
+      "text": "Imagine you are in the office with us, listening and participating."
+    },
+    {
+      "t": 937.0,
+      "text": "Alright. Are you ready?"
+    },
+    {
+      "t": 939.44,
+      "text": "Let's get started."
+    },
+    {
+      "t": 940.44,
+      "text": "Hey, Sophia. Good morning. How are you today?"
+    },
+    {
+      "t": 943.94,
+      "text": "Good morning, Daniel. I'm doing well, thanks. I actually started my day early today. I wanted"
+    },
+    {
+      "t": 949.26,
+      "text": "to organize my tasks before coming to the office."
+    },
+    {
+      "t": 953.02,
+      "text": "That's a great idea. I always feel more productive when I plan my tasks in advance."
+    },
+    {
+      "t": 958.1,
+      "text": "Exactly. So what are you working on today?"
+    },
+    {
+      "t": 961.1,
+      "text": "Well, I have quite a few things to handle. First, I need to finish the monthly report."
+    },
+    {
+      "t": 966.58,
+      "text": "Then I have to prepare for a meeting this afternoon."
+    },
+    {
+      "t": 969.62,
+      "text": "That sounds like a busy day. Are you close to finishing the report?"
+    },
+    {
+      "t": 973.9,
+      "text": "Almost. I've completed most of it, but I still need to review the data and make sure"
+    },
+    {
+      "t": 978.02,
+      "text": "everything is accurate."
+    },
+    {
+      "t": 980.34,
+      "text": "That's important. Double-checking your work can prevent mistakes."
+    },
+    {
+      "t": 984.5,
+      "text": "Absolutely. What about you? What tasks are you working on today?"
+    },
+    {
+      "t": 988.94,
+      "text": "I'm focusing on a client presentation. I've already created the slides, but I"
+    },
+    {
+      "t": 993.66,
+      "text": "need to refine the content and practice my delivery."
+    },
+    {
+      "t": 997.62,
+      "text": "That makes sense. Presentations require both good content and clear communication."
+    },
+    {
+      "t": 1003.14,
+      "text": "Exactly. I also need to respond to several emails and follow up on a few pending tasks."
+    },
+    {
+      "t": 1009.14,
+      "text": "Hey, Sophia, do you have a minute?"
+    },
+    {
+      "t": 1011.14,
+      "text": "Sure, Daniel. What do you need?"
+    },
+    {
+      "t": 1013.14,
+      "text": "I'm trying to organize my task list, but I'm not sure how to prioritize everything. Could you give me some advice?"
+    },
+    {
+      "t": 1020.14,
+      "text": "Of course. What tasks do you have?"
+    },
+    {
+      "t": 1022.14,
+      "text": "I have a report to finish, emails to reply to, and a meeting to prepare for."
+    },
+    {
+      "t": 1027.14,
+      "text": "I would suggest starting with the most urgent task."
+    },
+    {
+      "t": 1031.14,
+      "text": "Which one has the nearest deadline?"
+    },
+    {
+      "t": 1033.14,
+      "text": "The report is due today."
+    },
+    {
+      "t": 1035.14,
+      "text": "Then you should focus on that first."
+    },
+    {
+      "t": 1037.14,
+      "text": "Once it's done, you can move on to the other tasks."
+    },
+    {
+      "t": 1041.14,
+      "text": "That's a good point. I'll do that."
+    },
+    {
+      "t": 1043.14,
+      "text": "Also, try breaking your tasks into smaller steps."
+    },
+    {
+      "t": 1047.14,
+      "text": "It makes them easier to manage."
+    },
+    {
+      "t": 1049.14,
+      "text": "That's helpful. Thanks for the tip."
+    },
+    {
+      "t": 1051.14,
+      "text": "Sophia, I just finished the first part of the report."
+    },
+    {
+      "t": 1055.14,
+      "text": "That's great. What's next?"
+    },
+    {
+      "t": 1057.14,
+      "text": "Now I need to analyze the data and write the conclusion."
+    },
+    {
+      "t": 1061.14,
+      "text": "How long do you think that will take?"
+    },
+    {
+      "t": 1063.14,
+      "text": "Probably about two hours."
+    },
+    {
+      "t": 1065.24,
+      "text": "That sounds reasonable. Just make sure you leave some time for reviewing."
+    },
+    {
+      "t": 1069.24,
+      "text": "Yes, I always review my work before submitting it."
+    },
+    {
+      "t": 1073.24,
+      "text": "Daniel, can I ask you something?"
+    },
+    {
+      "t": 1075.24,
+      "text": "Of course."
+    },
+    {
+      "t": 1077.24,
+      "text": "I'm working on this presentation and I'm not sure if the structure is clear. Could you take a look?"
+    },
+    {
+      "t": 1082.24,
+      "text": "Sure. Let me see."
+    },
+    {
+      "t": 1084.24,
+      "text": "Here are the slides."
+    },
+    {
+      "t": 1086.24,
+      "text": "Hmm, I think the content is good, but maybe you can simplify this section."
+    },
+    {
+      "t": 1092.24,
+      "text": "Which part?"
+    },
+    {
+      "t": 1093.24,
+      "text": "This slide has too much information. You could break it into two slides."
+    },
+    {
+      "t": 1098.24,
+      "text": "That's a good idea. It will make it easier to understand."
+    },
+    {
+      "t": 1101.24,
+      "text": "Exactly."
+    },
+    {
+      "t": 1102.24,
+      "text": "Thanks for your feedback."
+    },
+    {
+      "t": 1104.24,
+      "text": "You're welcome. Sorry to interrupt, Sophia. Are you busy right now?"
+    },
+    {
+      "t": 1108.24,
+      "text": "I'm working on something, but I can take a quick break. What's up?"
+    },
+    {
+      "t": 1112.24,
+      "text": "What's up?"
+    },
+    {
+      "t": 1113.24,
+      "text": "I just wanted to confirm something."
+    },
+    {
+      "t": 1115.48,
+      "text": "For the meeting later, am I responsible for presenting the report?"
+    },
+    {
+      "t": 1119.44,
+      "text": "Yes, you are."
+    },
+    {
+      "t": 1121.0,
+      "text": "You'll be presenting the key findings."
+    },
+    {
+      "t": 1123.04,
+      "text": "Okay."
+    },
+    {
+      "t": 1124.04,
+      "text": "Thanks for confirming."
+    },
+    {
+      "t": 1125.04,
+      "text": "I'll make sure everything is ready."
+    },
+    {
+      "t": 1127.4,
+      "text": "Good idea."
+    },
+    {
+      "t": 1128.4,
+      "text": "Preparation is key."
+    },
+    {
+      "t": 1130.24,
+      "text": "Let's talk about the meeting."
+    },
+    {
+      "t": 1131.88,
+      "text": "What do we need to prepare?"
+    },
+    {
+      "t": 1133.76,
+      "text": "We need to finalize the presentation, review the report, and make sure we're aligned"
+    },
+    {
+      "t": 1138.4,
+      "text": "on the main points."
+    },
+    {
+      "t": 1140.24,
+      "text": "Could we divide the tasks?"
+    },
+    {
+      "t": 1141.84,
+      "text": "Yes, that would be efficient."
+    },
+    {
+      "t": 1144.1,
+      "text": "You can handle the report and I'll take care of the slides."
+    },
+    {
+      "t": 1147.74,
+      "text": "Sounds good."
+    },
+    {
+      "t": 1148.74,
+      "text": "And we should also practice our presentation."
+    },
+    {
+      "t": 1151.42,
+      "text": "Agreed."
+    },
+    {
+      "t": 1152.5,
+      "text": "Practice helps us feel more confident."
+    },
+    {
+      "t": 1154.94,
+      "text": "I've completed the report."
+    },
+    {
+      "t": 1156.54,
+      "text": "That's great."
+    },
+    {
+      "t": 1157.9,
+      "text": "Have you reviewed it?"
+    },
+    {
+      "t": 1159.06,
+      "text": "Yes, I checked it twice to make sure everything is correct."
+    },
+    {
+      "t": 1163.18,
+      "text": "Excellent."
+    },
+    {
+      "t": 1164.18,
+      "text": "That's very professional."
+    },
+    {
+      "t": 1166.02,
+      "text": "Now I just need to send it to the team."
+    },
+    {
+      "t": 1168.94,
+      "text": "Go ahead and do that. Then we can focus on the presentation."
+    },
+    {
+      "t": 1172.54,
+      "text": "I just sent the report."
+    },
+    {
+      "t": 1174.5,
+      "text": "Perfect. Let's review the presentation together."
+    },
+    {
+      "t": 1177.7,
+      "text": "Sure."
+    },
+    {
+      "t": 1178.62,
+      "text": "I'll go through each slide and you can give me feedback."
+    },
+    {
+      "t": 1181.86,
+      "text": "Sounds good."
+    },
+    {
+      "t": 1182.98,
+      "text": "On this slide I'm explaining the project goals."
+    },
+    {
+      "t": 1186.34,
+      "text": "That's clear."
+    },
+    {
+      "t": 1187.54,
+      "text": "And here I'm showing the data analysis."
+    },
+    {
+      "t": 1190.46,
+      "text": "Maybe you can add a chart to make it more visual."
+    },
+    {
+      "t": 1194.26,
+      "text": "Good suggestion. I'll add one."
+    },
+    {
+      "t": 1196.38,
+      "text": "That will make the information easier to understand."
+    },
+    {
+      "t": 1199.58,
+      "text": "How are you managing your tasks today?"
+    },
+    {
+      "t": 1201.98,
+      "text": "I'm using a checklist."
+    },
+    {
+      "t": 1203.5,
+      "text": "Every time I complete a task, I mark it as done."
+    },
+    {
+      "t": 1206.9,
+      "text": "That's satisfying."
+    },
+    {
+      "t": 1208.34,
+      "text": "It is."
+    },
+    {
+      "t": 1209.18,
+      "text": "It also helps me stay organized."
+    },
+    {
+      "t": 1211.56,
+      "text": "I should try that."
+    },
+    {
+      "t": 1212.98,
+      "text": "I'm almost done with everything."
+    },
+    {
+      "t": 1215.14,
+      "text": "That's great."
+    },
+    {
+      "t": 1216.06,
+      "text": "What tasks do you have left?"
+    },
+    {
+      "t": 1218.26,
+      "text": "Just preparing for the meeting."
+    },
+    {
+      "t": 1220.18,
+      "text": "Then you're in good shape."
+    },
+    {
+      "t": 1221.9,
+      "text": "Yes, I feel more relaxed now."
+    },
+    {
+      "t": 1224.34,
+      "text": "Hey Sophia, I realized I made a mistake in the report."
+    },
+    {
+      "t": 1227.86,
+      "text": "What happened?"
+    },
+    {
+      "t": 1229.1,
+      "text": "I included the wrong data in one section."
+    },
+    {
+      "t": 1232.02,
+      "text": "Don't worry, can you fix it quickly?"
+    },
+    {
+      "t": 1234.54,
+      "text": "Yes, I'm correcting it now."
+    },
+    {
+      "t": 1236.7,
+      "text": "Good, then send the updated version."
+    },
+    {
+      "t": 1239.58,
+      "text": "I will."
+    },
+    {
+      "t": 1240.54,
+      "text": "I've corrected the mistake and updated the report."
+    },
+    {
+      "t": 1243.54,
+      "text": "Great job handling that quickly."
+    },
+    {
+      "t": 1245.82,
+      "text": "Thanks, I didn't want it to affect the meeting."
+    },
+    {
+      "t": 1248.66,
+      "text": "That's the right attitude."
+    },
+    {
+      "t": 1250.46,
+      "text": "How do you usually handle multiple tasks at once?"
+    },
+    {
+      "t": 1253.98,
+      "text": "I prioritize, plan, and focus on one task at a time."
+    },
+    {
+      "t": 1258.58,
+      "text": "That's a good strategy."
+    },
+    {
+      "t": 1260.24,
+      "text": "Multitasking can reduce quality, so I try to avoid it."
+    },
+    {
+      "t": 1264.34,
+      "text": "I agree."
+    },
+    {
+      "t": 1265.5,
+      "text": "Do you ever feel overwhelmed by your tasks?"
+    },
+    {
+      "t": 1268.74,
+      "text": "Sometimes, yes."
+    },
+    {
+      "t": 1270.22,
+      "text": "When that happens, I take a short break"
+    },
+    {
+      "t": 1272.38,
+      "text": "and then come back with a clear mind."
+    },
+    {
+      "t": 1274.66,
+      "text": "That's smart."
+    },
+    {
+      "t": 1275.98,
+      "text": "It helps me stay productive."
+    },
+    {
+      "t": 1278.06,
+      "text": "The meeting is starting soon."
+    },
+    {
+      "t": 1280.14,
+      "text": "Are you ready?"
+    },
+    {
+      "t": 1281.26,
+      "text": "Yes. I've prepared everything."
+    },
+    {
+      "t": 1283.66,
+      "text": "Great, let's do our best."
+    },
+    {
+      "t": 1285.78,
+      "text": "The meeting went well."
+    },
+    {
+      "t": 1287.42,
+      "text": "Yes, it did."
+    },
+    {
+      "t": 1288.5,
+      "text": "You explained the report very clearly."
+    },
+    {
+      "t": 1291.18,
+      "text": "Thank you."
+    },
+    {
+      "t": 1291.94,
+      "text": "I practiced a lot."
+    },
+    {
+      "t": 1293.86,
+      "text": "It showed."
+    },
+    {
+      "t": 1294.98,
+      "text": "What tasks do you have for the rest of the day?"
+    },
+    {
+      "t": 1297.94,
+      "text": "I need to follow up with clients and update our project"
+    },
+    {
+      "t": 1300.86,
+      "text": "tracker."
+    },
+    {
+      "t": 1301.86,
+      "text": "That sounds manageable."
+    },
+    {
+      "t": 1303.54,
+      "text": "Yes, it's not too heavy."
+    },
+    {
+      "t": 1305.58,
+      "text": "Do you usually write down your tasks?"
+    },
+    {
+      "t": 1308.5,
+      "text": "Yes, I write them every morning."
+    },
+    {
+      "t": 1310.82,
+      "text": "That helps you stay organized."
+    },
+    {
+      "t": 1313.1,
+      "text": "Exactly."
+    },
+    {
+      "t": 1314.38,
+      "text": "I think I've completed all my tasks for today."
+    },
+    {
+      "t": 1317.98,
+      "text": "That's a great feeling."
+    },
+    {
+      "t": 1319.5,
+      "text": "It really is."
+    },
+    {
+      "t": 1321.18,
+      "text": "You've been very productive."
+    },
+    {
+      "t": 1323.02,
+      "text": "Thanks."
+    },
+    {
+      "t": 1324.02,
+      "text": "Talking about job tasks in English is actually easier than I thought."
+    },
+    {
+      "t": 1328.42,
+      "text": "Yes."
+    },
+    {
+      "t": 1329.42,
+      "text": "Once you practice, it becomes natural."
+    },
+    {
+      "t": 1331.94,
+      "text": "The key is to use simple and clear language."
+    },
+    {
+      "t": 1335.22,
+      "text": "Exactly."
+    },
+    {
+      "t": 1336.3,
+      "text": "And always be polite and professional."
+    },
+    {
+      "t": 1339.22,
+      "text": "Thanks for learning with us today."
+    },
+    {
+      "t": 1341.12,
+      "text": "practicing these conversations. The more you practice, the better you'll get. See you next time."
+    },
+    {
+      "t": 1346.96,
+      "text": "Goodbye. Bye. Hello, everyone, and welcome back to our English learning podcast. I'm Leo. Welcome,"
+    },
+    {
+      "t": 1354.0,
+      "text": "everyone. Let's begin today's English conversation. And I'm Tina. We're here to help you learn"
+    },
+    {
+      "t": 1359.6,
+      "text": "natural conversational English. Our goal is to make English learning fun, easy, and practical."
+    },
+    {
+      "t": 1366.32,
+      "text": "Today we have a very important topic, how to talk about job tasks in English."
+    },
+    {
+      "t": 1371.84,
+      "text": "This is extremely useful because at work you often need to explain what you are doing,"
+    },
+    {
+      "t": 1377.12,
+      "text": "what you have done, and what you will do next."
+    },
+    {
+      "t": 1380.24,
+      "text": "Exactly. Whether you're in meetings, writing emails, or talking to co-workers,"
+    },
+    {
+      "t": 1385.52,
+      "text": "you need to describe your tasks clearly."
+    },
+    {
+      "t": 1388.4,
+      "text": "We're going to show you real conversations with practical examples."
+    },
+    {
+      "t": 1392.64,
+      "text": "so you can speak confidently and professionally at work."
+    },
+    {
+      "t": 1396.44,
+      "text": "All right, are you ready?"
+    },
+    {
+      "t": 1397.92,
+      "text": "Let's get started."
+    },
+    {
+      "t": 1399.08,
+      "text": "Hey Tina, how are you today?"
+    },
+    {
+      "t": 1400.86,
+      "text": "I'm doing well, but honestly, I'm a bit tired."
+    },
+    {
+      "t": 1404.16,
+      "text": "I had a very busy day yesterday."
+    },
+    {
+      "t": 1406.44,
+      "text": "Oh really?"
+    },
+    {
+      "t": 1407.28,
+      "text": "What kind of tasks were you working on?"
+    },
+    {
+      "t": 1409.12,
+      "text": "I had to prepare a presentation,"
+    },
+    {
+      "t": 1411.32,
+      "text": "respond to emails, and update a project report."
+    },
+    {
+      "t": 1414.32,
+      "text": "It took most of my day."
+    },
+    {
+      "t": 1415.84,
+      "text": "That sounds like a lot."
+    },
+    {
+      "t": 1417.36,
+      "text": "Yes, it was."
+    },
+    {
+      "t": 1418.88,
+      "text": "What about you?"
+    },
+    {
+      "t": 1419.96,
+      "text": "What tasks did you handle yesterday?"
+    },
+    {
+      "t": 1422.52,
+      "text": "I focused mainly on client communication."
+    },
+    {
+      "t": 1425.32,
+      "text": "I scheduled meetings, followed up on emails,"
+    },
+    {
+      "t": 1427.76,
+      "text": "and reviewed some documents."
+    },
+    {
+      "t": 1429.6,
+      "text": "That's a productive day."
+    },
+    {
+      "t": 1431.16,
+      "text": "So Tina, when we talk about job tasks,"
+    },
+    {
+      "t": 1434.24,
+      "text": "what's the most common question people ask at work?"
+    },
+    {
+      "t": 1437.52,
+      "text": "A very common one is, what are you working on?"
+    },
+    {
+      "t": 1440.8,
+      "text": "Let's try that."
+    },
+    {
+      "t": 1441.96,
+      "text": "Hey Tina, what are you working on right now?"
+    },
+    {
+      "t": 1444.28,
+      "text": "I'm currently working on a marketing report."
+    },
+    {
+      "t": 1446.88,
+      "text": "I'm analyzing data and preparing slides."
+    },
+    {
+      "t": 1449.78,
+      "text": "That's a great answer."
+    },
+    {
+      "t": 1451.04,
+      "text": "clear and specific."
+    },
+    {
+      "t": 1452.6,
+      "text": "Yes, it's important to explain your task briefly, but clearly."
+    },
+    {
+      "t": 1456.88,
+      "text": "What if I want to talk about something I completed?"
+    },
+    {
+      "t": 1459.84,
+      "text": "Then you can use the past tense."
+    },
+    {
+      "t": 1461.92,
+      "text": "For example, I finished updating the report this morning."
+    },
+    {
+      "t": 1465.64,
+      "text": "Exactly, or I completed the presentation"
+    },
+    {
+      "t": 1468.88,
+      "text": "and sent it to the client."
+    },
+    {
+      "t": 1470.44,
+      "text": "That sounds professional."
+    },
+    {
+      "t": 1471.88,
+      "text": "Yes, it shows progress."
+    },
+    {
+      "t": 1473.72,
+      "text": "Now let's imagine a typical workday conversation."
+    },
+    {
+      "t": 1477.08,
+      "text": "Good morning, Tina."
+    },
+    {
+      "t": 1478.24,
+      "text": "What tasks do you have today?"
+    },
+    {
+      "t": 1480.0,
+      "text": "Good morning, Leo. Today I need to prepare a report, attend two meetings and respond"
+    },
+    {
+      "t": 1485.0,
+      "text": "to emails. That's a busy schedule. Yes, I also need to review some documents before"
+    },
+    {
+      "t": 1490.28,
+      "text": "the deadline. Deadlines are always important. Absolutely. Now let's talk about asking about"
+    },
+    {
+      "t": 1496.48,
+      "text": "someone else's tasks. Hey Tina, what's on your plate today? I have quite a few tasks."
+    },
+    {
+      "t": 1501.96,
+      "text": "I'm working on a project update and preparing for a meeting. That's a natural expression."
+    },
+    {
+      "t": 1506.96,
+      "text": "Yes, on your plate means your tasks or responsibilities."
+    },
+    {
+      "t": 1511.36,
+      "text": "Now let's talk about describing tasks in detail."
+    },
+    {
+      "t": 1514.64,
+      "text": "Tina, can you describe your main responsibilities at work?"
+    },
+    {
+      "t": 1518.32,
+      "text": "Sure. My main responsibilities include creating content, managing social media,"
+    },
+    {
+      "t": 1524.24,
+      "text": "and analyzing campaign performance."
+    },
+    {
+      "t": 1526.72,
+      "text": "That's clear."
+    },
+    {
+      "t": 1527.76,
+      "text": "You can also say, my job involves or I'm responsible for."
+    },
+    {
+      "t": 1532.72,
+      "text": "Let me try. I'm responsible for scheduling meetings and organizing files."
+    },
+    {
+      "t": 1537.6,
+      "text": "Perfect."
+    },
+    {
+      "t": 1538.48,
+      "text": "Now let's talk about ongoing tasks. What are you doing at the moment?"
+    },
+    {
+      "t": 1542.64,
+      "text": "I'm working on a client proposal. I'm gathering information and drafting the document."
+    },
+    {
+      "t": 1547.68,
+      "text": "Nice."
+    },
+    {
+      "t": 1548.4,
+      "text": "You can also say I'm in the middle of for tasks in progress."
+    },
+    {
+      "t": 1552.64,
+      "text": "Like I'm in the middle of preparing a report."
+    },
+    {
+      "t": 1555.52,
+      "text": "Exactly."
+    },
+    {
+      "t": 1556.64,
+      "text": "Now let's talk about multitasking."
+    },
+    {
+      "t": 1559.04,
+      "text": "Tina, are you working on multiple tasks today?"
+    },
+    {
+      "t": 1562.16,
+      "text": "Yes, I'm handling several tasks at the same time."
+    },
+    {
+      "t": 1565.8,
+      "text": "I'm replying to emails while preparing a presentation."
+    },
+    {
+      "t": 1569.04,
+      "text": "That sounds stressful."
+    },
+    {
+      "t": 1570.56,
+      "text": "It can be, but it's common at work."
+    },
+    {
+      "t": 1573.04,
+      "text": "Now let's talk about prioritizing tasks."
+    },
+    {
+      "t": 1575.96,
+      "text": "How do you decide which task to do first?"
+    },
+    {
+      "t": 1578.68,
+      "text": "I usually prioritize urgent tasks and deadlines."
+    },
+    {
+      "t": 1582.38,
+      "text": "So you might say,"
+    },
+    {
+      "t": 1583.8,
+      "text": "I need to finish this report first because it's urgent."
+    },
+    {
+      "t": 1587.16,
+      "text": "Exactly."
+    },
+    {
+      "t": 1588.36,
+      "text": "Now let's talk about asking for help with tasks."
+    },
+    {
+      "t": 1591.32,
+      "text": "Hey Tina, could you help me with this task?"
+    },
+    {
+      "t": 1593.8,
+      "text": "Sure, what do you need?"
+    },
+    {
+      "t": 1595.28,
+      "text": "I'm not sure how to organize this data."
+    },
+    {
+      "t": 1597.6,
+      "text": "No problem, I can show you."
+    },
+    {
+      "t": 1599.52,
+      "text": "Thanks, I appreciate it."
+    },
+    {
+      "t": 1601.04,
+      "text": "Any time."
+    },
+    {
+      "t": 1602.0,
+      "text": "Now what if you're busy?"
+    },
+    {
+      "t": 1603.8,
+      "text": "I could say I'm a bit busy right now."
+    },
+    {
+      "t": 1606.72,
+      "text": "Can I help you later?"
+    },
+    {
+      "t": 1608.0,
+      "text": "That's polite."
+    },
+    {
+      "t": 1609.04,
+      "text": "Yes, always be respectful."
+    },
+    {
+      "t": 1611.2,
+      "text": "Now let's talk about updating your boss."
+    },
+    {
+      "t": 1613.76,
+      "text": "Tina, can you give me an update on your tasks?"
+    },
+    {
+      "t": 1616.56,
+      "text": "Sure, I've completed the report"
+    },
+    {
+      "t": 1618.84,
+      "text": "and I'm currently working on the presentation."
+    },
+    {
+      "t": 1621.28,
+      "text": "That's a good update."
+    },
+    {
+      "t": 1622.72,
+      "text": "You can also mention what's next."
+    },
+    {
+      "t": 1624.92,
+      "text": "Like next I'll start working on the client proposal."
+    },
+    {
+      "t": 1628.04,
+      "text": "Exactly."
+    },
+    {
+      "t": 1629.2,
+      "text": "Now let's talk about delays."
+    },
+    {
+      "t": 1631.44,
+      "text": "What if you can't finish a task on time?"
+    },
+    {
+      "t": 1634.18,
+      "text": "You should inform your boss."
+    },
+    {
+      "t": 1635.96,
+      "text": "For example, I'm having some delays with this task."
+    },
+    {
+      "t": 1639.12,
+      "text": "I may need more time."
+    },
+    {
+      "t": 1640.92,
+      "text": "Perfect."
+    },
+    {
+      "t": 1641.92,
+      "text": "Now let's talk about completing tasks."
+    },
+    {
+      "t": 1644.24,
+      "text": "Tina, did you finish your task?"
+    },
+    {
+      "t": 1646.52,
+      "text": "Yes, I completed it this morning."
+    },
+    {
+      "t": 1648.96,
+      "text": "Or I've just finished the report."
+    },
+    {
+      "t": 1651.16,
+      "text": "Exactly."
+    },
+    {
+      "t": 1652.16,
+      "text": "Now let's talk about delegating tasks."
+    },
+    {
+      "t": 1654.92,
+      "text": "Tina, can you assign tasks to others?"
+    },
+    {
+      "t": 1657.52,
+      "text": "Yes, sometimes."
+    },
+    {
+      "t": 1659.16,
+      "text": "What do you say?"
+    },
+    {
+      "t": 1660.16,
+      "text": "Could you handle this task?"
+    },
+    {
+      "t": 1661.88,
+      "text": "Or can you take care of this?"
+    },
+    {
+      "t": 1663.88,
+      "text": "That's clear and polite."
+    },
+    {
+      "t": 1665.28,
+      "text": "Yes."
+    },
+    {
+      "t": 1666.28,
+      "text": "Now let's talk about teamwork."
+    },
+    {
+      "t": 1668.28,
+      "text": "Are you working on any team tasks?"
+    },
+    {
+      "t": 1670.28,
+      "text": "Yes, I'm collaborating with my team on a project."
+    },
+    {
+      "t": 1673.72,
+      "text": "What do you say in that situation?"
+    },
+    {
+      "t": 1675.56,
+      "text": "We're working together to complete the project."
+    },
+    {
+      "t": 1678.36,
+      "text": "Or we're sharing tasks to finish faster."
+    },
+    {
+      "t": 1681.08,
+      "text": "Exactly."
+    },
+    {
+      "t": 1682.28,
+      "text": "Now let's create a longer real-life conversation."
+    },
+    {
+      "t": 1685.68,
+      "text": "Hey Tina, what are you working on today?"
+    },
+    {
+      "t": 1688.0,
+      "text": "I'm working on a project report"
+    },
+    {
+      "t": 1689.76,
+      "text": "and preparing for a meeting this afternoon."
+    },
+    {
+      "t": 1692.12,
+      "text": "Have you started the report?"
+    },
+    {
+      "t": 1693.64,
+      "text": "Yes, I've completed the first section"
+    },
+    {
+      "t": 1695.88,
+      "text": "and I'm working on the second part."
+    },
+    {
+      "t": 1697.52,
+      "text": "Do you need any help?"
+    },
+    {
+      "t": 1698.8,
+      "text": "Actually, yes."
+    },
+    {
+      "t": 1700.08,
+      "text": "Could you review my draft?"
+    },
+    {
+      "t": 1701.8,
+      "text": "Sure, I'll take a look."
+    },
+    {
+      "t": 1703.2,
+      "text": "Thanks, I appreciate it."
+    },
+    {
+      "t": 1704.84,
+      "text": "When is the deadline?"
+    },
+    {
+      "t": 1706.0,
+      "text": "It's tomorrow, so I need to finish it today."
+    },
+    {
+      "t": 1708.92,
+      "text": "That's tight."
+    },
+    {
+      "t": 1709.88,
+      "text": "Yes, I'm trying to stay focused."
+    },
+    {
+      "t": 1712.36,
+      "text": "What about your meeting?"
+    },
+    {
+      "t": 1713.76,
+      "text": "I need to prepare slides and gather data."
+    },
+    {
+      "t": 1716.4,
+      "text": "Sounds like a busy day."
+    },
+    {
+      "t": 1718.08,
+      "text": "It is, but I'm managing."
+    },
+    {
+      "t": 1719.96,
+      "text": "Let me know if you need anything."
+    },
+    {
+      "t": 1721.52,
+      "text": "I will, thanks."
+    },
+    {
+      "t": 1722.8,
+      "text": "Later."
+    },
+    {
+      "t": 1723.62,
+      "text": "Hey, Tina, how's your report going?"
+    },
+    {
+      "t": 1725.72,
+      "text": "It's going well."
+    },
+    {
+      "t": 1726.68,
+      "text": "I've almost finished it."
+    },
+    {
+      "t": 1728.16,
+      "text": "Great."
+    },
+    {
+      "t": 1728.84,
+      "text": "I just need to review it before sending."
+    },
+    {
+      "t": 1731.28,
+      "text": "Good idea."
+    },
+    {
+      "t": 1732.44,
+      "text": "What about you?"
+    },
+    {
+      "t": 1733.52,
+      "text": "I've completed my tasks for the day."
+    },
+    {
+      "t": 1735.52,
+      "text": "That's nice."
+    },
+    {
+      "t": 1736.44,
+      "text": "End of day."
+    },
+    {
+      "t": 1737.48,
+      "text": "I'm done with my tasks."
+    },
+    {
+      "t": 1738.76,
+      "text": "I'm heading out."
+    },
+    {
+      "t": 1739.68,
+      "text": "Same here. It was a productive day."
+    },
+    {
+      "t": 1742.32,
+      "text": "Yes. We accomplished a lot."
+    },
+    {
+      "t": 1744.4,
+      "text": "Definitely."
+    },
+    {
+      "t": 1745.36,
+      "text": "So, Tina, what's the key to talking about job tasks?"
+    },
+    {
+      "t": 1749.2,
+      "text": "Be clear, specific, and organized."
+    },
+    {
+      "t": 1752.08,
+      "text": "And use simple sentences."
+    },
+    {
+      "t": 1754.0,
+      "text": "Yes. Clarity is more important than complexity."
+    },
+    {
+      "t": 1757.28,
+      "text": "All right, everyone."
+    },
+    {
+      "t": 1758.24,
+      "text": "We hope this conversation helps you describe your job tasks confidently."
+    },
+    {
+      "t": 1762.56,
+      "text": "Keep practicing these phrases in your daily work."
+    },
+    {
+      "t": 1765.28,
+      "text": "Thanks for listening."
+    },
+    {
+      "t": 1766.32,
+      "text": "See you next time."
+    },
+    {
+      "t": 1767.44,
+      "text": "Goodbye."
+    },
+    {
+      "t": 1768.08,
+      "text": "Bye."
+    },
+    {
+      "t": 1768.8,
+      "text": "Welcome back to Business English Podcast. Hello and thanks for listening today."
+    },
+    {
+      "t": 1773.36,
+      "text": "I'm Daniel. Welcome everyone. Let's begin today's English conversation."
+    },
+    {
+      "t": 1777.6,
+      "text": "And I'm Sophia. We're here to help you learn natural conversational English."
+    },
+    {
+      "t": 1782.56,
+      "text": "Our goal is to make English learning practical, clear, and easy to use in your daily work life."
+    },
+    {
+      "t": 1788.64,
+      "text": "Today we have a very important and practical topic. We're going to talk about how to talk"
+    },
+    {
+      "t": 1793.84,
+      "text": "about job tasks in English."
+    },
+    {
+      "t": 1795.96,
+      "text": "Yes, this is extremely useful because every day at work you need to explain what you are"
+    },
+    {
+      "t": 1801.04,
+      "text": "doing, what you have done, and what you will do next."
+    },
+    {
+      "t": 1804.84,
+      "text": "Exactly."
+    },
+    {
+      "t": 1805.84,
+      "text": "Whether you are talking to your boss, your coworkers, or even in meetings, you always"
+    },
+    {
+      "t": 1810.3,
+      "text": "need to describe your tasks clearly."
+    },
+    {
+      "t": 1812.84,
+      "text": "And sometimes this can be difficult, especially if English is not your first language."
+    },
+    {
+      "t": 1817.84,
+      "text": "You might know the task, but you don't know how to explain it."
+    },
+    {
+      "t": 1821.36,
+      "text": "That's why today, we're going to give you a full conversation with many real life examples"
+    },
+    {
+      "t": 1826.22,
+      "text": "so you can sound natural and confident."
+    },
+    {
+      "t": 1828.36,
+      "text": "Alright, Daniel, let's start with a simple situation."
+    },
+    {
+      "t": 1832.26,
+      "text": "Imagine you just arrived at work and your co-worker asks you what you're doing today."
+    },
+    {
+      "t": 1836.8,
+      "text": "Good starting point."
+    },
+    {
+      "t": 1837.8,
+      "text": "Hey, Sophia."
+    },
+    {
+      "t": 1838.96,
+      "text": "Good morning."
+    },
+    {
+      "t": 1839.96,
+      "text": "What are you working on today?"
+    },
+    {
+      "t": 1841.04,
+      "text": "Good morning, Daniel."
+    },
+    {
+      "t": 1842.24,
+      "text": "Today I'm focusing on preparing the monthly report."
+    },
+    {
+      "t": 1845.48,
+      "text": "I also need to reply to some client emails and attend a meeting in the afternoon."
+    },
+    {
+      "t": 1850.56,
+      "text": "a perfect answer. You clearly explained your tasks."
+    },
+    {
+      "t": 1853.84,
+      "text": "Yes, and notice how I used simple verbs like preparing,"
+    },
+    {
+      "t": 1857.84,
+      "text": "replying, and attending. These are very common when talking about job tasks."
+    },
+    {
+      "t": 1863.04,
+      "text": "Let's break it down more. When you talk about your tasks,"
+    },
+    {
+      "t": 1866.32,
+      "text": "you can say, I'm working on or I need to."
+    },
+    {
+      "t": 1869.92,
+      "text": "Exactly. For example, I'm working on a presentation"
+    },
+    {
+      "t": 1873.44,
+      "text": "or I need to finish a report."
+    },
+    {
+      "t": 1875.84,
+      "text": "Let's continue the conversation. That sounds like a busy day."
+    },
+    {
+      "t": 1879.68,
+      "text": "When is your meeting?"
+    },
+    {
+      "t": 1880.8,
+      "text": "It's scheduled for 3pm."
+    },
+    {
+      "t": 1882.64,
+      "text": "I need to prepare some notes before that."
+    },
+    {
+      "t": 1885.28,
+      "text": "Great. You used scheduled, which is very common in work situations."
+    },
+    {
+      "t": 1889.68,
+      "text": "Now let's move to another situation."
+    },
+    {
+      "t": 1892.08,
+      "text": "Imagine your boss asks you for an update on your work."
+    },
+    {
+      "t": 1895.52,
+      "text": "That happens all the time."
+    },
+    {
+      "t": 1897.36,
+      "text": "Let's try it."
+    },
+    {
+      "t": 1898.4,
+      "text": "Daniel, can you give me an update on the project?"
+    },
+    {
+      "t": 1901.28,
+      "text": "Sure. I've completed the first phase of the project,"
+    },
+    {
+      "t": 1904.32,
+      "text": "and I'm currently working on the second phase."
+    },
+    {
+      "t": 1906.64,
+      "text": "I expect to finish everything by Friday."
+    },
+    {
+      "t": 1909.04,
+      "text": "That's an excellent update. It includes what you finished, what you're doing now, and your deadline."
+    },
+    {
+      "t": 1914.48,
+      "text": "Yes, that's a good structure to follow."
+    },
+    {
+      "t": 1916.72,
+      "text": "Now, let's make it more detailed."
+    },
+    {
+      "t": 1918.8,
+      "text": "Okay."
+    },
+    {
+      "t": 1919.44,
+      "text": "Daniel, can you update me on your tasks today?"
+    },
+    {
+      "t": 1922.48,
+      "text": "Of course. This morning, I finalized the budget report and sent it to the finance team."
+    },
+    {
+      "t": 1927.68,
+      "text": "Right now, I'm reviewing the client feedback, and later, I'll be working on revising the proposal."
+    },
+    {
+      "t": 1933.04,
+      "text": "That sounds very professional. You used past, present, and future naturally."
+    },
+    {
+      "t": 1938.08,
+      "text": "Yes, that's very important when talking about tasks."
+    },
+    {
+      "t": 1941.16,
+      "text": "Now let's talk about asking someone about their tasks."
+    },
+    {
+      "t": 1944.72,
+      "text": "Good idea."
+    },
+    {
+      "t": 1945.64,
+      "text": "Hey Daniel, what are you currently working on?"
+    },
+    {
+      "t": 1948.24,
+      "text": "I'm working on updating the company website."
+    },
+    {
+      "t": 1950.76,
+      "text": "I need to fix some design issues and upload new content."
+    },
+    {
+      "t": 1954.08,
+      "text": "That's clear and specific."
+    },
+    {
+      "t": 1955.88,
+      "text": "What about you?"
+    },
+    {
+      "t": 1957.2,
+      "text": "I'm handling customer support today."
+    },
+    {
+      "t": 1959.24,
+      "text": "I'm responding to inquiries and resolving some complaints."
+    },
+    {
+      "t": 1962.28,
+      "text": "That's a great example."
+    },
+    {
+      "t": 1963.72,
+      "text": "Now let's move to a more realistic office situation"
+    },
+    {
+      "t": 1966.56,
+      "text": "where tasks change during the day."
+    },
+    {
+      "t": 1968.64,
+      "text": "That happens a lot."
+    },
+    {
+      "t": 1970.24,
+      "text": "Daniel, do you have a minute?"
+    },
+    {
+      "t": 1971.84,
+      "text": "I need your help with something."
+    },
+    {
+      "t": 1973.36,
+      "text": "Sure, what's up?"
+    },
+    {
+      "t": 1974.56,
+      "text": "I was working on the report,"
+    },
+    {
+      "t": 1976.08,
+      "text": "but I just got a new task from my manager."
+    },
+    {
+      "t": 1978.56,
+      "text": "I need to prepare a presentation by tomorrow."
+    },
+    {
+      "t": 1981.12,
+      "text": "Oh wow, that's sudden."
+    },
+    {
+      "t": 1982.8,
+      "text": "Yes, so I might need to postpone the report."
+    },
+    {
+      "t": 1985.92,
+      "text": "That's a great phrase, postpone the report."
+    },
+    {
+      "t": 1989.04,
+      "text": "Yes, it means delay or do it later."
+    },
+    {
+      "t": 1991.92,
+      "text": "Let's continue."
+    },
+    {
+      "t": 1992.96,
+      "text": "Do you want me to help you with the presentation?"
+    },
+    {
+      "t": 1995.36,
+      "text": "That would be great."
+    },
+    {
+      "t": 1996.48,
+      "text": "Could you help me gather some data?"
+    },
+    {
+      "t": 1998.08,
+      "text": "Of course!"
+    },
+    {
+      "t": 1999.08,
+      "text": "I'll take care of that."
+    },
+    {
+      "t": 2000.08,
+      "text": "Perfect teamwork."
+    },
+    {
+      "t": 2001.58,
+      "text": "Now let's talk about describing routine tasks."
+    },
+    {
+      "t": 2004.58,
+      "text": "Yes, daily tasks are very common."
+    },
+    {
+      "t": 2007.28,
+      "text": "Sophia, what do you usually do in your job?"
+    },
+    {
+      "t": 2010.18,
+      "text": "I usually start my day by checking emails and organizing my tasks."
+    },
+    {
+      "t": 2014.88,
+      "text": "Then I work on reports, attend meetings, and communicate with clients."
+    },
+    {
+      "t": 2019.28,
+      "text": "That's a great general description."
+    },
+    {
+      "t": 2021.28,
+      "text": "You can also say, my main responsibilities include."
+    },
+    {
+      "t": 2024.98,
+      "text": "For example, my main responsibilities include managing schedules, preparing documents, and coordinating with the team."
+    },
+    {
+      "t": 2031.98,
+      "text": "Exactly. Now let's talk about deadlines."
+    },
+    {
+      "t": 2034.98,
+      "text": "Deadlines are very important."
+    },
+    {
+      "t": 2036.98,
+      "text": "Daniel, have you finished the report yet?"
+    },
+    {
+      "t": 2038.98,
+      "text": "Not yet. I'm still working on it, but I'll finish it before the deadline."
+    },
+    {
+      "t": 2042.98,
+      "text": "Good. What if you can't meet the deadline?"
+    },
+    {
+      "t": 2045.98,
+      "text": "Then you should communicate."
+    },
+    {
+      "t": 2047.98,
+      "text": "Let's try."
+    },
+    {
+      "t": 2048.98,
+      "text": "Sophia, I wanted to update you. I'm having some difficulties with the task, so I might need an extra day to complete the report."
+    },
+    {
+      "t": 2053.98,
+      "text": "extra day to complete it."
+    },
+    {
+      "t": 2055.58,
+      "text": "Thanks for letting me know. Please keep me updated."
+    },
+    {
+      "t": 2058.46,
+      "text": "That's professional communication."
+    },
+    {
+      "t": 2060.46,
+      "text": "No, let's talk about multitasking."
+    },
+    {
+      "t": 2062.94,
+      "text": "That's something many people do at work."
+    },
+    {
+      "t": 2065.26,
+      "text": "Daniel, how do you manage multiple tasks?"
+    },
+    {
+      "t": 2068.06,
+      "text": "I usually prioritize my tasks. I focus on urgent tasks first and then handle the"
+    },
+    {
+      "t": 2073.34,
+      "text": "less important ones."
+    },
+    {
+      "t": 2074.62,
+      "text": "That's a great answer."
+    },
+    {
+      "t": 2075.98,
+      "text": "What about you?"
+    },
+    {
+      "t": 2076.94,
+      "text": "I make a to-do list every morning and track my progress throughout the day."
+    },
+    {
+      "t": 2081.5,
+      "text": "That's very organized."
+    },
+    {
+      "t": 2083.1,
+      "text": "Now, let's move to explaining completed tasks."
+    },
+    {
+      "t": 2086.26,
+      "text": "Yes, this is important when reporting your work."
+    },
+    {
+      "t": 2088.94,
+      "text": "Daniel, what did you complete today?"
+    },
+    {
+      "t": 2091.18,
+      "text": "Today, I finished updating the database, sent out emails to clients, and prepared the meeting agenda."
+    },
+    {
+      "t": 2097.06,
+      "text": "Perfect."
+    },
+    {
+      "t": 2097.94,
+      "text": "You can also say, I've completed."
+    },
+    {
+      "t": 2100.3,
+      "text": "For example, I've completed the task you assigned to me."
+    },
+    {
+      "t": 2103.9,
+      "text": "Now let's talk about problems with tasks."
+    },
+    {
+      "t": 2106.38,
+      "text": "Yes, this is very realistic."
+    },
+    {
+      "t": 2108.62,
+      "text": "Sophia, I ran into an issue while working on the project."
+    },
+    {
+      "t": 2112.22,
+      "text": "What kind of issue?"
+    },
+    {
+      "t": 2113.42,
+      "text": "I couldn't access the data I needed, so it delayed my progress."
+    },
+    {
+      "t": 2117.18,
+      "text": "I see. Let's try to solve it together."
+    },
+    {
+      "t": 2119.74,
+      "text": "That's a great response."
+    },
+    {
+      "t": 2121.42,
+      "text": "Now let's talk about delegating tasks."
+    },
+    {
+      "t": 2124.06,
+      "text": "That's when you give tasks to someone else."
+    },
+    {
+      "t": 2126.62,
+      "text": "Daniel, could you handle the client emails today?"
+    },
+    {
+      "t": 2129.58,
+      "text": "Sure. I'll take care of it."
+    },
+    {
+      "t": 2131.18,
+      "text": "And I'll focus on the presentation."
+    },
+    {
+      "t": 2133.34,
+      "text": "That's teamwork again."
+    },
+    {
+      "t": 2134.7,
+      "text": "Now let's create a longer, natural conversation combining everything."
+    },
+    {
+      "t": 2139.18,
+      "text": "Great idea."
+    },
+    {
+      "t": 2140.14,
+      "text": "Good morning, Daniel. What are you working on today?"
+    },
+    {
+      "t": 2142.78,
+      "text": "Good morning, Sophia. Today I'm focusing on finishing the quarterly report."
+    },
+    {
+      "t": 2147.26,
+      "text": "I also need to attend a meeting and respond to some emails. How about you?"
+    },
+    {
+      "t": 2151.42,
+      "text": "I'm working on updating the project plan and preparing a presentation for tomorrow."
+    },
+    {
+      "t": 2156.3,
+      "text": "Sounds like a busy day. Have you started the presentation yet?"
+    },
+    {
+      "t": 2159.82,
+      "text": "Yes, I started it yesterday, but I still need to add some data and finalize the slides."
+    },
+    {
+      "t": 2165.34,
+      "text": "Let me know if you need help."
+    },
+    {
+      "t": 2166.78,
+      "text": "Thanks, I appreciate that."
+    },
+    {
+      "t": 2168.46,
+      "text": "Actually, could you help me review the slides later?"
+    },
+    {
+      "t": 2171.26,
+      "text": "Of course. I'd be happy to."
+    },
+    {
+      "t": 2172.94,
+      "text": "Great. By the way, have you completed the report?"
+    },
+    {
+      "t": 2175.98,
+      "text": "Almost. I finished most of it this morning. I just need to double-check the numbers."
+    },
+    {
+      "t": 2180.38,
+      "text": "That's good. When is the deadline?"
+    },
+    {
+      "t": 2182.38,
+      "text": "It's due by the end of the day."
+    },
+    {
+      "t": 2184.06,
+      "text": "You still have time?"
+    },
+    {
+      "t": 2185.42,
+      "text": "Yes, but I want to finish it early so I can focus on the meeting."
+    },
+    {
+      "t": 2188.78,
+      "text": "That's a good plan. What is the meeting about?"
+    },
+    {
+      "t": 2191.34,
+      "text": "It's about project updates."
+    },
+    {
+      "t": 2193.02,
+      "text": "I need to explain what I've done so far and what I'll do next."
+    },
+    {
+      "t": 2196.54,
+      "text": "That's exactly what we're practicing today."
+    },
+    {
+      "t": 2198.94,
+      "text": "Yes, it's very useful."
+    },
+    {
+      "t": 2200.7,
+      "text": "After the meeting, what will you work on?"
+    },
+    {
+      "t": 2202.86,
+      "text": "I'll probably start working on the new project assigned by my manager."
+    },
+    {
+      "t": 2206.54,
+      "text": "Sounds good. What about you?"
+    },
+    {
+      "t": 2208.46,
+      "text": "After I finish the presentation, I'll focus on responding to client requests."
+    },
+    {
+      "t": 2212.86,
+      "text": "That's important."
+    },
+    {
+      "t": 2214.06,
+      "text": "Yes, and I also need to follow up on a few tasks from yesterday."
+    },
+    {
+      "t": 2217.74,
+      "text": "Very productive."
+    },
+    {
+      "t": 2219.02,
+      "text": "Thanks. This conversation shows how we naturally talk about tasks at work."
+    },
+    {
+      "t": 2223.82,
+      "text": "Exactly. You just need to practice using simple structures like,"
+    },
+    {
+      "t": 2227.82,
+      "text": "I'm working on, I've completed, and I need to."
+    },
+    {
+      "t": 2231.26,
+      "text": "And remember to be clear and organized when explaining your tasks."
+    },
+    {
+      "t": 2235.1,
+      "text": "Yes. Clarity is key in workplace communication."
+    },
+    {
+      "t": 2238.46,
+      "text": "All right. Before we finish, we have a question for our listeners."
+    },
+    {
+      "t": 2241.9,
+      "text": "What tasks do you do every day at your job?"
+    },
+    {
+      "t": 2245.02,
+      "text": "Try to answer using the phrases you learned today."
+    },
+    {
+      "t": 2247.74,
+      "text": "Practice makes perfect."
+    },
+    {
+      "t": 2249.42,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 2251.02,
+      "text": "See you in the next episode."
+    },
+    {
+      "t": 2252.62,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 2253.62,
+      "text": "Bye."
+    },
+    {
+      "t": 2254.9,
+      "text": "Welcome back to Business English Podcast."
+    },
+    {
+      "t": 2257.9,
+      "text": "Hello, everyone, and thanks for listening today."
+    },
+    {
+      "t": 2260.26,
+      "text": "I'm Leo."
+    },
+    {
+      "t": 2261.26,
+      "text": "And I'm Tina."
+    },
+    {
+      "t": 2262.26,
+      "text": "We're here to help you learn natural, practical English that you can use at work every day."
+    },
+    {
+      "t": 2267.66,
+      "text": "Our goal is to make English learning simple, useful, and realistic."
+    },
+    {
+      "t": 2272.02,
+      "text": "Today, we have a very important topic, how to talk about job tasks in English."
+    },
+    {
+      "t": 2278.34,
+      "text": "Yes, this is something you need to do every single day at work."
+    },
+    {
+      "t": 2282.46,
+      "text": "You need to explain what you're doing, what you've done, and what you're going to do next."
+    },
+    {
+      "t": 2286.98,
+      "text": "Exactly."
+    },
+    {
+      "t": 2287.98,
+      "text": "Whether you're speaking to your manager, your co-workers, or even a client, you need to"
+    },
+    {
+      "t": 2292.66,
+      "text": "describe your tasks clearly."
+    },
+    {
+      "t": 2295.1,
+      "text": "So today, we're going to walk through real conversations where we talk about daily"
+    },
+    {
+      "t": 2299.22,
+      "text": "job tasks in natural English."
+    },
+    {
+      "t": 2301.62,
+      "text": "We'll also share examples, common phrases, and even some mistakes people make."
+    },
+    {
+      "t": 2306.94,
+      "text": "Alright, are you ready?"
+    },
+    {
+      "t": 2308.62,
+      "text": "Let's get started."
+    },
+    {
+      "t": 2309.9,
+      "text": "So Leo, how are you today?"
+    },
+    {
+      "t": 2311.9,
+      "text": "I'm doing okay, but I'm a bit tired."
+    },
+    {
+      "t": 2314.66,
+      "text": "I had a really busy day yesterday."
+    },
+    {
+      "t": 2317.02,
+      "text": "Oh really?"
+    },
+    {
+      "t": 2318.02,
+      "text": "What were you working on?"
+    },
+    {
+      "t": 2319.38,
+      "text": "I had to finish a report, respond to a lot of emails, and prepare for a meeting."
+    },
+    {
+      "t": 2324.54,
+      "text": "It felt like everything came at once."
+    },
+    {
+      "t": 2327.02,
+      "text": "That sounds stressful."
+    },
+    {
+      "t": 2328.02,
+      "text": "Yeah, it was."
+    },
+    {
+      "t": 2329.62,
+      "text": "But I managed to complete most of my tasks by the end of the day."
+    },
+    {
+      "t": 2332.9,
+      "text": "That's good."
+    },
+    {
+      "t": 2333.9,
+      "text": "So, when someone asks you, what are you working on?"
+    },
+    {
+      "t": 2336.98,
+      "text": "How do you usually answer?"
+    },
+    {
+      "t": 2338.66,
+      "text": "I usually say something like, I'm working on a report, or I'm preparing a presentation."
+    },
+    {
+      "t": 2344.26,
+      "text": "Exactly! That's a very common question at work. Let's practice that."
+    },
+    {
+      "t": 2348.74,
+      "text": "Hey Leo, what are you working on right now?"
+    },
+    {
+      "t": 2351.38,
+      "text": "I'm working on the monthly sales report. I'm analyzing the data and writing a summary."
+    },
+    {
+      "t": 2356.58,
+      "text": "That's a great answer. It's clear and specific."
+    },
+    {
+      "t": 2359.62,
+      "text": "Yes, it's important to explain your task, not just say I'm working."
+    },
+    {
+      "t": 2364.34,
+      "text": "Right. Let's make it a bit more detailed."
+    },
+    {
+      "t": 2367.38,
+      "text": "What are you working on this morning?"
+    },
+    {
+      "t": 2369.66,
+      "text": "This morning, I'm reviewing some documents"
+    },
+    {
+      "t": 2372.02,
+      "text": "and updating a spreadsheet."
+    },
+    {
+      "t": 2373.82,
+      "text": "After that, I'll send an email to the team."
+    },
+    {
+      "t": 2376.3,
+      "text": "Perfect."
+    },
+    {
+      "t": 2377.14,
+      "text": "You used present continuous and future plans."
+    },
+    {
+      "t": 2380.02,
+      "text": "Very natural."
+    },
+    {
+      "t": 2381.5,
+      "text": "What about you, Tina?"
+    },
+    {
+      "t": 2382.62,
+      "text": "What are you working on today?"
+    },
+    {
+      "t": 2384.26,
+      "text": "Today, I'm focusing on client communication."
+    },
+    {
+      "t": 2387.22,
+      "text": "I'm replying to emails, scheduling meetings,"
+    },
+    {
+      "t": 2389.98,
+      "text": "and following up on requests."
+    },
+    {
+      "t": 2392.18,
+      "text": "That sounds busy."
+    },
+    {
+      "t": 2393.58,
+      "text": "It is, but I like being organized."
+    },
+    {
+      "t": 2396.18,
+      "text": "Let's talk about something important, explaining completed tasks."
+    },
+    {
+      "t": 2400.78,
+      "text": "Yes, because at work you often need to report what you've already done."
+    },
+    {
+      "t": 2405.34,
+      "text": "Exactly. For example, you might say,"
+    },
+    {
+      "t": 2407.82,
+      "text": "I finished the report or I sent the email."
+    },
+    {
+      "t": 2411.14,
+      "text": "Let's practice a conversation."
+    },
+    {
+      "t": 2413.1,
+      "text": "Hey Tina, did you complete the presentation?"
+    },
+    {
+      "t": 2415.78,
+      "text": "Yes, I finished it this morning. I also shared it with the team for feedback."
+    },
+    {
+      "t": 2420.14,
+      "text": "Great. Did you include the latest data?"
+    },
+    {
+      "t": 2422.78,
+      "text": "Yes, I updated all the numbers and added a few charts."
+    },
+    {
+      "t": 2426.58,
+      "text": "Excellent! That's a clear update."
+    },
+    {
+      "t": 2428.98,
+      "text": "Now, let's talk about ongoing tasks."
+    },
+    {
+      "t": 2432.28,
+      "text": "Right. Sometimes tasks are not finished yet."
+    },
+    {
+      "t": 2435.78,
+      "text": "In that case, you can say,"
+    },
+    {
+      "t": 2437.38,
+      "text": "I'm still working on it, or it's in progress."
+    },
+    {
+      "t": 2440.78,
+      "text": "Let's try that."
+    },
+    {
+      "t": 2441.88,
+      "text": "Hey, Leo, is the report ready?"
+    },
+    {
+      "t": 2444.08,
+      "text": "Not yet. I'm still working on it."
+    },
+    {
+      "t": 2446.08,
+      "text": "I've completed the first draft, but I need to review it."
+    },
+    {
+      "t": 2449.28,
+      "text": "That's a great answer."
+    },
+    {
+      "t": 2450.58,
+      "text": "You explain the progress clearly."
+    },
+    {
+      "t": 2452.8,
+      "text": "Yes, and it shows responsibility."
+    },
+    {
+      "t": 2455.34,
+      "text": "Now let's talk about prioritizing tasks."
+    },
+    {
+      "t": 2458.54,
+      "text": "That's very important when you have a lot of work."
+    },
+    {
+      "t": 2461.62,
+      "text": "Exactly."
+    },
+    {
+      "t": 2462.58,
+      "text": "You might say, I'm focusing on this first,"
+    },
+    {
+      "t": 2465.14,
+      "text": "or this is my top priority."
+    },
+    {
+      "t": 2467.66,
+      "text": "Let's practice."
+    },
+    {
+      "t": 2469.1,
+      "text": "You have three tasks today."
+    },
+    {
+      "t": 2471.22,
+      "text": "What are you doing first?"
+    },
+    {
+      "t": 2473.02,
+      "text": "I'm focusing on the urgent report first,"
+    },
+    {
+      "t": 2475.42,
+      "text": "because the deadline is today."
+    },
+    {
+      "t": 2477.18,
+      "text": "Then I'll work on emails."
+    },
+    {
+      "t": 2478.94,
+      "text": "Perfect. You explained your priorities clearly."
+    },
+    {
+      "t": 2482.18,
+      "text": "Now let's talk about asking about tasks."
+    },
+    {
+      "t": 2485.06,
+      "text": "Yes, sometimes you need to ask your coworker what they're doing."
+    },
+    {
+      "t": 2488.94,
+      "text": "For example, what are you working on? Or have you completed this task?"
+    },
+    {
+      "t": 2493.46,
+      "text": "Let's practice."
+    },
+    {
+      "t": 2494.86,
+      "text": "Hey Tina, have you started working on the new project?"
+    },
+    {
+      "t": 2498.1,
+      "text": "Yes, I've started. I'm currently gathering information and planning the structure."
+    },
+    {
+      "t": 2502.94,
+      "text": "That's a great update."
+    },
+    {
+      "t": 2504.38,
+      "text": "Thanks."
+    },
+    {
+      "t": 2505.3,
+      "text": "Now let's talk about delegating tasks."
+    },
+    {
+      "t": 2508.5,
+      "text": "Yes, this is important if you're working in a team or managing others."
+    },
+    {
+      "t": 2512.92,
+      "text": "You might say, can you handle this task or could you take care of this?"
+    },
+    {
+      "t": 2517.64,
+      "text": "Let's practice."
+    },
+    {
+      "t": 2518.64,
+      "text": "Hey, Tina, could you take care of the client emails today?"
+    },
+    {
+      "t": 2521.96,
+      "text": "Sure, no problem."
+    },
+    {
+      "t": 2523.24,
+      "text": "I'll handle them this afternoon."
+    },
+    {
+      "t": 2525.0,
+      "text": "Thanks, I appreciate it."
+    },
+    {
+      "t": 2526.96,
+      "text": "Any time."
+    },
+    {
+      "t": 2527.96,
+      "text": "Now, let's talk about deadlines."
+    },
+    {
+      "t": 2530.52,
+      "text": "Yes, deadlines are a big part of work."
+    },
+    {
+      "t": 2533.88,
+      "text": "You might say, the deadline is tomorrow, or, I need to finish this by Friday."
+    },
+    {
+      "t": 2539.12,
+      "text": "Let's practice."
+    },
+    {
+      "t": 2540.12,
+      "text": "When do you need to complete this task?"
+    },
+    {
+      "t": 2542.72,
+      "text": "I need to finish it by the end of the day."
+    },
+    {
+      "t": 2544.84,
+      "text": "It's quite urgent."
+    },
+    {
+      "t": 2545.84,
+      "text": "Okay."
+    },
+    {
+      "t": 2546.84,
+      "text": "Let me know if you need help."
+    },
+    {
+      "t": 2548.16,
+      "text": "Thanks."
+    },
+    {
+      "t": 2549.16,
+      "text": "I will."
+    },
+    {
+      "t": 2550.16,
+      "text": "Now, let's talk about problems with tasks."
+    },
+    {
+      "t": 2552.84,
+      "text": "Yes."
+    },
+    {
+      "t": 2553.84,
+      "text": "Sometimes things don't go as planned."
+    },
+    {
+      "t": 2556.26,
+      "text": "In that case, you need to explain the issue clearly."
+    },
+    {
+      "t": 2559.72,
+      "text": "For example, I'm having some trouble with the data analysis."
+    },
+    {
+      "t": 2563.24,
+      "text": "I've encountered a problem."
+    },
+    {
+      "t": 2565.36,
+      "text": "Let's practice."
+    },
+    {
+      "t": 2566.36,
+      "text": "Hey, Leo, I'm having some trouble with the data analysis."
+    },
+    {
+      "t": 2570.52,
+      "text": "What seems to be the problem?"
+    },
+    {
+      "t": 2572.2,
+      "text": "The numbers don't match, and I'm not sure why."
+    },
+    {
+      "t": 2575.2,
+      "text": "Let's take a look together."
+    },
+    {
+      "t": 2576.64,
+      "text": "Thanks."
+    },
+    {
+      "t": 2577.64,
+      "text": "I really appreciate your help."
+    },
+    {
+      "t": 2579.12,
+      "text": "No problem."
+    },
+    {
+      "t": 2580.12,
+      "text": "Now let's talk about giving updates to your manager."
+    },
+    {
+      "t": 2583.28,
+      "text": "Yes, this is very important in professional communication."
+    },
+    {
+      "t": 2587.26,
+      "text": "You might say, I wanted to give you an update, or here's the progress so far."
+    },
+    {
+      "t": 2592.32,
+      "text": "Let's practice."
+    },
+    {
+      "t": 2593.32,
+      "text": "Hi, I wanted to give you an update on the project."
+    },
+    {
+      "t": 2596.48,
+      "text": "Sure, go ahead."
+    },
+    {
+      "t": 2598.12,
+      "text": "I've completed the research phase and started working on the draft."
+    },
+    {
+      "t": 2601.84,
+      "text": "I expect to finish it by Thursday."
+    },
+    {
+      "t": 2604.44,
+      "text": "That's a clear and professional update."
+    },
+    {
+      "t": 2606.6,
+      "text": "Thank you."
+    },
+    {
+      "t": 2607.6,
+      "text": "Now, let's talk about multitasking."
+    },
+    {
+      "t": 2610.24,
+      "text": "Yes, sometimes you have to do many tasks at once."
+    },
+    {
+      "t": 2614.36,
+      "text": "You might say, I'm handling multiple tasks, or I'm juggling several projects."
+    },
+    {
+      "t": 2620.2,
+      "text": "Let's practice."
+    },
+    {
+      "t": 2621.2,
+      "text": "How's your workload today?"
+    },
+    {
+      "t": 2622.88,
+      "text": "I'm quite busy. I'm juggling several tasks at the moment."
+    },
+    {
+      "t": 2626.96,
+      "text": "Sounds like a lot."
+    },
+    {
+      "t": 2628.32,
+      "text": "It is, but I'm managing."
+    },
+    {
+      "t": 2630.32,
+      "text": "Now let's talk about finishing work."
+    },
+    {
+      "t": 2632.88,
+      "text": "Yes, it's important to clearly say when a task is done."
+    },
+    {
+      "t": 2636.8,
+      "text": "You can say I've completed the task or it's all done."
+    },
+    {
+      "t": 2640.72,
+      "text": "Let's practice. Did you finish the report?"
+    },
+    {
+      "t": 2643.92,
+      "text": "Yes, I've completed it and sent it to you for review."
+    },
+    {
+      "t": 2647.12,
+      "text": "Great. I'll take a look."
+    },
+    {
+      "t": 2648.88,
+      "text": "Thanks."
+    },
+    {
+      "t": 2649.84,
+      "text": "Now, let's talk about planning future tasks."
+    },
+    {
+      "t": 2653.34,
+      "text": "Yes, this helps you stay organized."
+    },
+    {
+      "t": 2655.84,
+      "text": "You might say, next I'll work on, or I'm planning to."
+    },
+    {
+      "t": 2661.08,
+      "text": "Let's practice."
+    },
+    {
+      "t": 2662.28,
+      "text": "What are your plans for tomorrow?"
+    },
+    {
+      "t": 2664.2,
+      "text": "Tomorrow, I'm planning to finalize the presentation"
+    },
+    {
+      "t": 2667.16,
+      "text": "and prepare for the meeting."
+    },
+    {
+      "t": 2668.84,
+      "text": "That sounds like a good plan."
+    },
+    {
+      "t": 2670.68,
+      "text": "Thanks."
+    },
+    {
+      "t": 2671.6,
+      "text": "Now, let's talk about teamwork."
+    },
+    {
+      "t": 2674.12,
+      "text": "Yes, many tasks involve working with others."
+    },
+    {
+      "t": 2677.44,
+      "text": "You might say, let's work on this together, or we can divide the tasks."
+    },
+    {
+      "t": 2682.32,
+      "text": "Let's practice. This project looks big."
+    },
+    {
+      "t": 2685.6,
+      "text": "Yes, maybe we should divide the tasks."
+    },
+    {
+      "t": 2688.48,
+      "text": "Good idea. I'll handle the research."
+    },
+    {
+      "t": 2691.04,
+      "text": "And I'll work on the presentation."
+    },
+    {
+      "t": 2693.28,
+      "text": "Perfect."
+    },
+    {
+      "t": 2694.32,
+      "text": "Now, let's talk about reviewing tasks."
+    },
+    {
+      "t": 2697.44,
+      "text": "Yes, checking your work is very important."
+    },
+    {
+      "t": 2700.48,
+      "text": "You might say, I need to review this, or I'm double checking the details."
+    },
+    {
+      "t": 2705.76,
+      "text": "Let's practice. Is the report ready?"
+    },
+    {
+      "t": 2708.48,
+      "text": "Almost. I'm just reviewing it one more time."
+    },
+    {
+      "t": 2711.44,
+      "text": "That's good practice."
+    },
+    {
+      "t": 2712.96,
+      "text": "Yes. I want to make sure everything is correct."
+    },
+    {
+      "t": 2715.92,
+      "text": "Before we finish, let's reflect on what we've learned."
+    },
+    {
+      "t": 2719.2,
+      "text": "Today, we practiced how to talk about job tasks in many different situations."
+    },
+    {
+      "t": 2724.32,
+      "text": "We talked about starting tasks, describing progress, finishing tasks,"
+    },
+    {
+      "t": 2729.2,
+      "text": "handling problems, and planning ahead."
+    },
+    {
+      "t": 2731.92,
+      "text": "And we used many useful phrases, like I'm working on, I've completed, I'm still working on it, and I'll finish it by."
+    },
+    {
+      "t": 2740.56,
+      "text": "Exactly. The more you practice, the more natural they will feel."
+    },
+    {
+      "t": 2744.64,
+      "text": "Remember, communication at work is about being clear and professional."
+    },
+    {
+      "t": 2748.88,
+      "text": "Don't worry about making mistakes. Just focus on expressing your ideas."
+    },
+    {
+      "t": 2753.04,
+      "text": "All right, that's all for today's episode."
+    },
+    {
+      "t": 2755.76,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 2757.52,
+      "text": "Keep practicing and improving your English every day."
+    },
+    {
+      "t": 2760.8,
+      "text": "We'll see you in the next episode."
+    },
+    {
+      "t": 2762.8,
+      "text": "Goodbye, everyone."
+    }
+  ],
+  "lemmas": [
+    [
+      "task",
+      154
+    ],
+    [
+      "work",
+      112
+    ],
+    [
+      "need",
+      81
+    ],
+    [
+      "today",
+      73
+    ],
+    [
+      "talk",
+      63
+    ],
+    [
+      "finish",
+      60
+    ],
+    [
+      "report",
+      58
+    ],
+    [
+      "good",
+      55
+    ],
+    [
+      "say",
+      47
+    ],
+    [
+      "thank",
+      40
+    ],
+    [
+      "help",
+      39
+    ],
+    [
+      "day",
+      39
+    ],
+    [
+      "hey",
+      37
+    ],
+    [
+      "tina",
+      35
+    ],
+    [
+      "sure",
+      33
+    ],
+    [
+      "complet",
+      33
+    ],
+    [
+      "english",
+      31
+    ],
+    [
+      "exactly",
+      31
+    ],
+    [
+      "sound",
+      31
+    ],
+    [
+      "important",
+      30
+    ],
+    [
+      "make",
+      29
+    ],
+    [
+      "great",
+      29
+    ],
+    [
+      "presentation",
+      28
+    ],
+    [
+      "practice",
+      27
+    ],
+    [
+      "email",
+      27
+    ],
+    [
+      "daniel",
+      26
+    ],
+    [
+      "meet",
+      26
+    ],
+    [
+      "start",
+      25
+    ],
+    [
+      "project",
+      24
+    ],
+    [
+      "review",
+      23
+    ],
+    [
+      "clear",
+      23
+    ],
+    [
+      "morn",
+      22
+    ],
+    [
+      "also",
+      22
+    ],
+    [
+      "time",
+      22
+    ],
+    [
+      "explain",
+      22
+    ],
+    [
+      "sophia",
+      21
+    ],
+    [
+      "client",
+      21
+    ],
+    [
+      "focus",
+      21
+    ],
+    [
+      "first",
+      20
+    ],
+    [
+      "data",
+      20
+    ],
+    [
+      "try",
+      20
+    ],
+    [
+      "natural",
+      19
+    ],
+    [
+      "job",
+      19
+    ],
+    [
+      "conversation",
+      19
+    ],
+    [
+      "update",
+      18
+    ],
+    [
+      "next",
+      18
+    ],
+    [
+      "everyth",
+      18
+    ],
+    [
+      "updat",
+      18
+    ],
+    [
+      "learn",
+      17
+    ],
+    [
+      "take",
+      17
+    ],
+    [
+      "busy",
+      16
+    ],
+    [
+      "prepare",
+      16
+    ],
+    [
+      "plan",
+      16
+    ],
+    [
+      "done",
+      16
+    ],
+    [
+      "ask",
+      16
+    ],
+    [
+      "usually",
+      16
+    ],
+    [
+      "someth",
+      15
+    ],
+    [
+      "clearly",
+      15
+    ],
+    [
+      "organiz",
+      15
+    ],
+    [
+      "deadline",
+      15
+    ],
+    [
+      "every",
+      14
+    ],
+    [
+      "still",
+      14
+    ],
+    [
+      "problem",
+      14
+    ],
+    [
+      "lot",
+      14
+    ],
+    [
+      "handle",
+      14
+    ],
+    [
+      "example",
+      14
+    ],
+    [
+      "prepar",
+      14
+    ],
+    [
+      "mak",
+      13
+    ],
+    [
+      "perfect",
+      13
+    ],
+    [
+      "everyone",
+      13
+    ],
+    [
+      "going",
+      13
+    ],
+    [
+      "give",
+      13
+    ],
+    [
+      "progress",
+      13
+    ],
+    [
+      "want",
+      13
+    ],
+    [
+      "professional",
+      13
+    ],
+    [
+      "simple",
+      12
+    ],
+    [
+      "team",
+      12
+    ],
+    [
+      "complete",
+      12
+    ],
+    [
+      "sometim",
+      12
+    ],
+    [
+      "meeting",
+      12
+    ],
+    [
+      "listen",
+      11
+    ],
+    [
+      "use",
+      11
+    ],
+    [
+      "describe",
+      11
+    ],
+    [
+      "alway",
+      11
+    ],
+    [
+      "useful",
+      10
+    ],
+    [
+      "show",
+      10
+    ],
+    [
+      "later",
+      10
+    ],
+    [
+      "document",
+      10
+    ],
+    [
+      "see",
+      10
+    ],
+    [
+      "idea",
+      10
+    ],
+    [
+      "one",
+      10
+    ],
+    [
+      "communication",
+      10
+    ],
+    [
+      "welcome",
+      9
+    ],
+    [
+      "practical",
+      9
+    ],
+    [
+      "phras",
+      9
+    ],
+    [
+      "reply",
+      9
+    ],
+    [
+      "tomorrow",
+      9
+    ],
+    [
+      "let",
+      9
+    ],
+    [
+      "know",
+      9
+    ],
+    [
+      "part",
+      9
+    ],
+    [
+      "follow",
+      9
+    ],
+    [
+      "keep",
+      9
+    ],
+    [
+      "slid",
+      9
+    ],
+    [
+      "happen",
+      9
+    ],
+    [
+      "leo",
+      9
+    ],
+    [
+      "feel",
+      9
+    ],
+    [
+      "common",
+      9
+    ],
+    [
+      "real",
+      8
+    ],
+    [
+      "ready",
+      8
+    ],
+    [
+      "oh",
+      8
+    ],
+    [
+      "currently",
+      8
+    ],
+    [
+      "look",
+      8
+    ],
+    [
+      "answer",
+      8
+    ],
+    [
+      "handl",
+      8
+    ],
+    [
+      "deadlin",
+      8
+    ],
+    [
+      "go",
+      8
+    ],
+    [
+      "practic",
+      8
+    ],
+    [
+      "respond",
+      8
+    ],
+    [
+      "manag",
+      8
+    ],
+    [
+      "goal",
+      7
+    ],
+    [
+      "life",
+      7
+    ],
+    [
+      "get",
+      7
+    ],
+    [
+      "stay",
+      7
+    ],
+    [
+      "appreciate",
+      7
+    ],
+    [
+      "course",
+      7
+    ],
+    [
+      "think",
+      7
+    ],
+    [
+      "correct",
+      7
+    ],
+    [
+      "manager",
+      7
+    ],
+    [
+      "question",
+      7
+    ],
+    [
+      "attend",
+      7
+    ],
+    [
+      "polite",
+      7
+    ],
+    [
+      "daily",
+      7
+    ],
+    [
+      "schedul",
+      7
+    ],
+    [
+      "sent",
+      7
+    ],
+    [
+      "many",
+      7
+    ],
+    [
+      "urgent",
+      7
+    ],
+    [
+      "care",
+      7
+    ],
+    [
+      "back",
+      6
+    ],
+    [
+      "topic",
+      6
+    ],
+    [
+      "boss",
+      6
+    ],
+    [
+      "alright",
+      6
+    ],
+    [
+      "list",
+      6
+    ],
+    [
+      "imagine",
+      6
+    ],
+    [
+      "section",
+      6
+    ],
+    [
+      "sense",
+      6
+    ],
+    [
+      "afternoon",
+      6
+    ],
+    [
+      "multitask",
+      6
+    ],
+    [
+      "much",
+      6
+    ],
+    [
+      "mistake",
+      6
+    ],
+    [
+      "prioritize",
+      6
+    ],
+    [
+      "yet",
+      6
+    ],
+    [
+      "almost",
+      6
+    ],
+    [
+      "bit",
+      6
+    ],
+    [
+      "teamwork",
+      6
+    ],
+    [
+      "easier",
+      6
+    ],
+    [
+      "new",
+      6
+    ],
+    [
+      "key",
+      6
+    ],
+    [
+      "detail",
+      6
+    ],
+    [
+      "yesterday",
+      6
+    ],
+    [
+      "responsible",
+      6
+    ],
+    [
+      "communicate",
+      6
+    ],
+    [
+      "main",
+      6
+    ],
+    [
+      "productive",
+      6
+    ],
+    [
+      "situation",
+      6
+    ],
+    [
+      "podcast",
+      5
+    ],
+    [
+      "hello",
+      5
+    ],
+    [
+      "us",
+      5
+    ],
+    [
+      "realistic",
+      5
+    ],
+    [
+      "whether",
+      5
+    ],
+    [
+      "coworker",
+      5
+    ],
+    [
+      "even",
+      5
+    ],
+    [
+      "helpful",
+      5
+    ],
+    [
+      "understand",
+      5
+    ],
+    [
+      "end",
+      5
+    ],
+    [
+      "add",
+      5
+    ],
+    [
+      "two",
+      5
+    ],
+    [
+      "fix",
+      5
+    ],
+    [
+      "mistak",
+      5
+    ],
+    [
+      "quickly",
+      5
+    ],
+    [
+      "youll",
+      5
+    ],
+    [
+      "send",
+      5
+    ],
+    [
+      "check",
+      5
+    ],
+    [
+      "feedback",
+      5
+    ],
+    [
+      "using",
+      5
+    ],
+    [
+      "quite",
+      5
+    ],
+    [
+      "include",
+      5
+    ],
+    [
+      "content",
+      5
+    ],
+    [
+      "break",
+      5
+    ],
+    [
+      "together",
+      5
+    ],
+    [
+      "responsibiliti",
+      5
+    ],
+    [
+      "used",
+      5
+    ],
+    [
+      "speak",
+      4
+    ],
+    [
+      "business",
+      4
+    ],
+    [
+      "extremely",
+      4
+    ],
+    [
+      "long",
+      4
+    ],
+    [
+      "full",
+      4
+    ],
+    [
+      "schedule",
+      4
+    ],
+    [
+      "office",
+      4
+    ],
+    [
+      "already",
+      4
+    ],
+    [
+      "second",
+      4
+    ],
+    [
+      "structure",
+      4
+    ],
+    [
+      "phase",
+      4
+    ],
+    [
+      "worry",
+      4
+    ],
+    [
+      "thing",
+      4
+    ],
+    [
+      "excellent",
+      4
+    ],
+    [
+      "maybe",
+      4
+    ],
+    [
+      "organize",
+      4
+    ],
+    [
+      "absolutely",
+      4
+    ],
+    [
+      "finalize",
+      4
+    ],
+    [
+      "confident",
+      4
+    ],
+    [
+      "bye",
+      4
+    ],
+    [
+      "conversational",
+      4
+    ],
+    [
+      "exampl",
+      4
+    ],
+    [
+      "fil",
+      4
+    ],
+    [
+      "shar",
+      4
+    ],
+    [
+      "analysis",
+      4
+    ],
+    [
+      "ahead",
+      4
+    ],
+    [
+      "easy",
+      4
+    ],
+    [
+      "future",
+      4
+    ],
+    [
+      "way",
+      4
+    ],
+    [
+      "expect",
+      4
+    ],
+    [
+      "assign",
+      4
+    ],
+    [
+      "several",
+      4
+    ],
+    [
+      "move",
+      4
+    ],
+    [
+      "information",
+      4
+    ],
+    [
+      "present",
+      4
+    ],
+    [
+      "multiple",
+      4
+    ],
+    [
+      "goodbye",
+      4
+    ],
+    [
+      "specific",
+      4
+    ],
+    [
+      "someone",
+      4
+    ],
+    [
+      "gather",
+      4
+    ],
+    [
+      "draft",
+      4
+    ],
+    [
+      "delay",
+      4
+    ],
+    [
+      "single",
+      3
+    ],
+    [
+      "to-do",
+      3
+    ],
+    [
+      "spreadsheet",
+      3
+    ],
+    [
+      "wow",
+      3
+    ],
+    [
+      "minute",
+      3
+    ],
+    [
+      "quick",
+      3
+    ],
+    [
+      "visual",
+      3
+    ],
+    [
+      "ther",
+      3
+    ],
+    [
+      "prioritiz",
+      3
+    ],
+    [
+      "clarification",
+      3
+    ],
+    [
+      "remember",
+      3
+    ],
+    [
+      "improv",
+      3
+    ],
+    [
+      "especially",
+      3
+    ],
+    [
+      "past",
+      3
+    ],
+    [
+      "moment",
+      3
+    ],
+    [
+      "plate",
+      3
+    ],
+    [
+      "early",
+      3
+    ],
+    [
+      "due",
+      3
+    ],
+    [
+      "nice",
+      3
+    ],
+    [
+      "come",
+      3
+    ],
+    [
+      "begin",
+      3
+    ],
+    [
+      "monthly",
+      3
+    ],
+    [
+      "point",
+      3
+    ],
+    [
+      "write",
+      3
+    ],
+    [
+      "slide",
+      3
+    ],
+    [
+      "divide",
+      3
+    ],
+    [
+      "youve",
+      3
+    ],
+    [
+      "co-worker",
+      3
+    ],
+    [
+      "person",
+      3
+    ],
+    [
+      "analyz",
+      3
+    ],
+    [
+      "describ",
+      3
+    ],
+    [
+      "proposal",
+      3
+    ],
+    [
+      "delegat",
+      3
+    ],
+    [
+      "issue",
+      3
+    ],
+    [
+      "number",
+      3
+    ],
+    [
+      "episode",
+      3
+    ],
+    [
+      "find",
+      2
+    ],
+    [
+      "honestly",
+      2
+    ],
+    [
+      "sal",
+      2
+    ],
+    [
+      "analyze",
+      2
+    ],
+    [
+      "summarize",
+      2
+    ],
+    [
+      "seem",
+      2
+    ],
+    [
+      "true",
+      2
+    ],
+    [
+      "able",
+      2
+    ],
+    [
+      "wrong",
+      2
+    ],
+    [
+      "reduce",
+      2
+    ],
+    [
+      "final",
+      2
+    ],
+    [
+      "submit",
+      2
+    ],
+    [
+      "track",
+      2
+    ],
+    [
+      "difficulty",
+      2
+    ],
+    [
+      "another",
+      2
+    ],
+    [
+      "definitely",
+      2
+    ],
+    [
+      "weve",
+      2
+    ],
+    [
+      "giv",
+      2
+    ],
+    [
+      "continuous",
+      2
+    ],
+    [
+      "hi",
+      2
+    ],
+    [
+      "latest",
+      2
+    ],
+    [
+      "different",
+      2
+    ],
+    [
+      "structur",
+      2
+    ],
+    [
+      "mention",
+      2
+    ],
+    [
+      "honest",
+      2
+    ],
+    [
+      "run",
+      2
+    ],
+    [
+      "sentenc",
+      2
+    ],
+    [
+      "tense",
+      2
+    ],
+    [
+      "expression",
+      2
+    ],
+    [
+      "workplace",
+      2
+    ],
+    [
+      "priority",
+      2
+    ],
+    [
+      "general",
+      2
+    ],
+    [
+      "support",
+      2
+    ],
+    [
+      "ever",
+      2
+    ],
+    [
+      "anyth",
+      2
+    ],
+    [
+      "else",
+      2
+    ],
+    [
+      "advance",
+      2
+    ],
+    [
+      "prioriti",
+      2
+    ],
+    [
+      "strategy",
+      2
+    ],
+    [
+      "soon",
+      2
+    ],
+    [
+      "phrase",
+      2
+    ],
+    [
+      "inform",
+      2
+    ],
+    [
+      "agree",
+      2
+    ],
+    [
+      "real-life",
+      2
+    ],
+    [
+      "double-check",
+      2
+    ],
+    [
+      "creat",
+      2
+    ],
+    [
+      "manage",
+      2
+    ],
+    [
+      "probably",
+      2
+    ],
+    [
+      "leave",
+      2
+    ],
+    [
+      "confirm",
+      2
+    ],
+    [
+      "chart",
+      2
+    ],
+    [
+      "includ",
+      2
+    ],
+    [
+      "language",
+      2
+    ],
+    [
+      "often",
+      2
+    ],
+    [
+      "writ",
+      2
+    ],
+    [
+      "confidently",
+      2
+    ],
+    [
+      "tir",
+      2
+    ],
+    [
+      "kind",
+      2
+    ],
+    [
+      "mean",
+      2
+    ],
+    [
+      "ongo",
+      2
+    ],
+    [
+      "middle",
+      2
+    ],
+    [
+      "stressful",
+      2
+    ],
+    [
+      "create",
+      2
+    ],
+    [
+      "longer",
+      2
+    ],
+    [
+      "clarity",
+      2
+    ],
+    [
+      "continue",
+      2
+    ],
+    [
+      "friday",
+      2
+    ],
+    [
+      "naturally",
+      2
+    ],
+    [
+      "postpone",
+      2
+    ],
+    [
+      "extra",
+      2
+    ],
+    [
+      "far",
+      2
+    ],
+    [
+      "request",
+      2
+    ],
+    [
+      "case",
+      2
+    ],
+    [
+      "big",
+      2
+    ],
+    [
+      "trouble",
+      2
+    ],
+    [
+      "research",
+      2
+    ],
+    [
+      "juggl",
+      2
+    ],
+    [
+      "join",
+      1
+    ],
+    [
+      "forget",
+      1
+    ],
+    [
+      "along",
+      1
+    ],
+    [
+      "result",
+      1
+    ],
+    [
+      "luck",
+      1
+    ],
+    [
+      "confus",
+      1
+    ],
+    [
+      "complicat",
+      1
+    ],
+    [
+      "post",
+      1
+    ],
+    [
+      "clearer",
+      1
+    ],
+    [
+      "enter",
+      1
+    ],
+    [
+      "since",
+      1
+    ],
+    [
+      "last",
+      1
+    ],
+    [
+      "stress",
+      1
+    ],
+    [
+      "small",
+      1
+    ],
+    [
+      "overall",
+      1
+    ],
+    [
+      "behind",
+      1
+    ],
+    [
+      "catch",
+      1
+    ],
+    [
+      "fully",
+      1
+    ],
+    [
+      "instruction",
+      1
+    ],
+    [
+      "guess",
+      1
+    ],
+    [
+      "amaz",
+      1
+    ],
+    [
+      "plus",
+      1
+    ],
+    [
+      "grammar",
+      1
+    ],
+    [
+      "improve",
+      1
+    ],
+    [
+      "good-bye",
+      1
+    ],
+    [
+      "subtopic",
+      1
+    ],
+    [
+      "carefully",
+      1
+    ],
+    [
+      "repeat",
+      1
+    ],
+    [
+      "sat",
+      1
+    ],
+    [
+      "habit",
+      1
+    ],
+    [
+      "weekly",
+      1
+    ],
+    [
+      "sav",
+      1
+    ],
+    [
+      "week",
+      1
+    ],
+    [
+      "tricky",
+      1
+    ],
+    [
+      "availability",
+      1
+    ],
+    [
+      "approach",
+      1
+    ],
+    [
+      "challeng",
+      1
+    ],
+    [
+      "normal",
+      1
+    ],
+    [
+      "setting",
+      1
+    ],
+    [
+      "plat",
+      1
+    ],
+    [
+      "extend",
+      1
+    ],
+    [
+      "highest",
+      1
+    ],
+    [
+      "sentence",
+      1
+    ],
+    [
+      "introduc",
+      1
+    ],
+    [
+      "effective",
+      1
+    ],
+    [
+      "process",
+      1
+    ],
+    [
+      "notic",
+      1
+    ],
+    [
+      "unexpect",
+      1
+    ],
+    [
+      "adjust",
+      1
+    ],
+    [
+      "apologize",
+      1
+    ],
+    [
+      "error",
+      1
+    ],
+    [
+      "immediately",
+      1
+    ],
+    [
+      "halfway",
+      1
+    ],
+    [
+      "enjoy",
+      1
+    ],
+    [
+      "cover",
+      1
+    ],
+    [
+      "essential",
+      1
+    ],
+    [
+      "skill",
+      1
+    ],
+    [
+      "afraid",
+      1
+    ],
+    [
+      "instead",
+      1
+    ],
+    [
+      "teach",
+      1
+    ],
+    [
+      "participat",
+      1
+    ],
+    [
+      "com",
+      1
+    ],
+    [
+      "close",
+      1
+    ],
+    [
+      "accurate",
+      1
+    ],
+    [
+      "prevent",
+      1
+    ],
+    [
+      "refine",
+      1
+    ],
+    [
+      "delivery",
+      1
+    ],
+    [
+      "require",
+      1
+    ],
+    [
+      "pend",
+      1
+    ],
+    [
+      "advice",
+      1
+    ],
+    [
+      "suggest",
+      1
+    ],
+    [
+      "nearest",
+      1
+    ],
+    [
+      "smaller",
+      1
+    ],
+    [
+      "step",
+      1
+    ],
+    [
+      "tip",
+      1
+    ],
+    [
+      "conclusion",
+      1
+    ],
+    [
+      "hour",
+      1
+    ],
+    [
+      "reasonable",
+      1
+    ],
+    [
+      "simplify",
+      1
+    ],
+    [
+      "sorry",
+      1
+    ],
+    [
+      "interrupt",
+      1
+    ],
+    [
+      "finding",
+      1
+    ],
+    [
+      "preparation",
+      1
+    ],
+    [
+      "align",
+      1
+    ],
+    [
+      "efficient",
+      1
+    ],
+    [
+      "agre",
+      1
+    ],
+    [
+      "twice",
+      1
+    ],
+    [
+      "suggestion",
+      1
+    ],
+    [
+      "checklist",
+      1
+    ],
+    [
+      "mark",
+      1
+    ],
+    [
+      "satisfy",
+      1
+    ],
+    [
+      "shape",
+      1
+    ],
+    [
+      "relax",
+      1
+    ],
+    [
+      "realiz",
+      1
+    ],
+    [
+      "version",
+      1
+    ],
+    [
+      "affect",
+      1
+    ],
+    [
+      "attitude",
+      1
+    ],
+    [
+      "quality",
+      1
+    ],
+    [
+      "avoid",
+      1
+    ],
+    [
+      "overwhelm",
+      1
+    ],
+    [
+      "short",
+      1
+    ],
+    [
+      "mind",
+      1
+    ],
+    [
+      "smart",
+      1
+    ],
+    [
+      "rest",
+      1
+    ],
+    [
+      "tracker",
+      1
+    ],
+    [
+      "manageable",
+      1
+    ],
+    [
+      "heavy",
+      1
+    ],
+    [
+      "becom",
+      1
+    ],
+    [
+      "fun",
+      1
+    ],
+    [
+      "professionally",
+      1
+    ],
+    [
+      "mainly",
+      1
+    ],
+    [
+      "market",
+      1
+    ],
+    [
+      "briefly",
+      1
+    ],
+    [
+      "typical",
+      1
+    ],
+    [
+      "workday",
+      1
+    ],
+    [
+      "els",
+      1
+    ],
+    [
+      "social",
+      1
+    ],
+    [
+      "media",
+      1
+    ],
+    [
+      "campaign",
+      1
+    ],
+    [
+      "performance",
+      1
+    ],
+    [
+      "involv",
+      1
+    ],
+    [
+      "decide",
+      1
+    ],
+    [
+      "respectful",
+      1
+    ],
+    [
+      "collaborat",
+      1
+    ],
+    [
+      "faster",
+      1
+    ],
+    [
+      "tight",
+      1
+    ],
+    [
+      "head",
+      1
+    ],
+    [
+      "accomplish",
+      1
+    ],
+    [
+      "complexity",
+      1
+    ],
+    [
+      "hope",
+      1
+    ],
+    [
+      "difficult",
+      1
+    ],
+    [
+      "arriv",
+      1
+    ],
+    [
+      "notice",
+      1
+    ],
+    [
+      "verb",
+      1
+    ],
+    [
+      "pm",
+      1
+    ],
+    [
+      "finaliz",
+      1
+    ],
+    [
+      "budget",
+      1
+    ],
+    [
+      "finance",
+      1
+    ],
+    [
+      "revis",
+      1
+    ],
+    [
+      "company",
+      1
+    ],
+    [
+      "website",
+      1
+    ],
+    [
+      "design",
+      1
+    ],
+    [
+      "issu",
+      1
+    ],
+    [
+      "upload",
+      1
+    ],
+    [
+      "customer",
+      1
+    ],
+    [
+      "inquiri",
+      1
+    ],
+    [
+      "resolv",
+      1
+    ],
+    [
+      "complaint",
+      1
+    ],
+    [
+      "change",
+      1
+    ],
+    [
+      "sudden",
+      1
+    ],
+    [
+      "routine",
+      1
+    ],
+    [
+      "description",
+      1
+    ],
+    [
+      "coordinat",
+      1
+    ],
+    [
+      "difficulti",
+      1
+    ],
+    [
+      "please",
+      1
+    ],
+    [
+      "less",
+      1
+    ],
+    [
+      "throughout",
+      1
+    ],
+    [
+      "database",
+      1
+    ],
+    [
+      "agenda",
+      1
+    ],
+    [
+      "access",
+      1
+    ],
+    [
+      "solve",
+      1
+    ],
+    [
+      "response",
+      1
+    ],
+    [
+      "combin",
+      1
+    ],
+    [
+      "quarterly",
+      1
+    ],
+    [
+      "happy",
+      1
+    ],
+    [
+      "listener",
+      1
+    ],
+    [
+      "walk",
+      1
+    ],
+    [
+      "share",
+      1
+    ],
+    [
+      "summary",
+      1
+    ],
+    [
+      "ad",
+      1
+    ],
+    [
+      "responsibility",
+      1
+    ],
+    [
+      "top",
+      1
+    ],
+    [
+      "three",
+      1
+    ],
+    [
+      "encounter",
+      1
+    ],
+    [
+      "match",
+      1
+    ],
+    [
+      "thursday",
+      1
+    ],
+    [
+      "workload",
+      1
+    ],
+    [
+      "involve",
+      1
+    ],
+    [
+      "double",
+      1
+    ],
+    [
+      "reflect",
+      1
+    ],
+    [
+      "express",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 7391,
+    "unique_words": 527,
+    "duration_min": 46.2
+  }
+}

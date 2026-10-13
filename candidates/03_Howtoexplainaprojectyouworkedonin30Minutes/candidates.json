@@ -1,0 +1,8913 @@
+{
+  "file_stem": "03_Howtoexplainaprojectyouworkedonin30Minutes",
+  "no": 3,
+  "title_keywords": [
+    [
+      "explain",
+      "explain"
+    ],
+    [
+      "project",
+      "project"
+    ],
+    [
+      "worked",
+      "work"
+    ],
+    [
+      "minutes",
+      "minut"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "project",
+      138,
+      "B1+"
+    ],
+    [
+      "team",
+      69,
+      "A2"
+    ],
+    [
+      "system",
+      58,
+      "A2"
+    ],
+    [
+      "explain",
+      54,
+      "B1+"
+    ],
+    [
+      "customer",
+      53,
+      "B1+"
+    ],
+    [
+      "worked",
+      52,
+      "A2"
+    ],
+    [
+      "interview",
+      48,
+      "B1+"
+    ],
+    [
+      "communication",
+      42,
+      "B1+"
+    ],
+    [
+      "users",
+      40,
+      "B1+"
+    ],
+    [
+      "role",
+      36,
+      "B1+"
+    ],
+    [
+      "new",
+      34,
+      "A2"
+    ],
+    [
+      "time",
+      34,
+      "A2"
+    ],
+    [
+      "one",
+      33,
+      "A2"
+    ],
+    [
+      "clear",
+      32,
+      "A2"
+    ],
+    [
+      "results",
+      32,
+      "A2"
+    ],
+    [
+      "challenges",
+      31,
+      "B1+"
+    ],
+    [
+      "goal",
+      31,
+      "B1+"
+    ],
+    [
+      "today",
+      31,
+      "A2"
+    ],
+    [
+      "also",
+      30,
+      "A2"
+    ],
+    [
+      "important",
+      30,
+      "A2"
+    ],
+    [
+      "learned",
+      30,
+      "A2"
+    ],
+    [
+      "exactly",
+      29,
+      "B1+"
+    ],
+    [
+      "help",
+      29,
+      "A2"
+    ],
+    [
+      "improving",
+      28,
+      "B1+"
+    ],
+    [
+      "good",
+      27,
+      "A2"
+    ],
+    [
+      "process",
+      27,
+      "B1+"
+    ],
+    [
+      "step",
+      27,
+      "A2"
+    ],
+    [
+      "testing",
+      27,
+      "A2"
+    ],
+    [
+      "different",
+      26,
+      "A2"
+    ],
+    [
+      "departments",
+      25,
+      "B1+"
+    ],
+    [
+      "start",
+      25,
+      "A2"
+    ],
+    [
+      "data",
+      24,
+      "B1+"
+    ],
+    [
+      "english",
+      23,
+      "A2"
+    ],
+    [
+      "feedback",
+      22,
+      "B1+"
+    ],
+    [
+      "thank",
+      22,
+      "A2"
+    ],
+    [
+      "design",
+      21,
+      "B1+"
+    ],
+    [
+      "detail",
+      21,
+      "B1+"
+    ],
+    [
+      "make",
+      21,
+      "A2"
+    ],
+    [
+      "phase",
+      21,
+      "B1+"
+    ],
+    [
+      "practice",
+      21,
+      "A2"
+    ],
+    [
+      "problem",
+      21,
+      "A2"
+    ],
+    [
+      "sounds",
+      21,
+      "A2"
+    ],
+    [
+      "example",
+      20,
+      "A2"
+    ],
+    [
+      "many",
+      20,
+      "A2"
+    ],
+    [
+      "answer",
+      19,
+      "A2"
+    ],
+    [
+      "everyone",
+      19,
+      "A2"
+    ],
+    [
+      "minutes",
+      19,
+      "B1+"
+    ],
+    [
+      "organized",
+      19,
+      "B1+"
+    ],
+    [
+      "wanted",
+      19,
+      "A2"
+    ],
+    [
+      "conversation",
+      18,
+      "B1+"
+    ],
+    [
+      "focused",
+      18,
+      "B1+"
+    ],
+    [
+      "interviewers",
+      18,
+      "B1+"
+    ],
+    [
+      "needs",
+      18,
+      "A2"
+    ],
+    [
+      "talk",
+      18,
+      "A2"
+    ],
+    [
+      "development",
+      17,
+      "B1+"
+    ],
+    [
+      "improvement",
+      17,
+      "B1+"
+    ],
+    [
+      "meetings",
+      17,
+      "B1+"
+    ],
+    [
+      "question",
+      17,
+      "A2"
+    ],
+    [
+      "real",
+      17,
+      "A2"
+    ],
+    [
+      "simple",
+      17,
+      "A2"
+    ],
+    [
+      "situation",
+      17,
+      "A2"
+    ],
+    [
+      "company",
+      16,
+      "B1+"
+    ],
+    [
+      "delays",
+      16,
+      "B1+"
+    ],
+    [
+      "first",
+      16,
+      "A2"
+    ],
+    [
+      "issues",
+      16,
+      "B1+"
+    ],
+    [
+      "show",
+      16,
+      "A2"
+    ],
+    [
+      "solution",
+      16,
+      "B1+"
+    ],
+    [
+      "speak",
+      16,
+      "A2"
+    ],
+    [
+      "support",
+      16,
+      "A2"
+    ],
+    [
+      "technical",
+      16,
+      "B1+"
+    ],
+    [
+      "final",
+      15,
+      "B1+"
+    ],
+    [
+      "see",
+      15,
+      "A2"
+    ],
+    [
+      "ticket",
+      15,
+      "A2"
+    ],
+    [
+      "challenge",
+      14,
+      "B1+"
+    ],
+    [
+      "clearly",
+      14,
+      "B1+"
+    ],
+    [
+      "main",
+      14,
+      "A2"
+    ],
+    [
+      "making",
+      14,
+      "B1+"
+    ],
+    [
+      "onboarding",
+      14,
+      "B1+"
+    ],
+    [
+      "structure",
+      14,
+      "B1+"
+    ],
+    [
+      "begin",
+      13,
+      "A2"
+    ],
+    [
+      "employees",
+      13,
+      "B1+"
+    ],
+    [
+      "next",
+      13,
+      "A2"
+    ],
+    [
+      "planning",
+      13,
+      "A2"
+    ],
+    [
+      "reporting",
+      13,
+      "A2"
+    ],
+    [
+      "understand",
+      13,
+      "A2"
+    ],
+    [
+      "use",
+      13,
+      "A2"
+    ],
+    [
+      "background",
+      12,
+      "B1+"
+    ],
+    [
+      "explanation",
+      12,
+      "B1+"
+    ],
+    [
+      "faster",
+      12,
+      "B1+"
+    ],
+    [
+      "give",
+      12,
+      "A2"
+    ],
+    [
+      "great",
+      12,
+      "A2"
+    ],
+    [
+      "improve",
+      12,
+      "B1+"
+    ],
+    [
+      "job",
+      12,
+      "A2"
+    ],
+    [
+      "much",
+      12,
+      "A2"
+    ],
+    [
+      "tell",
+      12,
+      "A2"
+    ],
+    [
+      "us",
+      12,
+      "A2"
+    ],
+    [
+      "ask",
+      11,
+      "A2"
+    ],
+    [
+      "experience",
+      11,
+      "A2"
+    ],
+    [
+      "feel",
+      11,
+      "A2"
+    ],
+    [
+      "find",
+      11,
+      "A2"
+    ],
+    [
+      "keep",
+      11,
+      "A2"
+    ],
+    [
+      "skills",
+      11,
+      "A2"
+    ],
+    [
+      "sure",
+      11,
+      "A2"
+    ],
+    [
+      "tools",
+      11,
+      "A2"
+    ],
+    [
+      "welcome",
+      11,
+      "A2"
+    ],
+    [
+      "changes",
+      10,
+      "B1+"
+    ],
+    [
+      "common",
+      10,
+      "A2"
+    ],
+    [
+      "daniel",
+      10,
+      "B1+"
+    ],
+    [
+      "excellent",
+      10,
+      "B1+"
+    ],
+    [
+      "imagine",
+      10,
+      "A2"
+    ],
+    [
+      "implementation",
+      10,
+      "B1+"
+    ],
+    [
+      "increased",
+      10,
+      "B1+"
+    ],
+    [
+      "launch",
+      10,
+      "B1+"
+    ],
+    [
+      "people",
+      10,
+      "A2"
+    ],
+    [
+      "practical",
+      10,
+      "B1+"
+    ],
+    [
+      "professional",
+      10,
+      "B1+"
+    ],
+    [
+      "small",
+      10,
+      "A2"
+    ],
+    [
+      "strong",
+      10,
+      "A2"
+    ],
+    [
+      "training",
+      10,
+      "A2"
+    ],
+    [
+      "business",
+      9,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "project you worked",
+      "count": 18,
+      "example": "Yes, today's topic is how to explain a project you worked on in 30 minutes at an interview.",
+      "t": 43.13
+    },
+    {
+      "text": "explain a project",
+      "count": 12,
+      "example": "Yes, today's topic is how to explain a project you worked on in 30 minutes at an interview.",
+      "t": 43.13
+    },
+    {
+      "text": "customer support",
+      "count": 12,
+      "example": "Yes, I would involve the customer support team earlier.",
+      "t": 322.35
+    },
+    {
+      "text": "new system",
+      "count": 12,
+      "example": "Gradually, employees adapted to the new system.",
+      "t": 1098.21
+    },
+    {
+      "text": "main goal",
+      "count": 10,
+      "example": "And what was the main goal of the project?",
+      "t": 136.49
+    },
+    {
+      "text": "step by step",
+      "count": 9,
+      "example": "how to explain your project step by step.",
+      "t": 74.17
+    },
+    {
+      "text": "let's talk",
+      "count": 9,
+      "example": "Now let's talk about confidence.",
+      "t": 490.49
+    },
+    {
+      "text": "worked on recently",
+      "count": 8,
+      "example": "Daniel, can you tell me about a project you worked on recently?",
+      "t": 92.65
+    },
+    {
+      "text": "project i worked",
+      "count": 7,
+      "example": "I'd like to talk about a project I worked on at my previous company, where we focused",
+      "t": 98.33
+    },
+    {
+      "text": "different teams",
+      "count": 7,
+      "example": "One of the main challenges was aligning different teams.",
+      "t": 239.27
+    }
+  ],
+  "phrases": [
+    {
+      "text": "project you worked",
+      "count": 18,
+      "example": "Yes, today's topic is how to explain a project you worked on in 30 minutes at an interview.",
+      "t": 43.13
+    },
+    {
+      "text": "explain a project",
+      "count": 12,
+      "example": "Yes, today's topic is how to explain a project you worked on in 30 minutes at an interview.",
+      "t": 43.13
+    },
+    {
+      "text": "customer support",
+      "count": 12,
+      "example": "Yes, I would involve the customer support team earlier.",
+      "t": 322.35
+    },
+    {
+      "text": "new system",
+      "count": 12,
+      "example": "Gradually, employees adapted to the new system.",
+      "t": 1098.21
+    },
+    {
+      "text": "main goal",
+      "count": 10,
+      "example": "And what was the main goal of the project?",
+      "t": 136.49
+    },
+    {
+      "text": "step by step",
+      "count": 9,
+      "example": "how to explain your project step by step.",
+      "t": 74.17
+    },
+    {
+      "text": "let's talk",
+      "count": 9,
+      "example": "Now let's talk about confidence.",
+      "t": 490.49
+    },
+    {
+      "text": "worked on recently",
+      "count": 8,
+      "example": "Daniel, can you tell me about a project you worked on recently?",
+      "t": 92.65
+    },
+    {
+      "text": "project i worked",
+      "count": 7,
+      "example": "I'd like to talk about a project I worked on at my previous company, where we focused",
+      "t": 98.33
+    },
+    {
+      "text": "different teams",
+      "count": 7,
+      "example": "One of the main challenges was aligning different teams.",
+      "t": 239.27
+    },
+    {
+      "text": "welcome back",
+      "count": 6,
+      "example": "Hello and welcome back to Business English Podcast. Hi everyone. Welcome to today's English Conversation Practice. I'm Daniel.",
+      "t": 14.05
+    },
+    {
+      "text": "us today",
+      "count": 6,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations.",
+      "t": 22.05
+    },
+    {
+      "text": "job interview",
+      "count": 6,
+      "example": "preparing for a job interview.",
+      "t": 41.33
+    },
+    {
+      "text": "let's begin",
+      "count": 6,
+      "example": "So let's begin.",
+      "t": 83.89
+    },
+    {
+      "text": "team wanted",
+      "count": 6,
+      "example": "The management team wanted to understand the reasons behind the decline and find ways",
+      "t": 130.13
+    },
+    {
+      "text": "that's excellent",
+      "count": 6,
+      "example": "That's excellent.",
+      "t": 308.75
+    },
+    {
+      "text": "much for listening",
+      "count": 6,
+      "example": "Thank you so much for listening. We hope this long conversation helps you",
+      "t": 611.17
+    },
+    {
+      "text": "different departments",
+      "count": 6,
+      "example": "I also learned how important communication is between different departments.",
+      "t": 992.85
+    },
+    {
+      "text": "training sessions",
+      "count": 6,
+      "example": "We organized training sessions and showed the benefits clearly.",
+      "t": 1094.41
+    },
+    {
+      "text": "response time",
+      "count": 6,
+      "example": "Communication became faster and more organized, and internal response time improved by around",
+      "t": 1102.71
+    },
+    {
+      "text": "let's give",
+      "count": 6,
+      "example": "Now let's give learners a final tip.",
+      "t": 1112.07
+    },
+    {
+      "text": "hello and welcome",
+      "count": 5,
+      "example": "Hello and welcome back to Business English Podcast. Hi everyone. Welcome to today's English Conversation Practice. I'm Daniel.",
+      "t": 14.05
+    },
+    {
+      "text": "speak english",
+      "count": 5,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations.",
+      "t": 22.05
+    },
+    {
+      "text": "practical examples",
+      "count": 5,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations.",
+      "t": 22.05
+    },
+    {
+      "text": "workplace situations",
+      "count": 5,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations.",
+      "t": 22.05
+    },
+    {
+      "text": "help you speak",
+      "count": 5,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations.",
+      "t": 22.05
+    },
+    {
+      "text": "many people",
+      "count": 5,
+      "example": "And many people feel nervous when they hear that question, because they don't know",
+      "t": 56.01
+    },
+    {
+      "text": "conversion rate",
+      "count": 5,
+      "example": "Customer engagement was also decreasing and our conversion rate was lower than industry",
+      "t": 120.29
+    },
+    {
+      "text": "checkout process",
+      "count": 5,
+      "example": "We discovered that many users were leaving the website during the checkout process.",
+      "t": 188.09
+    },
+    {
+      "text": "regular meetings",
+      "count": 5,
+      "example": "I organized regular meetings where everyone could share their perspectives.",
+      "t": 248.03
+    },
+    {
+      "text": "customer satisfaction",
+      "count": 5,
+      "example": "Customer satisfaction also improved",
+      "t": 304.67
+    },
+    {
+      "text": "learned the importance",
+      "count": 5,
+      "example": "I learned the importance of data-driven decision making",
+      "t": 312.91
+    },
+    {
+      "text": "support team",
+      "count": 5,
+      "example": "Yes, I would involve the customer support team earlier.",
+      "t": 322.35
+    },
+    {
+      "text": "customer support team",
+      "count": 5,
+      "example": "Yes, I would involve the customer support team earlier.",
+      "t": 322.35
+    },
+    {
+      "text": "sure everyone",
+      "count": 5,
+      "example": "I also made sure everyone understood their responsibilities.",
+      "t": 398.03
+    },
+    {
+      "text": "one project",
+      "count": 5,
+      "example": "One project I'd like to highlight",
+      "t": 522.89
+    },
+    {
+      "text": "keep practicing",
+      "count": 5,
+      "example": "succeed in your next interview. Keep practicing, keep improving, and keep speaking English.",
+      "t": 615.33
+    },
+    {
+      "text": "goodbye everyone",
+      "count": 5,
+      "example": "See you in the next episode. Goodbye, everyone. Bye.",
+      "t": 621.09
+    },
+    {
+      "text": "challenges and results",
+      "count": 5,
+      "example": "role, actions, challenges, and results naturally in English.",
+      "t": 686.21
+    },
+    {
+      "text": "design team",
+      "count": 5,
+      "example": "I acted as a bridge between the customer insights team, the design team, and the",
+      "t": 786.81
+    },
+    {
+      "text": "communication skills",
+      "count": 5,
+      "example": "That shows strong communication skills.",
+      "t": 890.47
+    },
+    {
+      "text": "clear communication",
+      "count": 5,
+      "example": "don't need advanced vocabulary, you need clear communication.",
+      "t": 1127.83
+    },
+    {
+      "text": "project started",
+      "count": 5,
+      "example": "Before the project started, our company used several different tools to track",
+      "t": 1289.33
+    },
+    {
+      "text": "business english",
+      "count": 4,
+      "example": "Hello and welcome back to Business English Podcast. Hi everyone. Welcome to today's English Conversation Practice. I'm Daniel.",
+      "t": 14.05
+    },
+    {
+      "text": "happy you're",
+      "count": 4,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations.",
+      "t": 22.05
+    },
+    {
+      "text": "english naturally",
+      "count": 4,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations.",
+      "t": 22.05
+    },
+    {
+      "text": "we're really happy",
+      "count": 4,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations.",
+      "t": 22.05
+    },
+    {
+      "text": "you're here learning",
+      "count": 4,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations.",
+      "t": 22.05
+    },
+    {
+      "text": "learning with us",
+      "count": 4,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations.",
+      "t": 22.05
+    },
+    {
+      "text": "speak english naturally",
+      "count": 4,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations.",
+      "t": 22.05
+    },
+    {
+      "text": "naturally and confidently",
+      "count": 4,
+      "example": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations.",
+      "t": 22.05
+    },
+    {
+      "text": "today's topic",
+      "count": 4,
+      "example": "Yes, today's topic is how to explain a project you worked on in 30 minutes at an interview.",
+      "t": 43.13
+    },
+    {
+      "text": "common interview",
+      "count": 4,
+      "example": "This is a very common interview question.",
+      "t": 49.33
+    },
+    {
+      "text": "feel nervous",
+      "count": 4,
+      "example": "And many people feel nervous when they hear that question, because they don't know",
+      "t": 56.01
+    },
+    {
+      "text": "project step",
+      "count": 4,
+      "example": "how to explain your project step by step.",
+      "t": 74.17
+    },
+    {
+      "text": "sounds interesting",
+      "count": 4,
+      "example": "That sounds interesting.",
+      "t": 106.53
+    },
+    {
+      "text": "user behavior",
+      "count": 4,
+      "example": "First, we collected data on user behavior, including page visits, bounce rates, and customer",
+      "t": 179.37
+    },
+    {
+      "text": "makes sense",
+      "count": 4,
+      "example": "That makes sense.",
+      "t": 234.25
+    },
+    {
+      "text": "aligning different",
+      "count": 4,
+      "example": "One of the main challenges was aligning different teams.",
+      "t": 239.27
+    },
+    {
+      "text": "happened next",
+      "count": 4,
+      "example": "What happened next?",
+      "t": 258.63
+    },
+    {
+      "text": "final results",
+      "count": 4,
+      "example": "And what were the final results of the project?",
+      "t": 294.71
+    },
+    {
+      "text": "helped us",
+      "count": 4,
+      "example": "that could have helped us identify issues faster.",
+      "t": 327.87
+    },
+    {
+      "text": "interviewers want",
+      "count": 4,
+      "example": "This is exactly what interviewers want to hear.",
+      "t": 360.75
+    },
+    {
+      "text": "everyone understood",
+      "count": 4,
+      "example": "I also made sure everyone understood their responsibilities.",
+      "t": 398.03
+    },
+    {
+      "text": "sure everyone understood",
+      "count": 4,
+      "example": "I also made sure everyone understood their responsibilities.",
+      "t": 398.03
+    },
+    {
+      "text": "that's a great",
+      "count": 4,
+      "example": "That's a great, concise answer.",
+      "t": 436.83
+    },
+    {
+      "text": "that's a good",
+      "count": 4,
+      "example": "That's a good decision-making process.",
+      "t": 479.31
+    },
+    {
+      "text": "one final",
+      "count": 4,
+      "example": "Let's continue with one final extended example.",
+      "t": 512.89
+    },
+    {
+      "text": "describe a project",
+      "count": 4,
+      "example": "Can you describe a project you worked on?",
+      "t": 598.85
+    },
+    {
+      "text": "real interview",
+      "count": 4,
+      "example": "just like a real interview.",
+      "t": 682.05
+    },
+    {
+      "text": "role was project",
+      "count": 4,
+      "example": "My role was project analyst and coordinator.",
+      "t": 768.67
+    },
+    {
+      "text": "technical team",
+      "count": 4,
+      "example": "technical team.",
+      "t": 791.73
+    },
+    {
+      "text": "development team",
+      "count": 4,
+      "example": "I organized weekly meetings with the UX design team and the development team to ensure",
+      "t": 850.47
+    },
+    {
+      "text": "one major",
+      "count": 4,
+      "example": "One major challenge was that different teams had different opinions.",
+      "t": 866.27
+    },
+    {
+      "text": "major challenge",
+      "count": 4,
+      "example": "One major challenge was that different teams had different opinions.",
+      "t": 866.27
+    },
+    {
+      "text": "hello everyone",
+      "count": 4,
+      "example": "Hello, everyone.",
+      "t": 1169.23
+    },
+    {
+      "text": "technical challenges",
+      "count": 4,
+      "example": "We identified problems, designed a solution, overcame technical challenges, and delivered",
+      "t": 1688.51
+    },
+    {
+      "text": "english podcast",
+      "count": 3,
+      "example": "Hello and welcome back to Business English Podcast. Hi everyone. Welcome to today's English Conversation Practice. I'm Daniel.",
+      "t": 14.05
+    },
+    {
+      "text": "hi everyone",
+      "count": 3,
+      "example": "Hello and welcome back to Business English Podcast. Hi everyone. Welcome to today's English Conversation Practice. I'm Daniel.",
+      "t": 14.05
+    },
+    {
+      "text": "everyone welcome",
+      "count": 3,
+      "example": "Hello and welcome back to Business English Podcast. Hi everyone. Welcome to today's English Conversation Practice. I'm Daniel.",
+      "t": 14.05
+    }
+  ],
+  "sentences": [
+    {
+      "t": 7.02,
+      "text": "Listen. Practice. Speak. Practice makes you perfect."
+    },
+    {
+      "t": 14.05,
+      "text": "Hello and welcome back to Business English Podcast. Hi everyone. Welcome to today's English Conversation Practice. I'm Daniel."
+    },
+    {
+      "t": 22.05,
+      "text": "And I'm Sophia. And we're really happy you're here learning with us today. On this channel, we help you speak English naturally and confidently through real conversations, practical examples, and everyday workplace situations."
+    },
+    {
+      "t": 36.05,
+      "text": "That's right, and today we have a very important and practical topic, especially for anyone"
+    },
+    {
+      "t": 41.33,
+      "text": "preparing for a job interview."
+    },
+    {
+      "t": 43.13,
+      "text": "Yes, today's topic is how to explain a project you worked on in 30 minutes at an interview."
+    },
+    {
+      "t": 49.33,
+      "text": "This is a very common interview question."
+    },
+    {
+      "t": 52.25,
+      "text": "Employers often ask, can you tell me about a project you worked on?"
+    },
+    {
+      "t": 56.01,
+      "text": "And many people feel nervous when they hear that question, because they don't know"
+    },
+    {
+      "t": 59.53,
+      "text": "how to organize their answer."
+    },
+    {
+      "t": 61.77,
+      "text": "Exactly."
+    },
+    {
+      "t": 62.77,
+      "text": "have great experience, but if you cannot explain it clearly, the interviewer may not understand"
+    },
+    {
+      "t": 67.73,
+      "text": "your value."
+    },
+    {
+      "t": 68.73,
+      "text": "So today, we're going to have a long, detailed conversation to help you understand exactly"
+    },
+    {
+      "t": 74.17,
+      "text": "how to explain your project step by step."
+    },
+    {
+      "t": 77.25,
+      "text": "We'll walk through a realistic interview-style conversation, and we'll also break down the"
+    },
+    {
+      "t": 81.89,
+      "text": "thinking behind each answer."
+    },
+    {
+      "t": 83.89,
+      "text": "So let's begin."
+    },
+    {
+      "t": 85.57,
+      "text": "Imagine this situation."
+    },
+    {
+      "t": 86.93,
+      "text": "Daniel is in a job interview, and I am the interviewer."
+    },
+    {
+      "t": 90.65,
+      "text": "Sounds good."
+    },
+    {
+      "t": 91.65,
+      "text": "Let's start."
+    },
+    {
+      "t": 92.65,
+      "text": "Daniel, can you tell me about a project you worked on recently?"
+    },
+    {
+      "t": 96.33,
+      "text": "Yes, of course."
+    },
+    {
+      "t": 97.33,
+      "text": "Thank you for the question."
+    },
+    {
+      "t": 98.33,
+      "text": "I'd like to talk about a project I worked on at my previous company, where we focused"
+    },
+    {
+      "t": 103.01,
+      "text": "on improving the company's online sales performance."
+    },
+    {
+      "t": 106.53,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 107.73,
+      "text": "Can you give me a bit more background about the project?"
+    },
+    {
+      "t": 110.93,
+      "text": "Sure."
+    },
+    {
+      "t": 111.93,
+      "text": "At that time, our company had an e-commerce platform, but we noticed that sales growth"
+    },
+    {
+      "t": 116.73,
+      "text": "had slowed down significantly over the past year."
+    },
+    {
+      "t": 120.29,
+      "text": "Customer engagement was also decreasing and our conversion rate was lower than industry"
+    },
+    {
+      "t": 124.89,
+      "text": "benchmarks."
+    },
+    {
+      "t": 125.89,
+      "text": "I see."
+    },
+    {
+      "t": 126.89,
+      "text": "So there was a clear problem to solve."
+    },
+    {
+      "t": 129.13,
+      "text": "Exactly."
+    },
+    {
+      "t": 130.13,
+      "text": "The management team wanted to understand the reasons behind the decline and find ways"
+    },
+    {
+      "t": 134.81,
+      "text": "to improve performance."
+    },
+    {
+      "t": 136.49,
+      "text": "And what was the main goal of the project?"
+    },
+    {
+      "t": 138.97,
+      "text": "The main goal was to increase the conversion rate by at least 20% within three months"
+    },
+    {
+      "t": 144.33,
+      "text": "and improve overall customer engagement on the platform."
+    },
+    {
+      "t": 148.09,
+      "text": "That's a very clear and measurable goal."
+    },
+    {
+      "t": 150.61,
+      "text": "What was your role in this project?"
+    },
+    {
+      "t": 152.51,
+      "text": "I was working as a project lead, so I was responsible for coordinating the team, analyzing"
+    },
+    {
+      "t": 158.29,
+      "text": "data, and ensuring that we stayed on track with our timeline."
+    },
+    {
+      "t": 162.21,
+      "text": "What kind of team were you working with?"
+    },
+    {
+      "t": 164.33,
+      "text": "It was a cross-functional team."
+    },
+    {
+      "t": 166.31,
+      "text": "We had members from marketing, IT, data analysis, and customer experience departments."
+    },
+    {
+      "t": 172.47,
+      "text": "That sounds like a complex setup."
+    },
+    {
+      "t": 174.65,
+      "text": "How did you begin the project?"
+    },
+    {
+      "t": 176.41,
+      "text": "We started with a research and analysis phase."
+    },
+    {
+      "t": 179.37,
+      "text": "First, we collected data on user behavior, including page visits, bounce rates, and customer"
+    },
+    {
+      "t": 185.27,
+      "text": "feedback."
+    },
+    {
+      "t": 186.43,
+      "text": "What did you learn from that data?"
+    },
+    {
+      "t": 188.09,
+      "text": "We discovered that many users were leaving the website during the checkout process."
+    },
+    {
+      "t": 192.81,
+      "text": "There were also complaints about slow loading times and a complicated user interface."
+    },
+    {
+      "t": 198.21,
+      "text": "So usability was a key issue?"
+    },
+    {
+      "t": 200.65,
+      "text": "Yes, exactly."
+    },
+    {
+      "t": 202.33,
+      "text": "We realized that the user experience needed significant improvement."
+    },
+    {
+      "t": 206.71,
+      "text": "What did you do after identifying the problem?"
+    },
+    {
+      "t": 209.33,
+      "text": "We moved into the solution design phase."
+    },
+    {
+      "t": 212.13,
+      "text": "We brainstormed several ideas, including simplifying the checkout process, improving"
+    },
+    {
+      "t": 217.29,
+      "text": "website speed, and redesigning the user interface."
+    },
+    {
+      "t": 221.07,
+      "text": "How did you decide which solutions to implement?"
+    },
+    {
+      "t": 223.87,
+      "text": "We prioritized solutions based on impact and feasibility."
+    },
+    {
+      "t": 228.03,
+      "text": "For example, improving the checkout process was a high priority because it directly affected"
+    },
+    {
+      "t": 233.25,
+      "text": "conversions."
+    },
+    {
+      "t": 234.25,
+      "text": "That makes sense."
+    },
+    {
+      "t": 235.55,
+      "text": "Did you face any challenges during this phase?"
+    },
+    {
+      "t": 238.27,
+      "text": "Yes."
+    },
+    {
+      "t": 239.27,
+      "text": "One of the main challenges was aligning different teams."
+    },
+    {
+      "t": 242.51,
+      "text": "Each department had its own priorities, and sometimes there were disagreements."
+    },
+    {
+      "t": 246.79,
+      "text": "How did you handle that?"
+    },
+    {
+      "t": 248.03,
+      "text": "I organized regular meetings where everyone could share their perspectives."
+    },
+    {
+      "t": 252.31,
+      "text": "We focused on the overall goal rather than individual preferences."
+    },
+    {
+      "t": 256.55,
+      "text": "That sounds like strong leadership."
+    },
+    {
+      "t": 258.63,
+      "text": "What happened next?"
+    },
+    {
+      "t": 260.07,
+      "text": "After finalizing the plan, the IT team began implementing the technical changes, while the"
+    },
+    {
+      "t": 264.99,
+      "text": "marketing team prepared new campaigns."
+    },
+    {
+      "t": 267.71,
+      "text": "Did you test the changes before launching?"
+    },
+    {
+      "t": 270.07,
+      "text": "Yes, we conducted A-B testing."
+    },
+    {
+      "t": 272.77,
+      "text": "We tested the new design with a group of users while keeping the old version for comparison."
+    },
+    {
+      "t": 277.99,
+      "text": "What were the results of the testing?"
+    },
+    {
+      "t": 279.79,
+      "text": "The new version showed a significant improvement."
+    },
+    {
+      "t": 282.59,
+      "text": "The checkout completion rate increased by about 25%."
+    },
+    {
+      "t": 286.43,
+      "text": "That's impressive."
+    },
+    {
+      "t": 287.71,
+      "text": "Did you then implement it fully?"
+    },
+    {
+      "t": 289.71,
+      "text": "Yes."
+    },
+    {
+      "t": 290.43,
+      "text": "After successful testing, we rolled out the changes"
+    },
+    {
+      "t": 293.35,
+      "text": "to all users."
+    },
+    {
+      "t": 294.71,
+      "text": "And what were the final results of the project?"
+    },
+    {
+      "t": 297.43,
+      "text": "The final results were very positive."
+    },
+    {
+      "t": 299.87,
+      "text": "We exceeded our target and increased the conversion rate"
+    },
+    {
+      "t": 302.91,
+      "text": "by 28%."
+    },
+    {
+      "t": 304.67,
+      "text": "Customer satisfaction also improved"
+    },
+    {
+      "t": 306.91,
+      "text": "based on feedback surveys."
+    },
+    {
+      "t": 308.75,
+      "text": "That's excellent."
+    },
+    {
+      "t": 310.11,
+      "text": "What did you personally learn from this project?"
+    },
+    {
+      "t": 312.91,
+      "text": "I learned the importance of data-driven decision making"
+    },
+    {
+      "t": 315.87,
+      "text": "and effective communication across teams."
+    },
+    {
+      "t": 318.55,
+      "text": "If you had to do the project again,"
+    },
+    {
+      "t": 320.55,
+      "text": "would you do anything differently?"
+    },
+    {
+      "t": 322.35,
+      "text": "Yes, I would involve the customer support team earlier."
+    },
+    {
+      "t": 326.33,
+      "text": "They had valuable insights"
+    },
+    {
+      "t": 327.87,
+      "text": "that could have helped us identify issues faster."
+    },
+    {
+      "t": 330.59,
+      "text": "That's a very thoughtful reflection."
+    },
+    {
+      "t": 332.91,
+      "text": "Thank you."
+    },
+    {
+      "t": 333.75,
+      "text": "Now let's pause for a moment"
+    },
+    {
+      "t": 335.35,
+      "text": "and explain why this answer is strong."
+    },
+    {
+      "t": 338.07,
+      "text": "Yes, that's important."
+    },
+    {
+      "t": 339.71,
+      "text": "Notice how the answer followed a clear structure."
+    },
+    {
+      "t": 342.63,
+      "text": "First, Daniel introduced the project clearly."
+    },
+    {
+      "t": 345.71,
+      "text": "Then he explained the problem and the goal."
+    },
+    {
+      "t": 348.31,
+      "text": "After that, he described his role and the team."
+    },
+    {
+      "t": 351.31,
+      "text": "Then he talked about the process step by step."
+    },
+    {
+      "t": 354.39,
+      "text": "He also included challenges and how he solved them."
+    },
+    {
+      "t": 357.75,
+      "text": "And finally, he shared measurable results."
+    },
+    {
+      "t": 360.75,
+      "text": "This is exactly what interviewers want to hear."
+    },
+    {
+      "t": 363.63,
+      "text": "Let's continue with more interview-style questions."
+    },
+    {
+      "t": 366.63,
+      "text": "Daniel, how did you manage your time during this project?"
+    },
+    {
+      "t": 370.19,
+      "text": "I created a detailed project timeline"
+    },
+    {
+      "t": 372.67,
+      "text": "with clear milestones."
+    },
+    {
+      "t": 374.35,
+      "text": "We used weekly check-ins to track progress"
+    },
+    {
+      "t": 376.91,
+      "text": "and adjust plans if necessary."
+    },
+    {
+      "t": 378.87,
+      "text": "Did you ever face delays?"
+    },
+    {
+      "t": 380.67,
+      "text": "Yes, there was a delay during the development phase"
+    },
+    {
+      "t": 383.67,
+      "text": "due to technical issues."
+    },
+    {
+      "t": 385.23,
+      "text": "However, we adjusted our schedule"
+    },
+    {
+      "t": 387.19,
+      "text": "and focused on critical tasks."
+    },
+    {
+      "t": 389.19,
+      "text": "That shows flexibility."
+    },
+    {
+      "t": 390.83,
+      "text": "How did you ensure good communication in the team?"
+    },
+    {
+      "t": 393.83,
+      "text": "I used regular meetings, shared documents"
+    },
+    {
+      "t": 396.51,
+      "text": "and clear reporting."
+    },
+    {
+      "t": 398.03,
+      "text": "I also made sure everyone understood their responsibilities."
+    },
+    {
+      "t": 401.51,
+      "text": "That's very important in teamwork."
+    },
+    {
+      "t": 403.79,
+      "text": "Yes, communication can make or break a project."
+    },
+    {
+      "t": 407.15,
+      "text": "Now let's make this even more practical for our listeners."
+    },
+    {
+      "t": 410.79,
+      "text": "Good idea."
+    },
+    {
+      "t": 411.71,
+      "text": "Let's simulate a shorter, more direct interview answer."
+    },
+    {
+      "t": 415.01,
+      "text": "Daniel, can you briefly explain a project you worked on?"
+    },
+    {
+      "t": 418.51,
+      "text": "Sure."
+    },
+    {
+      "t": 419.47,
+      "text": "I worked on a project to improve our company's e-commerce"
+    },
+    {
+      "t": 422.55,
+      "text": "platform."
+    },
+    {
+      "t": 423.47,
+      "text": "My role was to lead a cross-functional team."
+    },
+    {
+      "t": 426.39,
+      "text": "We analyzed customer data, identified issues"
+    },
+    {
+      "t": 429.55,
+      "text": "in the checkout process, and implemented improvements."
+    },
+    {
+      "t": 432.79,
+      "text": "As a result, we increased our conversion rate by 28%."
+    },
+    {
+      "t": 436.83,
+      "text": "That's a great, concise answer."
+    },
+    {
+      "t": 438.95,
+      "text": "Yes, and this is useful when time is limited."
+    },
+    {
+      "t": 441.71,
+      "text": "Now, let's expand again and go deeper into storytelling."
+    },
+    {
+      "t": 445.79,
+      "text": "Because in a 30-minute interview,"
+    },
+    {
+      "t": 447.47,
+      "text": "you may need to explain more details."
+    },
+    {
+      "t": 449.75,
+      "text": "Exactly."
+    },
+    {
+      "t": 450.71,
+      "text": "Let's continue the conversation."
+    },
+    {
+      "t": 452.63,
+      "text": "Daniel, can you walk me through a difficult moment"
+    },
+    {
+      "t": 455.59,
+      "text": "in the project?"
+    },
+    {
+      "t": 456.63,
+      "text": "Yes."
+    },
+    {
+      "t": 457.47,
+      "text": "One difficult moment was when the IT team reported"
+    },
+    {
+      "t": 460.51,
+      "text": "that the new design might affect system stability."
+    },
+    {
+      "t": 463.51,
+      "text": "That sounds serious."
+    },
+    {
+      "t": 465.11,
+      "text": "It was."
+    },
+    {
+      "t": 466.15,
+      "text": "We had to decide whether to delay the launch"
+    },
+    {
+      "t": 468.47,
+      "text": "or simplify the changes."
+    },
+    {
+      "t": 470.19,
+      "text": "What did you do?"
+    },
+    {
+      "t": 471.27,
+      "text": "I organized a meeting with all stakeholders"
+    },
+    {
+      "t": 473.71,
+      "text": "and evaluated the risks."
+    },
+    {
+      "t": 475.51,
+      "text": "We decided to simplify certain features to ensure stability."
+    },
+    {
+      "t": 479.31,
+      "text": "That's a good decision-making process."
+    },
+    {
+      "t": 481.51,
+      "text": "Thank you."
+    },
+    {
+      "t": 482.39,
+      "text": "It taught me how to balance innovation with practicality."
+    },
+    {
+      "t": 485.75,
+      "text": "That's a valuable skill."
+    },
+    {
+      "t": 487.39,
+      "text": "Yes, especially in real business situations."
+    },
+    {
+      "t": 490.49,
+      "text": "Now let's talk about confidence."
+    },
+    {
+      "t": 492.93,
+      "text": "Many learners feel nervous when explaining projects."
+    },
+    {
+      "t": 496.17,
+      "text": "That's true."
+    },
+    {
+      "t": 497.25,
+      "text": "What advice would you give?"
+    },
+    {
+      "t": 499.05,
+      "text": "I would say focus on clarity, not perfection."
+    },
+    {
+      "t": 502.49,
+      "text": "Speak slowly and organize your thoughts."
+    },
+    {
+      "t": 505.05,
+      "text": "That's excellent advice."
+    },
+    {
+      "t": 506.71,
+      "text": "Also, practice telling your project like a story."
+    },
+    {
+      "t": 509.89,
+      "text": "Beginning, middle, and end."
+    },
+    {
+      "t": 511.85,
+      "text": "Exactly."
+    },
+    {
+      "t": 512.89,
+      "text": "Let's continue with one final extended example."
+    },
+    {
+      "t": 516.29,
+      "text": "Daniel, imagine this is your final answer in an interview."
+    },
+    {
+      "t": 519.61,
+      "text": "Please give a complete explanation."
+    },
+    {
+      "t": 521.93,
+      "text": "Sure."
+    },
+    {
+      "t": 522.89,
+      "text": "One project I'd like to highlight"
+    },
+    {
+      "t": 524.57,
+      "text": "is when I led an initiative to improve"
+    },
+    {
+      "t": 526.65,
+      "text": "our company's online sales platform."
+    },
+    {
+      "t": 529.13,
+      "text": "At the time, we were experiencing"
+    },
+    {
+      "t": 530.85,
+      "text": "declining conversion rates and customer engagement."
+    },
+    {
+      "t": 534.09,
+      "text": "The goal of the project was to increase conversions"
+    },
+    {
+      "t": 536.85,
+      "text": "by 20% within three months."
+    },
+    {
+      "t": 539.33,
+      "text": "My role was to lead a cross-functional team"
+    },
+    {
+      "t": 542.05,
+      "text": "and coordinate efforts across departments."
+    },
+    {
+      "t": 544.61,
+      "text": "We began by analyzing customer data"
+    },
+    {
+      "t": 547.09,
+      "text": "and identifying key issues,"
+    },
+    {
+      "t": 549.13,
+      "text": "including a complicated checkout process"
+    },
+    {
+      "t": 551.61,
+      "text": "and slow website performance."
+    },
+    {
+      "t": 553.77,
+      "text": "Based on our findings,"
+    },
+    {
+      "t": 555.09,
+      "text": "we redesigned the user interface"
+    },
+    {
+      "t": 557.25,
+      "text": "and simplified the checkout steps."
+    },
+    {
+      "t": 559.45,
+      "text": "One of the biggest challenges"
+    },
+    {
+      "t": 560.89,
+      "text": "was aligning different teams,"
+    },
+    {
+      "t": 562.73,
+      "text": "but I addressed this by organizing regular meetings"
+    },
+    {
+      "t": 565.65,
+      "text": "and focusing on shared goals."
+    },
+    {
+      "t": 567.87,
+      "text": "After implementing the changes,"
+    },
+    {
+      "t": 569.57,
+      "text": "we conducted A-B testing"
+    },
+    {
+      "t": 571.37,
+      "text": "and saw significant improvements."
+    },
+    {
+      "t": 573.57,
+      "text": "In the end, we increased the conversion rate by 28%"
+    },
+    {
+      "t": 577.33,
+      "text": "and improved customer satisfaction."
+    },
+    {
+      "t": 579.73,
+      "text": "This project taught me the importance of teamwork, communication, and data-driven decisions."
+    },
+    {
+      "t": 585.49,
+      "text": "That was an excellent answer."
+    },
+    {
+      "t": 587.57,
+      "text": "Thank you."
+    },
+    {
+      "t": 588.37,
+      "text": "And that's exactly the level of detail you should aim for in a 30-minute interview."
+    },
+    {
+      "t": 593.09,
+      "text": "Yes, clear, structured, and confident."
+    },
+    {
+      "t": 596.21,
+      "text": "Before we finish, here's a question for you."
+    },
+    {
+      "t": 598.85,
+      "text": "Can you describe a project you worked on?"
+    },
+    {
+      "t": 601.33,
+      "text": "Try to include the background, your role, the challenges, and the results."
+    },
+    {
+      "t": 606.05,
+      "text": "practice speaking it out loud. The more you practice, the more confident you'll become."
+    },
+    {
+      "t": 611.17,
+      "text": "Thank you so much for listening. We hope this long conversation helps you"
+    },
+    {
+      "t": 615.33,
+      "text": "succeed in your next interview. Keep practicing, keep improving, and keep speaking English."
+    },
+    {
+      "t": 621.09,
+      "text": "See you in the next episode. Goodbye, everyone. Bye."
+    },
+    {
+      "t": 624.29,
+      "text": "Hello and welcome back to Business English Podcast."
+    },
+    {
+      "t": 627.65,
+      "text": "Hi, everyone. Welcome to today's English Conversation Practice. I'm Daniel."
+    },
+    {
+      "t": 632.61,
+      "text": "And I'm Sophia, and we're really happy you're here learning with us today."
+    },
+    {
+      "t": 637.17,
+      "text": "On this channel, we help you speak English naturally and confidently through real conversations,"
+    },
+    {
+      "t": 643.17,
+      "text": "practical examples, and everyday workplace situations."
+    },
+    {
+      "t": 647.17,
+      "text": "Yes, and today's topic is extremely important for anyone preparing for job interviews or"
+    },
+    {
+      "t": 652.93,
+      "text": "professional communication. We are going to talk about how to explain a project you worked on"
+    },
+    {
+      "t": 658.77,
+      "text": "in 30 minutes during an interview."
+    },
+    {
+      "t": 661.09,
+      "text": "This is a very common interview situation."
+    },
+    {
+      "t": 663.89,
+      "text": "Many candidates struggle because they either speak too generally"
+    },
+    {
+      "t": 668.05,
+      "text": "or they go into too much detail without structure."
+    },
+    {
+      "t": 671.25,
+      "text": "So today, we will show you exactly how to organize your answer"
+    },
+    {
+      "t": 675.09,
+      "text": "in a clear, confident and professional way."
+    },
+    {
+      "t": 678.45,
+      "text": "We will also give you a realistic, long-form conversation"
+    },
+    {
+      "t": 682.05,
+      "text": "just like a real interview."
+    },
+    {
+      "t": 683.81,
+      "text": "You will hear how to explain background,"
+    },
+    {
+      "t": 686.21,
+      "text": "role, actions, challenges, and results naturally in English."
+    },
+    {
+      "t": 691.73,
+      "text": "And you can reuse these expressions in your own interviews, meetings, or presentations."
+    },
+    {
+      "t": 696.85,
+      "text": "So let's begin."
+    },
+    {
+      "t": 698.25,
+      "text": "So Sophia, let me ask you a common interview question."
+    },
+    {
+      "t": 702.17,
+      "text": "Can you tell me about a project you worked on recently?"
+    },
+    {
+      "t": 704.69,
+      "text": "Yes, of course."
+    },
+    {
+      "t": 706.49,
+      "text": "One project I worked on recently was related to improving the customer onboarding process"
+    },
+    {
+      "t": 711.53,
+      "text": "in our company."
+    },
+    {
+      "t": 712.93,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 714.29,
+      "text": "Can you start by giving me a simple overview of the project?"
+    },
+    {
+      "t": 717.37,
+      "text": "Sure."
+    },
+    {
+      "t": 718.37,
+      "text": "The main goal of the project was to make the onboarding process faster, smoother, and easier"
+    },
+    {
+      "t": 724.09,
+      "text": "for new customers, so that they could start using our service without confusion or delays."
+    },
+    {
+      "t": 729.93,
+      "text": "That's a very clear summary."
+    },
+    {
+      "t": 731.29,
+      "text": "I like that you started with the goal first."
+    },
+    {
+      "t": 734.09,
+      "text": "Now, let's go a bit deeper."
+    },
+    {
+      "t": 736.37,
+      "text": "What was the background or problem that led to this project?"
+    },
+    {
+      "t": 739.81,
+      "text": "The background was that we noticed many new customers were dropping off during the onboarding"
+    },
+    {
+      "t": 744.77,
+      "text": "stage."
+    },
+    {
+      "t": 745.77,
+      "text": "They were getting confused with the setup process and sometimes abandoning the platform before"
+    },
+    {
+      "t": 750.93,
+      "text": "completing registration."
+    },
+    {
+      "t": 752.85,
+      "text": "So there was a clear problem with user experience."
+    },
+    {
+      "t": 755.89,
+      "text": "Exactly."
+    },
+    {
+      "t": 757.17,
+      "text": "Customer support tickets were increasing and feedback showed that people found the onboarding"
+    },
+    {
+      "t": 761.61,
+      "text": "steps too complicated and time-consuming."
+    },
+    {
+      "t": 764.85,
+      "text": "That makes sense."
+    },
+    {
+      "t": 766.01,
+      "text": "So what was your role in this project?"
+    },
+    {
+      "t": 768.67,
+      "text": "My role was project analyst and coordinator."
+    },
+    {
+      "t": 771.59,
+      "text": "I was responsible for collecting customer feedback, analyzing the onboarding flow, and working"
+    },
+    {
+      "t": 777.39,
+      "text": "with the product and design teams to suggest improvements."
+    },
+    {
+      "t": 781.05,
+      "text": "That sounds like a very important role."
+    },
+    {
+      "t": 783.29,
+      "text": "So you were connecting different teams."
+    },
+    {
+      "t": 785.47,
+      "text": "Yes, exactly."
+    },
+    {
+      "t": 786.81,
+      "text": "I acted as a bridge between the customer insights team, the design team, and the"
+    },
+    {
+      "t": 791.73,
+      "text": "technical team."
+    },
+    {
+      "t": 793.07,
+      "text": "My job was to make sure everyone understood the customer problems clearly."
+    },
+    {
+      "t": 797.39,
+      "text": "Great."
+    },
+    {
+      "t": 798.39,
+      "text": "Now let's talk about what you actually did, step by step."
+    },
+    {
+      "t": 801.99,
+      "text": "What was your first action?"
+    },
+    {
+      "t": 803.59,
+      "text": "The first step was research."
+    },
+    {
+      "t": 805.55,
+      "text": "I collected data from customer surveys, support tickets, and user behavior tracking tools."
+    },
+    {
+      "t": 811.59,
+      "text": "I wanted to understand exactly where users were getting stuck."
+    },
+    {
+      "t": 815.99,
+      "text": "And what did you discover from that research?"
+    },
+    {
+      "t": 818.47,
+      "text": "We discovered that most users were dropping off at the third step of the onboarding"
+    },
+    {
+      "t": 822.95,
+      "text": "process, which required too much information at once."
+    },
+    {
+      "t": 826.87,
+      "text": "It was overwhelming for new users."
+    },
+    {
+      "t": 829.43,
+      "text": "That's a very important insight."
+    },
+    {
+      "t": 831.71,
+      "text": "What did you do after identifying that issue?"
+    },
+    {
+      "t": 834.63,
+      "text": "After that, we mapped the entire onboarding journey and broke it into smaller, simpler"
+    },
+    {
+      "t": 839.75,
+      "text": "steps."
+    },
+    {
+      "t": 840.75,
+      "text": "We redesigned the flow to make it more user-friendly and less time-consuming."
+    },
+    {
+      "t": 845.55,
+      "text": "Did you work closely with designers and developers at that stage?"
+    },
+    {
+      "t": 848.91,
+      "text": "Yes, very closely."
+    },
+    {
+      "t": 850.47,
+      "text": "I organized weekly meetings with the UX design team and the development team to ensure"
+    },
+    {
+      "t": 855.51,
+      "text": "the changes were technically possible and aligned with user needs."
+    },
+    {
+      "t": 860.07,
+      "text": "That sounds like strong collaboration."
+    },
+    {
+      "t": 862.47,
+      "text": "Were there any challenges during the project?"
+    },
+    {
+      "t": 864.63,
+      "text": "Yes, definitely."
+    },
+    {
+      "t": 866.27,
+      "text": "One major challenge was that different teams had different opinions."
+    },
+    {
+      "t": 869.87,
+      "text": "The design team wanted simplicity, but the technical team was concerned about system"
+    },
+    {
+      "t": 874.23,
+      "text": "limitations."
+    },
+    {
+      "t": 875.23,
+      "text": "That's a very common workplace challenge."
+    },
+    {
+      "t": 877.87,
+      "text": "How did you handle it?"
+    },
+    {
+      "t": 879.11,
+      "text": "I organized alignment meetings, where each team explained their concerns."
+    },
+    {
+      "t": 883.67,
+      "text": "Then we focused on finding a balanced solution that worked for both usability and technical"
+    },
+    {
+      "t": 889.23,
+      "text": "feasibility."
+    },
+    {
+      "t": 890.47,
+      "text": "That shows strong communication skills."
+    },
+    {
+      "t": 892.99,
+      "text": "Did anything else go wrong?"
+    },
+    {
+      "t": 894.75,
+      "text": "Yes, another challenge was time pressure."
+    },
+    {
+      "t": 897.67,
+      "text": "We had a tight deadline because the company wanted to launch the new onboarding system"
+    },
+    {
+      "t": 901.87,
+      "text": "before a new marketing campaign."
+    },
+    {
+      "t": 904.35,
+      "text": "So how did you manage that pressure?"
+    },
+    {
+      "t": 906.67,
+      "text": "We prioritized the most critical changes first."
+    },
+    {
+      "t": 910.27,
+      "text": "Instead of redesigning everything, we focused on fixing the biggest drop-off points in the"
+    },
+    {
+      "t": 915.13,
+      "text": "process."
+    },
+    {
+      "t": 916.13,
+      "text": "Very smart approach."
+    },
+    {
+      "t": 917.67,
+      "text": "Now let's move to the implementation phase."
+    },
+    {
+      "t": 920.41,
+      "text": "What happened next?"
+    },
+    {
+      "t": 921.93,
+      "text": "After finalizing the design, the development team started building the new onboarding"
+    },
+    {
+      "t": 926.13,
+      "text": "flow."
+    },
+    {
+      "t": 927.13,
+      "text": "I helped coordinate testing sessions and collected feedback from real users."
+    },
+    {
+      "t": 931.89,
+      "text": "Did you do any testing before full launch?"
+    },
+    {
+      "t": 934.53,
+      "text": "Yes, we ran a pilot test with a small group of new users."
+    },
+    {
+      "t": 938.81,
+      "text": "This helped us identify small usability issues before rolling it out to everyone."
+    },
+    {
+      "t": 943.85,
+      "text": "That's a great example of continuous improvement."
+    },
+    {
+      "t": 946.77,
+      "text": "After that, did you launch it company-wide?"
+    },
+    {
+      "t": 949.13,
+      "text": "Yes."
+    },
+    {
+      "t": 950.13,
+      "text": "After making final adjustments, we launched the new onboarding system globally."
+    },
+    {
+      "t": 954.81,
+      "text": "And what were the results?"
+    },
+    {
+      "t": 956.21,
+      "text": "The results were very positive."
+    },
+    {
+      "t": 958.23,
+      "text": "The onboarding completion rate increased by 35 percent, and customer support tickets"
+    },
+    {
+      "t": 963.29,
+      "text": "related to onboarding decreased significantly."
+    },
+    {
+      "t": 966.61,
+      "text": "That's a strong improvement."
+    },
+    {
+      "t": 968.29,
+      "text": "Did you receive any feedback from customers?"
+    },
+    {
+      "t": 970.53,
+      "text": "Yes, customers said the new process felt faster, clearer, and much easier to follow."
+    },
+    {
+      "t": 976.69,
+      "text": "Many new users completed registration within minutes instead of abandoning it halfway."
+    },
+    {
+      "t": 981.49,
+      "text": "That's excellent."
+    },
+    {
+      "t": 983.09,
+      "text": "Now let's talk about your personal learning."
+    },
+    {
+      "t": 985.81,
+      "text": "What did you learn from this project?"
+    },
+    {
+      "t": 987.65,
+      "text": "I learned the importance of understanding user behavior deeply before making changes."
+    },
+    {
+      "t": 992.85,
+      "text": "I also learned how important communication is between different departments."
+    },
+    {
+      "t": 997.41,
+      "text": "very valuable. Did this project change your skills in any way?"
+    },
+    {
+      "t": 1001.41,
+      "text": "Yes, I improved my data analysis skills, my communication skills, and my ability to manage cross-functional teams."
+    },
+    {
+      "t": 1009.41,
+      "text": "Great! Now let's imagine you are in a real interview and the interviewer asks you to summarize the project in one minute. How would you answer?"
+    },
+    {
+      "t": 1017.41,
+      "text": "I would say I worked on improving the customer onboarding process."
+    },
+    {
+      "t": 1022.41,
+      "text": "My role was to analyze user behavior and coordinate improvements with design and development teams."
+    },
+    {
+      "t": 1028.91,
+      "text": "We identified major drop-off points and simplified the onboarding flow."
+    },
+    {
+      "t": 1033.41,
+      "text": "After implementation, completion rates increased by 35% and customer satisfaction improved significantly."
+    },
+    {
+      "t": 1041.41,
+      "text": "That's a perfect summary, very clear and professional."
+    },
+    {
+      "t": 1044.91,
+      "text": "Thank you. In interviews, clarity is more important than complexity."
+    },
+    {
+      "t": 1049.31,
+      "text": "Now let's talk about another example to help learners understand different project types."
+    },
+    {
+      "t": 1054.41,
+      "text": "Good idea. Another project I worked on was improving internal communication within a company."
+    },
+    {
+      "t": 1060.31,
+      "text": "What was the problem in that project?"
+    },
+    {
+      "t": 1062.41,
+      "text": "The problem was that employees were using different communication tools,"
+    },
+    {
+      "t": 1066.41,
+      "text": "which caused confusion and delayed responses."
+    },
+    {
+      "t": 1069.31,
+      "text": "What was your role?"
+    },
+    {
+      "t": 1070.71,
+      "text": "I was responsible for analyzing communication gaps and proposing a centralized communication platform."
+    },
+    {
+      "t": 1077.11,
+      "text": "What actions did you take?"
+    },
+    {
+      "t": 1078.71,
+      "text": "I interviewed employees, studied communication patterns, and worked with IT to evaluate different tools."
+    },
+    {
+      "t": 1085.51,
+      "text": "Any challenges?"
+    },
+    {
+      "t": 1086.71,
+      "text": "Yes, resistance to change. Some employees preferred old systems and were hesitant to switch."
+    },
+    {
+      "t": 1092.91,
+      "text": "How did you solve that?"
+    },
+    {
+      "t": 1094.41,
+      "text": "We organized training sessions and showed the benefits clearly."
+    },
+    {
+      "t": 1098.21,
+      "text": "Gradually, employees adapted to the new system."
+    },
+    {
+      "t": 1101.71,
+      "text": "And results?"
+    },
+    {
+      "t": 1102.71,
+      "text": "Communication became faster and more organized, and internal response time improved by around"
+    },
+    {
+      "t": 1108.27,
+      "text": "40%."
+    },
+    {
+      "t": 1109.27,
+      "text": "Excellent."
+    },
+    {
+      "t": 1110.27,
+      "text": "That's another strong example."
+    },
+    {
+      "t": 1112.07,
+      "text": "Now let's give learners a final tip."
+    },
+    {
+      "t": 1114.63,
+      "text": "When explaining a project in an interview, always remember this structure."
+    },
+    {
+      "t": 1119.03,
+      "text": "Background, goal, role, actions, challenges, and results."
+    },
+    {
+      "t": 1124.55,
+      "text": "Yes."
+    },
+    {
+      "t": 1125.55,
+      "text": "And don't forget to use simple English."
+    },
+    {
+      "t": 1127.83,
+      "text": "don't need advanced vocabulary, you need clear communication."
+    },
+    {
+      "t": 1132.15,
+      "text": "Also always include real examples."
+    },
+    {
+      "t": 1135.33,
+      "text": "Interviewers love specific details like numbers, improvements, and outcomes."
+    },
+    {
+      "t": 1140.21,
+      "text": "And most importantly, stay calm."
+    },
+    {
+      "t": 1142.65,
+      "text": "It's not a test of perfection, it's a test of communication."
+    },
+    {
+      "t": 1146.25,
+      "text": "Exactly."
+    },
+    {
+      "t": 1147.25,
+      "text": "If the interviewer understands your story clearly, you are already doing well."
+    },
+    {
+      "t": 1152.03,
+      "text": "That brings us to the end of today's episode."
+    },
+    {
+      "t": 1154.65,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 1156.47,
+      "text": "We hope this helps you feel more confident in your next interview."
+    },
+    {
+      "t": 1160.11,
+      "text": "Keep practicing, keep improving, and we'll see you in the next episode."
+    },
+    {
+      "t": 1164.07,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1165.07,
+      "text": "Goodbye."
+    },
+    {
+      "t": 1166.07,
+      "text": "Hello, and welcome to Business English Conversations."
+    },
+    {
+      "t": 1169.23,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 1170.23,
+      "text": "Welcome back to the podcast where we practice real English for the workplace."
+    },
+    {
+      "t": 1174.59,
+      "text": "My name is Marco."
+    },
+    {
+      "t": 1175.87,
+      "text": "And I'm Erica."
+    },
+    {
+      "t": 1176.99,
+      "text": "We're really happy you're here learning with us today."
+    },
+    {
+      "t": 1180.19,
+      "text": "In this podcast, we help you speak English naturally and confidently in professional"
+    },
+    {
+      "t": 1185.27,
+      "text": "situations like meetings, presentations, and job interviews."
+    },
+    {
+      "t": 1189.87,
+      "text": "Yes, especially situations where you need to explain your experience clearly."
+    },
+    {
+      "t": 1195.55,
+      "text": "Today we have a very important and practical topic."
+    },
+    {
+      "t": 1198.67,
+      "text": "That's right."
+    },
+    {
+      "t": 1199.67,
+      "text": "Today's topic is how to explain a project you worked on in 30 minutes during a job interview."
+    },
+    {
+      "t": 1205.83,
+      "text": "This is a common situation."
+    },
+    {
+      "t": 1207.87,
+      "text": "Many interviewers ask candidates to describe a project in detail."
+    },
+    {
+      "t": 1212.21,
+      "text": "They want to understand not only what you did, but also how you think, how you solve"
+    },
+    {
+      "t": 1217.33,
+      "text": "problems, and how you communicate."
+    },
+    {
+      "t": 1219.85,
+      "text": "Exactly."
+    },
+    {
+      "t": 1220.85,
+      "text": "And sometimes, candidates feel nervous because 30 minutes is a long time."
+    },
+    {
+      "t": 1225.71,
+      "text": "They worry about running out of things to say or not organizing their explanation well."
+    },
+    {
+      "t": 1231.05,
+      "text": "But actually, 30 minutes is a great opportunity."
+    },
+    {
+      "t": 1234.53,
+      "text": "It allows you to tell a complete story and show your skills in depth."
+    },
+    {
+      "t": 1239.25,
+      "text": "In today's conversation, we will simulate a realistic interview scenario."
+    },
+    {
+      "t": 1244.45,
+      "text": "Speaker 2 will act as the interviewer, and Speaker 1 will explain a project step by step"
+    },
+    {
+      "t": 1250.41,
+      "text": "in a clear and structured way."
+    },
+    {
+      "t": 1252.77,
+      "text": "We will also naturally include useful phrases and examples that you can use in your own interviews."
+    },
+    {
+      "t": 1258.89,
+      "text": "So let's begin."
+    },
+    {
+      "t": 1260.53,
+      "text": "Thank you for joining us today."
+    },
+    {
+      "t": 1262.21,
+      "text": "To start, I'd like you to tell me about a project you worked on recently."
+    },
+    {
+      "t": 1266.49,
+      "text": "You can take your time and walk me through it in detail."
+    },
+    {
+      "t": 1269.97,
+      "text": "Thank you."
+    },
+    {
+      "t": 1270.97,
+      "text": "I'd be happy to."
+    },
+    {
+      "t": 1271.97,
+      "text": "I'll explain one of the most important projects I worked on in my previous role."
+    },
+    {
+      "t": 1276.45,
+      "text": "The project was about developing and launching a new internal dashboard system for tracking"
+    },
+    {
+      "t": 1281.63,
+      "text": "company performance."
+    },
+    {
+      "t": 1283.41,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 1284.85,
+      "text": "Could you start by explaining the background of the project?"
+    },
+    {
+      "t": 1288.17,
+      "text": "Of course."
+    },
+    {
+      "t": 1289.33,
+      "text": "Before the project started, our company used several different tools to track"
+    },
+    {
+      "t": 1293.33,
+      "text": "performance data."
+    },
+    {
+      "t": 1294.89,
+      "text": "Each department had its own system, which made it difficult to get a clear overall view"
+    },
+    {
+      "t": 1299.33,
+      "text": "of the business."
+    },
+    {
+      "t": 1300.73,
+      "text": "So there was a lack of centralized data?"
+    },
+    {
+      "t": 1303.81,
+      "text": "Exactly."
+    },
+    {
+      "t": 1305.17,
+      "text": "Managers had to collect reports manually from different teams, which was time consuming"
+    },
+    {
+      "t": 1309.37,
+      "text": "and sometimes inaccurate."
+    },
+    {
+      "t": 1311.61,
+      "text": "Because of this, decision making was often delayed."
+    },
+    {
+      "t": 1314.29,
+      "text": "I see."
+    },
+    {
+      "t": 1315.37,
+      "text": "So what was the main goal of the project?"
+    },
+    {
+      "t": 1318.33,
+      "text": "The main goal was to create a centralized dashboard that would automatically collect"
+    },
+    {
+      "t": 1323.05,
+      "text": "and display key performance indicators in real time."
+    },
+    {
+      "t": 1326.73,
+      "text": "This would help managers make faster"
+    },
+    {
+      "t": 1328.65,
+      "text": "and more informed decisions."
+    },
+    {
+      "t": 1330.69,
+      "text": "That sounds like a valuable objective."
+    },
+    {
+      "t": 1333.17,
+      "text": "What was your role in the project?"
+    },
+    {
+      "t": 1335.39,
+      "text": "My role was project lead."
+    },
+    {
+      "t": 1337.49,
+      "text": "I was responsible for coordinating the entire project"
+    },
+    {
+      "t": 1340.69,
+      "text": "from planning to final implementation."
+    },
+    {
+      "t": 1343.31,
+      "text": "Could you explain your responsibilities in more detail?"
+    },
+    {
+      "t": 1346.45,
+      "text": "Yes, I was responsible for defining the project's scope,"
+    },
+    {
+      "t": 1350.23,
+      "text": "setting timelines, managing communication"
+    },
+    {
+      "t": 1353.01,
+      "text": "between teams and ensuring that we met our deadlines."
+    },
+    {
+      "t": 1356.37,
+      "text": "I also worked closely with both technical"
+    },
+    {
+      "t": 1358.77,
+      "text": "and non-technical stakeholders."
+    },
+    {
+      "t": 1361.01,
+      "text": "So you had both management"
+    },
+    {
+      "t": 1362.93,
+      "text": "and communication responsibilities."
+    },
+    {
+      "t": 1365.41,
+      "text": "That's right."
+    },
+    {
+      "t": 1366.31,
+      "text": "A big part of my role was making sure everyone was aligned"
+    },
+    {
+      "t": 1369.89,
+      "text": "and understood the project goals."
+    },
+    {
+      "t": 1371.97,
+      "text": "How did the project begin?"
+    },
+    {
+      "t": 1373.97,
+      "text": "The project began with a discovery phase."
+    },
+    {
+      "t": 1376.73,
+      "text": "During this stage, we met with different departments"
+    },
+    {
+      "t": 1379.21,
+      "text": "to understand their needs and challenges."
+    },
+    {
+      "t": 1381.73,
+      "text": "What kind of questions did you ask?"
+    },
+    {
+      "t": 1384.05,
+      "text": "We asked questions like, what data do you need daily?"
+    },
+    {
+      "t": 1387.17,
+      "text": "What problems do you face with the current system?"
+    },
+    {
+      "t": 1389.73,
+      "text": "And what features would help you work more efficiently?"
+    },
+    {
+      "t": 1392.77,
+      "text": "That sounds like a thorough approach."
+    },
+    {
+      "t": 1395.09,
+      "text": "Yes, it was very important to gather detailed requirements."
+    },
+    {
+      "t": 1398.81,
+      "text": "Without understanding user needs,"
+    },
+    {
+      "t": 1400.81,
+      "text": "we could not design an effective solution."
+    },
+    {
+      "t": 1403.33,
+      "text": "What did you learn from this discovery phase?"
+    },
+    {
+      "t": 1406.21,
+      "text": "We learned that each department had different priorities,"
+    },
+    {
+      "t": 1409.41,
+      "text": "but they all needed faster access to accurate data."
+    },
+    {
+      "t": 1413.05,
+      "text": "We also discovered that many processes were still manual."
+    },
+    {
+      "t": 1416.69,
+      "text": "So automation was an important part of the solution."
+    },
+    {
+      "t": 1420.21,
+      "text": "Exactly."
+    },
+    {
+      "t": 1421.33,
+      "text": "After gathering all the information,"
+    },
+    {
+      "t": 1423.25,
+      "text": "we moved to the planning phase."
+    },
+    {
+      "t": 1425.33,
+      "text": "What did the planning phase involve?"
+    },
+    {
+      "t": 1427.65,
+      "text": "In the planning phase,"
+    },
+    {
+      "t": 1428.73,
+      "text": "we defined the project timeline,"
+    },
+    {
+      "t": 1430.97,
+      "text": "allocated resources and created a roadmap."
+    },
+    {
+      "t": 1434.09,
+      "text": "We also decided which technologies we would use."
+    },
+    {
+      "t": 1437.21,
+      "text": "Did you face any challenges during planning?"
+    },
+    {
+      "t": 1440.01,
+      "text": "Yes, one challenge was balancing different requirements."
+    },
+    {
+      "t": 1443.41,
+      "text": "Some departments wanted very detailed data,"
+    },
+    {
+      "t": 1446.25,
+      "text": "while others preferred a simple overview."
+    },
+    {
+      "t": 1448.61,
+      "text": "How did you handle that?"
+    },
+    {
+      "t": 1450.21,
+      "text": "We designed a flexible dashboard that allowed users"
+    },
+    {
+      "t": 1453.25,
+      "text": "to customize what they see."
+    },
+    {
+      "t": 1455.09,
+      "text": "This way, each department could use the system"
+    },
+    {
+      "t": 1457.37,
+      "text": "according to their needs."
+    },
+    {
+      "t": 1458.81,
+      "text": "That's a smart solution."
+    },
+    {
+      "t": 1460.49,
+      "text": "Thank you."
+    },
+    {
+      "t": 1461.37,
+      "text": "After planning, we moved into the development phase."
+    },
+    {
+      "t": 1464.53,
+      "text": "Could you describe that phase?"
+    },
+    {
+      "t": 1466.53,
+      "text": "During development, the technical team built the dashboard system."
+    },
+    {
+      "t": 1470.33,
+      "text": "Meanwhile, I coordinated regular meetings to track progress and address any issues."
+    },
+    {
+      "t": 1475.53,
+      "text": "How often did you meet?"
+    },
+    {
+      "t": 1477.21,
+      "text": "We had weekly progress meetings and daily check-ins during critical periods."
+    },
+    {
+      "t": 1481.73,
+      "text": "That sounds very organized."
+    },
+    {
+      "t": 1483.85,
+      "text": "Yes, communication was key."
+    },
+    {
+      "t": 1486.21,
+      "text": "Without regular updates, small issues could become big problems."
+    },
+    {
+      "t": 1490.33,
+      "text": "Were there any major challenges during development?"
+    },
+    {
+      "t": 1493.49,
+      "text": "Yes, one major challenge was data integration."
+    },
+    {
+      "t": 1497.17,
+      "text": "Since data came from different systems,"
+    },
+    {
+      "t": 1499.21,
+      "text": "it was difficult to combine everything into one dashboard."
+    },
+    {
+      "t": 1502.61,
+      "text": "I can imagine that was complex."
+    },
+    {
+      "t": 1504.85,
+      "text": "It was."
+    },
+    {
+      "t": 1505.73,
+      "text": "The data formats were different"
+    },
+    {
+      "t": 1507.45,
+      "text": "and some systems were outdated."
+    },
+    {
+      "t": 1509.37,
+      "text": "How did your team solve this problem?"
+    },
+    {
+      "t": 1511.85,
+      "text": "The technical team developed custom integration tools"
+    },
+    {
+      "t": 1514.93,
+      "text": "and we worked closely with each department"
+    },
+    {
+      "t": 1517.25,
+      "text": "to ensure data accuracy."
+    },
+    {
+      "t": 1519.21,
+      "text": "Did this affect your timeline?"
+    },
+    {
+      "t": 1521.13,
+      "text": "Yes, we had a slight delay of about two weeks."
+    },
+    {
+      "t": 1524.45,
+      "text": "However, we communicated this clearly to stakeholders"
+    },
+    {
+      "t": 1527.45,
+      "text": "and adjusted our plan."
+    },
+    {
+      "t": 1529.01,
+      "text": "That's important in project management."
+    },
+    {
+      "t": 1531.33,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1532.25,
+      "text": "Transparency helps maintain trust."
+    },
+    {
+      "t": 1534.87,
+      "text": "What happened after development?"
+    },
+    {
+      "t": 1537.03,
+      "text": "After development, we moved to the testing phase."
+    },
+    {
+      "t": 1540.21,
+      "text": "What kind of testing did you perform?"
+    },
+    {
+      "t": 1542.53,
+      "text": "We conducted system testing, performance testing,"
+    },
+    {
+      "t": 1545.57,
+      "text": "and user acceptance testing."
+    },
+    {
+      "t": 1547.65,
+      "text": "Could you explain user acceptance testing?"
+    },
+    {
+      "t": 1550.65,
+      "text": "It means real users test the system to see if it meets their needs."
+    },
+    {
+      "t": 1555.01,
+      "text": "They provide feedback on usability and functionality."
+    },
+    {
+      "t": 1558.37,
+      "text": "What feedback did you receive?"
+    },
+    {
+      "t": 1560.45,
+      "text": "Some users found the interface slightly complex at first,"
+    },
+    {
+      "t": 1564.09,
+      "text": "so we simplified the design and added tool tips to guide users."
+    },
+    {
+      "t": 1568.17,
+      "text": "That's a good example of improving based on feedback."
+    },
+    {
+      "t": 1571.33,
+      "text": "Yes, user feedback was very valuable."
+    },
+    {
+      "t": 1574.29,
+      "text": "How long did the entire project take?"
+    },
+    {
+      "t": 1577.33,
+      "text": "The project took about five months from start to finish."
+    },
+    {
+      "t": 1580.73,
+      "text": "And what happened during the final stage?"
+    },
+    {
+      "t": 1583.61,
+      "text": "The final stage was implementation."
+    },
+    {
+      "t": 1585.97,
+      "text": "We rolled out the dashboard to all departments"
+    },
+    {
+      "t": 1588.45,
+      "text": "and provided training sessions."
+    },
+    {
+      "t": 1590.37,
+      "text": "Training is often overlooked."
+    },
+    {
+      "t": 1592.61,
+      "text": "Yes, but it's essential."
+    },
+    {
+      "t": 1594.29,
+      "text": "Even the best system won't be effective"
+    },
+    {
+      "t": 1596.41,
+      "text": "if people don't know how to use it."
+    },
+    {
+      "t": 1598.33,
+      "text": "How did employees respond to the new system?"
+    },
+    {
+      "t": 1601.33,
+      "text": "At first, some were hesitant,"
+    },
+    {
+      "t": 1603.33,
+      "text": "but after training, they found it very useful."
+    },
+    {
+      "t": 1605.93,
+      "text": "That's good to hear."
+    },
+    {
+      "t": 1607.33,
+      "text": "What were the final results of the project?"
+    },
+    {
+      "t": 1610.01,
+      "text": "The results were very positive."
+    },
+    {
+      "t": 1611.89,
+      "text": "Reporting time decreased by 40%"
+    },
+    {
+      "t": 1614.49,
+      "text": "and managers could access real-time data instantly."
+    },
+    {
+      "t": 1617.99,
+      "text": "That's a significant improvement."
+    },
+    {
+      "t": 1620.17,
+      "text": "Yes, and decision-making became faster and more accurate."
+    },
+    {
+      "t": 1624.03,
+      "text": "Did you measure user satisfaction?"
+    },
+    {
+      "t": 1626.43,
+      "text": "Yes, we conducted a survey"
+    },
+    {
+      "t": 1628.21,
+      "text": "and over 85% of users reported improved efficiency."
+    },
+    {
+      "t": 1632.41,
+      "text": "That's excellent."
+    },
+    {
+      "t": 1633.65,
+      "text": "Thank you."
+    },
+    {
+      "t": 1634.49,
+      "text": "The project also improved collaboration between departments."
+    },
+    {
+      "t": 1638.21,
+      "text": "Looking back, what was the biggest challenge?"
+    },
+    {
+      "t": 1641.37,
+      "text": "The biggest challenge was aligning different teams and managing expectations."
+    },
+    {
+      "t": 1646.25,
+      "text": "And what was your biggest achievement?"
+    },
+    {
+      "t": 1648.57,
+      "text": "Successfully delivering a system that met diverse needs and created measurable impact."
+    },
+    {
+      "t": 1654.33,
+      "text": "What did you learn from this experience?"
+    },
+    {
+      "t": 1656.49,
+      "text": "I learned the importance of communication, flexibility, and user involvement."
+    },
+    {
+      "t": 1661.51,
+      "text": "If you had to do the project again, what would you change?"
+    },
+    {
+      "t": 1664.95,
+      "text": "I would involve end users earlier in the design phase to reduce revisions later."
+    },
+    {
+      "t": 1669.91,
+      "text": "That's a valuable insight."
+    },
+    {
+      "t": 1671.95,
+      "text": "Yes, early feedback can save time."
+    },
+    {
+      "t": 1674.99,
+      "text": "Thank you so much for the detailed explanation."
+    },
+    {
+      "t": 1678.11,
+      "text": "Before we finish, could you summarize the project briefly?"
+    },
+    {
+      "t": 1681.35,
+      "text": "Sure."
+    },
+    {
+      "t": 1682.35,
+      "text": "The project focused on building a centralized performance dashboard."
+    },
+    {
+      "t": 1686.47,
+      "text": "My role was Project Lead."
+    },
+    {
+      "t": 1688.51,
+      "text": "We identified problems, designed a solution, overcame technical challenges, and delivered"
+    },
+    {
+      "t": 1693.51,
+      "text": "a system that improved efficiency and decision-making."
+    },
+    {
+      "t": 1697.07,
+      "text": "That was a very clear and structured explanation."
+    },
+    {
+      "t": 1700.35,
+      "text": "Thank you."
+    },
+    {
+      "t": 1701.35,
+      "text": "This example shows how you can effectively use 30 minutes in an interview."
+    },
+    {
+      "t": 1705.67,
+      "text": "You can explain the background, goal, role, process, challenges, and results in detail."
+    },
+    {
+      "t": 1712.51,
+      "text": "Yes, and the key is to tell the story step by step."
+    },
+    {
+      "t": 1716.51,
+      "text": "Exactly."
+    },
+    {
+      "t": 1717.51,
+      "text": "Don't rush, use simple, clear language, and focus on your contribution."
+    },
+    {
+      "t": 1722.57,
+      "text": "And always include results and lessons learned."
+    },
+    {
+      "t": 1725.65,
+      "text": "That's right."
+    },
+    {
+      "t": 1727.09,
+      "text": "Interviewers want to see impact and growth."
+    },
+    {
+      "t": 1729.73,
+      "text": "Before we end, let's give our listeners a practice question."
+    },
+    {
+      "t": 1733.01,
+      "text": "Good idea."
+    },
+    {
+      "t": 1734.01,
+      "text": "Here is your question."
+    },
+    {
+      "t": 1735.69,
+      "text": "Can you explain a project you worked on for about 10 to 15 minutes?"
+    },
+    {
+      "t": 1740.65,
+      "text": "Start with the background, explain your role, describe the process, talk about challenges"
+    },
+    {
+      "t": 1745.61,
+      "text": "and finish with results."
+    },
+    {
+      "t": 1747.49,
+      "text": "Then try to expand it to 30 minutes by adding more details and examples."
+    },
+    {
+      "t": 1753.21,
+      "text": "Practice speaking out loud."
+    },
+    {
+      "t": 1754.49,
+      "text": "This will help you become more confident."
+    },
+    {
+      "t": 1756.73,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 1758.93,
+      "text": "We hope this conversation helps you succeed in your interviews."
+    },
+    {
+      "t": 1762.61,
+      "text": "Keep practicing, keep improving, and keep speaking English."
+    },
+    {
+      "t": 1766.61,
+      "text": "See you next time."
+    },
+    {
+      "t": 1767.69,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1768.97,
+      "text": "Hello, and welcome back to Business English."
+    },
+    {
+      "t": 1771.97,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 1773.25,
+      "text": "Welcome to today's English Conversation Practice."
+    },
+    {
+      "t": 1775.97,
+      "text": "I'm Daniel."
+    },
+    {
+      "t": 1777.17,
+      "text": "And I'm Sophia, and we're really happy you're here learning with us today."
+    },
+    {
+      "t": 1781.13,
+      "text": "On this channel, we help you speak English naturally and confidently through real conversations,"
+    },
+    {
+      "t": 1786.57,
+      "text": "practical examples, and everyday workplace situations."
+    },
+    {
+      "t": 1790.57,
+      "text": "Today's episode is especially useful for job interviews, because we are going to practice"
+    },
+    {
+      "t": 1795.09,
+      "text": "how to explain a project you worked on in 30 minutes during an interview."
+    },
+    {
+      "t": 1799.53,
+      "text": "Yes, this is a very important skill."
+    },
+    {
+      "t": 1802.75,
+      "text": "Many candidates fail not because they don't have experience, but because they cannot explain"
+    },
+    {
+      "t": 1807.63,
+      "text": "their project clearly under pressure."
+    },
+    {
+      "t": 1810.07,
+      "text": "So today, we are going to show you a long, realistic interview conversation with a strong"
+    },
+    {
+      "t": 1815.79,
+      "text": "structure."
+    },
+    {
+      "t": 1816.79,
+      "text": "Exactly."
+    },
+    {
+      "t": 1817.79,
+      "text": "We will show you how to organize your answers step by step."
+    },
+    {
+      "t": 1821.39,
+      "text": "Background, problem, role, actions, challenges, solutions, and results."
+    },
+    {
+      "t": 1827.95,
+      "text": "This is exactly what interviewers want to hear."
+    },
+    {
+      "t": 1830.83,
+      "text": "Alright, let's begin."
+    },
+    {
+      "t": 1832.63,
+      "text": "Imagine this is a real job interview."
+    },
+    {
+      "t": 1835.07,
+      "text": "I am the interviewer and you are the candidate."
+    },
+    {
+      "t": 1837.91,
+      "text": "Perfect."
+    },
+    {
+      "t": 1838.75,
+      "text": "I'll do my best to stay clear, structured and professional."
+    },
+    {
+      "t": 1842.51,
+      "text": "Great."
+    },
+    {
+      "t": 1843.35,
+      "text": "So let's start."
+    },
+    {
+      "t": 1844.55,
+      "text": "Can you tell me about a project you worked on recently?"
+    },
+    {
+      "t": 1847.71,
+      "text": "Yes, of course."
+    },
+    {
+      "t": 1849.03,
+      "text": "One of the most important projects I worked on"
+    },
+    {
+      "t": 1851.55,
+      "text": "was an internal customer experience improvement"
+    },
+    {
+      "t": 1854.59,
+      "text": "project at my previous company."
+    },
+    {
+      "t": 1856.91,
+      "text": "The goal of the project was to improve the speed"
+    },
+    {
+      "t": 1859.67,
+      "text": "and quality of customer support"
+    },
+    {
+      "t": 1861.83,
+      "text": "by redesigning our internal ticket handling system."
+    },
+    {
+      "t": 1865.51,
+      "text": "Okay, good start."
+    },
+    {
+      "t": 1867.19,
+      "text": "Before we go deeper,"
+    },
+    {
+      "t": 1868.71,
+      "text": "can you explain the situation before the project started?"
+    },
+    {
+      "t": 1872.31,
+      "text": "Yes, before the project started,"
+    },
+    {
+      "t": 1874.75,
+      "text": "our customer support team was facing several issues."
+    },
+    {
+      "t": 1878.35,
+      "text": "We were receiving a very high number"
+    },
+    {
+      "t": 1880.45,
+      "text": "of customer inquiries every day,"
+    },
+    {
+      "t": 1882.57,
+      "text": "but the system we used to manage those inquiries"
+    },
+    {
+      "t": 1885.15,
+      "text": "was not efficient."
+    },
+    {
+      "t": 1886.61,
+      "text": "Tickets were often delayed,"
+    },
+    {
+      "t": 1888.49,
+      "text": "Some were assigned incorrectly, and customers had to wait too long for responses."
+    },
+    {
+      "t": 1893.69,
+      "text": "In some cases, response time was more than 24 hours, which led to customer dissatisfaction"
+    },
+    {
+      "t": 1899.45,
+      "text": "and negative feedback."
+    },
+    {
+      "t": 1901.37,
+      "text": "I see."
+    },
+    {
+      "t": 1902.45,
+      "text": "So what was your role in this situation?"
+    },
+    {
+      "t": 1905.33,
+      "text": "My role was Project Coordinator."
+    },
+    {
+      "t": 1907.69,
+      "text": "I was responsible for organizing communication between different departments, tracking progress,"
+    },
+    {
+      "t": 1913.33,
+      "text": "and making sure everyone understood the project goals."
+    },
+    {
+      "t": 1916.61,
+      "text": "I worked closely with the customer support team, the IT department, and the operations"
+    },
+    {
+      "t": 1921.41,
+      "text": "team."
+    },
+    {
+      "t": 1922.51,
+      "text": "That sounds like a cross-functional role."
+    },
+    {
+      "t": 1925.13,
+      "text": "What was the main goal of the project?"
+    },
+    {
+      "t": 1927.57,
+      "text": "The main goal was to reduce customer response time from over 24 hours to under 6 hours."
+    },
+    {
+      "t": 1933.93,
+      "text": "We also wanted to improve ticket accuracy, reduce manual work, and increase customer"
+    },
+    {
+      "t": 1939.53,
+      "text": "satisfaction."
+    },
+    {
+      "t": 1940.97,
+      "text": "That sounds like a big improvement target."
+    },
+    {
+      "t": 1943.49,
+      "text": "How did you begin the project?"
+    },
+    {
+      "t": 1945.47,
+      "text": "We started with a planning and analysis phase."
+    },
+    {
+      "t": 1948.79,
+      "text": "First we collected data from the existing customer support system."
+    },
+    {
+      "t": 1952.35,
+      "text": "We analyzed response times, ticket volumes, customer complaints, and resolution rates."
+    },
+    {
+      "t": 1958.51,
+      "text": "Then we identified the main bottlenecks in the system."
+    },
+    {
+      "t": 1962.23,
+      "text": "And what did you find during that analysis?"
+    },
+    {
+      "t": 1964.95,
+      "text": "We found three major problems."
+    },
+    {
+      "t": 1967.35,
+      "text": "First, tickets were not being categorized properly, so simple questions and complex"
+    },
+    {
+      "t": 1972.85,
+      "text": "issues were mixed together."
+    },
+    {
+      "t": 1974.51,
+      "text": "Second, there was no proper prioritization system, so urgent requests were sometimes delayed."
+    },
+    {
+      "t": 1980.79,
+      "text": "Third, a large amount of manual work was required, which slowed down the entire process."
+    },
+    {
+      "t": 1987.35,
+      "text": "That makes sense."
+    },
+    {
+      "t": 1988.47,
+      "text": "So what solution did you propose?"
+    },
+    {
+      "t": 1990.97,
+      "text": "We proposed implementing a new automated ticket management system."
+    },
+    {
+      "t": 1995.23,
+      "text": "The system would automatically categorize incoming customer requests based on keywords"
+    },
+    {
+      "t": 2000.33,
+      "text": "and urgency."
+    },
+    {
+      "t": 2001.69,
+      "text": "It would also assign tickets to the correct department and prioritize urgent cases."
+    },
+    {
+      "t": 2007.27,
+      "text": "Were you involved in the technical development of that system?"
+    },
+    {
+      "t": 2010.49,
+      "text": "I was not directly involved in coding or software development, but I played a very important"
+    },
+    {
+      "t": 2016.39,
+      "text": "coordination role."
+    },
+    {
+      "t": 2017.77,
+      "text": "I worked as a bridge between the business teams and the IT team."
+    },
+    {
+      "t": 2021.73,
+      "text": "I translated business requirements into clear instructions for developers and ensured"
+    },
+    {
+      "t": 2026.93,
+      "text": "the system met the needs of customer service users."
+    },
+    {
+      "t": 2030.17,
+      "text": "Good."
+    },
+    {
+      "t": 2031.17,
+      "text": "How did collaboration work between teams?"
+    },
+    {
+      "t": 2034.21,
+      "text": "We had weekly meetings with all stakeholders."
+    },
+    {
+      "t": 2037.17,
+      "text": "The IT team handled development, the customer support team provided real user feedback,"
+    },
+    {
+      "t": 2042.81,
+      "text": "and the operations team helped us understand workflow requirements."
+    },
+    {
+      "t": 2046.85,
+      "text": "My job was to make sure communication was clear and consistent between all groups."
+    },
+    {
+      "t": 2052.25,
+      "text": "That sounds like a lot of responsibility."
+    },
+    {
+      "t": 2054.71,
+      "text": "What was one of the first challenges you faced?"
+    },
+    {
+      "t": 2057.53,
+      "text": "One of the first challenges was that different departments had different expectations."
+    },
+    {
+      "t": 2062.25,
+      "text": "The IT team wanted a simple system that was easy to build, while the customer support team"
+    },
+    {
+      "t": 2067.29,
+      "text": "wanted advanced features to make their job easier."
+    },
+    {
+      "t": 2070.81,
+      "text": "These expectations sometimes conflicted."
+    },
+    {
+      "t": 2073.85,
+      "text": "How did you manage that conflict?"
+    },
+    {
+      "t": 2076.05,
+      "text": "I organized alignment meetings where each team could explain their needs."
+    },
+    {
+      "t": 2080.93,
+      "text": "Instead of focusing on individual preferences, we focused on the overall business goal,"
+    },
+    {
+      "t": 2086.17,
+      "text": "which was improving customer response time."
+    },
+    {
+      "t": 2088.85,
+      "text": "We prioritized features that had the highest impact."
+    },
+    {
+      "t": 2092.37,
+      "text": "That's a good approach."
+    },
+    {
+      "t": 2093.73,
+      "text": "Were there any other challenges?"
+    },
+    {
+      "t": 2095.57,
+      "text": "Yes, another major challenge was resistance to change."
+    },
+    {
+      "t": 2099.67,
+      "text": "Some employees were very comfortable with the old system and were worried that the"
+    },
+    {
+      "t": 2103.41,
+      "text": "new system would be complicated or increase their workload."
+    },
+    {
+      "t": 2107.25,
+      "text": "They were also afraid of making mistakes while learning the new system."
+    },
+    {
+      "t": 2111.45,
+      "text": "How did you handle that resistance?"
+    },
+    {
+      "t": 2113.71,
+      "text": "We introduced training sessions and created step-by-step user guides."
+    },
+    {
+      "t": 2118.31,
+      "text": "We also organized hands-on workshops where employees could practice using the new system"
+    },
+    {
+      "t": 2123.31,
+      "text": "in a safe environment."
+    },
+    {
+      "t": 2125.15,
+      "text": "Over time, as they became more comfortable, their resistance decreased."
+    },
+    {
+      "t": 2129.19,
+      "text": "Good."
+    },
+    {
+      "t": 2130.59,
+      "text": "What about technical challenges?"
+    },
+    {
+      "t": 2132.31,
+      "text": "Yes, there were technical challenges as well."
+    },
+    {
+      "t": 2135.71,
+      "text": "One of the biggest issues was integrating the new ticket system with the existing customer"
+    },
+    {
+      "t": 2140.59,
+      "text": "database."
+    },
+    {
+      "t": 2141.59,
+      "text": "During testing, we discovered some data synchronization issues, which caused delays in updating ticket status."
+    },
+    {
+      "t": 2148.59,
+      "text": "Did that affect your timeline?"
+    },
+    {
+      "t": 2150.59,
+      "text": "Yes, slightly. The project was delayed by about two weeks."
+    },
+    {
+      "t": 2154.59,
+      "text": "However, we decided not to rush the process because we wanted to ensure system stability and accuracy."
+    },
+    {
+      "t": 2160.59,
+      "text": "In the end, management supported this decision."
+    },
+    {
+      "t": 2163.59,
+      "text": "That's good. Now, let's talk about the testing phase. What happened after development?"
+    },
+    {
+      "t": 2169.59,
+      "text": "After development, we conducted a pilot test."
+    },
+    {
+      "t": 2172.72,
+      "text": "We selected a small group of customer support agents to use the new system for three weeks."
+    },
+    {
+      "t": 2178.52,
+      "text": "During this time, we collected feedback and monitored system performance closely."
+    },
+    {
+      "t": 2183.42,
+      "text": "What kind of feedback did you receive?"
+    },
+    {
+      "t": 2185.72,
+      "text": "The feedback was mostly positive."
+    },
+    {
+      "t": 2188.02,
+      "text": "Users liked the faster ticket assignment and improved organization."
+    },
+    {
+      "t": 2192.52,
+      "text": "However, they also pointed out some usability issues,"
+    },
+    {
+      "t": 2195.92,
+      "text": "such as unclear navigation and too many steps for certain tasks."
+    },
+    {
+      "t": 2201.04,
+      "text": "How did you respond to that feedback?"
+    },
+    {
+      "t": 2203.44,
+      "text": "The IT team made improvements based on the feedback."
+    },
+    {
+      "t": 2206.72,
+      "text": "We simplified the interface, reduced unnecessary steps,"
+    },
+    {
+      "t": 2210.56,
+      "text": "and improved the dashboard layout."
+    },
+    {
+      "t": 2213.0,
+      "text": "After these adjustments,"
+    },
+    {
+      "t": 2214.2,
+      "text": "the system became much more user-friendly."
+    },
+    {
+      "t": 2217.08,
+      "text": "After the pilot, what happened next?"
+    },
+    {
+      "t": 2219.4,
+      "text": "After the pilot phase,"
+    },
+    {
+      "t": 2220.6,
+      "text": "we rolled out the system company-wide."
+    },
+    {
+      "t": 2223.04,
+      "text": "We provided training sessions for all customer support staff"
+    },
+    {
+      "t": 2226.6,
+      "text": "and made sure everyone understood how to use the system effectively."
+    },
+    {
+      "t": 2230.84,
+      "text": "And how did employees react after full implementation?"
+    },
+    {
+      "t": 2234.52,
+      "text": "Initially, some employees were still cautious,"
+    },
+    {
+      "t": 2237.44,
+      "text": "but within a few weeks, most people adapted to the new system."
+    },
+    {
+      "t": 2241.2,
+      "text": "They started to see the benefits,"
+    },
+    {
+      "t": 2242.92,
+      "text": "especially in reduced workload and faster response times."
+    },
+    {
+      "t": 2246.88,
+      "text": "Let's talk about results."
+    },
+    {
+      "t": 2248.72,
+      "text": "What were the final outcomes of the project?"
+    },
+    {
+      "t": 2251.56,
+      "text": "The results were very positive."
+    },
+    {
+      "t": 2253.76,
+      "text": "We reduced average customer response time"
+    },
+    {
+      "t": 2256.32,
+      "text": "from over 24 hours to around five hours."
+    },
+    {
+      "t": 2259.88,
+      "text": "Ticket processing efficiency improved significantly"
+    },
+    {
+      "t": 2263.0,
+      "text": "and manual workload decreased by nearly 40%."
+    },
+    {
+      "t": 2267.28,
+      "text": "That's a big improvement."
+    },
+    {
+      "t": 2268.94,
+      "text": "What about customer satisfaction?"
+    },
+    {
+      "t": 2271.2,
+      "text": "Customer satisfaction scores increased"
+    },
+    {
+      "t": 2273.52,
+      "text": "by about 30% after implementation."
+    },
+    {
+      "t": 2276.38,
+      "text": "We also saw a reduction in customer complaints"
+    },
+    {
+      "t": 2279.08,
+      "text": "related to delayed responses."
+    },
+    {
+      "t": 2281.44,
+      "text": "That's excellent. Did the company recognize your work?"
+    },
+    {
+      "t": 2285.02,
+      "text": "Yes, the project was recognized by senior management."
+    },
+    {
+      "t": 2288.34,
+      "text": "Our team received positive feedback"
+    },
+    {
+      "t": 2290.54,
+      "text": "and the project was considered a successful digital transformation initiative within the company."
+    },
+    {
+      "t": 2296.14,
+      "text": "Looking back, what did you learn from this project?"
+    },
+    {
+      "t": 2299.5,
+      "text": "I learned that communication is the most important factor in any project."
+    },
+    {
+      "t": 2304.4,
+      "text": "Even with good technical solutions, without clear communication between teams,"
+    },
+    {
+      "t": 2309.26,
+      "text": "the project can face serious issues."
+    },
+    {
+      "t": 2311.9,
+      "text": "I also learned the importance of managing change carefully"
+    },
+    {
+      "t": 2315.62,
+      "text": "because people need time and support"
+    },
+    {
+      "t": 2317.7,
+      "text": "to adapt to new systems."
+    },
+    {
+      "t": 2319.9,
+      "text": "Very insightful."
+    },
+    {
+      "t": 2321.38,
+      "text": "Now, if you had to do the project again,"
+    },
+    {
+      "t": 2323.82,
+      "text": "what would you do differently?"
+    },
+    {
+      "t": 2325.58,
+      "text": "I would involve end users earlier in the design phase."
+    },
+    {
+      "t": 2329.26,
+      "text": "Their feedback would have helped us"
+    },
+    {
+      "t": 2330.82,
+      "text": "identify usability issues sooner."
+    },
+    {
+      "t": 2333.34,
+      "text": "I would also spend more time on initial planning"
+    },
+    {
+      "t": 2336.1,
+      "text": "to reduce small delays during development."
+    },
+    {
+      "t": 2339.14,
+      "text": "That's a strong reflection."
+    },
+    {
+      "t": 2340.86,
+      "text": "Now, one final question."
+    },
+    {
+      "t": 2342.86,
+      "text": "How would you summarize this project"
+    },
+    {
+      "t": 2344.86,
+      "text": "in a short answer for an interview?"
+    },
+    {
+      "t": 2347.18,
+      "text": "I would say I worked on a customer experience improvement"
+    },
+    {
+      "t": 2350.82,
+      "text": "project where I coordinated between IT and customer support"
+    },
+    {
+      "t": 2354.54,
+      "text": "teams to implement a new ticket management system."
+    },
+    {
+      "t": 2357.94,
+      "text": "The project reduced response time from 24 hours to five"
+    },
+    {
+      "t": 2361.62,
+      "text": "hours, improved efficiency, and increased customer"
+    },
+    {
+      "t": 2364.78,
+      "text": "satisfaction by 30%."
+    },
+    {
+      "t": 2367.06,
+      "text": "my role focused on coordination, communication,"
+    },
+    {
+      "t": 2370.22,
+      "text": "and ensuring successful implementation."
+    },
+    {
+      "t": 2373.26,
+      "text": "Perfect."
+    },
+    {
+      "t": 2374.1,
+      "text": "That is exactly how you should answer in an interview."
+    },
+    {
+      "t": 2376.86,
+      "text": "Clear, structured, and results focused."
+    },
+    {
+      "t": 2380.04,
+      "text": "Yes, and I think the key is not memorizing answers,"
+    },
+    {
+      "t": 2383.62,
+      "text": "but learning the structure, situation, role,"
+    },
+    {
+      "t": 2386.94,
+      "text": "action, and result."
+    },
+    {
+      "t": 2388.86,
+      "text": "Exactly."
+    },
+    {
+      "t": 2389.94,
+      "text": "That structure makes any project easy to explain"
+    },
+    {
+      "t": 2393.02,
+      "text": "in English."
+    },
+    {
+      "t": 2394.18,
+      "text": "Before we finish today, let's give our listeners"
+    },
+    {
+      "t": 2396.74,
+      "text": "one practice task."
+    },
+    {
+      "t": 2398.6,
+      "text": "Yes, think about one project you worked on."
+    },
+    {
+      "t": 2401.68,
+      "text": "It can be from work, school, or even personal life."
+    },
+    {
+      "t": 2405.0,
+      "text": "Try to explain it using this structure."
+    },
+    {
+      "t": 2407.46,
+      "text": "Background, goal, your role, challenges, and results."
+    },
+    {
+      "t": 2412.16,
+      "text": "And try to speak for at least two to three minutes"
+    },
+    {
+      "t": 2415.0,
+      "text": "without stopping."
+    },
+    {
+      "t": 2416.28,
+      "text": "This will really improve your fluency and confidence."
+    },
+    {
+      "t": 2419.76,
+      "text": "Thank you so much for listening to today's episode."
+    },
+    {
+      "t": 2422.76,
+      "text": "We hope this long..."
+    },
+    {
+      "t": 2433.98,
+      "text": "Hello, everyone. Welcome back to the podcast where we help you improve your professional"
+    },
+    {
+      "t": 2438.78,
+      "text": "English communication. And hello, everyone. We are very happy you are here with us today."
+    },
+    {
+      "t": 2443.98,
+      "text": "In this podcast, we focus on real-life workplace situations, like interviews, meetings, and"
+    },
+    {
+      "t": 2449.98,
+      "text": "presentations. That's right. And today we have a very important topic that many professionals"
+    },
+    {
+      "t": 2455.38,
+      "text": "struggle with. Yes. Today we are going to talk about how to explain a project you"
+    },
+    {
+      "t": 2459.9,
+      "text": "worked on in 30 minutes during a job interview."
+    },
+    {
+      "t": 2463.18,
+      "text": "This is one of the most common interview questions, but also one of the most difficult to answer"
+    },
+    {
+      "t": 2468.02,
+      "text": "clearly."
+    },
+    {
+      "t": 2469.02,
+      "text": "Exactly."
+    },
+    {
+      "t": 2470.02,
+      "text": "Many people have great experience, but they don't know how to organize their explanation."
+    },
+    {
+      "t": 2473.98,
+      "text": "So today, we will show you a full conversation example."
+    },
+    {
+      "t": 2477.64,
+      "text": "You will learn how to explain your project step by step with practical examples."
+    },
+    {
+      "t": 2482.38,
+      "text": "And remember, you don't need complicated English."
+    },
+    {
+      "t": 2485.38,
+      "text": "Simple and clear communication is always the best approach."
+    },
+    {
+      "t": 2488.42,
+      "text": "Alright, let's begin."
+    },
+    {
+      "t": 2490.22,
+      "text": "So, imagine you are in an interview."
+    },
+    {
+      "t": 2492.58,
+      "text": "I will ask you a common question."
+    },
+    {
+      "t": 2494.82,
+      "text": "Can you tell me about a project you worked on recently?"
+    },
+    {
+      "t": 2497.42,
+      "text": "Yes, of course."
+    },
+    {
+      "t": 2498.82,
+      "text": "Thank you for the question."
+    },
+    {
+      "t": 2500.02,
+      "text": "I would like to talk about a project I worked on last year."
+    },
+    {
+      "t": 2502.78,
+      "text": "The project was focused on improving our company's internal reporting system."
+    },
+    {
+      "t": 2507.02,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 2508.02,
+      "text": "Can you explain the situation before the project started?"
+    },
+    {
+      "t": 2511.1,
+      "text": "Yes."
+    },
+    {
+      "t": 2512.1,
+      "text": "Before the project, a reporting process was very slow and inefficient."
+    },
+    {
+      "t": 2516.6,
+      "text": "departments used different tools and there was no standard format."
+    },
+    {
+      "t": 2520.68,
+      "text": "So it was difficult to get consistent information."
+    },
+    {
+      "t": 2523.68,
+      "text": "Exactly."
+    },
+    {
+      "t": 2524.92,
+      "text": "Reports often had errors and it took a long time to compile data."
+    },
+    {
+      "t": 2528.76,
+      "text": "This created delays in decision making."
+    },
+    {
+      "t": 2530.72,
+      "text": "I see."
+    },
+    {
+      "t": 2531.72,
+      "text": "So what was the main goal of the project?"
+    },
+    {
+      "t": 2533.94,
+      "text": "The main goal was to create a standardized and automated reporting system."
+    },
+    {
+      "t": 2538.64,
+      "text": "We wanted to reduce errors and save time."
+    },
+    {
+      "t": 2541.32,
+      "text": "That sounds like a clear objective."
+    },
+    {
+      "t": 2543.28,
+      "text": "What was your role in the project?"
+    },
+    {
+      "t": 2544.92,
+      "text": "I worked as the project coordinator."
+    },
+    {
+      "t": 2547.4,
+      "text": "My responsibility was to manage communication between teams and ensure the project stayed"
+    },
+    {
+      "t": 2552.2,
+      "text": "on schedule."
+    },
+    {
+      "t": 2553.32,
+      "text": "Which teams were involved?"
+    },
+    {
+      "t": 2554.82,
+      "text": "We had the IT team, the finance department, and the operations team."
+    },
+    {
+      "t": 2559.9,
+      "text": "That sounds like a cross-functional project."
+    },
+    {
+      "t": 2562.24,
+      "text": "Yes, it required strong collaboration between different departments."
+    },
+    {
+      "t": 2566.56,
+      "text": "How did you start the project?"
+    },
+    {
+      "t": 2568.24,
+      "text": "We started with a research phase."
+    },
+    {
+      "t": 2570.44,
+      "text": "We analyzed the existing reporting process and identified the main problems."
+    },
+    {
+      "t": 2575.18,
+      "text": "What kind of problems did you find?"
+    },
+    {
+      "t": 2577.1,
+      "text": "One major issue was that data was entered manually, which caused errors."
+    },
+    {
+      "t": 2581.86,
+      "text": "Another problem was the lack of standard templates."
+    },
+    {
+      "t": 2584.6,
+      "text": "That can definitely create confusion."
+    },
+    {
+      "t": 2586.56,
+      "text": "Yes, it did."
+    },
+    {
+      "t": 2587.94,
+      "text": "So we decided to design a new system that would automate data collection and standardize"
+    },
+    {
+      "t": 2592.94,
+      "text": "the format."
+    },
+    {
+      "t": 2593.94,
+      "text": "That sounds like a good solution."
+    },
+    {
+      "t": 2595.38,
+      "text": "What happened next?"
+    },
+    {
+      "t": 2596.38,
+      "text": "Next, we worked with the IT team to develop the system."
+    },
+    {
+      "t": 2599.72,
+      "text": "held regular meetings to track progress."
+    },
+    {
+      "t": 2602.52,
+      "text": "Were there any challenges during this phase?"
+    },
+    {
+      "t": 2604.52,
+      "text": "Yes, there were several challenges."
+    },
+    {
+      "t": 2607.14,
+      "text": "One of the biggest challenges was resistance to change."
+    },
+    {
+      "t": 2610.32,
+      "text": "That is very common in many companies."
+    },
+    {
+      "t": 2612.6,
+      "text": "Yes, some employees were used to the old system and were not comfortable with new technology."
+    },
+    {
+      "t": 2618.04,
+      "text": "How did you handle that?"
+    },
+    {
+      "t": 2619.32,
+      "text": "We organized training sessions and provided support."
+    },
+    {
+      "t": 2622.4,
+      "text": "We explained the benefits of the new system clearly."
+    },
+    {
+      "t": 2625.72,
+      "text": "Did that help?"
+    },
+    {
+      "t": 2626.72,
+      "text": "Yes, gradually."
+    },
+    {
+      "t": 2628.44,
+      "text": "started to feel more confident using the new system."
+    },
+    {
+      "t": 2631.48,
+      "text": "Were there any technical challenges?"
+    },
+    {
+      "t": 2633.32,
+      "text": "Yes."
+    },
+    {
+      "t": 2634.32,
+      "text": "Integrating the new system with existing databases was complex."
+    },
+    {
+      "t": 2637.8,
+      "text": "I can imagine."
+    },
+    {
+      "t": 2639.06,
+      "text": "The IT team had to do extensive testing to ensure everything worked properly."
+    },
+    {
+      "t": 2644.08,
+      "text": "Did the project stay on schedule?"
+    },
+    {
+      "t": 2646.12,
+      "text": "We had a small delay of about one week, but overall we stayed close to the timeline."
+    },
+    {
+      "t": 2651.56,
+      "text": "That's quite good for a technical project."
+    },
+    {
+      "t": 2653.68,
+      "text": "Yes, we were satisfied with the progress."
+    },
+    {
+      "t": 2656.22,
+      "text": "What happened after the system was ready?"
+    },
+    {
+      "t": 2658.22,
+      "text": "We launched a pilot program."
+    },
+    {
+      "t": 2660.1,
+      "text": "Can you explain what a pilot program is?"
+    },
+    {
+      "t": 2662.6,
+      "text": "A pilot program is a small test before full implementation."
+    },
+    {
+      "t": 2667.56,
+      "text": "We tested the system with one department first."
+    },
+    {
+      "t": 2670.38,
+      "text": "That's a smart approach."
+    },
+    {
+      "t": 2671.7,
+      "text": "What did you learn from the pilot?"
+    },
+    {
+      "t": 2673.38,
+      "text": "We discovered some minor issues with data formatting."
+    },
+    {
+      "t": 2676.54,
+      "text": "Were those easy to fix?"
+    },
+    {
+      "t": 2678.02,
+      "text": "Yes, the IT team made adjustments quickly."
+    },
+    {
+      "t": 2681.08,
+      "text": "After the pilot, did you implement the system company-wide?"
+    },
+    {
+      "t": 2683.94,
+      "text": "Yes, we rolled it out to all departments."
+    },
+    {
+      "t": 2687.1,
+      "text": "How did employees react?"
+    },
+    {
+      "t": 2688.82,
+      "text": "At first, they were cautious, but later they appreciated the improvements."
+    },
+    {
+      "t": 2693.5,
+      "text": "What kind of improvements did they notice?"
+    },
+    {
+      "t": 2695.48,
+      "text": "The system reduced manual work and saved time."
+    },
+    {
+      "t": 2698.9,
+      "text": "Reports became more accurate."
+    },
+    {
+      "t": 2700.3,
+      "text": "That must have been very satisfying."
+    },
+    {
+      "t": 2701.98,
+      "text": "Yes, it was."
+    },
+    {
+      "t": 2703.58,
+      "text": "What were the final results of the project?"
+    },
+    {
+      "t": 2705.82,
+      "text": "The results were very positive."
+    },
+    {
+      "t": 2708.32,
+      "text": "Reporting time decreased by 40% and errors were reduced significantly."
+    },
+    {
+      "t": 2713.38,
+      "text": "That's impressive."
+    },
+    {
+      "t": 2714.38,
+      "text": "Yes, management was very happy with the outcome."
+    },
+    {
+      "t": 2717.14,
+      "text": "What did you learn from this project?"
+    },
+    {
+      "t": 2719.02,
+      "text": "I learned that communication is very important."
+    },
+    {
+      "t": 2722.42,
+      "text": "Also, involving users early helps reduce resistance."
+    },
+    {
+      "t": 2726.02,
+      "text": "That's a valuable lesson."
+    },
+    {
+      "t": 2727.46,
+      "text": "Yes, I also learned the importance of proper planning."
+    },
+    {
+      "t": 2730.98,
+      "text": "If you could do the project again,"
+    },
+    {
+      "t": 2732.66,
+      "text": "would you change anything?"
+    },
+    {
+      "t": 2733.98,
+      "text": "I would spend more time on training at the beginning."
+    },
+    {
+      "t": 2736.86,
+      "text": "That makes sense."
+    },
+    {
+      "t": 2738.02,
+      "text": "Training can make a big difference."
+    },
+    {
+      "t": 2739.78,
+      "text": "Yes, it helps people adapt faster."
+    },
+    {
+      "t": 2742.26,
+      "text": "Now, let's go deeper. In a real interview, the interviewer might ask more detailed questions."
+    },
+    {
+      "t": 2748.1,
+      "text": "For example, can you describe a specific challenge in detail?"
+    },
+    {
+      "t": 2751.86,
+      "text": "Yes, of course. One specific challenge was aligning different departments."
+    },
+    {
+      "t": 2756.82,
+      "text": "What do you mean by that?"
+    },
+    {
+      "t": 2758.18,
+      "text": "Every department had different needs and expectations."
+    },
+    {
+      "t": 2761.3,
+      "text": "That sounds complicated."
+    },
+    {
+      "t": 2762.98,
+      "text": "Yes, it was. For example, the finance team wanted detailed reports,"
+    },
+    {
+      "t": 2767.54,
+      "text": "while operations preferred simple summaries."
+    },
+    {
+      "t": 2770.5,
+      "text": "So you organized meetings to discuss priorities and find a balanced solution?"
+    },
+    {
+      "t": 2774.74,
+      "text": "That shows good teamwork and communication skills."
+    },
+    {
+      "t": 2777.3,
+      "text": "Thank you."
+    },
+    {
+      "t": 2778.1,
+      "text": "Now let's talk about structure."
+    },
+    {
+      "t": 2780.1,
+      "text": "How should someone organize their answer in a 30-minute explanation?"
+    },
+    {
+      "t": 2784.02,
+      "text": "A good structure is very important."
+    },
+    {
+      "t": 2786.42,
+      "text": "What structure do you recommend?"
+    },
+    {
+      "t": 2788.26,
+      "text": "First, explain the background."
+    },
+    {
+      "t": 2790.34,
+      "text": "Second, describe the goal."
+    },
+    {
+      "t": 2792.26,
+      "text": "Third, explain your role."
+    },
+    {
+      "t": 2794.18,
+      "text": "Fourth, talk about the process and challenges."
+    },
+    {
+      "t": 2796.9,
+      "text": "And finally, share the results and lessons learned."
+    },
+    {
+      "t": 2799.62,
+      "text": "That's very clear and easy to follow."
+    },
+    {
+      "t": 2801.86,
+      "text": "Yes, this structure helps you stay organized and confident."
+    },
+    {
+      "t": 2805.14,
+      "text": "Let's give another example for our listeners."
+    },
+    {
+      "t": 2807.62,
+      "text": "Imagine a smaller project."
+    },
+    {
+      "t": 2809.54,
+      "text": "Okay, for example, I worked on a project to improve team communication."
+    },
+    {
+      "t": 2814.34,
+      "text": "Then you explained the goal."
+    },
+    {
+      "t": 2815.94,
+      "text": "Yes, the goal was to reduce misunderstandings and improve efficiency."
+    },
+    {
+      "t": 2820.42,
+      "text": "Then your role?"
+    },
+    {
+      "t": 2821.54,
+      "text": "My role was to introduce a new communication tool."
+    },
+    {
+      "t": 2824.58,
+      "text": "Then challenges?"
+    },
+    {
+      "t": 2825.78,
+      "text": "One challenge was that some team members were resistant."
+    },
+    {
+      "t": 2828.9,
+      "text": "and finally results."
+    },
+    {
+      "t": 2830.74,
+      "text": "After implementation, communication improved,"
+    },
+    {
+      "t": 2833.46,
+      "text": "and task completion was faster."
+    },
+    {
+      "t": 2835.46,
+      "text": "That's a great simple example."
+    },
+    {
+      "t": 2837.38,
+      "text": "Yes, even small projects can be explained clearly using this method."
+    },
+    {
+      "t": 2841.3,
+      "text": "Before we finish, let's give one final tip."
+    },
+    {
+      "t": 2844.26,
+      "text": "Practice your answers out loud."
+    },
+    {
+      "t": 2846.34,
+      "text": "Yes, speaking practice is very important."
+    },
+    {
+      "t": 2849.06,
+      "text": "The more you practice, the more confident you will become."
+    },
+    {
+      "t": 2851.78,
+      "text": "And remember, your goal is clarity, not perfection."
+    },
+    {
+      "t": 2855.22,
+      "text": "Exactly."
+    },
+    {
+      "t": 2856.1,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 2858.18,
+      "text": "We hope this conversation helps you succeed in your interviews."
+    },
+    {
+      "t": 2861.46,
+      "text": "Keep practicing your English every day."
+    },
+    {
+      "t": 2863.7,
+      "text": "And we will see you in the next episode."
+    },
+    {
+      "t": 2865.7,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 2866.74,
+      "text": "Goodbye."
+    },
+    {
+      "t": 2867.38,
+      "text": "Hello and welcome to Professional English Podcast."
+    },
+    {
+      "t": 2871.3,
+      "text": "Hello, everyone, and welcome back to the podcast,"
+    },
+    {
+      "t": 2874.34,
+      "text": "where we help you speak English clearly and confidently in real workplace situations."
+    },
+    {
+      "t": 2880.02,
+      "text": "My name is Alex."
+    },
+    {
+      "t": 2881.54,
+      "text": "And I'm Sarah."
+    },
+    {
+      "t": 2882.66,
+      "text": "On this podcast, we focus on practical communication skills"
+    },
+    {
+      "t": 2887.06,
+      "text": "that you can use in interviews, meetings, and everyday professional conversations."
+    },
+    {
+      "t": 2892.66,
+      "text": "And today's topic is extremely important, especially if you are preparing for a job interview."
+    },
+    {
+      "t": 2899.06,
+      "text": "Yes, today we are going to talk about how to explain a project you worked on in 30 minutes"
+    },
+    {
+      "t": 2905.14,
+      "text": "during an interview. This is a very common situation. Many interviewers ask candidates"
+    },
+    {
+      "t": 2911.38,
+      "text": "to describe a project in detail. Exactly. They might say, can you walk me through a"
+    },
+    {
+      "t": 2916.98,
+      "text": "project you worked on or tell me about a project you are proud of? And sometimes they give you"
+    },
+    {
+      "t": 2922.9,
+      "text": "more time, like 20 to 30 minutes, to really explain everything clearly. That can feel"
+    },
+    {
+      "t": 2928.9,
+      "text": "stressful if you are not prepared. Yes, many people know their project very well,"
+    },
+    {
+      "t": 2934.42,
+      "text": "but they struggle to explain it in an organized way. So today we will show you"
+    },
+    {
+      "t": 2939.62,
+      "text": "how to explain a project step by step in a natural, clear, and professional way."
+    },
+    {
+      "t": 2945.78,
+      "text": "And we will also include practical examples so you can use the same structure in your own interviews."
+    },
+    {
+      "t": 2952.34,
+      "text": "Let's begin. Sarah, have you ever been asked to explain a project in an interview?"
+    },
+    {
+      "t": 2958.42,
+      "text": "Yes, many times. And at the beginning, I found it very difficult."
+    },
+    {
+      "t": 2963.38,
+      "text": "What made it difficult?"
+    },
+    {
+      "t": 2964.9,
+      "text": "I tried to explain everything at once. I talked about details, tools, results, and problems"
+    },
+    {
+      "t": 2971.86,
+      "text": "all together. It became confusing. That's very common. Many people think more information is better."
+    },
+    {
+      "t": 2979.14,
+      "text": "But actually, clear structure is more important than too much detail."
+    },
+    {
+      "t": 2983.94,
+      "text": "Exactly. So let's imagine a real interview situation. I am the interviewer and I ask you,"
+    },
+    {
+      "t": 2991.14,
+      "text": "Can you explain a project you worked on?"
+    },
+    {
+      "t": 2993.62,
+      "text": "Okay, I will answer step by step."
+    },
+    {
+      "t": 2996.34,
+      "text": "Great, go ahead."
+    },
+    {
+      "t": 2997.78,
+      "text": "Thank you."
+    },
+    {
+      "t": 2998.66,
+      "text": "One project I worked on recently was focused on improving our company's online booking system."
+    },
+    {
+      "t": 3004.9,
+      "text": "That's a very good opening."
+    },
+    {
+      "t": 3006.74,
+      "text": "It is simple and clear."
+    },
+    {
+      "t": 3008.5,
+      "text": "Yes, I think starting simple helps reduce stress."
+    },
+    {
+      "t": 3012.02,
+      "text": "Continue."
+    },
+    {
+      "t": 3012.82,
+      "text": "The main goal of the project was to make the booking process faster and more user-friendly"
+    },
+    {
+      "t": 3018.42,
+      "text": "because many customers were leaving the website before completing their bookings."
+    },
+    {
+      "t": 3022.98,
+      "text": "That's excellent. You explained the problem and the goal."
+    },
+    {
+      "t": 3026.98,
+      "text": "Yes, I think it is important to explain why the project existed."
+    },
+    {
+      "t": 3031.38,
+      "text": "Exactly. Without context, the listener may feel lost."
+    },
+    {
+      "t": 3035.78,
+      "text": "Now I will explain my role."
+    },
+    {
+      "t": 3037.94,
+      "text": "Go ahead."
+    },
+    {
+      "t": 3038.74,
+      "text": "In this project, I worked as a project coordinator."
+    },
+    {
+      "t": 3042.34,
+      "text": "My main responsibility was to manage communication between the design team,"
+    },
+    {
+      "t": 3047.38,
+      "text": "the development team and the marketing department."
+    },
+    {
+      "t": 3050.02,
+      "text": "That's very clear."
+    },
+    {
+      "t": 3051.54,
+      "text": "You used my responsibility, which is important in interviews."
+    },
+    {
+      "t": 3055.7,
+      "text": "Yes, because interviewers want to understand what I did personally."
+    },
+    {
+      "t": 3060.18,
+      "text": "Continue with the process."
+    },
+    {
+      "t": 3061.94,
+      "text": "The project started with research."
+    },
+    {
+      "t": 3064.26,
+      "text": "We analyzed customer behavior on the website"
+    },
+    {
+      "t": 3067.14,
+      "text": "and identified the points where users were leaving the process."
+    },
+    {
+      "t": 3070.9,
+      "text": "That sounds very practical."
+    },
+    {
+      "t": 3072.82,
+      "text": "Yes, and then we created a plan to redesign the booking steps."
+    },
+    {
+      "t": 3077.3,
+      "text": "Can you give more detail?"
+    },
+    {
+      "t": 3078.98,
+      "text": "Yes. For example, we reduced the number of steps from five to three"
+    },
+    {
+      "t": 3084.02,
+      "text": "and simplified the form fields so customers could complete bookings more quickly."
+    },
+    {
+      "t": 3088.82,
+      "text": "That's a great example. It shows real action."
+    },
+    {
+      "t": 3092.1,
+      "text": "Exactly. Specific examples make your explanation stronger."
+    },
+    {
+      "t": 3096.42,
+      "text": "What about challenges?"
+    },
+    {
+      "t": 3098.02,
+      "text": "One major challenge was that different teams had different opinions about the design."
+    },
+    {
+      "t": 3103.3,
+      "text": "The marketing team wanted more promotional content, while the design team wanted a simple layout."
+    },
+    {
+      "t": 3109.46,
+      "text": "That's a realistic challenge."
+    },
+    {
+      "t": 3111.46,
+      "text": "Yes, and to solve this, we organized weekly meetings to discuss priorities and find a balanced solution."
+    },
+    {
+      "t": 3118.5,
+      "text": "That shows leadership and communication skills."
+    },
+    {
+      "t": 3121.46,
+      "text": "Yes, and I think that is what interviewers look for."
+    },
+    {
+      "t": 3124.74,
+      "text": "Absolutely. Continue."
+    },
+    {
+      "t": 3126.66,
+      "text": "After finalizing the design, the development team implemented the changes and we tested"
+    },
+    {
+      "t": 3131.94,
+      "text": "the system with a small group of users before launching it fully."
+    },
+    {
+      "t": 3135.94,
+      "text": "That's a good example of a testing phase."
+    },
+    {
+      "t": 3138.58,
+      "text": "Yes, testing is very important in any project."
+    },
+    {
+      "t": 3142.34,
+      "text": "Now tell us about the results."
+    },
+    {
+      "t": 3144.42,
+      "text": "After the new system was launched, the booking completion rate increased by 25%"
+    },
+    {
+      "t": 3150.1,
+      "text": "and customer feedback became more positive."
+    },
+    {
+      "t": 3152.98,
+      "text": "That's an excellent result. You used numbers which is very powerful."
+    },
+    {
+      "t": 3157.7,
+      "text": "Yes, numbers make the impact clear."
+    },
+    {
+      "t": 3160.58,
+      "text": "And finally, what did you learn?"
+    },
+    {
+      "t": 3162.9,
+      "text": "I learned that clear communication between teams is essential for project success,"
+    },
+    {
+      "t": 3168.26,
+      "text": "and that small design changes can have a big impact on user experience."
+    },
+    {
+      "t": 3173.22,
+      "text": "That is a strong conclusion."
+    },
+    {
+      "t": 3175.22,
+      "text": "Thank you."
+    },
+    {
+      "t": 3175.94,
+      "text": "Now let's talk about something very important."
+    },
+    {
+      "t": 3178.98,
+      "text": "Time management during your explanation."
+    },
+    {
+      "t": 3181.78,
+      "text": "Yes, because explaining a project for 30 minutes requires balance."
+    },
+    {
+      "t": 3186.66,
+      "text": "You don't want to spend 25 minutes on the beginning and only 5 minutes on results."
+    },
+    {
+      "t": 3192.02,
+      "text": "Exactly. You should divide your time carefully."
+    },
+    {
+      "t": 3195.22,
+      "text": "For example, you can spend a few minutes on the introduction and goal."
+    },
+    {
+      "t": 3199.46,
+      "text": "Then more time on the process and your role."
+    },
+    {
+      "t": 3202.82,
+      "text": "And also enough time on challenges and results."
+    },
+    {
+      "t": 3206.34,
+      "text": "Yes, because those parts show your problem-solving skills."
+    },
+    {
+      "t": 3210.18,
+      "text": "Another important tip is to use simple language."
+    },
+    {
+      "t": 3213.7,
+      "text": "Yes, especially in interviews."
+    },
+    {
+      "t": 3215.94,
+      "text": "clarity is more important than complexity."
+    },
+    {
+      "t": 3218.82,
+      "text": "For example, instead of using very technical words, explain ideas in a simple way."
+    },
+    {
+      "t": 3224.9,
+      "text": "Imagine you are explaining your project to someone outside your field."
+    },
+    {
+      "t": 3229.22,
+      "text": "That will make your explanation easier to understand."
+    },
+    {
+      "t": 3232.5,
+      "text": "And interviewers will appreciate that."
+    },
+    {
+      "t": 3235.06,
+      "text": "Let's talk about confidence."
+    },
+    {
+      "t": 3237.14,
+      "text": "Yes, many people feel nervous when speaking for a long time."
+    },
+    {
+      "t": 3241.3,
+      "text": "What can they do?"
+    },
+    {
+      "t": 3242.5,
+      "text": "Practice is the best solution."
+    },
+    {
+      "t": 3244.66,
+      "text": "practice explaining your project out loud."
+    },
+    {
+      "t": 3247.38,
+      "text": "That's very important."
+    },
+    {
+      "t": 3249.14,
+      "text": "You can even record yourself and listen to your explanation."
+    },
+    {
+      "t": 3252.82,
+      "text": "That helps you improve structure and clarity."
+    },
+    {
+      "t": 3255.7,
+      "text": "Also, try to use natural transitions,"
+    },
+    {
+      "t": 3258.66,
+      "text": "like first, then, after that, and finally."
+    },
+    {
+      "t": 3262.26,
+      "text": "Those words help guide the listener."
+    },
+    {
+      "t": 3264.66,
+      "text": "Yes, they make your explanation feel organized."
+    },
+    {
+      "t": 3268.18,
+      "text": "Let's give one final full example, combining everything."
+    },
+    {
+      "t": 3272.18,
+      "text": "Great idea!"
+    },
+    {
+      "t": 3273.14,
+      "text": "Go ahead."
+    },
+    {
+      "t": 3274.1,
+      "text": "One project I worked on recently was improving internal communication within my company."
+    },
+    {
+      "t": 3280.18,
+      "text": "The goal was to reduce misunderstandings between departments and improve efficiency."
+    },
+    {
+      "t": 3285.98,
+      "text": "My role was to analyze communication problems and propose solutions."
+    },
+    {
+      "t": 3290.58,
+      "text": "Good start!"
+    },
+    {
+      "t": 3291.82,
+      "text": "We began by collecting feedback from employees through surveys and interviews."
+    },
+    {
+      "t": 3296.78,
+      "text": "We discovered that many issues were caused by unclear instructions and lack of regular"
+    },
+    {
+      "t": 3302.1,
+      "text": "updates."
+    },
+    {
+      "t": 3303.1,
+      "text": "very clear. Based on this, we introduced weekly team meetings and a shared online platform for updates."
+    },
+    {
+      "t": 3310.3,
+      "text": "One challenge was that some employees were not comfortable with new tools,"
+    },
+    {
+      "t": 3314.78,
+      "text": "so we provided simple training sessions. Good problem-solving example."
+    },
+    {
+      "t": 3319.5,
+      "text": "After implementation, communication improved significantly and project delays decreased"
+    },
+    {
+      "t": 3325.18,
+      "text": "by 20%. I learned that simple communication tools can make a big difference when used consistently."
+    },
+    {
+      "t": 3332.22,
+      "text": "That's an excellent explanation."
+    },
+    {
+      "t": 3334.38,
+      "text": "Thank you!"
+    },
+    {
+      "t": 3335.18,
+      "text": "So, to summarize, explaining a project in 30 minutes is about telling a clear story."
+    },
+    {
+      "t": 3341.5,
+      "text": "Start simple, stay organized, and focus on what matters."
+    },
+    {
+      "t": 3345.9,
+      "text": "And always remember to explain your role clearly."
+    },
+    {
+      "t": 3349.42,
+      "text": "Yes, because that is what interviewers care about most."
+    },
+    {
+      "t": 3353.02,
+      "text": "Now we have a question for our listeners."
+    },
+    {
+      "t": 3355.58,
+      "text": "Yes, this is your practice task."
+    },
+    {
+      "t": 3358.06,
+      "text": "Can you describe a project you worked on?"
+    },
+    {
+      "t": 3360.86,
+      "text": "Try to explain the goal, your role, the challenges, and the results."
+    },
+    {
+      "t": 3365.66,
+      "text": "You can practice speaking out loud."
+    },
+    {
+      "t": 3367.82,
+      "text": "Or write your answer and review it."
+    },
+    {
+      "t": 3370.14,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 3372.38,
+      "text": "We hope this episode helps you feel more confident in your next interview."
+    },
+    {
+      "t": 3376.86,
+      "text": "Keep practicing your English every day."
+    },
+    {
+      "t": 3379.42,
+      "text": "And remember, clear communication is the key to success."
+    },
+    {
+      "t": 3383.34,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 3384.54,
+      "text": "See you next time."
+    }
+  ],
+  "lemmas": [
+    [
+      "project",
+      138
+    ],
+    [
+      "team",
+      69
+    ],
+    [
+      "system",
+      58
+    ],
+    [
+      "explain",
+      54
+    ],
+    [
+      "customer",
+      53
+    ],
+    [
+      "work",
+      52
+    ],
+    [
+      "interview",
+      48
+    ],
+    [
+      "communication",
+      42
+    ],
+    [
+      "user",
+      40
+    ],
+    [
+      "role",
+      36
+    ],
+    [
+      "time",
+      34
+    ],
+    [
+      "new",
+      34
+    ],
+    [
+      "one",
+      33
+    ],
+    [
+      "clear",
+      32
+    ],
+    [
+      "result",
+      32
+    ],
+    [
+      "today",
+      31
+    ],
+    [
+      "goal",
+      31
+    ],
+    [
+      "challeng",
+      31
+    ],
+    [
+      "learn",
+      30
+    ],
+    [
+      "important",
+      30
+    ],
+    [
+      "also",
+      30
+    ],
+    [
+      "help",
+      29
+    ],
+    [
+      "exactly",
+      29
+    ],
+    [
+      "improv",
+      28
+    ],
+    [
+      "step",
+      27
+    ],
+    [
+      "good",
+      27
+    ],
+    [
+      "process",
+      27
+    ],
+    [
+      "test",
+      27
+    ],
+    [
+      "different",
+      26
+    ],
+    [
+      "start",
+      25
+    ],
+    [
+      "department",
+      25
+    ],
+    [
+      "data",
+      24
+    ],
+    [
+      "english",
+      23
+    ],
+    [
+      "thank",
+      22
+    ],
+    [
+      "feedback",
+      22
+    ],
+    [
+      "practice",
+      21
+    ],
+    [
+      "detail",
+      21
+    ],
+    [
+      "sound",
+      21
+    ],
+    [
+      "problem",
+      21
+    ],
+    [
+      "phase",
+      21
+    ],
+    [
+      "design",
+      21
+    ],
+    [
+      "make",
+      21
+    ],
+    [
+      "many",
+      20
+    ],
+    [
+      "example",
+      20
+    ],
+    [
+      "everyone",
+      19
+    ],
+    [
+      "minut",
+      19
+    ],
+    [
+      "answer",
+      19
+    ],
+    [
+      "want",
+      19
+    ],
+    [
+      "organiz",
+      19
+    ],
+    [
+      "conversation",
+      18
+    ],
+    [
+      "interviewer",
+      18
+    ],
+    [
+      "talk",
+      18
+    ],
+    [
+      "focus",
+      18
+    ],
+    [
+      "need",
+      18
+    ],
+    [
+      "real",
+      17
+    ],
+    [
+      "situation",
+      17
+    ],
+    [
+      "question",
+      17
+    ],
+    [
+      "improvement",
+      17
+    ],
+    [
+      "meeting",
+      17
+    ],
+    [
+      "development",
+      17
+    ],
+    [
+      "simple",
+      17
+    ],
+    [
+      "speak",
+      16
+    ],
+    [
+      "company",
+      16
+    ],
+    [
+      "first",
+      16
+    ],
+    [
+      "solution",
+      16
+    ],
+    [
+      "technical",
+      16
+    ],
+    [
+      "show",
+      16
+    ],
+    [
+      "support",
+      16
+    ],
+    [
+      "issu",
+      16
+    ],
+    [
+      "delay",
+      16
+    ],
+    [
+      "see",
+      15
+    ],
+    [
+      "final",
+      15
+    ],
+    [
+      "ticket",
+      15
+    ],
+    [
+      "mak",
+      14
+    ],
+    [
+      "clearly",
+      14
+    ],
+    [
+      "main",
+      14
+    ],
+    [
+      "structure",
+      14
+    ],
+    [
+      "onboard",
+      14
+    ],
+    [
+      "challenge",
+      14
+    ],
+    [
+      "understand",
+      13
+    ],
+    [
+      "begin",
+      13
+    ],
+    [
+      "next",
+      13
+    ],
+    [
+      "plan",
+      13
+    ],
+    [
+      "report",
+      13
+    ],
+    [
+      "employe",
+      13
+    ],
+    [
+      "use",
+      13
+    ],
+    [
+      "us",
+      12
+    ],
+    [
+      "job",
+      12
+    ],
+    [
+      "tell",
+      12
+    ],
+    [
+      "great",
+      12
+    ],
+    [
+      "give",
+      12
+    ],
+    [
+      "background",
+      12
+    ],
+    [
+      "improve",
+      12
+    ],
+    [
+      "faster",
+      12
+    ],
+    [
+      "explanation",
+      12
+    ],
+    [
+      "much",
+      12
+    ],
+    [
+      "welcome",
+      11
+    ],
+    [
+      "ask",
+      11
+    ],
+    [
+      "feel",
+      11
+    ],
+    [
+      "experience",
+      11
+    ],
+    [
+      "sure",
+      11
+    ],
+    [
+      "find",
+      11
+    ],
+    [
+      "keep",
+      11
+    ],
+    [
+      "skill",
+      11
+    ],
+    [
+      "tool",
+      11
+    ],
+    [
+      "daniel",
+      10
+    ],
+    [
+      "practical",
+      10
+    ],
+    [
+      "common",
+      10
+    ],
+    [
+      "person",
+      10
+    ],
+    [
+      "imagine",
+      10
+    ],
+    [
+      "strong",
+      10
+    ],
+    [
+      "chang",
+      10
+    ],
+    [
+      "launch",
+      10
+    ],
+    [
+      "increas",
+      10
+    ],
+    [
+      "excellent",
+      10
+    ],
+    [
+      "professional",
+      10
+    ],
+    [
+      "implementation",
+      10
+    ],
+    [
+      "small",
+      10
+    ],
+    [
+      "train",
+      10
+    ],
+    [
+      "hello",
+      9
+    ],
+    [
+      "business",
+      9
+    ],
+    [
+      "podcast",
+      9
+    ],
+    [
+      "exampl",
+      9
+    ],
+    [
+      "long",
+      9
+    ],
+    [
+      "performance",
+      9
+    ],
+    [
+      "management",
+      9
+    ],
+    [
+      "collect",
+      9
+    ],
+    [
+      "implement",
+      9
+    ],
+    [
+      "used",
+      9
+    ],
+    [
+      "go",
+      9
+    ],
+    [
+      "confident",
+      9
+    ],
+    [
+      "pilot",
+      9
+    ],
+    [
+      "reduce",
+      9
+    ],
+    [
+      "listen",
+      8
+    ],
+    [
+      "back",
+      8
+    ],
+    [
+      "think",
+      8
+    ],
+    [
+      "recently",
+      8
+    ],
+    [
+      "conversion",
+      8
+    ],
+    [
+      "rate",
+      8
+    ],
+    [
+      "way",
+      8
+    ],
+    [
+      "analyz",
+      8
+    ],
+    [
+      "stay",
+      8
+    ],
+    [
+      "track",
+      8
+    ],
+    [
+      "happen",
+      8
+    ],
+    [
+      "positive",
+      8
+    ],
+    [
+      "satisfaction",
+      8
+    ],
+    [
+      "difficult",
+      8
+    ],
+    [
+      "describe",
+      8
+    ],
+    [
+      "major",
+      8
+    ],
+    [
+      "another",
+      8
+    ],
+    [
+      "response",
+      8
+    ],
+    [
+      "dashboard",
+      8
+    ],
+    [
+      "happy",
+      7
+    ],
+    [
+      "workplace",
+      7
+    ],
+    [
+      "topic",
+      7
+    ],
+    [
+      "especially",
+      7
+    ],
+    [
+      "platform",
+      7
+    ],
+    [
+      "decreas",
+      7
+    ],
+    [
+      "within",
+      7
+    ],
+    [
+      "discover",
+      7
+    ],
+    [
+      "checkout",
+      7
+    ],
+    [
+      "key",
+      7
+    ],
+    [
+      "bas",
+      7
+    ],
+    [
+      "sometim",
+      7
+    ],
+    [
+      "regular",
+      7
+    ],
+    [
+      "valuable",
+      7
+    ],
+    [
+      "manage",
+      7
+    ],
+    [
+      "ensure",
+      7
+    ],
+    [
+      "listener",
+      7
+    ],
+    [
+      "meet",
+      7
+    ],
+    [
+      "end",
+      7
+    ],
+    [
+      "biggest",
+      7
+    ],
+    [
+      "episode",
+      7
+    ],
+    [
+      "goodbye",
+      7
+    ],
+    [
+      "without",
+      7
+    ],
+    [
+      "action",
+      7
+    ],
+    [
+      "using",
+      7
+    ],
+    [
+      "session",
+      7
+    ],
+    [
+      "change",
+      7
+    ],
+    [
+      "internal",
+      7
+    ],
+    [
+      "became",
+      7
+    ],
+    [
+      "big",
+      7
+    ],
+    [
+      "hour",
+      7
+    ],
+    [
+      "reduc",
+      7
+    ],
+    [
+      "naturally",
+      6
+    ],
+    [
+      "often",
+      6
+    ],
+    [
+      "organize",
+      6
+    ],
+    [
+      "going",
+      6
+    ],
+    [
+      "course",
+      6
+    ],
+    [
+      "significantly",
+      6
+    ],
+    [
+      "three",
+      6
+    ],
+    [
+      "responsible",
+      6
+    ],
+    [
+      "timeline",
+      6
+    ],
+    [
+      "kind",
+      6
+    ],
+    [
+      "cross-functional",
+      6
+    ],
+    [
+      "complicat",
+      6
+    ],
+    [
+      "usability",
+      6
+    ],
+    [
+      "identify",
+      6
+    ],
+    [
+      "idea",
+      6
+    ],
+    [
+      "redesign",
+      6
+    ],
+    [
+      "impact",
+      6
+    ],
+    [
+      "align",
+      6
+    ],
+    [
+      "importance",
+      6
+    ],
+    [
+      "decision",
+      6
+    ],
+    [
+      "continue",
+      6
+    ],
+    [
+      "creat",
+      6
+    ],
+    [
+      "weekly",
+      6
+    ],
+    [
+      "progress",
+      6
+    ],
+    [
+      "even",
+      6
+    ],
+    [
+      "identifi",
+      6
+    ],
+    [
+      "say",
+      6
+    ],
+    [
+      "finish",
+      6
+    ],
+    [
+      "try",
+      6
+    ],
+    [
+      "hope",
+      6
+    ],
+    [
+      "closely",
+      6
+    ],
+    [
+      "everyth",
+      6
+    ],
+    [
+      "resistance",
+      6
+    ],
+    [
+      "efficiency",
+      6
+    ],
+    [
+      "confidently",
+      5
+    ],
+    [
+      "prepar",
+      5
+    ],
+    [
+      "hear",
+      5
+    ],
+    [
+      "realistic",
+      5
+    ],
+    [
+      "slow",
+      5
+    ],
+    [
+      "solve",
+      5
+    ],
+    [
+      "overall",
+      5
+    ],
+    [
+      "lead",
+      5
+    ],
+    [
+      "market",
+      5
+    ],
+    [
+      "analysis",
+      5
+    ],
+    [
+      "complex",
+      5
+    ],
+    [
+      "research",
+      5
+    ],
+    [
+      "behavior",
+      5
+    ],
+    [
+      "website",
+      5
+    ],
+    [
+      "interface",
+      5
+    ],
+    [
+      "face",
+      5
+    ],
+    [
+      "handle",
+      5
+    ],
+    [
+      "conduct",
+      5
+    ],
+    [
+      "group",
+      5
+    ],
+    [
+      "completion",
+      5
+    ],
+    [
+      "roll",
+      5
+    ],
+    [
+      "finally",
+      5
+    ],
+    [
+      "task",
+      5
+    ],
+    [
+      "understood",
+      5
+    ],
+    [
+      "clarity",
+      5
+    ],
+    [
+      "story",
+      5
+    ],
+    [
+      "simplifi",
+      5
+    ],
+    [
+      "structur",
+      5
+    ],
+    [
+      "include",
+      5
+    ],
+    [
+      "loud",
+      5
+    ],
+    [
+      "practic",
+      5
+    ],
+    [
+      "candidat",
+      5
+    ],
+    [
+      "stage",
+      5
+    ],
+    [
+      "approach",
+      5
+    ],
+    [
+      "full",
+      5
+    ],
+    [
+      "take",
+      5
+    ],
+    [
+      "alway",
+      5
+    ],
+    [
+      "remember",
+      5
+    ],
+    [
+      "number",
+      5
+    ],
+    [
+      "manual",
+      5
+    ],
+    [
+      "week",
+      5
+    ],
+    [
+      "provid",
+      5
+    ],
+    [
+      "exist",
+      5
+    ],
+    [
+      "perfect",
+      4
+    ],
+    [
+      "sophia",
+      4
+    ],
+    [
+      "everyday",
+      4
+    ],
+    [
+      "nervous",
+      4
+    ],
+    [
+      "know",
+      4
+    ],
+    [
+      "walk",
+      4
+    ],
+    [
+      "online",
+      4
+    ],
+    [
+      "interest",
+      4
+    ],
+    [
+      "increase",
+      4
+    ],
+    [
+      "coordinat",
+      4
+    ],
+    [
+      "ensur",
+      4
+    ],
+    [
+      "includ",
+      4
+    ],
+    [
+      "rat",
+      4
+    ],
+    [
+      "tim",
+      4
+    ],
+    [
+      "significant",
+      4
+    ],
+    [
+      "mov",
+      4
+    ],
+    [
+      "several",
+      4
+    ],
+    [
+      "affect",
+      4
+    ],
+    [
+      "sense",
+      4
+    ],
+    [
+      "prioriti",
+      4
+    ],
+    [
+      "began",
+      4
+    ],
+    [
+      "old",
+      4
+    ],
+    [
+      "survey",
+      4
+    ],
+    [
+      "involve",
+      4
+    ],
+    [
+      "insight",
+      4
+    ],
+    [
+      "shar",
+      4
+    ],
+    [
+      "however",
+      4
+    ],
+    [
+      "useful",
+      4
+    ],
+    [
+      "deeper",
+      4
+    ],
+    [
+      "minute",
+      4
+    ],
+    [
+      "stakeholder",
+      4
+    ],
+    [
+      "decid",
+      4
+    ],
+    [
+      "featur",
+      4
+    ],
+    [
+      "become",
+      4
+    ],
+    [
+      "easier",
+      4
+    ],
+    [
+      "get",
+      4
+    ],
+    [
+      "coordinator",
+      4
+    ],
+    [
+      "flow",
+      4
+    ],
+    [
+      "requir",
+      4
+    ],
+    [
+      "information",
+      4
+    ],
+    [
+      "entire",
+      4
+    ],
+    [
+      "collaboration",
+      4
+    ],
+    [
+      "balanc",
+      4
+    ],
+    [
+      "instead",
+      4
+    ],
+    [
+      "point",
+      4
+    ],
+    [
+      "summarize",
+      4
+    ],
+    [
+      "caus",
+      4
+    ],
+    [
+      "centraliz",
+      4
+    ],
+    [
+      "adapt",
+      4
+    ],
+    [
+      "tip",
+      4
+    ],
+    [
+      "specific",
+      4
+    ],
+    [
+      "requirement",
+      4
+    ],
+    [
+      "updat",
+      4
+    ],
+    [
+      "format",
+      4
+    ],
+    [
+      "five",
+      4
+    ],
+    [
+      "expectation",
+      4
+    ],
+    [
+      "every",
+      4
+    ],
+    [
+      "operation",
+      4
+    ],
+    [
+      "involv",
+      4
+    ],
+    [
+      "responsibility",
+      4
+    ],
+    [
+      "easy",
+      4
+    ],
+    [
+      "comfortable",
+      4
+    ],
+    [
+      "spend",
+      4
+    ],
+    [
+      "error",
+      4
+    ],
+    [
+      "book",
+      4
+    ],
+    [
+      "hi",
+      3
+    ],
+    [
+      "channel",
+      3
+    ],
+    [
+      "previous",
+      3
+    ],
+    [
+      "sal",
+      3
+    ],
+    [
+      "engagement",
+      3
+    ],
+    [
+      "month",
+      3
+    ],
+    [
+      "measurable",
+      3
+    ],
+    [
+      "leav",
+      3
+    ],
+    [
+      "complaint",
+      3
+    ],
+    [
+      "issue",
+      3
+    ],
+    [
+      "simplify",
+      3
+    ],
+    [
+      "prioritiz",
+      3
+    ],
+    [
+      "finaliz",
+      3
+    ],
+    [
+      "successful",
+      3
+    ],
+    [
+      "effective",
+      3
+    ],
+    [
+      "anyth",
+      3
+    ],
+    [
+      "earlier",
+      3
+    ],
+    [
+      "moment",
+      3
+    ],
+    [
+      "follow",
+      3
+    ],
+    [
+      "introduc",
+      3
+    ],
+    [
+      "adjust",
+      3
+    ],
+    [
+      "schedule",
+      3
+    ],
+    [
+      "critical",
+      3
+    ],
+    [
+      "responsibiliti",
+      3
+    ],
+    [
+      "teamwork",
+      3
+    ],
+    [
+      "stability",
+      3
+    ],
+    [
+      "decision-mak",
+      3
+    ],
+    [
+      "confidence",
+      3
+    ],
+    [
+      "learner",
+      3
+    ],
+    [
+      "perfection",
+      3
+    ],
+    [
+      "complete",
+      3
+    ],
+    [
+      "led",
+      3
+    ],
+    [
+      "coordinate",
+      3
+    ],
+    [
+      "succe",
+      3
+    ],
+    [
+      "struggle",
+      3
+    ],
+    [
+      "presentation",
+      3
+    ],
+    [
+      "relat",
+      3
+    ],
+    [
+      "confusion",
+      3
+    ],
+    [
+      "complet",
+      3
+    ],
+    [
+      "third",
+      3
+    ],
+    [
+      "user-friendly",
+      3
+    ],
+    [
+      "pressure",
+      3
+    ],
+    [
+      "smart",
+      3
+    ],
+    [
+      "build",
+      3
+    ],
+    [
+      "company-wide",
+      3
+    ],
+    [
+      "adjustment",
+      3
+    ],
+    [
+      "receive",
+      3
+    ],
+    [
+      "respons",
+      3
+    ],
+    [
+      "prefer",
+      3
+    ],
+    [
+      "benefit",
+      3
+    ],
+    [
+      "develop",
+      3
+    ],
+    [
+      "lack",
+      3
+    ],
+    [
+      "manager",
+      3
+    ],
+    [
+      "create",
+      3
+    ],
+    [
+      "manag",
+      3
+    ],
+    [
+      "part",
+      3
+    ],
+    [
+      "accurate",
+      3
+    ],
+    [
+      "accuracy",
+      3
+    ],
+    [
+      "two",
+      3
+    ],
+    [
+      "look",
+      3
+    ],
+    [
+      "lesson",
+      3
+    ],
+    [
+      "day",
+      3
+    ],
+    [
+      "workload",
+      3
+    ],
+    [
+      "program",
+      3
+    ],
+    [
+      "ahead",
+      3
+    ],
+    [
+      "anyone",
+      2
+    ],
+    [
+      "interview-style",
+      2
+    ],
+    [
+      "break",
+      2
+    ],
+    [
+      "behind",
+      2
+    ],
+    [
+      "bit",
+      2
+    ],
+    [
+      "e-commerce",
+      2
+    ],
+    [
+      "notic",
+      2
+    ],
+    [
+      "growth",
+      2
+    ],
+    [
+      "year",
+      2
+    ],
+    [
+      "least",
+      2
+    ],
+    [
+      "member",
+      2
+    ],
+    [
+      "setup",
+      2
+    ],
+    [
+      "spe",
+      2
+    ],
+    [
+      "decide",
+      2
+    ],
+    [
+      "feasibility",
+      2
+    ],
+    [
+      "high",
+      2
+    ],
+    [
+      "directly",
+      2
+    ],
+    [
+      "share",
+      2
+    ],
+    [
+      "individual",
+      2
+    ],
+    [
+      "preferenc",
+      2
+    ],
+    [
+      "leadership",
+      2
+    ],
+    [
+      "campaign",
+      2
+    ],
+    [
+      "a-b",
+      2
+    ],
+    [
+      "version",
+      2
+    ],
+    [
+      "impressive",
+      2
+    ],
+    [
+      "fully",
+      2
+    ],
+    [
+      "target",
+      2
+    ],
+    [
+      "personally",
+      2
+    ],
+    [
+      "data-driven",
+      2
+    ],
+    [
+      "across",
+      2
+    ],
+    [
+      "differently",
+      2
+    ],
+    [
+      "reflection",
+      2
+    ],
+    [
+      "notice",
+      2
+    ],
+    [
+      "check-in",
+      2
+    ],
+    [
+      "ever",
+      2
+    ],
+    [
+      "flexibility",
+      2
+    ],
+    [
+      "simulate",
+      2
+    ],
+    [
+      "briefly",
+      2
+    ],
+    [
+      "expand",
+      2
+    ],
+    [
+      "serious",
+      2
+    ],
+    [
+      "certain",
+      2
+    ],
+    [
+      "taught",
+      2
+    ],
+    [
+      "balance",
+      2
+    ],
+    [
+      "advice",
+      2
+    ],
+    [
+      "initiative",
+      2
+    ],
+    [
+      "address",
+      2
+    ],
+    [
+      "extremely",
+      2
+    ],
+    [
+      "overview",
+      2
+    ],
+    [
+      "service",
+      2
+    ],
+    [
+      "summary",
+      2
+    ],
+    [
+      "drop",
+      2
+    ],
+    [
+      "confus",
+      2
+    ],
+    [
+      "abandon",
+      2
+    ],
+    [
+      "registration",
+      2
+    ],
+    [
+      "time-consum",
+      2
+    ],
+    [
+      "act",
+      2
+    ],
+    [
+      "bridge",
+      2
+    ],
+    [
+      "smaller",
+      2
+    ],
+    [
+      "developer",
+      2
+    ],
+    [
+      "definitely",
+      2
+    ],
+    [
+      "opinion",
+      2
+    ],
+    [
+      "concern",
+      2
+    ],
+    [
+      "alignment",
+      2
+    ],
+    [
+      "fix",
+      2
+    ],
+    [
+      "drop-off",
+      2
+    ],
+    [
+      "run",
+      2
+    ],
+    [
+      "personal",
+      2
+    ],
+    [
+      "analyze",
+      2
+    ],
+    [
+      "complexity",
+      2
+    ],
+    [
+      "propos",
+      2
+    ],
+    [
+      "hesitant",
+      2
+    ],
+    [
+      "gradually",
+      2
+    ],
+    [
+      "around",
+      2
+    ],
+    [
+      "advanc",
+      2
+    ],
+    [
+      "outcom",
+      2
+    ],
+    [
+      "name",
+      2
+    ],
+    [
+      "allow",
+      2
+    ],
+    [
+      "speaker",
+      2
+    ],
+    [
+      "manually",
+      2
+    ],
+    [
+      "automatically",
+      2
+    ],
+    [
+      "objective",
+      2
+    ],
+    [
+      "defin",
+      2
+    ],
+    [
+      "discovery",
+      2
+    ],
+    [
+      "daily",
+      2
+    ],
+    [
+      "gather",
+      2
+    ],
+    [
+      "access",
+      2
+    ],
+    [
+      "still",
+      2
+    ],
+    [
+      "integration",
+      2
+    ],
+    [
+      "absolutely",
+      2
+    ],
+    [
+      "acceptance",
+      2
+    ],
+    [
+      "mean",
+      2
+    ],
+    [
+      "slightly",
+      2
+    ],
+    [
+      "ad",
+      2
+    ],
+    [
+      "guide",
+      2
+    ],
+    [
+      "essential",
+      2
+    ],
+    [
+      "respond",
+      2
+    ],
+    [
+      "deliver",
+      2
+    ],
+    [
+      "later",
+      2
+    ],
+    [
+      "early",
+      2
+    ],
+    [
+      "save",
+      2
+    ],
+    [
+      "effectively",
+      2
+    ],
+    [
+      "rush",
+      2
+    ],
+    [
+      "language",
+      2
+    ],
+    [
+      "alright",
+      2
+    ],
+    [
+      "handl",
+      2
+    ],
+    [
+      "fac",
+      2
+    ],
+    [
+      "receiv",
+      2
+    ],
+    [
+      "inquiri",
+      2
+    ],
+    [
+      "assign",
+      2
+    ],
+    [
+      "cas",
+      2
+    ],
+    [
+      "properly",
+      2
+    ],
+    [
+      "together",
+      2
+    ],
+    [
+      "second",
+      2
+    ],
+    [
+      "proper",
+      2
+    ],
+    [
+      "urgent",
+      2
+    ],
+    [
+      "request",
+      2
+    ],
+    [
+      "propose",
+      2
+    ],
+    [
+      "automat",
+      2
+    ],
+    [
+      "coordination",
+      2
+    ],
+    [
+      "instruction",
+      2
+    ],
+    [
+      "consistent",
+      2
+    ],
+    [
+      "conflict",
+      2
+    ],
+    [
+      "integrat",
+      2
+    ],
+    [
+      "unclear",
+      2
+    ],
+    [
+      "layout",
+      2
+    ],
+    [
+      "react",
+      2
+    ],
+    [
+      "cautious",
+      2
+    ],
+    [
+      "carefully",
+      2
+    ],
+    [
+      "standard",
+      2
+    ],
+    [
+      "finance",
+      2
+    ],
+    [
+      "quickly",
+      2
+    ],
+    [
+      "difference",
+      2
+    ],
+    [
+      "discuss",
+      2
+    ],
+    [
+      "someone",
+      2
+    ],
+    [
+      "misunderstanding",
+      2
+    ],
+    [
+      "sarah",
+      2
+    ],
+    [
+      "natural",
+      2
+    ],
+    [
+      "booking",
+      2
+    ],
+    [
+      "field",
+      2
+    ],
+    [
+      "success",
+      2
+    ],
+    [
+      "problem-solv",
+      2
+    ],
+    [
+      "word",
+      2
+    ],
+    [
+      "employer",
+      1
+    ],
+    [
+      "value",
+      1
+    ],
+    [
+      "past",
+      1
+    ],
+    [
+      "lower",
+      1
+    ],
+    [
+      "industry",
+      1
+    ],
+    [
+      "benchmark",
+      1
+    ],
+    [
+      "reason",
+      1
+    ],
+    [
+      "decline",
+      1
+    ],
+    [
+      "page",
+      1
+    ],
+    [
+      "visit",
+      1
+    ],
+    [
+      "bounce",
+      1
+    ],
+    [
+      "load",
+      1
+    ],
+    [
+      "realiz",
+      1
+    ],
+    [
+      "brainstorm",
+      1
+    ],
+    [
+      "priority",
+      1
+    ],
+    [
+      "disagreement",
+      1
+    ],
+    [
+      "perspectiv",
+      1
+    ],
+    [
+      "rather",
+      1
+    ],
+    [
+      "comparison",
+      1
+    ],
+    [
+      "exceed",
+      1
+    ],
+    [
+      "thoughtful",
+      1
+    ],
+    [
+      "pause",
+      1
+    ],
+    [
+      "describ",
+      1
+    ],
+    [
+      "solv",
+      1
+    ],
+    [
+      "mileston",
+      1
+    ],
+    [
+      "necessary",
+      1
+    ],
+    [
+      "due",
+      1
+    ],
+    [
+      "document",
+      1
+    ],
+    [
+      "shorter",
+      1
+    ],
+    [
+      "direct",
+      1
+    ],
+    [
+      "concise",
+      1
+    ],
+    [
+      "limit",
+      1
+    ],
+    [
+      "storytell",
+      1
+    ],
+    [
+      "whether",
+      1
+    ],
+    [
+      "evaluat",
+      1
+    ],
+    [
+      "risk",
+      1
+    ],
+    [
+      "innovation",
+      1
+    ],
+    [
+      "practicality",
+      1
+    ],
+    [
+      "true",
+      1
+    ],
+    [
+      "slowly",
+      1
+    ],
+    [
+      "thought",
+      1
+    ],
+    [
+      "middle",
+      1
+    ],
+    [
+      "extend",
+      1
+    ],
+    [
+      "please",
+      1
+    ],
+    [
+      "highlight",
+      1
+    ],
+    [
+      "experienc",
+      1
+    ],
+    [
+      "declin",
+      1
+    ],
+    [
+      "effort",
+      1
+    ],
+    [
+      "finding",
+      1
+    ],
+    [
+      "level",
+      1
+    ],
+    [
+      "aim",
+      1
+    ],
+    [
+      "youll",
+      1
+    ],
+    [
+      "bye",
+      1
+    ],
+    [
+      "either",
+      1
+    ],
+    [
+      "generally",
+      1
+    ],
+    [
+      "long-form",
+      1
+    ],
+    [
+      "reuse",
+      1
+    ],
+    [
+      "expression",
+      1
+    ],
+    [
+      "let",
+      1
+    ],
+    [
+      "giv",
+      1
+    ],
+    [
+      "smoother",
+      1
+    ],
+    [
+      "analyst",
+      1
+    ],
+    [
+      "product",
+      1
+    ],
+    [
+      "suggest",
+      1
+    ],
+    [
+      "connect",
+      1
+    ],
+    [
+      "stuck",
+      1
+    ],
+    [
+      "overwhelm",
+      1
+    ],
+    [
+      "map",
+      1
+    ],
+    [
+      "journey",
+      1
+    ],
+    [
+      "broke",
+      1
+    ],
+    [
+      "simpler",
+      1
+    ],
+    [
+      "less",
+      1
+    ],
+    [
+      "designer",
+      1
+    ],
+    [
+      "ux",
+      1
+    ],
+    [
+      "technically",
+      1
+    ],
+    [
+      "possible",
+      1
+    ],
+    [
+      "simplicity",
+      1
+    ],
+    [
+      "limitation",
+      1
+    ],
+    [
+      "else",
+      1
+    ],
+    [
+      "wrong",
+      1
+    ],
+    [
+      "tight",
+      1
+    ],
+    [
+      "deadline",
+      1
+    ],
+    [
+      "move",
+      1
+    ],
+    [
+      "continuous",
+      1
+    ],
+    [
+      "globally",
+      1
+    ],
+    [
+      "percent",
+      1
+    ],
+    [
+      "clearer",
+      1
+    ],
+    [
+      "halfway",
+      1
+    ],
+    [
+      "deeply",
+      1
+    ],
+    [
+      "ability",
+      1
+    ],
+    [
+      "typ",
+      1
+    ],
+    [
+      "gap",
+      1
+    ],
+    [
+      "studi",
+      1
+    ],
+    [
+      "pattern",
+      1
+    ],
+    [
+      "evaluate",
+      1
+    ],
+    [
+      "switch",
+      1
+    ],
+    [
+      "forget",
+      1
+    ],
+    [
+      "vocabulary",
+      1
+    ],
+    [
+      "love",
+      1
+    ],
+    [
+      "importantly",
+      1
+    ],
+    [
+      "calm",
+      1
+    ],
+    [
+      "already",
+      1
+    ],
+    [
+      "bring",
+      1
+    ],
+    [
+      "marco",
+      1
+    ],
+    [
+      "erica",
+      1
+    ],
+    [
+      "communicate",
+      1
+    ],
+    [
+      "worry",
+      1
+    ],
+    [
+      "thing",
+      1
+    ],
+    [
+      "opportunity",
+      1
+    ],
+    [
+      "depth",
+      1
+    ],
+    [
+      "scenario",
+      1
+    ],
+    [
+      "phras",
+      1
+    ],
+    [
+      "join",
+      1
+    ],
+    [
+      "view",
+      1
+    ],
+    [
+      "consum",
+      1
+    ],
+    [
+      "inaccurate",
+      1
+    ],
+    [
+      "display",
+      1
+    ],
+    [
+      "indicator",
+      1
+    ],
+    [
+      "inform",
+      1
+    ],
+    [
+      "scope",
+      1
+    ],
+    [
+      "set",
+      1
+    ],
+    [
+      "timelin",
+      1
+    ],
+    [
+      "deadlin",
+      1
+    ],
+    [
+      "non-technical",
+      1
+    ],
+    [
+      "current",
+      1
+    ],
+    [
+      "efficiently",
+      1
+    ],
+    [
+      "thorough",
+      1
+    ],
+    [
+      "automation",
+      1
+    ],
+    [
+      "allocat",
+      1
+    ],
+    [
+      "resourc",
+      1
+    ],
+    [
+      "roadmap",
+      1
+    ],
+    [
+      "technologi",
+      1
+    ],
+    [
+      "flexible",
+      1
+    ],
+    [
+      "customize",
+      1
+    ],
+    [
+      "accord",
+      1
+    ],
+    [
+      "built",
+      1
+    ],
+    [
+      "meanwhile",
+      1
+    ],
+    [
+      "period",
+      1
+    ],
+    [
+      "since",
+      1
+    ],
+    [
+      "come",
+      1
+    ],
+    [
+      "combine",
+      1
+    ],
+    [
+      "outdat",
+      1
+    ],
+    [
+      "custom",
+      1
+    ],
+    [
+      "slight",
+      1
+    ],
+    [
+      "communicat",
+      1
+    ],
+    [
+      "transparency",
+      1
+    ],
+    [
+      "maintain",
+      1
+    ],
+    [
+      "trust",
+      1
+    ],
+    [
+      "perform",
+      1
+    ],
+    [
+      "provide",
+      1
+    ],
+    [
+      "functionality",
+      1
+    ],
+    [
+      "overlook",
+      1
+    ],
+    [
+      "real-time",
+      1
+    ],
+    [
+      "instantly",
+      1
+    ],
+    [
+      "measure",
+      1
+    ],
+    [
+      "achievement",
+      1
+    ],
+    [
+      "successfully",
+      1
+    ],
+    [
+      "diverse",
+      1
+    ],
+    [
+      "involvement",
+      1
+    ],
+    [
+      "revision",
+      1
+    ],
+    [
+      "overcame",
+      1
+    ],
+    [
+      "contribution",
+      1
+    ],
+    [
+      "fail",
+      1
+    ],
+    [
+      "candidate",
+      1
+    ],
+    [
+      "quality",
+      1
+    ],
+    [
+      "efficient",
+      1
+    ],
+    [
+      "incorrectly",
+      1
+    ],
+    [
+      "wait",
+      1
+    ],
+    [
+      "dissatisfaction",
+      1
+    ],
+    [
+      "negative",
+      1
+    ],
+    [
+      "volum",
+      1
+    ],
+    [
+      "resolution",
+      1
+    ],
+    [
+      "bottleneck",
+      1
+    ],
+    [
+      "categoriz",
+      1
+    ],
+    [
+      "mix",
+      1
+    ],
+    [
+      "prioritization",
+      1
+    ],
+    [
+      "large",
+      1
+    ],
+    [
+      "amount",
+      1
+    ],
+    [
+      "categorize",
+      1
+    ],
+    [
+      "incom",
+      1
+    ],
+    [
+      "keyword",
+      1
+    ],
+    [
+      "urgency",
+      1
+    ],
+    [
+      "correct",
+      1
+    ],
+    [
+      "prioritize",
+      1
+    ],
+    [
+      "cod",
+      1
+    ],
+    [
+      "software",
+      1
+    ],
+    [
+      "play",
+      1
+    ],
+    [
+      "translat",
+      1
+    ],
+    [
+      "workflow",
+      1
+    ],
+    [
+      "lot",
+      1
+    ],
+    [
+      "highest",
+      1
+    ],
+    [
+      "worri",
+      1
+    ],
+    [
+      "afraid",
+      1
+    ],
+    [
+      "mistak",
+      1
+    ],
+    [
+      "step-by-step",
+      1
+    ],
+    [
+      "guid",
+      1
+    ],
+    [
+      "hands-on",
+      1
+    ],
+    [
+      "workshop",
+      1
+    ],
+    [
+      "safe",
+      1
+    ],
+    [
+      "environment",
+      1
+    ],
+    [
+      "database",
+      1
+    ],
+    [
+      "synchronization",
+      1
+    ],
+    [
+      "status",
+      1
+    ],
+    [
+      "select",
+      1
+    ],
+    [
+      "agent",
+      1
+    ],
+    [
+      "monitor",
+      1
+    ],
+    [
+      "mostly",
+      1
+    ],
+    [
+      "lik",
+      1
+    ],
+    [
+      "assignment",
+      1
+    ],
+    [
+      "organization",
+      1
+    ],
+    [
+      "navigation",
+      1
+    ],
+    [
+      "unnecessary",
+      1
+    ],
+    [
+      "staff",
+      1
+    ],
+    [
+      "initially",
+      1
+    ],
+    [
+      "average",
+      1
+    ],
+    [
+      "nearly",
+      1
+    ],
+    [
+      "scor",
+      1
+    ],
+    [
+      "reduction",
+      1
+    ],
+    [
+      "recognize",
+      1
+    ],
+    [
+      "recogniz",
+      1
+    ],
+    [
+      "senior",
+      1
+    ],
+    [
+      "consider",
+      1
+    ],
+    [
+      "digital",
+      1
+    ],
+    [
+      "transformation",
+      1
+    ],
+    [
+      "factor",
+      1
+    ],
+    [
+      "insightful",
+      1
+    ],
+    [
+      "sooner",
+      1
+    ],
+    [
+      "initial",
+      1
+    ],
+    [
+      "short",
+      1
+    ],
+    [
+      "memoriz",
+      1
+    ],
+    [
+      "school",
+      1
+    ],
+    [
+      "life",
+      1
+    ],
+    [
+      "stop",
+      1
+    ],
+    [
+      "fluency",
+      1
+    ],
+    [
+      "real-life",
+      1
+    ],
+    [
+      "last",
+      1
+    ],
+    [
+      "inefficient",
+      1
+    ],
+    [
+      "compile",
+      1
+    ],
+    [
+      "standardiz",
+      1
+    ],
+    [
+      "enter",
+      1
+    ],
+    [
+      "templat",
+      1
+    ],
+    [
+      "automate",
+      1
+    ],
+    [
+      "collection",
+      1
+    ],
+    [
+      "standardize",
+      1
+    ],
+    [
+      "held",
+      1
+    ],
+    [
+      "compani",
+      1
+    ],
+    [
+      "technology",
+      1
+    ],
+    [
+      "databas",
+      1
+    ],
+    [
+      "extensive",
+      1
+    ],
+    [
+      "close",
+      1
+    ],
+    [
+      "quite",
+      1
+    ],
+    [
+      "satisfi",
+      1
+    ],
+    [
+      "ready",
+      1
+    ],
+    [
+      "minor",
+      1
+    ],
+    [
+      "appreciat",
+      1
+    ],
+    [
+      "sav",
+      1
+    ],
+    [
+      "satisfy",
+      1
+    ],
+    [
+      "outcome",
+      1
+    ],
+    [
+      "summari",
+      1
+    ],
+    [
+      "recommend",
+      1
+    ],
+    [
+      "fourth",
+      1
+    ],
+    [
+      "introduce",
+      1
+    ],
+    [
+      "resistant",
+      1
+    ],
+    [
+      "method",
+      1
+    ],
+    [
+      "alex",
+      1
+    ],
+    [
+      "proud",
+      1
+    ],
+    [
+      "stressful",
+      1
+    ],
+    [
+      "tri",
+      1
+    ],
+    [
+      "open",
+      1
+    ],
+    [
+      "stress",
+      1
+    ],
+    [
+      "context",
+      1
+    ],
+    [
+      "lost",
+      1
+    ],
+    [
+      "form",
+      1
+    ],
+    [
+      "stronger",
+      1
+    ],
+    [
+      "promotional",
+      1
+    ],
+    [
+      "content",
+      1
+    ],
+    [
+      "powerful",
+      1
+    ],
+    [
+      "conclusion",
+      1
+    ],
+    [
+      "someth",
+      1
+    ],
+    [
+      "divide",
+      1
+    ],
+    [
+      "introduction",
+      1
+    ],
+    [
+      "enough",
+      1
+    ],
+    [
+      "outside",
+      1
+    ],
+    [
+      "appreciate",
+      1
+    ],
+    [
+      "record",
+      1
+    ],
+    [
+      "transition",
+      1
+    ],
+    [
+      "combin",
+      1
+    ],
+    [
+      "consistently",
+      1
+    ],
+    [
+      "matter",
+      1
+    ],
+    [
+      "care",
+      1
+    ],
+    [
+      "write",
+      1
+    ],
+    [
+      "review",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 8338,
+    "unique_words": 825,
+    "duration_min": 56.5
+  }
+}

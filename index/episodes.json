@@ -1,0 +1,1421 @@
+[
+  {
+    "no": 1,
+    "cid": "38192677309",
+    "dir": "c_38192677309",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to explain a project you worked on",
+    "title_fixed": "How to explain a project you worked on",
+    "typos_applied": [],
+    "slug": "Howtoexplainaprojectyouworkedon",
+    "file_stem": "01_Howtoexplainaprojectyouworkedon",
+    "duration_min": 37.5,
+    "status": "done",
+    "retries": 0,
+    "qa": {
+      "language": "en",
+      "language_probability": 0.992,
+      "word_count": 6011,
+      "repetition_ratio": 0.025,
+      "flags": []
+    }
+  },
+  {
+    "no": 2,
+    "cid": "38192678556",
+    "dir": "c_38192678556",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Get Promoted at Work Faster",
+    "title_fixed": "How to Get Promoted at Work Faster",
+    "typos_applied": [],
+    "slug": "HowtoGetPromotedatWorkFaster",
+    "file_stem": "02_HowtoGetPromotedatWorkFaster",
+    "duration_min": 49.3,
+    "status": "done",
+    "retries": 0,
+    "qa": {
+      "language": "en",
+      "language_probability": 0.997,
+      "word_count": 7433,
+      "repetition_ratio": 0.0408,
+      "flags": []
+    }
+  },
+  {
+    "no": 3,
+    "cid": "38192743307",
+    "dir": "c_38192743307",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to explain a project you workede on in 30 Minutes",
+    "title_fixed": "How to explain a project you worked on in 30 Minutes",
+    "typos_applied": [
+      "workede→worked"
+    ],
+    "slug": "Howtoexplainaprojectyouworkedonin30Minutes",
+    "file_stem": "03_Howtoexplainaprojectyouworkedonin30Minutes",
+    "duration_min": 56.5,
+    "status": "done",
+    "retries": 0,
+    "qa": {
+      "language": "en",
+      "language_probability": 0.997,
+      "word_count": 8376,
+      "repetition_ratio": 0.025,
+      "flags": []
+    }
+  },
+  {
+    "no": 4,
+    "cid": "38192745326",
+    "dir": "c_38192745326",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Stop Procrastination",
+    "title_fixed": "How to Stop Procrastination",
+    "typos_applied": [],
+    "slug": "HowtoStopProcrastination",
+    "file_stem": "04_HowtoStopProcrastination",
+    "duration_min": 38.5,
+    "status": "done",
+    "retries": 0,
+    "qa": {
+      "language": "en",
+      "language_probability": 0.991,
+      "word_count": 5654,
+      "repetition_ratio": 0.0323,
+      "flags": []
+    }
+  },
+  {
+    "no": 5,
+    "cid": "38192808396",
+    "dir": "c_38192808396",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "250 Essential Email Phrases & How to Wriet an email professionally",
+    "title_fixed": "250 Essential Email Phrases & How to Write an email professionally",
+    "typos_applied": [
+      "Wriet→Write"
+    ],
+    "slug": "250EssentialEmailPhrasesHowtoWriteanemailprofessionally",
+    "file_stem": "05_250EssentialEmailPhrasesHowtoWriteanemailprofessionally",
+    "duration_min": 44.3,
+    "status": "done",
+    "retries": 0,
+    "qa": {
+      "language": "en",
+      "language_probability": 0.992,
+      "word_count": 6628,
+      "repetition_ratio": 0.0435,
+      "flags": []
+    }
+  },
+  {
+    "no": 6,
+    "cid": "38192811061",
+    "dir": "c_38192811061",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "100 Negotiation Phrases for Busness Meetings & Practical Dialogues",
+    "title_fixed": "100 Negotiation Phrases for Business Meetings & Practical Dialogues",
+    "typos_applied": [
+      "Busness→Business"
+    ],
+    "slug": "100NegotiationPhrasesforBusinessMeetingsPracticalDialogues",
+    "file_stem": "06_100NegotiationPhrasesforBusinessMeetingsPracticalDialogues",
+    "duration_min": 51.7,
+    "status": "done",
+    "retries": 0,
+    "qa": {
+      "language": "en",
+      "language_probability": 0.995,
+      "word_count": 7817,
+      "repetition_ratio": 0.0333,
+      "flags": []
+    }
+  },
+  {
+    "no": 7,
+    "cid": "38192874401",
+    "dir": "c_38192874401",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Describe Your Job Tasks & Responsibilities Professionally",
+    "title_fixed": "How to Describe Your Job Tasks & Responsibilities Professionally",
+    "typos_applied": [],
+    "slug": "HowtoDescribeYourJobTasksResponsibilitiesProfessionally",
+    "file_stem": "07_HowtoDescribeYourJobTasksResponsibilitiesProfessionally",
+    "duration_min": 46.2,
+    "status": "done",
+    "retries": 0,
+    "qa": {
+      "language": "en",
+      "language_probability": 0.996,
+      "word_count": 7402,
+      "repetition_ratio": 0.0435,
+      "flags": []
+    }
+  },
+  {
+    "no": 8,
+    "cid": "38192939042",
+    "dir": "c_38192939042",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "The Mindset Trap Most Professionals Fall Into Business English Learning",
+    "title_fixed": "The Mindset Trap Most Professionals Fall Into Business English Learning",
+    "typos_applied": [],
+    "slug": "TheMindsetTrapMostProfessionalsFallIntoBusinessEnglishLearning",
+    "file_stem": "08_TheMindsetTrapMostProfessionalsFallIntoBusinessEnglishLearning",
+    "duration_min": 74.0,
+    "status": "done",
+    "retries": 0,
+    "qa": {
+      "language": "en",
+      "language_probability": 0.998,
+      "word_count": 12712,
+      "repetition_ratio": 0.0323,
+      "flags": []
+    }
+  },
+  {
+    "no": 9,
+    "cid": "38193004739",
+    "dir": "c_38193004739",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "100 Real Conversations & How to use AI in Business Meetings",
+    "title_fixed": "100 Real Conversations & How to use AI in Business Meetings",
+    "typos_applied": [],
+    "slug": "100RealConversationsHowtouseAIinBusinessMeetings",
+    "file_stem": "09_100RealConversationsHowtouseAIinBusinessMeetings",
+    "duration_min": 39.8,
+    "status": "done",
+    "retries": 0,
+    "qa": {
+      "language": "en",
+      "language_probability": 0.995,
+      "word_count": 5918,
+      "repetition_ratio": 0.0312,
+      "flags": []
+    }
+  },
+  {
+    "no": 10,
+    "cid": "38193007422",
+    "dir": "c_38193007422",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Discuss About Changing Your Job Professionally",
+    "title_fixed": "How to Discuss About Changing Your Job Professionally",
+    "typos_applied": [],
+    "slug": "HowtoDiscussAboutChangingYourJobProfessionally",
+    "file_stem": "10_HowtoDiscussAboutChangingYourJobProfessionally",
+    "duration_min": 55.1,
+    "status": "done",
+    "retries": 0,
+    "qa": {
+      "language": "en",
+      "language_probability": 0.995,
+      "word_count": 8774,
+      "repetition_ratio": 0.0294,
+      "flags": []
+    }
+  },
+  {
+    "no": 11,
+    "cid": "38193073818",
+    "dir": "c_38193073818",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Speak with Coworkers in Office Conversations",
+    "title_fixed": "How to Speak with Coworkers in Office Conversations",
+    "typos_applied": [],
+    "slug": "HowtoSpeakwithCoworkersinOfficeConversations",
+    "file_stem": "11_HowtoSpeakwithCoworkersinOfficeConversations",
+    "duration_min": 68.3,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 12,
+    "cid": "38193201897",
+    "dir": "c_38193201897",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "100 Essential Phrases about workplace communication",
+    "title_fixed": "100 Essential Phrases about workplace communication",
+    "typos_applied": [],
+    "slug": "100EssentialPhrasesaboutworkplacecommunication",
+    "file_stem": "12_100EssentialPhrasesaboutworkplacecommunication",
+    "duration_min": 38.3,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 13,
+    "cid": "38193203187",
+    "dir": "c_38193203187",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Improve your Presentation Skills in Business English",
+    "title_fixed": "How to Improve your Presentation Skills in Business English",
+    "typos_applied": [],
+    "slug": "HowtoImproveyourPresentationSkillsinBusinessEnglish",
+    "file_stem": "13_HowtoImproveyourPresentationSkillsinBusinessEnglish",
+    "duration_min": 42.4,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 14,
+    "cid": "38193205045",
+    "dir": "c_38193205045",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to talk About Salary Negotiation & 10 Essential Approchers",
+    "title_fixed": "How to talk About Salary Negotiation & 10 Essential Approaches",
+    "typos_applied": [
+      "Approchers→Approaches"
+    ],
+    "slug": "HowtotalkAboutSalaryNegotiation10EssentialApproaches",
+    "file_stem": "14_HowtotalkAboutSalaryNegotiation10EssentialApproaches",
+    "duration_min": 55.1,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 15,
+    "cid": "38193267987",
+    "dir": "c_38193267987",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Speakup in Business Meeting with Confidence & 100 Essential Phrases",
+    "title_fixed": "How to Speak up in Business Meeting with Confidence & 100 Essential Phrases",
+    "typos_applied": [
+      "Speakup→Speak up"
+    ],
+    "slug": "HowtoSpeakupinBusinessMeetingwithConfidence100EssentialPhrases",
+    "file_stem": "15_HowtoSpeakupinBusinessMeetingwithConfidence100EssentialPhrases",
+    "duration_min": 48.3,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 16,
+    "cid": "38193269588",
+    "dir": "c_38193269588",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Explain Work Experience in Job Interview",
+    "title_fixed": "How to Explain Work Experience in Job Interview",
+    "typos_applied": [],
+    "slug": "HowtoExplainWorkExperienceinJobInterview",
+    "file_stem": "16_HowtoExplainWorkExperienceinJobInterview",
+    "duration_min": 48.6,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 17,
+    "cid": "38193333854",
+    "dir": "c_38193333854",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Talk About Your Job in English",
+    "title_fixed": "How to Talk About Your Job in English",
+    "typos_applied": [],
+    "slug": "HowtoTalkAboutYourJobinEnglish",
+    "file_stem": "17_HowtoTalkAboutYourJobinEnglish",
+    "duration_min": 53.6,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 18,
+    "cid": "38193398969",
+    "dir": "c_38193398969",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Talk About Your Achievement in Business Meetings",
+    "title_fixed": "How to Talk About Your Achievement in Business Meetings",
+    "typos_applied": [],
+    "slug": "HowtoTalkAboutYourAchievementinBusinessMeetings",
+    "file_stem": "18_HowtoTalkAboutYourAchievementinBusinessMeetings",
+    "duration_min": 41.7,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 19,
+    "cid": "38193401794",
+    "dir": "c_38193401794",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Tell Me About Yourself in Job Interviews",
+    "title_fixed": "How to Tell Me About Yourself in Job Interviews",
+    "typos_applied": [],
+    "slug": "HowtoTellMeAboutYourselfinJobInterviews",
+    "file_stem": "19_HowtoTellMeAboutYourselfinJobInterviews",
+    "duration_min": 37.9,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 20,
+    "cid": "38193465110",
+    "dir": "c_38193465110",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Real Business English Conversations in Working Day",
+    "title_fixed": "Real Business English Conversations in Working Day",
+    "typos_applied": [],
+    "slug": "RealBusinessEnglishConversationsinWorkingDay",
+    "file_stem": "20_RealBusinessEnglishConversationsinWorkingDay",
+    "duration_min": 52.5,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 21,
+    "cid": "38193529024",
+    "dir": "c_38193529024",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Talk About the Problems and Solutions at Business Meeting Conversations",
+    "title_fixed": "How to Talk About the Problems and Solutions at Business Meeting Conversations",
+    "typos_applied": [],
+    "slug": "HowtoTalkAbouttheProblemsandSolutionsatBusinessMeetingConversations",
+    "file_stem": "21_HowtoTalkAbouttheProblemsandSolutionsatBusinessMeetingConversations",
+    "duration_min": 53.5,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 22,
+    "cid": "38193531963",
+    "dir": "c_38193531963",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Describe Your Skills in Professional Business Conversations",
+    "title_fixed": "How to Describe Your Skills in Professional Business Conversations",
+    "typos_applied": [],
+    "slug": "HowtoDescribeYourSkillsinProfessionalBusinessConversations",
+    "file_stem": "22_HowtoDescribeYourSkillsinProfessionalBusinessConversations",
+    "duration_min": 40.3,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 23,
+    "cid": "38193595753",
+    "dir": "c_38193595753",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Talk about Career Path in English",
+    "title_fixed": "How to Talk about Career Path in English",
+    "typos_applied": [],
+    "slug": "HowtoTalkaboutCareerPathinEnglish",
+    "file_stem": "23_HowtoTalkaboutCareerPathinEnglish",
+    "duration_min": 49.8,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 24,
+    "cid": "38193598162",
+    "dir": "c_38193598162",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Talk About Your Company in English",
+    "title_fixed": "How to Talk About Your Company in English",
+    "typos_applied": [],
+    "slug": "HowtoTalkAboutYourCompanyinEnglish",
+    "file_stem": "24_HowtoTalkAboutYourCompanyinEnglish",
+    "duration_min": 57.0,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 25,
+    "cid": "38193661730",
+    "dir": "c_38193661730",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Talk About Business Performance in English",
+    "title_fixed": "How to Talk About Business Performance in English",
+    "typos_applied": [],
+    "slug": "HowtoTalkAboutBusinessPerformanceinEnglish",
+    "file_stem": "25_HowtoTalkAboutBusinessPerformanceinEnglish",
+    "duration_min": 47.8,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 26,
+    "cid": "38193663427",
+    "dir": "c_38193663427",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Introduce yourself in Business Meetings",
+    "title_fixed": "How to Introduce yourself in Business Meetings",
+    "typos_applied": [],
+    "slug": "HowtoIntroduceyourselfinBusinessMeetings",
+    "file_stem": "26_HowtoIntroduceyourselfinBusinessMeetings",
+    "duration_min": 53.5,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 27,
+    "cid": "38193728293",
+    "dir": "c_38193728293",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Business Meeting Podcast in 40 minutes",
+    "title_fixed": "Business Meeting Podcast in 40 minutes",
+    "typos_applied": [],
+    "slug": "BusinessMeetingPodcastin40minutes",
+    "file_stem": "27_BusinessMeetingPodcastin40minutes",
+    "duration_min": 44.5,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 28,
+    "cid": "38193791559",
+    "dir": "c_38193791559",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Business English Conversation - English Dialogs at Work",
+    "title_fixed": "Business English Conversation - English Dialogs at Work",
+    "typos_applied": [],
+    "slug": "BusinessEnglishConversation-EnglishDialogsatWork",
+    "file_stem": "28_BusinessEnglishConversation-EnglishDialogsatWork",
+    "duration_min": 43.3,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 29,
+    "cid": "38193793433",
+    "dir": "c_38193793433",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Business Meeting Conversations in 30 minutes",
+    "title_fixed": "Business Meeting Conversations in 30 minutes",
+    "typos_applied": [],
+    "slug": "BusinessMeetingConversationsin30minutes",
+    "file_stem": "29_BusinessMeetingConversationsin30minutes",
+    "duration_min": 35.9,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 30,
+    "cid": "38193856942",
+    "dir": "c_38193856942",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Talk About Salary at Work in English",
+    "title_fixed": "How to Talk About Salary at Work in English",
+    "typos_applied": [],
+    "slug": "HowtoTalkAboutSalaryatWorkinEnglish",
+    "file_stem": "30_HowtoTalkAboutSalaryatWorkinEnglish",
+    "duration_min": 45.1,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 31,
+    "cid": "38193858700",
+    "dir": "c_38193858700",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Job Interview Communication Grab your Ideal Career",
+    "title_fixed": "Job Interview Communication Grab your Ideal Career",
+    "typos_applied": [],
+    "slug": "JobInterviewCommunicationGrabyourIdealCareer",
+    "file_stem": "31_JobInterviewCommunicationGrabyourIdealCareer",
+    "duration_min": 33.8,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 32,
+    "cid": "38193859829",
+    "dir": "c_38193859829",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Talk to Your Boss at work",
+    "title_fixed": "How to Talk to Your Boss at work",
+    "typos_applied": [],
+    "slug": "HowtoTalktoYourBossatwork",
+    "file_stem": "32_HowtoTalktoYourBossatwork",
+    "duration_min": 39.0,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 33,
+    "cid": "38193922596",
+    "dir": "c_38193922596",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Essential Business English Conversation Are you at an ADVANCED level",
+    "title_fixed": "Essential Business English Conversation Are you at an ADVANCED level",
+    "typos_applied": [],
+    "slug": "EssentialBusinessEnglishConversationAreyouatanADVANCEDlevel",
+    "file_stem": "33_EssentialBusinessEnglishConversationAreyouatanADVANCEDlevel",
+    "duration_min": 40.3,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 34,
+    "cid": "38193924408",
+    "dir": "c_38193924408",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Business English Professional Email Guide",
+    "title_fixed": "Business English Professional Email Guide",
+    "typos_applied": [],
+    "slug": "BusinessEnglishProfessionalEmailGuide",
+    "file_stem": "34_BusinessEnglishProfessionalEmailGuide",
+    "duration_min": 38.7,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 35,
+    "cid": "38193925872",
+    "dir": "c_38193925872",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Professional Marketing Phrases for Business English Learners",
+    "title_fixed": "Professional Marketing Phrases for Business English Learners",
+    "typos_applied": [],
+    "slug": "ProfessionalMarketingPhrasesforBusinessEnglishLearners",
+    "file_stem": "35_ProfessionalMarketingPhrasesforBusinessEnglishLearners",
+    "duration_min": 40.3,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 36,
+    "cid": "38193988735",
+    "dir": "c_38193988735",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Real Business Meeting Conversations",
+    "title_fixed": "Real Business Meeting Conversations",
+    "typos_applied": [],
+    "slug": "RealBusinessMeetingConversations",
+    "file_stem": "36_RealBusinessMeetingConversations",
+    "duration_min": 39.6,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 37,
+    "cid": "38193990457",
+    "dir": "c_38193990457",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Learn Business English Through Story 10 Interesting Short Stories",
+    "title_fixed": "Learn Business English Through Story 10 Interesting Short Stories",
+    "typos_applied": [],
+    "slug": "LearnBusinessEnglishThroughStory10InterestingShortStories",
+    "file_stem": "37_LearnBusinessEnglishThroughStory10InterestingShortStories",
+    "duration_min": 50.6,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 38,
+    "cid": "38194054089",
+    "dir": "c_38194054089",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "30 Practical Business English Conversations to Improve Your Business Skills",
+    "title_fixed": "30 Practical Business English Conversations to Improve Your Business Skills",
+    "typos_applied": [],
+    "slug": "30PracticalBusinessEnglishConversationstoImproveYourBusinessSkills",
+    "file_stem": "38_30PracticalBusinessEnglishConversationstoImproveYourBusinessSkills",
+    "duration_min": 68.6,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 39,
+    "cid": "38194056757",
+    "dir": "c_38194056757",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Business English Negotiations Key Dialogues",
+    "title_fixed": "Business English Negotiations Key Dialogues",
+    "typos_applied": [],
+    "slug": "BusinessEnglishNegotiationsKeyDialogues",
+    "file_stem": "39_BusinessEnglishNegotiationsKeyDialogues",
+    "duration_min": 53.5,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 40,
+    "cid": "38194120219",
+    "dir": "c_38194120219",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Business Meeting Conversations in 50 minutes (Essential Phrases)",
+    "title_fixed": "Business Meeting Conversations in 50 minutes (Essential Phrases)",
+    "typos_applied": [],
+    "slug": "BusinessMeetingConversationsin50minutesEssentialPhrases",
+    "file_stem": "40_BusinessMeetingConversationsin50minutesEssentialPhrases",
+    "duration_min": 55.3,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 41,
+    "cid": "38194122119",
+    "dir": "c_38194122119",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Communicate confidentially in workplace",
+    "title_fixed": "How to Communicate confidently in workplace",
+    "typos_applied": [
+      "confidentially→confidently"
+    ],
+    "slug": "HowtoCommunicateconfidentlyinworkplace",
+    "file_stem": "41_HowtoCommunicateconfidentlyinworkplace",
+    "duration_min": 61.5,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 42,
+    "cid": "38194186324",
+    "dir": "c_38194186324",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Business English Professional Email Phrases 150",
+    "title_fixed": "Business English Professional Email Phrases 150",
+    "typos_applied": [],
+    "slug": "BusinessEnglishProfessionalEmailPhrases150",
+    "file_stem": "42_BusinessEnglishProfessionalEmailPhrases150",
+    "duration_min": 36.7,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 43,
+    "cid": "38194188020",
+    "dir": "c_38194188020",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Business Meeting Conversations in 40 minutes",
+    "title_fixed": "Business Meeting Conversations in 40 minutes",
+    "typos_applied": [],
+    "slug": "BusinessMeetingConversationsin40minutes",
+    "file_stem": "43_BusinessMeetingConversationsin40minutes",
+    "duration_min": 40.1,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 44,
+    "cid": "38194251510",
+    "dir": "c_38194251510",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Job Interview Dialogues Brand Manager",
+    "title_fixed": "Job Interview Dialogues Brand Manager",
+    "typos_applied": [],
+    "slug": "JobInterviewDialoguesBrandManager",
+    "file_stem": "44_JobInterviewDialoguesBrandManager",
+    "duration_min": 57.0,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 45,
+    "cid": "38194315264",
+    "dir": "c_38194315264",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "English in Finance Meeting Phrases Conversation Listening",
+    "title_fixed": "English in Finance Meeting Phrases Conversation Listening",
+    "typos_applied": [],
+    "slug": "EnglishinFinanceMeetingPhrasesConversationListening",
+    "file_stem": "45_EnglishinFinanceMeetingPhrasesConversationListening",
+    "duration_min": 56.9,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 46,
+    "cid": "38194317295",
+    "dir": "c_38194317295",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Supply Chain Business Meeting Conversations in 40 minutes",
+    "title_fixed": "Supply Chain Business Meeting Conversations in 40 minutes",
+    "typos_applied": [],
+    "slug": "SupplyChainBusinessMeetingConversationsin40minutes",
+    "file_stem": "46_SupplyChainBusinessMeetingConversationsin40minutes",
+    "duration_min": 43.7,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 47,
+    "cid": "38194381475",
+    "dir": "c_38194381475",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "English at Work Marketing Meeting Phrases Conversation Listening",
+    "title_fixed": "English at Work Marketing Meeting Phrases Conversation Listening",
+    "typos_applied": [],
+    "slug": "EnglishatWorkMarketingMeetingPhrasesConversationListening",
+    "file_stem": "47_EnglishatWorkMarketingMeetingPhrasesConversationListening",
+    "duration_min": 39.5,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 48,
+    "cid": "38194383136",
+    "dir": "c_38194383136",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "AI Skills Every Future Business Pro Needs Now",
+    "title_fixed": "AI Skills Every Future Business Pro Needs Now",
+    "typos_applied": [],
+    "slug": "AISkillsEveryFutureBusinessProNeedsNow",
+    "file_stem": "48_AISkillsEveryFutureBusinessProNeedsNow",
+    "duration_min": 65.7,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 49,
+    "cid": "38194448428",
+    "dir": "c_38194448428",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "150 Business English Phrases for everyone learning business English",
+    "title_fixed": "150 Business English Phrases for everyone learning business English",
+    "typos_applied": [],
+    "slug": "150BusinessEnglishPhrasesforeveryonelearningbusinessEnglish",
+    "file_stem": "49_150BusinessEnglishPhrasesforeveryonelearningbusinessEnglish",
+    "duration_min": 48.3,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 50,
+    "cid": "38194512615",
+    "dir": "c_38194512615",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Learn English Through Business Stories",
+    "title_fixed": "Learn English Through Business Stories",
+    "typos_applied": [],
+    "slug": "LearnEnglishThroughBusinessStories",
+    "file_stem": "50_LearnEnglishThroughBusinessStories",
+    "duration_min": 79.1,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 51,
+    "cid": "38194577918",
+    "dir": "c_38194577918",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "English Phrases for Professional Conversations",
+    "title_fixed": "English Phrases for Professional Conversations",
+    "typos_applied": [],
+    "slug": "EnglishPhrasesforProfessionalConversations",
+    "file_stem": "51_EnglishPhrasesforProfessionalConversations",
+    "duration_min": 82.8,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 52,
+    "cid": "38194643489",
+    "dir": "c_38194643489",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Business English at Work Talking to your Boss",
+    "title_fixed": "Business English at Work Talking to your Boss",
+    "typos_applied": [],
+    "slug": "BusinessEnglishatWorkTalkingtoyourBoss",
+    "file_stem": "52_BusinessEnglishatWorkTalkingtoyourBoss",
+    "duration_min": 43.4,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 53,
+    "cid": "38194644939",
+    "dir": "c_38194644939",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How To Introduce Yourself In English Like A Pro",
+    "title_fixed": "How To Introduce Yourself In English Like A Pro",
+    "typos_applied": [],
+    "slug": "HowToIntroduceYourselfInEnglishLikeAPro",
+    "file_stem": "53_HowToIntroduceYourselfInEnglishLikeAPro",
+    "duration_min": 34.0,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 54,
+    "cid": "38194646201",
+    "dir": "c_38194646201",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "1000 Professional Business Email Phrases for English Learners Essential Phrases",
+    "title_fixed": "1000 Professional Business Email Phrases for English Learners Essential Phrases",
+    "typos_applied": [],
+    "slug": "1000ProfessionalBusinessEmailPhrasesforEnglishLearnersEssentialPhrases",
+    "file_stem": "54_1000ProfessionalBusinessEmailPhrasesforEnglishLearnersEssentialPhrases",
+    "duration_min": 62.0,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 55,
+    "cid": "38194709723",
+    "dir": "c_38194709723",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Business Meeting Conversations in 50 minutes",
+    "title_fixed": "Business Meeting Conversations in 50 minutes",
+    "typos_applied": [],
+    "slug": "BusinessMeetingConversationsin50minutes",
+    "file_stem": "55_BusinessMeetingConversationsin50minutes",
+    "duration_min": 53.6,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 56,
+    "cid": "38194711271",
+    "dir": "c_38194711271",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "“Can you catch the 75 Essential Business Phrases” REAL Business MEETING",
+    "title_fixed": "“Can you catch the 75 Essential Business Phrases” REAL Business MEETING",
+    "typos_applied": [],
+    "slug": "Canyoucatchthe75EssentialBusinessPhrasesREALBusinessMEETING",
+    "file_stem": "56_Canyoucatchthe75EssentialBusinessPhrasesREALBusinessMEETING",
+    "duration_min": 68.6,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 57,
+    "cid": "38194775361",
+    "dir": "c_38194775361",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Made a Mistake at Work How to Explain It Professionally",
+    "title_fixed": "Made a Mistake at Work How to Explain It Professionally",
+    "typos_applied": [],
+    "slug": "MadeaMistakeatWorkHowtoExplainItProfessionally",
+    "file_stem": "57_MadeaMistakeatWorkHowtoExplainItProfessionally",
+    "duration_min": 52.8,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 58,
+    "cid": "38194839957",
+    "dir": "c_38194839957",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "100 ESSENTIAL Business English IDIOMS Do you Know About Idioms",
+    "title_fixed": "100 ESSENTIAL Business English IDIOMS Do you Know About Idioms",
+    "typos_applied": [],
+    "slug": "100ESSENTIALBusinessEnglishIDIOMSDoyouKnowAboutIdioms",
+    "file_stem": "58_100ESSENTIALBusinessEnglishIDIOMSDoyouKnowAboutIdioms",
+    "duration_min": 48.5,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 59,
+    "cid": "38194841747",
+    "dir": "c_38194841747",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "If You Can Understand Phrasal Verbs, You Are at an Advanced Level",
+    "title_fixed": "If You Can Understand Phrasal Verbs, You Are at an Advanced Level",
+    "typos_applied": [],
+    "slug": "IfYouCanUnderstandPhrasalVerbsYouAreatanAdvancedLevel",
+    "file_stem": "59_IfYouCanUnderstandPhrasalVerbsYouAreatanAdvancedLevel",
+    "duration_min": 46.6,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 60,
+    "cid": "38194843644",
+    "dir": "c_38194843644",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Business English Conversation for Business",
+    "title_fixed": "Business English Conversation for Business",
+    "typos_applied": [],
+    "slug": "BusinessEnglishConversationforBusiness",
+    "file_stem": "60_BusinessEnglishConversationforBusiness",
+    "duration_min": 18.0,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 61,
+    "cid": "38194905958",
+    "dir": "c_38194905958",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "How to Speak Like a professional",
+    "title_fixed": "How to Speak Like a professional",
+    "typos_applied": [],
+    "slug": "HowtoSpeakLikeaprofessional",
+    "file_stem": "61_HowtoSpeakLikeaprofessional",
+    "duration_min": 42.2,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 62,
+    "cid": "38194908336",
+    "dir": "c_38194908336",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "1000 Strategic Business English Phrases for negotiation",
+    "title_fixed": "1000 Strategic Business English Phrases for negotiation",
+    "typos_applied": [],
+    "slug": "1000StrategicBusinessEnglishPhrasesfornegotiation",
+    "file_stem": "62_1000StrategicBusinessEnglishPhrasesfornegotiation",
+    "duration_min": 74.7,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 63,
+    "cid": "38194973011",
+    "dir": "c_38194973011",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Real Business English Conversation Dialogues in 70 Minutes",
+    "title_fixed": "Real Business English Conversation Dialogues in 70 Minutes",
+    "typos_applied": [],
+    "slug": "RealBusinessEnglishConversationDialoguesin70Minutes",
+    "file_stem": "63_RealBusinessEnglishConversationDialoguesin70Minutes",
+    "duration_min": 64.6,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 64,
+    "cid": "38195036822",
+    "dir": "c_38195036822",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Real Business English Conversation Podcast",
+    "title_fixed": "Real Business English Conversation Podcast",
+    "typos_applied": [],
+    "slug": "RealBusinessEnglishConversationPodcast",
+    "file_stem": "64_RealBusinessEnglishConversationPodcast",
+    "duration_min": 42.5,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 65,
+    "cid": "38195038373",
+    "dir": "c_38195038373",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "35 Practical Business English Conversations",
+    "title_fixed": "35 Practical Business English Conversations",
+    "typos_applied": [],
+    "slug": "35PracticalBusinessEnglishConversations",
+    "file_stem": "65_35PracticalBusinessEnglishConversations",
+    "duration_min": 48.3,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 66,
+    "cid": "38195102056",
+    "dir": "c_38195102056",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Business Discipline for Professionals in 70 minutes",
+    "title_fixed": "Business Discipline for Professionals in 70 minutes",
+    "typos_applied": [],
+    "slug": "BusinessDisciplineforProfessionalsin70minutes",
+    "file_stem": "66_BusinessDisciplineforProfessionalsin70minutes",
+    "duration_min": 73.3,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  },
+  {
+    "no": 67,
+    "cid": "38195105483",
+    "dir": "c_38195105483",
+    "m4s_rel": "64/audio.m4s",
+    "title_raw": "Essential 100 Business English Phrases to Navigate Remote Work",
+    "title_fixed": "Essential 100 Business English Phrases to Navigate Remote Work",
+    "typos_applied": [],
+    "slug": "Essential100BusinessEnglishPhrasestoNavigateRemoteWork",
+    "file_stem": "67_Essential100BusinessEnglishPhrasestoNavigateRemoteWork",
+    "duration_min": 70.2,
+    "status": "pending",
+    "retries": 0,
+    "qa": {
+      "language": null,
+      "language_probability": null,
+      "word_count": null,
+      "repetition_ratio": null,
+      "flags": []
+    }
+  }
+]

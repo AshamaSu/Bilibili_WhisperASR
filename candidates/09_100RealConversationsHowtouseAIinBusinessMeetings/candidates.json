@@ -1,0 +1,6937 @@
+{
+  "file_stem": "09_100RealConversationsHowtouseAIinBusinessMeetings",
+  "no": 9,
+  "title_keywords": [
+    [
+      "real",
+      "real"
+    ],
+    [
+      "conversations",
+      "conversation"
+    ],
+    [
+      "use",
+      "use"
+    ],
+    [
+      "ai",
+      "ai"
+    ],
+    [
+      "business",
+      "business"
+    ],
+    [
+      "meetings",
+      "meeting"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "ai",
+      214,
+      "B1+"
+    ],
+    [
+      "meeting",
+      89,
+      "A2"
+    ],
+    [
+      "use",
+      80,
+      "A2"
+    ],
+    [
+      "meetings",
+      50,
+      "B1+"
+    ],
+    [
+      "help",
+      43,
+      "A2"
+    ],
+    [
+      "tool",
+      43,
+      "A2"
+    ],
+    [
+      "using",
+      38,
+      "B1+"
+    ],
+    [
+      "exactly",
+      33,
+      "B1+"
+    ],
+    [
+      "example",
+      31,
+      "A2"
+    ],
+    [
+      "points",
+      30,
+      "A2"
+    ],
+    [
+      "important",
+      28,
+      "A2"
+    ],
+    [
+      "english",
+      25,
+      "A2"
+    ],
+    [
+      "sounds",
+      25,
+      "A2"
+    ],
+    [
+      "today",
+      25,
+      "A2"
+    ],
+    [
+      "conversation",
+      23,
+      "B1+"
+    ],
+    [
+      "key",
+      22,
+      "A2"
+    ],
+    [
+      "communication",
+      21,
+      "B1+"
+    ],
+    [
+      "discussion",
+      21,
+      "B1+"
+    ],
+    [
+      "time",
+      21,
+      "A2"
+    ],
+    [
+      "professional",
+      20,
+      "B1+"
+    ],
+    [
+      "talk",
+      20,
+      "A2"
+    ],
+    [
+      "think",
+      20,
+      "A2"
+    ],
+    [
+      "ideas",
+      19,
+      "A2"
+    ],
+    [
+      "one",
+      19,
+      "A2"
+    ],
+    [
+      "agenda",
+      18,
+      "B1+"
+    ],
+    [
+      "also",
+      18,
+      "A2"
+    ],
+    [
+      "data",
+      18,
+      "B1+"
+    ],
+    [
+      "review",
+      18,
+      "B1+"
+    ],
+    [
+      "sure",
+      18,
+      "A2"
+    ],
+    [
+      "team",
+      18,
+      "A2"
+    ],
+    [
+      "business",
+      17,
+      "B1+"
+    ],
+    [
+      "need",
+      17,
+      "A2"
+    ],
+    [
+      "people",
+      17,
+      "A2"
+    ],
+    [
+      "practical",
+      17,
+      "B1+"
+    ],
+    [
+      "support",
+      17,
+      "A2"
+    ],
+    [
+      "used",
+      17,
+      "B1+"
+    ],
+    [
+      "action",
+      16,
+      "B1+"
+    ],
+    [
+      "always",
+      16,
+      "B1+"
+    ],
+    [
+      "decisions",
+      16,
+      "B1+"
+    ],
+    [
+      "good",
+      16,
+      "A2"
+    ],
+    [
+      "start",
+      16,
+      "A2"
+    ],
+    [
+      "everyone",
+      15,
+      "A2"
+    ],
+    [
+      "make",
+      15,
+      "A2"
+    ],
+    [
+      "practice",
+      15,
+      "A2"
+    ],
+    [
+      "another",
+      14,
+      "A2"
+    ],
+    [
+      "ask",
+      14,
+      "A2"
+    ],
+    [
+      "give",
+      14,
+      "A2"
+    ],
+    [
+      "suggest",
+      14,
+      "A2"
+    ],
+    [
+      "useful",
+      14,
+      "A2"
+    ],
+    [
+      "challenges",
+      13,
+      "B1+"
+    ],
+    [
+      "discussing",
+      13,
+      "B1+"
+    ],
+    [
+      "great",
+      13,
+      "A2"
+    ],
+    [
+      "say",
+      13,
+      "A2"
+    ],
+    [
+      "summarize",
+      13,
+      "B1+"
+    ],
+    [
+      "topic",
+      13,
+      "B1+"
+    ],
+    [
+      "us",
+      13,
+      "A2"
+    ],
+    [
+      "clear",
+      12,
+      "A2"
+    ],
+    [
+      "follow-up",
+      12,
+      "B1+"
+    ],
+    [
+      "improve",
+      12,
+      "B1+"
+    ],
+    [
+      "items",
+      12,
+      "B1+"
+    ],
+    [
+      "work",
+      12,
+      "A2"
+    ],
+    [
+      "explain",
+      11,
+      "B1+"
+    ],
+    [
+      "focus",
+      11,
+      "B1+"
+    ],
+    [
+      "human",
+      11,
+      "B1+"
+    ],
+    [
+      "keep",
+      11,
+      "A2"
+    ],
+    [
+      "many",
+      11,
+      "A2"
+    ],
+    [
+      "much",
+      11,
+      "A2"
+    ],
+    [
+      "real",
+      11,
+      "A2"
+    ],
+    [
+      "sometimes",
+      11,
+      "B1+"
+    ],
+    [
+      "summary",
+      11,
+      "B1+"
+    ],
+    [
+      "emails",
+      10,
+      "A2"
+    ],
+    [
+      "next",
+      10,
+      "A2"
+    ],
+    [
+      "presentation",
+      10,
+      "B1+"
+    ],
+    [
+      "situations",
+      10,
+      "A2"
+    ],
+    [
+      "summaries",
+      10,
+      "B1+"
+    ],
+    [
+      "thank",
+      10,
+      "A2"
+    ],
+    [
+      "workplace",
+      10,
+      "B1+"
+    ],
+    [
+      "accuracy",
+      9,
+      "B1+"
+    ],
+    [
+      "based",
+      9,
+      "B1+"
+    ],
+    [
+      "creates",
+      9,
+      "B1+"
+    ],
+    [
+      "create",
+      9,
+      "A2"
+    ],
+    [
+      "especially",
+      9,
+      "B1+"
+    ],
+    [
+      "generate",
+      9,
+      "B1+"
+    ],
+    [
+      "helpful",
+      9,
+      "B1+"
+    ],
+    [
+      "makes",
+      9,
+      "B1+"
+    ],
+    [
+      "marketing",
+      9,
+      "A2"
+    ],
+    [
+      "usually",
+      9,
+      "B1+"
+    ],
+    [
+      "analyze",
+      8,
+      "B1+"
+    ],
+    [
+      "common",
+      8,
+      "A2"
+    ],
+    [
+      "examples",
+      8,
+      "B1+"
+    ],
+    [
+      "generates",
+      8,
+      "B1+"
+    ],
+    [
+      "improving",
+      8,
+      "B1+"
+    ],
+    [
+      "information",
+      8,
+      "B1+"
+    ],
+    [
+      "insights",
+      8,
+      "B1+"
+    ],
+    [
+      "instead",
+      8,
+      "A2"
+    ],
+    [
+      "learning",
+      8,
+      "A2"
+    ],
+    [
+      "note-taking",
+      8,
+      "B1+"
+    ],
+    [
+      "present",
+      8,
+      "A2"
+    ],
+    [
+      "skill",
+      8,
+      "A2"
+    ],
+    [
+      "speak",
+      8,
+      "A2"
+    ],
+    [
+      "understand",
+      8,
+      "A2"
+    ],
+    [
+      "ways",
+      8,
+      "A2"
+    ],
+    [
+      "becoming",
+      7,
+      "B1+"
+    ],
+    [
+      "clarity",
+      7,
+      "B1+"
+    ],
+    [
+      "clearly",
+      7,
+      "B1+"
+    ],
+    [
+      "draft",
+      7,
+      "B1+"
+    ],
+    [
+      "efficiency",
+      7,
+      "B1+"
+    ],
+    [
+      "efficient",
+      7,
+      "B1+"
+    ],
+    [
+      "listening",
+      7,
+      "A2"
+    ],
+    [
+      "lot",
+      7,
+      "A2"
+    ],
+    [
+      "natural",
+      7,
+      "A2"
+    ],
+    [
+      "new",
+      7,
+      "A2"
+    ],
+    [
+      "phrases",
+      7,
+      "B1+"
+    ],
+    [
+      "plan",
+      7,
+      "A2"
+    ],
+    [
+      "podcast",
+      7,
+      "B1+"
+    ],
+    [
+      "practicing",
+      7,
+      "B1+"
+    ],
+    [
+      "questions",
+      7,
+      "A2"
+    ],
+    [
+      "quickly",
+      7,
+      "B1+"
+    ],
+    [
+      "saves",
+      7,
+      "B1+"
+    ],
+    [
+      "simple",
+      7,
+      "A2"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "use ai",
+      "count": 50,
+      "example": "Yes, today's topic is how to use AI in business meetings.",
+      "t": 44.92
+    },
+    {
+      "text": "using ai",
+      "count": 31,
+      "example": "And remember, the goal is to sound clear, confident, and natural while using AI as a",
+      "t": 101.64
+    },
+    {
+      "text": "ai tools",
+      "count": 14,
+      "example": "AI tools are becoming part of daily work and meetings are one of the main areas where",
+      "t": 52.84
+    },
+    {
+      "text": "ai tool",
+      "count": 14,
+      "example": "Well, first, I used an AI tool to summarize last week's meeting notes.",
+      "t": 149.96
+    },
+    {
+      "text": "let's talk",
+      "count": 14,
+      "example": "Yes. Now let's talk about how we can use AI during the meeting itself.",
+      "t": 250.88
+    },
+    {
+      "text": "action items",
+      "count": 12,
+      "example": "It helped me quickly understand the key points and action items.",
+      "t": 154.96
+    },
+    {
+      "text": "key points",
+      "count": 11,
+      "example": "It helped me quickly understand the key points and action items.",
+      "t": 154.96
+    },
+    {
+      "text": "ai in meetings",
+      "count": 10,
+      "example": "discussing how they use AI in meetings, including practical examples and real situations.",
+      "t": 88.32
+    },
+    {
+      "text": "that's a great",
+      "count": 8,
+      "example": "That's a great point.",
+      "t": 72.4
+    },
+    {
+      "text": "used ai",
+      "count": 8,
+      "example": "I agree. I also used AI to help me organize my presentation points more clearly.",
+      "t": 220.88
+    }
+  ],
+  "phrases": [
+    {
+      "text": "use ai",
+      "count": 50,
+      "example": "Yes, today's topic is how to use AI in business meetings.",
+      "t": 44.92
+    },
+    {
+      "text": "using ai",
+      "count": 31,
+      "example": "And remember, the goal is to sound clear, confident, and natural while using AI as a",
+      "t": 101.64
+    },
+    {
+      "text": "ai tools",
+      "count": 14,
+      "example": "AI tools are becoming part of daily work and meetings are one of the main areas where",
+      "t": 52.84
+    },
+    {
+      "text": "ai tool",
+      "count": 14,
+      "example": "Well, first, I used an AI tool to summarize last week's meeting notes.",
+      "t": 149.96
+    },
+    {
+      "text": "let's talk",
+      "count": 14,
+      "example": "Yes. Now let's talk about how we can use AI during the meeting itself.",
+      "t": 250.88
+    },
+    {
+      "text": "action items",
+      "count": 12,
+      "example": "It helped me quickly understand the key points and action items.",
+      "t": 154.96
+    },
+    {
+      "text": "key points",
+      "count": 11,
+      "example": "It helped me quickly understand the key points and action items.",
+      "t": 154.96
+    },
+    {
+      "text": "ai in meetings",
+      "count": 10,
+      "example": "discussing how they use AI in meetings, including practical examples and real situations.",
+      "t": 88.32
+    },
+    {
+      "text": "that's a great",
+      "count": 8,
+      "example": "That's a great point.",
+      "t": 72.4
+    },
+    {
+      "text": "used ai",
+      "count": 8,
+      "example": "I agree. I also used AI to help me organize my presentation points more clearly.",
+      "t": 220.88
+    },
+    {
+      "text": "business english",
+      "count": 7,
+      "example": "Hello and welcome back to Business English Podcast.",
+      "t": 14.0
+    },
+    {
+      "text": "ai help",
+      "count": 7,
+      "example": "Can AI help during the meeting itself?",
+      "t": 288.8
+    },
+    {
+      "text": "using ai tools",
+      "count": 7,
+      "example": "More and more companies are using AI tools to improve productivity, communication, and decision making.",
+      "t": 636.7
+    },
+    {
+      "text": "practical examples",
+      "count": 6,
+      "example": "practical examples, and everyday workplace situations.",
+      "t": 32.8
+    },
+    {
+      "text": "it's important",
+      "count": 6,
+      "example": "AI is helpful, but it's important to review the output.",
+      "t": 178.28
+    },
+    {
+      "text": "business meetings",
+      "count": 5,
+      "example": "Yes, today's topic is how to use AI in business meetings.",
+      "t": 44.92
+    },
+    {
+      "text": "lot of time",
+      "count": 5,
+      "example": "Sometimes reading long meeting notes can take a lot of time.",
+      "t": 160.88
+    },
+    {
+      "text": "ai can help",
+      "count": 5,
+      "example": "Now let's talk about how AI can help us after the meeting.",
+      "t": 341.12
+    },
+    {
+      "text": "welcome back",
+      "count": 4,
+      "example": "Hello and welcome back to Business English Podcast.",
+      "t": 14.0
+    },
+    {
+      "text": "us today",
+      "count": 4,
+      "example": "And we're really happy you're here learning with us today.",
+      "t": 23.64
+    },
+    {
+      "text": "ai in business",
+      "count": 4,
+      "example": "Yes, today's topic is how to use AI in business meetings.",
+      "t": 44.92
+    },
+    {
+      "text": "today we're",
+      "count": 4,
+      "example": "So today, we're going to simulate a realistic and detailed conversation between two colleagues",
+      "t": 82.6
+    },
+    {
+      "text": "we're going",
+      "count": 4,
+      "example": "So today, we're going to simulate a realistic and detailed conversation between two colleagues",
+      "t": 82.6
+    },
+    {
+      "text": "today we're going",
+      "count": 4,
+      "example": "So today, we're going to simulate a realistic and detailed conversation between two colleagues",
+      "t": 82.6
+    },
+    {
+      "text": "support tool",
+      "count": 4,
+      "example": "support tool.",
+      "t": 107.04
+    },
+    {
+      "text": "let's begin",
+      "count": 4,
+      "example": "So, let's begin.",
+      "t": 109.04
+    },
+    {
+      "text": "used an ai",
+      "count": 4,
+      "example": "Well, first, I used an AI tool to summarize last week's meeting notes.",
+      "t": 149.96
+    },
+    {
+      "text": "that's very useful",
+      "count": 4,
+      "example": "That's very useful.",
+      "t": 159.16
+    },
+    {
+      "text": "also use",
+      "count": 4,
+      "example": "I also use AI to draft follow-up emails.",
+      "t": 357.24
+    },
+    {
+      "text": "follow-up emails",
+      "count": 4,
+      "example": "I also use AI to draft follow-up emails.",
+      "t": 357.24
+    },
+    {
+      "text": "human judgment",
+      "count": 4,
+      "example": "That's where human judgment is important.",
+      "t": 443.22
+    },
+    {
+      "text": "starting point",
+      "count": 4,
+      "example": "AI provides a starting point,",
+      "t": 446.7
+    },
+    {
+      "text": "another mistake",
+      "count": 4,
+      "example": "Another mistake is overusing AI during conversations.",
+      "t": 463.62
+    },
+    {
+      "text": "listening today",
+      "count": 4,
+      "example": "Thank you so much for listening today.",
+      "t": 590.18
+    },
+    {
+      "text": "much for listening",
+      "count": 4,
+      "example": "Thank you so much for listening today.",
+      "t": 590.18
+    },
+    {
+      "text": "keep practicing",
+      "count": 4,
+      "example": "Keep practicing, keep improving,",
+      "t": 592.34
+    },
+    {
+      "text": "goodbye everyone",
+      "count": 4,
+      "example": "Goodbye, everyone.",
+      "t": 597.62
+    },
+    {
+      "text": "give an example",
+      "count": 4,
+      "example": "Can you give an example?",
+      "t": 870.26
+    },
+    {
+      "text": "always review",
+      "count": 4,
+      "example": "We always review the AI generated summary before we finalize it.",
+      "t": 934.42
+    },
+    {
+      "text": "that's a good",
+      "count": 4,
+      "example": "That's a good approach.",
+      "t": 938.74
+    },
+    {
+      "text": "meeting ai",
+      "count": 4,
+      "example": "Before a meeting, AI helps us in several ways.",
+      "t": 1319.48
+    },
+    {
+      "text": "points decisions",
+      "count": 4,
+      "example": "It identifies key points, decisions, and action items.",
+      "t": 1443.84
+    },
+    {
+      "text": "ask ai",
+      "count": 4,
+      "example": "you can ask AI to simplify your ideas",
+      "t": 1745.34
+    },
+    {
+      "text": "hello and welcome",
+      "count": 3,
+      "example": "Hello and welcome back to Business English Podcast.",
+      "t": 14.0
+    },
+    {
+      "text": "happy you're",
+      "count": 3,
+      "example": "And we're really happy you're here learning with us today.",
+      "t": 23.64
+    },
+    {
+      "text": "we're really happy",
+      "count": 3,
+      "example": "And we're really happy you're here learning with us today.",
+      "t": 23.64
+    },
+    {
+      "text": "you're here learning",
+      "count": 3,
+      "example": "And we're really happy you're here learning with us today.",
+      "t": 23.64
+    },
+    {
+      "text": "learning with us",
+      "count": 3,
+      "example": "And we're really happy you're here learning with us today.",
+      "t": 23.64
+    },
+    {
+      "text": "real conversations",
+      "count": 3,
+      "example": "On this channel, we help you speak English naturally and confidently through real conversations,",
+      "t": 26.8
+    },
+    {
+      "text": "workplace situations",
+      "count": 3,
+      "example": "practical examples, and everyday workplace situations.",
+      "t": 32.8
+    },
+    {
+      "text": "practical topic",
+      "count": 3,
+      "example": "That's right, and today we have a very modern and practical topic that is becoming more and",
+      "t": 36.6
+    },
+    {
+      "text": "today's topic",
+      "count": 3,
+      "example": "Yes, today's topic is how to use AI in business meetings.",
+      "t": 44.92
+    },
+    {
+      "text": "many professionals",
+      "count": 3,
+      "example": "This is something many professionals are curious about.",
+      "t": 49.76
+    },
+    {
+      "text": "many people",
+      "count": 3,
+      "example": "Exactly, but many people are not sure how to use AI effectively during meetings.",
+      "t": 60.2
+    },
+    {
+      "text": "ai effectively",
+      "count": 3,
+      "example": "Exactly, but many people are not sure how to use AI effectively during meetings.",
+      "t": 60.2
+    },
+    {
+      "text": "use ai effectively",
+      "count": 3,
+      "example": "Exactly, but many people are not sure how to use AI effectively during meetings.",
+      "t": 60.2
+    },
+    {
+      "text": "business meeting",
+      "count": 3,
+      "example": "Sophia and I are colleagues preparing for an important business meeting.",
+      "t": 112.12
+    },
+    {
+      "text": "we're discussing",
+      "count": 3,
+      "example": "Yes, and we're discussing how to use AI tools effectively before, during, and after",
+      "t": 116.16
+    },
+    {
+      "text": "let's start",
+      "count": 3,
+      "example": "Alright, let's start the conversation.",
+      "t": 123.0
+    },
+    {
+      "text": "great idea",
+      "count": 3,
+      "example": "That's a great idea.",
+      "t": 141.6
+    },
+    {
+      "text": "review the output",
+      "count": 3,
+      "example": "AI is helpful, but it's important to review the output.",
+      "t": 178.28
+    },
+    {
+      "text": "take notes",
+      "count": 3,
+      "example": "Sometimes it's hard to listen, speak, and take notes at the same time.",
+      "t": 268.7
+    },
+    {
+      "text": "ensure accuracy",
+      "count": 3,
+      "example": "Yes, but again, we should review the notes afterward to ensure accuracy.",
+      "t": 280.58
+    },
+    {
+      "text": "example if someone",
+      "count": 3,
+      "example": "For example, if someone asks about market trends, we can quickly check relevant data.",
+      "t": 302.36
+    },
+    {
+      "text": "that's very helpful",
+      "count": 3,
+      "example": "That's very helpful for productivity.",
+      "t": 354.64
+    },
+    {
+      "text": "also use ai",
+      "count": 3,
+      "example": "I also use AI to draft follow-up emails.",
+      "t": 357.24
+    },
+    {
+      "text": "ai helps",
+      "count": 3,
+      "example": "Exactly. AI helps with efficiency, but we add the personal touch.",
+      "t": 377.68
+    },
+    {
+      "text": "ai to summarize",
+      "count": 3,
+      "example": "I used AI to summarize the meeting",
+      "t": 422.9
+    },
+    {
+      "text": "complete workflow",
+      "count": 3,
+      "example": "That's a complete workflow, very efficient.",
+      "t": 426.9
+    },
+    {
+      "text": "that's very important",
+      "count": 3,
+      "example": "That's very important.",
+      "t": 478.06
+    },
+    {
+      "text": "finish let's",
+      "count": 3,
+      "example": "Before we finish, let's give our listeners a challenge.",
+      "t": 562.14
+    },
+    {
+      "text": "next meeting",
+      "count": 3,
+      "example": "Think about your next meeting.",
+      "t": 566.22
+    },
+    {
+      "text": "talk about using",
+      "count": 3,
+      "example": "But many people are not sure how to talk about using AI in English, especially in professional situations.",
+      "t": 652.5
+    },
+    {
+      "text": "started using",
+      "count": 3,
+      "example": "So, Sophia, have you started using AI tools in your meetings at work?",
+      "t": 676.72
+    },
+    {
+      "text": "started using ai",
+      "count": 3,
+      "example": "So, Sophia, have you started using AI tools in your meetings at work?",
+      "t": 676.72
+    },
+    {
+      "text": "clear and professional",
+      "count": 3,
+      "example": "That sounds clear and professional.",
+      "t": 738.12
+    },
+    {
+      "text": "common use",
+      "count": 3,
+      "example": "Another common use is generating action items. After the meeting, the AI identifies tasks",
+      "t": 758.72
+    },
+    {
+      "text": "sounds very efficient",
+      "count": 3,
+      "example": "and assigns responsibilities. That sounds very efficient.",
+      "t": 765.28
+    },
+    {
+      "text": "one meeting",
+      "count": 3,
+      "example": "Yes, I did. During one meeting, I explained the AI tool uses speech recognition and",
+      "t": 821.06
+    },
+    {
+      "text": "helped us",
+      "count": 3,
+      "example": "Yes, and it helped us think in new ways.",
+      "t": 884.26
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen, practice, speak. Practice makes you perfect."
+    },
+    {
+      "t": 14.0,
+      "text": "Hello and welcome back to Business English Podcast."
+    },
+    {
+      "t": 17.4,
+      "text": "Hi everyone."
+    },
+    {
+      "t": 18.4,
+      "text": "Welcome to today's English Conversation Practice."
+    },
+    {
+      "t": 21.48,
+      "text": "I'm Daniel."
+    },
+    {
+      "t": 22.48,
+      "text": "And I'm Sophia."
+    },
+    {
+      "t": 23.64,
+      "text": "And we're really happy you're here learning with us today."
+    },
+    {
+      "t": 26.8,
+      "text": "On this channel, we help you speak English naturally and confidently through real conversations,"
+    },
+    {
+      "t": 32.8,
+      "text": "practical examples, and everyday workplace situations."
+    },
+    {
+      "t": 36.6,
+      "text": "That's right, and today we have a very modern and practical topic that is becoming more and"
+    },
+    {
+      "t": 41.92,
+      "text": "more important in workplaces around the world."
+    },
+    {
+      "t": 44.92,
+      "text": "Yes, today's topic is how to use AI in business meetings."
+    },
+    {
+      "t": 49.76,
+      "text": "This is something many professionals are curious about."
+    },
+    {
+      "t": 52.84,
+      "text": "AI tools are becoming part of daily work and meetings are one of the main areas where"
+    },
+    {
+      "t": 58.0,
+      "text": "people are starting to use them."
+    },
+    {
+      "t": 60.2,
+      "text": "Exactly, but many people are not sure how to use AI effectively during meetings."
+    },
+    {
+      "t": 65.72,
+      "text": "They might worry about sounding unnatural, relying too much on technology, or not knowing"
+    },
+    {
+      "t": 71.4,
+      "text": "when to use it."
+    },
+    {
+      "t": 72.4,
+      "text": "That's a great point."
+    },
+    {
+      "t": 73.92,
+      "text": "AI is a tool, not a replacement for communication."
+    },
+    {
+      "t": 77.96,
+      "text": "The goal is to use it to support your ideas, not replace your thinking."
+    },
+    {
+      "t": 82.6,
+      "text": "So today, we're going to simulate a realistic and detailed conversation between two colleagues"
+    },
+    {
+      "t": 88.32,
+      "text": "discussing how they use AI in meetings, including practical examples and real situations."
+    },
+    {
+      "t": 94.92,
+      "text": "will also demonstrate useful English phrases that you can use when talking about AI in a"
+    },
+    {
+      "t": 99.8,
+      "text": "professional environment."
+    },
+    {
+      "t": 101.64,
+      "text": "And remember, the goal is to sound clear, confident, and natural while using AI as a"
+    },
+    {
+      "t": 107.04,
+      "text": "support tool."
+    },
+    {
+      "t": 108.04,
+      "text": "Exactly."
+    },
+    {
+      "t": 109.04,
+      "text": "So, let's begin."
+    },
+    {
+      "t": 110.68,
+      "text": "Imagine this situation."
+    },
+    {
+      "t": 112.12,
+      "text": "Sophia and I are colleagues preparing for an important business meeting."
+    },
+    {
+      "t": 116.16,
+      "text": "Yes, and we're discussing how to use AI tools effectively before, during, and after"
+    },
+    {
+      "t": 122.0,
+      "text": "the meeting."
+    },
+    {
+      "t": 123.0,
+      "text": "Alright, let's start the conversation."
+    },
+    {
+      "t": 125.44,
+      "text": "Hey Sophia, do you have a few minutes to prepare for tomorrow's meeting?"
+    },
+    {
+      "t": 129.24,
+      "text": "Of course, Daniel."
+    },
+    {
+      "t": 130.24,
+      "text": "I was actually just reviewing the agenda."
+    },
+    {
+      "t": 132.92,
+      "text": "It looks like an important meeting with the senior management team."
+    },
+    {
+      "t": 136.28,
+      "text": "Yes, it is."
+    },
+    {
+      "t": 137.6,
+      "text": "I was thinking we could use some AI tools to help us prepare more efficiently."
+    },
+    {
+      "t": 141.6,
+      "text": "That's a great idea."
+    },
+    {
+      "t": 143.56,
+      "text": "I've been using AI more frequently in my workflow, but I'd love to hear how you"
+    },
+    {
+      "t": 147.92,
+      "text": "plan to use it for this meeting."
+    },
+    {
+      "t": 149.96,
+      "text": "Well, first, I used an AI tool to summarize last week's meeting notes."
+    },
+    {
+      "t": 154.96,
+      "text": "It helped me quickly understand the key points and action items."
+    },
+    {
+      "t": 159.16,
+      "text": "That's very useful."
+    },
+    {
+      "t": 160.88,
+      "text": "Sometimes reading long meeting notes can take a lot of time."
+    },
+    {
+      "t": 164.24,
+      "text": "Exactly."
+    },
+    {
+      "t": 165.24,
+      "text": "The AI summarized everything into a few clear bullet points, which made it easier to"
+    },
+    {
+      "t": 169.92,
+      "text": "focus on what matters."
+    },
+    {
+      "t": 171.68,
+      "text": "I like that."
+    },
+    {
+      "t": 172.8,
+      "text": "Did you verify the summary for accuracy?"
+    },
+    {
+      "t": 175.4,
+      "text": "Yes."
+    },
+    {
+      "t": 176.4,
+      "text": "I always double-check important details."
+    },
+    {
+      "t": 178.28,
+      "text": "AI is helpful, but it's important to review the output."
+    },
+    {
+      "t": 182.12,
+      "text": "That's a very responsible approach."
+    },
+    {
+      "t": 184.44,
+      "text": "So how else can we use AI before the meeting?"
+    },
+    {
+      "t": 187.72,
+      "text": "Another thing I did was ask the AI to suggest possible questions"
+    },
+    {
+      "t": 191.96,
+      "text": "that management might ask during the meeting."
+    },
+    {
+      "t": 194.68,
+      "text": "That's interesting. What kind of questions did it suggest?"
+    },
+    {
+      "t": 198.28,
+      "text": "For example, it suggested questions about project timelines,"
+    },
+    {
+      "t": 202.44,
+      "text": "budget efficiency, and potential risks."
+    },
+    {
+      "t": 205.4,
+      "text": "That's actually very realistic."
+    },
+    {
+      "t": 207.88,
+      "text": "Those are exactly the types of questions managers usually ask."
+    },
+    {
+      "t": 211.88,
+      "text": "Yes, and it helped me prepare answers in advance."
+    },
+    {
+      "t": 214.88,
+      "text": "That's a great way to build confidence."
+    },
+    {
+      "t": 217.88,
+      "text": "I think preparation is one of the best uses of AI."
+    },
+    {
+      "t": 220.88,
+      "text": "I agree. I also used AI to help me organize my presentation points more clearly."
+    },
+    {
+      "t": 226.88,
+      "text": "How did you do that?"
+    },
+    {
+      "t": 227.88,
+      "text": "I gave the AI a rough outline of my ideas, and it helped me structure them into a logical flow."
+    },
+    {
+      "t": 234.88,
+      "text": "That sounds very helpful, especially when you have many ideas but need to present them clearly."
+    },
+    {
+      "t": 240.88,
+      "text": "Exactly. It helped me avoid repetition and made my message more concise."
+    },
+    {
+      "t": 245.88,
+      "text": "I think that's one of the biggest advantages of AI. It helps you communicate more clearly."
+    },
+    {
+      "t": 250.88,
+      "text": "Yes. Now let's talk about how we can use AI during the meeting itself."
+    },
+    {
+      "t": 255.88,
+      "text": "That's where it gets really interesting. What are your thoughts?"
+    },
+    {
+      "t": 259.88,
+      "text": "During the meeting, we can use AI note-taking tools to automatically record and summarize"
+    },
+    {
+      "t": 265.26,
+      "text": "the discussion."
+    },
+    {
+      "t": 266.66,
+      "text": "That would be very useful."
+    },
+    {
+      "t": 268.7,
+      "text": "Sometimes it's hard to listen, speak, and take notes at the same time."
+    },
+    {
+      "t": 272.86,
+      "text": "Exactly."
+    },
+    {
+      "t": 273.86,
+      "text": "With AI handling the notes, we can focus more on the conversation."
+    },
+    {
+      "t": 278.02,
+      "text": "That improves engagement and communication."
+    },
+    {
+      "t": 280.58,
+      "text": "Yes, but again, we should review the notes afterward to ensure accuracy."
+    },
+    {
+      "t": 285.82,
+      "text": "Definitely."
+    },
+    {
+      "t": 286.98,
+      "text": "What about real-time support?"
+    },
+    {
+      "t": 288.8,
+      "text": "Can AI help during the meeting itself?"
+    },
+    {
+      "t": 291.04,
+      "text": "Yes."
+    },
+    {
+      "t": 292.04,
+      "text": "For example, if we need quick data or definitions, we can use AI to find information instantly."
+    },
+    {
+      "t": 298.72,
+      "text": "That can save time instead of searching manually."
+    },
+    {
+      "t": 301.36,
+      "text": "Right."
+    },
+    {
+      "t": 302.36,
+      "text": "For example, if someone asks about market trends, we can quickly check relevant data."
+    },
+    {
+      "t": 307.52,
+      "text": "That makes you look prepared and informed."
+    },
+    {
+      "t": 309.96,
+      "text": "Exactly."
+    },
+    {
+      "t": 310.96,
+      "text": "But we should be careful not to rely on AI too much during the meeting."
+    },
+    {
+      "t": 315.04,
+      "text": "I agree."
+    },
+    {
+      "t": 316.04,
+      "text": "It's important to maintain eye contact and active participation."
+    },
+    {
+      "t": 319.64,
+      "text": "Yes, communication should always come first."
+    },
+    {
+      "t": 323.16,
+      "text": "Another idea is using AI to help with language."
+    },
+    {
+      "t": 326.22,
+      "text": "For example, if someone is not a native English speaker, AI can suggest better phrasing."
+    },
+    {
+      "t": 331.84,
+      "text": "That's a great point."
+    },
+    {
+      "t": 333.2,
+      "text": "It can help improve clarity and confidence."
+    },
+    {
+      "t": 335.96,
+      "text": "But again, it should be used as support, not a replacement."
+    },
+    {
+      "t": 340.12,
+      "text": "Exactly."
+    },
+    {
+      "t": 341.12,
+      "text": "Now let's talk about how AI can help us after the meeting."
+    },
+    {
+      "t": 344.84,
+      "text": "I think this is one of the most powerful uses."
+    },
+    {
+      "t": 347.84,
+      "text": "AI can summarize the meeting and highlight action items."
+    },
+    {
+      "t": 351.34,
+      "text": "Yes, and it can even organize tasks by priority."
+    },
+    {
+      "t": 354.64,
+      "text": "That's very helpful for productivity."
+    },
+    {
+      "t": 357.24,
+      "text": "I also use AI to draft follow-up emails."
+    },
+    {
+      "t": 360.56,
+      "text": "That saves a lot of time."
+    },
+    {
+      "t": 362.44,
+      "text": "Yes, I just provide key points"
+    },
+    {
+      "t": 364.56,
+      "text": "and the AI creates a professional email draft."
+    },
+    {
+      "t": 367.8,
+      "text": "Do you edit the email before sending it?"
+    },
+    {
+      "t": 370.12,
+      "text": "Always."
+    },
+    {
+      "t": 370.96,
+      "text": "I personalize it and make sure the tone is appropriate."
+    },
+    {
+      "t": 374.04,
+      "text": "That's important. Communication should still feel human."
+    },
+    {
+      "t": 377.68,
+      "text": "Exactly. AI helps with efficiency, but we add the personal touch."
+    },
+    {
+      "t": 382.92,
+      "text": "Let's talk about a real example."
+    },
+    {
+      "t": 384.84,
+      "text": "Can you describe a meeting where you used AI successfully?"
+    },
+    {
+      "t": 388.32,
+      "text": "Sure. Last month, I had a meeting with a client about improving their marketing strategy."
+    },
+    {
+      "t": 393.76,
+      "text": "What did you do?"
+    },
+    {
+      "t": 394.96,
+      "text": "Before the meeting, I used an AI tool to analyze the client's website and generate insights."
+    },
+    {
+      "t": 400.88,
+      "text": "That sounds advanced."
+    },
+    {
+      "t": 402.26,
+      "text": "What kind of insights did you get?"
+    },
+    {
+      "t": 404.22,
+      "text": "It highlighted areas for improvement,"
+    },
+    {
+      "t": 406.62,
+      "text": "such as website speed and content clarity."
+    },
+    {
+      "t": 409.7,
+      "text": "That must have impressed the client."
+    },
+    {
+      "t": 411.82,
+      "text": "Yes, it helped me provide valuable suggestions"
+    },
+    {
+      "t": 414.78,
+      "text": "during the meeting."
+    },
+    {
+      "t": 415.82,
+      "text": "Did you use AI during the meeting?"
+    },
+    {
+      "t": 417.94,
+      "text": "Yes, I used a note-taking tool to capture the discussion."
+    },
+    {
+      "t": 421.46,
+      "text": "And after the meeting?"
+    },
+    {
+      "t": 422.9,
+      "text": "I used AI to summarize the meeting"
+    },
+    {
+      "t": 424.98,
+      "text": "and create a follow-up plan."
+    },
+    {
+      "t": 426.9,
+      "text": "That's a complete workflow, very efficient."
+    },
+    {
+      "t": 429.9,
+      "text": "Yes, it saved time and improved quality."
+    },
+    {
+      "t": 432.94,
+      "text": "Were there any challenges?"
+    },
+    {
+      "t": 434.82,
+      "text": "Yes, sometimes the AI suggestions were too generic."
+    },
+    {
+      "t": 438.94,
+      "text": "That can happen."
+    },
+    {
+      "t": 440.1,
+      "text": "So I had to refine them and make them more specific."
+    },
+    {
+      "t": 443.22,
+      "text": "That's where human judgment is important."
+    },
+    {
+      "t": 445.62,
+      "text": "Exactly."
+    },
+    {
+      "t": 446.7,
+      "text": "AI provides a starting point,"
+    },
+    {
+      "t": 448.58,
+      "text": "but we make the final decisions."
+    },
+    {
+      "t": 450.7,
+      "text": "Let's talk about common mistakes"
+    },
+    {
+      "t": 452.66,
+      "text": "when using AI in meetings."
+    },
+    {
+      "t": 454.62,
+      "text": "One mistake is relying on AI"
+    },
+    {
+      "t": 456.86,
+      "text": "without understanding the content."
+    },
+    {
+      "t": 459.18,
+      "text": "That can be risky."
+    },
+    {
+      "t": 460.66,
+      "text": "Yes, you must understand what you're presenting."
+    },
+    {
+      "t": 463.62,
+      "text": "Another mistake is overusing AI during conversations."
+    },
+    {
+      "t": 467.62,
+      "text": "That can make communication feel unnatural."
+    },
+    {
+      "t": 470.74,
+      "text": "Exactly."
+    },
+    {
+      "t": 471.58,
+      "text": "Meetings are about human interaction."
+    },
+    {
+      "t": 474.1,
+      "text": "Another mistake is not checking AI-generated information."
+    },
+    {
+      "t": 478.06,
+      "text": "That's very important."
+    },
+    {
+      "t": 479.74,
+      "text": "Accuracy matters."
+    },
+    {
+      "t": 481.22,
+      "text": "Absolutely."
+    },
+    {
+      "t": 482.42,
+      "text": "Now let's practice some useful phrases"
+    },
+    {
+      "t": 484.58,
+      "text": "for using AI in meetings."
+    },
+    {
+      "t": 486.42,
+      "text": "Great idea."
+    },
+    {
+      "t": 487.38,
+      "text": "You can say, I used an AI tool to summarize our previous discussion."
+    },
+    {
+      "t": 492.34,
+      "text": "Or you can say, I asked an AI system to analyze this data and provide insights."
+    },
+    {
+      "t": 498.38,
+      "text": "Another example is, let me quickly check this information using an AI tool."
+    },
+    {
+      "t": 503.42,
+      "text": "And you can say, I've prepared a draft using AI and I'd like to refine it with your input."
+    },
+    {
+      "t": 509.5,
+      "text": "These phrases sound professional and natural."
+    },
+    {
+      "t": 512.38,
+      "text": "Yes, they show that you are using technology effectively."
+    },
+    {
+      "t": 515.86,
+      "text": "Now let's continue the conversation with a deeper scenario."
+    },
+    {
+      "t": 519.34,
+      "text": "Sure."
+    },
+    {
+      "t": 520.1,
+      "text": "I'm imagining we are in the meeting now."
+    },
+    {
+      "t": 522.74,
+      "text": "OK, I'll act as the manager."
+    },
+    {
+      "t": 524.74,
+      "text": "Daniel, can you summarize the key points"
+    },
+    {
+      "t": 527.14,
+      "text": "from last week's meeting?"
+    },
+    {
+      "t": 528.5,
+      "text": "Yes, I used an AI tool to review the notes."
+    },
+    {
+      "t": 531.94,
+      "text": "The main points were improving efficiency, reducing costs,"
+    },
+    {
+      "t": 535.78,
+      "text": "and enhancing customer experience."
+    },
+    {
+      "t": 538.18,
+      "text": "That's clear."
+    },
+    {
+      "t": 539.42,
+      "text": "What about the action items?"
+    },
+    {
+      "t": 541.1,
+      "text": "The key action items include updating the system,"
+    },
+    {
+      "t": 544.22,
+      "text": "reviewing the budget in conducting customer surveys."
+    },
+    {
+      "t": 547.58,
+      "text": "Excellent, that's very organized."
+    },
+    {
+      "t": 549.94,
+      "text": "Thank you."
+    },
+    {
+      "t": 550.78,
+      "text": "Now let's return to our podcast discussion."
+    },
+    {
+      "t": 553.26,
+      "text": "Sure."
+    },
+    {
+      "t": 554.1,
+      "text": "This example shows how AI can support communication"
+    },
+    {
+      "t": 557.42,
+      "text": "without replacing it."
+    },
+    {
+      "t": 558.88,
+      "text": "Exactly, it enhances clarity and efficiency."
+    },
+    {
+      "t": 562.14,
+      "text": "Before we finish, let's give our listeners a challenge."
+    },
+    {
+      "t": 565.38,
+      "text": "Good idea."
+    },
+    {
+      "t": 566.22,
+      "text": "Think about your next meeting."
+    },
+    {
+      "t": 568.06,
+      "text": "How can you use AI to prepare?"
+    },
+    {
+      "t": 570.38,
+      "text": "Maybe summarize notes, generate ideas,"
+    },
+    {
+      "t": 573.42,
+      "text": "or organize your thoughts."
+    },
+    {
+      "t": 575.22,
+      "text": "Then think about how you can use AI after the meeting."
+    },
+    {
+      "t": 578.74,
+      "text": "For example, writing follow-up emails"
+    },
+    {
+      "t": 580.98,
+      "text": "or summarizing action points."
+    },
+    {
+      "t": 582.98,
+      "text": "Practice using simple English to explain your use of AI."
+    },
+    {
+      "t": 587.1,
+      "text": "The more you practice, the more confident you will become."
+    },
+    {
+      "t": 590.18,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 592.34,
+      "text": "Keep practicing, keep improving,"
+    },
+    {
+      "t": 594.3,
+      "text": "and keep speaking English."
+    },
+    {
+      "t": 596.1,
+      "text": "See you in the next episode."
+    },
+    {
+      "t": 597.62,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 598.46,
+      "text": "Hello, and welcome back to Business English Podcast."
+    },
+    {
+      "t": 601.66,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 602.5,
+      "text": "Welcome to today's English Conversation Practice."
+    },
+    {
+      "t": 605.7,
+      "text": "I'm Daniel."
+    },
+    {
+      "t": 606.62,
+      "text": "And I'm Sophia."
+    },
+    {
+      "t": 607.7,
+      "text": "And we're really happy you're here learning with us today."
+    },
+    {
+      "t": 610.74,
+      "text": "On this channel, we help you speak English"
+    },
+    {
+      "t": 612.9,
+      "text": "naturally and confidently through real conversations,"
+    },
+    {
+      "t": 616.26,
+      "text": "practical examples, and everyday workplace situations."
+    },
+    {
+      "t": 619.78,
+      "text": "That's right."
+    },
+    {
+      "t": 620.62,
+      "text": "And today, we're going to talk about a very modern"
+    },
+    {
+      "t": 623.46,
+      "text": "and important topic that many professionals"
+    },
+    {
+      "t": 626.22,
+      "text": "are interested in."
+    },
+    {
+      "t": 627.3,
+      "text": "Yes, today's topic is how to use AI in business meetings."
+    },
+    {
+      "t": 631.9,
+      "text": "This is becoming a very valuable skill in today's workplace."
+    },
+    {
+      "t": 635.5,
+      "text": "Absolutely."
+    },
+    {
+      "t": 636.7,
+      "text": "More and more companies are using AI tools to improve productivity, communication, and decision making."
+    },
+    {
+      "t": 643.7,
+      "text": "And in meetings, AI can help with note-taking, summarizing discussions, analyzing data, and even suggesting ideas."
+    },
+    {
+      "t": 651.4,
+      "text": "Exactly."
+    },
+    {
+      "t": 652.5,
+      "text": "But many people are not sure how to talk about using AI in English, especially in professional situations."
+    },
+    {
+      "t": 659.6,
+      "text": "So, today we're going to have a realistic conversation where we show you how to naturally"
+    },
+    {
+      "t": 665.1,
+      "text": "discuss using AI in meetings."
+    },
+    {
+      "t": 667.64,
+      "text": "We'll use simple, clear business English, and we'll include practical examples that"
+    },
+    {
+      "t": 672.48,
+      "text": "you can use in your own workplace."
+    },
+    {
+      "t": 674.72,
+      "text": "Great."
+    },
+    {
+      "t": 675.72,
+      "text": "Let's begin."
+    },
+    {
+      "t": 676.72,
+      "text": "So, Sophia, have you started using AI tools in your meetings at work?"
+    },
+    {
+      "t": 681.0,
+      "text": "Yes, actually I have."
+    },
+    {
+      "t": 682.88,
+      "text": "Over the past few months, our team has started integrating AI into many of our"
+    },
+    {
+      "t": 687.24,
+      "text": "weekly meetings."
+    },
+    {
+      "t": 688.48,
+      "text": "That sounds interesting. Can you tell me more about how you use it?"
+    },
+    {
+      "t": 691.88,
+      "text": "Sure. One of the main ways we use AI is for automatic meeting summaries. After every meeting,"
+    },
+    {
+      "t": 698.48,
+      "text": "the AI tool generates a summary of the key points."
+    },
+    {
+      "t": 701.88,
+      "text": "That must save a lot of time."
+    },
+    {
+      "t": 703.74,
+      "text": "It really does. Before, someone had to manually take notes and sometimes important details"
+    },
+    {
+      "t": 709.54,
+      "text": "were missed."
+    },
+    {
+      "t": 710.54,
+      "text": "Yes, I've experienced that before. Manual note-taking can be stressful during meetings."
+    },
+    {
+      "t": 716.12,
+      "text": "Exactly. Now we can focus more on the discussion instead of worrying about writing everything down."
+    },
+    {
+      "t": 722.12,
+      "text": "That's a big advantage. So how do you usually introduce AI usage in a meeting?"
+    },
+    {
+      "t": 728.12,
+      "text": "Usually, at the beginning of the meeting, I say something like, just to let everyone know,"
+    },
+    {
+      "t": 733.12,
+      "text": "we'll be using an AI tool today to record and summarize our discussion."
+    },
+    {
+      "t": 738.12,
+      "text": "That sounds clear and professional."
+    },
+    {
+      "t": 740.12,
+      "text": "Yes, it's important to inform everyone, especially because of privacy and transparency."
+    },
+    {
+      "t": 745.12,
+      "text": "That's a very good point. People should always know when AI tools are being used."
+    },
+    {
+      "t": 750.48,
+      "text": "Absolutely. Communication is key in professional environments."
+    },
+    {
+      "t": 754.56,
+      "text": "Besides summaries, what other ways do you use AI in meetings?"
+    },
+    {
+      "t": 758.72,
+      "text": "Another common use is generating action items. After the meeting, the AI identifies tasks"
+    },
+    {
+      "t": 765.28,
+      "text": "and assigns responsibilities. That sounds very efficient."
+    },
+    {
+      "t": 768.8,
+      "text": "It is. For example, instead of manually deciding who does what,"
+    },
+    {
+      "t": 773.76,
+      "text": "the AI suggests action points based on the conversation."
+    },
+    {
+      "t": 777.76,
+      "text": "Can you give me an example?"
+    },
+    {
+      "t": 779.16,
+      "text": "Sure."
+    },
+    {
+      "t": 780.06,
+      "text": "Let's say during a meeting we discuss launching a new product."
+    },
+    {
+      "t": 784.26,
+      "text": "The AI might generate action items like"
+    },
+    {
+      "t": 787.36,
+      "text": "marketing team to prepare campaign strategy"
+    },
+    {
+      "t": 790.46,
+      "text": "or sales team to contact key clients."
+    },
+    {
+      "t": 793.56,
+      "text": "That's very helpful."
+    },
+    {
+      "t": 795.06,
+      "text": "It ensures nothing is forgotten."
+    },
+    {
+      "t": 796.86,
+      "text": "Exactly."
+    },
+    {
+      "t": 797.86,
+      "text": "It improves accountability and clarity."
+    },
+    {
+      "t": 800.26,
+      "text": "How do people in your team feel about using AI?"
+    },
+    {
+      "t": 803.46,
+      "text": "At first, some people were unsure, they were worried about accuracy and reliability."
+    },
+    {
+      "t": 808.82,
+      "text": "That's understandable. New technology can sometimes feel uncomfortable."
+    },
+    {
+      "t": 813.3,
+      "text": "Yes, but after using it for a few weeks, most people became more confident."
+    },
+    {
+      "t": 818.42,
+      "text": "Did you have to explain how the AI works?"
+    },
+    {
+      "t": 821.06,
+      "text": "Yes, I did. During one meeting, I explained the AI tool uses speech recognition and"
+    },
+    {
+      "t": 827.3,
+      "text": "natural language processing to understand our discussion."
+    },
+    {
+      "t": 830.58,
+      "text": "That sounds quite technical."
+    },
+    {
+      "t": 832.34,
+      "text": "It does, but I try to keep it simple."
+    },
+    {
+      "t": 835.14,
+      "text": "I usually add, it basically listens to the conversation and identifies key points."
+    },
+    {
+      "t": 840.82,
+      "text": "That makes it easier to understand."
+    },
+    {
+      "t": 842.9,
+      "text": "Exactly. Simple explanations are always better in meetings."
+    },
+    {
+      "t": 846.5,
+      "text": "Have you ever used AI during the meeting itself, not just after?"
+    },
+    {
+      "t": 850.74,
+      "text": "Yes, sometimes we use AI for real-time suggestions."
+    },
+    {
+      "t": 854.74,
+      "text": "What do you mean by that?"
+    },
+    {
+      "t": 856.02,
+      "text": "For example, during brainstorming sessions, the AI can suggest ideas based on the discussion."
+    },
+    {
+      "t": 862.26,
+      "text": "That sounds very advanced."
+    },
+    {
+      "t": 864.26,
+      "text": "It is, but it's very useful."
+    },
+    {
+      "t": 866.26,
+      "text": "If the team is stuck, the AI can provide new perspectives."
+    },
+    {
+      "t": 870.26,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 871.26,
+      "text": "Sure."
+    },
+    {
+      "t": 872.26,
+      "text": "During a marketing meeting, we were discussing ways to improve customer engagement."
+    },
+    {
+      "t": 877.26,
+      "text": "The AI suggested using personalized email campaigns and interactive content."
+    },
+    {
+      "t": 882.26,
+      "text": "That's impressive."
+    },
+    {
+      "t": 884.26,
+      "text": "Yes, and it helped us think in new ways."
+    },
+    {
+      "t": 886.26,
+      "text": "How do you introduce that during a meeting?"
+    },
+    {
+      "t": 889.26,
+      "text": "I usually say, let's use the AI tool to generate some additional ideas."
+    },
+    {
+      "t": 894.62,
+      "text": "That sounds very natural."
+    },
+    {
+      "t": 896.02,
+      "text": "Yes, and it encourages collaboration between humans and technology."
+    },
+    {
+      "t": 900.48,
+      "text": "That's a great way to put it."
+    },
+    {
+      "t": 901.98,
+      "text": "Thank you."
+    },
+    {
+      "t": 902.98,
+      "text": "I think the key is to treat AI as a support tool, not a replacement."
+    },
+    {
+      "t": 907.7,
+      "text": "That's an important mindset."
+    },
+    {
+      "t": 909.58,
+      "text": "Absolutely."
+    },
+    {
+      "t": 910.58,
+      "text": "AI should enhance human decision-making, not replace it."
+    },
+    {
+      "t": 914.18,
+      "text": "Have you ever faced challenges when using AI in meetings?"
+    },
+    {
+      "t": 917.62,
+      "text": "Yes, definitely."
+    },
+    {
+      "t": 919.1,
+      "text": "What kind of challenges?"
+    },
+    {
+      "t": 920.82,
+      "text": "One challenge is accuracy."
+    },
+    {
+      "t": 923.26,
+      "text": "Sometimes the AI misunderstands certain words or accents."
+    },
+    {
+      "t": 927.14,
+      "text": "That can be a problem."
+    },
+    {
+      "t": 928.5,
+      "text": "Yes, especially in international teams where people have different accents."
+    },
+    {
+      "t": 933.18,
+      "text": "How do you handle that?"
+    },
+    {
+      "t": 934.42,
+      "text": "We always review the AI generated summary before we finalize it."
+    },
+    {
+      "t": 938.74,
+      "text": "That's a good approach."
+    },
+    {
+      "t": 939.9,
+      "text": "Yes, I usually say, please review the summary to ensure accuracy before we finalize it."
+    },
+    {
+      "t": 946.14,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 947.9,
+      "text": "Thank you."
+    },
+    {
+      "t": 948.9,
+      "text": "to maintain quality."
+    },
+    {
+      "t": 950.64,
+      "text": "Any other challenges?"
+    },
+    {
+      "t": 951.98,
+      "text": "Another challenge is over-reliance on AI."
+    },
+    {
+      "t": 955.06,
+      "text": "What do you mean?"
+    },
+    {
+      "t": 955.94,
+      "text": "Sometimes people trust the AI too much"
+    },
+    {
+      "t": 958.98,
+      "text": "and stop thinking critically."
+    },
+    {
+      "t": 960.74,
+      "text": "That's a very interesting point."
+    },
+    {
+      "t": 962.66,
+      "text": "Yes, so I often remind the team,"
+    },
+    {
+      "t": 965.38,
+      "text": "AI is a tool to support us,"
+    },
+    {
+      "t": 967.54,
+      "text": "but we still need to use our own judgment."
+    },
+    {
+      "t": 970.18,
+      "text": "That's excellent advice."
+    },
+    {
+      "t": 971.78,
+      "text": "Thank you."
+    },
+    {
+      "t": 972.62,
+      "text": "Balance is very important."
+    },
+    {
+      "t": 974.42,
+      "text": "Have you used AI for presentations during meetings?"
+    },
+    {
+      "t": 977.72,
+      "text": "Yes, we have."
+    },
+    {
+      "t": 978.88,
+      "text": "How does that work?"
+    },
+    {
+      "t": 979.96,
+      "text": "The AI helps create presentation slides"
+    },
+    {
+      "t": 982.68,
+      "text": "based on meeting topics."
+    },
+    {
+      "t": 984.36,
+      "text": "That must save a lot of preparation time."
+    },
+    {
+      "t": 986.84,
+      "text": "It does."
+    },
+    {
+      "t": 987.68,
+      "text": "For example, I can say, generate a presentation"
+    },
+    {
+      "t": 991.08,
+      "text": "based on our quarterly performance discussion."
+    },
+    {
+      "t": 993.68,
+      "text": "And it creates slides automatically?"
+    },
+    {
+      "t": 995.88,
+      "text": "Yes, with key points, charts, and summaries."
+    },
+    {
+      "t": 999.04,
+      "text": "That's very efficient."
+    },
+    {
+      "t": 1000.44,
+      "text": "It is, but we still review and edit the slides"
+    },
+    {
+      "t": 1003.44,
+      "text": "before presenting."
+    },
+    {
+      "t": 1004.64,
+      "text": "Of course, human review is still necessary."
+    },
+    {
+      "t": 1007.48,
+      "text": "Exactly."
+    },
+    {
+      "t": 1008.4,
+      "text": "How about using AI for data analysis in meetings?"
+    },
+    {
+      "t": 1012.08,
+      "text": "That's another powerful use."
+    },
+    {
+      "t": 1014.28,
+      "text": "AI can quickly analyze large amounts of data"
+    },
+    {
+      "t": 1017.36,
+      "text": "and present insights."
+    },
+    {
+      "t": 1018.8,
+      "text": "That must be very helpful for decision-making."
+    },
+    {
+      "t": 1021.44,
+      "text": "It is."
+    },
+    {
+      "t": 1022.24,
+      "text": "Instead of spending hours analyzing data,"
+    },
+    {
+      "t": 1025.0,
+      "text": "we can get insights in minutes."
+    },
+    {
+      "t": 1027.04,
+      "text": "How do you talk about that in a meeting?"
+    },
+    {
+      "t": 1029.2,
+      "text": "I might say, let's use AI to analyze the data"
+    },
+    {
+      "t": 1032.88,
+      "text": "and identify trends."
+    },
+    {
+      "t": 1034.48,
+      "text": "That sounds clear and professional."
+    },
+    {
+      "t": 1036.52,
+      "text": "Yes, and it helps the team focus on interpreting the results instead of processing the data."
+    },
+    {
+      "t": 1042.24,
+      "text": "That's a big advantage."
+    },
+    {
+      "t": 1043.76,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1044.76,
+      "text": "Do you think AI will become standard in all business meetings?"
+    },
+    {
+      "t": 1048.8,
+      "text": "I believe so."
+    },
+    {
+      "t": 1050.2,
+      "text": "It's already becoming very common."
+    },
+    {
+      "t": 1052.28,
+      "text": "I agree."
+    },
+    {
+      "t": 1054.04,
+      "text": "Technology is changing the way we work."
+    },
+    {
+      "t": 1056.08,
+      "text": "Yes, and professionals who understand how to use AI will have a strong advantage."
+    },
+    {
+      "t": 1061.64,
+      "text": "That's true."
+    },
+    {
+      "t": 1062.64,
+      "text": "It's an important skill for the future."
+    },
+    {
+      "t": 1064.68,
+      "text": "Definitely."
+    },
+    {
+      "t": 1065.68,
+      "text": "Let's imagine a situation."
+    },
+    {
+      "t": 1067.86,
+      "text": "You are in a meeting and you want to suggest using AI."
+    },
+    {
+      "t": 1071.66,
+      "text": "What would you say?"
+    },
+    {
+      "t": 1072.66,
+      "text": "I might say, to improve efficiency, I suggest we use an AI tool to capture key points and"
+    },
+    {
+      "t": 1079.06,
+      "text": "action items."
+    },
+    {
+      "t": 1080.38,
+      "text": "That sounds very natural."
+    },
+    {
+      "t": 1082.06,
+      "text": "Thank you."
+    },
+    {
+      "t": 1083.06,
+      "text": "And if someone is unsure about using AI?"
+    },
+    {
+      "t": 1085.58,
+      "text": "I would respond, we can review the output together to ensure accuracy and make any"
+    },
+    {
+      "t": 1090.9,
+      "text": "necessary adjustments."
+    },
+    {
+      "t": 1092.7,
+      "text": "That's reassuring."
+    },
+    {
+      "t": 1093.7,
+      "text": "Yes, it helps build trust."
+    },
+    {
+      "t": 1095.86,
+      "text": "What about ending a meeting with AI support?"
+    },
+    {
+      "t": 1098.7,
+      "text": "At the end, I might say the AI tool"
+    },
+    {
+      "t": 1101.5,
+      "text": "will generate a summary and action items,"
+    },
+    {
+      "t": 1103.86,
+      "text": "which I will share with everyone shortly."
+    },
+    {
+      "t": 1106.02,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 1107.82,
+      "text": "Thank you."
+    },
+    {
+      "t": 1108.66,
+      "text": "Clear communication is always important."
+    },
+    {
+      "t": 1111.26,
+      "text": "Before we finish, what is your biggest tip"
+    },
+    {
+      "t": 1114.22,
+      "text": "for using AI in meetings?"
+    },
+    {
+      "t": 1116.2,
+      "text": "My biggest tip is to keep it simple and transparent."
+    },
+    {
+      "t": 1120.02,
+      "text": "Always explain how you're using AI and why."
+    },
+    {
+      "t": 1123.26,
+      "text": "That's great advice."
+    },
+    {
+      "t": 1124.62,
+      "text": "And always review the results."
+    },
+    {
+      "t": 1126.74,
+      "text": "Don't rely on AI blindly."
+    },
+    {
+      "t": 1128.98,
+      "text": "Excellent point."
+    },
+    {
+      "t": 1130.18,
+      "text": "What about you?"
+    },
+    {
+      "t": 1131.22,
+      "text": "Do you plan to use AI in your meetings?"
+    },
+    {
+      "t": 1133.58,
+      "text": "Yes, definitely."
+    },
+    {
+      "t": 1135.06,
+      "text": "After this conversation, I feel more confident about it."
+    },
+    {
+      "t": 1138.14,
+      "text": "That's great to hear."
+    },
+    {
+      "t": 1139.26,
+      "text": "I think I'll start with simple tools"
+    },
+    {
+      "t": 1141.26,
+      "text": "like meeting summaries."
+    },
+    {
+      "t": 1142.78,
+      "text": "That's a good starting point."
+    },
+    {
+      "t": 1144.22,
+      "text": "Then gradually explore more advanced features."
+    },
+    {
+      "t": 1147.38,
+      "text": "Exactly."
+    },
+    {
+      "t": 1148.22,
+      "text": "Step by step is the best approach."
+    },
+    {
+      "t": 1150.5,
+      "text": "Well, this has been a very useful discussion."
+    },
+    {
+      "t": 1153.18,
+      "text": "Yes, I hope our listeners found it helpful too."
+    },
+    {
+      "t": 1156.22,
+      "text": "Before we end, here's a question for you."
+    },
+    {
+      "t": 1158.94,
+      "text": "Yes, think about this."
+    },
+    {
+      "t": 1160.9,
+      "text": "How would you use AI in your next business meeting?"
+    },
+    {
+      "t": 1164.22,
+      "text": "Try to answer in English, practice phrases like suggesting,"
+    },
+    {
+      "t": 1168.06,
+      "text": "explaining, and summarizing."
+    },
+    {
+      "t": 1170.22,
+      "text": "The more you practice, the more confident you will become."
+    },
+    {
+      "t": 1173.38,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 1175.58,
+      "text": "Keep practicing your English and keep learning new skills."
+    },
+    {
+      "t": 1178.94,
+      "text": "And remember, communication is the key to success in business."
+    },
+    {
+      "t": 1183.14,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1184.34,
+      "text": "See you next time."
+    },
+    {
+      "t": 1194.28,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 1195.28,
+      "text": "Welcome back to the podcast where we help you communicate more confidently in professional"
+    },
+    {
+      "t": 1200.36,
+      "text": "situations."
+    },
+    {
+      "t": 1201.86,
+      "text": "And hello, everyone."
+    },
+    {
+      "t": 1203.1,
+      "text": "We're very happy you are here with us today."
+    },
+    {
+      "t": 1205.62,
+      "text": "In this podcast, we focus on practical English you can use in meetings, presentations, interviews,"
+    },
+    {
+      "t": 1211.84,
+      "text": "and everyday business communication."
+    },
+    {
+      "t": 1214.2,
+      "text": "That's right."
+    },
+    {
+      "t": 1215.2,
+      "text": "And today, we have a very modern and highly practical topic."
+    },
+    {
+      "t": 1219.08,
+      "text": "Yes."
+    },
+    {
+      "t": 1220.08,
+      "text": "Next topic is how to use AI in business meetings."
+    },
+    {
+      "t": 1224.0,
+      "text": "This is becoming an essential skill because many companies are now integrating AI into"
+    },
+    {
+      "t": 1229.22,
+      "text": "their daily workflows."
+    },
+    {
+      "t": 1230.96,
+      "text": "Exactly."
+    },
+    {
+      "t": 1231.96,
+      "text": "But while many people know about AI, they are not always sure how to use it effectively"
+    },
+    {
+      "t": 1237.36,
+      "text": "during meetings."
+    },
+    {
+      "t": 1238.88,
+      "text": "So today, we're going to give you a comprehensive and detailed conversation with real practical"
+    },
+    {
+      "t": 1245.2,
+      "text": "examples."
+    },
+    {
+      "t": 1246.2,
+      "text": "And we will simulate realistic workplace situations so you can learn natural English expressions."
+    },
+    {
+      "t": 1252.68,
+      "text": "We will talk about using AI before meetings, during meetings, and after meetings, all through conversation."
+    },
+    {
+      "t": 1260.2,
+      "text": "And we will also discuss challenges, mistakes, and best practices."
+    },
+    {
+      "t": 1265.08,
+      "text": "All right, let's begin."
+    },
+    {
+      "t": 1266.92,
+      "text": "So, Speaker 1, I heard that your company recently started using AI tools in meetings."
+    },
+    {
+      "t": 1272.6,
+      "text": "Is that correct?"
+    },
+    {
+      "t": 1273.96,
+      "text": "Yes, that's correct."
+    },
+    {
+      "t": 1275.48,
+      "text": "Over the past six months, we've gradually introduced AI tools into our meeting processes."
+    },
+    {
+      "t": 1281.32,
+      "text": "That sounds like a big change. What motivated your company to start using AI?"
+    },
+    {
+      "t": 1286.44,
+      "text": "The main reason was efficiency. We noticed that meetings were taking too long and sometimes"
+    },
+    {
+      "t": 1292.44,
+      "text": "they were not very productive. That's a common problem in many organizations."
+    },
+    {
+      "t": 1297.56,
+      "text": "Exactly. People often spent too much time preparing, taking notes, and writing follow-up"
+    },
+    {
+      "t": 1303.48,
+      "text": "So AI was introduced to solve those problems?"
+    },
+    {
+      "t": 1307.48,
+      "text": "Yes. The goal was to save time, improve clarity,"
+    },
+    {
+      "t": 1311.48,
+      "text": "and make meetings more results-oriented."
+    },
+    {
+      "t": 1314.48,
+      "text": "Let's start with the preparation phase. How do you use AI before a meeting?"
+    },
+    {
+      "t": 1319.48,
+      "text": "Before a meeting, AI helps us in several ways."
+    },
+    {
+      "t": 1323.48,
+      "text": "One of the most useful features is agenda creation."
+    },
+    {
+      "t": 1327.48,
+      "text": "Can you explain how that works?"
+    },
+    {
+      "t": 1329.48,
+      "text": "Sure. Instead of writing the agenda manually, I give the AI a short description of the meeting."
+    },
+    {
+      "t": 1335.96,
+      "text": "For example, I might say, create an agenda for a product launch planning meeting."
+    },
+    {
+      "t": 1341.24,
+      "text": "And the AI generates a full agenda?"
+    },
+    {
+      "t": 1344.04,
+      "text": "Yes, it usually creates a structured agenda with sections like objectives, discussion topics,"
+    },
+    {
+      "t": 1349.96,
+      "text": "time allocation, and expected outcomes."
+    },
+    {
+      "t": 1352.76,
+      "text": "That sounds very organized."
+    },
+    {
+      "t": 1354.76,
+      "text": "It is, and it also helps ensure that the meeting stays focused."
+    },
+    {
+      "t": 1359.0,
+      "text": "Do you ever modify the AI-generated agenda?"
+    },
+    {
+      "t": 1362.28,
+      "text": "Yes, always."
+    },
+    {
+      "t": 1363.88,
+      "text": "I treat it as a draft."
+    },
+    {
+      "t": 1365.52,
+      "text": "I review it and adjust it based on our specific needs."
+    },
+    {
+      "t": 1369.36,
+      "text": "That's a good approach."
+    },
+    {
+      "t": 1370.84,
+      "text": "AI should support not replace human thinking."
+    },
+    {
+      "t": 1374.2,
+      "text": "Exactly."
+    },
+    {
+      "t": 1375.4,
+      "text": "What about research?"
+    },
+    {
+      "t": 1376.84,
+      "text": "Does AI help with gathering information?"
+    },
+    {
+      "t": 1379.56,
+      "text": "Yes, that's another major advantage."
+    },
+    {
+      "t": 1382.28,
+      "text": "Before meetings, we often need to review reports, emails, or data."
+    },
+    {
+      "t": 1386.84,
+      "text": "That can take a lot of time."
+    },
+    {
+      "t": 1388.76,
+      "text": "It does, but with AI we can upload documents and ask for summaries."
+    },
+    {
+      "t": 1394.04,
+      "text": "Can you give a real example?"
+    },
+    {
+      "t": 1396.04,
+      "text": "Sure. Last month we had a meeting about customer satisfaction."
+    },
+    {
+      "t": 1399.96,
+      "text": "We had hundreds of survey responses."
+    },
+    {
+      "t": 1402.84,
+      "text": "That sounds overwhelming."
+    },
+    {
+      "t": 1404.68,
+      "text": "It was, but we used AI to summarize the responses."
+    },
+    {
+      "t": 1408.68,
+      "text": "It identified key themes like slow delivery,"
+    },
+    {
+      "t": 1411.88,
+      "text": "product quality, and customer support issues."
+    },
+    {
+      "t": 1415.0,
+      "text": "That must have saved hours of work."
+    },
+    {
+      "t": 1416.84,
+      "text": "Yes, and it allowed us to focus directly on the main issues during the meeting."
+    },
+    {
+      "t": 1422.84,
+      "text": "That's very practical. Now let's talk about using AI during the meeting itself."
+    },
+    {
+      "t": 1427.84,
+      "text": "During the meeting, AI plays an even more active role."
+    },
+    {
+      "t": 1432.84,
+      "text": "What is the most common use?"
+    },
+    {
+      "t": 1434.84,
+      "text": "The most common use is automatic note-taking."
+    },
+    {
+      "t": 1437.84,
+      "text": "How does that work exactly?"
+    },
+    {
+      "t": 1439.84,
+      "text": "The AI tool records the meeting and generates real-time notes."
+    },
+    {
+      "t": 1443.84,
+      "text": "It identifies key points, decisions, and action items."
+    },
+    {
+      "t": 1447.84,
+      "text": "So participants don't need to take notes manually?"
+    },
+    {
+      "t": 1450.84,
+      "text": "Exactly. This allows everyone to focus fully on the discussion."
+    },
+    {
+      "t": 1455.84,
+      "text": "That must improve engagement."
+    },
+    {
+      "t": 1457.84,
+      "text": "Yes, people are more present and active in the conversation."
+    },
+    {
+      "t": 1461.84,
+      "text": "Does the AI also organize the notes?"
+    },
+    {
+      "t": 1464.84,
+      "text": "Yes, it usually organizes them into sections like discussion points, decisions, and next steps."
+    },
+    {
+      "t": 1470.84,
+      "text": "That sounds very useful for follow-up."
+    },
+    {
+      "t": 1472.84,
+      "text": "It is."
+    },
+    {
+      "t": 1474.84,
+      "text": "What about language support?"
+    },
+    {
+      "t": 1476.84,
+      "text": "AI is very helpful for communication, especially in international teams."
+    },
+    {
+      "t": 1481.84,
+      "text": "Can you explain that?"
+    },
+    {
+      "t": 1483.84,
+      "text": "For example, some team members are not native English speakers."
+    },
+    {
+      "t": 1487.84,
+      "text": "AI can help them rephrase sentences or check grammar before they speak."
+    },
+    {
+      "t": 1491.84,
+      "text": "That can increase confidence."
+    },
+    {
+      "t": 1493.84,
+      "text": "Exactly. It reduces anxiety and helps people express their ideas more clearly."
+    },
+    {
+      "t": 1499.84,
+      "text": "Does AI also help with real-time translation?"
+    },
+    {
+      "t": 1503.12,
+      "text": "Yes, some tools provide live translation."
+    },
+    {
+      "t": 1506.52,
+      "text": "That's amazing."
+    },
+    {
+      "t": 1507.88,
+      "text": "It is especially useful in global companies"
+    },
+    {
+      "t": 1510.84,
+      "text": "where team numbers speak different languages."
+    },
+    {
+      "t": 1513.44,
+      "text": "Let's talk about decision-making."
+    },
+    {
+      "t": 1515.52,
+      "text": "Can AI support decisions during meetings?"
+    },
+    {
+      "t": 1518.52,
+      "text": "Yes, AI can analyze data quickly and provide insights."
+    },
+    {
+      "t": 1522.84,
+      "text": "Can you give a practical example?"
+    },
+    {
+      "t": 1525.04,
+      "text": "Sure."
+    },
+    {
+      "t": 1525.84,
+      "text": "During a sales meeting, we needed to decide"
+    },
+    {
+      "t": 1528.48,
+      "text": "which market to focus on."
+    },
+    {
+      "t": 1530.6,
+      "text": "That's an important decision."
+    },
+    {
+      "t": 1532.44,
+      "text": "Yes, we asked AI to analyze sales data from different regions."
+    },
+    {
+      "t": 1537.4,
+      "text": "And what did it do?"
+    },
+    {
+      "t": 1538.92,
+      "text": "It identified trends and suggested"
+    },
+    {
+      "t": 1540.92,
+      "text": "that one region had the highest growth potential."
+    },
+    {
+      "t": 1544.32,
+      "text": "That's very helpful."
+    },
+    {
+      "t": 1546.2,
+      "text": "Yes, but we still discussed it as a team"
+    },
+    {
+      "t": 1548.72,
+      "text": "before making the final decision."
+    },
+    {
+      "t": 1550.88,
+      "text": "That's important."
+    },
+    {
+      "t": 1552.32,
+      "text": "AI should support decisions, not make them."
+    },
+    {
+      "t": 1555.48,
+      "text": "Exactly. Human judgment is still essential."
+    },
+    {
+      "t": 1559.24,
+      "text": "Now let's move after the meeting."
+    },
+    {
+      "t": 1561.08,
+      "text": "How does AI help in the follow-up phase?"
+    },
+    {
+      "t": 1564.0,
+      "text": "After the meeting, AI generates a detailed summary."
+    },
+    {
+      "t": 1567.88,
+      "text": "What does the summary include?"
+    },
+    {
+      "t": 1569.8,
+      "text": "It includes key discussion points, decisions,"
+    },
+    {
+      "t": 1572.4,
+      "text": "and action items."
+    },
+    {
+      "t": 1573.88,
+      "text": "Does it also assign tasks?"
+    },
+    {
+      "t": 1576.08,
+      "text": "Yes. Some tools automatically assign tasks"
+    },
+    {
+      "t": 1579.16,
+      "text": "based on the discussion."
+    },
+    {
+      "t": 1580.72,
+      "text": "That must make follow-up much easier."
+    },
+    {
+      "t": 1583.28,
+      "text": "It does. It saves time and reduces misunderstandings."
+    },
+    {
+      "t": 1587.28,
+      "text": "Let's talk about a full, real-life example."
+    },
+    {
+      "t": 1590.56,
+      "text": "Can you describe a meeting where AI made a significant difference?"
+    },
+    {
+      "t": 1594.48,
+      "text": "Yes. Recently, we had a cross-department project meeting."
+    },
+    {
+      "t": 1598.64,
+      "text": "What was the goal?"
+    },
+    {
+      "t": 1599.96,
+      "text": "The goal was to improve our product delivery process."
+    },
+    {
+      "t": 1603.6,
+      "text": "How did you use AI before the meeting?"
+    },
+    {
+      "t": 1606.28,
+      "text": "We used AI to create the agenda and summarize past reports."
+    },
+    {
+      "t": 1610.6,
+      "text": "And during the meeting?"
+    },
+    {
+      "t": 1612.38,
+      "text": "AI recorded the discussion and highlighted key decisions in real time."
+    },
+    {
+      "t": 1617.2,
+      "text": "What about after the meeting?"
+    },
+    {
+      "t": 1619.04,
+      "text": "It generated a complete summary and action plan within minutes."
+    },
+    {
+      "t": 1623.56,
+      "text": "That sounds very efficient."
+    },
+    {
+      "t": 1625.2,
+      "text": "Yes, it reduced our administrative work significantly."
+    },
+    {
+      "t": 1629.48,
+      "text": "Were there any challenges when using AI?"
+    },
+    {
+      "t": 1631.84,
+      "text": "Yes, there were a few challenges."
+    },
+    {
+      "t": 1634.76,
+      "text": "What kind of challenges?"
+    },
+    {
+      "t": 1636.44,
+      "text": "One challenge was accuracy."
+    },
+    {
+      "t": 1638.92,
+      "text": "Sometimes AI misunderstood context."
+    },
+    {
+      "t": 1641.84,
+      "text": "What can happen?"
+    },
+    {
+      "t": 1642.84,
+      "text": "Yes, so we always review the output carefully."
+    },
+    {
+      "t": 1646.82,
+      "text": "Any other challenges?"
+    },
+    {
+      "t": 1648.56,
+      "text": "Data privacy was another concern."
+    },
+    {
+      "t": 1651.08,
+      "text": "That's very important."
+    },
+    {
+      "t": 1652.56,
+      "text": "Yes, we had to ensure that sensitive information was protected."
+    },
+    {
+      "t": 1657.08,
+      "text": "How did you handle that?"
+    },
+    {
+      "t": 1658.6,
+      "text": "We used secure tools and followed company guidelines."
+    },
+    {
+      "t": 1662.52,
+      "text": "Let's talk about mistakes people make when using AI in meetings."
+    },
+    {
+      "t": 1666.36,
+      "text": "One common mistake is relying too much on AI."
+    },
+    {
+      "t": 1670.06,
+      "text": "What do you mean?"
+    },
+    {
+      "t": 1671.32,
+      "text": "Some people trust AI completely without checking the results."
+    },
+    {
+      "t": 1675.48,
+      "text": "That can be risky."
+    },
+    {
+      "t": 1676.88,
+      "text": "Yes, because AI is not always perfect."
+    },
+    {
+      "t": 1680.68,
+      "text": "What's another mistake?"
+    },
+    {
+      "t": 1682.38,
+      "text": "Not preparing properly."
+    },
+    {
+      "t": 1684.48,
+      "text": "Even with AI?"
+    },
+    {
+      "t": 1685.88,
+      "text": "Yes, AI can help, but you still need to understand the topic."
+    },
+    {
+      "t": 1690.72,
+      "text": "That's a very good point."
+    },
+    {
+      "t": 1692.72,
+      "text": "Another mistake is using AI without clear instructions."
+    },
+    {
+      "t": 1696.7,
+      "text": "Can you explain that?"
+    },
+    {
+      "t": 1698.1,
+      "text": "If your input is unclear, the output will also be unclear."
+    },
+    {
+      "t": 1702.3,
+      "text": "So you need to give specific instructions."
+    },
+    {
+      "t": 1705.02,
+      "text": "Exactly."
+    },
+    {
+      "t": 1706.02,
+      "text": "Let's talk about practical steps."
+    },
+    {
+      "t": 1708.7,
+      "text": "If someone has a meeting tomorrow, how can they use AI step by step?"
+    },
+    {
+      "t": 1713.42,
+      "text": "First, use AI to create a clear agenda."
+    },
+    {
+      "t": 1716.98,
+      "text": "Second, summarize important documents."
+    },
+    {
+      "t": 1720.78,
+      "text": "Third, use AI for note-taking during the meeting."
+    },
+    {
+      "t": 1725.46,
+      "text": "And finally, use AI to generate a"
+    },
+    {
+      "t": 1727.86,
+      "text": "a summary and action plan."
+    },
+    {
+      "t": 1730.0,
+      "text": "That's a complete workflow."
+    },
+    {
+      "t": 1731.86,
+      "text": "Yes, and it can transform how meetings are conducted."
+    },
+    {
+      "t": 1735.22,
+      "text": "Let's talk about communication improvement."
+    },
+    {
+      "t": 1737.9,
+      "text": "How can AI help people speak better in meetings?"
+    },
+    {
+      "t": 1741.26,
+      "text": "AI can help you organize your thoughts."
+    },
+    {
+      "t": 1743.86,
+      "text": "For example,"
+    },
+    {
+      "t": 1745.34,
+      "text": "you can ask AI to simplify your ideas"
+    },
+    {
+      "t": 1747.94,
+      "text": "or suggest professional phrases."
+    },
+    {
+      "t": 1750.3,
+      "text": "That's very useful."
+    },
+    {
+      "t": 1751.94,
+      "text": "It can also help you practice before meetings."
+    },
+    {
+      "t": 1754.9,
+      "text": "Practice?"
+    },
+    {
+      "t": 1755.74,
+      "text": "How?"
+    },
+    {
+      "t": 1756.68,
+      "text": "You can simulate a meeting conversation with AI."
+    },
+    {
+      "t": 1760.04,
+      "text": "That's a great idea."
+    },
+    {
+      "t": 1761.36,
+      "text": "Yes, especially for important presentations."
+    },
+    {
+      "t": 1765.08,
+      "text": "Before we finish, let's share one final example."
+    },
+    {
+      "t": 1768.32,
+      "text": "Sure."
+    },
+    {
+      "t": 1769.32,
+      "text": "Imagine you need to present an idea."
+    },
+    {
+      "t": 1771.8,
+      "text": "How can AI help?"
+    },
+    {
+      "t": 1773.52,
+      "text": "You can ask AI to structure your explanation."
+    },
+    {
+      "t": 1776.8,
+      "text": "For example..."
+    },
+    {
+      "t": 1778.68,
+      "text": "Explain the problem, propose a solution, and highlight the benefits."
+    },
+    {
+      "t": 1782.68,
+      "text": "That's very clear and professional."
+    },
+    {
+      "t": 1784.68,
+      "text": "Yes, and clarity is the key to effective communication."
+    },
+    {
+      "t": 1788.68,
+      "text": "Today, we learned how to use AI before, during, and after meetings."
+    },
+    {
+      "t": 1793.32,
+      "text": "We also discussed practical examples, challenges, and best practices."
+    },
+    {
+      "t": 1797.88,
+      "text": "Remember, AI is a powerful tool, but you should use it wisely."
+    },
+    {
+      "t": 1802.6,
+      "text": "Exactly. Combine AI with your own skills and judgment."
+    },
+    {
+      "t": 1807.24,
+      "text": "Now here's a question for you."
+    },
+    {
+      "t": 1809.24,
+      "text": "How will you use AI in your next meeting?"
+    },
+    {
+      "t": 1812.36,
+      "text": "Try to think about it and practice."
+    },
+    {
+      "t": 1814.52,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 1817.52,
+      "text": "We hope this conversation helps you improve your business English and your professional"
+    },
+    {
+      "t": 1821.8,
+      "text": "skills."
+    },
+    {
+      "t": 1822.8,
+      "text": "Keep practicing every day."
+    },
+    {
+      "t": 1825.24,
+      "text": "And we will see you in the next episode."
+    },
+    {
+      "t": 1827.76,
+      "text": "Goodbye everyone."
+    },
+    {
+      "t": 1828.76,
+      "text": "Goodbye."
+    },
+    {
+      "t": 1833.82,
+      "text": "Hello, and welcome to Business English Conversations."
+    },
+    {
+      "t": 1838.1,
+      "text": "Hello everyone."
+    },
+    {
+      "t": 1839.1,
+      "text": "Welcome back to the podcast where we practice real English for the workplace."
+    },
+    {
+      "t": 1843.06,
+      "text": "My name is Marco."
+    },
+    {
+      "t": 1844.26,
+      "text": "And I'm Erica."
+    },
+    {
+      "t": 1845.38,
+      "text": "We're really happy you're here learning with us today."
+    },
+    {
+      "t": 1848.18,
+      "text": "In this podcast, we help you improve your English through real conversations, practical"
+    },
+    {
+      "t": 1853.16,
+      "text": "examples, and professional situations."
+    },
+    {
+      "t": 1855.78,
+      "text": "Yes, especially situations like meetings, presentations, negotiations, and workplace"
+    },
+    {
+      "t": 1861.66,
+      "text": "communication."
+    },
+    {
+      "t": 1862.66,
+      "text": "Today, we have a very modern and highly practical topic."
+    },
+    {
+      "t": 1866.86,
+      "text": "That's right."
+    },
+    {
+      "t": 1867.86,
+      "text": "Today's topic is how to use AI in business meetings."
+    },
+    {
+      "t": 1871.86,
+      "text": "This is becoming an essential skill in today's workplace."
+    },
+    {
+      "t": 1875.5,
+      "text": "Many companies are now using AI tools to improve productivity, communication, and decision"
+    },
+    {
+      "t": 1881.22,
+      "text": "making during meetings."
+    },
+    {
+      "t": 1882.82,
+      "text": "Exactly, but many professionals are not sure how to use AI effectively in meetings or how"
+    },
+    {
+      "t": 1888.98,
+      "text": "to talk about it in English."
+    },
+    {
+      "t": 1890.9,
+      "text": "So today we will simulate a realistic conversation where we discuss how AI can be used before,"
+    },
+    {
+      "t": 1897.74,
+      "text": "during, and after a business meeting."
+    },
+    {
+      "t": 1900.54,
+      "text": "We'll also include practical examples and natural business English phrases that"
+    },
+    {
+      "t": 1904.9,
+      "text": "you can use in your own workplace."
+    },
+    {
+      "t": 1906.8,
+      "text": "Let's begin."
+    },
+    {
+      "t": 1907.8,
+      "text": "So, speaker one, I heard that your team"
+    },
+    {
+      "t": 1910.46,
+      "text": "recently started using AI tools in your meetings."
+    },
+    {
+      "t": 1913.68,
+      "text": "Can you tell me more about that?"
+    },
+    {
+      "t": 1915.34,
+      "text": "Yes, that's correct."
+    },
+    {
+      "t": 1916.82,
+      "text": "Over the past few months, we've integrated AI"
+    },
+    {
+      "t": 1919.5,
+      "text": "into several parts of our meeting process."
+    },
+    {
+      "t": 1922.02,
+      "text": "It has significantly improved our efficiency"
+    },
+    {
+      "t": 1924.58,
+      "text": "and communication."
+    },
+    {
+      "t": 1925.94,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 1927.46,
+      "text": "Let's start from the beginning."
+    },
+    {
+      "t": 1928.94,
+      "text": "How do you use AI before a meeting?"
+    },
+    {
+      "t": 1931.74,
+      "text": "Before a meeting, we use AI to prepare agendas"
+    },
+    {
+      "t": 1935.04,
+      "text": "and gather relevant information."
+    },
+    {
+      "t": 1937.04,
+      "text": "For example, instead of manually creating an agenda,"
+    },
+    {
+      "t": 1940.04,
+      "text": "we input key topics into an AI tool"
+    },
+    {
+      "t": 1943.12,
+      "text": "and it generates a structured agenda for us."
+    },
+    {
+      "t": 1946.0,
+      "text": "That sounds like a time saver."
+    },
+    {
+      "t": 1947.76,
+      "text": "Can you give a specific example?"
+    },
+    {
+      "t": 1949.68,
+      "text": "Sure."
+    },
+    {
+      "t": 1950.52,
+      "text": "Last week, we had a strategy meeting."
+    },
+    {
+      "t": 1952.32,
+      "text": "I entered a prompt like create a meeting agenda"
+    },
+    {
+      "t": 1955.28,
+      "text": "for discussing quarterly sales performance,"
+    },
+    {
+      "t": 1957.86,
+      "text": "marketing strategy, and budget planning,"
+    },
+    {
+      "t": 1960.26,
+      "text": "And the AI created a clear and organized agenda within seconds."
+    },
+    {
+      "t": 1964.7,
+      "text": "That's very efficient."
+    },
+    {
+      "t": 1966.22,
+      "text": "Did you need to edit the agenda afterward?"
+    },
+    {
+      "t": 1968.74,
+      "text": "Yes, a little."
+    },
+    {
+      "t": 1969.62,
+      "text": "AI gives a strong starting point, but we usually"
+    },
+    {
+      "t": 1972.42,
+      "text": "adjusted to match our specific needs."
+    },
+    {
+      "t": 1974.9,
+      "text": "That makes sense."
+    },
+    {
+      "t": 1976.02,
+      "text": "What else do you use AI for before meetings?"
+    },
+    {
+      "t": 1978.9,
+      "text": "We also use it for research."
+    },
+    {
+      "t": 1980.82,
+      "text": "For example, if we're discussing a new market,"
+    },
+    {
+      "t": 1983.18,
+      "text": "we ask AI to summarize trends, competitors,"
+    },
+    {
+      "t": 1986.46,
+      "text": "and potential risks."
+    },
+    {
+      "t": 1987.9,
+      "text": "That must help everyone come to the meeting"
+    },
+    {
+      "t": 1989.98,
+      "text": "more prepared."
+    },
+    {
+      "t": 1991.16,
+      "text": "Exactly."
+    },
+    {
+      "t": 1992.0,
+      "text": "It ensures that all participants have a basic understanding"
+    },
+    {
+      "t": 1995.12,
+      "text": "of the topic."
+    },
+    {
+      "t": 1996.12,
+      "text": "Do you share that information with the team?"
+    },
+    {
+      "t": 1998.44,
+      "text": "Yes."
+    },
+    {
+      "t": 1998.84,
+      "text": "We often share AI-generated summaries before the meeting"
+    },
+    {
+      "t": 2002.24,
+      "text": "so everyone can review them in advance."
+    },
+    {
+      "t": 2004.48,
+      "text": "That's a great practice."
+    },
+    {
+      "t": 2006.32,
+      "text": "Now let's talk about during the meeting."
+    },
+    {
+      "t": 2008.4,
+      "text": "How do you use AI in real time?"
+    },
+    {
+      "t": 2010.72,
+      "text": "During meetings, one of the most useful tools"
+    },
+    {
+      "t": 2013.12,
+      "text": "is AI note-taking."
+    },
+    {
+      "t": 2014.92,
+      "text": "We use software that automatically records"
+    },
+    {
+      "t": 2017.4,
+      "text": "and summarizes discussions."
+    },
+    {
+      "t": 2019.32,
+      "text": "That must reduce the need for manual note taking."
+    },
+    {
+      "t": 2022.2,
+      "text": "Exactly."
+    },
+    {
+      "t": 2023.04,
+      "text": "Instead of focusing on writing notes,"
+    },
+    {
+      "t": 2025.08,
+      "text": "participants can focus on the discussion."
+    },
+    {
+      "t": 2027.48,
+      "text": "Can you give an example of how that works?"
+    },
+    {
+      "t": 2029.96,
+      "text": "Sure."
+    },
+    {
+      "t": 2030.56,
+      "text": "During a recent project meeting,"
+    },
+    {
+      "t": 2032.4,
+      "text": "the AI tool recorded the conversation"
+    },
+    {
+      "t": 2034.92,
+      "text": "and created a summary that included key decisions,"
+    },
+    {
+      "t": 2038.04,
+      "text": "action items, and deadlines."
+    },
+    {
+      "t": 2040.04,
+      "text": "That sounds very helpful."
+    },
+    {
+      "t": 2041.76,
+      "text": "Were the summaries accurate?"
+    },
+    {
+      "t": 2043.36,
+      "text": "Mostly, yes."
+    },
+    {
+      "t": 2044.48,
+      "text": "Sometimes we need to make small corrections,"
+    },
+    {
+      "t": 2046.84,
+      "text": "but overall, it saves a lot of time."
+    },
+    {
+      "t": 2049.16,
+      "text": "I can imagine. What about using AI to support decision-making during meetings?"
+    },
+    {
+      "t": 2054.16,
+      "text": "That's another important use. For example, if we're discussing different strategies,"
+    },
+    {
+      "t": 2058.66,
+      "text": "we can quickly ask AI to compare options or analyze data."
+    },
+    {
+      "t": 2062.66,
+      "text": "Could you share a practical example?"
+    },
+    {
+      "t": 2064.66,
+      "text": "Of course. In one meeting, we were deciding between two marketing strategies."
+    },
+    {
+      "t": 2069.16,
+      "text": "We asked AI to compare their potential outcomes based on available data."
+    },
+    {
+      "t": 2073.66,
+      "text": "It provided a quick analysis that helped us make a decision faster."
+    },
+    {
+      "t": 2077.66,
+      "text": "That's impressive. Did the team trust the AI's suggestions?"
+    },
+    {
+      "t": 2081.66,
+      "text": "We use AI as a support tool, not as the final decision maker."
+    },
+    {
+      "t": 2086.46,
+      "text": "It provides insights, but we always use human judgment as well."
+    },
+    {
+      "t": 2090.56,
+      "text": "That's an important point. AI should assist not replace decision making."
+    },
+    {
+      "t": 2095.36,
+      "text": "Exactly."
+    },
+    {
+      "t": 2096.36,
+      "text": "Do you also use AI for communication during meetings?"
+    },
+    {
+      "t": 2099.86,
+      "text": "Yes, especially in international teams. AI tools can help with language, translation, and clarity."
+    },
+    {
+      "t": 2106.26,
+      "text": "That's very useful. Can you explain more?"
+    },
+    {
+      "t": 2109.26,
+      "text": "For example, if someone is not fluent in English, they can use AI to rephrase their ideas more clearly."
+    },
+    {
+      "t": 2116.26,
+      "text": "It helps improve communication and confidence."
+    },
+    {
+      "t": 2118.26,
+      "text": "That's a great benefit. What about presentations? Does AI help there as well?"
+    },
+    {
+      "t": 2123.26,
+      "text": "Yes, definitely. AI can generate presentation slides or suggest improvements in real time."
+    },
+    {
+      "t": 2129.26,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 2131.26,
+      "text": "In one meeting, we needed to present a project update."
+    },
+    {
+      "t": 2134.54,
+      "text": "We used AI to quickly create a draft presentation based on our notes,"
+    },
+    {
+      "t": 2139.18,
+      "text": "then we refined it before presenting."
+    },
+    {
+      "t": 2141.42,
+      "text": "That must have saved a lot of preparation time."
+    },
+    {
+      "t": 2144.3,
+      "text": "It did. It also helped us organize our ideas more clearly."
+    },
+    {
+      "t": 2148.14,
+      "text": "Now, let's talk about after the meeting."
+    },
+    {
+      "t": 2150.46,
+      "text": "How does AI help at that stage?"
+    },
+    {
+      "t": 2152.7,
+      "text": "After the meeting, AI is very useful for summarizing and follow-ups."
+    },
+    {
+      "t": 2157.58,
+      "text": "What kind of summaries does it create?"
+    },
+    {
+      "t": 2159.74,
+      "text": "It creates detailed summaries that include key points, decisions, and action items."
+    },
+    {
+      "t": 2165.18,
+      "text": "That's very useful for tracking progress."
+    },
+    {
+      "t": 2167.9,
+      "text": "Yes, and it ensures nothing is missed."
+    },
+    {
+      "t": 2170.62,
+      "text": "Do you also use AI to send follow-up emails?"
+    },
+    {
+      "t": 2173.9,
+      "text": "Yes, we often use AI to draft follow-up emails based on meeting discussions."
+    },
+    {
+      "t": 2179.1,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 2180.7,
+      "text": "Sure. After a meeting, I might input key points into AI and ask it to write a professional follow-up email."
+    },
+    {
+      "t": 2187.74,
+      "text": "Then I review it and send it."
+    },
+    {
+      "t": 2189.66,
+      "text": "That sounds very efficient."
+    },
+    {
+      "t": 2191.4,
+      "text": "It is. It saves time and ensures clear communication."
+    },
+    {
+      "t": 2195.12,
+      "text": "Let's talk about challenges."
+    },
+    {
+      "t": 2196.84,
+      "text": "Are there any challenges when using AI in meetings?"
+    },
+    {
+      "t": 2200.08,
+      "text": "Yes, there are a few."
+    },
+    {
+      "t": 2201.68,
+      "text": "One challenge is overreliance on AI."
+    },
+    {
+      "t": 2205.04,
+      "text": "What do you mean by that?"
+    },
+    {
+      "t": 2206.48,
+      "text": "Some people may depend too much on AI"
+    },
+    {
+      "t": 2209.16,
+      "text": "and stop thinking critically."
+    },
+    {
+      "t": 2211.08,
+      "text": "That could be risky."
+    },
+    {
+      "t": 2212.52,
+      "text": "Exactly."
+    },
+    {
+      "t": 2213.36,
+      "text": "It's important to use AI as a tool,"
+    },
+    {
+      "t": 2215.92,
+      "text": "not a replacement for human thinking."
+    },
+    {
+      "t": 2218.26,
+      "text": "Any other challenges?"
+    },
+    {
+      "t": 2219.6,
+      "text": "Data privacy is another concern."
+    },
+    {
+      "t": 2221.92,
+      "text": "When using AI tools, we need to be careful"
+    },
+    {
+      "t": 2224.4,
+      "text": "about sharing sensitive information."
+    },
+    {
+      "t": 2226.72,
+      "text": "That's a very important point."
+    },
+    {
+      "t": 2228.68,
+      "text": "Yes, companies must ensure that their data is secure."
+    },
+    {
+      "t": 2232.24,
+      "text": "What about accuracy?"
+    },
+    {
+      "t": 2233.88,
+      "text": "AI is not always 100% accurate."
+    },
+    {
+      "t": 2237.2,
+      "text": "That's why it's important to review its outputs."
+    },
+    {
+      "t": 2239.86,
+      "text": "That makes sense."
+    },
+    {
+      "t": 2240.96,
+      "text": "Now let's talk about best practices."
+    },
+    {
+      "t": 2243.36,
+      "text": "What advice would you give to someone"
+    },
+    {
+      "t": 2244.96,
+      "text": "who wants to use AI in meetings?"
+    },
+    {
+      "t": 2247.16,
+      "text": "First, start simple."
+    },
+    {
+      "t": 2248.8,
+      "text": "Use AI for basic tasks like creating agendas or summaries."
+    },
+    {
+      "t": 2253.22,
+      "text": "That's a good starting point."
+    },
+    {
+      "t": 2254.68,
+      "text": "Second, always review AI outputs."
+    },
+    {
+      "t": 2257.72,
+      "text": "Don't assume they are perfect."
+    },
+    {
+      "t": 2259.56,
+      "text": "That's very important."
+    },
+    {
+      "t": 2261.4,
+      "text": "Third, combine AI with human judgment."
+    },
+    {
+      "t": 2264.52,
+      "text": "Use it as a support tool."
+    },
+    {
+      "t": 2266.32,
+      "text": "Great advice."
+    },
+    {
+      "t": 2267.44,
+      "text": "Do you think AI will become more common in meetings"
+    },
+    {
+      "t": 2270.2,
+      "text": "in the future?"
+    },
+    {
+      "t": 2271.12,
+      "text": "Definitely."
+    },
+    {
+      "t": 2271.96,
+      "text": "AI is already transforming how we work,"
+    },
+    {
+      "t": 2274.72,
+      "text": "and its role will continue to grow."
+    },
+    {
+      "t": 2277.0,
+      "text": "How do you think it will evolve?"
+    },
+    {
+      "t": 2278.68,
+      "text": "I think AI will become more integrated into meeting platforms, offering real-time insights"
+    },
+    {
+      "t": 2284.24,
+      "text": "and recommendations."
+    },
+    {
+      "t": 2285.96,
+      "text": "That sounds exciting."
+    },
+    {
+      "t": 2287.2,
+      "text": "Yes, but it also means professionals need to learn how to use AI effectively."
+    },
+    {
+      "t": 2292.28,
+      "text": "That's true."
+    },
+    {
+      "t": 2293.28,
+      "text": "It's not just about technology, but also about communication skills."
+    },
+    {
+      "t": 2297.68,
+      "text": "Exactly."
+    },
+    {
+      "t": 2298.68,
+      "text": "Knowing how to explain ideas clearly and work with AI tools is becoming essential."
+    },
+    {
+      "t": 2304.18,
+      "text": "Before we finish, let's do a quick role-play example."
+    },
+    {
+      "t": 2307.6,
+      "text": "Good idea."
+    },
+    {
+      "t": 2308.6,
+      "text": "Imagine we're in a meeting discussing a new product launch."
+    },
+    {
+      "t": 2312.0,
+      "text": "How would you use AI?"
+    },
+    {
+      "t": 2313.52,
+      "text": "I would start by using AI to generate an agenda and share it with the team before the meeting."
+    },
+    {
+      "t": 2319.28,
+      "text": "And during the meeting?"
+    },
+    {
+      "t": 2320.88,
+      "text": "During the meeting I would use AI for note-taking and ask it to summarize key points."
+    },
+    {
+      "t": 2325.88,
+      "text": "What about decision-making?"
+    },
+    {
+      "t": 2327.48,
+      "text": "I might use AI to compare market data or analyze customer feedback."
+    },
+    {
+      "t": 2332.56,
+      "text": "And after the meeting?"
+    },
+    {
+      "t": 2333.8,
+      "text": "I would use AI to create a summary and draft a follow-up email."
+    },
+    {
+      "t": 2338.28,
+      "text": "It's a complete workflow."
+    },
+    {
+      "t": 2339.72,
+      "text": "Yes, and it shows how AI can support every stage of a meeting."
+    },
+    {
+      "t": 2344.08,
+      "text": "This has been a very practical discussion."
+    },
+    {
+      "t": 2346.64,
+      "text": "I agree."
+    },
+    {
+      "t": 2347.64,
+      "text": "AI can make meetings more efficient, but it's important to use it wisely."
+    },
+    {
+      "t": 2352.2,
+      "text": "Before we end, here's a question for our listeners."
+    },
+    {
+      "t": 2354.98,
+      "text": "How can you use AI in your next meeting?"
+    },
+    {
+      "t": 2357.8,
+      "text": "Try using it for one task, such as creating an agenda or summarizing notes."
+    },
+    {
+      "t": 2363.1,
+      "text": "Practice using AI tools and observe how they improve your workflow."
+    },
+    {
+      "t": 2367.04,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 2369.16,
+      "text": "We hope this conversation helps you use AI more confidently in your workplace."
+    },
+    {
+      "t": 2373.8,
+      "text": "Keep practicing, keep learning, and keep improving your business English."
+    },
+    {
+      "t": 2377.94,
+      "text": "See you next time."
+    },
+    {
+      "t": 2378.94,
+      "text": "Goodbye, everyone."
+    }
+  ],
+  "lemmas": [
+    [
+      "ai",
+      214
+    ],
+    [
+      "meet",
+      89
+    ],
+    [
+      "use",
+      80
+    ],
+    [
+      "meeting",
+      50
+    ],
+    [
+      "help",
+      43
+    ],
+    [
+      "tool",
+      43
+    ],
+    [
+      "using",
+      38
+    ],
+    [
+      "exactly",
+      33
+    ],
+    [
+      "example",
+      31
+    ],
+    [
+      "point",
+      30
+    ],
+    [
+      "important",
+      28
+    ],
+    [
+      "english",
+      25
+    ],
+    [
+      "today",
+      25
+    ],
+    [
+      "sound",
+      25
+    ],
+    [
+      "conversation",
+      23
+    ],
+    [
+      "key",
+      22
+    ],
+    [
+      "communication",
+      21
+    ],
+    [
+      "time",
+      21
+    ],
+    [
+      "discussion",
+      21
+    ],
+    [
+      "professional",
+      20
+    ],
+    [
+      "think",
+      20
+    ],
+    [
+      "talk",
+      20
+    ],
+    [
+      "one",
+      19
+    ],
+    [
+      "idea",
+      19
+    ],
+    [
+      "sure",
+      18
+    ],
+    [
+      "also",
+      18
+    ],
+    [
+      "review",
+      18
+    ],
+    [
+      "agenda",
+      18
+    ],
+    [
+      "team",
+      18
+    ],
+    [
+      "data",
+      18
+    ],
+    [
+      "business",
+      17
+    ],
+    [
+      "practical",
+      17
+    ],
+    [
+      "person",
+      17
+    ],
+    [
+      "support",
+      17
+    ],
+    [
+      "used",
+      17
+    ],
+    [
+      "need",
+      17
+    ],
+    [
+      "start",
+      16
+    ],
+    [
+      "action",
+      16
+    ],
+    [
+      "alway",
+      16
+    ],
+    [
+      "good",
+      16
+    ],
+    [
+      "decision",
+      16
+    ],
+    [
+      "practice",
+      15
+    ],
+    [
+      "everyone",
+      15
+    ],
+    [
+      "make",
+      15
+    ],
+    [
+      "useful",
+      14
+    ],
+    [
+      "another",
+      14
+    ],
+    [
+      "ask",
+      14
+    ],
+    [
+      "suggest",
+      14
+    ],
+    [
+      "give",
+      14
+    ],
+    [
+      "us",
+      13
+    ],
+    [
+      "topic",
+      13
+    ],
+    [
+      "great",
+      13
+    ],
+    [
+      "discuss",
+      13
+    ],
+    [
+      "summarize",
+      13
+    ],
+    [
+      "challeng",
+      13
+    ],
+    [
+      "say",
+      13
+    ],
+    [
+      "work",
+      12
+    ],
+    [
+      "clear",
+      12
+    ],
+    [
+      "item",
+      12
+    ],
+    [
+      "improve",
+      12
+    ],
+    [
+      "follow-up",
+      12
+    ],
+    [
+      "real",
+      11
+    ],
+    [
+      "many",
+      11
+    ],
+    [
+      "much",
+      11
+    ],
+    [
+      "sometim",
+      11
+    ],
+    [
+      "focus",
+      11
+    ],
+    [
+      "summary",
+      11
+    ],
+    [
+      "human",
+      11
+    ],
+    [
+      "explain",
+      11
+    ],
+    [
+      "keep",
+      11
+    ],
+    [
+      "workplace",
+      10
+    ],
+    [
+      "situation",
+      10
+    ],
+    [
+      "presentation",
+      10
+    ],
+    [
+      "email",
+      10
+    ],
+    [
+      "thank",
+      10
+    ],
+    [
+      "next",
+      10
+    ],
+    [
+      "summari",
+      10
+    ],
+    [
+      "mak",
+      9
+    ],
+    [
+      "accuracy",
+      9
+    ],
+    [
+      "helpful",
+      9
+    ],
+    [
+      "usually",
+      9
+    ],
+    [
+      "especially",
+      9
+    ],
+    [
+      "market",
+      9
+    ],
+    [
+      "creat",
+      9
+    ],
+    [
+      "generate",
+      9
+    ],
+    [
+      "create",
+      9
+    ],
+    [
+      "bas",
+      9
+    ],
+    [
+      "speak",
+      8
+    ],
+    [
+      "learn",
+      8
+    ],
+    [
+      "exampl",
+      8
+    ],
+    [
+      "understand",
+      8
+    ],
+    [
+      "way",
+      8
+    ],
+    [
+      "present",
+      8
+    ],
+    [
+      "note-tak",
+      8
+    ],
+    [
+      "improv",
+      8
+    ],
+    [
+      "information",
+      8
+    ],
+    [
+      "instead",
+      8
+    ],
+    [
+      "analyze",
+      8
+    ],
+    [
+      "insight",
+      8
+    ],
+    [
+      "common",
+      8
+    ],
+    [
+      "skill",
+      8
+    ],
+    [
+      "generat",
+      8
+    ],
+    [
+      "listen",
+      7
+    ],
+    [
+      "welcome",
+      7
+    ],
+    [
+      "podcast",
+      7
+    ],
+    [
+      "becom",
+      7
+    ],
+    [
+      "phras",
+      7
+    ],
+    [
+      "natural",
+      7
+    ],
+    [
+      "plan",
+      7
+    ],
+    [
+      "quickly",
+      7
+    ],
+    [
+      "lot",
+      7
+    ],
+    [
+      "summariz",
+      7
+    ],
+    [
+      "question",
+      7
+    ],
+    [
+      "efficiency",
+      7
+    ],
+    [
+      "clearly",
+      7
+    ],
+    [
+      "someone",
+      7
+    ],
+    [
+      "clarity",
+      7
+    ],
+    [
+      "draft",
+      7
+    ],
+    [
+      "sav",
+      7
+    ],
+    [
+      "still",
+      7
+    ],
+    [
+      "efficient",
+      7
+    ],
+    [
+      "simple",
+      7
+    ],
+    [
+      "practic",
+      7
+    ],
+    [
+      "new",
+      7
+    ],
+    [
+      "hello",
+      6
+    ],
+    [
+      "effectively",
+      6
+    ],
+    [
+      "technology",
+      6
+    ],
+    [
+      "detail",
+      6
+    ],
+    [
+      "begin",
+      6
+    ],
+    [
+      "prepar",
+      6
+    ],
+    [
+      "prepare",
+      6
+    ],
+    [
+      "workflow",
+      6
+    ],
+    [
+      "output",
+      6
+    ],
+    [
+      "interest",
+      6
+    ],
+    [
+      "organize",
+      6
+    ],
+    [
+      "record",
+      6
+    ],
+    [
+      "ensure",
+      6
+    ],
+    [
+      "definitely",
+      6
+    ],
+    [
+      "manually",
+      6
+    ],
+    [
+      "task",
+      6
+    ],
+    [
+      "provide",
+      6
+    ],
+    [
+      "judgment",
+      6
+    ],
+    [
+      "mistake",
+      6
+    ],
+    [
+      "customer",
+      6
+    ],
+    [
+      "share",
+      6
+    ],
+    [
+      "step",
+      6
+    ],
+    [
+      "sophia",
+      5
+    ],
+    [
+      "main",
+      5
+    ],
+    [
+      "rely",
+      5
+    ],
+    [
+      "know",
+      5
+    ],
+    [
+      "goal",
+      5
+    ],
+    [
+      "realistic",
+      5
+    ],
+    [
+      "confident",
+      5
+    ],
+    [
+      "imagine",
+      5
+    ],
+    [
+      "first",
+      5
+    ],
+    [
+      "last",
+      5
+    ],
+    [
+      "take",
+      5
+    ],
+    [
+      "kind",
+      5
+    ],
+    [
+      "real-time",
+      5
+    ],
+    [
+      "check",
+      5
+    ],
+    [
+      "feel",
+      5
+    ],
+    [
+      "month",
+      5
+    ],
+    [
+      "specific",
+      5
+    ],
+    [
+      "absolutely",
+      5
+    ],
+    [
+      "include",
+      5
+    ],
+    [
+      "challenge",
+      5
+    ],
+    [
+      "writ",
+      5
+    ],
+    [
+      "become",
+      5
+    ],
+    [
+      "goodbye",
+      5
+    ],
+    [
+      "compani",
+      5
+    ],
+    [
+      "identifi",
+      5
+    ],
+    [
+      "product",
+      5
+    ],
+    [
+      "process",
+      5
+    ],
+    [
+      "mean",
+      5
+    ],
+    [
+      "decision-mak",
+      5
+    ],
+    [
+      "often",
+      5
+    ],
+    [
+      "back",
+      4
+    ],
+    [
+      "daniel",
+      4
+    ],
+    [
+      "happy",
+      4
+    ],
+    [
+      "confidently",
+      4
+    ],
+    [
+      "modern",
+      4
+    ],
+    [
+      "replacement",
+      4
+    ],
+    [
+      "replace",
+      4
+    ],
+    [
+      "going",
+      4
+    ],
+    [
+      "simulate",
+      4
+    ],
+    [
+      "week",
+      4
+    ],
+    [
+      "approach",
+      4
+    ],
+    [
+      "project",
+      4
+    ],
+    [
+      "potential",
+      4
+    ],
+    [
+      "confidence",
+      4
+    ],
+    [
+      "preparation",
+      4
+    ],
+    [
+      "agree",
+      4
+    ],
+    [
+      "automatically",
+      4
+    ],
+    [
+      "save",
+      4
+    ],
+    [
+      "trend",
+      4
+    ],
+    [
+      "language",
+      4
+    ],
+    [
+      "speaker",
+      4
+    ],
+    [
+      "highlight",
+      4
+    ],
+    [
+      "even",
+      4
+    ],
+    [
+      "client",
+      4
+    ],
+    [
+      "strategy",
+      4
+    ],
+    [
+      "suggestion",
+      4
+    ],
+    [
+      "complete",
+      4
+    ],
+    [
+      "final",
+      4
+    ],
+    [
+      "without",
+      4
+    ],
+    [
+      "input",
+      4
+    ],
+    [
+      "show",
+      4
+    ],
+    [
+      "reduc",
+      4
+    ],
+    [
+      "organiz",
+      4
+    ],
+    [
+      "finish",
+      4
+    ],
+    [
+      "see",
+      4
+    ],
+    [
+      "past",
+      4
+    ],
+    [
+      "integrat",
+      4
+    ],
+    [
+      "advantage",
+      4
+    ],
+    [
+      "sal",
+      4
+    ],
+    [
+      "ensur",
+      4
+    ],
+    [
+      "try",
+      4
+    ],
+    [
+      "problem",
+      4
+    ],
+    [
+      "different",
+      4
+    ],
+    [
+      "trust",
+      4
+    ],
+    [
+      "advice",
+      4
+    ],
+    [
+      "slid",
+      4
+    ],
+    [
+      "end",
+      4
+    ],
+    [
+      "essential",
+      4
+    ],
+    [
+      "perfect",
+      3
+    ],
+    [
+      "naturally",
+      3
+    ],
+    [
+      "everyday",
+      3
+    ],
+    [
+      "includ",
+      3
+    ],
+    [
+      "remember",
+      3
+    ],
+    [
+      "minut",
+      3
+    ],
+    [
+      "course",
+      3
+    ],
+    [
+      "easier",
+      3
+    ],
+    [
+      "budget",
+      3
+    ],
+    [
+      "biggest",
+      3
+    ],
+    [
+      "get",
+      3
+    ],
+    [
+      "thought",
+      3
+    ],
+    [
+      "engagement",
+      3
+    ],
+    [
+      "quick",
+      3
+    ],
+    [
+      "active",
+      3
+    ],
+    [
+      "powerful",
+      3
+    ],
+    [
+      "productivity",
+      3
+    ],
+    [
+      "edit",
+      3
+    ],
+    [
+      "send",
+      3
+    ],
+    [
+      "advanc",
+      3
+    ],
+    [
+      "improvement",
+      3
+    ],
+    [
+      "content",
+      3
+    ],
+    [
+      "quality",
+      3
+    ],
+    [
+      "provid",
+      3
+    ],
+    [
+      "mistak",
+      3
+    ],
+    [
+      "risky",
+      3
+    ],
+    [
+      "ai-generat",
+      3
+    ],
+    [
+      "excellent",
+      3
+    ],
+    [
+      "listener",
+      3
+    ],
+    [
+      "every",
+      3
+    ],
+    [
+      "big",
+      3
+    ],
+    [
+      "privacy",
+      3
+    ],
+    [
+      "assign",
+      3
+    ],
+    [
+      "launch",
+      3
+    ],
+    [
+      "ever",
+      3
+    ],
+    [
+      "international",
+      3
+    ],
+    [
+      "result",
+      3
+    ],
+    [
+      "hope",
+      3
+    ],
+    [
+      "company",
+      3
+    ],
+    [
+      "recently",
+      3
+    ],
+    [
+      "correct",
+      3
+    ],
+    [
+      "tak",
+      3
+    ],
+    [
+      "participant",
+      3
+    ],
+    [
+      "translation",
+      3
+    ],
+    [
+      "second",
+      3
+    ],
+    [
+      "compare",
+      3
+    ],
+    [
+      "hi",
+      2
+    ],
+    [
+      "channel",
+      2
+    ],
+    [
+      "someth",
+      2
+    ],
+    [
+      "part",
+      2
+    ],
+    [
+      "daily",
+      2
+    ],
+    [
+      "area",
+      2
+    ],
+    [
+      "worry",
+      2
+    ],
+    [
+      "unnatural",
+      2
+    ],
+    [
+      "two",
+      2
+    ],
+    [
+      "colleagu",
+      2
+    ],
+    [
+      "environment",
+      2
+    ],
+    [
+      "tomorrow",
+      2
+    ],
+    [
+      "look",
+      2
+    ],
+    [
+      "management",
+      2
+    ],
+    [
+      "hear",
+      2
+    ],
+    [
+      "long",
+      2
+    ],
+    [
+      "everyth",
+      2
+    ],
+    [
+      "matter",
+      2
+    ],
+    [
+      "else",
+      2
+    ],
+    [
+      "risk",
+      2
+    ],
+    [
+      "manager",
+      2
+    ],
+    [
+      "answer",
+      2
+    ],
+    [
+      "advance",
+      2
+    ],
+    [
+      "build",
+      2
+    ],
+    [
+      "structure",
+      2
+    ],
+    [
+      "communicate",
+      2
+    ],
+    [
+      "afterward",
+      2
+    ],
+    [
+      "find",
+      2
+    ],
+    [
+      "relevant",
+      2
+    ],
+    [
+      "inform",
+      2
+    ],
+    [
+      "careful",
+      2
+    ],
+    [
+      "maintain",
+      2
+    ],
+    [
+      "contact",
+      2
+    ],
+    [
+      "come",
+      2
+    ],
+    [
+      "native",
+      2
+    ],
+    [
+      "add",
+      2
+    ],
+    [
+      "describe",
+      2
+    ],
+    [
+      "website",
+      2
+    ],
+    [
+      "valuable",
+      2
+    ],
+    [
+      "capture",
+      2
+    ],
+    [
+      "happen",
+      2
+    ],
+    [
+      "refine",
+      2
+    ],
+    [
+      "system",
+      2
+    ],
+    [
+      "let",
+      2
+    ],
+    [
+      "continue",
+      2
+    ],
+    [
+      "enhanc",
+      2
+    ],
+    [
+      "conduct",
+      2
+    ],
+    [
+      "survey",
+      2
+    ],
+    [
+      "episode",
+      2
+    ],
+    [
+      "analyz",
+      2
+    ],
+    [
+      "tell",
+      2
+    ],
+    [
+      "automatic",
+      2
+    ],
+    [
+      "miss",
+      2
+    ],
+    [
+      "manual",
+      2
+    ],
+    [
+      "introduce",
+      2
+    ],
+    [
+      "decid",
+      2
+    ],
+    [
+      "campaign",
+      2
+    ],
+    [
+      "noth",
+      2
+    ],
+    [
+      "unsure",
+      2
+    ],
+    [
+      "explanation",
+      2
+    ],
+    [
+      "impressive",
+      2
+    ],
+    [
+      "treat",
+      2
+    ],
+    [
+      "accent",
+      2
+    ],
+    [
+      "handle",
+      2
+    ],
+    [
+      "finalize",
+      2
+    ],
+    [
+      "stop",
+      2
+    ],
+    [
+      "critically",
+      2
+    ],
+    [
+      "quarterly",
+      2
+    ],
+    [
+      "performance",
+      2
+    ],
+    [
+      "necessary",
+      2
+    ],
+    [
+      "analysis",
+      2
+    ],
+    [
+      "hour",
+      2
+    ],
+    [
+      "already",
+      2
+    ],
+    [
+      "strong",
+      2
+    ],
+    [
+      "true",
+      2
+    ],
+    [
+      "future",
+      2
+    ],
+    [
+      "want",
+      2
+    ],
+    [
+      "tip",
+      2
+    ],
+    [
+      "gradually",
+      2
+    ],
+    [
+      "featur",
+      2
+    ],
+    [
+      "highly",
+      2
+    ],
+    [
+      "heard",
+      2
+    ],
+    [
+      "weve",
+      2
+    ],
+    [
+      "introduc",
+      2
+    ],
+    [
+      "phase",
+      2
+    ],
+    [
+      "several",
+      2
+    ],
+    [
+      "full",
+      2
+    ],
+    [
+      "structur",
+      2
+    ],
+    [
+      "section",
+      2
+    ],
+    [
+      "outcom",
+      2
+    ],
+    [
+      "adjust",
+      2
+    ],
+    [
+      "research",
+      2
+    ],
+    [
+      "gather",
+      2
+    ],
+    [
+      "report",
+      2
+    ],
+    [
+      "document",
+      2
+    ],
+    [
+      "respons",
+      2
+    ],
+    [
+      "delivery",
+      2
+    ],
+    [
+      "issu",
+      2
+    ],
+    [
+      "allow",
+      2
+    ],
+    [
+      "role",
+      2
+    ],
+    [
+      "rephrase",
+      2
+    ],
+    [
+      "region",
+      2
+    ],
+    [
+      "within",
+      2
+    ],
+    [
+      "significantly",
+      2
+    ],
+    [
+      "concern",
+      2
+    ],
+    [
+      "sensitive",
+      2
+    ],
+    [
+      "secure",
+      2
+    ],
+    [
+      "instruction",
+      2
+    ],
+    [
+      "unclear",
+      2
+    ],
+    [
+      "third",
+      2
+    ],
+    [
+      "transform",
+      2
+    ],
+    [
+      "benefit",
+      2
+    ],
+    [
+      "wisely",
+      2
+    ],
+    [
+      "combine",
+      2
+    ],
+    [
+      "sense",
+      2
+    ],
+    [
+      "basic",
+      2
+    ],
+    [
+      "accurate",
+      2
+    ],
+    [
+      "strategi",
+      2
+    ],
+    [
+      "stage",
+      2
+    ],
+    [
+      "workplac",
+      1
+    ],
+    [
+      "around",
+      1
+    ],
+    [
+      "world",
+      1
+    ],
+    [
+      "curious",
+      1
+    ],
+    [
+      "demonstrate",
+      1
+    ],
+    [
+      "alright",
+      1
+    ],
+    [
+      "hey",
+      1
+    ],
+    [
+      "senior",
+      1
+    ],
+    [
+      "efficiently",
+      1
+    ],
+    [
+      "frequently",
+      1
+    ],
+    [
+      "love",
+      1
+    ],
+    [
+      "read",
+      1
+    ],
+    [
+      "bullet",
+      1
+    ],
+    [
+      "verify",
+      1
+    ],
+    [
+      "double-check",
+      1
+    ],
+    [
+      "responsible",
+      1
+    ],
+    [
+      "thing",
+      1
+    ],
+    [
+      "possible",
+      1
+    ],
+    [
+      "timelin",
+      1
+    ],
+    [
+      "typ",
+      1
+    ],
+    [
+      "rough",
+      1
+    ],
+    [
+      "outline",
+      1
+    ],
+    [
+      "logical",
+      1
+    ],
+    [
+      "flow",
+      1
+    ],
+    [
+      "avoid",
+      1
+    ],
+    [
+      "repetition",
+      1
+    ],
+    [
+      "message",
+      1
+    ],
+    [
+      "concise",
+      1
+    ],
+    [
+      "advantag",
+      1
+    ],
+    [
+      "hard",
+      1
+    ],
+    [
+      "handl",
+      1
+    ],
+    [
+      "definition",
+      1
+    ],
+    [
+      "instantly",
+      1
+    ],
+    [
+      "search",
+      1
+    ],
+    [
+      "eye",
+      1
+    ],
+    [
+      "participation",
+      1
+    ],
+    [
+      "priority",
+      1
+    ],
+    [
+      "personalize",
+      1
+    ],
+    [
+      "tone",
+      1
+    ],
+    [
+      "appropriate",
+      1
+    ],
+    [
+      "personal",
+      1
+    ],
+    [
+      "touch",
+      1
+    ],
+    [
+      "successfully",
+      1
+    ],
+    [
+      "spe",
+      1
+    ],
+    [
+      "impress",
+      1
+    ],
+    [
+      "generic",
+      1
+    ],
+    [
+      "overus",
+      1
+    ],
+    [
+      "interaction",
+      1
+    ],
+    [
+      "previous",
+      1
+    ],
+    [
+      "deeper",
+      1
+    ],
+    [
+      "scenario",
+      1
+    ],
+    [
+      "imagin",
+      1
+    ],
+    [
+      "act",
+      1
+    ],
+    [
+      "cost",
+      1
+    ],
+    [
+      "experience",
+      1
+    ],
+    [
+      "updat",
+      1
+    ],
+    [
+      "return",
+      1
+    ],
+    [
+      "replac",
+      1
+    ],
+    [
+      "maybe",
+      1
+    ],
+    [
+      "weekly",
+      1
+    ],
+    [
+      "experienc",
+      1
+    ],
+    [
+      "stressful",
+      1
+    ],
+    [
+      "usage",
+      1
+    ],
+    [
+      "transparency",
+      1
+    ],
+    [
+      "besid",
+      1
+    ],
+    [
+      "responsibiliti",
+      1
+    ],
+    [
+      "forgotten",
+      1
+    ],
+    [
+      "accountability",
+      1
+    ],
+    [
+      "worri",
+      1
+    ],
+    [
+      "reliability",
+      1
+    ],
+    [
+      "understandable",
+      1
+    ],
+    [
+      "uncomfortable",
+      1
+    ],
+    [
+      "became",
+      1
+    ],
+    [
+      "speech",
+      1
+    ],
+    [
+      "recognition",
+      1
+    ],
+    [
+      "quite",
+      1
+    ],
+    [
+      "technical",
+      1
+    ],
+    [
+      "brainstorm",
+      1
+    ],
+    [
+      "session",
+      1
+    ],
+    [
+      "stuck",
+      1
+    ],
+    [
+      "perspectiv",
+      1
+    ],
+    [
+      "personaliz",
+      1
+    ],
+    [
+      "interactive",
+      1
+    ],
+    [
+      "additional",
+      1
+    ],
+    [
+      "encourag",
+      1
+    ],
+    [
+      "collaboration",
+      1
+    ],
+    [
+      "put",
+      1
+    ],
+    [
+      "mindset",
+      1
+    ],
+    [
+      "enhance",
+      1
+    ],
+    [
+      "fac",
+      1
+    ],
+    [
+      "misunderstand",
+      1
+    ],
+    [
+      "certain",
+      1
+    ],
+    [
+      "word",
+      1
+    ],
+    [
+      "please",
+      1
+    ],
+    [
+      "over-reliance",
+      1
+    ],
+    [
+      "remind",
+      1
+    ],
+    [
+      "balance",
+      1
+    ],
+    [
+      "chart",
+      1
+    ],
+    [
+      "large",
+      1
+    ],
+    [
+      "amount",
+      1
+    ],
+    [
+      "spend",
+      1
+    ],
+    [
+      "identify",
+      1
+    ],
+    [
+      "interpret",
+      1
+    ],
+    [
+      "standard",
+      1
+    ],
+    [
+      "believe",
+      1
+    ],
+    [
+      "chang",
+      1
+    ],
+    [
+      "respond",
+      1
+    ],
+    [
+      "together",
+      1
+    ],
+    [
+      "adjustment",
+      1
+    ],
+    [
+      "reassur",
+      1
+    ],
+    [
+      "shortly",
+      1
+    ],
+    [
+      "transparent",
+      1
+    ],
+    [
+      "blindly",
+      1
+    ],
+    [
+      "explore",
+      1
+    ],
+    [
+      "success",
+      1
+    ],
+    [
+      "interview",
+      1
+    ],
+    [
+      "comprehensive",
+      1
+    ],
+    [
+      "expression",
+      1
+    ],
+    [
+      "six",
+      1
+    ],
+    [
+      "change",
+      1
+    ],
+    [
+      "motivat",
+      1
+    ],
+    [
+      "reason",
+      1
+    ],
+    [
+      "notic",
+      1
+    ],
+    [
+      "productive",
+      1
+    ],
+    [
+      "organization",
+      1
+    ],
+    [
+      "spent",
+      1
+    ],
+    [
+      "solve",
+      1
+    ],
+    [
+      "results-orient",
+      1
+    ],
+    [
+      "creation",
+      1
+    ],
+    [
+      "short",
+      1
+    ],
+    [
+      "description",
+      1
+    ],
+    [
+      "objectiv",
+      1
+    ],
+    [
+      "allocation",
+      1
+    ],
+    [
+      "expect",
+      1
+    ],
+    [
+      "stay",
+      1
+    ],
+    [
+      "modify",
+      1
+    ],
+    [
+      "major",
+      1
+    ],
+    [
+      "upload",
+      1
+    ],
+    [
+      "satisfaction",
+      1
+    ],
+    [
+      "hundred",
+      1
+    ],
+    [
+      "overwhelm",
+      1
+    ],
+    [
+      "slow",
+      1
+    ],
+    [
+      "directly",
+      1
+    ],
+    [
+      "play",
+      1
+    ],
+    [
+      "fully",
+      1
+    ],
+    [
+      "member",
+      1
+    ],
+    [
+      "sentenc",
+      1
+    ],
+    [
+      "grammar",
+      1
+    ],
+    [
+      "increase",
+      1
+    ],
+    [
+      "anxiety",
+      1
+    ],
+    [
+      "express",
+      1
+    ],
+    [
+      "live",
+      1
+    ],
+    [
+      "amaz",
+      1
+    ],
+    [
+      "global",
+      1
+    ],
+    [
+      "number",
+      1
+    ],
+    [
+      "languag",
+      1
+    ],
+    [
+      "decide",
+      1
+    ],
+    [
+      "highest",
+      1
+    ],
+    [
+      "growth",
+      1
+    ],
+    [
+      "move",
+      1
+    ],
+    [
+      "misunderstanding",
+      1
+    ],
+    [
+      "real-life",
+      1
+    ],
+    [
+      "significant",
+      1
+    ],
+    [
+      "difference",
+      1
+    ],
+    [
+      "cross-department",
+      1
+    ],
+    [
+      "administrative",
+      1
+    ],
+    [
+      "misunderstood",
+      1
+    ],
+    [
+      "context",
+      1
+    ],
+    [
+      "carefully",
+      1
+    ],
+    [
+      "protect",
+      1
+    ],
+    [
+      "follow",
+      1
+    ],
+    [
+      "guidelin",
+      1
+    ],
+    [
+      "completely",
+      1
+    ],
+    [
+      "properly",
+      1
+    ],
+    [
+      "finally",
+      1
+    ],
+    [
+      "simplify",
+      1
+    ],
+    [
+      "propose",
+      1
+    ],
+    [
+      "solution",
+      1
+    ],
+    [
+      "effective",
+      1
+    ],
+    [
+      "day",
+      1
+    ],
+    [
+      "name",
+      1
+    ],
+    [
+      "marco",
+      1
+    ],
+    [
+      "erica",
+      1
+    ],
+    [
+      "negotiation",
+      1
+    ],
+    [
+      "saver",
+      1
+    ],
+    [
+      "enter",
+      1
+    ],
+    [
+      "prompt",
+      1
+    ],
+    [
+      "little",
+      1
+    ],
+    [
+      "giv",
+      1
+    ],
+    [
+      "match",
+      1
+    ],
+    [
+      "competitor",
+      1
+    ],
+    [
+      "software",
+      1
+    ],
+    [
+      "reduce",
+      1
+    ],
+    [
+      "note",
+      1
+    ],
+    [
+      "recent",
+      1
+    ],
+    [
+      "deadlin",
+      1
+    ],
+    [
+      "mostly",
+      1
+    ],
+    [
+      "small",
+      1
+    ],
+    [
+      "correction",
+      1
+    ],
+    [
+      "overall",
+      1
+    ],
+    [
+      "option",
+      1
+    ],
+    [
+      "available",
+      1
+    ],
+    [
+      "faster",
+      1
+    ],
+    [
+      "ais",
+      1
+    ],
+    [
+      "maker",
+      1
+    ],
+    [
+      "assist",
+      1
+    ],
+    [
+      "fluent",
+      1
+    ],
+    [
+      "update",
+      1
+    ],
+    [
+      "refin",
+      1
+    ],
+    [
+      "track",
+      1
+    ],
+    [
+      "progress",
+      1
+    ],
+    [
+      "write",
+      1
+    ],
+    [
+      "overreliance",
+      1
+    ],
+    [
+      "depend",
+      1
+    ],
+    [
+      "shar",
+      1
+    ],
+    [
+      "assume",
+      1
+    ],
+    [
+      "grow",
+      1
+    ],
+    [
+      "evolve",
+      1
+    ],
+    [
+      "platform",
+      1
+    ],
+    [
+      "offer",
+      1
+    ],
+    [
+      "recommendation",
+      1
+    ],
+    [
+      "excit",
+      1
+    ],
+    [
+      "role-play",
+      1
+    ],
+    [
+      "feedback",
+      1
+    ],
+    [
+      "observe",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 5879,
+    "unique_words": 614,
+    "duration_min": 39.8
+  }
+}

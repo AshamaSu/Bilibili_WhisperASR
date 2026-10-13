@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境与模型缓存（体积大，不入库）
+whisperASR_env/
+models/
+
+# data/ 是 B 站缓存原件：全量不入库，仅保留一个脱敏样例目录展示结构
+# （c_00000000000 为示例：audio.m4s / video.m4s 置空，entry.json 已脱敏）
+data/*
+!data/c_00000000000/
+
+# data_backup/：样例集的完整本地备份（含真实音频），不入库
+data_backup/
+
+# 流水线瞬态：临时文件、WAV、日志、冒烟产物
+work/
+
+# macOS
+.DS_Store

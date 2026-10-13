@@ -1,0 +1,16 @@
+{
+  "media_type": 2,
+  "has_dash_audio": true,
+  "is_completed": true,
+  "total_bytes": 0,
+  "downloaded_bytes": 0,
+  "title": "Example Episode (sanitized placeholder)",
+  "type_tag": "64",
+  "total_time_milli": 0,
+  "page_data": {
+    "cid": "00000000000",
+    "page": 1,
+    "part": "Example Episode Title",
+    "download_subtitle": ""
+  }
+}
