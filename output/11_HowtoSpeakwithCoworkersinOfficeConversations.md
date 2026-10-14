@@ -1,9 +1,5 @@
 # 11 · How to Speak with Coworkers in Office Conversations
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 68.3 分钟 · 办公室日常对话（conversation→见总词表 09）
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -25,16 +21,16 @@
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| productive | adj. 高效的（→ 见总词表，04 集已收） | I feel quite productive today. |
-| client | n. 客户（→ 见总词表，07 集已收） | …we also need to meet the client's expectations. |
-| meeting | n. 会议（A2 降级，→ 见总词表，06 集已收） | I'd love to, but I have a meeting. |
-| weekend | n. 周末（A2 降级） | Have a great weekend! |
-| lunch | n. 午餐（A2 降级） | Do you want to grab lunch? |
-| busy | adj. 忙的（A2 降级） | （寒暄语境） |
-| polite | adj. 礼貌的（A2 降级，→ 见总词表，05 集已收） | （语境：得体寒暄） |
-| perfect | adj. 完美的（A2 降级） | Perfect. |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| productive | /prəˈdʌktɪv/ | adj. 高效的（→ 见总词表，04 集已收） | I feel quite productive today. |
+| client | /ˈklaɪənt/ | n. 客户（→ 见总词表，07 集已收） | …we also need to meet the client's expectations. |
+| meeting | /ˈmiːtɪŋ/ | n. 会议（A2 降级，→ 见总词表，06 集已收） | I'd love to, but I have a meeting. |
+| weekend | /ˌwiːkˈend/ | n. 周末（A2 降级） | Have a great weekend! |
+| lunch | /lʌntʃ/ | n. 午餐（A2 降级） | Do you want to grab lunch? |
+| busy | /ˈbɪzi/ | adj. 忙的（A2 降级） | （寒暄语境） |
+| polite | /pəˈlaɪt/ | adj. 礼貌的（A2 降级，→ 见总词表，05 集已收） | （语境：得体寒暄） |
+| perfect | /ˈpɜːfɪkt/ | adj. 完美的（A2 降级） | Perfect. |
 
 ### 语块（整体记忆，不拆单词）
 

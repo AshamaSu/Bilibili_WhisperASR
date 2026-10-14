@@ -1,9 +1,5 @@
 # 15 · How to Speak up in Business Meeting with Confidence & 100 Essential Phrases
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 48.3 分钟 · 会议上大胆发言（business/meeting→见总词表 06；essential/phrases→见总词表 05；speak→见总词表 11；标题 typo Speakup→Speak up 已修正）
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -25,16 +21,16 @@
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| structure | n. 结构（→ 见总词表，03 集已收） | …use a simple structure. |
-| professional | adj. 专业的（→ 见总词表，06 集已收） | …stay calm and professional. |
-| confident | adj. 自信的（→ 见总词表，13 集已收） | （主题语境） |
-| quiet | adj. 沉默的（A2 降级） | And so you stay quiet. |
-| marketing | n. 营销 | …consider traditional marketing. |
-| somewhere | adv. 某个起点 | …everyone started somewhere. |
-| idea | n. 想法（A2 降级） | You have valuable ideas. |
-| question | n. 问题（A2 降级） | Now let's talk about asking questions in meetings. |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| structure | /ˈstrʌktʃə(r)/ | n. 结构（→ 见总词表，03 集已收） | …use a simple structure. |
+| professional | /prəˈfeʃənl/ | adj. 专业的（→ 见总词表，06 集已收） | …stay calm and professional. |
+| confident | /ˈkɒnfɪdənt/ | adj. 自信的（→ 见总词表，13 集已收） | （主题语境） |
+| quiet | /ˈkwaɪət/ | adj. 沉默的（A2 降级） | And so you stay quiet. |
+| marketing | /ˈmɑːkɪtɪŋ/ | n. 营销 | …consider traditional marketing. |
+| somewhere | /ˈsʌmweə(r)/ | adv. 某个起点 | …everyone started somewhere. |
+| idea | /aɪˈdɪə/ | n. 想法（A2 降级） | You have valuable ideas. |
+| question | /ˈkwestʃən/ | n. 问题（A2 降级） | Now let's talk about asking questions in meetings. |
 
 ### 语块（整体记忆，不拆单词）
 

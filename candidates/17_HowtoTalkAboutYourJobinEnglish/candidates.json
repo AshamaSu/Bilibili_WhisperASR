@@ -1,0 +1,8553 @@
+{
+  "file_stem": "17_HowtoTalkAboutYourJobinEnglish",
+  "no": 17,
+  "title_keywords": [
+    [
+      "talk",
+      "talk"
+    ],
+    [
+      "job",
+      "job"
+    ],
+    [
+      "english",
+      "english"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "work",
+      162,
+      "A2"
+    ],
+    [
+      "job",
+      84,
+      "A2"
+    ],
+    [
+      "say",
+      77,
+      "A2"
+    ],
+    [
+      "talk",
+      61,
+      "A2"
+    ],
+    [
+      "example",
+      54,
+      "A2"
+    ],
+    [
+      "business",
+      47,
+      "B1+"
+    ],
+    [
+      "sounds",
+      47,
+      "A2"
+    ],
+    [
+      "team",
+      45,
+      "A2"
+    ],
+    [
+      "english",
+      44,
+      "A2"
+    ],
+    [
+      "enjoy",
+      39,
+      "A2"
+    ],
+    [
+      "exactly",
+      37,
+      "B1+"
+    ],
+    [
+      "professional",
+      37,
+      "B1+"
+    ],
+    [
+      "great",
+      36,
+      "A2"
+    ],
+    [
+      "clients",
+      34,
+      "B1+"
+    ],
+    [
+      "project",
+      34,
+      "B1+"
+    ],
+    [
+      "common",
+      32,
+      "A2"
+    ],
+    [
+      "today",
+      32,
+      "A2"
+    ],
+    [
+      "answer",
+      31,
+      "A2"
+    ],
+    [
+      "meet",
+      30,
+      "A2"
+    ],
+    [
+      "company",
+      29,
+      "B1+"
+    ],
+    [
+      "help",
+      29,
+      "A2"
+    ],
+    [
+      "manage",
+      28,
+      "B1+"
+    ],
+    [
+      "simple",
+      28,
+      "A2"
+    ],
+    [
+      "clear",
+      27,
+      "A2"
+    ],
+    [
+      "natural",
+      27,
+      "A2"
+    ],
+    [
+      "thank",
+      27,
+      "A2"
+    ],
+    [
+      "manager",
+      26,
+      "B1+"
+    ],
+    [
+      "question",
+      26,
+      "A2"
+    ],
+    [
+      "everyone",
+      25,
+      "A2"
+    ],
+    [
+      "start",
+      25,
+      "A2"
+    ],
+    [
+      "us",
+      25,
+      "A2"
+    ],
+    [
+      "challenges",
+      24,
+      "B1+"
+    ],
+    [
+      "conversation",
+      24,
+      "B1+"
+    ],
+    [
+      "good",
+      24,
+      "A2"
+    ],
+    [
+      "nice",
+      24,
+      "A2"
+    ],
+    [
+      "give",
+      23,
+      "A2"
+    ],
+    [
+      "real",
+      23,
+      "A2"
+    ],
+    [
+      "important",
+      21,
+      "A2"
+    ],
+    [
+      "also",
+      20,
+      "A2"
+    ],
+    [
+      "marketing",
+      20,
+      "A2"
+    ],
+    [
+      "ask",
+      19,
+      "A2"
+    ],
+    [
+      "hi",
+      19,
+      "A2"
+    ],
+    [
+      "one",
+      19,
+      "A2"
+    ],
+    [
+      "perfect",
+      19,
+      "A2"
+    ],
+    [
+      "responsibilities",
+      19,
+      "B1+"
+    ],
+    [
+      "use",
+      19,
+      "A2"
+    ],
+    [
+      "main",
+      18,
+      "A2"
+    ],
+    [
+      "people",
+      18,
+      "A2"
+    ],
+    [
+      "practical",
+      18,
+      "B1+"
+    ],
+    [
+      "role",
+      18,
+      "B1+"
+    ],
+    [
+      "much",
+      17,
+      "A2"
+    ],
+    [
+      "practice",
+      17,
+      "A2"
+    ],
+    [
+      "communication",
+      16,
+      "B1+"
+    ],
+    [
+      "improve",
+      16,
+      "B1+"
+    ],
+    [
+      "examples",
+      15,
+      "B1+"
+    ],
+    [
+      "interviews",
+      15,
+      "B1+"
+    ],
+    [
+      "make",
+      15,
+      "A2"
+    ],
+    [
+      "reports",
+      15,
+      "A2"
+    ],
+    [
+      "data",
+      14,
+      "B1+"
+    ],
+    [
+      "day",
+      14,
+      "A2"
+    ],
+    [
+      "explain",
+      14,
+      "B1+"
+    ],
+    [
+      "keep",
+      14,
+      "A2"
+    ],
+    [
+      "learn",
+      14,
+      "A2"
+    ],
+    [
+      "someone",
+      14,
+      "A2"
+    ],
+    [
+      "speak",
+      14,
+      "A2"
+    ],
+    [
+      "sure",
+      14,
+      "A2"
+    ],
+    [
+      "useful",
+      14,
+      "A2"
+    ],
+    [
+      "analyze",
+      13,
+      "B1+"
+    ],
+    [
+      "different",
+      13,
+      "A2"
+    ],
+    [
+      "responsibility",
+      13,
+      "B1+"
+    ],
+    [
+      "skills",
+      13,
+      "A2"
+    ],
+    [
+      "title",
+      13,
+      "B1+"
+    ],
+    [
+      "topic",
+      13,
+      "B1+"
+    ],
+    [
+      "another",
+      12,
+      "A2"
+    ],
+    [
+      "need",
+      12,
+      "A2"
+    ],
+    [
+      "phrases",
+      12,
+      "B1+"
+    ],
+    [
+      "sales",
+      12,
+      "B1+"
+    ],
+    [
+      "support",
+      12,
+      "A2"
+    ],
+    [
+      "time",
+      12,
+      "A2"
+    ],
+    [
+      "correct",
+      11,
+      "A2"
+    ],
+    [
+      "customer",
+      11,
+      "B1+"
+    ],
+    [
+      "details",
+      11,
+      "B1+"
+    ],
+    [
+      "feeling",
+      11,
+      "A2"
+    ],
+    [
+      "go",
+      11,
+      "A2"
+    ],
+    [
+      "meetings",
+      11,
+      "B1+"
+    ],
+    [
+      "new",
+      11,
+      "A2"
+    ],
+    [
+      "notice",
+      11,
+      "A2"
+    ],
+    [
+      "place",
+      11,
+      "A2"
+    ],
+    [
+      "situations",
+      11,
+      "A2"
+    ],
+    [
+      "add",
+      10,
+      "B1+"
+    ],
+    [
+      "emily",
+      10,
+      "B1+"
+    ],
+    [
+      "engineer",
+      10,
+      "B1+"
+    ],
+    [
+      "excellent",
+      10,
+      "B1+"
+    ],
+    [
+      "experience",
+      10,
+      "A2"
+    ],
+    [
+      "focus",
+      10,
+      "B1+"
+    ],
+    [
+      "going",
+      10,
+      "B1+"
+    ],
+    [
+      "jack",
+      10,
+      "B1+"
+    ],
+    [
+      "lesson",
+      10,
+      "A2"
+    ],
+    [
+      "see",
+      10,
+      "A2"
+    ],
+    [
+      "campaigns",
+      9,
+      "B1+"
+    ],
+    [
+      "confident",
+      9,
+      "B1+"
+    ],
+    [
+      "deadlines",
+      9,
+      "B1+"
+    ],
+    [
+      "describe",
+      9,
+      "A2"
+    ],
+    [
+      "forget",
+      9,
+      "A2"
+    ],
+    [
+      "goals",
+      9,
+      "B1+"
+    ],
+    [
+      "interesting",
+      9,
+      "A2"
+    ],
+    [
+      "lot",
+      9,
+      "A2"
+    ],
+    [
+      "performance",
+      9,
+      "B1+"
+    ],
+    [
+      "problems",
+      9,
+      "A2"
+    ],
+    [
+      "something",
+      9,
+      "B1+"
+    ],
+    [
+      "try",
+      9,
+      "A2"
+    ],
+    [
+      "way",
+      9,
+      "A2"
+    ],
+    [
+      "ahead",
+      8,
+      "B1+"
+    ],
+    [
+      "analyst",
+      8,
+      "B1+"
+    ],
+    [
+      "clearly",
+      8,
+      "B1+"
+    ],
+    [
+      "collaborate",
+      8,
+      "B1+"
+    ],
+    [
+      "create",
+      8,
+      "A2"
+    ],
+    [
+      "financial",
+      8,
+      "B1+"
+    ],
+    [
+      "five",
+      8,
+      "A2"
+    ],
+    [
+      "handle",
+      8,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "let's talk",
+      "count": 36,
+      "example": "Now let's talk about where you work, because that's another common question.",
+      "t": 192.86
+    },
+    {
+      "text": "business english",
+      "count": 16,
+      "example": "We're going to learn how to talk about your job in business English.",
+      "t": 54.24
+    },
+    {
+      "text": "nice to meet",
+      "count": 16,
+      "example": "Nice to meet you.",
+      "t": 395.58
+    },
+    {
+      "text": "say i work",
+      "count": 15,
+      "example": "You can say, I work at, plus a place.",
+      "t": 201.86
+    },
+    {
+      "text": "common question",
+      "count": 13,
+      "example": "The most common question is, what do you do?",
+      "t": 107.28
+    },
+    {
+      "text": "also say",
+      "count": 13,
+      "example": "You can also say I work for plus a company.",
+      "t": 211.62
+    },
+    {
+      "text": "job title",
+      "count": 12,
+      "example": "The simplest way is to say, I'm a plus your job title.",
+      "t": 126.72
+    },
+    {
+      "text": "project manager",
+      "count": 12,
+      "example": "For example, I'm a project manager.",
+      "t": 156.66
+    },
+    {
+      "text": "main responsibility",
+      "count": 11,
+      "example": "You can say, my main responsibility is to...",
+      "t": 244.16
+    },
+    {
+      "text": "i'm a project",
+      "count": 10,
+      "example": "For example, I'm a project manager.",
+      "t": 156.66
+    }
+  ],
+  "phrases": [
+    {
+      "text": "let's talk",
+      "count": 36,
+      "example": "Now let's talk about where you work, because that's another common question.",
+      "t": 192.86
+    },
+    {
+      "text": "business english",
+      "count": 16,
+      "example": "We're going to learn how to talk about your job in business English.",
+      "t": 54.24
+    },
+    {
+      "text": "nice to meet",
+      "count": 16,
+      "example": "Nice to meet you.",
+      "t": 395.58
+    },
+    {
+      "text": "say i work",
+      "count": 15,
+      "example": "You can say, I work at, plus a place.",
+      "t": 201.86
+    },
+    {
+      "text": "common question",
+      "count": 13,
+      "example": "The most common question is, what do you do?",
+      "t": 107.28
+    },
+    {
+      "text": "also say",
+      "count": 13,
+      "example": "You can also say I work for plus a company.",
+      "t": 211.62
+    },
+    {
+      "text": "job title",
+      "count": 12,
+      "example": "The simplest way is to say, I'm a plus your job title.",
+      "t": 126.72
+    },
+    {
+      "text": "project manager",
+      "count": 12,
+      "example": "For example, I'm a project manager.",
+      "t": 156.66
+    },
+    {
+      "text": "main responsibility",
+      "count": 11,
+      "example": "You can say, my main responsibility is to...",
+      "t": 244.16
+    },
+    {
+      "text": "i'm a project",
+      "count": 10,
+      "example": "For example, I'm a project manager.",
+      "t": 156.66
+    },
+    {
+      "text": "let's give",
+      "count": 10,
+      "example": "Let's give a full example.",
+      "t": 226.7
+    },
+    {
+      "text": "say i'm",
+      "count": 9,
+      "example": "The simplest way is to say, I'm a plus your job title.",
+      "t": 126.72
+    },
+    {
+      "text": "example i'm",
+      "count": 9,
+      "example": "For example, I'm a software engineer.",
+      "t": 131.32
+    },
+    {
+      "text": "example i work",
+      "count": 9,
+      "example": "For example, I work at a marketing agency.",
+      "t": 205.86
+    },
+    {
+      "text": "don't forget",
+      "count": 8,
+      "example": "If you enjoy this lesson, please give us a thumbs up, and don't forget to subscribe.",
+      "t": 36.24
+    },
+    {
+      "text": "joining us",
+      "count": 7,
+      "example": "Hi, everyone. Thanks for joining us. If you're here to improve your English for real business",
+      "t": 17.92
+    },
+    {
+      "text": "we're going",
+      "count": 7,
+      "example": "We're going to learn how to talk about your job in business English.",
+      "t": 54.24
+    },
+    {
+      "text": "job interview",
+      "count": 7,
+      "example": "Whether you're networking in a meeting or at a job interview, you always need to talk about your job.",
+      "t": 62.64
+    },
+    {
+      "text": "real examples",
+      "count": 7,
+      "example": "And we'll use a lot of real examples so you can actually use these phrases in your daily life.",
+      "t": 93.12
+    },
+    {
+      "text": "manage a team",
+      "count": 7,
+      "example": "And if you're the leader, you can say, I manage a team.",
+      "t": 294.38
+    },
+    {
+      "text": "enjoy working",
+      "count": 7,
+      "example": "For example, I enjoy working with people.",
+      "t": 340.38
+    },
+    {
+      "text": "sounds interesting",
+      "count": 7,
+      "example": "That sounds interesting.",
+      "t": 406.5
+    },
+    {
+      "text": "go ahead",
+      "count": 7,
+      "example": "Go ahead.",
+      "t": 643.96
+    },
+    {
+      "text": "i'm responsible",
+      "count": 7,
+      "example": "I'm responsible for client relations. I work closely with clients to understand their",
+      "t": 945.02
+    },
+    {
+      "text": "hi everyone",
+      "count": 6,
+      "example": "Hi, everyone. Thanks for joining us. If you're here to improve your English for real business",
+      "t": 17.92
+    },
+    {
+      "text": "thanks for joining",
+      "count": 6,
+      "example": "Hi, everyone. Thanks for joining us. If you're here to improve your English for real business",
+      "t": 17.92
+    },
+    {
+      "text": "i'm jack",
+      "count": 6,
+      "example": "situations, you're in the right place. I'm Emily. And I'm Jack. On this channel,",
+      "t": 23.36
+    },
+    {
+      "text": "help you speak",
+      "count": 6,
+      "example": "we help you speak clear, natural English with confidence in real life and professional situations.",
+      "t": 29.28
+    },
+    {
+      "text": "give us",
+      "count": 6,
+      "example": "If you enjoy this lesson, please give us a thumbs up, and don't forget to subscribe.",
+      "t": 36.24
+    },
+    {
+      "text": "whether you're",
+      "count": 6,
+      "example": "Whether you're networking in a meeting or at a job interview, you always need to talk about your job.",
+      "t": 62.64
+    },
+    {
+      "text": "i'm a software",
+      "count": 6,
+      "example": "For example, I'm a software engineer.",
+      "t": 131.32
+    },
+    {
+      "text": "let's make",
+      "count": 6,
+      "example": "Now let's make it more interesting.",
+      "t": 147.62
+    },
+    {
+      "text": "that's a great",
+      "count": 6,
+      "example": "That's a great answer! Clear and professional.",
+      "t": 179.86
+    },
+    {
+      "text": "another common",
+      "count": 6,
+      "example": "Now let's talk about where you work, because that's another common question.",
+      "t": 192.86
+    },
+    {
+      "text": "solving problems",
+      "count": 6,
+      "example": "Or I enjoy solving problems.",
+      "t": 343.64
+    },
+    {
+      "text": "i'll start",
+      "count": 6,
+      "example": "I'll start.",
+      "t": 393.06
+    },
+    {
+      "text": "that's great",
+      "count": 6,
+      "example": "That's great.",
+      "t": 415.58
+    },
+    {
+      "text": "enjoy your job",
+      "count": 6,
+      "example": "Do you enjoy your job?",
+      "t": 416.58
+    },
+    {
+      "text": "main responsibilities",
+      "count": 6,
+      "example": "What are your main responsibilities?",
+      "t": 438.7
+    },
+    {
+      "text": "great idea",
+      "count": 6,
+      "example": "Great idea.",
+      "t": 489.64
+    },
+    {
+      "text": "i'm a business",
+      "count": 6,
+      "example": "Emma, what do you do? I'm a business English trainer. I work with",
+      "t": 672.58
+    },
+    {
+      "text": "talk about describing",
+      "count": 6,
+      "example": "Now let's talk about describing your daily tasks.",
+      "t": 793.1
+    },
+    {
+      "text": "sure i'm",
+      "count": 6,
+      "example": "Sure. I'm the head of operations. I oversee daily business activities and ensure efficiency",
+      "t": 932.82
+    },
+    {
+      "text": "job clearly",
+      "count": 6,
+      "example": "your job clearly.",
+      "t": 1232.46
+    },
+    {
+      "text": "hello everyone",
+      "count": 5,
+      "example": "Hello, everyone. We're really happy to have you with us today.",
+      "t": 13.92
+    },
+    {
+      "text": "us today",
+      "count": 5,
+      "example": "Hello, everyone. We're really happy to have you with us today.",
+      "t": 13.92
+    },
+    {
+      "text": "we're really happy",
+      "count": 5,
+      "example": "Hello, everyone. We're really happy to have you with us today.",
+      "t": 13.92
+    },
+    {
+      "text": "improve your english",
+      "count": 5,
+      "example": "Hi, everyone. Thanks for joining us. If you're here to improve your English for real business",
+      "t": 17.92
+    },
+    {
+      "text": "speak clear",
+      "count": 5,
+      "example": "we help you speak clear, natural English with confidence in real life and professional situations.",
+      "t": 29.28
+    },
+    {
+      "text": "clear natural",
+      "count": 5,
+      "example": "we help you speak clear, natural English with confidence in real life and professional situations.",
+      "t": 29.28
+    },
+    {
+      "text": "speak clear natural",
+      "count": 5,
+      "example": "we help you speak clear, natural English with confidence in real life and professional situations.",
+      "t": 29.28
+    },
+    {
+      "text": "helps us",
+      "count": 5,
+      "example": "Yes, your support really helps us create more lessons like this.",
+      "t": 41.36
+    },
+    {
+      "text": "talking about today",
+      "count": 5,
+      "example": "So, Jack, what are we talking about today?",
+      "t": 47.84
+    },
+    {
+      "text": "job in business",
+      "count": 5,
+      "example": "We're going to learn how to talk about your job in business English.",
+      "t": 54.24
+    },
+    {
+      "text": "i'm a plus",
+      "count": 5,
+      "example": "The simplest way is to say, I'm a plus your job title.",
+      "t": 126.72
+    },
+    {
+      "text": "plus your job",
+      "count": 5,
+      "example": "The simplest way is to say, I'm a plus your job title.",
+      "t": 126.72
+    },
+    {
+      "text": "i'm an accountant",
+      "count": 5,
+      "example": "Or I'm an accountant.",
+      "t": 136.72
+    },
+    {
+      "text": "sounds much",
+      "count": 5,
+      "example": "That sounds much better.",
+      "t": 167.56
+    },
+    {
+      "text": "another common question",
+      "count": 5,
+      "example": "Now let's talk about where you work, because that's another common question.",
+      "t": 192.86
+    },
+    {
+      "text": "work from home",
+      "count": 5,
+      "example": "And don't forget, you can say I work from home.",
+      "t": 221.02
+    },
+    {
+      "text": "say my main",
+      "count": 5,
+      "example": "You can say, my main responsibility is to...",
+      "t": 244.16
+    },
+    {
+      "text": "responsibilities include",
+      "count": 5,
+      "example": "Or my responsibilities include preparing reports and analyzing data.",
+      "t": 253.04
+    },
+    {
+      "text": "preparing reports",
+      "count": 5,
+      "example": "Or my responsibilities include preparing reports and analyzing data.",
+      "t": 253.04
+    },
+    {
+      "text": "sounds very professional",
+      "count": 5,
+      "example": "That sounds very professional.",
+      "t": 301.86
+    },
+    {
+      "text": "i'm working",
+      "count": 5,
+      "example": "You can also say, I'm working towards, I'm working towards a promotion, or I'm working",
+      "t": 475.06
+    },
+    {
+      "text": "i'm a marketing",
+      "count": 5,
+      "example": "I'm a marketing specialist.",
+      "t": 495.18
+    },
+    {
+      "text": "let me try",
+      "count": 5,
+      "example": "Let me try.",
+      "t": 694.24
+    },
+    {
+      "text": "years of experience",
+      "count": 5,
+      "example": "I have over eight years of experience in corporate training and language education.",
+      "t": 965.16
+    },
+    {
+      "text": "useful phrases",
+      "count": 5,
+      "example": "Yes, we'll give you useful phrases, real examples, and lots of practice conversations.",
+      "t": 1247.3
+    },
+    {
+      "text": "role play",
+      "count": 5,
+      "example": "Let's make this more real with a short role play.",
+      "t": 1433.13
+    },
+    {
+      "text": "real business",
+      "count": 4,
+      "example": "Hi, everyone. Thanks for joining us. If you're here to improve your English for real business",
+      "t": 17.92
+    },
+    {
+      "text": "i'm emily",
+      "count": 4,
+      "example": "situations, you're in the right place. I'm Emily. And I'm Jack. On this channel,",
+      "t": 23.36
+    },
+    {
+      "text": "natural english",
+      "count": 4,
+      "example": "we help you speak clear, natural English with confidence in real life and professional situations.",
+      "t": 29.28
+    },
+    {
+      "text": "clear natural english",
+      "count": 4,
+      "example": "we help you speak clear, natural English with confidence in real life and professional situations.",
+      "t": 29.28
+    },
+    {
+      "text": "enjoy this lesson",
+      "count": 4,
+      "example": "If you enjoy this lesson, please give us a thumbs up, and don't forget to subscribe.",
+      "t": 36.24
+    },
+    {
+      "text": "us a thumbs",
+      "count": 4,
+      "example": "If you enjoy this lesson, please give us a thumbs up, and don't forget to subscribe.",
+      "t": 36.24
+    },
+    {
+      "text": "simplest way",
+      "count": 4,
+      "example": "The simplest way is to say, I'm a plus your job title.",
+      "t": 126.72
+    },
+    {
+      "text": "i'm a sales",
+      "count": 4,
+      "example": "Or I'm a sales manager.",
+      "t": 134.32
+    },
+    {
+      "text": "customer service",
+      "count": 4,
+      "example": "Or I'm a customer service representative.",
+      "t": 162.36
+    },
+    {
+      "text": "communication skills",
+      "count": 4,
+      "example": "I help professionals improve their communication skills.",
+      "t": 175.86
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen, practice, speak. Practice makes you perfect."
+    },
+    {
+      "t": 13.92,
+      "text": "Hello, everyone. We're really happy to have you with us today."
+    },
+    {
+      "t": 17.92,
+      "text": "Hi, everyone. Thanks for joining us. If you're here to improve your English for real business"
+    },
+    {
+      "t": 23.36,
+      "text": "situations, you're in the right place. I'm Emily. And I'm Jack. On this channel,"
+    },
+    {
+      "t": 29.28,
+      "text": "we help you speak clear, natural English with confidence in real life and professional situations."
+    },
+    {
+      "t": 36.24,
+      "text": "If you enjoy this lesson, please give us a thumbs up, and don't forget to subscribe."
+    },
+    {
+      "t": 41.36,
+      "text": "Yes, your support really helps us create more lessons like this."
+    },
+    {
+      "t": 45.52,
+      "text": "Thank you so much for being here."
+    },
+    {
+      "t": 47.84,
+      "text": "So, Jack, what are we talking about today?"
+    },
+    {
+      "t": 50.8,
+      "text": "Today we have a very practical and important topic."
+    },
+    {
+      "t": 54.24,
+      "text": "We're going to learn how to talk about your job in business English."
+    },
+    {
+      "t": 58.88,
+      "text": "I love this topic because it's something everyone needs,"
+    },
+    {
+      "t": 62.64,
+      "text": "Whether you're networking in a meeting or at a job interview, you always need to talk about your job."
+    },
+    {
+      "t": 69.28,
+      "text": "Exactly. And sometimes people know English, but they don't know how to explain what they do clearly."
+    },
+    {
+      "t": 75.6,
+      "text": "Yes, they might say something very short, like, I work in IT, but they don't explain anything more."
+    },
+    {
+      "t": 82.8,
+      "text": "Or they feel nervous and forget simple words."
+    },
+    {
+      "t": 86.08,
+      "text": "Don't worry. Today we'll show you how to talk about your job step by step"
+    },
+    {
+      "t": 90.72,
+      "text": "in a natural and professional way."
+    },
+    {
+      "t": 93.12,
+      "text": "And we'll use a lot of real examples so you can actually use these phrases in your daily life."
+    },
+    {
+      "t": 99.28,
+      "text": "Sounds great!"
+    },
+    {
+      "t": 100.44,
+      "text": "So, Jack, let's start with the most common situation."
+    },
+    {
+      "t": 104.28,
+      "text": "You meet someone new. What do they ask you?"
+    },
+    {
+      "t": 107.28,
+      "text": "The most common question is, what do you do?"
+    },
+    {
+      "t": 110.08,
+      "text": "Yes, it's simple, short and very natural."
+    },
+    {
+      "t": 113.56,
+      "text": "Some learners say, what is your job, which is correct, but it sounds more formal."
+    },
+    {
+      "t": 119.12,
+      "text": "Right. In everyday conversation, what do you do is the best choice."
+    },
+    {
+      "t": 123.92,
+      "text": "Okay, so how do we answer this question?"
+    },
+    {
+      "t": 126.72,
+      "text": "The simplest way is to say, I'm a plus your job title."
+    },
+    {
+      "t": 131.32,
+      "text": "For example, I'm a software engineer."
+    },
+    {
+      "t": 134.32,
+      "text": "Or I'm a sales manager."
+    },
+    {
+      "t": 136.72,
+      "text": "Or I'm an accountant."
+    },
+    {
+      "t": 138.62,
+      "text": "Very good. And remember to use a or an. That's important."
+    },
+    {
+      "t": 143.72,
+      "text": "Yes, don't forget that small word. It makes a big difference."
+    },
+    {
+      "t": 147.62,
+      "text": "Now let's make it more interesting."
+    },
+    {
+      "t": 149.66,
+      "text": "Don't just say your job title. Add more information."
+    },
+    {
+      "t": 152.96,
+      "text": "Exactly. You can say what you do in your job."
+    },
+    {
+      "t": 156.66,
+      "text": "For example, I'm a project manager."
+    },
+    {
+      "t": 159.36,
+      "text": "I manage teams and coordinate projects."
+    },
+    {
+      "t": 162.36,
+      "text": "Or I'm a customer service representative."
+    },
+    {
+      "t": 165.26,
+      "text": "I help customers solve problems."
+    },
+    {
+      "t": 167.56,
+      "text": "That sounds much better."
+    },
+    {
+      "t": 169.06,
+      "text": "It gives a clear picture of your work."
+    },
+    {
+      "t": 171.36,
+      "text": "Let's do a quick practice."
+    },
+    {
+      "t": 172.92,
+      "text": "Emily, what do you do?"
+    },
+    {
+      "t": 174.36,
+      "text": "I'm an English teacher."
+    },
+    {
+      "t": 175.86,
+      "text": "I help professionals improve their communication skills."
+    },
+    {
+      "t": 179.86,
+      "text": "That's a great answer! Clear and professional."
+    },
+    {
+      "t": 182.86,
+      "text": "Your turn. What do you do?"
+    },
+    {
+      "t": 184.86,
+      "text": "I'm a content creator. I create educational videos and write scripts."
+    },
+    {
+      "t": 189.86,
+      "text": "Perfect! See how easy that is?"
+    },
+    {
+      "t": 192.86,
+      "text": "Now let's talk about where you work, because that's another common question."
+    },
+    {
+      "t": 196.86,
+      "text": "Yes. People often ask, where do you work?"
+    },
+    {
+      "t": 199.86,
+      "text": "You can answer in a few ways."
+    },
+    {
+      "t": 201.86,
+      "text": "You can say, I work at, plus a place."
+    },
+    {
+      "t": 204.86,
+      "text": "place."
+    },
+    {
+      "t": 205.86,
+      "text": "For example, I work at a marketing agency."
+    },
+    {
+      "t": 209.22,
+      "text": "Or I work at a hospital."
+    },
+    {
+      "t": 211.62,
+      "text": "You can also say I work for plus a company."
+    },
+    {
+      "t": 215.22,
+      "text": "Like I work for a multinational company."
+    },
+    {
+      "t": 218.7,
+      "text": "Or I work for a startup."
+    },
+    {
+      "t": 221.02,
+      "text": "And don't forget, you can say I work from home."
+    },
+    {
+      "t": 223.98,
+      "text": "Yes, that's very common these days."
+    },
+    {
+      "t": 226.7,
+      "text": "Let's give a full example."
+    },
+    {
+      "t": 228.5,
+      "text": "I'm a software developer, I work for a tech company, and I mostly work from home."
+    },
+    {
+      "t": 233.86,
+      "text": "That's a strong, complete answer."
+    },
+    {
+      "t": 236.3,
+      "text": "Now let's go deeper."
+    },
+    {
+      "t": 237.7,
+      "text": "How do you describe your daily tasks?"
+    },
+    {
+      "t": 240.62,
+      "text": "This is where you can really improve your business English."
+    },
+    {
+      "t": 244.16,
+      "text": "You can say, my main responsibility is to..."
+    },
+    {
+      "t": 247.9,
+      "text": "For example, my main responsibility is to manage client accounts."
+    },
+    {
+      "t": 253.04,
+      "text": "Or my responsibilities include preparing reports and analyzing data."
+    },
+    {
+      "t": 258.42,
+      "text": "Let's give more examples."
+    },
+    {
+      "t": 260.22,
+      "text": "I organize meetings and communicate with clients."
+    },
+    {
+      "t": 263.74,
+      "text": "I design marketing campaigns and track performance."
+    },
+    {
+      "t": 267.7,
+      "text": "I develop software and fix technical issues."
+    },
+    {
+      "t": 271.26,
+      "text": "Notice how we use simple verbs like manage, organize, design, develop."
+    },
+    {
+      "t": 277.14,
+      "text": "Yes, simple verbs are powerful."
+    },
+    {
+      "t": 279.74,
+      "text": "Now let's talk about your team."
+    },
+    {
+      "t": 281.46,
+      "text": "Do you work alone or with others?"
+    },
+    {
+      "t": 283.9,
+      "text": "Good point."
+    },
+    {
+      "t": 285.02,
+      "text": "You can say, I work with a team of five."
+    },
+    {
+      "t": 288.62,
+      "text": "Or I collaborate with different departments."
+    },
+    {
+      "t": 291.86,
+      "text": "Or I work independently."
+    },
+    {
+      "t": 294.38,
+      "text": "And if you're the leader, you can say, I manage a team."
+    },
+    {
+      "t": 297.8,
+      "text": "For example, I manage a team of sales representatives."
+    },
+    {
+      "t": 301.86,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 303.98,
+      "text": "Now let's talk about your work schedule."
+    },
+    {
+      "t": 306.38,
+      "text": "Yes, this is also very common in conversation."
+    },
+    {
+      "t": 310.04,
+      "text": "You can say, I work full-time."
+    },
+    {
+      "t": 312.62,
+      "text": "Or I work part-time."
+    },
+    {
+      "t": 314.7,
+      "text": "You can also describe your hours."
+    },
+    {
+      "t": 316.9,
+      "text": "I work from nine to five."
+    },
+    {
+      "t": 319.3,
+      "text": "I start at 8 and finish at 4."
+    },
+    {
+      "t": 322.24,
+      "text": "And if your schedule is flexible, you can say, I have flexible working hours."
+    },
+    {
+      "t": 327.72,
+      "text": "That's a great benefit."
+    },
+    {
+      "t": 329.44,
+      "text": "Now let's talk about something more personal."
+    },
+    {
+      "t": 331.84,
+      "text": "What do you like about your job?"
+    },
+    {
+      "t": 334.04,
+      "text": "This is important, especially in interviews or networking."
+    },
+    {
+      "t": 338.08,
+      "text": "You can say, I enjoy."
+    },
+    {
+      "t": 340.38,
+      "text": "For example, I enjoy working with people."
+    },
+    {
+      "t": 343.64,
+      "text": "Or I enjoy solving problems."
+    },
+    {
+      "t": 346.38,
+      "text": "Or I enjoy the creative aspect of my job."
+    },
+    {
+      "t": 350.1,
+      "text": "You can also say, I like."
+    },
+    {
+      "t": 352.22,
+      "text": "I like my team."
+    },
+    {
+      "t": 354.02,
+      "text": "I like the work environment."
+    },
+    {
+      "t": 356.1,
+      "text": "I like the opportunities to learn."
+    },
+    {
+      "t": 358.86,
+      "text": "Now what about challenges?"
+    },
+    {
+      "t": 360.86,
+      "text": "Yes, every job has challenges."
+    },
+    {
+      "t": 363.82,
+      "text": "You can say, one challenge is..."
+    },
+    {
+      "t": 366.62,
+      "text": "For example, one challenge is managing tight deadlines."
+    },
+    {
+      "t": 371.3,
+      "text": "Or it can be stressful during busy periods."
+    },
+    {
+      "t": 374.5,
+      "text": "Or sometimes I have to deal with difficult clients."
+    },
+    {
+      "t": 378.58,
+      "text": "Notice how we stay professional and polite."
+    },
+    {
+      "t": 381.3,
+      "text": "Yes, we don't say I hate my job."
+    },
+    {
+      "t": 384.7,
+      "text": "Exactly."
+    },
+    {
+      "t": 385.7,
+      "text": "That sounds too negative."
+    },
+    {
+      "t": 387.38,
+      "text": "Now let's do a real-life example."
+    },
+    {
+      "t": 389.82,
+      "text": "Okay."
+    },
+    {
+      "t": 390.82,
+      "text": "Imagine you're at a business event."
+    },
+    {
+      "t": 393.06,
+      "text": "I'll start."
+    },
+    {
+      "t": 394.06,
+      "text": "Hi, I'm Jack."
+    },
+    {
+      "t": 395.58,
+      "text": "Nice to meet you."
+    },
+    {
+      "t": 396.58,
+      "text": "Hi, Jack."
+    },
+    {
+      "t": 397.58,
+      "text": "I'm Emily."
+    },
+    {
+      "t": 398.58,
+      "text": "Nice to meet you, too."
+    },
+    {
+      "t": 400.08,
+      "text": "So what do you do?"
+    },
+    {
+      "t": 401.5,
+      "text": "I'm a human resources deshlist."
+    },
+    {
+      "t": 403.74,
+      "text": "I work for an international company."
+    },
+    {
+      "t": 406.5,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 407.9,
+      "text": "What do you do in your role?"
+    },
+    {
+      "t": 409.38,
+      "text": "I handle recruitment and employee relations."
+    },
+    {
+      "t": 412.58,
+      "text": "I also organize training programs."
+    },
+    {
+      "t": 415.58,
+      "text": "That's great."
+    },
+    {
+      "t": 416.58,
+      "text": "Do you enjoy your job?"
+    },
+    {
+      "t": 417.86,
+      "text": "Yes, I really enjoy working with people and helping them grow in their careers."
+    },
+    {
+      "t": 423.26,
+      "text": "That's a perfect answer."
+    },
+    {
+      "t": 424.82,
+      "text": "Yes, and it sounds natural and confident."
+    },
+    {
+      "t": 428.38,
+      "text": "Now let's try a slightly more advanced example."
+    },
+    {
+      "t": 431.62,
+      "text": "Okay."
+    },
+    {
+      "t": 432.62,
+      "text": "Hi, what do you do?"
+    },
+    {
+      "t": 433.98,
+      "text": "I'm a financial analyst."
+    },
+    {
+      "t": 435.9,
+      "text": "I work for a large investment firm."
+    },
+    {
+      "t": 438.7,
+      "text": "What are your main responsibilities?"
+    },
+    {
+      "t": 440.9,
+      "text": "I analyze financial data, prepare reports, and support decision-making."
+    },
+    {
+      "t": 446.54,
+      "text": "That sounds challenging."
+    },
+    {
+      "t": 448.04,
+      "text": "Yes, it can be, especially when working under tight deadlines, but I enjoy the analytical"
+    },
+    {
+      "t": 453.82,
+      "text": "aspect."
+    },
+    {
+      "t": 454.82,
+      "text": "That's very professional."
+    },
+    {
+      "t": 456.78,
+      "text": "Now let's talk about career goals."
+    },
+    {
+      "t": 458.94,
+      "text": "Yes, this is very common in interviews."
+    },
+    {
+      "t": 462.46,
+      "text": "You can say, I'd like to, for example, I'd like to grow in my role, or I'd like to take"
+    },
+    {
+      "t": 469.34,
+      "text": "on more responsibility, or I'd like to become a manager in the future."
+    },
+    {
+      "t": 475.06,
+      "text": "You can also say, I'm working towards, I'm working towards a promotion, or I'm working"
+    },
+    {
+      "t": 481.26,
+      "text": "towards improving my skills."
+    },
+    {
+      "t": 483.84,
+      "text": "That shows ambition."
+    },
+    {
+      "t": 485.54,
+      "text": "Now let's do one final full conversation example."
+    },
+    {
+      "t": 489.64,
+      "text": "Great idea."
+    },
+    {
+      "t": 490.64,
+      "text": "Hi, nice to meet you."
+    },
+    {
+      "t": 492.52,
+      "text": "Nice to meet you too."
+    },
+    {
+      "t": 494.0,
+      "text": "What do you do?"
+    },
+    {
+      "t": 495.18,
+      "text": "I'm a marketing specialist."
+    },
+    {
+      "t": 496.92,
+      "text": "I work for a digital agency."
+    },
+    {
+      "t": 499.32,
+      "text": "What does your job involve?"
+    },
+    {
+      "t": 501.26,
+      "text": "I create marketing campaigns, manage social media accounts,"
+    },
+    {
+      "t": 505.4,
+      "text": "and analyze performance data."
+    },
+    {
+      "t": 507.78,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 509.12,
+      "text": "Do you enjoy it?"
+    },
+    {
+      "t": 510.44,
+      "text": "Yes, I enjoy the creative work"
+    },
+    {
+      "t": 512.68,
+      "text": "and working with different clients."
+    },
+    {
+      "t": 515.04,
+      "text": "What's the most challenging part?"
+    },
+    {
+      "t": 517.12,
+      "text": "Managing deadlines can be stressful,"
+    },
+    {
+      "t": 519.48,
+      "text": "especially when working on multiple projects."
+    },
+    {
+      "t": 522.64,
+      "text": "I understand."
+    },
+    {
+      "t": 523.86,
+      "text": "What are your future goals?"
+    },
+    {
+      "t": 525.56,
+      "text": "I like to become a marketing manager"
+    },
+    {
+      "t": 527.76,
+      "text": "and lead my own team."
+    },
+    {
+      "t": 529.64,
+      "text": "That's an excellent answer."
+    },
+    {
+      "t": 531.56,
+      "text": "Yes, and it uses simple, clear business English."
+    },
+    {
+      "t": 535.44,
+      "text": "That's the key message today."
+    },
+    {
+      "t": 537.56,
+      "text": "Keep it simple."
+    },
+    {
+      "t": 538.9,
+      "text": "Be clear."
+    },
+    {
+      "t": 540.16,
+      "text": "And be confident."
+    },
+    {
+      "t": 541.88,
+      "text": "You don't need perfect English to talk about your job."
+    },
+    {
+      "t": 545.16,
+      "text": "You just need the right phrases and practice."
+    },
+    {
+      "t": 548.4,
+      "text": "And the more you practice, the easier it becomes."
+    },
+    {
+      "t": 551.56,
+      "text": "So next time someone asks, what do you do?"
+    },
+    {
+      "t": 554.84,
+      "text": "You'll be ready."
+    },
+    {
+      "t": 556.24,
+      "text": "That's all for today."
+    },
+    {
+      "t": 557.8,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 560.0,
+      "text": "If you enjoyed this, don't forget to like and subscribe."
+    },
+    {
+      "t": 563.68,
+      "text": "And share it with someone who wants to improve their English."
+    },
+    {
+      "t": 567.08,
+      "text": "See you next time."
+    },
+    {
+      "t": 568.44,
+      "text": "Bye, everyone."
+    },
+    {
+      "t": 569.56,
+      "text": "Bye."
+    },
+    {
+      "t": 570.24,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 571.28,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 572.84,
+      "text": "If you're here to improve your English"
+    },
+    {
+      "t": 574.96,
+      "text": "for real business situations, you're absolutely in the right place."
+    },
+    {
+      "t": 580.08,
+      "text": "That's right."
+    },
+    {
+      "t": 581.08,
+      "text": "Today's episode is going to be very practical, very real, and extremely useful."
+    },
+    {
+      "t": 586.4,
+      "text": "I'm Emma."
+    },
+    {
+      "t": 587.48,
+      "text": "And I'm Daniel."
+    },
+    {
+      "t": 588.68,
+      "text": "On this podcast, we help you speak clear, natural business English with confidence."
+    },
+    {
+      "t": 595.04,
+      "text": "And today's topic is one that you will use again and again in your professional life."
+    },
+    {
+      "t": 600.16,
+      "text": "Exactly."
+    },
+    {
+      "t": 601.16,
+      "text": "Today we're talking about something simple but powerful."
+    },
+    {
+      "t": 605.18,
+      "text": "How to talk about your job in business English."
+    },
+    {
+      "t": 608.68,
+      "text": "This is one of the first things people ask you in professional conversations."
+    },
+    {
+      "t": 613.0,
+      "text": "Whether you're networking, meeting clients, attending meetings, or even chatting with"
+    },
+    {
+      "t": 618.24,
+      "text": "colleagues."
+    },
+    {
+      "t": 619.24,
+      "text": "Yes, and many English learners feel nervous here."
+    },
+    {
+      "t": 622.8,
+      "text": "They don't know how much to say, what vocabulary to use, or how to sound professional."
+    },
+    {
+      "t": 628.6,
+      "text": "So don't worry."
+    },
+    {
+      "t": 629.6,
+      "text": "And today we're going to walk you through everything in a natural conversation style."
+    },
+    {
+      "t": 635.12,
+      "text": "With real examples, real phrases, and realistic situations."
+    },
+    {
+      "t": 639.8,
+      "text": "Exactly."
+    },
+    {
+      "t": 640.8,
+      "text": "So Daniel, let me ask you something to start."
+    },
+    {
+      "t": 643.96,
+      "text": "Go ahead."
+    },
+    {
+      "t": 644.96,
+      "text": "When someone asks you about your job, do you give a short answer or a detailed one?"
+    },
+    {
+      "t": 650.64,
+      "text": "It depends on the situation."
+    },
+    {
+      "t": 652.48,
+      "text": "If it's casual, I keep it short, but in business settings, I give more details."
+    },
+    {
+      "t": 658.0,
+      "text": "That's a great point."
+    },
+    {
+      "t": 659.56,
+      "text": "matters. Exactly. So let's start from the most basic question. The classic one."
+    },
+    {
+      "t": 665.12,
+      "text": "Yes, the question everyone hears. What do you do? Simple, short, and very common. So"
+    },
+    {
+      "t": 672.58,
+      "text": "Emma, what do you do? I'm a business English trainer. I work with"
+    },
+    {
+      "t": 677.22,
+      "text": "professionals to help them communicate more effectively in English. That's a"
+    },
+    {
+      "t": 681.74,
+      "text": "great answer. Notice it's not just the job title. You added value. Exactly."
+    },
+    {
+      "t": 687.38,
+      "text": "Just saying, I'm a teacher is okay, but adding more detail makes your answer stronger."
+    },
+    {
+      "t": 694.24,
+      "text": "Let me try."
+    },
+    {
+      "t": 695.34,
+      "text": "What do you do?"
+    },
+    {
+      "t": 696.34,
+      "text": "Go ahead."
+    },
+    {
+      "t": 697.34,
+      "text": "I'm a project manager."
+    },
+    {
+      "t": 698.86,
+      "text": "I manage cross-functional teams and ensure projects are delivered on time."
+    },
+    {
+      "t": 703.94,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 705.98,
+      "text": "Thank you."
+    },
+    {
+      "t": 706.98,
+      "text": "So everyone listening, here's your first tip."
+    },
+    {
+      "t": 710.04,
+      "text": "Don't stop at your job title."
+    },
+    {
+      "t": 712.22,
+      "text": "Add one sentence about what you do."
+    },
+    {
+      "t": 714.62,
+      "text": "Yes, it makes you sound more confident and clear."
+    },
+    {
+      "t": 718.06,
+      "text": "Now let's talk about another common question."
+    },
+    {
+      "t": 721.1,
+      "text": "Where do you work?"
+    },
+    {
+      "t": 722.46,
+      "text": "Exactly."
+    },
+    {
+      "t": 723.5,
+      "text": "Daniel, where do you work?"
+    },
+    {
+      "t": 725.38,
+      "text": "I work for a multinational technology company."
+    },
+    {
+      "t": 728.42,
+      "text": "We develop software solutions for businesses."
+    },
+    {
+      "t": 731.34,
+      "text": "Nice."
+    },
+    {
+      "t": 732.26,
+      "text": "You used work for, which is correct for companies."
+    },
+    {
+      "t": 735.82,
+      "text": "Right."
+    },
+    {
+      "t": 736.42,
+      "text": "And you can also say, I work at,"
+    },
+    {
+      "t": 738.62,
+      "text": "if you mention the company name."
+    },
+    {
+      "t": 740.5,
+      "text": "For example, I work at a training institute in Singapore."
+    },
+    {
+      "t": 744.86,
+      "text": "Or I work at a startup that focuses on FinTech solutions."
+    },
+    {
+      "t": 749.26,
+      "text": "Perfect."
+    },
+    {
+      "t": 750.26,
+      "text": "Now let's go deeper."
+    },
+    {
+      "t": 751.66,
+      "text": "Yes, let's make it more real."
+    },
+    {
+      "t": 753.82,
+      "text": "Imagine you're at a networking event."
+    },
+    {
+      "t": 756.26,
+      "text": "Someone asks you about your job."
+    },
+    {
+      "t": 758.1,
+      "text": "Okay, I'll start."
+    },
+    {
+      "t": 759.74,
+      "text": "Go ahead."
+    },
+    {
+      "t": 760.74,
+      "text": "Hi."
+    },
+    {
+      "t": 761.74,
+      "text": "Nice to meet you too."
+    },
+    {
+      "t": 762.74,
+      "text": "What do you do?"
+    },
+    {
+      "t": 763.74,
+      "text": "Hi."
+    },
+    {
+      "t": 764.74,
+      "text": "Nice to meet you too."
+    },
+    {
+      "t": 765.74,
+      "text": "I'm a financial analyst."
+    },
+    {
+      "t": 767.34,
+      "text": "I work for an investment firm and I analyze market trends to help clients make better"
+    },
+    {
+      "t": 772.62,
+      "text": "investment decisions."
+    },
+    {
+      "t": 774.5,
+      "text": "That's a strong answer, clear and professional."
+    },
+    {
+      "t": 777.54,
+      "text": "Thank you."
+    },
+    {
+      "t": 778.54,
+      "text": "Now your turn."
+    },
+    {
+      "t": 779.54,
+      "text": "I'm a Human Resources Manager."
+    },
+    {
+      "t": 781.62,
+      "text": "I handle recruitment, employee relations, and staff development programs."
+    },
+    {
+      "t": 786.74,
+      "text": "Excellent."
+    },
+    {
+      "t": 787.74,
+      "text": "Notice how specific that is."
+    },
+    {
+      "t": 790.06,
+      "text": "Yes, specificity makes a big difference."
+    },
+    {
+      "t": 793.1,
+      "text": "Now let's talk about describing your daily tasks."
+    },
+    {
+      "t": 796.66,
+      "text": "This is where many learners struggle."
+    },
+    {
+      "t": 798.98,
+      "text": "Exactly."
+    },
+    {
+      "t": 799.98,
+      "text": "They don't know how to explain what they actually do."
+    },
+    {
+      "t": 803.42,
+      "text": "So Emma, what are your daily responsibilities?"
+    },
+    {
+      "t": 806.68,
+      "text": "My main responsibilities include conducting training sessions, preparing lesson materials"
+    },
+    {
+      "t": 812.58,
+      "text": "and coaching clients one-on-one."
+    },
+    {
+      "t": 815.18,
+      "text": "That's great."
+    },
+    {
+      "t": 816.18,
+      "text": "You used my main responsibilities include."
+    },
+    {
+      "t": 819.1,
+      "text": "Yes, that's a very useful phrase."
+    },
+    {
+      "t": 821.78,
+      "text": "Let me give another example."
+    },
+    {
+      "t": 823.58,
+      "text": "Go ahead."
+    },
+    {
+      "t": 824.58,
+      "text": "This role involves coordinating with different departments, managing timelines, and ensuring"
+    },
+    {
+      "t": 829.7,
+      "text": "project goals are met."
+    },
+    {
+      "t": 831.9,
+      "text": "Very professional."
+    },
+    {
+      "t": 833.14,
+      "text": "Thank you."
+    },
+    {
+      "t": 834.14,
+      "text": "Now let's make it more practical."
+    },
+    {
+      "t": 836.46,
+      "text": "Imagine you're explaining your job to a new colleague."
+    },
+    {
+      "t": 839.46,
+      "text": "Okay."
+    },
+    {
+      "t": 840.46,
+      "text": "I'll start."
+    },
+    {
+      "t": 841.46,
+      "text": "Sure."
+    },
+    {
+      "t": 842.46,
+      "text": "Hi, I just joined the company."
+    },
+    {
+      "t": 843.98,
+      "text": "Can you tell me what you do?"
+    },
+    {
+      "t": 845.5,
+      "text": "Of course."
+    },
+    {
+      "t": 846.5,
+      "text": "I'm in the marketing department."
+    },
+    {
+      "t": 848.02,
+      "text": "I focus on digital campaigns, social media strategy, and content creation."
+    },
+    {
+      "t": 853.7,
+      "text": "clear and helpful. Thanks. What about you? I work in operations. I manage workflows,"
+    },
+    {
+      "t": 860.42,
+      "text": "improve processes, and make sure everything runs smoothly. Nice. That sounds very efficient."
+    },
+    {
+      "t": 866.98,
+      "text": "Now let's talk about talking about your team. Yes, this is very common in business conversations."
+    },
+    {
+      "t": 873.38,
+      "text": "Daniel, do you work alone or with a team? I work with a team of about 10 people."
+    },
+    {
+      "t": 878.82,
+      "text": "We collaborate on different projects."
+    },
+    {
+      "t": 881.14,
+      "text": "Good. You used collaborate, which is a great business word."
+    },
+    {
+      "t": 885.22,
+      "text": "What about you?"
+    },
+    {
+      "t": 886.34,
+      "text": "I mostly work with clients, but I also collaborate with other trainers and content creators."
+    },
+    {
+      "t": 892.5,
+      "text": "That's interesting. Now let's talk about describing your company."
+    },
+    {
+      "t": 896.5,
+      "text": "Another important skill."
+    },
+    {
+      "t": 898.26,
+      "text": "Daniel, how would you describe your company?"
+    },
+    {
+      "t": 900.9,
+      "text": "It's a fast-growing tech company that specializes in AI-driven solutions."
+    },
+    {
+      "t": 906.34,
+      "text": "That sounds impressive."
+    },
+    {
+      "t": 907.7,
+      "text": "Thank you. Let me try. My company is a professional training organization that focuses on corporate"
+    },
+    {
+      "t": 914.66,
+      "text": "communication and leadership skills. Very clear and professional. Now let's move into a slightly"
+    },
+    {
+      "t": 921.06,
+      "text": "more advanced conversation. Okay, let's make it more real. Imagine you're talking to a client."
+    },
+    {
+      "t": 927.54,
+      "text": "Good scenario. I'll start. Go ahead. Could you tell me a bit about your role?"
+    },
+    {
+      "t": 932.82,
+      "text": "Sure. I'm the head of operations. I oversee daily business activities and ensure efficiency"
+    },
+    {
+      "t": 939.38,
+      "text": "across all departments."
+    },
+    {
+      "t": 941.38,
+      "text": "That's a strong answer."
+    },
+    {
+      "t": 943.06,
+      "text": "Thank you. And what about you?"
+    },
+    {
+      "t": 945.02,
+      "text": "I'm responsible for client relations. I work closely with clients to understand their"
+    },
+    {
+      "t": 950.52,
+      "text": "needs and deliver customized solutions."
+    },
+    {
+      "t": 953.86,
+      "text": "That sounds very client-focused."
+    },
+    {
+      "t": 955.94,
+      "text": "Exactly."
+    },
+    {
+      "t": 956.94,
+      "text": "Now let's talk about experience."
+    },
+    {
+      "t": 959.14,
+      "text": "Yes, this is very important in business English."
+    },
+    {
+      "t": 962.58,
+      "text": "Emma, how much experience do you have?"
+    },
+    {
+      "t": 965.16,
+      "text": "I have over eight years of experience in corporate training and language education."
+    },
+    {
+      "t": 970.62,
+      "text": "That sounds impressive."
+    },
+    {
+      "t": 972.02,
+      "text": "Thank you."
+    },
+    {
+      "t": 973.02,
+      "text": "What about you?"
+    },
+    {
+      "t": 974.02,
+      "text": "I have about ten years of experience in project management and team leadership."
+    },
+    {
+      "t": 978.82,
+      "text": "Great!"
+    },
+    {
+      "t": 979.82,
+      "text": "Notice how we say years of experience."
+    },
+    {
+      "t": 982.58,
+      "text": "Yes, not years experience."
+    },
+    {
+      "t": 985.26,
+      "text": "Now let's talk about career progression."
+    },
+    {
+      "t": 987.94,
+      "text": "This is useful in interviews and networking."
+    },
+    {
+      "t": 990.74,
+      "text": "Daniel, how did you get into your field?"
+    },
+    {
+      "t": 993.34,
+      "text": "I started as a junior analyst, then moved into project coordination and eventually became"
+    },
+    {
+      "t": 999.14,
+      "text": "a project manager."
+    },
+    {
+      "t": 1000.98,
+      "text": "That's a great career path."
+    },
+    {
+      "t": 1002.74,
+      "text": "Thank you."
+    },
+    {
+      "t": 1003.74,
+      "text": "What about you?"
+    },
+    {
+      "t": 1004.74,
+      "text": "I began as an English teacher, then specialized in business communication, and now I work"
+    },
+    {
+      "t": 1010.78,
+      "text": "with corporate clients globally."
+    },
+    {
+      "t": 1012.94,
+      "text": "That shows growth."
+    },
+    {
+      "t": 1014.26,
+      "text": "Exactly."
+    },
+    {
+      "t": 1015.26,
+      "text": "Now let's talk about challenges."
+    },
+    {
+      "t": 1017.34,
+      "text": "Yes, real conversations include challenges."
+    },
+    {
+      "t": 1020.98,
+      "text": "What's the most challenging part of your job?"
+    },
+    {
+      "t": 1023.7,
+      "text": "Managing different client expectations"
+    },
+    {
+      "t": 1026.18,
+      "text": "can be challenging, especially when timelines are tight."
+    },
+    {
+      "t": 1029.58,
+      "text": "That's very real."
+    },
+    {
+      "t": 1031.02,
+      "text": "What about you?"
+    },
+    {
+      "t": 1032.18,
+      "text": "Balancing multiple projects at the same time"
+    },
+    {
+      "t": 1035.02,
+      "text": "can be stressful, but it also helps me stay organized."
+    },
+    {
+      "t": 1038.66,
+      "text": "Good."
+    },
+    {
+      "t": 1039.34,
+      "text": "You turned a challenge into a positive."
+    },
+    {
+      "t": 1041.82,
+      "text": "That's important in business communication."
+    },
+    {
+      "t": 1044.34,
+      "text": "Now let's talk about what you enjoy."
+    },
+    {
+      "t": 1046.78,
+      "text": "Yes, this makes conversations more human."
+    },
+    {
+      "t": 1049.9,
+      "text": "What do you enjoy most about your job?"
+    },
+    {
+      "t": 1052.34,
+      "text": "I enjoy solving problems and working with different teams."
+    },
+    {
+      "t": 1055.94,
+      "text": "Every day is different."
+    },
+    {
+      "t": 1057.42,
+      "text": "Nice."
+    },
+    {
+      "t": 1058.3,
+      "text": "What about you?"
+    },
+    {
+      "t": 1059.42,
+      "text": "I enjoy helping people improve their communication skills."
+    },
+    {
+      "t": 1062.86,
+      "text": "It's very rewarding."
+    },
+    {
+      "t": 1064.38,
+      "text": "That's meaningful."
+    },
+    {
+      "t": 1065.58,
+      "text": "Now let's do a longer, more natural conversation."
+    },
+    {
+      "t": 1069.26,
+      "text": "Great idea."
+    },
+    {
+      "t": 1070.38,
+      "text": "I'll start."
+    },
+    {
+      "t": 1071.26,
+      "text": "Go ahead."
+    },
+    {
+      "t": 1072.1,
+      "text": "Hi, it's great to meet you."
+    },
+    {
+      "t": 1073.86,
+      "text": "Nice to meet you too."
+    },
+    {
+      "t": 1075.22,
+      "text": "So what do you do?"
+    },
+    {
+      "t": 1076.76,
+      "text": "I'm a business development manager."
+    },
+    {
+      "t": 1079.08,
+      "text": "I work for a consulting firm,"
+    },
+    {
+      "t": 1080.84,
+      "text": "and my role is to identify new opportunities"
+    },
+    {
+      "t": 1083.96,
+      "text": "and build relationships with clients."
+    },
+    {
+      "t": 1086.32,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 1087.64,
+      "text": "How long have you been doing that?"
+    },
+    {
+      "t": 1089.32,
+      "text": "About five years now."
+    },
+    {
+      "t": 1091.06,
+      "text": "I started in sales"
+    },
+    {
+      "t": 1092.52,
+      "text": "and gradually moved into business development."
+    },
+    {
+      "t": 1095.68,
+      "text": "What about you?"
+    },
+    {
+      "t": 1096.68,
+      "text": "I'm a communication specialist."
+    },
+    {
+      "t": 1098.8,
+      "text": "I focus on internal communication"
+    },
+    {
+      "t": 1100.96,
+      "text": "and employee engagement."
+    },
+    {
+      "t": 1102.68,
+      "text": "That's important for company culture."
+    },
+    {
+      "t": 1104.88,
+      "text": "Yes, it is."
+    },
+    {
+      "t": 1105.94,
+      "text": "I work closely with HR and leadership teams."
+    },
+    {
+      "t": 1109.26,
+      "text": "Do you enjoy your job?"
+    },
+    {
+      "t": 1110.78,
+      "text": "I do."
+    },
+    {
+      "t": 1111.78,
+      "text": "I especially enjoy working on new initiatives and improving communication strategies."
+    },
+    {
+      "t": 1117.02,
+      "text": "That's great."
+    },
+    {
+      "t": 1118.02,
+      "text": "What's the most challenging?"
+    },
+    {
+      "t": 1119.74,
+      "text": "Aligning communication across different departments can be tricky."
+    },
+    {
+      "t": 1123.66,
+      "text": "I can imagine."
+    },
+    {
+      "t": 1125.18,
+      "text": "What about you?"
+    },
+    {
+      "t": 1126.18,
+      "text": "What's challenging in your role?"
+    },
+    {
+      "t": 1128.54,
+      "text": "Building long-term client relationships takes time and effort, but it's very rewarding"
+    },
+    {
+      "t": 1133.54,
+      "text": "when it works."
+    },
+    {
+      "t": 1135.18,
+      "text": "So where do you see yourself in the future?"
+    },
+    {
+      "t": 1138.18,
+      "text": "I'd like to move into a leadership role and manage a communications team."
+    },
+    {
+      "t": 1142.18,
+      "text": "That sounds like a great goal."
+    },
+    {
+      "t": 1144.18,
+      "text": "Thank you. What about you?"
+    },
+    {
+      "t": 1146.18,
+      "text": "I'd like to expand into international markets and work with global clients."
+    },
+    {
+      "t": 1151.18,
+      "text": "That's exciting. Yes, it is."
+    },
+    {
+      "t": 1153.18,
+      "text": "This is a great example of a natural business conversation."
+    },
+    {
+      "t": 1157.18,
+      "text": "Yes, and notice how we didn't use complicated language."
+    },
+    {
+      "t": 1161.18,
+      "text": "Simple, clear, and confident."
+    },
+    {
+      "t": 1163.18,
+      "text": "and confident."
+    },
+    {
+      "t": 1164.18,
+      "text": "Exactly."
+    },
+    {
+      "t": 1165.3,
+      "text": "All right, everyone, that's all for today."
+    },
+    {
+      "t": 1167.72,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 1169.62,
+      "text": "Keep practicing, keep improving,"
+    },
+    {
+      "t": 1171.66,
+      "text": "and keep speaking English every day."
+    },
+    {
+      "t": 1174.1,
+      "text": "We'll see you in the next episode."
+    },
+    {
+      "t": 1176.18,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1177.34,
+      "text": "Goodbye."
+    },
+    {
+      "t": 1183.6,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 1184.68,
+      "text": "We're really happy to have you with us today."
+    },
+    {
+      "t": 1187.48,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 1188.4,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 1189.6,
+      "text": "If you're here to improve your business English"
+    },
+    {
+      "t": 1192.04,
+      "text": "and learn how to talk about your job"
+    },
+    {
+      "t": 1193.76,
+      "text": "clearly and confidently, you're in the right place."
+    },
+    {
+      "t": 1197.32,
+      "text": "I'm Sarah."
+    },
+    {
+      "t": 1198.68,
+      "text": "And I'm Daniel."
+    },
+    {
+      "t": 1200.2,
+      "text": "On this channel, we help you speak natural, professional English in real-life situations."
+    },
+    {
+      "t": 1206.44,
+      "text": "If you enjoy this lesson, don't forget to give us a thumbs up and subscribe."
+    },
+    {
+      "t": 1210.64,
+      "text": "Yes, your support helps us a lot."
+    },
+    {
+      "t": 1213.6,
+      "text": "Thank you for being here."
+    },
+    {
+      "t": 1215.24,
+      "text": "So Sarah, what are we talking about today?"
+    },
+    {
+      "t": 1218.54,
+      "text": "Today we have a very practical and essential topic, how to talk about your job in business"
+    },
+    {
+      "t": 1224.04,
+      "text": "English."
+    },
+    {
+      "t": 1225.48,
+      "text": "This is such an important skill."
+    },
+    {
+      "t": 1227.66,
+      "text": "Whether you're in a meeting, a job interview, or a networking event, you need to talk about"
+    },
+    {
+      "t": 1232.46,
+      "text": "your job clearly."
+    },
+    {
+      "t": 1234.3,
+      "text": "Exactly."
+    },
+    {
+      "t": 1235.46,
+      "text": "And not just your job title, but what you actually do."
+    },
+    {
+      "t": 1238.58,
+      "text": "Your responsibilities, your experience, and your goals."
+    },
+    {
+      "t": 1242.4,
+      "text": "And the good news is, we're going to make it simple, practical, and easy to follow."
+    },
+    {
+      "t": 1247.3,
+      "text": "Yes, we'll give you useful phrases, real examples, and lots of practice conversations."
+    },
+    {
+      "t": 1253.82,
+      "text": "Sounds perfect."
+    },
+    {
+      "t": 1254.9,
+      "text": "So Sarah, before we start, how are you feeling today?"
+    },
+    {
+      "t": 1258.54,
+      "text": "I'm feeling great."
+    },
+    {
+      "t": 1259.58,
+      "text": "I'm excited because this topic is something everyone can use immediately."
+    },
+    {
+      "t": 1263.98,
+      "text": "How about you?"
+    },
+    {
+      "t": 1264.98,
+      "text": "I'm doing well too."
+    },
+    {
+      "t": 1266.54,
+      "text": "I think our listeners are going to gain a lot of confidence from this episode."
+    },
+    {
+      "t": 1271.02,
+      "text": "I agree."
+    },
+    {
+      "t": 1272.02,
+      "text": "Alright everyone, let's get started."
+    },
+    {
+      "t": 1274.54,
+      "text": "Let's begin with the most common question."
+    },
+    {
+      "t": 1277.28,
+      "text": "How do you ask someone about their job in a business setting?"
+    },
+    {
+      "t": 1280.98,
+      "text": "The most natural and common question is, what do you do?"
+    },
+    {
+      "t": 1286.03,
+      "text": "Simple and effective."
+    },
+    {
+      "t": 1287.23,
+      "text": "Yes, it's short, polite, and widely used."
+    },
+    {
+      "t": 1291.31,
+      "text": "Can we also say what is your job?"
+    },
+    {
+      "t": 1294.15,
+      "text": "You can, but it sounds more formal and less natural in conversation."
+    },
+    {
+      "t": 1299.11,
+      "text": "So what do you do is the best choice?"
+    },
+    {
+      "t": 1301.99,
+      "text": "Exactly."
+    },
+    {
+      "t": 1302.99,
+      "text": "You can also say, what do you do for a living?"
+    },
+    {
+      "t": 1306.15,
+      "text": "That sounds slightly more formal, but still very common."
+    },
+    {
+      "t": 1309.79,
+      "text": "Okay, now how do we answer that question?"
+    },
+    {
+      "t": 1312.59,
+      "text": "The simplest way is to say,"
+    },
+    {
+      "t": 1314.69,
+      "text": "I'm a plus your job title."
+    },
+    {
+      "t": 1317.49,
+      "text": "For example, I'm a project manager."
+    },
+    {
+      "t": 1320.39,
+      "text": "Or I'm an accountant."
+    },
+    {
+      "t": 1322.49,
+      "text": "Easy."
+    },
+    {
+      "t": 1323.49,
+      "text": "But in business we often need to say more, right?"
+    },
+    {
+      "t": 1326.89,
+      "text": "Exactly. You should add details to sound more professional."
+    },
+    {
+      "t": 1330.99,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 1332.69,
+      "text": "Sure. I'm a project manager."
+    },
+    {
+      "t": 1335.29,
+      "text": "I manage a team and oversee project timelines."
+    },
+    {
+      "t": 1339.19,
+      "text": "That sounds much more complete."
+    },
+    {
+      "t": 1341.19,
+      "text": "Yes, it gives a clearer picture of your role."
+    },
+    {
+      "t": 1344.19,
+      "text": "Let's give more examples for different jobs."
+    },
+    {
+      "t": 1347.19,
+      "text": "Okay, I'm a sales executive."
+    },
+    {
+      "t": 1350.19,
+      "text": "I handle client relationships and close deals."
+    },
+    {
+      "t": 1353.19,
+      "text": "Nice."
+    },
+    {
+      "t": 1354.19,
+      "text": "I'm a software developer."
+    },
+    {
+      "t": 1356.19,
+      "text": "I build and maintain web applications."
+    },
+    {
+      "t": 1359.19,
+      "text": "Good one."
+    },
+    {
+      "t": 1360.19,
+      "text": "I'm an HR specialist."
+    },
+    {
+      "t": 1362.19,
+      "text": "I manage recruitment and employee relations."
+    },
+    {
+      "t": 1365.19,
+      "text": "These are very practical."
+    },
+    {
+      "t": 1367.19,
+      "text": "Now let's talk about where you work."
+    },
+    {
+      "t": 1370.19,
+      "text": "Yes, this is another common question. Where do you work?"
+    },
+    {
+      "t": 1374.19,
+      "text": "How do we answer it?"
+    },
+    {
+      "t": 1376.19,
+      "text": "You can say, I work at for a company."
+    },
+    {
+      "t": 1379.19,
+      "text": "For example, I work at a multinational company."
+    },
+    {
+      "t": 1383.19,
+      "text": "Or I work for to emphasize the employer."
+    },
+    {
+      "t": 1387.19,
+      "text": "I work for a tech startup."
+    },
+    {
+      "t": 1389.19,
+      "text": "Exactly."
+    },
+    {
+      "t": 1390.19,
+      "text": "What about I work in?"
+    },
+    {
+      "t": 1392.19,
+      "text": "Use in for industries or types of workplaces."
+    },
+    {
+      "t": 1396.19,
+      "text": "Like, I work in finance, or I work in an office."
+    },
+    {
+      "t": 1400.95,
+      "text": "Perfect."
+    },
+    {
+      "t": 1402.45,
+      "text": "Now let's talk about describing your responsibilities."
+    },
+    {
+      "t": 1406.17,
+      "text": "This is where business English becomes very important."
+    },
+    {
+      "t": 1410.07,
+      "text": "Because this shows your real value."
+    },
+    {
+      "t": 1412.55,
+      "text": "Exactly."
+    },
+    {
+      "t": 1413.61,
+      "text": "You can say, my main responsibility is to…"
+    },
+    {
+      "t": 1417.63,
+      "text": "For example, my main responsibility is to manage client accounts."
+    },
+    {
+      "t": 1422.49,
+      "text": "Or I'm responsible for preparing financial reports."
+    },
+    {
+      "t": 1426.73,
+      "text": "Or I handle customer inquiries and support."
+    },
+    {
+      "t": 1430.33,
+      "text": "These are very common business phrases."
+    },
+    {
+      "t": 1433.13,
+      "text": "Let's make this more real with a short role play."
+    },
+    {
+      "t": 1436.41,
+      "text": "Great idea."
+    },
+    {
+      "t": 1437.41,
+      "text": "This will help our listeners practice."
+    },
+    {
+      "t": 1439.01,
+      "text": "Hi."
+    },
+    {
+      "t": 1440.01,
+      "text": "Nice to meet you."
+    },
+    {
+      "t": 1441.01,
+      "text": "What do you do?"
+    },
+    {
+      "t": 1442.21,
+      "text": "Nice to meet you too."
+    },
+    {
+      "t": 1443.37,
+      "text": "I'm a business analyst."
+    },
+    {
+      "t": 1444.85,
+      "text": "I analyze data and help companies improve their performance."
+    },
+    {
+      "t": 1449.09,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 1450.25,
+      "text": "Where do you work?"
+    },
+    {
+      "t": 1451.53,
+      "text": "I work at a consulting firm."
+    },
+    {
+      "t": 1453.23,
+      "text": "We work with different clients across industries."
+    },
+    {
+      "t": 1456.19,
+      "text": "Great."
+    },
+    {
+      "t": 1456.87,
+      "text": "What are your main responsibilities?"
+    },
+    {
+      "t": 1459.23,
+      "text": "I'm responsible for analyzing business processes,"
+    },
+    {
+      "t": 1462.27,
+      "text": "preparing reports, and presenting recommendations"
+    },
+    {
+      "t": 1465.03,
+      "text": "to clients."
+    },
+    {
+      "t": 1466.23,
+      "text": "Do you work alone or with a team?"
+    },
+    {
+      "t": 1468.63,
+      "text": "I work with a team."
+    },
+    {
+      "t": 1469.67,
+      "text": "We collaborate closely on projects."
+    },
+    {
+      "t": 1472.27,
+      "text": "How long have you been doing this?"
+    },
+    {
+      "t": 1474.39,
+      "text": "I've been working in this field for about six years."
+    },
+    {
+      "t": 1477.63,
+      "text": "Do you enjoy your job?"
+    },
+    {
+      "t": 1479.31,
+      "text": "Yes, I do."
+    },
+    {
+      "t": 1480.27,
+      "text": "I enjoy solving problems and working with clients."
+    },
+    {
+      "t": 1483.61,
+      "text": "That was a great example."
+    },
+    {
+      "t": 1485.59,
+      "text": "Yes, and notice how we used simple but professional language."
+    },
+    {
+      "t": 1490.07,
+      "text": "Now let's talk about talking about your goals."
+    },
+    {
+      "t": 1493.11,
+      "text": "Yes, this often comes up in conversations."
+    },
+    {
+      "t": 1496.15,
+      "text": "You can say, I'm looking to, for example,"
+    },
+    {
+      "t": 1499.81,
+      "text": "I'm looking to develop my leadership skills,"
+    },
+    {
+      "t": 1502.81,
+      "text": "or I want to move into a management role."
+    },
+    {
+      "t": 1506.33,
+      "text": "Or I'm working towards a promotion."
+    },
+    {
+      "t": 1508.99,
+      "text": "Very useful phrases."
+    },
+    {
+      "t": 1511.07,
+      "text": "Now let's talk about common mistakes."
+    },
+    {
+      "t": 1514.07,
+      "text": "Yes, this is very important."
+    },
+    {
+      "t": 1516.47,
+      "text": "Mistake one, saying, I am engineer."
+    },
+    {
+      "t": 1520.31,
+      "text": "Correct is I am an engineer."
+    },
+    {
+      "t": 1523.67,
+      "text": "Mistake two, I work in Google."
+    },
+    {
+      "t": 1527.19,
+      "text": "Correct, I work at Google or I work for Google."
+    },
+    {
+      "t": 1531.79,
+      "text": "Mistake three, I am experienced."
+    },
+    {
+      "t": 1535.43,
+      "text": "Correct, I am experienced."
+    },
+    {
+      "t": 1538.35,
+      "text": "These small mistakes make a big difference."
+    },
+    {
+      "t": 1541.75,
+      "text": "Let's do a quick practice."
+    },
+    {
+      "t": 1543.59,
+      "text": "I'll ask you answer."
+    },
+    {
+      "t": 1545.67,
+      "text": "OK."
+    },
+    {
+      "t": 1546.55,
+      "text": "What do you do?"
+    },
+    {
+      "t": 1547.99,
+      "text": "I'm a project coordinator."
+    },
+    {
+      "t": 1549.91,
+      "text": "I organize tasks and support the project team."
+    },
+    {
+      "t": 1553.27,
+      "text": "Where do you work?"
+    },
+    {
+      "t": 1554.79,
+      "text": "I work at an international company"
+    },
+    {
+      "t": 1556.63,
+      "text": "in the logistics industry."
+    },
+    {
+      "t": 1558.51,
+      "text": "What are your responsibilities?"
+    },
+    {
+      "t": 1560.75,
+      "text": "I'm responsible for scheduling, communication,"
+    },
+    {
+      "t": 1563.43,
+      "text": "and reporting."
+    },
+    {
+      "t": 1564.79,
+      "text": "Excellent."
+    },
+    {
+      "t": 1565.95,
+      "text": "Before we finish, let's summarize."
+    },
+    {
+      "t": 1568.39,
+      "text": "First, introduce your job clearly."
+    },
+    {
+      "t": 1571.39,
+      "text": "Second, explain what you do."
+    },
+    {
+      "t": 1573.99,
+      "text": "Third, talk about where you work."
+    },
+    {
+      "t": 1576.51,
+      "text": "Fourth, describe your responsibilities and experience."
+    },
+    {
+      "t": 1580.51,
+      "text": "And finally, keep your language simple and clear."
+    },
+    {
+      "t": 1584.31,
+      "text": "Now it's time for our question of the day."
+    },
+    {
+      "t": 1587.15,
+      "text": "What do you do and how would you describe your job in English?"
+    },
+    {
+      "t": 1591.11,
+      "text": "Write your answer and practice using the phrases"
+    },
+    {
+      "t": 1593.59,
+      "text": "we learned today."
+    },
+    {
+      "t": 1595.15,
+      "text": "Thank you so much for joining us."
+    },
+    {
+      "t": 1597.55,
+      "text": "Keep practicing, keep speaking,"
+    },
+    {
+      "t": 1599.43,
+      "text": "and keep improving your business English."
+    },
+    {
+      "t": 1602.07,
+      "text": "We'll see you in the next episode."
+    },
+    {
+      "t": 1604.15,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1605.33,
+      "text": "Goodbye."
+    },
+    {
+      "t": 1609.14,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 1610.26,
+      "text": "We're really happy to have you with us today."
+    },
+    {
+      "t": 1612.62,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 1613.46,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 1614.86,
+      "text": "If you're here to improve your English,"
+    },
+    {
+      "t": 1616.94,
+      "text": "you're in the right place."
+    },
+    {
+      "t": 1618.78,
+      "text": "I'm Emma."
+    },
+    {
+      "t": 1619.78,
+      "text": "And I'm Jack."
+    },
+    {
+      "t": 1620.98,
+      "text": "On this channel, we help you speak clear, natural English"
+    },
+    {
+      "t": 1624.58,
+      "text": "with confidence in real business situations."
+    },
+    {
+      "t": 1627.86,
+      "text": "If you enjoy this lesson, please give us a thumbs up, and don't forget to subscribe."
+    },
+    {
+      "t": 1632.5,
+      "text": "Yes, your support helps us so much."
+    },
+    {
+      "t": 1635.1,
+      "text": "Thank you for being here."
+    },
+    {
+      "t": 1636.46,
+      "text": "So Emma, what are we talking about today?"
+    },
+    {
+      "t": 1638.9,
+      "text": "Today we have a very practical topic."
+    },
+    {
+      "t": 1641.54,
+      "text": "We're going to learn how to talk about your job in business English."
+    },
+    {
+      "t": 1645.38,
+      "text": "This is such an important skill."
+    },
+    {
+      "t": 1647.42,
+      "text": "Whether you're in a meeting, a job interview, or a networking event, you need to explain"
+    },
+    {
+      "t": 1651.62,
+      "text": "your job clearly."
+    },
+    {
+      "t": 1653.3,
+      "text": "Exactly."
+    },
+    {
+      "t": 1654.46,
+      "text": "And today, we'll make it simple, natural, and very practical with real examples."
+    },
+    {
+      "t": 1660.1,
+      "text": "Sounds perfect."
+    },
+    {
+      "t": 1661.1,
+      "text": "Before we start, how are you feeling today?"
+    },
+    {
+      "t": 1663.18,
+      "text": "I'm feeling great."
+    },
+    {
+      "t": 1664.42,
+      "text": "I'm excited because this is something everyone needs."
+    },
+    {
+      "t": 1667.7,
+      "text": "How about you?"
+    },
+    {
+      "t": 1668.7,
+      "text": "I'm doing well."
+    },
+    {
+      "t": 1669.7,
+      "text": "I think this lesson will help a lot of people feel more confident."
+    },
+    {
+      "t": 1673.1,
+      "text": "I agree."
+    },
+    {
+      "t": 1674.1,
+      "text": "Okay, everyone, let's get started."
+    },
+    {
+      "t": 1676.58,
+      "text": "Let's begin with the most common question."
+    },
+    {
+      "t": 1679.42,
+      "text": "When you meet someone in a business situation, how do you ask about their job?"
+    },
+    {
+      "t": 1684.06,
+      "text": "The most common question is, what do you do?"
+    },
+    {
+      "t": 1687.34,
+      "text": "Very simple and natural."
+    },
+    {
+      "t": 1688.94,
+      "text": "Yes, you can also say, what do you do for a living?"
+    },
+    {
+      "t": 1692.74,
+      "text": "That sounds slightly more formal, right?"
+    },
+    {
+      "t": 1695.42,
+      "text": "Exactly, but both are correct."
+    },
+    {
+      "t": 1697.7,
+      "text": "So how do you answer that question?"
+    },
+    {
+      "t": 1699.82,
+      "text": "The simplest way is to say, I'm a plus your job title."
+    },
+    {
+      "t": 1704.42,
+      "text": "For example?"
+    },
+    {
+      "t": 1705.42,
+      "text": "I'm a project manager."
+    },
+    {
+      "t": 1707.3,
+      "text": "Or I'm a software engineer."
+    },
+    {
+      "t": 1709.38,
+      "text": "Perfect."
+    },
+    {
+      "t": 1710.38,
+      "text": "Then you can add more details."
+    },
+    {
+      "t": 1712.38,
+      "text": "Let's give a practical example."
+    },
+    {
+      "t": 1714.06,
+      "text": "Sure."
+    },
+    {
+      "t": 1715.06,
+      "text": "I'm a marketing specialist."
+    },
+    {
+      "t": 1716.52,
+      "text": "I manage social media campaigns and analyze customer data."
+    },
+    {
+      "t": 1721.02,
+      "text": "That's very clear."
+    },
+    {
+      "t": 1722.58,
+      "text": "Another example."
+    },
+    {
+      "t": 1723.66,
+      "text": "I'm an accountant."
+    },
+    {
+      "t": 1724.74,
+      "text": "I prepare financial reports and manage company budgets."
+    },
+    {
+      "t": 1728.54,
+      "text": "I like that."
+    },
+    {
+      "t": 1729.54,
+      "text": "It's simple but professional."
+    },
+    {
+      "t": 1731.46,
+      "text": "Exactly."
+    },
+    {
+      "t": 1732.46,
+      "text": "Always try to add what you do, not just your title."
+    },
+    {
+      "t": 1736.26,
+      "text": "Because job titles alone are sometimes not enough."
+    },
+    {
+      "t": 1739.34,
+      "text": "Right."
+    },
+    {
+      "t": 1740.34,
+      "text": "For example, I'm a business analyst."
+    },
+    {
+      "t": 1743.06,
+      "text": "I work with data to help companies make better decisions."
+    },
+    {
+      "t": 1746.9,
+      "text": "That explains the value of the job."
+    },
+    {
+      "t": 1749.14,
+      "text": "Yes, and that's very important in business English."
+    },
+    {
+      "t": 1752.86,
+      "text": "Now let's talk about where you work."
+    },
+    {
+      "t": 1755.54,
+      "text": "Good idea."
+    },
+    {
+      "t": 1756.54,
+      "text": "This is another common question."
+    },
+    {
+      "t": 1758.86,
+      "text": "Someone might ask, where do you work?"
+    },
+    {
+      "t": 1761.12,
+      "text": "You can say, I work at, or I work for."
+    },
+    {
+      "t": 1764.9,
+      "text": "What's the difference?"
+    },
+    {
+      "t": 1766.4,
+      "text": "At is for a place."
+    },
+    {
+      "t": 1768.3,
+      "text": "For is for a company."
+    },
+    {
+      "t": 1770.12,
+      "text": "Give us an example."
+    },
+    {
+      "t": 1771.44,
+      "text": "I work at a bank."
+    },
+    {
+      "t": 1773.24,
+      "text": "And I work for HSBC."
+    },
+    {
+      "t": 1775.48,
+      "text": "Exactly."
+    },
+    {
+      "t": 1776.68,
+      "text": "You can also say, I work in."
+    },
+    {
+      "t": 1779.28,
+      "text": "When do we use in?"
+    },
+    {
+      "t": 1781.2,
+      "text": "For industries or environments."
+    },
+    {
+      "t": 1783.76,
+      "text": "For example, I work in finance."
+    },
+    {
+      "t": 1786.56,
+      "text": "That's very useful."
+    },
+    {
+      "t": 1788.36,
+      "text": "Another example, I work in the healthcare industry."
+    },
+    {
+      "t": 1791.8,
+      "text": "Nice."
+    },
+    {
+      "t": 1792.84,
+      "text": "You can also say, I work from home."
+    },
+    {
+      "t": 1795.64,
+      "text": "That's very common now."
+    },
+    {
+      "t": 1797.36,
+      "text": "Yes."
+    },
+    {
+      "t": 1798.36,
+      "text": "Or I work remotely."
+    },
+    {
+      "t": 1800.0,
+      "text": "Let's build a full answer."
+    },
+    {
+      "t": 1802.16,
+      "text": "Sure, I'm a software developer."
+    },
+    {
+      "t": 1804.84,
+      "text": "I work for a tech company and I mostly work from home."
+    },
+    {
+      "t": 1808.52,
+      "text": "That's a perfect answer."
+    },
+    {
+      "t": 1810.48,
+      "text": "Now let's talk about describing your responsibilities."
+    },
+    {
+      "t": 1814.08,
+      "text": "This is where you really show your English skills."
+    },
+    {
+      "t": 1817.0,
+      "text": "Exactly."
+    },
+    {
+      "t": 1818.16,
+      "text": "You can say, my main responsibility is to..."
+    },
+    {
+      "t": 1821.96,
+      "text": "For example?"
+    },
+    {
+      "t": 1823.28,
+      "text": "My main responsibility is to manage client accounts."
+    },
+    {
+      "t": 1827.24,
+      "text": "Good."
+    },
+    {
+      "t": 1828.08,
+      "text": "Or, my responsibilities include organizing meetings, preparing reports, and communicating with clients."
+    },
+    {
+      "t": 1835.08,
+      "text": "That's very professional."
+    },
+    {
+      "t": 1836.78,
+      "text": "Let's give more examples."
+    },
+    {
+      "t": 1838.58,
+      "text": "Okay."
+    },
+    {
+      "t": 1839.38,
+      "text": "I work in customer service."
+    },
+    {
+      "t": 1841.48,
+      "text": "I handle customer inquiries and resolve complaints."
+    },
+    {
+      "t": 1844.88,
+      "text": "That's clear."
+    },
+    {
+      "t": 1845.98,
+      "text": "I'm a sales executive."
+    },
+    {
+      "t": 1847.78,
+      "text": "I meet clients, present products, and close deals."
+    },
+    {
+      "t": 1851.58,
+      "text": "That sounds very business-focused."
+    },
+    {
+      "t": 1853.88,
+      "text": "Exactly."
+    },
+    {
+      "t": 1855.08,
+      "text": "So what about someone in HR?"
+    },
+    {
+      "t": 1857.78,
+      "text": "Good example, I work in HR."
+    },
+    {
+      "t": 1860.42,
+      "text": "I recruit new employees and manage training programs."
+    },
+    {
+      "t": 1864.18,
+      "text": "Nice."
+    },
+    {
+      "t": 1865.14,
+      "text": "The key is to use simple verbs like manage, organize,"
+    },
+    {
+      "t": 1869.06,
+      "text": "create, analyze, support."
+    },
+    {
+      "t": 1871.54,
+      "text": "Simple, but effective."
+    },
+    {
+      "t": 1873.46,
+      "text": "Now let's talk about your daily routine at work."
+    },
+    {
+      "t": 1876.9,
+      "text": "That's another common topic."
+    },
+    {
+      "t": 1878.78,
+      "text": "You can describe your day step by step."
+    },
+    {
+      "t": 1881.58,
+      "text": "Give us an example."
+    },
+    {
+      "t": 1882.98,
+      "text": "I start my day by checking emails."
+    },
+    {
+      "t": 1885.34,
+      "text": "Then I attend meetings."
+    },
+    {
+      "t": 1887.28,
+      "text": "After that, I work on my main tasks."
+    },
+    {
+      "t": 1890.04,
+      "text": "In the afternoon, I collaborate with my team."
+    },
+    {
+      "t": 1892.64,
+      "text": "That's very clear and structured."
+    },
+    {
+      "t": 1894.92,
+      "text": "Yes, structure helps a lot."
+    },
+    {
+      "t": 1897.52,
+      "text": "Let me try one."
+    },
+    {
+      "t": 1898.76,
+      "text": "Go ahead."
+    },
+    {
+      "t": 1899.76,
+      "text": "I usually start work at 9."
+    },
+    {
+      "t": 1902.32,
+      "text": "First I review my tasks, then I work on projects."
+    },
+    {
+      "t": 1905.76,
+      "text": "In the afternoon, I have calls with clients."
+    },
+    {
+      "t": 1908.4,
+      "text": "I finish around 6."
+    },
+    {
+      "t": 1910.16,
+      "text": "Perfect."
+    },
+    {
+      "t": 1911.16,
+      "text": "That's exactly how to do it."
+    },
+    {
+      "t": 1913.0,
+      "text": "Now let's talk about who you work with."
+    },
+    {
+      "t": 1915.36,
+      "text": "Yes, your team and colleagues."
+    },
+    {
+      "t": 1917.8,
+      "text": "You can say, I work with a team of, for example,"
+    },
+    {
+      "t": 1921.76,
+      "text": "I work with a team of five engineers."
+    },
+    {
+      "t": 1924.7,
+      "text": "Or I collaborate with different departments."
+    },
+    {
+      "t": 1927.64,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 1929.56,
+      "text": "What about your boss?"
+    },
+    {
+      "t": 1931.12,
+      "text": "You can say, I report to the marketing manager."
+    },
+    {
+      "t": 1934.6,
+      "text": "Good phrase."
+    },
+    {
+      "t": 1935.68,
+      "text": "Or I work under the sales director."
+    },
+    {
+      "t": 1938.52,
+      "text": "That's also common."
+    },
+    {
+      "t": 1939.82,
+      "text": "If you are the boss, you can say,"
+    },
+    {
+      "t": 1942.08,
+      "text": "I manage a team of 10 people."
+    },
+    {
+      "t": 1944.66,
+      "text": "That shows leadership."
+    },
+    {
+      "t": 1946.32,
+      "text": "Now let's talk about what you like about your job."
+    },
+    {
+      "t": 1949.28,
+      "text": "This is important in interviews and conversations."
+    },
+    {
+      "t": 1952.52,
+      "text": "You can say, I enjoy, for example,"
+    },
+    {
+      "t": 1956.14,
+      "text": "I enjoy working with my team."
+    },
+    {
+      "t": 1958.36,
+      "text": "Nice."
+    },
+    {
+      "t": 1959.28,
+      "text": "I enjoy solving problems."
+    },
+    {
+      "t": 1961.44,
+      "text": "That sounds good."
+    },
+    {
+      "t": 1962.64,
+      "text": "Or I love the flexibility of my job."
+    },
+    {
+      "t": 1965.8,
+      "text": "That's very modern."
+    },
+    {
+      "t": 1967.4,
+      "text": "You can also say, I find my job rewarding."
+    },
+    {
+      "t": 1971.08,
+      "text": "That's a great phrase."
+    },
+    {
+      "t": 1972.76,
+      "text": "Now what about challenges?"
+    },
+    {
+      "t": 1975.0,
+      "text": "Yes, how do we talk about them professionally?"
+    },
+    {
+      "t": 1978.28,
+      "text": "Use soft language."
+    },
+    {
+      "t": 1980.24,
+      "text": "For example, sometimes the workload can be heavy."
+    },
+    {
+      "t": 1984.04,
+      "text": "That sounds polite."
+    },
+    {
+      "t": 1985.52,
+      "text": "Or managing deadlines can be challenging."
+    },
+    {
+      "t": 1988.84,
+      "text": "Very professional."
+    },
+    {
+      "t": 1990.4,
+      "text": "Avoid strong negative words like, I hate my job."
+    },
+    {
+      "t": 1994.56,
+      "text": "Yes, especially in business settings."
+    },
+    {
+      "t": 1997.32,
+      "text": "Now let's do a role play."
+    },
+    {
+      "t": 1999.44,
+      "text": "Great idea."
+    },
+    {
+      "t": 2000.6,
+      "text": "I'll start."
+    },
+    {
+      "t": 2001.72,
+      "text": "Hi, nice to meet you."
+    },
+    {
+      "t": 2003.32,
+      "text": "Nice to meet you too."
+    },
+    {
+      "t": 2004.44,
+      "text": "What do you do?"
+    },
+    {
+      "t": 2005.56,
+      "text": "I'm a financial analyst."
+    },
+    {
+      "t": 2007.4,
+      "text": "I work for an investment firm."
+    },
+    {
+      "t": 2009.46,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 2010.64,
+      "text": "What do you do exactly?"
+    },
+    {
+      "t": 2012.12,
+      "text": "I analyze market trends and prepare reports for clients."
+    },
+    {
+      "t": 2016.08,
+      "text": "That's impressive."
+    },
+    {
+      "t": 2017.28,
+      "text": "Do you enjoy your job?"
+    },
+    {
+      "t": 2018.76,
+      "text": "Yes, I really enjoy working with data"
+    },
+    {
+      "t": 2021.12,
+      "text": "and solving problems."
+    },
+    {
+      "t": 2022.64,
+      "text": "That's great."
+    },
+    {
+      "t": 2023.6,
+      "text": "Now your turn."
+    },
+    {
+      "t": 2024.8,
+      "text": "Okay."
+    },
+    {
+      "t": 2025.64,
+      "text": "Hi, I'm Jack."
+    },
+    {
+      "t": 2026.84,
+      "text": "I'm a project manager."
+    },
+    {
+      "t": 2028.44,
+      "text": "Nice to meet you."
+    },
+    {
+      "t": 2029.64,
+      "text": "What do you do as a project manager?"
+    },
+    {
+      "t": 2032.08,
+      "text": "I manage projects, coordinate teams,"
+    },
+    {
+      "t": 2034.6,
+      "text": "and make sure everything is delivered on time."
+    },
+    {
+      "t": 2037.4,
+      "text": "That sounds like a lot of responsibility."
+    },
+    {
+      "t": 2039.76,
+      "text": "Yes, it can be challenging, but I enjoy it."
+    },
+    {
+      "t": 2042.84,
+      "text": "Perfect."
+    },
+    {
+      "t": 2043.68,
+      "text": "That felt very natural."
+    },
+    {
+      "t": 2045.48,
+      "text": "Yes, and very practical."
+    },
+    {
+      "t": 2047.48,
+      "text": "Now let's talk about career goals."
+    },
+    {
+      "t": 2050.0,
+      "text": "Another important topic."
+    },
+    {
+      "t": 2051.6,
+      "text": "Someone might ask,"
+    },
+    {
+      "t": 2053.0,
+      "text": "where do you see yourself in the future?"
+    },
+    {
+      "t": 2055.44,
+      "text": "You can say, I'd like to."
+    },
+    {
+      "t": 2057.52,
+      "text": "For example, I'd like to become a senior manager."
+    },
+    {
+      "t": 2061.28,
+      "text": "Or I want to develop my skills in leadership."
+    },
+    {
+      "t": 2064.52,
+      "text": "That's excellent."
+    },
+    {
+      "t": 2065.8,
+      "text": "You can also say I'm working towards a promotion."
+    },
+    {
+      "t": 2069.2,
+      "text": "Yes, very professional."
+    },
+    {
+      "t": 2071.36,
+      "text": "Now let's talk about common mistakes."
+    },
+    {
+      "t": 2074.2,
+      "text": "This is very important."
+    },
+    {
+      "t": 2076.12,
+      "text": "Mistake one, I am engineer."
+    },
+    {
+      "t": 2079.24,
+      "text": "Correct is I am an engineer."
+    },
+    {
+      "t": 2081.92,
+      "text": "Mistake two, I work in Google."
+    },
+    {
+      "t": 2085.08,
+      "text": "Correct is, I work at Google or I work for Google."
+    },
+    {
+      "t": 2089.08,
+      "text": "Mistake three, I am experienced."
+    },
+    {
+      "t": 2092.28,
+      "text": "Correct is, I am experienced."
+    },
+    {
+      "t": 2094.78,
+      "text": "These small mistakes can change how professional you sound."
+    },
+    {
+      "t": 2098.74,
+      "text": "Exactly."
+    },
+    {
+      "t": 2100.0,
+      "text": "Let's do a quick practice."
+    },
+    {
+      "t": 2102.04,
+      "text": "Okay, I work in a hospital."
+    },
+    {
+      "t": 2104.52,
+      "text": "Correct."
+    },
+    {
+      "t": 2105.36,
+      "text": "I am a teacher."
+    },
+    {
+      "t": 2106.68,
+      "text": "Correct."
+    },
+    {
+      "t": 2107.52,
+      "text": "I am very experienced."
+    },
+    {
+      "t": 2109.64,
+      "text": "Incorrect, it should be experienced."
+    },
+    {
+      "t": 2112.44,
+      "text": "Great."
+    },
+    {
+      "t": 2113.28,
+      "text": "Now let's do one final role play."
+    },
+    {
+      "t": 2115.88,
+      "text": "Okay."
+    },
+    {
+      "t": 2116.72,
+      "text": "Tell me about your job."
+    },
+    {
+      "t": 2118.3,
+      "text": "I'm a digital marketer."
+    },
+    {
+      "t": 2119.68,
+      "text": "I work for an online company."
+    },
+    {
+      "t": 2121.8,
+      "text": "What do you do there?"
+    },
+    {
+      "t": 2123.12,
+      "text": "I create marketing campaigns"
+    },
+    {
+      "t": 2124.92,
+      "text": "and analyze performance data."
+    },
+    {
+      "t": 2127.16,
+      "text": "Do you enjoy your job?"
+    },
+    {
+      "t": 2128.72,
+      "text": "Yes, I enjoy the creative aspect"
+    },
+    {
+      "t": 2130.8,
+      "text": "and working with data."
+    },
+    {
+      "t": 2132.5,
+      "text": "What are your future goals?"
+    },
+    {
+      "t": 2134.24,
+      "text": "I'd like to become a marketing manager."
+    },
+    {
+      "t": 2136.6,
+      "text": "Excellent answer."
+    },
+    {
+      "t": 2137.82,
+      "text": "That was very useful."
+    },
+    {
+      "t": 2139.32,
+      "text": "Yes, and very realistic."
+    },
+    {
+      "t": 2141.52,
+      "text": "Let's wrap up."
+    },
+    {
+      "t": 2142.72,
+      "text": "Today, we learned how to talk about your job clearly and confidently."
+    },
+    {
+      "t": 2147.28,
+      "text": "Use simple phrases."
+    },
+    {
+      "t": 2148.78,
+      "text": "Be clear and natural."
+    },
+    {
+      "t": 2150.54,
+      "text": "Add details about what you do."
+    },
+    {
+      "t": 2152.74,
+      "text": "And practice regularly."
+    },
+    {
+      "t": 2154.62,
+      "text": "Now it's your turn."
+    },
+    {
+      "t": 2156.12,
+      "text": "What do you do?"
+    },
+    {
+      "t": 2157.42,
+      "text": "Try to answer in English using today's phrases."
+    },
+    {
+      "t": 2160.66,
+      "text": "Write your answer and practice speaking."
+    },
+    {
+      "t": 2163.06,
+      "text": "Thank you so much for watching."
+    },
+    {
+      "t": 2165.04,
+      "text": "Keep practicing and improving."
+    },
+    {
+      "t": 2166.9,
+      "text": "We'll see you in the next lesson."
+    },
+    {
+      "t": 2168.8,
+      "text": "Take care."
+    },
+    {
+      "t": 2169.8,
+      "text": "Goodbye."
+    },
+    {
+      "t": 2179.6,
+      "text": "Hello, everyone. We're really happy to have you with us today."
+    },
+    {
+      "t": 2183.08,
+      "text": "Hi, everyone. Thanks for joining us. If you're here to improve your English for real business"
+    },
+    {
+      "t": 2188.32,
+      "text": "situations, you're absolutely in the right place."
+    },
+    {
+      "t": 2191.48,
+      "text": "I'm Emily."
+    },
+    {
+      "t": 2192.84,
+      "text": "And I'm Jack. And on this channel, we help you speak clear, natural English with confidence"
+    },
+    {
+      "t": 2198.32,
+      "text": "in professional environments."
+    },
+    {
+      "t": 2200.28,
+      "text": "If you enjoy this lesson, don't forget to give us a thumbs up and subscribe."
+    },
+    {
+      "t": 2205.04,
+      "text": "Yes, your support really helps us continue creating practical lessons like this."
+    },
+    {
+      "t": 2210.28,
+      "text": "Thank you so much for being here."
+    },
+    {
+      "t": 2212.24,
+      "text": "So Jack, what are we talking about today?"
+    },
+    {
+      "t": 2214.92,
+      "text": "Today we have a very important and practical topic, how to talk about your job in business"
+    },
+    {
+      "t": 2220.44,
+      "text": "English."
+    },
+    {
+      "t": 2221.44,
+      "text": "That's such a useful topic."
+    },
+    {
+      "t": 2223.48,
+      "text": "Whether you're in a meeting, a job interview, or just networking, you need to talk about"
+    },
+    {
+      "t": 2228.36,
+      "text": "your job clearly and confidently."
+    },
+    {
+      "t": 2231.16,
+      "text": "Exactly."
+    },
+    {
+      "t": 2232.16,
+      "text": "And today, we're going to go much deeper."
+    },
+    {
+      "t": 2234.7,
+      "text": "We'll give you real examples, useful phrases, and natural conversations."
+    },
+    {
+      "t": 2239.12,
+      "text": "Yes, and everything will be practical."
+    },
+    {
+      "t": 2241.92,
+      "text": "No complicated theory."
+    },
+    {
+      "t": 2243.84,
+      "text": "Just real English you can use immediately."
+    },
+    {
+      "t": 2246.92,
+      "text": "Sounds great."
+    },
+    {
+      "t": 2248.08,
+      "text": "So Emily, let's start with the most basic question people ask about jobs."
+    },
+    {
+      "t": 2252.56,
+      "text": "Of course."
+    },
+    {
+      "t": 2253.56,
+      "text": "The most common question is, what do you do?"
+    },
+    {
+      "t": 2256.76,
+      "text": "Simple, short, and very natural."
+    },
+    {
+      "t": 2259.4,
+      "text": "Yes."
+    },
+    {
+      "t": 2260.4,
+      "text": "Many learners say, what is your job?"
+    },
+    {
+      "t": 2263.0,
+      "text": "Which is okay, but what do you do sounds much more natural in everyday conversation."
+    },
+    {
+      "t": 2269.02,
+      "text": "So how do we answer that question?"
+    },
+    {
+      "t": 2271.1,
+      "text": "The easiest way is, I'm a plus your job title."
+    },
+    {
+      "t": 2275.86,
+      "text": "For example, I'm a project manager."
+    },
+    {
+      "t": 2278.7,
+      "text": "Or I'm a software engineer."
+    },
+    {
+      "t": 2281.42,
+      "text": "Or I'm an accountant."
+    },
+    {
+      "t": 2283.22,
+      "text": "Exactly."
+    },
+    {
+      "t": 2284.3,
+      "text": "And if you want to sound more professional, you can add more detail."
+    },
+    {
+      "t": 2287.9,
+      "text": "For example, I'm a project manager."
+    },
+    {
+      "t": 2290.9,
+      "text": "I manage cross-functional teams and deliver projects on time."
+    },
+    {
+      "t": 2294.9,
+      "text": "That already sounds much stronger than just saying your job title."
+    },
+    {
+      "t": 2298.9,
+      "text": "Let's give a few more real-world examples."
+    },
+    {
+      "t": 2300.9,
+      "text": "Sure. I'm a marketing specialist."
+    },
+    {
+      "t": 2303.9,
+      "text": "I focus on digital campaigns and customer engagement."
+    },
+    {
+      "t": 2307.9,
+      "text": "I'm a customer service representative."
+    },
+    {
+      "t": 2309.9,
+      "text": "I handle client inquiries and resolve issues."
+    },
+    {
+      "t": 2312.9,
+      "text": "I'm a data analyst."
+    },
+    {
+      "t": 2314.9,
+      "text": "I analyze data and create reports to support business decisions."
+    },
+    {
+      "t": 2320.06,
+      "text": "Notice something important here."
+    },
+    {
+      "t": 2321.86,
+      "text": "Yes, these sentences are simple but very clear and professional."
+    },
+    {
+      "t": 2326.94,
+      "text": "Now let's go one step further."
+    },
+    {
+      "t": 2329.66,
+      "text": "Sometimes people ask, can you tell me more about your role?"
+    },
+    {
+      "t": 2332.9,
+      "text": "Good point."
+    },
+    {
+      "t": 2333.9,
+      "text": "This is where you explain your responsibilities."
+    },
+    {
+      "t": 2336.74,
+      "text": "So how can we do that?"
+    },
+    {
+      "t": 2338.14,
+      "text": "You can say, my main responsibility is or I'm responsible for X."
+    },
+    {
+      "t": 2344.7,
+      "text": "For example, I'm responsible for managing client accounts and maintaining relationships."
+    },
+    {
+      "t": 2350.54,
+      "text": "Or my main responsibility is to oversee project timelines and ensure delivery."
+    },
+    {
+      "t": 2356.98,
+      "text": "That already sounds much stronger than just saying your job title."
+    },
+    {
+      "t": 2360.62,
+      "text": "Let's give a few more real-world examples."
+    },
+    {
+      "t": 2363.3,
+      "text": "Sure, I'm a team leader."
+    },
+    {
+      "t": 2365.78,
+      "text": "I manage a group of five people and I'm responsible for planning projects and tracking"
+    },
+    {
+      "t": 2370.62,
+      "text": "progress."
+    },
+    {
+      "t": 2371.62,
+      "text": "That's excellent. Clear structure and easy to understand."
+    },
+    {
+      "t": 2375.06,
+      "text": "Now let's talk about where you work."
+    },
+    {
+      "t": 2377.38,
+      "text": "Yes, this is another very common question."
+    },
+    {
+      "t": 2380.18,
+      "text": "Where do you work?"
+    },
+    {
+      "t": 2381.46,
+      "text": "You can answer in different ways."
+    },
+    {
+      "t": 2383.66,
+      "text": "For example, I work at Amazon."
+    },
+    {
+      "t": 2386.42,
+      "text": "Or I work for a multinational company."
+    },
+    {
+      "t": 2389.82,
+      "text": "Or I work in the finance industry."
+    },
+    {
+      "t": 2392.54,
+      "text": "Let's clarify something important."
+    },
+    {
+      "t": 2394.94,
+      "text": "Yes, because many learners make mistakes here."
+    },
+    {
+      "t": 2397.86,
+      "text": "We say work at for a place, work for for a company, and work in for an industry."
+    },
+    {
+      "t": 2404.98,
+      "text": "Exactly. For example, I work at a hospital. I work for a healthcare company. I work in the medical field."
+    },
+    {
+      "t": 2412.98,
+      "text": "Now let's talk about daily tasks. This is where you describe what you actually do every day."
+    },
+    {
+      "t": 2418.9,
+      "text": "Yes, this is very important in business communication."
+    },
+    {
+      "t": 2422.34,
+      "text": "You can say, on a typical day, I..."
+    },
+    {
+      "t": 2425.46,
+      "text": "For example, on a typical day, I check emails, attend meetings, and coordinate with my team."
+    },
+    {
+      "t": 2431.46,
+      "text": "Or I spend most of my time analyzing data and preparing reports."
+    },
+    {
+      "t": 2436.66,
+      "text": "Let's give a more detailed example."
+    },
+    {
+      "t": 2438.82,
+      "text": "Sure. I start my day by reviewing my emails and setting priorities. Then I attend team meetings."
+    },
+    {
+      "t": 2446.18,
+      "text": "In the afternoon, I focus on project work and client communication."
+    },
+    {
+      "t": 2450.58,
+      "text": "That sounds very professional and structured."
+    },
+    {
+      "t": 2453.3,
+      "text": "Now, let's talk about talking about your team."
+    },
+    {
+      "t": 2456.34,
+      "text": "Yes, this is common in meetings and introductions."
+    },
+    {
+      "t": 2459.5,
+      "text": "You can say, I work with a team of..."
+    },
+    {
+      "t": 2462.54,
+      "text": "For example, I work with a team of engineers and designers."
+    },
+    {
+      "t": 2466.86,
+      "text": "Or, I collaborate closely with the sales and marketing teams."
+    },
+    {
+      "t": 2471.34,
+      "text": "And if you're a manager..."
+    },
+    {
+      "t": 2472.78,
+      "text": "You can say, I manage a team of 10 people."
+    },
+    {
+      "t": 2476.18,
+      "text": "Or, I lead a department focused on product development."
+    },
+    {
+      "t": 2480.02,
+      "text": "Now, let's talk about achievements."
+    },
+    {
+      "t": 2482.5,
+      "text": "This is very useful in interviews and performance discussions."
+    },
+    {
+      "t": 2486.38,
+      "text": "Yes, this is where you show your value."
+    },
+    {
+      "t": 2488.82,
+      "text": "You can say, I recently completed..."
+    },
+    {
+      "t": 2491.86,
+      "text": "For example, I recently completed a major project"
+    },
+    {
+      "t": 2495.38,
+      "text": "ahead of schedule."
+    },
+    {
+      "t": 2496.66,
+      "text": "Or I helped increase sales by 20% last quarter."
+    },
+    {
+      "t": 2501.06,
+      "text": "Let's make it more natural."
+    },
+    {
+      "t": 2502.7,
+      "text": "Sure, one of my key achievements"
+    },
+    {
+      "t": 2505.26,
+      "text": "was improving our customer response time."
+    },
+    {
+      "t": 2507.84,
+      "text": "That sounds strong and confident."
+    },
+    {
+      "t": 2509.98,
+      "text": "Now let's talk about challenges."
+    },
+    {
+      "t": 2512.42,
+      "text": "Yes, because every job has challenges."
+    },
+    {
+      "t": 2515.34,
+      "text": "You can say, one challenge I face is..."
+    },
+    {
+      "t": 2518.42,
+      "text": "For example, one challenge I face"
+    },
+    {
+      "t": 2520.78,
+      "text": "is managing tight deadlines,"
+    },
+    {
+      "t": 2522.78,
+      "text": "or it can be difficult to balance multiple priorities."
+    },
+    {
+      "t": 2526.68,
+      "text": "Notice how we keep the tone professional."
+    },
+    {
+      "t": 2529.02,
+      "text": "Yes, we don't complain, we explain."
+    },
+    {
+      "t": 2532.46,
+      "text": "Now let's talk about job satisfaction."
+    },
+    {
+      "t": 2535.18,
+      "text": "This is very common in conversations."
+    },
+    {
+      "t": 2537.9,
+      "text": "Someone might ask, do you like your job?"
+    },
+    {
+      "t": 2540.42,
+      "text": "You can say, yes, I really enjoy it."
+    },
+    {
+      "t": 2543.34,
+      "text": "Or, I find it very rewarding."
+    },
+    {
+      "t": 2545.74,
+      "text": "And if you want to explain why,"
+    },
+    {
+      "t": 2547.98,
+      "text": "I enjoy working with my team and solving problems."
+    },
+    {
+      "t": 2551.1,
+      "text": "Or, I like the challenges and opportunities to learn."
+    },
+    {
+      "t": 2554.82,
+      "text": "And if you don't fully enjoy it,"
+    },
+    {
+      "t": 2556.94,
+      "text": "you can say, it has its challenges,"
+    },
+    {
+      "t": 2559.34,
+      "text": "but I'm learning a lot."
+    },
+    {
+      "t": 2560.62,
+      "text": "That's a very professional answer."
+    },
+    {
+      "t": 2562.72,
+      "text": "Now let's move into a realistic conversation example."
+    },
+    {
+      "t": 2566.5,
+      "text": "Great idea."
+    },
+    {
+      "t": 2567.46,
+      "text": "Hi, nice to meet you."
+    },
+    {
+      "t": 2569.14,
+      "text": "What do you do?"
+    },
+    {
+      "t": 2570.18,
+      "text": "Nice to meet you too."
+    },
+    {
+      "t": 2571.58,
+      "text": "I'm a business analyst."
+    },
+    {
+      "t": 2573.1,
+      "text": "I work for a consulting firm."
+    },
+    {
+      "t": 2574.74,
+      "text": "How about you?"
+    },
+    {
+      "t": 2575.66,
+      "text": "I'm a human resources manager."
+    },
+    {
+      "t": 2577.78,
+      "text": "I handle recruitment and employee relations."
+    },
+    {
+      "t": 2580.86,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 2582.22,
+      "text": "What does your typical day look like?"
+    },
+    {
+      "t": 2584.16,
+      "text": "I usually start with emails,"
+    },
+    {
+      "t": 2586.3,
+      "text": "then I have interviews or meetings."
+    },
+    {
+      "t": 2588.5,
+      "text": "In the afternoon, I focus on HR strategies"
+    },
+    {
+      "t": 2591.5,
+      "text": "and team support."
+    },
+    {
+      "t": 2592.78,
+      "text": "That's great."
+    },
+    {
+      "t": 2593.82,
+      "text": "I mostly work with data and reports."
+    },
+    {
+      "t": 2596.32,
+      "text": "I analyze business performance and provide insights."
+    },
+    {
+      "t": 2599.66,
+      "text": "That's a very natural conversation."
+    },
+    {
+      "t": 2602.28,
+      "text": "Yes, and it uses simple, practical English."
+    },
+    {
+      "t": 2605.34,
+      "text": "Let's do a more advanced example."
+    },
+    {
+      "t": 2607.78,
+      "text": "Okay."
+    },
+    {
+      "t": 2608.62,
+      "text": "Can you tell me about your role in more detail?"
+    },
+    {
+      "t": 2611.06,
+      "text": "Sure."
+    },
+    {
+      "t": 2611.98,
+      "text": "I'm a senior project manager."
+    },
+    {
+      "t": 2613.98,
+      "text": "I oversee multiple projects, coordinate teams,"
+    },
+    {
+      "t": 2616.98,
+      "text": "and ensure everything is delivered on time"
+    },
+    {
+      "t": 2619.54,
+      "text": "and within budget."
+    },
+    {
+      "t": 2620.7,
+      "text": "That's impressive."
+    },
+    {
+      "t": 2622.06,
+      "text": "What's the most challenging part of your job?"
+    },
+    {
+      "t": 2624.6,
+      "text": "Managing expectations and tight deadlines"
+    },
+    {
+      "t": 2627.04,
+      "text": "can be challenging, but I enjoy problem solving."
+    },
+    {
+      "t": 2630.04,
+      "text": "Excellent. That's very professional English."
+    },
+    {
+      "t": 2633.04,
+      "text": "Now let's talk about career goals."
+    },
+    {
+      "t": 2635.44,
+      "text": "Yes, this is common in interviews."
+    },
+    {
+      "t": 2638.08,
+      "text": "You can say, I'd like to."
+    },
+    {
+      "t": 2640.28,
+      "text": "For example, I'd like to move into a leadership role."
+    },
+    {
+      "t": 2643.8,
+      "text": "Or I want to develop my skills in strategy and management."
+    },
+    {
+      "t": 2647.8,
+      "text": "Now let's do a quick role play for a job interview."
+    },
+    {
+      "t": 2651.12,
+      "text": "Perfect."
+    },
+    {
+      "t": 2651.84,
+      "text": "Can you tell me about yourself?"
+    },
+    {
+      "t": 2653.64,
+      "text": "Sure. I'm a marketing professional"
+    },
+    {
+      "t": 2655.84,
+      "text": "with over five years of experience."
+    },
+    {
+      "t": 2658.22,
+      "text": "I specialize in digital marketing and campaign management."
+    },
+    {
+      "t": 2661.82,
+      "text": "What are your main responsibilities in your current role?"
+    },
+    {
+      "t": 2665.04,
+      "text": "I manage online campaigns, analyze performance data,"
+    },
+    {
+      "t": 2668.72,
+      "text": "and work with cross-functional teams to improve results."
+    },
+    {
+      "t": 2672.08,
+      "text": "Why are you looking for a new opportunity?"
+    },
+    {
+      "t": 2674.4,
+      "text": "I'm looking for new challenges and opportunities"
+    },
+    {
+      "t": 2676.84,
+      "text": "to grow professionally."
+    },
+    {
+      "t": 2678.32,
+      "text": "That's a strong and clear response."
+    },
+    {
+      "t": 2680.88,
+      "text": "Now let's wrap up with key tips."
+    },
+    {
+      "t": 2683.24,
+      "text": "First, keep your language simple and clear."
+    },
+    {
+      "t": 2686.52,
+      "text": "Second, always add a little detail, not just your job title."
+    },
+    {
+      "t": 2690.8,
+      "text": "Third, use real examples to explain your work."
+    },
+    {
+      "t": 2694.52,
+      "text": "Fourth, practice speaking out loud."
+    },
+    {
+      "t": 2696.92,
+      "text": "And most importantly, be confident."
+    },
+    {
+      "t": 2700.0,
+      "text": "Your English doesn't need to be perfect,"
+    },
+    {
+      "t": 2702.04,
+      "text": "just clear and natural."
+    },
+    {
+      "t": 2703.88,
+      "text": "So now it's your turn."
+    },
+    {
+      "t": 2706.04,
+      "text": "Try answering this question."
+    },
+    {
+      "t": 2707.84,
+      "text": "What do you do?"
+    },
+    {
+      "t": 2708.92,
+      "text": "Add your job, your responsibilities, and one example."
+    },
+    {
+      "t": 2712.8,
+      "text": "Practice it until it feels natural."
+    },
+    {
+      "t": 2715.12,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 2717.2,
+      "text": "We hope this helped you improve your business English."
+    },
+    {
+      "t": 2720.0,
+      "text": "Don't forget to like and subscribe,"
+    },
+    {
+      "t": 2722.04,
+      "text": "and we'll see you in the next lesson."
+    },
+    {
+      "t": 2724.04,
+      "text": "Bye, everyone."
+    },
+    {
+      "t": 2725.12,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 2726.28,
+      "text": "We're really happy to have you with us today."
+    },
+    {
+      "t": 2728.72,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 2729.56,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 2730.8,
+      "text": "If you're here to improve your English,"
+    },
+    {
+      "t": 2732.44,
+      "text": "you're in the right place."
+    },
+    {
+      "t": 2733.92,
+      "text": "I'm Emily."
+    },
+    {
+      "t": 2734.92,
+      "text": "And I'm Jack."
+    },
+    {
+      "t": 2736.08,
+      "text": "On this podcast, we help you speak clear, natural English"
+    },
+    {
+      "t": 2739.48,
+      "text": "with confidence in real life situations,"
+    },
+    {
+      "t": 2741.96,
+      "text": "especially in the business world."
+    },
+    {
+      "t": 2743.8,
+      "text": "If you enjoy this episode, please follow us"
+    },
+    {
+      "t": 2746.36,
+      "text": "and share it with your friends."
+    },
+    {
+      "t": 2747.92,
+      "text": "Yes, your support helps us so much."
+    },
+    {
+      "t": 2750.68,
+      "text": "Thank you for being here."
+    },
+    {
+      "t": 2752.16,
+      "text": "So Emily, what are we talking about today?"
+    },
+    {
+      "t": 2754.6,
+      "text": "Today, we have a very practical topic."
+    },
+    {
+      "t": 2757.3,
+      "text": "We're going to learn how to talk about your job"
+    },
+    {
+      "t": 2759.48,
+      "text": "in business English."
+    },
+    {
+      "t": 2760.92,
+      "text": "This is such an important topic,"
+    },
+    {
+      "t": 2762.52,
+      "text": "whether you're meeting new people,"
+    },
+    {
+      "t": 2764.04,
+      "text": "going to a job interview,"
+    },
+    {
+      "t": 2765.64,
+      "text": "or just having a casual conversation at work,"
+    },
+    {
+      "t": 2768.04,
+      "text": "you need to know how to describe your job clearly."
+    },
+    {
+      "t": 2771.12,
+      "text": "Exactly, and we're going to make it easy and practical."
+    },
+    {
+      "t": 2774.56,
+      "text": "We'll teach useful phrases, real examples,"
+    },
+    {
+      "t": 2777.12,
+      "text": "and we'll practice together."
+    },
+    {
+      "t": 2778.84,
+      "text": "Sounds perfect."
+    },
+    {
+      "t": 2780.08,
+      "text": "So Emily, before we start, how are you feeling today?"
+    },
+    {
+      "t": 2782.96,
+      "text": "I'm feeling great."
+    },
+    {
+      "t": 2783.96,
+      "text": "I had a productive morning."
+    },
+    {
+      "t": 2785.48,
+      "text": "How about you?"
+    },
+    {
+      "t": 2786.48,
+      "text": "I'm doing great too."
+    },
+    {
+      "t": 2787.56,
+      "text": "I'm really excited about this topic."
+    },
+    {
+      "t": 2789.52,
+      "text": "I think our listeners will learn a lot today."
+    },
+    {
+      "t": 2791.56,
+      "text": "I think so too."
+    },
+    {
+      "t": 2792.92,
+      "text": "OK, everyone, let's get started."
+    },
+    {
+      "t": 2795.2,
+      "text": "All right, let's begin with the most common question"
+    },
+    {
+      "t": 2797.96,
+      "text": "about jobs."
+    },
+    {
+      "t": 2799.2,
+      "text": "Emily, when you meet someone new,"
+    },
+    {
+      "t": 2800.92,
+      "text": "How do you ask about their job?"
+    },
+    {
+      "t": 2802.68,
+      "text": "Good question."
+    },
+    {
+      "t": 2803.84,
+      "text": "The most common way is to simply ask, what do you do?"
+    },
+    {
+      "t": 2807.52,
+      "text": "What do you do?"
+    },
+    {
+      "t": 2808.52,
+      "text": "That's it?"
+    },
+    {
+      "t": 2809.36,
+      "text": "Yes, it's very simple and natural."
+    },
+    {
+      "t": 2811.8,
+      "text": "You can also say, what do you do for a living?"
+    },
+    {
+      "t": 2814.58,
+      "text": "Can I say, what is your job?"
+    },
+    {
+      "t": 2816.44,
+      "text": "You can, but it sounds a bit formal."
+    },
+    {
+      "t": 2819.2,
+      "text": "Native speakers usually say, what do you do?"
+    },
+    {
+      "t": 2822.04,
+      "text": "Got it."
+    },
+    {
+      "t": 2822.88,
+      "text": "So what do you do is the best choice."
+    },
+    {
+      "t": 2825.2,
+      "text": "Now, how do I answer this question?"
+    },
+    {
+      "t": 2827.36,
+      "text": "The simplest way is to say I'm a plus your job title."
+    },
+    {
+      "t": 2831.56,
+      "text": "For example, I'm a teacher."
+    },
+    {
+      "t": 2833.44,
+      "text": "So I would say I'm a manager or I'm an engineer."
+    },
+    {
+      "t": 2836.96,
+      "text": "Perfect."
+    },
+    {
+      "t": 2837.84,
+      "text": "You can also add more details."
+    },
+    {
+      "t": 2839.88,
+      "text": "For example, I'm a teacher."
+    },
+    {
+      "t": 2841.68,
+      "text": "I teach English to adults."
+    },
+    {
+      "t": 2843.8,
+      "text": "I like that."
+    },
+    {
+      "t": 2844.48,
+      "text": "So first you say your job, then you explain a little more."
+    },
+    {
+      "t": 2847.96,
+      "text": "Exactly."
+    },
+    {
+      "t": 2849.0,
+      "text": "Let me give you some practical examples."
+    },
+    {
+      "t": 2851.36,
+      "text": "I'm a nurse."
+    },
+    {
+      "t": 2852.2,
+      "text": "I work in a hospital."
+    },
+    {
+      "t": 2853.64,
+      "text": "Or I'm a chef."
+    },
+    {
+      "t": 2854.84,
+      "text": "I run a small restaurant."
+    },
+    {
+      "t": 2856.56,
+      "text": "Those are great examples."
+    },
+    {
+      "t": 2858.0,
+      "text": "Let me try one."
+    },
+    {
+      "t": 2859.24,
+      "text": "I'm a sales executive."
+    },
+    {
+      "t": 2860.68,
+      "text": "I work for an international company"
+    },
+    {
+      "t": 2862.44,
+      "text": "and handle client relationships."
+    },
+    {
+      "t": 2864.52,
+      "text": "Excellent."
+    },
+    {
+      "t": 2865.2,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 2867.12,
+      "text": "What if someone doesn't have a job right now?"
+    },
+    {
+      "t": 2869.56,
+      "text": "You can say I'm currently looking for a job"
+    },
+    {
+      "t": 2872.28,
+      "text": "or I'm between jobs right now."
+    },
+    {
+      "t": 2874.56,
+      "text": "That sounds polite."
+    },
+    {
+      "t": 2875.8,
+      "text": "And what about students?"
+    },
+    {
+      "t": 2877.44,
+      "text": "Students can say I'm a student."
+    },
+    {
+      "t": 2879.6,
+      "text": "I study business management or I'm still in university."
+    },
+    {
+      "t": 2883.6,
+      "text": "Perfect."
+    },
+    {
+      "t": 2884.44,
+      "text": "Now let's practice."
+    },
+    {
+      "t": 2885.76,
+      "text": "Emily, what do you do?"
+    },
+    {
+      "t": 2887.12,
+      "text": "I'm a business English trainer."
+    },
+    {
+      "t": 2888.92,
+      "text": "I help professionals improve their communication skills."
+    },
+    {
+      "t": 2892.36,
+      "text": "That's a great answer."
+    },
+    {
+      "t": 2893.48,
+      "text": "My turn."
+    },
+    {
+      "t": 2894.44,
+      "text": "I'm a content creator."
+    },
+    {
+      "t": 2895.84,
+      "text": "I create educational podcasts and videos."
+    },
+    {
+      "t": 2898.76,
+      "text": "Very nice."
+    },
+    {
+      "t": 2899.8,
+      "text": "See how easy that is?"
+    },
+    {
+      "t": 2901.48,
+      "text": "Yes, it's simple when you know the structure."
+    },
+    {
+      "t": 2903.72,
+      "text": "Now let's talk about where you work."
+    },
+    {
+      "t": 2906.04,
+      "text": "This is another common question."
+    },
+    {
+      "t": 2908.08,
+      "text": "Right, someone might ask, where do you work?"
+    },
+    {
+      "t": 2910.76,
+      "text": "Exactly."
+    },
+    {
+      "t": 2911.72,
+      "text": "You can say, I work in an office"
+    },
+    {
+      "t": 2913.88,
+      "text": "or I work in a hospital."
+    },
+    {
+      "t": 2915.84,
+      "text": "Or you can mention the company."
+    },
+    {
+      "t": 2917.32,
+      "text": "I work at a marketing agency."
+    },
+    {
+      "t": 2919.32,
+      "text": "Yes, and you can also say,"
+    },
+    {
+      "t": 2921.16,
+      "text": "I work for a multinational company."
+    },
+    {
+      "t": 2923.84,
+      "text": "What's the difference between work at and work for?"
+    },
+    {
+      "t": 2927.24,
+      "text": "Good question."
+    },
+    {
+      "t": 2928.32,
+      "text": "Work at is for a place."
+    },
+    {
+      "t": 2930.44,
+      "text": "Work for is for a company or employer."
+    },
+    {
+      "t": 2933.6,
+      "text": "That's clear."
+    },
+    {
+      "t": 2934.68,
+      "text": "Let me try."
+    },
+    {
+      "t": 2935.64,
+      "text": "I work at a bank and I work for a financial company."
+    },
+    {
+      "t": 2939.32,
+      "text": "Perfect."
+    },
+    {
+      "t": 2940.16,
+      "text": "You got it."
+    },
+    {
+      "t": 2941.0,
+      "text": "What about remote work?"
+    },
+    {
+      "t": 2942.56,
+      "text": "You can say, I work from home or I work remotely."
+    },
+    {
+      "t": 2946.18,
+      "text": "That's very common these days."
+    },
+    {
+      "t": 2947.92,
+      "text": "Yes, it is."
+    },
+    {
+      "t": 2949.16,
+      "text": "Now let's talk about describing your responsibilities."
+    },
+    {
+      "t": 2952.72,
+      "text": "This is where you explain what you actually do, right?"
+    },
+    {
+      "t": 2955.8,
+      "text": "Exactly."
+    },
+    {
+      "t": 2956.76,
+      "text": "You can say, my main responsibility is to..."
+    },
+    {
+      "t": 2960.24,
+      "text": "For example, my main responsibility is to manage a team."
+    },
+    {
+      "t": 2963.92,
+      "text": "Yes, or my responsibilities include preparing reports,"
+    },
+    {
+      "t": 2968.2,
+      "text": "attending meetings, and communicating with clients."
+    },
+    {
+      "t": 2971.48,
+      "text": "Let's give more practical examples."
+    },
+    {
+      "t": 2973.64,
+      "text": "Sure. I work in customer service."
+    },
+    {
+      "t": 2976.2,
+      "text": "I help customers solve problems and answer their questions."
+    },
+    {
+      "t": 2980.04,
+      "text": "I'm a project manager."
+    },
+    {
+      "t": 2981.32,
+      "text": "I plan projects, coordinate teams,"
+    },
+    {
+      "t": 2983.72,
+      "text": "and ensure deadlines are met."
+    },
+    {
+      "t": 2985.52,
+      "text": "Excellent. And I'm an accountant."
+    },
+    {
+      "t": 2987.98,
+      "text": "I manage financial records and prepare budgets."
+    },
+    {
+      "t": 2991.32,
+      "text": "Very professional."
+    },
+    {
+      "t": 2992.64,
+      "text": "Notice how we use simple verbs."
+    },
+    {
+      "t": 2995.04,
+      "text": "Yes. Plan, manage, prepare, help, simple and clear."
+    },
+    {
+      "t": 3000.04,
+      "text": "Exactly. Now let's talk about describing a typical workday."
+    },
+    {
+      "t": 3004.24,
+      "text": "This is very useful in conversations and interviews."
+    },
+    {
+      "t": 3008.04,
+      "text": "You can say, I usually start my day by checking emails."
+    },
+    {
+      "t": 3011.64,
+      "text": "Then I attend meetings and work on my tasks."
+    },
+    {
+      "t": 3014.84,
+      "text": "In the afternoon, I focus on projects and communicate with clients."
+    },
+    {
+      "t": 3018.84,
+      "text": "I usually finish work around 6 p.m."
+    },
+    {
+      "t": 3021.84,
+      "text": "Let's give a full example."
+    },
+    {
+      "t": 3023.84,
+      "text": "Okay. I wake up at 7 a.m., get ready, and start work at 9."
+    },
+    {
+      "t": 3028.84,
+      "text": "I check emails, attend meetings, and work on reports."
+    },
+    {
+      "t": 3032.84,
+      "text": "After lunch, I focus on client communication."
+    },
+    {
+      "t": 3035.52,
+      "text": "I finish work at 6 p.m."
+    },
+    {
+      "t": 3037.88,
+      "text": "That's perfect."
+    },
+    {
+      "t": 3038.88,
+      "text": "Clear and structured."
+    },
+    {
+      "t": 3040.28,
+      "text": "Now let's talk about colleagues."
+    },
+    {
+      "t": 3042.28,
+      "text": "Yes."
+    },
+    {
+      "t": 3043.28,
+      "text": "You can say, I work with a team of five people."
+    },
+    {
+      "t": 3046.48,
+      "text": "Or you can say, I have supportive colleagues."
+    },
+    {
+      "t": 3049.28,
+      "text": "And you can say, I report to my manager."
+    },
+    {
+      "t": 3051.96,
+      "text": "If you are the manager, you can say, I lead a team."
+    },
+    {
+      "t": 3055.2,
+      "text": "Exactly."
+    },
+    {
+      "t": 3056.2,
+      "text": "Now let's talk about what you like about your job."
+    },
+    {
+      "t": 3059.0,
+      "text": "You can say, I enjoy working with people."
+    },
+    {
+      "t": 3061.52,
+      "text": "Or I like the flexibility of my job."
+    },
+    {
+      "t": 3064.08,
+      "text": "I love the creative aspect of my work."
+    },
+    {
+      "t": 3066.68,
+      "text": "I find my job rewarding."
+    },
+    {
+      "t": 3068.84,
+      "text": "These are great expressions."
+    },
+    {
+      "t": 3070.48,
+      "text": "Now what about challenges?"
+    },
+    {
+      "t": 3072.8,
+      "text": "You can say, sometimes the workload is heavy."
+    },
+    {
+      "t": 3075.68,
+      "text": "Or it can be stressful during busy periods."
+    },
+    {
+      "t": 3078.8,
+      "text": "Meeting deadlines can be challenging."
+    },
+    {
+      "t": 3081.04,
+      "text": "Notice how we use polite language."
+    },
+    {
+      "t": 3083.12,
+      "text": "Yes, we don't say, I hate my job."
+    },
+    {
+      "t": 3085.96,
+      "text": "Exactly now let's do a role play great idea. Hi. Nice to meet you. What do you do? Nice to meet you, too"
+    },
+    {
+      "t": 3092.74,
+      "text": "I'm a marketing specialist. I work for a digital marketing company. That sounds interesting. What do you do exactly?"
+    },
+    {
+      "t": 3099.46,
+      "text": "My main responsibility is to create online campaigns and analyze their performance. That's great. Do you enjoy your job?"
+    },
+    {
+      "t": 3106.96,
+      "text": "Yes, I do. I enjoy being creative and working with different clients. What about challenges?"
+    },
+    {
+      "t": 3112.26,
+      "text": "Sometimes it can be stressful when deadlines are tight."
+    },
+    {
+      "t": 3115.76,
+      "text": "I understand."
+    },
+    {
+      "t": 3116.76,
+      "text": "That's very common."
+    },
+    {
+      "t": 3118.28,
+      "text": "What about you?"
+    },
+    {
+      "t": 3119.28,
+      "text": "What do you do?"
+    },
+    {
+      "t": 3120.28,
+      "text": "I'm a teacher."
+    },
+    {
+      "t": 3121.28,
+      "text": "I teach business English to professionals."
+    },
+    {
+      "t": 3123.26,
+      "text": "That sounds rewarding."
+    },
+    {
+      "t": 3124.26,
+      "text": "It is."
+    },
+    {
+      "t": 3125.26,
+      "text": "I enjoy helping people improve their communication skills."
+    },
+    {
+      "t": 3128.48,
+      "text": "Great conversation."
+    },
+    {
+      "t": 3129.48,
+      "text": "Yes."
+    },
+    {
+      "t": 3130.48,
+      "text": "Very natural."
+    },
+    {
+      "t": 3131.48,
+      "text": "Now, let's do a job interview example."
+    },
+    {
+      "t": 3134.16,
+      "text": "Good idea."
+    },
+    {
+      "t": 3135.16,
+      "text": "Good morning."
+    },
+    {
+      "t": 3136.16,
+      "text": "Can you tell me about yourself?"
+    },
+    {
+      "t": 3137.16,
+      "text": "Good morning."
+    },
+    {
+      "t": 3138.16,
+      "text": "I am a sales manager with five years of experience."
+    },
+    {
+      "t": 3140.92,
+      "text": "I currently work at a retail company where I lead a team and manage sales strategies."
+    },
+    {
+      "t": 3146.52,
+      "text": "What are your main responsibilities?"
+    },
+    {
+      "t": 3148.16,
+      "text": "I manage a team of 10 people, set sales targets, and analyze performance."
+    },
+    {
+      "t": 3153.64,
+      "text": "Why do you want this job?"
+    },
+    {
+      "t": 3155.16,
+      "text": "I'm looking for new challenges and opportunities to grow professionally."
+    },
+    {
+      "t": 3159.92,
+      "text": "Excellent answer."
+    },
+    {
+      "t": 3160.92,
+      "text": "Thank you."
+    },
+    {
+      "t": 3161.92,
+      "text": "That was very useful."
+    },
+    {
+      "t": 3162.92,
+      "text": "Yes, it shows how to speak professionally."
+    },
+    {
+      "t": 3165.72,
+      "text": "Now let's quickly review."
+    },
+    {
+      "t": 3167.44,
+      "text": "We learned how to ask, what do you do?"
+    },
+    {
+      "t": 3169.88,
+      "text": "And how to answer, I'm a."
+    },
+    {
+      "t": 3172.06,
+      "text": "We learned how to describe where you work."
+    },
+    {
+      "t": 3174.58,
+      "text": "And how to explain your responsibilities."
+    },
+    {
+      "t": 3176.84,
+      "text": "We practiced real conversations."
+    },
+    {
+      "t": 3179.14,
+      "text": "We learned useful phrases."
+    },
+    {
+      "t": 3180.92,
+      "text": "The most important thing is to keep it simple."
+    },
+    {
+      "t": 3183.9,
+      "text": "And speak with confidence."
+    },
+    {
+      "t": 3185.6,
+      "text": "Now it's your turn."
+    },
+    {
+      "t": 3187.24,
+      "text": "What do you do?"
+    },
+    {
+      "t": 3188.32,
+      "text": "Write your answer and practice speaking."
+    },
+    {
+      "t": 3190.72,
+      "text": "Don't be afraid of mistakes."
+    },
+    {
+      "t": 3192.42,
+      "text": "Keep practicing every day."
+    },
+    {
+      "t": 3194.48,
+      "text": "Before we finish, thank you for listening."
+    },
+    {
+      "t": 3196.66,
+      "text": "Your support means everything to us."
+    },
+    {
+      "t": 3199.08,
+      "text": "learning and stay confident. See you next time. Goodbye everyone."
+    }
+  ],
+  "lemmas": [
+    [
+      "work",
+      162
+    ],
+    [
+      "job",
+      84
+    ],
+    [
+      "say",
+      77
+    ],
+    [
+      "talk",
+      61
+    ],
+    [
+      "example",
+      54
+    ],
+    [
+      "business",
+      47
+    ],
+    [
+      "sound",
+      47
+    ],
+    [
+      "team",
+      45
+    ],
+    [
+      "english",
+      44
+    ],
+    [
+      "enjoy",
+      39
+    ],
+    [
+      "professional",
+      37
+    ],
+    [
+      "exactly",
+      37
+    ],
+    [
+      "great",
+      36
+    ],
+    [
+      "project",
+      34
+    ],
+    [
+      "client",
+      34
+    ],
+    [
+      "today",
+      32
+    ],
+    [
+      "common",
+      32
+    ],
+    [
+      "answer",
+      31
+    ],
+    [
+      "meet",
+      30
+    ],
+    [
+      "help",
+      29
+    ],
+    [
+      "company",
+      29
+    ],
+    [
+      "simple",
+      28
+    ],
+    [
+      "manage",
+      28
+    ],
+    [
+      "thank",
+      27
+    ],
+    [
+      "clear",
+      27
+    ],
+    [
+      "natural",
+      27
+    ],
+    [
+      "question",
+      26
+    ],
+    [
+      "manager",
+      26
+    ],
+    [
+      "everyone",
+      25
+    ],
+    [
+      "us",
+      25
+    ],
+    [
+      "start",
+      25
+    ],
+    [
+      "conversation",
+      24
+    ],
+    [
+      "good",
+      24
+    ],
+    [
+      "challeng",
+      24
+    ],
+    [
+      "nice",
+      24
+    ],
+    [
+      "real",
+      23
+    ],
+    [
+      "give",
+      23
+    ],
+    [
+      "important",
+      21
+    ],
+    [
+      "market",
+      20
+    ],
+    [
+      "also",
+      20
+    ],
+    [
+      "perfect",
+      19
+    ],
+    [
+      "hi",
+      19
+    ],
+    [
+      "use",
+      19
+    ],
+    [
+      "ask",
+      19
+    ],
+    [
+      "responsibiliti",
+      19
+    ],
+    [
+      "one",
+      19
+    ],
+    [
+      "practical",
+      18
+    ],
+    [
+      "person",
+      18
+    ],
+    [
+      "main",
+      18
+    ],
+    [
+      "role",
+      18
+    ],
+    [
+      "practice",
+      17
+    ],
+    [
+      "much",
+      17
+    ],
+    [
+      "improve",
+      16
+    ],
+    [
+      "communication",
+      16
+    ],
+    [
+      "interview",
+      15
+    ],
+    [
+      "exampl",
+      15
+    ],
+    [
+      "make",
+      15
+    ],
+    [
+      "report",
+      15
+    ],
+    [
+      "speak",
+      14
+    ],
+    [
+      "learn",
+      14
+    ],
+    [
+      "explain",
+      14
+    ],
+    [
+      "someone",
+      14
+    ],
+    [
+      "day",
+      14
+    ],
+    [
+      "data",
+      14
+    ],
+    [
+      "keep",
+      14
+    ],
+    [
+      "useful",
+      14
+    ],
+    [
+      "sure",
+      14
+    ],
+    [
+      "topic",
+      13
+    ],
+    [
+      "title",
+      13
+    ],
+    [
+      "skill",
+      13
+    ],
+    [
+      "responsibility",
+      13
+    ],
+    [
+      "different",
+      13
+    ],
+    [
+      "analyze",
+      13
+    ],
+    [
+      "support",
+      12
+    ],
+    [
+      "need",
+      12
+    ],
+    [
+      "phras",
+      12
+    ],
+    [
+      "sal",
+      12
+    ],
+    [
+      "another",
+      12
+    ],
+    [
+      "time",
+      12
+    ],
+    [
+      "situation",
+      11
+    ],
+    [
+      "place",
+      11
+    ],
+    [
+      "feel",
+      11
+    ],
+    [
+      "new",
+      11
+    ],
+    [
+      "correct",
+      11
+    ],
+    [
+      "customer",
+      11
+    ],
+    [
+      "go",
+      11
+    ],
+    [
+      "meeting",
+      11
+    ],
+    [
+      "notice",
+      11
+    ],
+    [
+      "detail",
+      11
+    ],
+    [
+      "emily",
+      10
+    ],
+    [
+      "jack",
+      10
+    ],
+    [
+      "lesson",
+      10
+    ],
+    [
+      "going",
+      10
+    ],
+    [
+      "engineer",
+      10
+    ],
+    [
+      "add",
+      10
+    ],
+    [
+      "see",
+      10
+    ],
+    [
+      "excellent",
+      10
+    ],
+    [
+      "focus",
+      10
+    ],
+    [
+      "experience",
+      10
+    ],
+    [
+      "forget",
+      9
+    ],
+    [
+      "someth",
+      9
+    ],
+    [
+      "way",
+      9
+    ],
+    [
+      "lot",
+      9
+    ],
+    [
+      "interest",
+      9
+    ],
+    [
+      "problem",
+      9
+    ],
+    [
+      "describe",
+      9
+    ],
+    [
+      "campaign",
+      9
+    ],
+    [
+      "performance",
+      9
+    ],
+    [
+      "deadlin",
+      9
+    ],
+    [
+      "confident",
+      9
+    ],
+    [
+      "try",
+      9
+    ],
+    [
+      "goal",
+      9
+    ],
+    [
+      "join",
+      8
+    ],
+    [
+      "create",
+      8
+    ],
+    [
+      "network",
+      8
+    ],
+    [
+      "clearly",
+      8
+    ],
+    [
+      "short",
+      8
+    ],
+    [
+      "show",
+      8
+    ],
+    [
+      "software",
+      8
+    ],
+    [
+      "turn",
+      8
+    ],
+    [
+      "five",
+      8
+    ],
+    [
+      "collaborate",
+      8
+    ],
+    [
+      "manag",
+      8
+    ],
+    [
+      "handle",
+      8
+    ],
+    [
+      "financial",
+      8
+    ],
+    [
+      "analyst",
+      8
+    ],
+    [
+      "idea",
+      8
+    ],
+    [
+      "let",
+      8
+    ],
+    [
+      "ahead",
+      8
+    ],
+    [
+      "leadership",
+      8
+    ],
+    [
+      "year",
+      8
+    ],
+    [
+      "confidence",
+      7
+    ],
+    [
+      "sometim",
+      7
+    ],
+    [
+      "daily",
+      7
+    ],
+    [
+      "plus",
+      7
+    ],
+    [
+      "teacher",
+      7
+    ],
+    [
+      "task",
+      7
+    ],
+    [
+      "prepar",
+      7
+    ],
+    [
+      "department",
+      7
+    ],
+    [
+      "especially",
+      7
+    ],
+    [
+      "solv",
+      7
+    ],
+    [
+      "next",
+      7
+    ],
+    [
+      "want",
+      7
+    ],
+    [
+      "daniel",
+      7
+    ],
+    [
+      "attend",
+      7
+    ],
+    [
+      "tell",
+      7
+    ],
+    [
+      "responsible",
+      7
+    ],
+    [
+      "language",
+      7
+    ],
+    [
+      "get",
+      7
+    ],
+    [
+      "look",
+      7
+    ],
+    [
+      "listen",
+      6
+    ],
+    [
+      "mak",
+      6
+    ],
+    [
+      "subscribe",
+      6
+    ],
+    [
+      "whether",
+      6
+    ],
+    [
+      "know",
+      6
+    ],
+    [
+      "easy",
+      6
+    ],
+    [
+      "strong",
+      6
+    ],
+    [
+      "include",
+      6
+    ],
+    [
+      "develop",
+      6
+    ],
+    [
+      "finish",
+      6
+    ],
+    [
+      "every",
+      6
+    ],
+    [
+      "tight",
+      6
+    ],
+    [
+      "train",
+      6
+    ],
+    [
+      "career",
+      6
+    ],
+    [
+      "firm",
+      6
+    ],
+    [
+      "improv",
+      6
+    ],
+    [
+      "specialist",
+      6
+    ],
+    [
+      "digital",
+      6
+    ],
+    [
+      "emma",
+      6
+    ],
+    [
+      "first",
+      6
+    ],
+    [
+      "everyth",
+      6
+    ],
+    [
+      "describ",
+      6
+    ],
+    [
+      "reward",
+      6
+    ],
+    [
+      "goodbye",
+      6
+    ],
+    [
+      "mistak",
+      6
+    ],
+    [
+      "mistake",
+      6
+    ],
+    [
+      "google",
+      6
+    ],
+    [
+      "experienc",
+      6
+    ],
+    [
+      "email",
+      6
+    ],
+    [
+      "hello",
+      5
+    ],
+    [
+      "happy",
+      5
+    ],
+    [
+      "step",
+      5
+    ],
+    [
+      "learner",
+      5
+    ],
+    [
+      "formal",
+      5
+    ],
+    [
+      "accountant",
+      5
+    ],
+    [
+      "difference",
+      5
+    ],
+    [
+      "coordinate",
+      5
+    ],
+    [
+      "hospital",
+      5
+    ],
+    [
+      "multinational",
+      5
+    ],
+    [
+      "home",
+      5
+    ],
+    [
+      "account",
+      5
+    ],
+    [
+      "organize",
+      5
+    ],
+    [
+      "creative",
+      5
+    ],
+    [
+      "opportuniti",
+      5
+    ],
+    [
+      "challenge",
+      5
+    ],
+    [
+      "stressful",
+      5
+    ],
+    [
+      "polite",
+      5
+    ],
+    [
+      "imagine",
+      5
+    ],
+    [
+      "employee",
+      5
+    ],
+    [
+      "relation",
+      5
+    ],
+    [
+      "prepare",
+      5
+    ],
+    [
+      "future",
+      5
+    ],
+    [
+      "toward",
+      5
+    ],
+    [
+      "episode",
+      5
+    ],
+    [
+      "ensure",
+      5
+    ],
+    [
+      "deliver",
+      5
+    ],
+    [
+      "used",
+      5
+    ],
+    [
+      "move",
+      5
+    ],
+    [
+      "management",
+      5
+    ],
+    [
+      "relationship",
+      5
+    ],
+    [
+      "hr",
+      5
+    ],
+    [
+      "practic",
+      5
+    ],
+    [
+      "play",
+      5
+    ],
+    [
+      "afternoon",
+      5
+    ],
+    [
+      "usually",
+      5
+    ],
+    [
+      "channel",
+      4
+    ],
+    [
+      "life",
+      4
+    ],
+    [
+      "thumb",
+      4
+    ],
+    [
+      "word",
+      4
+    ],
+    [
+      "simplest",
+      4
+    ],
+    [
+      "small",
+      4
+    ],
+    [
+      "service",
+      4
+    ],
+    [
+      "quick",
+      4
+    ],
+    [
+      "content",
+      4
+    ],
+    [
+      "write",
+      4
+    ],
+    [
+      "full",
+      4
+    ],
+    [
+      "tech",
+      4
+    ],
+    [
+      "mostly",
+      4
+    ],
+    [
+      "verb",
+      4
+    ],
+    [
+      "alone",
+      4
+    ],
+    [
+      "aspect",
+      4
+    ],
+    [
+      "event",
+      4
+    ],
+    [
+      "human",
+      4
+    ],
+    [
+      "international",
+      4
+    ],
+    [
+      "recruitment",
+      4
+    ],
+    [
+      "grow",
+      4
+    ],
+    [
+      "slightly",
+      4
+    ],
+    [
+      "investment",
+      4
+    ],
+    [
+      "become",
+      4
+    ],
+    [
+      "multiple",
+      4
+    ],
+    [
+      "understand",
+      4
+    ],
+    [
+      "lead",
+      4
+    ],
+    [
+      "key",
+      4
+    ],
+    [
+      "colleagu",
+      4
+    ],
+    [
+      "many",
+      4
+    ],
+    [
+      "value",
+      4
+    ],
+    [
+      "solution",
+      4
+    ],
+    [
+      "development",
+      4
+    ],
+    [
+      "timelin",
+      4
+    ],
+    [
+      "impressive",
+      4
+    ],
+    [
+      "oversee",
+      4
+    ],
+    [
+      "closely",
+      4
+    ],
+    [
+      "build",
+      4
+    ],
+    [
+      "excit",
+      4
+    ],
+    [
+      "think",
+      4
+    ],
+    [
+      "industry",
+      4
+    ],
+    [
+      "check",
+      4
+    ],
+    [
+      "professionally",
+      4
+    ],
+    [
+      "typical",
+      4
+    ],
+    [
+      "please",
+      3
+    ],
+    [
+      "love",
+      3
+    ],
+    [
+      "alway",
+      3
+    ],
+    [
+      "choice",
+      3
+    ],
+    [
+      "big",
+      3
+    ],
+    [
+      "creator",
+      3
+    ],
+    [
+      "often",
+      3
+    ],
+    [
+      "agency",
+      3
+    ],
+    [
+      "startup",
+      3
+    ],
+    [
+      "developer",
+      3
+    ],
+    [
+      "deeper",
+      3
+    ],
+    [
+      "analyz",
+      3
+    ],
+    [
+      "communicate",
+      3
+    ],
+    [
+      "point",
+      3
+    ],
+    [
+      "schedule",
+      3
+    ],
+    [
+      "environment",
+      3
+    ],
+    [
+      "deal",
+      3
+    ],
+    [
+      "stay",
+      3
+    ],
+    [
+      "hate",
+      3
+    ],
+    [
+      "resourc",
+      3
+    ],
+    [
+      "program",
+      3
+    ],
+    [
+      "advanc",
+      3
+    ],
+    [
+      "promotion",
+      3
+    ],
+    [
+      "social",
+      3
+    ],
+    [
+      "media",
+      3
+    ],
+    [
+      "part",
+      3
+    ],
+    [
+      "bye",
+      3
+    ],
+    [
+      "podcast",
+      3
+    ],
+    [
+      "realistic",
+      3
+    ],
+    [
+      "trainer",
+      3
+    ],
+    [
+      "stronger",
+      3
+    ],
+    [
+      "cross-functional",
+      3
+    ],
+    [
+      "compani",
+      3
+    ],
+    [
+      "decision",
+      3
+    ],
+    [
+      "phrase",
+      3
+    ],
+    [
+      "corporate",
+      3
+    ],
+    [
+      "across",
+      3
+    ],
+    [
+      "field",
+      3
+    ],
+    [
+      "consult",
+      3
+    ],
+    [
+      "strategi",
+      3
+    ],
+    [
+      "confidently",
+      3
+    ],
+    [
+      "sarah",
+      3
+    ],
+    [
+      "listener",
+      3
+    ],
+    [
+      "begin",
+      3
+    ],
+    [
+      "set",
+      3
+    ],
+    [
+      "liv",
+      3
+    ],
+    [
+      "executive",
+      3
+    ],
+    [
+      "industri",
+      3
+    ],
+    [
+      "finance",
+      3
+    ],
+    [
+      "inquiri",
+      3
+    ],
+    [
+      "budget",
+      3
+    ],
+    [
+      "structur",
+      3
+    ],
+    [
+      "structure",
+      3
+    ],
+    [
+      "review",
+      3
+    ],
+    [
+      "find",
+      3
+    ],
+    [
+      "online",
+      3
+    ],
+    [
+      "plan",
+      3
+    ],
+    [
+      "teach",
+      3
+    ],
+    [
+      "morn",
+      3
+    ],
+    [
+      "student",
+      3
+    ],
+    [
+      "nervous",
+      2
+    ],
+    [
+      "worry",
+      2
+    ],
+    [
+      "everyday",
+      2
+    ],
+    [
+      "representative",
+      2
+    ],
+    [
+      "solve",
+      2
+    ],
+    [
+      "giv",
+      2
+    ],
+    [
+      "picture",
+      2
+    ],
+    [
+      "educational",
+      2
+    ],
+    [
+      "video",
+      2
+    ],
+    [
+      "complete",
+      2
+    ],
+    [
+      "design",
+      2
+    ],
+    [
+      "track",
+      2
+    ],
+    [
+      "issu",
+      2
+    ],
+    [
+      "powerful",
+      2
+    ],
+    [
+      "leader",
+      2
+    ],
+    [
+      "hour",
+      2
+    ],
+    [
+      "flexible",
+      2
+    ],
+    [
+      "busy",
+      2
+    ],
+    [
+      "period",
+      2
+    ],
+    [
+      "difficult",
+      2
+    ],
+    [
+      "negative",
+      2
+    ],
+    [
+      "real-life",
+      2
+    ],
+    [
+      "take",
+      2
+    ],
+    [
+      "final",
+      2
+    ],
+    [
+      "becom",
+      2
+    ],
+    [
+      "ready",
+      2
+    ],
+    [
+      "share",
+      2
+    ],
+    [
+      "absolutely",
+      2
+    ],
+    [
+      "thing",
+      2
+    ],
+    [
+      "casual",
+      2
+    ],
+    [
+      "setting",
+      2
+    ],
+    [
+      "basic",
+      2
+    ],
+    [
+      "ad",
+      2
+    ],
+    [
+      "tip",
+      2
+    ],
+    [
+      "mention",
+      2
+    ],
+    [
+      "trend",
+      2
+    ],
+    [
+      "course",
+      2
+    ],
+    [
+      "strategy",
+      2
+    ],
+    [
+      "operation",
+      2
+    ],
+    [
+      "process",
+      2
+    ],
+    [
+      "run",
+      2
+    ],
+    [
+      "specializ",
+      2
+    ],
+    [
+      "bit",
+      2
+    ],
+    [
+      "mov",
+      2
+    ],
+    [
+      "expectation",
+      2
+    ],
+    [
+      "organiz",
+      2
+    ],
+    [
+      "long",
+      2
+    ],
+    [
+      "engagement",
+      2
+    ],
+    [
+      "complicat",
+      2
+    ],
+    [
+      "follow",
+      2
+    ],
+    [
+      "immediately",
+      2
+    ],
+    [
+      "agree",
+      2
+    ],
+    [
+      "effective",
+      2
+    ],
+    [
+      "still",
+      2
+    ],
+    [
+      "close",
+      2
+    ],
+    [
+      "maintain",
+      2
+    ],
+    [
+      "employer",
+      2
+    ],
+    [
+      "office",
+      2
+    ],
+    [
+      "present",
+      2
+    ],
+    [
+      "two",
+      2
+    ],
+    [
+      "three",
+      2
+    ],
+    [
+      "second",
+      2
+    ],
+    [
+      "third",
+      2
+    ],
+    [
+      "fourth",
+      2
+    ],
+    [
+      "using",
+      2
+    ],
+    [
+      "bank",
+      2
+    ],
+    [
+      "healthcare",
+      2
+    ],
+    [
+      "remotely",
+      2
+    ],
+    [
+      "communicat",
+      2
+    ],
+    [
+      "resolve",
+      2
+    ],
+    [
+      "product",
+      2
+    ],
+    [
+      "around",
+      2
+    ],
+    [
+      "boss",
+      2
+    ],
+    [
+      "flexibility",
+      2
+    ],
+    [
+      "workload",
+      2
+    ],
+    [
+      "heavy",
+      2
+    ],
+    [
+      "senior",
+      2
+    ],
+    [
+      "wrap",
+      2
+    ],
+    [
+      "already",
+      2
+    ],
+    [
+      "real-world",
+      2
+    ],
+    [
+      "prioriti",
+      2
+    ],
+    [
+      "achievement",
+      2
+    ],
+    [
+      "recently",
+      2
+    ],
+    [
+      "complet",
+      2
+    ],
+    [
+      "response",
+      2
+    ],
+    [
+      "face",
+      2
+    ],
+    [
+      "little",
+      2
+    ],
+    [
+      "currently",
+      2
+    ],
+    [
+      "anyth",
+      1
+    ],
+    [
+      "remember",
+      1
+    ],
+    [
+      "information",
+      1
+    ],
+    [
+      "script",
+      1
+    ],
+    [
+      "fix",
+      1
+    ],
+    [
+      "technical",
+      1
+    ],
+    [
+      "independently",
+      1
+    ],
+    [
+      "representativ",
+      1
+    ],
+    [
+      "full-time",
+      1
+    ],
+    [
+      "part-time",
+      1
+    ],
+    [
+      "nine",
+      1
+    ],
+    [
+      "benefit",
+      1
+    ],
+    [
+      "personal",
+      1
+    ],
+    [
+      "deshlist",
+      1
+    ],
+    [
+      "large",
+      1
+    ],
+    [
+      "decision-mak",
+      1
+    ],
+    [
+      "analytical",
+      1
+    ],
+    [
+      "ambition",
+      1
+    ],
+    [
+      "involve",
+      1
+    ],
+    [
+      "message",
+      1
+    ],
+    [
+      "easier",
+      1
+    ],
+    [
+      "youll",
+      1
+    ],
+    [
+      "extremely",
+      1
+    ],
+    [
+      "even",
+      1
+    ],
+    [
+      "chat",
+      1
+    ],
+    [
+      "vocabulary",
+      1
+    ],
+    [
+      "walk",
+      1
+    ],
+    [
+      "style",
+      1
+    ],
+    [
+      "depend",
+      1
+    ],
+    [
+      "matter",
+      1
+    ],
+    [
+      "classic",
+      1
+    ],
+    [
+      "hear",
+      1
+    ],
+    [
+      "effectively",
+      1
+    ],
+    [
+      "stop",
+      1
+    ],
+    [
+      "sentence",
+      1
+    ],
+    [
+      "technology",
+      1
+    ],
+    [
+      "name",
+      1
+    ],
+    [
+      "institute",
+      1
+    ],
+    [
+      "singapore",
+      1
+    ],
+    [
+      "fintech",
+      1
+    ],
+    [
+      "staff",
+      1
+    ],
+    [
+      "specific",
+      1
+    ],
+    [
+      "specificity",
+      1
+    ],
+    [
+      "struggle",
+      1
+    ],
+    [
+      "conduct",
+      1
+    ],
+    [
+      "session",
+      1
+    ],
+    [
+      "material",
+      1
+    ],
+    [
+      "coach",
+      1
+    ],
+    [
+      "one-on-one",
+      1
+    ],
+    [
+      "involv",
+      1
+    ],
+    [
+      "coordinat",
+      1
+    ],
+    [
+      "ensur",
+      1
+    ],
+    [
+      "colleague",
+      1
+    ],
+    [
+      "creation",
+      1
+    ],
+    [
+      "helpful",
+      1
+    ],
+    [
+      "workflow",
+      1
+    ],
+    [
+      "smoothly",
+      1
+    ],
+    [
+      "efficient",
+      1
+    ],
+    [
+      "fast-grow",
+      1
+    ],
+    [
+      "ai-driven",
+      1
+    ],
+    [
+      "organization",
+      1
+    ],
+    [
+      "scenario",
+      1
+    ],
+    [
+      "head",
+      1
+    ],
+    [
+      "activiti",
+      1
+    ],
+    [
+      "efficiency",
+      1
+    ],
+    [
+      "customiz",
+      1
+    ],
+    [
+      "client-focus",
+      1
+    ],
+    [
+      "eight",
+      1
+    ],
+    [
+      "education",
+      1
+    ],
+    [
+      "ten",
+      1
+    ],
+    [
+      "progression",
+      1
+    ],
+    [
+      "junior",
+      1
+    ],
+    [
+      "coordination",
+      1
+    ],
+    [
+      "eventually",
+      1
+    ],
+    [
+      "became",
+      1
+    ],
+    [
+      "path",
+      1
+    ],
+    [
+      "began",
+      1
+    ],
+    [
+      "globally",
+      1
+    ],
+    [
+      "growth",
+      1
+    ],
+    [
+      "balanc",
+      1
+    ],
+    [
+      "positive",
+      1
+    ],
+    [
+      "meaningful",
+      1
+    ],
+    [
+      "longer",
+      1
+    ],
+    [
+      "identify",
+      1
+    ],
+    [
+      "gradually",
+      1
+    ],
+    [
+      "internal",
+      1
+    ],
+    [
+      "culture",
+      1
+    ],
+    [
+      "initiativ",
+      1
+    ],
+    [
+      "align",
+      1
+    ],
+    [
+      "tricky",
+      1
+    ],
+    [
+      "long-term",
+      1
+    ],
+    [
+      "tak",
+      1
+    ],
+    [
+      "effort",
+      1
+    ],
+    [
+      "expand",
+      1
+    ],
+    [
+      "global",
+      1
+    ],
+    [
+      "essential",
+      1
+    ],
+    [
+      "gain",
+      1
+    ],
+    [
+      "alright",
+      1
+    ],
+    [
+      "widely",
+      1
+    ],
+    [
+      "less",
+      1
+    ],
+    [
+      "clearer",
+      1
+    ],
+    [
+      "web",
+      1
+    ],
+    [
+      "application",
+      1
+    ],
+    [
+      "emphasize",
+      1
+    ],
+    [
+      "typ",
+      1
+    ],
+    [
+      "workplac",
+      1
+    ],
+    [
+      "recommendation",
+      1
+    ],
+    [
+      "six",
+      1
+    ],
+    [
+      "com",
+      1
+    ],
+    [
+      "coordinator",
+      1
+    ],
+    [
+      "logistic",
+      1
+    ],
+    [
+      "schedul",
+      1
+    ],
+    [
+      "summarize",
+      1
+    ],
+    [
+      "introduce",
+      1
+    ],
+    [
+      "finally",
+      1
+    ],
+    [
+      "titl",
+      1
+    ],
+    [
+      "enough",
+      1
+    ],
+    [
+      "hsbc",
+      1
+    ],
+    [
+      "complaint",
+      1
+    ],
+    [
+      "business-focus",
+      1
+    ],
+    [
+      "recruit",
+      1
+    ],
+    [
+      "employe",
+      1
+    ],
+    [
+      "routine",
+      1
+    ],
+    [
+      "call",
+      1
+    ],
+    [
+      "director",
+      1
+    ],
+    [
+      "modern",
+      1
+    ],
+    [
+      "soft",
+      1
+    ],
+    [
+      "avoid",
+      1
+    ],
+    [
+      "change",
+      1
+    ],
+    [
+      "incorrect",
+      1
+    ],
+    [
+      "marketer",
+      1
+    ],
+    [
+      "regularly",
+      1
+    ],
+    [
+      "watch",
+      1
+    ],
+    [
+      "care",
+      1
+    ],
+    [
+      "continue",
+      1
+    ],
+    [
+      "creat",
+      1
+    ],
+    [
+      "theory",
+      1
+    ],
+    [
+      "easiest",
+      1
+    ],
+    [
+      "sentenc",
+      1
+    ],
+    [
+      "delivery",
+      1
+    ],
+    [
+      "group",
+      1
+    ],
+    [
+      "progress",
+      1
+    ],
+    [
+      "amazon",
+      1
+    ],
+    [
+      "clarify",
+      1
+    ],
+    [
+      "medical",
+      1
+    ],
+    [
+      "spend",
+      1
+    ],
+    [
+      "introduction",
+      1
+    ],
+    [
+      "designer",
+      1
+    ],
+    [
+      "discussion",
+      1
+    ],
+    [
+      "major",
+      1
+    ],
+    [
+      "increase",
+      1
+    ],
+    [
+      "last",
+      1
+    ],
+    [
+      "quarter",
+      1
+    ],
+    [
+      "balance",
+      1
+    ],
+    [
+      "tone",
+      1
+    ],
+    [
+      "complain",
+      1
+    ],
+    [
+      "satisfaction",
+      1
+    ],
+    [
+      "fully",
+      1
+    ],
+    [
+      "provide",
+      1
+    ],
+    [
+      "insight",
+      1
+    ],
+    [
+      "within",
+      1
+    ],
+    [
+      "specialize",
+      1
+    ],
+    [
+      "current",
+      1
+    ],
+    [
+      "result",
+      1
+    ],
+    [
+      "opportunity",
+      1
+    ],
+    [
+      "loud",
+      1
+    ],
+    [
+      "importantly",
+      1
+    ],
+    [
+      "hope",
+      1
+    ],
+    [
+      "world",
+      1
+    ],
+    [
+      "friend",
+      1
+    ],
+    [
+      "together",
+      1
+    ],
+    [
+      "productive",
+      1
+    ],
+    [
+      "simply",
+      1
+    ],
+    [
+      "native",
+      1
+    ],
+    [
+      "speaker",
+      1
+    ],
+    [
+      "adult",
+      1
+    ],
+    [
+      "nurse",
+      1
+    ],
+    [
+      "chef",
+      1
+    ],
+    [
+      "restaurant",
+      1
+    ],
+    [
+      "study",
+      1
+    ],
+    [
+      "university",
+      1
+    ],
+    [
+      "remote",
+      1
+    ],
+    [
+      "record",
+      1
+    ],
+    [
+      "workday",
+      1
+    ],
+    [
+      "wake",
+      1
+    ],
+    [
+      "lunch",
+      1
+    ],
+    [
+      "supportive",
+      1
+    ],
+    [
+      "expression",
+      1
+    ],
+    [
+      "retail",
+      1
+    ],
+    [
+      "target",
+      1
+    ],
+    [
+      "quickly",
+      1
+    ],
+    [
+      "afraid",
+      1
+    ],
+    [
+      "mean",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 7814,
+    "unique_words": 600,
+    "duration_min": 53.6
+  }
+}

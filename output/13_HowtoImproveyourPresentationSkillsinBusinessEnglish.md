@@ -1,9 +1,5 @@
 # 13 · How to Improve your Presentation Skills in Business English
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 42.4 分钟 · 演示汇报技巧（business→见总词表 06）
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -25,18 +21,18 @@
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| structure | n. 结构（→ 见总词表，03 集已收） | That's a strong structure. |
-| essential | adj. 至关重要的（→ 见总词表，05 集已收） | Practice is essential. |
-| professional | adj. 专业的（→ 见总词表，06 集已收） | …sound confident and professional. |
-| slides | n. 幻灯片（→ 见总词表，09 集已收） | Now let's talk about using slides. |
-| email | n. 邮件（A2 降级，→ 见总词表，05 集已收） | （语境：写邮件练习） |
-| client | n. 客户（→ 见总词表，07 集已收） | I write to colleagues, clients… |
-| technical vocabulary | 专业词汇 | …you can use more technical vocabulary. |
-| tone | n. 语气、基调 | This sets the tone, right? |
-| initiative | n. 提案、举措 | This initiative aims to facilitate operational optimization.（反例：堆砌术语） |
-| jargon | n. 行话、术语堆砌 | （语境：反面教材句） |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| structure | /ˈstrʌktʃə(r)/ | n. 结构（→ 见总词表，03 集已收） | That's a strong structure. |
+| essential | /ɪˈsenʃl/ | adj. 至关重要的（→ 见总词表，05 集已收） | Practice is essential. |
+| professional | /prəˈfeʃənl/ | adj. 专业的（→ 见总词表，06 集已收） | …sound confident and professional. |
+| slides | /slaɪdz/ | n. 幻灯片（→ 见总词表，09 集已收） | Now let's talk about using slides. |
+| email | /ˈiːmeɪl/ | n. 邮件（A2 降级，→ 见总词表，05 集已收） | （语境：写邮件练习） |
+| client | /ˈklaɪənt/ | n. 客户（→ 见总词表，07 集已收） | I write to colleagues, clients… |
+| technical vocabulary | /ˈteknɪkl vəˈkæbjələri/ | 专业词汇 | …you can use more technical vocabulary. |
+| tone | /təʊn/ | n. 语气、基调 | This sets the tone, right? |
+| initiative | /ɪˈnɪʃətɪv/ | n. 提案、举措 | This initiative aims to facilitate operational optimization.（反例：堆砌术语） |
+| jargon | /ˈdʒɑːɡən/ | n. 行话、术语堆砌 | （语境：反面教材句） |
 
 ### 语块（整体记忆，不拆单词）
 

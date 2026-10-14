@@ -1,0 +1,7677 @@
+{
+  "file_stem": "16_HowtoExplainWorkExperienceinJobInterview",
+  "no": 16,
+  "title_keywords": [
+    [
+      "explain",
+      "explain"
+    ],
+    [
+      "work",
+      "work"
+    ],
+    [
+      "experience",
+      "experience"
+    ],
+    [
+      "job",
+      "job"
+    ],
+    [
+      "interview",
+      "interview"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "work",
+      93,
+      "A2"
+    ],
+    [
+      "experience",
+      87,
+      "A2"
+    ],
+    [
+      "answer",
+      63,
+      "A2"
+    ],
+    [
+      "talk",
+      52,
+      "A2"
+    ],
+    [
+      "job",
+      44,
+      "A2"
+    ],
+    [
+      "interview",
+      43,
+      "B1+"
+    ],
+    [
+      "exactly",
+      41,
+      "B1+"
+    ],
+    [
+      "great",
+      37,
+      "A2"
+    ],
+    [
+      "customer",
+      35,
+      "B1+"
+    ],
+    [
+      "example",
+      35,
+      "A2"
+    ],
+    [
+      "role",
+      35,
+      "B1+"
+    ],
+    [
+      "one",
+      34,
+      "A2"
+    ],
+    [
+      "help",
+      33,
+      "A2"
+    ],
+    [
+      "started",
+      32,
+      "A2"
+    ],
+    [
+      "clear",
+      31,
+      "A2"
+    ],
+    [
+      "good",
+      30,
+      "A2"
+    ],
+    [
+      "today",
+      30,
+      "A2"
+    ],
+    [
+      "explain",
+      29,
+      "B1+"
+    ],
+    [
+      "say",
+      29,
+      "A2"
+    ],
+    [
+      "team",
+      29,
+      "A2"
+    ],
+    [
+      "achievements",
+      28,
+      "B1+"
+    ],
+    [
+      "results",
+      28,
+      "A2"
+    ],
+    [
+      "skills",
+      28,
+      "A2"
+    ],
+    [
+      "give",
+      27,
+      "A2"
+    ],
+    [
+      "important",
+      27,
+      "A2"
+    ],
+    [
+      "practice",
+      27,
+      "A2"
+    ],
+    [
+      "project",
+      27,
+      "B1+"
+    ],
+    [
+      "sounds",
+      27,
+      "A2"
+    ],
+    [
+      "thank",
+      27,
+      "A2"
+    ],
+    [
+      "number",
+      25,
+      "B1+"
+    ],
+    [
+      "question",
+      25,
+      "A2"
+    ],
+    [
+      "simple",
+      25,
+      "A2"
+    ],
+    [
+      "sales",
+      24,
+      "B1+"
+    ],
+    [
+      "developed",
+      23,
+      "B1+"
+    ],
+    [
+      "managed",
+      23,
+      "B1+"
+    ],
+    [
+      "marketing",
+      23,
+      "A2"
+    ],
+    [
+      "past",
+      23,
+      "A2"
+    ],
+    [
+      "tell",
+      23,
+      "A2"
+    ],
+    [
+      "english",
+      22,
+      "A2"
+    ],
+    [
+      "improved",
+      22,
+      "B1+"
+    ],
+    [
+      "people",
+      22,
+      "A2"
+    ],
+    [
+      "common",
+      21,
+      "A2"
+    ],
+    [
+      "currently",
+      21,
+      "B1+"
+    ],
+    [
+      "many",
+      21,
+      "A2"
+    ],
+    [
+      "mistake",
+      21,
+      "A2"
+    ],
+    [
+      "much",
+      20,
+      "A2"
+    ],
+    [
+      "key",
+      19,
+      "A2"
+    ],
+    [
+      "structure",
+      19,
+      "B1+"
+    ],
+    [
+      "us",
+      18,
+      "A2"
+    ],
+    [
+      "everyone",
+      17,
+      "A2"
+    ],
+    [
+      "interviewer",
+      17,
+      "B1+"
+    ],
+    [
+      "perfect",
+      17,
+      "A2"
+    ],
+    [
+      "shows",
+      17,
+      "A2"
+    ],
+    [
+      "speak",
+      17,
+      "A2"
+    ],
+    [
+      "support",
+      17,
+      "A2"
+    ],
+    [
+      "assistant",
+      16,
+      "B1+"
+    ],
+    [
+      "improve",
+      16,
+      "B1+"
+    ],
+    [
+      "responsibilities",
+      16,
+      "B1+"
+    ],
+    [
+      "strong",
+      16,
+      "A2"
+    ],
+    [
+      "years",
+      16,
+      "A2"
+    ],
+    [
+      "excellent",
+      15,
+      "B1+"
+    ],
+    [
+      "increased",
+      15,
+      "B1+"
+    ],
+    [
+      "learned",
+      15,
+      "A2"
+    ],
+    [
+      "previous",
+      15,
+      "B1+"
+    ],
+    [
+      "add",
+      14,
+      "B1+"
+    ],
+    [
+      "current",
+      14,
+      "B1+"
+    ],
+    [
+      "examples",
+      14,
+      "B1+"
+    ],
+    [
+      "make",
+      14,
+      "A2"
+    ],
+    [
+      "service",
+      14,
+      "B1+"
+    ],
+    [
+      "keep",
+      13,
+      "A2"
+    ],
+    [
+      "time",
+      13,
+      "A2"
+    ],
+    [
+      "use",
+      13,
+      "A2"
+    ],
+    [
+      "also",
+      12,
+      "A2"
+    ],
+    [
+      "clients",
+      12,
+      "B1+"
+    ],
+    [
+      "feeling",
+      12,
+      "A2"
+    ],
+    [
+      "three",
+      12,
+      "A2"
+    ],
+    [
+      "begin",
+      11,
+      "A2"
+    ],
+    [
+      "confident",
+      11,
+      "B1+"
+    ],
+    [
+      "describe",
+      11,
+      "A2"
+    ],
+    [
+      "even",
+      11,
+      "B1+"
+    ],
+    [
+      "media",
+      11,
+      "B1+"
+    ],
+    [
+      "present",
+      11,
+      "A2"
+    ],
+    [
+      "professional",
+      11,
+      "B1+"
+    ],
+    [
+      "real",
+      11,
+      "A2"
+    ],
+    [
+      "social",
+      11,
+      "A2"
+    ],
+    [
+      "something",
+      11,
+      "B1+"
+    ],
+    [
+      "try",
+      11,
+      "A2"
+    ],
+    [
+      "useful",
+      11,
+      "A2"
+    ],
+    [
+      "ahead",
+      10,
+      "B1+"
+    ],
+    [
+      "always",
+      10,
+      "B1+"
+    ],
+    [
+      "campaigns",
+      10,
+      "B1+"
+    ],
+    [
+      "confidence",
+      10,
+      "B1+"
+    ],
+    [
+      "detail",
+      10,
+      "B1+"
+    ],
+    [
+      "emily",
+      10,
+      "B1+"
+    ],
+    [
+      "five",
+      10,
+      "A2"
+    ],
+    [
+      "handled",
+      10,
+      "B1+"
+    ],
+    [
+      "manage",
+      10,
+      "B1+"
+    ],
+    [
+      "reports",
+      10,
+      "A2"
+    ],
+    [
+      "tasks",
+      10,
+      "B1+"
+    ],
+    [
+      "two",
+      10,
+      "A2"
+    ],
+    [
+      "career",
+      9,
+      "B1+"
+    ],
+    [
+      "clearly",
+      9,
+      "B1+"
+    ],
+    [
+      "go",
+      9,
+      "A2"
+    ],
+    [
+      "going",
+      9,
+      "B1+"
+    ],
+    [
+      "instead",
+      9,
+      "A2"
+    ],
+    [
+      "leading",
+      9,
+      "A2"
+    ],
+    [
+      "main",
+      9,
+      "A2"
+    ],
+    [
+      "manager",
+      9,
+      "B1+"
+    ],
+    [
+      "mistakes",
+      9,
+      "B1+"
+    ],
+    [
+      "need",
+      9,
+      "A2"
+    ],
+    [
+      "phrases",
+      9,
+      "B1+"
+    ],
+    [
+      "problems",
+      9,
+      "A2"
+    ],
+    [
+      "responsible",
+      9,
+      "B1+"
+    ],
+    [
+      "specific",
+      9,
+      "B1+"
+    ],
+    [
+      "step",
+      9,
+      "A2"
+    ],
+    [
+      "structured",
+      9,
+      "B1+"
+    ],
+    [
+      "tense",
+      9,
+      "B1+"
+    ],
+    [
+      "using",
+      9,
+      "B1+"
+    ],
+    [
+      "accounts",
+      8,
+      "B1+"
+    ],
+    [
+      "another",
+      8,
+      "A2"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "work experience",
+      "count": 35,
+      "example": "Absolutely. Today we're going to learn how to explain your work experience in a job",
+      "t": 29.22
+    },
+    {
+      "text": "let's talk",
+      "count": 26,
+      "example": "I see. Now let's talk about past experience.",
+      "t": 198.88
+    },
+    {
+      "text": "mistake number",
+      "count": 15,
+      "example": "Mistake number one, giving very short answers.",
+      "t": 403.44
+    },
+    {
+      "text": "social media",
+      "count": 11,
+      "example": "For example, in my role, I manage social media accounts, create content, and analyze campaign",
+      "t": 141.88
+    },
+    {
+      "text": "customer service",
+      "count": 11,
+      "example": "I currently work as a customer service representative.",
+      "t": 169.04
+    },
+    {
+      "text": "key achievements",
+      "count": 11,
+      "example": "Yes, you can break it into three parts. Past, present, and key achievements.",
+      "t": 709.56
+    },
+    {
+      "text": "many people",
+      "count": 10,
+      "example": "And many people feel nervous because they don't know how to answer clearly.",
+      "t": 49.3
+    },
+    {
+      "text": "years of experience",
+      "count": 10,
+      "example": "I have over five years of experience in marketing.",
+      "t": 1052.5
+    },
+    {
+      "text": "we're going",
+      "count": 9,
+      "example": "Absolutely. Today we're going to learn how to explain your work experience in a job",
+      "t": 29.22
+    },
+    {
+      "text": "give an example",
+      "count": 9,
+      "example": "Can you give an example?",
+      "t": 127.4
+    }
+  ],
+  "phrases": [
+    {
+      "text": "work experience",
+      "count": 35,
+      "example": "Absolutely. Today we're going to learn how to explain your work experience in a job",
+      "t": 29.22
+    },
+    {
+      "text": "let's talk",
+      "count": 26,
+      "example": "I see. Now let's talk about past experience.",
+      "t": 198.88
+    },
+    {
+      "text": "mistake number",
+      "count": 15,
+      "example": "Mistake number one, giving very short answers.",
+      "t": 403.44
+    },
+    {
+      "text": "social media",
+      "count": 11,
+      "example": "For example, in my role, I manage social media accounts, create content, and analyze campaign",
+      "t": 141.88
+    },
+    {
+      "text": "customer service",
+      "count": 11,
+      "example": "I currently work as a customer service representative.",
+      "t": 169.04
+    },
+    {
+      "text": "key achievements",
+      "count": 11,
+      "example": "Yes, you can break it into three parts. Past, present, and key achievements.",
+      "t": 709.56
+    },
+    {
+      "text": "many people",
+      "count": 10,
+      "example": "And many people feel nervous because they don't know how to answer clearly.",
+      "t": 49.3
+    },
+    {
+      "text": "years of experience",
+      "count": 10,
+      "example": "I have over five years of experience in marketing.",
+      "t": 1052.5
+    },
+    {
+      "text": "we're going",
+      "count": 9,
+      "example": "Absolutely. Today we're going to learn how to explain your work experience in a job",
+      "t": 29.22
+    },
+    {
+      "text": "give an example",
+      "count": 9,
+      "example": "Can you give an example?",
+      "t": 127.4
+    },
+    {
+      "text": "customer satisfaction",
+      "count": 8,
+      "example": "I also improved customer satisfaction by 15%.",
+      "t": 185.16
+    },
+    {
+      "text": "past experience",
+      "count": 8,
+      "example": "I see. Now let's talk about past experience.",
+      "t": 198.88
+    },
+    {
+      "text": "role play",
+      "count": 8,
+      "example": "Now let's do a role play.",
+      "t": 287.2
+    },
+    {
+      "text": "previous role",
+      "count": 8,
+      "example": "In my previous role, I worked as a junior developer",
+      "t": 306.32
+    },
+    {
+      "text": "that's a great",
+      "count": 8,
+      "example": "That's a great answer.",
+      "t": 316.84
+    },
+    {
+      "text": "common mistakes",
+      "count": 8,
+      "example": "Thank you! Now let's talk about common mistakes.",
+      "t": 397.44
+    },
+    {
+      "text": "let's give",
+      "count": 8,
+      "example": "Let's give a simple structure everyone can follow.",
+      "t": 706.48
+    },
+    {
+      "text": "joining us",
+      "count": 7,
+      "example": "Hi everyone, thanks for joining us. If you're here to improve your English and succeed in",
+      "t": 12.37
+    },
+    {
+      "text": "currently work",
+      "count": 7,
+      "example": "Sure, you can say, I currently work as a marketing assistant at a digital agency.",
+      "t": 128.96
+    },
+    {
+      "text": "great idea",
+      "count": 7,
+      "example": "Great idea.",
+      "t": 365.72
+    },
+    {
+      "text": "useful phrases",
+      "count": 6,
+      "example": "That's why today's episode will help you step by step with real examples, useful phrases,",
+      "t": 63.42
+    },
+    {
+      "text": "job interview",
+      "count": 6,
+      "example": "So before we begin, let me ask you, have you ever been nervous in a job interview?",
+      "t": 72.8
+    },
+    {
+      "text": "let's begin",
+      "count": 6,
+      "example": "Let's begin with a simple question.",
+      "t": 96.22
+    },
+    {
+      "text": "main responsibilities",
+      "count": 6,
+      "example": "My main responsibilities include answering customer inquiries,",
+      "t": 175.24
+    },
+    {
+      "text": "strong answer",
+      "count": 6,
+      "example": "Perfect. That's a strong answer.",
+      "t": 189.56
+    },
+    {
+      "text": "current job",
+      "count": 6,
+      "example": "First, talk about your current job,",
+      "t": 231.16
+    },
+    {
+      "text": "go ahead",
+      "count": 6,
+      "example": "Go ahead.",
+      "t": 244.88
+    },
+    {
+      "text": "developed strong",
+      "count": 6,
+      "example": "where I developed strong organizational skills.",
+      "t": 254.92
+    },
+    {
+      "text": "increased sales",
+      "count": 6,
+      "example": "I increased sales by 20%, or I managed a team of five people.",
+      "t": 481.24
+    },
+    {
+      "text": "team of five",
+      "count": 6,
+      "example": "I increased sales by 20%, or I managed a team of five people.",
+      "t": 481.24
+    },
+    {
+      "text": "us today",
+      "count": 6,
+      "example": "We're really happy to have you with us today.",
+      "t": 589.92
+    },
+    {
+      "text": "current role",
+      "count": 6,
+      "example": "It is. First, briefly talk about your past experience, then describe your current role,",
+      "t": 717.32
+    },
+    {
+      "text": "started my career",
+      "count": 6,
+      "example": "Sure. Here's a simple answer. I started my career as a sales assistant where I learned",
+      "t": 727.96
+    },
+    {
+      "text": "currently i work",
+      "count": 6,
+      "example": "executive role where I managed client accounts and increased sales by 20%. Currently, I work",
+      "t": 739.36
+    },
+    {
+      "text": "managed social",
+      "count": 6,
+      "example": "where I managed social media accounts and created content.",
+      "t": 1064.82
+    },
+    {
+      "text": "managed social media",
+      "count": 6,
+      "example": "where I managed social media accounts and created content.",
+      "t": 1064.82
+    },
+    {
+      "text": "hi everyone",
+      "count": 5,
+      "example": "Hi everyone, thanks for joining us. If you're here to improve your English and succeed in",
+      "t": 12.37
+    },
+    {
+      "text": "thanks for joining",
+      "count": 5,
+      "example": "Hi everyone, thanks for joining us. If you're here to improve your English and succeed in",
+      "t": 12.37
+    },
+    {
+      "text": "improve your english",
+      "count": 5,
+      "example": "Hi everyone, thanks for joining us. If you're here to improve your English and succeed in",
+      "t": 12.37
+    },
+    {
+      "text": "today we're",
+      "count": 5,
+      "example": "Absolutely. Today we're going to learn how to explain your work experience in a job",
+      "t": 29.22
+    },
+    {
+      "text": "today we're going",
+      "count": 5,
+      "example": "Absolutely. Today we're going to learn how to explain your work experience in a job",
+      "t": 29.22
+    },
+    {
+      "text": "explain your work",
+      "count": 5,
+      "example": "Absolutely. Today we're going to learn how to explain your work experience in a job",
+      "t": 29.22
+    },
+    {
+      "text": "don't know",
+      "count": 5,
+      "example": "And many people feel nervous because they don't know how to answer clearly.",
+      "t": 49.3
+    },
+    {
+      "text": "let's get",
+      "count": 5,
+      "example": "Alright everyone, let's get started.",
+      "t": 93.7
+    },
+    {
+      "text": "get started",
+      "count": 5,
+      "example": "Alright everyone, let's get started.",
+      "t": 93.7
+    },
+    {
+      "text": "let's get started",
+      "count": 5,
+      "example": "Alright everyone, let's get started.",
+      "t": 93.7
+    },
+    {
+      "text": "media accounts",
+      "count": 5,
+      "example": "For example, in my role, I manage social media accounts, create content, and analyze campaign",
+      "t": 141.88
+    },
+    {
+      "text": "social media accounts",
+      "count": 5,
+      "example": "For example, in my role, I manage social media accounts, create content, and analyze campaign",
+      "t": 141.88
+    },
+    {
+      "text": "that's a strong",
+      "count": 5,
+      "example": "Perfect. That's a strong answer.",
+      "t": 189.56
+    },
+    {
+      "text": "great answer",
+      "count": 5,
+      "example": "That's a great answer.",
+      "t": 316.84
+    },
+    {
+      "text": "talk about common",
+      "count": 5,
+      "example": "Thank you! Now let's talk about common mistakes.",
+      "t": 397.44
+    },
+    {
+      "text": "five people",
+      "count": 5,
+      "example": "I increased sales by 20%, or I managed a team of five people.",
+      "t": 481.24
+    },
+    {
+      "text": "keep practicing",
+      "count": 5,
+      "example": "Keep practicing and stay confident.",
+      "t": 584.36
+    },
+    {
+      "text": "past present",
+      "count": 5,
+      "example": "Yes, you can break it into three parts. Past, present, and key achievements.",
+      "t": 709.56
+    },
+    {
+      "text": "leading a team",
+      "count": 5,
+      "example": "as a sales manager, leading a team of five and developing sales strategies.",
+      "t": 746.32
+    },
+    {
+      "text": "instead of saying",
+      "count": 5,
+      "example": "For example, instead of saying something very complex, you can say,",
+      "t": 785.26
+    },
+    {
+      "text": "worked closely",
+      "count": 5,
+      "example": "Or I worked closely with the marketing team to develop campaigns.",
+      "t": 794.36
+    },
+    {
+      "text": "communication skills",
+      "count": 5,
+      "example": "After two years, I moved into a sales role, where I developed strong communication skills.",
+      "t": 1809.58
+    },
+    {
+      "text": "job interviews",
+      "count": 4,
+      "example": "job interviews, you're in the right place.",
+      "t": 19.22
+    },
+    {
+      "text": "real examples",
+      "count": 4,
+      "example": "That's why today's episode will help you step by step with real examples, useful phrases,",
+      "t": 63.42
+    },
+    {
+      "text": "step by step",
+      "count": 4,
+      "example": "That's why today's episode will help you step by step with real examples, useful phrases,",
+      "t": 63.42
+    },
+    {
+      "text": "sounds great",
+      "count": 4,
+      "example": "Sounds great!",
+      "t": 71.8
+    },
+    {
+      "text": "marketing assistant",
+      "count": 4,
+      "example": "Sure, you can say, I currently work as a marketing assistant at a digital agency.",
+      "t": 128.96
+    },
+    {
+      "text": "previous jobs",
+      "count": 4,
+      "example": "Yes, if you had previous jobs, you can talk about them using the past tense.",
+      "t": 202.48
+    },
+    {
+      "text": "past tense",
+      "count": 4,
+      "example": "Yes, if you had previous jobs, you can talk about them using the past tense.",
+      "t": 202.48
+    },
+    {
+      "text": "sales assistant",
+      "count": 4,
+      "example": "Sure. Before this role, I worked as a sales assistant, where I helped customers and increased",
+      "t": 209.02
+    },
+    {
+      "text": "simple and clear",
+      "count": 4,
+      "example": "That's simple and clear?",
+      "t": 215.8
+    },
+    {
+      "text": "that's excellent",
+      "count": 4,
+      "example": "That's excellent, very clear and structured.",
+      "t": 262.0
+    },
+    {
+      "text": "people just list",
+      "count": 4,
+      "example": "Many people just list their responsibilities.",
+      "t": 268.36
+    },
+    {
+      "text": "i'm ready",
+      "count": 4,
+      "example": "Okay, I'm ready.",
+      "t": 290.64
+    },
+    {
+      "text": "believe my experience",
+      "count": 4,
+      "example": "I believe my experience has prepared me well for this position.",
+      "t": 313.16
+    },
+    {
+      "text": "internships projects",
+      "count": 4,
+      "example": "you can talk about internships, projects, or studies.",
+      "t": 328.04
+    },
+    {
+      "text": "talk about internships",
+      "count": 4,
+      "example": "you can talk about internships, projects, or studies.",
+      "t": 328.04
+    },
+    {
+      "text": "recently graduated",
+      "count": 4,
+      "example": "I recently graduated, and during my studies,",
+      "t": 333.4
+    },
+    {
+      "text": "let's practice",
+      "count": 4,
+      "example": "Now let's practice another role play.",
+      "t": 363.08
+    },
+    {
+      "text": "number one",
+      "count": 4,
+      "example": "Mistake number one, giving very short answers.",
+      "t": 403.44
+    },
+    {
+      "text": "mistake number one",
+      "count": 4,
+      "example": "Mistake number one, giving very short answers.",
+      "t": 403.44
+    },
+    {
+      "text": "number two",
+      "count": 4,
+      "example": "Mistake number two, speaking too much without structure.",
+      "t": 412.16
+    },
+    {
+      "text": "mistake number two",
+      "count": 4,
+      "example": "Mistake number two, speaking too much without structure.",
+      "t": 412.16
+    },
+    {
+      "text": "number three",
+      "count": 4,
+      "example": "Mistake number three, using incorrect grammar.",
+      "t": 419.3
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen, practice, speak. Practice makes you perfect."
+    },
+    {
+      "t": 12.37,
+      "text": "Hi everyone, thanks for joining us. If you're here to improve your English and succeed in"
+    },
+    {
+      "t": 19.22,
+      "text": "job interviews, you're in the right place."
+    },
+    {
+      "t": 22.22,
+      "text": "That's right. Today we have a very important and practical topic that can really change"
+    },
+    {
+      "t": 27.1,
+      "text": "your career opportunities."
+    },
+    {
+      "t": 29.22,
+      "text": "Absolutely. Today we're going to learn how to explain your work experience in a job"
+    },
+    {
+      "t": 34.62,
+      "text": "interview using clear and professional business English."
+    },
+    {
+      "t": 38.66,
+      "text": "This is one of the most common and most important parts of any interview."
+    },
+    {
+      "t": 42.94,
+      "text": "Yes, almost every interviewer will ask something like, can you tell me about your work experience?"
+    },
+    {
+      "t": 49.3,
+      "text": "And many people feel nervous because they don't know how to answer clearly."
+    },
+    {
+      "t": 53.42,
+      "text": "Exactly."
+    },
+    {
+      "t": 54.74,
+      "text": "Sometimes they have experience, but they can't explain it well in English."
+    },
+    {
+      "t": 59.22,
+      "text": "Or they give answers that are too short, too long, or not structured."
+    },
+    {
+      "t": 63.42,
+      "text": "That's why today's episode will help you step by step with real examples, useful phrases,"
+    },
+    {
+      "t": 69.48,
+      "text": "and practice conversations."
+    },
+    {
+      "t": 71.8,
+      "text": "Sounds great!"
+    },
+    {
+      "t": 72.8,
+      "text": "So before we begin, let me ask you, have you ever been nervous in a job interview?"
+    },
+    {
+      "t": 77.12,
+      "text": "Oh yes, many times, especially when I had to talk about my experience."
+    },
+    {
+      "t": 82.54,
+      "text": "Same here."
+    },
+    {
+      "t": 83.54,
+      "text": "It's one of the hardest parts because you want to sound confident and professional."
+    },
+    {
+      "t": 87.8,
+      "text": "Exactly."
+    },
+    {
+      "t": 89.1,
+      "text": "But the good news is, once you learn the structure, it becomes much easier."
+    },
+    {
+      "t": 93.7,
+      "text": "Alright everyone, let's get started."
+    },
+    {
+      "t": 96.22,
+      "text": "Let's begin with a simple question."
+    },
+    {
+      "t": 98.62,
+      "text": "When an interviewer asks, tell me about your work experience, what are they really looking"
+    },
+    {
+      "t": 103.3,
+      "text": "for?"
+    },
+    {
+      "t": 104.3,
+      "text": "Great question!"
+    },
+    {
+      "t": 105.46,
+      "text": "They want to understand three main things."
+    },
+    {
+      "t": 108.04,
+      "text": "What you did, what skills you have, and how you can help their company."
+    },
+    {
+      "t": 112.46,
+      "text": "So it's not just about listing your jobs."
+    },
+    {
+      "t": 115.46,
+      "text": "Exactly."
+    },
+    {
+      "t": 116.46,
+      "text": "about explaining your experience in a meaningful way."
+    },
+    {
+      "t": 119.8,
+      "text": "So how should we start our answer?"
+    },
+    {
+      "t": 122.68,
+      "text": "A simple and effective way is to start with your current or most recent job."
+    },
+    {
+      "t": 127.4,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 128.96,
+      "text": "Sure, you can say, I currently work as a marketing assistant at a digital agency."
+    },
+    {
+      "t": 134.64,
+      "text": "That's clear and direct?"
+    },
+    {
+      "t": 136.64,
+      "text": "Yes, then you explain what you do."
+    },
+    {
+      "t": 138.96,
+      "text": "Like your responsibilities?"
+    },
+    {
+      "t": 141.0,
+      "text": "Exactly."
+    },
+    {
+      "t": 141.88,
+      "text": "For example, in my role, I manage social media accounts, create content, and analyze campaign"
+    },
+    {
+      "t": 148.0,
+      "text": "performance."
+    },
+    {
+      "t": 149.0,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 150.96,
+      "text": "Yes, and it's important to use action verbs, like manage, create, analyze, develop, and"
+    },
+    {
+      "t": 157.48,
+      "text": "coordinate."
+    },
+    {
+      "t": 158.48,
+      "text": "Good point."
+    },
+    {
+      "t": 159.84,
+      "text": "Action verbs make your experience sound stronger."
+    },
+    {
+      "t": 162.8,
+      "text": "Exactly."
+    },
+    {
+      "t": 163.8,
+      "text": "Now, let's build a complete answer together."
+    },
+    {
+      "t": 166.6,
+      "text": "Okay."
+    },
+    {
+      "t": 167.6,
+      "text": "Start with your job."
+    },
+    {
+      "t": 169.04,
+      "text": "I currently work as a customer service representative."
+    },
+    {
+      "t": 172.6,
+      "text": "Good. Now add responsibilities."
+    },
+    {
+      "t": 175.24,
+      "text": "My main responsibilities include answering customer inquiries,"
+    },
+    {
+      "t": 179.58,
+      "text": "solving problems, and providing support."
+    },
+    {
+      "t": 182.6,
+      "text": "Excellent. Now add an achievement."
+    },
+    {
+      "t": 185.16,
+      "text": "I also improved customer satisfaction by 15%."
+    },
+    {
+      "t": 189.56,
+      "text": "Perfect. That's a strong answer."
+    },
+    {
+      "t": 192.28,
+      "text": "So achievements are important too."
+    },
+    {
+      "t": 194.86,
+      "text": "Very important. They show results, not just tasks."
+    },
+    {
+      "t": 198.88,
+      "text": "I see. Now let's talk about past experience."
+    },
+    {
+      "t": 202.48,
+      "text": "Yes, if you had previous jobs, you can talk about them using the past tense."
+    },
+    {
+      "t": 207.52,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 209.02,
+      "text": "Sure. Before this role, I worked as a sales assistant, where I helped customers and increased"
+    },
+    {
+      "t": 214.8,
+      "text": "sales."
+    },
+    {
+      "t": 215.8,
+      "text": "That's simple and clear?"
+    },
+    {
+      "t": 217.2,
+      "text": "Yes. You don't need long sentences."
+    },
+    {
+      "t": 220.24,
+      "text": "Now let's talk about structure. Is there a simple way to organize your answer?"
+    },
+    {
+      "t": 225.0,
+      "text": "Yes, a very useful method is present, past, and future."
+    },
+    {
+      "t": 229.76,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 231.16,
+      "text": "First, talk about your current job,"
+    },
+    {
+      "t": 233.46,
+      "text": "then your past experience."
+    },
+    {
+      "t": 235.4,
+      "text": "Finally, connect it to the future."
+    },
+    {
+      "t": 237.88,
+      "text": "So you explain how your experience helps you in this job."
+    },
+    {
+      "t": 241.8,
+      "text": "Exactly."
+    },
+    {
+      "t": 243.28,
+      "text": "Let's try an example."
+    },
+    {
+      "t": 244.88,
+      "text": "Go ahead."
+    },
+    {
+      "t": 245.92,
+      "text": "I currently work as a project coordinator"
+    },
+    {
+      "t": 248.84,
+      "text": "where I manage timelines and communicate with clients."
+    },
+    {
+      "t": 252.48,
+      "text": "Before this, I worked as an assistant"
+    },
+    {
+      "t": 254.92,
+      "text": "where I developed strong organizational skills."
+    },
+    {
+      "t": 258.12,
+      "text": "I believe this experience will help me succeed in this role."
+    },
+    {
+      "t": 262.0,
+      "text": "That's excellent, very clear and structured."
+    },
+    {
+      "t": 265.08,
+      "text": "Thank you."
+    },
+    {
+      "t": 266.0,
+      "text": "Now let's talk about a common mistake."
+    },
+    {
+      "t": 268.36,
+      "text": "Many people just list their responsibilities."
+    },
+    {
+      "t": 271.56,
+      "text": "Like saying I answer emails, I attend meetings,"
+    },
+    {
+      "t": 275.22,
+      "text": "I write reports."
+    },
+    {
+      "t": 276.72,
+      "text": "Exactly, that's not enough detail."
+    },
+    {
+      "t": 279.32,
+      "text": "So what should they do?"
+    },
+    {
+      "t": 281.16,
+      "text": "Add details and results."
+    },
+    {
+      "t": 283.2,
+      "text": "explain how your work made a difference."
+    },
+    {
+      "t": 285.96,
+      "text": "That makes sense."
+    },
+    {
+      "t": 287.2,
+      "text": "Now let's do a role play."
+    },
+    {
+      "t": 288.96,
+      "text": "I'll be the interviewer."
+    },
+    {
+      "t": 290.64,
+      "text": "Okay, I'm ready."
+    },
+    {
+      "t": 292.04,
+      "text": "Can you tell me about your work experience?"
+    },
+    {
+      "t": 294.64,
+      "text": "Yes, of course."
+    },
+    {
+      "t": 295.92,
+      "text": "I currently work as a software developer"
+    },
+    {
+      "t": 298.4,
+      "text": "at a tech company."
+    },
+    {
+      "t": 299.82,
+      "text": "My main responsibilities include developing applications,"
+    },
+    {
+      "t": 303.36,
+      "text": "fixing bugs and collaborating with my team."
+    },
+    {
+      "t": 306.32,
+      "text": "In my previous role, I worked as a junior developer"
+    },
+    {
+      "t": 309.42,
+      "text": "where I learned programming skills"
+    },
+    {
+      "t": 311.08,
+      "text": "and improved system performance."
+    },
+    {
+      "t": 313.16,
+      "text": "I believe my experience has prepared me well for this position."
+    },
+    {
+      "t": 316.84,
+      "text": "That's a great answer."
+    },
+    {
+      "t": 318.48,
+      "text": "Thank you."
+    },
+    {
+      "t": 319.36,
+      "text": "Now let's talk about people with little or no experience."
+    },
+    {
+      "t": 323.08,
+      "text": "Yes, students often worry about this."
+    },
+    {
+      "t": 325.98,
+      "text": "If you don't have work experience,"
+    },
+    {
+      "t": 328.04,
+      "text": "you can talk about internships, projects, or studies."
+    },
+    {
+      "t": 331.84,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 333.4,
+      "text": "I recently graduated, and during my studies,"
+    },
+    {
+      "t": 336.6,
+      "text": "I worked on several projects where"
+    },
+    {
+      "t": 338.48,
+      "text": "I developed teamwork and problem solving skills."
+    },
+    {
+      "t": 341.64,
+      "text": "That's helpful."
+    },
+    {
+      "t": 342.84,
+      "text": "You can also mention volunteer work or part-time jobs."
+    },
+    {
+      "t": 346.56,
+      "text": "So everything counts as experience."
+    },
+    {
+      "t": 349.4,
+      "text": "Exactly."
+    },
+    {
+      "t": 350.64,
+      "text": "Now let's talk about confidence."
+    },
+    {
+      "t": 353.08,
+      "text": "Yes, confidence is key."
+    },
+    {
+      "t": 355.72,
+      "text": "Even if your English is not perfect,"
+    },
+    {
+      "t": 357.94,
+      "text": "you should speak clearly and calmly."
+    },
+    {
+      "t": 360.52,
+      "text": "And don't rush, take your time."
+    },
+    {
+      "t": 363.08,
+      "text": "Now let's practice another role play."
+    },
+    {
+      "t": 365.72,
+      "text": "Great idea."
+    },
+    {
+      "t": 366.84,
+      "text": "You ask the question."
+    },
+    {
+      "t": 368.4,
+      "text": "Okay, tell me about your work experience."
+    },
+    {
+      "t": 371.44,
+      "text": "Yes, of course! I currently work as a software developer at a tech company."
+    },
+    {
+      "t": 376.44,
+      "text": "My main responsibilities include developing applications, fixing bugs, and collaborating with my team."
+    },
+    {
+      "t": 383.44,
+      "text": "In my previous role, I worked as a junior developer where I learned programming skills and improved system performance."
+    },
+    {
+      "t": 390.44,
+      "text": "I believe my experience and skills make me a great fit for this position."
+    },
+    {
+      "t": 395.44,
+      "text": "That's a great answer!"
+    },
+    {
+      "t": 397.44,
+      "text": "Thank you! Now let's talk about common mistakes."
+    },
+    {
+      "t": 400.44,
+      "text": "Yes, very important."
+    },
+    {
+      "t": 403.44,
+      "text": "Mistake number one, giving very short answers."
+    },
+    {
+      "t": 406.88,
+      "text": "Like saying, I worked in sales."
+    },
+    {
+      "t": 409.24,
+      "text": "Exactly, that's not enough detail."
+    },
+    {
+      "t": 412.16,
+      "text": "Mistake number two, speaking too much without structure."
+    },
+    {
+      "t": 415.72,
+      "text": "Yes, long and confusing answers."
+    },
+    {
+      "t": 419.3,
+      "text": "Mistake number three, using incorrect grammar."
+    },
+    {
+      "t": 423.04,
+      "text": "Especially mixing past tense and present tense."
+    },
+    {
+      "t": 426.24,
+      "text": "Mistake number four, not giving examples."
+    },
+    {
+      "t": 429.8,
+      "text": "support your answer with examples. Now let's do a longer role play."
+    },
+    {
+      "t": 434.92,
+      "text": "Great idea."
+    },
+    {
+      "t": 435.92,
+      "text": "You're the interviewer again."
+    },
+    {
+      "t": 437.56,
+      "text": "Okay. Can you describe your work experience in detail?"
+    },
+    {
+      "t": 441.56,
+      "text": "Certainly. I currently work as an operations assistant at a logistics company. My role"
+    },
+    {
+      "t": 447.72,
+      "text": "involves coordinating shipments, communicating with clients, and managing schedules. I"
+    },
+    {
+      "t": 453.28,
+      "text": "have improved efficiency by organizing workflows. Previously, I worked as an intern where"
+    },
+    {
+      "t": 459.24,
+      "text": "where I learned basic operations and developed teamwork skills."
+    },
+    {
+      "t": 463.24,
+      "text": "Overall, my experience has helped me become organized, detail-oriented, and adaptable."
+    },
+    {
+      "t": 469.24,
+      "text": "That's a very strong answer."
+    },
+    {
+      "t": 471.24,
+      "text": "Thank you. Now let's talk about adding numbers."
+    },
+    {
+      "t": 475.24,
+      "text": "Numbers?"
+    },
+    {
+      "t": 476.24,
+      "text": "Yes, numbers make your experience more powerful."
+    },
+    {
+      "t": 480.24,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 481.24,
+      "text": "I increased sales by 20%, or I managed a team of five people."
+    },
+    {
+      "t": 487.24,
+      "text": "That sounds impressive."
+    },
+    {
+      "t": 488.24,
+      "text": "Exactly. Numbers show real results. Now let's practice that."
+    },
+    {
+      "t": 493.24,
+      "text": "Okay."
+    },
+    {
+      "t": 494.24,
+      "text": "I handled over 50 customer calls per day and improved response time."
+    },
+    {
+      "t": 499.24,
+      "text": "Perfect."
+    },
+    {
+      "t": 500.24,
+      "text": "Now let's talk about ending your answer."
+    },
+    {
+      "t": 503.24,
+      "text": "Yes, you should finish strong."
+    },
+    {
+      "t": 505.24,
+      "text": "How? Connect your experience to the job."
+    },
+    {
+      "t": 509.24,
+      "text": "Like saying, I believe my experience makes me a strong candidate for this position."
+    },
+    {
+      "t": 514.24,
+      "text": "That's a great closing."
+    },
+    {
+      "t": 516.24,
+      "text": "Now let's wrap everything into one final example."
+    },
+    {
+      "t": 520.24,
+      "text": "Okay."
+    },
+    {
+      "t": 521.24,
+      "text": "Go ahead."
+    },
+    {
+      "t": 522.24,
+      "text": "I currently work as a financial analyst where I analyze data and prepare reports."
+    },
+    {
+      "t": 528.24,
+      "text": "I have improved reporting accuracy by 25%."
+    },
+    {
+      "t": 532.24,
+      "text": "Previously, I worked as an assistant where I developed strong analytical skills."
+    },
+    {
+      "t": 537.24,
+      "text": "I believe my experience and skills make me a great fit for this role."
+    },
+    {
+      "t": 542.24,
+      "text": "That's an excellent answer."
+    },
+    {
+      "t": 544.24,
+      "text": "Thank you."
+    },
+    {
+      "t": 545.24,
+      "text": "Now let's summarize."
+    },
+    {
+      "t": 547.24,
+      "text": "Start with your current job."
+    },
+    {
+      "t": 549.24,
+      "text": "Explain your responsibilities."
+    },
+    {
+      "t": 551.24,
+      "text": "Add achievements and results."
+    },
+    {
+      "t": 553.24,
+      "text": "Talk about past experience."
+    },
+    {
+      "t": 555.24,
+      "text": "Use clear structure."
+    },
+    {
+      "t": 557.24,
+      "text": "And finish by connecting to the job."
+    },
+    {
+      "t": 560.24,
+      "text": "Most importantly, be confident and clear."
+    },
+    {
+      "t": 563.24,
+      "text": "Practice your answers before the interview."
+    },
+    {
+      "t": 566.24,
+      "text": "Try speaking out loud."
+    },
+    {
+      "t": 568.24,
+      "text": "Record yourself and listen."
+    },
+    {
+      "t": 570.24,
+      "text": "Improve step by step."
+    },
+    {
+      "t": 572.24,
+      "text": "Now it's your turn."
+    },
+    {
+      "t": 574.24,
+      "text": "Practice explaining your work experience today."
+    },
+    {
+      "t": 577.32,
+      "text": "Even if it's simple, start practicing."
+    },
+    {
+      "t": 579.96,
+      "text": "Every small step helps."
+    },
+    {
+      "t": 582.16,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 584.36,
+      "text": "Keep practicing and stay confident."
+    },
+    {
+      "t": 587.0,
+      "text": "We'll see you in the next episode."
+    },
+    {
+      "t": 589.04,
+      "text": "Goodbye."
+    },
+    {
+      "t": 589.92,
+      "text": "We're really happy to have you with us today."
+    },
+    {
+      "t": 592.56,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 593.36,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 594.72,
+      "text": "If you're here to improve your English for job interviews,"
+    },
+    {
+      "t": 597.6,
+      "text": "you're definitely in the right place."
+    },
+    {
+      "t": 599.88,
+      "text": "I'm Sarah."
+    },
+    {
+      "t": 600.88,
+      "text": "And I'm Daniel."
+    },
+    {
+      "t": 602.2,
+      "text": "On this podcast, we help you speak clear, confident business English in real life situations."
+    },
+    {
+      "t": 608.64,
+      "text": "And today's topic is incredibly practical and important."
+    },
+    {
+      "t": 612.84,
+      "text": "We're going to talk about how to explain your work experience in a job interview."
+    },
+    {
+      "t": 617.48,
+      "text": "This is one of the most important skills you can have because honestly, in an interview,"
+    },
+    {
+      "t": 622.6,
+      "text": "this is where you either impress the interviewer or lose their attention."
+    },
+    {
+      "t": 626.92,
+      "text": "Exactly."
+    },
+    {
+      "t": 627.92,
+      "text": "You might have great experience, but if you don't explain it clearly, it won't"
+    },
+    {
+      "t": 631.92,
+      "text": "help you. So today we're going to help you speak naturally, professionally, and"
+    },
+    {
+      "t": 636.32,
+      "text": "confidently when talking about your work experience. We'll give you real"
+    },
+    {
+      "t": 640.68,
+      "text": "examples, useful phrases, and we'll even practice full interview answers together."
+    },
+    {
+      "t": 645.36,
+      "text": "Sounds great. So Sarah, before we begin, quick question, how are you today? I'm"
+    },
+    {
+      "t": 651.12,
+      "text": "doing really well. I actually had a mock interview session this morning with a"
+    },
+    {
+      "t": 655.16,
+      "text": "student, so this topic feels very fresh. How about you? I'm great. I'm"
+    },
+    {
+      "t": 660.04,
+      "text": "I'm excited because this is something many learners struggle with, and today we're going"
+    },
+    {
+      "t": 664.0,
+      "text": "to make it much easier."
+    },
+    {
+      "t": 665.76,
+      "text": "Absolutely."
+    },
+    {
+      "t": 666.76,
+      "text": "Okay, everyone, let's get started."
+    },
+    {
+      "t": 669.32,
+      "text": "So Sarah, let's begin with the most common interview question related to work experience."
+    },
+    {
+      "t": 674.88,
+      "text": "Yes, the classic one."
+    },
+    {
+      "t": 677.12,
+      "text": "Can you tell me about your work experience?"
+    },
+    {
+      "t": 679.88,
+      "text": "Simple question, but not a simple answer."
+    },
+    {
+      "t": 682.72,
+      "text": "Exactly."
+    },
+    {
+      "t": 683.72,
+      "text": "Many people make the mistake of giving either too little information or too much."
+    },
+    {
+      "t": 688.76,
+      "text": "Right."
+    },
+    {
+      "t": 689.76,
+      "text": "people just list jobs. I worked here, then here, then here."
+    },
+    {
+      "t": 694.32,
+      "text": "And others tell their entire life story for 10 minutes."
+    },
+    {
+      "t": 698.02,
+      "text": "So what's the best approach?"
+    },
+    {
+      "t": 700.22,
+      "text": "The best approach is structure. You need a clear, logical way to explain your experience."
+    },
+    {
+      "t": 706.48,
+      "text": "Let's give a simple structure everyone can follow."
+    },
+    {
+      "t": 709.56,
+      "text": "Yes, you can break it into three parts. Past, present, and key achievements."
+    },
+    {
+      "t": 715.56,
+      "text": "That sounds easy to remember."
+    },
+    {
+      "t": 717.32,
+      "text": "It is. First, briefly talk about your past experience, then describe your current role,"
+    },
+    {
+      "t": 723.52,
+      "text": "and finally highlight your achievements and skills."
+    },
+    {
+      "t": 726.4,
+      "text": "Let's give an example."
+    },
+    {
+      "t": 727.96,
+      "text": "Sure. Here's a simple answer. I started my career as a sales assistant where I learned"
+    },
+    {
+      "t": 733.72,
+      "text": "how to communicate with customers and understand their needs. After that, I moved into a sales"
+    },
+    {
+      "t": 739.36,
+      "text": "executive role where I managed client accounts and increased sales by 20%. Currently, I work"
+    },
+    {
+      "t": 746.32,
+      "text": "as a sales manager, leading a team of five and developing sales strategies."
+    },
+    {
+      "t": 751.56,
+      "text": "That's a great answer! It's clear, structured, and easy to follow."
+    },
+    {
+      "t": 755.84,
+      "text": "And notice something important. It's not too long."
+    },
+    {
+      "t": 759.44,
+      "text": "Yes, that's key. Interviews are conversations, not speeches."
+    },
+    {
+      "t": 763.8,
+      "text": "Now let's talk about how to describe your responsibilities in your previous jobs."
+    },
+    {
+      "t": 768.84,
+      "text": "This is where many learners struggle with vocabulary."
+    },
+    {
+      "t": 771.96,
+      "text": "True, but the good news is, you don't need complicated words."
+    },
+    {
+      "t": 775.96,
+      "text": "Simple, clear English is best."
+    },
+    {
+      "t": 778.56,
+      "text": "So instead of trying to sound impressive with difficult words, focus on being clear."
+    },
+    {
+      "t": 784.16,
+      "text": "Exactly."
+    },
+    {
+      "t": 785.26,
+      "text": "For example, instead of saying something very complex, you can say,"
+    },
+    {
+      "t": 789.76,
+      "text": "I was responsible for managing customer inquiries and handling complaints."
+    },
+    {
+      "t": 794.36,
+      "text": "Or I worked closely with the marketing team to develop campaigns."
+    },
+    {
+      "t": 798.76,
+      "text": "Yes, let's give more examples for different roles."
+    },
+    {
+      "t": 802.36,
+      "text": "If you're in customer service, I answered customer calls,"
+    },
+    {
+      "t": 806.12,
+      "text": "solved problems, and ensured customer satisfaction."
+    },
+    {
+      "t": 809.64,
+      "text": "If you're in IT, I developed software applications and fixed technical issues."
+    },
+    {
+      "t": 815.4,
+      "text": "If you're in administration, I organized meetings,"
+    },
+    {
+      "t": 818.68,
+      "text": "managed schedules, and prepared reports."
+    },
+    {
+      "t": 821.72,
+      "text": "Notice how simple and clear these sentences are."
+    },
+    {
+      "t": 825.16,
+      "text": "And they sound professional too."
+    },
+    {
+      "t": 827.56,
+      "text": "Now let's move to something very important."
+    },
+    {
+      "t": 830.44,
+      "text": "Talking about achievements."
+    },
+    {
+      "t": 832.48,
+      "text": "Yes, this is where you really stand out in an interview."
+    },
+    {
+      "t": 836.04,
+      "text": "Exactly."
+    },
+    {
+      "t": 837.16,
+      "text": "Many candidates only talk about their duties,"
+    },
+    {
+      "t": 839.8,
+      "text": "but not their achievements."
+    },
+    {
+      "t": 841.84,
+      "text": "So what's the difference?"
+    },
+    {
+      "t": 843.4,
+      "text": "Duties are what you were supposed to do."
+    },
+    {
+      "t": 846.12,
+      "text": "Achievements are what you did successfully."
+    },
+    {
+      "t": 849.0,
+      "text": "Ah, that's a big difference."
+    },
+    {
+      "t": 851.2,
+      "text": "For example, duty, I managed a team."
+    },
+    {
+      "t": 854.92,
+      "text": "Achievement, I managed a team and improved productivity by 30%."
+    },
+    {
+      "t": 860.28,
+      "text": "That's much stronger."
+    },
+    {
+      "t": 862.0,
+      "text": "Yes, numbers make your experience more powerful."
+    },
+    {
+      "t": 866.24,
+      "text": "Let's give more examples."
+    },
+    {
+      "t": 867.96,
+      "text": "I increased sales by 15% in six months."
+    },
+    {
+      "t": 872.12,
+      "text": "I reduced customer complaints by improving service processes."
+    },
+    {
+      "t": 876.24,
+      "text": "I completed a project two weeks ahead of schedule."
+    },
+    {
+      "t": 879.68,
+      "text": "These are the kind of statements interviewers love."
+    },
+    {
+      "t": 882.92,
+      "text": "Now let's talk about a very useful technique, the STAR method."
+    },
+    {
+      "t": 887.32,
+      "text": "Yes, this is extremely helpful for explaining experience clearly."
+    },
+    {
+      "t": 891.78,
+      "text": "STAR stands for Situation, Task, Action, and Result."
+    },
+    {
+      "t": 897.14,
+      "text": "Let's break it down."
+    },
+    {
+      "t": 898.34,
+      "text": "Situation, describe the context."
+    },
+    {
+      "t": 901.26,
+      "text": "Task, explain your responsibility."
+    },
+    {
+      "t": 904.0,
+      "text": "Action, say what you did."
+    },
+    {
+      "t": 906.28,
+      "text": "Result, explain the outcome."
+    },
+    {
+      "t": 908.8,
+      "text": "Let's give a full example."
+    },
+    {
+      "t": 910.82,
+      "text": "Sure."
+    },
+    {
+      "t": 911.72,
+      "text": "In my previous job, we were facing a decline in customer satisfaction situation."
+    },
+    {
+      "t": 917.56,
+      "text": "My task was to improve the service quality, task."
+    },
+    {
+      "t": 921.44,
+      "text": "I introduced a new feedback system and trained the team, action."
+    },
+    {
+      "t": 926.16,
+      "text": "As a result, customer satisfaction increased by 25% result."
+    },
+    {
+      "t": 931.64,
+      "text": "That's an excellent answer."
+    },
+    {
+      "t": 933.48,
+      "text": "It's structured, clear, and impactful."
+    },
+    {
+      "t": 936.4,
+      "text": "Now, Sarah, let's talk about a common problem."
+    },
+    {
+      "t": 939.08,
+      "text": "What if someone doesn't have much experience?"
+    },
+    {
+      "t": 942.08,
+      "text": "Good question."
+    },
+    {
+      "t": 943.08,
+      "text": "This happens a lot, especially for students or fresh graduates."
+    },
+    {
+      "t": 947.08,
+      "text": "So what can they say?"
+    },
+    {
+      "t": 948.84,
+      "text": "They can talk about internships, projects, volunteering,"
+    },
+    {
+      "t": 952.56,
+      "text": "or even academic work."
+    },
+    {
+      "t": 954.4,
+      "text": "So experience doesn't have to be a full-time job?"
+    },
+    {
+      "t": 957.82,
+      "text": "Exactly."
+    },
+    {
+      "t": 958.88,
+      "text": "Any relevant experience counts."
+    },
+    {
+      "t": 961.24,
+      "text": "Give us an example."
+    },
+    {
+      "t": 962.56,
+      "text": "During my studies, I completed a project"
+    },
+    {
+      "t": 965.0,
+      "text": "where I worked in a team to develop a marketing plan."
+    },
+    {
+      "t": 968.16,
+      "text": "I was responsible for research and presentation."
+    },
+    {
+      "t": 971.44,
+      "text": "That sounds professional."
+    },
+    {
+      "t": 972.92,
+      "text": "Yes, and it shows skills like teamwork and communication."
+    },
+    {
+      "t": 977.1,
+      "text": "Now let's talk about common mistakes when explaining work experience."
+    },
+    {
+      "t": 981.28,
+      "text": "Yes, this is very important."
+    },
+    {
+      "t": 984.32,
+      "text": "Mistake number one, being too vague."
+    },
+    {
+      "t": 986.96,
+      "text": "For example, I did many things or I helped the team."
+    },
+    {
+      "t": 991.64,
+      "text": "That doesn't tell the interviewer anything."
+    },
+    {
+      "t": 993.92,
+      "text": "Instead, be specific."
+    },
+    {
+      "t": 995.94,
+      "text": "I helped the team by organizing weekly meetings and tracking progress."
+    },
+    {
+      "t": 1000.86,
+      "text": "Much better."
+    },
+    {
+      "t": 1001.86,
+      "text": "Mistake number two, using incorrect verb tenses."
+    },
+    {
+      "t": 1005.74,
+      "text": "Ah yes, very common."
+    },
+    {
+      "t": 1008.16,
+      "text": "Use past tense for previous jobs."
+    },
+    {
+      "t": 1010.58,
+      "text": "I worked, I managed, I developed."
+    },
+    {
+      "t": 1013.94,
+      "text": "And present tense for your current role."
+    },
+    {
+      "t": 1016.06,
+      "text": "I manage, I lead, I create."
+    },
+    {
+      "t": 1018.82,
+      "text": "Exactly."
+    },
+    {
+      "t": 1020.22,
+      "text": "Mistake number three, speaking too fast or too much."
+    },
+    {
+      "t": 1023.86,
+      "text": "Yes, some candidates get nervous and start talking non-stop."
+    },
+    {
+      "t": 1028.26,
+      "text": "Remember, clarity is more important than speed."
+    },
+    {
+      "t": 1031.5,
+      "text": "Take your time."
+    },
+    {
+      "t": 1032.46,
+      "text": "Speak clearly."
+    },
+    {
+      "t": 1034.02,
+      "text": "OK, Sarah, I think it's time for a full role play."
+    },
+    {
+      "t": 1037.34,
+      "text": "Yes, this will help everyone understand how"
+    },
+    {
+      "t": 1040.1,
+      "text": "to use everything we discussed."
+    },
+    {
+      "t": 1042.26,
+      "text": "I'll be the interviewer, and you'll be the candidate."
+    },
+    {
+      "t": 1045.02,
+      "text": "Perfect."
+    },
+    {
+      "t": 1045.78,
+      "text": "Let's begin."
+    },
+    {
+      "t": 1046.86,
+      "text": "Good morning."
+    },
+    {
+      "t": 1047.58,
+      "text": "Can you tell me about your work experience?"
+    },
+    {
+      "t": 1050.06,
+      "text": "Good morning."
+    },
+    {
+      "t": 1050.82,
+      "text": "Thank you for the opportunity."
+    },
+    {
+      "t": 1052.5,
+      "text": "I have over five years of experience in marketing."
+    },
+    {
+      "t": 1055.74,
+      "text": "I started my career as a marketing assistant"
+    },
+    {
+      "t": 1058.34,
+      "text": "where I supported campaigns and conducted market research."
+    },
+    {
+      "t": 1062.06,
+      "text": "After that, I became a marketing executive"
+    },
+    {
+      "t": 1064.82,
+      "text": "where I managed social media accounts and created content."
+    },
+    {
+      "t": 1068.74,
+      "text": "Currently, I work as a marketing manager"
+    },
+    {
+      "t": 1071.34,
+      "text": "leading a team of five and developing sales strategies."
+    },
+    {
+      "t": 1075.1,
+      "text": "That's a strong answer."
+    },
+    {
+      "t": 1076.66,
+      "text": "Can you describe one of your key achievements?"
+    },
+    {
+      "t": 1079.38,
+      "text": "Certainly."
+    },
+    {
+      "t": 1080.34,
+      "text": "In my current role, I led a campaign that increased our online engagement by 40%."
+    },
+    {
+      "t": 1086.34,
+      "text": "I worked closely with my team to create targeted content and analyze customer behavior."
+    },
+    {
+      "t": 1092.26,
+      "text": "As a result, we saw significant growth in brand awareness."
+    },
+    {
+      "t": 1096.14,
+      "text": "Excellent."
+    },
+    {
+      "t": 1097.26,
+      "text": "What were your main responsibilities in your previous role?"
+    },
+    {
+      "t": 1100.58,
+      "text": "In my previous role, I was responsible for managing social media platforms, creating"
+    },
+    {
+      "t": 1105.66,
+      "text": "content, and analyzing performance."
+    },
+    {
+      "t": 1108.34,
+      "text": "I also collaborated with the design team to develop marketing materials."
+    },
+    {
+      "t": 1112.82,
+      "text": "Very clear. Thank you."
+    },
+    {
+      "t": 1114.66,
+      "text": "Thank you."
+    },
+    {
+      "t": 1115.54,
+      "text": "That was a great example."
+    },
+    {
+      "t": 1117.46,
+      "text": "Yes, and notice how the answers were structured and specific."
+    },
+    {
+      "t": 1121.7,
+      "text": "And not too long."
+    },
+    {
+      "t": 1123.14,
+      "text": "Exactly."
+    },
+    {
+      "t": 1124.34,
+      "text": "Now let's do another quick role play, but this time with the beginner level candidates."
+    },
+    {
+      "t": 1129.3,
+      "text": "Great idea."
+    },
+    {
+      "t": 1130.42,
+      "text": "Ready?"
+    },
+    {
+      "t": 1131.22,
+      "text": "Ready."
+    },
+    {
+      "t": 1131.94,
+      "text": "Can you tell me about your work experience?"
+    },
+    {
+      "t": 1134.34,
+      "text": "I recently graduated so I don't have full-time work experience yet."
+    },
+    {
+      "t": 1138.82,
+      "text": "However, I completed an internship where I assisted with administrative tasks and customer service."
+    },
+    {
+      "t": 1145.14,
+      "text": "I also worked on a team project at university where we developed a business plan."
+    },
+    {
+      "t": 1149.94,
+      "text": "That's a very good answer."
+    },
+    {
+      "t": 1151.7,
+      "text": "Yes, simple but effective."
+    },
+    {
+      "t": 1153.86,
+      "text": "Now let's wrap up with some final advice."
+    },
+    {
+      "t": 1156.58,
+      "text": "Sure. First, always structure your answer."
+    },
+    {
+      "t": 1160.26,
+      "text": "Second, be specific and give examples."
+    },
+    {
+      "t": 1163.46,
+      "text": "Third, highlight achievements, not just duties."
+    },
+    {
+      "t": 1167.14,
+      "text": "And finally, practice."
+    },
+    {
+      "t": 1169.06,
+      "text": "Practice is the key to confidence."
+    },
+    {
+      "t": 1171.7,
+      "text": "Now it's your turn."
+    },
+    {
+      "t": 1173.26,
+      "text": "Try answering this question."
+    },
+    {
+      "t": 1175.3,
+      "text": "Can you tell me about your work experience?"
+    },
+    {
+      "t": 1177.86,
+      "text": "Say it out loud."
+    },
+    {
+      "t": 1178.94,
+      "text": "Practice like a real interview."
+    },
+    {
+      "t": 1180.86,
+      "text": "You can even record yourself and listen."
+    },
+    {
+      "t": 1183.26,
+      "text": "That's a great way to improve."
+    },
+    {
+      "t": 1185.1,
+      "text": "Before we finish, we want to say thank you for listening."
+    },
+    {
+      "t": 1188.42,
+      "text": "Your support means a lot to us."
+    },
+    {
+      "t": 1190.46,
+      "text": "Keep practicing, keep improving,"
+    },
+    {
+      "t": 1192.62,
+      "text": "and don't be afraid of interviews."
+    },
+    {
+      "t": 1195.18,
+      "text": "You can do this."
+    },
+    {
+      "t": 1196.54,
+      "text": "See you in the next episode."
+    },
+    {
+      "t": 1197.94,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1199.14,
+      "text": "Hello."
+    },
+    {
+      "t": 1200.14,
+      "text": "Welcome back to English Talk."
+    },
+    {
+      "t": 1201.74,
+      "text": "We're really happy to have you with us today."
+    },
+    {
+      "t": 1203.82,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 1205.02,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 1206.3,
+      "text": "If you're here to improve your English, you're in the right place."
+    },
+    {
+      "t": 1209.7,
+      "text": "I'm Emily."
+    },
+    {
+      "t": 1210.9,
+      "text": "And I'm Jack."
+    },
+    {
+      "t": 1212.34,
+      "text": "On this channel, we help you speak clear, natural English with confidence in real life"
+    },
+    {
+      "t": 1217.78,
+      "text": "situations."
+    },
+    {
+      "t": 1218.98,
+      "text": "If you enjoyed this lesson, please give us a thumbs up, and don't forget to subscribe."
+    },
+    {
+      "t": 1223.74,
+      "text": "Yes, your support helps us so much."
+    },
+    {
+      "t": 1227.0,
+      "text": "Thank you for being here."
+    },
+    {
+      "t": 1228.54,
+      "text": "So Emily, what are we talking about today?"
+    },
+    {
+      "t": 1231.7,
+      "text": "Today we have a very practical and important topic."
+    },
+    {
+      "t": 1235.22,
+      "text": "We're going to learn how to explain your work experience in a job interview."
+    },
+    {
+      "t": 1239.42,
+      "text": "Oh, this is such an important skill."
+    },
+    {
+      "t": 1242.12,
+      "text": "I think many people struggle with this."
+    },
+    {
+      "t": 1244.78,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1245.94,
+      "text": "Many learners know English, but they don't know how to explain their experience clearly"
+    },
+    {
+      "t": 1250.74,
+      "text": "and confidently."
+    },
+    {
+      "t": 1252.3,
+      "text": "And interviews can be stressful, too."
+    },
+    {
+      "t": 1254.78,
+      "text": "Yes, especially when you're trying to speak in English and make a good impression at the"
+    },
+    {
+      "t": 1259.58,
+      "text": "same time."
+    },
+    {
+      "t": 1260.58,
+      "text": "So, today we're going to make it simple and practical."
+    },
+    {
+      "t": 1264.38,
+      "text": "Exactly."
+    },
+    {
+      "t": 1265.38,
+      "text": "We'll teach useful phrases, give real examples, show common mistakes, and do practice conversations."
+    },
+    {
+      "t": 1272.78,
+      "text": "Sounds perfect."
+    },
+    {
+      "t": 1274.18,
+      "text": "Before we start, how are you feeling today?"
+    },
+    {
+      "t": 1276.34,
+      "text": "I'm feeling great!"
+    },
+    {
+      "t": 1277.66,
+      "text": "I'm excited because this lesson can really help people succeed in interviews."
+    },
+    {
+      "t": 1282.18,
+      "text": "How about you?"
+    },
+    {
+      "t": 1283.18,
+      "text": "I'm feeling good too."
+    },
+    {
+      "t": 1284.62,
+      "text": "Ready to help everyone improve."
+    },
+    {
+      "t": 1286.42,
+      "text": "Great!"
+    },
+    {
+      "t": 1287.42,
+      "text": "Let's get started."
+    },
+    {
+      "t": 1288.42,
+      "text": "So, Emily, let's begin with a common interview question."
+    },
+    {
+      "t": 1292.38,
+      "text": "Yes, one of the most common questions is, can you tell me about your work experience?"
+    },
+    {
+      "t": 1298.38,
+      "text": "That question sounds simple, but it can be difficult to answer."
+    },
+    {
+      "t": 1302.66,
+      "text": "Exactly."
+    },
+    {
+      "t": 1303.82,
+      "text": "Many people don't know how to organize their answer."
+    },
+    {
+      "t": 1306.86,
+      "text": "So what should we do?"
+    },
+    {
+      "t": 1308.58,
+      "text": "You should follow a simple structure, past, present, and results."
+    },
+    {
+      "t": 1313.82,
+      "text": "That sounds easy."
+    },
+    {
+      "t": 1315.06,
+      "text": "Can you explain it?"
+    },
+    {
+      "t": 1316.5,
+      "text": "Yes."
+    },
+    {
+      "t": 1317.5,
+      "text": "First, talk about your past experience, then describe your current role."
+    },
+    {
+      "t": 1322.06,
+      "text": "Finally, mention your achievements or results."
+    },
+    {
+      "t": 1325.46,
+      "text": "Let's start with the past."
+    },
+    {
+      "t": 1327.18,
+      "text": "What should we say?"
+    },
+    {
+      "t": 1328.42,
+      "text": "You can begin with something like, I started my career as…"
+    },
+    {
+      "t": 1332.54,
+      "text": "Example?"
+    },
+    {
+      "t": 1333.54,
+      "text": "I started my career as a sales assistant"
+    },
+    {
+      "t": 1336.18,
+      "text": "in a retail company."
+    },
+    {
+      "t": 1337.62,
+      "text": "That's clear."
+    },
+    {
+      "t": 1338.78,
+      "text": "Yes, and simple."
+    },
+    {
+      "t": 1340.46,
+      "text": "What if I have more experience?"
+    },
+    {
+      "t": 1342.82,
+      "text": "You can add, then I moved on to."
+    },
+    {
+      "t": 1345.74,
+      "text": "Example?"
+    },
+    {
+      "t": 1346.78,
+      "text": "Then I moved on to a marketing role"
+    },
+    {
+      "t": 1349.18,
+      "text": "where I managed social media campaigns."
+    },
+    {
+      "t": 1351.94,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 1353.98,
+      "text": "Exactly."
+    },
+    {
+      "t": 1355.14,
+      "text": "Now let's talk about the present."
+    },
+    {
+      "t": 1357.42,
+      "text": "In this part, you describe your current job."
+    },
+    {
+      "t": 1360.18,
+      "text": "What should we say?"
+    },
+    {
+      "t": 1361.46,
+      "text": "Currently, I work as."
+    },
+    {
+      "t": 1363.34,
+      "text": "For example, currently, I work as a project manager at a tech company."
+    },
+    {
+      "t": 1368.42,
+      "text": "And then we explain responsibilities."
+    },
+    {
+      "t": 1370.82,
+      "text": "Yes."
+    },
+    {
+      "t": 1371.82,
+      "text": "For example, I am responsible for managing clients and delivering projects on time."
+    },
+    {
+      "t": 1377.7,
+      "text": "That's very clear."
+    },
+    {
+      "t": 1379.22,
+      "text": "Exactly."
+    },
+    {
+      "t": 1380.22,
+      "text": "Now the most important part, results."
+    },
+    {
+      "t": 1383.06,
+      "text": "Yes."
+    },
+    {
+      "t": 1384.06,
+      "text": "This is where you show your value."
+    },
+    {
+      "t": 1386.3,
+      "text": "What do you mean by results?"
+    },
+    {
+      "t": 1388.46,
+      "text": "Achievements, improvements, or success stories."
+    },
+    {
+      "t": 1391.98,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 1393.5,
+      "text": "I helped increase sales by 20% in six months."
+    },
+    {
+      "t": 1397.66,
+      "text": "That sounds impressive."
+    },
+    {
+      "t": 1399.06,
+      "text": "Yes, numbers make your answers stronger."
+    },
+    {
+      "t": 1402.22,
+      "text": "So instead of saying, I did a good job, we should be specific."
+    },
+    {
+      "t": 1406.7,
+      "text": "Exactly."
+    },
+    {
+      "t": 1407.7,
+      "text": "Now, let's put everything together."
+    },
+    {
+      "t": 1410.42,
+      "text": "Great idea."
+    },
+    {
+      "t": 1411.42,
+      "text": "I started as a customer service representative."
+    },
+    {
+      "t": 1414.78,
+      "text": "Then I moved on to a team leader role where I supervised five people."
+    },
+    {
+      "t": 1419.34,
+      "text": "Currently, I work as a customer service manager."
+    },
+    {
+      "t": 1422.62,
+      "text": "I am responsible for handling client issues and improving service quality."
+    },
+    {
+      "t": 1427.3,
+      "text": "I helped reduce customer complaints by 30%."
+    },
+    {
+      "t": 1431.18,
+      "text": "That's a perfect answer."
+    },
+    {
+      "t": 1432.74,
+      "text": "It sounds natural and professional."
+    },
+    {
+      "t": 1435.18,
+      "text": "Yes, and easy to remember."
+    },
+    {
+      "t": 1437.66,
+      "text": "Now let's talk about common mistakes."
+    },
+    {
+      "t": 1440.34,
+      "text": "Good idea."
+    },
+    {
+      "t": 1441.66,
+      "text": "Mistake number one."
+    },
+    {
+      "t": 1442.9,
+      "text": "Speaking too generally."
+    },
+    {
+      "t": 1444.78,
+      "text": "Example?"
+    },
+    {
+      "t": 1445.78,
+      "text": "I worked in a company and did many things."
+    },
+    {
+      "t": 1448.98,
+      "text": "That's not clear."
+    },
+    {
+      "t": 1450.3,
+      "text": "Exactly."
+    },
+    {
+      "t": 1451.42,
+      "text": "You need to give details."
+    },
+    {
+      "t": 1453.66,
+      "text": "Mistake number two."
+    },
+    {
+      "t": 1455.26,
+      "text": "Talking too much without structure."
+    },
+    {
+      "t": 1457.54,
+      "text": "So the interviewer gets confused."
+    },
+    {
+      "t": 1460.3,
+      "text": "Yes."
+    },
+    {
+      "t": 1461.46,
+      "text": "Always organize your answer."
+    },
+    {
+      "t": 1463.7,
+      "text": "Mistake number three."
+    },
+    {
+      "t": 1465.38,
+      "text": "Using incorrect tense."
+    },
+    {
+      "t": 1467.54,
+      "text": "Past for previous jobs, present for current job?"
+    },
+    {
+      "t": 1471.34,
+      "text": "Exactly."
+    },
+    {
+      "t": 1472.46,
+      "text": "Mistake number four."
+    },
+    {
+      "t": 1474.02,
+      "text": "Being too negative."
+    },
+    {
+      "t": 1475.7,
+      "text": "Like complaining about past jobs?"
+    },
+    {
+      "t": 1478.34,
+      "text": "Yes, always stay positive."
+    },
+    {
+      "t": 1481.08,
+      "text": "Now let's do a role play."
+    },
+    {
+      "t": 1483.16,
+      "text": "Great."
+    },
+    {
+      "t": 1483.92,
+      "text": "Can you tell me about your work experience?"
+    },
+    {
+      "t": 1486.64,
+      "text": "Yes, I started as a junior accountant."
+    },
+    {
+      "t": 1489.84,
+      "text": "Good."
+    },
+    {
+      "t": 1490.52,
+      "text": "Continue."
+    },
+    {
+      "t": 1491.4,
+      "text": "Then I worked as a senior accountant"
+    },
+    {
+      "t": 1493.68,
+      "text": "where I handled financial reports."
+    },
+    {
+      "t": 1495.92,
+      "text": "Nice."
+    },
+    {
+      "t": 1496.68,
+      "text": "Currently, I am a finance manager."
+    },
+    {
+      "t": 1498.96,
+      "text": "I manage a team of five people."
+    },
+    {
+      "t": 1501.2,
+      "text": "Excellent."
+    },
+    {
+      "t": 1502.2,
+      "text": "Add results."
+    },
+    {
+      "t": 1503.52,
+      "text": "I improved reporting efficiency by 25%."
+    },
+    {
+      "t": 1507.08,
+      "text": "perfect answer. Thank you. Let's try a bad example. Okay. I worked in many jobs. I did"
+    },
+    {
+      "t": 1514.66,
+      "text": "a lot of tasks. That's too vague. Yes, not good. Let me improve it. Go ahead. I started"
+    },
+    {
+      "t": 1522.66,
+      "text": "as an assistant. Then I became a coordinator. Now I work as a manager. Much better. Let's"
+    },
+    {
+      "t": 1529.42,
+      "text": "Let's add more detail."
+    },
+    {
+      "t": 1531.02,
+      "text": "Yes."
+    },
+    {
+      "t": 1532.02,
+      "text": "I manage projects and coordinate teams."
+    },
+    {
+      "t": 1535.42,
+      "text": "Excellent improvement."
+    },
+    {
+      "t": 1536.42,
+      "text": "Now, let's talk about confidence."
+    },
+    {
+      "t": 1538.82,
+      "text": "Yes, this is very important."
+    },
+    {
+      "t": 1541.82,
+      "text": "Confidence comes from preparation and practice."
+    },
+    {
+      "t": 1544.7,
+      "text": "So we should practice our answers before the interview."
+    },
+    {
+      "t": 1548.06,
+      "text": "Exactly."
+    },
+    {
+      "t": 1549.22,
+      "text": "You can practice in front of a mirror."
+    },
+    {
+      "t": 1551.42,
+      "text": "Or with a friend."
+    },
+    {
+      "t": 1552.66,
+      "text": "Yes."
+    },
+    {
+      "t": 1553.66,
+      "text": "Now let's do a longer role-play interview."
+    },
+    {
+      "t": 1556.38,
+      "text": "Perfect."
+    },
+    {
+      "t": 1557.38,
+      "text": "Good morning."
+    },
+    {
+      "t": 1558.38,
+      "text": "tell me about your work experience?"
+    },
+    {
+      "t": 1560.66,
+      "text": "Good morning. Thank you for the opportunity. I started as a marketing assistant."
+    },
+    {
+      "t": 1565.54,
+      "text": "Go on."
+    },
+    {
+      "t": 1566.34,
+      "text": "In that role, I supported campaigns and created content."
+    },
+    {
+      "t": 1570.3,
+      "text": "Good detail."
+    },
+    {
+      "t": 1571.62,
+      "text": "Then I became a marketing executive where I managed social media accounts."
+    },
+    {
+      "t": 1576.7,
+      "text": "Nice."
+    },
+    {
+      "t": 1577.58,
+      "text": "Currently, I am a marketing manager. I lead a team and plan strategies."
+    },
+    {
+      "t": 1582.26,
+      "text": "Excellent."
+    },
+    {
+      "t": 1583.38,
+      "text": "I increased online engagement by 40% in one year."
+    },
+    {
+      "t": 1587.62,
+      "text": "That's a strong answer."
+    },
+    {
+      "t": 1589.22,
+      "text": "Thank you."
+    },
+    {
+      "t": 1590.02,
+      "text": "Let's talk about another common question."
+    },
+    {
+      "t": 1592.74,
+      "text": "Yes, what are your key responsibilities?"
+    },
+    {
+      "t": 1595.7,
+      "text": "How do we answer that?"
+    },
+    {
+      "t": 1597.22,
+      "text": "Use simple sentences like, I am responsible for."
+    },
+    {
+      "t": 1600.98,
+      "text": "Example?"
+    },
+    {
+      "t": 1601.94,
+      "text": "I am responsible for managing clients and preparing reports."
+    },
+    {
+      "t": 1606.1,
+      "text": "Very clear."
+    },
+    {
+      "t": 1607.22,
+      "text": "Another question is, what did you achieve?"
+    },
+    {
+      "t": 1610.18,
+      "text": "That's about results."
+    },
+    {
+      "t": 1612.1,
+      "text": "Yes, you can say, I successfully."
+    },
+    {
+      "t": 1615.14,
+      "text": "Example?"
+    },
+    {
+      "t": 1616.1,
+      "text": "I successfully completed a project ahead of schedule."
+    },
+    {
+      "t": 1619.62,
+      "text": "That sounds great!"
+    },
+    {
+      "t": 1621.06,
+      "text": "Now, let's do one more full example."
+    },
+    {
+      "t": 1623.86,
+      "text": "Okay."
+    },
+    {
+      "t": 1624.66,
+      "text": "I started as a software developer."
+    },
+    {
+      "t": 1627.14,
+      "text": "Then?"
+    },
+    {
+      "t": 1627.86,
+      "text": "I worked on multiple projects and improved system performance."
+    },
+    {
+      "t": 1631.94,
+      "text": "Good."
+    },
+    {
+      "t": 1632.74,
+      "text": "I am currently a senior developer leading a team."
+    },
+    {
+      "t": 1636.18,
+      "text": "Nice."
+    },
+    {
+      "t": 1636.98,
+      "text": "I reduced system errors by 50%."
+    },
+    {
+      "t": 1640.18,
+      "text": "Excellent answer."
+    },
+    {
+      "t": 1641.62,
+      "text": "Thank you."
+    },
+    {
+      "t": 1642.42,
+      "text": "Today we learned how to explain work experience in a job interview."
+    },
+    {
+      "t": 1646.74,
+      "text": "We covered structure, useful phrases, mistakes, and practice examples."
+    },
+    {
+      "t": 1652.02,
+      "text": "The key is to be clear, structured, and confident."
+    },
+    {
+      "t": 1655.86,
+      "text": "Yes, and use real examples with results."
+    },
+    {
+      "t": 1659.3,
+      "text": "Practice regularly."
+    },
+    {
+      "t": 1660.98,
+      "text": "And keep your English simple and natural."
+    },
+    {
+      "t": 1663.7,
+      "text": "Thank you everyone for joining us today."
+    },
+    {
+      "t": 1666.26,
+      "text": "Keep practicing and we'll see you next time."
+    },
+    {
+      "t": 1668.74,
+      "text": "Bye everyone."
+    },
+    {
+      "t": 1669.78,
+      "text": "Goodbye!"
+    },
+    {
+      "t": 1670.78,
+      "text": "We're really happy to have you with us today."
+    },
+    {
+      "t": 1673.34,
+      "text": "Hi everyone!"
+    },
+    {
+      "t": 1674.34,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 1675.66,
+      "text": "If you're here to improve your English for job interviews, you're in the right place."
+    },
+    {
+      "t": 1680.5,
+      "text": "I'm Emily."
+    },
+    {
+      "t": 1681.82,
+      "text": "And I'm Jack."
+    },
+    {
+      "t": 1682.98,
+      "text": "And today we're going to help you master one of the most important parts of any"
+    },
+    {
+      "t": 1687.22,
+      "text": "interview."
+    },
+    {
+      "t": 1688.22,
+      "text": "Yes, today's topic is incredibly practical and powerful."
+    },
+    {
+      "t": 1692.7,
+      "text": "We're going to talk about how to explain your work experience in a job interview."
+    },
+    {
+      "t": 1697.58,
+      "text": "This is a game-changer, because honestly, it doesn't matter how much experience you have"
+    },
+    {
+      "t": 1703.46,
+      "text": "if you can't explain it clearly."
+    },
+    {
+      "t": 1705.9,
+      "text": "Exactly."
+    },
+    {
+      "t": 1706.9,
+      "text": "You might have amazing skills, but if you struggle to describe them, the interviewer may not"
+    },
+    {
+      "t": 1711.84,
+      "text": "see your true value."
+    },
+    {
+      "t": 1713.92,
+      "text": "So today, we'll teach you how to explain your experience step by step, using simple"
+    },
+    {
+      "t": 1719.16,
+      "text": "and natural English."
+    },
+    {
+      "t": 1720.86,
+      "text": "We'll also share real examples, common mistakes, and practice conversations so"
+    },
+    {
+      "t": 1726.14,
+      "text": "so you can feel confident in your next interview."
+    },
+    {
+      "t": 1728.94,
+      "text": "Sounds great."
+    },
+    {
+      "t": 1730.1,
+      "text": "So Emily, before we begin, how are you feeling today?"
+    },
+    {
+      "t": 1734.06,
+      "text": "I'm feeling great."
+    },
+    {
+      "t": 1735.22,
+      "text": "I'm excited because this topic"
+    },
+    {
+      "t": 1736.82,
+      "text": "can really help people get better jobs."
+    },
+    {
+      "t": 1739.34,
+      "text": "What about you?"
+    },
+    {
+      "t": 1740.5,
+      "text": "Same here."
+    },
+    {
+      "t": 1741.38,
+      "text": "I think this is one of the most useful lessons"
+    },
+    {
+      "t": 1743.54,
+      "text": "we've ever done."
+    },
+    {
+      "t": 1745.06,
+      "text": "All right, everyone, let's get started."
+    },
+    {
+      "t": 1747.42,
+      "text": "Okay, Emily, let's begin"
+    },
+    {
+      "t": 1749.18,
+      "text": "with a very common interview question."
+    },
+    {
+      "t": 1752.26,
+      "text": "You mean the classic one?"
+    },
+    {
+      "t": 1754.22,
+      "text": "Yes, can you tell me about your work experience?"
+    },
+    {
+      "t": 1757.82,
+      "text": "Ah, yes, this question comes up in almost every interview."
+    },
+    {
+      "t": 1762.34,
+      "text": "And many people don't know how to answer it properly."
+    },
+    {
+      "t": 1765.74,
+      "text": "They either say too little or too much."
+    },
+    {
+      "t": 1769.34,
+      "text": "Exactly."
+    },
+    {
+      "t": 1770.34,
+      "text": "So, let's break it down."
+    },
+    {
+      "t": 1772.02,
+      "text": "When you answer this question, you should follow a simple structure."
+    },
+    {
+      "t": 1776.34,
+      "text": "Structure is key."
+    },
+    {
+      "t": 1777.9,
+      "text": "Without structure, your answer can sound confusing."
+    },
+    {
+      "t": 1780.98,
+      "text": "Right."
+    },
+    {
+      "t": 1781.98,
+      "text": "Basic structure is past, present, and key achievements."
+    },
+    {
+      "t": 1786.7,
+      "text": "Let's explain that clearly."
+    },
+    {
+      "t": 1788.54,
+      "text": "First, you talk about your past experience,"
+    },
+    {
+      "t": 1791.9,
+      "text": "then you talk about your current job or most recent role,"
+    },
+    {
+      "t": 1795.78,
+      "text": "and finally, you highlight your achievements or skills."
+    },
+    {
+      "t": 1799.74,
+      "text": "Let's give an example."
+    },
+    {
+      "t": 1800.9,
+      "text": "I'll go first."
+    },
+    {
+      "t": 1802.22,
+      "text": "Go ahead."
+    },
+    {
+      "t": 1803.42,
+      "text": "I started my career as a customer service assistant"
+    },
+    {
+      "t": 1806.7,
+      "text": "where I helped customers and handled complaints."
+    },
+    {
+      "t": 1809.58,
+      "text": "After two years, I moved into a sales role, where I developed strong communication skills."
+    },
+    {
+      "t": 1815.26,
+      "text": "Currently, I work as a sales executive, and I've increased sales by 20% in the past year."
+    },
+    {
+      "t": 1821.42,
+      "text": "That's a perfect answer."
+    },
+    {
+      "t": 1823.42,
+      "text": "It's clear, structured, and includes results."
+    },
+    {
+      "t": 1826.98,
+      "text": "Yes, and notice I didn't use very complicated words."
+    },
+    {
+      "t": 1831.06,
+      "text": "That's important."
+    },
+    {
+      "t": 1832.46,
+      "text": "Simple English is often more effective."
+    },
+    {
+      "t": 1835.3,
+      "text": "Now, let's talk about something important."
+    },
+    {
+      "t": 1837.74,
+      "text": "Many people just list their jobs."
+    },
+    {
+      "t": 1840.54,
+      "text": "Yes, like, I worked here, then I worked there, then I worked somewhere else."
+    },
+    {
+      "t": 1846.04,
+      "text": "Exactly. That's not enough."
+    },
+    {
+      "t": 1848.24,
+      "text": "You need to explain what you did and what you achieved."
+    },
+    {
+      "t": 1852.04,
+      "text": "So instead of saying, I worked in marketing, you should say something like,"
+    },
+    {
+      "t": 1856.64,
+      "text": "I worked in marketing where I managed social media campaigns and increased engagement."
+    },
+    {
+      "t": 1862.34,
+      "text": "Perfect."
+    },
+    {
+      "t": 1863.24,
+      "text": "Always add action and results."
+    },
+    {
+      "t": 1866.04,
+      "text": "Let's talk about useful phrases."
+    },
+    {
+      "t": 1868.58,
+      "text": "Emily, can you give us some?"
+    },
+    {
+      "t": 1870.48,
+      "text": "Sure, you can start with,"
+    },
+    {
+      "t": 1872.44,
+      "text": "I have X years of experience in,"
+    },
+    {
+      "t": 1875.96,
+      "text": "that's a great opening."
+    },
+    {
+      "t": 1877.76,
+      "text": "You can also say,"
+    },
+    {
+      "t": 1879.12,
+      "text": "in my previous role,"
+    },
+    {
+      "t": 1880.56,
+      "text": "I was responsible for,"
+    },
+    {
+      "t": 1882.86,
+      "text": "very common and very useful."
+    },
+    {
+      "t": 1885.7,
+      "text": "Another one is,"
+    },
+    {
+      "t": 1886.96,
+      "text": "I worked closely with,"
+    },
+    {
+      "t": 1889.3,
+      "text": "that shows teamwork."
+    },
+    {
+      "t": 1891.16,
+      "text": "And one of my main achievements was,"
+    },
+    {
+      "t": 1895.14,
+      "text": "That's powerful. It shows results."
+    },
+    {
+      "t": 1898.1,
+      "text": "Let's build a full answer together."
+    },
+    {
+      "t": 1900.66,
+      "text": "Okay, I'll try. Go ahead."
+    },
+    {
+      "t": 1903.46,
+      "text": "I have three years of experience in digital marketing."
+    },
+    {
+      "t": 1907.14,
+      "text": "In my previous role, I managed social media accounts and created content."
+    },
+    {
+      "t": 1912.42,
+      "text": "I worked closely with the design team to improve our brand image."
+    },
+    {
+      "t": 1916.9,
+      "text": "One of my main achievements was increasing our online engagement by 30%."
+    },
+    {
+      "t": 1921.38,
+      "text": "percent."
+    },
+    {
+      "t": 1922.38,
+      "text": "Excellent."
+    },
+    {
+      "t": 1923.38,
+      "text": "That's a strong and professional answer."
+    },
+    {
+      "t": 1926.14,
+      "text": "Thanks."
+    },
+    {
+      "t": 1927.14,
+      "text": "Now, let's talk about another common question."
+    },
+    {
+      "t": 1930.5,
+      "text": "You mean, what did you do in your last job?"
+    },
+    {
+      "t": 1933.58,
+      "text": "Yes, exactly."
+    },
+    {
+      "t": 1935.44,
+      "text": "This question is similar but more focused on your most recent experience."
+    },
+    {
+      "t": 1940.1,
+      "text": "So you should go into more detail."
+    },
+    {
+      "t": 1942.54,
+      "text": "Right."
+    },
+    {
+      "t": 1943.54,
+      "text": "Talk about your daily tasks, responsibilities, and impact."
+    },
+    {
+      "t": 1947.78,
+      "text": "Let's give a practical example."
+    },
+    {
+      "t": 1949.74,
+      "text": "Okay?"
+    },
+    {
+      "t": 1950.74,
+      "text": "In my last job, I worked as an administrative assistant."
+    },
+    {
+      "t": 1954.5,
+      "text": "My main responsibilities included managing emails, scheduling meetings, and preparing"
+    },
+    {
+      "t": 1959.66,
+      "text": "reports."
+    },
+    {
+      "t": 1960.66,
+      "text": "I also supported the team by organizing documents and improving office processes."
+    },
+    {
+      "t": 1966.26,
+      "text": "That's very clear."
+    },
+    {
+      "t": 1968.46,
+      "text": "But we can make it even better by adding results."
+    },
+    {
+      "t": 1971.66,
+      "text": "Yes, always add results if possible."
+    },
+    {
+      "t": 1975.1,
+      "text": "So we can say, I also helped improve office efficiency by organizing documents and creating"
+    },
+    {
+      "t": 1981.34,
+      "text": "a new filing system."
+    },
+    {
+      "t": 1983.26,
+      "text": "Perfect!"
+    },
+    {
+      "t": 1984.26,
+      "text": "Now it sounds more impressive."
+    },
+    {
+      "t": 1985.86,
+      "text": "Now, let's talk about something beginners."
+    },
+    {
+      "t": 1989.14,
+      "text": "What if someone doesn't have much work experience?"
+    },
+    {
+      "t": 1992.42,
+      "text": "Good question."
+    },
+    {
+      "t": 1993.42,
+      "text": "In that case, you can talk about internships, projects, or even school experience."
+    },
+    {
+      "t": 1998.9,
+      "text": "So experience doesn't have to be a full-time job."
+    },
+    {
+      "t": 2002.54,
+      "text": "Exactly."
+    },
+    {
+      "t": 2003.54,
+      "text": "For example, I recently graduated and during my studies I worked on several group projects"
+    },
+    {
+      "t": 2008.92,
+      "text": "where I developed teamwork and communication skills."
+    },
+    {
+      "t": 2012.66,
+      "text": "That's a great way to show potential."
+    },
+    {
+      "t": 2015.08,
+      "text": "You can also mention volunteering."
+    },
+    {
+      "t": 2017.06,
+      "text": "Yes, like I volunteered at a local organization where I helped organize events and manage"
+    },
+    {
+      "t": 2023.38,
+      "text": "social media."
+    },
+    {
+      "t": 2025.06,
+      "text": "That's valuable experience."
+    },
+    {
+      "t": 2026.78,
+      "text": "Now, let's talk about something very important, storytelling."
+    },
+    {
+      "t": 2031.22,
+      "text": "Ah, yes, interviews are not just about facts, they're about stories."
+    },
+    {
+      "t": 2036.9,
+      "text": "Exactly."
+    },
+    {
+      "t": 2038.3,
+      "text": "People remember stories more than lists."
+    },
+    {
+      "t": 2041.02,
+      "text": "So instead of just saying what you did, tell a short story about a situation."
+    },
+    {
+      "t": 2045.82,
+      "text": "Okay."
+    },
+    {
+      "t": 2046.9,
+      "text": "In my previous role, we had a problem with customer complaints."
+    },
+    {
+      "t": 2050.94,
+      "text": "I took the initiative to analyze the feedback and suggested changes to our process."
+    },
+    {
+      "t": 2056.46,
+      "text": "As a result, customer satisfaction improved significantly."
+    },
+    {
+      "t": 2060.86,
+      "text": "It's a great story."
+    },
+    {
+      "t": 2061.92,
+      "text": "It shows problem-solving skills."
+    },
+    {
+      "t": 2064.46,
+      "text": "And initiative."
+    },
+    {
+      "t": 2065.96,
+      "text": "And results."
+    },
+    {
+      "t": 2067.46,
+      "text": "Exactly."
+    },
+    {
+      "t": 2068.66,
+      "text": "Now let's practice a full interview answer."
+    },
+    {
+      "t": 2071.18,
+      "text": "I'll be the interviewer."
+    },
+    {
+      "t": 2072.7,
+      "text": "Okay, I'm ready."
+    },
+    {
+      "t": 2074.5,
+      "text": "Can you tell me about your work experience?"
+    },
+    {
+      "t": 2076.98,
+      "text": "Sure."
+    },
+    {
+      "t": 2077.98,
+      "text": "I have five years of experience in customer service."
+    },
+    {
+      "t": 2081.42,
+      "text": "I started as a customer support assistant where I handled inquiries and solved customer"
+    },
+    {
+      "t": 2086.94,
+      "text": "issues."
+    },
+    {
+      "t": 2088.24,
+      "text": "After two years, I was promoted to team leader where I managed a team of five people."
+    },
+    {
+      "t": 2093.86,
+      "text": "In my current role, I focus on improving customer satisfaction, and I've successfully reduced"
+    },
+    {
+      "t": 2099.24,
+      "text": "complaint response time by 40%."
+    },
+    {
+      "t": 2102.04,
+      "text": "Excellent."
+    },
+    {
+      "t": 2103.04,
+      "text": "That's a very strong answer."
+    },
+    {
+      "t": 2105.24,
+      "text": "Thanks."
+    },
+    {
+      "t": 2106.24,
+      "text": "Now, let's improve it even more."
+    },
+    {
+      "t": 2108.88,
+      "text": "Add a personal touch."
+    },
+    {
+      "t": 2110.6,
+      "text": "Okay?"
+    },
+    {
+      "t": 2111.6,
+      "text": "I really enjoy helping customers and finding solutions to their problems."
+    },
+    {
+      "t": 2116.44,
+      "text": "Perfect."
+    },
+    {
+      "t": 2117.44,
+      "text": "It shows personality."
+    },
+    {
+      "t": 2119.04,
+      "text": "Now, let's talk about common mistakes."
+    },
+    {
+      "t": 2122.2,
+      "text": "Yes, this is very important."
+    },
+    {
+      "t": 2125.14,
+      "text": "Mistake number one, being too vague."
+    },
+    {
+      "t": 2128.24,
+      "text": "For example, I did many things."
+    },
+    {
+      "t": 2131.48,
+      "text": "That doesn't tell the interviewer anything."
+    },
+    {
+      "t": 2134.48,
+      "text": "Always be specific."
+    },
+    {
+      "t": 2136.48,
+      "text": "Mistake number two, using too many technical words."
+    },
+    {
+      "t": 2140.28,
+      "text": "Yes, especially if the interviewer may not understand them."
+    },
+    {
+      "t": 2144.32,
+      "text": "Keep your language simple and clear."
+    },
+    {
+      "t": 2147.22,
+      "text": "Mistake number three, not mentioning results."
+    },
+    {
+      "t": 2150.78,
+      "text": "This is a big one."
+    },
+    {
+      "t": 2152.86,
+      "text": "Always try to include numbers or outcomes."
+    },
+    {
+      "t": 2156.06,
+      "text": "Like increased sales, reduced costs, or improved efficiency."
+    },
+    {
+      "t": 2161.38,
+      "text": "Mistake number four, speaking too long."
+    },
+    {
+      "t": 2164.3,
+      "text": "Yes, don't give a ten minute answer."
+    },
+    {
+      "t": 2167.58,
+      "text": "Keep it concise but meaningful."
+    },
+    {
+      "t": 2169.86,
+      "text": "Now let's do another role play."
+    },
+    {
+      "t": 2172.18,
+      "text": "Great idea."
+    },
+    {
+      "t": 2173.38,
+      "text": "This time I'll be the interviewer."
+    },
+    {
+      "t": 2175.42,
+      "text": "Okay, I'm ready."
+    },
+    {
+      "t": 2177.18,
+      "text": "Can you describe your previous work experience?"
+    },
+    {
+      "t": 2180.5,
+      "text": "Of course, I have four years of experience in project management."
+    },
+    {
+      "t": 2185.02,
+      "text": "In my previous role, I managed multiple projects and coordinated with different teams."
+    },
+    {
+      "t": 2190.38,
+      "text": "I was responsible for planning timelines, allocating resources, and ensuring projects"
+    },
+    {
+      "t": 2195.9,
+      "text": "were completed on time."
+    },
+    {
+      "t": 2197.96,
+      "text": "One of my key achievements was successfully delivering a major project two weeks ahead"
+    },
+    {
+      "t": 2202.98,
+      "text": "of schedule."
+    },
+    {
+      "t": 2203.98,
+      "text": "That's excellent."
+    },
+    {
+      "t": 2205.92,
+      "text": "Thank you."
+    },
+    {
+      "t": 2206.92,
+      "text": "Notice how clear and confident that sounded."
+    },
+    {
+      "t": 2209.92,
+      "text": "Yes, confidence is very important."
+    },
+    {
+      "t": 2212.72,
+      "text": "Even if your English is not perfect, confidence makes a big difference."
+    },
+    {
+      "t": 2217.12,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2218.6,
+      "text": "Now let's do one more example, for beginners."
+    },
+    {
+      "t": 2221.8,
+      "text": "Okay?"
+    },
+    {
+      "t": 2222.8,
+      "text": "I don't have much work experience yet, but I recently completed an internship where"
+    },
+    {
+      "t": 2227.72,
+      "text": "I assisted with marketing tasks."
+    },
+    {
+      "t": 2230.0,
+      "text": "I helped create content and learned how to manage social media accounts."
+    },
+    {
+      "t": 2234.44,
+      "text": "I'm eager to learn and develop my skills further."
+    },
+    {
+      "t": 2237.94,
+      "text": "That's a great answer for someone starting out."
+    },
+    {
+      "t": 2240.4,
+      "text": "Yes, it shows willingness to learn."
+    },
+    {
+      "t": 2243.36,
+      "text": "Now let's wrap up with some final advice."
+    },
+    {
+      "t": 2246.28,
+      "text": "First, always prepare your answer before the interview."
+    },
+    {
+      "t": 2250.68,
+      "text": "Practice speaking out loud."
+    },
+    {
+      "t": 2252.44,
+      "text": "Second, use simple and clear English."
+    },
+    {
+      "t": 2255.88,
+      "text": "Third, focus on your achievements, not just your duties."
+    },
+    {
+      "t": 2260.24,
+      "text": "And finally, be confident and natural."
+    },
+    {
+      "t": 2263.48,
+      "text": "Remember, your experience is valuable."
+    },
+    {
+      "t": 2266.08,
+      "text": "You just need to explain it well."
+    },
+    {
+      "t": 2268.4,
+      "text": "Exactly."
+    },
+    {
+      "t": 2269.4,
+      "text": "Now, it's your turn."
+    },
+    {
+      "t": 2271.4,
+      "text": "Think about your own work experience."
+    },
+    {
+      "t": 2273.76,
+      "text": "How would you describe it in English?"
+    },
+    {
+      "t": 2276.12,
+      "text": "Try using the structure we taught today."
+    },
+    {
+      "t": 2278.64,
+      "text": "Write it down, practice it, and say it out loud."
+    },
+    {
+      "t": 2282.06,
+      "text": "The more you practice, the more confident you'll become."
+    },
+    {
+      "t": 2285.4,
+      "text": "And confidence is key in any interview."
+    },
+    {
+      "t": 2288.2,
+      "text": "Alright, everyone, that's all for today."
+    },
+    {
+      "t": 2291.04,
+      "text": "Thank you so much for listening."
+    },
+    {
+      "t": 2292.96,
+      "text": "Keep practicing, keep learning, and don't give up."
+    },
+    {
+      "t": 2296.24,
+      "text": "We'll see you in the next episode."
+    },
+    {
+      "t": 2298.64,
+      "text": "Goodbye everyone."
+    },
+    {
+      "t": 2299.64,
+      "text": "Goodbye."
+    },
+    {
+      "t": 2300.64,
+      "text": "We're really happy to have you with us today."
+    },
+    {
+      "t": 2307.32,
+      "text": "Hi everyone."
+    },
+    {
+      "t": 2308.32,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 2309.8,
+      "text": "If you're here to improve your English for job interviews, you're absolutely in the"
+    },
+    {
+      "t": 2313.96,
+      "text": "right place."
+    },
+    {
+      "t": 2314.96,
+      "text": "I'm Emily."
+    },
+    {
+      "t": 2315.96,
+      "text": "And I'm Jack."
+    },
+    {
+      "t": 2317.08,
+      "text": "And on this channel, we help you speak clear, confident, and natural English in real"
+    },
+    {
+      "t": 2322.44,
+      "text": "life professional situations."
+    },
+    {
+      "t": 2324.76,
+      "text": "If you enjoy this lesson, don't forget to support us."
+    },
+    {
+      "t": 2327.64,
+      "text": "Yes, your support means a lot to us."
+    },
+    {
+      "t": 2330.68,
+      "text": "So Emily, what are we talking about today?"
+    },
+    {
+      "t": 2333.36,
+      "text": "Today's topic is extremely important and practical."
+    },
+    {
+      "t": 2336.72,
+      "text": "We're going to learn how to explain your work experience in a job interview."
+    },
+    {
+      "t": 2341.04,
+      "text": "That's a big one."
+    },
+    {
+      "t": 2342.04,
+      "text": "I think many people feel nervous about this question."
+    },
+    {
+      "t": 2345.2,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2346.2,
+      "text": "When an interviewer says, tell me about your work experience, many people don't know"
+    },
+    {
+      "t": 2350.52,
+      "text": "where to start."
+    },
+    {
+      "t": 2352.0,
+      "text": "Or they talk too much, or too little."
+    },
+    {
+      "t": 2354.96,
+      "text": "Exactly!"
+    },
+    {
+      "t": 2355.96,
+      "text": "So today, we'll show you how to answer clearly, professionally, and confidently, with lots"
+    },
+    {
+      "t": 2361.3,
+      "text": "of practical examples."
+    },
+    {
+      "t": 2363.2,
+      "text": "And we'll also practice together so you can use these phrases in your own interviews."
+    },
+    {
+      "t": 2368.24,
+      "text": "Perfect!"
+    },
+    {
+      "t": 2369.24,
+      "text": "So, Jack, before we begin, how are you feeling today?"
+    },
+    {
+      "t": 2372.32,
+      "text": "I'm feeling great!"
+    },
+    {
+      "t": 2373.32,
+      "text": "I'm excited because this topic can really help people succeed in interviews."
+    },
+    {
+      "t": 2377.8,
+      "text": "How about you?"
+    },
+    {
+      "t": 2378.8,
+      "text": "I feel the same."
+    },
+    {
+      "t": 2379.8,
+      "text": "I think this lesson will be very useful."
+    },
+    {
+      "t": 2381.88,
+      "text": "Great! So, let's get started!"
+    },
+    {
+      "t": 2383.88,
+      "text": "Okay, let's begin with the most common interview request."
+    },
+    {
+      "t": 2387.88,
+      "text": "Can you tell me about your work experience?"
+    },
+    {
+      "t": 2390.38,
+      "text": "Right. This question is almost guaranteed in every interview."
+    },
+    {
+      "t": 2394.88,
+      "text": "Yes, and your answer needs structure. You can't just speak randomly."
+    },
+    {
+      "t": 2399.38,
+      "text": "So, what's the best way to structure it?"
+    },
+    {
+      "t": 2401.88,
+      "text": "A simple and effective structure is past, present, and key achievements."
+    },
+    {
+      "t": 2406.88,
+      "text": "That sounds easy. Can you explain it?"
+    },
+    {
+      "t": 2409.88,
+      "text": "Of course, first talk about your past experience, what you did before, then explain your current"
+    },
+    {
+      "t": 2415.96,
+      "text": "role."
+    },
+    {
+      "t": 2416.96,
+      "text": "Finally, highlight your achievements or results."
+    },
+    {
+      "t": 2419.64,
+      "text": "So, it's like telling a short story about your career."
+    },
+    {
+      "t": 2423.64,
+      "text": "Exactly!"
+    },
+    {
+      "t": 2424.64,
+      "text": "Let me give you an example."
+    },
+    {
+      "t": 2426.12,
+      "text": "I started my career as a sales assistant, where I developed strong communication skills."
+    },
+    {
+      "t": 2431.52,
+      "text": "After that, I worked as a sales executive for three years, managing client accounts"
+    },
+    {
+      "t": 2436.2,
+      "text": "and increasing revenue."
+    },
+    {
+      "t": 2437.96,
+      "text": "Currently, I am a sales manager leading a team of five people."
+    },
+    {
+      "t": 2442.26,
+      "text": "One of my key achievements was increasing sales by 20% in one year."
+    },
+    {
+      "t": 2447.32,
+      "text": "That sounds very clear and professional."
+    },
+    {
+      "t": 2449.6,
+      "text": "Yes, and notice it's not too long and not too short."
+    },
+    {
+      "t": 2453.16,
+      "text": "I like that."
+    },
+    {
+      "t": 2454.16,
+      "text": "It shows progress and results."
+    },
+    {
+      "t": 2456.64,
+      "text": "Now Emily, what if someone has very little experience?"
+    },
+    {
+      "t": 2460.44,
+      "text": "Maybe they are a student or a beginner."
+    },
+    {
+      "t": 2462.72,
+      "text": "Good question."
+    },
+    {
+      "t": 2463.72,
+      "text": "In that case, they can talk about internships, projects, or even volunteer work."
+    },
+    {
+      "t": 2468.72,
+      "text": "So, experience doesn't always mean a full-time job."
+    },
+    {
+      "t": 2472.72,
+      "text": "Exactly. Let me give an example."
+    },
+    {
+      "t": 2474.72,
+      "text": "I recently graduated with a degree in business administration."
+    },
+    {
+      "t": 2478.72,
+      "text": "During my studies, I completed an internship at a marketing company"
+    },
+    {
+      "t": 2482.72,
+      "text": "where I assisted with social media campaigns."
+    },
+    {
+      "t": 2485.72,
+      "text": "I also worked on a group project where we developed a business plan."
+    },
+    {
+      "t": 2488.72,
+      "text": "These experiences helped me build teamwork and communication skills."
+    },
+    {
+      "t": 2492.72,
+      "text": "That's great. It still shows skills and effort."
+    },
+    {
+      "t": 2496.72,
+      "text": "Yes, employers care about skills, not just job titles."
+    },
+    {
+      "t": 2500.72,
+      "text": "Now let's talk about an important detail. Many people just list their responsibilities."
+    },
+    {
+      "t": 2505.72,
+      "text": "Yes, and that's a common mistake."
+    },
+    {
+      "t": 2508.72,
+      "text": "Why is that a problem?"
+    },
+    {
+      "t": 2509.72,
+      "text": "Because responsibilities don't show impact. You need to talk about results."
+    },
+    {
+      "t": 2514.72,
+      "text": "Ah, so instead of saying, I answered emails, you should say something stronger."
+    },
+    {
+      "t": 2520.72,
+      "text": "Exactly. For example, instead of I answered customer emails, say,"
+    },
+    {
+      "t": 2526.0,
+      "text": "I handled customer inquiries and improved response time by 30%."
+    },
+    {
+      "t": 2530.8,
+      "text": "That sounds much more impressive."
+    },
+    {
+      "t": 2532.96,
+      "text": "Yes, because it shows value."
+    },
+    {
+      "t": 2535.2,
+      "text": "Let's practice transforming weak answers into strong ones."
+    },
+    {
+      "t": 2539.44,
+      "text": "Great idea! I'll give a weak sentence, you improve it."
+    },
+    {
+      "t": 2543.36,
+      "text": "Okay, I'm ready."
+    },
+    {
+      "t": 2544.88,
+      "text": "I worked in customer service."
+    },
+    {
+      "t": 2547.04,
+      "text": "Hmm, I worked in customer service where I handled client issues and improved customer satisfaction."
+    },
+    {
+      "t": 2554.54,
+      "text": "Very good. Now add a result."
+    },
+    {
+      "t": 2557.04,
+      "text": "I worked in customer service where I handled client issues and helped increase customer satisfaction ratings."
+    },
+    {
+      "t": 2563.54,
+      "text": "Perfect. That's exactly what interviewers want."
+    },
+    {
+      "t": 2566.54,
+      "text": "Now let's talk about useful phrases you can use."
+    },
+    {
+      "t": 2570.04,
+      "text": "Yes, phrases make your answer sound more natural."
+    },
+    {
+      "t": 2573.54,
+      "text": "Here are some great starters."
+    },
+    {
+      "t": 2575.54,
+      "text": "I have over three years of experience in..."
+    },
+    {
+      "t": 2578.66,
+      "text": "I have a background in..."
+    },
+    {
+      "t": 2580.46,
+      "text": "I previously worked as..."
+    },
+    {
+      "t": 2582.42,
+      "text": "In my current role, I..."
+    },
+    {
+      "t": 2584.62,
+      "text": "One of my main responsibilities is..."
+    },
+    {
+      "t": 2587.38,
+      "text": "One of my key achievements was..."
+    },
+    {
+      "t": 2589.82,
+      "text": "These phrases help you sound fluent and confident."
+    },
+    {
+      "t": 2593.3,
+      "text": "And they're easy to remember."
+    },
+    {
+      "t": 2594.94,
+      "text": "Now let's create a full example together."
+    },
+    {
+      "t": 2597.66,
+      "text": "Great! Imagine you're applying for a marketing job."
+    },
+    {
+      "t": 2601.02,
+      "text": "Okay. Let me try."
+    },
+    {
+      "t": 2602.86,
+      "text": "I have over four years of experience in marketing."
+    },
+    {
+      "t": 2606.36,
+      "text": "I started as a marketing assistant where I supported campaigns and managed social media"
+    },
+    {
+      "t": 2611.66,
+      "text": "accounts."
+    },
+    {
+      "t": 2612.66,
+      "text": "After that, I became a marketing executive where I planned campaigns and worked closely"
+    },
+    {
+      "t": 2617.98,
+      "text": "with clients."
+    },
+    {
+      "t": 2618.98,
+      "text": "Currently, I'm a marketing specialist focusing on digital strategy."
+    },
+    {
+      "t": 2624.02,
+      "text": "One of my key achievements was increasing website traffic by 40%."
+    },
+    {
+      "t": 2629.22,
+      "text": "That's excellent, very clear and structured."
+    },
+    {
+      "t": 2632.06,
+      "text": "Thank you. I followed the formula."
+    },
+    {
+      "t": 2634.06,
+      "text": "Yes, and it works perfectly."
+    },
+    {
+      "t": 2636.06,
+      "text": "Now let's talk about another important skill, being specific."
+    },
+    {
+      "t": 2640.06,
+      "text": "What do you mean by specific?"
+    },
+    {
+      "t": 2642.06,
+      "text": "Use numbers, examples, and details."
+    },
+    {
+      "t": 2645.06,
+      "text": "So instead of saying, I improved sales, say, I increased sales by 15%."
+    },
+    {
+      "t": 2652.06,
+      "text": "Exactly. Numbers make your answers stronger and more believable."
+    },
+    {
+      "t": 2656.06,
+      "text": "That makes sense. What about people who change careers?"
+    },
+    {
+      "t": 2660.06,
+      "text": "Good question. They should connect their past experience to the new role."
+    },
+    {
+      "t": 2664.06,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 2666.06,
+      "text": "Sure. I previously worked in customer service where I developed strong communication and problem-solving skills."
+    },
+    {
+      "t": 2673.06,
+      "text": "I'm now transitioning into sales where I can use these skills to build relationships with clients."
+    },
+    {
+      "t": 2679.06,
+      "text": "That's smart. It shows relevance."
+    },
+    {
+      "t": 2681.06,
+      "text": "Yes. Always connect your experience to the job."
+    },
+    {
+      "t": 2685.06,
+      "text": "Now let's do a role-play interview."
+    },
+    {
+      "t": 2687.06,
+      "text": "Great idea! You be the candidate, I'll be the interviewer."
+    },
+    {
+      "t": 2690.66,
+      "text": "Ready."
+    },
+    {
+      "t": 2691.5,
+      "text": "Can you tell me about your work experience?"
+    },
+    {
+      "t": 2693.94,
+      "text": "Yes, of course."
+    },
+    {
+      "t": 2695.14,
+      "text": "I have over five years of experience in finance."
+    },
+    {
+      "t": 2698.5,
+      "text": "I started as a junior analyst"
+    },
+    {
+      "t": 2700.54,
+      "text": "where I supported senior staff with data analysis."
+    },
+    {
+      "t": 2703.98,
+      "text": "After that, I worked as a financial analyst,"
+    },
+    {
+      "t": 2706.78,
+      "text": "managing reports and forecasting budgets."
+    },
+    {
+      "t": 2709.82,
+      "text": "Currently, I'm a senior analyst, leading a team of three."
+    },
+    {
+      "t": 2713.58,
+      "text": "One of my key achievements"
+    },
+    {
+      "t": 2715.26,
+      "text": "was improving reporting efficiency by 25%."
+    },
+    {
+      "t": 2719.02,
+      "text": "Excellent, that's a strong answer."
+    },
+    {
+      "t": 2721.26,
+      "text": "Now let's improve it even more."
+    },
+    {
+      "t": 2723.5,
+      "text": "Really?"
+    },
+    {
+      "t": 2724.3,
+      "text": "Yes, add a personal touch."
+    },
+    {
+      "t": 2726.66,
+      "text": "Okay, I enjoy working with data"
+    },
+    {
+      "t": 2729.34,
+      "text": "in solving complex problems,"
+    },
+    {
+      "t": 2731.26,
+      "text": "which is why I've grown in this field."
+    },
+    {
+      "t": 2733.5,
+      "text": "Perfect, that adds personality."
+    },
+    {
+      "t": 2735.86,
+      "text": "Let's talk about common mistakes."
+    },
+    {
+      "t": 2738.18,
+      "text": "Yes, this is very important."
+    },
+    {
+      "t": 2740.52,
+      "text": "Mistake one, speaking too generally."
+    },
+    {
+      "t": 2743.58,
+      "text": "like saying I did many tasks."
+    },
+    {
+      "t": 2746.34,
+      "text": "Exactly, be specific."
+    },
+    {
+      "t": 2748.62,
+      "text": "Mistake two, using incorrect tense."
+    },
+    {
+      "t": 2751.92,
+      "text": "So, past jobs equals past tense."
+    },
+    {
+      "t": 2755.22,
+      "text": "Correct, and current job equals present tense."
+    },
+    {
+      "t": 2758.74,
+      "text": "Mistake three, speaking too long."
+    },
+    {
+      "t": 2761.58,
+      "text": "Don't tell your whole life story."
+    },
+    {
+      "t": 2763.98,
+      "text": "Exactly, keep it clear and focused."
+    },
+    {
+      "t": 2766.88,
+      "text": "Now let's do a longer role play interview."
+    },
+    {
+      "t": 2769.48,
+      "text": "Great, I'll start."
+    },
+    {
+      "t": 2770.98,
+      "text": "Can you describe your work experience?"
+    },
+    {
+      "t": 2773.22,
+      "text": "Yes, I have over six years of experience in project management."
+    },
+    {
+      "t": 2777.5,
+      "text": "I began as a project assistant, where I supported project planning and coordination."
+    },
+    {
+      "t": 2783.14,
+      "text": "After that, I became a project coordinator, managing timelines and communication between teams."
+    },
+    {
+      "t": 2789.66,
+      "text": "Currently, I'm a project manager, leading multiple projects and ensuring they are delivered on time."
+    },
+    {
+      "t": 2795.94,
+      "text": "One of my key achievements was successfully completing a project two weeks ahead of schedule."
+    },
+    {
+      "t": 2801.74,
+      "text": "That's excellent, very professional."
+    },
+    {
+      "t": 2804.26,
+      "text": "Let's add a follow-up question."
+    },
+    {
+      "t": 2806.22,
+      "text": "Okay."
+    },
+    {
+      "t": 2807.06,
+      "text": "What skills did you develop in your previous roles?"
+    },
+    {
+      "t": 2809.98,
+      "text": "I developed strong organizational"
+    },
+    {
+      "t": 2812.22,
+      "text": "and communication skills."
+    },
+    {
+      "t": 2813.86,
+      "text": "I also improved my ability to manage deadlines"
+    },
+    {
+      "t": 2816.82,
+      "text": "and work under pressure."
+    },
+    {
+      "t": 2818.18,
+      "text": "Great answer."
+    },
+    {
+      "t": 2819.38,
+      "text": "This is really helpful."
+    },
+    {
+      "t": 2821.06,
+      "text": "Yes, and practice is the key."
+    },
+    {
+      "t": 2823.26,
+      "text": "Let's give one final full example."
+    },
+    {
+      "t": 2825.98,
+      "text": "Go ahead."
+    },
+    {
+      "t": 2826.86,
+      "text": "I have over three years of experience in IT support."
+    },
+    {
+      "t": 2830.74,
+      "text": "I started as a junior technician where I helped resolve basic technical issues."
+    },
+    {
+      "t": 2835.94,
+      "text": "Later, I worked as an IT support specialist, handling more complex problems and supporting"
+    },
+    {
+      "t": 2841.86,
+      "text": "clients remotely."
+    },
+    {
+      "t": 2843.34,
+      "text": "Currently, I'm a senior support engineer where I lead a small team and manage critical"
+    },
+    {
+      "t": 2849.06,
+      "text": "issues."
+    },
+    {
+      "t": 2850.06,
+      "text": "One of my key achievements was reducing system downtime by 30 percent."
+    },
+    {
+      "t": 2854.82,
+      "text": "That's fantastic!"
+    },
+    {
+      "t": 2856.38,
+      "text": "Clear, structured, and impactful."
+    },
+    {
+      "t": 2858.82,
+      "text": "Okay, let's wrap up."
+    },
+    {
+      "t": 2860.7,
+      "text": "We covered a lot today."
+    },
+    {
+      "t": 2862.5,
+      "text": "We learned how to structure your answer."
+    },
+    {
+      "t": 2864.66,
+      "text": "Past, present, and achievements."
+    },
+    {
+      "t": 2867.14,
+      "text": "We learned to be specific."
+    },
+    {
+      "t": 2869.08,
+      "text": "Use numbers and examples."
+    },
+    {
+      "t": 2871.06,
+      "text": "We practiced real interview answers."
+    },
+    {
+      "t": 2873.78,
+      "text": "And we corrected common mistakes."
+    },
+    {
+      "t": 2876.02,
+      "text": "The most important thing is confidence."
+    },
+    {
+      "t": 2878.74,
+      "text": "And preparation."
+    },
+    {
+      "t": 2880.24,
+      "text": "Practice your answer before the interview."
+    },
+    {
+      "t": 2882.5,
+      "text": "Say it out loud."
+    },
+    {
+      "t": 2884.18,
+      "text": "Record yourself if possible."
+    },
+    {
+      "t": 2885.78,
+      "text": "And improve step by step."
+    },
+    {
+      "t": 2887.78,
+      "text": "Now it's your turn."
+    },
+    {
+      "t": 2889.22,
+      "text": "Try answering this question."
+    },
+    {
+      "t": 2891.22,
+      "text": "Can you tell me about your work experience?"
+    },
+    {
+      "t": 2894.22,
+      "text": "Write your answer and practice it."
+    },
+    {
+      "t": 2896.14,
+      "text": "Keep it clear and simple."
+    },
+    {
+      "t": 2898.02,
+      "text": "Thank you so much for joining us today."
+    },
+    {
+      "t": 2900.1,
+      "text": "We hope this lesson helps you succeed in your interviews."
+    },
+    {
+      "t": 2903.34,
+      "text": "Keep practicing your English."
+    },
+    {
+      "t": 2904.94,
+      "text": "And keep improving every day."
+    },
+    {
+      "t": 2907.06,
+      "text": "We'll see you in the next lesson."
+    },
+    {
+      "t": 2908.66,
+      "text": "Goodbye, everyone."
+    }
+  ],
+  "lemmas": [
+    [
+      "work",
+      93
+    ],
+    [
+      "experience",
+      87
+    ],
+    [
+      "answer",
+      63
+    ],
+    [
+      "talk",
+      52
+    ],
+    [
+      "job",
+      44
+    ],
+    [
+      "interview",
+      43
+    ],
+    [
+      "exactly",
+      41
+    ],
+    [
+      "great",
+      37
+    ],
+    [
+      "example",
+      35
+    ],
+    [
+      "role",
+      35
+    ],
+    [
+      "customer",
+      35
+    ],
+    [
+      "one",
+      34
+    ],
+    [
+      "help",
+      33
+    ],
+    [
+      "start",
+      32
+    ],
+    [
+      "clear",
+      31
+    ],
+    [
+      "today",
+      30
+    ],
+    [
+      "good",
+      30
+    ],
+    [
+      "explain",
+      29
+    ],
+    [
+      "say",
+      29
+    ],
+    [
+      "team",
+      29
+    ],
+    [
+      "skill",
+      28
+    ],
+    [
+      "achievement",
+      28
+    ],
+    [
+      "result",
+      28
+    ],
+    [
+      "practice",
+      27
+    ],
+    [
+      "thank",
+      27
+    ],
+    [
+      "important",
+      27
+    ],
+    [
+      "give",
+      27
+    ],
+    [
+      "sound",
+      27
+    ],
+    [
+      "project",
+      27
+    ],
+    [
+      "simple",
+      25
+    ],
+    [
+      "question",
+      25
+    ],
+    [
+      "number",
+      25
+    ],
+    [
+      "sal",
+      24
+    ],
+    [
+      "tell",
+      23
+    ],
+    [
+      "market",
+      23
+    ],
+    [
+      "develop",
+      23
+    ],
+    [
+      "past",
+      23
+    ],
+    [
+      "manag",
+      23
+    ],
+    [
+      "english",
+      22
+    ],
+    [
+      "person",
+      22
+    ],
+    [
+      "improv",
+      22
+    ],
+    [
+      "common",
+      21
+    ],
+    [
+      "many",
+      21
+    ],
+    [
+      "currently",
+      21
+    ],
+    [
+      "mistake",
+      21
+    ],
+    [
+      "much",
+      20
+    ],
+    [
+      "structure",
+      19
+    ],
+    [
+      "key",
+      19
+    ],
+    [
+      "us",
+      18
+    ],
+    [
+      "speak",
+      17
+    ],
+    [
+      "perfect",
+      17
+    ],
+    [
+      "everyone",
+      17
+    ],
+    [
+      "interviewer",
+      17
+    ],
+    [
+      "support",
+      17
+    ],
+    [
+      "show",
+      17
+    ],
+    [
+      "improve",
+      16
+    ],
+    [
+      "assistant",
+      16
+    ],
+    [
+      "responsibiliti",
+      16
+    ],
+    [
+      "strong",
+      16
+    ],
+    [
+      "year",
+      16
+    ],
+    [
+      "learn",
+      15
+    ],
+    [
+      "excellent",
+      15
+    ],
+    [
+      "previous",
+      15
+    ],
+    [
+      "increas",
+      15
+    ],
+    [
+      "exampl",
+      14
+    ],
+    [
+      "current",
+      14
+    ],
+    [
+      "make",
+      14
+    ],
+    [
+      "service",
+      14
+    ],
+    [
+      "add",
+      14
+    ],
+    [
+      "use",
+      13
+    ],
+    [
+      "time",
+      13
+    ],
+    [
+      "keep",
+      13
+    ],
+    [
+      "feel",
+      12
+    ],
+    [
+      "three",
+      12
+    ],
+    [
+      "also",
+      12
+    ],
+    [
+      "client",
+      12
+    ],
+    [
+      "professional",
+      11
+    ],
+    [
+      "someth",
+      11
+    ],
+    [
+      "real",
+      11
+    ],
+    [
+      "useful",
+      11
+    ],
+    [
+      "begin",
+      11
+    ],
+    [
+      "confident",
+      11
+    ],
+    [
+      "social",
+      11
+    ],
+    [
+      "media",
+      11
+    ],
+    [
+      "present",
+      11
+    ],
+    [
+      "try",
+      11
+    ],
+    [
+      "even",
+      11
+    ],
+    [
+      "describe",
+      11
+    ],
+    [
+      "manage",
+      10
+    ],
+    [
+      "campaign",
+      10
+    ],
+    [
+      "task",
+      10
+    ],
+    [
+      "ahead",
+      10
+    ],
+    [
+      "report",
+      10
+    ],
+    [
+      "detail",
+      10
+    ],
+    [
+      "confidence",
+      10
+    ],
+    [
+      "two",
+      10
+    ],
+    [
+      "five",
+      10
+    ],
+    [
+      "handl",
+      10
+    ],
+    [
+      "alway",
+      10
+    ],
+    [
+      "emily",
+      10
+    ],
+    [
+      "career",
+      9
+    ],
+    [
+      "going",
+      9
+    ],
+    [
+      "using",
+      9
+    ],
+    [
+      "clearly",
+      9
+    ],
+    [
+      "structur",
+      9
+    ],
+    [
+      "step",
+      9
+    ],
+    [
+      "phras",
+      9
+    ],
+    [
+      "main",
+      9
+    ],
+    [
+      "problem",
+      9
+    ],
+    [
+      "tense",
+      9
+    ],
+    [
+      "need",
+      9
+    ],
+    [
+      "go",
+      9
+    ],
+    [
+      "mistak",
+      9
+    ],
+    [
+      "manager",
+      9
+    ],
+    [
+      "lead",
+      9
+    ],
+    [
+      "instead",
+      9
+    ],
+    [
+      "responsible",
+      9
+    ],
+    [
+      "specific",
+      9
+    ],
+    [
+      "practical",
+      8
+    ],
+    [
+      "topic",
+      8
+    ],
+    [
+      "long",
+      8
+    ],
+    [
+      "get",
+      8
+    ],
+    [
+      "company",
+      8
+    ],
+    [
+      "sure",
+      8
+    ],
+    [
+      "account",
+      8
+    ],
+    [
+      "satisfaction",
+      8
+    ],
+    [
+      "see",
+      8
+    ],
+    [
+      "first",
+      8
+    ],
+    [
+      "play",
+      8
+    ],
+    [
+      "ready",
+      8
+    ],
+    [
+      "another",
+      8
+    ],
+    [
+      "idea",
+      8
+    ],
+    [
+      "full",
+      8
+    ],
+    [
+      "complet",
+      8
+    ],
+    [
+      "communication",
+      8
+    ],
+    [
+      "join",
+      7
+    ],
+    [
+      "way",
+      7
+    ],
+    [
+      "content",
+      7
+    ],
+    [
+      "finally",
+      7
+    ],
+    [
+      "system",
+      7
+    ],
+    [
+      "internship",
+      7
+    ],
+    [
+      "practic",
+      7
+    ],
+    [
+      "situation",
+      7
+    ],
+    [
+      "issu",
+      7
+    ],
+    [
+      "plan",
+      7
+    ],
+    [
+      "mean",
+      7
+    ],
+    [
+      "natural",
+      7
+    ],
+    [
+      "lesson",
+      7
+    ],
+    [
+      "listen",
+      6
+    ],
+    [
+      "absolutely",
+      6
+    ],
+    [
+      "part",
+      6
+    ],
+    [
+      "know",
+      6
+    ],
+    [
+      "list",
+      6
+    ],
+    [
+      "create",
+      6
+    ],
+    [
+      "action",
+      6
+    ],
+    [
+      "together",
+      6
+    ],
+    [
+      "developer",
+      6
+    ],
+    [
+      "teamwork",
+      6
+    ],
+    [
+      "organiz",
+      6
+    ],
+    [
+      "next",
+      6
+    ],
+    [
+      "goodbye",
+      6
+    ],
+    [
+      "easy",
+      6
+    ],
+    [
+      "remember",
+      6
+    ],
+    [
+      "executive",
+      6
+    ],
+    [
+      "notice",
+      6
+    ],
+    [
+      "focus",
+      6
+    ],
+    [
+      "complaint",
+      6
+    ],
+    [
+      "successfully",
+      6
+    ],
+    [
+      "lot",
+      6
+    ],
+    [
+      "think",
+      6
+    ],
+    [
+      "mak",
+      5
+    ],
+    [
+      "hi",
+      5
+    ],
+    [
+      "succe",
+      5
+    ],
+    [
+      "place",
+      5
+    ],
+    [
+      "business",
+      5
+    ],
+    [
+      "every",
+      5
+    ],
+    [
+      "short",
+      5
+    ],
+    [
+      "let",
+      5
+    ],
+    [
+      "especially",
+      5
+    ],
+    [
+      "new",
+      5
+    ],
+    [
+      "thing",
+      5
+    ],
+    [
+      "analyze",
+      5
+    ],
+    [
+      "performance",
+      5
+    ],
+    [
+      "stronger",
+      5
+    ],
+    [
+      "solv",
+      5
+    ],
+    [
+      "connect",
+      5
+    ],
+    [
+      "believe",
+      5
+    ],
+    [
+      "course",
+      5
+    ],
+    [
+      "junior",
+      5
+    ],
+    [
+      "little",
+      5
+    ],
+    [
+      "studi",
+      5
+    ],
+    [
+      "recently",
+      5
+    ],
+    [
+      "graduat",
+      5
+    ],
+    [
+      "volunteer",
+      5
+    ],
+    [
+      "four",
+      5
+    ],
+    [
+      "efficiency",
+      5
+    ],
+    [
+      "impressive",
+      5
+    ],
+    [
+      "loud",
+      5
+    ],
+    [
+      "sarah",
+      5
+    ],
+    [
+      "life",
+      5
+    ],
+    [
+      "morn",
+      5
+    ],
+    [
+      "story",
+      5
+    ],
+    [
+      "follow",
+      5
+    ],
+    [
+      "mov",
+      5
+    ],
+    [
+      "closely",
+      5
+    ],
+    [
+      "ah",
+      5
+    ],
+    [
+      "reduc",
+      5
+    ],
+    [
+      "became",
+      5
+    ],
+    [
+      "creat",
+      5
+    ],
+    [
+      "senior",
+      5
+    ],
+    [
+      "ask",
+      4
+    ],
+    [
+      "nervous",
+      4
+    ],
+    [
+      "episode",
+      4
+    ],
+    [
+      "conversation",
+      4
+    ],
+    [
+      "want",
+      4
+    ],
+    [
+      "understand",
+      4
+    ],
+    [
+      "effective",
+      4
+    ],
+    [
+      "build",
+      4
+    ],
+    [
+      "include",
+      4
+    ],
+    [
+      "inquiri",
+      4
+    ],
+    [
+      "organize",
+      4
+    ],
+    [
+      "email",
+      4
+    ],
+    [
+      "meeting",
+      4
+    ],
+    [
+      "difference",
+      4
+    ],
+    [
+      "software",
+      4
+    ],
+    [
+      "prepar",
+      4
+    ],
+    [
+      "student",
+      4
+    ],
+    [
+      "mention",
+      4
+    ],
+    [
+      "everyth",
+      4
+    ],
+    [
+      "incorrect",
+      4
+    ],
+    [
+      "previously",
+      4
+    ],
+    [
+      "powerful",
+      4
+    ],
+    [
+      "wrap",
+      4
+    ],
+    [
+      "final",
+      4
+    ],
+    [
+      "analyst",
+      4
+    ],
+    [
+      "turn",
+      4
+    ],
+    [
+      "happy",
+      4
+    ],
+    [
+      "excit",
+      4
+    ],
+    [
+      "struggle",
+      4
+    ],
+    [
+      "highlight",
+      4
+    ],
+    [
+      "word",
+      4
+    ],
+    [
+      "duti",
+      4
+    ],
+    [
+      "big",
+      4
+    ],
+    [
+      "schedule",
+      4
+    ],
+    [
+      "someone",
+      4
+    ],
+    [
+      "full-time",
+      4
+    ],
+    [
+      "engagement",
+      4
+    ],
+    [
+      "beginner",
+      4
+    ],
+    [
+      "jack",
+      4
+    ],
+    [
+      "enjoy",
+      4
+    ],
+    [
+      "almost",
+      3
+    ],
+    [
+      "recent",
+      3
+    ],
+    [
+      "digital",
+      3
+    ],
+    [
+      "verb",
+      3
+    ],
+    [
+      "sentenc",
+      3
+    ],
+    [
+      "coordinator",
+      3
+    ],
+    [
+      "timelin",
+      3
+    ],
+    [
+      "write",
+      3
+    ],
+    [
+      "enough",
+      3
+    ],
+    [
+      "tech",
+      3
+    ],
+    [
+      "application",
+      3
+    ],
+    [
+      "fix",
+      3
+    ],
+    [
+      "collaborat",
+      3
+    ],
+    [
+      "position",
+      3
+    ],
+    [
+      "helpful",
+      3
+    ],
+    [
+      "take",
+      3
+    ],
+    [
+      "giv",
+      3
+    ],
+    [
+      "without",
+      3
+    ],
+    [
+      "confus",
+      3
+    ],
+    [
+      "longer",
+      3
+    ],
+    [
+      "schedul",
+      3
+    ],
+    [
+      "basic",
+      3
+    ],
+    [
+      "response",
+      3
+    ],
+    [
+      "finish",
+      3
+    ],
+    [
+      "candidate",
+      3
+    ],
+    [
+      "financial",
+      3
+    ],
+    [
+      "data",
+      3
+    ],
+    [
+      "record",
+      3
+    ],
+    [
+      "either",
+      3
+    ],
+    [
+      "confidently",
+      3
+    ],
+    [
+      "learner",
+      3
+    ],
+    [
+      "break",
+      3
+    ],
+    [
+      "strategi",
+      3
+    ],
+    [
+      "complex",
+      3
+    ],
+    [
+      "ensur",
+      3
+    ],
+    [
+      "technical",
+      3
+    ],
+    [
+      "candidat",
+      3
+    ],
+    [
+      "six",
+      3
+    ],
+    [
+      "process",
+      3
+    ],
+    [
+      "week",
+      3
+    ],
+    [
+      "vague",
+      3
+    ],
+    [
+      "online",
+      3
+    ],
+    [
+      "assist",
+      3
+    ],
+    [
+      "deliver",
+      3
+    ],
+    [
+      "value",
+      3
+    ],
+    [
+      "stori",
+      3
+    ],
+    [
+      "nice",
+      3
+    ],
+    [
+      "multiple",
+      3
+    ],
+    [
+      "change",
+      2
+    ],
+    [
+      "ever",
+      2
+    ],
+    [
+      "oh",
+      2
+    ],
+    [
+      "easier",
+      2
+    ],
+    [
+      "alright",
+      2
+    ],
+    [
+      "meaningful",
+      2
+    ],
+    [
+      "coordinate",
+      2
+    ],
+    [
+      "representative",
+      2
+    ],
+    [
+      "method",
+      2
+    ],
+    [
+      "future",
+      2
+    ],
+    [
+      "communicate",
+      2
+    ],
+    [
+      "organizational",
+      2
+    ],
+    [
+      "sense",
+      2
+    ],
+    [
+      "bug",
+      2
+    ],
+    [
+      "program",
+      2
+    ],
+    [
+      "often",
+      2
+    ],
+    [
+      "several",
+      2
+    ],
+    [
+      "count",
+      2
+    ],
+    [
+      "fit",
+      2
+    ],
+    [
+      "certainly",
+      2
+    ],
+    [
+      "operation",
+      2
+    ],
+    [
+      "coordinat",
+      2
+    ],
+    [
+      "become",
+      2
+    ],
+    [
+      "ad",
+      2
+    ],
+    [
+      "call",
+      2
+    ],
+    [
+      "day",
+      2
+    ],
+    [
+      "prepare",
+      2
+    ],
+    [
+      "small",
+      2
+    ],
+    [
+      "stay",
+      2
+    ],
+    [
+      "incredibly",
+      2
+    ],
+    [
+      "honestly",
+      2
+    ],
+    [
+      "professionally",
+      2
+    ],
+    [
+      "quick",
+      2
+    ],
+    [
+      "fresh",
+      2
+    ],
+    [
+      "classic",
+      2
+    ],
+    [
+      "approach",
+      2
+    ],
+    [
+      "true",
+      2
+    ],
+    [
+      "complicat",
+      2
+    ],
+    [
+      "difficult",
+      2
+    ],
+    [
+      "different",
+      2
+    ],
+    [
+      "rol",
+      2
+    ],
+    [
+      "administration",
+      2
+    ],
+    [
+      "stand",
+      2
+    ],
+    [
+      "month",
+      2
+    ],
+    [
+      "star",
+      2
+    ],
+    [
+      "extremely",
+      2
+    ],
+    [
+      "quality",
+      2
+    ],
+    [
+      "feedback",
+      2
+    ],
+    [
+      "impactful",
+      2
+    ],
+    [
+      "research",
+      2
+    ],
+    [
+      "anyth",
+      2
+    ],
+    [
+      "progress",
+      2
+    ],
+    [
+      "youll",
+      2
+    ],
+    [
+      "opportunity",
+      2
+    ],
+    [
+      "brand",
+      2
+    ],
+    [
+      "design",
+      2
+    ],
+    [
+      "yet",
+      2
+    ],
+    [
+      "administrative",
+      2
+    ],
+    [
+      "advice",
+      2
+    ],
+    [
+      "second",
+      2
+    ],
+    [
+      "third",
+      2
+    ],
+    [
+      "channel",
+      2
+    ],
+    [
+      "forget",
+      2
+    ],
+    [
+      "teach",
+      2
+    ],
+    [
+      "improvement",
+      2
+    ],
+    [
+      "increase",
+      2
+    ],
+    [
+      "leader",
+      2
+    ],
+    [
+      "generally",
+      2
+    ],
+    [
+      "accountant",
+      2
+    ],
+    [
+      "finance",
+      2
+    ],
+    [
+      "com",
+      2
+    ],
+    [
+      "preparation",
+      2
+    ],
+    [
+      "role-play",
+      2
+    ],
+    [
+      "cover",
+      2
+    ],
+    [
+      "includ",
+      2
+    ],
+    [
+      "percent",
+      2
+    ],
+    [
+      "last",
+      2
+    ],
+    [
+      "impact",
+      2
+    ],
+    [
+      "document",
+      2
+    ],
+    [
+      "office",
+      2
+    ],
+    [
+      "possible",
+      2
+    ],
+    [
+      "case",
+      2
+    ],
+    [
+      "group",
+      2
+    ],
+    [
+      "valuable",
+      2
+    ],
+    [
+      "initiative",
+      2
+    ],
+    [
+      "problem-solv",
+      2
+    ],
+    [
+      "personal",
+      2
+    ],
+    [
+      "touch",
+      2
+    ],
+    [
+      "personality",
+      2
+    ],
+    [
+      "management",
+      2
+    ],
+    [
+      "weak",
+      2
+    ],
+    [
+      "specialist",
+      2
+    ],
+    [
+      "equal",
+      2
+    ],
+    [
+      "correct",
+      2
+    ],
+    [
+      "opportuniti",
+      1
+    ],
+    [
+      "sometim",
+      1
+    ],
+    [
+      "tim",
+      1
+    ],
+    [
+      "hardest",
+      1
+    ],
+    [
+      "becom",
+      1
+    ],
+    [
+      "look",
+      1
+    ],
+    [
+      "agency",
+      1
+    ],
+    [
+      "direct",
+      1
+    ],
+    [
+      "point",
+      1
+    ],
+    [
+      "complete",
+      1
+    ],
+    [
+      "provid",
+      1
+    ],
+    [
+      "interest",
+      1
+    ],
+    [
+      "attend",
+      1
+    ],
+    [
+      "worry",
+      1
+    ],
+    [
+      "part-time",
+      1
+    ],
+    [
+      "calmly",
+      1
+    ],
+    [
+      "rush",
+      1
+    ],
+    [
+      "grammar",
+      1
+    ],
+    [
+      "mix",
+      1
+    ],
+    [
+      "logistic",
+      1
+    ],
+    [
+      "involv",
+      1
+    ],
+    [
+      "shipment",
+      1
+    ],
+    [
+      "communicat",
+      1
+    ],
+    [
+      "workflow",
+      1
+    ],
+    [
+      "intern",
+      1
+    ],
+    [
+      "overall",
+      1
+    ],
+    [
+      "detail-orient",
+      1
+    ],
+    [
+      "adaptable",
+      1
+    ],
+    [
+      "per",
+      1
+    ],
+    [
+      "end",
+      1
+    ],
+    [
+      "clos",
+      1
+    ],
+    [
+      "accuracy",
+      1
+    ],
+    [
+      "analytical",
+      1
+    ],
+    [
+      "summarize",
+      1
+    ],
+    [
+      "importantly",
+      1
+    ],
+    [
+      "definitely",
+      1
+    ],
+    [
+      "daniel",
+      1
+    ],
+    [
+      "podcast",
+      1
+    ],
+    [
+      "impress",
+      1
+    ],
+    [
+      "lose",
+      1
+    ],
+    [
+      "attention",
+      1
+    ],
+    [
+      "naturally",
+      1
+    ],
+    [
+      "mock",
+      1
+    ],
+    [
+      "session",
+      1
+    ],
+    [
+      "relat",
+      1
+    ],
+    [
+      "information",
+      1
+    ],
+    [
+      "entire",
+      1
+    ],
+    [
+      "minut",
+      1
+    ],
+    [
+      "logical",
+      1
+    ],
+    [
+      "briefly",
+      1
+    ],
+    [
+      "speech",
+      1
+    ],
+    [
+      "vocabulary",
+      1
+    ],
+    [
+      "move",
+      1
+    ],
+    [
+      "suppos",
+      1
+    ],
+    [
+      "duty",
+      1
+    ],
+    [
+      "productivity",
+      1
+    ],
+    [
+      "kind",
+      1
+    ],
+    [
+      "statement",
+      1
+    ],
+    [
+      "love",
+      1
+    ],
+    [
+      "technique",
+      1
+    ],
+    [
+      "context",
+      1
+    ],
+    [
+      "responsibility",
+      1
+    ],
+    [
+      "outcome",
+      1
+    ],
+    [
+      "fac",
+      1
+    ],
+    [
+      "decline",
+      1
+    ],
+    [
+      "introduc",
+      1
+    ],
+    [
+      "train",
+      1
+    ],
+    [
+      "happen",
+      1
+    ],
+    [
+      "academic",
+      1
+    ],
+    [
+      "relevant",
+      1
+    ],
+    [
+      "presentation",
+      1
+    ],
+    [
+      "weekly",
+      1
+    ],
+    [
+      "track",
+      1
+    ],
+    [
+      "tens",
+      1
+    ],
+    [
+      "fast",
+      1
+    ],
+    [
+      "non-stop",
+      1
+    ],
+    [
+      "clarity",
+      1
+    ],
+    [
+      "spe",
+      1
+    ],
+    [
+      "discuss",
+      1
+    ],
+    [
+      "conduct",
+      1
+    ],
+    [
+      "led",
+      1
+    ],
+    [
+      "target",
+      1
+    ],
+    [
+      "behavior",
+      1
+    ],
+    [
+      "significant",
+      1
+    ],
+    [
+      "growth",
+      1
+    ],
+    [
+      "awareness",
+      1
+    ],
+    [
+      "platform",
+      1
+    ],
+    [
+      "analyz",
+      1
+    ],
+    [
+      "material",
+      1
+    ],
+    [
+      "level",
+      1
+    ],
+    [
+      "however",
+      1
+    ],
+    [
+      "university",
+      1
+    ],
+    [
+      "afraid",
+      1
+    ],
+    [
+      "hello",
+      1
+    ],
+    [
+      "welcome",
+      1
+    ],
+    [
+      "back",
+      1
+    ],
+    [
+      "please",
+      1
+    ],
+    [
+      "thumb",
+      1
+    ],
+    [
+      "subscribe",
+      1
+    ],
+    [
+      "stressful",
+      1
+    ],
+    [
+      "impression",
+      1
+    ],
+    [
+      "retail",
+      1
+    ],
+    [
+      "success",
+      1
+    ],
+    [
+      "put",
+      1
+    ],
+    [
+      "supervis",
+      1
+    ],
+    [
+      "reduce",
+      1
+    ],
+    [
+      "negative",
+      1
+    ],
+    [
+      "complain",
+      1
+    ],
+    [
+      "positive",
+      1
+    ],
+    [
+      "continue",
+      1
+    ],
+    [
+      "bad",
+      1
+    ],
+    [
+      "front",
+      1
+    ],
+    [
+      "mirror",
+      1
+    ],
+    [
+      "friend",
+      1
+    ],
+    [
+      "achieve",
+      1
+    ],
+    [
+      "error",
+      1
+    ],
+    [
+      "regularly",
+      1
+    ],
+    [
+      "bye",
+      1
+    ],
+    [
+      "master",
+      1
+    ],
+    [
+      "game-changer",
+      1
+    ],
+    [
+      "matter",
+      1
+    ],
+    [
+      "amaz",
+      1
+    ],
+    [
+      "share",
+      1
+    ],
+    [
+      "weve",
+      1
+    ],
+    [
+      "done",
+      1
+    ],
+    [
+      "properly",
+      1
+    ],
+    [
+      "somewhere",
+      1
+    ],
+    [
+      "else",
+      1
+    ],
+    [
+      "achiev",
+      1
+    ],
+    [
+      "open",
+      1
+    ],
+    [
+      "image",
+      1
+    ],
+    [
+      "similar",
+      1
+    ],
+    [
+      "daily",
+      1
+    ],
+    [
+      "fil",
+      1
+    ],
+    [
+      "school",
+      1
+    ],
+    [
+      "potential",
+      1
+    ],
+    [
+      "local",
+      1
+    ],
+    [
+      "organization",
+      1
+    ],
+    [
+      "event",
+      1
+    ],
+    [
+      "storytell",
+      1
+    ],
+    [
+      "fact",
+      1
+    ],
+    [
+      "suggest",
+      1
+    ],
+    [
+      "chang",
+      1
+    ],
+    [
+      "significantly",
+      1
+    ],
+    [
+      "promot",
+      1
+    ],
+    [
+      "find",
+      1
+    ],
+    [
+      "solution",
+      1
+    ],
+    [
+      "language",
+      1
+    ],
+    [
+      "outcom",
+      1
+    ],
+    [
+      "cost",
+      1
+    ],
+    [
+      "ten",
+      1
+    ],
+    [
+      "minute",
+      1
+    ],
+    [
+      "concise",
+      1
+    ],
+    [
+      "allocat",
+      1
+    ],
+    [
+      "resourc",
+      1
+    ],
+    [
+      "major",
+      1
+    ],
+    [
+      "eager",
+      1
+    ],
+    [
+      "willingness",
+      1
+    ],
+    [
+      "taught",
+      1
+    ],
+    [
+      "request",
+      1
+    ],
+    [
+      "guarante",
+      1
+    ],
+    [
+      "randomly",
+      1
+    ],
+    [
+      "revenue",
+      1
+    ],
+    [
+      "maybe",
+      1
+    ],
+    [
+      "degree",
+      1
+    ],
+    [
+      "experienc",
+      1
+    ],
+    [
+      "still",
+      1
+    ],
+    [
+      "effort",
+      1
+    ],
+    [
+      "employer",
+      1
+    ],
+    [
+      "care",
+      1
+    ],
+    [
+      "titl",
+      1
+    ],
+    [
+      "transform",
+      1
+    ],
+    [
+      "sentence",
+      1
+    ],
+    [
+      "rating",
+      1
+    ],
+    [
+      "starter",
+      1
+    ],
+    [
+      "background",
+      1
+    ],
+    [
+      "fluent",
+      1
+    ],
+    [
+      "imagine",
+      1
+    ],
+    [
+      "apply",
+      1
+    ],
+    [
+      "strategy",
+      1
+    ],
+    [
+      "website",
+      1
+    ],
+    [
+      "traffic",
+      1
+    ],
+    [
+      "formula",
+      1
+    ],
+    [
+      "perfectly",
+      1
+    ],
+    [
+      "believable",
+      1
+    ],
+    [
+      "transition",
+      1
+    ],
+    [
+      "relationship",
+      1
+    ],
+    [
+      "smart",
+      1
+    ],
+    [
+      "relevance",
+      1
+    ],
+    [
+      "staff",
+      1
+    ],
+    [
+      "analysis",
+      1
+    ],
+    [
+      "forecast",
+      1
+    ],
+    [
+      "budget",
+      1
+    ],
+    [
+      "grown",
+      1
+    ],
+    [
+      "field",
+      1
+    ],
+    [
+      "whole",
+      1
+    ],
+    [
+      "began",
+      1
+    ],
+    [
+      "coordination",
+      1
+    ],
+    [
+      "follow-up",
+      1
+    ],
+    [
+      "ability",
+      1
+    ],
+    [
+      "deadlin",
+      1
+    ],
+    [
+      "pressure",
+      1
+    ],
+    [
+      "technician",
+      1
+    ],
+    [
+      "resolve",
+      1
+    ],
+    [
+      "later",
+      1
+    ],
+    [
+      "remotely",
+      1
+    ],
+    [
+      "engineer",
+      1
+    ],
+    [
+      "critical",
+      1
+    ],
+    [
+      "downtime",
+      1
+    ],
+    [
+      "fantastic",
+      1
+    ],
+    [
+      "hope",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 6750,
+    "unique_words": 603,
+    "duration_min": 48.6
+  }
+}

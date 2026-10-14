@@ -1,9 +1,5 @@
 # 07 · How to Describe Your Job Tasks & Responsibilities Professionally
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 46.2 分钟 · 描述岗位职责（responsibilities→见总词表 02，professionally→见总词表 05）
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -25,18 +21,18 @@
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| responsibilities | n. 职责（标题词，→ 见总词表，02 集已收） | （标题） |
-| professionally | adv. 专业地（标题词，→ 见总词表，05 集已收） | （标题） |
-| deadline | n. 截止日期（→ 见总词表，06 集已收） | （工作语境） |
-| report | n. 报告（A2 降级） | （工作语境：写报告） |
-| polite | adj. 礼貌的（A2 降级，→ 见总词表，05 集已收） | I try to be polite and clear. |
-| project | n. 项目（→ 见总词表，01 集已收） | I've completed the first part of the project. |
-| focus | v. 专注（→ 见总词表，04 集已收） | （工作语境） |
-| emails | n. 邮件（→ 见总词表，05 集已收） | （工作语境） |
-| morning | n. 早晨（A2 降级） | Good morning, Daniel. |
-| busy | adj. 忙的（A2 降级） | Sounds like another busy day. |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| responsibilities | /rɪˌspɒnsəˈbɪlətiz/ | n. 职责（标题词，→ 见总词表，02 集已收） | （标题） |
+| professionally | /prəˈfeʃənəli/ | adv. 专业地（标题词，→ 见总词表，05 集已收） | （标题） |
+| deadline | /ˈdedlaɪn/ | n. 截止日期（→ 见总词表，06 集已收） | （工作语境） |
+| report | /rɪˈpɔːt/ | n. 报告（A2 降级） | （工作语境：写报告） |
+| polite | /pəˈlaɪt/ | adj. 礼貌的（A2 降级，→ 见总词表，05 集已收） | I try to be polite and clear. |
+| project | /ˈprɒdʒekt/ | n. 项目（→ 见总词表，01 集已收） | I've completed the first part of the project. |
+| focus | /ˈfəʊkəs/ | v. 专注（→ 见总词表，04 集已收） | （工作语境） |
+| emails | /ˈiːmeɪlz/ | n. 邮件（→ 见总词表，05 集已收） | （工作语境） |
+| morning | /ˈmɔːnɪŋ/ | n. 早晨（A2 降级） | Good morning, Daniel. |
+| busy | /ˈbɪzi/ | adj. 忙的（A2 降级） | Sounds like another busy day. |
 
 ### 语块（整体记忆，不拆单词）
 

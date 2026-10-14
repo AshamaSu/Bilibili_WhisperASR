@@ -1,9 +1,5 @@
 # 10 · How to Discuss About Changing Your Job Professionally
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 55.1 分钟 · 跳槽话题（discuss/changing/job/professionally 为标题实词；job→见总词表 07）
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -28,17 +24,17 @@
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| role | n. 角色、岗位（→ 见总词表，01 集已收） | …for a role with more flexible working arrangements. |
-| pressure | n. 压力（→ 见总词表，02 集已收） | I've been under a lot of pressure. |
-| challenge | n. 挑战（→ 见总词表，01 集已收） | I'm looking for new challenges. |
-| offer | n. 录用通知/报价（→ 见总词表，06 集已收） | （谈 offer 语境） |
-| positive | adj. 积极的 | It's important to stay positive… |
-| fresh start | 新的开始 | …or maybe you just want a fresh start. |
-| searching | v. 求职中 | …current job to searching for a new one. |
-| improvement | n. 进步（→ 见总词表，01 集已收） | That shows self-awareness and improvement. |
-| working arrangements | n. 工作安排 | …more flexible working arrangements. |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| role | /rəʊl/ | n. 角色、岗位（→ 见总词表，01 集已收） | …for a role with more flexible working arrangements. |
+| pressure | /ˈpreʃə(r)/ | n. 压力（→ 见总词表，02 集已收） | I've been under a lot of pressure. |
+| challenge | /ˈtʃælɪndʒ/ | n. 挑战（→ 见总词表，01 集已收） | I'm looking for new challenges. |
+| offer | /ˈɒfə(r)/ | n. 录用通知/报价（→ 见总词表，06 集已收） | （谈 offer 语境） |
+| positive | /ˈpɒzətɪv/ | adj. 积极的 | It's important to stay positive… |
+| fresh start | /ˌfreʃ ˈstɑːt/ | 新的开始 | …or maybe you just want a fresh start. |
+| searching | /ˈsɜːtʃɪŋ/ | v. 求职中 | …current job to searching for a new one. |
+| improvement | /ɪmˈpruːvmənt/ | n. 进步（→ 见总词表，01 集已收） | That shows self-awareness and improvement. |
+| working arrangements | /ˈwɜːkɪŋ əˈreɪndʒmənts/ | n. 工作安排 | …more flexible working arrangements. |
 
 ### 语块（整体记忆，不拆单词）
 

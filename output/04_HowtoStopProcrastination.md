@@ -1,9 +1,5 @@
 # 04 · How to Stop Procrastination
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 38.5 分钟 · 自我管理/职场心态话题
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -28,17 +24,17 @@
 
 ### 补充词（听中查阅；A1-A2 熟词降级至此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| task | n. 任务（A2 降级） | What is the main task you've been avoiding? |
-| section | n. 部分（报告章节） | Then I could write just one section at a time. |
-| report | n. 报告 | I want the report to be perfect so I keep delaying it. |
-| schedule | v. 安排 | I would also schedule regular check-ins… |
-| classic | adj. 典型的 | That's a classic sign of procrastination. |
-| insightful | adj. 有洞察力的 | That's very insightful. |
-| mindset | n. 心态（→ 见总词表，02 集已收） | …I will work on managing my mindset. |
-| sign | n. 迹象 | That's a classic sign of procrastination. |
-| time management | 时间管理（→ 见总词表，02 集已收） | Procrastination is often linked to emotions, not just time management. |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| task | /tɑːsk/ | n. 任务（A2 降级） | What is the main task you've been avoiding? |
+| section | /ˈsekʃn/ | n. 部分（报告章节） | Then I could write just one section at a time. |
+| report | /rɪˈpɔːt/ | n. 报告 | I want the report to be perfect so I keep delaying it. |
+| schedule | /ˈʃedjuːl/ | v. 安排 | I would also schedule regular check-ins… |
+| classic | /ˈklæsɪk/ | adj. 典型的 | That's a classic sign of procrastination. |
+| insightful | /ˈɪnsaɪtfʊl/ | adj. 有洞察力的 | That's very insightful. |
+| mindset | /ˈmaɪndset/ | n. 心态（→ 见总词表，02 集已收） | …I will work on managing my mindset. |
+| sign | /saɪn/ | n. 迹象 | That's a classic sign of procrastination. |
+| time management | /taɪm ˈmænɪdʒmənt/ | 时间管理（→ 见总词表，02 集已收） | Procrastination is often linked to emotions, not just time management. |
 
 ### 语块（整体记忆，不拆单词）
 

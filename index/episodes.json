@@ -335,13 +335,13 @@
     "slug": "HowtoExplainWorkExperienceinJobInterview",
     "file_stem": "16_HowtoExplainWorkExperienceinJobInterview",
     "duration_min": 48.6,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.997,
+      "word_count": 6763,
+      "repetition_ratio": 0.0385,
       "flags": []
     }
   },
@@ -356,13 +356,13 @@
     "slug": "HowtoTalkAboutYourJobinEnglish",
     "file_stem": "17_HowtoTalkAboutYourJobinEnglish",
     "duration_min": 53.6,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.994,
+      "word_count": 7831,
+      "repetition_ratio": 0.04,
       "flags": []
     }
   },
@@ -377,7 +377,7 @@
     "slug": "HowtoTalkAboutYourAchievementinBusinessMeetings",
     "file_stem": "18_HowtoTalkAboutYourAchievementinBusinessMeetings",
     "duration_min": 41.7,
-    "status": "pending",
+    "status": "transcribing",
     "retries": 0,
     "qa": {
       "language": null,

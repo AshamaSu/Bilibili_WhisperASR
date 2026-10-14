@@ -1,9 +1,5 @@
 # 08 · The Mindset Trap Most Professionals Fall Into Business English Learning
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 74 分钟 · 精力管理/职场思维模式（mindset→见总词表 02；本集为科普向长内容，低频词较多）
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -28,18 +24,18 @@
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| professionals | n. 职场人士（复数语境，标题词 professional 变体） | Every single day, ordinary, intelligent professionals… |
-| collaborative | adj. 协作的 | I suggest we adopt a more collaborative mindset here. |
-| solution-oriented | adj. 解决问题导向的 | …is the solution-oriented mindset. |
-| context switching | 上下文切换 | …shot from constant context switching… |
-| numbing | adj. 麻痹性的 | …active recovery versus numbing. |
-| responsive | adj. 响应迅速的 | And the whole system praises us for being highly responsive. |
-| simultaneously | adv. 同时地 | …cannot focus on two complex, cognitive tasks simultaneously. |
-| cultivate | v. 培养 | …but you never cultivate the leverage required. |
-| scaffolding | n. 脚手架（比喻） | It's time to stop building the scaffolding and start pouring the concrete. |
-| ordinary | adj. 普通的 | Every single day, ordinary, intelligent professionals… |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| professionals | /prəˈfeʃənlz/ | n. 职场人士（复数语境，标题词 professional 变体） | Every single day, ordinary, intelligent professionals… |
+| collaborative | /kəˈlæbərətɪv/ | adj. 协作的 | I suggest we adopt a more collaborative mindset here. |
+| solution-oriented | /səˈluːʃn ˈɔːriəntɪd/ | adj. 解决问题导向的 | …is the solution-oriented mindset. |
+| context switching | /ˈkɒntekst ˈswɪtʃɪŋ/ | 上下文切换 | …shot from constant context switching… |
+| numbing | /ˈnʌmɪŋ/ | adj. 麻痹性的 | …active recovery versus numbing. |
+| responsive | /rɪˈspɒnsɪv/ | adj. 响应迅速的 | And the whole system praises us for being highly responsive. |
+| simultaneously | /ˌsɪmlˈteɪniəsli/ | adv. 同时地 | …cannot focus on two complex, cognitive tasks simultaneously. |
+| cultivate | /ˈkʌltɪveɪt/ | v. 培养 | …but you never cultivate the leverage required. |
+| scaffolding | /ˈskæfəldɪŋ/ | n. 脚手架（比喻） | It's time to stop building the scaffolding and start pouring the concrete. |
+| ordinary | /ˈɔːdnri/ | adj. 普通的 | Every single day, ordinary, intelligent professionals… |
 
 ### 语块（整体记忆，不拆单词）
 

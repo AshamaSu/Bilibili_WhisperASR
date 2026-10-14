@@ -1,9 +1,5 @@
 # 01 · How to explain a project you worked on
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 37.5 分钟 · 面试/汇报通用话题
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -28,19 +24,19 @@
 
 ### 补充词（听中查阅；A1-A2 熟词与已收词归此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| process | n. 流程（降级：可由语块与上下文带出） | You needed to see the entire process. |
-| customer service | 客户服务（团队） | The project was about improving our company's customer support system. |
-| data analysis | 数据分析 | …the IT department, and the data analysis team. |
-| target audience | 目标受众 | First, we researched the target audience. |
-| awareness | n. 认知度 | Awareness means customers knowing about the product. |
-| support tickets | 工单 | …and the number of support tickets. |
-| usability | n. 易用性 | …so we had to redesign them to improve usability. |
-| order processing | 订单处理 | …of our order processing system. |
-| redesign | v. 重新设计 | Some screens were not very intuitive, so we had to redesign them. |
-| purpose | n. 目的 | Let's talk about describing the purpose of the project. |
-| performance review | 绩效评估 | …during a meeting, a performance review, or even a job interview. |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| process | /ˈprəʊses/ | n. 流程（降级：可由语块与上下文带出） | You needed to see the entire process. |
+| customer service | /ˈkʌstəmə ˈsɜːvɪs/ | 客户服务（团队） | The project was about improving our company's customer support system. |
+| data analysis | /ˈdeɪtə əˈnæləsɪs/ | 数据分析 | …the IT department, and the data analysis team. |
+| target audience | /ˈtɑːɡɪt ˈɔːdiəns/ | 目标受众 | First, we researched the target audience. |
+| awareness | /əˈweənəs/ | n. 认知度 | Awareness means customers knowing about the product. |
+| support tickets | /səˈpɔːt ˈtɪkɪts/ | 工单 | …and the number of support tickets. |
+| usability | /ˌjuːzəˈbɪləti/ | n. 易用性 | …so we had to redesign them to improve usability. |
+| order processing | /ˈɔːdə ˈprəʊsesɪŋ/ | 订单处理 | …of our order processing system. |
+| redesign | /ˌriːdɪˈzaɪn/ | v. 重新设计 | Some screens were not very intuitive, so we had to redesign them. |
+| purpose | /ˈpɜːpəs/ | n. 目的 | Let's talk about describing the purpose of the project. |
+| performance review | /ˈpɔːfəməns rɪˈvjuː/ | 绩效评估 | …during a meeting, a performance review, or even a job interview. |
 
 ### 语块（整体记忆，不拆单词）
 

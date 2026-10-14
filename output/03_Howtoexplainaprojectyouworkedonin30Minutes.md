@@ -1,9 +1,5 @@
 # 03 · How to explain a project you worked on in 30 Minutes
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 56.5 分钟 · 面试长答/项目叙述进阶（与 01 集同主题，词汇去重见总词表）
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -28,20 +24,20 @@
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| explain | v. 解释（标题词，→ 见总词表，01 集已收） | （标题） |
-| project | n. 项目（标题词，→ 见总词表，01 集已收） | （标题） |
-| work on | 参与（标题词搭配，→ 见总词表 01） | （标题） |
-| resistance | n. 抵触（→ 见总词表，01 集已收） | How did you handle that resistance? |
-| project lead | 项目负责人 | My role was Project Lead. |
-| time pressure | 时间压力 | Yes, another challenge was time pressure. |
-| regular meetings | 例会 | I used regular meetings, shared documents… |
-| decision making | 决策 | I learned the importance of data-driven decision making. |
-| problem-solving | 问题解决 | …those parts show your problem-solving skills. |
-| internal | adj. 内部的 | …internal response time improved by around… |
-| benefit | n. 好处 | We organized training sessions and showed the benefits clearly. |
-| highlight | v. 重点讲 | One project I'd like to highlight… |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| explain | /ɪkˈspleɪn/ | v. 解释（标题词，→ 见总词表，01 集已收） | （标题） |
+| project | /ˈprɒdʒekt/ | n. 项目（标题词，→ 见总词表，01 集已收） | （标题） |
+| work on | /wɜːk ɒn/ | 参与（标题词搭配，→ 见总词表 01） | （标题） |
+| resistance | /rɪˈzɪstəns/ | n. 抵触（→ 见总词表，01 集已收） | How did you handle that resistance? |
+| project lead | /ˈprɒdʒekt liːd/ | 项目负责人 | My role was Project Lead. |
+| time pressure | /taɪm ˈpreʃə(r)/ | 时间压力 | Yes, another challenge was time pressure. |
+| regular meetings | /ˈreɡjələ ˈmiːtɪŋz/ | 例会 | I used regular meetings, shared documents… |
+| decision making | /dɪˈsɪʒn ˈmeɪkɪŋ/ | 决策 | I learned the importance of data-driven decision making. |
+| problem-solving | /ˈprɒbləm ˌsɒlvɪŋ/ | 问题解决 | …those parts show your problem-solving skills. |
+| internal | /ɪnˈtɜːnl/ | adj. 内部的 | …internal response time improved by around… |
+| benefit | /ˈbenɪfɪt/ | n. 好处 | We organized training sessions and showed the benefits clearly. |
+| highlight | /ˈhaɪlaɪt/ | v. 重点讲 | One project I'd like to highlight… |
 
 ### 语块（整体记忆，不拆单词）
 

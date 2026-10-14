@@ -1,9 +1,5 @@
 # 06 · 100 Negotiation Phrases for Business Meetings & Practical Dialogues
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 51.7 分钟 · 商务谈判（「100 phrases」系列；phrases→见总词表 05）
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -28,18 +24,18 @@
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| phrases | n. 短语（标题词，→ 见总词表，05 集已收） | （标题） |
-| professional | adj. 专业的（B1+） | （语境：得体地谈判） |
-| polite | adj. 礼貌的（A2 降级，→ 见总词表，05 集已收） | Stay calm and respectful.（语境） |
-| agree | v. 同意（A2 降级） | Now let's talk about agreeing. |
-| discuss | v. 讨论（B1+，下位词） | …we need more time to review.（语境） |
-| respectful | adj. 尊重人的 | Stay calm and respectful. |
-| bonuses | n. 奖金 | Would there be flexibility with bonuses or benefits? |
-| benefits | n. 福利 | Would there be flexibility with bonuses or benefits? |
-| tight | adj. （期限）紧的 | Currently, the deadline is very tight. |
-| review | v. 审阅（→ 见总词表，07 集已收） | I think we need more time to review. |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| phrases | /ˈfreɪzɪz/ | n. 短语（标题词，→ 见总词表，05 集已收） | （标题） |
+| professional | /prəˈfeʃənl/ | adj. 专业的（B1+） | （语境：得体地谈判） |
+| polite | /pəˈlaɪt/ | adj. 礼貌的（A2 降级，→ 见总词表，05 集已收） | Stay calm and respectful.（语境） |
+| agree | /əˈɡriː/ | v. 同意（A2 降级） | Now let's talk about agreeing. |
+| discuss | /dɪˈskʌs/ | v. 讨论（B1+，下位词） | …we need more time to review.（语境） |
+| respectful | /rɪˈspektfʊl/ | adj. 尊重人的 | Stay calm and respectful. |
+| bonuses | /ˈbəʊnəsɪz/ | n. 奖金 | Would there be flexibility with bonuses or benefits? |
+| benefits | /ˈbenɪfɪts/ | n. 福利 | Would there be flexibility with bonuses or benefits? |
+| tight | /taɪt/ | adj. （期限）紧的 | Currently, the deadline is very tight. |
+| review | /rɪˈvjuː/ | v. 审阅（→ 见总词表，07 集已收） | I think we need more time to review. |
 
 ### 语块（整体记忆，不拆单词）
 

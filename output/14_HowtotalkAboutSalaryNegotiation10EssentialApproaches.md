@@ -1,9 +1,5 @@
 # 14 · How to talk About Salary Negotiation & 10 Essential Approaches
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 55.1 分钟 · 薪资谈判（negotiation→见总词表 06；essential→见总词表 05；标题 typo Approchers→Approaches 已修正）
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -24,18 +20,18 @@
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| offer | n. 录用通知（→ 见总词表，06 集已收） | Thank you for the offer. |
-| benefits | n. 福利（→ 见总词表，06 集已收） | Now let's talk about negotiating benefits. |
-| flexibility | n. 弹性（→ 见总词表，06 集已收） | （谈判语境） |
-| position | n. 职位（→ 见总词表，10 集已收） | We'd like to offer you the position. |
-| value | v. 重视（→ 见总词表，12 集已收） | You are discussing your value. |
-| role | n. 岗位（→ 见总词表，01 集已收） | …the average for your role… |
-| nervous | adj. 紧张的（A2 降级） | Many people feel nervous when talking about salary. |
-| thumbs up | n. 点赞 | …please give us a thumbs up… |
-| interviewer | n. 面试官 | …the interviewer may ask… |
-| congratulations | int. 恭喜 | Congratulations. We'd like to offer you the position. |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| offer | /ˈɒfə(r)/ | n. 录用通知（→ 见总词表，06 集已收） | Thank you for the offer. |
+| benefits | /ˈbenɪfɪts/ | n. 福利（→ 见总词表，06 集已收） | Now let's talk about negotiating benefits. |
+| flexibility | /ˌfleksəˈbɪləti/ | n. 弹性（→ 见总词表，06 集已收） | （谈判语境） |
+| position | /pəˈzɪʃn/ | n. 职位（→ 见总词表，10 集已收） | We'd like to offer you the position. |
+| value | /ˈvæljuː/ | v. 重视（→ 见总词表，12 集已收） | You are discussing your value. |
+| role | /rəʊl/ | n. 岗位（→ 见总词表，01 集已收） | …the average for your role… |
+| nervous | /ˈnɜːvəs/ | adj. 紧张的（A2 降级） | Many people feel nervous when talking about salary. |
+| thumbs up | /ˈθʌmz ʌp/ | n. 点赞 | …please give us a thumbs up… |
+| interviewer | /ˈɪntəvjuːə(r)/ | n. 面试官 | …the interviewer may ask… |
+| congratulations | /kənˌɡrætʃʊˈleɪʃnz/ | int. 恭喜 | Congratulations. We'd like to offer you the position. |
 
 ### 语块（整体记忆，不拆单词）
 

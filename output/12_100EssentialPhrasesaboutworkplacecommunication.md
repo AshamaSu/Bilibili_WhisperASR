@@ -1,9 +1,5 @@
 # 12 · 100 Essential Phrases about workplace communication
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 38.3 分钟 · 职场沟通（essential/phrases→见总词表 05；标题实词全部硬性入选）
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -21,16 +17,16 @@
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| professional | adj. 专业的（→ 见总词表，06 集已收） | That sounds very professional. |
-| polite | adj. 礼貌的（A2 降级，→ 见总词表，05 集已收） | （语境：礼貌表达） |
-| natural | adj. 自然的（A2 降级） | …help you speak more naturally. |
-| review | v. 审阅（→ 见总词表，07 集已收） | …I think we should review the numbers first. |
-| update | v. 更新（→ 见总词表，05 集已收） | Also, could you update the report? |
-| focus | v. 专注（→ 见总词表，04 集已收） | …we should focus on improving customer experience. |
-| speaker | n. 说话者 | （语境：如何做好的表达者） |
-| agree | v. 同意（A2 降级） | I agree. |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| professional | /prəˈfeʃənl/ | adj. 专业的（→ 见总词表，06 集已收） | That sounds very professional. |
+| polite | /pəˈlaɪt/ | adj. 礼貌的（A2 降级，→ 见总词表，05 集已收） | （语境：礼貌表达） |
+| natural | /ˈnætʃrəl/ | adj. 自然的（A2 降级） | …help you speak more naturally. |
+| review | /rɪˈvjuː/ | v. 审阅（→ 见总词表，07 集已收） | …I think we should review the numbers first. |
+| update | /ˈʌpdeɪt/ | v. 更新（→ 见总词表，05 集已收） | Also, could you update the report? |
+| focus | /ˈfəʊkəs/ | v. 专注（→ 见总词表，04 集已收） | …we should focus on improving customer experience. |
+| speaker | /ˈspiːkə(r)/ | n. 说话者 | （语境：如何做好的表达者） |
+| agree | /əˈɡriː/ | v. 同意（A2 降级） | I agree. |
 
 ### 语块（整体记忆，不拆单词）
 

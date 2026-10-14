@@ -1,9 +1,5 @@
 # 05 · 250 Essential Email Phrases & How to Write an email professionally
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 44.3 分钟 · 商务邮件写作（「100/250/1000 phrases」系列起点，后续同系列去重见总词表）
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -27,18 +23,18 @@
 
 ### 补充词（听中查阅；A1-A2 熟词降级至此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| formal | adj. 正式的（A2 降级） | A professional email is a clear, polite, and well-structured message used in formal or… |
-| informal | adj. 随意的（A2 降级） | Mistake number one, being too informal. |
-| polite | adj. 礼貌的（A2 降级） | A professional email is a clear, polite, and well-structured message… |
-| reply | n./v. 回复（A2 降级） | Not checking grammar and spelling.（语境：回信） |
-| grammar | n. 语法（A2 降级） | Not checking grammar and spelling. |
-| spelling | n. 拼写（A2 降级） | Not checking grammar and spelling. |
-| paragraph | n. 段落 | One idea per paragraph. |
-| recipient | n. 收件人 | （对话语境：收件人） |
-| unacceptable | adj. 不能接受的 | Instead of saying, this is unacceptable… |
-| role play | 角色扮演（练习形式） | Now let's do a role play. |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| formal | /ˈfɔːml/ | adj. 正式的（A2 降级） | A professional email is a clear, polite, and well-structured message used in formal or… |
+| informal | /ɪnˈfɔːml/ | adj. 随意的（A2 降级） | Mistake number one, being too informal. |
+| polite | /pəˈlaɪt/ | adj. 礼貌的（A2 降级） | A professional email is a clear, polite, and well-structured message… |
+| reply | /rɪˈplaɪ/ | n./v. 回复（A2 降级） | Not checking grammar and spelling.（语境：回信） |
+| grammar | /ˈɡræmə(r)/ | n. 语法（A2 降级） | Not checking grammar and spelling. |
+| spelling | /ˈspelɪŋ/ | n. 拼写（A2 降级） | Not checking grammar and spelling. |
+| paragraph | /ˈpærəɡrɑːf/ | n. 段落 | One idea per paragraph. |
+| recipient | /rɪˈsɪpiənt/ | n. 收件人 | （对话语境：收件人） |
+| unacceptable | /ˌʌnəkˈseptəbl/ | adj. 不能接受的 | Instead of saying, this is unacceptable… |
+| role play | /ˈrəʊl pleɪ/ | 角色扮演（练习形式） | Now let's do a role play. |
 
 ### 语块（整体记忆，不拆单词）
 

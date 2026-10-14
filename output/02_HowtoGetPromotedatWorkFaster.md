@@ -1,9 +1,5 @@
 # 02 · How to Get Promoted at Work Faster
 
-> 听前 5 分钟预热：先背「核心词」，听中遇到生词查「补充词」「语块」，听完用「句式填空」自测。
-> 时长 49.3 分钟 · 职场晋升/向上沟通话题
-> 提取规则：v2（2026-10-13）——标题实词硬性入选；核心词只收 B1+；语块单列。
-
 ## 1. 词
 
 ### 核心词（听前必看，≤15 个）
@@ -28,18 +24,18 @@
 
 ### 补充词（听中查阅；A1-A2 熟词降级至此）
 
-| 词 | 释义 | 原文例句摘录 |
-|---|---|---|
-| goal | n. 目标（A2 降级） | We'll show you how to talk about your performance, your goals… |
-| skill | n. 技能（A2 降级） | …what skill would you improve to get promoted? |
-| current role | 现任岗位 | I really enjoy my current role. |
-| take on | 承担（→ 见语块） | …take on extra responsibility. |
-| step forward | 前进一步 | Exactly, a step forward in your professional journey. |
-| demanding | adj. 强人所难的 | It sounds more natural and less demanding. |
-| pressure | n. 压力 | Yes, they come with pressure. |
-| patience | n. 耐心 | Let's also talk about patience. |
-| time management | 时间管理 | I would improve my time management. |
-| career development | 职业发展 | …about my career development. |
+| 词 | 音标 | 释义 | 原文例句摘录 |
+|---|---|---|---|
+| goal | /ɡəʊl/ | n. 目标（A2 降级） | We'll show you how to talk about your performance, your goals… |
+| skill | /skɪl/ | n. 技能（A2 降级） | …what skill would you improve to get promoted? |
+| current role | /ˈkʌrənt rəʊl/ | 现任岗位 | I really enjoy my current role. |
+| take on | /teɪk ɒn/ | 承担（→ 见语块） | …take on extra responsibility. |
+| step forward | /step ˈfɔːwəd/ | 前进一步 | Exactly, a step forward in your professional journey. |
+| demanding | /dɪˈmɑːndɪŋ/ | adj. 强人所难的 | It sounds more natural and less demanding. |
+| pressure | /ˈpreʃə(r)/ | n. 压力 | Yes, they come with pressure. |
+| patience | /ˈpeɪʃns/ | n. 耐心 | Let's also talk about patience. |
+| time management | /taɪm ˈmænɪdʒmənt/ | 时间管理 | I would improve my time management. |
+| career development | /kəˈrɪə dɪˈveləpmənt/ | 职业发展 | …about my career development. |
 
 ### 语块（整体记忆，不拆单词）
 
