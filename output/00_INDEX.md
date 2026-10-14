@@ -17,11 +17,11 @@
 | 13 | How to Improve your Presentation Skills in Business English | 42.4 | done | 588 | [13_HowtoImproveyourPresentationSkillsinBusinessEnglish.md](13_HowtoImproveyourPresentationSkillsinBusinessEnglish.md) |
 | 14 | How to talk About Salary Negotiation & 10 Essential Approaches | 55.1 | done | 545 | [14_HowtotalkAboutSalaryNegotiation10EssentialApproaches.md](14_HowtotalkAboutSalaryNegotiation10EssentialApproaches.md) |
 | 15 | How to Speak up in Business Meeting with Confidence & 100 Essential Phrases | 48.3 | done | 625 | [15_HowtoSpeakupinBusinessMeetingwithConfidence100EssentialPhrases.md](15_HowtoSpeakupinBusinessMeetingwithConfidence100EssentialPhrases.md) |
-| 16 | How to Explain Work Experience in Job Interview | 48.6 | pending |  | 16_HowtoExplainWorkExperienceinJobInterview.md |
-| 17 | How to Talk About Your Job in English | 53.6 | pending |  | 17_HowtoTalkAboutYourJobinEnglish.md |
-| 18 | How to Talk About Your Achievement in Business Meetings | 41.7 | pending |  | 18_HowtoTalkAboutYourAchievementinBusinessMeetings.md |
-| 19 | How to Tell Me About Yourself in Job Interviews | 37.9 | pending |  | 19_HowtoTellMeAboutYourselfinJobInterviews.md |
-| 20 | Real Business English Conversations in Working Day | 52.5 | pending |  | 20_RealBusinessEnglishConversationsinWorkingDay.md |
+| 16 | How to Explain Work Experience in Job Interview | 48.6 | done | 603 | [16_HowtoExplainWorkExperienceinJobInterview.md](16_HowtoExplainWorkExperienceinJobInterview.md) |
+| 17 | How to Talk About Your Job in English | 53.6 | done | 600 | [17_HowtoTalkAboutYourJobinEnglish.md](17_HowtoTalkAboutYourJobinEnglish.md) |
+| 18 | How to Talk About Your Achievement in Business Meetings | 41.7 | done | 701 | [18_HowtoTalkAboutYourAchievementinBusinessMeetings.md](18_HowtoTalkAboutYourAchievementinBusinessMeetings.md) |
+| 19 | How to Tell Me About Yourself in Job Interviews | 37.9 | done | 581 | [19_HowtoTellMeAboutYourselfinJobInterviews.md](19_HowtoTellMeAboutYourselfinJobInterviews.md) |
+| 20 | Real Business English Conversations in Working Day | 52.5 | done | 683 | [20_RealBusinessEnglishConversationsinWorkingDay.md](20_RealBusinessEnglishConversationsinWorkingDay.md) |
 | 21 | How to Talk About the Problems and Solutions at Business Meeting Conversations | 53.5 | pending |  | 21_HowtoTalkAbouttheProblemsandSolutionsatBusinessMeetingConversations.md |
 | 22 | How to Describe Your Skills in Professional Business Conversations | 40.3 | pending |  | 22_HowtoDescribeYourSkillsinProfessionalBusinessConversations.md |
 | 23 | How to Talk about Career Path in English | 49.8 | pending |  | 23_HowtoTalkaboutCareerPathinEnglish.md |

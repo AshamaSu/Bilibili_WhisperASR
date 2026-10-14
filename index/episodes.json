@@ -377,13 +377,13 @@
     "slug": "HowtoTalkAboutYourAchievementinBusinessMeetings",
     "file_stem": "18_HowtoTalkAboutYourAchievementinBusinessMeetings",
     "duration_min": 41.7,
-    "status": "transcribing",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.992,
+      "word_count": 6599,
+      "repetition_ratio": 0.0476,
       "flags": []
     }
   },
@@ -398,13 +398,13 @@
     "slug": "HowtoTellMeAboutYourselfinJobInterviews",
     "file_stem": "19_HowtoTellMeAboutYourselfinJobInterviews",
     "duration_min": 37.9,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.993,
+      "word_count": 5706,
+      "repetition_ratio": 0.025,
       "flags": []
     }
   },
@@ -419,13 +419,13 @@
     "slug": "RealBusinessEnglishConversationsinWorkingDay",
     "file_stem": "20_RealBusinessEnglishConversationsinWorkingDay",
     "duration_min": 52.5,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.997,
+      "word_count": 8388,
+      "repetition_ratio": 0.0385,
       "flags": []
     }
   },
