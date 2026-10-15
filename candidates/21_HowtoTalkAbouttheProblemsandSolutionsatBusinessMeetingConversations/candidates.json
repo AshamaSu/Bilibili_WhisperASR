@@ -1,0 +1,8785 @@
+{
+  "file_stem": "21_HowtoTalkAbouttheProblemsandSolutionsatBusinessMeetingConversations",
+  "no": 21,
+  "title_keywords": [
+    [
+      "talk",
+      "talk"
+    ],
+    [
+      "problems",
+      "problem"
+    ],
+    [
+      "solutions",
+      "solution"
+    ],
+    [
+      "business",
+      "business"
+    ],
+    [
+      "meeting",
+      "meet"
+    ],
+    [
+      "conversations",
+      "conversation"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "work",
+      105,
+      "A2"
+    ],
+    [
+      "problems",
+      65,
+      "A2"
+    ],
+    [
+      "people",
+      63,
+      "A2"
+    ],
+    [
+      "feel",
+      61,
+      "A2"
+    ],
+    [
+      "exactly",
+      59,
+      "B1+"
+    ],
+    [
+      "another",
+      52,
+      "A2"
+    ],
+    [
+      "many",
+      42,
+      "A2"
+    ],
+    [
+      "help",
+      41,
+      "A2"
+    ],
+    [
+      "today",
+      41,
+      "A2"
+    ],
+    [
+      "learning",
+      40,
+      "A2"
+    ],
+    [
+      "good",
+      39,
+      "A2"
+    ],
+    [
+      "tasks",
+      39,
+      "B1+"
+    ],
+    [
+      "communication",
+      37,
+      "B1+"
+    ],
+    [
+      "talk",
+      37,
+      "A2"
+    ],
+    [
+      "time",
+      37,
+      "A2"
+    ],
+    [
+      "english",
+      36,
+      "A2"
+    ],
+    [
+      "workplace",
+      36,
+      "B1+"
+    ],
+    [
+      "solution",
+      35,
+      "B1+"
+    ],
+    [
+      "sometimes",
+      34,
+      "B1+"
+    ],
+    [
+      "important",
+      33,
+      "A2"
+    ],
+    [
+      "everyone",
+      32,
+      "A2"
+    ],
+    [
+      "employees",
+      31,
+      "B1+"
+    ],
+    [
+      "conversation",
+      30,
+      "B1+"
+    ],
+    [
+      "one",
+      30,
+      "A2"
+    ],
+    [
+      "example",
+      29,
+      "A2"
+    ],
+    [
+      "listening",
+      26,
+      "A2"
+    ],
+    [
+      "start",
+      26,
+      "A2"
+    ],
+    [
+      "something",
+      25,
+      "B1+"
+    ],
+    [
+      "common",
+      24,
+      "A2"
+    ],
+    [
+      "managers",
+      24,
+      "B1+"
+    ],
+    [
+      "stress",
+      24,
+      "B1+"
+    ],
+    [
+      "ask",
+      23,
+      "A2"
+    ],
+    [
+      "great",
+      22,
+      "A2"
+    ],
+    [
+      "different",
+      21,
+      "A2"
+    ],
+    [
+      "way",
+      21,
+      "A2"
+    ],
+    [
+      "new",
+      20,
+      "A2"
+    ],
+    [
+      "speaking",
+      19,
+      "A2"
+    ],
+    [
+      "stay",
+      19,
+      "A2"
+    ],
+    [
+      "first",
+      18,
+      "A2"
+    ],
+    [
+      "happens",
+      18,
+      "A2"
+    ],
+    [
+      "professional",
+      18,
+      "B1+"
+    ],
+    [
+      "situation",
+      18,
+      "A2"
+    ],
+    [
+      "understand",
+      18,
+      "A2"
+    ],
+    [
+      "every",
+      17,
+      "A2"
+    ],
+    [
+      "much",
+      17,
+      "A2"
+    ],
+    [
+      "project",
+      17,
+      "B1+"
+    ],
+    [
+      "also",
+      16,
+      "A2"
+    ],
+    [
+      "clear",
+      16,
+      "A2"
+    ],
+    [
+      "day",
+      16,
+      "A2"
+    ],
+    [
+      "even",
+      16,
+      "B1+"
+    ],
+    [
+      "focus",
+      16,
+      "B1+"
+    ],
+    [
+      "improve",
+      16,
+      "B1+"
+    ],
+    [
+      "mean",
+      16,
+      "A2"
+    ],
+    [
+      "podcast",
+      16,
+      "B1+"
+    ],
+    [
+      "practice",
+      16,
+      "A2"
+    ],
+    [
+      "skills",
+      16,
+      "A2"
+    ],
+    [
+      "think",
+      16,
+      "A2"
+    ],
+    [
+      "topic",
+      16,
+      "B1+"
+    ],
+    [
+      "difficult",
+      15,
+      "A2"
+    ],
+    [
+      "helpful",
+      15,
+      "B1+"
+    ],
+    [
+      "make",
+      15,
+      "A2"
+    ],
+    [
+      "questions",
+      15,
+      "A2"
+    ],
+    [
+      "real",
+      15,
+      "A2"
+    ],
+    [
+      "say",
+      15,
+      "A2"
+    ],
+    [
+      "someone",
+      15,
+      "A2"
+    ],
+    [
+      "try",
+      15,
+      "A2"
+    ],
+    [
+      "useful",
+      15,
+      "A2"
+    ],
+    [
+      "interesting",
+      14,
+      "A2"
+    ],
+    [
+      "reading",
+      14,
+      "A2"
+    ],
+    [
+      "report",
+      14,
+      "A2"
+    ],
+    [
+      "sounds",
+      14,
+      "A2"
+    ],
+    [
+      "clients",
+      13,
+      "B1+"
+    ],
+    [
+      "language",
+      13,
+      "A2"
+    ],
+    [
+      "team",
+      13,
+      "A2"
+    ],
+    [
+      "things",
+      13,
+      "A2"
+    ],
+    [
+      "workload",
+      13,
+      "B1+"
+    ],
+    [
+      "career",
+      12,
+      "B1+"
+    ],
+    [
+      "discuss",
+      12,
+      "B1+"
+    ],
+    [
+      "especially",
+      12,
+      "B1+"
+    ],
+    [
+      "everything",
+      12,
+      "B1+"
+    ],
+    [
+      "finish",
+      12,
+      "A2"
+    ],
+    [
+      "instead",
+      12,
+      "A2"
+    ],
+    [
+      "mistakes",
+      12,
+      "B1+"
+    ],
+    [
+      "teamwork",
+      12,
+      "B1+"
+    ],
+    [
+      "true",
+      12,
+      "A2"
+    ],
+    [
+      "becomes",
+      11,
+      "B1+"
+    ],
+    [
+      "conflicts",
+      11,
+      "B1+"
+    ],
+    [
+      "create",
+      11,
+      "A2"
+    ],
+    [
+      "idea",
+      11,
+      "A2"
+    ],
+    [
+      "several",
+      11,
+      "A2"
+    ],
+    [
+      "shows",
+      11,
+      "A2"
+    ],
+    [
+      "challenge",
+      10,
+      "B1+"
+    ],
+    [
+      "deadlines",
+      10,
+      "B1+"
+    ],
+    [
+      "face",
+      10,
+      "A2"
+    ],
+    [
+      "going",
+      10,
+      "B1+"
+    ],
+    [
+      "instructions",
+      10,
+      "B1+"
+    ],
+    [
+      "know",
+      10,
+      "A2"
+    ],
+    [
+      "lack",
+      10,
+      "A2"
+    ],
+    [
+      "makes",
+      10,
+      "B1+"
+    ],
+    [
+      "often",
+      10,
+      "A2"
+    ],
+    [
+      "oh",
+      10,
+      "B1+"
+    ],
+    [
+      "remember",
+      10,
+      "A2"
+    ],
+    [
+      "see",
+      10,
+      "A2"
+    ],
+    [
+      "simple",
+      10,
+      "A2"
+    ],
+    [
+      "solve",
+      10,
+      "A2"
+    ],
+    [
+      "step",
+      10,
+      "A2"
+    ],
+    [
+      "thanks",
+      10,
+      "A2"
+    ],
+    [
+      "usually",
+      10,
+      "B1+"
+    ],
+    [
+      "absolutely",
+      9,
+      "B1+"
+    ],
+    [
+      "calm",
+      9,
+      "B1+"
+    ],
+    [
+      "coffee",
+      9,
+      "A2"
+    ],
+    [
+      "communicate",
+      9,
+      "B1+"
+    ],
+    [
+      "experiences",
+      9,
+      "B1+"
+    ],
+    [
+      "goals",
+      9,
+      "B1+"
+    ],
+    [
+      "hi",
+      9,
+      "A2"
+    ],
+    [
+      "issue",
+      9,
+      "A2"
+    ],
+    [
+      "keep",
+      9,
+      "A2"
+    ],
+    [
+      "morning",
+      9,
+      "B1+"
+    ],
+    [
+      "motivation",
+      9,
+      "B1+"
+    ],
+    [
+      "overwhelmed",
+      9,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "that's a great",
+      "count": 13,
+      "example": "That's a great way to describe language learning.",
+      "t": 208.31
+    },
+    {
+      "text": "workplace problems",
+      "count": 13,
+      "example": "So today we're going to discuss common workplace problems, how people usually react, and",
+      "t": 736.43
+    },
+    {
+      "text": "let's talk",
+      "count": 12,
+      "example": "Let's talk about habits for a moment.",
+      "t": 483.41
+    },
+    {
+      "text": "many employees",
+      "count": 12,
+      "example": "Many employees feel overwhelmed because they have too many tasks and tight deadlines.",
+      "t": 780.25
+    },
+    {
+      "text": "that's true",
+      "count": 10,
+      "example": "That's true.",
+      "t": 55.11
+    },
+    {
+      "text": "many people",
+      "count": 10,
+      "example": "That's such an important idea. Many people late until their English is perfect before",
+      "t": 237.63
+    },
+    {
+      "text": "common workplace",
+      "count": 10,
+      "example": "So today we're going to discuss common workplace problems, how people usually react, and",
+      "t": 736.43
+    },
+    {
+      "text": "today we're",
+      "count": 9,
+      "example": "Today we're going to have a very relaxed and natural conversation. No complicated lessons,",
+      "t": 27.11
+    },
+    {
+      "text": "employees feel",
+      "count": 9,
+      "example": "Many employees feel overwhelmed because they have too many tasks and tight deadlines.",
+      "t": 780.25
+    },
+    {
+      "text": "we're going",
+      "count": 8,
+      "example": "Today we're going to have a very relaxed and natural conversation. No complicated lessons,",
+      "t": 27.11
+    }
+  ],
+  "phrases": [
+    {
+      "text": "that's a great",
+      "count": 13,
+      "example": "That's a great way to describe language learning.",
+      "t": 208.31
+    },
+    {
+      "text": "workplace problems",
+      "count": 13,
+      "example": "So today we're going to discuss common workplace problems, how people usually react, and",
+      "t": 736.43
+    },
+    {
+      "text": "let's talk",
+      "count": 12,
+      "example": "Let's talk about habits for a moment.",
+      "t": 483.41
+    },
+    {
+      "text": "many employees",
+      "count": 12,
+      "example": "Many employees feel overwhelmed because they have too many tasks and tight deadlines.",
+      "t": 780.25
+    },
+    {
+      "text": "that's true",
+      "count": 10,
+      "example": "That's true.",
+      "t": 55.11
+    },
+    {
+      "text": "many people",
+      "count": 10,
+      "example": "That's such an important idea. Many people late until their English is perfect before",
+      "t": 237.63
+    },
+    {
+      "text": "common workplace",
+      "count": 10,
+      "example": "So today we're going to discuss common workplace problems, how people usually react, and",
+      "t": 736.43
+    },
+    {
+      "text": "today we're",
+      "count": 9,
+      "example": "Today we're going to have a very relaxed and natural conversation. No complicated lessons,",
+      "t": 27.11
+    },
+    {
+      "text": "employees feel",
+      "count": 9,
+      "example": "Many employees feel overwhelmed because they have too many tasks and tight deadlines.",
+      "t": 780.25
+    },
+    {
+      "text": "we're going",
+      "count": 8,
+      "example": "Today we're going to have a very relaxed and natural conversation. No complicated lessons,",
+      "t": 27.11
+    },
+    {
+      "text": "problems at work",
+      "count": 8,
+      "example": "We're going to talk about problems at work and how to solve them.",
+      "t": 699.79
+    },
+    {
+      "text": "much work",
+      "count": 8,
+      "example": "much work and not enough time. Ah yes, the famous problem of heavy workload.",
+      "t": 773.65
+    },
+    {
+      "text": "another helpful",
+      "count": 8,
+      "example": "Another helpful strategy is breaking large tasks into smaller steps.",
+      "t": 848.57
+    },
+    {
+      "text": "talk about another",
+      "count": 8,
+      "example": "Now, let's talk about another common workplace issue, communication problems.",
+      "t": 871.25
+    },
+    {
+      "text": "workplace problem",
+      "count": 8,
+      "example": "Another common workplace problem is lack of motivation.",
+      "t": 1027.81
+    },
+    {
+      "text": "welcome back",
+      "count": 7,
+      "example": "Hi everyone. Welcome back to our podcast. We're really happy you're here today.",
+      "t": 13.91
+    },
+    {
+      "text": "we're really happy",
+      "count": 7,
+      "example": "Hi everyone. Welcome back to our podcast. We're really happy you're here today.",
+      "t": 13.91
+    },
+    {
+      "text": "today we're going",
+      "count": 7,
+      "example": "Today we're going to have a very relaxed and natural conversation. No complicated lessons,",
+      "t": 27.11
+    },
+    {
+      "text": "another common",
+      "count": 7,
+      "example": "Now, let's talk about another common workplace issue, communication problems.",
+      "t": 871.25
+    },
+    {
+      "text": "one solution",
+      "count": 7,
+      "example": "One solution is setting clear expectations and deadlines.",
+      "t": 1207.05
+    },
+    {
+      "text": "another workplace",
+      "count": 7,
+      "example": "ensures everyone understands the expectations. Exactly. Let's move on to another workplace problem.",
+      "t": 1558.89
+    },
+    {
+      "text": "hi everyone",
+      "count": 6,
+      "example": "Hi everyone. Welcome back to our podcast. We're really happy you're here today.",
+      "t": 13.91
+    },
+    {
+      "text": "going to talk",
+      "count": 6,
+      "example": "So today, we're just going to talk like friends.",
+      "t": 64.31
+    },
+    {
+      "text": "improve your english",
+      "count": 6,
+      "example": "If you're here to improve your English and learn how to speak more naturally in",
+      "t": 675.35
+    },
+    {
+      "text": "learning english",
+      "count": 5,
+      "example": "No pressure, just two people talking about life, learning English, daily habits, and",
+      "t": 33.59
+    },
+    {
+      "text": "real conversations",
+      "count": 5,
+      "example": "Sometimes, the best way to learn English is simply by listening to real conversations.",
+      "t": 43.51
+    },
+    {
+      "text": "language learning",
+      "count": 5,
+      "example": "That's a great way to describe language learning.",
+      "t": 208.31
+    },
+    {
+      "text": "every day",
+      "count": 5,
+      "example": "Find someone who reads about playing guitar every day but never touches a guitar.",
+      "t": 280.95
+    },
+    {
+      "text": "it's better",
+      "count": 5,
+      "example": "Yes, it's better to follow one routine regularly.",
+      "t": 398.83
+    },
+    {
+      "text": "everyone experiences",
+      "count": 5,
+      "example": "Everyone experiences problems at work at some point.",
+      "t": 705.07
+    },
+    {
+      "text": "common workplace problems",
+      "count": 5,
+      "example": "So today we're going to discuss common workplace problems, how people usually react, and",
+      "t": 736.43
+    },
+    {
+      "text": "let's start",
+      "count": 5,
+      "example": "So let's start with one of the most common problems people face at work.",
+      "t": 769.03
+    },
+    {
+      "text": "many employees feel",
+      "count": 5,
+      "example": "Many employees feel overwhelmed because they have too many tasks and tight deadlines.",
+      "t": 780.25
+    },
+    {
+      "text": "another solution",
+      "count": 5,
+      "example": "Another solution is communicating with your manager.",
+      "t": 823.65
+    },
+    {
+      "text": "another common workplace",
+      "count": 5,
+      "example": "Now, let's talk about another common workplace issue, communication problems.",
+      "t": 871.25
+    },
+    {
+      "text": "let's move",
+      "count": 5,
+      "example": "Now let's move to another challenge many employees face.",
+      "t": 946.81
+    },
+    {
+      "text": "staying calm",
+      "count": 5,
+      "example": "The first step is staying calm and professional.",
+      "t": 981.77
+    },
+    {
+      "text": "calm and professional",
+      "count": 5,
+      "example": "The first step is staying calm and professional.",
+      "t": 981.77
+    },
+    {
+      "text": "new skills",
+      "count": 5,
+      "example": "Learning new skills can make work more interesting.",
+      "t": 1063.81
+    },
+    {
+      "text": "make work",
+      "count": 5,
+      "example": "Learning new skills can make work more interesting.",
+      "t": 1063.81
+    },
+    {
+      "text": "happy you're",
+      "count": 4,
+      "example": "Hi everyone. Welcome back to our podcast. We're really happy you're here today.",
+      "t": 13.91
+    },
+    {
+      "text": "you're here today",
+      "count": 4,
+      "example": "Hi everyone. Welcome back to our podcast. We're really happy you're here today.",
+      "t": 13.91
+    },
+    {
+      "text": "whether you're",
+      "count": 4,
+      "example": "Yes, welcome everyone. If you're listening right now, whether you're walking, working,",
+      "t": 18.71
+    },
+    {
+      "text": "important thing",
+      "count": 4,
+      "example": "Exactly. But regardless of format, the most important thing is reading regularly.",
+      "t": 460.69
+    },
+    {
+      "text": "listening today",
+      "count": 4,
+      "example": "If someone listening today feels stuck in their English learning journey, what advice would",
+      "t": 655.93
+    },
+    {
+      "text": "english and learn",
+      "count": 4,
+      "example": "If you're here to improve your English and learn how to speak more naturally in",
+      "t": 675.35
+    },
+    {
+      "text": "talk about problems",
+      "count": 4,
+      "example": "We're going to talk about problems at work and how to solve them.",
+      "t": 699.79
+    },
+    {
+      "text": "people face",
+      "count": 4,
+      "example": "So let's start with one of the most common problems people face at work.",
+      "t": 769.03
+    },
+    {
+      "text": "face at work",
+      "count": 4,
+      "example": "So let's start with one of the most common problems people face at work.",
+      "t": 769.03
+    },
+    {
+      "text": "enough time",
+      "count": 4,
+      "example": "much work and not enough time. Ah yes, the famous problem of heavy workload.",
+      "t": 773.65
+    },
+    {
+      "text": "feel overwhelmed",
+      "count": 4,
+      "example": "Many employees feel overwhelmed because they have too many tasks and tight deadlines.",
+      "t": 780.25
+    },
+    {
+      "text": "many tasks",
+      "count": 4,
+      "example": "Many employees feel overwhelmed because they have too many tasks and tight deadlines.",
+      "t": 780.25
+    },
+    {
+      "text": "better to ask",
+      "count": 4,
+      "example": "Yes, many employees try to handle everything alone, but sometimes it's better to ask for help or clarification.",
+      "t": 826.57
+    },
+    {
+      "text": "clear communication",
+      "count": 4,
+      "example": "Exactly. Managers usually appreciate honesty and clear communication.",
+      "t": 843.57
+    },
+    {
+      "text": "another challenge",
+      "count": 4,
+      "example": "Now let's move to another challenge many employees face.",
+      "t": 946.81
+    },
+    {
+      "text": "working styles",
+      "count": 4,
+      "example": "Sometimes people have different working styles.",
+      "t": 964.65
+    },
+    {
+      "text": "common workplace problem",
+      "count": 4,
+      "example": "Another common workplace problem is lack of motivation.",
+      "t": 1027.81
+    },
+    {
+      "text": "lack of motivation",
+      "count": 4,
+      "example": "Another common workplace problem is lack of motivation.",
+      "t": 1027.81
+    },
+    {
+      "text": "learning new",
+      "count": 4,
+      "example": "Learning new skills can make work more interesting.",
+      "t": 1063.81
+    },
+    {
+      "text": "let's discuss",
+      "count": 4,
+      "example": "Now let's discuss another important topic, workplace stress.",
+      "t": 1079.65
+    },
+    {
+      "text": "time management",
+      "count": 4,
+      "example": "One helpful technique is time management.",
+      "t": 1101.65
+    },
+    {
+      "text": "shows responsibility",
+      "count": 4,
+      "example": "That shows responsibility and professionalism.",
+      "t": 1156.53
+    },
+    {
+      "text": "solution is setting",
+      "count": 4,
+      "example": "One solution is setting clear expectations and deadlines.",
+      "t": 1207.05
+    },
+    {
+      "text": "learn useful",
+      "count": 4,
+      "example": "We talk about things you experience in real life so you can learn useful vocabulary and",
+      "t": 1315.73
+    },
+    {
+      "text": "important tasks",
+      "count": 4,
+      "example": "I managed to finish two important tasks before lunch, and that always feels satisfying.",
+      "t": 1380.31
+    },
+    {
+      "text": "something many",
+      "count": 4,
+      "example": "Every workload is something many employees complain about.",
+      "t": 1419.73
+    },
+    {
+      "text": "people feel",
+      "count": 4,
+      "example": "Sometimes people feel overwhelmed because they have too many tasks and not enough time.",
+      "t": 1423.93
+    },
+    {
+      "text": "i'm currently",
+      "count": 4,
+      "example": "I'm currently working on several tasks. Which one should be my top priority?",
+      "t": 1494.53
+    },
+    {
+      "text": "working on several",
+      "count": 4,
+      "example": "I'm currently working on several tasks. Which one should be my top priority?",
+      "t": 1494.53
+    },
+    {
+      "text": "another workplace problem",
+      "count": 4,
+      "example": "ensures everyone understands the expectations. Exactly. Let's move on to another workplace problem.",
+      "t": 1558.89
+    },
+    {
+      "text": "work-life balance",
+      "count": 4,
+      "example": "Work-life balance.",
+      "t": 2948.57
+    },
+    {
+      "text": "everyone welcome",
+      "count": 3,
+      "example": "Hi everyone. Welcome back to our podcast. We're really happy you're here today.",
+      "t": 13.91
+    },
+    {
+      "text": "hi everyone welcome",
+      "count": 3,
+      "example": "Hi everyone. Welcome back to our podcast. We're really happy you're here today.",
+      "t": 13.91
+    },
+    {
+      "text": "everyone welcome back",
+      "count": 3,
+      "example": "Hi everyone. Welcome back to our podcast. We're really happy you're here today.",
+      "t": 13.91
+    },
+    {
+      "text": "brain starts",
+      "count": 3,
+      "example": "And somehow my brain starts working again.",
+      "t": 90.59
+    },
+    {
+      "text": "that's interesting",
+      "count": 3,
+      "example": "That's interesting.",
+      "t": 93.07
+    },
+    {
+      "text": "that's very common",
+      "count": 3,
+      "example": "That's very common for language learners.",
+      "t": 217.83
+    },
+    {
+      "text": "let me ask",
+      "count": 3,
+      "example": "Let me ask you something.",
+      "t": 254.75
+    },
+    {
+      "text": "create stress",
+      "count": 3,
+      "example": "Yes, and that can create stress immediately.",
+      "t": 519.29
+    },
+    {
+      "text": "others enjoy",
+      "count": 3,
+      "example": "Others enjoy large cups of drip coffee.",
+      "t": 552.09
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen, practice, speak. Practice makes you perfect."
+    },
+    {
+      "t": 13.91,
+      "text": "Hi everyone. Welcome back to our podcast. We're really happy you're here today."
+    },
+    {
+      "t": 18.71,
+      "text": "Yes, welcome everyone. If you're listening right now, whether you're walking, working,"
+    },
+    {
+      "t": 23.63,
+      "text": "studying, or just relaxing, thanks for spending some time with us."
+    },
+    {
+      "t": 27.11,
+      "text": "Today we're going to have a very relaxed and natural conversation. No complicated lessons,"
+    },
+    {
+      "t": 33.59,
+      "text": "No pressure, just two people talking about life, learning English, daily habits, and"
+    },
+    {
+      "t": 39.63,
+      "text": "the small things that make our lives better."
+    },
+    {
+      "t": 42.51,
+      "text": "Exactly."
+    },
+    {
+      "t": 43.51,
+      "text": "Sometimes, the best way to learn English is simply by listening to real conversations."
+    },
+    {
+      "t": 48.47,
+      "text": "When you hear natural speaking, your brain slowly starts to understand rhythm, vocabulary,"
+    },
+    {
+      "t": 54.03,
+      "text": "and expressions."
+    },
+    {
+      "t": 55.11,
+      "text": "That's true."
+    },
+    {
+      "t": 56.23,
+      "text": "Many learners focus only on grammar, but real communication is about understanding people"
+    },
+    {
+      "t": 61.91,
+      "text": "and expressing ideas naturally."
+    },
+    {
+      "t": 64.31,
+      "text": "So today, we're just going to talk like friends."
+    },
+    {
+      "t": 67.55,
+      "text": "Imagine you're sitting at a cafe with us,"
+    },
+    {
+      "t": 69.83,
+      "text": "listening to two people having a conversation."
+    },
+    {
+      "t": 72.27,
+      "text": "That sounds nice."
+    },
+    {
+      "t": 73.51,
+      "text": "Actually, I love the atmosphere of cafes,"
+    },
+    {
+      "t": 76.55,
+      "text": "the quiet music, the sound of coffee machines,"
+    },
+    {
+      "t": 79.67,
+      "text": "people chatting softly."
+    },
+    {
+      "t": 81.39,
+      "text": "Same here."
+    },
+    {
+      "t": 82.63,
+      "text": "A cafe is one of the best places to think or work."
+    },
+    {
+      "t": 86.19,
+      "text": "Sometimes when I'm stuck on a problem,"
+    },
+    {
+      "t": 88.35,
+      "text": "I go to a cafe, order coffee,"
+    },
+    {
+      "t": 90.59,
+      "text": "And somehow my brain starts working again."
+    },
+    {
+      "t": 93.07,
+      "text": "That's interesting."
+    },
+    {
+      "t": 94.27,
+      "text": "Maybe the environment helps your creativity."
+    },
+    {
+      "t": 96.95,
+      "text": "I think so."
+    },
+    {
+      "t": 98.11,
+      "text": "When you're always in the same place, like your room or your office,"
+    },
+    {
+      "t": 101.87,
+      "text": "your brain becomes too comfortable."
+    },
+    {
+      "t": 103.91,
+      "text": "But when you change environments, new ideas appear."
+    },
+    {
+      "t": 107.03,
+      "text": "That reminds me of something I read recently about creativity."
+    },
+    {
+      "t": 110.91,
+      "text": "Many creative people change locations when they work."
+    },
+    {
+      "t": 114.11,
+      "text": "Some write in cafes, some go to parks,"
+    },
+    {
+      "t": 116.79,
+      "text": "some travel to different cities."
+    },
+    {
+      "t": 118.63,
+      "text": "Travel is another great topic. Do you enjoy traveling?"
+    },
+    {
+      "t": 122.31,
+      "text": "I really do. Traveling gives you a completely different perspective on life."
+    },
+    {
+      "t": 127.11,
+      "text": "When you visit new places, meet new people, and see different cultures,"
+    },
+    {
+      "t": 131.43,
+      "text": "you realize the world is much bigger than your daily routine."
+    },
+    {
+      "t": 135.03,
+      "text": "That's so true. When people stay in the same place for too long,"
+    },
+    {
+      "t": 139.35,
+      "text": "they sometimes forget how diverse the world is."
+    },
+    {
+      "t": 142.47,
+      "text": "Exactly. Even simple things like food can be completely different in another country."
+    },
+    {
+      "t": 147.83,
+      "text": "Oh, yes. Food is one of the best parts of traveling."
+    },
+    {
+      "t": 151.27,
+      "text": "Definitely. Every culture expresses itself through food."
+    },
+    {
+      "t": 155.19,
+      "text": "Spices, cooking techniques, traditions, everything tells a story."
+    },
+    {
+      "t": 160.63,
+      "text": "I remember the first time I tried street food in another country."
+    },
+    {
+      "t": 164.39,
+      "text": "I was a little nervous at first."
+    },
+    {
+      "t": 166.23,
+      "text": "Why nervous?"
+    },
+    {
+      "t": 167.43,
+      "text": "Well, because it looked different from what I was used to."
+    },
+    {
+      "t": 170.23,
+      "text": "The cooking style, the ingredients, the smells, everything was new."
+    },
+    {
+      "t": 174.71,
+      "text": "But did you like it?"
+    },
+    {
+      "t": 175.83,
+      "text": "I loved it. It was one of the best meals I ever had. And it was very simple. Just a small dish from a street vendor."
+    },
+    {
+      "t": 182.79,
+      "text": "That's the beauty of food. Sometimes the simplest meals are the most memorable."
+    },
+    {
+      "t": 187.75,
+      "text": "Speaking of memorable experiences, do you remember the first time you started learning English?"
+    },
+    {
+      "t": 192.87,
+      "text": "Oh yes, very clearly. It was actually quite confusing at the beginning."
+    },
+    {
+      "t": 197.83,
+      "text": "Really? What was difficult about it?"
+    },
+    {
+      "t": 199.91,
+      "text": "Everything felt new, the pronunciation, the grammar, the sentence structure."
+    },
+    {
+      "t": 205.83,
+      "text": "It felt like learning how to think again."
+    },
+    {
+      "t": 208.31,
+      "text": "That's a great way to describe language learning."
+    },
+    {
+      "t": 210.95,
+      "text": "You're not just learning words, you're learning a new way of thinking."
+    },
+    {
+      "t": 214.71,
+      "text": "Exactly. And at first, I was afraid to speak."
+    },
+    {
+      "t": 217.83,
+      "text": "That's very common for language learners."
+    },
+    {
+      "t": 220.23,
+      "text": "Yes, because you worry about making mistakes."
+    },
+    {
+      "t": 222.87,
+      "text": "You worry about sounding strange."
+    },
+    {
+      "t": 225.19,
+      "text": "But the truth is, mistakes are the fastest way to learn."
+    },
+    {
+      "t": 228.63,
+      "text": "Absolutely. Every mistake teaches you something."
+    },
+    {
+      "t": 231.99,
+      "text": "I always tell learners that fluency doesn't come from perfection. It comes from practice."
+    },
+    {
+      "t": 237.63,
+      "text": "That's such an important idea. Many people late until their English is perfect before"
+    },
+    {
+      "t": 242.25,
+      "text": "they start speaking."
+    },
+    {
+      "t": 243.63,
+      "text": "And that day never comes."
+    },
+    {
+      "t": 245.55,
+      "text": "Exactly."
+    },
+    {
+      "t": 246.47,
+      "text": "The real secret is speaking early and speaking often."
+    },
+    {
+      "t": 249.87,
+      "text": "Yes, even if your sentences are simple, communication is still happening."
+    },
+    {
+      "t": 254.75,
+      "text": "Let me ask you something."
+    },
+    {
+      "t": 256.17,
+      "text": "What do you think is the biggest challenge for English learners?"
+    },
+    {
+      "t": 258.97,
+      "text": "I think confidence is the biggest challenge."
+    },
+    {
+      "t": 262.35,
+      "text": "Interesting."
+    },
+    {
+      "t": 263.35,
+      "text": "Not grammar."
+    },
+    {
+      "t": 264.35,
+      "text": "Grammar is important, but confidence controls whether you actually use the language."
+    },
+    {
+      "t": 269.31,
+      "text": "That makes sense."
+    },
+    {
+      "t": 270.43,
+      "text": "If someone knows grammar but never speaks, their progress will be slow."
+    },
+    {
+      "t": 274.87,
+      "text": "Exactly."
+    },
+    {
+      "t": 276.19,
+      "text": "Language is a skill, like playing a musical instrument."
+    },
+    {
+      "t": 279.23,
+      "text": "That's a great comparison."
+    },
+    {
+      "t": 280.95,
+      "text": "Find someone who reads about playing guitar every day but never touches a guitar."
+    },
+    {
+      "t": 285.79,
+      "text": "They will never become a good guitarist."
+    },
+    {
+      "t": 288.03,
+      "text": "Exactly."
+    },
+    {
+      "t": 289.03,
+      "text": "The same thing happens with languages."
+    },
+    {
+      "t": 291.15,
+      "text": "You must practice speaking."
+    },
+    {
+      "t": 292.87,
+      "text": "Yes, and also listening."
+    },
+    {
+      "t": 295.43,
+      "text": "Listening is very powerful."
+    },
+    {
+      "t": 297.23,
+      "text": "When you listen to English regularly, your brain starts recognizing patterns."
+    },
+    {
+      "t": 301.63,
+      "text": "That's why podcasts are so useful."
+    },
+    {
+      "t": 304.23,
+      "text": "Yes, podcasts allow learners to hear natural conversations."
+    },
+    {
+      "t": 308.59,
+      "text": "And the best part is that you can listen anywhere."
+    },
+    {
+      "t": 310.87,
+      "text": "in the car, while walking, while cooking?"
+    },
+    {
+      "t": 313.25,
+      "text": "Exactly!"
+    },
+    {
+      "t": 314.25,
+      "text": "Actually, I know someone who improved their English dramatically just by listening to podcasts"
+    },
+    {
+      "t": 319.35,
+      "text": "every day."
+    },
+    {
+      "t": 320.35,
+      "text": "Really?"
+    },
+    {
+      "t": 321.35,
+      "text": "What was their routine?"
+    },
+    {
+      "t": 322.35,
+      "text": "They listened for about 30 minutes each morning during their commute."
+    },
+    {
+      "t": 326.19,
+      "text": "That's a great habit."
+    },
+    {
+      "t": 327.39,
+      "text": "After a few months, they noticed something interesting."
+    },
+    {
+      "t": 329.95,
+      "text": "What happened?"
+    },
+    {
+      "t": 330.95,
+      "text": "They started thinking in English."
+    },
+    {
+      "t": 332.91,
+      "text": "That's a huge milestone in language learning."
+    },
+    {
+      "t": 335.51,
+      "text": "Yes, when your brain starts forming thoughts directly in English instead of translating."
+    },
+    {
+      "t": 340.67,
+      "text": "translation can slow down communication."
+    },
+    {
+      "t": 343.11,
+      "text": "Exactly."
+    },
+    {
+      "t": 344.27,
+      "text": "When you're translating every sentence in your head, conversations become stressful."
+    },
+    {
+      "t": 348.83,
+      "text": "But when you think directly in English, everything becomes smoother."
+    },
+    {
+      "t": 352.63,
+      "text": "Let me ask you another question."
+    },
+    {
+      "t": 354.43,
+      "text": "Do you think learning English is different today compared to 20 years ago?"
+    },
+    {
+      "t": 358.59,
+      "text": "Definitely."
+    },
+    {
+      "t": 359.59,
+      "text": "In what way?"
+    },
+    {
+      "t": 360.95,
+      "text": "Technology has completely changed language learning."
+    },
+    {
+      "t": 363.79,
+      "text": "That's true."
+    },
+    {
+      "t": 364.79,
+      "text": "In the past, people depended on textbooks and classroom lessons."
+    },
+    {
+      "t": 368.55,
+      "text": "And maybe CDs or cassette tapes for listening practice."
+    },
+    {
+      "t": 371.87,
+      "text": "Exactly."
+    },
+    {
+      "t": 372.87,
+      "text": "But today we have videos, podcasts, language apps, online teachers, and communities."
+    },
+    {
+      "t": 379.39,
+      "text": "The internet made learning much more accessible."
+    },
+    {
+      "t": 382.55,
+      "text": "Anyone with a phone can start learning today."
+    },
+    {
+      "t": 384.99,
+      "text": "But there is also a small problem."
+    },
+    {
+      "t": 387.35,
+      "text": "What's that?"
+    },
+    {
+      "t": 388.35,
+      "text": "Too many resources."
+    },
+    {
+      "t": 389.35,
+      "text": "That's actually true."
+    },
+    {
+      "t": 391.07,
+      "text": "Some learners jump from one method to another every week."
+    },
+    {
+      "t": 394.67,
+      "text": "That can slow progress."
+    },
+    {
+      "t": 396.83,
+      "text": "Reading is more important than variety."
+    },
+    {
+      "t": 398.83,
+      "text": "Yes, it's better to follow one routine regularly."
+    },
+    {
+      "t": 402.71,
+      "text": "For example, listening practice every day."
+    },
+    {
+      "t": 405.15,
+      "text": "Speaking practice several times a week."
+    },
+    {
+      "t": 407.43,
+      "text": "And reading something interesting in English."
+    },
+    {
+      "t": 410.07,
+      "text": "Reading is underrated."
+    },
+    {
+      "t": 411.35,
+      "text": "I agree."
+    },
+    {
+      "t": 412.63,
+      "text": "Reading helps expand vocabulary naturally."
+    },
+    {
+      "t": 415.23,
+      "text": "When you read stories or articles, you see words used in real context."
+    },
+    {
+      "t": 420.15,
+      "text": "Which makes them easier to remember."
+    },
+    {
+      "t": 422.15,
+      "text": "Exactly."
+    },
+    {
+      "t": 423.15,
+      "text": "Do you prefer reading physical books or digital books?"
+    },
+    {
+      "t": 426.07,
+      "text": "That's a difficult question."
+    },
+    {
+      "t": 427.87,
+      "text": "Why?"
+    },
+    {
+      "t": 428.47,
+      "text": "Because I like both for different reasons."
+    },
+    {
+      "t": 430.77,
+      "text": "Tell me more."
+    },
+    {
+      "t": 431.67,
+      "text": "Physical books feel more relaxing."
+    },
+    {
+      "t": 434.07,
+      "text": "There's something special about holding a book and turning pages."
+    },
+    {
+      "t": 437.97,
+      "text": "I feel the same way."
+    },
+    {
+      "t": 439.37,
+      "text": "But digital books are convenient."
+    },
+    {
+      "t": 441.37,
+      "text": "You can carry hundreds of books on one device."
+    },
+    {
+      "t": 444.47,
+      "text": "That's true, especially when traveling."
+    },
+    {
+      "t": 446.67,
+      "text": "Yes, luggage becomes much lighter."
+    },
+    {
+      "t": 449.17,
+      "text": "Another advantage of digital reading is built-in dictionaries."
+    },
+    {
+      "t": 452.77,
+      "text": "That's incredibly useful for language learners."
+    },
+    {
+      "t": 455.57,
+      "text": "If you see a new word, you can check the meaning instantly."
+    },
+    {
+      "t": 458.61,
+      "text": "No need to open a separate dictionary."
+    },
+    {
+      "t": 460.69,
+      "text": "Exactly. But regardless of format, the most important thing is reading regularly."
+    },
+    {
+      "t": 466.29,
+      "text": "Consistency, again."
+    },
+    {
+      "t": 467.97,
+      "text": "Yes, small daily habits create big results over time."
+    },
+    {
+      "t": 472.05,
+      "text": "That's a powerful idea that applies to many areas of life."
+    },
+    {
+      "t": 475.81,
+      "text": "Not just language learning."
+    },
+    {
+      "t": 477.17,
+      "text": "Exactly."
+    },
+    {
+      "t": 478.05,
+      "text": "Health, career, relationships, everything improves with small consistent actions."
+    },
+    {
+      "t": 483.41,
+      "text": "Let's talk about habits for a moment."
+    },
+    {
+      "t": 485.49,
+      "text": "Sure."
+    },
+    {
+      "t": 485.99,
+      "text": "Do you have a morning routine?"
+    },
+    {
+      "t": 487.75,
+      "text": "Yes, actually I do."
+    },
+    {
+      "t": 489.17,
+      "text": "I'm curious, what does it look like?"
+    },
+    {
+      "t": 491.03,
+      "text": "I try to keep it simple."
+    },
+    {
+      "t": 492.45,
+      "text": "First, I wake up and drink a glass of water."
+    },
+    {
+      "t": 495.01,
+      "text": "That's a healthy start."
+    },
+    {
+      "t": 496.29,
+      "text": "Then I stretch for a few minutes."
+    },
+    {
+      "t": 498.17,
+      "text": "Stretching in the morning feels great."
+    },
+    {
+      "t": 500.57,
+      "text": "It wakes up the body."
+    },
+    {
+      "t": 501.85,
+      "text": "What happens after that?"
+    },
+    {
+      "t": 503.21,
+      "text": "I usually read something for about 15 minutes."
+    },
+    {
+      "t": 506.09,
+      "text": "What kind of reading?"
+    },
+    {
+      "t": 507.33,
+      "text": "Sometimes a book, sometimes an article."
+    },
+    {
+      "t": 509.73,
+      "text": "That sounds like a peaceful way to begin the day."
+    },
+    {
+      "t": 512.29,
+      "text": "It really is. Starting the day slowly helps me think clearly."
+    },
+    {
+      "t": 516.29,
+      "text": "Many people start their day by checking their phones."
+    },
+    {
+      "t": 519.29,
+      "text": "Yes, and that can create stress immediately."
+    },
+    {
+      "t": 522.29,
+      "text": "Notifications, messages, emails."
+    },
+    {
+      "t": 525.29,
+      "text": "Exactly. Your brain suddenly feels overwhelmed."
+    },
+    {
+      "t": 528.29,
+      "text": "Maybe a calm start is better."
+    },
+    {
+      "t": 531.29,
+      "text": "I believe so."
+    },
+    {
+      "t": 532.29,
+      "text": "After your reading time, what do you do next?"
+    },
+    {
+      "t": 535.29,
+      "text": "Coffee."
+    },
+    {
+      "t": 536.29,
+      "text": "Of course."
+    },
+    {
+      "t": 537.29,
+      "text": "Coffee is essential."
+    },
+    {
+      "t": 538.29,
+      "text": "Many people would agree with you."
+    },
+    {
+      "t": 540.29,
+      "text": "Something comforting about the smell of fresh coffee."
+    },
+    {
+      "t": 543.41,
+      "text": "Coffee culture is fascinating."
+    },
+    {
+      "t": 545.41,
+      "text": "It really is."
+    },
+    {
+      "t": 546.85,
+      "text": "Different countries have very different coffee traditions."
+    },
+    {
+      "t": 549.77,
+      "text": "Some prefer strong espresso."
+    },
+    {
+      "t": 552.09,
+      "text": "Others enjoy large cups of drip coffee."
+    },
+    {
+      "t": 554.45,
+      "text": "And some cultures treat coffee as a social event."
+    },
+    {
+      "t": 557.65,
+      "text": "Sitting together and talking for hours."
+    },
+    {
+      "t": 559.97,
+      "text": "Exactly."
+    },
+    {
+      "t": 561.09,
+      "text": "Speaking of conversations, do you think people talk less face to face today because of"
+    },
+    {
+      "t": 565.89,
+      "text": "technology?"
+    },
+    {
+      "t": 566.89,
+      "text": "Matt's a deep question."
+    },
+    {
+      "t": 568.57,
+      "text": "I know."
+    },
+    {
+      "t": 569.57,
+      "text": "I think technology changed communication, but not necessarily reduced it."
+    },
+    {
+      "t": 575.01,
+      "text": "How so?"
+    },
+    {
+      "t": 575.81,
+      "text": "People still communicate a lot, but the format has changed."
+    },
+    {
+      "t": 579.57,
+      "text": "You mean messages instead of conversations?"
+    },
+    {
+      "t": 582.37,
+      "text": "Yes. Texting, voice notes, social media comments."
+    },
+    {
+      "t": 586.45,
+      "text": "Those forms are quicker, but sometimes less personal."
+    },
+    {
+      "t": 589.73,
+      "text": "Exactly."
+    },
+    {
+      "t": 590.61,
+      "text": "A real conversation allows emotions, tone, and body language."
+    },
+    {
+      "t": 594.77,
+      "text": "Which makes communication richer."
+    },
+    {
+      "t": 596.93,
+      "text": "Exactly."
+    },
+    {
+      "t": 597.89,
+      "text": "That's why podcasts feel special."
+    },
+    {
+      "t": 600.37,
+      "text": "Yes, because listeners hear real voices and natural interaction."
+    },
+    {
+      "t": 604.69,
+      "text": "It feels more human."
+    },
+    {
+      "t": 606.29,
+      "text": "Exactly."
+    },
+    {
+      "t": 607.17,
+      "text": "I hope our listeners feel like they are part of this conversation."
+    },
+    {
+      "t": 610.69,
+      "text": "Me too."
+    },
+    {
+      "t": 611.49,
+      "text": "Maybe they're listening while walking somewhere right now."
+    },
+    {
+      "t": 614.69,
+      "text": "Or sitting on a train."
+    },
+    {
+      "t": 616.21,
+      "text": "Or studying at home."
+    },
+    {
+      "t": 617.81,
+      "text": "Wherever you are, thanks for listening."
+    },
+    {
+      "t": 619.81,
+      "text": "Yes, we really appreciate it."
+    },
+    {
+      "t": 621.81,
+      "text": "And remember, every minute you spend listening to English is helping your brain improve."
+    },
+    {
+      "t": 626.93,
+      "text": "Language learning is like building a muscle."
+    },
+    {
+      "t": 629.69,
+      "text": "The more you train it, the stronger it becomes."
+    },
+    {
+      "t": 632.41,
+      "text": "Exactly."
+    },
+    {
+      "t": 633.45,
+      "text": "And progress might feel slow at first."
+    },
+    {
+      "t": 636.01,
+      "text": "But if you stay consistent,"
+    },
+    {
+      "t": 637.73,
+      "text": "one day you'll suddenly realize something."
+    },
+    {
+      "t": 640.41,
+      "text": "What will that be?"
+    },
+    {
+      "t": 641.33,
+      "text": "You'll understand conversations"
+    },
+    {
+      "t": 643.13,
+      "text": "that once felt impossible."
+    },
+    {
+      "t": 645.05,
+      "text": "That moment is incredibly rewarding."
+    },
+    {
+      "t": 647.53,
+      "text": "It makes all the effort worth it."
+    },
+    {
+      "t": 649.65,
+      "text": "Absolutely."
+    },
+    {
+      "t": 650.85,
+      "text": "Before we finish today's episode,"
+    },
+    {
+      "t": 652.69,
+      "text": "I want to ask one final question."
+    },
+    {
+      "t": 655.09,
+      "text": "I'm listening."
+    },
+    {
+      "t": 655.93,
+      "text": "If someone listening today feels stuck in their English learning journey, what advice would"
+    },
+    {
+      "t": 660.73,
+      "text": "you give them?"
+    },
+    {
+      "t": 661.73,
+      "text": "That's a great question."
+    },
+    {
+      "t": 663.07,
+      "text": "Take your time."
+    },
+    {
+      "t": 664.07,
+      "text": "I would tell them three simple things."
+    },
+    {
+      "t": 665.85,
+      "text": "Okay, let's hear them."
+    },
+    {
+      "t": 667.41,
+      "text": "First, don't compare yourself."
+    },
+    {
+      "t": 669.37,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 672.59,
+      "text": "Welcome back to our English learning podcast."
+    },
+    {
+      "t": 675.35,
+      "text": "If you're here to improve your English and learn how to speak more naturally in"
+    },
+    {
+      "t": 679.31,
+      "text": "everyday situations, you're in the right place."
+    },
+    {
+      "t": 682.43,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 683.63,
+      "text": "We're really happy you're here today."
+    },
+    {
+      "t": 685.71,
+      "text": "Whether you're listening while commuting, working, or relaxing at home, we hope this"
+    },
+    {
+      "t": 690.47,
+      "text": "conversation helps you improve your English step by step."
+    },
+    {
+      "t": 694.91,
+      "text": "Absolutely."
+    },
+    {
+      "t": 696.07,
+      "text": "And today, we have a very practical and interesting topic."
+    },
+    {
+      "t": 699.79,
+      "text": "We're going to talk about problems at work and how to solve them."
+    },
+    {
+      "t": 703.75,
+      "text": "That's right."
+    },
+    {
+      "t": 705.07,
+      "text": "Everyone experiences problems at work at some point."
+    },
+    {
+      "t": 708.07,
+      "text": "It could be stress, communication issues, time pressure, or disagreements with coworkers."
+    },
+    {
+      "t": 714.31,
+      "text": "Exactly."
+    },
+    {
+      "t": 715.43,
+      "text": "No workplace is perfect, but the important thing is learning how to deal with these problems"
+    },
+    {
+      "t": 720.59,
+      "text": "in a professional and calm way."
+    },
+    {
+      "t": 723.05,
+      "text": "And this topic is also great for learning English, because work conversations happen every"
+    },
+    {
+      "t": 727.83,
+      "text": "day."
+    },
+    {
+      "t": 728.83,
+      "text": "That's true."
+    },
+    {
+      "t": 729.83,
+      "text": "If you work in an international company or communicate with clients, these phrases"
+    },
+    {
+      "t": 734.39,
+      "text": "can be extremely useful."
+    },
+    {
+      "t": 736.43,
+      "text": "So today we're going to discuss common workplace problems, how people usually react, and"
+    },
+    {
+      "t": 742.15,
+      "text": "the best ways to solve them."
+    },
+    {
+      "t": 744.35,
+      "text": "Sounds good."
+    },
+    {
+      "t": 745.35,
+      "text": "Before we begin, let me ask you something."
+    },
+    {
+      "t": 748.07,
+      "text": "Have you ever had a difficult situation at work?"
+    },
+    {
+      "t": 751.07,
+      "text": "Oh, definitely!"
+    },
+    {
+      "t": 752.55,
+      "text": "I think everyone has experienced at least one stressful situation at work."
+    },
+    {
+      "t": 757.67,
+      "text": "Same here."
+    },
+    {
+      "t": 759.07,
+      "text": "Sometimes the challenge is the workload, sometimes it's communication with coworkers."
+    },
+    {
+      "t": 763.59,
+      "text": "Yes, and sometimes it's simply misunderstanding each other."
+    },
+    {
+      "t": 767.91,
+      "text": "Exactly."
+    },
+    {
+      "t": 769.03,
+      "text": "So let's start with one of the most common problems people face at work."
+    },
+    {
+      "t": 773.65,
+      "text": "much work and not enough time. Ah yes, the famous problem of heavy workload."
+    },
+    {
+      "t": 780.25,
+      "text": "Many employees feel overwhelmed because they have too many tasks and tight deadlines."
+    },
+    {
+      "t": 786.21,
+      "text": "Deadlines can create a lot of pressure, especially when several projects are due at the same"
+    },
+    {
+      "t": 790.93,
+      "text": "time. Right. When that happens, people may feel"
+    },
+    {
+      "t": 794.37,
+      "text": "stressed, tired, and even frustrated. I've been in that situation before. You"
+    },
+    {
+      "t": 799.57,
+      "text": "You look at your task list and think, how am I going to finish all this today?"
+    },
+    {
+      "t": 804.17,
+      "text": "Exactly."
+    },
+    {
+      "t": 805.33,
+      "text": "So what can people do when they have too much work?"
+    },
+    {
+      "t": 808.51,
+      "text": "The first step is prioritizing tasks."
+    },
+    {
+      "t": 811.53,
+      "text": "Not every task has the same level of importance."
+    },
+    {
+      "t": 814.65,
+      "text": "That's a great point."
+    },
+    {
+      "t": 815.97,
+      "text": "Some tasks are urgent and some can wait."
+    },
+    {
+      "t": 818.81,
+      "text": "When you organize tasks by priority, the work becomes more manageable."
+    },
+    {
+      "t": 823.65,
+      "text": "Another solution is communicating with your manager."
+    },
+    {
+      "t": 826.57,
+      "text": "Yes, many employees try to handle everything alone, but sometimes it's better to ask for help or clarification."
+    },
+    {
+      "t": 833.57,
+      "text": "For example, you can say, I currently have several deadlines. Which tasks should I focus on first?"
+    },
+    {
+      "t": 840.57,
+      "text": "That's a very professional way to ask for guidance."
+    },
+    {
+      "t": 843.57,
+      "text": "Exactly. Managers usually appreciate honesty and clear communication."
+    },
+    {
+      "t": 848.57,
+      "text": "Another helpful strategy is breaking large tasks into smaller steps."
+    },
+    {
+      "t": 853.57,
+      "text": "That's very effective. When a project looks huge, it can feel intimidating."
+    },
+    {
+      "t": 858.69,
+      "text": "But when you divide it into smaller tasks, it becomes easier to start."
+    },
+    {
+      "t": 863.17,
+      "text": "And starting is often the hardest part."
+    },
+    {
+      "t": 865.65,
+      "text": "Absolutely. Once you begin, momentum builds and the work starts moving forward."
+    },
+    {
+      "t": 871.25,
+      "text": "Now, let's talk about another common workplace issue, communication problems."
+    },
+    {
+      "t": 876.37,
+      "text": "Communication is extremely important in any workplace."
+    },
+    {
+      "t": 880.13,
+      "text": "But sometimes messages are unclear or people misunderstand each other."
+    },
+    {
+      "t": 884.85,
+      "text": "Yes, especially when teams work remotely or communicate mostly through email or chat."
+    },
+    {
+      "t": 890.81,
+      "text": "Without tone of voice or body language, messages can easily be misinterpreted."
+    },
+    {
+      "t": 896.21,
+      "text": "For example, a short message like,"
+    },
+    {
+      "t": 898.69,
+      "text": "please fix this might sound rude even if the sender didn't mean it that way."
+    },
+    {
+      "t": 903.49,
+      "text": "That's a great example."
+    },
+    {
+      "t": 905.01,
+      "text": "Tone can change the meaning of a message."
+    },
+    {
+      "t": 907.65,
+      "text": "So, what can people do to improve communication at work?"
+    },
+    {
+      "t": 911.65,
+      "text": "One simple solution is asking clarifying questions."
+    },
+    {
+      "t": 915.29,
+      "text": "Exactly."
+    },
+    {
+      "t": 916.29,
+      "text": "Instead of guessing, it's better to ask politely."
+    },
+    {
+      "t": 919.29,
+      "text": "For example, just to confirm, would you like this completed by tomorrow?"
+    },
+    {
+      "t": 924.09,
+      "text": "That avoids confusion and ensures everyone understands the expectations."
+    },
+    {
+      "t": 928.61,
+      "text": "Another solution is using clear and respectful language."
+    },
+    {
+      "t": 932.53,
+      "text": "Yes, professionalism in communication is very important."
+    },
+    {
+      "t": 936.77,
+      "text": "Even small phrases like please, thank you, and could you can make a big difference."
+    },
+    {
+      "t": 942.69,
+      "text": "Definitely."
+    },
+    {
+      "t": 943.69,
+      "text": "They create a positive and respectful atmosphere."
+    },
+    {
+      "t": 946.81,
+      "text": "Now let's move to another challenge many employees face."
+    },
+    {
+      "t": 950.85,
+      "text": "Difficult co-workers."
+    },
+    {
+      "t": 951.85,
+      "text": "Ah, that can be tricky."
+    },
+    {
+      "t": 954.13,
+      "text": "Every workplace has different personalities."
+    },
+    {
+      "t": 956.89,
+      "text": "Some co-workers may be very supportive and friendly, while others might be competitive"
+    },
+    {
+      "t": 961.69,
+      "text": "or negative."
+    },
+    {
+      "t": 963.29,
+      "text": "Exactly."
+    },
+    {
+      "t": 964.65,
+      "text": "Sometimes people have different working styles."
+    },
+    {
+      "t": 967.05,
+      "text": "For example, one person may like detailed planning while another prefers working quickly"
+    },
+    {
+      "t": 972.29,
+      "text": "and making decisions later."
+    },
+    {
+      "t": 974.47,
+      "text": "These differences can lead to tension if people don't understand each other."
+    },
+    {
+      "t": 978.43,
+      "text": "So how should someone handle a difficult coworker?"
+    },
+    {
+      "t": 981.77,
+      "text": "The first step is staying calm and professional."
+    },
+    {
+      "t": 985.17,
+      "text": "That's very important."
+    },
+    {
+      "t": 986.49,
+      "text": "Reacting emotionally usually makes the situation worse."
+    },
+    {
+      "t": 990.13,
+      "text": "Instead, try to understand the other person's perspective."
+    },
+    {
+      "t": 994.33,
+      "text": "people act difficult because they're stressed or under pressure."
+    },
+    {
+      "t": 998.07,
+      "text": "That's true. Work stress can affect behavior."
+    },
+    {
+      "t": 1001.41,
+      "text": "Another solution is focusing on the work itself rather than personal issues."
+    },
+    {
+      "t": 1006.01,
+      "text": "Yes. Keeping the conversation professional helps avoid conflict."
+    },
+    {
+      "t": 1010.57,
+      "text": "For example, you might say, let's focus on the best solution for this project. That"
+    },
+    {
+      "t": 1015.81,
+      "text": "keeps the discussion productive."
+    },
+    {
+      "t": 1018.01,
+      "text": "And if the conflict continues, it may be helpful to involve a manager or supervisor."
+    },
+    {
+      "t": 1023.05,
+      "text": "Right. Managers are responsible for maintaining a healthy work environment."
+    },
+    {
+      "t": 1027.81,
+      "text": "Another common workplace problem is lack of motivation."
+    },
+    {
+      "t": 1031.61,
+      "text": "That's a big one. Many employees feel unmotivated at times."
+    },
+    {
+      "t": 1035.61,
+      "text": "Especially when the work feels repetitive or boring."
+    },
+    {
+      "t": 1039.05,
+      "text": "Or when employees feel that their efforts are not recognized."
+    },
+    {
+      "t": 1043.25,
+      "text": "Recognition is very important for motivation. People like to feel that their work matters."
+    },
+    {
+      "t": 1048.49,
+      "text": "So what can employees do if they feel unmotivated?"
+    },
+    {
+      "t": 1052.29,
+      "text": "One idea is setting personal goals."
+    },
+    {
+      "t": 1055.09,
+      "text": "That's a great strategy."
+    },
+    {
+      "t": 1056.77,
+      "text": "Goals create a sense of progress."
+    },
+    {
+      "t": 1058.93,
+      "text": "For example, someone might aim to learn a new skill related to their job."
+    },
+    {
+      "t": 1063.81,
+      "text": "Learning new skills can make work more interesting."
+    },
+    {
+      "t": 1066.67,
+      "text": "Another idea is taking short breaks throughout the day."
+    },
+    {
+      "t": 1070.13,
+      "text": "Yes, breaks can refresh your mind and improve focus."
+    },
+    {
+      "t": 1074.05,
+      "text": "Even a five-minute walk can make a difference."
+    },
+    {
+      "t": 1076.69,
+      "text": "It helps reduce stress and clear your thoughts."
+    },
+    {
+      "t": 1079.65,
+      "text": "Now let's discuss another important topic, workplace stress."
+    },
+    {
+      "t": 1084.61,
+      "text": "Stress is very common in modern workplaces."
+    },
+    {
+      "t": 1087.73,
+      "text": "Tight deadlines, high expectations, and long hours can all contribute to stress."
+    },
+    {
+      "t": 1093.37,
+      "text": "When stress becomes too intense, it can affect both physical and mental health."
+    },
+    {
+      "t": 1098.65,
+      "text": "That's why managing stress is so important."
+    },
+    {
+      "t": 1101.65,
+      "text": "One helpful technique is time management."
+    },
+    {
+      "t": 1104.45,
+      "text": "When people plan their work carefully, they feel more in control."
+    },
+    {
+      "t": 1108.37,
+      "text": "Exactly."
+    },
+    {
+      "t": 1109.53,
+      "text": "Training reduces last-minute pressure."
+    },
+    {
+      "t": 1111.95,
+      "text": "Another technique is maintaining healthy habits."
+    },
+    {
+      "t": 1115.01,
+      "text": "Like exercise, good sleep, and balanced meals."
+    },
+    {
+      "t": 1118.77,
+      "text": "These habits improve energy and concentration."
+    },
+    {
+      "t": 1122.13,
+      "text": "Talking with colleagues can also help reduce stress."
+    },
+    {
+      "t": 1125.13,
+      "text": "Yes, sharing experiences reminds people that they're not alone."
+    },
+    {
+      "t": 1129.61,
+      "text": "Many co-workers face similar challenges."
+    },
+    {
+      "t": 1132.25,
+      "text": "Now let's talk about mistakes at work."
+    },
+    {
+      "t": 1135.37,
+      "text": "Everyone makes mistakes sometimes."
+    },
+    {
+      "t": 1137.05,
+      "text": "It's part of being human."
+    },
+    {
+      "t": 1138.61,
+      "text": "The important thing is how people respond to mistakes."
+    },
+    {
+      "t": 1142.15,
+      "text": "Some people try to hide mistakes, but that usually makes the situation worse."
+    },
+    {
+      "t": 1146.45,
+      "text": "A better approach is being honest and addressing the problem quickly."
+    },
+    {
+      "t": 1150.65,
+      "text": "For example, you might say, I noticed an error in the report."
+    },
+    {
+      "t": 1154.81,
+      "text": "I'm correcting it now."
+    },
+    {
+      "t": 1156.53,
+      "text": "That shows responsibility and professionalism."
+    },
+    {
+      "t": 1160.09,
+      "text": "Managers usually respect employees who take responsibility for their work."
+    },
+    {
+      "t": 1164.33,
+      "text": "Exactly."
+    },
+    {
+      "t": 1165.73,
+      "text": "Mistakes can also be learning opportunities."
+    },
+    {
+      "t": 1168.17,
+      "text": "Each mistake teaches something valuable."
+    },
+    {
+      "t": 1170.93,
+      "text": "Over time, those lessons help people improve their skills."
+    },
+    {
+      "t": 1174.45,
+      "text": "Let's talk about another interesting issue, working with remote teams."
+    },
+    {
+      "t": 1179.65,
+      "text": "Remote work has become very common in recent years."
+    },
+    {
+      "t": 1182.73,
+      "text": "Yes, many companies now have employees in different cities or even different countries."
+    },
+    {
+      "t": 1188.61,
+      "text": "While remote work offers flexibility, it also creates new challenges."
+    },
+    {
+      "t": 1193.33,
+      "text": "For example, time zone differences can make scheduling meetings difficult."
+    },
+    {
+      "t": 1198.05,
+      "text": "Communication can also be slower because people rely on messages instead of face-to-face conversations."
+    },
+    {
+      "t": 1204.05,
+      "text": "So how can teams improve remote collaboration?"
+    },
+    {
+      "t": 1207.05,
+      "text": "One solution is setting clear expectations and deadlines."
+    },
+    {
+      "t": 1211.05,
+      "text": "Another is using reliable communication tools."
+    },
+    {
+      "t": 1214.05,
+      "text": "Regular meetings can also help keep everyone connected."
+    },
+    {
+      "t": 1218.05,
+      "text": "Even short check-in meetings can improve teamwork."
+    },
+    {
+      "t": 1221.05,
+      "text": "Absolutely. Staying connected helps everyone stay aligned with the project goals."
+    },
+    {
+      "t": 1226.05,
+      "text": "goals. Before we finish, let's summarize a few key ideas from today's conversation."
+    },
+    {
+      "t": 1231.39,
+      "text": "First, workplace problems are normal. Everyone experiences them at some point."
+    },
+    {
+      "t": 1236.63,
+      "text": "Second, clear communication is one of the best tools for solving problems."
+    },
+    {
+      "t": 1241.47,
+      "text": "Third, staying calm and professional helps resolve conflicts effectively."
+    },
+    {
+      "t": 1246.79,
+      "text": "And finally, learning from challenges helps people grow in their careers."
+    },
+    {
+      "t": 1251.31,
+      "text": "Exactly. Every problem can become an opportunity to improve skills and build experience."
+    },
+    {
+      "t": 1257.31,
+      "text": "Now we have a question for everyone listening."
+    },
+    {
+      "t": 1260.31,
+      "text": "Yes, we'd love to hear from you."
+    },
+    {
+      "t": 1262.31,
+      "text": "What is the most common problem you face at work, and how do you usually solve it?"
+    },
+    {
+      "t": 1267.31,
+      "text": "Try describing your experience in English. It's a great way to practice."
+    },
+    {
+      "t": 1271.31,
+      "text": "Even a few simple sentences are enough."
+    },
+    {
+      "t": 1274.31,
+      "text": "Remember, practice is the key to improvement."
+    },
+    {
+      "t": 1277.31,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 1279.31,
+      "text": "today."
+    },
+    {
+      "t": 1280.31,
+      "text": "We really appreciate your time and support."
+    },
+    {
+      "t": 1283.15,
+      "text": "Keep practicing your English every day."
+    },
+    {
+      "t": 1285.53,
+      "text": "And we'll see you again in the next episode."
+    },
+    {
+      "t": 1288.23,
+      "text": "Take care, everyone."
+    },
+    {
+      "t": 1289.39,
+      "text": "Goodbye and happy learning."
+    },
+    {
+      "t": 1291.43,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 1292.43,
+      "text": "Welcome back to our podcast."
+    },
+    {
+      "t": 1294.35,
+      "text": "We're really happy that you're here today."
+    },
+    {
+      "t": 1296.75,
+      "text": "If you're trying to improve your English and learn how to speak naturally in real"
+    },
+    {
+      "t": 1301.15,
+      "text": "conversations, you're in the right place."
+    },
+    {
+      "t": 1304.83,
+      "text": "That's right."
+    },
+    {
+      "t": 1305.83,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 1306.83,
+      "text": "I'm Daniel."
+    },
+    {
+      "t": 1307.91,
+      "text": "And I'm Sophia."
+    },
+    {
+      "t": 1309.27,
+      "text": "On this podcast, we help you practice English through real conversations about everyday topics."
+    },
+    {
+      "t": 1315.73,
+      "text": "We talk about things you experience in real life so you can learn useful vocabulary and"
+    },
+    {
+      "t": 1320.89,
+      "text": "feel more confident when speaking English."
+    },
+    {
+      "t": 1323.77,
+      "text": "Exactly! And today we have a very practical and relatable topic."
+    },
+    {
+      "t": 1328.85,
+      "text": "Yes, today we're going to talk about problems at work and how to deal with them."
+    },
+    {
+      "t": 1334.45,
+      "text": "This is something almost everyone experiences at some point in their career."
+    },
+    {
+      "t": 1339.25,
+      "text": "Whether you're working in an office, working remotely, running your own business, or even"
+    },
+    {
+      "t": 1344.39,
+      "text": "working part-time while studying, workplace problems can happen anywhere."
+    },
+    {
+      "t": 1349.95,
+      "text": "And sometimes they can be stressful."
+    },
+    {
+      "t": 1352.51,
+      "text": "Definitely."
+    },
+    {
+      "t": 1353.51,
+      "text": "But the good news is that most problems at work have solutions."
+    },
+    {
+      "t": 1357.71,
+      "text": "Exactly."
+    },
+    {
+      "t": 1358.79,
+      "text": "So today we'll talk about common workplace problems and practical ways to solve them."
+    },
+    {
+      "t": 1364.39,
+      "text": "We'll also share examples and real-life situations that might sound familiar to you."
+    },
+    {
+      "t": 1370.11,
+      "text": "Before we start, Daniel, how are you feeling today?"
+    },
+    {
+      "t": 1373.11,
+      "text": "I'm doing great today."
+    },
+    {
+      "t": 1374.59,
+      "text": "I had a busy morning, but it was productive."
+    },
+    {
+      "t": 1377.59,
+      "text": "That's good to hear."
+    },
+    {
+      "t": 1378.83,
+      "text": "What made it productive?"
+    },
+    {
+      "t": 1380.31,
+      "text": "I managed to finish two important tasks before lunch, and that always feels satisfying."
+    },
+    {
+      "t": 1386.15,
+      "text": "I completely agree."
+    },
+    {
+      "t": 1388.11,
+      "text": "Finishing important work early in the day feels amazing."
+    },
+    {
+      "t": 1391.75,
+      "text": "What about you, Sophia?"
+    },
+    {
+      "t": 1393.01,
+      "text": "How was your morning?"
+    },
+    {
+      "t": 1394.41,
+      "text": "My morning was a little slower, to be honest."
+    },
+    {
+      "t": 1397.37,
+      "text": "I spent some time organizing my schedule and planning the week."
+    },
+    {
+      "t": 1401.49,
+      "text": "Planning is actually very important."
+    },
+    {
+      "t": 1403.85,
+      "text": "It really is."
+    },
+    {
+      "t": 1405.25,
+      "text": "Good planning can prevent many workplace problems."
+    },
+    {
+      "t": 1408.61,
+      "text": "That's actually a perfect transition to our topic."
+    },
+    {
+      "t": 1411.89,
+      "text": "You're right."
+    },
+    {
+      "t": 1412.89,
+      "text": "Let's start with one of the most common problems people face at work."
+    },
+    {
+      "t": 1417.09,
+      "text": "Too much work."
+    },
+    {
+      "t": 1418.73,
+      "text": "Yes."
+    },
+    {
+      "t": 1419.73,
+      "text": "Every workload is something many employees complain about."
+    },
+    {
+      "t": 1423.93,
+      "text": "Sometimes people feel overwhelmed because they have too many tasks and not enough time."
+    },
+    {
+      "t": 1429.01,
+      "text": "Exactly."
+    },
+    {
+      "t": 1430.01,
+      "text": "They feel pressure to finish everything quickly, and that can create stress."
+    },
+    {
+      "t": 1434.49,
+      "text": "I remember a time when I had five different projects at the same time."
+    },
+    {
+      "t": 1439.33,
+      "text": "That sounds intense."
+    },
+    {
+      "t": 1441.17,
+      "text": "It was."
+    },
+    {
+      "t": 1442.17,
+      "text": "I felt like I was constantly switching between tasks."
+    },
+    {
+      "t": 1445.37,
+      "text": "That's exhausting."
+    },
+    {
+      "t": 1447.41,
+      "text": "It really was."
+    },
+    {
+      "t": 1448.41,
+      "text": "And when you try to do too many things at once, your productivity actually decreases."
+    },
+    {
+      "t": 1453.69,
+      "text": "That's true. Multitasking sounds efficient, but it often leads to mistakes."
+    },
+    {
+      "t": 1459.29,
+      "text": "So what can someone do if they have too much work?"
+    },
+    {
+      "t": 1462.97,
+      "text": "One solution is prioritization."
+    },
+    {
+      "t": 1465.53,
+      "text": "That's a great strategy."
+    },
+    {
+      "t": 1467.29,
+      "text": "Instead of trying to do everything immediately, you identify the most important tasks."
+    },
+    {
+      "t": 1473.37,
+      "text": "Focus on what truly matters first."
+    },
+    {
+      "t": 1475.53,
+      "text": "Exactly. Another helpful strategy is communication."
+    },
+    {
+      "t": 1479.53,
+      "text": "What do you mean by that?"
+    },
+    {
+      "t": 1481.53,
+      "text": "Sometimes employees are afraid to tell their manager that their workload is too heavy."
+    },
+    {
+      "t": 1486.53,
+      "text": "That's very common."
+    },
+    {
+      "t": 1487.53,
+      "text": "But if your boss doesn't know you're struggling, they can't help you."
+    },
+    {
+      "t": 1491.53,
+      "text": "So it's better to be honest and say something like,"
+    },
+    {
+      "t": 1494.53,
+      "text": "I'm currently working on several tasks. Which one should be my top priority?"
+    },
+    {
+      "t": 1499.53,
+      "text": "That shows responsibility and professionalism."
+    },
+    {
+      "t": 1502.53,
+      "text": "professionalism."
+    },
+    {
+      "t": 1503.53,
+      "text": "And it helps managers understand your situation."
+    },
+    {
+      "t": 1507.21,
+      "text": "Another common workplace problem is poor communication."
+    },
+    {
+      "t": 1510.29,
+      "text": "Oh yes, that causes many misunderstandings."
+    },
+    {
+      "t": 1514.77,
+      "text": "Sometimes instructions are unclear."
+    },
+    {
+      "t": 1517.17,
+      "text": "Or people assume others understand what they mean."
+    },
+    {
+      "t": 1520.37,
+      "text": "I once worked on a project where the team misunderstood the client's request."
+    },
+    {
+      "t": 1525.29,
+      "text": "What happened?"
+    },
+    {
+      "t": 1526.37,
+      "text": "We spent two weeks preparing the wrong type of report."
+    },
+    {
+      "t": 1530.33,
+      "text": "That must have been frustrating."
+    },
+    {
+      "t": 1532.29,
+      "text": "It was, but it happened because nobody asked enough questions."
+    },
+    {
+      "t": 1536.89,
+      "text": "That's an important lesson."
+    },
+    {
+      "t": 1538.81,
+      "text": "If something isn't clear, always ask for clarification."
+    },
+    {
+      "t": 1542.73,
+      "text": "It's much better to ask questions early than fix mistakes later."
+    },
+    {
+      "t": 1547.13,
+      "text": "Another helpful practice is summarizing instructions."
+    },
+    {
+      "t": 1550.45,
+      "text": "That's a great technique."
+    },
+    {
+      "t": 1552.21,
+      "text": "For example, you could say, just to confirm, you'd like this report by Friday afternoon,"
+    },
+    {
+      "t": 1557.89,
+      "text": "correct?"
+    },
+    {
+      "t": 1558.89,
+      "text": "ensures everyone understands the expectations. Exactly. Let's move on to another workplace problem."
+    },
+    {
+      "t": 1566.01,
+      "text": "Difficult co-workers. Oh yes, that can make work very stressful. Sometimes co-workers have very"
+    },
+    {
+      "t": 1573.29,
+      "text": "different personalities. Or different working styles. Some people prefer quiet environments."
+    },
+    {
+      "t": 1580.09,
+      "text": "Others enjoy talking and socializing. Conflicts can happen when these styles clash."
+    },
+    {
+      "t": 1585.45,
+      "text": "I once had a colleague who liked to interrupt people while they were working."
+    },
+    {
+      "t": 1589.65,
+      "text": "That can be very distracting."
+    },
+    {
+      "t": 1591.81,
+      "text": "It was. At first I felt annoyed, but I didn't say anything."
+    },
+    {
+      "t": 1596.01,
+      "text": "What changed?"
+    },
+    {
+      "t": 1597.29,
+      "text": "Eventually, I politely explained that I concentrate better without interruptions."
+    },
+    {
+      "t": 1602.41,
+      "text": "How did they react?"
+    },
+    {
+      "t": 1604.01,
+      "text": "Surprisingly well. They didn't realize they were causing a problem."
+    },
+    {
+      "t": 1608.29,
+      "text": "That's a great example of respectful communication. Many conflicts can be solved simply by talking"
+    },
+    {
+      "t": 1614.89,
+      "text": "calmly. Another important skill is emotional control. Yes, if you respond with anger, the"
+    },
+    {
+      "t": 1621.73,
+      "text": "situation often becomes worse. Staying calm helps maintain professionalism. Now let's"
+    },
+    {
+      "t": 1628.37,
+      "text": "talk about another common issue, lack of motivation. That happens to many people during their"
+    },
+    {
+      "t": 1634.41,
+      "text": "careers. Sometimes work becomes repetitive. Or employees feel their efforts aren't"
+    },
+    {
+      "t": 1640.85,
+      "text": "When people feel valued, they tend to work harder and feel happier."
+    },
+    {
+      "t": 1644.85,
+      "text": "Exactly, but if recognition is missing, motivation can decrease."
+    },
+    {
+      "t": 1649.85,
+      "text": "So what can someone do if they feel unmotivated at work?"
+    },
+    {
+      "t": 1653.85,
+      "text": "One solution is setting personal goals."
+    },
+    {
+      "t": 1656.85,
+      "text": "That's interesting."
+    },
+    {
+      "t": 1657.85,
+      "text": "Even if your job tasks are routine, you can challenge yourself."
+    },
+    {
+      "t": 1661.85,
+      "text": "For example,"
+    },
+    {
+      "t": 1662.85,
+      "text": "Hi everyone, welcome back to our podcast."
+    },
+    {
+      "t": 1665.85,
+      "text": "We're really happy that you're here."
+    },
+    {
+      "t": 1667.85,
+      "text": "Welcome back to our podcast. We're really happy that you're here today. If you're trying"
+    },
+    {
+      "t": 1672.53,
+      "text": "to improve your English and learn how to speak naturally in real conversations, you're in"
+    },
+    {
+      "t": 1678.33,
+      "text": "the right place."
+    },
+    {
+      "t": 1680.13,
+      "text": "That's right. Hello, everyone. I'm Daniel."
+    },
+    {
+      "t": 1683.17,
+      "text": "And I'm Sophia. On this podcast, we help you practice English through real conversations"
+    },
+    {
+      "t": 1688.73,
+      "text": "about everyday topics."
+    },
+    {
+      "t": 1691.01,
+      "text": "We talk about things you experience in real life so you can learn useful vocabulary"
+    },
+    {
+      "t": 1695.93,
+      "text": "and feel more confident when speaking English. Exactly. And today we have a very practical"
+    },
+    {
+      "t": 1702.25,
+      "text": "and relatable topic. Yes, today we're going to talk about problems at work and how to"
+    },
+    {
+      "t": 1708.25,
+      "text": "deal with them. This is something almost everyone experiences at some point in their"
+    },
+    {
+      "t": 1713.53,
+      "text": "career. Whether you're working in an office, working remotely, running your own business,"
+    },
+    {
+      "t": 1719.37,
+      "text": "or even working part-time while studying, workplace problems can happen anywhere."
+    },
+    {
+      "t": 1725.21,
+      "text": "And sometimes they can be stressful."
+    },
+    {
+      "t": 1727.69,
+      "text": "Definitely."
+    },
+    {
+      "t": 1728.81,
+      "text": "But the good news is that most problems at work have solutions."
+    },
+    {
+      "t": 1733.09,
+      "text": "Exactly."
+    },
+    {
+      "t": 1734.09,
+      "text": "So today we'll talk about common workplace problems and practical ways to solve them."
+    },
+    {
+      "t": 1739.69,
+      "text": "We'll also share examples and real-life situations that might sound familiar to you."
+    },
+    {
+      "t": 1745.41,
+      "text": "Before we start, Daniel, how are you feeling today?"
+    },
+    {
+      "t": 1748.41,
+      "text": "I'm doing great today."
+    },
+    {
+      "t": 1749.89,
+      "text": "I had a busy morning, but it was productive."
+    },
+    {
+      "t": 1752.29,
+      "text": "That's good to hear."
+    },
+    {
+      "t": 1754.13,
+      "text": "What made it productive?"
+    },
+    {
+      "t": 1755.61,
+      "text": "I managed to finish two important tasks before lunch, and that always feels satisfying."
+    },
+    {
+      "t": 1761.45,
+      "text": "I completely agree."
+    },
+    {
+      "t": 1763.37,
+      "text": "Finishing important work early in the day feels amazing."
+    },
+    {
+      "t": 1767.03,
+      "text": "What about you, Sophia?"
+    },
+    {
+      "t": 1768.33,
+      "text": "How was your morning?"
+    },
+    {
+      "t": 1769.69,
+      "text": "My morning was a little slower, to be honest."
+    },
+    {
+      "t": 1772.65,
+      "text": "I spent some time organizing my schedule and planning the week."
+    },
+    {
+      "t": 1776.77,
+      "text": "Planning is actually very important."
+    },
+    {
+      "t": 1779.13,
+      "text": "It really is."
+    },
+    {
+      "t": 1780.53,
+      "text": "Good planning can prevent many workplace problems."
+    },
+    {
+      "t": 1783.93,
+      "text": "It's actually a perfect transition to our topic."
+    },
+    {
+      "t": 1787.17,
+      "text": "You're right."
+    },
+    {
+      "t": 1788.17,
+      "text": "Let's start with one of the most common problems people face at work."
+    },
+    {
+      "t": 1792.37,
+      "text": "Too much work."
+    },
+    {
+      "t": 1794.01,
+      "text": "Yes."
+    },
+    {
+      "t": 1795.01,
+      "text": "Heavy workload is something many employees complain about."
+    },
+    {
+      "t": 1799.21,
+      "text": "Sometimes people feel overwhelmed because they have too many tasks and not enough"
+    },
+    {
+      "t": 1803.05,
+      "text": "time."
+    },
+    {
+      "t": 1804.05,
+      "text": "Exactly."
+    },
+    {
+      "t": 1805.05,
+      "text": "They feel pressure to finish everything quickly, and that can create stress."
+    },
+    {
+      "t": 1809.77,
+      "text": "I remember a time when I had five different projects at the same time."
+    },
+    {
+      "t": 1814.61,
+      "text": "That sounds intense."
+    },
+    {
+      "t": 1816.45,
+      "text": "It was."
+    },
+    {
+      "t": 1817.45,
+      "text": "I felt like I was constantly switching between tasks."
+    },
+    {
+      "t": 1821.13,
+      "text": "That's exhausting."
+    },
+    {
+      "t": 1822.69,
+      "text": "It really was."
+    },
+    {
+      "t": 1823.69,
+      "text": "And when you try to do too many things at once, your productivity actually decreases."
+    },
+    {
+      "t": 1829.33,
+      "text": "That's true."
+    },
+    {
+      "t": 1831.01,
+      "text": "Multitasking sounds efficient, but it often leads to mistakes."
+    },
+    {
+      "t": 1834.85,
+      "text": "So what can someone do if they have too much work?"
+    },
+    {
+      "t": 1838.59,
+      "text": "solution is prioritization. That's a great strategy. Instead of trying to do"
+    },
+    {
+      "t": 1843.95,
+      "text": "everything immediately, you identify the most important tasks. Focus on what"
+    },
+    {
+      "t": 1849.51,
+      "text": "truly matters first. Exactly. Another helpful strategy is communication. What"
+    },
+    {
+      "t": 1855.79,
+      "text": "do you mean by that? Sometimes employees are afraid to tell their manager that"
+    },
+    {
+      "t": 1860.19,
+      "text": "their workload is too heavy. That's very common. But if your boss doesn't"
+    },
+    {
+      "t": 1864.99,
+      "text": "know you're struggling, they can't help you."
+    },
+    {
+      "t": 1867.79,
+      "text": "So it's better to be honest and say something like, I'm currently working on several tasks."
+    },
+    {
+      "t": 1873.39,
+      "text": "Which one should be my top priority?"
+    },
+    {
+      "t": 1875.99,
+      "text": "That shows responsibility and professionalism."
+    },
+    {
+      "t": 1879.23,
+      "text": "And it helps managers understand your situation."
+    },
+    {
+      "t": 1882.55,
+      "text": "Another common workplace problem is poor communication."
+    },
+    {
+      "t": 1885.71,
+      "text": "Oh yes, that causes many misunderstandings."
+    },
+    {
+      "t": 1890.11,
+      "text": "Sometimes instructions are unclear."
+    },
+    {
+      "t": 1892.51,
+      "text": "Or people assume others understand what they mean."
+    },
+    {
+      "t": 1895.71,
+      "text": "I once worked on a project where the team misunderstood the client's request."
+    },
+    {
+      "t": 1900.63,
+      "text": "What happened?"
+    },
+    {
+      "t": 1901.73,
+      "text": "We spent two weeks preparing the wrong type of report."
+    },
+    {
+      "t": 1905.67,
+      "text": "That must have been frustrating."
+    },
+    {
+      "t": 1907.59,
+      "text": "It was, but it happened because nobody asked enough questions."
+    },
+    {
+      "t": 1912.19,
+      "text": "That's an important lesson."
+    },
+    {
+      "t": 1914.15,
+      "text": "If something isn't clear, always ask for clarification."
+    },
+    {
+      "t": 1918.07,
+      "text": "It's much better to ask questions early than fix mistakes later."
+    },
+    {
+      "t": 1922.47,
+      "text": "Another helpful practice is summarizing instructions."
+    },
+    {
+      "t": 1925.79,
+      "text": "That's a great technique."
+    },
+    {
+      "t": 1927.51,
+      "text": "For example, you could say, just to confirm, you'd like this report by Friday afternoon,"
+    },
+    {
+      "t": 1933.27,
+      "text": "correct?"
+    },
+    {
+      "t": 1934.27,
+      "text": "That ensures everyone understands the expectations."
+    },
+    {
+      "t": 1937.59,
+      "text": "Exactly."
+    },
+    {
+      "t": 1938.59,
+      "text": "Let's move on to another workplace problem."
+    },
+    {
+      "t": 1941.87,
+      "text": "Difficult co-workers."
+    },
+    {
+      "t": 1942.87,
+      "text": "Oh yes, that can make work very stressful."
+    },
+    {
+      "t": 1947.27,
+      "text": "Sometimes co-workers have very different personalities."
+    },
+    {
+      "t": 1950.71,
+      "text": "different working styles. Some people prefer quiet environments. Others enjoy talking and"
+    },
+    {
+      "t": 1957.07,
+      "text": "socializing. Conflicts can happen when these styles clash. I once had a colleague who liked"
+    },
+    {
+      "t": 1963.15,
+      "text": "to interrupt people while they were working. That can be very..."
+    },
+    {
+      "t": 1966.63,
+      "text": "Hi everyone. Welcome back to our podcast. If you're here to improve your English and"
+    },
+    {
+      "t": 1972.23,
+      "text": "learn how to communicate confidently at work, you're in the right place. I'm Michael."
+    },
+    {
+      "t": 1978.03,
+      "text": "And I'm Emma."
+    },
+    {
+      "t": 1979.03,
+      "text": "We're really happy you're here with us today."
+    },
+    {
+      "t": 1981.59,
+      "text": "In this podcast, we focus on real conversations that help you use English naturally in your"
+    },
+    {
+      "t": 1986.87,
+      "text": "daily life and especially in professional environments."
+    },
+    {
+      "t": 1990.43,
+      "text": "Exactly."
+    },
+    {
+      "t": 1991.43,
+      "text": "Today, we're continuing with a topic that many people find very useful, problems at"
+    },
+    {
+      "t": 1996.43,
+      "text": "work and how to solve them."
+    },
+    {
+      "t": 1998.59,
+      "text": "Yes, in the previous episode, we talked about stress, communication issues, and"
+    },
+    {
+      "t": 2003.67,
+      "text": "teamwork challenges."
+    },
+    {
+      "t": 2005.35,
+      "text": "But today we're going to explore different workplace problems and practical solutions"
+    },
+    {
+      "t": 2009.85,
+      "text": "for them."
+    },
+    {
+      "t": 2010.85,
+      "text": "That's right, because no matter where you work, problems will appear sooner or later."
+    },
+    {
+      "t": 2015.99,
+      "text": "What matters most is how you deal with those problems."
+    },
+    {
+      "t": 2019.27,
+      "text": "Exactly."
+    },
+    {
+      "t": 2020.27,
+      "text": "When you handle workplace issues calmly and professionally, you build a good reputation."
+    },
+    {
+      "t": 2025.71,
+      "text": "So Emma, let's start with a problem many people experience, feeling overwhelmed by"
+    },
+    {
+      "t": 2030.71,
+      "text": "too much work."
+    },
+    {
+      "t": 2032.19,
+      "text": "Oh yes, that's extremely common."
+    },
+    {
+      "t": 2034.87,
+      "text": "Many employees feel like their workload is too heavy."
+    },
+    {
+      "t": 2037.95,
+      "text": "A workload is simply the amount of work someone has to complete."
+    },
+    {
+      "t": 2042.23,
+      "text": "When the workload becomes too large, employees may feel stressed, tired, and even frustrated."
+    },
+    {
+      "t": 2049.07,
+      "text": "Especially if deadlines are close."
+    },
+    {
+      "t": 2050.83,
+      "text": "Yes, imagine you have three big projects due in the same week."
+    },
+    {
+      "t": 2055.51,
+      "text": "That can definitely create pressure."
+    },
+    {
+      "t": 2057.95,
+      "text": "So what can someone do in that situation?"
+    },
+    {
+      "t": 2060.99,
+      "text": "One solution is time management."
+    },
+    {
+      "t": 2063.51,
+      "text": "a very important skill. Time management means organizing your tasks and using your time"
+    },
+    {
+      "t": 2068.87,
+      "text": "effectively. For example, you can create a daily schedule. Or write a list of tasks you"
+    },
+    {
+      "t": 2074.75,
+      "text": "need to complete. A simple to-do list can make a big difference. Another helpful technique"
+    },
+    {
+      "t": 2080.43,
+      "text": "is something called the two-minute rule. That's interesting. What is that? If a task"
+    },
+    {
+      "t": 2085.75,
+      "text": "takes less than two minutes, you do it immediately instead of delaying it. That prevents small"
+    },
+    {
+      "t": 2091.35,
+      "text": "tasks from piling up. Exactly. Another solution when you feel overwhelmed is talking to your"
+    },
+    {
+      "t": 2097.35,
+      "text": "manager. Yes, many employees stay silent even when they're struggling. But managers can't"
+    },
+    {
+      "t": 2103.43,
+      "text": "help if they don't know there's a problem. A professional way to say it could be, I'd"
+    },
+    {
+      "t": 2108.39,
+      "text": "like to discuss my workload. Or, I'm currently managing several tasks. Could we review the"
+    },
+    {
+      "t": 2114.47,
+      "text": "priorities? That's a calm and professional approach. Absolutely. Now, let's talk about"
+    },
+    {
+      "t": 2120.75,
+      "text": "another workplace problem, lack of clear instructions."
+    },
+    {
+      "t": 2124.87,
+      "text": "That happens more often than people think."
+    },
+    {
+      "t": 2127.99,
+      "text": "Sometimes managers give vague instructions."
+    },
+    {
+      "t": 2130.99,
+      "text": "Vague means not clear or not detailed."
+    },
+    {
+      "t": 2133.95,
+      "text": "For example, a manager might say, prepare a report."
+    },
+    {
+      "t": 2137.79,
+      "text": "But they don't explain what information should be included."
+    },
+    {
+      "t": 2141.23,
+      "text": "Or how long the report should be."
+    },
+    {
+      "t": 2143.55,
+      "text": "Or when exactly it's needed."
+    },
+    {
+      "t": 2146.11,
+      "text": "Without clear instructions, employees may feel confused."
+    },
+    {
+      "t": 2149.71,
+      "text": "And they may waste time doing the wrong thing."
+    },
+    {
+      "t": 2152.71,
+      "text": "So what's the solution?"
+    },
+    {
+      "t": 2154.41,
+      "text": "The best solution is asking questions early."
+    },
+    {
+      "t": 2157.59,
+      "text": "Yes, clarifying expectations can save a lot of time."
+    },
+    {
+      "t": 2161.71,
+      "text": "A useful phrase could be, just to confirm, would you like the report to include last"
+    },
+    {
+      "t": 2166.95,
+      "text": "month's data?"
+    },
+    {
+      "t": 2168.27,
+      "text": "Or could you clarify the format you prefer?"
+    },
+    {
+      "t": 2171.39,
+      "text": "These questions show that you're responsible and careful."
+    },
+    {
+      "t": 2174.59,
+      "text": "Exactly."
+    },
+    {
+      "t": 2175.59,
+      "text": "Now let's discuss another workplace issue, lack of recognition."
+    },
+    {
+      "t": 2180.59,
+      "text": "That means employees feel their work is not appreciated."
+    },
+    {
+      "t": 2184.23,
+      "text": "Yes, many people work very hard but rarely receive feedback."
+    },
+    {
+      "t": 2189.07,
+      "text": "And when employees feel unappreciated, their motivation can decrease."
+    },
+    {
+      "t": 2193.91,
+      "text": "Everyone likes to know that their work matters."
+    },
+    {
+      "t": 2196.33,
+      "text": "So how can this problem be solved?"
+    },
+    {
+      "t": 2199.07,
+      "text": "Managers should give regular feedback."
+    },
+    {
+      "t": 2201.35,
+      "text": "Even simple words like great job or thank you for your effort can make a big difference."
+    },
+    {
+      "t": 2206.83,
+      "text": "For employees, it's also helpful to share their achievements."
+    },
+    {
+      "t": 2210.59,
+      "text": "That's true."
+    },
+    {
+      "t": 2211.59,
+      "text": "Some people are shy about talking about their accomplishments."
+    },
+    {
+      "t": 2214.91,
+      "text": "But sharing progress helps others understand your contribution."
+    },
+    {
+      "t": 2219.03,
+      "text": "For example, during a meeting, you could say, I completed the client analysis and"
+    },
+    {
+      "t": 2223.95,
+      "text": "identified three key opportunities."
+    },
+    {
+      "t": 2226.99,
+      "text": "That's professional and informative."
+    },
+    {
+      "t": 2229.07,
+      "text": "Exactly."
+    },
+    {
+      "t": 2230.07,
+      "text": "Now let's talk about another challenge working with difficult clients."
+    },
+    {
+      "t": 2234.57,
+      "text": "Oh yes, anyone in customer service has probably experienced this."
+    },
+    {
+      "t": 2239.33,
+      "text": "Some clients may be impatient."
+    },
+    {
+      "t": 2241.65,
+      "text": "Some may complain frequently."
+    },
+    {
+      "t": 2243.65,
+      "text": "And sometimes clients can be rude."
+    },
+    {
+      "t": 2246.25,
+      "text": "That can be very stressful."
+    },
+    {
+      "t": 2248.17,
+      "text": "So how should someone handle difficult clients?"
+    },
+    {
+      "t": 2251.41,
+      "text": "The most important thing is staying calm and professional."
+    },
+    {
+      "t": 2255.33,
+      "text": "Never respond with anger."
+    },
+    {
+      "t": 2257.09,
+      "text": "Instead, listen carefully to the problem."
+    },
+    {
+      "t": 2259.93,
+      "text": "Listening helps clients feel respected."
+    },
+    {
+      "t": 2262.75,
+      "text": "Useful phrases might be, I understand your concern."
+    },
+    {
+      "t": 2266.55,
+      "text": "Or let me see how I can help solve this issue."
+    },
+    {
+      "t": 2269.95,
+      "text": "These phrases show empathy."
+    },
+    {
+      "t": 2272.11,
+      "text": "Empathy means understanding someone else's feelings."
+    },
+    {
+      "t": 2275.39,
+      "text": "Exactly."
+    },
+    {
+      "t": 2276.39,
+      "text": "Now, let's move to another workplace problem, lack of career growth."
+    },
+    {
+      "t": 2281.31,
+      "text": "Many employees worry about this."
+    },
+    {
+      "t": 2284.03,
+      "text": "Especially if they've been in the same position for a long time."
+    },
+    {
+      "t": 2287.11,
+      "text": "They may start to feel stuck."
+    },
+    {
+      "t": 2289.43,
+      "text": "When people feel stuck, they often lose motivation."
+    },
+    {
+      "t": 2292.83,
+      "text": "So what can someone do if they want to grow in their career?"
+    },
+    {
+      "t": 2296.85,
+      "text": "One solution is developing new skills."
+    },
+    {
+      "t": 2299.83,
+      "text": "Learning new skills can open new opportunities."
+    },
+    {
+      "t": 2302.83,
+      "text": "For example, improving technical skills, leadership skills, or communication skills."
+    },
+    {
+      "t": 2308.23,
+      "text": "Another option is discussing career goals with a manager."
+    },
+    {
+      "t": 2311.59,
+      "text": "A good phrase could be, I'd like to talk about my professional development."
+    },
+    {
+      "t": 2316.43,
+      "text": "Or, I'm interested in taking on more responsibilities."
+    },
+    {
+      "t": 2320.07,
+      "text": "That shows ambition."
+    },
+    {
+      "t": 2321.49,
+      "text": "And many companies value employees who want to grow."
+    },
+    {
+      "t": 2325.35,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2326.35,
+      "text": "Now, let's discuss lack of teamwork."
+    },
+    {
+      "t": 2329.67,
+      "text": "Teamwork is essential in most organizations."
+    },
+    {
+      "t": 2332.59,
+      "text": "But sometimes teams don't cooperate effectively."
+    },
+    {
+      "t": 2335.85,
+      "text": "For example, some team members may not communicate."
+    },
+    {
+      "t": 2339.39,
+      "text": "Or they may not complete their assigned tasks."
+    },
+    {
+      "t": 2342.45,
+      "text": "That can slow down the entire project."
+    },
+    {
+      "t": 2345.07,
+      "text": "So what's the solution?"
+    },
+    {
+      "t": 2346.63,
+      "text": "The solution is clear roles and responsibilities."
+    },
+    {
+      "t": 2350.55,
+      "text": "Everyone should know exactly what their job is."
+    },
+    {
+      "t": 2353.61,
+      "text": "Regular team meetings can also help."
+    },
+    {
+      "t": 2356.03,
+      "text": "Meetings allow people to share updates and solve problems together."
+    },
+    {
+      "t": 2360.59,
+      "text": "Communication again plays a key role."
+    },
+    {
+      "t": 2362.99,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2363.99,
+      "text": "Let's imagine a short conversation between colleagues about teamwork."
+    },
+    {
+      "t": 2368.43,
+      "text": "Great idea."
+    },
+    {
+      "t": 2369.43,
+      "text": "I'll go ahead."
+    },
+    {
+      "t": 2370.43,
+      "text": "Go ahead."
+    },
+    {
+      "t": 2371.43,
+      "text": "Hi, Emma."
+    },
+    {
+      "t": 2372.43,
+      "text": "Do you have a minute?"
+    },
+    {
+      "t": 2373.43,
+      "text": "Sure."
+    },
+    {
+      "t": 2374.43,
+      "text": "We're viewing the project timeline and it looks like we're falling behind schedule."
+    },
+    {
+      "t": 2378.67,
+      "text": "I noticed that too."
+    },
+    {
+      "t": 2380.31,
+      "text": "Which part of the project is delayed?"
+    },
+    {
+      "t": 2382.47,
+      "text": "The design stage is taking longer than expected."
+    },
+    {
+      "t": 2385.51,
+      "text": "I see."
+    },
+    {
+      "t": 2386.51,
+      "text": "Maybe we can divide the tasks differently."
+    },
+    {
+      "t": 2389.55,
+      "text": "That's a good idea."
+    },
+    {
+      "t": 2390.71,
+      "text": "If I handle the client communication, could you focus on the design revisions?"
+    },
+    {
+      "t": 2395.23,
+      "text": "Yes, that would help a lot."
+    },
+    {
+      "t": 2397.31,
+      "text": "Great."
+    },
+    {
+      "t": 2398.31,
+      "text": "Let's also update the rest of the team during tomorrow's meeting."
+    },
+    {
+      "t": 2401.51,
+      "text": "Perfect."
+    },
+    {
+      "t": 2402.51,
+      "text": "That way everyone stays informed."
+    },
+    {
+      "t": 2404.39,
+      "text": "Thanks for bringing this up."
+    },
+    {
+      "t": 2405.79,
+      "text": "No problem."
+    },
+    {
+      "t": 2406.79,
+      "text": "End of role play."
+    },
+    {
+      "t": 2408.15,
+      "text": "That conversation shows how teamwork problems can be solved through communication."
+    },
+    {
+      "t": 2413.07,
+      "text": "Exactly."
+    },
+    {
+      "t": 2414.07,
+      "text": "Now let's discuss another workplace challenge, procrastination."
+    },
+    {
+      "t": 2419.43,
+      "text": "Procrastination means delaying tasks that should be done earlier."
+    },
+    {
+      "t": 2422.91,
+      "text": "Many people struggle with this."
+    },
+    {
+      "t": 2425.35,
+      "text": "Especially when tasks feel difficult or boring."
+    },
+    {
+      "t": 2428.35,
+      "text": "One way to overcome procrastination is starting with small steps."
+    },
+    {
+      "t": 2432.47,
+      "text": "Yes, once you begin, it's often easier to continue."
+    },
+    {
+      "t": 2435.83,
+      "text": "Another helpful technique is setting time limits."
+    },
+    {
+      "t": 2438.79,
+      "text": "For example, working on a task for 25 minutes"
+    },
+    {
+      "t": 2441.71,
+      "text": "without interruptions."
+    },
+    {
+      "t": 2443.23,
+      "text": "That's called the Pomodoro technique."
+    },
+    {
+      "t": 2445.43,
+      "text": "Exactly."
+    },
+    {
+      "t": 2446.31,
+      "text": "It helps people stay focused and productive."
+    },
+    {
+      "t": 2449.23,
+      "text": "Now, let's talk about something related,"
+    },
+    {
+      "t": 2451.71,
+      "text": "office distractions."
+    },
+    {
+      "t": 2453.23,
+      "text": "Distractions can seriously affect productivity."
+    },
+    {
+      "t": 2456.55,
+      "text": "Examples include constant notifications,"
+    },
+    {
+      "t": 2459.35,
+      "text": "noise, or interruptions."
+    },
+    {
+      "t": 2461.27,
+      "text": "One solution is creating a focused work environment."
+    },
+    {
+      "t": 2464.81,
+      "text": "That might mean turning off unnecessary notifications"
+    },
+    {
+      "t": 2468.25,
+      "text": "or using headphones to reduce noise."
+    },
+    {
+      "t": 2471.13,
+      "text": "Another strategy is scheduling specific times"
+    },
+    {
+      "t": 2473.93,
+      "text": "to check emails."
+    },
+    {
+      "t": 2475.13,
+      "text": "That prevents constant interruptions."
+    },
+    {
+      "t": 2477.65,
+      "text": "Exactly."
+    },
+    {
+      "t": 2478.69,
+      "text": "Before we finish today's episode,"
+    },
+    {
+      "t": 2480.69,
+      "text": "let's summarize some key ideas."
+    },
+    {
+      "t": 2483.05,
+      "text": "Today, we talked about several workplace problems."
+    },
+    {
+      "t": 2486.17,
+      "text": "Feeling overwhelmed by too much work."
+    },
+    {
+      "t": 2488.85,
+      "text": "Lack of clear instructions."
+    },
+    {
+      "t": 2490.77,
+      "text": "Lack of recognition."
+    },
+    {
+      "t": 2492.39,
+      "text": "Difficult clients."
+    },
+    {
+      "t": 2493.77,
+      "text": "Limited career growth."
+    },
+    {
+      "t": 2495.45,
+      "text": "Teamwork issues."
+    },
+    {
+      "t": 2496.73,
+      "text": "Procrastination."
+    },
+    {
+      "t": 2498.17,
+      "text": "And distractions at work."
+    },
+    {
+      "t": 2499.97,
+      "text": "But we also discussed many solutions."
+    },
+    {
+      "t": 2502.77,
+      "text": "Time management."
+    },
+    {
+      "t": 2503.89,
+      "text": "Clear communication."
+    },
+    {
+      "t": 2505.53,
+      "text": "Asking questions."
+    },
+    {
+      "t": 2506.81,
+      "text": "Developing new skills."
+    },
+    {
+      "t": 2508.73,
+      "text": "Working collaboratively."
+    },
+    {
+      "t": 2510.41,
+      "text": "And staying organized."
+    },
+    {
+      "t": 2512.17,
+      "text": "The key message is simple."
+    },
+    {
+      "t": 2513.97,
+      "text": "Workplace problems are normal."
+    },
+    {
+      "t": 2516.17,
+      "text": "What matters is how you respond to them."
+    },
+    {
+      "t": 2518.69,
+      "text": "Stay professional, communicate clearly, and focus on solutions."
+    },
+    {
+      "t": 2523.17,
+      "text": "Exactly."
+    },
+    {
+      "t": 2524.17,
+      "text": "Well, everyone, thank you so much for listening today."
+    },
+    {
+      "t": 2527.53,
+      "text": "We hope this conversation helped you learn useful English and practical workplace strategies."
+    },
+    {
+      "t": 2532.57,
+      "text": "Remember, improving your English takes time and practice."
+    },
+    {
+      "t": 2536.57,
+      "text": "Keep listening, keep practicing, and keep learning."
+    },
+    {
+      "t": 2539.61,
+      "text": "And we'll see you in the next episode."
+    },
+    {
+      "t": 2541.85,
+      "text": "Take care, everyone."
+    },
+    {
+      "t": 2542.85,
+      "text": "Goodbye."
+    },
+    {
+      "t": 2551.37,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 2552.37,
+      "text": "Welcome back to our podcast."
+    },
+    {
+      "t": 2554.21,
+      "text": "If you're here to improve your English and learn how to communicate more naturally in"
+    },
+    {
+      "t": 2558.39,
+      "text": "real-life situations, you're in the right place."
+    },
+    {
+      "t": 2561.41,
+      "text": "I'm Daniel."
+    },
+    {
+      "t": 2562.55,
+      "text": "And I'm Lisa."
+    },
+    {
+      "t": 2563.55,
+      "text": "We're really happy you're here with us today."
+    },
+    {
+      "t": 2566.05,
+      "text": "In this podcast, we focus on helping you speak clear, practical English that you can"
+    },
+    {
+      "t": 2571.11,
+      "text": "use in everyday conversations, especially at work."
+    },
+    {
+      "t": 2574.87,
+      "text": "Exactly."
+    },
+    {
+      "t": 2575.95,
+      "text": "Many of our listeners are learning English for their careers, so today we have a"
+    },
+    {
+      "t": 2579.77,
+      "text": "topic that is extremely useful."
+    },
+    {
+      "t": 2581.95,
+      "text": "Yes, today we're going to talk about problems at work and how to solve them."
+    },
+    {
+      "t": 2586.51,
+      "text": "This is a very important topic because no workplace is perfect."
+    },
+    {
+      "t": 2590.67,
+      "text": "That's true. Even in the best companies, employees sometimes face challenges, conflicts,"
+    },
+    {
+      "t": 2596.67,
+      "text": "stress or communication problems."
+    },
+    {
+      "t": 2598.99,
+      "text": "The key is not avoiding problems completely because that's impossible."
+    },
+    {
+      "t": 2603.23,
+      "text": "The real skill is knowing how to handle problems professionally and calmly."
+    },
+    {
+      "t": 2607.95,
+      "text": "Exactly. Today we're going to talk about common workplace problems, how people usually"
+    },
+    {
+      "t": 2613.11,
+      "text": "react to them, and most importantly, the solutions."
+    },
+    {
+      "t": 2616.55,
+      "text": "We'll also share useful English phrases you can use when discussing problems with colleagues,"
+    },
+    {
+      "t": 2621.87,
+      "text": "managers, or clients."
+    },
+    {
+      "t": 2623.55,
+      "text": "Perfect. So Lisa, let's start with the first and probably the most common problem"
+    },
+    {
+      "t": 2627.91,
+      "text": "at work."
+    },
+    {
+      "t": 2628.91,
+      "text": "Let me guess. Stress?"
+    },
+    {
+      "t": 2630.67,
+      "text": "Yes, exactly. Workplace stress."
+    },
+    {
+      "t": 2633.95,
+      "text": "This is something almost everyone experiences at some point in their career."
+    },
+    {
+      "t": 2638.75,
+      "text": "Especially when deadlines are tight and the workload is heavy."
+    },
+    {
+      "t": 2641.83,
+      "text": "Right."
+    },
+    {
+      "t": 2642.83,
+      "text": "A deadline is the time by which something must be finished."
+    },
+    {
+      "t": 2646.47,
+      "text": "For example, a manager might say, this report must be completed by Friday."
+    },
+    {
+      "t": 2651.63,
+      "text": "And if you have several deadlines at the same time, it can become overwhelming."
+    },
+    {
+      "t": 2656.15,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2657.51,
+      "text": "Many employees feel stressed when they have too many tasks and not enough time."
+    },
+    {
+      "t": 2662.07,
+      "text": "So Daniel, what do you think is the best way to handle work stress?"
+    },
+    {
+      "t": 2666.57,
+      "text": "One effective solution is prioritizing tasks."
+    },
+    {
+      "t": 2669.85,
+      "text": "That's a great word, prioritize."
+    },
+    {
+      "t": 2672.03,
+      "text": "It means deciding which tasks are the most important and should be done first."
+    },
+    {
+      "t": 2677.17,
+      "text": "Instead of trying to do everything at once, focus on the most urgent tasks."
+    },
+    {
+      "t": 2682.19,
+      "text": "Another useful solution is breaking large tasks into smaller steps."
+    },
+    {
+      "t": 2686.51,
+      "text": "Yes, big projects can feel intimidating."
+    },
+    {
+      "t": 2689.95,
+      "text": "when you divide them into smaller tasks, they become more manageable."
+    },
+    {
+      "t": 2694.03,
+      "text": "For example, if you need to prepare a presentation, you can break it down like this."
+    },
+    {
+      "t": 2699.39,
+      "text": "Research the topic, create the slides, practice the presentation, and review everything."
+    },
+    {
+      "t": 2705.15,
+      "text": "Exactly."
+    },
+    {
+      "t": 2706.15,
+      "text": "Step by step."
+    },
+    {
+      "t": 2707.15,
+      "text": "Another way to reduce stress is simply asking for help."
+    },
+    {
+      "t": 2710.79,
+      "text": "That's true."
+    },
+    {
+      "t": 2711.87,
+      "text": "Many employees feel afraid to ask for help because they don't want to appear weak."
+    },
+    {
+      "t": 2716.61,
+      "text": "But asking for help actually shows responsibility."
+    },
+    {
+      "t": 2719.87,
+      "text": "A useful phrase you can use is, could you help me with this task?"
+    },
+    {
+      "t": 2724.27,
+      "text": "Or I'm currently working on several projects. Could we discuss the priorities?"
+    },
+    {
+      "t": 2729.51,
+      "text": "That's a very professional way to communicate."
+    },
+    {
+      "t": 2731.99,
+      "text": "Now let's move on to another common workplace problem. Poor communication."
+    },
+    {
+      "t": 2737.39,
+      "text": "Communication problems happen in almost every organization."
+    },
+    {
+      "t": 2740.79,
+      "text": "Sometimes instructions are unclear."
+    },
+    {
+      "t": 2742.91,
+      "text": "Or people misunderstand each other."
+    },
+    {
+      "t": 2744.91,
+      "text": "Or important information is not shared with the team."
+    },
+    {
+      "t": 2748.39,
+      "text": "It can lead to mistakes, delays and frustration."
+    },
+    {
+      "t": 2751.47,
+      "text": "Exactly."
+    },
+    {
+      "t": 2753.15,
+      "text": "Imagine your manager tells you to prepare a report but doesn't explain what type of report"
+    },
+    {
+      "t": 2757.79,
+      "text": "they want."
+    },
+    {
+      "t": 2758.79,
+      "text": "You might spend hours working on it only to find out it's not what they expected."
+    },
+    {
+      "t": 2763.63,
+      "text": "That's very frustrating."
+    },
+    {
+      "t": 2765.15,
+      "text": "So what's the solution?"
+    },
+    {
+      "t": 2766.67,
+      "text": "The solution is clear communication and asking questions."
+    },
+    {
+      "t": 2770.91,
+      "text": "Never be afraid to ask for clarification."
+    },
+    {
+      "t": 2773.51,
+      "text": "For example, you could say, just to clarify, would you like the report to include sales"
+    },
+    {
+      "t": 2778.77,
+      "text": "data from this month?"
+    },
+    {
+      "t": 2780.37,
+      "text": "Or, could you please explain the requirements in more detail?"
+    },
+    {
+      "t": 2784.17,
+      "text": "Those phrases help prevent misunderstandings."
+    },
+    {
+      "t": 2787.21,
+      "text": "Another communication issue is when colleagues don't respond to emails."
+    },
+    {
+      "t": 2790.97,
+      "text": "Oh yes, that's a very common problem."
+    },
+    {
+      "t": 2793.77,
+      "text": "You send an email asking for important information and you wait for days with no reply."
+    },
+    {
+      "t": 2799.41,
+      "text": "That can delay your entire project."
+    },
+    {
+      "t": 2801.69,
+      "text": "In that situation, a polite follow-up message is helpful."
+    },
+    {
+      "t": 2805.29,
+      "text": "For example, you could write,"
+    },
+    {
+      "t": 2807.21,
+      "text": "Hi John, I just wanted to follow up on my previous email regarding the sales data."
+    },
+    {
+      "t": 2812.69,
+      "text": "Or, could you please send the information when you have a moment?"
+    },
+    {
+      "t": 2816.25,
+      "text": "Notice how these phrases are polite and professional."
+    },
+    {
+      "t": 2819.61,
+      "text": "Yes, it's important not to sound angry or impatient."
+    },
+    {
+      "t": 2823.25,
+      "text": "Exactly. Professional communication helps maintain good relationships at work."
+    },
+    {
+      "t": 2828.37,
+      "text": "Speaking of relationships, let's talk about another workplace challenge, conflicts with"
+    },
+    {
+      "t": 2833.01,
+      "text": "colleagues."
+    },
+    {
+      "t": 2834.01,
+      "text": "This is something many people experience."
+    },
+    {
+      "t": 2836.65,
+      "text": "When people work together, they don't always agree."
+    },
+    {
+      "t": 2839.89,
+      "text": "That's natural, because everyone has different opinions, personalities and working styles."
+    },
+    {
+      "t": 2845.31,
+      "text": "For example, one person might prefer working quickly, while another prefers working carefully"
+    },
+    {
+      "t": 2850.49,
+      "text": "and slowly."
+    },
+    {
+      "t": 2851.83,
+      "text": "These differences can sometimes lead to tension."
+    },
+    {
+      "t": 2854.73,
+      "text": "So how should we handle conflicts at work?"
+    },
+    {
+      "t": 2857.25,
+      "text": "The first step is staying calm and professional."
+    },
+    {
+      "t": 2860.61,
+      "text": "Reacting emotionally can make the situation worse."
+    },
+    {
+      "t": 2863.37,
+      "text": "Instead, try to understand the other person's perspective."
+    },
+    {
+      "t": 2866.77,
+      "text": "A useful phrase is, I understand your point, but I'd like to explain my perspective."
+    },
+    {
+      "t": 2872.37,
+      "text": "That shows respect for the other person's opinion."
+    },
+    {
+      "t": 2875.41,
+      "text": "Another helpful phrase is, let's find a solution that works for both of us."
+    },
+    {
+      "t": 2879.85,
+      "text": "That's a very collaborative approach."
+    },
+    {
+      "t": 2881.77,
+      "text": "Yes, the goal is not to win the argument."
+    },
+    {
+      "t": 2884.73,
+      "text": "The goal is to solve the problem."
+    },
+    {
+      "t": 2886.77,
+      "text": "Exactly. Now let's talk about another common issue, lack of motivation at work."
+    },
+    {
+      "t": 2891.97,
+      "text": "That's a very interesting topic."
+    },
+    {
+      "t": 2894.07,
+      "text": "Sometimes employees start feeling bored or unmotivated."
+    },
+    {
+      "t": 2897.87,
+      "text": "Especially if they do the same tasks every day."
+    },
+    {
+      "t": 2900.87,
+      "text": "Routine can make work feel repetitive."
+    },
+    {
+      "t": 2903.57,
+      "text": "When work becomes repetitive, motivation can decrease."
+    },
+    {
+      "t": 2907.17,
+      "text": "So, what can employees do to stay motivated?"
+    },
+    {
+      "t": 2910.17,
+      "text": "One solution is setting personal goals."
+    },
+    {
+      "t": 2912.97,
+      "text": "For example, learning a new skill."
+    },
+    {
+      "t": 2915.17,
+      "text": "or improving your performance."
+    },
+    {
+      "t": 2917.17,
+      "text": "Another solution is asking for new challenges."
+    },
+    {
+      "t": 2920.17,
+      "text": "You could say to your manager,"
+    },
+    {
+      "t": 2922.17,
+      "text": "I'd like to take on more responsibilities."
+    },
+    {
+      "t": 2924.17,
+      "text": "Or I'm interested in learning new aspects of the business."
+    },
+    {
+      "t": 2928.17,
+      "text": "That shows initiative."
+    },
+    {
+      "t": 2930.17,
+      "text": "Managers usually appreciate employees who want to grow."
+    },
+    {
+      "t": 2933.17,
+      "text": "Another way to stay motivated is continuing to learn."
+    },
+    {
+      "t": 2936.17,
+      "text": "Taking online courses, attending workshops"
+    },
+    {
+      "t": 2939.17,
+      "text": "or reading professional books can help."
+    },
+    {
+      "t": 2942.17,
+      "text": "Learning new skills can make work more interesting."
+    },
+    {
+      "t": 2944.17,
+      "text": "Interesting."
+    },
+    {
+      "t": 2945.17,
+      "text": "Now let's talk about another challenge many people face."
+    },
+    {
+      "t": 2948.57,
+      "text": "Work-life balance."
+    },
+    {
+      "t": 2949.57,
+      "text": "Yes, this is a big issue in modern workplaces."
+    },
+    {
+      "t": 2953.25,
+      "text": "Work-life balance means having enough time for both your career and your personal life."
+    },
+    {
+      "t": 2958.37,
+      "text": "When people work too much, they may feel exhausted."
+    },
+    {
+      "t": 2961.65,
+      "text": "This is sometimes called burnout."
+    },
+    {
+      "t": 2964.17,
+      "text": "Burnout happens when someone feels mentally and physically drained because of excessive"
+    },
+    {
+      "t": 2968.57,
+      "text": "work."
+    },
+    {
+      "t": 2969.57,
+      "text": "It's a serious problem."
+    },
+    {
+      "t": 2970.81,
+      "text": "So how can people improve their work-life balance?"
+    },
+    {
+      "t": 2974.05,
+      "text": "solution is setting clear boundaries. For example, not answering work emails late"
+    },
+    {
+      "t": 2979.37,
+      "text": "at night. Or managing time effectively during the work day. If you use your time well,"
+    },
+    {
+      "t": 2985.11,
+      "text": "you may not need to work overtime. Taking breaks is also important. Short breaks can"
+    },
+    {
+      "t": 2990.23,
+      "text": "improve focus and energy. Now let's talk about another challenge, difficult managers."
+    },
+    {
+      "t": 2996.17,
+      "text": "That's a sensitive topic. Yes, but it's something many employees experience. Some managers"
+    },
+    {
+      "t": 3001.69,
+      "text": "may be too strict, or they may give unclear instructions, or they may expect employees"
+    },
+    {
+      "t": 3007.61,
+      "text": "to work very long hours."
+    },
+    {
+      "t": 3009.53,
+      "text": "So what can employees do in this situation?"
+    },
+    {
+      "t": 3012.53,
+      "text": "First, try to communicate openly."
+    },
+    {
+      "t": 3015.09,
+      "text": "For example, you could say, I'd like to discuss my workload, or could we review"
+    },
+    {
+      "t": 3019.85,
+      "text": "the priorities for this week?"
+    },
+    {
+      "t": 3021.89,
+      "text": "These phrases help start a constructive conversation."
+    },
+    {
+      "t": 3025.05,
+      "text": "If the problem continues, it might be helpful to speak with human resources."
+    },
+    {
+      "t": 3029.53,
+      "text": "HR departments often help resolve workplace conflicts."
+    },
+    {
+      "t": 3033.17,
+      "text": "Now let's talk about teamwork."
+    },
+    {
+      "t": 3035.25,
+      "text": "Teamwork is essential in most workplaces."
+    },
+    {
+      "t": 3037.93,
+      "text": "But sometimes teamwork doesn't go smoothly."
+    },
+    {
+      "t": 3040.85,
+      "text": "For example, some team members may not contribute equally."
+    },
+    {
+      "t": 3044.69,
+      "text": "This can create frustration for others."
+    },
+    {
+      "t": 3047.25,
+      "text": "Yes, especially when deadlines are approaching."
+    },
+    {
+      "t": 3050.09,
+      "text": "In these situations, communication is again the key."
+    },
+    {
+      "t": 3053.69,
+      "text": "A helpful phrase might be,"
+    },
+    {
+      "t": 3055.49,
+      "text": "let's review everyone's responsibilities."
+    },
+    {
+      "t": 3058.21,
+      "text": "or how can we divide the tasks more effectively?"
+    },
+    {
+      "t": 3061.65,
+      "text": "That keeps the conversation focused on the work"
+    },
+    {
+      "t": 3064.41,
+      "text": "rather than blaming individuals."
+    },
+    {
+      "t": 3066.41,
+      "text": "Exactly."
+    },
+    {
+      "t": 3067.53,
+      "text": "Now let's imagine a real workplace conversation."
+    },
+    {
+      "t": 3070.89,
+      "text": "Good idea."
+    },
+    {
+      "t": 3071.73,
+      "text": "Let's do a short role play."
+    },
+    {
+      "t": 3073.33,
+      "text": "I'll be the employee, and you can be the manager."
+    },
+    {
+      "t": 3076.29,
+      "text": "Sounds good."
+    },
+    {
+      "t": 3077.25,
+      "text": "Hi, Daniel."
+    },
+    {
+      "t": 3078.05,
+      "text": "Do you have a moment to talk?"
+    },
+    {
+      "t": 3079.65,
+      "text": "Of course."
+    },
+    {
+      "t": 3080.25,
+      "text": "What's on your mind?"
+    },
+    {
+      "t": 3081.41,
+      "text": "I've been working on several projects recently,"
+    },
+    {
+      "t": 3084.09,
+      "text": "and I'm finding it difficult to manage all the deadlines."
+    },
+    {
+      "t": 3087.37,
+      "text": "I see. Which projects are taking most of your time?"
+    },
+    {
+      "t": 3090.57,
+      "text": "The marketing report and the client presentation are both due this week."
+    },
+    {
+      "t": 3094.97,
+      "text": "Thanks for letting me know. Let's review the priorities and see how we can adjust the schedule."
+    },
+    {
+      "t": 3100.09,
+      "text": "That would be very helpful."
+    },
+    {
+      "t": 3101.85,
+      "text": "Maybe we can extend the deadline for the report."
+    },
+    {
+      "t": 3104.57,
+      "text": "That would reduce a lot of pressure."
+    },
+    {
+      "t": 3106.65,
+      "text": "And perhaps another team member can assist with the presentation."
+    },
+    {
+      "t": 3109.97,
+      "text": "I appreciate your support."
+    },
+    {
+      "t": 3111.69,
+      "text": "No problem. It's important that the team works efficiently without feeling overwhelmed."
+    },
+    {
+      "t": 3116.77,
+      "text": "you for understanding. End of role play. That conversation shows how problems can be solved"
+    },
+    {
+      "t": 3122.25,
+      "text": "through communication. Exactly. Instead of staying silent and feeling stressed, it's"
+    },
+    {
+      "t": 3127.49,
+      "text": "better to discuss the issue. Most managers appreciate honest communication. And often"
+    },
+    {
+      "t": 3133.01,
+      "text": "there are solutions available. Before we finish today's episode, let's quickly summarize."
+    },
+    {
+      "t": 3138.33,
+      "text": "Today we talked about several common workplace problems. Stress caused by heavy workloads."
+    },
+    {
+      "t": 3144.03,
+      "text": "or communication, conflicts with colleagues, lack of motivation, work-life balance challenges,"
+    },
+    {
+      "t": 3150.31,
+      "text": "and difficulties with management or teamwork. But the most important lesson is that every"
+    },
+    {
+      "t": 3155.31,
+      "text": "problem has a solution. And the best solutions usually involve communication, organization"
+    },
+    {
+      "t": 3161.15,
+      "text": "and teamwork. Remember, problems at work are normal. What matters is how we respond"
+    },
+    {
+      "t": 3166.91,
+      "text": "to them. Stay calm, stay professional, and look for constructive solutions. Well everyone,"
+    },
+    {
+      "t": 3172.67,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 3174.71,
+      "text": "We hope this conversation helped you learn useful English for workplace situations."
+    },
+    {
+      "t": 3179.47,
+      "text": "Try practicing these phrases in your own conversations."
+    },
+    {
+      "t": 3182.71,
+      "text": "And remember, improving your English is a journey."
+    },
+    {
+      "t": 3185.55,
+      "text": "The more you listen and practice, the more confident you'll become."
+    },
+    {
+      "t": 3189.15,
+      "text": "Thanks again for joining us."
+    },
+    {
+      "t": 3190.79,
+      "text": "We'll see you in the next episode."
+    },
+    {
+      "t": 3192.59,
+      "text": "Take care, everyone."
+    },
+    {
+      "t": 3193.59,
+      "text": "Goodbye."
+    }
+  ],
+  "lemmas": [
+    [
+      "work",
+      105
+    ],
+    [
+      "problem",
+      65
+    ],
+    [
+      "person",
+      63
+    ],
+    [
+      "feel",
+      61
+    ],
+    [
+      "exactly",
+      59
+    ],
+    [
+      "another",
+      52
+    ],
+    [
+      "many",
+      42
+    ],
+    [
+      "today",
+      41
+    ],
+    [
+      "help",
+      41
+    ],
+    [
+      "learn",
+      40
+    ],
+    [
+      "good",
+      39
+    ],
+    [
+      "task",
+      39
+    ],
+    [
+      "time",
+      37
+    ],
+    [
+      "talk",
+      37
+    ],
+    [
+      "communication",
+      37
+    ],
+    [
+      "english",
+      36
+    ],
+    [
+      "workplace",
+      36
+    ],
+    [
+      "solution",
+      35
+    ],
+    [
+      "sometim",
+      34
+    ],
+    [
+      "important",
+      33
+    ],
+    [
+      "everyone",
+      32
+    ],
+    [
+      "employe",
+      31
+    ],
+    [
+      "conversation",
+      30
+    ],
+    [
+      "one",
+      30
+    ],
+    [
+      "example",
+      29
+    ],
+    [
+      "listen",
+      26
+    ],
+    [
+      "start",
+      26
+    ],
+    [
+      "someth",
+      25
+    ],
+    [
+      "common",
+      24
+    ],
+    [
+      "stress",
+      24
+    ],
+    [
+      "manager",
+      24
+    ],
+    [
+      "ask",
+      23
+    ],
+    [
+      "great",
+      22
+    ],
+    [
+      "way",
+      21
+    ],
+    [
+      "different",
+      21
+    ],
+    [
+      "new",
+      20
+    ],
+    [
+      "speak",
+      19
+    ],
+    [
+      "stay",
+      19
+    ],
+    [
+      "understand",
+      18
+    ],
+    [
+      "first",
+      18
+    ],
+    [
+      "happen",
+      18
+    ],
+    [
+      "situation",
+      18
+    ],
+    [
+      "professional",
+      18
+    ],
+    [
+      "much",
+      17
+    ],
+    [
+      "every",
+      17
+    ],
+    [
+      "project",
+      17
+    ],
+    [
+      "practice",
+      16
+    ],
+    [
+      "podcast",
+      16
+    ],
+    [
+      "focus",
+      16
+    ],
+    [
+      "think",
+      16
+    ],
+    [
+      "topic",
+      16
+    ],
+    [
+      "even",
+      16
+    ],
+    [
+      "day",
+      16
+    ],
+    [
+      "skill",
+      16
+    ],
+    [
+      "also",
+      16
+    ],
+    [
+      "mean",
+      16
+    ],
+    [
+      "improve",
+      16
+    ],
+    [
+      "clear",
+      16
+    ],
+    [
+      "make",
+      15
+    ],
+    [
+      "real",
+      15
+    ],
+    [
+      "difficult",
+      15
+    ],
+    [
+      "someone",
+      15
+    ],
+    [
+      "useful",
+      15
+    ],
+    [
+      "question",
+      15
+    ],
+    [
+      "try",
+      15
+    ],
+    [
+      "say",
+      15
+    ],
+    [
+      "helpful",
+      15
+    ],
+    [
+      "sound",
+      14
+    ],
+    [
+      "interest",
+      14
+    ],
+    [
+      "read",
+      14
+    ],
+    [
+      "report",
+      14
+    ],
+    [
+      "thing",
+      13
+    ],
+    [
+      "language",
+      13
+    ],
+    [
+      "client",
+      13
+    ],
+    [
+      "workload",
+      13
+    ],
+    [
+      "team",
+      13
+    ],
+    [
+      "true",
+      12
+    ],
+    [
+      "everyth",
+      12
+    ],
+    [
+      "mistak",
+      12
+    ],
+    [
+      "instead",
+      12
+    ],
+    [
+      "especially",
+      12
+    ],
+    [
+      "career",
+      12
+    ],
+    [
+      "finish",
+      12
+    ],
+    [
+      "discuss",
+      12
+    ],
+    [
+      "teamwork",
+      12
+    ],
+    [
+      "idea",
+      11
+    ],
+    [
+      "becom",
+      11
+    ],
+    [
+      "several",
+      11
+    ],
+    [
+      "create",
+      11
+    ],
+    [
+      "conflict",
+      11
+    ],
+    [
+      "show",
+      11
+    ],
+    [
+      "mak",
+      10
+    ],
+    [
+      "thank",
+      10
+    ],
+    [
+      "going",
+      10
+    ],
+    [
+      "see",
+      10
+    ],
+    [
+      "simple",
+      10
+    ],
+    [
+      "oh",
+      10
+    ],
+    [
+      "remember",
+      10
+    ],
+    [
+      "often",
+      10
+    ],
+    [
+      "challenge",
+      10
+    ],
+    [
+      "know",
+      10
+    ],
+    [
+      "usually",
+      10
+    ],
+    [
+      "face",
+      10
+    ],
+    [
+      "step",
+      10
+    ],
+    [
+      "solve",
+      10
+    ],
+    [
+      "deadlin",
+      10
+    ],
+    [
+      "lack",
+      10
+    ],
+    [
+      "instruction",
+      10
+    ],
+    [
+      "hi",
+      9
+    ],
+    [
+      "pressure",
+      9
+    ],
+    [
+      "coffee",
+      9
+    ],
+    [
+      "experienc",
+      9
+    ],
+    [
+      "absolutely",
+      9
+    ],
+    [
+      "morn",
+      9
+    ],
+    [
+      "week",
+      9
+    ],
+    [
+      "keep",
+      9
+    ],
+    [
+      "overwhelm",
+      9
+    ],
+    [
+      "calm",
+      9
+    ],
+    [
+      "communicate",
+      9
+    ],
+    [
+      "phras",
+      9
+    ],
+    [
+      "issue",
+      9
+    ],
+    [
+      "motivation",
+      9
+    ],
+    [
+      "goal",
+      9
+    ],
+    [
+      "perfect",
+      8
+    ],
+    [
+      "welcome",
+      8
+    ],
+    [
+      "happy",
+      8
+    ],
+    [
+      "small",
+      8
+    ],
+    [
+      "prefer",
+      8
+    ],
+    [
+      "book",
+      8
+    ],
+    [
+      "big",
+      8
+    ],
+    [
+      "practical",
+      8
+    ],
+    [
+      "enough",
+      8
+    ],
+    [
+      "handle",
+      8
+    ],
+    [
+      "plan",
+      8
+    ],
+    [
+      "matter",
+      8
+    ],
+    [
+      "tak",
+      8
+    ],
+    [
+      "key",
+      8
+    ],
+    [
+      "back",
+      7
+    ],
+    [
+      "two",
+      7
+    ],
+    [
+      "life",
+      7
+    ],
+    [
+      "hear",
+      7
+    ],
+    [
+      "brain",
+      7
+    ],
+    [
+      "learner",
+      7
+    ],
+    [
+      "naturally",
+      7
+    ],
+    [
+      "environment",
+      7
+    ],
+    [
+      "alway",
+      7
+    ],
+    [
+      "place",
+      7
+    ],
+    [
+      "definitely",
+      7
+    ],
+    [
+      "tell",
+      7
+    ],
+    [
+      "become",
+      7
+    ],
+    [
+      "stressful",
+      7
+    ],
+    [
+      "email",
+      7
+    ],
+    [
+      "episode",
+      7
+    ],
+    [
+      "want",
+      7
+    ],
+    [
+      "point",
+      7
+    ],
+    [
+      "heavy",
+      7
+    ],
+    [
+      "strategy",
+      7
+    ],
+    [
+      "break",
+      7
+    ],
+    [
+      "co-worker",
+      7
+    ],
+    [
+      "technique",
+      7
+    ],
+    [
+      "challeng",
+      7
+    ],
+    [
+      "experience",
+      7
+    ],
+    [
+      "daniel",
+      7
+    ],
+    [
+      "us",
+      6
+    ],
+    [
+      "lesson",
+      6
+    ],
+    [
+      "habit",
+      6
+    ],
+    [
+      "maybe",
+      6
+    ],
+    [
+      "travel",
+      6
+    ],
+    [
+      "completely",
+      6
+    ],
+    [
+      "routine",
+      6
+    ],
+    [
+      "part",
+      6
+    ],
+    [
+      "look",
+      6
+    ],
+    [
+      "never",
+      6
+    ],
+    [
+      "early",
+      6
+    ],
+    [
+      "let",
+      6
+    ],
+    [
+      "use",
+      6
+    ],
+    [
+      "play",
+      6
+    ],
+    [
+      "improv",
+      6
+    ],
+    [
+      "personal",
+      6
+    ],
+    [
+      "appreciate",
+      6
+    ],
+    [
+      "take",
+      6
+    ],
+    [
+      "short",
+      6
+    ],
+    [
+      "expectation",
+      6
+    ],
+    [
+      "professionalism",
+      6
+    ],
+    [
+      "styl",
+      6
+    ],
+    [
+      "quickly",
+      6
+    ],
+    [
+      "productive",
+      6
+    ],
+    [
+      "set",
+      6
+    ],
+    [
+      "colleagu",
+      6
+    ],
+    [
+      "respond",
+      6
+    ],
+    [
+      "honest",
+      6
+    ],
+    [
+      "phrase",
+      6
+    ],
+    [
+      "whether",
+      5
+    ],
+    [
+      "natural",
+      5
+    ],
+    [
+      "daily",
+      5
+    ],
+    [
+      "simply",
+      5
+    ],
+    [
+      "grammar",
+      5
+    ],
+    [
+      "imagine",
+      5
+    ],
+    [
+      "go",
+      5
+    ],
+    [
+      "long",
+      5
+    ],
+    [
+      "food",
+      5
+    ],
+    [
+      "begin",
+      5
+    ],
+    [
+      "word",
+      5
+    ],
+    [
+      "afraid",
+      5
+    ],
+    [
+      "progress",
+      5
+    ],
+    [
+      "slow",
+      5
+    ],
+    [
+      "find",
+      5
+    ],
+    [
+      "minut",
+      5
+    ],
+    [
+      "agree",
+      5
+    ],
+    [
+      "need",
+      5
+    ],
+    [
+      "messag",
+      5
+    ],
+    [
+      "lot",
+      5
+    ],
+    [
+      "issu",
+      5
+    ],
+    [
+      "react",
+      5
+    ],
+    [
+      "frustrat",
+      5
+    ],
+    [
+      "currently",
+      5
+    ],
+    [
+      "unclear",
+      5
+    ],
+    [
+      "without",
+      5
+    ],
+    [
+      "move",
+      5
+    ],
+    [
+      "lead",
+      5
+    ],
+    [
+      "reduce",
+      5
+    ],
+    [
+      "manag",
+      5
+    ],
+    [
+      "management",
+      5
+    ],
+    [
+      "responsibility",
+      5
+    ],
+    [
+      "meeting",
+      5
+    ],
+    [
+      "solv",
+      5
+    ],
+    [
+      "effectively",
+      5
+    ],
+    [
+      "share",
+      5
+    ],
+    [
+      "schedule",
+      5
+    ],
+    [
+      "prevent",
+      5
+    ],
+    [
+      "explain",
+      5
+    ],
+    [
+      "delay",
+      5
+    ],
+    [
+      "review",
+      5
+    ],
+    [
+      "walk",
+      4
+    ],
+    [
+      "study",
+      4
+    ],
+    [
+      "relax",
+      4
+    ],
+    [
+      "vocabulary",
+      4
+    ],
+    [
+      "stuck",
+      4
+    ],
+    [
+      "office",
+      4
+    ],
+    [
+      "enjoy",
+      4
+    ],
+    [
+      "perspective",
+      4
+    ],
+    [
+      "chang",
+      4
+    ],
+    [
+      "moment",
+      4
+    ],
+    [
+      "immediately",
+      4
+    ],
+    [
+      "next",
+      4
+    ],
+    [
+      "large",
+      4
+    ],
+    [
+      "hour",
+      4
+    ],
+    [
+      "hope",
+      4
+    ],
+    [
+      "build",
+      4
+    ],
+    [
+      "effort",
+      4
+    ],
+    [
+      "give",
+      4
+    ],
+    [
+      "everyday",
+      4
+    ],
+    [
+      "deal",
+      4
+    ],
+    [
+      "extremely",
+      4
+    ],
+    [
+      "clarification",
+      4
+    ],
+    [
+      "smaller",
+      4
+    ],
+    [
+      "divide",
+      4
+    ],
+    [
+      "message",
+      4
+    ],
+    [
+      "please",
+      4
+    ],
+    [
+      "clarify",
+      4
+    ],
+    [
+      "confirm",
+      4
+    ],
+    [
+      "using",
+      4
+    ],
+    [
+      "difference",
+      4
+    ],
+    [
+      "personaliti",
+      4
+    ],
+    [
+      "later",
+      4
+    ],
+    [
+      "bad",
+      4
+    ],
+    [
+      "continu",
+      4
+    ],
+    [
+      "maintain",
+      4
+    ],
+    [
+      "unmotivat",
+      4
+    ],
+    [
+      "repetitive",
+      4
+    ],
+    [
+      "recognition",
+      4
+    ],
+    [
+      "job",
+      4
+    ],
+    [
+      "approach",
+      4
+    ],
+    [
+      "remote",
+      4
+    ],
+    [
+      "grow",
+      4
+    ],
+    [
+      "sophia",
+      4
+    ],
+    [
+      "almost",
+      4
+    ],
+    [
+      "spent",
+      4
+    ],
+    [
+      "organiz",
+      4
+    ],
+    [
+      "caus",
+      4
+    ],
+    [
+      "interruption",
+      4
+    ],
+    [
+      "prioriti",
+      4
+    ],
+    [
+      "information",
+      4
+    ],
+    [
+      "responsibiliti",
+      4
+    ],
+    [
+      "role",
+      4
+    ],
+    [
+      "procrastination",
+      4
+    ],
+    [
+      "presentation",
+      4
+    ],
+    [
+      "work-life",
+      4
+    ],
+    [
+      "balance",
+      4
+    ],
+    [
+      "spend",
+      3
+    ],
+    [
+      "slowly",
+      3
+    ],
+    [
+      "sit",
+      3
+    ],
+    [
+      "cafe",
+      3
+    ],
+    [
+      "quiet",
+      3
+    ],
+    [
+      "change",
+      3
+    ],
+    [
+      "appear",
+      3
+    ],
+    [
+      "write",
+      3
+    ],
+    [
+      "meet",
+      3
+    ],
+    [
+      "realize",
+      3
+    ],
+    [
+      "cook",
+      3
+    ],
+    [
+      "little",
+      3
+    ],
+    [
+      "meal",
+      3
+    ],
+    [
+      "clearly",
+      3
+    ],
+    [
+      "worry",
+      3
+    ],
+    [
+      "control",
+      3
+    ],
+    [
+      "regularly",
+      3
+    ],
+    [
+      "allow",
+      3
+    ],
+    [
+      "anywhere",
+      3
+    ],
+    [
+      "month",
+      3
+    ],
+    [
+      "notic",
+      3
+    ],
+    [
+      "technology",
+      3
+    ],
+    [
+      "tim",
+      3
+    ],
+    [
+      "easier",
+      3
+    ],
+    [
+      "physical",
+      3
+    ],
+    [
+      "digital",
+      3
+    ],
+    [
+      "check",
+      3
+    ],
+    [
+      "format",
+      3
+    ],
+    [
+      "relationship",
+      3
+    ],
+    [
+      "healthy",
+      3
+    ],
+    [
+      "body",
+      3
+    ],
+    [
+      "notification",
+      3
+    ],
+    [
+      "essential",
+      3
+    ],
+    [
+      "together",
+      3
+    ],
+    [
+      "less",
+      3
+    ],
+    [
+      "tone",
+      3
+    ],
+    [
+      "listener",
+      3
+    ],
+    [
+      "human",
+      3
+    ],
+    [
+      "train",
+      3
+    ],
+    [
+      "youll",
+      3
+    ],
+    [
+      "three",
+      3
+    ],
+    [
+      "hello",
+      3
+    ],
+    [
+      "coworker",
+      3
+    ],
+    [
+      "misunderstand",
+      3
+    ],
+    [
+      "tight",
+      3
+    ],
+    [
+      "due",
+      3
+    ],
+    [
+      "list",
+      3
+    ],
+    [
+      "priority",
+      3
+    ],
+    [
+      "remotely",
+      3
+    ],
+    [
+      "fix",
+      3
+    ],
+    [
+      "complet",
+      3
+    ],
+    [
+      "avoid",
+      3
+    ],
+    [
+      "ensur",
+      3
+    ],
+    [
+      "respectful",
+      3
+    ],
+    [
+      "detail",
+      3
+    ],
+    [
+      "differenc",
+      3
+    ],
+    [
+      "affect",
+      3
+    ],
+    [
+      "bor",
+      3
+    ],
+    [
+      "workplac",
+      3
+    ],
+    [
+      "intense",
+      3
+    ],
+    [
+      "carefully",
+      3
+    ],
+    [
+      "shar",
+      3
+    ],
+    [
+      "correct",
+      3
+    ],
+    [
+      "respect",
+      3
+    ],
+    [
+      "opportuniti",
+      3
+    ],
+    [
+      "compani",
+      3
+    ],
+    [
+      "slower",
+      3
+    ],
+    [
+      "regular",
+      3
+    ],
+    [
+      "summarize",
+      3
+    ],
+    [
+      "normal",
+      3
+    ],
+    [
+      "practic",
+      3
+    ],
+    [
+      "care",
+      3
+    ],
+    [
+      "goodbye",
+      3
+    ],
+    [
+      "confident",
+      3
+    ],
+    [
+      "business",
+      3
+    ],
+    [
+      "exampl",
+      3
+    ],
+    [
+      "real-life",
+      3
+    ],
+    [
+      "complain",
+      3
+    ],
+    [
+      "exhaust",
+      3
+    ],
+    [
+      "productivity",
+      3
+    ],
+    [
+      "struggl",
+      3
+    ],
+    [
+      "poor",
+      3
+    ],
+    [
+      "misunderstanding",
+      3
+    ],
+    [
+      "wrong",
+      3
+    ],
+    [
+      "type",
+      3
+    ],
+    [
+      "friday",
+      3
+    ],
+    [
+      "lik",
+      3
+    ],
+    [
+      "calmly",
+      3
+    ],
+    [
+      "decrease",
+      3
+    ],
+    [
+      "emma",
+      3
+    ],
+    [
+      "complete",
+      3
+    ],
+    [
+      "call",
+      3
+    ],
+    [
+      "prepare",
+      3
+    ],
+    [
+      "include",
+      3
+    ],
+    [
+      "data",
+      3
+    ],
+    [
+      "organization",
+      3
+    ],
+    [
+      "member",
+      3
+    ],
+    [
+      "expect",
+      3
+    ],
+    [
+      "distraction",
+      3
+    ],
+    [
+      "express",
+      2
+    ],
+    [
+      "love",
+      2
+    ],
+    [
+      "atmosphere",
+      2
+    ],
+    [
+      "caf",
+      2
+    ],
+    [
+      "chat",
+      2
+    ],
+    [
+      "plac",
+      2
+    ],
+    [
+      "creativity",
+      2
+    ],
+    [
+      "remind",
+      2
+    ],
+    [
+      "recently",
+      2
+    ],
+    [
+      "citi",
+      2
+    ],
+    [
+      "cultur",
+      2
+    ],
+    [
+      "world",
+      2
+    ],
+    [
+      "country",
+      2
+    ],
+    [
+      "culture",
+      2
+    ],
+    [
+      "tradition",
+      2
+    ],
+    [
+      "street",
+      2
+    ],
+    [
+      "nervous",
+      2
+    ],
+    [
+      "used",
+      2
+    ],
+    [
+      "smell",
+      2
+    ],
+    [
+      "ever",
+      2
+    ],
+    [
+      "memorable",
+      2
+    ],
+    [
+      "confus",
+      2
+    ],
+    [
+      "sentence",
+      2
+    ],
+    [
+      "mistake",
+      2
+    ],
+    [
+      "teach",
+      2
+    ],
+    [
+      "com",
+      2
+    ],
+    [
+      "late",
+      2
+    ],
+    [
+      "sentenc",
+      2
+    ],
+    [
+      "still",
+      2
+    ],
+    [
+      "biggest",
+      2
+    ],
+    [
+      "confidence",
+      2
+    ],
+    [
+      "sense",
+      2
+    ],
+    [
+      "guitar",
+      2
+    ],
+    [
+      "powerful",
+      2
+    ],
+    [
+      "recogniz",
+      2
+    ],
+    [
+      "huge",
+      2
+    ],
+    [
+      "form",
+      2
+    ],
+    [
+      "thought",
+      2
+    ],
+    [
+      "directly",
+      2
+    ],
+    [
+      "translat",
+      2
+    ],
+    [
+      "year",
+      2
+    ],
+    [
+      "online",
+      2
+    ],
+    [
+      "anyone",
+      2
+    ],
+    [
+      "resourc",
+      2
+    ],
+    [
+      "follow",
+      2
+    ],
+    [
+      "ther",
+      2
+    ],
+    [
+      "special",
+      2
+    ],
+    [
+      "turn",
+      2
+    ],
+    [
+      "incredibly",
+      2
+    ],
+    [
+      "open",
+      2
+    ],
+    [
+      "health",
+      2
+    ],
+    [
+      "consistent",
+      2
+    ],
+    [
+      "sure",
+      2
+    ],
+    [
+      "stretch",
+      2
+    ],
+    [
+      "suddenly",
+      2
+    ],
+    [
+      "course",
+      2
+    ],
+    [
+      "countri",
+      2
+    ],
+    [
+      "social",
+      2
+    ],
+    [
+      "reduc",
+      2
+    ],
+    [
+      "voice",
+      2
+    ],
+    [
+      "home",
+      2
+    ],
+    [
+      "minute",
+      2
+    ],
+    [
+      "impossible",
+      2
+    ],
+    [
+      "journey",
+      2
+    ],
+    [
+      "ah",
+      2
+    ],
+    [
+      "tir",
+      2
+    ],
+    [
+      "prioritiz",
+      2
+    ],
+    [
+      "urgent",
+      2
+    ],
+    [
+      "wait",
+      2
+    ],
+    [
+      "manageable",
+      2
+    ],
+    [
+      "alone",
+      2
+    ],
+    [
+      "effective",
+      2
+    ],
+    [
+      "intimidat",
+      2
+    ],
+    [
+      "rude",
+      2
+    ],
+    [
+      "guess",
+      2
+    ],
+    [
+      "politely",
+      2
+    ],
+    [
+      "tomorrow",
+      2
+    ],
+    [
+      "tension",
+      2
+    ],
+    [
+      "emotionally",
+      2
+    ],
+    [
+      "rather",
+      2
+    ],
+    [
+      "involve",
+      2
+    ],
+    [
+      "responsible",
+      2
+    ],
+    [
+      "relat",
+      2
+    ],
+    [
+      "mind",
+      2
+    ],
+    [
+      "modern",
+      2
+    ],
+    [
+      "contribute",
+      2
+    ],
+    [
+      "energy",
+      2
+    ],
+    [
+      "creat",
+      2
+    ],
+    [
+      "schedul",
+      2
+    ],
+    [
+      "tool",
+      2
+    ],
+    [
+      "connect",
+      2
+    ],
+    [
+      "resolve",
+      2
+    ],
+    [
+      "support",
+      2
+    ],
+    [
+      "relatable",
+      2
+    ],
+    [
+      "run",
+      2
+    ],
+    [
+      "part-time",
+      2
+    ],
+    [
+      "familiar",
+      2
+    ],
+    [
+      "busy",
+      2
+    ],
+    [
+      "lunch",
+      2
+    ],
+    [
+      "satisfy",
+      2
+    ],
+    [
+      "amaz",
+      2
+    ],
+    [
+      "transition",
+      2
+    ],
+    [
+      "five",
+      2
+    ],
+    [
+      "constantly",
+      2
+    ],
+    [
+      "switch",
+      2
+    ],
+    [
+      "decreas",
+      2
+    ],
+    [
+      "multitask",
+      2
+    ],
+    [
+      "efficient",
+      2
+    ],
+    [
+      "prioritization",
+      2
+    ],
+    [
+      "identify",
+      2
+    ],
+    [
+      "truly",
+      2
+    ],
+    [
+      "boss",
+      2
+    ],
+    [
+      "top",
+      2
+    ],
+    [
+      "assume",
+      2
+    ],
+    [
+      "misunderstood",
+      2
+    ],
+    [
+      "request",
+      2
+    ],
+    [
+      "prepar",
+      2
+    ],
+    [
+      "nobody",
+      2
+    ],
+    [
+      "summariz",
+      2
+    ],
+    [
+      "youd",
+      2
+    ],
+    [
+      "afternoon",
+      2
+    ],
+    [
+      "socializ",
+      2
+    ],
+    [
+      "clash",
+      2
+    ],
+    [
+      "colleague",
+      2
+    ],
+    [
+      "interrupt",
+      2
+    ],
+    [
+      "anger",
+      2
+    ],
+    [
+      "previous",
+      2
+    ],
+    [
+      "professionally",
+      2
+    ],
+    [
+      "silent",
+      2
+    ],
+    [
+      "vague",
+      2
+    ],
+    [
+      "feedback",
+      2
+    ],
+    [
+      "probably",
+      2
+    ],
+    [
+      "impatient",
+      2
+    ],
+    [
+      "empathy",
+      2
+    ],
+    [
+      "growth",
+      2
+    ],
+    [
+      "develop",
+      2
+    ],
+    [
+      "entire",
+      2
+    ],
+    [
+      "ahead",
+      2
+    ],
+    [
+      "design",
+      2
+    ],
+    [
+      "end",
+      2
+    ],
+    [
+      "done",
+      2
+    ],
+    [
+      "limit",
+      2
+    ],
+    [
+      "constant",
+      2
+    ],
+    [
+      "noise",
+      2
+    ],
+    [
+      "lisa",
+      2
+    ],
+    [
+      "deadline",
+      2
+    ],
+    [
+      "frustration",
+      2
+    ],
+    [
+      "sal",
+      2
+    ],
+    [
+      "send",
+      2
+    ],
+    [
+      "polite",
+      2
+    ],
+    [
+      "opinion",
+      2
+    ],
+    [
+      "motivat",
+      2
+    ],
+    [
+      "burnout",
+      2
+    ],
+    [
+      "constructive",
+      2
+    ],
+    [
+      "complicat",
+      1
+    ],
+    [
+      "liv",
+      1
+    ],
+    [
+      "rhythm",
+      1
+    ],
+    [
+      "expression",
+      1
+    ],
+    [
+      "friend",
+      1
+    ],
+    [
+      "nice",
+      1
+    ],
+    [
+      "music",
+      1
+    ],
+    [
+      "machin",
+      1
+    ],
+    [
+      "softly",
+      1
+    ],
+    [
+      "order",
+      1
+    ],
+    [
+      "somehow",
+      1
+    ],
+    [
+      "room",
+      1
+    ],
+    [
+      "comfortable",
+      1
+    ],
+    [
+      "creative",
+      1
+    ],
+    [
+      "location",
+      1
+    ],
+    [
+      "park",
+      1
+    ],
+    [
+      "giv",
+      1
+    ],
+    [
+      "visit",
+      1
+    ],
+    [
+      "bigger",
+      1
+    ],
+    [
+      "forget",
+      1
+    ],
+    [
+      "diverse",
+      1
+    ],
+    [
+      "spic",
+      1
+    ],
+    [
+      "techniqu",
+      1
+    ],
+    [
+      "story",
+      1
+    ],
+    [
+      "tri",
+      1
+    ],
+    [
+      "style",
+      1
+    ],
+    [
+      "ingredient",
+      1
+    ],
+    [
+      "lov",
+      1
+    ],
+    [
+      "dish",
+      1
+    ],
+    [
+      "vendor",
+      1
+    ],
+    [
+      "beauty",
+      1
+    ],
+    [
+      "simplest",
+      1
+    ],
+    [
+      "quite",
+      1
+    ],
+    [
+      "pronunciation",
+      1
+    ],
+    [
+      "structure",
+      1
+    ],
+    [
+      "describe",
+      1
+    ],
+    [
+      "strange",
+      1
+    ],
+    [
+      "truth",
+      1
+    ],
+    [
+      "fastest",
+      1
+    ],
+    [
+      "fluency",
+      1
+    ],
+    [
+      "come",
+      1
+    ],
+    [
+      "perfection",
+      1
+    ],
+    [
+      "secret",
+      1
+    ],
+    [
+      "musical",
+      1
+    ],
+    [
+      "instrument",
+      1
+    ],
+    [
+      "comparison",
+      1
+    ],
+    [
+      "touch",
+      1
+    ],
+    [
+      "guitarist",
+      1
+    ],
+    [
+      "languag",
+      1
+    ],
+    [
+      "pattern",
+      1
+    ],
+    [
+      "car",
+      1
+    ],
+    [
+      "dramatically",
+      1
+    ],
+    [
+      "commute",
+      1
+    ],
+    [
+      "milestone",
+      1
+    ],
+    [
+      "translation",
+      1
+    ],
+    [
+      "head",
+      1
+    ],
+    [
+      "smoother",
+      1
+    ],
+    [
+      "compar",
+      1
+    ],
+    [
+      "ago",
+      1
+    ],
+    [
+      "past",
+      1
+    ],
+    [
+      "depend",
+      1
+    ],
+    [
+      "textbook",
+      1
+    ],
+    [
+      "classroom",
+      1
+    ],
+    [
+      "cds",
+      1
+    ],
+    [
+      "cassette",
+      1
+    ],
+    [
+      "tap",
+      1
+    ],
+    [
+      "video",
+      1
+    ],
+    [
+      "app",
+      1
+    ],
+    [
+      "teacher",
+      1
+    ],
+    [
+      "communiti",
+      1
+    ],
+    [
+      "internet",
+      1
+    ],
+    [
+      "accessible",
+      1
+    ],
+    [
+      "phone",
+      1
+    ],
+    [
+      "jump",
+      1
+    ],
+    [
+      "method",
+      1
+    ],
+    [
+      "variety",
+      1
+    ],
+    [
+      "underrat",
+      1
+    ],
+    [
+      "expand",
+      1
+    ],
+    [
+      "stori",
+      1
+    ],
+    [
+      "articl",
+      1
+    ],
+    [
+      "context",
+      1
+    ],
+    [
+      "reason",
+      1
+    ],
+    [
+      "hold",
+      1
+    ],
+    [
+      "pag",
+      1
+    ],
+    [
+      "convenient",
+      1
+    ],
+    [
+      "carry",
+      1
+    ],
+    [
+      "hundred",
+      1
+    ],
+    [
+      "device",
+      1
+    ],
+    [
+      "luggage",
+      1
+    ],
+    [
+      "lighter",
+      1
+    ],
+    [
+      "advantage",
+      1
+    ],
+    [
+      "built-in",
+      1
+    ],
+    [
+      "dictionari",
+      1
+    ],
+    [
+      "instantly",
+      1
+    ],
+    [
+      "separate",
+      1
+    ],
+    [
+      "dictionary",
+      1
+    ],
+    [
+      "regardless",
+      1
+    ],
+    [
+      "consistency",
+      1
+    ],
+    [
+      "result",
+      1
+    ],
+    [
+      "appli",
+      1
+    ],
+    [
+      "area",
+      1
+    ],
+    [
+      "action",
+      1
+    ],
+    [
+      "curious",
+      1
+    ],
+    [
+      "wake",
+      1
+    ],
+    [
+      "drink",
+      1
+    ],
+    [
+      "glass",
+      1
+    ],
+    [
+      "water",
+      1
+    ],
+    [
+      "wak",
+      1
+    ],
+    [
+      "kind",
+      1
+    ],
+    [
+      "article",
+      1
+    ],
+    [
+      "peaceful",
+      1
+    ],
+    [
+      "phon",
+      1
+    ],
+    [
+      "believe",
+      1
+    ],
+    [
+      "comfort",
+      1
+    ],
+    [
+      "fresh",
+      1
+    ],
+    [
+      "fascinat",
+      1
+    ],
+    [
+      "strong",
+      1
+    ],
+    [
+      "espresso",
+      1
+    ],
+    [
+      "cup",
+      1
+    ],
+    [
+      "drip",
+      1
+    ],
+    [
+      "treat",
+      1
+    ],
+    [
+      "event",
+      1
+    ],
+    [
+      "matt",
+      1
+    ],
+    [
+      "deep",
+      1
+    ],
+    [
+      "necessarily",
+      1
+    ],
+    [
+      "text",
+      1
+    ],
+    [
+      "media",
+      1
+    ],
+    [
+      "comment",
+      1
+    ],
+    [
+      "quicker",
+      1
+    ],
+    [
+      "emotion",
+      1
+    ],
+    [
+      "richer",
+      1
+    ],
+    [
+      "voic",
+      1
+    ],
+    [
+      "interaction",
+      1
+    ],
+    [
+      "somewhere",
+      1
+    ],
+    [
+      "wherever",
+      1
+    ],
+    [
+      "muscle",
+      1
+    ],
+    [
+      "stronger",
+      1
+    ],
+    [
+      "reward",
+      1
+    ],
+    [
+      "worth",
+      1
+    ],
+    [
+      "final",
+      1
+    ],
+    [
+      "advice",
+      1
+    ],
+    [
+      "compare",
+      1
+    ],
+    [
+      "commut",
+      1
+    ],
+    [
+      "disagreement",
+      1
+    ],
+    [
+      "international",
+      1
+    ],
+    [
+      "company",
+      1
+    ],
+    [
+      "least",
+      1
+    ],
+    [
+      "famous",
+      1
+    ],
+    [
+      "level",
+      1
+    ],
+    [
+      "importance",
+      1
+    ],
+    [
+      "organize",
+      1
+    ],
+    [
+      "communicat",
+      1
+    ],
+    [
+      "guidance",
+      1
+    ],
+    [
+      "honesty",
+      1
+    ],
+    [
+      "hardest",
+      1
+    ],
+    [
+      "momentum",
+      1
+    ],
+    [
+      "mov",
+      1
+    ],
+    [
+      "forward",
+      1
+    ],
+    [
+      "mostly",
+      1
+    ],
+    [
+      "easily",
+      1
+    ],
+    [
+      "misinterpret",
+      1
+    ],
+    [
+      "sender",
+      1
+    ],
+    [
+      "confusion",
+      1
+    ],
+    [
+      "positive",
+      1
+    ],
+    [
+      "tricky",
+      1
+    ],
+    [
+      "supportive",
+      1
+    ],
+    [
+      "friendly",
+      1
+    ],
+    [
+      "competitive",
+      1
+    ],
+    [
+      "negative",
+      1
+    ],
+    [
+      "decision",
+      1
+    ],
+    [
+      "act",
+      1
+    ],
+    [
+      "behavior",
+      1
+    ],
+    [
+      "discussion",
+      1
+    ],
+    [
+      "supervisor",
+      1
+    ],
+    [
+      "aim",
+      1
+    ],
+    [
+      "throughout",
+      1
+    ],
+    [
+      "refresh",
+      1
+    ],
+    [
+      "five-minute",
+      1
+    ],
+    [
+      "high",
+      1
+    ],
+    [
+      "mental",
+      1
+    ],
+    [
+      "last-minute",
+      1
+    ],
+    [
+      "exercise",
+      1
+    ],
+    [
+      "sleep",
+      1
+    ],
+    [
+      "balanc",
+      1
+    ],
+    [
+      "concentration",
+      1
+    ],
+    [
+      "similar",
+      1
+    ],
+    [
+      "hide",
+      1
+    ],
+    [
+      "address",
+      1
+    ],
+    [
+      "error",
+      1
+    ],
+    [
+      "valuable",
+      1
+    ],
+    [
+      "recent",
+      1
+    ],
+    [
+      "offer",
+      1
+    ],
+    [
+      "flexibility",
+      1
+    ],
+    [
+      "zone",
+      1
+    ],
+    [
+      "rely",
+      1
+    ],
+    [
+      "face-to-face",
+      1
+    ],
+    [
+      "collaboration",
+      1
+    ],
+    [
+      "reliable",
+      1
+    ],
+    [
+      "check-in",
+      1
+    ],
+    [
+      "align",
+      1
+    ],
+    [
+      "second",
+      1
+    ],
+    [
+      "third",
+      1
+    ],
+    [
+      "finally",
+      1
+    ],
+    [
+      "opportunity",
+      1
+    ],
+    [
+      "wed",
+      1
+    ],
+    [
+      "describ",
+      1
+    ],
+    [
+      "improvement",
+      1
+    ],
+    [
+      "distract",
+      1
+    ],
+    [
+      "annoy",
+      1
+    ],
+    [
+      "anyth",
+      1
+    ],
+    [
+      "eventually",
+      1
+    ],
+    [
+      "concentrate",
+      1
+    ],
+    [
+      "surprisingly",
+      1
+    ],
+    [
+      "emotional",
+      1
+    ],
+    [
+      "valu",
+      1
+    ],
+    [
+      "tend",
+      1
+    ],
+    [
+      "harder",
+      1
+    ],
+    [
+      "happier",
+      1
+    ],
+    [
+      "miss",
+      1
+    ],
+    [
+      "confidently",
+      1
+    ],
+    [
+      "michael",
+      1
+    ],
+    [
+      "explore",
+      1
+    ],
+    [
+      "sooner",
+      1
+    ],
+    [
+      "reputation",
+      1
+    ],
+    [
+      "amount",
+      1
+    ],
+    [
+      "close",
+      1
+    ],
+    [
+      "to-do",
+      1
+    ],
+    [
+      "two-minute",
+      1
+    ],
+    [
+      "rule",
+      1
+    ],
+    [
+      "pil",
+      1
+    ],
+    [
+      "includ",
+      1
+    ],
+    [
+      "waste",
+      1
+    ],
+    [
+      "save",
+      1
+    ],
+    [
+      "last",
+      1
+    ],
+    [
+      "careful",
+      1
+    ],
+    [
+      "appreciat",
+      1
+    ],
+    [
+      "hard",
+      1
+    ],
+    [
+      "rarely",
+      1
+    ],
+    [
+      "receive",
+      1
+    ],
+    [
+      "unappreciat",
+      1
+    ],
+    [
+      "achievement",
+      1
+    ],
+    [
+      "shy",
+      1
+    ],
+    [
+      "accomplishment",
+      1
+    ],
+    [
+      "contribution",
+      1
+    ],
+    [
+      "analysis",
+      1
+    ],
+    [
+      "identifi",
+      1
+    ],
+    [
+      "informative",
+      1
+    ],
+    [
+      "customer",
+      1
+    ],
+    [
+      "service",
+      1
+    ],
+    [
+      "frequently",
+      1
+    ],
+    [
+      "concern",
+      1
+    ],
+    [
+      "els",
+      1
+    ],
+    [
+      "feeling",
+      1
+    ],
+    [
+      "theyve",
+      1
+    ],
+    [
+      "position",
+      1
+    ],
+    [
+      "lose",
+      1
+    ],
+    [
+      "technical",
+      1
+    ],
+    [
+      "leadership",
+      1
+    ],
+    [
+      "option",
+      1
+    ],
+    [
+      "development",
+      1
+    ],
+    [
+      "ambition",
+      1
+    ],
+    [
+      "value",
+      1
+    ],
+    [
+      "cooperate",
+      1
+    ],
+    [
+      "assign",
+      1
+    ],
+    [
+      "rol",
+      1
+    ],
+    [
+      "updat",
+      1
+    ],
+    [
+      "view",
+      1
+    ],
+    [
+      "timeline",
+      1
+    ],
+    [
+      "fall",
+      1
+    ],
+    [
+      "behind",
+      1
+    ],
+    [
+      "stage",
+      1
+    ],
+    [
+      "longer",
+      1
+    ],
+    [
+      "differently",
+      1
+    ],
+    [
+      "revision",
+      1
+    ],
+    [
+      "update",
+      1
+    ],
+    [
+      "rest",
+      1
+    ],
+    [
+      "inform",
+      1
+    ],
+    [
+      "bring",
+      1
+    ],
+    [
+      "earlier",
+      1
+    ],
+    [
+      "struggle",
+      1
+    ],
+    [
+      "overcome",
+      1
+    ],
+    [
+      "continue",
+      1
+    ],
+    [
+      "pomodoro",
+      1
+    ],
+    [
+      "seriously",
+      1
+    ],
+    [
+      "unnecessary",
+      1
+    ],
+    [
+      "headphon",
+      1
+    ],
+    [
+      "specific",
+      1
+    ],
+    [
+      "collaboratively",
+      1
+    ],
+    [
+      "strategi",
+      1
+    ],
+    [
+      "importantly",
+      1
+    ],
+    [
+      "prioritize",
+      1
+    ],
+    [
+      "decid",
+      1
+    ],
+    [
+      "research",
+      1
+    ],
+    [
+      "slid",
+      1
+    ],
+    [
+      "weak",
+      1
+    ],
+    [
+      "requirement",
+      1
+    ],
+    [
+      "reply",
+      1
+    ],
+    [
+      "follow-up",
+      1
+    ],
+    [
+      "john",
+      1
+    ],
+    [
+      "regard",
+      1
+    ],
+    [
+      "notice",
+      1
+    ],
+    [
+      "angry",
+      1
+    ],
+    [
+      "collaborative",
+      1
+    ],
+    [
+      "win",
+      1
+    ],
+    [
+      "argument",
+      1
+    ],
+    [
+      "performance",
+      1
+    ],
+    [
+      "aspect",
+      1
+    ],
+    [
+      "initiative",
+      1
+    ],
+    [
+      "cours",
+      1
+    ],
+    [
+      "attend",
+      1
+    ],
+    [
+      "workshop",
+      1
+    ],
+    [
+      "mentally",
+      1
+    ],
+    [
+      "physically",
+      1
+    ],
+    [
+      "drain",
+      1
+    ],
+    [
+      "excessive",
+      1
+    ],
+    [
+      "serious",
+      1
+    ],
+    [
+      "boundari",
+      1
+    ],
+    [
+      "answer",
+      1
+    ],
+    [
+      "night",
+      1
+    ],
+    [
+      "overtime",
+      1
+    ],
+    [
+      "sensitive",
+      1
+    ],
+    [
+      "strict",
+      1
+    ],
+    [
+      "openly",
+      1
+    ],
+    [
+      "hr",
+      1
+    ],
+    [
+      "department",
+      1
+    ],
+    [
+      "smoothly",
+      1
+    ],
+    [
+      "equally",
+      1
+    ],
+    [
+      "everyon",
+      1
+    ],
+    [
+      "blam",
+      1
+    ],
+    [
+      "individual",
+      1
+    ],
+    [
+      "employee",
+      1
+    ],
+    [
+      "manage",
+      1
+    ],
+    [
+      "market",
+      1
+    ],
+    [
+      "adjust",
+      1
+    ],
+    [
+      "extend",
+      1
+    ],
+    [
+      "perhap",
+      1
+    ],
+    [
+      "assist",
+      1
+    ],
+    [
+      "efficiently",
+      1
+    ],
+    [
+      "available",
+      1
+    ],
+    [
+      "difficulti",
+      1
+    ],
+    [
+      "join",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 7699,
+    "unique_words": 883,
+    "duration_min": 53.5
+  }
+}

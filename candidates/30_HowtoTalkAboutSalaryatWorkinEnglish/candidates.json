@@ -1,0 +1,6529 @@
+{
+  "file_stem": "30_HowtoTalkAboutSalaryatWorkinEnglish",
+  "no": 30,
+  "title_keywords": [
+    [
+      "talk",
+      "talk"
+    ],
+    [
+      "salary",
+      "salary"
+    ],
+    [
+      "work",
+      "work"
+    ],
+    [
+      "english",
+      "english"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "salary",
+      151,
+      "B1+"
+    ],
+    [
+      "say",
+      91,
+      "A2"
+    ],
+    [
+      "talk",
+      82,
+      "A2"
+    ],
+    [
+      "professional",
+      72,
+      "B1+"
+    ],
+    [
+      "sound",
+      72,
+      "A2"
+    ],
+    [
+      "money",
+      67,
+      "A2"
+    ],
+    [
+      "english",
+      61,
+      "A2"
+    ],
+    [
+      "ask",
+      53,
+      "A2"
+    ],
+    [
+      "compensation",
+      53,
+      "B1+"
+    ],
+    [
+      "work",
+      41,
+      "A2"
+    ],
+    [
+      "instead",
+      39,
+      "A2"
+    ],
+    [
+      "conversations",
+      35,
+      "B1+"
+    ],
+    [
+      "language",
+      34,
+      "A2"
+    ],
+    [
+      "much",
+      33,
+      "A2"
+    ],
+    [
+      "today",
+      33,
+      "A2"
+    ],
+    [
+      "feel",
+      32,
+      "A2"
+    ],
+    [
+      "want",
+      27,
+      "A2"
+    ],
+    [
+      "earn",
+      26,
+      "B1+"
+    ],
+    [
+      "make",
+      26,
+      "A2"
+    ],
+    [
+      "one",
+      26,
+      "A2"
+    ],
+    [
+      "discuss",
+      25,
+      "B1+"
+    ],
+    [
+      "example",
+      24,
+      "A2"
+    ],
+    [
+      "pay",
+      23,
+      "A2"
+    ],
+    [
+      "us",
+      22,
+      "A2"
+    ],
+    [
+      "learners",
+      21,
+      "B1+"
+    ],
+    [
+      "means",
+      21,
+      "A2"
+    ],
+    [
+      "raise",
+      21,
+      "A2"
+    ],
+    [
+      "time",
+      21,
+      "A2"
+    ],
+    [
+      "even",
+      20,
+      "B1+"
+    ],
+    [
+      "interview",
+      20,
+      "B1+"
+    ],
+    [
+      "many",
+      20,
+      "A2"
+    ],
+    [
+      "role",
+      20,
+      "B1+"
+    ],
+    [
+      "use",
+      20,
+      "A2"
+    ],
+    [
+      "another",
+      19,
+      "A2"
+    ],
+    [
+      "better",
+      19,
+      "A2"
+    ],
+    [
+      "need",
+      19,
+      "A2"
+    ],
+    [
+      "thanks",
+      19,
+      "A2"
+    ],
+    [
+      "usually",
+      19,
+      "B1+"
+    ],
+    [
+      "direct",
+      18,
+      "B1+"
+    ],
+    [
+      "range",
+      18,
+      "B1+"
+    ],
+    [
+      "uncomfortable",
+      18,
+      "B1+"
+    ],
+    [
+      "benefits",
+      17,
+      "B1+"
+    ],
+    [
+      "confident",
+      17,
+      "B1+"
+    ],
+    [
+      "focus",
+      17,
+      "B1+"
+    ],
+    [
+      "job",
+      17,
+      "A2"
+    ],
+    [
+      "learning",
+      17,
+      "A2"
+    ],
+    [
+      "people",
+      17,
+      "A2"
+    ],
+    [
+      "phrases",
+      17,
+      "B1+"
+    ],
+    [
+      "something",
+      17,
+      "B1+"
+    ],
+    [
+      "words",
+      17,
+      "A2"
+    ],
+    [
+      "common",
+      16,
+      "A2"
+    ],
+    [
+      "episode",
+      16,
+      "B1+"
+    ],
+    [
+      "exactly",
+      16,
+      "B1+"
+    ],
+    [
+      "growth",
+      16,
+      "B1+"
+    ],
+    [
+      "keep",
+      16,
+      "A2"
+    ],
+    [
+      "business",
+      15,
+      "B1+"
+    ],
+    [
+      "mistake",
+      15,
+      "A2"
+    ],
+    [
+      "personal",
+      15,
+      "B1+"
+    ],
+    [
+      "practice",
+      15,
+      "A2"
+    ],
+    [
+      "responsibilities",
+      15,
+      "B1+"
+    ],
+    [
+      "avoid",
+      14,
+      "B1+"
+    ],
+    [
+      "know",
+      14,
+      "A2"
+    ],
+    [
+      "listening",
+      14,
+      "A2"
+    ],
+    [
+      "performance",
+      14,
+      "B1+"
+    ],
+    [
+      "start",
+      14,
+      "A2"
+    ],
+    [
+      "confidence",
+      13,
+      "B1+"
+    ],
+    [
+      "emotional",
+      13,
+      "B1+"
+    ],
+    [
+      "first",
+      13,
+      "A2"
+    ],
+    [
+      "important",
+      13,
+      "A2"
+    ],
+    [
+      "package",
+      13,
+      "B1+"
+    ],
+    [
+      "value",
+      13,
+      "B1+"
+    ],
+    [
+      "way",
+      13,
+      "A2"
+    ],
+    [
+      "based",
+      12,
+      "B1+"
+    ],
+    [
+      "calm",
+      12,
+      "B1+"
+    ],
+    [
+      "get",
+      12,
+      "A2"
+    ],
+    [
+      "often",
+      12,
+      "A2"
+    ],
+    [
+      "paid",
+      12,
+      "B1+"
+    ],
+    [
+      "position",
+      12,
+      "B1+"
+    ],
+    [
+      "directly",
+      11,
+      "B1+"
+    ],
+    [
+      "everyone",
+      11,
+      "A2"
+    ],
+    [
+      "level",
+      11,
+      "B1+"
+    ],
+    [
+      "maybe",
+      11,
+      "A2"
+    ],
+    [
+      "mistakes",
+      11,
+      "B1+"
+    ],
+    [
+      "next",
+      11,
+      "A2"
+    ],
+    [
+      "promotion",
+      11,
+      "B1+"
+    ],
+    [
+      "question",
+      11,
+      "A2"
+    ],
+    [
+      "tell",
+      11,
+      "A2"
+    ],
+    [
+      "year",
+      11,
+      "A2"
+    ],
+    [
+      "english-speaking",
+      10,
+      "B1+"
+    ],
+    [
+      "indirect",
+      10,
+      "B1+"
+    ],
+    [
+      "podcast",
+      10,
+      "B1+"
+    ],
+    [
+      "think",
+      10,
+      "A2"
+    ],
+    [
+      "using",
+      10,
+      "B1+"
+    ],
+    [
+      "wages",
+      10,
+      "B1+"
+    ],
+    [
+      "amount",
+      9,
+      "B1+"
+    ],
+    [
+      "bye",
+      9,
+      "B1+"
+    ],
+    [
+      "demanding",
+      9,
+      "B1+"
+    ],
+    [
+      "helps",
+      9,
+      "A2"
+    ],
+    [
+      "hours",
+      9,
+      "A2"
+    ],
+    [
+      "loud",
+      9,
+      "A2"
+    ],
+    [
+      "notice",
+      9,
+      "A2"
+    ],
+    [
+      "number",
+      9,
+      "B1+"
+    ],
+    [
+      "practicing",
+      9,
+      "B1+"
+    ],
+    [
+      "problems",
+      9,
+      "A2"
+    ],
+    [
+      "remember",
+      9,
+      "A2"
+    ],
+    [
+      "respectful",
+      9,
+      "B1+"
+    ],
+    [
+      "speakers",
+      9,
+      "B1+"
+    ],
+    [
+      "understand",
+      9,
+      "A2"
+    ],
+    [
+      "without",
+      9,
+      "A2"
+    ],
+    [
+      "back",
+      8,
+      "A2"
+    ],
+    [
+      "bonuses",
+      8,
+      "B1+"
+    ],
+    [
+      "comes",
+      8,
+      "B1+"
+    ],
+    [
+      "company",
+      8,
+      "B1+"
+    ],
+    [
+      "fixed",
+      8,
+      "B1+"
+    ],
+    [
+      "gain",
+      8,
+      "B1+"
+    ],
+    [
+      "include",
+      8,
+      "A2"
+    ],
+    [
+      "makes",
+      8,
+      "B1+"
+    ],
+    [
+      "manager",
+      8,
+      "B1+"
+    ],
+    [
+      "native",
+      8,
+      "B1+"
+    ],
+    [
+      "rude",
+      8,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "salary range",
+      "count": 18,
+      "example": "the salary range for this position?",
+      "t": 280.46
+    },
+    {
+      "text": "discuss my compensation",
+      "count": 18,
+      "example": "Instead of saying, I want more money, you can say, I'd like to discuss my compensation.",
+      "t": 283.22
+    },
+    {
+      "text": "let's talk",
+      "count": 15,
+      "example": "Now let's talk about vocabulary, because this is another area where learners get confused.",
+      "t": 334.86
+    },
+    {
+      "text": "salary conversations",
+      "count": 14,
+      "example": "Salary conversations are stressful for everyone, even native speakers.",
+      "t": 86.92
+    },
+    {
+      "text": "talk about salary",
+      "count": 11,
+      "example": "us. Let me ask you something right away. Have you ever wanted to talk about salary",
+      "t": 31.36
+    },
+    {
+      "text": "salary at work",
+      "count": 11,
+      "example": "Today we're talking about how to talk about salary at work in English, politely, professionally,",
+      "t": 78.96
+    },
+    {
+      "text": "work in english",
+      "count": 11,
+      "example": "Today we're talking about how to talk about salary at work in English, politely, professionally,",
+      "t": 78.96
+    },
+    {
+      "text": "us today",
+      "count": 10,
+      "example": "us today. If this is your first time listening, welcome. And if you're a regular listener,",
+      "t": 18.96
+    },
+    {
+      "text": "feel uncomfortable",
+      "count": 10,
+      "example": "They'll just feel uncomfortable.",
+      "t": 108.16
+    },
+    {
+      "text": "compensation package",
+      "count": 10,
+      "example": "You might say, could you tell me more about the compensation package? Or what's the",
+      "t": 322.38
+    }
+  ],
+  "phrases": [
+    {
+      "text": "salary range",
+      "count": 18,
+      "example": "the salary range for this position?",
+      "t": 280.46
+    },
+    {
+      "text": "discuss my compensation",
+      "count": 18,
+      "example": "Instead of saying, I want more money, you can say, I'd like to discuss my compensation.",
+      "t": 283.22
+    },
+    {
+      "text": "let's talk",
+      "count": 15,
+      "example": "Now let's talk about vocabulary, because this is another area where learners get confused.",
+      "t": 334.86
+    },
+    {
+      "text": "salary conversations",
+      "count": 14,
+      "example": "Salary conversations are stressful for everyone, even native speakers.",
+      "t": 86.92
+    },
+    {
+      "text": "talk about salary",
+      "count": 11,
+      "example": "us. Let me ask you something right away. Have you ever wanted to talk about salary",
+      "t": 31.36
+    },
+    {
+      "text": "salary at work",
+      "count": 11,
+      "example": "Today we're talking about how to talk about salary at work in English, politely, professionally,",
+      "t": 78.96
+    },
+    {
+      "text": "work in english",
+      "count": 11,
+      "example": "Today we're talking about how to talk about salary at work in English, politely, professionally,",
+      "t": 78.96
+    },
+    {
+      "text": "us today",
+      "count": 10,
+      "example": "us today. If this is your first time listening, welcome. And if you're a regular listener,",
+      "t": 18.96
+    },
+    {
+      "text": "feel uncomfortable",
+      "count": 10,
+      "example": "They'll just feel uncomfortable.",
+      "t": 108.16
+    },
+    {
+      "text": "compensation package",
+      "count": 10,
+      "example": "You might say, could you tell me more about the compensation package? Or what's the",
+      "t": 322.38
+    },
+    {
+      "text": "business english",
+      "count": 8,
+      "example": "Hello and welcome back to our Business English podcast. We're really happy you're here with",
+      "t": 14.16
+    },
+    {
+      "text": "common mistakes",
+      "count": 8,
+      "example": "about raises and compensation like a professional and how to avoid common mistakes English learners",
+      "t": 118.84
+    },
+    {
+      "text": "talking about salary",
+      "count": 8,
+      "example": "What's the most uncomfortable part of talking about salary in English?",
+      "t": 130.64
+    },
+    {
+      "text": "i've taken",
+      "count": 8,
+      "example": "Over the past year, I've taken on additional responsibilities, and I was hoping we could",
+      "t": 494.12
+    },
+    {
+      "text": "welcome back",
+      "count": 7,
+      "example": "Hello and welcome back to our Business English podcast. We're really happy you're here with",
+      "t": 14.16
+    },
+    {
+      "text": "english podcast",
+      "count": 7,
+      "example": "Hello and welcome back to our Business English podcast. We're really happy you're here with",
+      "t": 14.16
+    },
+    {
+      "text": "business english podcast",
+      "count": 7,
+      "example": "Hello and welcome back to our Business English podcast. We're really happy you're here with",
+      "t": 14.16
+    },
+    {
+      "text": "today we're",
+      "count": 7,
+      "example": "Today we're talking about how to talk about salary at work in English, politely, professionally,",
+      "t": 78.96
+    },
+    {
+      "text": "native speakers",
+      "count": 7,
+      "example": "Salary conversations are stressful for everyone, even native speakers.",
+      "t": 86.92
+    },
+    {
+      "text": "many english-speaking",
+      "count": 7,
+      "example": "In many English-speaking workplaces, money is treated as private.",
+      "t": 164.76
+    },
+    {
+      "text": "english-speaking workplaces",
+      "count": 7,
+      "example": "In many English-speaking workplaces, money is treated as private.",
+      "t": 164.76
+    },
+    {
+      "text": "need more money",
+      "count": 7,
+      "example": "Or I need more money.",
+      "t": 214.94
+    },
+    {
+      "text": "fixed amount",
+      "count": 7,
+      "example": "Salary is a fixed amount of money you receive regularly, usually monthly or yearly.",
+      "t": 348.2
+    },
+    {
+      "text": "keep practicing",
+      "count": 7,
+      "example": "Keep practicing, keep improving, and we'll see you in the next episode.",
+      "t": 533.96
+    },
+    {
+      "text": "bye everyone",
+      "count": 7,
+      "example": "Bye everyone and good luck with your next salary conversation.",
+      "t": 537.84
+    },
+    {
+      "text": "many learners",
+      "count": 7,
+      "example": "Now, let's look at some useful vocabulary because many learners get confused by similar",
+      "t": 721.06
+    },
+    {
+      "text": "job interview",
+      "count": 6,
+      "example": "Yeah, maybe you wanted to ask about pay during a job interview, or maybe you wanted to talk",
+      "t": 44.32
+    },
+    {
+      "text": "we're going",
+      "count": 6,
+      "example": "So in this episode, we're going to help you avoid those problems.",
+      "t": 110.56
+    },
+    {
+      "text": "say i'd",
+      "count": 6,
+      "example": "Instead of saying, I want more money, you can say, I'd like to discuss my compensation.",
+      "t": 283.22
+    },
+    {
+      "text": "instead of saying",
+      "count": 6,
+      "example": "Instead of saying, I want more money, you can say, I'd like to discuss my compensation.",
+      "t": 283.22
+    },
+    {
+      "text": "want more money",
+      "count": 6,
+      "example": "Instead of saying, I want more money, you can say, I'd like to discuss my compensation.",
+      "t": 283.22
+    },
+    {
+      "text": "sound confident",
+      "count": 6,
+      "example": "You learned what to avoid, what to say instead, and how to sound confident without sounding",
+      "t": 516.66
+    },
+    {
+      "text": "much for listening",
+      "count": 6,
+      "example": "Thanks so much for listening.",
+      "t": 532.42
+    },
+    {
+      "text": "wanted to talk",
+      "count": 5,
+      "example": "us. Let me ask you something right away. Have you ever wanted to talk about salary",
+      "t": 31.36
+    },
+    {
+      "text": "without sounding",
+      "count": 5,
+      "example": "By the end, you'll know how to ask about salary without sounding rude, how to talk",
+      "t": 114.16
+    },
+    {
+      "text": "ask about salary",
+      "count": 5,
+      "example": "By the end, you'll know how to ask about salary without sounding rude, how to talk",
+      "t": 114.16
+    },
+    {
+      "text": "don't forget",
+      "count": 5,
+      "example": "And if this podcast helps you, don't forget to like and subscribe.",
+      "t": 148.4
+    },
+    {
+      "text": "alright let's",
+      "count": 5,
+      "example": "Alright, let's get started.",
+      "t": 153.2
+    },
+    {
+      "text": "many english-speaking workplaces",
+      "count": 5,
+      "example": "In many English-speaking workplaces, money is treated as private.",
+      "t": 164.76
+    },
+    {
+      "text": "sounds emotional",
+      "count": 5,
+      "example": "That sounds emotional and demanding, especially talking to a manager.",
+      "t": 216.86
+    },
+    {
+      "text": "saying i want",
+      "count": 5,
+      "example": "Instead of saying, I want more money, you can say, I'd like to discuss my compensation.",
+      "t": 283.22
+    },
+    {
+      "text": "monthly or yearly",
+      "count": 5,
+      "example": "Salary is a fixed amount of money you receive regularly, usually monthly or yearly.",
+      "t": 348.2
+    },
+    {
+      "text": "health insurance",
+      "count": 5,
+      "example": "Health insurance, paid vacation, bonuses, retirement plans, these are all benefits.",
+      "t": 415.42
+    },
+    {
+      "text": "past year",
+      "count": 5,
+      "example": "Over the past year, I've taken on additional responsibilities, and I was hoping we could",
+      "t": 494.12
+    },
+    {
+      "text": "additional responsibilities",
+      "count": 5,
+      "example": "Over the past year, I've taken on additional responsibilities, and I was hoping we could",
+      "t": 494.12
+    },
+    {
+      "text": "taken on additional",
+      "count": 5,
+      "example": "Over the past year, I've taken on additional responsibilities, and I was hoping we could",
+      "t": 494.12
+    },
+    {
+      "text": "we'll see",
+      "count": 5,
+      "example": "Keep practicing, keep improving, and we'll see you in the next episode.",
+      "t": 533.96
+    },
+    {
+      "text": "say i earn",
+      "count": 5,
+      "example": "we say, I earn or I make.",
+      "t": 867.72
+    },
+    {
+      "text": "don't say",
+      "count": 5,
+      "example": "And remember, money is uncountable, so we don't say a-money.",
+      "t": 878.02
+    },
+    {
+      "text": "listening today",
+      "count": 5,
+      "example": "Thank you so much for listening today.",
+      "t": 1296.19
+    },
+    {
+      "text": "talk about raises",
+      "count": 5,
+      "example": "to talk about raises without sounding demanding, and how to avoid common mistakes that",
+      "t": 1368.72
+    },
+    {
+      "text": "indirect language",
+      "count": 5,
+      "example": "Instead, English speakers use indirect language, not because they're hiding something, but",
+      "t": 1418.68
+    },
+    {
+      "text": "what's the salary",
+      "count": 5,
+      "example": "Instead of how much will I earn, say, what's the salary range for this position?",
+      "t": 1474.76
+    },
+    {
+      "text": "i'm erica",
+      "count": 4,
+      "example": "And I'm Erica. Thanks for spending a few minutes of your day learning English with",
+      "t": 27.68
+    },
+    {
+      "text": "learning english",
+      "count": 4,
+      "example": "And I'm Erica. Thanks for spending a few minutes of your day learning English with",
+      "t": 27.68
+    },
+    {
+      "text": "ever wanted",
+      "count": 4,
+      "example": "us. Let me ask you something right away. Have you ever wanted to talk about salary",
+      "t": 31.36
+    },
+    {
+      "text": "didn't know",
+      "count": 4,
+      "example": "You knew what you wanted to say, but you didn't know how to say it in English.",
+      "t": 40.52
+    },
+    {
+      "text": "sounding rude",
+      "count": 4,
+      "example": "But instead of speaking up, you stayed quiet because you were worried about sounding rude,",
+      "t": 51.98
+    },
+    {
+      "text": "english learners",
+      "count": 4,
+      "example": "So for English learners, they're especially tricky because money has hidden cultural rules.",
+      "t": 91.16
+    },
+    {
+      "text": "you'll know",
+      "count": 4,
+      "example": "By the end, you'll know how to ask about salary without sounding rude, how to talk",
+      "t": 114.16
+    },
+    {
+      "text": "money at work",
+      "count": 4,
+      "example": "make when talking about money at work.",
+      "t": 125.04
+    },
+    {
+      "text": "salary in english",
+      "count": 4,
+      "example": "What's the most uncomfortable part of talking about salary in English?",
+      "t": 130.64
+    },
+    {
+      "text": "workplaces money",
+      "count": 4,
+      "example": "In many English-speaking workplaces, money is treated as private.",
+      "t": 164.76
+    },
+    {
+      "text": "much money",
+      "count": 4,
+      "example": "For example, how much money do you make?",
+      "t": 208.94
+    },
+    {
+      "text": "sound negative",
+      "count": 4,
+      "example": "job doesn't pay enough. These sentences are honest, but they sound negative. They focus",
+      "t": 245.26
+    },
+    {
+      "text": "talk about vocabulary",
+      "count": 4,
+      "example": "Now let's talk about vocabulary, because this is another area where learners get confused.",
+      "t": 334.86
+    },
+    {
+      "text": "let's start",
+      "count": 4,
+      "example": "Let's start with salary.",
+      "t": 346.02
+    },
+    {
+      "text": "common mistake",
+      "count": 4,
+      "example": "Now let's clear up a very common mistake, raise versus promotion.",
+      "t": 392.94
+    },
+    {
+      "text": "promotion means",
+      "count": 4,
+      "example": "A promotion means a new role.",
+      "t": 401.7
+    },
+    {
+      "text": "retirement plans",
+      "count": 4,
+      "example": "Health insurance, paid vacation, bonuses, retirement plans, these are all benefits.",
+      "t": 415.42
+    },
+    {
+      "text": "professionals often",
+      "count": 4,
+      "example": "That's why professionals often talk about compensation instead of just salary.",
+      "t": 426.22
+    },
+    {
+      "text": "mistake number",
+      "count": 4,
+      "example": "Mistake number one, asking coworkers directly about their salary.",
+      "t": 434.62
+    },
+    {
+      "text": "saying expensive",
+      "count": 4,
+      "example": "Mistake number three, saying expensive salary.",
+      "t": 454.56
+    },
+    {
+      "text": "expensive salary",
+      "count": 4,
+      "example": "Mistake number three, saying expensive salary.",
+      "t": 454.56
+    },
+    {
+      "text": "saying expensive salary",
+      "count": 4,
+      "example": "Mistake number three, saying expensive salary.",
+      "t": 454.56
+    },
+    {
+      "text": "say high",
+      "count": 4,
+      "example": "We say high salary or competitive salary.",
+      "t": 460.32
+    },
+    {
+      "text": "high salary",
+      "count": 4,
+      "example": "We say high salary or competitive salary.",
+      "t": 460.32
+    },
+    {
+      "text": "say high salary",
+      "count": 4,
+      "example": "We say high salary or competitive salary.",
+      "t": 460.32
+    },
+    {
+      "text": "salary or competitive",
+      "count": 4,
+      "example": "We say high salary or competitive salary.",
+      "t": 460.32
+    },
+    {
+      "text": "don't gain",
+      "count": 4,
+      "example": "You don't gain money from a job.",
+      "t": 468.56
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen, practice, speak. Practice makes you perfect."
+    },
+    {
+      "t": 14.16,
+      "text": "Hello and welcome back to our Business English podcast. We're really happy you're here with"
+    },
+    {
+      "t": 18.96,
+      "text": "us today. If this is your first time listening, welcome. And if you're a regular listener,"
+    },
+    {
+      "t": 24.82,
+      "text": "thanks for coming back. My name is Marco."
+    },
+    {
+      "t": 27.68,
+      "text": "And I'm Erica. Thanks for spending a few minutes of your day learning English with"
+    },
+    {
+      "t": 31.36,
+      "text": "us. Let me ask you something right away. Have you ever wanted to talk about salary"
+    },
+    {
+      "t": 36.96,
+      "text": "at work, but your mind went completely blank?"
+    },
+    {
+      "t": 40.52,
+      "text": "You knew what you wanted to say, but you didn't know how to say it in English."
+    },
+    {
+      "t": 44.32,
+      "text": "Yeah, maybe you wanted to ask about pay during a job interview, or maybe you wanted to talk"
+    },
+    {
+      "t": 49.8,
+      "text": "to your manager about a raise."
+    },
+    {
+      "t": 51.98,
+      "text": "But instead of speaking up, you stayed quiet because you were worried about sounding rude,"
+    },
+    {
+      "t": 57.24,
+      "text": "awkward, or unprofessional."
+    },
+    {
+      "t": 59.84,
+      "text": "That actually happens a lot."
+    },
+    {
+      "t": 61.96,
+      "text": "Just last week, one of our listeners sent us a message saying she accepted a job"
+    },
+    {
+      "t": 66.16,
+      "text": "offer without negotiating the salary, not because she didn't care, but because she was afraid"
+    },
+    {
+      "t": 72.08,
+      "text": "of saying the wrong thing in English."
+    },
+    {
+      "t": 74.84,
+      "text": "And that's exactly why today's episode is so important."
+    },
+    {
+      "t": 78.96,
+      "text": "Today we're talking about how to talk about salary at work in English, politely, professionally,"
+    },
+    {
+      "t": 85.04,
+      "text": "and confidently."
+    },
+    {
+      "t": 86.92,
+      "text": "Salary conversations are stressful for everyone, even native speakers."
+    },
+    {
+      "t": 91.16,
+      "text": "So for English learners, they're especially tricky because money has hidden cultural rules."
+    },
+    {
+      "t": 96.84,
+      "text": "Exactly."
+    },
+    {
+      "t": 98.34,
+      "text": "One wrong phrase can make you sound too direct."
+    },
+    {
+      "t": 101.48,
+      "text": "Another phrase can sound emotional or even aggressive."
+    },
+    {
+      "t": 104.86,
+      "text": "And sometimes people won't tell you that you said something wrong."
+    },
+    {
+      "t": 108.16,
+      "text": "They'll just feel uncomfortable."
+    },
+    {
+      "t": 110.56,
+      "text": "So in this episode, we're going to help you avoid those problems."
+    },
+    {
+      "t": 114.16,
+      "text": "By the end, you'll know how to ask about salary without sounding rude, how to talk"
+    },
+    {
+      "t": 118.84,
+      "text": "about raises and compensation like a professional and how to avoid common mistakes English learners"
+    },
+    {
+      "t": 125.04,
+      "text": "make when talking about money at work."
+    },
+    {
+      "t": 128.0,
+      "text": "Before we jump in, quick question for you."
+    },
+    {
+      "t": 130.64,
+      "text": "What's the most uncomfortable part of talking about salary in English?"
+    },
+    {
+      "t": 134.88,
+      "text": "Is it interviews, asking for a raise, or talking with coworkers?"
+    },
+    {
+      "t": 139.8,
+      "text": "Think about it for a second."
+    },
+    {
+      "t": 141.36,
+      "text": "And if you're listening on YouTube or Spotify, leave a comment and tell us."
+    },
+    {
+      "t": 145.92,
+      "text": "Writing and speaking are both practice."
+    },
+    {
+      "t": 148.4,
+      "text": "And if this podcast helps you, don't forget to like and subscribe."
+    },
+    {
+      "t": 151.6,
+      "text": "It really supports the channel."
+    },
+    {
+      "t": 153.2,
+      "text": "Alright, let's get started."
+    },
+    {
+      "t": 155.44,
+      "text": "The first thing you need to understand about salary conversations in English is this."
+    },
+    {
+      "t": 160.68,
+      "text": "We rarely talk about money directly."
+    },
+    {
+      "t": 163.68,
+      "text": "Yes."
+    },
+    {
+      "t": 164.76,
+      "text": "In many English-speaking workplaces, money is treated as private."
+    },
+    {
+      "t": 169.64,
+      "text": "Asking direct questions about someone's salary can feel uncomfortable or even rude."
+    },
+    {
+      "t": 174.92,
+      "text": "For example, asking a co-worker how much do you earn might be normal in some cultures."
+    },
+    {
+      "t": 180.88,
+      "text": "But in English-speaking offices, that question can create tension."
+    },
+    {
+      "t": 185.1,
+      "text": "So instead of direct language, native speakers use what we can call soft professional language."
+    },
+    {
+      "t": 191.8,
+      "text": "This language sounds indirect, but it's actually very powerful."
+    },
+    {
+      "t": 196.4,
+      "text": "Let's break this down into three levels."
+    },
+    {
+      "t": 198.8,
+      "text": "Think of it as a ladder from risky language to safe language."
+    },
+    {
+      "t": 203.1,
+      "text": "One is language that's too direct."
+    },
+    {
+      "t": 205.7,
+      "text": "These are phrases you should generally avoid at work."
+    },
+    {
+      "t": 208.94,
+      "text": "For example, how much money do you make?"
+    },
+    {
+      "t": 211.86,
+      "text": "That's very direct and very personal."
+    },
+    {
+      "t": 214.94,
+      "text": "Or I need more money."
+    },
+    {
+      "t": 216.86,
+      "text": "That sounds emotional and demanding, especially talking to a manager."
+    },
+    {
+      "t": 221.54,
+      "text": "Another one is why am I paid less than others?"
+    },
+    {
+      "t": 224.98,
+      "text": "Even if you feel this way, asking it directly can damage relationships."
+    },
+    {
+      "t": 229.46,
+      "text": "The problem with these phrases isn't grammar."
+    },
+    {
+      "t": 232.1,
+      "text": "grammar is fine. The problem is the tone. Exactly. Now let's move to level two. These"
+    },
+    {
+      "t": 238.82,
+      "text": "phrases are better, but still not ideal. Examples include, my salary is too low or this"
+    },
+    {
+      "t": 245.26,
+      "text": "job doesn't pay enough. These sentences are honest, but they sound negative. They focus"
+    },
+    {
+      "t": 251.14,
+      "text": "on problems instead of professional discussion. Native speakers usually avoid sounding negative"
+    },
+    {
+      "t": 257.22,
+      "text": "when talking about salary. Instead, they focus on growth, value, and responsibilities."
+    },
+    {
+      "t": 263.24,
+      "text": "And that brings us to level three, the level we want you to use."
+    },
+    {
+      "t": 267.74,
+      "text": "Level three is polite, professional, and natural. This is how salary conversations usually"
+    },
+    {
+      "t": 273.46,
+      "text": "happen in English."
+    },
+    {
+      "t": 275.18,
+      "text": "Here are some examples. Instead of asking, how much will I make, you can ask, what's"
+    },
+    {
+      "t": 280.46,
+      "text": "the salary range for this position?"
+    },
+    {
+      "t": 283.22,
+      "text": "Instead of saying, I want more money, you can say, I'd like to discuss my compensation."
+    },
+    {
+      "t": 288.86,
+      "text": "Or is there an opportunity for salary growth in this role?"
+    },
+    {
+      "t": 293.1,
+      "text": "Notice the words we're using."
+    },
+    {
+      "t": 295.3,
+      "text": "Salary range, compensation, growth."
+    },
+    {
+      "t": 298.58,
+      "text": "These words sound calm and professional."
+    },
+    {
+      "t": 301.38,
+      "text": "This language gives you space."
+    },
+    {
+      "t": 303.42,
+      "text": "You're not demanding anything."
+    },
+    {
+      "t": 305.02,
+      "text": "You're opening a conversation."
+    },
+    {
+      "t": 307.42,
+      "text": "And that's the key."
+    },
+    {
+      "t": 309.22,
+      "text": "discussions in English are conversations, not confrontations."
+    },
+    {
+      "t": 314.1,
+      "text": "Let's pause for a second and practice. Imagine you're in a job interview. How would you ask"
+    },
+    {
+      "t": 319.18,
+      "text": "about salary using Level 3 language?"
+    },
+    {
+      "t": 322.38,
+      "text": "You might say, could you tell me more about the compensation package? Or what's the"
+    },
+    {
+      "t": 327.34,
+      "text": "expected salary range?"
+    },
+    {
+      "t": 329.66,
+      "text": "Say it out loud if you can. Practicing out loud makes a huge difference."
+    },
+    {
+      "t": 334.86,
+      "text": "Now let's talk about vocabulary, because this is another area where learners get confused."
+    },
+    {
+      "t": 340.66,
+      "text": "There are many words for money at work in English, and they're not interchangeable."
+    },
+    {
+      "t": 346.02,
+      "text": "Let's start with salary."
+    },
+    {
+      "t": 348.2,
+      "text": "Salary is a fixed amount of money you receive regularly, usually monthly or yearly."
+    },
+    {
+      "t": 353.66,
+      "text": "If you earn the same amount every month regardless of hours, you have a salary."
+    },
+    {
+      "t": 358.5,
+      "text": "Income is different."
+    },
+    {
+      "t": 359.96,
+      "text": "Income means all the money you receive, not just from your job."
+    },
+    {
+      "t": 364.02,
+      "text": "For example, your income might include your salary, bonuses, freelance work, or investments."
+    },
+    {
+      "t": 370.42,
+      "text": "Pay is more general and more casual."
+    },
+    {
+      "t": 373.14,
+      "text": "You might say, the pay is decent when talking informally."
+    },
+    {
+      "t": 376.78,
+      "text": "But in interviews and meetings, salary or compensation sounds more professional than"
+    },
+    {
+      "t": 381.82,
+      "text": "pay."
+    },
+    {
+      "t": 382.82,
+      "text": "Wages are hourly."
+    },
+    {
+      "t": 384.5,
+      "text": "If you're paid by the hour, you earn wages."
+    },
+    {
+      "t": 387.42,
+      "text": "So a factory worker or cafe employee usually earns wages, not a salary."
+    },
+    {
+      "t": 392.94,
+      "text": "Now let's clear up a very common mistake, raise versus promotion."
+    },
+    {
+      "t": 397.94,
+      "text": "A raise means more money."
+    },
+    {
+      "t": 399.98,
+      "text": "Your job stays the same."
+    },
+    {
+      "t": 401.7,
+      "text": "A promotion means a new role."
+    },
+    {
+      "t": 403.9,
+      "text": "Usually with more responsibility, it may include a raise, but not always."
+    },
+    {
+      "t": 409.62,
+      "text": "Benefits are another important word."
+    },
+    {
+      "t": 412.1,
+      "text": "Benefits are things you receive in addition to your salary."
+    },
+    {
+      "t": 415.42,
+      "text": "Health insurance, paid vacation, bonuses, retirement plans, these are all benefits."
+    },
+    {
+      "t": 421.5,
+      "text": "Together, salary and benefits make up your compensation package."
+    },
+    {
+      "t": 426.22,
+      "text": "That's why professionals often talk about compensation instead of just salary."
+    },
+    {
+      "t": 431.06,
+      "text": "Alright, let's talk about common mistakes."
+    },
+    {
+      "t": 434.62,
+      "text": "Mistake number one, asking coworkers directly about their salary."
+    },
+    {
+      "t": 439.02,
+      "text": "Instead, ask HR, a recruiter, or research salary ranges online."
+    },
+    {
+      "t": 444.58,
+      "text": "Mistake number two, saying, I want more money during a review."
+    },
+    {
+      "t": 448.5,
+      "text": "A better option is, based on my performance, I'd like to discuss my compensation."
+    },
+    {
+      "t": 454.56,
+      "text": "Mistake number three, saying expensive salary."
+    },
+    {
+      "t": 458.02,
+      "text": "We don't use expensive for salaries."
+    },
+    {
+      "t": 460.32,
+      "text": "We say high salary or competitive salary."
+    },
+    {
+      "t": 463.8,
+      "text": "Mistake number four, using gain instead of earn."
+    },
+    {
+      "t": 467.4,
+      "text": "You earn money."
+    },
+    {
+      "t": 468.56,
+      "text": "You don't gain money from a job."
+    },
+    {
+      "t": 470.72,
+      "text": "Now let's hear a real example."
+    },
+    {
+      "t": 472.72,
+      "text": "First, the wrong way to ask for a raise."
+    },
+    {
+      "t": 475.76,
+      "text": "Hi Jordan."
+    },
+    {
+      "t": 476.76,
+      "text": "I need more money."
+    },
+    {
+      "t": 478.04,
+      "text": "My salary isn't enough, and I've been here a long time."
+    },
+    {
+      "t": 481.76,
+      "text": "That feels uncomfortable, right?"
+    },
+    {
+      "t": 483.74,
+      "text": "It sounds emotional and unfocused."
+    },
+    {
+      "t": 486.72,
+      "text": "Now here's the professional version."
+    },
+    {
+      "t": 488.88,
+      "text": "Hi Alex, do you have a moment?"
+    },
+    {
+      "t": 490.88,
+      "text": "I'd like to discuss my role and contributions."
+    },
+    {
+      "t": 494.12,
+      "text": "Over the past year, I've taken on additional responsibilities, and I was hoping we could"
+    },
+    {
+      "t": 498.4,
+      "text": "discuss my compensation."
+    },
+    {
+      "t": 500.66,
+      "text": "Much better."
+    },
+    {
+      "t": 501.66,
+      "text": "Calm, professional, and focused on value."
+    },
+    {
+      "t": 505.32,
+      "text": "That's the goal."
+    },
+    {
+      "t": 506.42,
+      "text": "Keep it about work, not personal problems."
+    },
+    {
+      "t": 509.34,
+      "text": "Alright, let's wrap up."
+    },
+    {
+      "t": 510.98,
+      "text": "Today you learned how to talk about salary in English using professional, natural language."
+    },
+    {
+      "t": 516.66,
+      "text": "You learned what to avoid, what to say instead, and how to sound confident without sounding"
+    },
+    {
+      "t": 522.02,
+      "text": "rude."
+    },
+    {
+      "t": 523.02,
+      "text": "Remember, it's not about being perfect, it's about being clear, polite, and professional."
+    },
+    {
+      "t": 529.06,
+      "text": "Choose one phrase from today and practice it this week."
+    },
+    {
+      "t": 532.42,
+      "text": "Thanks so much for listening."
+    },
+    {
+      "t": 533.96,
+      "text": "Keep practicing, keep improving, and we'll see you in the next episode."
+    },
+    {
+      "t": 537.84,
+      "text": "Bye everyone and good luck with your next salary conversation."
+    },
+    {
+      "t": 541.56,
+      "text": "Hello and welcome back to our Business English podcast."
+    },
+    {
+      "t": 545.44,
+      "text": "We're really glad you're here with us today."
+    },
+    {
+      "t": 547.48,
+      "text": "I'm Olivia."
+    },
+    {
+      "t": 548.76,
+      "text": "And I'm Daniel."
+    },
+    {
+      "t": 549.76,
+      "text": "Thank you so much for spending part of your day learning English with us."
+    },
+    {
+      "t": 553.68,
+      "text": "We know your time is valuable, so we're excited to help you build real-world professional"
+    },
+    {
+      "t": 558.88,
+      "text": "communication skills."
+    },
+    {
+      "t": 560.96,
+      "text": "Let me start with a quick question for you."
+    },
+    {
+      "t": 563.4,
+      "text": "If you ever wanted to talk about your salary at work, maybe during a job interview or a"
+    },
+    {
+      "t": 568.18,
+      "text": "performance review, but you weren't sure how to say it in English without sounding too"
+    },
+    {
+      "t": 572.62,
+      "text": "direct or uncomfortable?"
+    },
+    {
+      "t": 574.74,
+      "text": "Yes, and honestly, that's one of the most common challenges people face in professional"
+    },
+    {
+      "t": 579.62,
+      "text": "English."
+    },
+    {
+      "t": 581.1,
+      "text": "Salary conversations can feel stressful because they involve money, expectations, and sometimes"
+    },
+    {
+      "t": 586.78,
+      "text": "cultural differences."
+    },
+    {
+      "t": 588.78,
+      "text": "Exactly."
+    },
+    {
+      "t": 589.78,
+      "text": "And today, we're going to make it much easier for you."
+    },
+    {
+      "t": 593.1,
+      "text": "We're going to explore how professionals talk about salary naturally and confidently"
+    },
+    {
+      "t": 597.82,
+      "text": "in English-speaking workplaces."
+    },
+    {
+      "t": 600.06,
+      "text": "By the end of this episode, you'll have practical phrases you can use immediately, and you'll"
+    },
+    {
+      "t": 605.26,
+      "text": "understand the mindset behind professional salary conversations."
+    },
+    {
+      "t": 610.62,
+      "text": "Before we begin, think about your own experience."
+    },
+    {
+      "t": 613.74,
+      "text": "Maybe you avoided asking about salary because you felt nervous, or maybe you translated"
+    },
+    {
+      "t": 618.7,
+      "text": "directly from your native language and it didn't sound quite right."
+    },
+    {
+      "t": 622.98,
+      "text": "That happens all the time."
+    },
+    {
+      "t": 624.98,
+      "text": "One of the biggest mistakes learners make is translating directly."
+    },
+    {
+      "t": 629.3,
+      "text": "Even if the grammar is correct, the tone can sound too strong or too personal."
+    },
+    {
+      "t": 634.62,
+      "text": "Yes, because in many English-speaking workplaces, salary discussions are usually indirect."
+    },
+    {
+      "t": 641.34,
+      "text": "People rarely talk about money in a very blunt way."
+    },
+    {
+      "t": 644.64,
+      "text": "For example, asking a colleague, how much do you earn might feel normal in some cultures,"
+    },
+    {
+      "t": 650.6,
+      "text": "But in many professional English environments, it can feel too private."
+    },
+    {
+      "t": 655.12,
+      "text": "Instead, professionals often focus on topics like growth, responsibilities, or compensation,"
+    },
+    {
+      "t": 661.52,
+      "text": "rather than just saying money."
+    },
+    {
+      "t": 663.92,
+      "text": "So instead of saying, I want more money, a more natural phrase might be, I'd like to"
+    },
+    {
+      "t": 669.0,
+      "text": "discuss my compensation."
+    },
+    {
+      "t": 671.44,
+      "text": "That sounds much more professional and less emotional."
+    },
+    {
+      "t": 674.72,
+      "text": "Another example is during job interviews."
+    },
+    {
+      "t": 677.44,
+      "text": "Some learners say, how much will you pay me, which sounds a little direct."
+    },
+    {
+      "t": 682.48,
+      "text": "A better option is, could you share the salary range for this position?"
+    },
+    {
+      "t": 686.76,
+      "text": "It sounds respectful and shows you understand professional communication."
+    },
+    {
+      "t": 691.08,
+      "text": "Let's talk about why wording matters so much."
+    },
+    {
+      "t": 694.8,
+      "text": "Salary conversations are not just about information, they're about relationships"
+    },
+    {
+      "t": 699.16,
+      "text": "and professionalism."
+    },
+    {
+      "t": 701.04,
+      "text": "Yes, language reflects attitude."
+    },
+    {
+      "t": 703.92,
+      "text": "If your words sound demanding, people may assume you're difficult to work with, even"
+    },
+    {
+      "t": 708.1,
+      "text": "if that's not true."
+    },
+    {
+      "t": 709.7,
+      "text": "And if you sound too indirect or unsure, you might not communicate your needs clearly."
+    },
+    {
+      "t": 715.98,
+      "text": "So the goal is balance, polite but confident."
+    },
+    {
+      "t": 720.06,
+      "text": "Exactly."
+    },
+    {
+      "t": 721.06,
+      "text": "Now, let's look at some useful vocabulary because many learners get confused by similar"
+    },
+    {
+      "t": 726.54,
+      "text": "words."
+    },
+    {
+      "t": 727.54,
+      "text": "Salary usually means a fixed amount of money paid regularly, often monthly or yearly."
+    },
+    {
+      "t": 734.0,
+      "text": "Wages typically refer to hourly pay."
+    },
+    {
+      "t": 737.32,
+      "text": "And compensation is a broader professional term that includes salary plus benefits."
+    },
+    {
+      "t": 743.76,
+      "text": "Benefits can include health insurance, vacation days, bonuses, flexible working hours, or"
+    },
+    {
+      "t": 749.36,
+      "text": "training opportunities."
+    },
+    {
+      "t": 751.48,
+      "text": "So when someone asks about the compensation package, they are asking about the complete"
+    },
+    {
+      "t": 756.44,
+      "text": "offer, not just the salary number."
+    },
+    {
+      "t": 759.28,
+      "text": "Another important difference is between a raise and a promotion."
+    },
+    {
+      "t": 763.68,
+      "text": "A raise means more money, but the same role."
+    },
+    {
+      "t": 766.68,
+      "text": "A promotion means new responsibilities or a higher position, which may include more"
+    },
+    {
+      "t": 772.2,
+      "text": "money."
+    },
+    {
+      "t": 773.2,
+      "text": "Understanding these differences helps you sound more professional and precise."
+    },
+    {
+      "t": 777.56,
+      "text": "Let's imagine a real-life situation."
+    },
+    {
+      "t": 779.8,
+      "text": "You're working in a company, and after one year, you feel ready to talk about"
+    },
+    {
+      "t": 784.12,
+      "text": "salary growth."
+    },
+    {
+      "t": 786.0,
+      "text": "Many learners might say, I need more money, but that sounds emotional and personal."
+    },
+    {
+      "t": 791.32,
+      "text": "Instead, you could say, I'd like to review my compensation based on my recent contributions."
+    },
+    {
+      "t": 797.42,
+      "text": "Notice how that focuses on value rather than need."
+    },
+    {
+      "t": 800.96,
+      "text": "Yes, professional English often focuses on results and performance."
+    },
+    {
+      "t": 806.48,
+      "text": "Another good phrase is, I've taken on additional responsibilities recently and I was hoping"
+    },
+    {
+      "t": 811.22,
+      "text": "we could revisit my salary."
+    },
+    {
+      "t": 813.38,
+      "text": "That sounds respectful and confident at the same time."
+    },
+    {
+      "t": 817.62,
+      "text": "Let's talk about tone for a moment because tone is just as important as vocabulary."
+    },
+    {
+      "t": 822.9,
+      "text": "Absolutely."
+    },
+    {
+      "t": 824.16,
+      "text": "Even perfect grammar can sound wrong if the tone feels too strong."
+    },
+    {
+      "t": 829.58,
+      "text": "Softening phrases are extremely useful."
+    },
+    {
+      "t": 832.18,
+      "text": "For example, I was wondering if, or would it be possible to?"
+    },
+    {
+      "t": 836.76,
+      "text": "These phrases reduce pressure and make your requests sound collaborative."
+    },
+    {
+      "t": 841.5,
+      "text": "Here's another tip."
+    },
+    {
+      "t": 843.0,
+      "text": "comparing yourself directly to co-workers. Yes, saying something like,"
+    },
+    {
+      "t": 847.4,
+      "text": "my co-worker earns more than me can sound negative or confrontational."
+    },
+    {
+      "t": 852.44,
+      "text": "Instead, focus on your own achievements. For example, based on my performance and"
+    },
+    {
+      "t": 857.8,
+      "text": "contributions, I'd like to discuss a salary adjustment."
+    },
+    {
+      "t": 861.72,
+      "text": "Let's also talk about common mistakes. Some learners say, I gain salary. But in English,"
+    },
+    {
+      "t": 867.72,
+      "text": "we say, I earn or I make."
+    },
+    {
+      "t": 870.96,
+      "text": "Another mistake is saying expensive salary."
+    },
+    {
+      "t": 874.0,
+      "text": "We say high salary or competitive salary."
+    },
+    {
+      "t": 878.02,
+      "text": "And remember, money is uncountable, so we don't say a-money."
+    },
+    {
+      "t": 882.56,
+      "text": "Now let's imagine another scenario, a job interview."
+    },
+    {
+      "t": 886.36,
+      "text": "When is the right time to ask about salary?"
+    },
+    {
+      "t": 889.72,
+      "text": "Usually after you understand the role and responsibilities, asking too early may make"
+    },
+    {
+      "t": 894.36,
+      "text": "it seem like you're only interested in money."
+    },
+    {
+      "t": 896.84,
+      "text": "A professional way to ask could be,"
+    },
+    {
+      "t": 899.0,
+      "text": "could you tell me more about the compensation structure for this role?"
+    },
+    {
+      "t": 903.0,
+      "text": "That sounds professional and shows awareness of business culture."
+    },
+    {
+      "t": 906.6,
+      "text": "Here's something important."
+    },
+    {
+      "t": 908.04,
+      "text": "Confidence doesn't mean being aggressive."
+    },
+    {
+      "t": 911.16,
+      "text": "Confidence means speaking clearly and respectfully."
+    },
+    {
+      "t": 915.0,
+      "text": "Yes, and preparation helps."
+    },
+    {
+      "t": 917.24,
+      "text": "Before a salary conversation, think about your achievements and examples."
+    },
+    {
+      "t": 921.56,
+      "text": "Write them down if necessary."
+    },
+    {
+      "t": 923.56,
+      "text": "And practice saying your phrases out loud."
+    },
+    {
+      "t": 926.52,
+      "text": "Speaking aloud helps you sound natural during real conversations."
+    },
+    {
+      "t": 931.0,
+      "text": "Let's do a quick example together."
+    },
+    {
+      "t": 933.12,
+      "text": "Okay, imagine you want to start a salary conversation."
+    },
+    {
+      "t": 936.88,
+      "text": "You might say, thank you for meeting with me."
+    },
+    {
+      "t": 939.24,
+      "text": "I've really enjoyed contributing to recent projects,"
+    },
+    {
+      "t": 942.2,
+      "text": "and I'd like to discuss my compensation moving forward."
+    },
+    {
+      "t": 945.68,
+      "text": "That sounds calm, professional, and focused on growth."
+    },
+    {
+      "t": 949.28,
+      "text": "And notice there's no pressure or emotional language."
+    },
+    {
+      "t": 953.0,
+      "text": "Exactly, that's the key."
+    },
+    {
+      "t": 955.36,
+      "text": "As we come to the end of today's episode, remember that salary conversations are normal"
+    },
+    {
+      "t": 960.28,
+      "text": "parts of professional life."
+    },
+    {
+      "t": 962.64,
+      "text": "With the right language, you can sound confident, respectful, and professional."
+    },
+    {
+      "t": 967.4,
+      "text": "Practice the phrases you learned today and try using them in different situations."
+    },
+    {
+      "t": 971.88,
+      "text": "Thank you so much for learning with us today."
+    },
+    {
+      "t": 974.44,
+      "text": "Keep practicing, stay confident, and we'll see you next time."
+    },
+    {
+      "t": 978.24,
+      "text": "Bye, everyone."
+    },
+    {
+      "t": 979.24,
+      "text": "Bye."
+    },
+    {
+      "t": 980.53,
+      "text": "Hello, everyone, and welcome back to our Business English podcast."
+    },
+    {
+      "t": 985.25,
+      "text": "really happy you're joining us today. I'm Maya. And I'm Leo. Thanks for listening and"
+    },
+    {
+      "t": 990.21,
+      "text": "continuing your English learning journey with us. Today we're going to talk about something"
+    },
+    {
+      "t": 995.09,
+      "text": "that many professionals find challenging, discussing salary at work in English. Yes,"
+    },
+    {
+      "t": 1001.09,
+      "text": "and if you've ever felt nervous about bringing up salary, you're definitely not alone."
+    },
+    {
+      "t": 1005.73,
+      "text": "Even highly experienced professionals sometimes feel uncomfortable talking about compensation."
+    },
+    {
+      "t": 1010.69,
+      "text": "That's true. Money conversations can feel sensitive because they combine business expectations"
+    },
+    {
+      "t": 1016.53,
+      "text": "with personal value. And when you add a second language into the situation, it can feel even"
+    },
+    {
+      "t": 1022.29,
+      "text": "more complicated. Exactly. Some people worry about sounding rude or too direct. Others"
+    },
+    {
+      "t": 1028.05,
+      "text": "worry that they won't sound confident enough. So today, we'll explore how to talk about"
+    },
+    {
+      "t": 1033.25,
+      "text": "salary clearly and professionally without creating awkward moments. Let's start with"
+    },
+    {
+      "t": 1038.61,
+      "text": "something important. In many English-speaking workplaces, the way you talk about salary"
+    },
+    {
+      "t": 1043.81,
+      "text": "is just as important as what you say. Yes, because communication style reflects professionalism."
+    },
+    {
+      "t": 1050.37,
+      "text": "For example, saying, I deserve more money might sound strong or emotional. But if you say,"
+    },
+    {
+      "t": 1056.61,
+      "text": "I'd like to discuss my compensation in relation to my recent achievements,"
+    },
+    {
+      "t": 1061.17,
+      "text": "the meaning is similar, but the tone feels more professional. And tone matters a lot"
+    },
+    {
+      "t": 1066.53,
+      "text": "in business communication. Professionals often use softer language that sounds collaborative"
+    },
+    {
+      "t": 1071.73,
+      "text": "instead of demanding. Another common challenge is knowing when to bring up salary. Some learners"
+    },
+    {
+      "t": 1077.17,
+      "text": "ask too early in a job interview, which can make it seem like salary is their only priority."
+    },
+    {
+      "t": 1082.77,
+      "text": "A more strategic approach is to first discuss responsibilities, expectations,"
+    },
+    {
+      "t": 1087.73,
+      "text": "and company culture. Once those topics are clear, then you can ask about compensation."
+    },
+    {
+      "t": 1093.09,
+      "text": "For example, you could say, could you share more details about the salary structure for"
+    },
+    {
+      "t": 1097.49,
+      "text": "this role?"
+    },
+    {
+      "t": 1098.49,
+      "text": "That sounds professional and shows genuine interest in the position."
+    },
+    {
+      "t": 1102.01,
+      "text": "Let's talk about vocabulary, because using the right words can make a big difference."
+    },
+    {
+      "t": 1107.01,
+      "text": "Many learners use the word money, but professionals often use more specific terms."
+    },
+    {
+      "t": 1111.85,
+      "text": "Yes, words like compensation, remuneration, benefits, or package sound more business-oriented."
+    },
+    {
+      "t": 1118.89,
+      "text": "For example, instead of saying, how much money will I get, you could say, what does the compensation"
+    },
+    {
+      "t": 1124.57,
+      "text": "package include?"
+    },
+    {
+      "t": 1125.97,
+      "text": "Another important distinction is between base salary and bonuses."
+    },
+    {
+      "t": 1130.33,
+      "text": "Base salary is the fixed amount you receive regularly, while bonuses are additional payments"
+    },
+    {
+      "t": 1136.01,
+      "text": "based on performance or company results."
+    },
+    {
+      "t": 1138.77,
+      "text": "And don't forget about perks or benefits like flexible working hours, remote options,"
+    },
+    {
+      "t": 1144.09,
+      "text": "or professional development opportunities."
+    },
+    {
+      "t": 1146.73,
+      "text": "Sometimes these benefits can be just as valuable as the salary itself."
+    },
+    {
+      "t": 1150.45,
+      "text": "Now let's imagine a situation where you want to ask for a salary increase."
+    },
+    {
+      "t": 1155.13,
+      "text": "Many learners think they need to be very direct to sound confident."
+    },
+    {
+      "t": 1158.73,
+      "text": "But professional confidence usually sounds calm rather than aggressive."
+    },
+    {
+      "t": 1163.13,
+      "text": "For example, instead of saying, I want a raise, you might say, I'd appreciate the"
+    },
+    {
+      "t": 1168.53,
+      "text": "opportunity to review my current compensation."
+    },
+    {
+      "t": 1171.37,
+      "text": "That sounds respectful while still communicating your goal."
+    },
+    {
+      "t": 1175.17,
+      "text": "Another helpful strategy is to connect your request to specific achievements."
+    },
+    {
+      "t": 1179.45,
+      "text": "Yes."
+    },
+    {
+      "t": 1180.45,
+      "text": "You could say, over the past year, I've taken on additional responsibilities and delivered"
+    },
+    {
+      "t": 1185.01,
+      "text": "several successful projects."
+    },
+    {
+      "t": 1187.33,
+      "text": "So I was hoping we could discuss a salary adjustment."
+    },
+    {
+      "t": 1190.65,
+      "text": "That focuses on value, which is key in professional discussions."
+    },
+    {
+      "t": 1194.69,
+      "text": "Let's also talk about common mistakes."
+    },
+    {
+      "t": 1197.17,
+      "text": "Some learners use very casual language like paycheck or cash in professional conversations,"
+    },
+    {
+      "t": 1203.81,
+      "text": "may sound too informal. Right. Using more formal vocabulary helps you sound professional"
+    },
+    {
+      "t": 1209.55,
+      "text": "and prepared. Another mistake is apologizing too much, saying sorry to bother you, or this"
+    },
+    {
+      "t": 1215.73,
+      "text": "may be a bad question, can reduce your confidence. Instead, try neutral and confident phrases,"
+    },
+    {
+      "t": 1222.37,
+      "text": "like, I'd like to talk about my career development and compensation. Confidence doesn't mean"
+    },
+    {
+      "t": 1227.61,
+      "text": "being aggressive. It means being clear and respectful. Here's something interesting."
+    },
+    {
+      "t": 1232.71,
+      "text": "In some cultures, people talk openly about salary with co-workers."
+    },
+    {
+      "t": 1236.87,
+      "text": "But in many English-speaking environments, salary is considered private."
+    },
+    {
+      "t": 1240.75,
+      "text": "So asking colleagues directly about their income might feel uncomfortable for them."
+    },
+    {
+      "t": 1245.51,
+      "text": "Instead, professionals research market salaries online or talk to recruiters about typical"
+    },
+    {
+      "t": 1250.51,
+      "text": "ranges."
+    },
+    {
+      "t": 1251.51,
+      "text": "Let's imagine another example."
+    },
+    {
+      "t": 1253.15,
+      "text": "You're negotiating a job offer."
+    },
+    {
+      "t": 1254.83,
+      "text": "A professional response could be, thank you for the offer."
+    },
+    {
+      "t": 1258.23,
+      "text": "I'm very interested in the role."
+    },
+    {
+      "t": 1260.39,
+      "text": "Could there be flexibility in the salary range?"
+    },
+    {
+      "t": 1263.03,
+      "text": "That shows appreciation while opening the door for negotiation."
+    },
+    {
+      "t": 1267.23,
+      "text": "Notice how the language stays positive and collaborative."
+    },
+    {
+      "t": 1270.27,
+      "text": "Exactly."
+    },
+    {
+      "t": 1271.77,
+      "text": "Negotiation is not a conflict, it's a conversation."
+    },
+    {
+      "t": 1274.63,
+      "text": "One more tip, practice saying these phrases out loud."
+    },
+    {
+      "t": 1278.47,
+      "text": "Reading silently is helpful, but speaking builds confidence."
+    },
+    {
+      "t": 1282.07,
+      "text": "Yes, because in real situations, you need to respond quickly and naturally."
+    },
+    {
+      "t": 1286.87,
+      "text": "Before we finish, remember that salary conversations are normal parts of professional life."
+    },
+    {
+      "t": 1291.75,
+      "text": "With the right language and mindset, you can handle them calmly and professionally."
+    },
+    {
+      "t": 1296.19,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 1298.15,
+      "text": "Keep practicing your business English, stay confident, and we'll see you in the next"
+    },
+    {
+      "t": 1302.19,
+      "text": "episode."
+    },
+    {
+      "t": 1303.19,
+      "text": "Bye, everyone."
+    },
+    {
+      "t": 1304.19,
+      "text": "Bye."
+    },
+    {
+      "t": 1307.24,
+      "text": "Hello, everyone, and welcome back to the channel."
+    },
+    {
+      "t": 1309.44,
+      "text": "We're really glad you're here with us today."
+    },
+    {
+      "t": 1311.76,
+      "text": "This is your Business English Podcast, where we help you sound more natural and confident"
+    },
+    {
+      "t": 1316.32,
+      "text": "at work."
+    },
+    {
+      "t": 1317.32,
+      "text": "I'm Marco."
+    },
+    {
+      "t": 1318.8,
+      "text": "I'm Erica. Thanks for choosing to practice your English with us today. Let me start with"
+    },
+    {
+      "t": 1323.84,
+      "text": "a simple question. When you hear the word salary, how do you feel?"
+    },
+    {
+      "t": 1329.04,
+      "text": "Nervous? Uncomfortable? Maybe even stressed?"
+    },
+    {
+      "t": 1332.96,
+      "text": "You're not alone. Talking about salary is one of the most uncomfortable work conversations,"
+    },
+    {
+      "t": 1338.48,
+      "text": "especially in English."
+    },
+    {
+      "t": 1340.28,
+      "text": "I remember one of my students telling me she worked at her company for three years"
+    },
+    {
+      "t": 1344.36,
+      "text": "without ever asking about a raise. Not because she didn't deserve one, but because she didn't"
+    },
+    {
+      "t": 1349.32,
+      "text": "know how to talk about it in English. And that's exactly why today's topic matters."
+    },
+    {
+      "t": 1355.48,
+      "text": "Today we're going to show you how to talk about salary at work in English in a way"
+    },
+    {
+      "t": 1359.92,
+      "text": "that sounds professional, polite, and culturally appropriate."
+    },
+    {
+      "t": 1364.4,
+      "text": "By the end of this episode, you'll know how to ask about salary in interviews, how"
+    },
+    {
+      "t": 1368.72,
+      "text": "to talk about raises without sounding demanding, and how to avoid common mistakes that"
+    },
+    {
+      "t": 1373.72,
+      "text": "make conversations awkward. Before we begin, think about this. What's harder for you?"
+    },
+    {
+      "t": 1379.92,
+      "text": "Asking about salary in an interview or asking your manager for a raise?"
+    },
+    {
+      "t": 1384.92,
+      "text": "Keep that in mind as we go through today's episode. And if you're enjoying this podcast,"
+    },
+    {
+      "t": 1389.44,
+      "text": "don't forget to like, subscribe, and share it with a friend who's learning English."
+    },
+    {
+      "t": 1393.8,
+      "text": "Alright, let's dive in. First, we need to talk about culture, because salary conversations"
+    },
+    {
+      "t": 1399.68,
+      "text": "are not just about language, they're about culture."
+    },
+    {
+      "t": 1403.36,
+      "text": "In many English-speaking workplaces, money is considered a sensitive topic."
+    },
+    {
+      "t": 1408.38,
+      "text": "People usually avoid talking about exact numbers openly."
+    },
+    {
+      "t": 1411.64,
+      "text": "That's why asking someone directly, how much do you get paid, can feel uncomfortable or"
+    },
+    {
+      "t": 1417.36,
+      "text": "even rude."
+    },
+    {
+      "t": 1418.68,
+      "text": "Instead, English speakers use indirect language, not because they're hiding something, but"
+    },
+    {
+      "t": 1423.68,
+      "text": "because indirect language sounds respectful."
+    },
+    {
+      "t": 1426.24,
+      "text": "Let's look at three common ways people talk about salary."
+    },
+    {
+      "t": 1430.12,
+      "text": "Bad, better, and best."
+    },
+    {
+      "t": 1432.72,
+      "text": "First, the two direct level."
+    },
+    {
+      "t": 1435.48,
+      "text": "These phrases are grammatically correct, but culturally risky."
+    },
+    {
+      "t": 1440.04,
+      "text": "Examples include, how much money do I get, or when will you increase my salary?"
+    },
+    {
+      "t": 1445.32,
+      "text": "These sentences sound demanding, even if you don't mean them that way."
+    },
+    {
+      "t": 1449.24,
+      "text": "Now let's move to the middle level."
+    },
+    {
+      "t": 1451.48,
+      "text": "These phrases are not terrible, but still not ideal."
+    },
+    {
+      "t": 1455.16,
+      "text": "For example, my pay is low, or this job doesn't pay well."
+    },
+    {
+      "t": 1459.76,
+      "text": "They sound negative and emotional, which is something English speakers usually avoid"
+    },
+    {
+      "t": 1464.24,
+      "text": "at work."
+    },
+    {
+      "t": 1465.24,
+      "text": "Now, here's the level we want you to use, the professional level."
+    },
+    {
+      "t": 1469.56,
+      "text": "At this level, we talk about salary using calm, business-focused language."
+    },
+    {
+      "t": 1474.76,
+      "text": "Instead of how much will I earn, say, what's the salary range for this position?"
+    },
+    {
+      "t": 1480.2,
+      "text": "Instead of I want to raise, say, I'd like to talk about my compensation."
+    },
+    {
+      "t": 1484.92,
+      "text": "Or is there an opportunity for growth in this role?"
+    },
+    {
+      "t": 1488.4,
+      "text": "Notice how these phrases feel softer but more confident."
+    },
+    {
+      "t": 1492.1,
+      "text": "That's because they turn the conversation into a discussion, not a demand."
+    },
+    {
+      "t": 1496.36,
+      "text": "Now let's practice."
+    },
+    {
+      "t": 1498.32,
+      "text": "Imagine you're in a job interview."
+    },
+    {
+      "t": 1499.96,
+      "text": "The interviewer asks, do you have any questions for us?"
+    },
+    {
+      "t": 1503.4,
+      "text": "A professional answer would be, yes, could you share the salary range and benefits for"
+    },
+    {
+      "t": 1508.26,
+      "text": "this role?"
+    },
+    {
+      "t": 1509.52,
+      "text": "That sounds calm, confident and respectful."
+    },
+    {
+      "t": 1512.64,
+      "text": "Now let's talk about vocabulary."
+    },
+    {
+      "t": 1514.78,
+      "text": "This is where many learners get confused."
+    },
+    {
+      "t": 1517.44,
+      "text": "Let's start with salary."
+    },
+    {
+      "t": 1519.56,
+      "text": "Salary is a fixed amount of money paid monthly or yearly."
+    },
+    {
+      "t": 1523.44,
+      "text": "If you are in the same amount every month, you have a salary."
+    },
+    {
+      "t": 1527.24,
+      "text": "Wages are different."
+    },
+    {
+      "t": 1528.6,
+      "text": "Wages are paid by the hour."
+    },
+    {
+      "t": 1530.42,
+      "text": "If someone says, I make $18 an hour, they earn wages."
+    },
+    {
+      "t": 1534.72,
+      "text": "Pay is more casual."
+    },
+    {
+      "t": 1536.4,
+      "text": "You might say, the pay is okay when talking to friends."
+    },
+    {
+      "t": 1539.92,
+      "text": "But in professional situations, salary or compensation sounds better."
+    },
+    {
+      "t": 1544.84,
+      "text": "means all the money you earn, not just from your job."
+    },
+    {
+      "t": 1548.16,
+      "text": "Now let's talk about raises and promotions because these are often confused."
+    },
+    {
+      "t": 1552.56,
+      "text": "A raise means more money, same job."
+    },
+    {
+      "t": 1555.84,
+      "text": "A promotion means a higher position, more responsibility, and usually more money, but"
+    },
+    {
+      "t": 1560.96,
+      "text": "not always."
+    },
+    {
+      "t": 1563.0,
+      "text": "Benefits are also important."
+    },
+    {
+      "t": 1564.92,
+      "text": "Benefits are the extra things your company gives you."
+    },
+    {
+      "t": 1567.8,
+      "text": "Health insurance, paid leave, bonuses, and retirement plans are all benefits."
+    },
+    {
+      "t": 1572.72,
+      "text": "Together, salary and benefits are called your compensation package."
+    },
+    {
+      "t": 1577.32,
+      "text": "Now let's talk about mistakes learners often make."
+    },
+    {
+      "t": 1580.52,
+      "text": "Mistake 1 – Asking co-workers directly about their salary."
+    },
+    {
+      "t": 1584.8,
+      "text": "Instead, ask about the salary range for a role or research online."
+    },
+    {
+      "t": 1589.84,
+      "text": "Mistake 2 – Using emotional language."
+    },
+    {
+      "t": 1593.0,
+      "text": "For example, I need more money focuses on personal problems."
+    },
+    {
+      "t": 1597.44,
+      "text": "A better option is, based on my responsibilities, I'd like to discuss my compensation."
+    },
+    {
+      "t": 1604.0,
+      "text": "Mistake 3, saying expensive salary."
+    },
+    {
+      "t": 1606.8,
+      "text": "We say high salary or competitive compensation."
+    },
+    {
+      "t": 1610.44,
+      "text": "Now let's hear a short role play."
+    },
+    {
+      "t": 1612.68,
+      "text": "First the wrong way."
+    },
+    {
+      "t": 1614.12,
+      "text": "Hi Sarah, I've been here a long time and I deserve more money."
+    },
+    {
+      "t": 1618.72,
+      "text": "That sounds emotional and uncomfortable."
+    },
+    {
+      "t": 1621.56,
+      "text": "Now the professional version."
+    },
+    {
+      "t": 1623.68,
+      "text": "Hi, Sarah. I was hoping we could talk about my performance and future growth."
+    },
+    {
+      "t": 1627.88,
+      "text": "I've taken on additional responsibilities, and I'd like to discuss my compensation."
+    },
+    {
+      "t": 1632.68,
+      "text": "Much better. Calm, professional, and focused on value."
+    },
+    {
+      "t": 1636.68,
+      "text": "That's the key idea for today."
+    },
+    {
+      "t": 1639.08,
+      "text": "Salary conversations in English are business conversations, not personal ones."
+    },
+    {
+      "t": 1643.68,
+      "text": "If you focus on your contributions, responsibilities, and growth,"
+    },
+    {
+      "t": 1647.68,
+      "text": "you'll sound confident and professional."
+    },
+    {
+      "t": 1650.28,
+      "text": "Before we finish, choose one sentence you heard today and practice saying it out loud."
+    },
+    {
+      "t": 1655.32,
+      "text": "For example, I'd like to discuss my compensation or what's the salary range for this role."
+    },
+    {
+      "t": 1661.08,
+      "text": "Practice makes confidence."
+    },
+    {
+      "t": 1663.0,
+      "text": "Thanks so much for listening today. You're doing great and your English is improving"
+    },
+    {
+      "t": 1667.56,
+      "text": "every time you practice."
+    },
+    {
+      "t": 1669.48,
+      "text": "We'll see you in the next episode. Keep learning, keep practicing,"
+    },
+    {
+      "t": 1672.92,
+      "text": "and don't be afraid to speak up at work."
+    },
+    {
+      "t": 1675.4,
+      "text": "Bye everyone!"
+    },
+    {
+      "t": 1676.12,
+      "text": "Hello everyone and welcome back to our Business English podcast. We're really glad you're"
+    },
+    {
+      "t": 1682.28,
+      "text": "here with us today. Whether this is your first time listening or you've been following"
+    },
+    {
+      "t": 1686.86,
+      "text": "us for a while, thank you for spending your time with us. I'm Erica."
+    },
+    {
+      "t": 1691.88,
+      "text": "And I'm Marco. We really appreciate you being here. Let me ask you something to start."
+    },
+    {
+      "t": 1697.16,
+      "text": "Have you ever wanted to talk about your salary at work in English? Maybe in an"
+    },
+    {
+      "t": 1701.12,
+      "text": "interview or a meeting with your manager, but you didn't know how to say it without"
+    },
+    {
+      "t": 1705.4,
+      "text": "feeling awkward or nervous?"
+    },
+    {
+      "t": 1707.28,
+      "text": "Yeah, or maybe you knew exactly what you wanted, but every sentence you thought of sounded too"
+    },
+    {
+      "t": 1713.52,
+      "text": "direct, too emotional or just unprofessional."
+    },
+    {
+      "t": 1718.0,
+      "text": "That happens all the time."
+    },
+    {
+      "t": 1720.12,
+      "text": "Just last week, one of my students told me she had a performance review coming up."
+    },
+    {
+      "t": 1724.74,
+      "text": "She said, I want to ask about a raise, but every version in my head sounds wrong in English."
+    },
+    {
+      "t": 1730.88,
+      "text": "And honestly, that's completely normal."
+    },
+    {
+      "t": 1734.0,
+      "text": "Talking about salary is stressful even in your own language."
+    },
+    {
+      "t": 1737.72,
+      "text": "Doing it in English, especially at work, makes it even harder."
+    },
+    {
+      "t": 1742.04,
+      "text": "Exactly."
+    },
+    {
+      "t": 1743.04,
+      "text": "That's why today we're talking about how to talk about salary at work in English in"
+    },
+    {
+      "t": 1747.44,
+      "text": "a calm, professional, and natural way."
+    },
+    {
+      "t": 1750.52,
+      "text": "By the end of this episode, you'll know how to ask about salary in interviews, how"
+    },
+    {
+      "t": 1755.24,
+      "text": "to talk about raises and pay reviews, and how to avoid the common mistakes that make"
+    },
+    {
+      "t": 1760.84,
+      "text": "conversations about money uncomfortable."
+    },
+    {
+      "t": 1763.96,
+      "text": "And something really important here is culture."
+    },
+    {
+      "t": 1766.76,
+      "text": "In many English-speaking workplaces, money is considered a sensitive topic."
+    },
+    {
+      "t": 1771.96,
+      "text": "Right."
+    },
+    {
+      "t": 1772.96,
+      "text": "People usually don't talk openly about how much they earn, especially with coworkers."
+    },
+    {
+      "t": 1778.52,
+      "text": "Asking very direct questions about salary can feel too personal."
+    },
+    {
+      "t": 1783.0,
+      "text": "So instead of being direct, native speakers use softer, more indirect language."
+    },
+    {
+      "t": 1788.48,
+      "text": "It keeps the conversation professional and respectful."
+    },
+    {
+      "t": 1791.96,
+      "text": "That's why saying something like, I need more money doesn't sound right at work, even if"
+    },
+    {
+      "t": 1797.16,
+      "text": "it's true."
+    },
+    {
+      "t": 1798.66,
+      "text": "Exactly."
+    },
+    {
+      "t": 1799.66,
+      "text": "At work, salary conversations are framed as business discussions, not personal ones."
+    },
+    {
+      "t": 1804.68,
+      "text": "We talk about value, responsibilities, and growth."
+    },
+    {
+      "t": 1808.44,
+      "text": "Let's talk about directness for a moment."
+    },
+    {
+      "t": 1810.96,
+      "text": "Some phrases are very risky in professional English."
+    },
+    {
+      "t": 1814.76,
+      "text": "For example, saying, how much money do you earn, or when will you give me more money?"
+    },
+    {
+      "t": 1819.88,
+      "text": "These sentences are grammatically correct, but they sound aggressive."
+    },
+    {
+      "t": 1824.28,
+      "text": "And the problem is, people usually won't tell you it sounds wrong, they'll just"
+    },
+    {
+      "t": 1828.96,
+      "text": "feel uncomfortable and silently judge your professionalism."
+    },
+    {
+      "t": 1832.92,
+      "text": "I remember once in an office meeting someone said, my salary is unfair."
+    },
+    {
+      "t": 1837.96,
+      "text": "The manager didn't argue, but the conversation became very tense."
+    },
+    {
+      "t": 1842.4,
+      "text": "Exactly."
+    },
+    {
+      "t": 1843.48,
+      "text": "The idea might be valid, but the language is too strong."
+    },
+    {
+      "t": 1847.72,
+      "text": "Now let's look at better alternatives."
+    },
+    {
+      "t": 1850.48,
+      "text": "Instead of saying, I need more money, you can say, I'd like to discuss my compensation."
+    },
+    {
+      "t": 1856.08,
+      "text": "Or instead of, how much will you pay me in an interview, you can ask, what's the"
+    },
+    {
+      "t": 1861.08,
+      "text": "salary range for this position?"
+    },
+    {
+      "t": 1863.88,
+      "text": "These phrases sound calmer and more professional."
+    },
+    {
+      "t": 1866.8,
+      "text": "You're opening a conversation, not making a demand."
+    },
+    {
+      "t": 1870.48,
+      "text": "And notice the vocabulary."
+    },
+    {
+      "t": 1872.6,
+      "text": "In professional settings, we often use words like salary, compensation, and package instead"
+    },
+    {
+      "t": 1879.32,
+      "text": "of just money."
+    },
+    {
+      "t": 1880.76,
+      "text": "Yes, salary usually means a fixed amount you earn monthly or yearly."
+    },
+    {
+      "t": 1886.56,
+      "text": "Compensation is even more professional because it includes salary plus benefits."
+    },
+    {
+      "t": 1891.64,
+      "text": "That's why HR and managers often say compensation package."
+    },
+    {
+      "t": 1896.56,
+      "text": "Now let's talk about asking for raise, because this is one of the hardest conversations for"
+    },
+    {
+      "t": 1901.46,
+      "text": "learners."
+    },
+    {
+      "t": 1902.6,
+      "text": "The biggest mistake people make is talking about personal problems."
+    },
+    {
+      "t": 1906.88,
+      "text": "Saying things like, my rent is higher or I need more money doesn't help."
+    },
+    {
+      "t": 1913.06,
+      "text": "Managers make salary decisions based on performance, not personal situations."
+    },
+    {
+      "t": 1917.88,
+      "text": "So instead, you should talk about what you've contributed."
+    },
+    {
+      "t": 1921.68,
+      "text": "For example, I've taken on additional responsibilities, or I've successfully completed several projects."
+    },
+    {
+      "t": 1929.24,
+      "text": "Then connect that to salary."
+    },
+    {
+      "t": 1931.2,
+      "text": "You can say, based on my contributions, I'd like to discuss my compensation."
+    },
+    {
+      "t": 1936.64,
+      "text": "Let's do a short example."
+    },
+    {
+      "t": 1938.12,
+      "text": "I'll be the manager."
+    },
+    {
+      "t": 1939.96,
+      "text": "Okay."
+    },
+    {
+      "t": 1940.96,
+      "text": "Hi, Daniel."
+    },
+    {
+      "t": 1942.08,
+      "text": "What would you like to talk about today?"
+    },
+    {
+      "t": 1944.16,
+      "text": "Thanks for meeting me."
+    },
+    {
+      "t": 1945.16,
+      "text": "I've really enjoyed working here, and over the past year I've taken on more responsibility,"
+    },
+    {
+      "t": 1950.6,
+      "text": "including leading two key projects. Based on my performance, I was hoping we could discuss"
+    },
+    {
+      "t": 1955.64,
+      "text": "my compensation in future growth."
+    },
+    {
+      "t": 1958.4,
+      "text": "That sounds very professional, calm, clear, and focused on value."
+    },
+    {
+      "t": 1963.72,
+      "text": "Notice I didn't say I want to raise. I said discuss my compensation."
+    },
+    {
+      "t": 1968.68,
+      "text": "Exactly. Now let's quickly talk about some common mistakes learners make."
+    },
+    {
+      "t": 1973.92,
+      "text": "One common mistake is saying expensive salary."
+    },
+    {
+      "t": 1977.12,
+      "text": "We don't use expensive for salaries."
+    },
+    {
+      "t": 1979.38,
+      "text": "We say high salary or competitive salary."
+    },
+    {
+      "t": 1983.08,
+      "text": "Another mistake is saying, I gain a salary."
+    },
+    {
+      "t": 1986.44,
+      "text": "In English, we earn or make money."
+    },
+    {
+      "t": 1988.76,
+      "text": "We don't gain it."
+    },
+    {
+      "t": 1990.4,
+      "text": "And a big one is confusing raise and promotion."
+    },
+    {
+      "t": 1993.64,
+      "text": "A raise is more money."
+    },
+    {
+      "t": 1995.44,
+      "text": "A promotion is a new position."
+    },
+    {
+      "t": 1997.88,
+      "text": "Now let's do a quick practice for listeners."
+    },
+    {
+      "t": 2000.76,
+      "text": "Try saying this sentence out loud."
+    },
+    {
+      "t": 2003.08,
+      "text": "I'd like to discuss my compensation based on my recent performance."
+    },
+    {
+      "t": 2007.88,
+      "text": "And now this one."
+    },
+    {
+      "t": 2009.28,
+      "text": "Could you tell me the salary range for this role?"
+    },
+    {
+      "t": 2012.3,
+      "text": "If you can say those comfortably, you're already sounding professional."
+    },
+    {
+      "t": 2016.74,
+      "text": "So let's wrap up."
+    },
+    {
+      "t": 2018.14,
+      "text": "When talking about salary at work in English, avoid emotional or very direct language."
+    },
+    {
+      "t": 2024.36,
+      "text": "Use professional words like compensation, salary range, and growth."
+    },
+    {
+      "t": 2029.82,
+      "text": "on your value and contributions, not your personal financial needs."
+    },
+    {
+      "t": 2034.62,
+      "text": "And remember, confidence comes from practice."
+    },
+    {
+      "t": 2037.7,
+      "text": "The more you use these phrases, the more natural they'll feel."
+    },
+    {
+      "t": 2041.38,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 2043.54,
+      "text": "Keep practicing, keep learning, and don't be afraid of professional conversations in"
+    },
+    {
+      "t": 2048.02,
+      "text": "English."
+    },
+    {
+      "t": 2049.1,
+      "text": "We believe in you."
+    },
+    {
+      "t": 2050.42,
+      "text": "See you next time."
+    },
+    {
+      "t": 2051.42,
+      "text": "Bye, everyone."
+    },
+    {
+      "t": 2052.42,
+      "text": "Oh, and welcome back to our Business English podcast."
+    },
+    {
+      "t": 2063.97,
+      "text": "We're really glad you're here with us today."
+    },
+    {
+      "t": 2065.97,
+      "text": "I'm Marko."
+    },
+    {
+      "t": 2066.97,
+      "text": "And I'm Erica."
+    },
+    {
+      "t": 2067.97,
+      "text": "Thanks so much for spending a few minutes of your day learning English with us."
+    },
+    {
+      "t": 2071.85,
+      "text": "Let me ask you something."
+    },
+    {
+      "t": 2073.29,
+      "text": "Have you ever wanted to talk about your salary at work?"
+    },
+    {
+      "t": 2076.41,
+      "text": "Maybe in an interview or with your boss, but you didn't know how to say it in English"
+    },
+    {
+      "t": 2080.69,
+      "text": "without sounding rude, awkward, or too direct?"
+    },
+    {
+      "t": 2084.09,
+      "text": "Yeah, maybe you wanted to ask about pay or a raise, but you felt nervous and just"
+    },
+    {
+      "t": 2089.13,
+      "text": "stayed quiet instead."
+    },
+    {
+      "t": 2090.85,
+      "text": "If that sounds like you, don't worry."
+    },
+    {
+      "t": 2092.97,
+      "text": "A lot of English learners avoid salary conversations because they're afraid of making mistakes."
+    },
+    {
+      "t": 2098.41,
+      "text": "And today, we're going to change that."
+    },
+    {
+      "t": 2100.67,
+      "text": "This episode is all about how to talk about salary at work in English, politely, professionally,"
+    },
+    {
+      "t": 2106.49,
+      "text": "and confidently."
+    },
+    {
+      "t": 2107.49,
+      "text": "By the end of this episode, you'll know how to ask about salary in interviews, how"
+    },
+    {
+      "t": 2111.79,
+      "text": "to talk about raises and promotions, and how to understand the cultural rules around"
+    },
+    {
+      "t": 2116.81,
+      "text": "money at work."
+    },
+    {
+      "t": 2118.09,
+      "text": "Before we get started, write in the comments one thing that confuses you about talking"
+    },
+    {
+      "t": 2122.47,
+      "text": "about salary in English. And if you're enjoying the podcast, don't forget to like and subscribe."
+    },
+    {
+      "t": 2127.75,
+      "text": "Alright, let's begin. The first thing you need to understand is this. In many English-speaking"
+    },
+    {
+      "t": 2133.43,
+      "text": "workplaces, money is considered private, so asking someone directly how much do you make"
+    },
+    {
+      "t": 2139.67,
+      "text": "can feel uncomfortable, especially between coworkers. It's not about grammar, it's about"
+    },
+    {
+      "t": 2144.87,
+      "text": "culture. In professional English, people prefer indirect and respectful language. That's why,"
+    },
+    {
+      "t": 2150.31,
+      "text": "instead of talking about money, we use words like compensation, salary range, growth, and value."
+    },
+    {
+      "t": 2157.35,
+      "text": "For example, instead of saying, I want more money, a professional way to say it is,"
+    },
+    {
+      "t": 2162.55,
+      "text": "I'd like to discuss my compensation. And instead of asking, what's your salary in an interview,"
+    },
+    {
+      "t": 2168.47,
+      "text": "you say, what's the salary range for this position? Let's talk about some important"
+    },
+    {
+      "t": 2173.19,
+      "text": "words you'll hear at work. Salary is a fixed amount you earn every month or year."
+    },
+    {
+      "t": 2178.31,
+      "text": "it doesn't change based on hours. Wages are different. Wages are paid by the hour. If you"
+    },
+    {
+      "t": 2184.47,
+      "text": "work more hours, you earn more wages. Pay is a casual word. You might use it with friends,"
+    },
+    {
+      "t": 2190.23,
+      "text": "like, the pay is good at my company. Income is your total money from all sources, including salary,"
+    },
+    {
+      "t": 2196.71,
+      "text": "bonuses, and side work. And compensation package means your salary plus benefits,"
+    },
+    {
+      "t": 2202.31,
+      "text": "like health insurance, vacation time, and retirement plans."
+    },
+    {
+      "t": 2205.99,
+      "text": "So, when someone asks, what does the compensation package include, they're asking about everything,"
+    },
+    {
+      "t": 2212.31,
+      "text": "not just the number."
+    },
+    {
+      "t": 2213.31,
+      "text": "Now let's talk about raises."
+    },
+    {
+      "t": 2215.53,
+      "text": "Arrays means you get more money, but your job title stays the same."
+    },
+    {
+      "t": 2218.81,
+      "text": "A promotion means your role changes, and you usually get more responsibility, and"
+    },
+    {
+      "t": 2224.09,
+      "text": "sometimes more money too."
+    },
+    {
+      "t": 2225.75,
+      "text": "So you don't say, I got a promotion if only your pay went up."
+    },
+    {
+      "t": 2229.73,
+      "text": "You say, I got a raise."
+    },
+    {
+      "t": 2231.41,
+      "text": "Now let's look at how to ask for a raise the right way."
+    },
+    {
+      "t": 2234.57,
+      "text": "First, here's what not to say."
+    },
+    {
+      "t": 2236.57,
+      "text": "I want more money."
+    },
+    {
+      "t": 2237.85,
+      "text": "My salary is too low."
+    },
+    {
+      "t": 2239.57,
+      "text": "That sounds emotional and demanding."
+    },
+    {
+      "t": 2241.67,
+      "text": "Now listen to the professional version."
+    },
+    {
+      "t": 2243.77,
+      "text": "I've really enjoyed working here,"
+    },
+    {
+      "t": 2245.65,
+      "text": "and over the past year,"
+    },
+    {
+      "t": 2246.97,
+      "text": "I've taken on more responsibility."
+    },
+    {
+      "t": 2249.21,
+      "text": "Based on my performance,"
+    },
+    {
+      "t": 2250.61,
+      "text": "I'd like to discuss my compensation."
+    },
+    {
+      "t": 2252.69,
+      "text": "That sounds calm, confident, and professional."
+    },
+    {
+      "t": 2255.89,
+      "text": "Notice how that focuses on value,"
+    },
+    {
+      "t": 2258.05,
+      "text": "not personal problems."
+    },
+    {
+      "t": 2259.61,
+      "text": "In interviews, you also need to be careful."
+    },
+    {
+      "t": 2262.31,
+      "text": "Don't ask, how much will you pay me?"
+    },
+    {
+      "t": 2264.49,
+      "text": "Instead, say, what's the salary range for this role?"
+    },
+    {
+      "t": 2268.17,
+      "text": "Or could you tell me about the compensation package?"
+    },
+    {
+      "t": 2271.33,
+      "text": "Now let's fix some common mistakes."
+    },
+    {
+      "t": 2273.57,
+      "text": "Don't say, I earn a good money."
+    },
+    {
+      "t": 2275.77,
+      "text": "Say, I earn good money."
+    },
+    {
+      "t": 2277.43,
+      "text": "Don't say, that company has expensive salaries."
+    },
+    {
+      "t": 2280.73,
+      "text": "Say, that company offers high salaries"
+    },
+    {
+      "t": 2283.21,
+      "text": "or competitive compensation."
+    },
+    {
+      "t": 2285.09,
+      "text": "And don't say, I gain $50,000 per year."
+    },
+    {
+      "t": 2288.85,
+      "text": "Say, I earn $50,000 per year."
+    },
+    {
+      "t": 2291.73,
+      "text": "Remember, you earn money, you don't gain it."
+    },
+    {
+      "t": 2294.33,
+      "text": "So, today you learned how to use professional, indirect language for salary conversations."
+    },
+    {
+      "t": 2300.01,
+      "text": "You learned to say salary range and compensation instead of just money."
+    },
+    {
+      "t": 2304.41,
+      "text": "You learned to talk about value and growth instead of emotions."
+    },
+    {
+      "t": 2308.31,
+      "text": "Now here's your challenge."
+    },
+    {
+      "t": 2309.99,
+      "text": "Say one professional salary sentence out loud right now."
+    },
+    {
+      "t": 2314.05,
+      "text": "For example, I'd like to discuss my compensation."
+    },
+    {
+      "t": 2317.05,
+      "text": "Or what's the salary range for this position?"
+    },
+    {
+      "t": 2319.61,
+      "text": "If you enjoyed this episode, give us a like and subscribe."
+    },
+    {
+      "t": 2322.69,
+      "text": "And tell us in the comments what business topic you want next."
+    },
+    {
+      "t": 2326.17,
+      "text": "Thanks so much for listening today."
+    },
+    {
+      "t": 2327.85,
+      "text": "Keep practicing."
+    },
+    {
+      "t": 2328.85,
+      "text": "Keep improving."
+    },
+    {
+      "t": 2329.85,
+      "text": "And stay confident."
+    },
+    {
+      "t": 2330.85,
+      "text": "We believe in you."
+    },
+    {
+      "t": 2331.85,
+      "text": "See you in the next episode."
+    },
+    {
+      "t": 2333.29,
+      "text": "Bye, everyone."
+    },
+    {
+      "t": 2339.22,
+      "text": "Hello and welcome back to our Business English podcast."
+    },
+    {
+      "t": 2343.38,
+      "text": "We're really happy to have you with us today."
+    },
+    {
+      "t": 2345.86,
+      "text": "If you're listening while commuting, working or relaxing, thank you for making English"
+    },
+    {
+      "t": 2351.06,
+      "text": "part of your routine."
+    },
+    {
+      "t": 2352.58,
+      "text": "I'm Sarah."
+    },
+    {
+      "t": 2353.74,
+      "text": "And I'm Mark."
+    },
+    {
+      "t": 2354.74,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 2356.06,
+      "text": "Let me start with a simple but uncomfortable question."
+    },
+    {
+      "t": 2359.54,
+      "text": "When was the last time you talked about salary at work in English?"
+    },
+    {
+      "t": 2363.06,
+      "text": "Or maybe a better question is, when was the last time you avoided talking about salary"
+    },
+    {
+      "t": 2369.18,
+      "text": "because you didn't know how to say it properly?"
+    },
+    {
+      "t": 2371.98,
+      "text": "Exactly."
+    },
+    {
+      "t": 2372.98,
+      "text": "For many English learners, salary conversations are something they delay for months or even"
+    },
+    {
+      "t": 2377.82,
+      "text": "years."
+    },
+    {
+      "t": 2378.82,
+      "text": "I hear that from students all the time."
+    },
+    {
+      "t": 2381.22,
+      "text": "They say, I work hard, I deserve more pay, but I'm scared I'll sound rude if I ask."
+    },
+    {
+      "t": 2387.66,
+      "text": "And that fear makes sense."
+    },
+    {
+      "t": 2389.5,
+      "text": "In many cultures, talking about money is very direct."
+    },
+    {
+      "t": 2392.94,
+      "text": "But in English-speaking workplaces, the rules are different."
+    },
+    {
+      "t": 2396.58,
+      "text": "Yes."
+    },
+    {
+      "t": 2397.58,
+      "text": "Money at work is treated as a professional topic, not a personal one."
+    },
+    {
+      "t": 2402.22,
+      "text": "Which means the language needs to be calm, indirect, and business focused."
+    },
+    {
+      "t": 2407.42,
+      "text": "That's why today, we're talking about how to discuss salary at work in English in a"
+    },
+    {
+      "t": 2412.54,
+      "text": "way that sounds confident and professional, not awkward or aggressive."
+    },
+    {
+      "t": 2417.7,
+      "text": "And by the end of this episode, our goal is simple."
+    },
+    {
+      "t": 2420.78,
+      "text": "We want you to feel less nervous the next time salary comes up."
+    },
+    {
+      "t": 2425.14,
+      "text": "Let's start with something important."
+    },
+    {
+      "t": 2427.26,
+      "text": "In English speaking offices, people usually don't ask coworkers directly about their"
+    },
+    {
+      "t": 2432.54,
+      "text": "salary."
+    },
+    {
+      "t": 2433.54,
+      "text": "Right."
+    },
+    {
+      "t": 2434.54,
+      "text": "asking how much do you earn might be normal in some cultures, but at work in English it"
+    },
+    {
+      "t": 2439.82,
+      "text": "can feel too personal."
+    },
+    {
+      "t": 2441.92,
+      "text": "Even if your intention is just curiosity, the other person might feel uncomfortable."
+    },
+    {
+      "t": 2447.38,
+      "text": "That's why native speakers avoid direct questions and instead use general or indirect language."
+    },
+    {
+      "t": 2453.46,
+      "text": "For example, instead of asking a co-worker how much they make, people might say something"
+    },
+    {
+      "t": 2458.74,
+      "text": "like, do you think this role is paid competitively?"
+    },
+    {
+      "t": 2462.82,
+      "text": "That's how that sentence talks about the role, not the person."
+    },
+    {
+      "t": 2466.68,
+      "text": "That's a key idea."
+    },
+    {
+      "t": 2468.52,
+      "text": "When talking about salary in English, focus on the position, the responsibilities, and"
+    },
+    {
+      "t": 2474.0,
+      "text": "the market, not the individual."
+    },
+    {
+      "t": 2476.8,
+      "text": "Now let's talk about interviews, because this is often the first time salary comes"
+    },
+    {
+      "t": 2481.48,
+      "text": "up."
+    },
+    {
+      "t": 2482.48,
+      "text": "Many learners feel uncomfortable asking about salary in interviews because they don't"
+    },
+    {
+      "t": 2487.0,
+      "text": "want to seem greedy."
+    },
+    {
+      "t": 2488.76,
+      "text": "But asking is completely normal."
+    },
+    {
+      "t": 2491.02,
+      "text": "You just need the right language."
+    },
+    {
+      "t": 2493.02,
+      "text": "Saying, how much will you pay me sounds too direct."
+    },
+    {
+      "t": 2496.46,
+      "text": "Instead, you can say, could you tell me the salary range for this position?"
+    },
+    {
+      "t": 2501.14,
+      "text": "Or what does the compensation package look like for this role?"
+    },
+    {
+      "t": 2505.22,
+      "text": "Those sentences sound professional and show that you understand workplace culture."
+    },
+    {
+      "t": 2509.94,
+      "text": "Let's pause for a moment."
+    },
+    {
+      "t": 2511.62,
+      "text": "If you're listening, try saying one of those sentences out loud."
+    },
+    {
+      "t": 2516.14,
+      "text": "Even if it feels strange at first, practicing out loud builds confidence."
+    },
+    {
+      "t": 2521.06,
+      "text": "Now let's move to another difficult situation, performance reviews."
+    },
+    {
+      "t": 2526.24,
+      "text": "This is when many people want to talk about salary but don't know how to start."
+    },
+    {
+      "t": 2530.38,
+      "text": "A common mistake is starting with emotion, saying, I feel underpaid or I'm unhappy with"
+    },
+    {
+      "t": 2536.74,
+      "text": "my salary can sound negative."
+    },
+    {
+      "t": 2539.58,
+      "text": "Instead, native speakers usually start by talking about their work."
+    },
+    {
+      "t": 2543.86,
+      "text": "For example, over the past year I've taken on more responsibilities."
+    },
+    {
+      "t": 2548.74,
+      "text": "Or I've consistently met my targets and supported the team on several projects."
+    },
+    {
+      "t": 2554.02,
+      "text": "After that, they connect performance to pay."
+    },
+    {
+      "t": 2557.2,
+      "text": "They might say, based on my performance, I was hoping we could discuss my compensation"
+    },
+    {
+      "t": 2562.26,
+      "text": "and future growth."
+    },
+    {
+      "t": 2563.7,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 2565.9,
+      "text": "And notice something important."
+    },
+    {
+      "t": 2567.54,
+      "text": "I didn't say a number."
+    },
+    {
+      "t": 2569.3,
+      "text": "Yes."
+    },
+    {
+      "t": 2570.3,
+      "text": "You don't always need to mention an exact salary."
+    },
+    {
+      "t": 2573.82,
+      "text": "Often the first step is simply opening the conversation."
+    },
+    {
+      "t": 2577.42,
+      "text": "Exactly."
+    },
+    {
+      "t": 2578.62,
+      "text": "Now let's talk about vocabulary, because this is another area where learners struggle."
+    },
+    {
+      "t": 2583.74,
+      "text": "One common issue is confusing salary and pay."
+    },
+    {
+      "t": 2588.18,
+      "text": "Salary usually means a fixed amount paid monthly or yearly."
+    },
+    {
+      "t": 2592.06,
+      "text": "Pay is more general and more casual."
+    },
+    {
+      "t": 2594.98,
+      "text": "And compensation is the most professional word."
+    },
+    {
+      "t": 2597.86,
+      "text": "It includes salary plus benefits."
+    },
+    {
+      "t": 2600.98,
+      "text": "are things like health insurance, paid time off, bonuses, and retirement plans."
+    },
+    {
+      "t": 2606.94,
+      "text": "So when someone talks about a compensation package, they're talking about everything, not just"
+    },
+    {
+      "t": 2611.78,
+      "text": "a salary number."
+    },
+    {
+      "t": 2613.46,
+      "text": "Another common mistake is saying, I earn a good money."
+    },
+    {
+      "t": 2617.26,
+      "text": "Money is uncountable in English, so we say, I earn good money, or I make a decent salary."
+    },
+    {
+      "t": 2623.98,
+      "text": "And don't forget, we earn or make money."
+    },
+    {
+      "t": 2626.74,
+      "text": "We don't gain money from work."
+    },
+    {
+      "t": 2628.84,
+      "text": "Now let's do a quick listener check."
+    },
+    {
+      "t": 2631.2,
+      "text": "Think about this sentence, I want more money."
+    },
+    {
+      "t": 2634.7,
+      "text": "How can we make it sound professional?"
+    },
+    {
+      "t": 2637.1,
+      "text": "You could say, I'd like to discuss my compensation."
+    },
+    {
+      "t": 2640.8,
+      "text": "Or I'm interested in understanding the opportunities for salary growth in this role."
+    },
+    {
+      "t": 2646.14,
+      "text": "Much better."
+    },
+    {
+      "t": 2647.14,
+      "text": "Before we finish, let's talk about confidence."
+    },
+    {
+      "t": 2650.3,
+      "text": "Many learners think confidence comes from perfect English."
+    },
+    {
+      "t": 2653.96,
+      "text": "But actually, confidence comes from using the right type of language."
+    },
+    {
+      "t": 2658.16,
+      "text": "Even simple sentences can sound confident if they're calm and professional."
+    },
+    {
+      "t": 2662.84,
+      "text": "And remember, native speakers also feel uncomfortable talking about salary."
+    },
+    {
+      "t": 2667.5,
+      "text": "The difference is, they've learned the phrases that make the conversation easier."
+    },
+    {
+      "t": 2672.44,
+      "text": "And now, you're learning them too."
+    },
+    {
+      "t": 2674.56,
+      "text": "So the next time salary comes up, don't panic."
+    },
+    {
+      "t": 2678.4,
+      "text": "Slow down."
+    },
+    {
+      "t": 2679.4,
+      "text": "Use professional language and focus on your value."
+    },
+    {
+      "t": 2682.52,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 2684.8,
+      "text": "Keep practicing, keep learning, and keep building your confidence in English."
+    },
+    {
+      "t": 2688.96,
+      "text": "We'll see you in the next episode."
+    },
+    {
+      "t": 2690.8,
+      "text": "Bye everyone."
+    }
+  ],
+  "lemmas": [
+    [
+      "salary",
+      151
+    ],
+    [
+      "say",
+      91
+    ],
+    [
+      "talk",
+      82
+    ],
+    [
+      "sound",
+      72
+    ],
+    [
+      "professional",
+      72
+    ],
+    [
+      "money",
+      67
+    ],
+    [
+      "english",
+      61
+    ],
+    [
+      "ask",
+      53
+    ],
+    [
+      "compensation",
+      53
+    ],
+    [
+      "work",
+      41
+    ],
+    [
+      "instead",
+      39
+    ],
+    [
+      "conversation",
+      35
+    ],
+    [
+      "language",
+      34
+    ],
+    [
+      "today",
+      33
+    ],
+    [
+      "much",
+      33
+    ],
+    [
+      "feel",
+      32
+    ],
+    [
+      "want",
+      27
+    ],
+    [
+      "one",
+      26
+    ],
+    [
+      "make",
+      26
+    ],
+    [
+      "earn",
+      26
+    ],
+    [
+      "discuss",
+      25
+    ],
+    [
+      "example",
+      24
+    ],
+    [
+      "pay",
+      23
+    ],
+    [
+      "us",
+      22
+    ],
+    [
+      "time",
+      21
+    ],
+    [
+      "raise",
+      21
+    ],
+    [
+      "learner",
+      21
+    ],
+    [
+      "mean",
+      21
+    ],
+    [
+      "interview",
+      20
+    ],
+    [
+      "even",
+      20
+    ],
+    [
+      "many",
+      20
+    ],
+    [
+      "use",
+      20
+    ],
+    [
+      "role",
+      20
+    ],
+    [
+      "thank",
+      19
+    ],
+    [
+      "another",
+      19
+    ],
+    [
+      "need",
+      19
+    ],
+    [
+      "good",
+      19
+    ],
+    [
+      "usually",
+      19
+    ],
+    [
+      "direct",
+      18
+    ],
+    [
+      "uncomfortable",
+      18
+    ],
+    [
+      "range",
+      18
+    ],
+    [
+      "learn",
+      17
+    ],
+    [
+      "someth",
+      17
+    ],
+    [
+      "job",
+      17
+    ],
+    [
+      "person",
+      17
+    ],
+    [
+      "phras",
+      17
+    ],
+    [
+      "focus",
+      17
+    ],
+    [
+      "word",
+      17
+    ],
+    [
+      "benefit",
+      17
+    ],
+    [
+      "confident",
+      17
+    ],
+    [
+      "exactly",
+      16
+    ],
+    [
+      "episode",
+      16
+    ],
+    [
+      "common",
+      16
+    ],
+    [
+      "growth",
+      16
+    ],
+    [
+      "keep",
+      16
+    ],
+    [
+      "practice",
+      15
+    ],
+    [
+      "business",
+      15
+    ],
+    [
+      "personal",
+      15
+    ],
+    [
+      "responsibiliti",
+      15
+    ],
+    [
+      "mistake",
+      15
+    ],
+    [
+      "listen",
+      14
+    ],
+    [
+      "know",
+      14
+    ],
+    [
+      "avoid",
+      14
+    ],
+    [
+      "start",
+      14
+    ],
+    [
+      "performance",
+      14
+    ],
+    [
+      "first",
+      13
+    ],
+    [
+      "important",
+      13
+    ],
+    [
+      "emotional",
+      13
+    ],
+    [
+      "way",
+      13
+    ],
+    [
+      "value",
+      13
+    ],
+    [
+      "package",
+      13
+    ],
+    [
+      "confidence",
+      13
+    ],
+    [
+      "get",
+      12
+    ],
+    [
+      "paid",
+      12
+    ],
+    [
+      "position",
+      12
+    ],
+    [
+      "calm",
+      12
+    ],
+    [
+      "often",
+      12
+    ],
+    [
+      "bas",
+      12
+    ],
+    [
+      "maybe",
+      11
+    ],
+    [
+      "everyone",
+      11
+    ],
+    [
+      "tell",
+      11
+    ],
+    [
+      "mistak",
+      11
+    ],
+    [
+      "question",
+      11
+    ],
+    [
+      "directly",
+      11
+    ],
+    [
+      "level",
+      11
+    ],
+    [
+      "promotion",
+      11
+    ],
+    [
+      "year",
+      11
+    ],
+    [
+      "next",
+      11
+    ],
+    [
+      "podcast",
+      10
+    ],
+    [
+      "think",
+      10
+    ],
+    [
+      "english-speak",
+      10
+    ],
+    [
+      "indirect",
+      10
+    ],
+    [
+      "using",
+      10
+    ],
+    [
+      "wag",
+      10
+    ],
+    [
+      "without",
+      9
+    ],
+    [
+      "speaker",
+      9
+    ],
+    [
+      "help",
+      9
+    ],
+    [
+      "problem",
+      9
+    ],
+    [
+      "understand",
+      9
+    ],
+    [
+      "demand",
+      9
+    ],
+    [
+      "notice",
+      9
+    ],
+    [
+      "loud",
+      9
+    ],
+    [
+      "practic",
+      9
+    ],
+    [
+      "amount",
+      9
+    ],
+    [
+      "hour",
+      9
+    ],
+    [
+      "number",
+      9
+    ],
+    [
+      "remember",
+      9
+    ],
+    [
+      "bye",
+      9
+    ],
+    [
+      "respectful",
+      9
+    ],
+    [
+      "speak",
+      8
+    ],
+    [
+      "mak",
+      8
+    ],
+    [
+      "welcome",
+      8
+    ],
+    [
+      "back",
+      8
+    ],
+    [
+      "com",
+      8
+    ],
+    [
+      "manager",
+      8
+    ],
+    [
+      "stay",
+      8
+    ],
+    [
+      "rude",
+      8
+    ],
+    [
+      "wrong",
+      8
+    ],
+    [
+      "thing",
+      8
+    ],
+    [
+      "native",
+      8
+    ],
+    [
+      "youll",
+      8
+    ],
+    [
+      "workplac",
+      8
+    ],
+    [
+      "include",
+      8
+    ],
+    [
+      "vocabulary",
+      8
+    ],
+    [
+      "fix",
+      8
+    ],
+    [
+      "bonus",
+      8
+    ],
+    [
+      "gain",
+      8
+    ],
+    [
+      "take",
+      8
+    ],
+    [
+      "situation",
+      8
+    ],
+    [
+      "company",
+      8
+    ],
+    [
+      "end",
+      7
+    ],
+    [
+      "normal",
+      7
+    ],
+    [
+      "tone",
+      7
+    ],
+    [
+      "natural",
+      7
+    ],
+    [
+      "imagine",
+      7
+    ],
+    [
+      "confus",
+      7
+    ],
+    [
+      "review",
+      7
+    ],
+    [
+      "expensive",
+      7
+    ],
+    [
+      "see",
+      7
+    ],
+    [
+      "topic",
+      7
+    ],
+    [
+      "someone",
+      7
+    ],
+    [
+      "culture",
+      7
+    ],
+    [
+      "hello",
+      6
+    ],
+    [
+      "let",
+      6
+    ],
+    [
+      "ever",
+      6
+    ],
+    [
+      "awkward",
+      6
+    ],
+    [
+      "especially",
+      6
+    ],
+    [
+      "aggressive",
+      6
+    ],
+    [
+      "going",
+      6
+    ],
+    [
+      "rais",
+      6
+    ],
+    [
+      "co-worker",
+      6
+    ],
+    [
+      "three",
+      6
+    ],
+    [
+      "sentenc",
+      6
+    ],
+    [
+      "discussion",
+      6
+    ],
+    [
+      "key",
+      6
+    ],
+    [
+      "every",
+      6
+    ],
+    [
+      "contribution",
+      6
+    ],
+    [
+      "additional",
+      6
+    ],
+    [
+      "hop",
+      6
+    ],
+    [
+      "nervous",
+      6
+    ],
+    [
+      "show",
+      6
+    ],
+    [
+      "enjoy",
+      6
+    ],
+    [
+      "sentence",
+      6
+    ],
+    [
+      "offer",
+      5
+    ],
+    [
+      "phrase",
+      5
+    ],
+    [
+      "sometim",
+      5
+    ],
+    [
+      "quick",
+      5
+    ],
+    [
+      "part",
+      5
+    ],
+    [
+      "coworker",
+      5
+    ],
+    [
+      "forget",
+      5
+    ],
+    [
+      "alright",
+      5
+    ],
+    [
+      "cultur",
+      5
+    ],
+    [
+      "grammar",
+      5
+    ],
+    [
+      "negative",
+      5
+    ],
+    [
+      "monthly",
+      5
+    ],
+    [
+      "yearly",
+      5
+    ],
+    [
+      "income",
+      5
+    ],
+    [
+      "different",
+      5
+    ],
+    [
+      "casual",
+      5
+    ],
+    [
+      "clear",
+      5
+    ],
+    [
+      "responsibility",
+      5
+    ],
+    [
+      "health",
+      5
+    ],
+    [
+      "insurance",
+      5
+    ],
+    [
+      "salari",
+      5
+    ],
+    [
+      "high",
+      5
+    ],
+    [
+      "competitive",
+      5
+    ],
+    [
+      "hear",
+      5
+    ],
+    [
+      "hi",
+      5
+    ],
+    [
+      "moment",
+      5
+    ],
+    [
+      "past",
+      5
+    ],
+    [
+      "look",
+      5
+    ],
+    [
+      "includ",
+      5
+    ],
+    [
+      "also",
+      5
+    ],
+    [
+      "interest",
+      5
+    ],
+    [
+      "meet",
+      5
+    ],
+    [
+      "project",
+      5
+    ],
+    [
+      "perfect",
+      4
+    ],
+    [
+      "listener",
+      4
+    ],
+    [
+      "erica",
+      4
+    ],
+    [
+      "spend",
+      4
+    ],
+    [
+      "day",
+      4
+    ],
+    [
+      "happen",
+      4
+    ],
+    [
+      "last",
+      4
+    ],
+    [
+      "afraid",
+      4
+    ],
+    [
+      "professionally",
+      4
+    ],
+    [
+      "subscribe",
+      4
+    ],
+    [
+      "private",
+      4
+    ],
+    [
+      "two",
+      4
+    ],
+    [
+      "exampl",
+      4
+    ],
+    [
+      "polite",
+      4
+    ],
+    [
+      "open",
+      4
+    ],
+    [
+      "difference",
+      4
+    ],
+    [
+      "receive",
+      4
+    ],
+    [
+      "month",
+      4
+    ],
+    [
+      "retirement",
+      4
+    ],
+    [
+      "plan",
+      4
+    ],
+    [
+      "option",
+      4
+    ],
+    [
+      "version",
+      4
+    ],
+    [
+      "goal",
+      4
+    ],
+    [
+      "glad",
+      4
+    ],
+    [
+      "build",
+      4
+    ],
+    [
+      "communication",
+      4
+    ],
+    [
+      "strong",
+      4
+    ],
+    [
+      "share",
+      4
+    ],
+    [
+      "plus",
+      4
+    ],
+    [
+      "recent",
+      4
+    ],
+    [
+      "achievement",
+      4
+    ],
+    [
+      "try",
+      4
+    ],
+    [
+      "deserve",
+      4
+    ],
+    [
+      "consider",
+      4
+    ],
+    [
+      "simple",
+      4
+    ],
+    [
+      "happy",
+      3
+    ],
+    [
+      "marco",
+      3
+    ],
+    [
+      "go",
+      3
+    ],
+    [
+      "completely",
+      3
+    ],
+    [
+      "lot",
+      3
+    ],
+    [
+      "week",
+      3
+    ],
+    [
+      "confidently",
+      3
+    ],
+    [
+      "stressful",
+      3
+    ],
+    [
+      "cultural",
+      3
+    ],
+    [
+      "rul",
+      3
+    ],
+    [
+      "theyll",
+      3
+    ],
+    [
+      "second",
+      3
+    ],
+    [
+      "comment",
+      3
+    ],
+    [
+      "risky",
+      3
+    ],
+    [
+      "less",
+      3
+    ],
+    [
+      "move",
+      3
+    ],
+    [
+      "still",
+      3
+    ],
+    [
+      "low",
+      3
+    ],
+    [
+      "enough",
+      3
+    ],
+    [
+      "bring",
+      3
+    ],
+    [
+      "opportunity",
+      3
+    ],
+    [
+      "regularly",
+      3
+    ],
+    [
+      "general",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "alway",
+      3
+    ],
+    [
+      "vacation",
+      3
+    ],
+    [
+      "together",
+      3
+    ],
+    [
+      "research",
+      3
+    ],
+    [
+      "online",
+      3
+    ],
+    [
+      "real",
+      3
+    ],
+    [
+      "improv",
+      3
+    ],
+    [
+      "expectation",
+      3
+    ],
+    [
+      "begin",
+      3
+    ],
+    [
+      "correct",
+      3
+    ],
+    [
+      "rather",
+      3
+    ],
+    [
+      "matter",
+      3
+    ],
+    [
+      "professionalism",
+      3
+    ],
+    [
+      "true",
+      3
+    ],
+    [
+      "clearly",
+      3
+    ],
+    [
+      "opportuniti",
+      3
+    ],
+    [
+      "higher",
+      3
+    ],
+    [
+      "collaborative",
+      3
+    ],
+    [
+      "seem",
+      3
+    ],
+    [
+      "youve",
+      3
+    ],
+    [
+      "sensitive",
+      3
+    ],
+    [
+      "worry",
+      3
+    ],
+    [
+      "softer",
+      3
+    ],
+    [
+      "connect",
+      3
+    ],
+    [
+      "several",
+      3
+    ],
+    [
+      "openly",
+      3
+    ],
+    [
+      "finish",
+      3
+    ],
+    [
+      "student",
+      3
+    ],
+    [
+      "friend",
+      3
+    ],
+    [
+      "sarah",
+      3
+    ],
+    [
+      "future",
+      3
+    ],
+    [
+      "idea",
+      3
+    ],
+    [
+      "minut",
+      2
+    ],
+    [
+      "mind",
+      2
+    ],
+    [
+      "quiet",
+      2
+    ],
+    [
+      "unprofessional",
+      2
+    ],
+    [
+      "negotiat",
+      2
+    ],
+    [
+      "politely",
+      2
+    ],
+    [
+      "leave",
+      2
+    ],
+    [
+      "support",
+      2
+    ],
+    [
+      "channel",
+      2
+    ],
+    [
+      "rarely",
+      2
+    ],
+    [
+      "treat",
+      2
+    ],
+    [
+      "offic",
+      2
+    ],
+    [
+      "call",
+      2
+    ],
+    [
+      "relationship",
+      2
+    ],
+    [
+      "ideal",
+      2
+    ],
+    [
+      "giv",
+      2
+    ],
+    [
+      "pause",
+      2
+    ],
+    [
+      "area",
+      2
+    ],
+    [
+      "decent",
+      2
+    ],
+    [
+      "hourly",
+      2
+    ],
+    [
+      "hr",
+      2
+    ],
+    [
+      "recruiter",
+      2
+    ],
+    [
+      "rang",
+      2
+    ],
+    [
+      "long",
+      2
+    ],
+    [
+      "wrap",
+      2
+    ],
+    [
+      "choose",
+      2
+    ],
+    [
+      "daniel",
+      2
+    ],
+    [
+      "valuable",
+      2
+    ],
+    [
+      "honestly",
+      2
+    ],
+    [
+      "challeng",
+      2
+    ],
+    [
+      "differenc",
+      2
+    ],
+    [
+      "easier",
+      2
+    ],
+    [
+      "explore",
+      2
+    ],
+    [
+      "naturally",
+      2
+    ],
+    [
+      "mindset",
+      2
+    ],
+    [
+      "translat",
+      2
+    ],
+    [
+      "biggest",
+      2
+    ],
+    [
+      "environment",
+      2
+    ],
+    [
+      "reflect",
+      2
+    ],
+    [
+      "difficult",
+      2
+    ],
+    [
+      "useful",
+      2
+    ],
+    [
+      "similar",
+      2
+    ],
+    [
+      "term",
+      2
+    ],
+    [
+      "flexible",
+      2
+    ],
+    [
+      "result",
+      2
+    ],
+    [
+      "reduce",
+      2
+    ],
+    [
+      "pressure",
+      2
+    ],
+    [
+      "request",
+      2
+    ],
+    [
+      "tip",
+      2
+    ],
+    [
+      "adjustment",
+      2
+    ],
+    [
+      "uncountable",
+      2
+    ],
+    [
+      "early",
+      2
+    ],
+    [
+      "structure",
+      2
+    ],
+    [
+      "write",
+      2
+    ],
+    [
+      "contribut",
+      2
+    ],
+    [
+      "life",
+      2
+    ],
+    [
+      "join",
+      2
+    ],
+    [
+      "alone",
+      2
+    ],
+    [
+      "challenge",
+      2
+    ],
+    [
+      "big",
+      2
+    ],
+    [
+      "specific",
+      2
+    ],
+    [
+      "base",
+      2
+    ],
+    [
+      "development",
+      2
+    ],
+    [
+      "increase",
+      2
+    ],
+    [
+      "appreciate",
+      2
+    ],
+    [
+      "helpful",
+      2
+    ],
+    [
+      "bad",
+      2
+    ],
+    [
+      "market",
+      2
+    ],
+    [
+      "negotiation",
+      2
+    ],
+    [
+      "silently",
+      2
+    ],
+    [
+      "quickly",
+      2
+    ],
+    [
+      "culturally",
+      2
+    ],
+    [
+      "harder",
+      2
+    ],
+    [
+      "exact",
+      2
+    ],
+    [
+      "grammatically",
+      2
+    ],
+    [
+      "short",
+      2
+    ],
+    [
+      "give",
+      2
+    ],
+    [
+      "believe",
+      2
+    ],
+    [
+      "change",
+      2
+    ],
+    [
+      "everyth",
+      2
+    ],
+    [
+      "per",
+      2
+    ],
+    [
+      "emotion",
+      2
+    ],
+    [
+      "regular",
+      1
+    ],
+    [
+      "name",
+      1
+    ],
+    [
+      "away",
+      1
+    ],
+    [
+      "blank",
+      1
+    ],
+    [
+      "worri",
+      1
+    ],
+    [
+      "sent",
+      1
+    ],
+    [
+      "message",
+      1
+    ],
+    [
+      "accept",
+      1
+    ],
+    [
+      "care",
+      1
+    ],
+    [
+      "tricky",
+      1
+    ],
+    [
+      "hidden",
+      1
+    ],
+    [
+      "jump",
+      1
+    ],
+    [
+      "youtube",
+      1
+    ],
+    [
+      "spotify",
+      1
+    ],
+    [
+      "writ",
+      1
+    ],
+    [
+      "someon",
+      1
+    ],
+    [
+      "create",
+      1
+    ],
+    [
+      "tension",
+      1
+    ],
+    [
+      "soft",
+      1
+    ],
+    [
+      "powerful",
+      1
+    ],
+    [
+      "break",
+      1
+    ],
+    [
+      "ladder",
+      1
+    ],
+    [
+      "safe",
+      1
+    ],
+    [
+      "generally",
+      1
+    ],
+    [
+      "damage",
+      1
+    ],
+    [
+      "fine",
+      1
+    ],
+    [
+      "honest",
+      1
+    ],
+    [
+      "space",
+      1
+    ],
+    [
+      "anyth",
+      1
+    ],
+    [
+      "confrontation",
+      1
+    ],
+    [
+      "expect",
+      1
+    ],
+    [
+      "huge",
+      1
+    ],
+    [
+      "interchangeable",
+      1
+    ],
+    [
+      "regardless",
+      1
+    ],
+    [
+      "freelance",
+      1
+    ],
+    [
+      "investment",
+      1
+    ],
+    [
+      "informally",
+      1
+    ],
+    [
+      "meeting",
+      1
+    ],
+    [
+      "factory",
+      1
+    ],
+    [
+      "worker",
+      1
+    ],
+    [
+      "cafe",
+      1
+    ],
+    [
+      "employee",
+      1
+    ],
+    [
+      "versus",
+      1
+    ],
+    [
+      "addition",
+      1
+    ],
+    [
+      "four",
+      1
+    ],
+    [
+      "jordan",
+      1
+    ],
+    [
+      "unfocus",
+      1
+    ],
+    [
+      "alex",
+      1
+    ],
+    [
+      "luck",
+      1
+    ],
+    [
+      "olivia",
+      1
+    ],
+    [
+      "excit",
+      1
+    ],
+    [
+      "real-world",
+      1
+    ],
+    [
+      "skill",
+      1
+    ],
+    [
+      "sure",
+      1
+    ],
+    [
+      "face",
+      1
+    ],
+    [
+      "involve",
+      1
+    ],
+    [
+      "practical",
+      1
+    ],
+    [
+      "immediately",
+      1
+    ],
+    [
+      "behind",
+      1
+    ],
+    [
+      "experience",
+      1
+    ],
+    [
+      "quite",
+      1
+    ],
+    [
+      "blunt",
+      1
+    ],
+    [
+      "colleague",
+      1
+    ],
+    [
+      "little",
+      1
+    ],
+    [
+      "information",
+      1
+    ],
+    [
+      "attitude",
+      1
+    ],
+    [
+      "assume",
+      1
+    ],
+    [
+      "unsure",
+      1
+    ],
+    [
+      "communicate",
+      1
+    ],
+    [
+      "balance",
+      1
+    ],
+    [
+      "typically",
+      1
+    ],
+    [
+      "refer",
+      1
+    ],
+    [
+      "broader",
+      1
+    ],
+    [
+      "train",
+      1
+    ],
+    [
+      "complete",
+      1
+    ],
+    [
+      "precise",
+      1
+    ],
+    [
+      "real-life",
+      1
+    ],
+    [
+      "ready",
+      1
+    ],
+    [
+      "recently",
+      1
+    ],
+    [
+      "revisit",
+      1
+    ],
+    [
+      "absolutely",
+      1
+    ],
+    [
+      "soften",
+      1
+    ],
+    [
+      "extremely",
+      1
+    ],
+    [
+      "wonder",
+      1
+    ],
+    [
+      "possible",
+      1
+    ],
+    [
+      "compar",
+      1
+    ],
+    [
+      "confrontational",
+      1
+    ],
+    [
+      "a-money",
+      1
+    ],
+    [
+      "scenario",
+      1
+    ],
+    [
+      "awareness",
+      1
+    ],
+    [
+      "respectfully",
+      1
+    ],
+    [
+      "preparation",
+      1
+    ],
+    [
+      "necessary",
+      1
+    ],
+    [
+      "aloud",
+      1
+    ],
+    [
+      "mov",
+      1
+    ],
+    [
+      "forward",
+      1
+    ],
+    [
+      "ther",
+      1
+    ],
+    [
+      "come",
+      1
+    ],
+    [
+      "maya",
+      1
+    ],
+    [
+      "leo",
+      1
+    ],
+    [
+      "continu",
+      1
+    ],
+    [
+      "journey",
+      1
+    ],
+    [
+      "find",
+      1
+    ],
+    [
+      "definitely",
+      1
+    ],
+    [
+      "highly",
+      1
+    ],
+    [
+      "experienc",
+      1
+    ],
+    [
+      "combine",
+      1
+    ],
+    [
+      "add",
+      1
+    ],
+    [
+      "complicat",
+      1
+    ],
+    [
+      "creat",
+      1
+    ],
+    [
+      "style",
+      1
+    ],
+    [
+      "relation",
+      1
+    ],
+    [
+      "priority",
+      1
+    ],
+    [
+      "strategic",
+      1
+    ],
+    [
+      "approach",
+      1
+    ],
+    [
+      "detail",
+      1
+    ],
+    [
+      "genuine",
+      1
+    ],
+    [
+      "remuneration",
+      1
+    ],
+    [
+      "business-orient",
+      1
+    ],
+    [
+      "distinction",
+      1
+    ],
+    [
+      "payment",
+      1
+    ],
+    [
+      "perk",
+      1
+    ],
+    [
+      "remote",
+      1
+    ],
+    [
+      "current",
+      1
+    ],
+    [
+      "communicat",
+      1
+    ],
+    [
+      "strategy",
+      1
+    ],
+    [
+      "deliver",
+      1
+    ],
+    [
+      "successful",
+      1
+    ],
+    [
+      "paycheck",
+      1
+    ],
+    [
+      "cash",
+      1
+    ],
+    [
+      "informal",
+      1
+    ],
+    [
+      "formal",
+      1
+    ],
+    [
+      "prepar",
+      1
+    ],
+    [
+      "apologiz",
+      1
+    ],
+    [
+      "sorry",
+      1
+    ],
+    [
+      "bother",
+      1
+    ],
+    [
+      "neutral",
+      1
+    ],
+    [
+      "career",
+      1
+    ],
+    [
+      "colleagu",
+      1
+    ],
+    [
+      "typical",
+      1
+    ],
+    [
+      "response",
+      1
+    ],
+    [
+      "flexibility",
+      1
+    ],
+    [
+      "appreciation",
+      1
+    ],
+    [
+      "door",
+      1
+    ],
+    [
+      "positive",
+      1
+    ],
+    [
+      "conflict",
+      1
+    ],
+    [
+      "read",
+      1
+    ],
+    [
+      "respond",
+      1
+    ],
+    [
+      "handle",
+      1
+    ],
+    [
+      "calmly",
+      1
+    ],
+    [
+      "choos",
+      1
+    ],
+    [
+      "stress",
+      1
+    ],
+    [
+      "appropriate",
+      1
+    ],
+    [
+      "dive",
+      1
+    ],
+    [
+      "hid",
+      1
+    ],
+    [
+      "middle",
+      1
+    ],
+    [
+      "terrible",
+      1
+    ],
+    [
+      "business-focus",
+      1
+    ],
+    [
+      "turn",
+      1
+    ],
+    [
+      "interviewer",
+      1
+    ],
+    [
+      "answer",
+      1
+    ],
+    [
+      "extra",
+      1
+    ],
+    [
+      "play",
+      1
+    ],
+    [
+      "heard",
+      1
+    ],
+    [
+      "great",
+      1
+    ],
+    [
+      "whether",
+      1
+    ],
+    [
+      "follow",
+      1
+    ],
+    [
+      "head",
+      1
+    ],
+    [
+      "fram",
+      1
+    ],
+    [
+      "directness",
+      1
+    ],
+    [
+      "judge",
+      1
+    ],
+    [
+      "office",
+      1
+    ],
+    [
+      "unfair",
+      1
+    ],
+    [
+      "argue",
+      1
+    ],
+    [
+      "became",
+      1
+    ],
+    [
+      "tense",
+      1
+    ],
+    [
+      "valid",
+      1
+    ],
+    [
+      "alternativ",
+      1
+    ],
+    [
+      "calmer",
+      1
+    ],
+    [
+      "setting",
+      1
+    ],
+    [
+      "hardest",
+      1
+    ],
+    [
+      "rent",
+      1
+    ],
+    [
+      "decision",
+      1
+    ],
+    [
+      "successfully",
+      1
+    ],
+    [
+      "complet",
+      1
+    ],
+    [
+      "lead",
+      1
+    ],
+    [
+      "comfortably",
+      1
+    ],
+    [
+      "already",
+      1
+    ],
+    [
+      "financial",
+      1
+    ],
+    [
+      "oh",
+      1
+    ],
+    [
+      "marko",
+      1
+    ],
+    [
+      "boss",
+      1
+    ],
+    [
+      "around",
+      1
+    ],
+    [
+      "prefer",
+      1
+    ],
+    [
+      "total",
+      1
+    ],
+    [
+      "sourc",
+      1
+    ],
+    [
+      "side",
+      1
+    ],
+    [
+      "array",
+      1
+    ],
+    [
+      "title",
+      1
+    ],
+    [
+      "chang",
+      1
+    ],
+    [
+      "careful",
+      1
+    ],
+    [
+      "commut",
+      1
+    ],
+    [
+      "relax",
+      1
+    ],
+    [
+      "routine",
+      1
+    ],
+    [
+      "mark",
+      1
+    ],
+    [
+      "properly",
+      1
+    ],
+    [
+      "delay",
+      1
+    ],
+    [
+      "hard",
+      1
+    ],
+    [
+      "scar",
+      1
+    ],
+    [
+      "fear",
+      1
+    ],
+    [
+      "sense",
+      1
+    ],
+    [
+      "intention",
+      1
+    ],
+    [
+      "curiosity",
+      1
+    ],
+    [
+      "competitively",
+      1
+    ],
+    [
+      "individual",
+      1
+    ],
+    [
+      "greedy",
+      1
+    ],
+    [
+      "workplace",
+      1
+    ],
+    [
+      "strange",
+      1
+    ],
+    [
+      "underpaid",
+      1
+    ],
+    [
+      "unhappy",
+      1
+    ],
+    [
+      "consistently",
+      1
+    ],
+    [
+      "target",
+      1
+    ],
+    [
+      "team",
+      1
+    ],
+    [
+      "mention",
+      1
+    ],
+    [
+      "step",
+      1
+    ],
+    [
+      "simply",
+      1
+    ],
+    [
+      "struggle",
+      1
+    ],
+    [
+      "issue",
+      1
+    ],
+    [
+      "check",
+      1
+    ],
+    [
+      "type",
+      1
+    ],
+    [
+      "theyve",
+      1
+    ],
+    [
+      "panic",
+      1
+    ],
+    [
+      "slow",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 6682,
+    "unique_words": 602,
+    "duration_min": 45.1
+  }
+}

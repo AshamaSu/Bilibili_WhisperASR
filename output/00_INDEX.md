@@ -22,16 +22,16 @@
 | 18 | How to Talk About Your Achievement in Business Meetings | 41.7 | done | 701 | [18_HowtoTalkAboutYourAchievementinBusinessMeetings.md](18_HowtoTalkAboutYourAchievementinBusinessMeetings.md) |
 | 19 | How to Tell Me About Yourself in Job Interviews | 37.9 | done | 581 | [19_HowtoTellMeAboutYourselfinJobInterviews.md](19_HowtoTellMeAboutYourselfinJobInterviews.md) |
 | 20 | Real Business English Conversations in Working Day | 52.5 | done | 683 | [20_RealBusinessEnglishConversationsinWorkingDay.md](20_RealBusinessEnglishConversationsinWorkingDay.md) |
-| 21 | How to Talk About the Problems and Solutions at Business Meeting Conversations | 53.5 | pending |  | 21_HowtoTalkAbouttheProblemsandSolutionsatBusinessMeetingConversations.md |
-| 22 | How to Describe Your Skills in Professional Business Conversations | 40.3 | pending |  | 22_HowtoDescribeYourSkillsinProfessionalBusinessConversations.md |
-| 23 | How to Talk about Career Path in English | 49.8 | pending |  | 23_HowtoTalkaboutCareerPathinEnglish.md |
-| 24 | How to Talk About Your Company in English | 57.0 | pending |  | 24_HowtoTalkAboutYourCompanyinEnglish.md |
-| 25 | How to Talk About Business Performance in English | 47.8 | pending |  | 25_HowtoTalkAboutBusinessPerformanceinEnglish.md |
-| 26 | How to Introduce yourself in Business Meetings | 53.5 | pending |  | 26_HowtoIntroduceyourselfinBusinessMeetings.md |
-| 27 | Business Meeting Podcast in 40 minutes | 44.5 | pending |  | 27_BusinessMeetingPodcastin40minutes.md |
-| 28 | Business English Conversation - English Dialogs at Work | 43.3 | pending |  | 28_BusinessEnglishConversation-EnglishDialogsatWork.md |
-| 29 | Business Meeting Conversations in 30 minutes | 35.9 | pending |  | 29_BusinessMeetingConversationsin30minutes.md |
-| 30 | How to Talk About Salary at Work in English | 45.1 | pending |  | 30_HowtoTalkAboutSalaryatWorkinEnglish.md |
+| 21 | How to Talk About the Problems and Solutions at Business Meeting Conversations | 53.5 | done | 883 | [21_HowtoTalkAbouttheProblemsandSolutionsatBusinessMeetingConversations.md](21_HowtoTalkAbouttheProblemsandSolutionsatBusinessMeetingConversations.md) |
+| 22 | How to Describe Your Skills in Professional Business Conversations | 40.3 | done | 657 | [22_HowtoDescribeYourSkillsinProfessionalBusinessConversations.md](22_HowtoDescribeYourSkillsinProfessionalBusinessConversations.md) |
+| 23 | How to Talk about Career Path in English | 49.8 | done | 851 | [23_HowtoTalkaboutCareerPathinEnglish.md](23_HowtoTalkaboutCareerPathinEnglish.md) |
+| 24 | How to Talk About Your Company in English | 57.0 | done | 955 | [24_HowtoTalkAboutYourCompanyinEnglish.md](24_HowtoTalkAboutYourCompanyinEnglish.md) |
+| 25 | How to Talk About Business Performance in English | 47.8 | done | 738 | [25_HowtoTalkAboutBusinessPerformanceinEnglish.md](25_HowtoTalkAboutBusinessPerformanceinEnglish.md) |
+| 26 | How to Introduce yourself in Business Meetings | 53.5 | done | 1038 | [26_HowtoIntroduceyourselfinBusinessMeetings.md](26_HowtoIntroduceyourselfinBusinessMeetings.md) |
+| 27 | Business Meeting Podcast in 40 minutes | 44.5 | done | 1320 | [27_BusinessMeetingPodcastin40minutes.md](27_BusinessMeetingPodcastin40minutes.md) |
+| 28 | Business English Conversation - English Dialogs at Work | 43.3 | done | 1266 | [28_BusinessEnglishConversation-EnglishDialogsatWork.md](28_BusinessEnglishConversation-EnglishDialogsatWork.md) |
+| 29 | Business Meeting Conversations in 30 minutes | 35.9 | done | 748 | [29_BusinessMeetingConversationsin30minutes.md](29_BusinessMeetingConversationsin30minutes.md) |
+| 30 | How to Talk About Salary at Work in English | 45.1 | done | 602 | [30_HowtoTalkAboutSalaryatWorkinEnglish.md](30_HowtoTalkAboutSalaryatWorkinEnglish.md) |
 | 31 | Job Interview Communication Grab your Ideal Career | 33.8 | pending |  | 31_JobInterviewCommunicationGrabyourIdealCareer.md |
 | 32 | How to Talk to Your Boss at work | 39.0 | pending |  | 32_HowtoTalktoYourBossatwork.md |
 | 33 | Essential Business English Conversation Are you at an ADVANCED level | 40.3 | pending |  | 33_EssentialBusinessEnglishConversationAreyouatanADVANCEDlevel.md |

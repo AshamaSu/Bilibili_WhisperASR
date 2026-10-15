@@ -1,0 +1,7473 @@
+{
+  "file_stem": "25_HowtoTalkAboutBusinessPerformanceinEnglish",
+  "no": 25,
+  "title_keywords": [
+    [
+      "talk",
+      "talk"
+    ],
+    [
+      "business",
+      "business"
+    ],
+    [
+      "performance",
+      "performance"
+    ],
+    [
+      "english",
+      "english"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "performance",
+      146,
+      "B1+"
+    ],
+    [
+      "business",
+      76,
+      "B1+"
+    ],
+    [
+      "quarter",
+      56,
+      "A2"
+    ],
+    [
+      "revenue",
+      55,
+      "B1+"
+    ],
+    [
+      "talk",
+      50,
+      "A2"
+    ],
+    [
+      "results",
+      48,
+      "A2"
+    ],
+    [
+      "growth",
+      47,
+      "B1+"
+    ],
+    [
+      "increased",
+      44,
+      "B1+"
+    ],
+    [
+      "example",
+      40,
+      "A2"
+    ],
+    [
+      "say",
+      39,
+      "A2"
+    ],
+    [
+      "sales",
+      37,
+      "B1+"
+    ],
+    [
+      "improved",
+      36,
+      "B1+"
+    ],
+    [
+      "year",
+      35,
+      "A2"
+    ],
+    [
+      "market",
+      32,
+      "A2"
+    ],
+    [
+      "customer",
+      31,
+      "B1+"
+    ],
+    [
+      "costs",
+      30,
+      "A2"
+    ],
+    [
+      "good",
+      30,
+      "A2"
+    ],
+    [
+      "profit",
+      30,
+      "B1+"
+    ],
+    [
+      "exactly",
+      28,
+      "B1+"
+    ],
+    [
+      "discuss",
+      27,
+      "B1+"
+    ],
+    [
+      "english",
+      27,
+      "A2"
+    ],
+    [
+      "professional",
+      27,
+      "B1+"
+    ],
+    [
+      "sounds",
+      25,
+      "A2"
+    ],
+    [
+      "efficiency",
+      23,
+      "B1+"
+    ],
+    [
+      "due",
+      22,
+      "B1+"
+    ],
+    [
+      "key",
+      22,
+      "A2"
+    ],
+    [
+      "kpis",
+      22,
+      "B1+"
+    ],
+    [
+      "means",
+      22,
+      "A2"
+    ],
+    [
+      "shows",
+      22,
+      "A2"
+    ],
+    [
+      "strong",
+      22,
+      "A2"
+    ],
+    [
+      "trends",
+      22,
+      "B1+"
+    ],
+    [
+      "challenges",
+      20,
+      "B1+"
+    ],
+    [
+      "company",
+      20,
+      "B1+"
+    ],
+    [
+      "explain",
+      20,
+      "B1+"
+    ],
+    [
+      "next",
+      20,
+      "A2"
+    ],
+    [
+      "today",
+      20,
+      "A2"
+    ],
+    [
+      "compared",
+      19,
+      "B1+"
+    ],
+    [
+      "important",
+      19,
+      "A2"
+    ],
+    [
+      "operational",
+      19,
+      "B1+"
+    ],
+    [
+      "positive",
+      19,
+      "B1+"
+    ],
+    [
+      "reports",
+      19,
+      "A2"
+    ],
+    [
+      "targets",
+      19,
+      "B1+"
+    ],
+    [
+      "focus",
+      18,
+      "B1+"
+    ],
+    [
+      "practice",
+      18,
+      "A2"
+    ],
+    [
+      "also",
+      17,
+      "A2"
+    ],
+    [
+      "margins",
+      16,
+      "B1+"
+    ],
+    [
+      "improvement",
+      15,
+      "B1+"
+    ],
+    [
+      "phrases",
+      15,
+      "B1+"
+    ],
+    [
+      "refers",
+      15,
+      "B1+"
+    ],
+    [
+      "remained",
+      15,
+      "A2"
+    ],
+    [
+      "us",
+      15,
+      "A2"
+    ],
+    [
+      "achieved",
+      14,
+      "B1+"
+    ],
+    [
+      "help",
+      14,
+      "A2"
+    ],
+    [
+      "meeting",
+      14,
+      "A2"
+    ],
+    [
+      "useful",
+      14,
+      "A2"
+    ],
+    [
+      "data",
+      13,
+      "B1+"
+    ],
+    [
+      "expect",
+      13,
+      "A2"
+    ],
+    [
+      "expenses",
+      13,
+      "B1+"
+    ],
+    [
+      "last",
+      13,
+      "A2"
+    ],
+    [
+      "numbers",
+      13,
+      "B1+"
+    ],
+    [
+      "question",
+      13,
+      "A2"
+    ],
+    [
+      "satisfaction",
+      13,
+      "B1+"
+    ],
+    [
+      "conversations",
+      12,
+      "B1+"
+    ],
+    [
+      "describing",
+      12,
+      "B1+"
+    ],
+    [
+      "expectations",
+      12,
+      "B1+"
+    ],
+    [
+      "forecasting",
+      12,
+      "B1+"
+    ],
+    [
+      "future",
+      12,
+      "A2"
+    ],
+    [
+      "indicators",
+      12,
+      "B1+"
+    ],
+    [
+      "metrics",
+      12,
+      "B1+"
+    ],
+    [
+      "performed",
+      12,
+      "B1+"
+    ],
+    [
+      "see",
+      12,
+      "A2"
+    ],
+    [
+      "clear",
+      11,
+      "A2"
+    ],
+    [
+      "common",
+      11,
+      "A2"
+    ],
+    [
+      "discussions",
+      11,
+      "B1+"
+    ],
+    [
+      "exceeded",
+      11,
+      "B1+"
+    ],
+    [
+      "implemented",
+      11,
+      "B1+"
+    ],
+    [
+      "kpi",
+      11,
+      "B1+"
+    ],
+    [
+      "line",
+      11,
+      "A2"
+    ],
+    [
+      "overall",
+      11,
+      "B1+"
+    ],
+    [
+      "plan",
+      11,
+      "A2"
+    ],
+    [
+      "productivity",
+      11,
+      "B1+"
+    ],
+    [
+      "stable",
+      11,
+      "B1+"
+    ],
+    [
+      "start",
+      11,
+      "A2"
+    ],
+    [
+      "steady",
+      11,
+      "B1+"
+    ],
+    [
+      "topic",
+      11,
+      "B1+"
+    ],
+    [
+      "always",
+      10,
+      "B1+"
+    ],
+    [
+      "comparisons",
+      10,
+      "B1+"
+    ],
+    [
+      "context",
+      10,
+      "B1+"
+    ],
+    [
+      "improve",
+      10,
+      "B1+"
+    ],
+    [
+      "increase",
+      10,
+      "A2"
+    ],
+    [
+      "language",
+      10,
+      "A2"
+    ],
+    [
+      "new",
+      10,
+      "A2"
+    ],
+    [
+      "presentations",
+      10,
+      "B1+"
+    ],
+    [
+      "previous",
+      10,
+      "B1+"
+    ],
+    [
+      "project",
+      10,
+      "B1+"
+    ],
+    [
+      "retention",
+      10,
+      "B1+"
+    ],
+    [
+      "slightly",
+      10,
+      "B1+"
+    ],
+    [
+      "strategic",
+      10,
+      "B1+"
+    ],
+    [
+      "thank",
+      10,
+      "A2"
+    ],
+    [
+      "use",
+      10,
+      "A2"
+    ],
+    [
+      "vocabulary",
+      10,
+      "B1+"
+    ],
+    [
+      "words",
+      10,
+      "A2"
+    ],
+    [
+      "anticipate",
+      9,
+      "B1+"
+    ],
+    [
+      "driven",
+      9,
+      "B1+"
+    ],
+    [
+      "episode",
+      9,
+      "B1+"
+    ],
+    [
+      "experienced",
+      9,
+      "B1+"
+    ],
+    [
+      "process",
+      9,
+      "B1+"
+    ],
+    [
+      "reducing",
+      9,
+      "B1+"
+    ],
+    [
+      "reviews",
+      9,
+      "B1+"
+    ],
+    [
+      "share",
+      9,
+      "A2"
+    ],
+    [
+      "strategy",
+      9,
+      "B1+"
+    ],
+    [
+      "structure",
+      9,
+      "B1+"
+    ],
+    [
+      "time",
+      9,
+      "A2"
+    ],
+    [
+      "acquisition",
+      8,
+      "B1+"
+    ],
+    [
+      "actions",
+      8,
+      "B1+"
+    ],
+    [
+      "analytical",
+      8,
+      "B1+"
+    ],
+    [
+      "control",
+      8,
+      "B1+"
+    ],
+    [
+      "declined",
+      8,
+      "B1+"
+    ],
+    [
+      "demand",
+      8,
+      "B1+"
+    ],
+    [
+      "everyone",
+      8,
+      "A2"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "business performance",
+      "count": 33,
+      "example": "professional skill, how to talk about business performance in English.",
+      "t": 18.59
+    },
+    {
+      "text": "let's talk",
+      "count": 22,
+      "example": "last quarter, last year, or targets. Let's talk about useful comparison phrases.",
+      "t": 158.05
+    },
+    {
+      "text": "business english",
+      "count": 14,
+      "example": "Hello and welcome back to Business English Practice. Today we're discussing a critical",
+      "t": 14.15
+    },
+    {
+      "text": "talk about business",
+      "count": 13,
+      "example": "professional skill, how to talk about business performance in English.",
+      "t": 18.59
+    },
+    {
+      "text": "revenue increased",
+      "count": 13,
+      "example": "For example, revenue increased by 12% compared to the previous quarter,",
+      "t": 135.51
+    },
+    {
+      "text": "customer satisfaction",
+      "count": 12,
+      "example": "For example, we achieved 95% of our quarterly sales target, or customer satisfaction scores",
+      "t": 371.55
+    },
+    {
+      "text": "performance in english",
+      "count": 9,
+      "example": "professional skill, how to talk about business performance in English.",
+      "t": 18.59
+    },
+    {
+      "text": "operational efficiency",
+      "count": 9,
+      "example": "retention, and operational efficiency. It depends on the context and industry.",
+      "t": 79.93
+    },
+    {
+      "text": "performance indicators",
+      "count": 9,
+      "example": "Exactly. Before speaking, ask yourself what performance indicators are relevant to this",
+      "t": 89.93
+    },
+    {
+      "text": "previous quarter",
+      "count": 9,
+      "example": "For example, revenue increased by 12% compared to the previous quarter,",
+      "t": 135.51
+    }
+  ],
+  "phrases": [
+    {
+      "text": "business performance",
+      "count": 33,
+      "example": "professional skill, how to talk about business performance in English.",
+      "t": 18.59
+    },
+    {
+      "text": "let's talk",
+      "count": 22,
+      "example": "last quarter, last year, or targets. Let's talk about useful comparison phrases.",
+      "t": 158.05
+    },
+    {
+      "text": "business english",
+      "count": 14,
+      "example": "Hello and welcome back to Business English Practice. Today we're discussing a critical",
+      "t": 14.15
+    },
+    {
+      "text": "talk about business",
+      "count": 13,
+      "example": "professional skill, how to talk about business performance in English.",
+      "t": 18.59
+    },
+    {
+      "text": "revenue increased",
+      "count": 13,
+      "example": "For example, revenue increased by 12% compared to the previous quarter,",
+      "t": 135.51
+    },
+    {
+      "text": "customer satisfaction",
+      "count": 12,
+      "example": "For example, we achieved 95% of our quarterly sales target, or customer satisfaction scores",
+      "t": 371.55
+    },
+    {
+      "text": "performance in english",
+      "count": 9,
+      "example": "professional skill, how to talk about business performance in English.",
+      "t": 18.59
+    },
+    {
+      "text": "operational efficiency",
+      "count": 9,
+      "example": "retention, and operational efficiency. It depends on the context and industry.",
+      "t": 79.93
+    },
+    {
+      "text": "performance indicators",
+      "count": 9,
+      "example": "Exactly. Before speaking, ask yourself what performance indicators are relevant to this",
+      "t": 89.93
+    },
+    {
+      "text": "previous quarter",
+      "count": 9,
+      "example": "For example, revenue increased by 12% compared to the previous quarter,",
+      "t": 135.51
+    },
+    {
+      "text": "last year",
+      "count": 9,
+      "example": "last quarter, last year, or targets. Let's talk about useful comparison phrases.",
+      "t": 158.05
+    },
+    {
+      "text": "year over year",
+      "count": 9,
+      "example": "This quarter, sales increased by 8% year over year while operating expenses decreased by 2%",
+      "t": 198.69
+    },
+    {
+      "text": "let's discuss",
+      "count": 9,
+      "example": "Let's discuss describing positive performance.",
+      "t": 212.37
+    },
+    {
+      "text": "key performance",
+      "count": 9,
+      "example": "KPI stands for Key Performance Indicator.",
+      "t": 365.43
+    },
+    {
+      "text": "let's start",
+      "count": 8,
+      "example": "Let's start with the basics. When we talk about business performance, what are we usually referring to?",
+      "t": 65.93
+    },
+    {
+      "text": "market share",
+      "count": 8,
+      "example": "Typically, revenue, profit, costs, growth rate, market share, productivity, customer acquisition,",
+      "t": 71.93
+    },
+    {
+      "text": "good idea",
+      "count": 8,
+      "example": "Good idea. Use phrases like compared to, in line with, slightly above, below expectations,",
+      "t": 163.97
+    },
+    {
+      "text": "let's practice",
+      "count": 8,
+      "example": "Let's practice describing strong performance in detail.",
+      "t": 265.81
+    },
+    {
+      "text": "customer retention",
+      "count": 7,
+      "example": "customer retention. Profit margins improved due to cost management initiatives and supply",
+      "t": 280.81
+    },
+    {
+      "text": "profit margins",
+      "count": 7,
+      "example": "customer retention. Profit margins improved due to cost management initiatives and supply",
+      "t": 280.81
+    },
+    {
+      "text": "next quarter",
+      "count": 7,
+      "example": "marketing campaigns to improve conversion rates in the next quarter.",
+      "t": 351.15
+    },
+    {
+      "text": "english conversations",
+      "count": 7,
+      "example": "Hello and welcome to Business English Conversations.",
+      "t": 549.41
+    },
+    {
+      "text": "business english conversations",
+      "count": 7,
+      "example": "Hello and welcome to Business English Conversations.",
+      "t": 549.41
+    },
+    {
+      "text": "key performance indicators",
+      "count": 7,
+      "example": "Let's talk about key performance indicators, KPIs.",
+      "t": 801.39
+    },
+    {
+      "text": "hello and welcome",
+      "count": 6,
+      "example": "Hello and welcome back to Business English Practice. Today we're discussing a critical",
+      "t": 14.15
+    },
+    {
+      "text": "revenue profit",
+      "count": 6,
+      "example": "Typically, revenue, profit, costs, growth rate, market share, productivity, customer acquisition,",
+      "t": 71.93
+    },
+    {
+      "text": "customer acquisition",
+      "count": 6,
+      "example": "Typically, revenue, profit, costs, growth rate, market share, productivity, customer acquisition,",
+      "t": 71.93
+    },
+    {
+      "text": "positive performance",
+      "count": 6,
+      "example": "Let's discuss describing positive performance.",
+      "t": 212.37
+    },
+    {
+      "text": "revenue growth",
+      "count": 6,
+      "example": "Example, based on current trends, we anticipate moderate revenue growth next quarter.",
+      "t": 451.75
+    },
+    {
+      "text": "us today",
+      "count": 6,
+      "example": "We're so glad you could join us today.",
+      "t": 553.57
+    },
+    {
+      "text": "compared to last",
+      "count": 6,
+      "example": "Or, are revenue increased by 15% compared to last year?",
+      "t": 649.73
+    },
+    {
+      "text": "operational costs",
+      "count": 5,
+      "example": "with revenue increasing and operational costs remaining stable.",
+      "t": 126.31
+    },
+    {
+      "text": "increased by compared",
+      "count": 5,
+      "example": "For example, revenue increased by 12% compared to the previous quarter,",
+      "t": 135.51
+    },
+    {
+      "text": "fell short",
+      "count": 5,
+      "example": "Exceeded projections fell short of targets year-over-year growth, quarter-over-quarter improvement.",
+      "t": 171.41
+    },
+    {
+      "text": "go ahead",
+      "count": 5,
+      "example": "Go ahead.",
+      "t": 188.29
+    },
+    {
+      "text": "improved due",
+      "count": 5,
+      "example": "customer retention. Profit margins improved due to cost management initiatives and supply",
+      "t": 280.81
+    },
+    {
+      "text": "sales growth",
+      "count": 5,
+      "example": "Yes. Results such as revenue, profit, sales growth, productivity,",
+      "t": 606.93
+    },
+    {
+      "text": "performed better",
+      "count": 5,
+      "example": "That means we performed better than expected.",
+      "t": 683.81
+    },
+    {
+      "text": "sounds professional",
+      "count": 5,
+      "example": "That sounds professional and clear.",
+      "t": 741.17
+    },
+    {
+      "text": "market conditions",
+      "count": 5,
+      "example": "Or, we anticipate a slowdown due to market conditions.",
+      "t": 838.39
+    },
+    {
+      "text": "steady growth",
+      "count": 5,
+      "example": "improvements in service quality. Looking ahead, we anticipate steady growth as we continue",
+      "t": 930.15
+    },
+    {
+      "text": "joining us",
+      "count": 5,
+      "example": "Thanks for joining us.",
+      "t": 1054.39
+    },
+    {
+      "text": "talk about describing",
+      "count": 5,
+      "example": "Let's talk about describing positive performance.",
+      "t": 1216.57
+    },
+    {
+      "text": "upward trend",
+      "count": 5,
+      "example": "This quarter performed better than the previous one. We've seen a steady upward trend over the past six months.",
+      "t": 1865.47
+    },
+    {
+      "text": "today we're",
+      "count": 4,
+      "example": "Hello and welcome back to Business English Practice. Today we're discussing a critical",
+      "t": 14.15
+    },
+    {
+      "text": "performance update",
+      "count": 4,
+      "example": "How should someone structure a business performance update?",
+      "t": 107.61
+    },
+    {
+      "text": "company delivered",
+      "count": 4,
+      "example": "Yes. For example, overall, the company delivered solid growth this quarter,",
+      "t": 121.15
+    },
+    {
+      "text": "delivered solid",
+      "count": 4,
+      "example": "Yes. For example, overall, the company delivered solid growth this quarter,",
+      "t": 121.15
+    },
+    {
+      "text": "operating expenses",
+      "count": 4,
+      "example": "while operating expenses rose by 3% due to process optimization initiatives.",
+      "t": 140.31
+    },
+    {
+      "text": "process optimization",
+      "count": 4,
+      "example": "while operating expenses rose by 3% due to process optimization initiatives.",
+      "t": 140.31
+    },
+    {
+      "text": "strong performance",
+      "count": 4,
+      "example": "Strong performance verbs include increased, grew, expanded, accelerated, strengthened,",
+      "t": 216.93
+    },
+    {
+      "text": "driven primarily",
+      "count": 4,
+      "example": "Revenue grew by 15%, driven primarily by expansion into new markets and increased",
+      "t": 275.05
+    },
+    {
+      "text": "future performance",
+      "count": 4,
+      "example": "Talking about future performance is also important.",
+      "t": 440.91
+    },
+    {
+      "text": "talking about business",
+      "count": 4,
+      "example": "When talking about business performance, remember this framework, summarize clearly, present key",
+      "t": 512.59
+    },
+    {
+      "text": "keep practicing",
+      "count": 4,
+      "example": "Keep practicing structured communication because strong performance means little if you can't",
+      "t": 541.73
+    },
+    {
+      "text": "welcome to business",
+      "count": 4,
+      "example": "Hello and welcome to Business English Conversations.",
+      "t": 549.41
+    },
+    {
+      "text": "hi everyone",
+      "count": 4,
+      "example": "Hi everyone.",
+      "t": 552.17
+    },
+    {
+      "text": "performance refers",
+      "count": 4,
+      "example": "Business performance refers to how well a company, team, or department is doing.",
+      "t": 599.81
+    },
+    {
+      "text": "business performance refers",
+      "count": 4,
+      "example": "Business performance refers to how well a company, team, or department is doing.",
+      "t": 599.81
+    },
+    {
+      "text": "total income",
+      "count": 4,
+      "example": "That's true. Revenue is the total income generated from sales.",
+      "t": 618.77
+    },
+    {
+      "text": "bottom line",
+      "count": 4,
+      "example": "Exactly. So revenue is the top line and profit is the bottom line.",
+      "t": 626.61
+    },
+    {
+      "text": "exceeded our targets",
+      "count": 4,
+      "example": "We exceeded our targets.",
+      "t": 681.73
+    },
+    {
+      "text": "performance remained",
+      "count": 4,
+      "example": "You can say performance remained steady or we maintained consistent growth.",
+      "t": 698.69
+    },
+    {
+      "text": "sales declined",
+      "count": 4,
+      "example": "You can say sales declined by 8% this quarter,",
+      "t": 716.61
+    },
+    {
+      "text": "increase in revenue",
+      "count": 4,
+      "example": "Based on current trends, we project a 5% increase in revenue next quarter.",
+      "t": 848.39
+    },
+    {
+      "text": "performance reviews",
+      "count": 4,
+      "example": "Yes, and these words are common in performance reviews.",
+      "t": 896.19
+    },
+    {
+      "text": "let's imagine",
+      "count": 4,
+      "example": "Let's imagine a full performance summary presentation.",
+      "t": 899.39
+    },
+    {
+      "text": "performance this quarter",
+      "count": 4,
+      "example": "Good afternoon everyone. I'm pleased to report that overall business performance this quarter",
+      "t": 906.39
+    },
+    {
+      "text": "exceeded expectations",
+      "count": 4,
+      "example": "exceeded expectations. Revenue increased by 15% year over year, largely driven by strong",
+      "t": 911.19
+    },
+    {
+      "text": "we'll see",
+      "count": 4,
+      "example": "We'll see you in the next episode.",
+      "t": 1041.35
+    },
+    {
+      "text": "next episode",
+      "count": 4,
+      "example": "We'll see you in the next episode.",
+      "t": 1041.35
+    },
+    {
+      "text": "remained stable",
+      "count": 4,
+      "example": "Or revenue remained stable, but profit margins improved due to cost optimization",
+      "t": 1133.03
+    },
+    {
+      "text": "also say",
+      "count": 4,
+      "example": "Yes, you could also say quarter over quarter to compare with the previous quarter.",
+      "t": 1192.49
+    },
+    {
+      "text": "supply chain",
+      "count": 4,
+      "example": "primarily due to supply chain disruptions and increased raw material costs. Providing",
+      "t": 1280.17
+    },
+    {
+      "text": "today's episode",
+      "count": 4,
+      "example": "In today's episode, we're going",
+      "t": 1615.31
+    },
+    {
+      "text": "describe performance",
+      "count": 3,
+      "example": "to investors, or giving a department update, you must describe performance clearly, accurately,",
+      "t": 40.05
+    },
+    {
+      "text": "today we'll",
+      "count": 3,
+      "example": "That's right. So today, we'll break it down step by step. Vocabulary, structure,",
+      "t": 55.05
+    },
+    {
+      "text": "vocabulary structure",
+      "count": 3,
+      "example": "That's right. So today, we'll break it down step by step. Vocabulary, structure,",
+      "t": 55.05
+    },
+    {
+      "text": "company delivered solid",
+      "count": 3,
+      "example": "Yes. For example, overall, the company delivered solid growth this quarter,",
+      "t": 121.15
+    },
+    {
+      "text": "optimization initiatives",
+      "count": 3,
+      "example": "while operating expenses rose by 3% due to process optimization initiatives.",
+      "t": 140.31
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen, practice, speak. Practice makes you perfect."
+    },
+    {
+      "t": 14.15,
+      "text": "Hello and welcome back to Business English Practice. Today we're discussing a critical"
+    },
+    {
+      "t": 18.59,
+      "text": "professional skill, how to talk about business performance in English."
+    },
+    {
+      "t": 22.67,
+      "text": "Yes, this is essential for managers, team leaders, analysts, entrepreneurs, and even employees"
+    },
+    {
+      "t": 28.89,
+      "text": "reporting to supervisors. At some point, everyone has to explain results."
+    },
+    {
+      "t": 34.23,
+      "text": "Exactly. Whether you're presenting quarterly results, discussing KPIs in a meeting, speaking"
+    },
+    {
+      "t": 40.05,
+      "text": "to investors, or giving a department update, you must describe performance clearly, accurately,"
+    },
+    {
+      "t": 46.71,
+      "text": "and strategically."
+    },
+    {
+      "t": 48.21,
+      "text": "And this topic can feel intimidating because it often involves numbers, trends, and sometimes"
+    },
+    {
+      "t": 53.65,
+      "text": "negative results."
+    },
+    {
+      "t": 55.05,
+      "text": "That's right. So today, we'll break it down step by step. Vocabulary, structure,"
+    },
+    {
+      "t": 60.93,
+      "text": "and common mistakes, and will model real conversations throughout."
+    },
+    {
+      "t": 65.93,
+      "text": "Let's start with the basics. When we talk about business performance, what are we usually referring to?"
+    },
+    {
+      "t": 71.93,
+      "text": "Typically, revenue, profit, costs, growth rate, market share, productivity, customer acquisition,"
+    },
+    {
+      "t": 79.93,
+      "text": "retention, and operational efficiency. It depends on the context and industry."
+    },
+    {
+      "t": 84.93,
+      "text": "So the first skill is understanding what metric matters in that situation."
+    },
+    {
+      "t": 89.93,
+      "text": "Exactly. Before speaking, ask yourself what performance indicators are relevant to this"
+    },
+    {
+      "t": 95.77,
+      "text": "audience. Executives may care about profitability. Operations may care about efficiency."
+    },
+    {
+      "t": 101.93,
+      "text": "Sales teams focus on revenue and targets. Let's start with a simple reporting structure."
+    },
+    {
+      "t": 107.61,
+      "text": "How should someone structure a business performance update?"
+    },
+    {
+      "t": 110.97,
+      "text": "A clear structure is overall summary, key metrics, explanation of drivers, challenges, outlook."
+    },
+    {
+      "t": 118.97,
+      "text": "So begin with the big picture."
+    },
+    {
+      "t": 121.15,
+      "text": "Yes. For example, overall, the company delivered solid growth this quarter,"
+    },
+    {
+      "t": 126.31,
+      "text": "with revenue increasing and operational costs remaining stable."
+    },
+    {
+      "t": 130.27,
+      "text": "That immediately sets the tone."
+    },
+    {
+      "t": 132.37,
+      "text": "Exactly. Then you move into specifics."
+    },
+    {
+      "t": 135.51,
+      "text": "For example, revenue increased by 12% compared to the previous quarter,"
+    },
+    {
+      "t": 140.31,
+      "text": "while operating expenses rose by 3% due to process optimization initiatives."
+    },
+    {
+      "t": 145.41,
+      "text": "Notice the comparison language compared to the previous quarter. Comparisons are essential."
+    },
+    {
+      "t": 151.57,
+      "text": "Absolutely. Performance without comparison has no meaning. You must compare against last month,"
+    },
+    {
+      "t": 158.05,
+      "text": "last quarter, last year, or targets. Let's talk about useful comparison phrases."
+    },
+    {
+      "t": 163.97,
+      "text": "Good idea. Use phrases like compared to, in line with, slightly above, below expectations,"
+    },
+    {
+      "t": 171.41,
+      "text": "Exceeded projections fell short of targets year-over-year growth, quarter-over-quarter improvement."
+    },
+    {
+      "t": 178.45,
+      "text": "Those phrases sound analytical and professional."
+    },
+    {
+      "t": 181.73,
+      "text": "They also show control over data interpretation."
+    },
+    {
+      "t": 184.85,
+      "text": "Let's model a short performance update. I'll try."
+    },
+    {
+      "t": 188.29,
+      "text": "Go ahead."
+    },
+    {
+      "t": 189.17,
+      "text": "This quarter sales improved and costs were lower."
+    },
+    {
+      "t": 192.77,
+      "text": "Too vague."
+    },
+    {
+      "t": 193.81,
+      "text": "Improved and lower are not precise enough. Add numbers and context."
+    },
+    {
+      "t": 198.69,
+      "text": "This quarter, sales increased by 8% year over year while operating expenses decreased by 2%"
+    },
+    {
+      "t": 205.41,
+      "text": "due to process optimization initiatives."
+    },
+    {
+      "t": 208.13,
+      "text": "Much stronger."
+    },
+    {
+      "t": 209.33,
+      "text": "Now the audience can evaluate performance clearly."
+    },
+    {
+      "t": 212.37,
+      "text": "Let's discuss describing positive performance."
+    },
+    {
+      "t": 215.25,
+      "text": "What verbs are useful?"
+    },
+    {
+      "t": 216.93,
+      "text": "Strong performance verbs include increased, grew, expanded, accelerated, strengthened,"
+    },
+    {
+      "t": 223.97,
+      "text": "improved, outperformed, exceeded, delivered, achieved."
+    },
+    {
+      "t": 229.49,
+      "text": "And for negative performance?"
+    },
+    {
+      "t": 231.49,
+      "text": "Declined, decreased, contracted, slowed, underperformed, fell short, weakened, experienced pressure,"
+    },
+    {
+      "t": 240.45,
+      "text": "dropped."
+    },
+    {
+      "t": 241.45,
+      "text": "I like experienced pressure."
+    },
+    {
+      "t": 243.45,
+      "text": "It sounds more diplomatic."
+    },
+    {
+      "t": 245.37,
+      "text": "Exactly."
+    },
+    {
+      "t": 246.57,
+      "text": "Language choice influences perception, saying sales collapsed creates panic, saying sales"
+    },
+    {
+      "t": 252.17,
+      "text": "experienced downward pressure sounds measured and controlled."
+    },
+    {
+      "t": 256.29,
+      "text": "So tone matters just as much as numbers."
+    },
+    {
+      "t": 259.25,
+      "text": "Yes."
+    },
+    {
+      "t": 260.25,
+      "text": "When discussing business performance, your tone should be objective and analytical, not"
+    },
+    {
+      "t": 264.81,
+      "text": "emotional."
+    },
+    {
+      "t": 265.81,
+      "text": "Let's practice describing strong performance in detail."
+    },
+    {
+      "t": 269.53,
+      "text": "Go ahead."
+    },
+    {
+      "t": 270.53,
+      "text": "The company delivered strong financial performance in the first half of the year."
+    },
+    {
+      "t": 275.05,
+      "text": "Revenue grew by 15%, driven primarily by expansion into new markets and increased"
+    },
+    {
+      "t": 280.81,
+      "text": "customer retention. Profit margins improved due to cost management initiatives and supply"
+    },
+    {
+      "t": 286.15,
+      "text": "chain efficiencies. Excellent. Notice how you explained the drivers. Expansion, retention,"
+    },
+    {
+      "t": 292.83,
+      "text": "cost management. Performance reports must explain why results happened. So numbers"
+    },
+    {
+      "t": 298.27,
+      "text": "alone are incomplete. Correct. Always answer the implicit question, what caused this result?"
+    },
+    {
+      "t": 305.31,
+      "text": "Let's now practice discussing weaker performance. Many learners struggle with that. Yes,"
+    },
+    {
+      "t": 310.75,
+      "text": "it requires diplomacy and strategic framing."
+    },
+    {
+      "t": 313.87,
+      "text": "I'll try."
+    },
+    {
+      "t": 315.07,
+      "text": "Our sales dropped a lot this quarter."
+    },
+    {
+      "t": 317.87,
+      "text": "Too informal and vague."
+    },
+    {
+      "t": 319.77,
+      "text": "Try something more analytical."
+    },
+    {
+      "t": 321.71,
+      "text": "This quarter revenue declined by 6% compared to the previous quarter, primarily due to"
+    },
+    {
+      "t": 326.87,
+      "text": "seasonal fluctuations and delayed product launches."
+    },
+    {
+      "t": 330.31,
+      "text": "Good."
+    },
+    {
+      "t": 331.31,
+      "text": "Now you've added explanation and context."
+    },
+    {
+      "t": 334.11,
+      "text": "That reduces concern."
+    },
+    {
+      "t": 336.03,
+      "text": "Should we always include corrective actions?"
+    },
+    {
+      "t": 338.55,
+      "text": "Yes."
+    },
+    {
+      "t": 339.55,
+      "text": "Supporting challenges follow this structure."
+    },
+    {
+      "t": 342.21,
+      "text": "Issue."
+    },
+    {
+      "t": 343.21,
+      "text": "Cause."
+    },
+    {
+      "t": 344.21,
+      "text": "Response."
+    },
+    {
+      "t": 345.21,
+      "text": "Example?"
+    },
+    {
+      "t": 346.21,
+      "text": "Customer acquisition slowed due to increased competition, however, we've implemented targeted"
+    },
+    {
+      "t": 351.15,
+      "text": "marketing campaigns to improve conversion rates in the next quarter."
+    },
+    {
+      "t": 355.27,
+      "text": "That shows control and forward planning."
+    },
+    {
+      "t": 358.23,
+      "text": "Exactly."
+    },
+    {
+      "t": 359.43,
+      "text": "Leaders don't just report problems, they present solutions."
+    },
+    {
+      "t": 362.99,
+      "text": "Let's talk about KPI language."
+    },
+    {
+      "t": 365.43,
+      "text": "KPI stands for Key Performance Indicator."
+    },
+    {
+      "t": 368.67,
+      "text": "When discussing KPIs, be specific."
+    },
+    {
+      "t": 371.55,
+      "text": "For example, we achieved 95% of our quarterly sales target, or customer satisfaction scores"
+    },
+    {
+      "t": 377.95,
+      "text": "increased from 82 to 88."
+    },
+    {
+      "t": 381.15,
+      "text": "Precision builds credibility."
+    },
+    {
+      "t": 382.95,
+      "text": "Always."
+    },
+    {
+      "t": 384.11,
+      "text": "Avoid phrases like doing well or not great."
+    },
+    {
+      "t": 387.51,
+      "text": "Replace them with measurable descriptions."
+    },
+    {
+      "t": 390.03,
+      "text": "Let's practice a management meeting conversation."
+    },
+    {
+      "t": 392.83,
+      "text": "I'll be the manager, you report performance."
+    },
+    {
+      "t": 395.43,
+      "text": "Okay."
+    },
+    {
+      "t": 396.27,
+      "text": "How did the marketing department perform this quarter?"
+    },
+    {
+      "t": 398.91,
+      "text": "Overall, marketing performance was positive."
+    },
+    {
+      "t": 401.71,
+      "text": "Lead generation increased by 20%"
+    },
+    {
+      "t": 404.31,
+      "text": "compared to the previous quarter,"
+    },
+    {
+      "t": 406.07,
+      "text": "and campaign conversion rates improved by 5%."
+    },
+    {
+      "t": 409.75,
+      "text": "However, cost per acquisition rose slightly"
+    },
+    {
+      "t": 412.87,
+      "text": "due to higher digital advertising expenses."
+    },
+    {
+      "t": 415.71,
+      "text": "What drove the increase in lead generation?"
+    },
+    {
+      "t": 418.31,
+      "text": "The improvement was mainly driven"
+    },
+    {
+      "t": 420.11,
+      "text": "by targeted content campaigns"
+    },
+    {
+      "t": 421.99,
+      "text": "and improved audience segmentation."
+    },
+    {
+      "t": 424.43,
+      "text": "And what steps are you taking to control acquisition costs?"
+    },
+    {
+      "t": 427.99,
+      "text": "We're optimizing our ad spend by reallocating budget"
+    },
+    {
+      "t": 431.23,
+      "text": "toward higher performing channels"
+    },
+    {
+      "t": 432.91,
+      "text": "and refining our bidding strategy."
+    },
+    {
+      "t": 435.19,
+      "text": "Excellent, structured, analytical, and solution focused."
+    },
+    {
+      "t": 439.19,
+      "text": "Let's discuss forecasting."
+    },
+    {
+      "t": 440.91,
+      "text": "Talking about future performance is also important."
+    },
+    {
+      "t": 443.75,
+      "text": "Yes, use phrases like we anticipate, we project,"
+    },
+    {
+      "t": 448.11,
+      "text": "we expect, we forecast, we are targeting."
+    },
+    {
+      "t": 451.75,
+      "text": "Example, based on current trends, we anticipate moderate revenue growth next quarter."
+    },
+    {
+      "t": 457.31,
+      "text": "Good."
+    },
+    {
+      "t": 458.31,
+      "text": "Always signal uncertainty professionally."
+    },
+    {
+      "t": 461.15,
+      "text": "Avoid absolute promises."
+    },
+    {
+      "t": 463.15,
+      "text": "So instead of we will double revenue, say we are targeting significant revenue growth."
+    },
+    {
+      "t": 468.99,
+      "text": "Exactly."
+    },
+    {
+      "t": 470.55,
+      "text": "Forecasts should sound data-driven, not emotional."
+    },
+    {
+      "t": 473.55,
+      "text": "Before we finish, let's talk about common mistakes."
+    },
+    {
+      "t": 476.47,
+      "text": "One mistake is being too vague with numbers."
+    },
+    {
+      "t": 479.75,
+      "text": "Another mistake is giving numbers without explaining what caused them."
+    },
+    {
+      "t": 483.19,
+      "text": "A third mistake is focusing only on positive metrics and ignoring challenges."
+    },
+    {
+      "t": 488.75,
+      "text": "Balanced reporting builds trust."
+    },
+    {
+      "t": 491.07,
+      "text": "Another mistake is speaking too quickly when discussing numbers, which makes it hard for"
+    },
+    {
+      "t": 495.15,
+      "text": "listeners to follow."
+    },
+    {
+      "t": 496.55,
+      "text": "Yes, slow down slightly when presenting data."
+    },
+    {
+      "t": 499.67,
+      "text": "Clarity matters more than speed."
+    },
+    {
+      "t": 502.19,
+      "text": "Some speakers also overload their audience with too many metrics."
+    },
+    {
+      "t": 505.91,
+      "text": "Correct."
+    },
+    {
+      "t": 506.91,
+      "text": "Focus on key indicators, not every statistic available."
+    },
+    {
+      "t": 510.91,
+      "text": "Final advice for our listeners?"
+    },
+    {
+      "t": 512.59,
+      "text": "When talking about business performance, remember this framework, summarize clearly, present key"
+    },
+    {
+      "t": 518.11,
+      "text": "metrics with comparisons, explain drivers, address challenges with solutions, and end"
+    },
+    {
+      "t": 524.35,
+      "text": "with forward-looking insights."
+    },
+    {
+      "t": 526.85,
+      "text": "And practice describing performance both when results are strong and when results are"
+    },
+    {
+      "t": 531.23,
+      "text": "weak."
+    },
+    {
+      "t": 532.23,
+      "text": "And always speak with confidence, clarity, and objectivity."
+    },
+    {
+      "t": 536.29,
+      "text": "That concludes our comprehensive discussion on how to talk about business performance in"
+    },
+    {
+      "t": 540.73,
+      "text": "English."
+    },
+    {
+      "t": 541.73,
+      "text": "Keep practicing structured communication because strong performance means little if you can't"
+    },
+    {
+      "t": 546.09,
+      "text": "communicate it effectively."
+    },
+    {
+      "t": 548.01,
+      "text": "See you in the next session."
+    },
+    {
+      "t": 549.41,
+      "text": "Hello and welcome to Business English Conversations."
+    },
+    {
+      "t": 552.17,
+      "text": "Hi everyone."
+    },
+    {
+      "t": 553.57,
+      "text": "We're so glad you could join us today."
+    },
+    {
+      "t": 555.53,
+      "text": "On this podcast, we help you improve your professional English through natural, practical"
+    },
+    {
+      "t": 560.17,
+      "text": "workplace conversations."
+    },
+    {
+      "t": 562.05,
+      "text": "And today's topic is extremely important in the business world."
+    },
+    {
+      "t": 565.81,
+      "text": "Yes, today we're talking about how to talk about business performance in English."
+    },
+    {
+      "t": 570.77,
+      "text": "This is a big one."
+    },
+    {
+      "t": 572.37,
+      "text": "It really is. Whether you work in sales, finance, marketing, operations, or management,"
+    },
+    {
+      "t": 578.13,
+      "text": "you'll need to discuss performance at some point."
+    },
+    {
+      "t": 580.85,
+      "text": "Especially in meetings, quarterly reviews, presentations, and reports."
+    },
+    {
+      "t": 585.81,
+      "text": "Exactly. So today we'll cover useful vocabulary, phrases, and real examples"
+    },
+    {
+      "t": 591.09,
+      "text": "to help you speak clearly and confidently about business results."
+    },
+    {
+      "t": 595.09,
+      "text": "Let's start with the basics. What does business performance actually mean?"
+    },
+    {
+      "t": 599.81,
+      "text": "Business performance refers to how well a company, team, or department is doing."
+    },
+    {
+      "t": 605.01,
+      "text": "So it's about results?"
+    },
+    {
+      "t": 606.93,
+      "text": "Yes. Results such as revenue, profit, sales growth, productivity,"
+    },
+    {
+      "t": 611.65,
+      "text": "market share, and customer satisfaction."
+    },
+    {
+      "t": 614.29,
+      "text": "Let's start with revenue and profit because people often confuse those two."
+    },
+    {
+      "t": 618.77,
+      "text": "That's true. Revenue is the total income generated from sales."
+    },
+    {
+      "t": 623.17,
+      "text": "And profit is what remains after expenses are deducted."
+    },
+    {
+      "t": 626.61,
+      "text": "Exactly. So revenue is the top line and profit is the bottom line."
+    },
+    {
+      "t": 631.65,
+      "text": "I like that expression, bottom line. What does it mean?"
+    },
+    {
+      "t": 635.01,
+      "text": "The bottom line refers to net profit. It can also mean the most important result or conclusion."
+    },
+    {
+      "t": 641.17,
+      "text": "So how can we talk about positive performance?"
+    },
+    {
+      "t": 644.29,
+      "text": "There are many ways. For example, you can say, we've seen strong growth this quarter."
+    },
+    {
+      "t": 649.73,
+      "text": "Or, are revenue increased by 15% compared to last year?"
+    },
+    {
+      "t": 653.81,
+      "text": "Yes, and notice the structure, increased by 15%."
+    },
+    {
+      "t": 658.53,
+      "text": "What's the difference between increased by and increased to?"
+    },
+    {
+      "t": 662.21,
+      "text": "Good question."
+    },
+    {
+      "t": 663.25,
+      "text": "Increased by shows the amount of change."
+    },
+    {
+      "t": 666.13,
+      "text": "Increased to shows the final number."
+    },
+    {
+      "t": 668.85,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 670.21,
+      "text": "Revenue increased by 10% to $2 million."
+    },
+    {
+      "t": 674.37,
+      "text": "So, 10% is the change and 2 million is the final result."
+    },
+    {
+      "t": 678.45,
+      "text": "Exactly. What are other positive phrases?"
+    },
+    {
+      "t": 681.73,
+      "text": "We exceeded our targets."
+    },
+    {
+      "t": 683.81,
+      "text": "That means we performed better than expected."
+    },
+    {
+      "t": 686.77,
+      "text": "Right. Or you can say we outperformed the market."
+    },
+    {
+      "t": 690.37,
+      "text": "That sounds impressive."
+    },
+    {
+      "t": 692.09,
+      "text": "It does. It means your company performed better than competitors."
+    },
+    {
+      "t": 695.85,
+      "text": "What about describing stable performance?"
+    },
+    {
+      "t": 698.69,
+      "text": "You can say performance remained steady or we maintained consistent growth."
+    },
+    {
+      "t": 703.73,
+      "text": "So steady means stable without major changes."
+    },
+    {
+      "t": 707.61,
+      "text": "Exactly. Now let's talk about negative performance."
+    },
+    {
+      "t": 711.21,
+      "text": "Yes, this is just as important."
+    },
+    {
+      "t": 713.81,
+      "text": "How do you describe a decline professionally?"
+    },
+    {
+      "t": 716.61,
+      "text": "You can say sales declined by 8% this quarter,"
+    },
+    {
+      "t": 720.61,
+      "text": "or we experienced the slight drop in revenue."
+    },
+    {
+      "t": 723.91,
+      "text": "I noticed you said slight drop."
+    },
+    {
+      "t": 726.11,
+      "text": "Yes, adding words like slight, moderate, or significant"
+    },
+    {
+      "t": 730.11,
+      "text": "helps describe the size of the change."
+    },
+    {
+      "t": 732.41,
+      "text": "So what if the situation is serious?"
+    },
+    {
+      "t": 735.01,
+      "text": "You might say, we saw a significant decrease in profit due to rising operational costs."
+    },
+    {
+      "t": 741.17,
+      "text": "That sounds professional and clear."
+    },
+    {
+      "t": 743.33,
+      "text": "Yes, and it explains the reason."
+    },
+    {
+      "t": 745.65,
+      "text": "That's important, isn't it?"
+    },
+    {
+      "t": 747.17,
+      "text": "Absolutely. When discussing poor performance, always provide context or explanation."
+    },
+    {
+      "t": 752.77,
+      "text": "Let's create a full example for a quarterly meeting."
+    },
+    {
+      "t": 755.97,
+      "text": "Okay, here's a comprehensive example."
+    },
+    {
+      "t": 758.77,
+      "text": "Overall, this quarter's performance was strong."
+    },
+    {
+      "t": 761.89,
+      "text": "Revenue increased by 12% compared to the previous quarter,"
+    },
+    {
+      "t": 765.69,
+      "text": "driven primarily by growth in our online sales channel."
+    },
+    {
+      "t": 769.49,
+      "text": "Although operational costs rose slightly,"
+    },
+    {
+      "t": 772.29,
+      "text": "we were still able to improve our net profit margin."
+    },
+    {
+      "t": 775.69,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 777.49,
+      "text": "Thank you."
+    },
+    {
+      "t": 778.39,
+      "text": "Notice how it balances positive results with transparency."
+    },
+    {
+      "t": 782.39,
+      "text": "What if performance was mixed?"
+    },
+    {
+      "t": 784.39,
+      "text": "Then you can use contrast words like however, although and while."
+    },
+    {
+      "t": 789.39,
+      "text": "For example?"
+    },
+    {
+      "t": 790.39,
+      "text": "While sales volume increased, profit margins decreased due to higher production costs."
+    },
+    {
+      "t": 796.39,
+      "text": "That clearly shows both sides."
+    },
+    {
+      "t": 798.39,
+      "text": "Yes, it presents a balanced analysis."
+    },
+    {
+      "t": 801.39,
+      "text": "Let's talk about key performance indicators, KPIs."
+    },
+    {
+      "t": 805.39,
+      "text": "KPIs are measurable values that show how effectively a company is achieving its objectives."
+    },
+    {
+      "t": 811.39,
+      "text": "So in sales, a KPI might be monthly revenue."
+    },
+    {
+      "t": 815.39,
+      "text": "Or customer acquisition rate."
+    },
+    {
+      "t": 817.39,
+      "text": "How would you talk about KPIs in a meeting?"
+    },
+    {
+      "t": 819.39,
+      "text": "You could say, we met 3 out of 5 key performance indicators this quarter."
+    },
+    {
+      "t": 824.39,
+      "text": "Or, our customer retention rate improved significantly."
+    },
+    {
+      "t": 828.39,
+      "text": "Exactly. What about forecasting future performance?"
+    },
+    {
+      "t": 832.39,
+      "text": "That's another common discussion."
+    },
+    {
+      "t": 834.39,
+      "text": "What phrases are useful?"
+    },
+    {
+      "t": 835.39,
+      "text": "We expect continued growth in the next quarter."
+    },
+    {
+      "t": 838.39,
+      "text": "Or, we anticipate a slowdown due to market conditions."
+    },
+    {
+      "t": 842.39,
+      "text": "Yes, anticipate means expect."
+    },
+    {
+      "t": 845.39,
+      "text": "Let's practice a forward-looking statement."
+    },
+    {
+      "t": 848.39,
+      "text": "Based on current trends, we project a 5% increase in revenue next quarter."
+    },
+    {
+      "t": 853.67,
+      "text": "I like the word project."
+    },
+    {
+      "t": 855.67,
+      "text": "It sounds analytical and professional."
+    },
+    {
+      "t": 858.43,
+      "text": "What about comparing performance year over year?"
+    },
+    {
+      "t": 861.11,
+      "text": "You can say year over year revenue grew by 20%."
+    },
+    {
+      "t": 865.03,
+      "text": "That compares this year to last year."
+    },
+    {
+      "t": 867.31,
+      "text": "Exactly."
+    },
+    {
+      "t": 868.39,
+      "text": "And what does year over year mean?"
+    },
+    {
+      "t": 870.67,
+      "text": "It compares performance from one quarter to the previous quarter."
+    },
+    {
+      "t": 874.39,
+      "text": "Let's discuss productivity."
+    },
+    {
+      "t": 876.51,
+      "text": "You can say Productivity Improved after implementing the new system."
+    },
+    {
+      "t": 880.75,
+      "text": "Or Employee Output increased significantly."
+    },
+    {
+      "t": 884.11,
+      "text": "Good example."
+    },
+    {
+      "t": 885.47,
+      "text": "Output refers to the amount produced."
+    },
+    {
+      "t": 887.75,
+      "text": "What about efficiency?"
+    },
+    {
+      "t": 889.43,
+      "text": "We improved operational efficiency by reducing processing time."
+    },
+    {
+      "t": 893.81,
+      "text": "That sounds great for operations teams."
+    },
+    {
+      "t": 896.19,
+      "text": "Yes, and these words are common in performance reviews."
+    },
+    {
+      "t": 899.39,
+      "text": "Let's imagine a full performance summary presentation."
+    },
+    {
+      "t": 903.03,
+      "text": "Okay, here's a comprehensive example."
+    },
+    {
+      "t": 906.39,
+      "text": "Good afternoon everyone. I'm pleased to report that overall business performance this quarter"
+    },
+    {
+      "t": 911.19,
+      "text": "exceeded expectations. Revenue increased by 15% year over year, largely driven by strong"
+    },
+    {
+      "t": 917.67,
+      "text": "demand in the European market. While we experienced a slight increase in operating expenses,"
+    },
+    {
+      "t": 923.91,
+      "text": "our net profits still improved by 8%. Customer satisfaction scores also rose, reflecting"
+    },
+    {
+      "t": 930.15,
+      "text": "improvements in service quality. Looking ahead, we anticipate steady growth as we continue"
+    },
+    {
+      "t": 935.55,
+      "text": "expanding into new markets."
+    },
+    {
+      "t": 937.75,
+      "text": "That was excellent, very structured, and balanced."
+    },
+    {
+      "t": 941.23,
+      "text": "Thank you."
+    },
+    {
+      "t": 942.23,
+      "text": "Now let's also talk about handling difficult questions about poor performance."
+    },
+    {
+      "t": 947.07,
+      "text": "That requires diplomacy."
+    },
+    {
+      "t": 949.19,
+      "text": "What might someone say?"
+    },
+    {
+      "t": 950.95,
+      "text": "Although this quarter's results were below our initial projections, we've identified"
+    },
+    {
+      "t": 955.51,
+      "text": "the key challenges and are implementing corrective measures."
+    },
+    {
+      "t": 959.19,
+      "text": "That sounds calm and solution focused."
+    },
+    {
+      "t": 962.07,
+      "text": "Exactly."
+    },
+    {
+      "t": 963.23,
+      "text": "Never focus only on the problem."
+    },
+    {
+      "t": 965.47,
+      "text": "mentioned the action plan. So words like corrective measures, action plan and"
+    },
+    {
+      "t": 970.67,
+      "text": "improvement strategy are useful. Very useful. They show leadership and control."
+    },
+    {
+      "t": 975.91,
+      "text": "Before we finish, let's summarize key vocabulary. Revenue, profit, growth,"
+    },
+    {
+      "t": 981.59,
+      "text": "decline, margin, target, KPI, forecast, projection, efficiency, productivity."
+    },
+    {
+      "t": 988.59,
+      "text": "And important phrases like increased buy, decreased to, exceeded expectations,"
+    },
+    {
+      "t": 994.63,
+      "text": "remained steady and year over year."
+    },
+    {
+      "t": 997.13,
+      "text": "When talking about business performance,"
+    },
+    {
+      "t": 999.13,
+      "text": "be clear, data-driven, and balanced."
+    },
+    {
+      "t": 1002.13,
+      "text": "Use numbers when possible."
+    },
+    {
+      "t": 1004.13,
+      "text": "Explain causes."
+    },
+    {
+      "t": 1005.63,
+      "text": "And always discuss future actions."
+    },
+    {
+      "t": 1008.13,
+      "text": "Talking about performance isn't just about numbers."
+    },
+    {
+      "t": 1011.13,
+      "text": "It's about telling a clear business story."
+    },
+    {
+      "t": 1014.13,
+      "text": "A story of results, challenges, and opportunities."
+    },
+    {
+      "t": 1017.63,
+      "text": "Now it's your turn."
+    },
+    {
+      "t": 1019.13,
+      "text": "Try describing your company's recent performance in English."
+    },
+    {
+      "t": 1022.63,
+      "text": "Practice using percentages, comparisons, and future projections."
+    },
+    {
+      "t": 1027.07,
+      "text": "The more you practice, the more confident you'll feel in meetings and presentations."
+    },
+    {
+      "t": 1031.97,
+      "text": "Thank you for listening to Business English Conversations."
+    },
+    {
+      "t": 1035.31,
+      "text": "We appreciate your commitment to improving your professional English."
+    },
+    {
+      "t": 1039.43,
+      "text": "Keep practicing and keep growing."
+    },
+    {
+      "t": 1041.35,
+      "text": "We'll see you in the next episode."
+    },
+    {
+      "t": 1043.31,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1048.33,
+      "text": "Hello and welcome back to Executive Business English."
+    },
+    {
+      "t": 1051.71,
+      "text": "We are glad you're here with us today."
+    },
+    {
+      "t": 1053.39,
+      "text": "Hi, everyone."
+    },
+    {
+      "t": 1054.39,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 1055.51,
+      "text": "In this podcast, we focus on helping you communicate professionally and strategically"
+    },
+    {
+      "t": 1059.89,
+      "text": "in high-level business situations."
+    },
+    {
+      "t": 1062.47,
+      "text": "And today's topic is essential for managers, analysts, entrepreneurs, and anyone involved"
+    },
+    {
+      "t": 1068.23,
+      "text": "in decision-making."
+    },
+    {
+      "t": 1069.67,
+      "text": "That's right."
+    },
+    {
+      "t": 1070.67,
+      "text": "Today, we're talking about how to talk about business performance in English."
+    },
+    {
+      "t": 1074.51,
+      "text": "This topic is especially important in meetings, quarterly reviews, investor presentations,"
+    },
+    {
+      "t": 1080.43,
+      "text": "and performance evaluations."
+    },
+    {
+      "t": 1082.51,
+      "text": "Because when you talk about business performance, you're discussing results, metrics, strategy,"
+    },
+    {
+      "t": 1087.91,
+      "text": "and future direction."
+    },
+    {
+      "t": 1089.31,
+      "text": "Exactly."
+    },
+    {
+      "t": 1090.31,
+      "text": "And you need to do it with precision, clarity, and confidence."
+    },
+    {
+      "t": 1094.11,
+      "text": "Let's begin with a basic question."
+    },
+    {
+      "t": 1096.27,
+      "text": "What do we mean by business performance?"
+    },
+    {
+      "t": 1099.07,
+      "text": "Business performance refers to how well a company, department, or project is achieving"
+    },
+    {
+      "t": 1103.63,
+      "text": "its objectives."
+    },
+    {
+      "t": 1104.87,
+      "text": "It usually includes financial results, operational efficiency, growth metrics, and strategic"
+    },
+    {
+      "t": 1110.59,
+      "text": "progress."
+    },
+    {
+      "t": 1111.71,
+      "text": "So when someone says, can you give us an update on performance, they're asking for measurable"
+    },
+    {
+      "t": 1116.55,
+      "text": "outcomes."
+    },
+    {
+      "t": 1117.55,
+      "text": "Not opinions, not vague statements."
+    },
+    {
+      "t": 1120.23,
+      "text": "They want data."
+    },
+    {
+      "t": 1121.23,
+      "text": "Let's start with financial performance."
+    },
+    {
+      "t": 1123.71,
+      "text": "That's often the first area discussed."
+    },
+    {
+      "t": 1125.83,
+      "text": "Yes, you might say, this quarter, we achieved a 12% increase in revenue compared to the"
+    },
+    {
+      "t": 1131.59,
+      "text": "previous quarter."
+    },
+    {
+      "t": 1133.03,
+      "text": "Or revenue remained stable, but profit margins improved due to cost optimization"
+    },
+    {
+      "t": 1138.43,
+      "text": "initiatives."
+    },
+    {
+      "t": 1139.43,
+      "text": "Notice the specific terms, revenue, profit margins, cost optimization."
+    },
+    {
+      "t": 1144.89,
+      "text": "These are fundamental financial vocabulary terms."
+    },
+    {
+      "t": 1148.21,
+      "text": "Let's clarify the difference between revenue and profit."
+    },
+    {
+      "t": 1151.73,
+      "text": "Revenue is the total income generated from sales before expenses."
+    },
+    {
+      "t": 1156.37,
+      "text": "Profit is what remains after deducting costs and expenses."
+    },
+    {
+      "t": 1159.93,
+      "text": "When reporting performance, it's important to distinguish between top line growth and"
+    },
+    {
+      "t": 1163.89,
+      "text": "bottom line improvement."
+    },
+    {
+      "t": 1165.73,
+      "text": "Top line growth refers to revenue growth."
+    },
+    {
+      "t": 1168.57,
+      "text": "line improvement refers to profit growth."
+    },
+    {
+      "t": 1171.45,
+      "text": "Let's role play a quarterly review meeting."
+    },
+    {
+      "t": 1173.85,
+      "text": "I'll start."
+    },
+    {
+      "t": 1174.85,
+      "text": "Go ahead."
+    },
+    {
+      "t": 1175.85,
+      "text": "Overall, our Q3 performance exceeded expectations."
+    },
+    {
+      "t": 1179.05,
+      "text": "We recorded a 15% increase in revenue year over year and improved our gross margin by"
+    },
+    {
+      "t": 1184.69,
+      "text": "3 percentage points."
+    },
+    {
+      "t": 1186.53,
+      "text": "That's strong."
+    },
+    {
+      "t": 1187.73,
+      "text": "You used year over year, which compares results to the same period last year."
+    },
+    {
+      "t": 1192.49,
+      "text": "Yes, you could also say quarter over quarter to compare with the previous quarter."
+    },
+    {
+      "t": 1197.29,
+      "text": "For example, quarter over quarter growth was modest at 4%, reflecting seasonal demand fluctuations."
+    },
+    {
+      "t": 1204.41,
+      "text": "The phrase, seasonal demand fluctuations, explains the reason behind the numbers."
+    },
+    {
+      "t": 1209.41,
+      "text": "And explaining causes is just as important as reporting figures."
+    },
+    {
+      "t": 1213.37,
+      "text": "Exactly."
+    },
+    {
+      "t": 1214.37,
+      "text": "Data without context is incomplete."
+    },
+    {
+      "t": 1216.57,
+      "text": "Let's talk about describing positive performance."
+    },
+    {
+      "t": 1219.45,
+      "text": "You can say, we experienced strong growth across all business units."
+    },
+    {
+      "t": 1223.97,
+      "text": "Or sales outperformed projections."
+    },
+    {
+      "t": 1226.89,
+      "text": "performed projections means results were better than expected."
+    },
+    {
+      "t": 1230.61,
+      "text": "You can also say we exceeded our targets."
+    },
+    {
+      "t": 1233.45,
+      "text": "Or we surpassed expectations."
+    },
+    {
+      "t": 1235.85,
+      "text": "These phrases signal success clearly and confidently."
+    },
+    {
+      "t": 1239.25,
+      "text": "Now let's discuss neutral or stable performance."
+    },
+    {
+      "t": 1242.85,
+      "text": "For example, performance remained consistent with last year's results."
+    },
+    {
+      "t": 1247.05,
+      "text": "Or we maintained steady growth despite market volatility."
+    },
+    {
+      "t": 1251.29,
+      "text": "Maintained steady growth suggests stability, and market volatility provides external"
+    },
+    {
+      "t": 1256.25,
+      "text": "context. Now what about underperformance? That requires careful language. Yes, you must"
+    },
+    {
+      "t": 1262.97,
+      "text": "be transparent but strategic. Instead of saying we failed, you could say we did not meet our"
+    },
+    {
+      "t": 1268.85,
+      "text": "projected targets this quarter. Or performance fell short of expectations. Fell short sounds"
+    },
+    {
+      "t": 1275.21,
+      "text": "professional and objective. Then you should explain the cause. For example, this was"
+    },
+    {
+      "t": 1280.17,
+      "text": "primarily due to supply chain disruptions and increased raw material costs. Providing"
+    },
+    {
+      "t": 1285.41,
+      "text": "reasons demonstrates analytical thinking."
+    },
+    {
+      "t": 1288.13,
+      "text": "And then you follow with corrective actions."
+    },
+    {
+      "t": 1290.69,
+      "text": "For example, we are implementing cost control measures and diversifying our supplier base."
+    },
+    {
+      "t": 1296.13,
+      "text": "That shows proactive leadership."
+    },
+    {
+      "t": 1298.25,
+      "text": "Let's move to operational performance."
+    },
+    {
+      "t": 1301.01,
+      "text": "Operational performance focuses on efficiency and productivity."
+    },
+    {
+      "t": 1304.39,
+      "text": "You might say we improved operational efficiency by streamlining internal processes."
+    },
+    {
+      "t": 1310.09,
+      "text": "Or production output increased by 10% due to automation upgrades."
+    },
+    {
+      "t": 1315.01,
+      "text": "Frame lining is a useful word. It means making processes more efficient."
+    },
+    {
+      "t": 1319.53,
+      "text": "Another useful phrase is process optimization."
+    },
+    {
+      "t": 1322.21,
+      "text": "Yes, as in process optimization reduced turnaround time by 20%."
+    },
+    {
+      "t": 1327.77,
+      "text": "Let's discuss key performance indicators, or KPIs."
+    },
+    {
+      "t": 1330.93,
+      "text": "KPIs are measurable values used to evaluate success."
+    },
+    {
+      "t": 1335.45,
+      "text": "For example, our key KPIs this quarter included customer acquisition rate, churn"
+    },
+    {
+      "t": 1340.77,
+      "text": "rate, and operating margin."
+    },
+    {
+      "t": 1343.09,
+      "text": "rate refers to the percentage of customers who stop using a service."
+    },
+    {
+      "t": 1347.25,
+      "text": "In performance discussions, referencing KPIs shows structure and accountability."
+    },
+    {
+      "t": 1352.25,
+      "text": "Now let's talk about market performance."
+    },
+    {
+      "t": 1354.75,
+      "text": "You might say, we expanded our market share in the Asia-Pacific region."
+    },
+    {
+      "t": 1359.17,
+      "text": "Or brand awareness increased significantly following the campaign launch."
+    },
+    {
+      "t": 1363.81,
+      "text": "Market share refers to the percentage of total sales in a market."
+    },
+    {
+      "t": 1367.73,
+      "text": "Increasing market share usually indicates competitive strength."
+    },
+    {
+      "t": 1371.09,
+      "text": "Its role play and investor presentation segment."
+    },
+    {
+      "t": 1373.81,
+      "text": "I'll be the presenter."
+    },
+    {
+      "t": 1375.13,
+      "text": "Go ahead."
+    },
+    {
+      "t": 1376.13,
+      "text": "I stated previously our cash position remains strong."
+    },
+    {
+      "t": 1379.53,
+      "text": "Our balance sheet is well structured with a manageable debt load and sufficient liquidity."
+    },
+    {
+      "t": 1384.75,
+      "text": "This financial stability enables us to invest in strategic initiatives and manage any potential"
+    },
+    {
+      "t": 1389.93,
+      "text": "market challenges effectively."
+    },
+    {
+      "t": 1392.03,
+      "text": "That combines financial results with strategic expansion."
+    },
+    {
+      "t": 1396.17,
+      "text": "Investors want to see both profitability and growth potential."
+    },
+    {
+      "t": 1399.49,
+      "text": "Now let's discuss forecasting."
+    },
+    {
+      "t": 1402.41,
+      "text": "Forecasting is predicting future performance."
+    },
+    {
+      "t": 1404.97,
+      "text": "For example, based on current trends, we anticipate continued growth in the next fiscal year."
+    },
+    {
+      "t": 1410.71,
+      "text": "Or we project a moderate increase in demand over the next two quarters."
+    },
+    {
+      "t": 1415.29,
+      "text": "Words like anticipate, project, and forecast are common in forward-looking statements."
+    },
+    {
+      "t": 1420.81,
+      "text": "Let's discuss variance analysis."
+    },
+    {
+      "t": 1422.89,
+      "text": "Good topic."
+    },
+    {
+      "t": 1423.89,
+      "text": "You might say there was a significant variance between projected and actual revenue."
+    },
+    {
+      "t": 1429.29,
+      "text": "refers to the difference between expected and actual results."
+    },
+    {
+      "t": 1433.49,
+      "text": "Then you explain why."
+    },
+    {
+      "t": 1435.09,
+      "text": "This was largely driven by unexpected regulatory changes."
+    },
+    {
+      "t": 1438.97,
+      "text": "Clear and analytical."
+    },
+    {
+      "t": 1440.41,
+      "text": "Now let's examine performance at the departmental level."
+    },
+    {
+      "t": 1443.81,
+      "text": "For example, the marketing department achieved strong lead generation results."
+    },
+    {
+      "t": 1448.57,
+      "text": "The operations team improved delivery timelines."
+    },
+    {
+      "t": 1451.97,
+      "text": "Or the finance department successfully reduced overhead costs."
+    },
+    {
+      "t": 1456.45,
+      "text": "Departmental breakdowns create transparency."
+    },
+    {
+      "t": 1458.77,
+      "text": "Now let's discuss productivity metrics."
+    },
+    {
+      "t": 1461.93,
+      "text": "Productivity can be measured in output per employee."
+    },
+    {
+      "t": 1464.89,
+      "text": "For example, employee productivity increased following the implementation of new workflow"
+    },
+    {
+      "t": 1469.65,
+      "text": "software."
+    },
+    {
+      "t": 1470.65,
+      "text": "Or we reduced downtime by improving maintenance schedules."
+    },
+    {
+      "t": 1474.85,
+      "text": "Downtime refers to periods when systems are not operational."
+    },
+    {
+      "t": 1478.25,
+      "text": "Now let's discuss customer performance metrics."
+    },
+    {
+      "t": 1481.21,
+      "text": "For example, customer satisfaction scores improved by 12%."
+    },
+    {
+      "t": 1485.73,
+      "text": "Or customer retention rates increased significantly."
+    },
+    {
+      "t": 1489.57,
+      "text": "Retention is critical for long-term profitability."
+    },
+    {
+      "t": 1492.17,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1493.37,
+      "text": "Now let's practice a full comprehensive performance update."
+    },
+    {
+      "t": 1497.05,
+      "text": "I'll start."
+    },
+    {
+      "t": 1498.05,
+      "text": "Go ahead."
+    },
+    {
+      "t": 1499.05,
+      "text": "This fiscal year overall performance remained strong."
+    },
+    {
+      "t": 1502.33,
+      "text": "Revenue increased by 10% year over year, driven primarily by growth in our Digital"
+    },
+    {
+      "t": 1507.49,
+      "text": "Services Division."
+    },
+    {
+      "t": 1509.33,
+      "text": "While manufacturing costs rose slightly due to inflationary pressures, strategic"
+    },
+    {
+      "t": 1514.09,
+      "text": "Cost management helped maintain stable profit margins."
+    },
+    {
+      "t": 1518.37,
+      "text": "Operational efficiency improved as we streamlined supply chain processes, reducing lead times"
+    },
+    {
+      "t": 1523.47,
+      "text": "by 15%."
+    },
+    {
+      "t": 1525.57,
+      "text": "Looking forward, we expect continued expansion into emerging markets and forecast steady"
+    },
+    {
+      "t": 1530.69,
+      "text": "revenue growth over the next two quarters."
+    },
+    {
+      "t": 1533.61,
+      "text": "That's comprehensive and well-structured."
+    },
+    {
+      "t": 1535.81,
+      "text": "It covers financial, operational, and strategic performance."
+    },
+    {
+      "t": 1539.95,
+      "text": "And it ends with forward-looking insight."
+    },
+    {
+      "t": 1542.29,
+      "text": "Let's summarize key phrases for talking about business performance."
+    },
+    {
+      "t": 1546.05,
+      "text": "Exceeded expectations Fell short of projections"
+    },
+    {
+      "t": 1549.57,
+      "text": "Achieved steady growth Increased margins"
+    },
+    {
+      "t": 1552.65,
+      "text": "Reduced costs Increased market share"
+    },
+    {
+      "t": 1555.61,
+      "text": "Streamlined operations Implemented corrective measures"
+    },
+    {
+      "t": 1559.53,
+      "text": "Anticipate future growth When discussing performance, always remember"
+    },
+    {
+      "t": 1563.65,
+      "text": "three principles Be specific"
+    },
+    {
+      "t": 1566.21,
+      "text": "Provide context And explain next steps"
+    },
+    {
+      "t": 1569.45,
+      "text": "Performance discussions are not just about reporting numbers."
+    },
+    {
+      "t": 1572.69,
+      "text": "They're about demonstrating strategic awareness"
+    },
+    {
+      "t": 1575.49,
+      "text": "and showing leadership through analysis and action."
+    },
+    {
+      "t": 1578.65,
+      "text": "So the next time you're asked to provide a business performance update, you'll be prepared."
+    },
+    {
+      "t": 1583.29,
+      "text": "Use precise vocabulary."
+    },
+    {
+      "t": 1585.21,
+      "text": "Present data clearly."
+    },
+    {
+      "t": 1586.73,
+      "text": "Explain causes and solutions."
+    },
+    {
+      "t": 1588.97,
+      "text": "And conclude with forward-looking strategy."
+    },
+    {
+      "t": 1591.57,
+      "text": "Thank you for joining us today."
+    },
+    {
+      "t": 1593.17,
+      "text": "We hope this comprehensive discussion helps you speak confidently about business performance in English."
+    },
+    {
+      "t": 1598.65,
+      "text": "keep refining your professional vocabulary,"
+    },
+    {
+      "t": 1601.37,
+      "text": "and keep communicating with clarity and authority."
+    },
+    {
+      "t": 1604.21,
+      "text": "We'll see you in the next episode."
+    },
+    {
+      "t": 1606.01,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1607.05,
+      "text": "Goodbye."
+    },
+    {
+      "t": 1608.99,
+      "text": "Hello, and welcome to Business English Conversations."
+    },
+    {
+      "t": 1612.35,
+      "text": "Hi, everyone, and thank you for joining us today."
+    },
+    {
+      "t": 1615.31,
+      "text": "In today's episode, we're going"
+    },
+    {
+      "t": 1616.87,
+      "text": "to talk about a very important and practical topic,"
+    },
+    {
+      "t": 1620.07,
+      "text": "how to talk about business performance in English."
+    },
+    {
+      "t": 1623.39,
+      "text": "This is a topic that comes up in meetings, presentations,"
+    },
+    {
+      "t": 1626.63,
+      "text": "reports, performance reviews, investor calls, and strategy discussions. If you work in business,"
+    },
+    {
+      "t": 1632.95,
+      "text": "at some point, you will need to explain how your company, department or project is performing."
+    },
+    {
+      "t": 1638.55,
+      "text": "Exactly. You might need to answer questions like, how did we perform this quarter? What"
+    },
+    {
+      "t": 1643.35,
+      "text": "are our results compared to last year? Or are we meeting our targets? And to answer"
+    },
+    {
+      "t": 1648.23,
+      "text": "those questions confidently, you need the right vocabulary, structure and tone."
+    },
+    {
+      "t": 1653.19,
+      "text": "Let's start with a simple question. What does business performance actually mean?"
+    },
+    {
+      "t": 1658.31,
+      "text": "Business performance refers to how well a company, team, or project is achieving its goals."
+    },
+    {
+      "t": 1664.15,
+      "text": "It often includes financial results, operational efficiency, sales growth, profitability,"
+    },
+    {
+      "t": 1670.39,
+      "text": "market share, and customer satisfaction. So when we talk about performance,"
+    },
+    {
+      "t": 1674.87,
+      "text": "we're usually talking about measurable results. Exactly. Performance is often connected to data,"
+    },
+    {
+      "t": 1681.59,
+      "text": "numbers, percentages, trends, and comparisons."
+    },
+    {
+      "t": 1685.19,
+      "text": "Let's imagine you're in a meeting and someone asks,"
+    },
+    {
+      "t": 1688.15,
+      "text": "can you give us an update on this quarter's performance?"
+    },
+    {
+      "t": 1691.19,
+      "text": "How should you begin?"
+    },
+    {
+      "t": 1692.47,
+      "text": "A clear way to start is with a general overview before going into details."
+    },
+    {
+      "t": 1697.43,
+      "text": "For example, overall the company delivered solid performance this quarter"
+    },
+    {
+      "t": 1702.07,
+      "text": "with steady revenue growth and improved operational efficiency."
+    },
+    {
+      "t": 1706.15,
+      "text": "That gives a summary first."
+    },
+    {
+      "t": 1707.99,
+      "text": "Yes, it's always good to begin with a high-level overview, then you can move into specifics."
+    },
+    {
+      "t": 1713.99,
+      "text": "For example, you might continue with revenue increased by 8% compared to the previous quarter,"
+    },
+    {
+      "t": 1720.43,
+      "text": "driven primarily by strong sales in the European market."
+    },
+    {
+      "t": 1724.03,
+      "text": "Our profit margin also improved slightly due to cost optimization initiatives."
+    },
+    {
+      "t": 1729.07,
+      "text": "Let's explain some of that vocabulary."
+    },
+    {
+      "t": 1731.75,
+      "text": "Revenue is the total income generated from sales, correct, and profit margin refers"
+    },
+    {
+      "t": 1737.01,
+      "text": "to how much profit a company makes after covering its costs."
+    },
+    {
+      "t": 1741.13,
+      "text": "What about describing positive performance?"
+    },
+    {
+      "t": 1743.85,
+      "text": "What are some useful phrases?"
+    },
+    {
+      "t": 1745.51,
+      "text": "You can say, we exceeded our targets."
+    },
+    {
+      "t": 1748.37,
+      "text": "We achieved strong growth."
+    },
+    {
+      "t": 1750.41,
+      "text": "We delivered solid results."
+    },
+    {
+      "t": 1752.37,
+      "text": "We saw a significant increase in sales."
+    },
+    {
+      "t": 1755.57,
+      "text": "Performance was above expectations."
+    },
+    {
+      "t": 1757.35,
+      "text": "I like the phrase exceeded our targets."
+    },
+    {
+      "t": 1759.89,
+      "text": "It sounds very strong."
+    },
+    {
+      "t": 1761.25,
+      "text": "Yes, it means you performed better than planned."
+    },
+    {
+      "t": 1764.25,
+      "text": "Now let's talk about describing stable performance."
+    },
+    {
+      "t": 1767.35,
+      "text": "Not amazing, but not bad either."
+    },
+    {
+      "t": 1769.51,
+      "text": "In that case, you could say, performance remained stable."
+    },
+    {
+      "t": 1773.19,
+      "text": "We maintained consistent growth."
+    },
+    {
+      "t": 1775.79,
+      "text": "Results were in line with expectations."
+    },
+    {
+      "t": 1778.31,
+      "text": "We met our targets."
+    },
+    {
+      "t": 1779.75,
+      "text": "In line with expectations means the results were exactly as predicted."
+    },
+    {
+      "t": 1784.19,
+      "text": "Exactly."
+    },
+    {
+      "t": 1785.19,
+      "text": "Now let's address a more difficult situation."
+    },
+    {
+      "t": 1788.15,
+      "text": "What if performance was disappointing?"
+    },
+    {
+      "t": 1790.75,
+      "text": "That's where tone becomes very important."
+    },
+    {
+      "t": 1793.51,
+      "text": "In business English, we usually soften negative news."
+    },
+    {
+      "t": 1796.95,
+      "text": "For example, instead of saying, sales were bad, you might say, sales were below expectations"
+    },
+    {
+      "t": 1803.05,
+      "text": "this quarter."
+    },
+    {
+      "t": 1804.23,
+      "text": "That sounds more professional."
+    },
+    {
+      "t": 1805.71,
+      "text": "Yes, other examples include, we faced some challenges."
+    },
+    {
+      "t": 1809.99,
+      "text": "Revenue declined slightly."
+    },
+    {
+      "t": 1812.15,
+      "text": "We experienced a temporary slowdown."
+    },
+    {
+      "t": 1815.21,
+      "text": "Results were impacted by market conditions."
+    },
+    {
+      "t": 1817.75,
+      "text": "So instead of blaming or sounding dramatic, you stay calm and factual."
+    },
+    {
+      "t": 1822.87,
+      "text": "Exactly. Professional language is objective and data-focused."
+    },
+    {
+      "t": 1826.95,
+      "text": "Let's build a full example of explaining mixed performance."
+    },
+    {
+      "t": 1830.63,
+      "text": "Sure. Overall, performance this quarter was mixed."
+    },
+    {
+      "t": 1834.43,
+      "text": "While revenue increased by 5%, profitability was slightly lower than expected due to rising operational costs."
+    },
+    {
+      "t": 1842.17,
+      "text": "However, customer acquisition improved significantly, which positions us well for future growth."
+    },
+    {
+      "t": 1848.11,
+      "text": "That's balanced. You acknowledge the challenges, but also highlight positive aspects. Yes, it's important to show perspective."
+    },
+    {
+      "t": 1855.63,
+      "text": "What about comparing performance over time? Comparisons are very common. You can say, compared to last year, revenue has grown by 12%."
+    },
+    {
+      "t": 1865.47,
+      "text": "This quarter performed better than the previous one. We've seen a steady upward trend over the past six months."
+    },
+    {
+      "t": 1872.11,
+      "text": "Upward trend means results are gradually increasing. Correct. And the opposite would be a downward trend."
+    },
+    {
+      "t": 1878.67,
+      "text": "Let's talk about targets and key performance indicators."
+    },
+    {
+      "t": 1882.19,
+      "text": "Yes, KPIs, key performance indicators, are measurable values used to evaluate success."
+    },
+    {
+      "t": 1889.07,
+      "text": "For example, sales growth, customer retention rate, or production efficiency."
+    },
+    {
+      "t": 1894.03,
+      "text": "How can someone talk about KPIs in a meeting? You could say,"
+    },
+    {
+      "t": 1897.79,
+      "text": "we achieved 90% of our key performance indicators this quarter. Most KPIs are on track, although"
+    },
+    {
+      "t": 1904.51,
+      "text": "we need to improve in customer retention. On track means progressing as planned. Exactly."
+    },
+    {
+      "t": 1910.35,
+      "text": "Sometimes performance is influenced by external factors. How do you explain that?"
+    },
+    {
+      "t": 1915.31,
+      "text": "You can say, results were affected by external market conditions. Performance was impacted"
+    },
+    {
+      "t": 1921.31,
+      "text": "by supply chain disruptions. Economic uncertainty influenced customer demand."
+    },
+    {
+      "t": 1926.67,
+      "text": "That sounds analytical and professional. Yes, because in business discussions, it's important"
+    },
+    {
+      "t": 1931.55,
+      "text": "to show you understand the broader context. Now let's imagine you're giving a formal"
+    },
+    {
+      "t": 1936.43,
+      "text": "presentation to senior management. How might you summarize business performance?"
+    },
+    {
+      "t": 1941.23,
+      "text": "You might say, to summarize, the company delivered solid overall performance this"
+    },
+    {
+      "t": 1946.11,
+      "text": "quarter, driven by strong sales growth and improved cost control. Although we encountered"
+    },
+    {
+      "t": 1951.71,
+      "text": "some operational challenges, corrective actions have already been implemented."
+    },
+    {
+      "t": 1956.03,
+      "text": "We remain confident in achieving our annual objectives."
+    },
+    {
+      "t": 1959.47,
+      "text": "That sounds confident and strategic. Confidence is key. Even when discussing"
+    },
+    {
+      "t": 1964.43,
+      "text": "challenges, you should communicate control and forward planning."
+    },
+    {
+      "t": 1968.43,
+      "text": "Let's talk about forward-looking statements. After discussing performance,"
+    },
+    {
+      "t": 1972.91,
+      "text": "what usually comes next? Usually, you discuss outlook and strategy."
+    },
+    {
+      "t": 1977.47,
+      "text": "For example, looking ahead, we expect continued growth in emerging markets."
+    },
+    {
+      "t": 1982.43,
+      "text": "We plan to focus on improving operational efficiency."
+    },
+    {
+      "t": 1985.95,
+      "text": "Our priority for the next quarter is strengthening customer retention."
+    },
+    {
+      "t": 1989.87,
+      "text": "So performance discussions are not only about the past, but also about the future."
+    },
+    {
+      "t": 1994.91,
+      "text": "Exactly. When you combine data, clarity, and confidence, you sound professional and credible."
+    },
+    {
+      "t": 2001.07,
+      "text": "Thank you for listening to Business English Conversations."
+    },
+    {
+      "t": 2004.11,
+      "text": "We hope today's episode helps you feel more confident in your next meeting or presentation."
+    },
+    {
+      "t": 2009.15,
+      "text": "Keep practicing your business English, and we'll see you in the next episode. Goodbye and take care."
+    },
+    {
+      "t": 2014.99,
+      "text": "Hello, and welcome to Business English Conversations. Today's episode focuses on how to talk about"
+    },
+    {
+      "t": 2021.23,
+      "text": "business performance in English. This is a crucial skill for meetings,"
+    },
+    {
+      "t": 2026.11,
+      "text": "performance reviews, presentations, and even job interviews."
+    },
+    {
+      "t": 2029.79,
+      "text": "Absolutely. Let's start with a basic situation. Imagine you're in a meeting and you want to"
+    },
+    {
+      "t": 2035.95,
+      "text": "ask about recent results. You could say, how do we perform this quarter? Or, can we go over the"
+    },
+    {
+      "t": 2042.87,
+      "text": "latest figures? Yes, and both sound professional and polite. Now, let's imagine the performance"
+    },
+    {
+      "t": 2049.87,
+      "text": "was strong. How would you describe it? You might say, we delivered excellent results this"
+    },
+    {
+      "t": 2056.11,
+      "text": "quarter or revenue increased by 18 percent. Good. You can also say we exceeded our sales"
+    },
+    {
+      "t": 2064.31,
+      "text": "targets. Growth was higher than expected. Profit margins improved. Customer acquisition"
+    },
+    {
+      "t": 2071.03,
+      "text": "increased. Those are very common in business discussions. What if performance was disappointing?"
+    },
+    {
+      "t": 2078.91,
+      "text": "Then you might say sales declined this quarter. We didn't meet our targets. Revenue was"
+    },
+    {
+      "t": 2085.59,
+      "text": "slightly lower than forecasted."
+    },
+    {
+      "t": 2088.15,
+      "text": "And more diplomatic versions."
+    },
+    {
+      "t": 2090.47,
+      "text": "Performance was below expectations."
+    },
+    {
+      "t": 2093.31,
+      "text": "We experienced a temporary slowdown."
+    },
+    {
+      "t": 2096.31,
+      "text": "Results were weaker than anticipated."
+    },
+    {
+      "t": 2099.07,
+      "text": "Diplomatic language is very important"
+    },
+    {
+      "t": 2101.43,
+      "text": "in professional communication."
+    },
+    {
+      "t": 2103.45,
+      "text": "Let's move to explanations."
+    },
+    {
+      "t": 2105.41,
+      "text": "How do we talk about reasons behind performance?"
+    },
+    {
+      "t": 2108.73,
+      "text": "You can use phrases like, due to market conditions,"
+    },
+    {
+      "t": 2112.47,
+      "text": "because of rising costs."
+    },
+    {
+      "t": 2114.55,
+      "text": "As a result of increased competition, driven by strong demand."
+    },
+    {
+      "t": 2119.31,
+      "text": "Example, profits decreased due to higher operating expenses."
+    },
+    {
+      "t": 2124.27,
+      "text": "Or, sales grew because of a successful marketing campaign."
+    },
+    {
+      "t": 2128.87,
+      "text": "Now, let's talk about trends."
+    },
+    {
+      "t": 2131.19,
+      "text": "Yes, trends are key in reports."
+    },
+    {
+      "t": 2134.07,
+      "text": "Sales have been growing steadily."
+    },
+    {
+      "t": 2136.31,
+      "text": "We're seeing an upward trend."
+    },
+    {
+      "t": 2138.55,
+      "text": "Revenue has remained stable."
+    },
+    {
+      "t": 2140.87,
+      "text": "There has been a slight decline."
+    },
+    {
+      "t": 2143.11,
+      "text": "You can also say, performance fluctuated throughout the year."
+    },
+    {
+      "t": 2147.59,
+      "text": "Growth plateaued in Q3."
+    },
+    {
+      "t": 2150.31,
+      "text": "Comparisons are another essential part of business English."
+    },
+    {
+      "t": 2154.55,
+      "text": "Exactly."
+    },
+    {
+      "t": 2155.87,
+      "text": "Compared to last year, results improved."
+    },
+    {
+      "t": 2158.75,
+      "text": "In comparison with Q2, performance was stronger."
+    },
+    {
+      "t": 2163.03,
+      "text": "We performed better than expected."
+    },
+    {
+      "t": 2165.51,
+      "text": "Or this quarter outperformed our projections."
+    },
+    {
+      "t": 2169.39,
+      "text": "Let's introduce key metrics professionals often mention."
+    },
+    {
+      "t": 2173.35,
+      "text": "Common ones include revenue, profit, expenses, growth, margin, ROI, KPIs, market share."
+    },
+    {
+      "t": 2183.95,
+      "text": "Example, our KPIs indicate strong operational efficiency."
+    },
+    {
+      "t": 2189.15,
+      "text": "Or our ROI improved significantly."
+    },
+    {
+      "t": 2193.11,
+      "text": "What about discussing problems?"
+    },
+    {
+      "t": 2195.63,
+      "text": "You might say, we faced supply chain disruptions."
+    },
+    {
+      "t": 2199.31,
+      "text": "operating costs increased, demand softened."
+    },
+    {
+      "t": 2202.91,
+      "text": "And solution-oriented language,"
+    },
+    {
+      "t": 2205.55,
+      "text": "we are implementing cost control measures."
+    },
+    {
+      "t": 2208.43,
+      "text": "We are adjusting our strategy."
+    },
+    {
+      "t": 2210.59,
+      "text": "We are focusing on efficiency improvements."
+    },
+    {
+      "t": 2213.87,
+      "text": "Let's talk about forecasting."
+    },
+    {
+      "t": 2216.31,
+      "text": "We expect moderate growth next quarter."
+    },
+    {
+      "t": 2218.99,
+      "text": "We anticipate stronger demand."
+    },
+    {
+      "t": 2221.15,
+      "text": "We forecast stable revenue."
+    },
+    {
+      "t": 2223.71,
+      "text": "Or we remain optimistic about future performance."
+    },
+    {
+      "t": 2227.99,
+      "text": "Extended Example Dialog."
+    },
+    {
+      "t": 2230.29,
+      "text": "How would you summarize this quarter's performance?"
+    },
+    {
+      "t": 2233.55,
+      "text": "Overall, it was a mixed quarter."
+    },
+    {
+      "t": 2235.51,
+      "text": "Revenue increased by 10%,"
+    },
+    {
+      "t": 2237.69,
+      "text": "but profit margins were slightly lower."
+    },
+    {
+      "t": 2240.59,
+      "text": "What affected profitability?"
+    },
+    {
+      "t": 2242.75,
+      "text": "Primarily, rising raw material costs"
+    },
+    {
+      "t": 2245.75,
+      "text": "and higher logistics expenses."
+    },
+    {
+      "t": 2248.07,
+      "text": "How does this compare with last year?"
+    },
+    {
+      "t": 2250.59,
+      "text": "Compared to last year, revenue is higher,"
+    },
+    {
+      "t": 2253.15,
+      "text": "but expenses have also increased."
+    },
+    {
+      "t": 2255.63,
+      "text": "What actions are being taken?"
+    },
+    {
+      "t": 2257.79,
+      "text": "We're reviewing our pricing strategy and implementing cost efficiency initiatives."
+    },
+    {
+      "t": 2262.79,
+      "text": "What's the outlook for next quarter?"
+    },
+    {
+      "t": 2265.79,
+      "text": "We expect improved margins and steady growth."
+    },
+    {
+      "t": 2268.79,
+      "text": "That sounds like a realistic business conversation."
+    },
+    {
+      "t": 2271.79,
+      "text": "Yes, these are exactly the kinds of phrases professionals use."
+    },
+    {
+      "t": 2275.79,
+      "text": "That brings us to the end of today's episode on how to talk about business performance in English."
+    },
+    {
+      "t": 2281.79,
+      "text": "Practice these expressions in meetings, presentations, and reports."
+    },
+    {
+      "t": 2286.79,
+      "text": "Thanks for listening to Business English Conversations."
+    },
+    {
+      "t": 2290.03,
+      "text": "See you next time."
+    },
+    {
+      "t": 2291.03,
+      "text": "Hello, and welcome to Business English Conversations."
+    },
+    {
+      "t": 2299.18,
+      "text": "Hi everyone, I'm Erica, and we're really happy you're here with us today."
+    },
+    {
+      "t": 2303.58,
+      "text": "And I'm Daniel."
+    },
+    {
+      "t": 2304.58,
+      "text": "Thank you for joining us."
+    },
+    {
+      "t": 2305.94,
+      "text": "On this podcast, we help you improve your business English through realistic conversations"
+    },
+    {
+      "t": 2310.42,
+      "text": "that you can use in professional situations."
+    },
+    {
+      "t": 2312.96,
+      "text": "If you enjoy learning with us, please follow our channel and share this episode"
+    },
+    {
+      "t": 2317.14,
+      "text": "with a colleague."
+    },
+    {
+      "t": 2318.34,
+      "text": "Your support helps us create more useful content for business English learners."
+    },
+    {
+      "t": 2322.56,
+      "text": "Today we have a very important topic."
+    },
+    {
+      "t": 2325.24,
+      "text": "Yes we do."
+    },
+    {
+      "t": 2326.24,
+      "text": "Today we're talking about how to talk about business performance."
+    },
+    {
+      "t": 2330.0,
+      "text": "This is something professionals discuss all the time."
+    },
+    {
+      "t": 2333.36,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2334.68,
+      "text": "Business performance is about how well a company or team is achieving its goals."
+    },
+    {
+      "t": 2339.16,
+      "text": "It includes things like revenue, growth, customer satisfaction, and efficiency."
+    },
+    {
+      "t": 2345.44,
+      "text": "And being able to talk about these topics in English is very important in business."
+    },
+    {
+      "t": 2349.84,
+      "text": "So today, we'll cover useful vocabulary, structure, and real examples."
+    },
+    {
+      "t": 2355.36,
+      "text": "Let's start with the basics."
+    },
+    {
+      "t": 2356.76,
+      "text": "Good idea."
+    },
+    {
+      "t": 2357.96,
+      "text": "What is business performance?"
+    },
+    {
+      "t": 2360.44,
+      "text": "Business performance refers to how well a company is doing in achieving its objectives."
+    },
+    {
+      "t": 2364.96,
+      "text": "For example, increasing sales, improving customer satisfaction, or reducing costs."
+    },
+    {
+      "t": 2371.2,
+      "text": "It's about results."
+    },
+    {
+      "t": 2372.82,
+      "text": "And businesses measure performance using data."
+    },
+    {
+      "t": 2375.62,
+      "text": "Exactly."
+    },
+    {
+      "t": 2376.62,
+      "text": "Data helps companies make better decisions."
+    },
+    {
+      "t": 2379.16,
+      "text": "Common performance metrics include revenue, profit, growth, and efficiency."
+    },
+    {
+      "t": 2384.62,
+      "text": "Let's explain those terms."
+    },
+    {
+      "t": 2386.34,
+      "text": "Revenue is the total money a company earns."
+    },
+    {
+      "t": 2389.26,
+      "text": "But revenue is not the same as profit."
+    },
+    {
+      "t": 2391.54,
+      "text": "Right."
+    },
+    {
+      "t": 2392.54,
+      "text": "Profit is what remains after expenses."
+    },
+    {
+      "t": 2395.14,
+      "text": "For example, if a company earns $100,000 but spends $60,000, the profit is $40,000."
+    },
+    {
+      "t": 2402.32,
+      "text": "Both refers to improvement over time."
+    },
+    {
+      "t": 2404.96,
+      "text": "Like increasing sales or expanding it to new markets."
+    },
+    {
+      "t": 2408.68,
+      "text": "Efficiency means doing things in the best possible way."
+    },
+    {
+      "t": 2412.12,
+      "text": "Using fewer resources to achieve better results."
+    },
+    {
+      "t": 2415.04,
+      "text": "All of these metrics help measure business performance."
+    },
+    {
+      "t": 2418.32,
+      "text": "Now let's talk about how to describe performance."
+    },
+    {
+      "t": 2421.36,
+      "text": "Good idea."
+    },
+    {
+      "t": 2422.36,
+      "text": "You can use positive or negative language depending on results."
+    },
+    {
+      "t": 2426.52,
+      "text": "For positive performance, words like increase, improve and grow are useful."
+    },
+    {
+      "t": 2431.88,
+      "text": "For example, our revenue increased by 10%."
+    },
+    {
+      "t": 2435.76,
+      "text": "That sounds professional and clear."
+    },
+    {
+      "t": 2438.0,
+      "text": "Or customer satisfaction improved this quarter."
+    },
+    {
+      "t": 2441.76,
+      "text": "That highlights positive results."
+    },
+    {
+      "t": 2443.72,
+      "text": "Now let's talk about describing challenges."
+    },
+    {
+      "t": 2446.76,
+      "text": "Because performance is not always positive."
+    },
+    {
+      "t": 2449.56,
+      "text": "Sometimes companies face difficulties."
+    },
+    {
+      "t": 2451.84,
+      "text": "Words like decrease, decline, and challenge are useful."
+    },
+    {
+      "t": 2455.52,
+      "text": "For example, sales declined due to market conditions."
+    },
+    {
+      "t": 2459.92,
+      "text": "That explains the situation without being overly negative."
+    },
+    {
+      "t": 2463.4,
+      "text": "Or we faced challenges but are working on solutions."
+    },
+    {
+      "t": 2467.6,
+      "text": "That shows a proactive attitude."
+    },
+    {
+      "t": 2469.68,
+      "text": "Let's practice some examples."
+    },
+    {
+      "t": 2471.56,
+      "text": "OK."
+    },
+    {
+      "t": 2472.56,
+      "text": "Positive, our revenue increased by 15% this year."
+    },
+    {
+      "t": 2476.52,
+      "text": "Clear and measurable."
+    },
+    {
+      "t": 2478.04,
+      "text": "Positive, customer retention improved due to better service."
+    },
+    {
+      "t": 2482.68,
+      "text": "That explains the reason for improvement."
+    },
+    {
+      "t": 2485.24,
+      "text": "Negative, sales declined because of economic conditions."
+    },
+    {
+      "t": 2489.08,
+      "text": "provides context. Neutral, we are focusing on strategies to improve performance. That"
+    },
+    {
+      "t": 2495.24,
+      "text": "sounds professional and forward-looking. Notice how language matters. Yes, business"
+    },
+    {
+      "t": 2500.72,
+      "text": "communication should be factual and professional. Now let's talk about key"
+    },
+    {
+      "t": 2505.0,
+      "text": "performance indicators. Great topic. Key performance indicators or KPIs"
+    },
+    {
+      "t": 2509.8,
+      "text": "measure success. KPIs help businesses track progress. For example, sales growth"
+    },
+    {
+      "t": 2515.76,
+      "text": "is a KPI. Customer satisfaction is another KPI. Employee productivity can"
+    },
+    {
+      "t": 2521.38,
+      "text": "also be a KPI. KPI's vary depending on industry. That's important. For retail"
+    },
+    {
+      "t": 2527.1,
+      "text": "businesses, KPI's might include sales and customer feedback. For technology"
+    },
+    {
+      "t": 2532.2,
+      "text": "companies, KPI's might focus on product performance and user engagement. For"
+    },
+    {
+      "t": 2536.76,
+      "text": "service companies, KPI's might focus on customer satisfaction. Let's create"
+    },
+    {
+      "t": 2541.62,
+      "text": "Great examples."
+    },
+    {
+      "t": 2542.96,
+      "text": "Retail KPI, sales increased by 8% compared to last quarter."
+    },
+    {
+      "t": 2547.8,
+      "text": "Good measurement."
+    },
+    {
+      "t": 2549.2,
+      "text": "Technology KPI, user engagement improved by 12%."
+    },
+    {
+      "t": 2553.44,
+      "text": "That shows positive results."
+    },
+    {
+      "t": 2555.6,
+      "text": "Service KPI, customer satisfaction reached 90%."
+    },
+    {
+      "t": 2560.12,
+      "text": "Very strong performance."
+    },
+    {
+      "t": 2561.56,
+      "text": "KPI's help businesses understand success."
+    },
+    {
+      "t": 2564.84,
+      "text": "Exactly."
+    },
+    {
+      "t": 2565.84,
+      "text": "Now let's talk about business reports."
+    },
+    {
+      "t": 2568.48,
+      "text": "Good idea."
+    },
+    {
+      "t": 2569.68,
+      "text": "Performance performance is often described in reports."
+    },
+    {
+      "t": 2573.12,
+      "text": "Reports summarize data and insights."
+    },
+    {
+      "t": 2575.4,
+      "text": "They help decision making."
+    },
+    {
+      "t": 2577.28,
+      "text": "Common phrases in reports include, the data shows, results indicate, performance improved."
+    },
+    {
+      "t": 2583.96,
+      "text": "Let's practice examples."
+    },
+    {
+      "t": 2585.52,
+      "text": "Okay."
+    },
+    {
+      "t": 2586.52,
+      "text": "The data shows a 10% increase in revenue."
+    },
+    {
+      "t": 2589.84,
+      "text": "Clear and factual."
+    },
+    {
+      "t": 2591.56,
+      "text": "Results indicate improved customer satisfaction."
+    },
+    {
+      "t": 2594.6,
+      "text": "That highlights positive trends."
+    },
+    {
+      "t": 2597.04,
+      "text": "declined due to external factors."
+    },
+    {
+      "t": 2599.96,
+      "text": "That provides context."
+    },
+    {
+      "t": 2601.88,
+      "text": "Business reports should be objective."
+    },
+    {
+      "t": 2603.88,
+      "text": "Yes, focus on facts, not opinions."
+    },
+    {
+      "t": 2606.96,
+      "text": "Now let's talk about describing trends."
+    },
+    {
+      "t": 2610.08,
+      "text": "Trends show movement over time."
+    },
+    {
+      "t": 2611.96,
+      "text": "For example, upward trends and downward trends."
+    },
+    {
+      "t": 2615.92,
+      "text": "An upward trend means improvement."
+    },
+    {
+      "t": 2618.08,
+      "text": "A downward trend means decline."
+    },
+    {
+      "t": 2620.8,
+      "text": "Let's practice."
+    },
+    {
+      "t": 2621.8,
+      "text": "Sales showed an upward trend this year."
+    },
+    {
+      "t": 2624.56,
+      "text": "Positive performance."
+    },
+    {
+      "t": 2626.28,
+      "text": "complaints showed a downward trend. That means improvement. Revenue remained stable."
+    },
+    {
+      "t": 2631.76,
+      "text": "Stability is also important. Businesses value consistent performance. Absolutely."
+    },
+    {
+      "t": 2637.64,
+      "text": "Now let's talk about describing challenges. Good idea. Challenges are part of business."
+    },
+    {
+      "t": 2643.52,
+      "text": "Every company faces difficulties. The key is how businesses respond. For example,"
+    },
+    {
+      "t": 2649.24,
+      "text": "we implemented new strategies to address challenges. That shows problem solving."
+    },
+    {
+      "t": 2653.88,
+      "text": "or we learn from challenges and improve performance."
+    },
+    {
+      "t": 2657.38,
+      "text": "That sounds positive."
+    },
+    {
+      "t": 2658.88,
+      "text": "Yes, businesses value learning and growth."
+    },
+    {
+      "t": 2661.88,
+      "text": "Now let's talk about business vocabulary."
+    },
+    {
+      "t": 2664.88,
+      "text": "Good idea."
+    },
+    {
+      "t": 2665.88,
+      "text": "Revenue."
+    },
+    {
+      "t": 2666.88,
+      "text": "Total income."
+    },
+    {
+      "t": 2667.88,
+      "text": "Profit."
+    },
+    {
+      "t": 2668.88,
+      "text": "Income after expenses."
+    },
+    {
+      "t": 2670.38,
+      "text": "Growth."
+    },
+    {
+      "t": 2671.38,
+      "text": "Improvement over time."
+    },
+    {
+      "t": 2672.88,
+      "text": "Efficiency."
+    },
+    {
+      "t": 2673.88,
+      "text": "Doing things effectively."
+    },
+    {
+      "t": 2675.88,
+      "text": "KPI."
+    },
+    {
+      "t": 2676.88,
+      "text": "Key performance indicator."
+    },
+    {
+      "t": 2678.38,
+      "text": "Trend."
+    },
+    {
+      "t": 2679.38,
+      "text": "Direction of performance."
+    },
+    {
+      "t": 2680.88,
+      "text": "Objective."
+    },
+    {
+      "t": 2681.88,
+      "text": "Business goal."
+    },
+    {
+      "t": 2683.38,
+      "text": "strategy, plan to achieve goals. These words are essential for business"
+    },
+    {
+      "t": 2688.74,
+      "text": "discussions. Yes, learners should practice using them. Now let's practice a full"
+    },
+    {
+      "t": 2693.94,
+      "text": "business performance description. Good idea. Our company experienced strong"
+    },
+    {
+      "t": 2698.9,
+      "text": "performance this quarter. Revenue increased by 12% and customer"
+    },
+    {
+      "t": 2703.74,
+      "text": "satisfaction improved due to enhanced service quality. We also implemented"
+    },
+    {
+      "t": 2709.02,
+      "text": "new efficiency measures, reducing operational costs by 5%."
+    },
+    {
+      "t": 2713.98,
+      "text": "Moving forward, we will continue focusing on innovation and customer experience to sustain"
+    },
+    {
+      "t": 2719.7,
+      "text": "growth."
+    },
+    {
+      "t": 2720.7,
+      "text": "That's excellent."
+    },
+    {
+      "t": 2721.7,
+      "text": "It includes results, explanations, and future plans."
+    },
+    {
+      "t": 2725.74,
+      "text": "Very professional."
+    },
+    {
+      "t": 2726.74,
+      "text": "Now let's talk about business meetings."
+    },
+    {
+      "t": 2729.42,
+      "text": "Good topic."
+    },
+    {
+      "t": 2730.54,
+      "text": "Business performance is often discussed in meetings."
+    },
+    {
+      "t": 2733.54,
+      "text": "For example, performance reviews."
+    },
+    {
+      "t": 2735.46,
+      "text": "A performance review evaluates results."
+    },
+    {
+      "t": 2738.46,
+      "text": "It focuses on achievements and areas for improvement."
+    },
+    {
+      "t": 2741.74,
+      "text": "Let's create an example."
+    },
+    {
+      "t": 2743.18,
+      "text": "Okay."
+    },
+    {
+      "t": 2744.18,
+      "text": "Our team achieved a 10% increase in productivity, however, we identified opportunities to improve"
+    },
+    {
+      "t": 2751.14,
+      "text": "process efficiency."
+    },
+    {
+      "t": 2752.98,
+      "text": "We will implement new strategies to address these areas and continue driving performance."
+    },
+    {
+      "t": 2758.66,
+      "text": "That sounds professional and balanced."
+    },
+    {
+      "t": 2761.04,
+      "text": "It highlights success and improvement."
+    },
+    {
+      "t": 2763.9,
+      "text": "Exactly."
+    },
+    {
+      "t": 2764.9,
+      "text": "Now let's talk about common questions."
+    },
+    {
+      "t": 2767.5,
+      "text": "Good question."
+    },
+    {
+      "t": 2768.5,
+      "text": "Question."
+    },
+    {
+      "t": 2769.5,
+      "text": "How is your company performing?"
+    },
+    {
+      "t": 2771.46,
+      "text": "Answer."
+    },
+    {
+      "t": 2772.62,
+      "text": "Performance has improved due to strategic initiatives."
+    },
+    {
+      "t": 2775.86,
+      "text": "Question."
+    },
+    {
+      "t": 2776.86,
+      "text": "What challenges are you facing?"
+    },
+    {
+      "t": 2778.82,
+      "text": "Answer."
+    },
+    {
+      "t": 2779.82,
+      "text": "We are addressing challenges with new solutions."
+    },
+    {
+      "t": 2782.34,
+      "text": "Question."
+    },
+    {
+      "t": 2783.34,
+      "text": "What are your growth plans?"
+    },
+    {
+      "t": 2784.58,
+      "text": "Answer."
+    },
+    {
+      "t": 2785.58,
+      "text": "We plan to expand and improve efficiency."
+    },
+    {
+      "t": 2788.3,
+      "text": "These answers sound professional."
+    },
+    {
+      "t": 2790.06,
+      "text": "Yes, and they show confidence."
+    },
+    {
+      "t": 2792.38,
+      "text": "Now let's talk about business tone."
+    },
+    {
+      "t": 2795.1,
+      "text": "Good point."
+    },
+    {
+      "t": 2796.1,
+      "text": "Business communication should be clear and factual."
+    },
+    {
+      "t": 2799.58,
+      "text": "Avoid emotional language."
+    },
+    {
+      "t": 2801.3,
+      "text": "For example, instead of saying everything is bad, say, we are addressing challenges."
+    },
+    {
+      "t": 2807.5,
+      "text": "That sounds professional."
+    },
+    {
+      "t": 2809.22,
+      "text": "Business discussions should focus on solutions."
+    },
+    {
+      "t": 2812.02,
+      "text": "Exactly."
+    },
+    {
+      "t": 2813.02,
+      "text": "Now, let's summarize."
+    },
+    {
+      "t": 2814.86,
+      "text": "Good idea."
+    },
+    {
+      "t": 2816.06,
+      "text": "Business performance is about results."
+    },
+    {
+      "t": 2818.7,
+      "text": "Use data to describe performance."
+    },
+    {
+      "t": 2820.86,
+      "text": "KPIs measure success."
+    },
+    {
+      "t": 2823.5,
+      "text": "Trends show progress."
+    },
+    {
+      "t": 2825.5,
+      "text": "are opportunities for improvement. Business communication should be professional."
+    },
+    {
+      "t": 2830.82,
+      "text": "And clear. That's the key."
+    },
+    {
+      "t": 2833.38,
+      "text": "Before we finish, let's ask a question. Yes, we love hearing from our listeners."
+    },
+    {
+      "t": 2838.36,
+      "text": "How would you describe your company's performance in English?"
+    },
+    {
+      "t": 2841.9,
+      "text": "Try writing a short description. Include results and future goals."
+    },
+    {
+      "t": 2846.78,
+      "text": "Practice makes perfect. Thank you for joining us today."
+    },
+    {
+      "t": 2849.9,
+      "text": "We hope you found this useful. Talking about business performance is an"
+    },
+    {
+      "t": 2853.38,
+      "text": "important skill. And you are improving every day. Keep practicing. Keep learning."
+    },
+    {
+      "t": 2858.54,
+      "text": "We'll see you in the next episode. Goodbye. Bye-bye."
+    }
+  ],
+  "lemmas": [
+    [
+      "performance",
+      146
+    ],
+    [
+      "business",
+      76
+    ],
+    [
+      "quarter",
+      56
+    ],
+    [
+      "revenue",
+      55
+    ],
+    [
+      "talk",
+      50
+    ],
+    [
+      "result",
+      48
+    ],
+    [
+      "growth",
+      47
+    ],
+    [
+      "increas",
+      44
+    ],
+    [
+      "example",
+      40
+    ],
+    [
+      "say",
+      39
+    ],
+    [
+      "sal",
+      37
+    ],
+    [
+      "improv",
+      36
+    ],
+    [
+      "year",
+      35
+    ],
+    [
+      "market",
+      32
+    ],
+    [
+      "customer",
+      31
+    ],
+    [
+      "profit",
+      30
+    ],
+    [
+      "cost",
+      30
+    ],
+    [
+      "good",
+      30
+    ],
+    [
+      "exactly",
+      28
+    ],
+    [
+      "english",
+      27
+    ],
+    [
+      "discuss",
+      27
+    ],
+    [
+      "professional",
+      27
+    ],
+    [
+      "sound",
+      25
+    ],
+    [
+      "efficiency",
+      23
+    ],
+    [
+      "kpis",
+      22
+    ],
+    [
+      "trend",
+      22
+    ],
+    [
+      "key",
+      22
+    ],
+    [
+      "due",
+      22
+    ],
+    [
+      "mean",
+      22
+    ],
+    [
+      "show",
+      22
+    ],
+    [
+      "strong",
+      22
+    ],
+    [
+      "today",
+      20
+    ],
+    [
+      "explain",
+      20
+    ],
+    [
+      "challeng",
+      20
+    ],
+    [
+      "company",
+      20
+    ],
+    [
+      "next",
+      20
+    ],
+    [
+      "report",
+      19
+    ],
+    [
+      "operational",
+      19
+    ],
+    [
+      "target",
+      19
+    ],
+    [
+      "compar",
+      19
+    ],
+    [
+      "positive",
+      19
+    ],
+    [
+      "important",
+      19
+    ],
+    [
+      "practice",
+      18
+    ],
+    [
+      "focus",
+      18
+    ],
+    [
+      "also",
+      17
+    ],
+    [
+      "margin",
+      16
+    ],
+    [
+      "refer",
+      15
+    ],
+    [
+      "remain",
+      15
+    ],
+    [
+      "phras",
+      15
+    ],
+    [
+      "improvement",
+      15
+    ],
+    [
+      "us",
+      15
+    ],
+    [
+      "meet",
+      14
+    ],
+    [
+      "useful",
+      14
+    ],
+    [
+      "achiev",
+      14
+    ],
+    [
+      "help",
+      14
+    ],
+    [
+      "number",
+      13
+    ],
+    [
+      "expens",
+      13
+    ],
+    [
+      "last",
+      13
+    ],
+    [
+      "data",
+      13
+    ],
+    [
+      "question",
+      13
+    ],
+    [
+      "satisfaction",
+      13
+    ],
+    [
+      "expect",
+      13
+    ],
+    [
+      "conversation",
+      12
+    ],
+    [
+      "metric",
+      12
+    ],
+    [
+      "indicator",
+      12
+    ],
+    [
+      "expectation",
+      12
+    ],
+    [
+      "describ",
+      12
+    ],
+    [
+      "perform",
+      12
+    ],
+    [
+      "forecast",
+      12
+    ],
+    [
+      "future",
+      12
+    ],
+    [
+      "see",
+      12
+    ],
+    [
+      "topic",
+      11
+    ],
+    [
+      "common",
+      11
+    ],
+    [
+      "start",
+      11
+    ],
+    [
+      "productivity",
+      11
+    ],
+    [
+      "clear",
+      11
+    ],
+    [
+      "overall",
+      11
+    ],
+    [
+      "stable",
+      11
+    ],
+    [
+      "line",
+      11
+    ],
+    [
+      "exceed",
+      11
+    ],
+    [
+      "implement",
+      11
+    ],
+    [
+      "plan",
+      11
+    ],
+    [
+      "kpi",
+      11
+    ],
+    [
+      "discussion",
+      11
+    ],
+    [
+      "steady",
+      11
+    ],
+    [
+      "vocabulary",
+      10
+    ],
+    [
+      "retention",
+      10
+    ],
+    [
+      "context",
+      10
+    ],
+    [
+      "previous",
+      10
+    ],
+    [
+      "comparison",
+      10
+    ],
+    [
+      "language",
+      10
+    ],
+    [
+      "use",
+      10
+    ],
+    [
+      "slightly",
+      10
+    ],
+    [
+      "new",
+      10
+    ],
+    [
+      "alway",
+      10
+    ],
+    [
+      "strategic",
+      10
+    ],
+    [
+      "improve",
+      10
+    ],
+    [
+      "increase",
+      10
+    ],
+    [
+      "project",
+      10
+    ],
+    [
+      "presentation",
+      10
+    ],
+    [
+      "word",
+      10
+    ],
+    [
+      "thank",
+      10
+    ],
+    [
+      "structure",
+      9
+    ],
+    [
+      "share",
+      9
+    ],
+    [
+      "process",
+      9
+    ],
+    [
+      "experienc",
+      9
+    ],
+    [
+      "driven",
+      9
+    ],
+    [
+      "reduc",
+      9
+    ],
+    [
+      "strategy",
+      9
+    ],
+    [
+      "anticipate",
+      9
+    ],
+    [
+      "review",
+      9
+    ],
+    [
+      "time",
+      9
+    ],
+    [
+      "episode",
+      9
+    ],
+    [
+      "team",
+      8
+    ],
+    [
+      "everyone",
+      8
+    ],
+    [
+      "often",
+      8
+    ],
+    [
+      "acquisition",
+      8
+    ],
+    [
+      "initiativ",
+      8
+    ],
+    [
+      "idea",
+      8
+    ],
+    [
+      "projection",
+      8
+    ],
+    [
+      "analytical",
+      8
+    ],
+    [
+      "control",
+      8
+    ],
+    [
+      "include",
+      8
+    ],
+    [
+      "declin",
+      8
+    ],
+    [
+      "measur",
+      8
+    ],
+    [
+      "financial",
+      8
+    ],
+    [
+      "action",
+      8
+    ],
+    [
+      "solution",
+      8
+    ],
+    [
+      "summarize",
+      8
+    ],
+    [
+      "keep",
+      8
+    ],
+    [
+      "meeting",
+      8
+    ],
+    [
+      "demand",
+      8
+    ],
+    [
+      "speak",
+      7
+    ],
+    [
+      "department",
+      7
+    ],
+    [
+      "update",
+      7
+    ],
+    [
+      "describe",
+      7
+    ],
+    [
+      "clearly",
+      7
+    ],
+    [
+      "negative",
+      7
+    ],
+    [
+      "usually",
+      7
+    ],
+    [
+      "rate",
+      7
+    ],
+    [
+      "situation",
+      7
+    ],
+    [
+      "deliver",
+      7
+    ],
+    [
+      "optimization",
+      7
+    ],
+    [
+      "short",
+      7
+    ],
+    [
+      "ahead",
+      7
+    ],
+    [
+      "primarily",
+      7
+    ],
+    [
+      "answer",
+      7
+    ],
+    [
+      "measurable",
+      7
+    ],
+    [
+      "higher",
+      7
+    ],
+    [
+      "balanc",
+      7
+    ],
+    [
+      "forward-look",
+      7
+    ],
+    [
+      "success",
+      7
+    ],
+    [
+      "mak",
+      6
+    ],
+    [
+      "hello",
+      6
+    ],
+    [
+      "welcome",
+      6
+    ],
+    [
+      "present",
+      6
+    ],
+    [
+      "quarterly",
+      6
+    ],
+    [
+      "ask",
+      6
+    ],
+    [
+      "profitability",
+      6
+    ],
+    [
+      "tone",
+      6
+    ],
+    [
+      "operat",
+      6
+    ],
+    [
+      "notice",
+      6
+    ],
+    [
+      "absolutely",
+      6
+    ],
+    [
+      "go",
+      6
+    ],
+    [
+      "management",
+      6
+    ],
+    [
+      "corrective",
+      6
+    ],
+    [
+      "follow",
+      6
+    ],
+    [
+      "another",
+      6
+    ],
+    [
+      "address",
+      6
+    ],
+    [
+      "comprehensive",
+      6
+    ],
+    [
+      "join",
+      6
+    ],
+    [
+      "need",
+      6
+    ],
+    [
+      "exampl",
+      6
+    ],
+    [
+      "total",
+      6
+    ],
+    [
+      "significantly",
+      6
+    ],
+    [
+      "condition",
+      6
+    ],
+    [
+      "service",
+      6
+    ],
+    [
+      "upward",
+      6
+    ],
+    [
+      "essential",
+      5
+    ],
+    [
+      "point",
+      5
+    ],
+    [
+      "investor",
+      5
+    ],
+    [
+      "basic",
+      5
+    ],
+    [
+      "operation",
+      5
+    ],
+    [
+      "someone",
+      5
+    ],
+    [
+      "explanation",
+      5
+    ],
+    [
+      "specific",
+      5
+    ],
+    [
+      "rose",
+      5
+    ],
+    [
+      "without",
+      5
+    ],
+    [
+      "fell",
+      5
+    ],
+    [
+      "try",
+      5
+    ],
+    [
+      "lower",
+      5
+    ],
+    [
+      "decreas",
+      5
+    ],
+    [
+      "expand",
+      5
+    ],
+    [
+      "downward",
+      5
+    ],
+    [
+      "objective",
+      5
+    ],
+    [
+      "supply",
+      5
+    ],
+    [
+      "chain",
+      5
+    ],
+    [
+      "excellent",
+      5
+    ],
+    [
+      "caus",
+      5
+    ],
+    [
+      "however",
+      5
+    ],
+    [
+      "campaign",
+      5
+    ],
+    [
+      "instead",
+      5
+    ],
+    [
+      "significant",
+      5
+    ],
+    [
+      "one",
+      5
+    ],
+    [
+      "clarity",
+      5
+    ],
+    [
+      "confidence",
+      5
+    ],
+    [
+      "communication",
+      5
+    ],
+    [
+      "income",
+      5
+    ],
+    [
+      "maintain",
+      5
+    ],
+    [
+      "decline",
+      5
+    ],
+    [
+      "slight",
+      5
+    ],
+    [
+      "reason",
+      5
+    ],
+    [
+      "create",
+      5
+    ],
+    [
+      "full",
+      5
+    ],
+    [
+      "although",
+      5
+    ],
+    [
+      "imagine",
+      5
+    ],
+    [
+      "using",
+      5
+    ],
+    [
+      "goodbye",
+      5
+    ],
+    [
+      "includ",
+      5
+    ],
+    [
+      "goal",
+      5
+    ],
+    [
+      "fac",
+      5
+    ],
+    [
+      "listen",
+      4
+    ],
+    [
+      "skill",
+      4
+    ],
+    [
+      "giv",
+      4
+    ],
+    [
+      "step",
+      4
+    ],
+    [
+      "first",
+      4
+    ],
+    [
+      "matter",
+      4
+    ],
+    [
+      "audience",
+      4
+    ],
+    [
+      "begin",
+      4
+    ],
+    [
+      "solid",
+      4
+    ],
+    [
+      "move",
+      4
+    ],
+    [
+      "vague",
+      4
+    ],
+    [
+      "grew",
+      4
+    ],
+    [
+      "outperform",
+      4
+    ],
+    [
+      "drop",
+      4
+    ],
+    [
+      "expansion",
+      4
+    ],
+    [
+      "correct",
+      4
+    ],
+    [
+      "weve",
+      4
+    ],
+    [
+      "forward",
+      4
+    ],
+    [
+      "problem",
+      4
+    ],
+    [
+      "great",
+      4
+    ],
+    [
+      "lead",
+      4
+    ],
+    [
+      "structur",
+      4
+    ],
+    [
+      "moderate",
+      4
+    ],
+    [
+      "mistake",
+      4
+    ],
+    [
+      "practic",
+      4
+    ],
+    [
+      "effectively",
+      4
+    ],
+    [
+      "hi",
+      4
+    ],
+    [
+      "cover",
+      4
+    ],
+    [
+      "confidently",
+      4
+    ],
+    [
+      "bottom",
+      4
+    ],
+    [
+      "consistent",
+      4
+    ],
+    [
+      "ris",
+      4
+    ],
+    [
+      "mix",
+      4
+    ],
+    [
+      "objectiv",
+      4
+    ],
+    [
+      "continu",
+      4
+    ],
+    [
+      "statement",
+      4
+    ],
+    [
+      "employee",
+      4
+    ],
+    [
+      "output",
+      4
+    ],
+    [
+      "continue",
+      4
+    ],
+    [
+      "confident",
+      4
+    ],
+    [
+      "progress",
+      4
+    ],
+    [
+      "provid",
+      4
+    ],
+    [
+      "external",
+      4
+    ],
+    [
+      "factual",
+      4
+    ],
+    [
+      "highlight",
+      4
+    ],
+    [
+      "learn",
+      4
+    ],
+    [
+      "measure",
+      4
+    ],
+    [
+      "compani",
+      4
+    ],
+    [
+      "manager",
+      3
+    ],
+    [
+      "even",
+      3
+    ],
+    [
+      "feel",
+      3
+    ],
+    [
+      "sometim",
+      3
+    ],
+    [
+      "real",
+      3
+    ],
+    [
+      "depend",
+      3
+    ],
+    [
+      "understand",
+      3
+    ],
+    [
+      "care",
+      3
+    ],
+    [
+      "summary",
+      3
+    ],
+    [
+      "driver",
+      3
+    ],
+    [
+      "outlook",
+      3
+    ],
+    [
+      "compare",
+      3
+    ],
+    [
+      "much",
+      3
+    ],
+    [
+      "stronger",
+      3
+    ],
+    [
+      "evaluate",
+      3
+    ],
+    [
+      "slow",
+      3
+    ],
+    [
+      "pressure",
+      3
+    ],
+    [
+      "diplomatic",
+      3
+    ],
+    [
+      "influenc",
+      3
+    ],
+    [
+      "emotional",
+      3
+    ],
+    [
+      "many",
+      3
+    ],
+    [
+      "learner",
+      3
+    ],
+    [
+      "requir",
+      3
+    ],
+    [
+      "seasonal",
+      3
+    ],
+    [
+      "fluctuation",
+      3
+    ],
+    [
+      "ad",
+      3
+    ],
+    [
+      "rat",
+      3
+    ],
+    [
+      "scor",
+      3
+    ],
+    [
+      "build",
+      3
+    ],
+    [
+      "avoid",
+      3
+    ],
+    [
+      "description",
+      3
+    ],
+    [
+      "generation",
+      3
+    ],
+    [
+      "channel",
+      3
+    ],
+    [
+      "bas",
+      3
+    ],
+    [
+      "current",
+      3
+    ],
+    [
+      "professionally",
+      3
+    ],
+    [
+      "finish",
+      3
+    ],
+    [
+      "listener",
+      3
+    ],
+    [
+      "every",
+      3
+    ],
+    [
+      "final",
+      3
+    ],
+    [
+      "end",
+      3
+    ],
+    [
+      "insight",
+      3
+    ],
+    [
+      "communicate",
+      3
+    ],
+    [
+      "podcast",
+      3
+    ],
+    [
+      "work",
+      3
+    ],
+    [
+      "youll",
+      3
+    ],
+    [
+      "two",
+      3
+    ],
+    [
+      "generat",
+      3
+    ],
+    [
+      "top",
+      3
+    ],
+    [
+      "net",
+      3
+    ],
+    [
+      "way",
+      3
+    ],
+    [
+      "difference",
+      3
+    ],
+    [
+      "change",
+      3
+    ],
+    [
+      "give",
+      3
+    ],
+    [
+      "provide",
+      3
+    ],
+    [
+      "production",
+      3
+    ],
+    [
+      "analysis",
+      3
+    ],
+    [
+      "valu",
+      3
+    ],
+    [
+      "slowdown",
+      3
+    ],
+    [
+      "look",
+      3
+    ],
+    [
+      "leadership",
+      3
+    ],
+    [
+      "opportuniti",
+      3
+    ],
+    [
+      "grow",
+      3
+    ],
+    [
+      "want",
+      3
+    ],
+    [
+      "area",
+      3
+    ],
+    [
+      "term",
+      3
+    ],
+    [
+      "percentage",
+      3
+    ],
+    [
+      "used",
+      3
+    ],
+    [
+      "phrase",
+      3
+    ],
+    [
+      "stability",
+      3
+    ],
+    [
+      "disruption",
+      3
+    ],
+    [
+      "streamlin",
+      3
+    ],
+    [
+      "hope",
+      3
+    ],
+    [
+      "bad",
+      3
+    ],
+    [
+      "track",
+      3
+    ],
+    [
+      "indicate",
+      3
+    ],
+    [
+      "thing",
+      3
+    ],
+    [
+      "strategi",
+      3
+    ],
+    [
+      "perfect",
+      2
+    ],
+    [
+      "back",
+      2
+    ],
+    [
+      "critical",
+      2
+    ],
+    [
+      "leader",
+      2
+    ],
+    [
+      "analyst",
+      2
+    ],
+    [
+      "entrepreneur",
+      2
+    ],
+    [
+      "whether",
+      2
+    ],
+    [
+      "strategically",
+      2
+    ],
+    [
+      "involv",
+      2
+    ],
+    [
+      "mistak",
+      2
+    ],
+    [
+      "model",
+      2
+    ],
+    [
+      "throughout",
+      2
+    ],
+    [
+      "industry",
+      2
+    ],
+    [
+      "simple",
+      2
+    ],
+    [
+      "big",
+      2
+    ],
+    [
+      "month",
+      2
+    ],
+    [
+      "precise",
+      2
+    ],
+    [
+      "verb",
+      2
+    ],
+    [
+      "strengthen",
+      2
+    ],
+    [
+      "detail",
+      2
+    ],
+    [
+      "incomplete",
+      2
+    ],
+    [
+      "weaker",
+      2
+    ],
+    [
+      "diplomacy",
+      2
+    ],
+    [
+      "someth",
+      2
+    ],
+    [
+      "product",
+      2
+    ],
+    [
+      "launch",
+      2
+    ],
+    [
+      "support",
+      2
+    ],
+    [
+      "cause",
+      2
+    ],
+    [
+      "competition",
+      2
+    ],
+    [
+      "conversion",
+      2
+    ],
+    [
+      "precision",
+      2
+    ],
+    [
+      "per",
+      2
+    ],
+    [
+      "digital",
+      2
+    ],
+    [
+      "content",
+      2
+    ],
+    [
+      "spend",
+      2
+    ],
+    [
+      "refin",
+      2
+    ],
+    [
+      "signal",
+      2
+    ],
+    [
+      "uncertainty",
+      2
+    ],
+    [
+      "data-driven",
+      2
+    ],
+    [
+      "remember",
+      2
+    ],
+    [
+      "glad",
+      2
+    ],
+    [
+      "practical",
+      2
+    ],
+    [
+      "finance",
+      2
+    ],
+    [
+      "especially",
+      2
+    ],
+    [
+      "deduct",
+      2
+    ],
+    [
+      "expression",
+      2
+    ],
+    [
+      "amount",
+      2
+    ],
+    [
+      "million",
+      2
+    ],
+    [
+      "chang",
+      2
+    ],
+    [
+      "decrease",
+      2
+    ],
+    [
+      "poor",
+      2
+    ],
+    [
+      "still",
+      2
+    ],
+    [
+      "able",
+      2
+    ],
+    [
+      "transparency",
+      2
+    ],
+    [
+      "system",
+      2
+    ],
+    [
+      "largely",
+      2
+    ],
+    [
+      "european",
+      2
+    ],
+    [
+      "reflect",
+      2
+    ],
+    [
+      "quality",
+      2
+    ],
+    [
+      "difficult",
+      2
+    ],
+    [
+      "identifi",
+      2
+    ],
+    [
+      "calm",
+      2
+    ],
+    [
+      "mention",
+      2
+    ],
+    [
+      "possible",
+      2
+    ],
+    [
+      "story",
+      2
+    ],
+    [
+      "recent",
+      2
+    ],
+    [
+      "percentag",
+      2
+    ],
+    [
+      "high-level",
+      2
+    ],
+    [
+      "direction",
+      2
+    ],
+    [
+      "opinion",
+      2
+    ],
+    [
+      "role",
+      2
+    ],
+    [
+      "play",
+      2
+    ],
+    [
+      "period",
+      2
+    ],
+    [
+      "behind",
+      2
+    ],
+    [
+      "figur",
+      2
+    ],
+    [
+      "neutral",
+      2
+    ],
+    [
+      "volatility",
+      2
+    ],
+    [
+      "raw",
+      2
+    ],
+    [
+      "material",
+      2
+    ],
+    [
+      "demonstrat",
+      2
+    ],
+    [
+      "proactive",
+      2
+    ],
+    [
+      "awareness",
+      2
+    ],
+    [
+      "position",
+      2
+    ],
+    [
+      "potential",
+      2
+    ],
+    [
+      "predict",
+      2
+    ],
+    [
+      "fiscal",
+      2
+    ],
+    [
+      "variance",
+      2
+    ],
+    [
+      "actual",
+      2
+    ],
+    [
+      "departmental",
+      2
+    ],
+    [
+      "downtime",
+      2
+    ],
+    [
+      "emerg",
+      2
+    ],
+    [
+      "going",
+      2
+    ],
+    [
+      "com",
+      2
+    ],
+    [
+      "overview",
+      2
+    ],
+    [
+      "disappoint",
+      2
+    ],
+    [
+      "soften",
+      2
+    ],
+    [
+      "temporary",
+      2
+    ],
+    [
+      "impact",
+      2
+    ],
+    [
+      "past",
+      2
+    ],
+    [
+      "factor",
+      2
+    ],
+    [
+      "affect",
+      2
+    ],
+    [
+      "economic",
+      2
+    ],
+    [
+      "take",
+      2
+    ],
+    [
+      "part",
+      2
+    ],
+    [
+      "roi",
+      2
+    ],
+    [
+      "realistic",
+      2
+    ],
+    [
+      "decision",
+      2
+    ],
+    [
+      "earn",
+      2
+    ],
+    [
+      "achieve",
+      2
+    ],
+    [
+      "difficulti",
+      2
+    ],
+    [
+      "retail",
+      2
+    ],
+    [
+      "technology",
+      2
+    ],
+    [
+      "user",
+      2
+    ],
+    [
+      "engagement",
+      2
+    ],
+    [
+      "value",
+      2
+    ],
+    [
+      "employe",
+      1
+    ],
+    [
+      "supervisor",
+      1
+    ],
+    [
+      "accurately",
+      1
+    ],
+    [
+      "intimidat",
+      1
+    ],
+    [
+      "break",
+      1
+    ],
+    [
+      "typically",
+      1
+    ],
+    [
+      "relevant",
+      1
+    ],
+    [
+      "executiv",
+      1
+    ],
+    [
+      "picture",
+      1
+    ],
+    [
+      "immediately",
+      1
+    ],
+    [
+      "set",
+      1
+    ],
+    [
+      "year-over-year",
+      1
+    ],
+    [
+      "quarter-over-quarter",
+      1
+    ],
+    [
+      "interpretation",
+      1
+    ],
+    [
+      "enough",
+      1
+    ],
+    [
+      "add",
+      1
+    ],
+    [
+      "accelerat",
+      1
+    ],
+    [
+      "contract",
+      1
+    ],
+    [
+      "underperform",
+      1
+    ],
+    [
+      "weaken",
+      1
+    ],
+    [
+      "choice",
+      1
+    ],
+    [
+      "perception",
+      1
+    ],
+    [
+      "collaps",
+      1
+    ],
+    [
+      "creat",
+      1
+    ],
+    [
+      "panic",
+      1
+    ],
+    [
+      "controll",
+      1
+    ],
+    [
+      "half",
+      1
+    ],
+    [
+      "efficienci",
+      1
+    ],
+    [
+      "happen",
+      1
+    ],
+    [
+      "alone",
+      1
+    ],
+    [
+      "implicit",
+      1
+    ],
+    [
+      "struggle",
+      1
+    ],
+    [
+      "fram",
+      1
+    ],
+    [
+      "lot",
+      1
+    ],
+    [
+      "informal",
+      1
+    ],
+    [
+      "delay",
+      1
+    ],
+    [
+      "youve",
+      1
+    ],
+    [
+      "concern",
+      1
+    ],
+    [
+      "issue",
+      1
+    ],
+    [
+      "response",
+      1
+    ],
+    [
+      "stand",
+      1
+    ],
+    [
+      "credibility",
+      1
+    ],
+    [
+      "replace",
+      1
+    ],
+    [
+      "advertis",
+      1
+    ],
+    [
+      "drove",
+      1
+    ],
+    [
+      "mainly",
+      1
+    ],
+    [
+      "segmentation",
+      1
+    ],
+    [
+      "tak",
+      1
+    ],
+    [
+      "optimiz",
+      1
+    ],
+    [
+      "reallocat",
+      1
+    ],
+    [
+      "budget",
+      1
+    ],
+    [
+      "toward",
+      1
+    ],
+    [
+      "bid",
+      1
+    ],
+    [
+      "absolute",
+      1
+    ],
+    [
+      "promis",
+      1
+    ],
+    [
+      "double",
+      1
+    ],
+    [
+      "third",
+      1
+    ],
+    [
+      "ignor",
+      1
+    ],
+    [
+      "trust",
+      1
+    ],
+    [
+      "quickly",
+      1
+    ],
+    [
+      "hard",
+      1
+    ],
+    [
+      "spe",
+      1
+    ],
+    [
+      "speaker",
+      1
+    ],
+    [
+      "overload",
+      1
+    ],
+    [
+      "statistic",
+      1
+    ],
+    [
+      "available",
+      1
+    ],
+    [
+      "advice",
+      1
+    ],
+    [
+      "framework",
+      1
+    ],
+    [
+      "weak",
+      1
+    ],
+    [
+      "objectivity",
+      1
+    ],
+    [
+      "conclud",
+      1
+    ],
+    [
+      "little",
+      1
+    ],
+    [
+      "session",
+      1
+    ],
+    [
+      "natural",
+      1
+    ],
+    [
+      "workplace",
+      1
+    ],
+    [
+      "extremely",
+      1
+    ],
+    [
+      "world",
+      1
+    ],
+    [
+      "person",
+      1
+    ],
+    [
+      "confuse",
+      1
+    ],
+    [
+      "true",
+      1
+    ],
+    [
+      "conclusion",
+      1
+    ],
+    [
+      "impressive",
+      1
+    ],
+    [
+      "competitor",
+      1
+    ],
+    [
+      "major",
+      1
+    ],
+    [
+      "notic",
+      1
+    ],
+    [
+      "size",
+      1
+    ],
+    [
+      "serious",
+      1
+    ],
+    [
+      "online",
+      1
+    ],
+    [
+      "contrast",
+      1
+    ],
+    [
+      "volume",
+      1
+    ],
+    [
+      "sid",
+      1
+    ],
+    [
+      "monthly",
+      1
+    ],
+    [
+      "produc",
+      1
+    ],
+    [
+      "afternoon",
+      1
+    ],
+    [
+      "pleas",
+      1
+    ],
+    [
+      "handl",
+      1
+    ],
+    [
+      "initial",
+      1
+    ],
+    [
+      "never",
+      1
+    ],
+    [
+      "buy",
+      1
+    ],
+    [
+      "tell",
+      1
+    ],
+    [
+      "turn",
+      1
+    ],
+    [
+      "appreciate",
+      1
+    ],
+    [
+      "commitment",
+      1
+    ],
+    [
+      "executive",
+      1
+    ],
+    [
+      "anyone",
+      1
+    ],
+    [
+      "decision-mak",
+      1
+    ],
+    [
+      "evaluation",
+      1
+    ],
+    [
+      "outcom",
+      1
+    ],
+    [
+      "fundamental",
+      1
+    ],
+    [
+      "clarify",
+      1
+    ],
+    [
+      "distinguish",
+      1
+    ],
+    [
+      "record",
+      1
+    ],
+    [
+      "gross",
+      1
+    ],
+    [
+      "modest",
+      1
+    ],
+    [
+      "across",
+      1
+    ],
+    [
+      "unit",
+      1
+    ],
+    [
+      "surpass",
+      1
+    ],
+    [
+      "despite",
+      1
+    ],
+    [
+      "suggest",
+      1
+    ],
+    [
+      "underperformance",
+      1
+    ],
+    [
+      "careful",
+      1
+    ],
+    [
+      "transparent",
+      1
+    ],
+    [
+      "fail",
+      1
+    ],
+    [
+      "think",
+      1
+    ],
+    [
+      "diversify",
+      1
+    ],
+    [
+      "supplier",
+      1
+    ],
+    [
+      "base",
+      1
+    ],
+    [
+      "internal",
+      1
+    ],
+    [
+      "automation",
+      1
+    ],
+    [
+      "upgrad",
+      1
+    ],
+    [
+      "frame",
+      1
+    ],
+    [
+      "lin",
+      1
+    ],
+    [
+      "efficient",
+      1
+    ],
+    [
+      "turnaround",
+      1
+    ],
+    [
+      "churn",
+      1
+    ],
+    [
+      "stop",
+      1
+    ],
+    [
+      "referenc",
+      1
+    ],
+    [
+      "accountability",
+      1
+    ],
+    [
+      "asia-pacific",
+      1
+    ],
+    [
+      "region",
+      1
+    ],
+    [
+      "brand",
+      1
+    ],
+    [
+      "indicat",
+      1
+    ],
+    [
+      "competitive",
+      1
+    ],
+    [
+      "strength",
+      1
+    ],
+    [
+      "segment",
+      1
+    ],
+    [
+      "presenter",
+      1
+    ],
+    [
+      "stat",
+      1
+    ],
+    [
+      "previously",
+      1
+    ],
+    [
+      "cash",
+      1
+    ],
+    [
+      "balance",
+      1
+    ],
+    [
+      "sheet",
+      1
+    ],
+    [
+      "manageable",
+      1
+    ],
+    [
+      "debt",
+      1
+    ],
+    [
+      "load",
+      1
+    ],
+    [
+      "sufficient",
+      1
+    ],
+    [
+      "liquidity",
+      1
+    ],
+    [
+      "enabl",
+      1
+    ],
+    [
+      "invest",
+      1
+    ],
+    [
+      "manage",
+      1
+    ],
+    [
+      "combin",
+      1
+    ],
+    [
+      "unexpect",
+      1
+    ],
+    [
+      "regulatory",
+      1
+    ],
+    [
+      "examine",
+      1
+    ],
+    [
+      "level",
+      1
+    ],
+    [
+      "delivery",
+      1
+    ],
+    [
+      "timelin",
+      1
+    ],
+    [
+      "successfully",
+      1
+    ],
+    [
+      "overhead",
+      1
+    ],
+    [
+      "breakdown",
+      1
+    ],
+    [
+      "implementation",
+      1
+    ],
+    [
+      "workflow",
+      1
+    ],
+    [
+      "software",
+      1
+    ],
+    [
+      "maintenance",
+      1
+    ],
+    [
+      "schedul",
+      1
+    ],
+    [
+      "long-term",
+      1
+    ],
+    [
+      "servic",
+      1
+    ],
+    [
+      "division",
+      1
+    ],
+    [
+      "manufactur",
+      1
+    ],
+    [
+      "inflationary",
+      1
+    ],
+    [
+      "pressur",
+      1
+    ],
+    [
+      "tim",
+      1
+    ],
+    [
+      "well-structur",
+      1
+    ],
+    [
+      "three",
+      1
+    ],
+    [
+      "principl",
+      1
+    ],
+    [
+      "prepar",
+      1
+    ],
+    [
+      "conclude",
+      1
+    ],
+    [
+      "communicat",
+      1
+    ],
+    [
+      "authority",
+      1
+    ],
+    [
+      "call",
+      1
+    ],
+    [
+      "connect",
+      1
+    ],
+    [
+      "general",
+      1
+    ],
+    [
+      "amaz",
+      1
+    ],
+    [
+      "either",
+      1
+    ],
+    [
+      "case",
+      1
+    ],
+    [
+      "becom",
+      1
+    ],
+    [
+      "blam",
+      1
+    ],
+    [
+      "dramatic",
+      1
+    ],
+    [
+      "stay",
+      1
+    ],
+    [
+      "data-focus",
+      1
+    ],
+    [
+      "sure",
+      1
+    ],
+    [
+      "acknowledge",
+      1
+    ],
+    [
+      "aspect",
+      1
+    ],
+    [
+      "perspective",
+      1
+    ],
+    [
+      "grown",
+      1
+    ],
+    [
+      "six",
+      1
+    ],
+    [
+      "gradually",
+      1
+    ],
+    [
+      "opposite",
+      1
+    ],
+    [
+      "broader",
+      1
+    ],
+    [
+      "formal",
+      1
+    ],
+    [
+      "senior",
+      1
+    ],
+    [
+      "encounter",
+      1
+    ],
+    [
+      "already",
+      1
+    ],
+    [
+      "annual",
+      1
+    ],
+    [
+      "priority",
+      1
+    ],
+    [
+      "combine",
+      1
+    ],
+    [
+      "credible",
+      1
+    ],
+    [
+      "crucial",
+      1
+    ],
+    [
+      "job",
+      1
+    ],
+    [
+      "interview",
+      1
+    ],
+    [
+      "latest",
+      1
+    ],
+    [
+      "polite",
+      1
+    ],
+    [
+      "percent",
+      1
+    ],
+    [
+      "version",
+      1
+    ],
+    [
+      "anticipat",
+      1
+    ],
+    [
+      "successful",
+      1
+    ],
+    [
+      "steadily",
+      1
+    ],
+    [
+      "fluctuat",
+      1
+    ],
+    [
+      "plateau",
+      1
+    ],
+    [
+      "introduce",
+      1
+    ],
+    [
+      "solution-orient",
+      1
+    ],
+    [
+      "adjust",
+      1
+    ],
+    [
+      "optimistic",
+      1
+    ],
+    [
+      "extend",
+      1
+    ],
+    [
+      "dialog",
+      1
+    ],
+    [
+      "logistic",
+      1
+    ],
+    [
+      "pric",
+      1
+    ],
+    [
+      "kind",
+      1
+    ],
+    [
+      "bring",
+      1
+    ],
+    [
+      "erica",
+      1
+    ],
+    [
+      "happy",
+      1
+    ],
+    [
+      "daniel",
+      1
+    ],
+    [
+      "enjoy",
+      1
+    ],
+    [
+      "please",
+      1
+    ],
+    [
+      "colleague",
+      1
+    ],
+    [
+      "make",
+      1
+    ],
+    [
+      "money",
+      1
+    ],
+    [
+      "fewer",
+      1
+    ],
+    [
+      "resourc",
+      1
+    ],
+    [
+      "face",
+      1
+    ],
+    [
+      "challenge",
+      1
+    ],
+    [
+      "overly",
+      1
+    ],
+    [
+      "attitude",
+      1
+    ],
+    [
+      "vary",
+      1
+    ],
+    [
+      "feedback",
+      1
+    ],
+    [
+      "measurement",
+      1
+    ],
+    [
+      "reach",
+      1
+    ],
+    [
+      "fact",
+      1
+    ],
+    [
+      "movement",
+      1
+    ],
+    [
+      "complaint",
+      1
+    ],
+    [
+      "respond",
+      1
+    ],
+    [
+      "solv",
+      1
+    ],
+    [
+      "enhanc",
+      1
+    ],
+    [
+      "mov",
+      1
+    ],
+    [
+      "innovation",
+      1
+    ],
+    [
+      "experience",
+      1
+    ],
+    [
+      "sustain",
+      1
+    ],
+    [
+      "evaluat",
+      1
+    ],
+    [
+      "achievement",
+      1
+    ],
+    [
+      "driv",
+      1
+    ],
+    [
+      "everyth",
+      1
+    ],
+    [
+      "love",
+      1
+    ],
+    [
+      "hear",
+      1
+    ],
+    [
+      "writ",
+      1
+    ],
+    [
+      "find",
+      1
+    ],
+    [
+      "day",
+      1
+    ],
+    [
+      "bye-bye",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 6081,
+    "unique_words": 738,
+    "duration_min": 47.8
+  }
+}

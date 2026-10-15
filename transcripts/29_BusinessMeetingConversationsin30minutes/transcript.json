@@ -1,0 +1,3278 @@
+{
+  "no": 29,
+  "file_stem": "29_BusinessMeetingConversationsin30minutes",
+  "cid": "38193793433",
+  "title_fixed": "Business Meeting Conversations in 30 minutes",
+  "metrics": {
+    "language": "en",
+    "language_probability": 0.995,
+    "duration": 2155.3
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.37,
+      "text": "Listen. Practice. Speak. Practice makes you perfect."
+    },
+    {
+      "start": 12.37,
+      "end": 19.33,
+      "text": "Good morning and welcome to our office. It's great to finally meet you in person. How was your trip?"
+    },
+    {
+      "start": 19.33,
+      "end": 29.33,
+      "text": "Good morning. Thank you very much. The trip was smooth, actually. The flight arrived on time and the hotel you recommended is excellent. I really appreciate that."
+    },
+    {
+      "start": 29.33,
+      "end": 36.33,
+      "text": "I'm glad to hear that. Please, have a seat. Can I get you some coffee, tea or water before we start?"
+    },
+    {
+      "start": 36.33,
+      "end": 38.33,
+      "text": "Water would be perfect. Thank you."
+    },
+    {
+      "start": 38.33,
+      "end": 41.33,
+      "text": "Of course. Here you go."
+    },
+    {
+      "start": 41.33,
+      "end": 45.33,
+      "text": "So, before we jump into business, how has your week been so far?"
+    },
+    {
+      "start": 45.33,
+      "end": 48.33,
+      "text": "It's been quite busy, but productive."
+    },
+    {
+      "start": 48.33,
+      "end": 52.33,
+      "text": "We've been preparing for a few important partnerships, including this one,"
+    },
+    {
+      "start": 52.33,
+      "end": 54.33,
+      "text": "so I've been looking forward to today's meeting."
+    },
+    {
+      "start": 54.33,
+      "end": 58.33,
+      "text": "That's great to hear. We've been looking forward to it as well."
+    },
+    {
+      "start": 58.33,
+      "end": 61.33,
+      "text": "I think there's a lot of potential for us to work together."
+    },
+    {
+      "start": 61.33,
+      "end": 62.33,
+      "text": "I agree."
+    },
+    {
+      "start": 62.33,
+      "end": 69.33,
+      "text": "From what I've seen so far, your company has a strong reputation in the market and your recent projects are very impressive."
+    },
+    {
+      "start": 69.33,
+      "end": 71.33,
+      "text": "Thank you. We appreciate that."
+    },
+    {
+      "start": 71.33,
+      "end": 77.33,
+      "text": "We've put a lot of effort into improving our services and building long-term relationships with our clients."
+    },
+    {
+      "start": 77.33,
+      "end": 84.33,
+      "text": "Speaking of that, maybe we can start with a brief overview of what we do and what we're hoping to achieve with this partnership?"
+    },
+    {
+      "start": 84.33,
+      "end": 87.33,
+      "text": "That sounds like a good place to start."
+    },
+    {
+      "start": 87.33,
+      "end": 94.63,
+      "text": "So, as you probably know, our company specializes in digital solutions for medium-sized businesses."
+    },
+    {
+      "start": 94.63,
+      "end": 99.25,
+      "text": "We focus on strategy, implementation, and long-term support."
+    },
+    {
+      "start": 99.25,
+      "end": 103.83,
+      "text": "Our goal is not just to deliver a product, but to become a partner our clients can rely"
+    },
+    {
+      "start": 103.83,
+      "end": 104.83,
+      "text": "on."
+    },
+    {
+      "start": 104.83,
+      "end": 107.79,
+      "text": "That aligns very well with what we're looking for."
+    },
+    {
+      "start": 107.79,
+      "end": 111.43,
+      "text": "Our company has been growing quickly over the past few years, and we're now at"
+    },
+    {
+      "start": 111.43,
+      "end": 115.55,
+      "text": "a stage where we need more structured and professional systems."
+    },
+    {
+      "start": 115.55,
+      "end": 116.91,
+      "text": "That makes sense."
+    },
+    {
+      "start": 116.91,
+      "end": 120.65,
+      "text": "Both is exciting, but it also creates new challenges."
+    },
+    {
+      "start": 120.65,
+      "end": 124.61,
+      "text": "Could you tell me a bit more about your current situation and what problems you're trying"
+    },
+    {
+      "start": 124.61,
+      "end": 125.77,
+      "text": "to solve?"
+    },
+    {
+      "start": 125.77,
+      "end": 126.77,
+      "text": "Of course."
+    },
+    {
+      "start": 126.77,
+      "end": 132.37,
+      "text": "At the moment, we're managing most of our operations with several disconnected tools."
+    },
+    {
+      "start": 132.37,
+      "end": 136.77,
+      "text": "Communication between departments is not always smooth, and sometimes important information"
+    },
+    {
+      "start": 136.77,
+      "end": 138.13,
+      "text": "gets lost."
+    },
+    {
+      "start": 138.13,
+      "end": 139.21,
+      "text": "I see."
+    },
+    {
+      "start": 139.21,
+      "end": 143.77,
+      "text": "So efficiency and communication are two of your main concerns."
+    },
+    {
+      "start": 143.77,
+      "end": 144.77,
+      "text": "Exactly."
+    },
+    {
+      "start": 144.77,
+      "end": 150.09,
+      "text": "We want a system that connects everything and helps our teams work together more effectively."
+    },
+    {
+      "start": 150.09,
+      "end": 152.29,
+      "text": "That's something we deal with quite often."
+    },
+    {
+      "start": 152.29,
+      "end": 155.45,
+      "text": "Many of our clients come to us with similar challenges."
+    },
+    {
+      "start": 155.45,
+      "end": 161.51,
+      "text": "What we usually do first is analyze the current workflow and identify the main bottlenecks."
+    },
+    {
+      "start": 161.51,
+      "end": 163.01,
+      "text": "That sounds reasonable."
+    },
+    {
+      "start": 163.01,
+      "end": 165.49,
+      "text": "How long does that process usually take?"
+    },
+    {
+      "start": 165.49,
+      "end": 170.17,
+      "text": "Typically, the initial analysis phase takes about two to three weeks."
+    },
+    {
+      "start": 170.17,
+      "end": 175.45,
+      "text": "During that time, we meet with key stakeholders, review your existing tools, and map out your"
+    },
+    {
+      "start": 175.45,
+      "end": 176.85,
+      "text": "processes."
+    },
+    {
+      "start": 176.85,
+      "end": 178.33,
+      "text": "And after that?"
+    },
+    {
+      "start": 178.33,
+      "end": 183.21,
+      "text": "After that, we presented detailed proposal with recommendations, timelines, and budget"
+    },
+    {
+      "start": 183.21,
+      "end": 184.21,
+      "text": "estimates."
+    },
+    {
+      "start": 184.21,
+      "end": 185.89,
+      "text": "That's good to know."
+    },
+    {
+      "start": 185.89,
+      "end": 190.33,
+      "text": "Speaking of budget, I think it's important for us to be transparent from the beginning."
+    },
+    {
+      "start": 190.33,
+      "end": 194.85,
+      "text": "We do have a budget range in mind, but we're flexible if the value is clear."
+    },
+    {
+      "start": 194.85,
+      "end": 197.33,
+      "text": "We appreciate that honesty."
+    },
+    {
+      "start": 197.33,
+      "end": 200.37,
+      "text": "it is always an important part of the conversation."
+    },
+    {
+      "start": 200.37,
+      "end": 205.49,
+      "text": "What matters most to us is finding a solution that delivers real value for you."
+    },
+    {
+      "start": 205.49,
+      "end": 206.49,
+      "text": "Exactly."
+    },
+    {
+      "start": 206.49,
+      "end": 208.73,
+      "text": "We're not just looking for the cheapest option."
+    },
+    {
+      "start": 208.73,
+      "end": 213.97,
+      "text": "We're looking for a partner who understands our business and can support us long term."
+    },
+    {
+      "start": 213.97,
+      "end": 216.57,
+      "text": "That's very much how we see it as well."
+    },
+    {
+      "start": 216.57,
+      "end": 220.81,
+      "text": "Could you tell me a bit more about your company's goals for the next year or two?"
+    },
+    {
+      "start": 220.81,
+      "end": 221.81,
+      "text": "Sure."
+    },
+    {
+      "start": 221.81,
+      "end": 227.09,
+      "text": "Our main goals are to expand into two new markets and to improve customer satisfaction."
+    },
+    {
+      "start": 227.09,
+      "end": 233.25,
+      "text": "We want faster response times, better data, and more consistency across all departments."
+    },
+    {
+      "start": 233.25,
+      "end": 236.57,
+      "text": "Those are ambitious goals, but definitely achievable."
+    },
+    {
+      "start": 236.57,
+      "end": 241.01,
+      "text": "With the right systems in place, you can scale without losing quality."
+    },
+    {
+      "start": 241.01,
+      "end": 243.29,
+      "text": "That's exactly what we're hoping for."
+    },
+    {
+      "start": 243.29,
+      "end": 244.77,
+      "text": "Let me ask you this."
+    },
+    {
+      "start": 244.77,
+      "end": 248.17,
+      "text": "What has worked well for you so far, and what hasn't?"
+    },
+    {
+      "start": 248.17,
+      "end": 253.81,
+      "text": "Well, our team is very motivated, and our products are strong, but our internal processes"
+    },
+    {
+      "start": 253.81,
+      "end": 256.37,
+      "text": "haven't kept up with our growth."
+    },
+    {
+      "start": 256.37,
+      "end": 261.41,
+      "text": "decisions take too long and people don't always have the information they need."
+    },
+    {
+      "start": 261.41,
+      "end": 265.93,
+      "text": "That's very common in fast growing companies. The good news is that these issues can be"
+    },
+    {
+      "start": 265.93,
+      "end": 269.01,
+      "text": "solved with the right structure and tools."
+    },
+    {
+      "start": 269.01,
+      "end": 270.81,
+      "text": "That's reassuring to hear."
+    },
+    {
+      "start": 270.81,
+      "end": 276.15,
+      "text": "Let me walk you through how we usually work with new clients. First, we focus on understanding"
+    },
+    {
+      "start": 276.15,
+      "end": 281.25,
+      "text": "your business deeply. We don't believe in one-size-fits-all solutions."
+    },
+    {
+      "start": 281.25,
+      "end": 284.73,
+      "text": "That's good. We want something tailored to our needs."
+    },
+    {
+      "start": 284.73,
+      "end": 290.43,
+      "text": "Exactly. Then we design a solution that fits your goals, your culture, and your budget."
+    },
+    {
+      "start": 290.43,
+      "end": 295.09,
+      "text": "After that, we handle the implementation and provide ongoing support."
+    },
+    {
+      "start": 295.09,
+      "end": 296.99,
+      "text": "What does the support look like?"
+    },
+    {
+      "start": 296.99,
+      "end": 301.47,
+      "text": "It includes training your team, technical assistance, and regular check-ins to make"
+    },
+    {
+      "start": 301.47,
+      "end": 304.17,
+      "text": "sure everything is working as expected."
+    },
+    {
+      "start": 304.17,
+      "end": 306.31,
+      "text": "That sounds very comprehensive."
+    },
+    {
+      "start": 306.31,
+      "end": 310.73,
+      "text": "We believe that a project is only successful if the client feels confident using the"
+    },
+    {
+      "start": 310.73,
+      "end": 312.97,
+      "text": "system long after the launch."
+    },
+    {
+      "start": 312.97,
+      "end": 314.79,
+      "text": "I completely agree."
+    },
+    {
+      "start": 314.79,
+      "end": 318.11,
+      "text": "Now I do have a few questions about timelines."
+    },
+    {
+      "start": 318.11,
+      "end": 322.23,
+      "text": "If we decided to move forward, when could we realistically start?"
+    },
+    {
+      "start": 322.23,
+      "end": 325.43,
+      "text": "We could start the analysis phase within two weeks."
+    },
+    {
+      "start": 325.43,
+      "end": 329.71,
+      "text": "From there, the full project timeline would depend on the scope, but typically it takes"
+    },
+    {
+      "start": 329.71,
+      "end": 331.83,
+      "text": "three to six months."
+    },
+    {
+      "start": 331.83,
+      "end": 334.27,
+      "text": "That fits well with our internal planning."
+    },
+    {
+      "start": 334.27,
+      "end": 335.27,
+      "text": "Great."
+    },
+    {
+      "start": 335.27,
+      "end": 338.43,
+      "text": "Now I'd like to hear more about your expectations."
+    },
+    {
+      "start": 338.43,
+      "end": 342.07,
+      "text": "What would success look like for you at the end of this project?"
+    },
+    {
+      "start": 342.07,
+      "end": 347.83,
+      "text": "For us, success would mean smoother operations, clearer communication, and better visibility"
+    },
+    {
+      "start": 347.83,
+      "end": 349.21,
+      "text": "into our data."
+    },
+    {
+      "start": 349.21,
+      "end": 353.83,
+      "text": "We want our managers to make decisions based on real-time information."
+    },
+    {
+      "start": 353.83,
+      "end": 358.25,
+      "text": "That's a very clear vision, and it's definitely something we can work toward together."
+    },
+    {
+      "start": 358.25,
+      "end": 360.41,
+      "text": "I appreciate your confidence."
+    },
+    {
+      "start": 360.41,
+      "end": 362.01,
+      "text": "It comes from experience."
+    },
+    {
+      "start": 362.01,
+      "end": 365.21,
+      "text": "We've helped many companies in similar situations."
+    },
+    {
+      "start": 365.21,
+      "end": 366.21,
+      "text": "That's reassuring."
+    },
+    {
+      "start": 366.21,
+      "end": 368.93,
+      "text": "Now, let's talk about the practical side."
+    },
+    {
+      "start": 368.93,
+      "end": 371.97,
+      "text": "What would you need from us to move to the next step?"
+    },
+    {
+      "start": 371.97,
+      "end": 377.13,
+      "text": "We'd need access to some basic information about your current systems, your team structure"
+    },
+    {
+      "start": 377.13,
+      "end": 379.01,
+      "text": "and your main processes."
+    },
+    {
+      "start": 379.01,
+      "end": 383.77,
+      "text": "We'd also like to schedule interviews with a few key people in your organization."
+    },
+    {
+      "start": 383.77,
+      "end": 384.77,
+      "text": "That's doable."
+    },
+    {
+      "start": 384.77,
+      "end": 386.85,
+      "text": "I can coordinate that on our side."
+    },
+    {
+      "start": 386.85,
+      "end": 387.85,
+      "text": "Perfect."
+    },
+    {
+      "start": 387.85,
+      "end": 390.17,
+      "text": "We'll send you a checklist after this meeting."
+    },
+    {
+      "start": 390.17,
+      "end": 391.29,
+      "text": "Great."
+    },
+    {
+      "start": 391.29,
+      "end": 396.17,
+      "text": "Before we wrap up, do you have any concerns or questions we haven't covered yet?"
+    },
+    {
+      "start": 396.17,
+      "end": 399.81,
+      "text": "One thing I'm curious about is how you handle changes."
+    },
+    {
+      "start": 399.81,
+      "end": 402.57,
+      "text": "like this often evolve over time."
+    },
+    {
+      "start": 402.57,
+      "end": 408.29,
+      "text": "That's a very good point. We expect changes. Our approach is flexible. We review progress"
+    },
+    {
+      "start": 408.29,
+      "end": 411.53,
+      "text": "regularly and adjust the plan if needed."
+    },
+    {
+      "start": 411.53,
+      "end": 413.21,
+      "text": "That's important to us."
+    },
+    {
+      "start": 413.21,
+      "end": 417.89,
+      "text": "We also communicate very openly. If there's a risk or a delay, you'll hear it from"
+    },
+    {
+      "start": 417.89,
+      "end": 419.05,
+      "text": "us early."
+    },
+    {
+      "start": 419.05,
+      "end": 422.13,
+      "text": "I appreciate that level of transparency."
+    },
+    {
+      "start": 422.13,
+      "end": 426.21,
+      "text": "So based on what we've discussed today, I feel confident that there's a strong"
+    },
+    {
+      "start": 426.21,
+      "end": 428.21,
+      "text": "match between our companies."
+    },
+    {
+      "start": 428.21,
+      "end": 429.71,
+      "text": "But I feel the same way."
+    },
+    {
+      "start": 429.71,
+      "end": 431.83,
+      "text": "This has been a very productive meeting."
+    },
+    {
+      "start": 431.83,
+      "end": 433.47,
+      "text": "I'm glad to hear that."
+    },
+    {
+      "start": 433.47,
+      "end": 437.81,
+      "text": "Our next step will be to send you a summary of today's discussion along with a proposal"
+    },
+    {
+      "start": 437.81,
+      "end": 439.85,
+      "text": "for the analysis phase."
+    },
+    {
+      "start": 439.85,
+      "end": 440.85,
+      "text": "That sounds good."
+    },
+    {
+      "start": 440.85,
+      "end": 443.57,
+      "text": "I'll review it with my team and get back to you."
+    },
+    {
+      "start": 443.57,
+      "end": 444.57,
+      "text": "Perfect."
+    },
+    {
+      "start": 444.57,
+      "end": 447.37,
+      "text": "Thank you again for taking the time to meet with us today."
+    },
+    {
+      "start": 447.37,
+      "end": 448.57,
+      "text": "Thank you for hosting me."
+    },
+    {
+      "start": 448.57,
+      "end": 451.21,
+      "text": "I'm really looking forward to working together."
+    },
+    {
+      "start": 451.21,
+      "end": 452.21,
+      "text": "So are we."
+    },
+    {
+      "start": 452.21,
+      "end": 455.25,
+      "text": "Safe travels back and we'll be in touch very soon."
+    },
+    {
+      "start": 455.25,
+      "end": 456.25,
+      "text": "Thank you."
+    },
+    {
+      "start": 456.25,
+      "end": 457.25,
+      "text": "Have a great day."
+    },
+    {
+      "start": 457.25,
+      "end": 462.13,
+      "text": "Good morning, Daniel. It's great to finally meet you in person. Thank you for making the"
+    },
+    {
+      "start": 462.13,
+      "end": 463.13,
+      "text": "time today."
+    },
+    {
+      "start": 463.13,
+      "end": 467.85,
+      "text": "Good morning, Olivia. Likewise, I'm glad we could arrange this meeting. I've heard good"
+    },
+    {
+      "start": 467.85,
+      "end": 470.69,
+      "text": "things about your company from one of our partners."
+    },
+    {
+      "start": 470.69,
+      "end": 475.37,
+      "text": "That's always nice to hear. I hope we can live up to the recommendation. How has your"
+    },
+    {
+      "start": 475.37,
+      "end": 477.13,
+      "text": "week been so far?"
+    },
+    {
+      "start": 477.13,
+      "end": 481.09,
+      "text": "Quite busy. We're in the middle of several projects and we're trying to align our"
+    },
+    {
+      "start": 481.09,
+      "end": 485.45,
+      "text": "strategy for the next quarter, so the timing of this meeting is actually perfect."
+    },
+    {
+      "start": 485.45,
+      "end": 489.79,
+      "text": "That's good to know. Before we start, would you like coffee or water?"
+    },
+    {
+      "start": 489.79,
+      "end": 491.73,
+      "text": "Water would be great. Thank you."
+    },
+    {
+      "start": 491.73,
+      "end": 497.85,
+      "text": "Of course. So perhaps we can begin with a brief overview of what you're hoping to achieve today."
+    },
+    {
+      "start": 497.85,
+      "end": 502.01,
+      "text": "That way we can make sure we focus on the most important areas for you."
+    },
+    {
+      "start": 502.01,
+      "end": 508.01,
+      "text": "Yes, that makes sense. Essentially, we're looking for support in improving our internal processes"
+    },
+    {
+      "start": 508.01,
+      "end": 511.37,
+      "text": "and possibly modernizing some of our digital tools."
+    },
+    {
+      "start": 511.37,
+      "end": 514.81,
+      "text": "We've grown quickly and our systems haven't kept up."
+    },
+    {
+      "start": 514.81,
+      "end": 517.81,
+      "text": "Rapid growth can create that challenge."
+    },
+    {
+      "start": 517.81,
+      "end": 522.31,
+      "text": "Could you tell me more about where the biggest difficulties appear day-to-day?"
+    },
+    {
+      "start": 522.31,
+      "end": 525.81,
+      "text": "One major issue is communication between departments."
+    },
+    {
+      "start": 525.81,
+      "end": 530.81,
+      "text": "Marketing, sales, and operations all use different platforms."
+    },
+    {
+      "start": 530.81,
+      "end": 533.81,
+      "text": "Information gets lost, duplicated, or delayed."
+    },
+    {
+      "start": 533.81,
+      "end": 538.81,
+      "text": "So, there's a lack of integration between tools and teams."
+    },
+    {
+      "start": 538.81,
+      "end": 543.81,
+      "text": "Exactly. And because of that, decision-making takes longer than it should."
+    },
+    {
+      "start": 543.81,
+      "end": 549.61,
+      "text": "understood. When you say decision-making slows down, is that mainly because data isn't"
+    },
+    {
+      "start": 549.61,
+      "end": 553.53,
+      "text": "accessible, or because teams aren't aligned on priorities?"
+    },
+    {
+      "start": 553.53,
+      "end": 559.37,
+      "text": "A bit of both. Data is fragmented, and people often interpret information differently because"
+    },
+    {
+      "start": 559.37,
+      "end": 562.73,
+      "text": "there isn't a shared dashboard or reporting structure."
+    },
+    {
+      "start": 562.73,
+      "end": 568.49,
+      "text": "That's very helpful context. Just so I'm clear, improving visibility and alignment"
+    },
+    {
+      "start": 568.49,
+      "end": 570.13,
+      "text": "is a key objective."
+    },
+    {
+      "start": 570.13,
+      "end": 576.13,
+      "text": "Yes. If everyone could see the same information, collaboration would improve immediately."
+    },
+    {
+      "start": 576.13,
+      "end": 580.63,
+      "text": "Have you tried any solutions internally before reaching out to consultants?"
+    },
+    {
+      "start": 580.63,
+      "end": 585.63,
+      "text": "We experimented with a few software tools, but adoption was low."
+    },
+    {
+      "start": 585.63,
+      "end": 589.63,
+      "text": "Employees felt overwhelmed by yet another system."
+    },
+    {
+      "start": 589.63,
+      "end": 594.63,
+      "text": "That's a common problem. Technology alone doesn't solve process issues."
+    },
+    {
+      "start": 594.63,
+      "end": 597.63,
+      "text": "People and workflows need to evolve together."
+    },
+    {
+      "start": 597.63,
+      "end": 601.63,
+      "text": "Exactly. That's why we're interested in external expertise."
+    },
+    {
+      "start": 601.63,
+      "end": 606.63,
+      "text": "Thank you for explaining. May I ask what success would look like from your perspective?"
+    },
+    {
+      "start": 606.63,
+      "end": 610.63,
+      "text": "If we meet again six months from now, what would you hope has changed?"
+    },
+    {
+      "start": 610.63,
+      "end": 618.63,
+      "text": "I'd like clearer workflows, fewer meetings just to clarify information, and faster project delivery."
+    },
+    {
+      "start": 618.63,
+      "end": 624.63,
+      "text": "Those are measurable goals. Do you currently track project timelines or performance metrics?"
+    },
+    {
+      "start": 624.63,
+      "end": 631.63,
+      "text": "Yes, but inconsistently. Some teams use spreadsheets, others use project management software."
+    },
+    {
+      "start": 631.63,
+      "end": 635.63,
+      "text": "So there isn't a standardized method across the organization?"
+    },
+    {
+      "start": 635.63,
+      "end": 636.63,
+      "text": "Correct."
+    },
+    {
+      "start": 636.63,
+      "end": 646.63,
+      "text": "That gives me a good starting point. Based on similar projects, we would usually begin with an assessment phase to map your processes and identify bottlenecks."
+    },
+    {
+      "start": 646.63,
+      "end": 648.63,
+      "text": "How detailed is that assessment?"
+    },
+    {
+      "start": 648.63,
+      "end": 655.63,
+      "text": "Quite detailed. We interview team members, observe workflows, and review existing systems."
+    },
+    {
+      "start": 655.63,
+      "end": 660.63,
+      "text": "The goal is to understand not only what people do, but why they do it that way."
+    },
+    {
+      "start": 660.63,
+      "end": 666.63,
+      "text": "I like that approach. Sometimes problems exist because of habits rather than actual necessity."
+    },
+    {
+      "start": 666.63,
+      "end": 672.63,
+      "text": "Exactly. Changing habits requires understanding the culture as well as the process."
+    },
+    {
+      "start": 672.63,
+      "end": 677.63,
+      "text": "One concern I have is disruption. Our teams are already under pressure."
+    },
+    {
+      "start": 677.63,
+      "end": 679.33,
+      "text": "That's understandable."
+    },
+    {
+      "start": 679.33,
+      "end": 684.81,
+      "text": "We try to integrate into existing schedules rather than creating additional workload."
+    },
+    {
+      "start": 684.81,
+      "end": 688.13,
+      "text": "For example, interviews can be short and focused."
+    },
+    {
+      "start": 688.13,
+      "end": 689.65,
+      "text": "That would definitely help."
+    },
+    {
+      "start": 689.65,
+      "end": 692.23,
+      "text": "May I ask about your leadership structure?"
+    },
+    {
+      "start": 692.23,
+      "end": 694.97,
+      "text": "Who would need to approve major changes?"
+    },
+    {
+      "start": 694.97,
+      "end": 699.17,
+      "text": "Our CEO and CFO would be the primary decision makers."
+    },
+    {
+      "start": 699.17,
+      "end": 702.01,
+      "text": "Would they be interested in adjoining future session?"
+    },
+    {
+      "start": 702.01,
+      "end": 704.45,
+      "text": "Yes, I think that would be necessary."
+    },
+    {
+      "start": 704.45,
+      "end": 705.45,
+      "text": "Perfect."
+    },
+    {
+      "start": 705.45,
+      "end": 709.65,
+      "text": "Now from your perspective, what has worked well in the past?"
+    },
+    {
+      "start": 709.65,
+      "end": 713.61,
+      "text": "Understanding strengths is just as important as identifying problems."
+    },
+    {
+      "start": 713.61,
+      "end": 716.17,
+      "text": "Our teams are highly skilled and motivated."
+    },
+    {
+      "start": 716.17,
+      "end": 719.53,
+      "text": "The challenge isn't talent, it's coordination."
+    },
+    {
+      "start": 719.53,
+      "end": 721.65,
+      "text": "That's a strong foundation to build on."
+    },
+    {
+      "start": 721.65,
+      "end": 722.65,
+      "text": "I hope so."
+    },
+    {
+      "start": 722.65,
+      "end": 725.57,
+      "text": "Let's talk about timeline expectations."
+    },
+    {
+      "start": 725.57,
+      "end": 728.81,
+      "text": "When would you ideally want to start seeing improvements?"
+    },
+    {
+      "start": 728.81,
+      "end": 731.29,
+      "text": "Within three months if possible."
+    },
+    {
+      "start": 731.29,
+      "end": 735.05,
+      "text": "That's ambitious but achievable for early improvements."
+    },
+    {
+      "start": 735.05,
+      "end": 737.51,
+      "text": "transformation might take longer."
+    },
+    {
+      "start": 737.51,
+      "end": 738.51,
+      "text": "That's fine."
+    },
+    {
+      "start": 738.51,
+      "end": 740.47,
+      "text": "We're realistic about long-term change."
+    },
+    {
+      "start": 740.47,
+      "end": 741.47,
+      "text": "Good."
+    },
+    {
+      "start": 741.47,
+      "end": 744.51,
+      "text": "Now I'd like to ask about budget expectations."
+    },
+    {
+      "start": 744.51,
+      "end": 749.35,
+      "text": "You don't need to give exact numbers yet, but having a range helps us propose realistic"
+    },
+    {
+      "start": 749.35,
+      "end": 750.43,
+      "text": "solutions."
+    },
+    {
+      "start": 750.43,
+      "end": 755.71,
+      "text": "We have allocated funding, but we want to ensure strong return on investment."
+    },
+    {
+      "start": 755.71,
+      "end": 756.71,
+      "text": "Of course."
+    },
+    {
+      "start": 756.71,
+      "end": 762.63,
+      "text": "Our proposals typically include measurable outcomes so you can evaluate success objectively."
+    },
+    {
+      "start": 762.63,
+      "end": 764.99,
+      "text": "That's important for our finance team."
+    },
+    {
+      "start": 764.99,
+      "end": 767.63,
+      "text": "Another area I'd like to explore is risk."
+    },
+    {
+      "start": 767.63,
+      "end": 771.35,
+      "text": "Are there any internal challenges that could slow implementation?"
+    },
+    {
+      "start": 771.35,
+      "end": 772.35,
+      "text": "Yes."
+    },
+    {
+      "start": 772.35,
+      "end": 777.41,
+      "text": "Some managers resist change because they're comfortable with existing processes."
+    },
+    {
+      "start": 777.41,
+      "end": 779.83,
+      "text": "Change management will be essential then."
+    },
+    {
+      "start": 779.83,
+      "end": 783.59,
+      "text": "We often include workshops to address concerns early."
+    },
+    {
+      "start": 783.59,
+      "end": 785.35,
+      "text": "That could help build trust."
+    },
+    {
+      "start": 785.35,
+      "end": 786.59,
+      "text": "Absolutely."
+    },
+    {
+      "start": 786.59,
+      "end": 789.79,
+      "text": "People need to feel involved rather than forced."
+    },
+    {
+      "start": 789.79,
+      "end": 790.79,
+      "text": "Agreed."
+    },
+    {
+      "start": 790.79,
+      "end": 794.59,
+      "text": "Let me ask, how do you prefer communication during projects?"
+    },
+    {
+      "start": 794.59,
+      "end": 798.15,
+      "text": "updates, written reports, or live meetings."
+    },
+    {
+      "start": 798.15,
+      "end": 800.75,
+      "text": "A combination would be ideal."
+    },
+    {
+      "start": 800.75,
+      "end": 804.39,
+      "text": "Short weekly updates plus monthly strategic reviews."
+    },
+    {
+      "start": 804.39,
+      "end": 806.43,
+      "text": "That aligns with our typical approach."
+    },
+    {
+      "start": 806.43,
+      "end": 807.43,
+      "text": "Good."
+    },
+    {
+      "start": 807.43,
+      "end": 810.07,
+      "text": "I'd like to ask about budget expectations."
+    },
+    {
+      "start": 810.07,
+      "end": 814.95,
+      "text": "You don't need to give exact numbers yet, but having a range helps us propose realistic"
+    },
+    {
+      "start": 814.95,
+      "end": 816.03,
+      "text": "solutions."
+    },
+    {
+      "start": 816.03,
+      "end": 821.41,
+      "text": "We have allocated funding, but we want to ensure strong return on investment."
+    },
+    {
+      "start": 821.41,
+      "end": 826.93,
+      "text": "Of course. Our proposals typically include measurable outcomes so you can evaluate success"
+    },
+    {
+      "start": 826.93,
+      "end": 827.93,
+      "text": "objectively."
+    },
+    {
+      "start": 827.93,
+      "end": 830.57,
+      "text": "That's important for our finance team."
+    },
+    {
+      "start": 830.57,
+      "end": 835.29,
+      "text": "Another area I'd like to explore is risk. Are there any internal challenges that could"
+    },
+    {
+      "start": 835.29,
+      "end": 836.97,
+      "text": "slow implementation?"
+    },
+    {
+      "start": 836.97,
+      "end": 843.09,
+      "text": "Yes. Some managers resist change because they're comfortable with existing processes."
+    },
+    {
+      "start": 843.09,
+      "end": 848.13,
+      "text": "Change management will be essential then. We often include workshops to address concerns"
+    },
+    {
+      "start": 848.13,
+      "end": 849.13,
+      "text": "early."
+    },
+    {
+      "start": 849.13,
+      "end": 851.37,
+      "text": "That could help build trust."
+    },
+    {
+      "start": 851.37,
+      "end": 854.87,
+      "text": "people need to feel involved rather than forced."
+    },
+    {
+      "start": 854.87,
+      "end": 855.87,
+      "text": "Agreed."
+    },
+    {
+      "start": 855.87,
+      "end": 859.37,
+      "text": "Let me ask, how do you prefer communication during projects?"
+    },
+    {
+      "start": 859.37,
+      "end": 863.37,
+      "text": "Weekly updates, written reports, or live meetings?"
+    },
+    {
+      "start": 863.37,
+      "end": 865.87,
+      "text": "A combination would be ideal."
+    },
+    {
+      "start": 865.87,
+      "end": 869.37,
+      "text": "Short weekly updates plus monthly strategic reviews."
+    },
+    {
+      "start": 869.37,
+      "end": 871.87,
+      "text": "That aligns with our typical approach."
+    },
+    {
+      "start": 871.87,
+      "end": 872.87,
+      "text": "Good."
+    },
+    {
+      "start": 872.87,
+      "end": 875.37,
+      "text": "I'd like to ask about budget expectations."
+    },
+    {
+      "start": 875.37,
+      "end": 877.37,
+      "text": "You don't need to give exact numbers yet,"
+    },
+    {
+      "start": 877.37,
+      "end": 880.87,
+      "text": "but having a range helps us propose realistic solutions."
+    },
+    {
+      "start": 880.87,
+      "end": 886.87,
+      "text": "We have allocated funding, but we want to ensure strong return on investment."
+    },
+    {
+      "start": 886.87,
+      "end": 892.87,
+      "text": "Of course. Our proposals typically include measurable outcomes so you can evaluate success objectively."
+    },
+    {
+      "start": 892.87,
+      "end": 895.87,
+      "text": "That's important for our finance team."
+    },
+    {
+      "start": 895.87,
+      "end": 901.87,
+      "text": "Another area I'd like to explore is risk. Are there any internal challenges that could slow implementation?"
+    },
+    {
+      "start": 901.87,
+      "end": 907.87,
+      "text": "Yes. Some managers resist change because they're comfortable with existing processes."
+    },
+    {
+      "start": 907.87,
+      "end": 913.09,
+      "text": "Change management will be essential then. We often include workshops to address"
+    },
+    {
+      "start": 913.09,
+      "end": 918.43,
+      "text": "concerns early. That could help build trust. Absolutely. People need to feel"
+    },
+    {
+      "start": 918.43,
+      "end": 924.23,
+      "text": "involved rather than forced. Agreed. Let me ask, how do you prefer communication"
+    },
+    {
+      "start": 924.23,
+      "end": 930.51,
+      "text": "during projects? Weekly updates, written reports, or live meetings? A combination"
+    },
+    {
+      "start": 930.51,
+      "end": 935.63,
+      "text": "would be ideal. Short weekly updates plus monthly strategic reviews. That"
+    },
+    {
+      "start": 935.63,
+      "end": 937.73,
+      "text": "That aligns with our typical approach."
+    },
+    {
+      "start": 937.73,
+      "end": 938.73,
+      "text": "Good."
+    },
+    {
+      "start": 938.73,
+      "end": 941.37,
+      "text": "I'd like to ask about budget expectations."
+    },
+    {
+      "start": 941.37,
+      "end": 946.31,
+      "text": "You don't need to give exact numbers yet, but having a range helps us propose realistic"
+    },
+    {
+      "start": 946.31,
+      "end": 947.39,
+      "text": "solutions."
+    },
+    {
+      "start": 947.39,
+      "end": 952.79,
+      "text": "We have allocated funding, but we want to ensure strong return on investment."
+    },
+    {
+      "start": 952.79,
+      "end": 953.79,
+      "text": "Of course."
+    },
+    {
+      "start": 953.79,
+      "end": 959.67,
+      "text": "Our proposals typically include measurable outcomes so you can evaluate success objectively."
+    },
+    {
+      "start": 959.67,
+      "end": 961.95,
+      "text": "That's important for our finance team."
+    },
+    {
+      "start": 961.95,
+      "end": 964.63,
+      "text": "Another area I'd like to explore is risk."
+    },
+    {
+      "start": 964.63,
+      "end": 968.23,
+      "text": "Are there any internal challenges that could slow implementation?"
+    },
+    {
+      "start": 968.23,
+      "end": 969.39,
+      "text": "Yes."
+    },
+    {
+      "start": 969.39,
+      "end": 974.51,
+      "text": "Some managers resist change because they're comfortable with existing processes."
+    },
+    {
+      "start": 974.51,
+      "end": 976.91,
+      "text": "Change management will be essential then."
+    },
+    {
+      "start": 976.91,
+      "end": 980.71,
+      "text": "We often include workshops to address concerns early."
+    },
+    {
+      "start": 980.71,
+      "end": 982.55,
+      "text": "That could help build trust."
+    },
+    {
+      "start": 982.55,
+      "end": 983.67,
+      "text": "Absolutely."
+    },
+    {
+      "start": 983.67,
+      "end": 986.91,
+      "text": "People need to feel involved rather than forced."
+    },
+    {
+      "start": 986.91,
+      "end": 987.91,
+      "text": "Agreed."
+    },
+    {
+      "start": 987.91,
+      "end": 991.47,
+      "text": "Let me ask, how do you prefer communication during projects?"
+    },
+    {
+      "start": 991.47,
+      "end": 995.19,
+      "text": "Weekly updates, written reports, or live meetings."
+    },
+    {
+      "start": 995.19,
+      "end": 997.83,
+      "text": "A combination would be ideal."
+    },
+    {
+      "start": 997.83,
+      "end": 1001.43,
+      "text": "Short weekly updates plus monthly strategic reviews."
+    },
+    {
+      "start": 1001.43,
+      "end": 1003.47,
+      "text": "That aligns with our typical approach."
+    },
+    {
+      "start": 1003.47,
+      "end": 1004.47,
+      "text": "Good."
+    },
+    {
+      "start": 1004.47,
+      "end": 1007.15,
+      "text": "I'd like to ask about budget expectations."
+    },
+    {
+      "start": 1007.15,
+      "end": 1012.07,
+      "text": "You don't need to give exact numbers yet, but having a range helps us propose realistic"
+    },
+    {
+      "start": 1012.07,
+      "end": 1013.13,
+      "text": "solutions."
+    },
+    {
+      "start": 1013.13,
+      "end": 1018.55,
+      "text": "We have allocated funding, but we want to ensure strong return on investment."
+    },
+    {
+      "start": 1018.55,
+      "end": 1024.13,
+      "text": "Of course, our proposals typically include measurable outcomes so you can evaluate success"
+    },
+    {
+      "start": 1024.13,
+      "end": 1025.13,
+      "text": "objectively."
+    },
+    {
+      "start": 1025.13,
+      "end": 1027.75,
+      "text": "That's important for our finance team."
+    },
+    {
+      "start": 1027.75,
+      "end": 1030.43,
+      "text": "Another area I'd like to explore is risk."
+    },
+    {
+      "start": 1030.43,
+      "end": 1034.15,
+      "text": "Are there any internal challenges that could slow implementation?"
+    },
+    {
+      "start": 1034.15,
+      "end": 1040.25,
+      "text": "Yes, some managers resist change because they're comfortable with existing processes."
+    },
+    {
+      "start": 1040.25,
+      "end": 1042.63,
+      "text": "Change management will be essential then."
+    },
+    {
+      "start": 1042.63,
+      "end": 1046.43,
+      "text": "We often include workshops to address concerns early."
+    },
+    {
+      "start": 1046.43,
+      "end": 1048.27,
+      "text": "That could help build trust."
+    },
+    {
+      "start": 1048.27,
+      "end": 1052.27,
+      "text": "Absolutely. People need to feel involved rather than forced."
+    },
+    {
+      "start": 1052.27,
+      "end": 1053.27,
+      "text": "Agreed."
+    },
+    {
+      "start": 1053.27,
+      "end": 1059.27,
+      "text": "Let me ask, how do you prefer communication during projects? Weekly updates, written reports,"
+    },
+    {
+      "start": 1059.27,
+      "end": 1061.27,
+      "text": "or live meetings?"
+    },
+    {
+      "start": 1061.27,
+      "end": 1067.27,
+      "text": "A combination would be ideal. Short weekly updates plus monthly strategic reviews."
+    },
+    {
+      "start": 1067.27,
+      "end": 1069.27,
+      "text": "That aligns with our typical approach."
+    },
+    {
+      "start": 1069.27,
+      "end": 1070.27,
+      "text": "Good."
+    },
+    {
+      "start": 1070.27,
+      "end": 1075.27,
+      "text": "I'd like to ask about budget expectations. You don't need to give exact numbers yet,"
+    },
+    {
+      "start": 1075.27,
+      "end": 1078.87,
+      "text": "Having a range helps us propose realistic solutions."
+    },
+    {
+      "start": 1078.87,
+      "end": 1084.27,
+      "text": "We have allocated funding, but we want to ensure strong return on investment."
+    },
+    {
+      "start": 1084.27,
+      "end": 1085.27,
+      "text": "Of course."
+    },
+    {
+      "start": 1085.27,
+      "end": 1090.59,
+      "text": "Our proposals typically include measurable outcomes so you can evaluate success objectively."
+    },
+    {
+      "start": 1090.59,
+      "end": 1093.47,
+      "text": "That's important for our finance team."
+    },
+    {
+      "start": 1093.47,
+      "end": 1096.15,
+      "text": "Another area I'd like to explore is risk."
+    },
+    {
+      "start": 1096.15,
+      "end": 1099.99,
+      "text": "Are there any internal challenges that could slow implementation?"
+    },
+    {
+      "start": 1099.99,
+      "end": 1100.99,
+      "text": "Yes."
+    },
+    {
+      "start": 1100.99,
+      "end": 1105.99,
+      "text": "The managers resist change because they're comfortable with existing processes."
+    },
+    {
+      "start": 1105.99,
+      "end": 1108.39,
+      "text": "Change management will be essential then."
+    },
+    {
+      "start": 1108.39,
+      "end": 1112.19,
+      "text": "We often include workshops to address concerns early."
+    },
+    {
+      "start": 1112.19,
+      "end": 1113.19,
+      "text": "That could help build-"
+    },
+    {
+      "start": 1113.19,
+      "end": 1115.75,
+      "text": "Good morning and thank you for coming in today."
+    },
+    {
+      "start": 1115.75,
+      "end": 1119.75,
+      "text": "I really appreciate you taking the time to meet with us in person."
+    },
+    {
+      "start": 1119.75,
+      "end": 1120.75,
+      "text": "Good morning."
+    },
+    {
+      "start": 1120.75,
+      "end": 1121.75,
+      "text": "Thank you for having me."
+    },
+    {
+      "start": 1121.75,
+      "end": 1123.79,
+      "text": "I'm glad we could finally meet face to face."
+    },
+    {
+      "start": 1123.79,
+      "end": 1126.19,
+      "text": "I've been looking forward to this discussion."
+    },
+    {
+      "start": 1126.19,
+      "end": 1127.43,
+      "text": "Likewise."
+    },
+    {
+      "start": 1127.43,
+      "end": 1130.87,
+      "text": "Before we get started, did you have any trouble finding the office?"
+    },
+    {
+      "start": 1130.87,
+      "end": 1137.27,
+      "text": "Not at all. The directions were very clear, and the location is quite convenient. I arrived a bit early, actually."
+    },
+    {
+      "start": 1137.27,
+      "end": 1142.27,
+      "text": "That's great to hear. Can I offer you some coffee or water before we begin?"
+    },
+    {
+      "start": 1142.27,
+      "end": 1145.87,
+      "text": "A coffee would be lovely. Thank you. Black is fine."
+    },
+    {
+      "start": 1145.87,
+      "end": 1149.87,
+      "text": "Perfect. I'll just grab that quickly. Please make yourself comfortable."
+    },
+    {
+      "start": 1149.87,
+      "end": 1151.87,
+      "text": "Thank you. I appreciate it."
+    },
+    {
+      "start": 1151.87,
+      "end": 1154.87,
+      "text": "Here you go. So, shall we get started?"
+    },
+    {
+      "start": 1154.87,
+      "end": 1156.87,
+      "text": "Yes, absolutely."
+    },
+    {
+      "start": 1156.87,
+      "end": 1163.59,
+      "text": "Great. To begin, I'd like to briefly introduce myself and my role, just to set the context."
+    },
+    {
+      "start": 1163.59,
+      "end": 1169.75,
+      "text": "I'm responsible for client partnerships and long-term strategy, so my focus today is to"
+    },
+    {
+      "start": 1169.75,
+      "end": 1173.19,
+      "text": "understand your needs and see how we can work together effectively."
+    },
+    {
+      "start": 1173.75,
+      "end": 1178.87,
+      "text": "That sounds good. From our side, we're looking for a partner rather than just a supplier,"
+    },
+    {
+      "start": 1178.87,
+      "end": 1181.59,
+      "text": "so this conversation is very important for us as well."
+    },
+    {
+      "start": 1182.15,
+      "end": 1184.95,
+      "text": "That's good to hear, and I think we're aligned in that way."
+    },
+    {
+      "start": 1184.95,
+      "end": 1190.95,
+      "text": "Perhaps you could start by telling me a bit more about your company and your current priorities."
+    },
+    {
+      "start": 1190.95,
+      "end": 1195.95,
+      "text": "Of course. We're a mid-sized firm operating primarily in the European market."
+    },
+    {
+      "start": 1195.95,
+      "end": 1198.95,
+      "text": "Over the past few years, we've seen steady growth."
+    },
+    {
+      "start": 1198.95,
+      "end": 1205.95,
+      "text": "But recently, our focus has shifted toward improving efficiency and strengthening our client experience."
+    },
+    {
+      "start": 1205.95,
+      "end": 1209.95,
+      "text": "We're at a point where we need external expertise to support that growth."
+    },
+    {
+      "start": 1209.95,
+      "end": 1217.95,
+      "text": "That's very helpful context. When you say improving efficiency, could you tell me a bit more about the specific challenges you're facing?"
+    },
+    {
+      "start": 1217.95,
+      "end": 1231.95,
+      "text": "Certainly. At the moment, many of our internal processes are still quite manual. This slows things down and sometimes creates inconsistencies, especially when dealing with larger clients who expect faster turnaround times."
+    },
+    {
+      "start": 1231.95,
+      "end": 1236.95,
+      "text": "I see. And would you say this is affecting customer satisfaction as well?"
+    },
+    {
+      "start": 1236.95,
+      "end": 1239.47,
+      "text": "Yes, to some extent."
+    },
+    {
+      "start": 1239.47,
+      "end": 1244.07,
+      "text": "While our clients are generally happy with the quality of our work, we've received feedback"
+    },
+    {
+      "start": 1244.07,
+      "end": 1247.95,
+      "text": "that communication and response times could be improved."
+    },
+    {
+      "start": 1247.95,
+      "end": 1252.71,
+      "text": "That's a very common situation, especially for companies that grow quickly."
+    },
+    {
+      "start": 1252.71,
+      "end": 1256.43,
+      "text": "One of the reasons we were excited about this meeting is that we've helped several"
+    },
+    {
+      "start": 1256.43,
+      "end": 1262.47,
+      "text": "clients in similar situations streamline their processes and improve communication."
+    },
+    {
+      "start": 1262.47,
+      "end": 1263.91,
+      "text": "That's encouraging to hear."
+    },
+    {
+      "start": 1263.91,
+      "end": 1267.43,
+      "text": "We reviewed some of your case studies and they were one of the main reasons we wanted"
+    },
+    {
+      "start": 1267.43,
+      "end": 1268.59,
+      "text": "to meet with you."
+    },
+    {
+      "start": 1268.59,
+      "end": 1270.23,
+      "text": "I'm glad to hear that."
+    },
+    {
+      "start": 1270.23,
+      "end": 1273.67,
+      "text": "Was there a particular case study that stood out to you?"
+    },
+    {
+      "start": 1273.67,
+      "end": 1274.67,
+      "text": "Yes."
+    },
+    {
+      "start": 1274.67,
+      "end": 1277.75,
+      "text": "The one involving the logistics company caught our attention."
+    },
+    {
+      "start": 1277.75,
+      "end": 1281.43,
+      "text": "The challenges they described were very similar to ours."
+    },
+    {
+      "start": 1281.43,
+      "end": 1286.59,
+      "text": "That project was a great example of what can be achieved with the right collaboration."
+    },
+    {
+      "start": 1286.59,
+      "end": 1292.31,
+      "text": "In that case, the key was first understanding the client's internal workflow before proposing"
+    },
+    {
+      "start": 1292.31,
+      "end": 1294.17,
+      "text": "any solutions."
+    },
+    {
+      "start": 1294.17,
+      "end": 1295.17,
+      "text": "That makes sense."
+    },
+    {
+      "start": 1295.17,
+      "end": 1300.41,
+      "text": "We're very cautious about implementing changes that might disrupt our existing operations."
+    },
+    {
+      "start": 1300.41,
+      "end": 1301.57,
+      "text": "Absolutely."
+    },
+    {
+      "start": 1301.57,
+      "end": 1304.21,
+      "text": "And that's something we take very seriously."
+    },
+    {
+      "start": 1304.21,
+      "end": 1308.61,
+      "text": "Our goal is not to create disruption, but to reduce friction."
+    },
+    {
+      "start": 1308.61,
+      "end": 1309.91,
+      "text": "That's reassuring."
+    },
+    {
+      "start": 1309.91,
+      "end": 1313.85,
+      "text": "One concern we have is the amount of time and resources required from our internal"
+    },
+    {
+      "start": 1313.85,
+      "end": 1316.61,
+      "text": "team during the implementation phase."
+    },
+    {
+      "start": 1316.61,
+      "end": 1318.49,
+      "text": "That's a very valid concern."
+    },
+    {
+      "start": 1318.49,
+      "end": 1324.41,
+      "text": "Typically, we aim to minimize the time commitment required from your team by assigning a dedicated"
+    },
+    {
+      "start": 1324.41,
+      "end": 1326.97,
+      "text": "project manager on our side."
+    },
+    {
+      "start": 1326.97,
+      "end": 1330.69,
+      "text": "And how involved would our team need to be on a day-to-day basis?"
+    },
+    {
+      "start": 1330.69,
+      "end": 1335.93,
+      "text": "In the early stages, we would need input from key stakeholders to understand your processes"
+    },
+    {
+      "start": 1335.93,
+      "end": 1337.61,
+      "text": "and priorities."
+    },
+    {
+      "start": 1337.61,
+      "end": 1342.77,
+      "text": "After that, involvement usually decreases significantly, with regular check-ins rather"
+    },
+    {
+      "start": 1342.77,
+      "end": 1344.77,
+      "text": "than daily meetings."
+    },
+    {
+      "start": 1344.77,
+      "end": 1346.49,
+      "text": "That sounds manageable."
+    },
+    {
+      "start": 1346.49,
+      "end": 1349.21,
+      "text": "One point we wanted to discuss is scalability."
+    },
+    {
+      "start": 1349.21,
+      "end": 1353.35,
+      "text": "We don't want a solution that works only for our current size."
+    },
+    {
+      "start": 1353.35,
+      "end": 1354.97,
+      "text": "Of course."
+    },
+    {
+      "start": 1354.97,
+      "end": 1358.25,
+      "text": "Scalability is something we build into our solutions from the beginning."
+    },
+    {
+      "start": 1358.25,
+      "end": 1363.25,
+      "text": "We always ask where the client wants to be in two or three years, not just where they"
+    },
+    {
+      "start": 1363.25,
+      "end": 1364.77,
+      "text": "are now."
+    },
+    {
+      "start": 1364.77,
+      "end": 1368.81,
+      "text": "That's good, because our growth plans are quite ambitious."
+    },
+    {
+      "start": 1368.81,
+      "end": 1370.97,
+      "text": "Ambitious plans are always exciting."
+    },
+    {
+      "start": 1370.97,
+      "end": 1374.09,
+      "text": "Are you comfortable sharing some of those goals?"
+    },
+    {
+      "start": 1374.09,
+      "end": 1379.15,
+      "text": "Certainly, we're planning to expand into two new markets within the next 18 months,"
+    },
+    {
+      "start": 1379.15,
+      "end": 1382.49,
+      "text": "and that will significantly increase our client base."
+    },
+    {
+      "start": 1382.49,
+      "end": 1384.73,
+      "text": "That's a substantial expansion."
+    },
+    {
+      "start": 1384.73,
+      "end": 1389.05,
+      "text": "In that case, flexibility and adaptability will be critical."
+    },
+    {
+      "start": 1389.05,
+      "end": 1390.25,
+      "text": "Exactly."
+    },
+    {
+      "start": 1390.25,
+      "end": 1394.49,
+      "text": "We've learned from past experience that systems that seem sufficient at first can"
+    },
+    {
+      "start": 1394.49,
+      "end": 1396.53,
+      "text": "quickly become limiting."
+    },
+    {
+      "start": 1396.53,
+      "end": 1398.03,
+      "text": "That's very true."
+    },
+    {
+      "start": 1398.03,
+      "end": 1402.41,
+      "text": "One of the things we emphasize is building modular systems that can evolve as your"
+    },
+    {
+      "start": 1402.41,
+      "end": 1403.91,
+      "text": "needs change."
+    },
+    {
+      "start": 1403.91,
+      "end": 1405.35,
+      "text": "I like that approach."
+    },
+    {
+      "start": 1405.35,
+      "end": 1410.23,
+      "text": "Now, if we can talk a bit about timelines, what would a typical project like this look"
+    },
+    {
+      "start": 1410.23,
+      "end": 1412.11,
+      "text": "like in terms of duration?"
+    },
+    {
+      "start": 1412.11,
+      "end": 1417.23,
+      "text": "Generally speaking, from initial analysis to full implementation, we're looking at"
+    },
+    {
+      "start": 1417.23,
+      "end": 1419.63,
+      "text": "a period of three to four months."
+    },
+    {
+      "start": 1419.63,
+      "end": 1424.15,
+      "text": "However, this can vary depending on the complexity of the project."
+    },
+    {
+      "start": 1424.15,
+      "end": 1426.51,
+      "text": "That's actually faster than we expected."
+    },
+    {
+      "start": 1426.51,
+      "end": 1431.11,
+      "text": "We've refined our process over the years, which allows us to work efficiently without"
+    },
+    {
+      "start": 1431.11,
+      "end": 1433.79,
+      "text": "sacrificing quality."
+    },
+    {
+      "start": 1433.79,
+      "end": 1439.79,
+      "text": "is definitely something we value. That brings me to another topic we should discuss, budget."
+    },
+    {
+      "start": 1439.79,
+      "end": 1444.95,
+      "text": "Of course, budget is always an important part of the conversation. Do you have a range in"
+    },
+    {
+      "start": 1444.95,
+      "end": 1446.03,
+      "text": "mind?"
+    },
+    {
+      "start": 1446.03,
+      "end": 1450.39,
+      "text": "We do have a preliminary budget, but we're flexible if the value is clear."
+    },
+    {
+      "start": 1450.39,
+      "end": 1456.35,
+      "text": "That's good to know. Our pricing is typically based on scope rather than a fixed package,"
+    },
+    {
+      "start": 1456.35,
+      "end": 1459.67,
+      "text": "which allows us to tailor the solution to your needs."
+    },
+    {
+      "start": 1459.67,
+      "end": 1463.03,
+      "text": "Could you give me a general idea of what that might look like?"
+    },
+    {
+      "start": 1463.03,
+      "end": 1468.19,
+      "text": "At this stage, without a detailed analysis, it's difficult to give an exact figure."
+    },
+    {
+      "start": 1468.19,
+      "end": 1473.07,
+      "text": "However, based on similar projects, you'd be looking at a mid-range investment rather"
+    },
+    {
+      "start": 1473.07,
+      "end": 1475.07,
+      "text": "than a high-end one."
+    },
+    {
+      "start": 1475.07,
+      "end": 1477.13,
+      "text": "That aligns with our expectations."
+    },
+    {
+      "start": 1477.13,
+      "end": 1482.15,
+      "text": "As long as the return on investment is clear, the initial cost is less of a concern."
+    },
+    {
+      "start": 1482.15,
+      "end": 1484.35,
+      "text": "That's a very sensible way to look at it."
+    },
+    {
+      "start": 1484.35,
+      "end": 1489.15,
+      "text": "We always aim to demonstrate value, not just in terms of cost savings, but also"
+    },
+    {
+      "start": 1489.15,
+      "end": 1492.91,
+      "text": "an improved performance and client satisfaction."
+    },
+    {
+      "start": 1492.91,
+      "end": 1496.55,
+      "text": "of value, how do you measure success in these projects?"
+    },
+    {
+      "start": 1496.55,
+      "end": 1500.55,
+      "text": "We define success metrics together with the client at the beginning."
+    },
+    {
+      "start": 1500.55,
+      "end": 1505.83,
+      "text": "These often include reduced processing time, improved response rates, and positive client"
+    },
+    {
+      "start": 1505.83,
+      "end": 1507.03,
+      "text": "feedback."
+    },
+    {
+      "start": 1507.03,
+      "end": 1509.51,
+      "text": "I appreciate that collaborative approach."
+    },
+    {
+      "start": 1509.51,
+      "end": 1512.43,
+      "text": "It ensures we're working towards the same goals."
+    },
+    {
+      "start": 1512.43,
+      "end": 1513.75,
+      "text": "Exactly."
+    },
+    {
+      "start": 1513.75,
+      "end": 1517.99,
+      "text": "Clear expectations are essential for a successful partnership."
+    },
+    {
+      "start": 1517.99,
+      "end": 1520.75,
+      "text": "One more question I have is about communication."
+    },
+    {
+      "start": 1520.75,
+      "end": 1524.27,
+      "text": "How do you usually keep clients informed throughout the project?"
+    },
+    {
+      "start": 1524.27,
+      "end": 1527.35,
+      "text": "We believe transparent communication is key."
+    },
+    {
+      "start": 1527.35,
+      "end": 1532.91,
+      "text": "We provide regular progress updates, usually weekly, and were always available if questions"
+    },
+    {
+      "start": 1532.91,
+      "end": 1533.91,
+      "text": "arise."
+    },
+    {
+      "start": 1533.91,
+      "end": 1534.91,
+      "text": "That's good to hear."
+    },
+    {
+      "start": 1534.91,
+      "end": 1539.83,
+      "text": "We've had experiences in the past where communication was lacking and it created unnecessary"
+    },
+    {
+      "start": 1539.83,
+      "end": 1540.83,
+      "text": "stress."
+    },
+    {
+      "start": 1540.83,
+      "end": 1543.27,
+      "text": "Unfortunately, that's not uncommon."
+    },
+    {
+      "start": 1543.27,
+      "end": 1547.51,
+      "text": "We've learned that proactive communication prevents most issues before they become"
+    },
+    {
+      "start": 1547.51,
+      "end": 1548.67,
+      "text": "problems."
+    },
+    {
+      "start": 1548.67,
+      "end": 1550.39,
+      "text": "I completely agree."
+    },
+    {
+      "start": 1550.39,
+      "end": 1554.19,
+      "text": "Now from your perspective, what would you need from us to move forward?"
+    },
+    {
+      "start": 1554.19,
+      "end": 1557.71,
+      "text": "The next step would be a more detailed discovery session."
+    },
+    {
+      "start": 1557.71,
+      "end": 1563.55,
+      "text": "For that, we'd need access to some basic information about your current processes and systems."
+    },
+    {
+      "start": 1563.55,
+      "end": 1564.79,
+      "text": "That shouldn't be a problem."
+    },
+    {
+      "start": 1564.79,
+      "end": 1569.11,
+      "text": "I can coordinate with our internal teams to gather the necessary information."
+    },
+    {
+      "start": 1569.11,
+      "end": 1570.51,
+      "text": "That would be great."
+    },
+    {
+      "start": 1570.51,
+      "end": 1575.71,
+      "text": "Once we have that, we can prepare a tailored proposal, outlining scope, timeline and"
+    },
+    {
+      "start": 1575.71,
+      "end": 1576.95,
+      "text": "costs."
+    },
+    {
+      "start": 1576.95,
+      "end": 1580.15,
+      "text": "And how long would it take to prepare that proposal?"
+    },
+    {
+      "start": 1580.15,
+      "end": 1584.39,
+      "text": "about two weeks depending on the availability of information."
+    },
+    {
+      "start": 1584.39,
+      "end": 1585.39,
+      "text": "That works for us."
+    },
+    {
+      "start": 1585.39,
+      "end": 1588.87,
+      "text": "We're not in a rush, but we do want to keep momentum."
+    },
+    {
+      "start": 1588.87,
+      "end": 1592.15,
+      "text": "Momentum is important, but so is making the right decision."
+    },
+    {
+      "start": 1592.15,
+      "end": 1593.15,
+      "text": "Exactly."
+    },
+    {
+      "start": 1593.15,
+      "end": 1596.31,
+      "text": "We want to be confident that this partnership is the right fit."
+    },
+    {
+      "start": 1596.31,
+      "end": 1597.75,
+      "text": "And we feel the same way."
+    },
+    {
+      "start": 1597.75,
+      "end": 1602.31,
+      "text": "We're selective about the projects we take on because long-term relationships matter"
+    },
+    {
+      "start": 1602.31,
+      "end": 1603.31,
+      "text": "to us."
+    },
+    {
+      "start": 1603.31,
+      "end": 1604.91,
+      "text": "That's reassuring."
+    },
+    {
+      "start": 1604.91,
+      "end": 1608.99,
+      "text": "Based on today's discussion, I feel there's strong potential for collaboration."
+    },
+    {
+      "start": 1608.99,
+      "end": 1611.13,
+      "text": "I'm very pleased to hear that."
+    },
+    {
+      "start": 1611.13,
+      "end": 1614.07,
+      "text": "Is there anything else you'd like to cover today?"
+    },
+    {
+      "start": 1614.07,
+      "end": 1615.79,
+      "text": "Just one final question."
+    },
+    {
+      "start": 1615.79,
+      "end": 1619.19,
+      "text": "If we move forward, what would the first few weeks look like?"
+    },
+    {
+      "start": 1619.19,
+      "end": 1622.19,
+      "text": "The first phase would focus on understanding."
+    },
+    {
+      "start": 1622.19,
+      "end": 1627.07,
+      "text": "We'd conduct interviews with key stakeholders, review documentation, and map out your"
+    },
+    {
+      "start": 1627.07,
+      "end": 1628.83,
+      "text": "current workflows."
+    },
+    {
+      "start": 1628.83,
+      "end": 1632.39,
+      "text": "So it's more about listening than changing things at that stage."
+    },
+    {
+      "start": 1632.39,
+      "end": 1633.39,
+      "text": "Exactly."
+    },
+    {
+      "start": 1633.39,
+      "end": 1636.99,
+      "text": "We believe you can't improve what you don't fully understand."
+    },
+    {
+      "start": 1636.99,
+      "end": 1639.43,
+      "text": "I really appreciate that philosophy."
+    },
+    {
+      "start": 1639.43,
+      "end": 1640.35,
+      "text": "Thank you."
+    },
+    {
+      "start": 1640.35,
+      "end": 1643.99,
+      "text": "We found it leads to much better results in the long run."
+    },
+    {
+      "start": 1643.99,
+      "end": 1646.35,
+      "text": "Well, this has been a very productive meeting."
+    },
+    {
+      "start": 1646.35,
+      "end": 1648.51,
+      "text": "I feel much clearer about what working together"
+    },
+    {
+      "start": 1648.51,
+      "end": 1649.67,
+      "text": "would look like."
+    },
+    {
+      "start": 1649.67,
+      "end": 1650.99,
+      "text": "I'm glad to hear that."
+    },
+    {
+      "start": 1650.99,
+      "end": 1653.67,
+      "text": "We'll follow up with a summary of today's discussion"
+    },
+    {
+      "start": 1653.67,
+      "end": 1655.59,
+      "text": "and outline the next steps."
+    },
+    {
+      "start": 1655.59,
+      "end": 1656.67,
+      "text": "That would be great."
+    },
+    {
+      "start": 1656.67,
+      "end": 1659.55,
+      "text": "I'll review it with my team and give back to you promptly."
+    },
+    {
+      "start": 1659.55,
+      "end": 1660.35,
+      "text": "Perfect."
+    },
+    {
+      "start": 1660.35,
+      "end": 1662.51,
+      "text": "Thank you again for coming in today."
+    },
+    {
+      "start": 1662.51,
+      "end": 1664.95,
+      "text": "Thank you for your time and the open conversation."
+    },
+    {
+      "start": 1664.95,
+      "end": 1666.99,
+      "text": "I'm looking forward to what comes next."
+    },
+    {
+      "start": 1666.99,
+      "end": 1670.67,
+      "text": "Likewise, have a safe trip back and we'll be in touch soon."
+    },
+    {
+      "start": 1670.67,
+      "end": 1672.11,
+      "text": "Thank you, goodbye."
+    },
+    {
+      "start": 1672.11,
+      "end": 1672.95,
+      "text": "Goodbye."
+    },
+    {
+      "start": 1672.95,
+      "end": 1674.95,
+      "text": "Good morning, and thank you for taking the time"
+    },
+    {
+      "start": 1674.95,
+      "end": 1676.19,
+      "text": "to meet with us today."
+    },
+    {
+      "start": 1676.19,
+      "end": 1677.67,
+      "text": "I know you have a busy schedule,"
+    },
+    {
+      "start": 1677.67,
+      "end": 1679.47,
+      "text": "so we really appreciate it."
+    },
+    {
+      "start": 1679.47,
+      "end": 1680.99,
+      "text": "How was your trip over?"
+    },
+    {
+      "start": 1680.99,
+      "end": 1683.25,
+      "text": "Good morning, thank you for having me."
+    },
+    {
+      "start": 1683.25,
+      "end": 1684.83,
+      "text": "The trip was smooth, actually."
+    },
+    {
+      "start": 1684.83,
+      "end": 1686.79,
+      "text": "The traffic was lighter than I expected,"
+    },
+    {
+      "start": 1686.79,
+      "end": 1688.11,
+      "text": "so that was a nice surprise."
+    },
+    {
+      "start": 1688.11,
+      "end": 1690.31,
+      "text": "And please, call me Daniel."
+    },
+    {
+      "start": 1690.31,
+      "end": 1691.63,
+      "text": "Of course, Daniel."
+    },
+    {
+      "start": 1691.63,
+      "end": 1693.63,
+      "text": "And please, call me Rachel."
+    },
+    {
+      "start": 1693.63,
+      "end": 1696.55,
+      "text": "Would you like some coffee or tea before we get started?"
+    },
+    {
+      "start": 1696.55,
+      "end": 1698.35,
+      "text": "Coffee would be great, thank you."
+    },
+    {
+      "start": 1698.35,
+      "end": 1699.87,
+      "text": "Black if possible."
+    },
+    {
+      "start": 1699.87,
+      "end": 1700.71,
+      "text": "Perfect."
+    },
+    {
+      "start": 1700.71,
+      "end": 1702.67,
+      "text": "I'll ask someone to bring that in."
+    },
+    {
+      "start": 1702.67,
+      "end": 1705.23,
+      "text": "So before we dive into the agenda,"
+    },
+    {
+      "start": 1705.23,
+      "end": 1707.83,
+      "text": "how have things been going on your side lately?"
+    },
+    {
+      "start": 1707.83,
+      "end": 1709.23,
+      "text": "Quite busy to be honest."
+    },
+    {
+      "start": 1709.23,
+      "end": 1711.67,
+      "text": "We've been expanding into a few new markets,"
+    },
+    {
+      "start": 1711.67,
+      "end": 1714.11,
+      "text": "so there's been a lot happening at once."
+    },
+    {
+      "start": 1714.11,
+      "end": 1717.03,
+      "text": "It's exciting, but also challenging."
+    },
+    {
+      "start": 1717.03,
+      "end": 1718.83,
+      "text": "That sounds like a big step."
+    },
+    {
+      "start": 1718.83,
+      "end": 1721.59,
+      "text": "Expansion always comes with both opportunities"
+    },
+    {
+      "start": 1721.59,
+      "end": 1722.67,
+      "text": "and pressure."
+    },
+    {
+      "start": 1722.67,
+      "end": 1724.59,
+      "text": "Congratulations on that growth."
+    },
+    {
+      "start": 1724.59,
+      "end": 1725.47,
+      "text": "Thank you."
+    },
+    {
+      "start": 1725.47,
+      "end": 1728.43,
+      "text": "It's been a long time coming, so we're optimistic."
+    },
+    {
+      "start": 1728.43,
+      "end": 1729.91,
+      "text": "That's actually one of the reasons"
+    },
+    {
+      "start": 1729.91,
+      "end": 1732.13,
+      "text": "we were interested in meeting with your team."
+    },
+    {
+      "start": 1732.13,
+      "end": 1733.79,
+      "text": "I'm glad to hear that."
+    },
+    {
+      "start": 1733.79,
+      "end": 1735.67,
+      "text": "Why don't we start with a quick overview"
+    },
+    {
+      "start": 1735.67,
+      "end": 1738.59,
+      "text": "of today's meeting, just to make sure we're aligned?"
+    },
+    {
+      "start": 1738.59,
+      "end": 1739.87,
+      "text": "That would be helpful."
+    },
+    {
+      "start": 1739.87,
+      "end": 1740.71,
+      "text": "Great."
+    },
+    {
+      "start": 1740.71,
+      "end": 1743.13,
+      "text": "The main goal today is to understand"
+    },
+    {
+      "start": 1743.13,
+      "end": 1745.19,
+      "text": "your current challenges, walk you"
+    },
+    {
+      "start": 1745.19,
+      "end": 1748.43,
+      "text": "through our proposed solution, and discuss how we might"
+    },
+    {
+      "start": 1748.43,
+      "end": 1750.27,
+      "text": "work together moving forward."
+    },
+    {
+      "start": 1750.27,
+      "end": 1752.23,
+      "text": "If everything goes well, we can also"
+    },
+    {
+      "start": 1752.23,
+      "end": 1754.87,
+      "text": "to talk about timelines and next steps."
+    },
+    {
+      "start": 1754.87,
+      "end": 1755.83,
+      "text": "That sounds good."
+    },
+    {
+      "start": 1755.83,
+      "end": 1758.09,
+      "text": "I appreciate having a clear structure."
+    },
+    {
+      "start": 1758.09,
+      "end": 1759.39,
+      "text": "Absolutely."
+    },
+    {
+      "start": 1759.39,
+      "end": 1763.31,
+      "text": "We believe good meetings start with clear expectations."
+    },
+    {
+      "start": 1763.31,
+      "end": 1764.79,
+      "text": "Before I present anything,"
+    },
+    {
+      "start": 1764.79,
+      "end": 1767.31,
+      "text": "I'd really like to hear more about your needs"
+    },
+    {
+      "start": 1767.31,
+      "end": 1768.77,
+      "text": "in your own words."
+    },
+    {
+      "start": 1768.77,
+      "end": 1769.61,
+      "text": "Sure."
+    },
+    {
+      "start": 1769.61,
+      "end": 1772.39,
+      "text": "As I mentioned earlier, we're expanding quickly."
+    },
+    {
+      "start": 1772.39,
+      "end": 1773.23,
+      "text": "With that growth,"
+    },
+    {
+      "start": 1773.23,
+      "end": 1775.07,
+      "text": "we've started to see inefficiencies"
+    },
+    {
+      "start": 1775.07,
+      "end": 1776.73,
+      "text": "in how we manage our client data"
+    },
+    {
+      "start": 1776.73,
+      "end": 1778.47,
+      "text": "and internal communication."
+    },
+    {
+      "start": 1778.47,
+      "end": 1780.95,
+      "text": "Our current system worked fine when we were smaller,"
+    },
+    {
+      "start": 1780.95,
+      "end": 1783.39,
+      "text": "but now it's starting to slow us down."
+    },
+    {
+      "start": 1783.39,
+      "end": 1785.83,
+      "text": "That's a very common situation."
+    },
+    {
+      "start": 1785.83,
+      "end": 1789.67,
+      "text": "Growth often exposes gaps that weren't visible before."
+    },
+    {
+      "start": 1789.67,
+      "end": 1791.75,
+      "text": "Can you give me an example of where this system"
+    },
+    {
+      "start": 1791.75,
+      "end": 1793.95,
+      "text": "is causing the most frustration?"
+    },
+    {
+      "start": 1793.95,
+      "end": 1796.19,
+      "text": "One example is reporting."
+    },
+    {
+      "start": 1796.19,
+      "end": 1798.63,
+      "text": "It takes too long to pull accurate reports"
+    },
+    {
+      "start": 1798.63,
+      "end": 1801.27,
+      "text": "and different departments often have different numbers."
+    },
+    {
+      "start": 1801.27,
+      "end": 1803.23,
+      "text": "That makes decision-making difficult,"
+    },
+    {
+      "start": 1803.23,
+      "end": 1805.39,
+      "text": "especially at the leadership level."
+    },
+    {
+      "start": 1805.39,
+      "end": 1809.95,
+      "text": "I see, so consistency and speed are major concerns."
+    },
+    {
+      "start": 1809.95,
+      "end": 1813.95,
+      "text": "Exactly. We need reliable data, and we need it quickly."
+    },
+    {
+      "start": 1813.95,
+      "end": 1818.95,
+      "text": "That makes sense. And how is this affecting your relationship with your own clients?"
+    },
+    {
+      "start": 1818.95,
+      "end": 1822.95,
+      "text": "Well, when our internal processes are slow, our response time suffers."
+    },
+    {
+      "start": 1822.95,
+      "end": 1827.95,
+      "text": "Clients expect fast answers, and when we can't deliver, it impacts trust."
+    },
+    {
+      "start": 1827.95,
+      "end": 1833.95,
+      "text": "That's a critical point. In today's market, responsiveness is almost as important as quality."
+    },
+    {
+      "start": 1833.95,
+      "end": 1835.95,
+      "text": "I completely agree."
+    },
+    {
+      "start": 1835.95,
+      "end": 1838.95,
+      "text": "Thank you for sharing that. Based on what you've described,"
+    },
+    {
+      "start": 1838.95,
+      "end": 1842.95,
+      "text": "I think our solution could address several of those pain points."
+    },
+    {
+      "start": 1842.95,
+      "end": 1848.95,
+      "text": "Let me give you a brief overview, and then we can discuss how it would apply specifically to your organization."
+    },
+    {
+      "start": 1848.95,
+      "end": 1849.95,
+      "text": "Sounds good."
+    },
+    {
+      "start": 1849.95,
+      "end": 1856.95,
+      "text": "Our platform is designed to centralize client data, streamline communication between departments,"
+    },
+    {
+      "start": 1856.95,
+      "end": 1858.95,
+      "text": "and provide real-time reporting."
+    },
+    {
+      "start": 1858.95,
+      "end": 1863.95,
+      "text": "The goal is to reduce manual work and improve visibility across the organization."
+    },
+    {
+      "start": 1863.95,
+      "end": 1867.95,
+      "text": "Real-time reporting would definitely be a game changer for us."
+    },
+    {
+      "start": 1867.95,
+      "end": 1870.45,
+      "text": "Many of our clients say the same thing."
+    },
+    {
+      "start": 1870.45,
+      "end": 1874.15,
+      "text": "One thing I want to emphasize is that our system is scalable."
+    },
+    {
+      "start": 1874.15,
+      "end": 1878.45,
+      "text": "That means it can grow with you as your business continues to expand."
+    },
+    {
+      "start": 1878.45,
+      "end": 1881.25,
+      "text": "Scalability is very important to us."
+    },
+    {
+      "start": 1881.25,
+      "end": 1884.95,
+      "text": "We don't want to invest in something that will outgrow in two years."
+    },
+    {
+      "start": 1884.95,
+      "end": 1887.95,
+      "text": "Exactly. That's a concern we hear often,"
+    },
+    {
+      "start": 1887.95,
+      "end": 1890.45,
+      "text": "and it's something we've built our solution around."
+    },
+    {
+      "start": 1890.45,
+      "end": 1892.95,
+      "text": "Now, I'd like to ask a few more questions"
+    },
+    {
+      "start": 1892.95,
+      "end": 1895.95,
+      "text": "to better understand your workflow if that's okay."
+    },
+    {
+      "start": 1895.95,
+      "end": 1896.95,
+      "text": "Of course."
+    },
+    {
+      "start": 1896.95,
+      "end": 1900.95,
+      "text": "How many teams would be using the system on a daily basis?"
+    },
+    {
+      "start": 1900.95,
+      "end": 1903.95,
+      "text": "Initially, probably around five teams."
+    },
+    {
+      "start": 1903.95,
+      "end": 1907.95,
+      "text": "Sales, customer support, operations, finance, and management."
+    },
+    {
+      "start": 1907.95,
+      "end": 1912.95,
+      "text": "And do these teams currently use different tools or are they all on the same platform?"
+    },
+    {
+      "start": 1912.95,
+      "end": 1915.95,
+      "text": "They use different tools, which is part of the problem."
+    },
+    {
+      "start": 1915.95,
+      "end": 1918.95,
+      "text": "Information gets lost between systems."
+    },
+    {
+      "start": 1918.95,
+      "end": 1920.95,
+      "text": "That's helpful to know."
+    },
+    {
+      "start": 1920.95,
+      "end": 1922.95,
+      "text": "Integration will be an important factor then."
+    },
+    {
+      "start": 1922.95,
+      "end": 1924.95,
+      "text": "Yes, definitely."
+    },
+    {
+      "start": 1924.95,
+      "end": 1928.65,
+      "text": "One concern clients sometimes have is the learning curve."
+    },
+    {
+      "start": 1928.65,
+      "end": 1932.15,
+      "text": "How comfortable is your team with adopting new technology?"
+    },
+    {
+      "start": 1932.15,
+      "end": 1937.65,
+      "text": "It varies. Some teams are very tech-savvy while others need more support and training."
+    },
+    {
+      "start": 1937.65,
+      "end": 1942.55,
+      "text": "That's completely normal. We provide onboarding sessions and ongoing support"
+    },
+    {
+      "start": 1942.55,
+      "end": 1945.05,
+      "text": "to make the transition as smooth as possible."
+    },
+    {
+      "start": 1945.05,
+      "end": 1948.95,
+      "text": "That's good to hear. Change management is always a challenge."
+    },
+    {
+      "start": 1948.95,
+      "end": 1953.15,
+      "text": "Absolutely. Now, let's talk a bit about expectations."
+    },
+    {
+      "start": 1953.15,
+      "end": 1957.55,
+      "text": "What would success look like for you six months after implementation?"
+    },
+    {
+      "start": 1957.55,
+      "end": 1962.55,
+      "text": "Ideally, we'd have faster reporting, better communication between teams,"
+    },
+    {
+      "start": 1962.55,
+      "end": 1965.65,
+      "text": "and fewer errors caused by manual processes."
+    },
+    {
+      "start": 1965.65,
+      "end": 1969.95,
+      "text": "Those are very realistic goals. Based on similar clients we've worked with,"
+    },
+    {
+      "start": 1969.95,
+      "end": 1971.75,
+      "text": "those results are achievable."
+    },
+    {
+      "start": 1971.75,
+      "end": 1973.05,
+      "text": "That's encouraging."
+    },
+    {
+      "start": 1973.05,
+      "end": 1976.05,
+      "text": "I also want to be transparent about timelines."
+    },
+    {
+      "start": 1976.05,
+      "end": 1981.75,
+      "text": "From the moment we start, full implementation usually takes between 8 and 12 weeks,"
+    },
+    {
+      "start": 1981.75,
+      "end": 1983.75,
+      "text": "depending on customization."
+    },
+    {
+      "start": 1983.75,
+      "end": 1986.75,
+      "text": "That's reasonable. We were expecting something in that range."
+    },
+    {
+      "start": 1986.75,
+      "end": 1992.75,
+      "text": "Good. Now, before we move further, do you have any concerns or questions so far?"
+    },
+    {
+      "start": 1992.75,
+      "end": 1996.75,
+      "text": "Yes, actually. I'd like to talk about cost and return on investment,"
+    },
+    {
+      "start": 1996.75,
+      "end": 1999.75,
+      "text": "but I know that usually comes later in the discussion."
+    },
+    {
+      "start": 1999.75,
+      "end": 2002.75,
+      "text": "I'm glad you brought that up. We can definitely talk about it now."
+    },
+    {
+      "start": 2002.75,
+      "end": 2004.75,
+      "text": "It's an important part of the decision."
+    },
+    {
+      "start": 2004.75,
+      "end": 2005.75,
+      "text": "Great."
+    },
+    {
+      "start": 2005.75,
+      "end": 2010.75,
+      "text": "Our pricing is based on the number of users and the level of customization required."
+    },
+    {
+      "start": 2010.75,
+      "end": 2018.75,
+      "text": "Rather than focusing only on the cost, many clients look at how much time and money they save by improving efficiency."
+    },
+    {
+      "start": 2018.75,
+      "end": 2022.75,
+      "text": "That makes sense, but leadership will still want clear numbers."
+    },
+    {
+      "start": 2022.75,
+      "end": 2030.75,
+      "text": "Of course. After this meeting, we can prepare a detailed proposal with cost breakdowns and projected ROI based on your current processes."
+    },
+    {
+      "start": 2030.75,
+      "end": 2032.75,
+      "text": "That would be very helpful."
+    },
+    {
+      "start": 2032.75,
+      "end": 2039.75,
+      "text": "Perfect. Another question we often get is about data security. Is that something your team is concerned about?"
+    },
+    {
+      "start": 2039.75,
+      "end": 2043.75,
+      "text": "Yes, very much so. We handle sensitive client information."
+    },
+    {
+      "start": 2043.75,
+      "end": 2046.75,
+      "text": "Security is a top priority for us."
+    },
+    {
+      "start": 2046.75,
+      "end": 2051.75,
+      "text": "Our system complies with international security standards and we conduct regular audits."
+    },
+    {
+      "start": 2051.75,
+      "end": 2053.75,
+      "text": "That's reassuring."
+    },
+    {
+      "start": 2053.75,
+      "end": 2059.75,
+      "text": "Now, I'd like to hear your thoughts. Based on what we've discussed so far, how do you feel about the potential fit?"
+    },
+    {
+      "start": 2059.75,
+      "end": 2066.75,
+      "text": "Honestly, it sounds promising. I like that you've taken the time to understand our challenges instead of just selling a product."
+    },
+    {
+      "start": 2066.75,
+      "end": 2072.75,
+      "text": "I appreciate that feedback. We believe partnerships work best when both sides are aligned."
+    },
+    {
+      "start": 2072.75,
+      "end": 2078.75,
+      "text": "I agree. I do think we'll need to involve a few other stakeholders before making a final decision."
+    },
+    {
+      "start": 2078.75,
+      "end": 2084.75,
+      "text": "That's completely expected. Would it be helpful if we scheduled a follow-up meeting with your broader team?"
+    },
+    {
+      "start": 2084.75,
+      "end": 2086.75,
+      "text": "Yes, that would be ideal."
+    },
+    {
+      "start": 2086.75,
+      "end": 2091.75,
+      "text": "Great. We can tailor the next presentation to address their specific concerns."
+    },
+    {
+      "start": 2091.75,
+      "end": 2092.75,
+      "text": "Perfect."
+    },
+    {
+      "start": 2092.75,
+      "end": 2095.75,
+      "text": "Before we wrap up, is there anything else you'd like to discuss today?"
+    },
+    {
+      "start": 2095.75,
+      "end": 2102.75,
+      "text": "Just one thing. If we decide to move forward, what kind of support can we expect after implementation?"
+    },
+    {
+      "start": 2102.75,
+      "end": 2109.75,
+      "text": "You'll have a dedicated account manager, access to our support team, and regular check-ins to ensure everything is running smoothly."
+    },
+    {
+      "start": 2109.75,
+      "end": 2112.75,
+      "text": "That level of support is important to us."
+    },
+    {
+      "start": 2112.75,
+      "end": 2116.75,
+      "text": "We understand. Long-term success matters more than a quick sale."
+    },
+    {
+      "start": 2116.75,
+      "end": 2118.75,
+      "text": "I appreciate that approach."
+    },
+    {
+      "start": 2118.75,
+      "end": 2122.75,
+      "text": "Alright, Daniel. Thank you again for your time and openness today."
+    },
+    {
+      "start": 2122.75,
+      "end": 2127.63,
+      "text": "today. We'll send a summary of this meeting along with the proposal by the end of the week."
+    },
+    {
+      "start": 2127.63,
+      "end": 2130.91,
+      "text": "Thank you, Rachel. This was a very productive discussion."
+    },
+    {
+      "start": 2130.91,
+      "end": 2134.99,
+      "text": "I'm glad you think so. We look forward to continuing the conversation."
+    },
+    {
+      "start": 2134.99,
+      "end": 2137.31,
+      "text": "Likewise, have a great rest of your day."
+    },
+    {
+      "start": 2137.31,
+      "end": 2138.99,
+      "text": "You too. Take care."
+    }
+  ]
+}

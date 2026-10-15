@@ -440,13 +440,13 @@
     "slug": "HowtoTalkAbouttheProblemsandSolutionsatBusinessMeetingConversations",
     "file_stem": "21_HowtoTalkAbouttheProblemsandSolutionsatBusinessMeetingConversations",
     "duration_min": 53.5,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.998,
+      "word_count": 7724,
+      "repetition_ratio": 0.05,
       "flags": []
     }
   },
@@ -461,13 +461,13 @@
     "slug": "HowtoDescribeYourSkillsinProfessionalBusinessConversations",
     "file_stem": "22_HowtoDescribeYourSkillsinProfessionalBusinessConversations",
     "duration_min": 40.3,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.993,
+      "word_count": 5889,
+      "repetition_ratio": 0.0385,
       "flags": []
     }
   },
@@ -482,13 +482,13 @@
     "slug": "HowtoTalkaboutCareerPathinEnglish",
     "file_stem": "23_HowtoTalkaboutCareerPathinEnglish",
     "duration_min": 49.8,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.995,
+      "word_count": 7179,
+      "repetition_ratio": 0.0323,
       "flags": []
     }
   },
@@ -503,13 +503,13 @@
     "slug": "HowtoTalkAboutYourCompanyinEnglish",
     "file_stem": "24_HowtoTalkAboutYourCompanyinEnglish",
     "duration_min": 57.0,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.995,
+      "word_count": 7679,
+      "repetition_ratio": 0.0417,
       "flags": []
     }
   },
@@ -524,13 +524,13 @@
     "slug": "HowtoTalkAboutBusinessPerformanceinEnglish",
     "file_stem": "25_HowtoTalkAboutBusinessPerformanceinEnglish",
     "duration_min": 47.8,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.996,
+      "word_count": 6103,
+      "repetition_ratio": 0.0909,
       "flags": []
     }
   },
@@ -545,13 +545,13 @@
     "slug": "HowtoIntroduceyourselfinBusinessMeetings",
     "file_stem": "26_HowtoIntroduceyourselfinBusinessMeetings",
     "duration_min": 53.5,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.996,
+      "word_count": 7601,
+      "repetition_ratio": 0.0476,
       "flags": []
     }
   },
@@ -566,13 +566,13 @@
     "slug": "BusinessMeetingPodcastin40minutes",
     "file_stem": "27_BusinessMeetingPodcastin40minutes",
     "duration_min": 44.5,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.998,
+      "word_count": 8200,
+      "repetition_ratio": 0.0357,
       "flags": []
     }
   },
@@ -587,13 +587,13 @@
     "slug": "BusinessEnglishConversation-EnglishDialogsatWork",
     "file_stem": "28_BusinessEnglishConversation-EnglishDialogsatWork",
     "duration_min": 43.3,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.999,
+      "word_count": 7923,
+      "repetition_ratio": 0.0417,
       "flags": []
     }
   },
@@ -608,13 +608,13 @@
     "slug": "BusinessMeetingConversationsin30minutes",
     "file_stem": "29_BusinessMeetingConversationsin30minutes",
     "duration_min": 35.9,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.995,
+      "word_count": 5547,
+      "repetition_ratio": 0.0256,
       "flags": []
     }
   },
@@ -629,13 +629,13 @@
     "slug": "HowtoTalkAboutSalaryatWorkinEnglish",
     "file_stem": "30_HowtoTalkAboutSalaryatWorkinEnglish",
     "duration_min": 45.1,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.995,
+      "word_count": 6703,
+      "repetition_ratio": 0.0227,
       "flags": []
     }
   },

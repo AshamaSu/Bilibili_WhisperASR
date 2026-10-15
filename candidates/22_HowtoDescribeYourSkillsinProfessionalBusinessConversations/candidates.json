@@ -1,0 +1,6785 @@
+{
+  "file_stem": "22_HowtoDescribeYourSkillsinProfessionalBusinessConversations",
+  "no": 22,
+  "title_keywords": [
+    [
+      "describe",
+      "describe"
+    ],
+    [
+      "skills",
+      "skill"
+    ],
+    [
+      "professional",
+      "professional"
+    ],
+    [
+      "business",
+      "business"
+    ],
+    [
+      "conversations",
+      "conversation"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "skills",
+      163,
+      "A2"
+    ],
+    [
+      "project",
+      46,
+      "B1+"
+    ],
+    [
+      "work",
+      42,
+      "A2"
+    ],
+    [
+      "helps",
+      40,
+      "A2"
+    ],
+    [
+      "say",
+      40,
+      "A2"
+    ],
+    [
+      "people",
+      38,
+      "A2"
+    ],
+    [
+      "team",
+      38,
+      "A2"
+    ],
+    [
+      "good",
+      37,
+      "A2"
+    ],
+    [
+      "important",
+      37,
+      "A2"
+    ],
+    [
+      "english",
+      36,
+      "A2"
+    ],
+    [
+      "example",
+      36,
+      "A2"
+    ],
+    [
+      "professional",
+      36,
+      "B1+"
+    ],
+    [
+      "describe",
+      34,
+      "A2"
+    ],
+    [
+      "exactly",
+      34,
+      "B1+"
+    ],
+    [
+      "talk",
+      34,
+      "A2"
+    ],
+    [
+      "communication",
+      33,
+      "B1+"
+    ],
+    [
+      "learning",
+      28,
+      "A2"
+    ],
+    [
+      "many",
+      28,
+      "A2"
+    ],
+    [
+      "problem",
+      28,
+      "A2"
+    ],
+    [
+      "also",
+      27,
+      "A2"
+    ],
+    [
+      "situations",
+      25,
+      "A2"
+    ],
+    [
+      "practice",
+      24,
+      "A2"
+    ],
+    [
+      "time",
+      24,
+      "A2"
+    ],
+    [
+      "today",
+      24,
+      "A2"
+    ],
+    [
+      "another",
+      22,
+      "A2"
+    ],
+    [
+      "leadership",
+      22,
+      "B1+"
+    ],
+    [
+      "tasks",
+      21,
+      "B1+"
+    ],
+    [
+      "thank",
+      21,
+      "A2"
+    ],
+    [
+      "ideas",
+      20,
+      "A2"
+    ],
+    [
+      "new",
+      20,
+      "A2"
+    ],
+    [
+      "conversation",
+      19,
+      "B1+"
+    ],
+    [
+      "experience",
+      19,
+      "A2"
+    ],
+    [
+      "explain",
+      19,
+      "B1+"
+    ],
+    [
+      "understand",
+      19,
+      "A2"
+    ],
+    [
+      "clear",
+      18,
+      "A2"
+    ],
+    [
+      "everyone",
+      18,
+      "A2"
+    ],
+    [
+      "solving",
+      17,
+      "B1+"
+    ],
+    [
+      "technical",
+      17,
+      "B1+"
+    ],
+    [
+      "use",
+      17,
+      "A2"
+    ],
+    [
+      "business",
+      16,
+      "B1+"
+    ],
+    [
+      "great",
+      16,
+      "A2"
+    ],
+    [
+      "someone",
+      16,
+      "A2"
+    ],
+    [
+      "feel",
+      15,
+      "A2"
+    ],
+    [
+      "job",
+      15,
+      "A2"
+    ],
+    [
+      "simple",
+      15,
+      "A2"
+    ],
+    [
+      "something",
+      15,
+      "B1+"
+    ],
+    [
+      "teamwork",
+      15,
+      "B1+"
+    ],
+    [
+      "listening",
+      14,
+      "A2"
+    ],
+    [
+      "need",
+      14,
+      "A2"
+    ],
+    [
+      "shows",
+      14,
+      "A2"
+    ],
+    [
+      "sounds",
+      14,
+      "A2"
+    ],
+    [
+      "strong",
+      14,
+      "A2"
+    ],
+    [
+      "clearly",
+      13,
+      "B1+"
+    ],
+    [
+      "describing",
+      13,
+      "B1+"
+    ],
+    [
+      "means",
+      13,
+      "A2"
+    ],
+    [
+      "question",
+      13,
+      "A2"
+    ],
+    [
+      "speaking",
+      13,
+      "A2"
+    ],
+    [
+      "abilities",
+      12,
+      "B1+"
+    ],
+    [
+      "challenges",
+      12,
+      "B1+"
+    ],
+    [
+      "colleagues",
+      12,
+      "B1+"
+    ],
+    [
+      "examples",
+      12,
+      "B1+"
+    ],
+    [
+      "interviews",
+      12,
+      "B1+"
+    ],
+    [
+      "often",
+      12,
+      "A2"
+    ],
+    [
+      "one",
+      12,
+      "A2"
+    ],
+    [
+      "solutions",
+      12,
+      "B1+"
+    ],
+    [
+      "strengths",
+      12,
+      "B1+"
+    ],
+    [
+      "useful",
+      12,
+      "A2"
+    ],
+    [
+      "developed",
+      11,
+      "B1+"
+    ],
+    [
+      "different",
+      11,
+      "A2"
+    ],
+    [
+      "management",
+      11,
+      "B1+"
+    ],
+    [
+      "planning",
+      11,
+      "A2"
+    ],
+    [
+      "asks",
+      10,
+      "A2"
+    ],
+    [
+      "focus",
+      10,
+      "B1+"
+    ],
+    [
+      "give",
+      10,
+      "A2"
+    ],
+    [
+      "marketing",
+      10,
+      "A2"
+    ],
+    [
+      "quickly",
+      10,
+      "B1+"
+    ],
+    [
+      "sure",
+      10,
+      "A2"
+    ],
+    [
+      "way",
+      10,
+      "A2"
+    ],
+    [
+      "adaptability",
+      9,
+      "B1+"
+    ],
+    [
+      "effectively",
+      9,
+      "B1+"
+    ],
+    [
+      "employers",
+      9,
+      "B1+"
+    ],
+    [
+      "enjoy",
+      9,
+      "A2"
+    ],
+    [
+      "especially",
+      9,
+      "B1+"
+    ],
+    [
+      "finding",
+      9,
+      "A2"
+    ],
+    [
+      "makes",
+      9,
+      "B1+"
+    ],
+    [
+      "meetings",
+      9,
+      "B1+"
+    ],
+    [
+      "organized",
+      9,
+      "B1+"
+    ],
+    [
+      "real",
+      9,
+      "A2"
+    ],
+    [
+      "sometimes",
+      9,
+      "B1+"
+    ],
+    [
+      "start",
+      9,
+      "A2"
+    ],
+    [
+      "true",
+      9,
+      "A2"
+    ],
+    [
+      "usually",
+      9,
+      "B1+"
+    ],
+    [
+      "valuable",
+      9,
+      "B1+"
+    ],
+    [
+      "adapt",
+      8,
+      "B1+"
+    ],
+    [
+      "analyze",
+      8,
+      "B1+"
+    ],
+    [
+      "communicate",
+      8,
+      "B1+"
+    ],
+    [
+      "confident",
+      8,
+      "B1+"
+    ],
+    [
+      "data",
+      8,
+      "B1+"
+    ],
+    [
+      "deadlines",
+      8,
+      "B1+"
+    ],
+    [
+      "details",
+      8,
+      "B1+"
+    ],
+    [
+      "environments",
+      8,
+      "B1+"
+    ],
+    [
+      "explanation",
+      8,
+      "B1+"
+    ],
+    [
+      "improve",
+      8,
+      "B1+"
+    ],
+    [
+      "keep",
+      8,
+      "A2"
+    ],
+    [
+      "presentations",
+      8,
+      "B1+"
+    ],
+    [
+      "soft",
+      8,
+      "A2"
+    ],
+    [
+      "tools",
+      8,
+      "A2"
+    ],
+    [
+      "add",
+      7,
+      "B1+"
+    ],
+    [
+      "customer",
+      7,
+      "B1+"
+    ],
+    [
+      "goals",
+      7,
+      "B1+"
+    ],
+    [
+      "hear",
+      7,
+      "A2"
+    ],
+    [
+      "much",
+      7,
+      "A2"
+    ],
+    [
+      "organization",
+      7,
+      "B1+"
+    ],
+    [
+      "podcast",
+      7,
+      "B1+"
+    ],
+    [
+      "problem-solving",
+      7,
+      "B1+"
+    ],
+    [
+      "results",
+      7,
+      "A2"
+    ],
+    [
+      "role",
+      7,
+      "B1+"
+    ],
+    [
+      "adjust",
+      6,
+      "B1+"
+    ],
+    [
+      "campaign",
+      6,
+      "B1+"
+    ],
+    [
+      "comfortable",
+      6,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "that's a great",
+      "count": 12,
+      "example": "That's a great example of skill development.",
+      "t": 222.06
+    },
+    {
+      "text": "problem solving",
+      "count": 12,
+      "example": "Another important skill is problem solving.",
+      "t": 379.1
+    },
+    {
+      "text": "skills in english",
+      "count": 10,
+      "example": "Our topic today is how to describe your skills in English.",
+      "t": 50.3
+    },
+    {
+      "text": "describing your skills",
+      "count": 10,
+      "example": "Now, when describing your skills, examples are very helpful.",
+      "t": 423.26
+    },
+    {
+      "text": "important skill",
+      "count": 9,
+      "example": "This is an important skill because many people need to talk about their abilities.",
+      "t": 55.5
+    },
+    {
+      "text": "many people",
+      "count": 9,
+      "example": "This is an important skill because many people need to talk about their abilities.",
+      "t": 55.5
+    },
+    {
+      "text": "let's talk",
+      "count": 9,
+      "example": "Let's talk about another important skill.",
+      "t": 485.76
+    },
+    {
+      "text": "describe your skills",
+      "count": 8,
+      "example": "Our topic today is how to describe your skills in English.",
+      "t": 50.3
+    },
+    {
+      "text": "communication skills",
+      "count": 8,
+      "example": "Well, I would probably start by talking about my communication skills.",
+      "t": 114.3
+    },
+    {
+      "text": "let's practice",
+      "count": 8,
+      "example": "So let's practice simple ways to explain your abilities.",
+      "t": 761.56
+    }
+  ],
+  "phrases": [
+    {
+      "text": "that's a great",
+      "count": 12,
+      "example": "That's a great example of skill development.",
+      "t": 222.06
+    },
+    {
+      "text": "problem solving",
+      "count": 12,
+      "example": "Another important skill is problem solving.",
+      "t": 379.1
+    },
+    {
+      "text": "skills in english",
+      "count": 10,
+      "example": "Our topic today is how to describe your skills in English.",
+      "t": 50.3
+    },
+    {
+      "text": "describing your skills",
+      "count": 10,
+      "example": "Now, when describing your skills, examples are very helpful.",
+      "t": 423.26
+    },
+    {
+      "text": "important skill",
+      "count": 9,
+      "example": "This is an important skill because many people need to talk about their abilities.",
+      "t": 55.5
+    },
+    {
+      "text": "many people",
+      "count": 9,
+      "example": "This is an important skill because many people need to talk about their abilities.",
+      "t": 55.5
+    },
+    {
+      "text": "let's talk",
+      "count": 9,
+      "example": "Let's talk about another important skill.",
+      "t": 485.76
+    },
+    {
+      "text": "describe your skills",
+      "count": 8,
+      "example": "Our topic today is how to describe your skills in English.",
+      "t": 50.3
+    },
+    {
+      "text": "communication skills",
+      "count": 8,
+      "example": "Well, I would probably start by talking about my communication skills.",
+      "t": 114.3
+    },
+    {
+      "text": "let's practice",
+      "count": 8,
+      "example": "So let's practice simple ways to explain your abilities.",
+      "t": 761.56
+    },
+    {
+      "text": "soft skills",
+      "count": 8,
+      "example": "Skills can be technical, like using a computer, or soft skills, like communication.",
+      "t": 775.16
+    },
+    {
+      "text": "business english",
+      "count": 7,
+      "example": "Hello and welcome to Business English Conversations.",
+      "t": 14.34
+    },
+    {
+      "text": "technical skills",
+      "count": 7,
+      "example": "We will talk about different types of skills, including technical skills, communication",
+      "t": 90.38
+    },
+    {
+      "text": "that's true",
+      "count": 6,
+      "example": "That's true.",
+      "t": 211.3
+    },
+    {
+      "text": "great example",
+      "count": 6,
+      "example": "That's a great example of skill development.",
+      "t": 222.06
+    },
+    {
+      "text": "another important",
+      "count": 6,
+      "example": "Yes, leadership is another important skill in my role.",
+      "t": 339.1
+    },
+    {
+      "text": "another important skill",
+      "count": 6,
+      "example": "Yes, leadership is another important skill in my role.",
+      "t": 339.1
+    },
+    {
+      "text": "time management",
+      "count": 6,
+      "example": "Time management.",
+      "t": 489.28
+    },
+    {
+      "text": "job interviews",
+      "count": 5,
+      "example": "such as meetings, presentations, job interviews, networking, and everyday conversations at work.",
+      "t": 38.62
+    },
+    {
+      "text": "leadership skills",
+      "count": 5,
+      "example": "skills, and leadership skills. And we will give examples of how to describe them in simple",
+      "t": 95.74
+    },
+    {
+      "text": "also add",
+      "count": 5,
+      "example": "You can also add details.",
+      "t": 814.22
+    },
+    {
+      "text": "practice an example",
+      "count": 5,
+      "example": "goals. Let's practice an example. Okay. I have strong teamwork skills. I work well",
+      "t": 918.58
+    },
+    {
+      "text": "someone might say",
+      "count": 5,
+      "example": "For example, someone might say, I'm good at many things, or I work hard.",
+      "t": 1911.78
+    },
+    {
+      "text": "hello everyone",
+      "count": 4,
+      "example": "Hello everyone, and welcome back to the podcast where we practice real English used in the",
+      "t": 18.34
+    },
+    {
+      "text": "welcome back",
+      "count": 4,
+      "example": "Hello everyone, and welcome back to the podcast where we practice real English used in the",
+      "t": 18.34
+    },
+    {
+      "text": "people feel",
+      "count": 4,
+      "example": "many people feel nervous when answering these questions",
+      "t": 74.94
+    },
+    {
+      "text": "skills clearly",
+      "count": 4,
+      "example": "but it's important to learn how to explain your skills clearly and confidently",
+      "t": 81.66
+    },
+    {
+      "text": "that's a good",
+      "count": 4,
+      "example": "to describe your professional skills, what would you say? That's a good question. Take your",
+      "t": 108.94
+    },
+    {
+      "text": "team members",
+      "count": 4,
+      "example": "My team members, clients, designers, and sometimes company executives.",
+      "t": 137.3
+    },
+    {
+      "text": "say something",
+      "count": 4,
+      "example": "I might say something like this.",
+      "t": 178.42
+    },
+    {
+      "text": "i'm good",
+      "count": 4,
+      "example": "I might add that I'm good at presenting ideas clearly.",
+      "t": 192.58
+    },
+    {
+      "text": "ideas clearly",
+      "count": 4,
+      "example": "I might add that I'm good at presenting ideas clearly.",
+      "t": 192.58
+    },
+    {
+      "text": "skills are important",
+      "count": 4,
+      "example": "What technical skills are important in your job?",
+      "t": 241.58
+    },
+    {
+      "text": "data analysis",
+      "count": 4,
+      "example": "Data analysis is one of them.",
+      "t": 244.98
+    },
+    {
+      "text": "strongest skills",
+      "count": 4,
+      "example": "As a project manager, one of my strongest skills is organization.",
+      "t": 293.7
+    },
+    {
+      "text": "clear and professional",
+      "count": 4,
+      "example": "That sounds clear and professional.",
+      "t": 333.98
+    },
+    {
+      "text": "employers value",
+      "count": 4,
+      "example": "Employers value people who can solve problems effectively.",
+      "t": 383.42
+    },
+    {
+      "text": "give an example",
+      "count": 4,
+      "example": "Can you give an example?",
+      "t": 386.78
+    },
+    {
+      "text": "another useful",
+      "count": 4,
+      "example": "Another useful skill to describe is teamwork.",
+      "t": 440.7
+    },
+    {
+      "text": "meet deadlines",
+      "count": 4,
+      "example": "and consistently meet deadlines.",
+      "t": 518.9
+    },
+    {
+      "text": "learn new",
+      "count": 4,
+      "example": "How do you usually learn new skills?",
+      "t": 565.14
+    },
+    {
+      "text": "good idea",
+      "count": 4,
+      "example": "Good idea.",
+      "t": 595.14
+    },
+    {
+      "text": "let's start",
+      "count": 4,
+      "example": "Let's start our conversation.",
+      "t": 715.92
+    },
+    {
+      "text": "add details",
+      "count": 4,
+      "example": "You can also add details.",
+      "t": 814.22
+    },
+    {
+      "text": "also add details",
+      "count": 4,
+      "example": "You can also add details.",
+      "t": 814.22
+    },
+    {
+      "text": "practical solutions",
+      "count": 4,
+      "example": "You can also add details. I analyze problems and find practical solutions. Analyze means",
+      "t": 946.76
+    },
+    {
+      "text": "project coordination",
+      "count": 4,
+      "example": "I'd say my main strengths are problem-solving, communication, and project coordination.",
+      "t": 1338.2
+    },
+    {
+      "text": "example someone",
+      "count": 4,
+      "example": "For example, someone might say, I'm good at many things, or I work hard.",
+      "t": 1911.78
+    },
+    {
+      "text": "everyone and welcome",
+      "count": 3,
+      "example": "Hello everyone, and welcome back to the podcast where we practice real English used in the",
+      "t": 18.34
+    },
+    {
+      "text": "professional english",
+      "count": 3,
+      "example": "In this podcast, we help you improve your professional English through natural conversations.",
+      "t": 27.7
+    },
+    {
+      "text": "help you improve",
+      "count": 3,
+      "example": "In this podcast, we help you improve your professional English through natural conversations.",
+      "t": 27.7
+    },
+    {
+      "text": "people need",
+      "count": 3,
+      "example": "This is an important skill because many people need to talk about their abilities.",
+      "t": 55.5
+    },
+    {
+      "text": "someone asks",
+      "count": 3,
+      "example": "when someone asks what are your strengths",
+      "t": 69.34
+    },
+    {
+      "text": "feel nervous",
+      "count": 3,
+      "example": "many people feel nervous when answering these questions",
+      "t": 74.94
+    },
+    {
+      "text": "today's conversation",
+      "count": 3,
+      "example": "in today's conversation we will show you how to do that",
+      "t": 86.94
+    },
+    {
+      "text": "types of skills",
+      "count": 3,
+      "example": "We will talk about different types of skills, including technical skills, communication",
+      "t": 90.38
+    },
+    {
+      "text": "professional skills",
+      "count": 3,
+      "example": "to describe your professional skills, what would you say? That's a good question. Take your",
+      "t": 108.94
+    },
+    {
+      "text": "strong communication",
+      "count": 3,
+      "example": "That role definitely requires strong communication.",
+      "t": 128.3
+    },
+    {
+      "text": "go ahead",
+      "count": 3,
+      "example": "Go ahead.",
+      "t": 180.66
+    },
+    {
+      "text": "cross-functional teams",
+      "count": 3,
+      "example": "Quote, I have strong communication skills and experience working with cross-functional teams.",
+      "t": 181.46
+    },
+    {
+      "text": "experience using",
+      "count": 3,
+      "example": "I might say something like, I have strong analytical skills and experience using marketing",
+      "t": 260.54
+    },
+    {
+      "text": "organizational skills",
+      "count": 3,
+      "example": "So how would you describe your organizational skills in English?",
+      "t": 324.46
+    },
+    {
+      "text": "strong organizational",
+      "count": 3,
+      "example": "I might say I have strong organizational and project management skills.",
+      "t": 328.02
+    },
+    {
+      "text": "management skills",
+      "count": 3,
+      "example": "I might say I have strong organizational and project management skills.",
+      "t": 328.02
+    },
+    {
+      "text": "leadership experience",
+      "count": 3,
+      "example": "That's a great way to describe leadership experience.",
+      "t": 375.5
+    },
+    {
+      "text": "good at problem",
+      "count": 3,
+      "example": "Instead of just saying, I am good at problem solving,",
+      "t": 430.46
+    },
+    {
+      "text": "teamwork skills",
+      "count": 3,
+      "example": "So how would you describe teamwork skills?",
+      "t": 453.94
+    },
+    {
+      "text": "talk about another",
+      "count": 3,
+      "example": "Let's talk about another important skill.",
+      "t": 485.76
+    },
+    {
+      "text": "another skill",
+      "count": 3,
+      "example": "Another skill many people talk about is adaptability.",
+      "t": 527.06
+    },
+    {
+      "text": "say i'm",
+      "count": 3,
+      "example": "You could say, I'm adaptable and comfortable working in dynamic environments.",
+      "t": 545.82
+    },
+    {
+      "text": "i'm adaptable",
+      "count": 3,
+      "example": "You could say, I'm adaptable and comfortable working in dynamic environments.",
+      "t": 545.82
+    },
+    {
+      "text": "new skills",
+      "count": 3,
+      "example": "How do you usually learn new skills?",
+      "t": 565.14
+    },
+    {
+      "text": "multiple projects",
+      "count": 3,
+      "example": "I'm comfortable managing multiple projects at the same time.",
+      "t": 611.86
+    },
+    {
+      "text": "interviews and professional",
+      "count": 3,
+      "example": "And it will also prepare you for job interviews and professional conversations.",
+      "t": 649.88
+    },
+    {
+      "text": "feel more confident",
+      "count": 3,
+      "example": "We hope this conversation helps you feel more confident when talking about your skills.",
+      "t": 656.46
+    },
+    {
+      "text": "keep practicing",
+      "count": 3,
+      "example": "Keep practicing English every day.",
+      "t": 661.2
+    },
+    {
+      "text": "us today",
+      "count": 3,
+      "example": "We are very happy you are here with us today.",
+      "t": 670.64
+    },
+    {
+      "text": "professional situations",
+      "count": 3,
+      "example": "On this channel, we help you practice English for work, interviews, and professional situations.",
+      "t": 680.4
+    },
+    {
+      "text": "simple and professional",
+      "count": 3,
+      "example": "So today, we will practice how to describe your skills in simple and professional English.",
+      "t": 697.32
+    },
+    {
+      "text": "describing skills",
+      "count": 3,
+      "example": "Describing skills is important in job interviews and professional situations.",
+      "t": 752.8
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen, practice, speak. Practice makes you perfect."
+    },
+    {
+      "t": 14.34,
+      "text": "Hello and welcome to Business English Conversations."
+    },
+    {
+      "t": 18.34,
+      "text": "Hello everyone, and welcome back to the podcast where we practice real English used in the"
+    },
+    {
+      "t": 23.7,
+      "text": "workplace."
+    },
+    {
+      "t": 24.78,
+      "text": "My name is Emma."
+    },
+    {
+      "t": 26.34,
+      "text": "And my name is David."
+    },
+    {
+      "t": 27.7,
+      "text": "In this podcast, we help you improve your professional English through natural conversations."
+    },
+    {
+      "t": 33.98,
+      "text": "Yes, we talk about situations that happen in real business environments,"
+    },
+    {
+      "t": 38.62,
+      "text": "such as meetings, presentations, job interviews, networking, and everyday conversations at work."
+    },
+    {
+      "t": 46.7,
+      "text": "Today, we are going to discuss a very useful topic."
+    },
+    {
+      "t": 50.3,
+      "text": "Our topic today is how to describe your skills in English."
+    },
+    {
+      "t": 55.5,
+      "text": "This is an important skill because many people need to talk about their abilities."
+    },
+    {
+      "t": 59.9,
+      "text": "Especially during job interviews."
+    },
+    {
+      "t": 62.38,
+      "text": "or performance reviews"
+    },
+    {
+      "t": 64.14,
+      "text": "or networking events"
+    },
+    {
+      "t": 65.9,
+      "text": "sometimes even during casual conversations with colleagues"
+    },
+    {
+      "t": 69.34,
+      "text": "when someone asks what are your strengths"
+    },
+    {
+      "t": 72.54,
+      "text": "or what skills do you have"
+    },
+    {
+      "t": 74.94,
+      "text": "many people feel nervous when answering these questions"
+    },
+    {
+      "t": 78.46,
+      "text": "yes because it can be difficult to talk about yourself"
+    },
+    {
+      "t": 81.66,
+      "text": "but it's important to learn how to explain your skills clearly and confidently"
+    },
+    {
+      "t": 86.94,
+      "text": "in today's conversation we will show you how to do that"
+    },
+    {
+      "t": 90.38,
+      "text": "We will talk about different types of skills, including technical skills, communication"
+    },
+    {
+      "t": 95.74,
+      "text": "skills, and leadership skills. And we will give examples of how to describe them in simple"
+    },
+    {
+      "t": 101.82,
+      "text": "business English. So, let's begin. David, let me ask you a question. Sure. If someone asked you"
+    },
+    {
+      "t": 108.94,
+      "text": "to describe your professional skills, what would you say? That's a good question. Take your"
+    },
+    {
+      "t": 114.3,
+      "text": "Well, I would probably start by talking about my communication skills."
+    },
+    {
+      "t": 119.3,
+      "text": "Why communication skills?"
+    },
+    {
+      "t": 121.3,
+      "text": "Because they are very important in my job."
+    },
+    {
+      "t": 123.3,
+      "text": "What exactly do you do in your job?"
+    },
+    {
+      "t": 126.3,
+      "text": "I work as a marketing manager."
+    },
+    {
+      "t": 128.3,
+      "text": "That role definitely requires strong communication."
+    },
+    {
+      "t": 132.3,
+      "text": "Yes, I communicate with many different people every day."
+    },
+    {
+      "t": 135.3,
+      "text": "Such as?"
+    },
+    {
+      "t": 137.3,
+      "text": "My team members, clients, designers, and sometimes company executives."
+    },
+    {
+      "t": 142.3,
+      "text": "That's a lot of communication."
+    },
+    {
+      "t": 145.3,
+      "text": "Yes, and each conversation requires a slightly different style."
+    },
+    {
+      "t": 149.3,
+      "text": "That's very true."
+    },
+    {
+      "t": 151.3,
+      "text": "For example, when I talk to clients, I focus on understanding their needs."
+    },
+    {
+      "t": 155.3,
+      "text": "That's an important skill."
+    },
+    {
+      "t": 157.3,
+      "text": "Yes, active listening is a big part of communication."
+    },
+    {
+      "t": 160.3,
+      "text": "Many people forget that listening is also a skill."
+    },
+    {
+      "t": 164.3,
+      "text": "Exactly. Communication is not only about speaking."
+    },
+    {
+      "t": 168.3,
+      "text": "It's also about understanding others."
+    },
+    {
+      "t": 171.3,
+      "text": "and asking the right questions."
+    },
+    {
+      "t": 173.46,
+      "text": "So how would you describe your communication skills in a professional way?"
+    },
+    {
+      "t": 178.42,
+      "text": "I might say something like this."
+    },
+    {
+      "t": 180.66,
+      "text": "Go ahead."
+    },
+    {
+      "t": 181.46,
+      "text": "Quote, I have strong communication skills and experience working with cross-functional teams."
+    },
+    {
+      "t": 187.54,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 189.94,
+      "text": "Thank you."
+    },
+    {
+      "t": 190.74,
+      "text": "What else might you say?"
+    },
+    {
+      "t": 192.58,
+      "text": "I might add that I'm good at presenting ideas clearly."
+    },
+    {
+      "t": 196.1,
+      "text": "Presentations are very important in marketing."
+    },
+    {
+      "t": 199.46,
+      "text": "Yes, I often present campaign strategies to clients."
+    },
+    {
+      "t": 202.9,
+      "text": "Are you comfortable speaking in front of groups?"
+    },
+    {
+      "t": 205.74,
+      "text": "Yes, I've developed that skill over time."
+    },
+    {
+      "t": 208.26,
+      "text": "Many people feel nervous about public speaking."
+    },
+    {
+      "t": 211.3,
+      "text": "That's true."
+    },
+    {
+      "t": 212.22,
+      "text": "How did you improve your presentation skills?"
+    },
+    {
+      "t": 215.26,
+      "text": "Practice."
+    },
+    {
+      "t": 216.2,
+      "text": "That's usually the best answer."
+    },
+    {
+      "t": 218.42,
+      "text": "The more presentations I gave,"
+    },
+    {
+      "t": 220.18,
+      "text": "the more confident I became."
+    },
+    {
+      "t": 222.06,
+      "text": "That's a great example of skill development."
+    },
+    {
+      "t": 225.06,
+      "text": "Exactly."
+    },
+    {
+      "t": 226.16,
+      "text": "Now, let me ask you another question."
+    },
+    {
+      "t": 228.94,
+      "text": "Sure."
+    },
+    {
+      "t": 229.94,
+      "text": "What about technical skills?"
+    },
+    {
+      "t": 232.46,
+      "text": "Those are also very important."
+    },
+    {
+      "t": 235.28,
+      "text": "Especially in many modern jobs."
+    },
+    {
+      "t": 237.42,
+      "text": "Yes, technology plays a big role in almost every industry."
+    },
+    {
+      "t": 241.58,
+      "text": "What technical skills are important in your job?"
+    },
+    {
+      "t": 244.98,
+      "text": "Data analysis is one of them."
+    },
+    {
+      "t": 246.88,
+      "text": "How do you use data analysis in marketing?"
+    },
+    {
+      "t": 250.0,
+      "text": "We analyze customer behavior and campaign performance."
+    },
+    {
+      "t": 253.72,
+      "text": "That helps you understand what works and what doesn't."
+    },
+    {
+      "t": 256.82,
+      "text": "Exactly."
+    },
+    {
+      "t": 257.82,
+      "text": "So how would you describe that skill?"
+    },
+    {
+      "t": 260.54,
+      "text": "I might say something like, I have strong analytical skills and experience using marketing"
+    },
+    {
+      "t": 266.18,
+      "text": "analytics tools."
+    },
+    {
+      "t": 267.98,
+      "text": "That sounds very professional."
+    },
+    {
+      "t": 270.18,
+      "text": "Thank you."
+    },
+    {
+      "t": 271.18,
+      "text": "Another technical skill I have is digital advertising management."
+    },
+    {
+      "t": 275.02,
+      "text": "What does that involve?"
+    },
+    {
+      "t": 276.98,
+      "text": "Managing online advertising campaigns."
+    },
+    {
+      "t": 279.5,
+      "text": "On platforms like social media?"
+    },
+    {
+      "t": 281.54,
+      "text": "Yes, social media platforms and search engines."
+    },
+    {
+      "t": 284.94,
+      "text": "That requires both creativity and technical knowledge."
+    },
+    {
+      "t": 288.54,
+      "text": "Exactly."
+    },
+    {
+      "t": 289.54,
+      "text": "Now let me share some of my skills."
+    },
+    {
+      "t": 292.1,
+      "text": "I would love to hear them."
+    },
+    {
+      "t": 293.7,
+      "text": "As a project manager, one of my strongest skills is organization."
+    },
+    {
+      "t": 298.94,
+      "text": "That makes sense."
+    },
+    {
+      "t": 300.02,
+      "text": "My job requires managing multiple tasks and deadlines."
+    },
+    {
+      "t": 303.9,
+      "text": "That can be very challenging."
+    },
+    {
+      "t": 305.5,
+      "text": "Yes, especially when working on several projects at the same time."
+    },
+    {
+      "t": 310.46,
+      "text": "How do you stay organized?"
+    },
+    {
+      "t": 311.94,
+      "text": "I use project management tools and detailed planning."
+    },
+    {
+      "t": 315.38,
+      "text": "That's a good strategy."
+    },
+    {
+      "t": 317.14,
+      "text": "I also create clear timelines for each project."
+    },
+    {
+      "t": 321.26,
+      "text": "Timelines help everyone stay on track."
+    },
+    {
+      "t": 323.46,
+      "text": "Exactly."
+    },
+    {
+      "t": 324.46,
+      "text": "So how would you describe your organizational skills in English?"
+    },
+    {
+      "t": 328.02,
+      "text": "I might say I have strong organizational and project management skills."
+    },
+    {
+      "t": 333.98,
+      "text": "That sounds clear and professional."
+    },
+    {
+      "t": 336.06,
+      "text": "Thank you."
+    },
+    {
+      "t": 337.06,
+      "text": "Do you also have leadership skills?"
+    },
+    {
+      "t": 339.1,
+      "text": "Yes, leadership is another important skill in my role."
+    },
+    {
+      "t": 342.78,
+      "text": "How do you demonstrate leadership?"
+    },
+    {
+      "t": 344.7,
+      "text": "I guide the team and make sure everyone understands their responsibilities."
+    },
+    {
+      "t": 349.42,
+      "text": "That's essential for project success."
+    },
+    {
+      "t": 351.66,
+      "text": "I also help resolve problems when challenges appear."
+    },
+    {
+      "t": 355.1,
+      "text": "Conflict resolution is an important leadership skill."
+    },
+    {
+      "t": 358.06,
+      "text": "Yes, sometimes team members have different opinions."
+    },
+    {
+      "t": 361.82,
+      "text": "And a good leader helps the team move forward."
+    },
+    {
+      "t": 364.54,
+      "text": "Exactly."
+    },
+    {
+      "t": 365.58,
+      "text": "How would you describe your leadership skills in English?"
+    },
+    {
+      "t": 368.62,
+      "text": "I might say I have experience leading cross-functional teams and coordinating complex projects."
+    },
+    {
+      "t": 375.5,
+      "text": "That's a great way to describe leadership experience."
+    },
+    {
+      "t": 378.14,
+      "text": "Thank you."
+    },
+    {
+      "t": 379.1,
+      "text": "Another important skill is problem solving."
+    },
+    {
+      "t": 382.06,
+      "text": "Absolutely."
+    },
+    {
+      "t": 383.42,
+      "text": "Employers value people who can solve problems effectively."
+    },
+    {
+      "t": 386.78,
+      "text": "Can you give an example?"
+    },
+    {
+      "t": 388.54,
+      "text": "Sure."
+    },
+    {
+      "t": 389.18,
+      "text": "Go ahead."
+    },
+    {
+      "t": 390.06,
+      "text": "Quote, in one project, our advertising campaign was not performing well."
+    },
+    {
+      "t": 394.78,
+      "text": "What happened?"
+    },
+    {
+      "t": 396.06,
+      "text": "The engagement rate was much lower than expected."
+    },
+    {
+      "t": 399.18,
+      "text": "That must have been frustrating."
+    },
+    {
+      "t": 401.42,
+      "text": "Yes, but we analyzed the data and identified the problem."
+    },
+    {
+      "t": 405.18,
+      "text": "What was the issue?"
+    },
+    {
+      "t": 406.78,
+      "text": "The target audience was too broad."
+    },
+    {
+      "t": 409.34,
+      "text": "So what did you do?"
+    },
+    {
+      "t": 411.18,
+      "text": "We refined the audience and adjusted the message."
+    },
+    {
+      "t": 414.3,
+      "text": "Did that improve the results?"
+    },
+    {
+      "t": 416.22,
+      "text": "Yes, the campaign performance improved significantly."
+    },
+    {
+      "t": 419.5,
+      "text": "That's a great example of problem solving."
+    },
+    {
+      "t": 422.14,
+      "text": "Exactly."
+    },
+    {
+      "t": 423.26,
+      "text": "Now, when describing your skills, examples are very helpful."
+    },
+    {
+      "t": 427.82,
+      "text": "Yes, because they show real experience."
+    },
+    {
+      "t": 430.46,
+      "text": "Instead of just saying, I am good at problem solving,"
+    },
+    {
+      "t": 433.98,
+      "text": "you can explain a situation where you solved a problem."
+    },
+    {
+      "t": 437.02,
+      "text": "That makes your answer stronger."
+    },
+    {
+      "t": 439.34,
+      "text": "And more convincing."
+    },
+    {
+      "t": 440.7,
+      "text": "Another useful skill to describe is teamwork."
+    },
+    {
+      "t": 444.14,
+      "text": "Yes, teamwork is essential in almost every job."
+    },
+    {
+      "t": 447.58,
+      "text": "Very few people work completely alone."
+    },
+    {
+      "t": 450.38,
+      "text": "That's true."
+    },
+    {
+      "t": 451.5,
+      "text": "most projects involve collaboration."
+    },
+    {
+      "t": 453.94,
+      "text": "So how would you describe teamwork skills?"
+    },
+    {
+      "t": 456.82,
+      "text": "You could say, I work well in team environments."
+    },
+    {
+      "t": 460.74,
+      "text": "Or I enjoy collaborating with colleagues"
+    },
+    {
+      "t": 463.48,
+      "text": "to achieve shared goals."
+    },
+    {
+      "t": 465.26,
+      "text": "That's a very good sentence."
+    },
+    {
+      "t": 467.46,
+      "text": "Thank you."
+    },
+    {
+      "t": 468.26,
+      "text": "Another useful phrase is cross-functional collaboration."
+    },
+    {
+      "t": 472.94,
+      "text": "That means working with different departments."
+    },
+    {
+      "t": 475.58,
+      "text": "Exactly."
+    },
+    {
+      "t": 476.58,
+      "text": "Such as marketing, finance, and operations."
+    },
+    {
+      "t": 479.78,
+      "text": "Those teams often need to cooperate."
+    },
+    {
+      "t": 482.94,
+      "text": "Yes, especially in large organizations."
+    },
+    {
+      "t": 485.76,
+      "text": "Let's talk about another important skill."
+    },
+    {
+      "t": 488.46,
+      "text": "Which one?"
+    },
+    {
+      "t": 489.28,
+      "text": "Time management."
+    },
+    {
+      "t": 490.82,
+      "text": "That is extremely important."
+    },
+    {
+      "t": 492.94,
+      "text": "Especially when you have many responsibilities."
+    },
+    {
+      "t": 496.14,
+      "text": "How do you manage your time effectively?"
+    },
+    {
+      "t": 498.34,
+      "text": "I prioritize tasks based on urgency and importance."
+    },
+    {
+      "t": 502.86,
+      "text": "That's a smart strategy."
+    },
+    {
+      "t": 504.3,
+      "text": "I also break large tasks into smaller steps."
+    },
+    {
+      "t": 508.14,
+      "text": "That makes projects feel more manageable."
+    },
+    {
+      "t": 510.62,
+      "text": "Exactly."
+    },
+    {
+      "t": 511.54,
+      "text": "So how would you describe your time management skills?"
+    },
+    {
+      "t": 514.82,
+      "text": "I might say I have strong time management skills"
+    },
+    {
+      "t": 518.9,
+      "text": "and consistently meet deadlines."
+    },
+    {
+      "t": 521.18,
+      "text": "That's a great statement."
+    },
+    {
+      "t": 522.62,
+      "text": "Employers always appreciate reliability."
+    },
+    {
+      "t": 525.94,
+      "text": "Absolutely."
+    },
+    {
+      "t": 527.06,
+      "text": "Another skill many people talk about is adaptability."
+    },
+    {
+      "t": 531.1,
+      "text": "Yes, especially in today's fast changing work environment."
+    },
+    {
+      "t": 534.62,
+      "text": "Companies often go through changes."
+    },
+    {
+      "t": 537.18,
+      "text": "New technologies, new strategies, new markets."
+    },
+    {
+      "t": 540.78,
+      "text": "So employees need to adapt quickly."
+    },
+    {
+      "t": 543.62,
+      "text": "How would you describe adaptability?"
+    },
+    {
+      "t": 545.82,
+      "text": "You could say, I'm adaptable and comfortable working in dynamic environments."
+    },
+    {
+      "t": 551.18,
+      "text": "That's very professional."
+    },
+    {
+      "t": 552.62,
+      "text": "Thank you."
+    },
+    {
+      "t": 553.82,
+      "text": "Let's also talk about learning skills."
+    },
+    {
+      "t": 556.7,
+      "text": "Lifelong learning is very important today."
+    },
+    {
+      "t": 559.34,
+      "text": "Technology and industries change quickly."
+    },
+    {
+      "t": 562.62,
+      "text": "So professionals must continue learning."
+    },
+    {
+      "t": 565.14,
+      "text": "How do you usually learn new skills?"
+    },
+    {
+      "t": 567.54,
+      "text": "I take online courses and attend workshops."
+    },
+    {
+      "t": 570.34,
+      "text": "That's a great habit."
+    },
+    {
+      "t": 571.94,
+      "text": "I also learn a lot from colleagues."
+    },
+    {
+      "t": 574.18,
+      "text": "Learning from others is very valuable."
+    },
+    {
+      "t": 577.06,
+      "text": "Yes, experience sharing helps everyone grow."
+    },
+    {
+      "t": 580.34,
+      "text": "How would you describe your learning ability?"
+    },
+    {
+      "t": 582.74,
+      "text": "I might say something like,"
+    },
+    {
+      "t": 584.74,
+      "text": "I'm a quick learner and always eager to develop new skills."
+    },
+    {
+      "t": 588.42,
+      "text": "That's a very positive statement."
+    },
+    {
+      "t": 590.58,
+      "text": "Thank you."
+    },
+    {
+      "t": 591.3,
+      "text": "Before we finish, let's review a few useful phrases."
+    },
+    {
+      "t": 595.14,
+      "text": "Good idea."
+    },
+    {
+      "t": 596.14,
+      "text": "Here are some examples you can use when describing your skills."
+    },
+    {
+      "t": 599.22,
+      "text": "I have strong communication skills."
+    },
+    {
+      "t": 601.9,
+      "text": "I have experience working with cross-functional teams."
+    },
+    {
+      "t": 605.06,
+      "text": "I'm highly organized and detail-oriented."
+    },
+    {
+      "t": 608.46,
+      "text": "I have strong analytical and problem-solving skills."
+    },
+    {
+      "t": 611.86,
+      "text": "I'm comfortable managing multiple projects at the same time."
+    },
+    {
+      "t": 615.62,
+      "text": "I'm adaptable and open to learning new technologies."
+    },
+    {
+      "t": 619.1,
+      "text": "These phrases can help you sound confident and professional, especially during interviews"
+    },
+    {
+      "t": 624.36,
+      "text": "or professional conversations."
+    },
+    {
+      "t": 626.36,
+      "text": "Before we end today's podcast, we have a question for you."
+    },
+    {
+      "t": 630.08,
+      "text": "Yes, we would love to hear from you."
+    },
+    {
+      "t": 632.48,
+      "text": "What are your three strongest skills?"
+    },
+    {
+      "t": 635.08,
+      "text": "Try to describe them in English."
+    },
+    {
+      "t": 636.96,
+      "text": "You can say something like, one of my strongest skills is..."
+    },
+    {
+      "t": 640.84,
+      "text": "I also have experience in..."
+    },
+    {
+      "t": 643.8,
+      "text": "Another important skill I have is..."
+    },
+    {
+      "t": 646.44,
+      "text": "Practicing these sentences will help you improve your business English."
+    },
+    {
+      "t": 649.88,
+      "text": "And it will also prepare you for job interviews and professional conversations."
+    },
+    {
+      "t": 654.52,
+      "text": "Thank you so much for listening today."
+    },
+    {
+      "t": 656.46,
+      "text": "We hope this conversation helps you feel more confident when talking about your skills."
+    },
+    {
+      "t": 661.2,
+      "text": "Keep practicing English every day."
+    },
+    {
+      "t": 663.48,
+      "text": "And remember, your skills are valuable, so don't be afraid to talk about them."
+    },
+    {
+      "t": 668.64,
+      "text": "From both of…"
+    },
+    {
+      "t": 669.64,
+      "text": "Hi everyone."
+    },
+    {
+      "t": 670.64,
+      "text": "We are very happy you are here with us today."
+    },
+    {
+      "t": 673.2,
+      "text": "Hello everyone."
+    },
+    {
+      "t": 674.2,
+      "text": "My name is David."
+    },
+    {
+      "t": 675.36,
+      "text": "And my name is Erica."
+    },
+    {
+      "t": 676.96,
+      "text": "Welcome back to our Business English Conversation channel."
+    },
+    {
+      "t": 680.4,
+      "text": "On this channel, we help you practice English for work, interviews, and professional situations."
+    },
+    {
+      "t": 686.16,
+      "text": "That's right."
+    },
+    {
+      "t": 687.26,
+      "text": "Business English is very important if you want to communicate at work and describe your"
+    },
+    {
+      "t": 691.96,
+      "text": "skills."
+    },
+    {
+      "t": 692.96,
+      "text": "Many jobs require you to talk about your abilities in interviews and meetings."
+    },
+    {
+      "t": 697.32,
+      "text": "So today, we will practice how to describe your skills in simple and professional English."
+    },
+    {
+      "t": 703.32,
+      "text": "We will use easy phrases so you can understand and practice."
+    },
+    {
+      "t": 707.14,
+      "text": "If you enjoy learning with us, please like this video and subscribe to our channel."
+    },
+    {
+      "t": 712.32,
+      "text": "It really helps us make more lessons for you."
+    },
+    {
+      "t": 714.92,
+      "text": "Thank you so much."
+    },
+    {
+      "t": 715.92,
+      "text": "Let's start our conversation."
+    },
+    {
+      "t": 718.0,
+      "text": "Good idea."
+    },
+    {
+      "t": 719.0,
+      "text": "Mia, how are you today?"
+    },
+    {
+      "t": 720.52,
+      "text": "I am good, thank you."
+    },
+    {
+      "t": 721.8,
+      "text": "A little busy, but that is fine."
+    },
+    {
+      "t": 724.04,
+      "text": "Being busy usually means you are working on important tasks."
+    },
+    {
+      "t": 727.8,
+      "text": "Yes, I was working on a small project this morning."
+    },
+    {
+      "t": 730.92,
+      "text": "That sounds interesting."
+    },
+    {
+      "t": 732.28,
+      "text": "What kind of project was it?"
+    },
+    {
+      "t": 733.96,
+      "text": "It was a marketing project."
+    },
+    {
+      "t": 735.56,
+      "text": "We were planning ideas for an advertisement campaign."
+    },
+    {
+      "t": 738.92,
+      "text": "Marketing projects require creativity and planning."
+    },
+    {
+      "t": 742.0,
+      "text": "Exactly."
+    },
+    {
+      "t": 743.16,
+      "text": "Marketing is about communication and understanding customers."
+    },
+    {
+      "t": 746.44,
+      "text": "That reminds me of today's topic."
+    },
+    {
+      "t": 748.52,
+      "text": "Yes, we are talking about how to describe your skills in English."
+    },
+    {
+      "t": 752.8,
+      "text": "Describing skills is important in job interviews and professional situations."
+    },
+    {
+      "t": 757.96,
+      "text": "Employers want to know what you can do and how you can help their company."
+    },
+    {
+      "t": 761.56,
+      "text": "So let's practice simple ways to explain your abilities."
+    },
+    {
+      "t": 765.62,
+      "text": "Good idea."
+    },
+    {
+      "t": 766.62,
+      "text": "Let's start with the basic question."
+    },
+    {
+      "t": 768.52,
+      "text": "What is a skill?"
+    },
+    {
+      "t": 769.96,
+      "text": "A skill is something you can do well because of practice or experience."
+    },
+    {
+      "t": 775.16,
+      "text": "Skills can be technical, like using a computer, or soft skills, like communication."
+    },
+    {
+      "t": 780.4,
+      "text": "Technical skills are abilities related to tools or technology."
+    },
+    {
+      "t": 784.38,
+      "text": "For example, Microsoft Excel, programming, or data analysis."
+    },
+    {
+      "t": 789.06,
+      "text": "skills are abilities related to working with people like teamwork, problem"
+    },
+    {
+      "t": 793.94,
+      "text": "solving, and communication. Both types of skills are important in business."
+    },
+    {
+      "t": 798.26,
+      "text": "Absolutely. Employers need people who can work with technology and people. Let's"
+    },
+    {
+      "t": 803.86,
+      "text": "start with technical skills. How can you describe them? You can say, I have"
+    },
+    {
+      "t": 808.74,
+      "text": "experience using Microsoft Excel. That is a clear and professional sentence. You"
+    },
+    {
+      "t": 814.22,
+      "text": "You can also add details."
+    },
+    {
+      "t": 815.78,
+      "text": "For example, I use Excel to create reports and analyze data."
+    },
+    {
+      "t": 820.5,
+      "text": "That shows both the skill and its purpose."
+    },
+    {
+      "t": 823.42,
+      "text": "Exactly."
+    },
+    {
+      "t": 824.42,
+      "text": "It helps employers understand how you use your skills."
+    },
+    {
+      "t": 827.54,
+      "text": "Can you give another example?"
+    },
+    {
+      "t": 829.34,
+      "text": "Sure."
+    },
+    {
+      "t": 830.34,
+      "text": "I have experience using PowerPoint to create presentations."
+    },
+    {
+      "t": 833.9,
+      "text": "That is very useful in business meetings."
+    },
+    {
+      "t": 836.46,
+      "text": "Yes."
+    },
+    {
+      "t": 837.7,
+      "text": "Presentations help communicate ideas clearly."
+    },
+    {
+      "t": 840.18,
+      "text": "What about IT skills?"
+    },
+    {
+      "t": 842.04,
+      "text": "You can say, I have basic IT skills and can troubleshoot simple computer problems."
+    },
+    {
+      "t": 847.96,
+      "text": "Troubleshoot means solving technical problems."
+    },
+    {
+      "t": 850.4,
+      "text": "Exactly."
+    },
+    {
+      "t": 851.4,
+      "text": "It is a useful word in business and technology."
+    },
+    {
+      "t": 854.24,
+      "text": "Let's practice a full example."
+    },
+    {
+      "t": 856.32,
+      "text": "Okay."
+    },
+    {
+      "t": 857.32,
+      "text": "I have technical skills in Microsoft Office."
+    },
+    {
+      "t": 860.12,
+      "text": "I use Excel to organize data and create reports."
+    },
+    {
+      "t": 863.8,
+      "text": "I also use PowerPoint to prepare presentations."
+    },
+    {
+      "t": 867.0,
+      "text": "I can troubleshoot basic computer problems and learn new tools quickly."
+    },
+    {
+      "t": 871.56,
+      "text": "That is a great explanation, clear and professional."
+    },
+    {
+      "t": 875.18,
+      "text": "Thank you."
+    },
+    {
+      "t": 876.18,
+      "text": "Now let's talk about soft skills."
+    },
+    {
+      "t": 878.18,
+      "text": "Soft skills are very important in teamwork and communication."
+    },
+    {
+      "t": 882.64,
+      "text": "Employers value soft skills because they help people work together."
+    },
+    {
+      "t": 886.3,
+      "text": "For example, communication skills."
+    },
+    {
+      "t": 888.74,
+      "text": "You can say, I communicate clearly in meetings and emails."
+    },
+    {
+      "t": 892.9,
+      "text": "That is simple and professional."
+    },
+    {
+      "t": 894.86,
+      "text": "You can also add an example."
+    },
+    {
+      "t": 896.62,
+      "text": "I explained ideas in a team meeting and helped the project succeed."
+    },
+    {
+      "t": 901.26,
+      "text": "shows how your skill creates results. Exactly. Results are important in business."
+    },
+    {
+      "t": 907.14,
+      "text": "What about teamwork skills? You can say, I work well in teams and collaborate with colleagues."
+    },
+    {
+      "t": 913.98,
+      "text": "Collaborate means working together. Yes. Teamwork is about cooperation and shared"
+    },
+    {
+      "t": 918.58,
+      "text": "goals. Let's practice an example. Okay. I have strong teamwork skills. I work well"
+    },
+    {
+      "t": 924.8,
+      "text": "with colleagues and help complete projects. I listen to ideas and contribute to problem"
+    },
+    {
+      "t": 929.82,
+      "text": "problem solving. That is very professional. Thank you. Now let's talk about problem solving"
+    },
+    {
+      "t": 935.08,
+      "text": "skills. Problem solving is an important business skill. Businesses need people who can find"
+    },
+    {
+      "t": 940.56,
+      "text": "solutions to challenges. You can say, I am good at problem solving. That is simple."
+    },
+    {
+      "t": 946.76,
+      "text": "You can also add details. I analyze problems and find practical solutions. Analyze means"
+    },
+    {
+      "t": 953.08,
+      "text": "studying a problem carefully. Exactly. Analysis helps you understand challenges"
+    },
+    {
+      "t": 958.6,
+      "text": "and find solutions."
+    },
+    {
+      "t": 959.94,
+      "text": "Let's practice an example."
+    },
+    {
+      "t": 961.7,
+      "text": "Okay."
+    },
+    {
+      "t": 962.62,
+      "text": "I have problem-solving skills."
+    },
+    {
+      "t": 964.54,
+      "text": "I analyze situations and find solutions."
+    },
+    {
+      "t": 967.7,
+      "text": "For example, I resolved a customer issue"
+    },
+    {
+      "t": 970.18,
+      "text": "by communicating with the team"
+    },
+    {
+      "t": 971.9,
+      "text": "and finding a quick solution."
+    },
+    {
+      "t": 973.54,
+      "text": "That is a great example."
+    },
+    {
+      "t": 975.42,
+      "text": "Thank you."
+    },
+    {
+      "t": 976.26,
+      "text": "Examples make your skills more believable."
+    },
+    {
+      "t": 978.74,
+      "text": "Now let's talk about organization skills."
+    },
+    {
+      "t": 981.94,
+      "text": "Organization skills help you plan tasks and manage time."
+    },
+    {
+      "t": 985.74,
+      "text": "You can say, I am good at organizing tasks."
+    },
+    {
+      "t": 989.38,
+      "text": "That is clear."
+    },
+    {
+      "t": 990.34,
+      "text": "You can also add details."
+    },
+    {
+      "t": 992.14,
+      "text": "I prioritize work and meet deadlines."
+    },
+    {
+      "t": 994.82,
+      "text": "Prioritize means deciding what is most important."
+    },
+    {
+      "t": 998.66,
+      "text": "Exactly."
+    },
+    {
+      "t": 999.42,
+      "text": "Prioritization helps with time management."
+    },
+    {
+      "t": 1002.02,
+      "text": "Let's practice an example."
+    },
+    {
+      "t": 1003.82,
+      "text": "OK."
+    },
+    {
+      "t": 1004.82,
+      "text": "I have strong organization skills."
+    },
+    {
+      "t": 1007.34,
+      "text": "I plan my tasks, meet deadlines,"
+    },
+    {
+      "t": 1009.78,
+      "text": "and manage my time effectively."
+    },
+    {
+      "t": 1011.86,
+      "text": "This helps me complete projects on schedule."
+    },
+    {
+      "t": 1014.46,
+      "text": "That is very professional."
+    },
+    {
+      "t": 1016.3,
+      "text": "Thank you."
+    },
+    {
+      "t": 1017.14,
+      "text": "Now let's talk about leadership skills."
+    },
+    {
+      "t": 1019.22,
+      "text": "Leadership skills are important"
+    },
+    {
+      "t": 1021.18,
+      "text": "in team roles and management."
+    },
+    {
+      "t": 1023.3,
+      "text": "Leadership means guiding and motivating others."
+    },
+    {
+      "t": 1026.42,
+      "text": "You can say, I have leadership experience."
+    },
+    {
+      "t": 1029.74,
+      "text": "That is good."
+    },
+    {
+      "t": 1030.66,
+      "text": "You can also add details."
+    },
+    {
+      "t": 1032.58,
+      "text": "I led a small team"
+    },
+    {
+      "t": 1034.14,
+      "text": "and helped complete a project successfully."
+    },
+    {
+      "t": 1036.54,
+      "text": "That shows responsibility and teamwork."
+    },
+    {
+      "t": 1039.4,
+      "text": "Exactly."
+    },
+    {
+      "t": 1040.24,
+      "text": "Leadership is about guiding others and achieving goals."
+    },
+    {
+      "t": 1043.66,
+      "text": "Let's practice an example."
+    },
+    {
+      "t": 1045.5,
+      "text": "Okay."
+    },
+    {
+      "t": 1046.46,
+      "text": "I have leadership experience."
+    },
+    {
+      "t": 1048.34,
+      "text": "I guided a team to complete a marketing project."
+    },
+    {
+      "t": 1051.5,
+      "text": "I organized tasks, communicated ideas,"
+    },
+    {
+      "t": 1054.22,
+      "text": "and ensured the project was finished on time."
+    },
+    {
+      "t": 1057.06,
+      "text": "That is a strong example."
+    },
+    {
+      "t": 1059.1,
+      "text": "Thank you."
+    },
+    {
+      "t": 1059.94,
+      "text": "Now let's talk about adaptability."
+    },
+    {
+      "t": 1062.06,
+      "text": "Adaptability means adjusting to new situations."
+    },
+    {
+      "t": 1065.9,
+      "text": "Businesses change, so employees must adapt."
+    },
+    {
+      "t": 1068.94,
+      "text": "You can say, I can adapt to new tasks and environments."
+    },
+    {
+      "t": 1073.58,
+      "text": "That is simple and professional."
+    },
+    {
+      "t": 1075.46,
+      "text": "Let's practice an example."
+    },
+    {
+      "t": 1077.1,
+      "text": "You can say, I am adaptable"
+    },
+    {
+      "t": 1079.6,
+      "text": "and can learn new skills quickly."
+    },
+    {
+      "t": 1082.06,
+      "text": "I adjust to changes and work effectively"
+    },
+    {
+      "t": 1084.9,
+      "text": "in different situations."
+    },
+    {
+      "t": 1086.52,
+      "text": "That is very clear."
+    },
+    {
+      "t": 1087.82,
+      "text": "Thank you."
+    },
+    {
+      "t": 1088.66,
+      "text": "Adaptability is an important skill"
+    },
+    {
+      "t": 1090.44,
+      "text": "in modern workplaces."
+    },
+    {
+      "t": 1091.98,
+      "text": "Now let's combine everything"
+    },
+    {
+      "t": 1094.1,
+      "text": "into a full skill description."
+    },
+    {
+      "t": 1096.46,
+      "text": "Good idea."
+    },
+    {
+      "t": 1097.38,
+      "text": "I will give an example."
+    },
+    {
+      "t": 1098.62,
+      "text": "Go ahead."
+    },
+    {
+      "t": 1099.5,
+      "text": "Okay."
+    },
+    {
+      "t": 1100.5,
+      "text": "I have strong technical and soft skills."
+    },
+    {
+      "t": 1103.5,
+      "text": "I use Microsoft Excel to create reports and analyze data."
+    },
+    {
+      "t": 1107.7,
+      "text": "I communicate clearly in meetings"
+    },
+    {
+      "t": 1109.58,
+      "text": "and work well with teams."
+    },
+    {
+      "t": 1111.42,
+      "text": "I am good at problem solving"
+    },
+    {
+      "t": 1113.02,
+      "text": "and finding practical solutions."
+    },
+    {
+      "t": 1115.06,
+      "text": "I also organize tasks effectively and meet deadlines."
+    },
+    {
+      "t": 1118.86,
+      "text": "I can adapt to new situations"
+    },
+    {
+      "t": 1120.82,
+      "text": "and learn new tools quickly."
+    },
+    {
+      "t": 1122.74,
+      "text": "That is an excellent description."
+    },
+    {
+      "t": 1124.9,
+      "text": "Thank you."
+    },
+    {
+      "t": 1125.74,
+      "text": "It is clear and professional."
+    },
+    {
+      "t": 1127.22,
+      "text": "Now let's practice another example."
+    },
+    {
+      "t": 1129.78,
+      "text": "Okay."
+    },
+    {
+      "t": 1130.82,
+      "text": "I have customer service skills."
+    },
+    {
+      "t": 1132.78,
+      "text": "I communicate politely with customers and help solve their problems."
+    },
+    {
+      "t": 1136.82,
+      "text": "I listen carefully and provide clear information."
+    },
+    {
+      "t": 1140.1,
+      "text": "I work well under pressure and handle difficult situations professionally."
+    },
+    {
+      "t": 1144.38,
+      "text": "That is perfect for customer service roles."
+    },
+    {
+      "t": 1146.9,
+      "text": "Yes, customer service requires communication and patience."
+    },
+    {
+      "t": 1150.98,
+      "text": "Let's summarize what we learned today."
+    },
+    {
+      "t": 1153.22,
+      "text": "We learned how to describe technical and soft skills."
+    },
+    {
+      "t": 1156.6,
+      "text": "We practiced examples for Excel, teamwork, problem solving, and leadership."
+    },
+    {
+      "t": 1162.36,
+      "text": "We also learned simple phrases for professional communication."
+    },
+    {
+      "t": 1166.36,
+      "text": "Skills are important in interviews and workplace conversations."
+    },
+    {
+      "t": 1170.0,
+      "text": "Yes, describing skills clearly helps career opportunities."
+    },
+    {
+      "t": 1174.16,
+      "text": "Now it's your turn to practice."
+    },
+    {
+      "t": 1176.36,
+      "text": "Here is your question of the day."
+    },
+    {
+      "t": 1178.12,
+      "text": "Can you describe three skills you have?"
+    },
+    {
+      "t": 1180.84,
+      "text": "Try to give examples of how you use these skills."
+    },
+    {
+      "t": 1183.92,
+      "text": "You can write simple sentences in English."
+    },
+    {
+      "t": 1186.72,
+      "text": "Any practice is good practice."
+    },
+    {
+      "t": 1188.88,
+      "text": "Thank you for joining us today."
+    },
+    {
+      "t": 1190.52,
+      "text": "We hope this conversation helps you improve your business English."
+    },
+    {
+      "t": 1194.12,
+      "text": "Keep practicing and learning."
+    },
+    {
+      "t": 1196.2,
+      "text": "Business English is a valuable skill."
+    },
+    {
+      "t": 1198.28,
+      "text": "Have a great day."
+    },
+    {
+      "t": 1199.36,
+      "text": "And we will see you next time."
+    },
+    {
+      "t": 1200.68,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1201.68,
+      "text": "Bye."
+    },
+    {
+      "t": 1202.68,
+      "text": "Hello, everyone, and welcome back to our English Learning Podcast."
+    },
+    {
+      "t": 1206.2,
+      "text": "We're really glad you're here with us today."
+    },
+    {
+      "t": 1208.34,
+      "text": "If this is your first time listening, this podcast is designed to help you improve your"
+    },
+    {
+      "t": 1212.72,
+      "text": "English by listening to natural conversations about real professional situations."
+    },
+    {
+      "t": 1218.32,
+      "text": "That's right."
+    },
+    {
+      "t": 1219.32,
+      "text": "focus on practical English that you can actually use in the workplace, whether you're speaking"
+    },
+    {
+      "t": 1223.8,
+      "text": "with colleagues, attending meetings, preparing for job interviews, or presenting your ideas."
+    },
+    {
+      "t": 1229.36,
+      "text": "I'm Speaker 2, and as always, I'm here with Speaker 1."
+    },
+    {
+      "t": 1233.04,
+      "text": "Thanks."
+    },
+    {
+      "t": 1234.04,
+      "text": "Today, we're going to talk about a very important topic for professionals, how to describe"
+    },
+    {
+      "t": 1238.52,
+      "text": "your skills in English."
+    },
+    {
+      "t": 1240.4,
+      "text": "Yes, this is something many people struggle with."
+    },
+    {
+      "t": 1243.76,
+      "text": "They may have strong skills and valuable experience, but when it's time to explain"
+    },
+    {
+      "t": 1248.56,
+      "text": "In those skills in English, they sometimes feel unsure about what to say or how to say"
+    },
+    {
+      "t": 1253.72,
+      "text": "it."
+    },
+    {
+      "t": 1254.72,
+      "text": "Exactly."
+    },
+    {
+      "t": 1255.72,
+      "text": "In this situation can happen in many contexts."
+    },
+    {
+      "t": 1258.0,
+      "text": "For example, during a job interview, during a performance review with your manager, while"
+    },
+    {
+      "t": 1262.76,
+      "text": "networking at a professional event, or even during a casual conversation with colleagues."
+    },
+    {
+      "t": 1268.56,
+      "text": "Sometimes people simply list their skills."
+    },
+    {
+      "t": 1270.84,
+      "text": "They might say, I'm good at communication, or I'm good at teamwork, but they don't"
+    },
+    {
+      "t": 1275.6,
+      "text": "explain what that actually means in practice."
+    },
+    {
+      "t": 1278.72,
+      "text": "That's a great point. When describing your skills, it's usually better to explain them"
+    },
+    {
+      "t": 1283.28,
+      "text": "with examples in real experiences. That makes your explanation more convincing and easier"
+    },
+    {
+      "t": 1288.58,
+      "text": "to understand."
+    },
+    {
+      "t": 1289.58,
+      "text": "So, today we're going to have a conversation where one professional explains their skills"
+    },
+    {
+      "t": 1294.68,
+      "text": "to a colleague. Throughout the discussion, you'll hear useful vocabulary, natural"
+    },
+    {
+      "t": 1299.5,
+      "text": "expressions, and clear ways to talk about your abilities in English."
+    },
+    {
+      "t": 1303.92,
+      "text": "Let's imagine this situation."
+    },
+    {
+      "t": 1305.84,
+      "text": "Two colleagues are having a discussion after a team workshop."
+    },
+    {
+      "t": 1309.48,
+      "text": "The topic of professional skills comes up, and Speaker 2 asks Speaker 1 to talk about"
+    },
+    {
+      "t": 1315.2,
+      "text": "their strengths at work."
+    },
+    {
+      "t": 1317.08,
+      "text": "Alright, let's start the conversation."
+    },
+    {
+      "t": 1319.92,
+      "text": "So during the workshop earlier today, everyone briefly talked about their strengths and areas"
+    },
+    {
+      "t": 1325.02,
+      "text": "of expertise."
+    },
+    {
+      "t": 1326.28,
+      "text": "I noticed that you mentioned a few interesting skills, but we didn't really have time"
+    },
+    {
+      "t": 1330.4,
+      "text": "to go into detail."
+    },
+    {
+      "t": 1331.6,
+      "text": "I'd be curious to hear more about them."
+    },
+    {
+      "t": 1334.0,
+      "text": "How would you describe your main professional skills?"
+    },
+    {
+      "t": 1337.2,
+      "text": "That's a good question."
+    },
+    {
+      "t": 1338.2,
+      "text": "I'd say my main strengths are problem-solving, communication, and project coordination."
+    },
+    {
+      "t": 1344.88,
+      "text": "Over the years, those are the areas where I've developed the most experience."
+    },
+    {
+      "t": 1349.2,
+      "text": "Let's start with problem-solving."
+    },
+    {
+      "t": 1351.2,
+      "text": "That's a skill many employers value."
+    },
+    {
+      "t": 1353.28,
+      "text": "How would you explain your problem-solving ability in your work?"
+    },
+    {
+      "t": 1357.08,
+      "text": "For me, problem solving means being able to analyze a situation, identify the root"
+    },
+    {
+      "t": 1362.18,
+      "text": "cause of an issue, and then develop practical solutions."
+    },
+    {
+      "t": 1366.06,
+      "text": "In my role, I often deal with operational challenges, so I need to evaluate different options and"
+    },
+    {
+      "t": 1371.6,
+      "text": "decide which solution will be the most effective."
+    },
+    {
+      "t": 1374.78,
+      "text": "Can you give an example of a situation where you used that skill?"
+    },
+    {
+      "t": 1378.58,
+      "text": "Sure."
+    },
+    {
+      "t": 1379.58,
+      "text": "Last year, our team faced a situation where several project deadlines were being delayed"
+    },
+    {
+      "t": 1384.08,
+      "text": "because communication between departments wasn't very clear."
+    },
+    {
+      "t": 1387.78,
+      "text": "Tasks were being duplicated and some important steps were being missed entirely."
+    },
+    {
+      "t": 1392.78,
+      "text": "That sounds frustrating."
+    },
+    {
+      "t": 1394.28,
+      "text": "It definitely was, so I decided to analyze the workflow more carefully."
+    },
+    {
+      "t": 1399.58,
+      "text": "I spoke with team members from different departments to understand how information was being shared."
+    },
+    {
+      "t": 1404.98,
+      "text": "After gathering that information, I realized that there wasn't a clear communication structure."
+    },
+    {
+      "t": 1410.38,
+      "text": "So the problem wasn't the people, it was the process."
+    },
+    {
+      "t": 1413.68,
+      "text": "Exactly. Once we identified that issue, I proposed a solution."
+    },
+    {
+      "t": 1418.64,
+      "text": "We created a shared project dashboard where every team could track tasks, deadlines, and responsibilities."
+    },
+    {
+      "t": 1425.68,
+      "text": "That sounds like a simple bit effective improvement."
+    },
+    {
+      "t": 1428.4,
+      "text": "Yes, and once we implemented it, the situation improved quickly."
+    },
+    {
+      "t": 1432.32,
+      "text": "Deadlines became easier to manage, and everyone had better visibility into the progress of each project."
+    },
+    {
+      "t": 1438.32,
+      "text": "That's a great example of problem solving."
+    },
+    {
+      "t": 1440.64,
+      "text": "You identified the cause of the issue and introduced a solution that improved the workflow."
+    },
+    {
+      "t": 1445.76,
+      "text": "Exactly. That's how I usually approach challenges at work."
+    },
+    {
+      "t": 1449.36,
+      "text": "I try to understand the situation thoroughly before suggesting changes."
+    },
+    {
+      "t": 1454.0,
+      "text": "Now let's talk about your communication skills."
+    },
+    {
+      "t": 1456.96,
+      "text": "Communication is a broad area, so how would you describe your strengths there?"
+    },
+    {
+      "t": 1461.76,
+      "text": "I think my communication strength comes from being able to explain ideas clearly"
+    },
+    {
+      "t": 1466.8,
+      "text": "and adapt my message depending on the audience."
+    },
+    {
+      "t": 1469.84,
+      "text": "What do you mean by adapting your message?"
+    },
+    {
+      "t": 1472.8,
+      "text": "Well, for example, when I speak with technical teams,"
+    },
+    {
+      "t": 1475.76,
+      "text": "I can use more detailed and technical language."
+    },
+    {
+      "t": 1478.96,
+      "text": "But when I present information to senior management"
+    },
+    {
+      "t": 1481.84,
+      "text": "or non-technical colleagues, I focus more on the business"
+    },
+    {
+      "t": 1485.48,
+      "text": "impact and the key results rather than technical details."
+    },
+    {
+      "t": 1489.48,
+      "text": "That's a very valuable skill."
+    },
+    {
+      "t": 1491.24,
+      "text": "Not everyone can adjust their communication style like that."
+    },
+    {
+      "t": 1494.68,
+      "text": "Yes, and I've learned that effective communication is not"
+    },
+    {
+      "t": 1497.96,
+      "text": "just about speaking clearly. It's also about listening carefully and understanding what"
+    },
+    {
+      "t": 1503.24,
+      "text": "other people need."
+    },
+    {
+      "t": 1504.24,
+      "text": "That's a good point. Listening is often overlooked, but it's essential."
+    },
+    {
+      "t": 1508.52,
+      "text": "Absolutely. In meetings, I try to listen actively and ask questions if something isn't clear."
+    },
+    {
+      "t": 1514.96,
+      "text": "That helps avoid misunderstandings and ensures that everyone is aligned."
+    },
+    {
+      "t": 1519.3,
+      "text": "Have you had situations where your communication skills helped resolve a difficult situation?"
+    },
+    {
+      "t": 1524.48,
+      "text": "Yes, definitely. I remember one situation where two departments disagreed about how to"
+    },
+    {
+      "t": 1530.22,
+      "text": "allocate resources for a project. Each team believed their priorities were more important."
+    },
+    {
+      "t": 1536.1,
+      "text": "That kind of conflict can slow down progress."
+    },
+    {
+      "t": 1539.1,
+      "text": "Exactly. So I organized a meeting where both teams could explain their perspectives. During"
+    },
+    {
+      "t": 1545.14,
+      "text": "the discussion, I focused on clarifying the project goals and encouraging both sides"
+    },
+    {
+      "t": 1550.14,
+      "text": "to consider the bigger picture."
+    },
+    {
+      "t": 1552.38,
+      "text": "And what happened in the end?"
+    },
+    {
+      "t": 1554.38,
+      "text": "we reached a compromise. Both departments adjusted their plans slightly and we were able to move"
+    },
+    {
+      "t": 1559.82,
+      "text": "forward without delaying the project. That's a great demonstration of communication and"
+    },
+    {
+      "t": 1564.7,
+      "text": "negotiation skills. Yes, and experiences like that have helped me become more confident when"
+    },
+    {
+      "t": 1570.62,
+      "text": "facilitating discussions between different teams. Now let's move on to your third skill,"
+    },
+    {
+      "t": 1576.14,
+      "text": "project coordination. What does that involve in your daily work? Project coordination involves"
+    },
+    {
+      "t": 1582.14,
+      "text": "organizing tasks, managing timelines, and ensuring that everyone involved in the project"
+    },
+    {
+      "t": 1587.5,
+      "text": "understands their responsibilities. So you're basically keeping the project on track."
+    },
+    {
+      "t": 1592.46,
+      "text": "Exactly. I work closely with team members to make sure tasks are completed on time"
+    },
+    {
+      "t": 1598.14,
+      "text": "and that any potential risks are addressed early."
+    },
+    {
+      "t": 1601.26,
+      "text": "That sounds like a role that requires strong organizational skills."
+    },
+    {
+      "t": 1605.02,
+      "text": "It definitely does. I rely on planning tools, progress reports, and regular check-in meetings"
+    },
+    {
+      "t": 1611.1,
+      "text": "to keep everything organized."
+    },
+    {
+      "t": 1613.18,
+      "text": "How do you usually start coordinating a new project?"
+    },
+    {
+      "t": 1616.54,
+      "text": "The first step is usually defining the project objectives and creating a clear timeline."
+    },
+    {
+      "t": 1622.18,
+      "text": "I work with the team to break the project into smaller tasks and assign responsibilities."
+    },
+    {
+      "t": 1627.74,
+      "text": "That helps make the project more manageable."
+    },
+    {
+      "t": 1630.22,
+      "text": "Exactly."
+    },
+    {
+      "t": 1631.42,
+      "text": "Large projects can feel overwhelming, so dividing them into smaller tasks makes it easier"
+    },
+    {
+      "t": 1636.7,
+      "text": "for everyone to stay focused and productive."
+    },
+    {
+      "t": 1639.64,
+      "text": "Have you always been comfortable with project coordination, or did you develop that skill"
+    },
+    {
+      "t": 1643.72,
+      "text": "over time?"
+    },
+    {
+      "t": 1644.8,
+      "text": "I definitely developed it over time."
+    },
+    {
+      "t": 1647.56,
+      "text": "Early in my career, I focused more on completing individual tasks."
+    },
+    {
+      "t": 1651.96,
+      "text": "But as I gained more experience, I started taking on responsibilities that involved coordinating"
+    },
+    {
+      "t": 1657.06,
+      "text": "larger initiatives."
+    },
+    {
+      "t": 1658.92,
+      "text": "That's often how professional growth happens."
+    },
+    {
+      "t": 1661.2,
+      "text": "Yes, and I've also learned a lot by observing experienced managers and project leaders, watching"
+    },
+    {
+      "t": 1667.04,
+      "text": "how they organize work and communicate with teams has been very valuable."
+    },
+    {
+      "t": 1671.64,
+      "text": "Another skill people often talk about is adaptability."
+    },
+    {
+      "t": 1674.92,
+      "text": "Would you say that's also one of your strengths?"
+    },
+    {
+      "t": 1677.16,
+      "text": "Yes, I think adaptability is very important in today's workplace."
+    },
+    {
+      "t": 1681.76,
+      "text": "Things change quickly, especially when you're working on multiple projects."
+    },
+    {
+      "t": 1685.88,
+      "text": "Can you give an example of how you've demonstrated adaptability?"
+    },
+    {
+      "t": 1689.2,
+      "text": "Sure."
+    },
+    {
+      "t": 1690.2,
+      "text": "There was a time when one of our major projects suddenly changed direction because"
+    },
+    {
+      "t": 1694.72,
+      "text": "the client introduced new requirements. We had already completed a significant portion"
+    },
+    {
+      "t": 1700.04,
+      "text": "of the work, so we had to adjust our plans quickly."
+    },
+    {
+      "t": 1703.84,
+      "text": "That must have been challenging."
+    },
+    {
+      "t": 1705.4,
+      "text": "It was, but instead of focusing on the disruption, our team focused on finding solutions. We"
+    },
+    {
+      "t": 1711.48,
+      "text": "reorganized our tasks, updated the timeline, and prioritized the new requirements."
+    },
+    {
+      "t": 1717.44,
+      "text": "And were you able to deliver the project successfully?"
+    },
+    {
+      "t": 1719.96,
+      "text": "Yes, we were. The project was completed a little later than originally planned, but the client was"
+    },
+    {
+      "t": 1725.32,
+      "text": "satisfied because we adapted to their needs and delivered a high-quality result."
+    },
+    {
+      "t": 1730.36,
+      "text": "That's a great example of adaptability and teamwork."
+    },
+    {
+      "t": 1733.48,
+      "text": "Exactly. In many workplaces, flexibility and a positive attitude toward change are essential"
+    },
+    {
+      "t": 1739.8,
+      "text": "skills. Another skill that employers often value is leadership. Would you say you have"
+    },
+    {
+      "t": 1744.76,
+      "text": "developed leadership abilities as well? Yes, although I'm still developing that area. Leadership"
+    },
+    {
+      "t": 1750.84,
+      "text": "doesn't always mean managing a large team. Sometimes it simply means taking initiative"
+    },
+    {
+      "t": 1756.2,
+      "text": "and helping guide a group toward a common goal. That's a very good definition of leadership."
+    },
+    {
+      "t": 1761.48,
+      "text": "For example, during team projects I often volunteer to organize meetings, track progress,"
+    },
+    {
+      "t": 1767.24,
+      "text": "and help colleagues if they encounter challenges. Those are definitely leadership behaviors."
+    },
+    {
+      "t": 1772.36,
+      "text": "Yes, and I've noticed that when someone takes responsibility for coordinating efforts,"
+    },
+    {
+      "t": 1777.44,
+      "text": "it helps the entire team work more efficiently."
+    },
+    {
+      "t": 1780.64,
+      "text": "When you describe your skills like this, it becomes much clearer what you actually do and"
+    },
+    {
+      "t": 1785.4,
+      "text": "how you contribute to a team."
+    },
+    {
+      "t": 1787.48,
+      "text": "That's true."
+    },
+    {
+      "t": 1788.48,
+      "text": "Simply listing skills isn't enough."
+    },
+    {
+      "t": 1790.84,
+      "text": "It's much better to explain how you use those skills in real situations."
+    },
+    {
+      "t": 1795.52,
+      "text": "That's a very important point for anyone learning professional English."
+    },
+    {
+      "t": 1799.1,
+      "text": "When someone asks about your skills, try to describe them with examples from your work"
+    },
+    {
+      "t": 1803.3,
+      "text": "experience."
+    },
+    {
+      "t": 1804.3,
+      "text": "Exactly."
+    },
+    {
+      "t": 1805.58,
+      "text": "You can talk about challenges you faced, actions you took, and the results you achieved."
+    },
+    {
+      "t": 1810.5,
+      "text": "That makes your explanation more interesting and more persuasive."
+    },
+    {
+      "t": 1814.02,
+      "text": "I also think confidence plays a role."
+    },
+    {
+      "t": 1816.34,
+      "text": "Sometimes people feel uncomfortable talking about their own strengths."
+    },
+    {
+      "t": 1819.98,
+      "text": "That's true, but describing your skills isn't about bragging."
+    },
+    {
+      "t": 1823.94,
+      "text": "It's simply about explaining what you can contribute to a team or organization."
+    },
+    {
+      "t": 1828.62,
+      "text": "And when you explain your abilities clearly, it helps others understand your value."
+    },
+    {
+      "t": 1833.14,
+      "text": "Exactly."
+    },
+    {
+      "t": 1834.14,
+      "text": "Whether you're applying for a job, collaborating with colleagues, or presenting your ideas,"
+    },
+    {
+      "t": 1839.46,
+      "text": "being able to describe your skills effectively is extremely useful."
+    },
+    {
+      "t": 1843.7,
+      "text": "Well this has been a really helpful discussion."
+    },
+    {
+      "t": 1845.9,
+      "text": "I agree."
+    },
+    {
+      "t": 1846.9,
+      "text": "Hopefully our listeners now feel more confident about talking about their own skills in English."
+    },
+    {
+      "t": 1852.22,
+      "text": "Thank you all for listening to today's episode."
+    },
+    {
+      "t": 1854.78,
+      "text": "And remember, the best way to improve your English..."
+    },
+    {
+      "t": 1857.62,
+      "text": "Hello everyone, and welcome back to our English Learning Podcast."
+    },
+    {
+      "t": 1861.58,
+      "text": "Today we're going to talk about another very important communication skill in English."
+    },
+    {
+      "t": 1866.5,
+      "text": "The topic of today's conversation is how to describe your skills in English."
+    },
+    {
+      "t": 1871.48,
+      "text": "This is something many people need to do in different situations."
+    },
+    {
+      "t": 1875.24,
+      "text": "You might need to describe your skills during a job interview, when introducing yourself"
+    },
+    {
+      "t": 1879.64,
+      "text": "to colleagues, while networking, or even when writing your resume."
+    },
+    {
+      "t": 1883.86,
+      "text": "Yes, that's right."
+    },
+    {
+      "t": 1885.54,
+      "text": "about your skills can sometimes feel uncomfortable, especially for people who are not used to"
+    },
+    {
+      "t": 1890.02,
+      "text": "speaking about their achievements."
+    },
+    {
+      "t": 1892.06,
+      "text": "Some people feel shy while others are not sure which words to use."
+    },
+    {
+      "t": 1896.1,
+      "text": "But describing your skills clearly is extremely important because it helps others understand"
+    },
+    {
+      "t": 1901.38,
+      "text": "what you can do and how you can contribute."
+    },
+    {
+      "t": 1904.34,
+      "text": "Exactly."
+    },
+    {
+      "t": 1905.34,
+      "text": "And one of the biggest mistakes people make is either saying too little or saying something"
+    },
+    {
+      "t": 1910.34,
+      "text": "too general."
+    },
+    {
+      "t": 1911.78,
+      "text": "For example, someone might say, I'm good at many things, or I work hard."
+    },
+    {
+      "t": 1917.22,
+      "text": "While those statements may be true, they don't give enough information."
+    },
+    {
+      "t": 1920.9,
+      "text": "Yes, and listeners usually want something more specific."
+    },
+    {
+      "t": 1924.42,
+      "text": "They want to know what you are good at and how you use those skills in real situations."
+    },
+    {
+      "t": 1929.46,
+      "text": "The good news is that describing your skills in English doesn't require complicated grammar"
+    },
+    {
+      "t": 1934.22,
+      "text": "or advanced vocabulary."
+    },
+    {
+      "t": 1936.34,
+      "text": "What you really need is clear explanations and examples."
+    },
+    {
+      "t": 1940.26,
+      "text": "a very good point. When people hear the word skills, they might think only about professional"
+    },
+    {
+      "t": 1945.9,
+      "text": "or technical abilities. But actually, skills can be divided into different categories."
+    },
+    {
+      "t": 1951.46,
+      "text": "Yes, in many professional environments, people talk about two main types of skills. The"
+    },
+    {
+      "t": 1956.78,
+      "text": "first type is technical skills. These are abilities related to specific tools, technologies"
+    },
+    {
+      "t": 1962.74,
+      "text": "or professional knowledge. For example, programming, data analysis, graphic design, or accounting."
+    },
+    {
+      "t": 1970.02,
+      "text": "And the second type is what many people call soft skills."
+    },
+    {
+      "t": 1973.74,
+      "text": "These are personal abilities that help you work with others and manage tasks effectively."
+    },
+    {
+      "t": 1978.86,
+      "text": "Exactly."
+    },
+    {
+      "t": 1980.02,
+      "text": "Soft skills include things like communication, teamwork, problem-solving, time management,"
+    },
+    {
+      "t": 1986.06,
+      "text": "and leadership."
+    },
+    {
+      "t": 1987.3,
+      "text": "These skills are extremely valuable because they influence how well you collaborate with"
+    },
+    {
+      "t": 1991.74,
+      "text": "other people."
+    },
+    {
+      "t": 1993.1,
+      "text": "Let's imagine someone asks you a simple question."
+    },
+    {
+      "t": 1996.3,
+      "text": "What are your strengths?"
+    },
+    {
+      "t": 1997.74,
+      "text": "Many English learners suddenly feel nervous when they hear that question."
+    },
+    {
+      "t": 2001.42,
+      "text": "Yes, because it feels like you are being asked to promote yourself, but there is a very simple"
+    },
+    {
+      "t": 2006.54,
+      "text": "way to answer this kind of question."
+    },
+    {
+      "t": 2008.5,
+      "text": "You can start by naming a skill, then explaining it, and finally giving a short example."
+    },
+    {
+      "t": 2014.54,
+      "text": "That's a very useful structure."
+    },
+    {
+      "t": 2016.14,
+      "text": "First, you mention the skill, then you describe how you use it."
+    },
+    {
+      "t": 2020.46,
+      "text": "Exactly."
+    },
+    {
+      "t": 2021.46,
+      "text": "For example, someone might say, one of my strongest skills is communication."
+    },
+    {
+      "t": 2025.82,
+      "text": "I enjoy explaining ideas clearly and making sure everyone on the team understands the"
+    },
+    {
+      "t": 2031.2,
+      "text": "plan."
+    },
+    {
+      "t": 2032.2,
+      "text": "That answer is clear and natural."
+    },
+    {
+      "t": 2034.08,
+      "text": "It doesn't sound exaggerated, but it still shows confidence."
+    },
+    {
+      "t": 2037.64,
+      "text": "Yes, and confidence is important when describing your skills."
+    },
+    {
+      "t": 2041.5,
+      "text": "You don't need to sound arrogant, but you should speak in a way that shows you believe"
+    },
+    {
+      "t": 2045.52,
+      "text": "in your abilities."
+    },
+    {
+      "t": 2047.2,
+      "text": "Another good example could be related to organization."
+    },
+    {
+      "t": 2050.6,
+      "text": "Someone might say, I have strong organizational skills."
+    },
+    {
+      "t": 2053.72,
+      "text": "I like planning tasks and creating schedules, so projects stay on track."
+    },
+    {
+      "t": 2058.44,
+      "text": "That's a great example. It shows how the skill is used in a real situation."
+    },
+    {
+      "t": 2063.08,
+      "text": "When listeners hear this, they can imagine the person working in an organized and structured way."
+    },
+    {
+      "t": 2068.92,
+      "text": "Let's talk about another common skill, problem solving."
+    },
+    {
+      "t": 2072.52,
+      "text": "Many employers value people who can solve problems effectively."
+    },
+    {
+      "t": 2076.52,
+      "text": "Yes, and someone might describe this skill by saying,"
+    },
+    {
+      "t": 2079.4,
+      "text": "I enjoy solving problems and finding practical solutions."
+    },
+    {
+      "t": 2083.56,
+      "text": "When challenges appear, I like analyzing the situation and identifying the best way forward."
+    },
+    {
+      "t": 2089.28,
+      "text": "That explanation sounds thoughtful and professional."
+    },
+    {
+      "t": 2092.16,
+      "text": "It also shows a positive attitude toward challenges."
+    },
+    {
+      "t": 2095.52,
+      "text": "Exactly."
+    },
+    {
+      "t": 2096.52,
+      "text": "And that's something many companies appreciate."
+    },
+    {
+      "t": 2098.64,
+      "text": "They want employees who see challenges as opportunities to improve things rather than obstacles."
+    },
+    {
+      "t": 2105.12,
+      "text": "Another important skill that many people mention is teamwork."
+    },
+    {
+      "t": 2108.48,
+      "text": "Yes, teamwork is essential in many workplaces."
+    },
+    {
+      "t": 2111.68,
+      "text": "Someone might describe it like this,"
+    },
+    {
+      "t": 2113.44,
+      "text": "I work well in team environments."
+    },
+    {
+      "t": 2115.52,
+      "text": "I enjoy collaborating with others"
+    },
+    {
+      "t": 2117.68,
+      "text": "and sharing ideas to achieve common goals."
+    },
+    {
+      "t": 2120.8,
+      "text": "That's a great sentence."
+    },
+    {
+      "t": 2122.32,
+      "text": "It shows that the person values cooperation and communication."
+    },
+    {
+      "t": 2126.32,
+      "text": "In those qualities often lead to stronger results"
+    },
+    {
+      "t": 2129.36,
+      "text": "because teams function better"
+    },
+    {
+      "t": 2130.88,
+      "text": "when people respect and support each other."
+    },
+    {
+      "t": 2133.52,
+      "text": "Now let's talk about something"
+    },
+    {
+      "t": 2135.12,
+      "text": "that many learners struggle with."
+    },
+    {
+      "t": 2137.28,
+      "text": "finding the right balance between being confident and being humble."
+    },
+    {
+      "t": 2141.52,
+      "text": "That's an excellent point. When describing your skills, it's important to sound confident,"
+    },
+    {
+      "t": 2146.24,
+      "text": "but also realistic. Instead of saying something like,"
+    },
+    {
+      "t": 2149.6,
+      "text": "I'm the best at everything, it's better to focus on specific strengths and explain them calmly."
+    },
+    {
+      "t": 2155.28,
+      "text": "Yes, because exaggerated statements can sound less believable."
+    },
+    {
+      "t": 2159.44,
+      "text": "Clear examples are much more convincing."
+    },
+    {
+      "t": 2162.16,
+      "text": "Exactly. For example, instead of saying,"
+    },
+    {
+      "t": 2164.64,
+      "text": "I'm amazing at leadership. Someone might say,"
+    },
+    {
+      "t": 2167.6,
+      "text": "I enjoy leading small teams and helping people stay motivated while we work towards our goals."
+    },
+    {
+      "t": 2173.36,
+      "text": "That sounds much more natural and professional."
+    },
+    {
+      "t": 2176.0,
+      "text": "Yes, and it allows the listener to understand the person's leadership style."
+    },
+    {
+      "t": 2180.48,
+      "text": "Another useful strategy when describing skills is connecting them to past experiences."
+    },
+    {
+      "t": 2186.08,
+      "text": "When you mention something you did in the past, it helps demonstrate the skill in action."
+    },
+    {
+      "t": 2191.12,
+      "text": "That's true. For example, someone could say,"
+    },
+    {
+      "t": 2193.6,
+      "text": "One of my strengths is time management."
+    },
+    {
+      "t": 2196.16,
+      "text": "In my previous role, I often handled multiple projects"
+    },
+    {
+      "t": 2199.4,
+      "text": "at the same time, so I learned how to prioritize tasks"
+    },
+    {
+      "t": 2202.72,
+      "text": "effectively."
+    },
+    {
+      "t": 2203.76,
+      "text": "That explanation gives real context."
+    },
+    {
+      "t": 2206.16,
+      "text": "It shows that the skill was developed through experience."
+    },
+    {
+      "t": 2209.36,
+      "text": "Yes, an experience makes the skill more believable."
+    },
+    {
+      "t": 2212.52,
+      "text": "People tend to trust examples more than simple statements."
+    },
+    {
+      "t": 2216.04,
+      "text": "Let's also talk about creativity."
+    },
+    {
+      "t": 2218.52,
+      "text": "Creativity is valuable in many fields,"
+    },
+    {
+      "t": 2221.04,
+      "text": "not only in art or design."
+    },
+    {
+      "t": 2223.2,
+      "text": "That's right. Creativity can also appear in problem-solving, innovation, and idea generation."
+    },
+    {
+      "t": 2229.94,
+      "text": "Someone might say, I enjoy thinking creatively in exploring new approaches when solving problems."
+    },
+    {
+      "t": 2236.08,
+      "text": "That sentence shows openness to new ideas and flexibility."
+    },
+    {
+      "t": 2239.92,
+      "text": "Exactly. Flexibility is another important skill in today's fast-changing environments."
+    },
+    {
+      "t": 2245.56,
+      "text": "Many workplaces require employees to adapt quickly."
+    },
+    {
+      "t": 2249.24,
+      "text": "So someone might describe that skill by saying, I'm adaptable and comfortable learning new"
+    },
+    {
+      "t": 2254.24,
+      "text": "tools or processes when necessary."
+    },
+    {
+      "t": 2256.84,
+      "text": "Yes, and that kind of attitude shows that the person is willing to grow and develop."
+    },
+    {
+      "t": 2262.04,
+      "text": "Speaking of growth, another good skill to mention is the ability to learn quickly."
+    },
+    {
+      "t": 2266.6,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2267.92,
+      "text": "Someone might explain it like this, I'm a fast learner and I enjoy developing new"
+    },
+    {
+      "t": 2272.36,
+      "text": "skills whenever I have the opportunity."
+    },
+    {
+      "t": 2275.08,
+      "text": "That's a very positive statement."
+    },
+    {
+      "t": 2277.0,
+      "text": "It shows curiosity and motivation."
+    },
+    {
+      "t": 2279.4,
+      "text": "Yes, and curiosity often leads to continuous improvement."
+    },
+    {
+      "t": 2283.6,
+      "text": "Another useful idea when describing your skills is to keep your language simple."
+    },
+    {
+      "t": 2288.84,
+      "text": "Many learners think they need to use complicated vocabulary, but clear language is usually"
+    },
+    {
+      "t": 2293.9,
+      "text": "more effective."
+    },
+    {
+      "t": 2295.4,
+      "text": "That's true."
+    },
+    {
+      "t": 2296.4,
+      "text": "Simple sentences are easier for listeners to understand."
+    },
+    {
+      "t": 2299.56,
+      "text": "When your message is clear, people focus on your ideas instead of your grammar."
+    },
+    {
+      "t": 2304.4,
+      "text": "when you feel comfortable with the structure, you can speak more naturally."
+    },
+    {
+      "t": 2308.0,
+      "text": "Yes, practice is the key. The more you practice describing your skills, the easier it becomes."
+    },
+    {
+      "t": 2314.56,
+      "text": "A great exercise is to choose three or four skills that represent you well and practice"
+    },
+    {
+      "t": 2319.8,
+      "text": "explaining them out loud."
+    },
+    {
+      "t": 2321.48,
+      "text": "Exactly. For example, someone might practice saying, I'm very organized, I communicate"
+    },
+    {
+      "t": 2326.88,
+      "text": "clearly, and I enjoy working in teams."
+    },
+    {
+      "t": 2329.96,
+      "text": "Then they can add short explanations or examples for each skill."
+    },
+    {
+      "t": 2333.64,
+      "text": "Yes, and after practicing a few times, the explanation begins to feel natural instead of memorized."
+    },
+    {
+      "t": 2339.54,
+      "text": "Another helpful tip is to listen to how professionals describe their skills in interviews or presentations."
+    },
+    {
+      "t": 2345.68,
+      "text": "You can learn many useful phrases that way."
+    },
+    {
+      "t": 2348.28,
+      "text": "That's a great idea. Observing others can give you inspiration and confidence."
+    },
+    {
+      "t": 2352.84,
+      "text": "Before we finish today's episode, let's remind our listeners of something important."
+    },
+    {
+      "t": 2357.88,
+      "text": "Everyone has valuable skills, even if they sometimes forget to recognize them."
+    },
+    {
+      "t": 2362.84,
+      "text": "Yes, that's very true. Skills come from experiences, education, hobbies, and personal interests."
+    },
+    {
+      "t": 2369.64,
+      "text": "When you take time to reflect on what you do well, it becomes easier to talk about it."
+    },
+    {
+      "t": 2374.34,
+      "text": "And when you can describe your skills clearly in English, you open many opportunities for yourself."
+    },
+    {
+      "t": 2379.94,
+      "text": "Exactly. Good communication helps people understand your strengths and your potential."
+    },
+    {
+      "t": 2385.54,
+      "text": "Thank you, everyone, for listening to today's conversation."
+    },
+    {
+      "t": 2388.54,
+      "text": "We hope this discussion helps you feel more confident the next time you talk about your"
+    },
+    {
+      "t": 2392.62,
+      "text": "skills in English."
+    },
+    {
+      "t": 2394.3,
+      "text": "Keep practicing, keep learning, and keep speaking English."
+    },
+    {
+      "t": 2398.02,
+      "text": "And we'll see you again in the next episode of our English Learning Podcast."
+    }
+  ],
+  "lemmas": [
+    [
+      "skill",
+      163
+    ],
+    [
+      "project",
+      46
+    ],
+    [
+      "work",
+      42
+    ],
+    [
+      "help",
+      40
+    ],
+    [
+      "say",
+      40
+    ],
+    [
+      "person",
+      38
+    ],
+    [
+      "team",
+      38
+    ],
+    [
+      "important",
+      37
+    ],
+    [
+      "good",
+      37
+    ],
+    [
+      "english",
+      36
+    ],
+    [
+      "professional",
+      36
+    ],
+    [
+      "example",
+      36
+    ],
+    [
+      "talk",
+      34
+    ],
+    [
+      "describe",
+      34
+    ],
+    [
+      "exactly",
+      34
+    ],
+    [
+      "communication",
+      33
+    ],
+    [
+      "many",
+      28
+    ],
+    [
+      "learn",
+      28
+    ],
+    [
+      "problem",
+      28
+    ],
+    [
+      "also",
+      27
+    ],
+    [
+      "situation",
+      25
+    ],
+    [
+      "practice",
+      24
+    ],
+    [
+      "today",
+      24
+    ],
+    [
+      "time",
+      24
+    ],
+    [
+      "leadership",
+      22
+    ],
+    [
+      "another",
+      22
+    ],
+    [
+      "thank",
+      21
+    ],
+    [
+      "task",
+      21
+    ],
+    [
+      "idea",
+      20
+    ],
+    [
+      "new",
+      20
+    ],
+    [
+      "conversation",
+      19
+    ],
+    [
+      "explain",
+      19
+    ],
+    [
+      "understand",
+      19
+    ],
+    [
+      "experience",
+      19
+    ],
+    [
+      "everyone",
+      18
+    ],
+    [
+      "clear",
+      18
+    ],
+    [
+      "technical",
+      17
+    ],
+    [
+      "use",
+      17
+    ],
+    [
+      "solv",
+      17
+    ],
+    [
+      "business",
+      16
+    ],
+    [
+      "someone",
+      16
+    ],
+    [
+      "great",
+      16
+    ],
+    [
+      "job",
+      15
+    ],
+    [
+      "feel",
+      15
+    ],
+    [
+      "simple",
+      15
+    ],
+    [
+      "someth",
+      15
+    ],
+    [
+      "teamwork",
+      15
+    ],
+    [
+      "listen",
+      14
+    ],
+    [
+      "need",
+      14
+    ],
+    [
+      "show",
+      14
+    ],
+    [
+      "strong",
+      14
+    ],
+    [
+      "sound",
+      14
+    ],
+    [
+      "speak",
+      13
+    ],
+    [
+      "question",
+      13
+    ],
+    [
+      "clearly",
+      13
+    ],
+    [
+      "describ",
+      13
+    ],
+    [
+      "mean",
+      13
+    ],
+    [
+      "interview",
+      12
+    ],
+    [
+      "useful",
+      12
+    ],
+    [
+      "abiliti",
+      12
+    ],
+    [
+      "colleagu",
+      12
+    ],
+    [
+      "strength",
+      12
+    ],
+    [
+      "exampl",
+      12
+    ],
+    [
+      "often",
+      12
+    ],
+    [
+      "one",
+      12
+    ],
+    [
+      "challeng",
+      12
+    ],
+    [
+      "solution",
+      12
+    ],
+    [
+      "different",
+      11
+    ],
+    [
+      "develop",
+      11
+    ],
+    [
+      "management",
+      11
+    ],
+    [
+      "plan",
+      11
+    ],
+    [
+      "ask",
+      10
+    ],
+    [
+      "give",
+      10
+    ],
+    [
+      "sure",
+      10
+    ],
+    [
+      "market",
+      10
+    ],
+    [
+      "focus",
+      10
+    ],
+    [
+      "way",
+      10
+    ],
+    [
+      "quickly",
+      10
+    ],
+    [
+      "mak",
+      9
+    ],
+    [
+      "real",
+      9
+    ],
+    [
+      "meeting",
+      9
+    ],
+    [
+      "especially",
+      9
+    ],
+    [
+      "sometim",
+      9
+    ],
+    [
+      "start",
+      9
+    ],
+    [
+      "true",
+      9
+    ],
+    [
+      "usually",
+      9
+    ],
+    [
+      "organiz",
+      9
+    ],
+    [
+      "employer",
+      9
+    ],
+    [
+      "effectively",
+      9
+    ],
+    [
+      "enjoy",
+      9
+    ],
+    [
+      "adaptability",
+      9
+    ],
+    [
+      "valuable",
+      9
+    ],
+    [
+      "find",
+      9
+    ],
+    [
+      "improve",
+      8
+    ],
+    [
+      "environment",
+      8
+    ],
+    [
+      "presentation",
+      8
+    ],
+    [
+      "communicate",
+      8
+    ],
+    [
+      "confident",
+      8
+    ],
+    [
+      "data",
+      8
+    ],
+    [
+      "analyze",
+      8
+    ],
+    [
+      "tool",
+      8
+    ],
+    [
+      "deadlin",
+      8
+    ],
+    [
+      "detail",
+      8
+    ],
+    [
+      "adapt",
+      8
+    ],
+    [
+      "keep",
+      8
+    ],
+    [
+      "soft",
+      8
+    ],
+    [
+      "explanation",
+      8
+    ],
+    [
+      "podcast",
+      7
+    ],
+    [
+      "role",
+      7
+    ],
+    [
+      "add",
+      7
+    ],
+    [
+      "customer",
+      7
+    ],
+    [
+      "hear",
+      7
+    ],
+    [
+      "organization",
+      7
+    ],
+    [
+      "much",
+      7
+    ],
+    [
+      "result",
+      7
+    ],
+    [
+      "goal",
+      7
+    ],
+    [
+      "problem-solv",
+      7
+    ],
+    [
+      "natural",
+      6
+    ],
+    [
+      "topic",
+      6
+    ],
+    [
+      "definitely",
+      6
+    ],
+    [
+      "requir",
+      6
+    ],
+    [
+      "campaign",
+      6
+    ],
+    [
+      "comfortable",
+      6
+    ],
+    [
+      "make",
+      6
+    ],
+    [
+      "responsibiliti",
+      6
+    ],
+    [
+      "value",
+      6
+    ],
+    [
+      "adjust",
+      6
+    ],
+    [
+      "instead",
+      6
+    ],
+    [
+      "shar",
+      6
+    ],
+    [
+      "meet",
+      6
+    ],
+    [
+      "statement",
+      6
+    ],
+    [
+      "practic",
+      6
+    ],
+    [
+      "excel",
+      6
+    ],
+    [
+      "easier",
+      6
+    ],
+    [
+      "discussion",
+      6
+    ],
+    [
+      "think",
+      6
+    ],
+    [
+      "listener",
+      6
+    ],
+    [
+      "hello",
+      5
+    ],
+    [
+      "welcome",
+      5
+    ],
+    [
+      "happen",
+      5
+    ],
+    [
+      "answer",
+      5
+    ],
+    [
+      "every",
+      5
+    ],
+    [
+      "client",
+      5
+    ],
+    [
+      "go",
+      5
+    ],
+    [
+      "present",
+      5
+    ],
+    [
+      "technology",
+      5
+    ],
+    [
+      "analysis",
+      5
+    ],
+    [
+      "manag",
+      5
+    ],
+    [
+      "creativity",
+      5
+    ],
+    [
+      "stay",
+      5
+    ],
+    [
+      "create",
+      5
+    ],
+    [
+      "track",
+      5
+    ],
+    [
+      "essential",
+      5
+    ],
+    [
+      "absolutely",
+      5
+    ],
+    [
+      "issue",
+      5
+    ],
+    [
+      "department",
+      5
+    ],
+    [
+      "manage",
+      5
+    ],
+    [
+      "alway",
+      5
+    ],
+    [
+      "chang",
+      5
+    ],
+    [
+      "learner",
+      5
+    ],
+    [
+      "phras",
+      5
+    ],
+    [
+      "try",
+      5
+    ],
+    [
+      "us",
+      5
+    ],
+    [
+      "want",
+      5
+    ],
+    [
+      "practical",
+      5
+    ],
+    [
+      "information",
+      5
+    ],
+    [
+      "point",
+      5
+    ],
+    [
+      "experienc",
+      5
+    ],
+    [
+      "mention",
+      5
+    ],
+    [
+      "able",
+      5
+    ],
+    [
+      "back",
+      4
+    ],
+    [
+      "used",
+      4
+    ],
+    [
+      "workplace",
+      4
+    ],
+    [
+      "name",
+      4
+    ],
+    [
+      "network",
+      4
+    ],
+    [
+      "going",
+      4
+    ],
+    [
+      "performance",
+      4
+    ],
+    [
+      "even",
+      4
+    ],
+    [
+      "take",
+      4
+    ],
+    [
+      "manager",
+      4
+    ],
+    [
+      "day",
+      4
+    ],
+    [
+      "member",
+      4
+    ],
+    [
+      "cross-functional",
+      4
+    ],
+    [
+      "using",
+      4
+    ],
+    [
+      "strongest",
+      4
+    ],
+    [
+      "multiple",
+      4
+    ],
+    [
+      "organizational",
+      4
+    ],
+    [
+      "lead",
+      4
+    ],
+    [
+      "coordinat",
+      4
+    ],
+    [
+      "message",
+      4
+    ],
+    [
+      "sentence",
+      4
+    ],
+    [
+      "large",
+      4
+    ],
+    [
+      "extremely",
+      4
+    ],
+    [
+      "prioritize",
+      4
+    ],
+    [
+      "employe",
+      4
+    ],
+    [
+      "adaptable",
+      4
+    ],
+    [
+      "change",
+      4
+    ],
+    [
+      "positive",
+      4
+    ],
+    [
+      "require",
+      4
+    ],
+    [
+      "interest",
+      4
+    ],
+    [
+      "kind",
+      4
+    ],
+    [
+      "relat",
+      4
+    ],
+    [
+      "microsoft",
+      4
+    ],
+    [
+      "report",
+      4
+    ],
+    [
+      "organize",
+      4
+    ],
+    [
+      "creat",
+      4
+    ],
+    [
+      "complete",
+      4
+    ],
+    [
+      "contribute",
+      4
+    ],
+    [
+      "carefully",
+      4
+    ],
+    [
+      "workplac",
+      4
+    ],
+    [
+      "first",
+      4
+    ],
+    [
+      "speaker",
+      4
+    ],
+    [
+      "simply",
+      4
+    ],
+    [
+      "area",
+      4
+    ],
+    [
+      "coordination",
+      4
+    ],
+    [
+      "effective",
+      4
+    ],
+    [
+      "progress",
+      4
+    ],
+    [
+      "complet",
+      4
+    ],
+    [
+      "thing",
+      4
+    ],
+    [
+      "toward",
+      4
+    ],
+    [
+      "confidence",
+      4
+    ],
+    [
+      "david",
+      3
+    ],
+    [
+      "review",
+      3
+    ],
+    [
+      "nervous",
+      3
+    ],
+    [
+      "difficult",
+      3
+    ],
+    [
+      "typ",
+      3
+    ],
+    [
+      "let",
+      3
+    ],
+    [
+      "lot",
+      3
+    ],
+    [
+      "style",
+      3
+    ],
+    [
+      "ahead",
+      3
+    ],
+    [
+      "advertis",
+      3
+    ],
+    [
+      "involve",
+      3
+    ],
+    [
+      "strategy",
+      3
+    ],
+    [
+      "timelin",
+      3
+    ],
+    [
+      "appear",
+      3
+    ],
+    [
+      "move",
+      3
+    ],
+    [
+      "forward",
+      3
+    ],
+    [
+      "solve",
+      3
+    ],
+    [
+      "identifi",
+      3
+    ],
+    [
+      "audience",
+      3
+    ],
+    [
+      "improv",
+      3
+    ],
+    [
+      "helpful",
+      3
+    ],
+    [
+      "convinc",
+      3
+    ],
+    [
+      "collaborat",
+      3
+    ],
+    [
+      "smaller",
+      3
+    ],
+    [
+      "step",
+      3
+    ],
+    [
+      "technologi",
+      3
+    ],
+    [
+      "workshop",
+      3
+    ],
+    [
+      "ability",
+      3
+    ],
+    [
+      "finish",
+      3
+    ],
+    [
+      "three",
+      3
+    ],
+    [
+      "sentenc",
+      3
+    ],
+    [
+      "hope",
+      3
+    ],
+    [
+      "remember",
+      3
+    ],
+    [
+      "channel",
+      3
+    ],
+    [
+      "little",
+      3
+    ],
+    [
+      "small",
+      3
+    ],
+    [
+      "basic",
+      3
+    ],
+    [
+      "computer",
+      3
+    ],
+    [
+      "troubleshoot",
+      3
+    ],
+    [
+      "word",
+      3
+    ],
+    [
+      "collaborate",
+      3
+    ],
+    [
+      "believable",
+      3
+    ],
+    [
+      "guid",
+      3
+    ],
+    [
+      "ensur",
+      3
+    ],
+    [
+      "everyth",
+      3
+    ],
+    [
+      "service",
+      3
+    ],
+    [
+      "opportuniti",
+      3
+    ],
+    [
+      "see",
+      3
+    ],
+    [
+      "next",
+      3
+    ],
+    [
+      "design",
+      3
+    ],
+    [
+      "vocabulary",
+      3
+    ],
+    [
+      "imagine",
+      3
+    ],
+    [
+      "two",
+      3
+    ],
+    [
+      "main",
+      3
+    ],
+    [
+      "structure",
+      3
+    ],
+    [
+      "introduc",
+      3
+    ],
+    [
+      "language",
+      3
+    ],
+    [
+      "involv",
+      3
+    ],
+    [
+      "tak",
+      3
+    ],
+    [
+      "flexibility",
+      3
+    ],
+    [
+      "attitude",
+      3
+    ],
+    [
+      "common",
+      3
+    ],
+    [
+      "becom",
+      3
+    ],
+    [
+      "episode",
+      3
+    ],
+    [
+      "specific",
+      3
+    ],
+    [
+      "perfect",
+      2
+    ],
+    [
+      "event",
+      2
+    ],
+    [
+      "casual",
+      2
+    ],
+    [
+      "begin",
+      2
+    ],
+    [
+      "company",
+      2
+    ],
+    [
+      "slightly",
+      2
+    ],
+    [
+      "big",
+      2
+    ],
+    [
+      "forget",
+      2
+    ],
+    [
+      "quote",
+      2
+    ],
+    [
+      "strategi",
+      2
+    ],
+    [
+      "group",
+      2
+    ],
+    [
+      "became",
+      2
+    ],
+    [
+      "modern",
+      2
+    ],
+    [
+      "play",
+      2
+    ],
+    [
+      "almost",
+      2
+    ],
+    [
+      "behavior",
+      2
+    ],
+    [
+      "analytical",
+      2
+    ],
+    [
+      "online",
+      2
+    ],
+    [
+      "platform",
+      2
+    ],
+    [
+      "social",
+      2
+    ],
+    [
+      "media",
+      2
+    ],
+    [
+      "knowledge",
+      2
+    ],
+    [
+      "love",
+      2
+    ],
+    [
+      "several",
+      2
+    ],
+    [
+      "demonstrate",
+      2
+    ],
+    [
+      "guide",
+      2
+    ],
+    [
+      "resolve",
+      2
+    ],
+    [
+      "conflict",
+      2
+    ],
+    [
+      "leader",
+      2
+    ],
+    [
+      "frustrat",
+      2
+    ],
+    [
+      "analyz",
+      2
+    ],
+    [
+      "broad",
+      2
+    ],
+    [
+      "stronger",
+      2
+    ],
+    [
+      "collaboration",
+      2
+    ],
+    [
+      "achieve",
+      2
+    ],
+    [
+      "break",
+      2
+    ],
+    [
+      "manageable",
+      2
+    ],
+    [
+      "appreciate",
+      2
+    ],
+    [
+      "fast",
+      2
+    ],
+    [
+      "compani",
+      2
+    ],
+    [
+      "attend",
+      2
+    ],
+    [
+      "grow",
+      2
+    ],
+    [
+      "quick",
+      2
+    ],
+    [
+      "open",
+      2
+    ],
+    [
+      "end",
+      2
+    ],
+    [
+      "prepare",
+      2
+    ],
+    [
+      "busy",
+      2
+    ],
+    [
+      "remind",
+      2
+    ],
+    [
+      "know",
+      2
+    ],
+    [
+      "program",
+      2
+    ],
+    [
+      "powerpoint",
+      2
+    ],
+    [
+      "full",
+      2
+    ],
+    [
+      "together",
+      2
+    ],
+    [
+      "cooperation",
+      2
+    ],
+    [
+      "communicat",
+      2
+    ],
+    [
+      "decid",
+      2
+    ],
+    [
+      "rol",
+      2
+    ],
+    [
+      "motivat",
+      2
+    ],
+    [
+      "successfully",
+      2
+    ],
+    [
+      "responsibility",
+      2
+    ],
+    [
+      "achiev",
+      2
+    ],
+    [
+      "description",
+      2
+    ],
+    [
+      "excellent",
+      2
+    ],
+    [
+      "career",
+      2
+    ],
+    [
+      "whether",
+      2
+    ],
+    [
+      "struggle",
+      2
+    ],
+    [
+      "context",
+      2
+    ],
+    [
+      "list",
+      2
+    ],
+    [
+      "com",
+      2
+    ],
+    [
+      "notic",
+      2
+    ],
+    [
+      "year",
+      2
+    ],
+    [
+      "identify",
+      2
+    ],
+    [
+      "cause",
+      2
+    ],
+    [
+      "fac",
+      2
+    ],
+    [
+      "delay",
+      2
+    ],
+    [
+      "workflow",
+      2
+    ],
+    [
+      "process",
+      2
+    ],
+    [
+      "improvement",
+      2
+    ],
+    [
+      "approach",
+      2
+    ],
+    [
+      "key",
+      2
+    ],
+    [
+      "rather",
+      2
+    ],
+    [
+      "potential",
+      2
+    ],
+    [
+      "early",
+      2
+    ],
+    [
+      "timeline",
+      2
+    ],
+    [
+      "divid",
+      2
+    ],
+    [
+      "growth",
+      2
+    ],
+    [
+      "observ",
+      2
+    ],
+    [
+      "suddenly",
+      2
+    ],
+    [
+      "requirement",
+      2
+    ],
+    [
+      "deliver",
+      2
+    ],
+    [
+      "still",
+      2
+    ],
+    [
+      "enough",
+      2
+    ],
+    [
+      "action",
+      2
+    ],
+    [
+      "uncomfortable",
+      2
+    ],
+    [
+      "complicat",
+      2
+    ],
+    [
+      "grammar",
+      2
+    ],
+    [
+      "type",
+      2
+    ],
+    [
+      "personal",
+      2
+    ],
+    [
+      "giv",
+      2
+    ],
+    [
+      "short",
+      2
+    ],
+    [
+      "exaggerat",
+      2
+    ],
+    [
+      "past",
+      2
+    ],
+    [
+      "curiosity",
+      2
+    ],
+    [
+      "emma",
+      1
+    ],
+    [
+      "everyday",
+      1
+    ],
+    [
+      "discuss",
+      1
+    ],
+    [
+      "confidently",
+      1
+    ],
+    [
+      "includ",
+      1
+    ],
+    [
+      "probably",
+      1
+    ],
+    [
+      "designer",
+      1
+    ],
+    [
+      "executiv",
+      1
+    ],
+    [
+      "active",
+      1
+    ],
+    [
+      "part",
+      1
+    ],
+    [
+      "else",
+      1
+    ],
+    [
+      "front",
+      1
+    ],
+    [
+      "public",
+      1
+    ],
+    [
+      "development",
+      1
+    ],
+    [
+      "industry",
+      1
+    ],
+    [
+      "analytic",
+      1
+    ],
+    [
+      "digital",
+      1
+    ],
+    [
+      "search",
+      1
+    ],
+    [
+      "engin",
+      1
+    ],
+    [
+      "share",
+      1
+    ],
+    [
+      "sense",
+      1
+    ],
+    [
+      "success",
+      1
+    ],
+    [
+      "resolution",
+      1
+    ],
+    [
+      "opinion",
+      1
+    ],
+    [
+      "complex",
+      1
+    ],
+    [
+      "perform",
+      1
+    ],
+    [
+      "engagement",
+      1
+    ],
+    [
+      "rate",
+      1
+    ],
+    [
+      "lower",
+      1
+    ],
+    [
+      "expect",
+      1
+    ],
+    [
+      "target",
+      1
+    ],
+    [
+      "refin",
+      1
+    ],
+    [
+      "significantly",
+      1
+    ],
+    [
+      "completely",
+      1
+    ],
+    [
+      "alone",
+      1
+    ],
+    [
+      "phrase",
+      1
+    ],
+    [
+      "finance",
+      1
+    ],
+    [
+      "operation",
+      1
+    ],
+    [
+      "cooperate",
+      1
+    ],
+    [
+      "bas",
+      1
+    ],
+    [
+      "urgency",
+      1
+    ],
+    [
+      "importance",
+      1
+    ],
+    [
+      "smart",
+      1
+    ],
+    [
+      "consistently",
+      1
+    ],
+    [
+      "reliability",
+      1
+    ],
+    [
+      "dynamic",
+      1
+    ],
+    [
+      "lifelong",
+      1
+    ],
+    [
+      "industri",
+      1
+    ],
+    [
+      "continue",
+      1
+    ],
+    [
+      "cours",
+      1
+    ],
+    [
+      "habit",
+      1
+    ],
+    [
+      "eager",
+      1
+    ],
+    [
+      "highly",
+      1
+    ],
+    [
+      "detail-orient",
+      1
+    ],
+    [
+      "afraid",
+      1
+    ],
+    [
+      "hi",
+      1
+    ],
+    [
+      "happy",
+      1
+    ],
+    [
+      "erica",
+      1
+    ],
+    [
+      "easy",
+      1
+    ],
+    [
+      "please",
+      1
+    ],
+    [
+      "video",
+      1
+    ],
+    [
+      "subscribe",
+      1
+    ],
+    [
+      "lesson",
+      1
+    ],
+    [
+      "mia",
+      1
+    ],
+    [
+      "fine",
+      1
+    ],
+    [
+      "morn",
+      1
+    ],
+    [
+      "advertisement",
+      1
+    ],
+    [
+      "purpose",
+      1
+    ],
+    [
+      "office",
+      1
+    ],
+    [
+      "email",
+      1
+    ],
+    [
+      "succe",
+      1
+    ],
+    [
+      "study",
+      1
+    ],
+    [
+      "resolv",
+      1
+    ],
+    [
+      "prioritization",
+      1
+    ],
+    [
+      "schedule",
+      1
+    ],
+    [
+      "led",
+      1
+    ],
+    [
+      "combine",
+      1
+    ],
+    [
+      "politely",
+      1
+    ],
+    [
+      "provide",
+      1
+    ],
+    [
+      "pressure",
+      1
+    ],
+    [
+      "handle",
+      1
+    ],
+    [
+      "professionally",
+      1
+    ],
+    [
+      "patience",
+      1
+    ],
+    [
+      "summarize",
+      1
+    ],
+    [
+      "turn",
+      1
+    ],
+    [
+      "write",
+      1
+    ],
+    [
+      "join",
+      1
+    ],
+    [
+      "goodbye",
+      1
+    ],
+    [
+      "bye",
+      1
+    ],
+    [
+      "glad",
+      1
+    ],
+    [
+      "prepar",
+      1
+    ],
+    [
+      "unsure",
+      1
+    ],
+    [
+      "colleague",
+      1
+    ],
+    [
+      "throughout",
+      1
+    ],
+    [
+      "youll",
+      1
+    ],
+    [
+      "expression",
+      1
+    ],
+    [
+      "alright",
+      1
+    ],
+    [
+      "earlier",
+      1
+    ],
+    [
+      "briefly",
+      1
+    ],
+    [
+      "expertise",
+      1
+    ],
+    [
+      "curious",
+      1
+    ],
+    [
+      "root",
+      1
+    ],
+    [
+      "deal",
+      1
+    ],
+    [
+      "operational",
+      1
+    ],
+    [
+      "evaluate",
+      1
+    ],
+    [
+      "option",
+      1
+    ],
+    [
+      "decide",
+      1
+    ],
+    [
+      "last",
+      1
+    ],
+    [
+      "duplicat",
+      1
+    ],
+    [
+      "miss",
+      1
+    ],
+    [
+      "entirely",
+      1
+    ],
+    [
+      "gather",
+      1
+    ],
+    [
+      "realiz",
+      1
+    ],
+    [
+      "propos",
+      1
+    ],
+    [
+      "dashboard",
+      1
+    ],
+    [
+      "bit",
+      1
+    ],
+    [
+      "implement",
+      1
+    ],
+    [
+      "visibility",
+      1
+    ],
+    [
+      "thoroughly",
+      1
+    ],
+    [
+      "suggest",
+      1
+    ],
+    [
+      "depend",
+      1
+    ],
+    [
+      "senior",
+      1
+    ],
+    [
+      "non-technical",
+      1
+    ],
+    [
+      "impact",
+      1
+    ],
+    [
+      "overlook",
+      1
+    ],
+    [
+      "actively",
+      1
+    ],
+    [
+      "avoid",
+      1
+    ],
+    [
+      "misunderstanding",
+      1
+    ],
+    [
+      "align",
+      1
+    ],
+    [
+      "disagre",
+      1
+    ],
+    [
+      "allocate",
+      1
+    ],
+    [
+      "resourc",
+      1
+    ],
+    [
+      "believ",
+      1
+    ],
+    [
+      "prioriti",
+      1
+    ],
+    [
+      "slow",
+      1
+    ],
+    [
+      "perspectiv",
+      1
+    ],
+    [
+      "clarify",
+      1
+    ],
+    [
+      "encourag",
+      1
+    ],
+    [
+      "sid",
+      1
+    ],
+    [
+      "consider",
+      1
+    ],
+    [
+      "bigger",
+      1
+    ],
+    [
+      "picture",
+      1
+    ],
+    [
+      "reach",
+      1
+    ],
+    [
+      "compromise",
+      1
+    ],
+    [
+      "without",
+      1
+    ],
+    [
+      "demonstration",
+      1
+    ],
+    [
+      "negotiation",
+      1
+    ],
+    [
+      "become",
+      1
+    ],
+    [
+      "facilitat",
+      1
+    ],
+    [
+      "third",
+      1
+    ],
+    [
+      "daily",
+      1
+    ],
+    [
+      "closely",
+      1
+    ],
+    [
+      "risk",
+      1
+    ],
+    [
+      "address",
+      1
+    ],
+    [
+      "rely",
+      1
+    ],
+    [
+      "regular",
+      1
+    ],
+    [
+      "check-in",
+      1
+    ],
+    [
+      "defin",
+      1
+    ],
+    [
+      "objectiv",
+      1
+    ],
+    [
+      "assign",
+      1
+    ],
+    [
+      "overwhelm",
+      1
+    ],
+    [
+      "productive",
+      1
+    ],
+    [
+      "individual",
+      1
+    ],
+    [
+      "gain",
+      1
+    ],
+    [
+      "larger",
+      1
+    ],
+    [
+      "initiativ",
+      1
+    ],
+    [
+      "watch",
+      1
+    ],
+    [
+      "youve",
+      1
+    ],
+    [
+      "demonstrat",
+      1
+    ],
+    [
+      "major",
+      1
+    ],
+    [
+      "direction",
+      1
+    ],
+    [
+      "already",
+      1
+    ],
+    [
+      "significant",
+      1
+    ],
+    [
+      "portion",
+      1
+    ],
+    [
+      "disruption",
+      1
+    ],
+    [
+      "reorganiz",
+      1
+    ],
+    [
+      "updat",
+      1
+    ],
+    [
+      "prioritiz",
+      1
+    ],
+    [
+      "later",
+      1
+    ],
+    [
+      "originally",
+      1
+    ],
+    [
+      "satisfi",
+      1
+    ],
+    [
+      "high-quality",
+      1
+    ],
+    [
+      "although",
+      1
+    ],
+    [
+      "initiative",
+      1
+    ],
+    [
+      "definition",
+      1
+    ],
+    [
+      "volunteer",
+      1
+    ],
+    [
+      "encounter",
+      1
+    ],
+    [
+      "effort",
+      1
+    ],
+    [
+      "entire",
+      1
+    ],
+    [
+      "efficiently",
+      1
+    ],
+    [
+      "clearer",
+      1
+    ],
+    [
+      "anyone",
+      1
+    ],
+    [
+      "persuasive",
+      1
+    ],
+    [
+      "brag",
+      1
+    ],
+    [
+      "apply",
+      1
+    ],
+    [
+      "agree",
+      1
+    ],
+    [
+      "hopefully",
+      1
+    ],
+    [
+      "writ",
+      1
+    ],
+    [
+      "resume",
+      1
+    ],
+    [
+      "achievement",
+      1
+    ],
+    [
+      "shy",
+      1
+    ],
+    [
+      "biggest",
+      1
+    ],
+    [
+      "mistak",
+      1
+    ],
+    [
+      "either",
+      1
+    ],
+    [
+      "general",
+      1
+    ],
+    [
+      "hard",
+      1
+    ],
+    [
+      "advanc",
+      1
+    ],
+    [
+      "categori",
+      1
+    ],
+    [
+      "graphic",
+      1
+    ],
+    [
+      "account",
+      1
+    ],
+    [
+      "second",
+      1
+    ],
+    [
+      "call",
+      1
+    ],
+    [
+      "include",
+      1
+    ],
+    [
+      "influence",
+      1
+    ],
+    [
+      "promote",
+      1
+    ],
+    [
+      "nam",
+      1
+    ],
+    [
+      "finally",
+      1
+    ],
+    [
+      "arrogant",
+      1
+    ],
+    [
+      "believe",
+      1
+    ],
+    [
+      "schedul",
+      1
+    ],
+    [
+      "structur",
+      1
+    ],
+    [
+      "thoughtful",
+      1
+    ],
+    [
+      "obstacl",
+      1
+    ],
+    [
+      "valu",
+      1
+    ],
+    [
+      "qualiti",
+      1
+    ],
+    [
+      "function",
+      1
+    ],
+    [
+      "respect",
+      1
+    ],
+    [
+      "support",
+      1
+    ],
+    [
+      "balance",
+      1
+    ],
+    [
+      "humble",
+      1
+    ],
+    [
+      "realistic",
+      1
+    ],
+    [
+      "calmly",
+      1
+    ],
+    [
+      "less",
+      1
+    ],
+    [
+      "amaz",
+      1
+    ],
+    [
+      "allow",
+      1
+    ],
+    [
+      "connect",
+      1
+    ],
+    [
+      "previous",
+      1
+    ],
+    [
+      "handl",
+      1
+    ],
+    [
+      "tend",
+      1
+    ],
+    [
+      "trust",
+      1
+    ],
+    [
+      "field",
+      1
+    ],
+    [
+      "art",
+      1
+    ],
+    [
+      "innovation",
+      1
+    ],
+    [
+      "generation",
+      1
+    ],
+    [
+      "creatively",
+      1
+    ],
+    [
+      "explor",
+      1
+    ],
+    [
+      "openness",
+      1
+    ],
+    [
+      "fast-chang",
+      1
+    ],
+    [
+      "necessary",
+      1
+    ],
+    [
+      "whenever",
+      1
+    ],
+    [
+      "opportunity",
+      1
+    ],
+    [
+      "motivation",
+      1
+    ],
+    [
+      "continuous",
+      1
+    ],
+    [
+      "naturally",
+      1
+    ],
+    [
+      "exercise",
+      1
+    ],
+    [
+      "choose",
+      1
+    ],
+    [
+      "four",
+      1
+    ],
+    [
+      "represent",
+      1
+    ],
+    [
+      "loud",
+      1
+    ],
+    [
+      "tim",
+      1
+    ],
+    [
+      "memoriz",
+      1
+    ],
+    [
+      "tip",
+      1
+    ],
+    [
+      "inspiration",
+      1
+    ],
+    [
+      "recognize",
+      1
+    ],
+    [
+      "come",
+      1
+    ],
+    [
+      "education",
+      1
+    ],
+    [
+      "hobbi",
+      1
+    ],
+    [
+      "reflect",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 5873,
+    "unique_words": 657,
+    "duration_min": 40.3
+  }
+}
