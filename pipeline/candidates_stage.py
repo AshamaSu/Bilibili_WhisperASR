@@ -255,8 +255,8 @@ def render_vocab_md(index):
 
 def render_index_md(episodes):
     lines = ["# 00_INDEX · 目录", "",
-             "| 编号 | 标题 | 时长(分) | 状态 | 候选词数 | 文件 |",
-             "|---:|---|---:|---|---:|---|"]
+             "| 编号 | 标题 | 时长(分) | 状态 | 候选词数 | 复习笔记 | 转写全文 |",
+             "|---:|---|---:|---|---:|---|---|"]
     for ep in episodes:
         words = ""
         cand = config.CANDIDATES_DIR / ep["file_stem"] / "candidates.json"
@@ -266,8 +266,12 @@ def render_index_md(episodes):
         md_name = f"{ep['file_stem']}.md"
         link = (f"[{md_name}]({md_name})"
                 if (config.OUTPUT_DIR / md_name).exists() else md_name)
+        txt_rel = f"../transcripts/{ep['file_stem']}/transcript.txt"
+        txt_path = config.TRANSCRIPTS_DIR / ep["file_stem"] / "transcript.txt"
+        txt_link = (f"[transcript.txt]({txt_rel})"
+                    if txt_path.exists() else "—")
         lines.append(f"| {ep['no']} | {ep['title_fixed']} | {ep['duration_min']} "
-                     f"| {ep['status']} | {words} | {link} |")
+                     f"| {ep['status']} | {words} | {link} | {txt_link} |")
     return "\n".join(lines) + "\n"
 
 

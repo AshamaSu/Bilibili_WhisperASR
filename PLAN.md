@@ -116,7 +116,7 @@ segments, info = model.transcribe(
 2. 验收通过 → 后台分批跑 06~67，每批 5 集
 3. 续跑：启动时读 `episodes.json`，跳过 `status: done`，从第一个非 done 继续
 4. 每集完成即写 md，不等全批
-5. 全部完成后生成 `output/00_INDEX.md`（67 集目录页：编号、标题、时长、词数，链接到各 md）
+5. 全部完成后生成 `output/00_INDEX.md`（67 集目录页：编号、标题、时长、词数，链接到各集复习笔记 md 与 transcripts/ 下对应 transcript.txt）
 
 ## 7. 禁止事项 / 注意
 
