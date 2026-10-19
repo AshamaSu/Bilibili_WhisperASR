@@ -650,13 +650,13 @@
     "slug": "JobInterviewCommunicationGrabyourIdealCareer",
     "file_stem": "31_JobInterviewCommunicationGrabyourIdealCareer",
     "duration_min": 33.8,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.994,
+      "word_count": 4831,
+      "repetition_ratio": 0.027,
       "flags": []
     }
   },
@@ -671,13 +671,13 @@
     "slug": "HowtoTalktoYourBossatwork",
     "file_stem": "32_HowtoTalktoYourBossatwork",
     "duration_min": 39.0,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.992,
+      "word_count": 5881,
+      "repetition_ratio": 0.0357,
       "flags": []
     }
   },
@@ -692,13 +692,13 @@
     "slug": "EssentialBusinessEnglishConversationAreyouatanADVANCEDlevel",
     "file_stem": "33_EssentialBusinessEnglishConversationAreyouatanADVANCEDlevel",
     "duration_min": 40.3,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.998,
+      "word_count": 7227,
+      "repetition_ratio": 0.027,
       "flags": []
     }
   },
@@ -713,13 +713,13 @@
     "slug": "BusinessEnglishProfessionalEmailGuide",
     "file_stem": "34_BusinessEnglishProfessionalEmailGuide",
     "duration_min": 38.7,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.998,
+      "word_count": 7197,
+      "repetition_ratio": 0.0303,
       "flags": []
     }
   },
@@ -734,13 +734,13 @@
     "slug": "ProfessionalMarketingPhrasesforBusinessEnglishLearners",
     "file_stem": "35_ProfessionalMarketingPhrasesforBusinessEnglishLearners",
     "duration_min": 40.3,
-    "status": "pending",
+    "status": "done",
     "retries": 0,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.996,
+      "word_count": 5181,
+      "repetition_ratio": 0.037,
       "flags": []
     }
   },

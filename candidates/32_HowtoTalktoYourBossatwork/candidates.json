@@ -1,0 +1,6349 @@
+{
+  "file_stem": "32_HowtoTalktoYourBossatwork",
+  "no": 32,
+  "title_keywords": [
+    [
+      "talk",
+      "talk"
+    ],
+    [
+      "boss",
+      "boss"
+    ],
+    [
+      "work",
+      "work"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "english",
+      85,
+      "A2"
+    ],
+    [
+      "good",
+      64,
+      "A2"
+    ],
+    [
+      "work",
+      61,
+      "A2"
+    ],
+    [
+      "feel",
+      51,
+      "A2"
+    ],
+    [
+      "wanted",
+      51,
+      "A2"
+    ],
+    [
+      "thank",
+      49,
+      "A2"
+    ],
+    [
+      "talk",
+      42,
+      "A2"
+    ],
+    [
+      "ask",
+      39,
+      "A2"
+    ],
+    [
+      "help",
+      38,
+      "A2"
+    ],
+    [
+      "clear",
+      29,
+      "A2"
+    ],
+    [
+      "sure",
+      29,
+      "A2"
+    ],
+    [
+      "business",
+      26,
+      "B1+"
+    ],
+    [
+      "time",
+      26,
+      "A2"
+    ],
+    [
+      "one",
+      25,
+      "A2"
+    ],
+    [
+      "keep",
+      24,
+      "A2"
+    ],
+    [
+      "learning",
+      24,
+      "A2"
+    ],
+    [
+      "makes",
+      24,
+      "B1+"
+    ],
+    [
+      "speak",
+      24,
+      "A2"
+    ],
+    [
+      "great",
+      22,
+      "A2"
+    ],
+    [
+      "need",
+      22,
+      "A2"
+    ],
+    [
+      "today",
+      22,
+      "A2"
+    ],
+    [
+      "focus",
+      20,
+      "B1+"
+    ],
+    [
+      "welcome",
+      20,
+      "A2"
+    ],
+    [
+      "conversation",
+      19,
+      "B1+"
+    ],
+    [
+      "sometimes",
+      19,
+      "B1+"
+    ],
+    [
+      "simple",
+      18,
+      "A2"
+    ],
+    [
+      "thing",
+      18,
+      "A2"
+    ],
+    [
+      "think",
+      18,
+      "A2"
+    ],
+    [
+      "try",
+      18,
+      "A2"
+    ],
+    [
+      "understand",
+      18,
+      "A2"
+    ],
+    [
+      "worry",
+      18,
+      "A2"
+    ],
+    [
+      "also",
+      17,
+      "A2"
+    ],
+    [
+      "appreciate",
+      17,
+      "B1+"
+    ],
+    [
+      "communication",
+      17,
+      "B1+"
+    ],
+    [
+      "day",
+      17,
+      "A2"
+    ],
+    [
+      "even",
+      17,
+      "B1+"
+    ],
+    [
+      "ideas",
+      17,
+      "A2"
+    ],
+    [
+      "listen",
+      17,
+      "A2"
+    ],
+    [
+      "questions",
+      17,
+      "A2"
+    ],
+    [
+      "episode",
+      16,
+      "B1+"
+    ],
+    [
+      "everyone",
+      16,
+      "A2"
+    ],
+    [
+      "hi",
+      16,
+      "A2"
+    ],
+    [
+      "sounding",
+      16,
+      "A2"
+    ],
+    [
+      "boss",
+      15,
+      "B1+"
+    ],
+    [
+      "people",
+      15,
+      "A2"
+    ],
+    [
+      "practice",
+      15,
+      "A2"
+    ],
+    [
+      "situations",
+      15,
+      "A2"
+    ],
+    [
+      "confident",
+      14,
+      "B1+"
+    ],
+    [
+      "every",
+      14,
+      "A2"
+    ],
+    [
+      "first",
+      14,
+      "A2"
+    ],
+    [
+      "hear",
+      14,
+      "A2"
+    ],
+    [
+      "know",
+      14,
+      "A2"
+    ],
+    [
+      "perfect",
+      14,
+      "A2"
+    ],
+    [
+      "client",
+      13,
+      "B1+"
+    ],
+    [
+      "lot",
+      13,
+      "A2"
+    ],
+    [
+      "meetings",
+      13,
+      "B1+"
+    ],
+    [
+      "podcast",
+      13,
+      "B1+"
+    ],
+    [
+      "always",
+      12,
+      "B1+"
+    ],
+    [
+      "progress",
+      12,
+      "B1+"
+    ],
+    [
+      "report",
+      12,
+      "A2"
+    ],
+    [
+      "say",
+      12,
+      "A2"
+    ],
+    [
+      "especially",
+      11,
+      "B1+"
+    ],
+    [
+      "nervous",
+      11,
+      "B1+"
+    ],
+    [
+      "us",
+      11,
+      "A2"
+    ],
+    [
+      "confidence",
+      10,
+      "B1+"
+    ],
+    [
+      "course",
+      10,
+      "A2"
+    ],
+    [
+      "feedback",
+      10,
+      "B1+"
+    ],
+    [
+      "glad",
+      10,
+      "B1+"
+    ],
+    [
+      "happens",
+      10,
+      "A2"
+    ],
+    [
+      "manager",
+      10,
+      "B1+"
+    ],
+    [
+      "next",
+      10,
+      "A2"
+    ],
+    [
+      "polite",
+      10,
+      "A2"
+    ],
+    [
+      "see",
+      10,
+      "A2"
+    ],
+    [
+      "skills",
+      10,
+      "A2"
+    ],
+    [
+      "take",
+      10,
+      "A2"
+    ],
+    [
+      "tasks",
+      10,
+      "B1+"
+    ],
+    [
+      "detail",
+      9,
+      "B1+"
+    ],
+    [
+      "expectations",
+      9,
+      "B1+"
+    ],
+    [
+      "goals",
+      9,
+      "B1+"
+    ],
+    [
+      "happy",
+      9,
+      "A2"
+    ],
+    [
+      "improving",
+      9,
+      "B1+"
+    ],
+    [
+      "key",
+      9,
+      "A2"
+    ],
+    [
+      "make",
+      9,
+      "A2"
+    ],
+    [
+      "new",
+      9,
+      "A2"
+    ],
+    [
+      "please",
+      9,
+      "A2"
+    ],
+    [
+      "professional",
+      9,
+      "B1+"
+    ],
+    [
+      "real",
+      9,
+      "A2"
+    ],
+    [
+      "start",
+      9,
+      "A2"
+    ],
+    [
+      "step",
+      9,
+      "A2"
+    ],
+    [
+      "stressful",
+      9,
+      "B1+"
+    ],
+    [
+      "usually",
+      9,
+      "B1+"
+    ],
+    [
+      "way",
+      9,
+      "A2"
+    ],
+    [
+      "busy",
+      8,
+      "A2"
+    ],
+    [
+      "everyday",
+      8,
+      "B1+"
+    ],
+    [
+      "everything",
+      8,
+      "B1+"
+    ],
+    [
+      "exactly",
+      8,
+      "B1+"
+    ],
+    [
+      "going",
+      8,
+      "B1+"
+    ],
+    [
+      "hello",
+      8,
+      "A2"
+    ],
+    [
+      "mean",
+      8,
+      "A2"
+    ],
+    [
+      "meeting",
+      8,
+      "A2"
+    ],
+    [
+      "minutes",
+      8,
+      "B1+"
+    ],
+    [
+      "problem",
+      8,
+      "A2"
+    ],
+    [
+      "proposal",
+      8,
+      "B1+"
+    ],
+    [
+      "relax",
+      8,
+      "A2"
+    ],
+    [
+      "remember",
+      8,
+      "A2"
+    ],
+    [
+      "shows",
+      8,
+      "A2"
+    ],
+    [
+      "subscribe",
+      8,
+      "B1+"
+    ],
+    [
+      "support",
+      8,
+      "A2"
+    ],
+    [
+      "week",
+      8,
+      "A2"
+    ],
+    [
+      "words",
+      8,
+      "A2"
+    ],
+    [
+      "begin",
+      7,
+      "A2"
+    ],
+    [
+      "bit",
+      7,
+      "A2"
+    ],
+    [
+      "come",
+      7,
+      "A2"
+    ],
+    [
+      "comment",
+      7,
+      "B1+"
+    ],
+    [
+      "discuss",
+      7,
+      "B1+"
+    ],
+    [
+      "door",
+      7,
+      "A2"
+    ],
+    [
+      "forget",
+      7,
+      "A2"
+    ],
+    [
+      "important",
+      7,
+      "A2"
+    ],
+    [
+      "improve",
+      7,
+      "B1+"
+    ],
+    [
+      "name",
+      7,
+      "A2"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "business english",
+      "count": 25,
+      "example": "Hello everyone and welcome to Business English Learning. This is your everyday English practice",
+      "t": 14.21
+    },
+    {
+      "text": "english learning",
+      "count": 15,
+      "example": "Hello everyone and welcome to Business English Learning. This is your everyday English practice",
+      "t": 14.21
+    },
+    {
+      "text": "business english learning",
+      "count": 15,
+      "example": "Hello everyone and welcome to Business English Learning. This is your everyday English practice",
+      "t": 14.21
+    },
+    {
+      "text": "wanted to talk",
+      "count": 13,
+      "example": "I wanted to talk about my recent tasks and check if I'm on the right track.",
+      "t": 70.93
+    },
+    {
+      "text": "wanted to ask",
+      "count": 13,
+      "example": "Yes, actually. I wanted to ask about my communication in meetings.",
+      "t": 113.57
+    },
+    {
+      "text": "english at work",
+      "count": 11,
+      "example": "And I'm Erica. In this podcast, we help you feel more confident using English at work,",
+      "t": 26.81
+    },
+    {
+      "text": "also wanted",
+      "count": 11,
+      "example": "I also wanted to talk about deadlines this week.",
+      "t": 150.69
+    },
+    {
+      "text": "i'm not sure",
+      "count": 11,
+      "example": "I think the structure is clear, but I'm not sure if the tone is right for senior management.",
+      "t": 351.25
+    },
+    {
+      "text": "that's good",
+      "count": 10,
+      "example": "That's good to know. I was worried I was spending too much time on it.",
+      "t": 101.73
+    },
+    {
+      "text": "don't need",
+      "count": 10,
+      "example": "Remember, you don't need perfect English to communicate well at work.",
+      "t": 223.61
+    }
+  ],
+  "phrases": [
+    {
+      "text": "business english",
+      "count": 25,
+      "example": "Hello everyone and welcome to Business English Learning. This is your everyday English practice",
+      "t": 14.21
+    },
+    {
+      "text": "english learning",
+      "count": 15,
+      "example": "Hello everyone and welcome to Business English Learning. This is your everyday English practice",
+      "t": 14.21
+    },
+    {
+      "text": "business english learning",
+      "count": 15,
+      "example": "Hello everyone and welcome to Business English Learning. This is your everyday English practice",
+      "t": 14.21
+    },
+    {
+      "text": "wanted to talk",
+      "count": 13,
+      "example": "I wanted to talk about my recent tasks and check if I'm on the right track.",
+      "t": 70.93
+    },
+    {
+      "text": "wanted to ask",
+      "count": 13,
+      "example": "Yes, actually. I wanted to ask about my communication in meetings.",
+      "t": 113.57
+    },
+    {
+      "text": "english at work",
+      "count": 11,
+      "example": "And I'm Erica. In this podcast, we help you feel more confident using English at work,",
+      "t": 26.81
+    },
+    {
+      "text": "also wanted",
+      "count": 11,
+      "example": "I also wanted to talk about deadlines this week.",
+      "t": 150.69
+    },
+    {
+      "text": "i'm not sure",
+      "count": 11,
+      "example": "I think the structure is clear, but I'm not sure if the tone is right for senior management.",
+      "t": 351.25
+    },
+    {
+      "text": "that's good",
+      "count": 10,
+      "example": "That's good to know. I was worried I was spending too much time on it.",
+      "t": 101.73
+    },
+    {
+      "text": "don't need",
+      "count": 10,
+      "example": "Remember, you don't need perfect English to communicate well at work.",
+      "t": 223.61
+    },
+    {
+      "text": "i'm glad",
+      "count": 10,
+      "example": "I'm glad you asked.",
+      "t": 399.49
+    },
+    {
+      "text": "feel nervous",
+      "count": 9,
+      "example": "Even people with good English feel nervous in these situations.",
+      "t": 44.09
+    },
+    {
+      "text": "feel more confident",
+      "count": 8,
+      "example": "And I'm Erica. In this podcast, we help you feel more confident using English at work,",
+      "t": 26.81
+    },
+    {
+      "text": "that's a good",
+      "count": 8,
+      "example": "That's a good thing to do. Go ahead.",
+      "t": 75.93
+    },
+    {
+      "text": "make sure",
+      "count": 8,
+      "example": "I just want to make sure I'm prioritizing correctly.",
+      "t": 85.93
+    },
+    {
+      "text": "every day",
+      "count": 8,
+      "example": "I'm trying to practice a little every day.",
+      "t": 487.93
+    },
+    {
+      "text": "helps a lot",
+      "count": 7,
+      "example": "Thanks. That helps a lot. Is there anything else you'd like feedback on?",
+      "t": 109.17
+    },
+    {
+      "text": "good work",
+      "count": 7,
+      "example": "No problem. I'd rather have good work than rushed work.",
+      "t": 178.49
+    },
+    {
+      "text": "always open",
+      "count": 7,
+      "example": "Anytime. My door is always open. I appreciate your support.",
+      "t": 206.09
+    },
+    {
+      "text": "door is always",
+      "count": 7,
+      "example": "Anytime. My door is always open. I appreciate your support.",
+      "t": 206.09
+    },
+    {
+      "text": "you're welcome",
+      "count": 7,
+      "example": "You're welcome. Have a great day.",
+      "t": 218.41
+    },
+    {
+      "text": "sometimes i worry",
+      "count": 7,
+      "example": "Sometimes I worry that will interrupt the meeting.",
+      "t": 474.45
+    },
+    {
+      "text": "that's a great",
+      "count": 7,
+      "example": "That's a great idea.",
+      "t": 701.96
+    },
+    {
+      "text": "today's episode",
+      "count": 6,
+      "example": "So today's episode is all about business English at work, focusing on clear and polite",
+      "t": 47.85
+    },
+    {
+      "text": "good to know",
+      "count": 6,
+      "example": "That's good to know. I was worried I was spending too much time on it.",
+      "t": 101.73
+    },
+    {
+      "text": "simple english",
+      "count": 6,
+      "example": "Absolutely. Simple English works very well in business.",
+      "t": 140.77
+    },
+    {
+      "text": "makes me feel",
+      "count": 6,
+      "example": "That makes me feel more comfortable.",
+      "t": 144.61
+    },
+    {
+      "text": "clear communication",
+      "count": 6,
+      "example": "Good. Clear communication is more important than complex language.",
+      "t": 146.69
+    },
+    {
+      "text": "i'll try",
+      "count": 6,
+      "example": "I'll try not to be.",
+      "t": 186.33
+    },
+    {
+      "text": "english class",
+      "count": 6,
+      "example": "This is your everyday business English class.",
+      "t": 236.33
+    },
+    {
+      "text": "good morning",
+      "count": 6,
+      "example": "Good morning, Sarah.",
+      "t": 326.05
+    },
+    {
+      "text": "good question",
+      "count": 6,
+      "example": "That's a good question.",
+      "t": 356.97
+    },
+    {
+      "text": "one thing",
+      "count": 6,
+      "example": "One thing you can do is prepare one or two points before meetings.",
+      "t": 455.41
+    },
+    {
+      "text": "hello everyone",
+      "count": 5,
+      "example": "Hello everyone and welcome to Business English Learning. This is your everyday English practice",
+      "t": 14.21
+    },
+    {
+      "text": "welcome to business",
+      "count": 5,
+      "example": "Hello everyone and welcome to Business English Learning. This is your everyday English practice",
+      "t": 14.21
+    },
+    {
+      "text": "let's begin",
+      "count": 5,
+      "example": "Alright, let's begin.",
+      "t": 59.85
+    },
+    {
+      "text": "go ahead",
+      "count": 5,
+      "example": "That's a good thing to do. Go ahead.",
+      "t": 75.93
+    },
+    {
+      "text": "want to make",
+      "count": 5,
+      "example": "I just want to make sure I'm prioritizing correctly.",
+      "t": 85.93
+    },
+    {
+      "text": "makes sense",
+      "count": 5,
+      "example": "That makes sense. Which task feels the most challenging right now?",
+      "t": 88.93
+    },
+    {
+      "text": "anything else",
+      "count": 5,
+      "example": "Thanks. That helps a lot. Is there anything else you'd like feedback on?",
+      "t": 109.17
+    },
+    {
+      "text": "keep practicing",
+      "count": 5,
+      "example": "Keep practicing. Keep improving.",
+      "t": 230.65
+    },
+    {
+      "text": "next episode",
+      "count": 5,
+      "example": "and we'll see you in the next episode.",
+      "t": 232.89
+    },
+    {
+      "text": "welcome back",
+      "count": 5,
+      "example": "Hi everyone, welcome back.",
+      "t": 242.33
+    },
+    {
+      "text": "making mistakes",
+      "count": 5,
+      "example": "You might worry about making mistakes, using the wrong words, or sounding unprofessional.",
+      "t": 279.93
+    },
+    {
+      "text": "worry about making",
+      "count": 5,
+      "example": "You might worry about making mistakes, using the wrong words, or sounding unprofessional.",
+      "t": 279.93
+    },
+    {
+      "text": "don't forget",
+      "count": 5,
+      "example": "And if you enjoy this podcast, don't forget to subscribe to Business English Learning.",
+      "t": 312.65
+    },
+    {
+      "text": "forget to subscribe",
+      "count": 5,
+      "example": "And if you enjoy this podcast, don't forget to subscribe to Business English Learning.",
+      "t": 312.65
+    },
+    {
+      "text": "subscribe to business",
+      "count": 5,
+      "example": "And if you enjoy this podcast, don't forget to subscribe to Business English Learning.",
+      "t": 312.65
+    },
+    {
+      "text": "internal report",
+      "count": 5,
+      "example": "I'm working on the proposal, the client emails, and the internal report.",
+      "t": 391.33
+    },
+    {
+      "text": "sometimes i'm",
+      "count": 5,
+      "example": "I feel motivated, but sometimes I'm not sure if I'm meeting expectations.",
+      "t": 509.07
+    },
+    {
+      "text": "i'll work",
+      "count": 5,
+      "example": "I'll work on those.",
+      "t": 551.95
+    },
+    {
+      "text": "don't be afraid",
+      "count": 5,
+      "example": "Keep practicing, keep improving, and don't be afraid to speak at work.",
+      "t": 596.63
+    },
+    {
+      "text": "real work",
+      "count": 4,
+      "example": "for real work situations.",
+      "t": 20.01
+    },
+    {
+      "text": "work situations",
+      "count": 4,
+      "example": "for real work situations.",
+      "t": 20.01
+    },
+    {
+      "text": "real work situations",
+      "count": 4,
+      "example": "for real work situations.",
+      "t": 20.01
+    },
+    {
+      "text": "hi everyone",
+      "count": 4,
+      "example": "Hi everyone. We're really happy you're here today. My name is Mauro.",
+      "t": 21.89
+    },
+    {
+      "text": "i'm erica",
+      "count": 4,
+      "example": "And I'm Erica. In this podcast, we help you feel more confident using English at work,",
+      "t": 26.81
+    },
+    {
+      "text": "feel stressful",
+      "count": 4,
+      "example": "especially in conversations that can feel stressful.",
+      "t": 33.13
+    },
+    {
+      "text": "even people",
+      "count": 4,
+      "example": "Even people with good English feel nervous in these situations.",
+      "t": 44.09
+    },
+    {
+      "text": "don't worry",
+      "count": 4,
+      "example": "Don't worry if you don't understand everything.",
+      "t": 55.63
+    },
+    {
+      "text": "don't understand",
+      "count": 4,
+      "example": "Don't worry if you don't understand everything.",
+      "t": 55.63
+    },
+    {
+      "text": "relax and listen",
+      "count": 4,
+      "example": "Just relax and listen.",
+      "t": 58.25
+    },
+    {
+      "text": "sure i'm",
+      "count": 4,
+      "example": "I just want to make sure I'm prioritizing correctly.",
+      "t": 85.93
+    },
+    {
+      "text": "make sure i'm",
+      "count": 4,
+      "example": "I just want to make sure I'm prioritizing correctly.",
+      "t": 85.93
+    },
+    {
+      "text": "else you'd",
+      "count": 4,
+      "example": "Thanks. That helps a lot. Is there anything else you'd like feedback on?",
+      "t": 109.17
+    },
+    {
+      "text": "anything else you'd",
+      "count": 4,
+      "example": "Thanks. That helps a lot. Is there anything else you'd like feedback on?",
+      "t": 109.17
+    },
+    {
+      "text": "feel a bit",
+      "count": 4,
+      "example": "The client call on Thursday and the report deadline on Friday feel a bit tight.",
+      "t": 155.69
+    },
+    {
+      "text": "that's great",
+      "count": 4,
+      "example": "That's great to hear. I want to keep improving my skills.",
+      "t": 194.89
+    },
+    {
+      "text": "keep improving",
+      "count": 4,
+      "example": "That's great to hear. I want to keep improving my skills.",
+      "t": 194.89
+    },
+    {
+      "text": "great to hear",
+      "count": 4,
+      "example": "That's great to hear. I want to keep improving my skills.",
+      "t": 194.89
+    },
+    {
+      "text": "anytime my door",
+      "count": 4,
+      "example": "Anytime. My door is always open. I appreciate your support.",
+      "t": 206.09
+    },
+    {
+      "text": "need perfect",
+      "count": 4,
+      "example": "Remember, you don't need perfect English to communicate well at work.",
+      "t": 223.61
+    },
+    {
+      "text": "perfect english",
+      "count": 4,
+      "example": "Remember, you don't need perfect English to communicate well at work.",
+      "t": 223.61
+    },
+    {
+      "text": "remember you don't",
+      "count": 4,
+      "example": "Remember, you don't need perfect English to communicate well at work.",
+      "t": 223.61
+    },
+    {
+      "text": "don't need perfect",
+      "count": 4,
+      "example": "Remember, you don't need perfect English to communicate well at work.",
+      "t": 223.61
+    },
+    {
+      "text": "everyday business",
+      "count": 4,
+      "example": "This is your everyday business English class.",
+      "t": 236.33
+    },
+    {
+      "text": "everyday business english",
+      "count": 4,
+      "example": "This is your everyday business English class.",
+      "t": 236.33
+    },
+    {
+      "text": "business english class",
+      "count": 4,
+      "example": "This is your everyday business English class.",
+      "t": 236.33
+    },
+    {
+      "text": "use english",
+      "count": 4,
+      "example": "If you use English at work,",
+      "t": 257.13
+    },
+    {
+      "text": "nervous speaking",
+      "count": 4,
+      "example": "They say, I understand English, but I feel nervous speaking to my boss.",
+      "t": 267.81
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen. Practice. Speak. Practice makes you perfect."
+    },
+    {
+      "t": 14.21,
+      "text": "Hello everyone and welcome to Business English Learning. This is your everyday English practice"
+    },
+    {
+      "t": 20.01,
+      "text": "for real work situations."
+    },
+    {
+      "t": 21.89,
+      "text": "Hi everyone. We're really happy you're here today. My name is Mauro."
+    },
+    {
+      "t": 26.81,
+      "text": "And I'm Erica. In this podcast, we help you feel more confident using English at work,"
+    },
+    {
+      "t": 33.13,
+      "text": "especially in conversations that can feel stressful."
+    },
+    {
+      "t": 36.21,
+      "text": "Yes, like talking to your boss."
+    },
+    {
+      "t": 39.01,
+      "text": "Many learners tell us this is one of the hardest things to do in English."
+    },
+    {
+      "t": 42.97,
+      "text": "That's true."
+    },
+    {
+      "t": 44.09,
+      "text": "Even people with good English feel nervous in these situations."
+    },
+    {
+      "t": 47.85,
+      "text": "So today's episode is all about business English at work, focusing on clear and polite"
+    },
+    {
+      "t": 53.33,
+      "text": "communication with your manager."
+    },
+    {
+      "t": 55.63,
+      "text": "Don't worry if you don't understand everything."
+    },
+    {
+      "t": 58.25,
+      "text": "Just relax and listen."
+    },
+    {
+      "t": 59.85,
+      "text": "Alright, let's begin."
+    },
+    {
+      "t": 61.73,
+      "text": "Hi Kevin, do you have a minute?"
+    },
+    {
+      "t": 63.93,
+      "text": "Hi Emily."
+    },
+    {
+      "t": 64.93,
+      "text": "Yes I do."
+    },
+    {
+      "t": 65.93,
+      "text": "Thank you. I really appreciate your time."
+    },
+    {
+      "t": 68.93,
+      "text": "Of course. What would you like to talk about?"
+    },
+    {
+      "t": 70.93,
+      "text": "I wanted to talk about my recent tasks and check if I'm on the right track."
+    },
+    {
+      "t": 75.93,
+      "text": "That's a good thing to do. Go ahead."
+    },
+    {
+      "t": 77.93,
+      "text": "I've been working on the customer follow-up project and the monthly report at the same time."
+    },
+    {
+      "t": 82.93,
+      "text": "Yes, I know it's been a busy period."
+    },
+    {
+      "t": 85.93,
+      "text": "I just want to make sure I'm prioritizing correctly."
+    },
+    {
+      "t": 88.93,
+      "text": "That makes sense. Which task feels the most challenging right now?"
+    },
+    {
+      "t": 92.93,
+      "text": "The monthly report, especially the data analysis part."
+    },
+    {
+      "t": 96.61,
+      "text": "I see. That section is important, but it doesn't need to be perfect on the first draft."
+    },
+    {
+      "t": 101.73,
+      "text": "That's good to know. I was worried I was spending too much time on it."
+    },
+    {
+      "t": 105.57,
+      "text": "It's okay. What matters is clarity, not perfection."
+    },
+    {
+      "t": 109.17,
+      "text": "Thanks. That helps a lot. Is there anything else you'd like feedback on?"
+    },
+    {
+      "t": 113.57,
+      "text": "Yes, actually. I wanted to ask about my communication in meetings."
+    },
+    {
+      "t": 117.73,
+      "text": "All right. How do you feel about it?"
+    },
+    {
+      "t": 119.97,
+      "text": "Sometimes I understand the discussion, but I hesitate to speak."
+    },
+    {
+      "t": 124.05,
+      "text": "That's very common, especially in a second language."
+    },
+    {
+      "t": 127.41,
+      "text": "I worry that my English isn't clear enough."
+    },
+    {
+      "t": 129.89,
+      "text": "Your English is clear. You just need more confidence."
+    },
+    {
+      "t": 133.01,
+      "text": "That's reassuring to hear."
+    },
+    {
+      "t": 134.77,
+      "text": "When you have an idea, try to share it, even if it's short."
+    },
+    {
+      "t": 138.13,
+      "text": "So it's okay if my sentence is simple."
+    },
+    {
+      "t": 140.77,
+      "text": "Absolutely. Simple English works very well in business."
+    },
+    {
+      "t": 144.61,
+      "text": "That makes me feel more comfortable."
+    },
+    {
+      "t": 146.69,
+      "text": "Good. Clear communication is more important than complex language."
+    },
+    {
+      "t": 150.69,
+      "text": "I also wanted to talk about deadlines this week."
+    },
+    {
+      "t": 153.69,
+      "text": "Sure. What's the situation?"
+    },
+    {
+      "t": 155.69,
+      "text": "The client call on Thursday and the report deadline on Friday feel a bit tight."
+    },
+    {
+      "t": 160.69,
+      "text": "I understand. Which one do you think needs more time?"
+    },
+    {
+      "t": 163.69,
+      "text": "The client call preparation. I want to be fully ready."
+    },
+    {
+      "t": 167.69,
+      "text": "That's reasonable. Would one extra day for the report help?"
+    },
+    {
+      "t": 170.69,
+      "text": "Yes, definitely."
+    },
+    {
+      "t": 172.69,
+      "text": "Okay. Let's move the report deadline to Monday."
+    },
+    {
+      "t": 175.69,
+      "text": "Thank you so much. I really appreciate that."
+    },
+    {
+      "t": 178.49,
+      "text": "No problem. I'd rather have good work than rushed work."
+    },
+    {
+      "t": 181.69,
+      "text": "I agree completely."
+    },
+    {
+      "t": 183.29,
+      "text": "You're doing well, Emily. Don't be too hard on yourself."
+    },
+    {
+      "t": 186.33,
+      "text": "I'll try not to be."
+    },
+    {
+      "t": 187.69,
+      "text": "Do you have any long-term goals you'd like to talk about?"
+    },
+    {
+      "t": 190.49,
+      "text": "Yes. I'd like to grow in the company and take on more responsibility."
+    },
+    {
+      "t": 194.89,
+      "text": "That's great to hear. I want to keep improving my skills."
+    },
+    {
+      "t": 198.33,
+      "text": "Focus on communication, planning, and confidence. You're already improving."
+    },
+    {
+      "t": 203.69,
+      "text": "Thank you. That motivates me a lot."
+    },
+    {
+      "t": 206.09,
+      "text": "Anytime. My door is always open. I appreciate your support."
+    },
+    {
+      "t": 210.57,
+      "text": "You're a valuable part of the team."
+    },
+    {
+      "t": 212.65,
+      "text": "That means a lot to me."
+    },
+    {
+      "t": 214.25,
+      "text": "All right. Let's catch up again next month."
+    },
+    {
+      "t": 216.49,
+      "text": "Sounds good. Thank you again."
+    },
+    {
+      "t": 218.41,
+      "text": "You're welcome. Have a great day."
+    },
+    {
+      "t": 220.01,
+      "text": "You too."
+    },
+    {
+      "t": 220.89,
+      "text": "And that's the end of today's conversation."
+    },
+    {
+      "t": 223.61,
+      "text": "Remember, you don't need perfect English to communicate well at work."
+    },
+    {
+      "t": 228.33,
+      "text": "Simple, clear English is enough."
+    },
+    {
+      "t": 230.65,
+      "text": "Keep practicing. Keep improving."
+    },
+    {
+      "t": 232.89,
+      "text": "and we'll see you in the next episode."
+    },
+    {
+      "t": 236.33,
+      "text": "This is your everyday business English class."
+    },
+    {
+      "t": 239.33,
+      "text": "Hello and welcome to Business English Learning."
+    },
+    {
+      "t": 242.33,
+      "text": "Hi everyone, welcome back."
+    },
+    {
+      "t": 244.13,
+      "text": "My name is Daniel."
+    },
+    {
+      "t": 245.53,
+      "text": "And my name is Erica."
+    },
+    {
+      "t": 246.93,
+      "text": "We're really happy to have you here today."
+    },
+    {
+      "t": 249.53,
+      "text": "This podcast is designed to help you improve your English"
+    },
+    {
+      "t": 252.73,
+      "text": "for real work situations in a simple, clear and practical way."
+    },
+    {
+      "t": 257.13,
+      "text": "If you use English at work,"
+    },
+    {
+      "t": 258.93,
+      "text": "or if you plan to work in an international company,"
+    },
+    {
+      "t": 262.13,
+      "text": "This episode is especially for you."
+    },
+    {
+      "t": 265.21,
+      "text": "Many English learners tell us the same thing."
+    },
+    {
+      "t": 267.81,
+      "text": "They say, I understand English, but I feel nervous speaking to my boss."
+    },
+    {
+      "t": 272.37,
+      "text": "Yes, and that feeling is very normal."
+    },
+    {
+      "t": 275.69,
+      "text": "Talking to your manager can feel stressful, even in your own language."
+    },
+    {
+      "t": 279.93,
+      "text": "You might worry about making mistakes, using the wrong words, or sounding unprofessional."
+    },
+    {
+      "t": 285.25,
+      "text": "But don't worry, today's episode will help you feel more confident and more prepared."
+    },
+    {
+      "t": 290.77,
+      "text": "Today we're talking about business English at work, specifically how to communicate with"
+    },
+    {
+      "t": 295.25,
+      "text": "your boss."
+    },
+    {
+      "t": 296.25,
+      "text": "You'll hear how to ask for help, talk about progress, discuss priorities, and handle problems"
+    },
+    {
+      "t": 302.37,
+      "text": "calmly."
+    },
+    {
+      "t": 303.89,
+      "text": "Just relax and listen."
+    },
+    {
+      "t": 305.33,
+      "text": "You don't need to understand every word the first time."
+    },
+    {
+      "t": 308.53,
+      "text": "That's totally okay."
+    },
+    {
+      "t": 310.25,
+      "text": "Learning happens step by step."
+    },
+    {
+      "t": 312.65,
+      "text": "And if you enjoy this podcast, don't forget to subscribe to Business English Learning."
+    },
+    {
+      "t": 317.49,
+      "text": "Your support helps us continue creating free content for you."
+    },
+    {
+      "t": 321.57,
+      "text": "Alright, grab your coffee, take a deep breath, and let's get started."
+    },
+    {
+      "t": 326.05,
+      "text": "Good morning, Sarah."
+    },
+    {
+      "t": 327.29,
+      "text": "Do you have a moment to talk?"
+    },
+    {
+      "t": 329.13,
+      "text": "Good morning, Tom."
+    },
+    {
+      "t": 330.13,
+      "text": "Yes, I have a few minutes."
+    },
+    {
+      "t": 331.69,
+      "text": "What's on your mind?"
+    },
+    {
+      "t": 332.69,
+      "text": "Thank you."
+    },
+    {
+      "t": 333.69,
+      "text": "I wanted to give you a quick update on my current tasks and ask a few questions."
+    },
+    {
+      "t": 339.09,
+      "text": "That sounds good."
+    },
+    {
+      "t": 340.09,
+      "text": "I appreciate you keeping me informed."
+    },
+    {
+      "t": 342.17,
+      "text": "Please, go ahead."
+    },
+    {
+      "t": 343.29,
+      "text": "First, I wanted to talk about the marketing proposal."
+    },
+    {
+      "t": 346.61,
+      "text": "I finished the first draft."
+    },
+    {
+      "t": 348.45,
+      "text": "Great."
+    },
+    {
+      "t": 349.45,
+      "text": "How do you feel about it so far?"
+    },
+    {
+      "t": 351.25,
+      "text": "I think the structure is clear, but I'm not sure if the tone is right for senior management."
+    },
+    {
+      "t": 356.97,
+      "text": "That's a good question."
+    },
+    {
+      "t": 358.85,
+      "text": "The tone should be confident but simple."
+    },
+    {
+      "t": 361.81,
+      "text": "So less detail and more focus on key points?"
+    },
+    {
+      "t": 366.41,
+      "text": "Exactly."
+    },
+    {
+      "t": 367.65,
+      "text": "Senior managers usually want the mean message quickly."
+    },
+    {
+      "t": 371.13,
+      "text": "That helps a lot."
+    },
+    {
+      "t": 372.25,
+      "text": "I'll revise it with that in mind."
+    },
+    {
+      "t": 374.69,
+      "text": "Perfect."
+    },
+    {
+      "t": 375.69,
+      "text": "Do you think you can send the updated version?"
+    },
+    {
+      "t": 378.01,
+      "text": "I can send it by tomorrow afternoon."
+    },
+    {
+      "t": 381.19,
+      "text": "That works for me."
+    },
+    {
+      "t": 382.41,
+      "text": "Thank you for being clear about the timing."
+    },
+    {
+      "t": 384.57,
+      "text": "You're welcome."
+    },
+    {
+      "t": 385.57,
+      "text": "I also wanted to ask about priorities this week."
+    },
+    {
+      "t": 388.85,
+      "text": "Sure."
+    },
+    {
+      "t": 389.85,
+      "text": "What are you concerned about?"
+    },
+    {
+      "t": 391.33,
+      "text": "I'm working on the proposal, the client emails, and the internal report."
+    },
+    {
+      "t": 396.41,
+      "text": "I want to make sure I focus on the right things."
+    },
+    {
+      "t": 399.49,
+      "text": "I'm glad you asked."
+    },
+    {
+      "t": 400.85,
+      "text": "The proposal is the top priority."
+    },
+    {
+      "t": 403.13,
+      "text": "Okay."
+    },
+    {
+      "t": 404.13,
+      "text": "That's good to know."
+    },
+    {
+      "t": 405.21,
+      "text": "The client emails are also important, but the internal report can wait until next week."
+    },
+    {
+      "t": 410.49,
+      "text": "That really helps."
+    },
+    {
+      "t": 411.49,
+      "text": "I was worried about trying to do everything at once."
+    },
+    {
+      "t": 415.05,
+      "text": "You don't need to do everything at the same time."
+    },
+    {
+      "t": 417.41,
+      "text": "It's better to do fewer things well."
+    },
+    {
+      "t": 420.01,
+      "text": "I agree."
+    },
+    {
+      "t": 421.09,
+      "text": "Thank you for clarifying that."
+    },
+    {
+      "t": 423.09,
+      "text": "Of course."
+    },
+    {
+      "t": 424.09,
+      "text": "Is there anything else you'd like to discuss?"
+    },
+    {
+      "t": 426.29,
+      "text": "Yes, actually."
+    },
+    {
+      "t": 427.57,
+      "text": "I wanted to talk about a small challenge I'm having."
+    },
+    {
+      "t": 430.93,
+      "text": "That's fine."
+    },
+    {
+      "t": 432.17,
+      "text": "Please tell me."
+    },
+    {
+      "t": 433.29,
+      "text": "In meetings, sometimes I need more time to process information in English."
+    },
+    {
+      "t": 438.97,
+      "text": "That's completely understandable."
+    },
+    {
+      "t": 440.85,
+      "text": "What happens in those situations?"
+    },
+    {
+      "t": 443.61,
+      "text": "Sometimes the discussion moves very fast, and I hesitate to speak."
+    },
+    {
+      "t": 448.33,
+      "text": "Thank you for being honest."
+    },
+    {
+      "t": 449.77,
+      "text": "That's important."
+    },
+    {
+      "t": 450.85,
+      "text": "I don't want people to think I don't have ideas."
+    },
+    {
+      "t": 453.89,
+      "text": "I understand."
+    },
+    {
+      "t": 455.41,
+      "text": "One thing you can do is prepare one or two points before meetings."
+    },
+    {
+      "t": 459.49,
+      "text": "That's a good idea."
+    },
+    {
+      "t": 460.89,
+      "text": "You can also say, can I add something?"
+    },
+    {
+      "t": 463.29,
+      "text": "Or I'd like to comment on that."
+    },
+    {
+      "t": 465.75,
+      "text": "Those phrases sound very useful and polite."
+    },
+    {
+      "t": 468.77,
+      "text": "They are."
+    },
+    {
+      "t": 469.77,
+      "text": "And remember, it's okay to ask people to slow down or repeat."
+    },
+    {
+      "t": 474.45,
+      "text": "Sometimes I worry that will interrupt the meeting."
+    },
+    {
+      "t": 476.85,
+      "text": "Actually, it often helps everyone."
+    },
+    {
+      "t": 479.33,
+      "text": "Clear communication benefits the whole team."
+    },
+    {
+      "t": 482.21,
+      "text": "That makes me feel more confident."
+    },
+    {
+      "t": 484.21,
+      "text": "Good."
+    },
+    {
+      "t": 485.33,
+      "text": "Confidence comes from practice, not perfection."
+    },
+    {
+      "t": 487.93,
+      "text": "I'm trying to practice a little every day."
+    },
+    {
+      "t": 490.87,
+      "text": "That's the best approach."
+    },
+    {
+      "t": 492.39,
+      "text": "Even 10 minutes a day makes a difference."
+    },
+    {
+      "t": 494.71,
+      "text": "I usually listen to English podcasts during my commute."
+    },
+    {
+      "t": 498.67,
+      "text": "That's an excellent habit."
+    },
+    {
+      "t": 500.15,
+      "text": "Keep doing that."
+    },
+    {
+      "t": 501.15,
+      "text": "Thank you."
+    },
+    {
+      "t": 502.15,
+      "text": "I also wanted to ask about my overall performance."
+    },
+    {
+      "t": 505.75,
+      "text": "I'm glad you brought that up."
+    },
+    {
+      "t": 507.35,
+      "text": "How do you feel about your work?"
+    },
+    {
+      "t": 509.07,
+      "text": "I feel motivated, but sometimes I'm not sure if I'm meeting expectations."
+    },
+    {
+      "t": 514.99,
+      "text": "You are doing well, Tom."
+    },
+    {
+      "t": 516.51,
+      "text": "Your work is reliable and consistent."
+    },
+    {
+      "t": 519.23,
+      "text": "That's great to hear."
+    },
+    {
+      "t": 520.83,
+      "text": "One area you can continue to develop is speaking up more in group discussions."
+    },
+    {
+      "t": 525.27,
+      "text": "Yes, that makes sense."
+    },
+    {
+      "t": 527.59,
+      "text": "But overall, I'm very happy with your progress."
+    },
+    {
+      "t": 530.91,
+      "text": "Thank you, Sarah."
+    },
+    {
+      "t": 531.91,
+      "text": "That feedback really encourages me."
+    },
+    {
+      "t": 534.15,
+      "text": "You're welcome."
+    },
+    {
+      "t": 535.23,
+      "text": "Do you have any long-term goals you'd like to share?"
+    },
+    {
+      "t": 538.23,
+      "text": "Yes, I'd like to take on more responsibility in the future."
+    },
+    {
+      "t": 542.31,
+      "text": "That's good to hear."
+    },
+    {
+      "t": 543.63,
+      "text": "Growth starts with initiative."
+    },
+    {
+      "t": 545.75,
+      "text": "What skills do you think I should focus on?"
+    },
+    {
+      "t": 548.03,
+      "text": "communication, time management, and decision making."
+    },
+    {
+      "t": 551.95,
+      "text": "I'll work on those."
+    },
+    {
+      "t": 553.51,
+      "text": "And remember, you can always come to me with questions."
+    },
+    {
+      "t": 556.79,
+      "text": "I appreciate that."
+    },
+    {
+      "t": 558.15,
+      "text": "It makes a big difference."
+    },
+    {
+      "t": 559.99,
+      "text": "My door is always open."
+    },
+    {
+      "t": 562.35,
+      "text": "Thank you for your time and support."
+    },
+    {
+      "t": 564.35,
+      "text": "You're very welcome."
+    },
+    {
+      "t": 565.75,
+      "text": "Keep up the good work."
+    },
+    {
+      "t": 567.23,
+      "text": "That was a very realistic workplace conversation."
+    },
+    {
+      "t": 570.07,
+      "text": "Yes, and situations like this happen every day in offices around the world."
+    },
+    {
+      "t": 575.71,
+      "text": "Clear, polite, and simple English is enough to communicate well with your boss."
+    },
+    {
+      "t": 580.67,
+      "text": "You don't need perfect grammar or advanced vocabulary."
+    },
+    {
+      "t": 584.47,
+      "text": "What matters most is being clear, respectful, and honest."
+    },
+    {
+      "t": 588.47,
+      "text": "If you liked this episode, please subscribe to Business English Learning."
+    },
+    {
+      "t": 593.23,
+      "text": "And feel free to leave a comment telling us where you're listening from."
+    },
+    {
+      "t": 596.63,
+      "text": "Keep practicing, keep improving, and don't be afraid to speak at work."
+    },
+    {
+      "t": 601.47,
+      "text": "We believe in you."
+    },
+    {
+      "t": 602.87,
+      "text": "See you in the next episode."
+    },
+    {
+      "t": 604.71,
+      "text": "Take care."
+    },
+    {
+      "t": 611.96,
+      "text": "This is your Business English Learning Podcast."
+    },
+    {
+      "t": 615.16,
+      "text": "Hello and welcome everyone."
+    },
+    {
+      "t": 616.72,
+      "text": "I'm Marco."
+    },
+    {
+      "t": 617.82,
+      "text": "And I'm Erica."
+    },
+    {
+      "t": 618.92,
+      "text": "We're very happy you're here today."
+    },
+    {
+      "t": 620.84,
+      "text": "This podcast is designed to help you learn real, practical English for work and everyday"
+    },
+    {
+      "t": 625.76,
+      "text": "life."
+    },
+    {
+      "t": 626.76,
+      "text": "We focus on clear, natural English that you can actually use in your job, in meetings"
+    },
+    {
+      "t": 632.36,
+      "text": "and with your manager."
+    },
+    {
+      "t": 634.24,
+      "text": "Speaking English at work can be stressful, right?"
+    },
+    {
+      "t": 637.24,
+      "text": "Absolutely."
+    },
+    {
+      "t": 638.24,
+      "text": "You might feel nervous talking to your boss."
+    },
+    {
+      "t": 640.84,
+      "text": "You might worry about making mistakes."
+    },
+    {
+      "t": 643.12,
+      "text": "Or maybe you don't know how to say what you really mean."
+    },
+    {
+      "t": 646.44,
+      "text": "And that's totally normal."
+    },
+    {
+      "t": 648.12,
+      "text": "Even people with good English feel that way sometimes."
+    },
+    {
+      "t": 651.24,
+      "text": "So today's episode is very practical."
+    },
+    {
+      "t": 653.84,
+      "text": "Yes, we're talking about business English at work."
+    },
+    {
+      "t": 657.6,
+      "text": "How to talk to your boss clearly and confidently."
+    },
+    {
+      "t": 660.84,
+      "text": "You'll learn how to ask for feedback politely."
+    },
+    {
+      "t": 663.4,
+      "text": "How to talk about deadlines without sounding negative."
+    },
+    {
+      "t": 666.6,
+      "text": "How to ask for clarification when you don't understand."
+    },
+    {
+      "t": 669.5,
+      "text": "And how to talk about growth and goals at work."
+    },
+    {
+      "t": 672.78,
+      "text": "Don't worry if you don't understand everything the first time."
+    },
+    {
+      "t": 675.84,
+      "text": "Just relax and listen."
+    },
+    {
+      "t": 677.8,
+      "text": "After the dialogue, we'll explain the key phrases and vocabulary step by step."
+    },
+    {
+      "t": 682.68,
+      "text": "And don't forget to subscribe to Business English Learning so you don't miss new"
+    },
+    {
+      "t": 687.32,
+      "text": "episodes."
+    },
+    {
+      "t": 688.32,
+      "text": "Now, grab your coffee, take a deep breath, and let's begin."
+    },
+    {
+      "t": 692.32,
+      "text": "Hi, Emma."
+    },
+    {
+      "t": 693.32,
+      "text": "Do you have a moment?"
+    },
+    {
+      "t": 694.32,
+      "text": "Hi Alex."
+    },
+    {
+      "t": 695.32,
+      "text": "Yes, of course."
+    },
+    {
+      "t": 696.32,
+      "text": "How can I help?"
+    },
+    {
+      "t": 697.32,
+      "text": "Thank you."
+    },
+    {
+      "t": 698.32,
+      "text": "I wanted to talk to you about my recent work and get some advice."
+    },
+    {
+      "t": 701.96,
+      "text": "That's a great idea."
+    },
+    {
+      "t": 702.96,
+      "text": "I'm glad you came to talk to me."
+    },
+    {
+      "t": 704.88,
+      "text": "Sometimes I'm not sure if I'm doing things the right way."
+    },
+    {
+      "t": 707.96,
+      "text": "That's very honest of you."
+    },
+    {
+      "t": 709.72,
+      "text": "Many people feel that way."
+    },
+    {
+      "t": 711.2,
+      "text": "I really want to improve and do better in this role."
+    },
+    {
+      "t": 714.2,
+      "text": "And I can see that."
+    },
+    {
+      "t": 715.4,
+      "text": "Your effort shows."
+    },
+    {
+      "t": 717.0,
+      "text": "That's good to hear."
+    },
+    {
+      "t": 718.2,
+      "text": "I was hoping you could give me some feedback."
+    },
+    {
+      "t": 720.5,
+      "text": "Of course."
+    },
+    {
+      "t": 721.5,
+      "text": "Let's start with your last project, the client proposal."
+    },
+    {
+      "t": 725.04,
+      "text": "Yes, that one. I worked hard on it."
+    },
+    {
+      "t": 727.74,
+      "text": "You did. The structure was clear and your ideas were strong."
+    },
+    {
+      "t": 731.94,
+      "text": "Thank you. That means a lot."
+    },
+    {
+      "t": 733.74,
+      "text": "One thing you can improve is the introduction."
+    },
+    {
+      "t": 736.94,
+      "text": "Could you explain what you mean?"
+    },
+    {
+      "t": 738.54,
+      "text": "Sure. It could be shorter and more direct."
+    },
+    {
+      "t": 741.64,
+      "text": "So less detail at the beginning?"
+    },
+    {
+      "t": 743.54,
+      "text": "Exactly. Busy people want the main point fast."
+    },
+    {
+      "t": 747.74,
+      "text": "Got it. I'll rewrite that part."
+    },
+    {
+      "t": 750.04,
+      "text": "Great. Send me the new version when it's ready."
+    },
+    {
+      "t": 752.84,
+      "text": "I will. Thanks for the suggestion."
+    },
+    {
+      "t": 754.84,
+      "text": "You're welcome. Anything else on your mind?"
+    },
+    {
+      "t": 757.48,
+      "text": "Yes. I wanted to talk about my schedule this week."
+    },
+    {
+      "t": 760.68,
+      "text": "Okay, what's going on?"
+    },
+    {
+      "t": 762.28,
+      "text": "I feel a bit overloaded with tasks."
+    },
+    {
+      "t": 764.76,
+      "text": "Which task is the most challenging right now?"
+    },
+    {
+      "t": 767.48,
+      "text": "The team presentation on Wednesday."
+    },
+    {
+      "t": 769.64,
+      "text": "Yes, that's an important one."
+    },
+    {
+      "t": 771.56,
+      "text": "I want to do it well, but I'm worried about time."
+    },
+    {
+      "t": 774.52,
+      "text": "I appreciate that you care about quality."
+    },
+    {
+      "t": 777.08,
+      "text": "Would it be possible to move one of my other deadlines?"
+    },
+    {
+      "t": 780.04,
+      "text": "Which one?"
+    },
+    {
+      "t": 781.08,
+      "text": "The internal report. Maybe until Friday?"
+    },
+    {
+      "t": 784.04,
+      "text": "That's reasonable. Let's do that."
+    },
+    {
+      "t": 786.04,
+      "text": "Thank you so much. That helps a lot."
+    },
+    {
+      "t": 788.36,
+      "text": "Good communication makes work easier for everyone."
+    },
+    {
+      "t": 791.56,
+      "text": "I'm trying to communicate better in English."
+    },
+    {
+      "t": 793.8,
+      "text": "You're doing very well. Your English has improved a lot."
+    },
+    {
+      "t": 797.16,
+      "text": "Really? I still feel nervous sometimes."
+    },
+    {
+      "t": 799.8,
+      "text": "That's normal. Confidence comes with practice."
+    },
+    {
+      "t": 803.0,
+      "text": "I try to listen to English podcasts every day."
+    },
+    {
+      "t": 805.64,
+      "text": "That's a great habit. Keep doing that."
+    },
+    {
+      "t": 807.96,
+      "text": "In meetings, I don't always understand everything."
+    },
+    {
+      "t": 810.76,
+      "text": "That happens to everyone."
+    },
+    {
+      "t": 812.36,
+      "text": "Is it okay to ask people to repeat?"
+    },
+    {
+      "t": 814.44,
+      "text": "Of course! It's professional, not rude."
+    },
+    {
+      "t": 817.16,
+      "text": "What can I say?"
+    },
+    {
+      "t": 818.28,
+      "text": "You can say,"
+    },
+    {
+      "t": 819.4,
+      "text": "sorry, could you say that again?"
+    },
+    {
+      "t": 821.32,
+      "text": "Or just to make sure I understand."
+    },
+    {
+      "t": 824.44,
+      "text": "That sounds helpful."
+    },
+    {
+      "t": 825.72,
+      "text": "Always ask questions, that's how you learn."
+    },
+    {
+      "t": 828.28,
+      "text": "Thanks. One more thing."
+    },
+    {
+      "t": 830.36,
+      "text": "I'd like to grow in the company."
+    },
+    {
+      "t": 832.12,
+      "text": "That's great to hear."
+    },
+    {
+      "t": 833.4,
+      "text": "What should I focus on?"
+    },
+    {
+      "t": 834.84,
+      "text": "Communication, time management, and confidence."
+    },
+    {
+      "t": 838.6,
+      "text": "I'll work on those."
+    },
+    {
+      "t": 839.8,
+      "text": "and don't be afraid to share your ideas."
+    },
+    {
+      "t": 842.26,
+      "text": "I'll try to speak up more."
+    },
+    {
+      "t": 843.66,
+      "text": "Good. Your ideas matter."
+    },
+    {
+      "t": 845.74,
+      "text": "Thank you, Emma. I really appreciate your support."
+    },
+    {
+      "t": 848.58,
+      "text": "Anytime, Alex. My door is always open."
+    },
+    {
+      "t": 851.38,
+      "text": "Have a great day."
+    },
+    {
+      "t": 852.38,
+      "text": "You too. Keep up the good work."
+    },
+    {
+      "t": 854.18,
+      "text": "That was a very natural workplace conversation."
+    },
+    {
+      "t": 857.22,
+      "text": "Yes, and these kinds of talks happen every day in offices around the world."
+    },
+    {
+      "t": 861.98,
+      "text": "Let's quickly review what you learned today."
+    },
+    {
+      "t": 863.98,
+      "text": "You learned how to ask for feedback politely."
+    },
+    {
+      "t": 867.14,
+      "text": "How to talk about deadlines without sounding negative."
+    },
+    {
+      "t": 869.94,
+      "text": "How to ask for clarification when you don't understand."
+    },
+    {
+      "t": 873.14,
+      "text": "And how to talk about growth and goals at work."
+    },
+    {
+      "t": 876.02,
+      "text": "Remember, you don't need perfect English."
+    },
+    {
+      "t": 879.22,
+      "text": "You need clear, simple and confident English."
+    },
+    {
+      "t": 882.18,
+      "text": "So here's your challenge for this week."
+    },
+    {
+      "t": 884.58,
+      "text": "Use one sentence from today's episode in real life."
+    },
+    {
+      "t": 887.62,
+      "text": "Or practice it out loud at home."
+    },
+    {
+      "t": 889.94,
+      "text": "Small steps create big progress."
+    },
+    {
+      "t": 892.5,
+      "text": "If this episode helped you, subscribe."
+    },
+    {
+      "t": 895.38,
+      "text": "This is your everyday English class."
+    },
+    {
+      "t": 898.98,
+      "text": "Welcome to Business English Learning."
+    },
+    {
+      "t": 902.34,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 903.34,
+      "text": "I'm Oliver."
+    },
+    {
+      "t": 904.5,
+      "text": "And I'm Erica."
+    },
+    {
+      "t": 906.02,
+      "text": "In this podcast, we help you practice English"
+    },
+    {
+      "t": 909.34,
+      "text": "for real situations at work."
+    },
+    {
+      "t": 912.38,
+      "text": "Using English at work can feel difficult, especially"
+    },
+    {
+      "t": 915.62,
+      "text": "when you need to talk to your manager."
+    },
+    {
+      "t": 917.66,
+      "text": "Yes, many people worry about making mistakes"
+    },
+    {
+      "t": 921.66,
+      "text": "or sounding unprofessional."
+    },
+    {
+      "t": 924.06,
+      "text": "Today, we're focusing on clear and polite workplace communication."
+    },
+    {
+      "t": 928.54,
+      "text": "Relax, listen carefully, and enjoy the conversation."
+    },
+    {
+      "t": 933.18,
+      "text": "Let's start."
+    },
+    {
+      "t": 934.42,
+      "text": "Hi, Amanda."
+    },
+    {
+      "t": 935.38,
+      "text": "Is now a good time to talk?"
+    },
+    {
+      "t": 937.1,
+      "text": "Hi, Kevin."
+    },
+    {
+      "t": 938.14,
+      "text": "Yes, I have a few minutes."
+    },
+    {
+      "t": 939.94,
+      "text": "What's going on?"
+    },
+    {
+      "t": 941.3,
+      "text": "Thanks."
+    },
+    {
+      "t": 942.1,
+      "text": "I wanted to update you on my progress"
+    },
+    {
+      "t": 944.02,
+      "text": "and ask a quick question."
+    },
+    {
+      "t": 945.98,
+      "text": "Sure."
+    },
+    {
+      "t": 946.78,
+      "text": "How is the project going so far?"
+    },
+    {
+      "t": 949.26,
+      "text": "It's going well, but I want to confirm the expectations"
+    },
+    {
+      "t": 952.3,
+      "text": "before I move forward."
+    },
+    {
+      "t": 954.14,
+      "text": "That's smart."
+    },
+    {
+      "t": 955.34,
+      "text": "Which part would you like to clarify?"
+    },
+    {
+      "t": 957.94,
+      "text": "The client email."
+    },
+    {
+      "t": 959.3,
+      "text": "I'm not sure how formal it should be."
+    },
+    {
+      "t": 961.78,
+      "text": "Good question."
+    },
+    {
+      "t": 962.98,
+      "text": "Keep it professional, but friendly and concise."
+    },
+    {
+      "t": 966.74,
+      "text": "OK."
+    },
+    {
+      "t": 967.5,
+      "text": "Short and polite."
+    },
+    {
+      "t": 968.7,
+      "text": "That helps a lot."
+    },
+    {
+      "t": 969.98,
+      "text": "Yes."
+    },
+    {
+      "t": 970.82,
+      "text": "Clients usually prefer clear messages."
+    },
+    {
+      "t": 974.46,
+      "text": "I also wanted to mention the timeline."
+    },
+    {
+      "t": 976.94,
+      "text": "All right."
+    },
+    {
+      "t": 977.74,
+      "text": "Are there any concerns?"
+    },
+    {
+      "t": 979.82,
+      "text": "I can meet the deadline, but I"
+    },
+    {
+      "t": 981.22,
+      "text": "I want to make sure the quality stays high."
+    },
+    {
+      "t": 983.86,
+      "text": "I appreciate you thinking about quality."
+    },
+    {
+      "t": 986.92,
+      "text": "Would it be okay if I sent a draft first for review?"
+    },
+    {
+      "t": 991.14,
+      "text": "That's a great idea."
+    },
+    {
+      "t": 992.34,
+      "text": "Send it by Wednesday."
+    },
+    {
+      "t": 993.86,
+      "text": "Perfect."
+    },
+    {
+      "t": 994.96,
+      "text": "That makes me feel more confident."
+    },
+    {
+      "t": 997.7,
+      "text": "Confidence grows when you ask the right questions."
+    },
+    {
+      "t": 1000.34,
+      "text": "I'm still learning how to express myself clearly in English."
+    },
+    {
+      "t": 1004.94,
+      "text": "You're improving a lot."
+    },
+    {
+      "t": 1006.34,
+      "text": "Your messages are clear and professional."
+    },
+    {
+      "t": 1009.22,
+      "text": "Thank you."
+    },
+    {
+      "t": 1010.72,
+      "text": "I still feel nervous in meetings."
+    },
+    {
+      "t": 1013.72,
+      "text": "That's normal."
+    },
+    {
+      "t": 1014.72,
+      "text": "Even native speakers feel that way."
+    },
+    {
+      "t": 1017.08,
+      "text": "That's good to know."
+    },
+    {
+      "t": 1018.08,
+      "text": "I'll try to speak up more."
+    },
+    {
+      "t": 1020.48,
+      "text": "Start small."
+    },
+    {
+      "t": 1021.48,
+      "text": "Even one comment is progress."
+    },
+    {
+      "t": 1023.56,
+      "text": "I'll do that."
+    },
+    {
+      "t": 1024.88,
+      "text": "Thanks for your support."
+    },
+    {
+      "t": 1026.56,
+      "text": "Anytime."
+    },
+    {
+      "t": 1027.56,
+      "text": "Let me know if you need help."
+    },
+    {
+      "t": 1028.88,
+      "text": "I will."
+    },
+    {
+      "t": 1029.88,
+      "text": "Have a great day."
+    },
+    {
+      "t": 1031.32,
+      "text": "You too."
+    },
+    {
+      "t": 1032.32,
+      "text": "Keep up the good work."
+    },
+    {
+      "t": 1033.6,
+      "text": "This is your everyday business English class."
+    },
+    {
+      "t": 1036.76,
+      "text": "Welcome back to Business English Learning."
+    },
+    {
+      "t": 1039.08,
+      "text": "Hello everyone, great to have you with us again."
+    },
+    {
+      "t": 1041.6,
+      "text": "My name is Ryan."
+    },
+    {
+      "t": 1043.08,
+      "text": "And I'm Mark."
+    },
+    {
+      "t": 1044.08,
+      "text": "Thanks for joining us today."
+    },
+    {
+      "t": 1045.92,
+      "text": "Our goal is simple, to help you use English confidently and naturally at work."
+    },
+    {
+      "t": 1051.88,
+      "text": "Especially in situations that feel difficult or stressful."
+    },
+    {
+      "t": 1055.6,
+      "text": "And one of the most common stressful situations is talking to your boss."
+    },
+    {
+      "t": 1060.36,
+      "text": "Exactly."
+    },
+    {
+      "t": 1061.52,
+      "text": "Even people with strong English skills can feel nervous in these moments."
+    },
+    {
+      "t": 1066.12,
+      "text": "You might worry about choosing the right words or sounding professional."
+    },
+    {
+      "t": 1070.42,
+      "text": "But the good news is this, workplace English doesn't need to be complicated."
+    },
+    {
+      "t": 1075.58,
+      "text": "Clear and simple English is usually the best English."
+    },
+    {
+      "t": 1079.26,
+      "text": "Today's conversation will show you how to speak with your manager about work progress,"
+    },
+    {
+      "t": 1083.42,
+      "text": "problems, and expectations."
+    },
+    {
+      "t": 1086.34,
+      "text": "Just listen and relax."
+    },
+    {
+      "t": 1088.02,
+      "text": "Don't try to translate every sentence in your head."
+    },
+    {
+      "t": 1091.7,
+      "text": "Understanding will come naturally with repetition."
+    },
+    {
+      "t": 1094.14,
+      "text": "Alright, let's begin the conversation."
+    },
+    {
+      "t": 1096.74,
+      "text": "Hi James, do you have a few minutes?"
+    },
+    {
+      "t": 1099.54,
+      "text": "Hi Anna, yes I do, please come in."
+    },
+    {
+      "t": 1102.54,
+      "text": "Thank you."
+    },
+    {
+      "t": 1103.54,
+      "text": "I didn't want to interrupt but I thought it was a good time to talk."
+    },
+    {
+      "t": 1107.04,
+      "text": "No problem at all, what would you like to discuss?"
+    },
+    {
+      "t": 1110.14,
+      "text": "I wanted to talk about my tasks this quarter and make sure I'm on the right track."
+    },
+    {
+      "t": 1114.94,
+      "text": "That's a very responsible approach, go ahead."
+    },
+    {
+      "t": 1118.24,
+      "text": "First, I wanted to ask about the new project timeline."
+    },
+    {
+      "t": 1122.24,
+      "text": "What specifically would you like to know?"
+    },
+    {
+      "t": 1124.74,
+      "text": "I'm not sure which parts are most urgent right now."
+    },
+    {
+      "t": 1128.24,
+      "text": "That's a good question. The client analysis is the top priority."
+    },
+    {
+      "t": 1132.74,
+      "text": "Okay, so I should focus on that first."
+    },
+    {
+      "t": 1135.74,
+      "text": "Yes, once that's done you can move on to the presentation slides."
+    },
+    {
+      "t": 1140.24,
+      "text": "That helps a lot. Thank you for clarifying."
+    },
+    {
+      "t": 1143.24,
+      "text": "Of course. Is the workload manageable for you?"
+    },
+    {
+      "t": 1146.24,
+      "text": "It's busy but manageable. I just want to plan my time better."
+    },
+    {
+      "t": 1150.74,
+      "text": "About smart. Planning prevents unnecessary stress."
+    },
+    {
+      "t": 1154.34,
+      "text": "I agree. I also wanted to ask about expectations for the presentation."
+    },
+    {
+      "t": 1159.34,
+      "text": "Sure. What are you unsure about?"
+    },
+    {
+      "t": 1161.74,
+      "text": "Should it be more detailed or more high level?"
+    },
+    {
+      "t": 1165.34,
+      "text": "High level. Focus on key insights, not every detail."
+    },
+    {
+      "t": 1169.84,
+      "text": "Got it. Clear message, fewer details."
+    },
+    {
+      "t": 1173.34,
+      "text": "Exactly. Imagine the audience is very busy."
+    },
+    {
+      "t": 1176.84,
+      "text": "That makes sense."
+    },
+    {
+      "t": 1178.24,
+      "text": "How confident do you feel about delivering the presentation?"
+    },
+    {
+      "t": 1181.74,
+      "text": "Honestly, I feel a bit nervous speaking in English."
+    },
+    {
+      "t": 1185.54,
+      "text": "Thought's understandable. You're not alone."
+    },
+    {
+      "t": 1188.24,
+      "text": "Sometimes I worry I'll forget words or lose my train of thought."
+    },
+    {
+      "t": 1192.44,
+      "text": "That happens to everyone, even native speakers."
+    },
+    {
+      "t": 1195.84,
+      "text": "Really? That's good to know."
+    },
+    {
+      "t": 1197.94,
+      "text": "Yes, the key is preparation, not perfect English."
+    },
+    {
+      "t": 1202.04,
+      "text": "I usually practice out loud before meetings."
+    },
+    {
+      "t": 1205.24,
+      "text": "That's an excellent habit. Keep doing that."
+    },
+    {
+      "t": 1207.84,
+      "text": "I also write down a few key phrases to help me stay focused."
+    },
+    {
+      "t": 1212.32,
+      "text": "That's a great strategy."
+    },
+    {
+      "t": 1214.22,
+      "text": "Thank you. I wanted to ask for some feedback as well."
+    },
+    {
+      "t": 1218.02,
+      "text": "I'm happy to give you feedback."
+    },
+    {
+      "t": 1220.06,
+      "text": "Overall, do you think my performance is meeting expectations?"
+    },
+    {
+      "t": 1224.22,
+      "text": "Yes, absolutely. You're reliable and well-organized."
+    },
+    {
+      "t": 1228.2,
+      "text": "I'm glad to hear that."
+    },
+    {
+      "t": 1229.86,
+      "text": "One thing you could work on is sharing your ideas more often."
+    },
+    {
+      "t": 1234.06,
+      "text": "Yes, I know I can be a bit quiet in meetings."
+    },
+    {
+      "t": 1237.7,
+      "text": "Your ideas are valuable. Don't hesitate to share them."
+    },
+    {
+      "t": 1241.3,
+      "text": "I'll try to speak up more, even if it's just one comment."
+    },
+    {
+      "t": 1245.2,
+      "text": "That's a perfect place to start."
+    },
+    {
+      "t": 1247.4,
+      "text": "Sometimes I'm not sure when it's okay to interrupt."
+    },
+    {
+      "t": 1250.9,
+      "text": "You can say something like, can I add something here?"
+    },
+    {
+      "t": 1254.2,
+      "text": "That sounds polite and natural."
+    },
+    {
+      "t": 1256.7,
+      "text": "It is. Most people will appreciate your input."
+    },
+    {
+      "t": 1259.9,
+      "text": "That makes me feel more comfortable."
+    },
+    {
+      "t": 1262.1,
+      "text": "Good. Comfort leads to confidence."
+    },
+    {
+      "t": 1265.0,
+      "text": "I also wanted to talk about my future in the company."
+    },
+    {
+      "t": 1268.24,
+      "text": "I'm glad you're thinking about that."
+    },
+    {
+      "t": 1270.4,
+      "text": "I'd like to grow and take on more responsibility over time."
+    },
+    {
+      "t": 1274.44,
+      "text": "That's a great goal."
+    },
+    {
+      "t": 1276.0,
+      "text": "What would you recommend I focus on next?"
+    },
+    {
+      "t": 1279.08,
+      "text": "Continue improving your communication and build leadership skills."
+    },
+    {
+      "t": 1283.52,
+      "text": "I'll work on that."
+    },
+    {
+      "t": 1284.88,
+      "text": "And don't be afraid to ask for help when you need it."
+    },
+    {
+      "t": 1288.12,
+      "text": "Sometimes I worry that asking for help looks weak."
+    },
+    {
+      "t": 1291.96,
+      "text": "Actually, it shows awareness and professionalism."
+    },
+    {
+      "t": 1295.3,
+      "text": "That's a new way to see it."
+    },
+    {
+      "t": 1297.4,
+      "text": "Strong employees ask questions."
+    },
+    {
+      "t": 1300.3,
+      "text": "Thank you for saying that."
+    },
+    {
+      "t": 1301.96,
+      "text": "You're doing very well, Anna. Keep going."
+    },
+    {
+      "t": 1304.8,
+      "text": "Thank you, James. I really appreciate your guidance."
+    },
+    {
+      "t": 1308.26,
+      "text": "Anytime. My door is always open."
+    },
+    {
+      "t": 1311.1,
+      "text": "Have a great rest of the day."
+    },
+    {
+      "t": 1312.9,
+      "text": "You too. Good luck with the project."
+    },
+    {
+      "t": 1315.4,
+      "text": "That conversation felt very real and practical."
+    },
+    {
+      "t": 1319.06,
+      "text": "Yes, and it shows how calm and clear communication builds trust at work."
+    },
+    {
+      "t": 1324.66,
+      "text": "Remember, you don't need advanced vocabulary to speak with your boss."
+    },
+    {
+      "t": 1329.66,
+      "text": "Simple sentences are powerful."
+    },
+    {
+      "t": 1332.26,
+      "text": "Asking questions, giving updates, and sharing concerns are all professional skills."
+    },
+    {
+      "t": 1338.06,
+      "text": "If you practice these conversations, you'll feel more confident over time."
+    },
+    {
+      "t": 1342.96,
+      "text": "Thank you for listening to Business English Learning."
+    },
+    {
+      "t": 1346.06,
+      "text": "Don't forget to subscribe and keep practicing every day."
+    },
+    {
+      "t": 1349.86,
+      "text": "Small steps lead to big progress."
+    },
+    {
+      "t": 1353.06,
+      "text": "See you in the next episode."
+    },
+    {
+      "t": 1355.97,
+      "text": "This is your Everyday English Class."
+    },
+    {
+      "t": 1359.47,
+      "text": "Welcome to Business English Learning."
+    },
+    {
+      "t": 1362.57,
+      "text": "Hello everyone, I'm Daniel."
+    },
+    {
+      "t": 1364.57,
+      "text": "And I'm Erica."
+    },
+    {
+      "t": 1366.37,
+      "text": "In this podcast, we help you improve your English for real work situations"
+    },
+    {
+      "t": 1372.67,
+      "text": "in a simple and natural way."
+    },
+    {
+      "t": 1375.77,
+      "text": "Many people feel nervous using English at work, especially when talking to their manager."
+    },
+    {
+      "t": 1381.69,
+      "text": "Yes, even if your English is good, work conversations can feel stressful."
+    },
+    {
+      "t": 1388.53,
+      "text": "Today's episode is about business English at work, especially how to talk to your boss clearly and politely."
+    },
+    {
+      "t": 1396.33,
+      "text": "Relax, listen, and enjoy the conversation. Let's begin."
+    },
+    {
+      "t": 1402.53,
+      "text": "Good morning, Sarah. Do you have a few minutes?"
+    },
+    {
+      "t": 1405.33,
+      "text": "Good morning, Alex. Yes, sure. What's on your mind?"
+    },
+    {
+      "t": 1409.33,
+      "text": "Thank you. I wanted to talk about my current tasks and ask for your advice."
+    },
+    {
+      "t": 1414.83,
+      "text": "Of course. I'm happy to help. How are things going?"
+    },
+    {
+      "t": 1418.83,
+      "text": "Overall, things are going well, but I want to make sure I'm focusing on the right priorities."
+    },
+    {
+      "t": 1425.33,
+      "text": "That's a good question. Which task are you most concerned about?"
+    },
+    {
+      "t": 1430.33,
+      "text": "The marketing proposal for the new client, I'm not sure if the direction is correct."
+    },
+    {
+      "t": 1435.83,
+      "text": "I reviewed it yesterday. The structure is good, but the introduction could be clearer."
+    },
+    {
+      "t": 1442.83,
+      "text": "Could you explain what you mean by clearer?"
+    },
+    {
+      "t": 1445.83,
+      "text": "Sure. Try to explain the main idea in the first two sentences."
+    },
+    {
+      "t": 1451.83,
+      "text": "Okay, so I should be more direct at the beginning."
+    },
+    {
+      "t": 1455.33,
+      "text": "Exactly. Busy clients appreciate clarity."
+    },
+    {
+      "t": 1459.83,
+      "text": "That's very helpful. I'll update it today."
+    },
+    {
+      "t": 1462.83,
+      "text": "Great. Is there anything else you'd like to discuss?"
+    },
+    {
+      "t": 1466.83,
+      "text": "Yes, actually. I wanted to ask about the deadline."
+    },
+    {
+      "t": 1470.83,
+      "text": "Alright. What's the issue?"
+    },
+    {
+      "t": 1472.83,
+      "text": "I want to deliver high-quality work, but the timeline feels a bit tight."
+    },
+    {
+      "t": 1478.83,
+      "text": "I understand. What would help you?"
+    },
+    {
+      "t": 1481.83,
+      "text": "One extra day would make a big difference."
+    },
+    {
+      "t": 1484.83,
+      "text": "That's reasonable. Let's move the deadline to Thursday."
+    },
+    {
+      "t": 1488.83,
+      "text": "Thank you. I really appreciate your understanding."
+    },
+    {
+      "t": 1492.83,
+      "text": "No problem. Good communication is always better than silence."
+    },
+    {
+      "t": 1497.83,
+      "text": "I agree. I'm trying to be more confident when I speak in English."
+    },
+    {
+      "t": 1501.83,
+      "text": "You're doing well. Confidence comes with practice."
+    },
+    {
+      "t": 1505.83,
+      "text": "That's encouraging to hear. Thanks for your support."
+    },
+    {
+      "t": 1509.83,
+      "text": "Anytime. My door is always open."
+    },
+    {
+      "t": 1512.83,
+      "text": "Podcast Conversation 2"
+    },
+    {
+      "t": 1515.83,
+      "text": "Welcome back to Business English Learning."
+    },
+    {
+      "t": 1519.03,
+      "text": "Hi everyone, I'm Emma."
+    },
+    {
+      "t": 1521.03,
+      "text": "And I'm Chris."
+    },
+    {
+      "t": 1522.47,
+      "text": "Today, we're practicing English for professional conversations at work."
+    },
+    {
+      "t": 1528.31,
+      "text": "Talking to your boss can be challenging, especially in a second language."
+    },
+    {
+      "t": 1533.03,
+      "text": "But with simple English and polite phrases, it becomes much easier."
+    },
+    {
+      "t": 1539.07,
+      "text": "Let's listen to today's workplace conversation."
+    },
+    {
+      "t": 1542.47,
+      "text": "Hi, Mr. Brown."
+    },
+    {
+      "t": 1543.71,
+      "text": "May I speak with you for a moment?"
+    },
+    {
+      "t": 1545.71,
+      "text": "Hi Nina. Yes, of course. Please sit down."
+    },
+    {
+      "t": 1549.71,
+      "text": "Thank you. I wanted to check in about my performance this quarter."
+    },
+    {
+      "t": 1553.71,
+      "text": "I'm glad you asked. You've been very consistent."
+    },
+    {
+      "t": 1557.71,
+      "text": "That's good to hear. Is there anything I should improve?"
+    },
+    {
+      "t": 1561.71,
+      "text": "One thing you could work on is speaking up more in meetings."
+    },
+    {
+      "t": 1565.71,
+      "text": "I see. Sometimes I worry about making mistakes in English."
+    },
+    {
+      "t": 1570.71,
+      "text": "That's completely normal. What matters is sharing your ideas."
+    },
+    {
+      "t": 1576.07,
+      "text": "I'll try to participate more, even if my English isn't perfect."
+    },
+    {
+      "t": 1580.23,
+      "text": "That's the right attitude. Your ideas are valuable."
+    },
+    {
+      "t": 1584.59,
+      "text": "Thank you. I also wanted to ask about my workload this week."
+    },
+    {
+      "t": 1588.91,
+      "text": "Sure. Is everything manageable?"
+    },
+    {
+      "t": 1591.63,
+      "text": "Mostly, yes, but the report and the team meeting are both scheduled for Friday."
+    },
+    {
+      "t": 1597.23,
+      "text": "That does sound busy. What do you suggest?"
+    },
+    {
+      "t": 1600.91,
+      "text": "Would it be possible to submit the report on Monday instead?"
+    },
+    {
+      "t": 1604.91,
+      "text": "Yes, that should be fine. Thanks for letting me know early."
+    },
+    {
+      "t": 1609.07,
+      "text": "I appreciate your flexibility. Clear communication helps the whole team."
+    },
+    {
+      "t": 1614.39,
+      "text": "I'm really trying to improve my professional English."
+    },
+    {
+      "t": 1618.35,
+      "text": "It shows. Your progress is noticeable."
+    },
+    {
+      "t": 1621.39,
+      "text": "That means a lot to me. Thank you for your encouragement."
+    },
+    {
+      "t": 1625.39,
+      "text": "You're welcome."
+    },
+    {
+      "t": 1626.61,
+      "text": "Keep up the good work."
+    },
+    {
+      "t": 1628.11,
+      "text": "This is your everyday business English class."
+    },
+    {
+      "t": 1630.99,
+      "text": "Hello and welcome to Business English Learning."
+    },
+    {
+      "t": 1633.59,
+      "text": "Hi everyone."
+    },
+    {
+      "t": 1635.15,
+      "text": "Welcome back."
+    },
+    {
+      "t": 1636.15,
+      "text": "My name is Daniel."
+    },
+    {
+      "t": 1637.23,
+      "text": "And my name is Erica."
+    },
+    {
+      "t": 1638.67,
+      "text": "We're really happy to have you here today."
+    },
+    {
+      "t": 1641.31,
+      "text": "This podcast is designed to help you improve your English for real work situations in"
+    },
+    {
+      "t": 1646.07,
+      "text": "a simple, clear and practical way."
+    },
+    {
+      "t": 1648.83,
+      "text": "If you use English at work or if you plan to work in an international company,"
+    },
+    {
+      "t": 1653.83,
+      "text": "This episode is especially for you."
+    },
+    {
+      "t": 1656.71,
+      "text": "Many English learners tell us the same thing."
+    },
+    {
+      "t": 1659.31,
+      "text": "They say, I understand English, but I feel nervous speaking to my boss."
+    },
+    {
+      "t": 1663.91,
+      "text": "Yes, and that feeling is very normal."
+    },
+    {
+      "t": 1667.15,
+      "text": "Talking to your manager can feel stressful, even in your own language."
+    },
+    {
+      "t": 1671.41,
+      "text": "You might worry about making mistakes, using the wrong words, or sounding unprofessional."
+    },
+    {
+      "t": 1676.71,
+      "text": "But don't worry, today's episode will help you feel more confident and more prepared."
+    },
+    {
+      "t": 1682.23,
+      "text": "Today we're talking about business English at work, specifically how to communicate with"
+    },
+    {
+      "t": 1686.71,
+      "text": "your boss."
+    },
+    {
+      "t": 1687.71,
+      "text": "You'll hear how to ask for help, talk about progress, discuss priorities, and handle problems"
+    },
+    {
+      "t": 1693.83,
+      "text": "calmly."
+    },
+    {
+      "t": 1695.35,
+      "text": "Just relax and listen."
+    },
+    {
+      "t": 1696.79,
+      "text": "You don't need to understand every word the first time."
+    },
+    {
+      "t": 1699.99,
+      "text": "That's totally okay."
+    },
+    {
+      "t": 1701.71,
+      "text": "Learning happens step by step."
+    },
+    {
+      "t": 1704.11,
+      "text": "And if you enjoy this podcast, don't forget to subscribe to Business English Learning."
+    },
+    {
+      "t": 1708.95,
+      "text": "Your support helps us continue creating free content for you."
+    },
+    {
+      "t": 1712.99,
+      "text": "Alright, grab your coffee, take a deep breath, and let's get started."
+    },
+    {
+      "t": 1717.51,
+      "text": "Good morning, Sarah."
+    },
+    {
+      "t": 1718.75,
+      "text": "Do you have a moment to talk?"
+    },
+    {
+      "t": 1720.59,
+      "text": "Good morning, Tom."
+    },
+    {
+      "t": 1721.59,
+      "text": "Yes, I have a few minutes."
+    },
+    {
+      "t": 1723.15,
+      "text": "What's on your mind?"
+    },
+    {
+      "t": 1724.15,
+      "text": "Thank you."
+    },
+    {
+      "t": 1725.15,
+      "text": "I wanted to give you a quick update on my current tasks and ask a few questions."
+    },
+    {
+      "t": 1730.55,
+      "text": "That sounds good."
+    },
+    {
+      "t": 1731.55,
+      "text": "I appreciate you keeping me informed."
+    },
+    {
+      "t": 1733.67,
+      "text": "Please, go ahead."
+    },
+    {
+      "t": 1734.79,
+      "text": "First, I wanted to talk about the marketing proposal."
+    },
+    {
+      "t": 1738.07,
+      "text": "I finished the first draft."
+    },
+    {
+      "t": 1740.15,
+      "text": "Great. How do you feel about it so far?"
+    },
+    {
+      "t": 1742.75,
+      "text": "I think the structure is clear, but I'm not sure if the tone is right for senior management."
+    },
+    {
+      "t": 1749.15,
+      "text": "That's a good question. The tone should be confident, but simple."
+    },
+    {
+      "t": 1753.31,
+      "text": "So less detail and more focus on key points?"
+    },
+    {
+      "t": 1757.95,
+      "text": "Exactly. Senior managers usually want the mean message quickly."
+    },
+    {
+      "t": 1762.61,
+      "text": "That helps a lot. I'll revise it with that in mind."
+    },
+    {
+      "t": 1766.15,
+      "text": "Perfect."
+    },
+    {
+      "t": 1767.15,
+      "text": "Do you think you can send the updated version?"
+    },
+    {
+      "t": 1769.47,
+      "text": "I can send it by tomorrow afternoon."
+    },
+    {
+      "t": 1772.65,
+      "text": "That works for me."
+    },
+    {
+      "t": 1773.89,
+      "text": "Thank you for being clear about the timing."
+    },
+    {
+      "t": 1776.03,
+      "text": "You're welcome."
+    },
+    {
+      "t": 1777.03,
+      "text": "I also wanted to ask about priorities this week."
+    },
+    {
+      "t": 1780.31,
+      "text": "Sure."
+    },
+    {
+      "t": 1781.31,
+      "text": "What are you concerned about?"
+    },
+    {
+      "t": 1782.79,
+      "text": "I'm working on the proposal, the client emails, and the internal report."
+    },
+    {
+      "t": 1787.87,
+      "text": "I want to make sure I focus on the right things."
+    },
+    {
+      "t": 1790.95,
+      "text": "I'm glad you asked."
+    },
+    {
+      "t": 1792.31,
+      "text": "The proposal is the top priority."
+    },
+    {
+      "t": 1794.59,
+      "text": "Okay."
+    },
+    {
+      "t": 1795.59,
+      "text": "That's good to know."
+    },
+    {
+      "t": 1796.67,
+      "text": "The client emails are also important, but the internal report can wait until next week."
+    },
+    {
+      "t": 1801.95,
+      "text": "That really helps."
+    },
+    {
+      "t": 1802.95,
+      "text": "I was worried about trying to do everything at once."
+    },
+    {
+      "t": 1806.51,
+      "text": "You don't need to do everything at the same time."
+    },
+    {
+      "t": 1808.83,
+      "text": "It's better to do fewer things well."
+    },
+    {
+      "t": 1811.47,
+      "text": "I agree."
+    },
+    {
+      "t": 1812.55,
+      "text": "Thank you for clarifying that."
+    },
+    {
+      "t": 1814.55,
+      "text": "Of course."
+    },
+    {
+      "t": 1815.55,
+      "text": "Is there anything else you'd like to discuss?"
+    },
+    {
+      "t": 1817.75,
+      "text": "Yes, actually."
+    },
+    {
+      "t": 1819.03,
+      "text": "I wanted to talk about a small challenge I'm having."
+    },
+    {
+      "t": 1822.39,
+      "text": "That's fine."
+    },
+    {
+      "t": 1823.63,
+      "text": "Please tell me."
+    },
+    {
+      "t": 1824.75,
+      "text": "In meetings, sometimes I need more time to process information in English."
+    },
+    {
+      "t": 1830.43,
+      "text": "That's completely understandable."
+    },
+    {
+      "t": 1832.31,
+      "text": "What happens in those situations?"
+    },
+    {
+      "t": 1835.07,
+      "text": "Sometimes the discussion moves very fast and I hesitate to speak."
+    },
+    {
+      "t": 1839.79,
+      "text": "Thank you for being honest."
+    },
+    {
+      "t": 1841.23,
+      "text": "That's important."
+    },
+    {
+      "t": 1842.31,
+      "text": "I don't want people to think I don't have ideas."
+    },
+    {
+      "t": 1845.31,
+      "text": "I understand."
+    },
+    {
+      "t": 1846.87,
+      "text": "One thing you can do is prepare one or two points before meetings."
+    },
+    {
+      "t": 1850.95,
+      "text": "That's a good idea."
+    },
+    {
+      "t": 1852.35,
+      "text": "You can also say, can I add something, or I'd like to comment on that."
+    },
+    {
+      "t": 1857.21,
+      "text": "Those phrases sound very useful and polite."
+    },
+    {
+      "t": 1860.23,
+      "text": "They are."
+    },
+    {
+      "t": 1861.23,
+      "text": "And remember, it's okay to ask people to slow down or repeat."
+    },
+    {
+      "t": 1865.91,
+      "text": "Sometimes I worry that will interrupt the meeting."
+    },
+    {
+      "t": 1868.31,
+      "text": "Actually, it often helps everyone."
+    },
+    {
+      "t": 1870.79,
+      "text": "Clear communication benefits the whole team."
+    },
+    {
+      "t": 1873.67,
+      "text": "That makes me feel more confident."
+    },
+    {
+      "t": 1875.71,
+      "text": "Good."
+    },
+    {
+      "t": 1876.71,
+      "text": "Confidence comes from practice, not perfection."
+    },
+    {
+      "t": 1879.39,
+      "text": "I'm trying to practice a little every day."
+    },
+    {
+      "t": 1882.33,
+      "text": "That's the best approach."
+    },
+    {
+      "t": 1883.85,
+      "text": "Even 10 minutes a day makes a difference."
+    },
+    {
+      "t": 1886.17,
+      "text": "I usually listen to English podcasts during my commute."
+    },
+    {
+      "t": 1890.13,
+      "text": "That's an excellent habit."
+    },
+    {
+      "t": 1891.61,
+      "text": "Keep doing that."
+    },
+    {
+      "t": 1892.61,
+      "text": "Thank you."
+    },
+    {
+      "t": 1893.61,
+      "text": "I also wanted to ask about my overall performance."
+    },
+    {
+      "t": 1897.21,
+      "text": "I'm glad you brought that up."
+    },
+    {
+      "t": 1898.81,
+      "text": "How do you feel about your work?"
+    },
+    {
+      "t": 1900.53,
+      "text": "I feel motivated, but sometimes I'm not sure if I'm meeting expectations."
+    },
+    {
+      "t": 1906.45,
+      "text": "You are doing well, Tom."
+    },
+    {
+      "t": 1907.97,
+      "text": "Your work is reliable and consistent."
+    },
+    {
+      "t": 1910.69,
+      "text": "That's great to hear."
+    },
+    {
+      "t": 1912.29,
+      "text": "One area you can continue to develop is speaking up more in group discussions."
+    },
+    {
+      "t": 1916.73,
+      "text": "Yes, that makes sense."
+    },
+    {
+      "t": 1919.05,
+      "text": "But overall, I'm very happy with your progress."
+    },
+    {
+      "t": 1922.33,
+      "text": "Thank you, Sarah."
+    },
+    {
+      "t": 1923.33,
+      "text": "That feedback really encourages me."
+    },
+    {
+      "t": 1925.61,
+      "text": "You're welcome."
+    },
+    {
+      "t": 1926.69,
+      "text": "Do you have any long-term goals you'd like to share?"
+    },
+    {
+      "t": 1929.69,
+      "text": "Yes, I'd like to take on more responsibility in the future."
+    },
+    {
+      "t": 1933.77,
+      "text": "That's good to hear."
+    },
+    {
+      "t": 1935.09,
+      "text": "Growth starts with initiative."
+    },
+    {
+      "t": 1937.21,
+      "text": "What skills do you think I should focus on?"
+    },
+    {
+      "t": 1939.49,
+      "text": "communication, time management, and decision making."
+    },
+    {
+      "t": 1943.41,
+      "text": "I'll work on those."
+    },
+    {
+      "t": 1944.97,
+      "text": "And remember, you can always come to me with questions."
+    },
+    {
+      "t": 1948.25,
+      "text": "I appreciate that."
+    },
+    {
+      "t": 1949.61,
+      "text": "It makes a big difference."
+    },
+    {
+      "t": 1951.45,
+      "text": "My door is always open."
+    },
+    {
+      "t": 1953.81,
+      "text": "Thank you for your time and support."
+    },
+    {
+      "t": 1955.81,
+      "text": "You're very welcome."
+    },
+    {
+      "t": 1957.21,
+      "text": "Keep up the good work."
+    },
+    {
+      "t": 1958.69,
+      "text": "That was a very realistic workplace conversation."
+    },
+    {
+      "t": 1961.57,
+      "text": "Yes, and situations like this happen every day in offices around the world."
+    },
+    {
+      "t": 1967.17,
+      "text": "Clear, polite, and simple English is enough to communicate well with your boss."
+    },
+    {
+      "t": 1972.13,
+      "text": "You don't need perfect grammar or advanced vocabulary."
+    },
+    {
+      "t": 1975.93,
+      "text": "What matters most is being clear, respectful, and honest."
+    },
+    {
+      "t": 1979.93,
+      "text": "If you liked this episode, please subscribe to Business English Learning."
+    },
+    {
+      "t": 1984.69,
+      "text": "And feel free to leave a comment telling us where you're listening from."
+    },
+    {
+      "t": 1988.09,
+      "text": "Keep practicing, keep improving, and don't be afraid to speak at work."
+    },
+    {
+      "t": 1992.93,
+      "text": "We believe in you."
+    },
+    {
+      "t": 1994.33,
+      "text": "See you in the next episode."
+    },
+    {
+      "t": 1996.17,
+      "text": "Take care! This is your everyday Business English class. Welcome back to Business English"
+    },
+    {
+      "t": 2008.4,
+      "text": "Learning."
+    },
+    {
+      "t": 2009.4,
+      "text": "Hello everyone, great to have you with us again. My name is Ryan."
+    },
+    {
+      "t": 2013.44,
+      "text": "And I'm Mark. Thanks for joining us today."
+    },
+    {
+      "t": 2016.28,
+      "text": "Our goal is simple, to help you use English confidently and naturally at work."
+    },
+    {
+      "t": 2022.24,
+      "text": "Especially in situations that feel difficult or stressful."
+    },
+    {
+      "t": 2025.96,
+      "text": "And one of the most common stressful situations is talking to your boss."
+    },
+    {
+      "t": 2030.48,
+      "text": "Exactly. Even people with strong English skills can feel nervous in these moments."
+    },
+    {
+      "t": 2036.48,
+      "text": "You might worry about choosing the right words or sounding professional."
+    },
+    {
+      "t": 2040.78,
+      "text": "But the good news is this. Workplace English doesn't need to be complicated."
+    },
+    {
+      "t": 2045.96,
+      "text": "Clear and simple English is usually the best English."
+    },
+    {
+      "t": 2049.4,
+      "text": "Today's conversation will show you how to speak with your manager about work progress,"
+    },
+    {
+      "t": 2053.96,
+      "text": "problems, and expectations."
+    },
+    {
+      "t": 2056.72,
+      "text": "Just listen and relax."
+    },
+    {
+      "t": 2058.38,
+      "text": "Don't try to translate every sentence in your head."
+    },
+    {
+      "t": 2062.08,
+      "text": "Understanding will come naturally with repetition."
+    },
+    {
+      "t": 2064.4,
+      "text": "All right, let's begin the conversation."
+    },
+    {
+      "t": 2067.56,
+      "text": "Hi James, do you have a few minutes?"
+    },
+    {
+      "t": 2070.36,
+      "text": "Hi Anna, yes I do, please come in."
+    },
+    {
+      "t": 2073.36,
+      "text": "Thank you."
+    },
+    {
+      "t": 2074.36,
+      "text": "I didn't want to interrupt, but I thought it was a good time to talk."
+    },
+    {
+      "t": 2077.88,
+      "text": "No problem at all."
+    },
+    {
+      "t": 2079.12,
+      "text": "What would you like to discuss?"
+    },
+    {
+      "t": 2080.76,
+      "text": "I wanted to talk about my tasks this quarter and make sure I'm on the right track."
+    },
+    {
+      "t": 2085.88,
+      "text": "That's a very responsible approach."
+    },
+    {
+      "t": 2087.92,
+      "text": "Go ahead."
+    },
+    {
+      "t": 2088.92,
+      "text": "First, I wanted to ask about the new project timeline."
+    },
+    {
+      "t": 2093.12,
+      "text": "What specifically would you like to know?"
+    },
+    {
+      "t": 2095.28,
+      "text": "I'm not sure which parts are most urgent right now."
+    },
+    {
+      "t": 2098.96,
+      "text": "That's a good question."
+    },
+    {
+      "t": 2100.24,
+      "text": "The client analysis is the top priority."
+    },
+    {
+      "t": 2103.24,
+      "text": "Okay, so I should focus on that first."
+    },
+    {
+      "t": 2106.44,
+      "text": "Yes, once that's done, you can move on to the presentation slides."
+    },
+    {
+      "t": 2111.0,
+      "text": "That helps a lot."
+    },
+    {
+      "t": 2112.24,
+      "text": "Thank you for clarifying."
+    },
+    {
+      "t": 2113.88,
+      "text": "Of course."
+    },
+    {
+      "t": 2114.88,
+      "text": "Is the workload manageable for you?"
+    },
+    {
+      "t": 2117.2,
+      "text": "It's busy but manageable."
+    },
+    {
+      "t": 2118.88,
+      "text": "I just want to plan my time better."
+    },
+    {
+      "t": 2121.48,
+      "text": "That's smart."
+    },
+    {
+      "t": 2122.6,
+      "text": "Planning prevents unnecessary stress."
+    },
+    {
+      "t": 2124.96,
+      "text": "I agree."
+    },
+    {
+      "t": 2125.96,
+      "text": "I also wanted to ask about expectations for the presentation."
+    },
+    {
+      "t": 2129.8,
+      "text": "Sure."
+    },
+    {
+      "t": 2130.8,
+      "text": "What are you unsure about?"
+    },
+    {
+      "t": 2132.56,
+      "text": "Should it be more detailed or more high level?"
+    },
+    {
+      "t": 2136.04,
+      "text": "High level."
+    },
+    {
+      "t": 2137.36,
+      "text": "Focus on key insights, not every detail."
+    },
+    {
+      "t": 2140.64,
+      "text": "Got it."
+    },
+    {
+      "t": 2141.64,
+      "text": "message, fewer details."
+    },
+    {
+      "t": 2143.88,
+      "text": "Exactly."
+    },
+    {
+      "t": 2144.88,
+      "text": "Imagine the audience is very busy."
+    },
+    {
+      "t": 2147.58,
+      "text": "That makes sense."
+    },
+    {
+      "t": 2148.92,
+      "text": "How confident do you feel about delivering the presentation?"
+    },
+    {
+      "t": 2152.32,
+      "text": "Honestly, I feel a bit nervous speaking in English."
+    },
+    {
+      "t": 2156.28,
+      "text": "Thought's understandable."
+    },
+    {
+      "t": 2157.28,
+      "text": "You're not alone."
+    },
+    {
+      "t": 2159.28,
+      "text": "Sometimes I worry I'll forget words or lose my train of thought."
+    },
+    {
+      "t": 2163.16,
+      "text": "That happens to everyone, even native speakers."
+    },
+    {
+      "t": 2166.24,
+      "text": "Really?"
+    },
+    {
+      "t": 2167.24,
+      "text": "That's good to know."
+    },
+    {
+      "t": 2168.24,
+      "text": "Yes, the key is preparation, not perfect English."
+    },
+    {
+      "t": 2172.44,
+      "text": "I usually practice out loud before meetings."
+    },
+    {
+      "t": 2175.64,
+      "text": "That's an excellent habit. Keep doing that."
+    },
+    {
+      "t": 2178.24,
+      "text": "I also write down a few key phrases to help me stay focused."
+    },
+    {
+      "t": 2182.74,
+      "text": "That's a great strategy."
+    },
+    {
+      "t": 2184.64,
+      "text": "Thank you. I wanted to ask for some feedback as well."
+    },
+    {
+      "t": 2188.44,
+      "text": "I'm happy to give you feedback."
+    },
+    {
+      "t": 2190.44,
+      "text": "Overall, do you think my performance is meeting expectations?"
+    },
+    {
+      "t": 2194.64,
+      "text": "Yes, absolutely. You're reliable and well organized."
+    },
+    {
+      "t": 2198.64,
+      "text": "I'm glad to hear that."
+    },
+    {
+      "t": 2200.24,
+      "text": "One thing you could work on is sharing your ideas more often."
+    },
+    {
+      "t": 2204.44,
+      "text": "Yes, I know I can be a bit quiet in meetings."
+    },
+    {
+      "t": 2208.14,
+      "text": "Your ideas are valuable. Don't hesitate to share them."
+    },
+    {
+      "t": 2211.74,
+      "text": "I'll try to speak up more, even if it's just one comment."
+    },
+    {
+      "t": 2215.64,
+      "text": "That's a perfect place to start."
+    },
+    {
+      "t": 2217.84,
+      "text": "Sometimes I'm not sure when it's okay to interrupt."
+    },
+    {
+      "t": 2221.34,
+      "text": "You can say something like, can I add something here?"
+    },
+    {
+      "t": 2224.54,
+      "text": "That sounds polite and natural."
+    },
+    {
+      "t": 2227.04,
+      "text": "It is. Most people will appreciate your input."
+    },
+    {
+      "t": 2230.34,
+      "text": "That makes me feel more comfortable."
+    },
+    {
+      "t": 2232.44,
+      "text": "Good. Comfort leads to confidence."
+    },
+    {
+      "t": 2235.34,
+      "text": "I also wanted to talk about my future in the company."
+    },
+    {
+      "t": 2238.64,
+      "text": "I'm glad you're thinking about that."
+    },
+    {
+      "t": 2240.74,
+      "text": "I'd like to grow and take on more responsibility over time."
+    },
+    {
+      "t": 2244.84,
+      "text": "That's a great goal."
+    },
+    {
+      "t": 2246.44,
+      "text": "What would you recommend I focus on next?"
+    },
+    {
+      "t": 2249.44,
+      "text": "Continue improving your communication and build leadership skills."
+    },
+    {
+      "t": 2253.84,
+      "text": "I'll work on that."
+    },
+    {
+      "t": 2255.24,
+      "text": "And don't be afraid to ask for help when you need it."
+    },
+    {
+      "t": 2258.44,
+      "text": "Sometimes I worry that asking for help looks weak."
+    },
+    {
+      "t": 2262.24,
+      "text": "Actually, it shows awareness and professionalism."
+    },
+    {
+      "t": 2265.64,
+      "text": "That's a new way to see it."
+    },
+    {
+      "t": 2267.74,
+      "text": "Strong employees ask questions."
+    },
+    {
+      "t": 2270.64,
+      "text": "Thank you for saying that."
+    },
+    {
+      "t": 2272.34,
+      "text": "You're doing very well, Anna. Keep going."
+    },
+    {
+      "t": 2275.14,
+      "text": "Thank you, James. I really appreciate your guidance."
+    },
+    {
+      "t": 2278.64,
+      "text": "Anytime. My door is always open."
+    },
+    {
+      "t": 2281.64,
+      "text": "Have a great rest of the day."
+    },
+    {
+      "t": 2283.64,
+      "text": "You too. Good luck with the project."
+    },
+    {
+      "t": 2285.64,
+      "text": "That conversation felt very real and practical."
+    },
+    {
+      "t": 2289.64,
+      "text": "Yes, and it shows how calm and clear communication builds trust at work."
+    },
+    {
+      "t": 2294.64,
+      "text": "Remember, you don't need advanced vocabulary to speak with your boss."
+    },
+    {
+      "t": 2299.64,
+      "text": "Simple sentences are powerful."
+    },
+    {
+      "t": 2302.64,
+      "text": "Asking questions, giving updates, and sharing concerns are all professional skills."
+    },
+    {
+      "t": 2307.64,
+      "text": "skills."
+    },
+    {
+      "t": 2308.64,
+      "text": "If you practice these conversations, you'll feel more confident over time."
+    },
+    {
+      "t": 2313.48,
+      "text": "Thank you for listening to Business English Learning."
+    },
+    {
+      "t": 2316.8,
+      "text": "Don't forget to subscribe and keep practicing every day."
+    },
+    {
+      "t": 2320.72,
+      "text": "Small steps lead to big progress."
+    },
+    {
+      "t": 2323.6,
+      "text": "See you in the next episode."
+    }
+  ],
+  "lemmas": [
+    [
+      "english",
+      85
+    ],
+    [
+      "good",
+      64
+    ],
+    [
+      "work",
+      61
+    ],
+    [
+      "feel",
+      51
+    ],
+    [
+      "want",
+      51
+    ],
+    [
+      "thank",
+      49
+    ],
+    [
+      "talk",
+      42
+    ],
+    [
+      "ask",
+      39
+    ],
+    [
+      "help",
+      38
+    ],
+    [
+      "clear",
+      29
+    ],
+    [
+      "sure",
+      29
+    ],
+    [
+      "business",
+      26
+    ],
+    [
+      "time",
+      26
+    ],
+    [
+      "one",
+      25
+    ],
+    [
+      "speak",
+      24
+    ],
+    [
+      "mak",
+      24
+    ],
+    [
+      "learn",
+      24
+    ],
+    [
+      "keep",
+      24
+    ],
+    [
+      "today",
+      22
+    ],
+    [
+      "need",
+      22
+    ],
+    [
+      "great",
+      22
+    ],
+    [
+      "welcome",
+      20
+    ],
+    [
+      "focus",
+      20
+    ],
+    [
+      "conversation",
+      19
+    ],
+    [
+      "sometim",
+      19
+    ],
+    [
+      "thing",
+      18
+    ],
+    [
+      "worry",
+      18
+    ],
+    [
+      "understand",
+      18
+    ],
+    [
+      "try",
+      18
+    ],
+    [
+      "simple",
+      18
+    ],
+    [
+      "think",
+      18
+    ],
+    [
+      "listen",
+      17
+    ],
+    [
+      "even",
+      17
+    ],
+    [
+      "communication",
+      17
+    ],
+    [
+      "appreciate",
+      17
+    ],
+    [
+      "idea",
+      17
+    ],
+    [
+      "also",
+      17
+    ],
+    [
+      "day",
+      17
+    ],
+    [
+      "question",
+      17
+    ],
+    [
+      "everyone",
+      16
+    ],
+    [
+      "hi",
+      16
+    ],
+    [
+      "episode",
+      16
+    ],
+    [
+      "sound",
+      16
+    ],
+    [
+      "practice",
+      15
+    ],
+    [
+      "situation",
+      15
+    ],
+    [
+      "boss",
+      15
+    ],
+    [
+      "person",
+      15
+    ],
+    [
+      "perfect",
+      14
+    ],
+    [
+      "confident",
+      14
+    ],
+    [
+      "know",
+      14
+    ],
+    [
+      "first",
+      14
+    ],
+    [
+      "hear",
+      14
+    ],
+    [
+      "every",
+      14
+    ],
+    [
+      "podcast",
+      13
+    ],
+    [
+      "lot",
+      13
+    ],
+    [
+      "meeting",
+      13
+    ],
+    [
+      "client",
+      13
+    ],
+    [
+      "report",
+      12
+    ],
+    [
+      "alway",
+      12
+    ],
+    [
+      "say",
+      12
+    ],
+    [
+      "progress",
+      12
+    ],
+    [
+      "especially",
+      11
+    ],
+    [
+      "us",
+      11
+    ],
+    [
+      "nervous",
+      11
+    ],
+    [
+      "polite",
+      10
+    ],
+    [
+      "manager",
+      10
+    ],
+    [
+      "course",
+      10
+    ],
+    [
+      "task",
+      10
+    ],
+    [
+      "see",
+      10
+    ],
+    [
+      "feedback",
+      10
+    ],
+    [
+      "confidence",
+      10
+    ],
+    [
+      "take",
+      10
+    ],
+    [
+      "skill",
+      10
+    ],
+    [
+      "next",
+      10
+    ],
+    [
+      "happen",
+      10
+    ],
+    [
+      "glad",
+      10
+    ],
+    [
+      "real",
+      9
+    ],
+    [
+      "happy",
+      9
+    ],
+    [
+      "stressful",
+      9
+    ],
+    [
+      "make",
+      9
+    ],
+    [
+      "goal",
+      9
+    ],
+    [
+      "improv",
+      9
+    ],
+    [
+      "way",
+      9
+    ],
+    [
+      "step",
+      9
+    ],
+    [
+      "start",
+      9
+    ],
+    [
+      "please",
+      9
+    ],
+    [
+      "detail",
+      9
+    ],
+    [
+      "key",
+      9
+    ],
+    [
+      "usually",
+      9
+    ],
+    [
+      "expectation",
+      9
+    ],
+    [
+      "new",
+      9
+    ],
+    [
+      "professional",
+      9
+    ],
+    [
+      "hello",
+      8
+    ],
+    [
+      "everyday",
+      8
+    ],
+    [
+      "everyth",
+      8
+    ],
+    [
+      "relax",
+      8
+    ],
+    [
+      "busy",
+      8
+    ],
+    [
+      "week",
+      8
+    ],
+    [
+      "problem",
+      8
+    ],
+    [
+      "support",
+      8
+    ],
+    [
+      "mean",
+      8
+    ],
+    [
+      "remember",
+      8
+    ],
+    [
+      "word",
+      8
+    ],
+    [
+      "subscribe",
+      8
+    ],
+    [
+      "minut",
+      8
+    ],
+    [
+      "proposal",
+      8
+    ],
+    [
+      "exactly",
+      8
+    ],
+    [
+      "meet",
+      8
+    ],
+    [
+      "show",
+      8
+    ],
+    [
+      "going",
+      8
+    ],
+    [
+      "name",
+      7
+    ],
+    [
+      "tell",
+      7
+    ],
+    [
+      "begin",
+      7
+    ],
+    [
+      "project",
+      7
+    ],
+    [
+      "important",
+      7
+    ],
+    [
+      "youd",
+      7
+    ],
+    [
+      "bit",
+      7
+    ],
+    [
+      "plan",
+      7
+    ],
+    [
+      "door",
+      7
+    ],
+    [
+      "open",
+      7
+    ],
+    [
+      "improve",
+      7
+    ],
+    [
+      "discuss",
+      7
+    ],
+    [
+      "forget",
+      7
+    ],
+    [
+      "comment",
+      7
+    ],
+    [
+      "overall",
+      7
+    ],
+    [
+      "come",
+      7
+    ],
+    [
+      "workplace",
+      7
+    ],
+    [
+      "presentation",
+      7
+    ],
+    [
+      "erica",
+      6
+    ],
+    [
+      "many",
+      6
+    ],
+    [
+      "part",
+      6
+    ],
+    [
+      "anyth",
+      6
+    ],
+    [
+      "share",
+      6
+    ],
+    [
+      "move",
+      6
+    ],
+    [
+      "agree",
+      6
+    ],
+    [
+      "company",
+      6
+    ],
+    [
+      "anytime",
+      6
+    ],
+    [
+      "team",
+      6
+    ],
+    [
+      "communicate",
+      6
+    ],
+    [
+      "practic",
+      6
+    ],
+    [
+      "class",
+      6
+    ],
+    [
+      "practical",
+      6
+    ],
+    [
+      "use",
+      6
+    ],
+    [
+      "normal",
+      6
+    ],
+    [
+      "continue",
+      6
+    ],
+    [
+      "get",
+      6
+    ],
+    [
+      "morn",
+      6
+    ],
+    [
+      "moment",
+      6
+    ],
+    [
+      "mind",
+      6
+    ],
+    [
+      "send",
+      6
+    ],
+    [
+      "concern",
+      6
+    ],
+    [
+      "small",
+      6
+    ],
+    [
+      "someth",
+      6
+    ],
+    [
+      "phras",
+      6
+    ],
+    [
+      "interrupt",
+      6
+    ],
+    [
+      "big",
+      6
+    ],
+    [
+      "using",
+      5
+    ],
+    [
+      "alright",
+      5
+    ],
+    [
+      "go",
+      5
+    ],
+    [
+      "ahead",
+      5
+    ],
+    [
+      "sense",
+      5
+    ],
+    [
+      "matter",
+      5
+    ],
+    [
+      "else",
+      5
+    ],
+    [
+      "discussion",
+      5
+    ],
+    [
+      "hesitate",
+      5
+    ],
+    [
+      "language",
+      5
+    ],
+    [
+      "deadline",
+      5
+    ],
+    [
+      "grow",
+      5
+    ],
+    [
+      "responsibility",
+      5
+    ],
+    [
+      "back",
+      5
+    ],
+    [
+      "mistak",
+      5
+    ],
+    [
+      "youll",
+      5
+    ],
+    [
+      "prioriti",
+      5
+    ],
+    [
+      "sarah",
+      5
+    ],
+    [
+      "give",
+      5
+    ],
+    [
+      "management",
+      5
+    ],
+    [
+      "point",
+      5
+    ],
+    [
+      "email",
+      5
+    ],
+    [
+      "internal",
+      5
+    ],
+    [
+      "clarify",
+      5
+    ],
+    [
+      "honest",
+      5
+    ],
+    [
+      "difference",
+      5
+    ],
+    [
+      "habit",
+      5
+    ],
+    [
+      "performance",
+      5
+    ],
+    [
+      "vocabulary",
+      5
+    ],
+    [
+      "afraid",
+      5
+    ],
+    [
+      "natural",
+      5
+    ],
+    [
+      "strong",
+      5
+    ],
+    [
+      "high",
+      5
+    ],
+    [
+      "manageable",
+      5
+    ],
+    [
+      "shar",
+      5
+    ],
+    [
+      "draft",
+      4
+    ],
+    [
+      "worri",
+      4
+    ],
+    [
+      "much",
+      4
+    ],
+    [
+      "enough",
+      4
+    ],
+    [
+      "sentence",
+      4
+    ],
+    [
+      "absolutely",
+      4
+    ],
+    [
+      "deadlin",
+      4
+    ],
+    [
+      "completely",
+      4
+    ],
+    [
+      "valuable",
+      4
+    ],
+    [
+      "specifically",
+      4
+    ],
+    [
+      "enjoy",
+      4
+    ],
+    [
+      "free",
+      4
+    ],
+    [
+      "tom",
+      4
+    ],
+    [
+      "update",
+      4
+    ],
+    [
+      "structure",
+      4
+    ],
+    [
+      "tone",
+      4
+    ],
+    [
+      "senior",
+      4
+    ],
+    [
+      "message",
+      4
+    ],
+    [
+      "updat",
+      4
+    ],
+    [
+      "top",
+      4
+    ],
+    [
+      "priority",
+      4
+    ],
+    [
+      "fewer",
+      4
+    ],
+    [
+      "understandable",
+      4
+    ],
+    [
+      "add",
+      4
+    ],
+    [
+      "often",
+      4
+    ],
+    [
+      "com",
+      4
+    ],
+    [
+      "approach",
+      4
+    ],
+    [
+      "excellent",
+      4
+    ],
+    [
+      "reliable",
+      4
+    ],
+    [
+      "future",
+      4
+    ],
+    [
+      "growth",
+      4
+    ],
+    [
+      "advanc",
+      4
+    ],
+    [
+      "explain",
+      4
+    ],
+    [
+      "timeline",
+      4
+    ],
+    [
+      "naturally",
+      4
+    ],
+    [
+      "jam",
+      4
+    ],
+    [
+      "anna",
+      4
+    ],
+    [
+      "level",
+      4
+    ],
+    [
+      "lead",
+      4
+    ],
+    [
+      "build",
+      4
+    ],
+    [
+      "learner",
+      3
+    ],
+    [
+      "track",
+      3
+    ],
+    [
+      "challeng",
+      3
+    ],
+    [
+      "analysis",
+      3
+    ],
+    [
+      "perfection",
+      3
+    ],
+    [
+      "common",
+      3
+    ],
+    [
+      "comfortable",
+      3
+    ],
+    [
+      "friday",
+      3
+    ],
+    [
+      "preparation",
+      3
+    ],
+    [
+      "reasonable",
+      3
+    ],
+    [
+      "long-term",
+      3
+    ],
+    [
+      "motivat",
+      3
+    ],
+    [
+      "daniel",
+      3
+    ],
+    [
+      "design",
+      3
+    ],
+    [
+      "unprofessional",
+      3
+    ],
+    [
+      "totally",
+      3
+    ],
+    [
+      "grab",
+      3
+    ],
+    [
+      "coffee",
+      3
+    ],
+    [
+      "deep",
+      3
+    ],
+    [
+      "breath",
+      3
+    ],
+    [
+      "quick",
+      3
+    ],
+    [
+      "current",
+      3
+    ],
+    [
+      "market",
+      3
+    ],
+    [
+      "far",
+      3
+    ],
+    [
+      "less",
+      3
+    ],
+    [
+      "quickly",
+      3
+    ],
+    [
+      "version",
+      3
+    ],
+    [
+      "challenge",
+      3
+    ],
+    [
+      "fine",
+      3
+    ],
+    [
+      "fast",
+      3
+    ],
+    [
+      "two",
+      3
+    ],
+    [
+      "repeat",
+      3
+    ],
+    [
+      "whole",
+      3
+    ],
+    [
+      "consistent",
+      3
+    ],
+    [
+      "encourag",
+      3
+    ],
+    [
+      "offic",
+      3
+    ],
+    [
+      "around",
+      3
+    ],
+    [
+      "world",
+      3
+    ],
+    [
+      "care",
+      3
+    ],
+    [
+      "clearly",
+      3
+    ],
+    [
+      "confidently",
+      3
+    ],
+    [
+      "politely",
+      3
+    ],
+    [
+      "emma",
+      3
+    ],
+    [
+      "alex",
+      3
+    ],
+    [
+      "quality",
+      3
+    ],
+    [
+      "still",
+      3
+    ],
+    [
+      "review",
+      3
+    ],
+    [
+      "loud",
+      3
+    ],
+    [
+      "difficult",
+      3
+    ],
+    [
+      "smart",
+      3
+    ],
+    [
+      "stay",
+      3
+    ],
+    [
+      "native",
+      3
+    ],
+    [
+      "speaker",
+      3
+    ],
+    [
+      "quarter",
+      3
+    ],
+    [
+      "workload",
+      3
+    ],
+    [
+      "deliver",
+      3
+    ],
+    [
+      "sentenc",
+      3
+    ],
+    [
+      "kevin",
+      2
+    ],
+    [
+      "emily",
+      2
+    ],
+    [
+      "recent",
+      2
+    ],
+    [
+      "check",
+      2
+    ],
+    [
+      "monthly",
+      2
+    ],
+    [
+      "clarity",
+      2
+    ],
+    [
+      "second",
+      2
+    ],
+    [
+      "short",
+      2
+    ],
+    [
+      "call",
+      2
+    ],
+    [
+      "thursday",
+      2
+    ],
+    [
+      "tight",
+      2
+    ],
+    [
+      "ready",
+      2
+    ],
+    [
+      "extra",
+      2
+    ],
+    [
+      "monday",
+      2
+    ],
+    [
+      "hard",
+      2
+    ],
+    [
+      "international",
+      2
+    ],
+    [
+      "wrong",
+      2
+    ],
+    [
+      "prepar",
+      2
+    ],
+    [
+      "handle",
+      2
+    ],
+    [
+      "calmly",
+      2
+    ],
+    [
+      "creat",
+      2
+    ],
+    [
+      "content",
+      2
+    ],
+    [
+      "inform",
+      2
+    ],
+    [
+      "finish",
+      2
+    ],
+    [
+      "revise",
+      2
+    ],
+    [
+      "tomorrow",
+      2
+    ],
+    [
+      "afternoon",
+      2
+    ],
+    [
+      "tim",
+      2
+    ],
+    [
+      "wait",
+      2
+    ],
+    [
+      "process",
+      2
+    ],
+    [
+      "information",
+      2
+    ],
+    [
+      "mov",
+      2
+    ],
+    [
+      "prepare",
+      2
+    ],
+    [
+      "useful",
+      2
+    ],
+    [
+      "slow",
+      2
+    ],
+    [
+      "benefit",
+      2
+    ],
+    [
+      "little",
+      2
+    ],
+    [
+      "commute",
+      2
+    ],
+    [
+      "brought",
+      2
+    ],
+    [
+      "area",
+      2
+    ],
+    [
+      "develop",
+      2
+    ],
+    [
+      "group",
+      2
+    ],
+    [
+      "initiative",
+      2
+    ],
+    [
+      "decision",
+      2
+    ],
+    [
+      "realistic",
+      2
+    ],
+    [
+      "grammar",
+      2
+    ],
+    [
+      "respectful",
+      2
+    ],
+    [
+      "lik",
+      2
+    ],
+    [
+      "leave",
+      2
+    ],
+    [
+      "believe",
+      2
+    ],
+    [
+      "life",
+      2
+    ],
+    [
+      "maybe",
+      2
+    ],
+    [
+      "without",
+      2
+    ],
+    [
+      "negative",
+      2
+    ],
+    [
+      "clarification",
+      2
+    ],
+    [
+      "advice",
+      2
+    ],
+    [
+      "introduction",
+      2
+    ],
+    [
+      "direct",
+      2
+    ],
+    [
+      "main",
+      2
+    ],
+    [
+      "wednesday",
+      2
+    ],
+    [
+      "possible",
+      2
+    ],
+    [
+      "easier",
+      2
+    ],
+    [
+      "helpful",
+      2
+    ],
+    [
+      "messag",
+      2
+    ],
+    [
+      "let",
+      2
+    ],
+    [
+      "ryan",
+      2
+    ],
+    [
+      "mark",
+      2
+    ],
+    [
+      "join",
+      2
+    ],
+    [
+      "choos",
+      2
+    ],
+    [
+      "complicat",
+      2
+    ],
+    [
+      "translate",
+      2
+    ],
+    [
+      "head",
+      2
+    ],
+    [
+      "repetition",
+      2
+    ],
+    [
+      "responsible",
+      2
+    ],
+    [
+      "urgent",
+      2
+    ],
+    [
+      "done",
+      2
+    ],
+    [
+      "slid",
+      2
+    ],
+    [
+      "prevent",
+      2
+    ],
+    [
+      "unnecessary",
+      2
+    ],
+    [
+      "stress",
+      2
+    ],
+    [
+      "unsure",
+      2
+    ],
+    [
+      "insight",
+      2
+    ],
+    [
+      "imagine",
+      2
+    ],
+    [
+      "audience",
+      2
+    ],
+    [
+      "honestly",
+      2
+    ],
+    [
+      "thought",
+      2
+    ],
+    [
+      "alone",
+      2
+    ],
+    [
+      "lose",
+      2
+    ],
+    [
+      "train",
+      2
+    ],
+    [
+      "write",
+      2
+    ],
+    [
+      "strategy",
+      2
+    ],
+    [
+      "quiet",
+      2
+    ],
+    [
+      "place",
+      2
+    ],
+    [
+      "input",
+      2
+    ],
+    [
+      "comfort",
+      2
+    ],
+    [
+      "recommend",
+      2
+    ],
+    [
+      "leadership",
+      2
+    ],
+    [
+      "look",
+      2
+    ],
+    [
+      "weak",
+      2
+    ],
+    [
+      "awareness",
+      2
+    ],
+    [
+      "professionalism",
+      2
+    ],
+    [
+      "employe",
+      2
+    ],
+    [
+      "guidance",
+      2
+    ],
+    [
+      "rest",
+      2
+    ],
+    [
+      "luck",
+      2
+    ],
+    [
+      "calm",
+      2
+    ],
+    [
+      "trust",
+      2
+    ],
+    [
+      "powerful",
+      2
+    ],
+    [
+      "giv",
+      2
+    ],
+    [
+      "clearer",
+      2
+    ],
+    [
+      "mauro",
+      1
+    ],
+    [
+      "hardest",
+      1
+    ],
+    [
+      "true",
+      1
+    ],
+    [
+      "minute",
+      1
+    ],
+    [
+      "customer",
+      1
+    ],
+    [
+      "follow-up",
+      1
+    ],
+    [
+      "period",
+      1
+    ],
+    [
+      "prioritiz",
+      1
+    ],
+    [
+      "correctly",
+      1
+    ],
+    [
+      "data",
+      1
+    ],
+    [
+      "section",
+      1
+    ],
+    [
+      "spend",
+      1
+    ],
+    [
+      "reassur",
+      1
+    ],
+    [
+      "complex",
+      1
+    ],
+    [
+      "fully",
+      1
+    ],
+    [
+      "definitely",
+      1
+    ],
+    [
+      "rather",
+      1
+    ],
+    [
+      "rush",
+      1
+    ],
+    [
+      "already",
+      1
+    ],
+    [
+      "catch",
+      1
+    ],
+    [
+      "month",
+      1
+    ],
+    [
+      "end",
+      1
+    ],
+    [
+      "marco",
+      1
+    ],
+    [
+      "job",
+      1
+    ],
+    [
+      "dialogue",
+      1
+    ],
+    [
+      "miss",
+      1
+    ],
+    [
+      "episod",
+      1
+    ],
+    [
+      "role",
+      1
+    ],
+    [
+      "effort",
+      1
+    ],
+    [
+      "hop",
+      1
+    ],
+    [
+      "last",
+      1
+    ],
+    [
+      "shorter",
+      1
+    ],
+    [
+      "rewrite",
+      1
+    ],
+    [
+      "suggestion",
+      1
+    ],
+    [
+      "schedule",
+      1
+    ],
+    [
+      "overload",
+      1
+    ],
+    [
+      "rude",
+      1
+    ],
+    [
+      "sorry",
+      1
+    ],
+    [
+      "kind",
+      1
+    ],
+    [
+      "home",
+      1
+    ],
+    [
+      "create",
+      1
+    ],
+    [
+      "oliver",
+      1
+    ],
+    [
+      "carefully",
+      1
+    ],
+    [
+      "amanda",
+      1
+    ],
+    [
+      "confirm",
+      1
+    ],
+    [
+      "forward",
+      1
+    ],
+    [
+      "formal",
+      1
+    ],
+    [
+      "friendly",
+      1
+    ],
+    [
+      "concise",
+      1
+    ],
+    [
+      "prefer",
+      1
+    ],
+    [
+      "mention",
+      1
+    ],
+    [
+      "sent",
+      1
+    ],
+    [
+      "express",
+      1
+    ],
+    [
+      "well-organiz",
+      1
+    ],
+    [
+      "direction",
+      1
+    ],
+    [
+      "correct",
+      1
+    ],
+    [
+      "yesterday",
+      1
+    ],
+    [
+      "issue",
+      1
+    ],
+    [
+      "high-quality",
+      1
+    ],
+    [
+      "silence",
+      1
+    ],
+    [
+      "chris",
+      1
+    ],
+    [
+      "becom",
+      1
+    ],
+    [
+      "mr",
+      1
+    ],
+    [
+      "brown",
+      1
+    ],
+    [
+      "nina",
+      1
+    ],
+    [
+      "sit",
+      1
+    ],
+    [
+      "youve",
+      1
+    ],
+    [
+      "participate",
+      1
+    ],
+    [
+      "attitude",
+      1
+    ],
+    [
+      "mostly",
+      1
+    ],
+    [
+      "schedul",
+      1
+    ],
+    [
+      "suggest",
+      1
+    ],
+    [
+      "submit",
+      1
+    ],
+    [
+      "instead",
+      1
+    ],
+    [
+      "early",
+      1
+    ],
+    [
+      "flexibility",
+      1
+    ],
+    [
+      "noticeable",
+      1
+    ],
+    [
+      "encouragement",
+      1
+    ],
+    [
+      "organiz",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 5875,
+    "unique_words": 477,
+    "duration_min": 39.0
+  }
+}
