@@ -1,0 +1,9941 @@
+{
+  "file_stem": "40_BusinessMeetingConversationsin50minutesEssentialPhrases",
+  "no": 40,
+  "title_keywords": [
+    [
+      "business",
+      "business"
+    ],
+    [
+      "meeting",
+      "meet"
+    ],
+    [
+      "conversations",
+      "conversation"
+    ],
+    [
+      "minutes",
+      "minut"
+    ],
+    [
+      "essential",
+      "essential"
+    ],
+    [
+      "phrases",
+      "phras"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "marketing",
+      51,
+      "A2"
+    ],
+    [
+      "sales",
+      51,
+      "B1+"
+    ],
+    [
+      "need",
+      45,
+      "A2"
+    ],
+    [
+      "brand",
+      44,
+      "B1+"
+    ],
+    [
+      "consumer",
+      40,
+      "B1+"
+    ],
+    [
+      "teams",
+      35,
+      "A2"
+    ],
+    [
+      "good",
+      34,
+      "A2"
+    ],
+    [
+      "execution",
+      26,
+      "B1+"
+    ],
+    [
+      "planning",
+      26,
+      "A2"
+    ],
+    [
+      "agreed",
+      24,
+      "B1+"
+    ],
+    [
+      "also",
+      24,
+      "A2"
+    ],
+    [
+      "clear",
+      24,
+      "A2"
+    ],
+    [
+      "growth",
+      24,
+      "B1+"
+    ],
+    [
+      "focus",
+      23,
+      "B1+"
+    ],
+    [
+      "quality",
+      23,
+      "A2"
+    ],
+    [
+      "thank",
+      23,
+      "A2"
+    ],
+    [
+      "trade",
+      23,
+      "A2"
+    ],
+    [
+      "innovation",
+      22,
+      "B1+"
+    ],
+    [
+      "retailers",
+      22,
+      "B1+"
+    ],
+    [
+      "action",
+      21,
+      "B1+"
+    ],
+    [
+      "exactly",
+      21,
+      "B1+"
+    ],
+    [
+      "help",
+      21,
+      "A2"
+    ],
+    [
+      "review",
+      21,
+      "B1+"
+    ],
+    [
+      "improve",
+      20,
+      "B1+"
+    ],
+    [
+      "skus",
+      20,
+      "B1+"
+    ],
+    [
+      "without",
+      20,
+      "A2"
+    ],
+    [
+      "distributor",
+      19,
+      "B1+"
+    ],
+    [
+      "product",
+      19,
+      "B1+"
+    ],
+    [
+      "demand",
+      18,
+      "B1+"
+    ],
+    [
+      "forecasting",
+      18,
+      "B1+"
+    ],
+    [
+      "launches",
+      18,
+      "B1+"
+    ],
+    [
+      "schemes",
+      18,
+      "B1+"
+    ],
+    [
+      "trust",
+      18,
+      "B1+"
+    ],
+    [
+      "working",
+      18,
+      "A2"
+    ],
+    [
+      "discussion",
+      17,
+      "B1+"
+    ],
+    [
+      "field",
+      17,
+      "A2"
+    ],
+    [
+      "improving",
+      17,
+      "B1+"
+    ],
+    [
+      "level",
+      17,
+      "B1+"
+    ],
+    [
+      "promotions",
+      17,
+      "B1+"
+    ],
+    [
+      "rather",
+      17,
+      "A2"
+    ],
+    [
+      "see",
+      17,
+      "A2"
+    ],
+    [
+      "supply",
+      17,
+      "B1+"
+    ],
+    [
+      "support",
+      17,
+      "A2"
+    ],
+    [
+      "align",
+      16,
+      "B1+"
+    ],
+    [
+      "long-term",
+      16,
+      "B1+"
+    ],
+    [
+      "risk",
+      16,
+      "A2"
+    ],
+    [
+      "cost",
+      15,
+      "A2"
+    ],
+    [
+      "especially",
+      15,
+      "B1+"
+    ],
+    [
+      "performance",
+      15,
+      "B1+"
+    ],
+    [
+      "point",
+      15,
+      "A2"
+    ],
+    [
+      "training",
+      15,
+      "A2"
+    ],
+    [
+      "fmcg",
+      14,
+      "B1+"
+    ],
+    [
+      "insights",
+      14,
+      "B1+"
+    ],
+    [
+      "issue",
+      14,
+      "A2"
+    ],
+    [
+      "outlet",
+      14,
+      "B1+"
+    ],
+    [
+      "strengthening",
+      14,
+      "B1+"
+    ],
+    [
+      "sustainability",
+      14,
+      "B1+"
+    ],
+    [
+      "us",
+      14,
+      "A2"
+    ],
+    [
+      "volume",
+      14,
+      "B1+"
+    ],
+    [
+      "agree",
+      13,
+      "A2"
+    ],
+    [
+      "business",
+      13,
+      "B1+"
+    ],
+    [
+      "capability",
+      13,
+      "B1+"
+    ],
+    [
+      "chain",
+      13,
+      "B1+"
+    ],
+    [
+      "discuss",
+      13,
+      "B1+"
+    ],
+    [
+      "increased",
+      13,
+      "B1+"
+    ],
+    [
+      "key",
+      13,
+      "A2"
+    ],
+    [
+      "morning",
+      13,
+      "B1+"
+    ],
+    [
+      "strong",
+      13,
+      "A2"
+    ],
+    [
+      "understand",
+      13,
+      "A2"
+    ],
+    [
+      "across",
+      12,
+      "A2"
+    ],
+    [
+      "campaigns",
+      12,
+      "B1+"
+    ],
+    [
+      "compliance",
+      12,
+      "B1+"
+    ],
+    [
+      "decisions",
+      12,
+      "B1+"
+    ],
+    [
+      "discipline",
+      12,
+      "B1+"
+    ],
+    [
+      "forward",
+      12,
+      "A2"
+    ],
+    [
+      "impact",
+      12,
+      "B1+"
+    ],
+    [
+      "limited",
+      12,
+      "B1+"
+    ],
+    [
+      "process",
+      12,
+      "B1+"
+    ],
+    [
+      "short-term",
+      12,
+      "B1+"
+    ],
+    [
+      "address",
+      11,
+      "B1+"
+    ],
+    [
+      "communication",
+      11,
+      "B1+"
+    ],
+    [
+      "data",
+      11,
+      "B1+"
+    ],
+    [
+      "health",
+      11,
+      "B1+"
+    ],
+    [
+      "however",
+      11,
+      "A2"
+    ],
+    [
+      "leadership",
+      11,
+      "B1+"
+    ],
+    [
+      "many",
+      11,
+      "A2"
+    ],
+    [
+      "pricing",
+      11,
+      "B1+"
+    ],
+    [
+      "price",
+      11,
+      "A2"
+    ],
+    [
+      "sometimes",
+      11,
+      "B1+"
+    ],
+    [
+      "we've",
+      11,
+      "B1+"
+    ],
+    [
+      "alignment",
+      10,
+      "B1+"
+    ],
+    [
+      "critical",
+      10,
+      "B1+"
+    ],
+    [
+      "inventory",
+      10,
+      "B1+"
+    ],
+    [
+      "margins",
+      10,
+      "B1+"
+    ],
+    [
+      "meeting",
+      10,
+      "A2"
+    ],
+    [
+      "often",
+      10,
+      "A2"
+    ],
+    [
+      "priorities",
+      10,
+      "B1+"
+    ],
+    [
+      "regions",
+      10,
+      "B1+"
+    ],
+    [
+      "rural",
+      10,
+      "B1+"
+    ],
+    [
+      "scheme",
+      10,
+      "B1+"
+    ],
+    [
+      "stock",
+      10,
+      "B1+"
+    ],
+    [
+      "always",
+      9,
+      "B1+"
+    ],
+    [
+      "areas",
+      9,
+      "A2"
+    ],
+    [
+      "builds",
+      9,
+      "A2"
+    ],
+    [
+      "competitors",
+      9,
+      "B1+"
+    ],
+    [
+      "creates",
+      9,
+      "B1+"
+    ],
+    [
+      "distribution",
+      9,
+      "B1+"
+    ],
+    [
+      "fully",
+      9,
+      "B1+"
+    ],
+    [
+      "makes",
+      9,
+      "B1+"
+    ],
+    [
+      "one",
+      9,
+      "A2"
+    ],
+    [
+      "pressure",
+      9,
+      "B1+"
+    ],
+    [
+      "reporting",
+      9,
+      "A2"
+    ],
+    [
+      "shared",
+      9,
+      "B1+"
+    ],
+    [
+      "talk",
+      9,
+      "A2"
+    ],
+    [
+      "think",
+      9,
+      "A2"
+    ],
+    [
+      "behavior",
+      8,
+      "B1+"
+    ],
+    [
+      "complexity",
+      8,
+      "B1+"
+    ],
+    [
+      "concern",
+      8,
+      "B1+"
+    ],
+    [
+      "engagement",
+      8,
+      "B1+"
+    ],
+    [
+      "ensure",
+      8,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "good morning",
+      "count": 13,
+      "example": "Good morning. Thanks for joining this review meeting. Today, I want us to focus on four",
+      "t": 14.18
+    },
+    {
+      "text": "supply chain",
+      "count": 11,
+      "example": "We should work closely with the supply chain team to ensure availability of these",
+      "t": 200.48
+    },
+    {
+      "text": "let's discuss",
+      "count": 9,
+      "example": "Let's discuss pricing architecture.",
+      "t": 802.26
+    },
+    {
+      "text": "sales teams",
+      "count": 7,
+      "example": "This confuses both sales teams and retailers.",
+      "t": 345.82
+    },
+    {
+      "text": "let's talk",
+      "count": 7,
+      "example": "Now let's talk about execution on the ground.",
+      "t": 833.22
+    },
+    {
+      "text": "working capital",
+      "count": 6,
+      "example": "working capital.",
+      "t": 166.38
+    },
+    {
+      "text": "let's shift",
+      "count": 5,
+      "example": "Understood. Let's shift to financial performance. While top-line growth is steady, our operating",
+      "t": 236.78
+    },
+    {
+      "text": "let's summarize",
+      "count": 5,
+      "example": "Before we close, let's summarize key actions.",
+      "t": 438.24
+    },
+    {
+      "text": "brand equity",
+      "count": 5,
+      "example": "and it's starting to hurt long-term brand equity.",
+      "t": 2786.86
+    },
+    {
+      "text": "field teams",
+      "count": 5,
+      "example": "But when field teams deviate from approved pricing or schemes without escalation, it creates",
+      "t": 2813.8
+    }
+  ],
+  "phrases": [
+    {
+      "text": "good morning",
+      "count": 13,
+      "example": "Good morning. Thanks for joining this review meeting. Today, I want us to focus on four",
+      "t": 14.18
+    },
+    {
+      "text": "supply chain",
+      "count": 11,
+      "example": "We should work closely with the supply chain team to ensure availability of these",
+      "t": 200.48
+    },
+    {
+      "text": "let's discuss",
+      "count": 9,
+      "example": "Let's discuss pricing architecture.",
+      "t": 802.26
+    },
+    {
+      "text": "sales teams",
+      "count": 7,
+      "example": "This confuses both sales teams and retailers.",
+      "t": 345.82
+    },
+    {
+      "text": "let's talk",
+      "count": 7,
+      "example": "Now let's talk about execution on the ground.",
+      "t": 833.22
+    },
+    {
+      "text": "working capital",
+      "count": 6,
+      "example": "working capital.",
+      "t": 166.38
+    },
+    {
+      "text": "let's shift",
+      "count": 5,
+      "example": "Understood. Let's shift to financial performance. While top-line growth is steady, our operating",
+      "t": 236.78
+    },
+    {
+      "text": "let's summarize",
+      "count": 5,
+      "example": "Before we close, let's summarize key actions.",
+      "t": 438.24
+    },
+    {
+      "text": "brand equity",
+      "count": 5,
+      "example": "and it's starting to hurt long-term brand equity.",
+      "t": 2786.86
+    },
+    {
+      "text": "field teams",
+      "count": 5,
+      "example": "But when field teams deviate from approved pricing or schemes without escalation, it creates",
+      "t": 2813.8
+    },
+    {
+      "text": "help us",
+      "count": 4,
+      "example": "management, and execution challenges at field level. This discussion will help us finalize",
+      "t": 28.46
+    },
+    {
+      "text": "what's your assessment",
+      "count": 4,
+      "example": "What's your assessment?",
+      "t": 68.22
+    },
+    {
+      "text": "trade spend",
+      "count": 4,
+      "example": "What about trade spend?",
+      "t": 288.02
+    },
+    {
+      "text": "looking forward",
+      "count": 4,
+      "example": "Looking forward, every major scheme should have clear objectives and post-evaluation,",
+      "t": 307.62
+    },
+    {
+      "text": "summarize key",
+      "count": 4,
+      "example": "Before we close, let's summarize key actions.",
+      "t": 438.24
+    },
+    {
+      "text": "let's summarize key",
+      "count": 4,
+      "example": "Before we close, let's summarize key actions.",
+      "t": 438.24
+    },
+    {
+      "text": "clear timelines",
+      "count": 4,
+      "example": "Let's set clear timelines and ownership for each action.",
+      "t": 465.46
+    },
+    {
+      "text": "sustainable growth",
+      "count": 4,
+      "example": "With better alignment and execution, I'm confident we can achieve sustainable growth rather than",
+      "t": 473.5
+    },
+    {
+      "text": "move forward",
+      "count": 4,
+      "example": "Let's stay focused and move forward decisively.",
+      "t": 482.74
+    },
+    {
+      "text": "modern trade",
+      "count": 4,
+      "example": "Modern trade and e-commerce are relatively stable,",
+      "t": 553.6
+    },
+    {
+      "text": "shelf space",
+      "count": 4,
+      "example": "Even the strongest brand will lose shelf space if it's frequently out of stock.",
+      "t": 592.26
+    },
+    {
+      "text": "makes sense",
+      "count": 4,
+      "example": "That makes sense.",
+      "t": 801.26
+    },
+    {
+      "text": "let's move",
+      "count": 4,
+      "example": "Let's move forward with clarity and discipline.",
+      "t": 979.44
+    },
+    {
+      "text": "let's start",
+      "count": 4,
+      "example": "Let's start with demand volatility.",
+      "t": 1023.56
+    },
+    {
+      "text": "brand architecture",
+      "count": 4,
+      "example": "Today's objective is to review our brand architecture, evaluate how effectively we are using consumer",
+      "t": 2313.68
+    },
+    {
+      "text": "long-term brand",
+      "count": 4,
+      "example": "Strong FMCG brands balance short-term activation with long-term brand building, neglecting",
+      "t": 2571.06
+    },
+    {
+      "text": "execution challenges",
+      "count": 3,
+      "example": "management, and execution challenges at field level. This discussion will help us finalize",
+      "t": 28.46
+    },
+    {
+      "text": "need to address",
+      "count": 3,
+      "example": "Overall, there are positives, but also some clear gaps that we need to address quickly.",
+      "t": 46.3
+    },
+    {
+      "text": "consumer demand",
+      "count": 3,
+      "example": "I believe the initial success was driven mainly by pipeline filling rather than true consumer demand.",
+      "t": 69.98
+    },
+    {
+      "text": "repeat purchase",
+      "count": 3,
+      "example": "It means we may have overestimated repeat purchase in our initial projections.",
+      "t": 85.9
+    },
+    {
+      "text": "numeric distribution",
+      "count": 3,
+      "example": "Numeric distribution in rural areas has improved by about 12%, which is positive.",
+      "t": 151.54
+    },
+    {
+      "text": "per outlet",
+      "count": 3,
+      "example": "However, productivity per outlet is still low.",
+      "t": 157.02
+    },
+    {
+      "text": "service levels",
+      "count": 3,
+      "example": "and training. Without that, service levels may drop, affecting brand perception.",
+      "t": 231.5
+    },
+    {
+      "text": "that's something",
+      "count": 3,
+      "example": "That's something we can control. Better demand forecasting and regional consolidation could",
+      "t": 262.98
+    },
+    {
+      "text": "supply reliability",
+      "count": 3,
+      "example": "builds credibility. If retailers trust our schemes and supply reliability, they're more",
+      "t": 359.46
+    },
+    {
+      "text": "let's also",
+      "count": 3,
+      "example": "Let's also talk about people capability. We've hired many new sales officers recently.",
+      "t": 367.02
+    },
+    {
+      "text": "people capability",
+      "count": 3,
+      "example": "Let's also talk about people capability. We've hired many new sales officers recently.",
+      "t": 367.02
+    },
+    {
+      "text": "outlet level",
+      "count": 3,
+      "example": "For example, outlet level data can help identify where to invest promotions more effectively.",
+      "t": 415.8
+    },
+    {
+      "text": "key actions",
+      "count": 3,
+      "example": "Before we close, let's summarize key actions.",
+      "t": 438.24
+    },
+    {
+      "text": "summarize key actions",
+      "count": 3,
+      "example": "Before we close, let's summarize key actions.",
+      "t": 438.24
+    },
+    {
+      "text": "growth rather",
+      "count": 3,
+      "example": "With better alignment and execution, I'm confident we can achieve sustainable growth rather than",
+      "t": 473.5
+    },
+    {
+      "text": "constructive discussion",
+      "count": 3,
+      "example": "Thank you for the constructive discussion.",
+      "t": 480.34
+    },
+    {
+      "text": "joining this extended",
+      "count": 3,
+      "example": "Thank you for joining this extended review meeting.",
+      "t": 490.34
+    },
+    {
+      "text": "market share",
+      "count": 3,
+      "example": "the reasons behind our recent market share pressure, evaluate our innovation pipeline,",
+      "t": 499.9
+    },
+    {
+      "text": "innovation pipeline",
+      "count": 3,
+      "example": "the reasons behind our recent market share pressure, evaluate our innovation pipeline,",
+      "t": 499.9
+    },
+    {
+      "text": "fmcg environment",
+      "count": 3,
+      "example": "The FMCG environment has become far more aggressive, and incremental improvements alone may not",
+      "t": 517.82
+    },
+    {
+      "text": "that's concerning",
+      "count": 3,
+      "example": "That's concerning, especially since competitors are expanding aggressively.",
+      "t": 544.14
+    },
+    {
+      "text": "without clear",
+      "count": 3,
+      "example": "We are spreading trade spend across too many schemes without clear objectives.",
+      "t": 751.54
+    },
+    {
+      "text": "let's move forward",
+      "count": 3,
+      "example": "Let's move forward with clarity and discipline.",
+      "t": 979.44
+    },
+    {
+      "text": "cash flow",
+      "count": 3,
+      "example": "At the same time, extended credit terms are putting pressure on cash flow.",
+      "t": 1125.96
+    },
+    {
+      "text": "distributor health",
+      "count": 3,
+      "example": "Let's discuss distributor health.",
+      "t": 1159.78
+    },
+    {
+      "text": "shared kpis",
+      "count": 3,
+      "example": "Shared KPIs and joint reviews help.",
+      "t": 1325.22
+    },
+    {
+      "text": "joint reviews",
+      "count": 3,
+      "example": "Shared KPIs and joint reviews help.",
+      "t": 1325.22
+    },
+    {
+      "text": "brand trust",
+      "count": 3,
+      "example": "our sustainability commitments, and understand how these areas impact brand trust and long-term",
+      "t": 1433.3
+    },
+    {
+      "text": "completely agree",
+      "count": 3,
+      "example": "I completely agree.",
+      "t": 1447.28
+    },
+    {
+      "text": "that's an important",
+      "count": 3,
+      "example": "levels vary significantly. That's an important point. Quality doesn't end at the factory gate.",
+      "t": 1512.24
+    },
+    {
+      "text": "digital engagement",
+      "count": 3,
+      "example": "We need more consistent the low-the-line activities and digital engagement.",
+      "t": 2197.22
+    },
+    {
+      "text": "category leadership",
+      "count": 3,
+      "example": "Ultimately, this discussion should help us clarify our path toward category leadership.",
+      "t": 2330.92
+    },
+    {
+      "text": "brand health",
+      "count": 3,
+      "example": "A balanced scorecard that includes growth, profitability, brand health, and execution",
+      "t": 2678.54
+    },
+    {
+      "text": "review meeting",
+      "count": 2,
+      "example": "Good morning. Thanks for joining this review meeting. Today, I want us to focus on four",
+      "t": 14.18
+    },
+    {
+      "text": "thanks for joining",
+      "count": 2,
+      "example": "Good morning. Thanks for joining this review meeting. Today, I want us to focus on four",
+      "t": 14.18
+    },
+    {
+      "text": "product launch",
+      "count": 2,
+      "example": "key areas, the performance of our recent product launch, rural market expansion, cost and profitability",
+      "t": 20.22
+    },
+    {
+      "text": "i've reviewed",
+      "count": 2,
+      "example": "I've reviewed the launch performance dashboards, regional sales updates, and finance summaries.",
+      "t": 40.86
+    },
+    {
+      "text": "let's begin",
+      "count": 2,
+      "example": "Let's begin with the new product launch.",
+      "t": 52.26
+    },
+    {
+      "text": "true consumer",
+      "count": 2,
+      "example": "I believe the initial success was driven mainly by pipeline filling rather than true consumer demand.",
+      "t": 69.98
+    },
+    {
+      "text": "rather than true",
+      "count": 2,
+      "example": "I believe the initial success was driven mainly by pipeline filling rather than true consumer demand.",
+      "t": 69.98
+    },
+    {
+      "text": "true consumer demand",
+      "count": 2,
+      "example": "I believe the initial success was driven mainly by pipeline filling rather than true consumer demand.",
+      "t": 69.98
+    },
+    {
+      "text": "that's a concern",
+      "count": 2,
+      "example": "That's a concern.",
+      "t": 84.38
+    },
+    {
+      "text": "value proposition",
+      "count": 2,
+      "example": "the value proposition is not always clear.",
+      "t": 108.7
+    },
+    {
+      "text": "rural expansion",
+      "count": 2,
+      "example": "Now, moving to rural expansion, this is a strategic priority for us this year.",
+      "t": 143.06
+    },
+    {
+      "text": "rural retailers",
+      "count": 2,
+      "example": "Many rural retailers are cautious about stocking new SKUs due to slower turnover and limited",
+      "t": 160.7
+    },
+    {
+      "text": "new skus",
+      "count": 2,
+      "example": "Many rural retailers are cautious about stocking new SKUs due to slower turnover and limited",
+      "t": 160.7
+    },
+    {
+      "text": "rural markets",
+      "count": 2,
+      "example": "Urban strategies won't work in rural markets.",
+      "t": 172.02
+    },
+    {
+      "text": "price points",
+      "count": 2,
+      "example": "First, we should focus on smaller pack sizes with lower price points.",
+      "t": 177.18
+    },
+    {
+      "text": "credit terms",
+      "count": 2,
+      "example": "Second, credit terms and simpler schemes can encourage rural retailers to stock and promote",
+      "t": 182.06
+    },
+    {
+      "text": "route productivity",
+      "count": 2,
+      "example": "Exactly. Another challenge in rural markets is route productivity. Sales representatives",
+      "t": 209.22
+    },
+    {
+      "text": "help improve",
+      "count": 2,
+      "example": "Would restructuring routes or using sub-distributors help improve reach?",
+      "t": 220.9
+    },
+    {
+      "text": "brand perception",
+      "count": 2,
+      "example": "and training. Without that, service levels may drop, affecting brand perception.",
+      "t": 231.5
+    },
+    {
+      "text": "raw material",
+      "count": 2,
+      "example": "margins are under pressure due to higher logistics and raw material costs. Finance has flagged",
+      "t": 243.86
+    },
+    {
+      "text": "demand forecasting",
+      "count": 2,
+      "example": "That's something we can control. Better demand forecasting and regional consolidation could",
+      "t": 262.98
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen, practice, speak. Practice makes you perfect."
+    },
+    {
+      "t": 14.18,
+      "text": "Good morning. Thanks for joining this review meeting. Today, I want us to focus on four"
+    },
+    {
+      "t": 20.22,
+      "text": "key areas, the performance of our recent product launch, rural market expansion, cost and profitability"
+    },
+    {
+      "t": 28.46,
+      "text": "management, and execution challenges at field level. This discussion will help us finalize"
+    },
+    {
+      "t": 35.42,
+      "text": "priorities for the next two quarters."
+    },
+    {
+      "t": 38.86,
+      "text": "Good morning."
+    },
+    {
+      "t": 39.86,
+      "text": "Thank you."
+    },
+    {
+      "t": 40.86,
+      "text": "I've reviewed the launch performance dashboards, regional sales updates, and finance summaries."
+    },
+    {
+      "t": 46.3,
+      "text": "Overall, there are positives, but also some clear gaps that we need to address quickly."
+    },
+    {
+      "t": 52.26,
+      "text": "Let's begin with the new product launch."
+    },
+    {
+      "t": 55.0,
+      "text": "From a volume perspective, the initial offtake was encouraging in the first six weeks,"
+    },
+    {
+      "t": 61.06,
+      "text": "especially in metro and large town outlets."
+    },
+    {
+      "t": 64.7,
+      "text": "However, momentum slowed down after that."
+    },
+    {
+      "t": 68.22,
+      "text": "What's your assessment?"
+    },
+    {
+      "t": 69.98,
+      "text": "I believe the initial success was driven mainly by pipeline filling rather than true consumer demand."
+    },
+    {
+      "t": 76.38,
+      "text": "Distributors stocked the product because of the introductory schemes,"
+    },
+    {
+      "t": 79.98,
+      "text": "but secondary sales didn't pick up at the same pace in some regions."
+    },
+    {
+      "t": 84.38,
+      "text": "That's a concern."
+    },
+    {
+      "t": 85.9,
+      "text": "It means we may have overestimated repeat purchase in our initial projections."
+    },
+    {
+      "t": 91.5,
+      "text": "Do you think pricing or positioning played a role?"
+    },
+    {
+      "t": 95.18,
+      "text": "Yes, to some extent."
+    },
+    {
+      "t": 97.18,
+      "text": "While the product quality is good, consumers are comparing it directly with established competitors."
+    },
+    {
+      "t": 103.66,
+      "text": "Our price point is slightly higher, and without strong differentiation at shelf level,"
+    },
+    {
+      "t": 108.7,
+      "text": "the value proposition is not always clear."
+    },
+    {
+      "t": 111.82,
+      "text": "So, visibility and communication are key issues."
+    },
+    {
+      "t": 115.82,
+      "text": "Were the planned point of sale materials rolled out on time?"
+    },
+    {
+      "t": 120.06,
+      "text": "Not consistently."
+    },
+    {
+      "t": 122.1,
+      "text": "In urban markets, execution was decent, but in Tier 2 and Tier 3 towns, many outlets received"
+    },
+    {
+      "t": 128.34,
+      "text": "products without proper shelf strips or wobblers."
+    },
+    {
+      "t": 131.7,
+      "text": "This reduced impulse purchase."
+    },
+    {
+      "t": 134.14,
+      "text": "That highlights an execution gap."
+    },
+    {
+      "t": 136.66,
+      "text": "We need to ensure that future launches are supported end-to-end, not just with trade"
+    },
+    {
+      "t": 142.06,
+      "text": "schemes."
+    },
+    {
+      "t": 143.06,
+      "text": "Now, moving to rural expansion, this is a strategic priority for us this year."
+    },
+    {
+      "t": 149.26,
+      "text": "How has progress so far?"
+    },
+    {
+      "t": 151.54,
+      "text": "Numeric distribution in rural areas has improved by about 12%, which is positive."
+    },
+    {
+      "t": 157.02,
+      "text": "However, productivity per outlet is still low."
+    },
+    {
+      "t": 160.7,
+      "text": "Many rural retailers are cautious about stocking new SKUs due to slower turnover and limited"
+    },
+    {
+      "t": 166.38,
+      "text": "working capital."
+    },
+    {
+      "t": 167.58,
+      "text": "That's expected, but we need a tailored approach."
+    },
+    {
+      "t": 172.02,
+      "text": "Urban strategies won't work in rural markets."
+    },
+    {
+      "t": 175.16,
+      "text": "What adjustments would you recommend?"
+    },
+    {
+      "t": 177.18,
+      "text": "First, we should focus on smaller pack sizes with lower price points."
+    },
+    {
+      "t": 182.06,
+      "text": "Second, credit terms and simpler schemes can encourage rural retailers to stock and promote"
+    },
+    {
+      "t": 187.5,
+      "text": "our products."
+    },
+    {
+      "t": 188.74,
+      "text": "Third, local influencer activity, such as village-level sampling, can help drive trials."
+    },
+    {
+      "t": 194.86,
+      "text": "I agree."
+    },
+    {
+      "t": 196.3,
+      "text": "Smaller packs are especially important in price-sensitive markets."
+    },
+    {
+      "t": 200.48,
+      "text": "We should work closely with the supply chain team to ensure availability of these"
+    },
+    {
+      "t": 205.3,
+      "text": "SKUs without disrupting production efficiency."
+    },
+    {
+      "t": 209.22,
+      "text": "Exactly. Another challenge in rural markets is route productivity. Sales representatives"
+    },
+    {
+      "t": 214.98,
+      "text": "are covering long distances with limited daily outlet coverage, which affects call efficiency."
+    },
+    {
+      "t": 220.9,
+      "text": "Would restructuring routes or using sub-distributors help improve reach?"
+    },
+    {
+      "t": 226.22,
+      "text": "Yes, sub-distributors can play a major role. However, they need proper incentives"
+    },
+    {
+      "t": 231.5,
+      "text": "and training. Without that, service levels may drop, affecting brand perception."
+    },
+    {
+      "t": 236.78,
+      "text": "Understood. Let's shift to financial performance. While top-line growth is steady, our operating"
+    },
+    {
+      "t": 243.86,
+      "text": "margins are under pressure due to higher logistics and raw material costs. Finance has flagged"
+    },
+    {
+      "t": 250.06,
+      "text": "this as a risk."
+    },
+    {
+      "t": 251.66,
+      "text": "I've reviewed the cost breakdown. Distribution costs increased mainly because of fuel price"
+    },
+    {
+      "t": 256.9,
+      "text": "hikes and inefficient load planning. In some regions, trucks are running below optimal capacity."
+    },
+    {
+      "t": 262.98,
+      "text": "That's something we can control. Better demand forecasting and regional consolidation could"
+    },
+    {
+      "t": 268.9,
+      "text": "help reduce cost per case. Agreed. From a pricing perspective, we need to be careful."
+    },
+    {
+      "t": 275.3,
+      "text": "Any aggressive price increase could impact volumes, especially in rural and semi-urban markets."
+    },
+    {
+      "t": 281.06,
+      "text": "So, margin improvement needs to come from cost optimization rather than pricing alone."
+    },
+    {
+      "t": 288.02,
+      "text": "What about trade spend?"
+    },
+    {
+      "t": 289.74,
+      "text": "Are we getting adequate returns?"
+    },
+    {
+      "t": 292.28,
+      "text": "Trade spend has increased by nearly 15%, but ROI varies by scheme."
+    },
+    {
+      "t": 298.06,
+      "text": "Some discounts are driving only forward buying, not real consumption."
+    },
+    {
+      "t": 302.38,
+      "text": "We need stricter evaluation of scheme effectiveness."
+    },
+    {
+      "t": 305.78,
+      "text": "I fully agree."
+    },
+    {
+      "t": 307.62,
+      "text": "Looking forward, every major scheme should have clear objectives and post-evaluation,"
+    },
+    {
+      "t": 313.7,
+      "text": "otherwise we're just eroding margins."
+    },
+    {
+      "t": 316.74,
+      "text": "Another area to consider is SKU rationalization."
+    },
+    {
+      "t": 320.38,
+      "text": "We have too many low-rotation SKUs that add complexity and cost without meaningful contribution."
+    },
+    {
+      "t": 326.54,
+      "text": "That's a sensitive topic, but necessary."
+    },
+    {
+      "t": 330.34,
+      "text": "Using tail SKUs will help simplify operations and improve focus on high-margin products."
+    },
+    {
+      "t": 337.42,
+      "text": "Exactly."
+    },
+    {
+      "t": 338.42,
+      "text": "Now, regarding execution challenges, one recurring issue from the field is frequent changes in"
+    },
+    {
+      "t": 343.94,
+      "text": "schemes and priorities."
+    },
+    {
+      "t": 345.82,
+      "text": "This confuses both sales teams and retailers."
+    },
+    {
+      "t": 348.98,
+      "text": "That's fair feedback."
+    },
+    {
+      "t": 350.94,
+      "text": "We sometimes change plans too often in response to short-term numbers."
+    },
+    {
+      "t": 355.74,
+      "text": "We need more discipline and consistency."
+    },
+    {
+      "t": 359.46,
+      "text": "builds credibility. If retailers trust our schemes and supply reliability, they're more"
+    },
+    {
+      "t": 364.58,
+      "text": "willing to support our brands."
+    },
+    {
+      "t": 367.02,
+      "text": "Let's also talk about people capability. We've hired many new sales officers recently."
+    },
+    {
+      "t": 373.16,
+      "text": "How is the onboarding and training process?"
+    },
+    {
+      "t": 375.98,
+      "text": "Currently, it's inconsistent. Some regions have strong coaching culture, while others"
+    },
+    {
+      "t": 381.14,
+      "text": "rely on on-the-job learning. This creates uneven performance across markets."
+    },
+    {
+      "t": 386.56,
+      "text": "We should standardize training modules, especially for new launches, trade scheme explanation,"
+    },
+    {
+      "t": 392.68,
+      "text": "and basic financial understanding."
+    },
+    {
+      "t": 395.16,
+      "text": "That would definitely help."
+    },
+    {
+      "t": 396.96,
+      "text": "Sales teams who understand margins, costs, and priorities make better decisions in the"
+    },
+    {
+      "t": 401.52,
+      "text": "field."
+    },
+    {
+      "t": 402.52,
+      "text": "Another emerging trend is data-driven decision-making."
+    },
+    {
+      "t": 406.4,
+      "text": "Are we fully utilizing the sales data we collect?"
+    },
+    {
+      "t": 410.32,
+      "text": "Not yet."
+    },
+    {
+      "t": 411.32,
+      "text": "We generate reports, but insights are not always translated into action."
+    },
+    {
+      "t": 415.8,
+      "text": "For example, outlet level data can help identify where to invest promotions more effectively."
+    },
+    {
+      "t": 421.54,
+      "text": "We need to move from reporting to insights and actions, perhaps a monthly performance"
+    },
+    {
+      "t": 427.58,
+      "text": "review focused on problem solving rather than just numbers."
+    },
+    {
+      "t": 432.28,
+      "text": "That would be beneficial."
+    },
+    {
+      "t": 433.94,
+      "text": "It will also improve accountability at regional and area levels."
+    },
+    {
+      "t": 438.24,
+      "text": "Before we close, let's summarize key actions."
+    },
+    {
+      "t": 441.68,
+      "text": "From my side, priorities are improving launch execution, strengthening rural strategy, optimizing"
+    },
+    {
+      "t": 448.62,
+      "text": "costs, and bringing discipline to trade spends."
+    },
+    {
+      "t": 452.74,
+      "text": "From my side, I'll focus on detailed action plans for rural expansion, scheme ROI analysis,"
+    },
+    {
+      "t": 458.66,
+      "text": "and route productivity improvements."
+    },
+    {
+      "t": 460.62,
+      "text": "I'll also coordinate with finance and supply chain teams."
+    },
+    {
+      "t": 464.46,
+      "text": "Excellent."
+    },
+    {
+      "t": 465.46,
+      "text": "Let's set clear timelines and ownership for each action."
+    },
+    {
+      "t": 469.1,
+      "text": "We'll review progress in the monthly business review."
+    },
+    {
+      "t": 472.5,
+      "text": "Agreed."
+    },
+    {
+      "t": 473.5,
+      "text": "With better alignment and execution, I'm confident we can achieve sustainable growth rather than"
+    },
+    {
+      "t": 478.38,
+      "text": "short-term gains."
+    },
+    {
+      "t": 480.34,
+      "text": "Thank you for the constructive discussion."
+    },
+    {
+      "t": 482.74,
+      "text": "Let's stay focused and move forward decisively."
+    },
+    {
+      "t": 486.22,
+      "text": "Thank you."
+    },
+    {
+      "t": 487.22,
+      "text": "Looking forward to executing the plan."
+    },
+    {
+      "t": 489.34,
+      "text": "Good morning."
+    },
+    {
+      "t": 490.34,
+      "text": "Thank you for joining this extended review meeting."
+    },
+    {
+      "t": 493.78,
+      "text": "The objective today is not just to look at last quarter's numbers, but to deeply analyze"
+    },
+    {
+      "t": 499.9,
+      "text": "the reasons behind our recent market share pressure, evaluate our innovation pipeline,"
+    },
+    {
+      "t": 506.56,
+      "text": "and align on corrective actions for sustainable growth."
+    },
+    {
+      "t": 510.98,
+      "text": "This is a critical discussion for the business."
+    },
+    {
+      "t": 514.32,
+      "text": "Good morning."
+    },
+    {
+      "t": 515.32,
+      "text": "I agree."
+    },
+    {
+      "t": 516.32,
+      "text": "This discussion is timely."
+    },
+    {
+      "t": 517.82,
+      "text": "The FMCG environment has become far more aggressive, and incremental improvements alone may not"
+    },
+    {
+      "t": 524.5,
+      "text": "be enough."
+    },
+    {
+      "t": 525.7,
+      "text": "We need to address some structural issues if we want to regain momentum."
+    },
+    {
+      "t": 529.98,
+      "text": "Let's begin with market share."
+    },
+    {
+      "t": 533.22,
+      "text": "While our absolute sales value has grown marginally, we've lost approximately 0.6 percentage"
+    },
+    {
+      "t": 540.86,
+      "text": "points in value share in the core category."
+    },
+    {
+      "t": 544.14,
+      "text": "That's concerning, especially since competitors are expanding aggressively."
+    },
+    {
+      "t": 549.46,
+      "text": "Yes, and the loss is more pronounced in general trade."
+    },
+    {
+      "t": 553.6,
+      "text": "Modern trade and e-commerce are relatively stable,"
+    },
+    {
+      "t": 557.1,
+      "text": "but in traditional outlets, competitors are winning through better retailer engagement and faster execution."
+    },
+    {
+      "t": 563.94,
+      "text": "What do you see as the primary drivers of this shift?"
+    },
+    {
+      "t": 567.94,
+      "text": "Is it price, availability, or promotional intensity?"
+    },
+    {
+      "t": 572.26,
+      "text": "It's a combination of all three."
+    },
+    {
+      "t": 574.76,
+      "text": "Competitors have narrowed the price gap, improved service levels, and maintained consistent schemes."
+    },
+    {
+      "t": 581.26,
+      "text": "In contrast, our scheme changes and supply interruptions have affected retailer confidence."
+    },
+    {
+      "t": 587.26,
+      "text": "Supply reliability is something we cannot compromise on."
+    },
+    {
+      "t": 592.26,
+      "text": "Even the strongest brand will lose shelf space if it's frequently out of stock."
+    },
+    {
+      "t": 597.26,
+      "text": "What went wrong in demand planning?"
+    },
+    {
+      "t": 600.26,
+      "text": "Our forecasts were overly optimistic for some SKUs and conservative for others."
+    },
+    {
+      "t": 606.1,
+      "text": "Promotions were not always factored correctly and regional variations were underestimated."
+    },
+    {
+      "t": 611.62,
+      "text": "As a result, we had excess inventory in slow-moving SKUs and shortages in fast movers."
+    },
+    {
+      "t": 618.66,
+      "text": "That mismatch has both cost and revenue implications."
+    },
+    {
+      "t": 623.06,
+      "text": "Excess inventory ties up working capital, while stockouts directly impact sales and retailer trust."
+    },
+    {
+      "t": 631.22,
+      "text": "Exactly. We need to move toward a rolling forecast model, updated monthly,"
+    },
+    {
+      "t": 636.18,
+      "text": "rather than relying heavily on quarterly projections that quickly become outdated."
+    },
+    {
+      "t": 641.06,
+      "text": "I support that. Let's now discuss competition. One noticeable trend is the rise of local and"
+    },
+    {
+      "t": 648.34,
+      "text": "regional brands offering aggressive pricing, how serious is this threat?"
+    },
+    {
+      "t": 653.9,
+      "text": "It's significant, especially in price-sensitive segments."
+    },
+    {
+      "t": 657.62,
+      "text": "These players operate with lower overheads and are willing to accept thinner margins."
+    },
+    {
+      "t": 662.62,
+      "text": "While their quality may not always match ours, the perceived value is appealing to many consumers."
+    },
+    {
+      "t": 668.9,
+      "text": "So competing purely on price is not sustainable for us."
+    },
+    {
+      "t": 674.26,
+      "text": "Differentiation becomes critical."
+    },
+    {
+      "t": 675.86,
+      "text": "Are we doing enough on innovation?"
+    },
+    {
+      "t": 678.22,
+      "text": "Honestly, our innovation pipeline is slower than ideal."
+    },
+    {
+      "t": 682.42,
+      "text": "Most of our launches in the past year were line extensions rather than true innovations."
+    },
+    {
+      "t": 687.54,
+      "text": "While they add incremental volume, they don't create excitement or attract new consumers."
+    },
+    {
+      "t": 692.58,
+      "text": "That's a concern."
+    },
+    {
+      "t": 695.06,
+      "text": "Innovation should not only respond to competitors but anticipate consumer needs."
+    },
+    {
+      "t": 700.5,
+      "text": "What opportunities do you see?"
+    },
+    {
+      "t": 702.74,
+      "text": "Health, convenience, and affordability are key themes."
+    },
+    {
+      "t": 706.82,
+      "text": "Consumers are increasingly looking for products with cleaner labels, functional benefits,"
+    },
+    {
+      "t": 711.18,
+      "text": "and formats that fit their daily routines."
+    },
+    {
+      "t": 714.3,
+      "text": "Agreed."
+    },
+    {
+      "t": 715.3,
+      "text": "However, innovation must also be scalable and profitable."
+    },
+    {
+      "t": 719.3,
+      "text": "We've had cases where innovative products performed well in limited markets but failed"
+    },
+    {
+      "t": 725.26,
+      "text": "nationally due to cost structures."
+    },
+    {
+      "t": 728.26,
+      "text": "That's why early involvement of supply chain and finance is essential."
+    },
+    {
+      "t": 733.36,
+      "text": "Innovation cannot be driven by marketing alone."
+    },
+    {
+      "t": 735.64,
+      "text": "It has to be cross-functional from day one."
+    },
+    {
+      "t": 738.96,
+      "text": "Let's shift to trade strategy."
+    },
+    {
+      "t": 741.4,
+      "text": "Our trade spend as a percentage of sales has increased, yet effectiveness has declined."
+    },
+    {
+      "t": 747.86,
+      "text": "What's your assessment?"
+    },
+    {
+      "t": 749.38,
+      "text": "The issue is lack of focus."
+    },
+    {
+      "t": 751.54,
+      "text": "We are spreading trade spend across too many schemes without clear objectives."
+    },
+    {
+      "t": 756.58,
+      "text": "Some schemes drive volume, others drive visibility, but many do neither effectively enough."
+    },
+    {
+      "t": 763.14,
+      "text": "So we need sharper choices, fewer schemes but with stronger execution and clearer communication."
+    },
+    {
+      "t": 770.74,
+      "text": "Exactly."
+    },
+    {
+      "t": 772.42,
+      "text": "Retailers prefer predictability."
+    },
+    {
+      "t": 774.5,
+      "text": "When schemes are stable and easy to understand, participation improves."
+    },
+    {
+      "t": 779.24,
+      "text": "Frequent changes only create confusion."
+    },
+    {
+      "t": 782.06,
+      "text": "What about assortment management?"
+    },
+    {
+      "t": 784.34,
+      "text": "Are we offering too many SKUs at the outlet level?"
+    },
+    {
+      "t": 788.02,
+      "text": "Yes, especially in smaller stores."
+    },
+    {
+      "t": 791.62,
+      "text": "Retailers have limited shelf space and too many SKUs dilute focus."
+    },
+    {
+      "t": 796.86,
+      "text": "Rationalizing assortments by channel could improve visibility and productivity."
+    },
+    {
+      "t": 801.26,
+      "text": "That makes sense."
+    },
+    {
+      "t": 802.26,
+      "text": "Let's discuss pricing architecture."
+    },
+    {
+      "t": 805.1,
+      "text": "Are our price ladders clear to consumers?"
+    },
+    {
+      "t": 808.42,
+      "text": "Not always."
+    },
+    {
+      "t": 809.42,
+      "text": "In some cases, the price difference between entry level and mid-tier SKUs is too narrow,"
+    },
+    {
+      "t": 815.58,
+      "text": "which confuses consumers and reduces up-trading."
+    },
+    {
+      "t": 819.14,
+      "text": "We need clearer segmentation, good, better, best, so consumers can easily understand the"
+    },
+    {
+      "t": 825.94,
+      "text": "value proposition."
+    },
+    {
+      "t": 827.42,
+      "text": "Agreed, this also helps sales teams position products more effectively at the outlet"
+    },
+    {
+      "t": 832.22,
+      "text": "level."
+    },
+    {
+      "t": 833.22,
+      "text": "Now let's talk about execution on the ground."
+    },
+    {
+      "t": 836.82,
+      "text": "Feedback suggests variation in performance across regions."
+    },
+    {
+      "t": 841.38,
+      "text": "What's driving this inconsistency?"
+    },
+    {
+      "t": 843.98,
+      "text": "Leadership capability at the regional level"
+    },
+    {
+      "t": 846.38,
+      "text": "plays a big role."
+    },
+    {
+      "t": 847.98,
+      "text": "Regions with strong managers show better discipline"
+    },
+    {
+      "t": 850.98,
+      "text": "and execution, while others struggle with basics"
+    },
+    {
+      "t": 854.14,
+      "text": "like coverage, visibility, and reporting."
+    },
+    {
+      "t": 857.18,
+      "text": "That indicates a capability gap."
+    },
+    {
+      "t": 859.72,
+      "text": "Training alone may not be enough."
+    },
+    {
+      "t": 862.22,
+      "text": "we may need clearer KPIs and stronger accountability."
+    },
+    {
+      "t": 866.62,
+      "text": "Yes, and KPIs should balance volume, profitability,"
+    },
+    {
+      "t": 870.82,
+      "text": "and execution quality."
+    },
+    {
+      "t": 872.86,
+      "text": "Over emphasis on volume encourages short-term behavior."
+    },
+    {
+      "t": 876.9,
+      "text": "Let's also address digital transformation."
+    },
+    {
+      "t": 880.18,
+      "text": "We collect a lot of data,"
+    },
+    {
+      "t": 882.02,
+      "text": "but are we using it effectively?"
+    },
+    {
+      "t": 884.3,
+      "text": "Not fully."
+    },
+    {
+      "t": 885.46,
+      "text": "Data is often reviewed retrospectively"
+    },
+    {
+      "t": 888.02,
+      "text": "rather than used proactively."
+    },
+    {
+      "t": 890.22,
+      "text": "Predictive analytics could help identify risks"
+    },
+    {
+      "t": 893.22,
+      "text": "and opportunities earlier."
+    },
+    {
+      "t": 895.14,
+      "text": "That's an area we should invest in."
+    },
+    {
+      "t": 897.54,
+      "text": "Better insights can improve forecasting,"
+    },
+    {
+      "t": 900.38,
+      "text": "scheme planning, and even route optimization."
+    },
+    {
+      "t": 903.82,
+      "text": "Absolutely, digital tools can also improve"
+    },
+    {
+      "t": 906.94,
+      "text": "field productivity by reducing manual reporting"
+    },
+    {
+      "t": 909.86,
+      "text": "and allowing sales teams to focus on selling."
+    },
+    {
+      "t": 913.02,
+      "text": "Before we conclude, let's discuss long-term strategy."
+    },
+    {
+      "t": 917.28,
+      "text": "What should be our top priorities over the next 12 months to 18 months?"
+    },
+    {
+      "t": 922.88,
+      "text": "From my perspective, restore supply reliability, sharpen trade strategy, accelerate meaningful"
+    },
+    {
+      "t": 929.52,
+      "text": "innovation, and strengthen leadership capability in the field."
+    },
+    {
+      "t": 933.64,
+      "text": "I agree."
+    },
+    {
+      "t": 934.64,
+      "text": "I would also add improving forecast accuracy and ensuring profitability is embedded in"
+    },
+    {
+      "t": 940.88,
+      "text": "every decision, not treated as an afterthought."
+    },
+    {
+      "t": 944.52,
+      "text": "If we align on these priorities and execute consistently, we can regain lost work at share"
+    },
+    {
+      "t": 950.2,
+      "text": "and build a more resilient business."
+    },
+    {
+      "t": 953.08,
+      "text": "Well said, this will require difficult decisions and strong cross-functional collaboration,"
+    },
+    {
+      "t": 959.28,
+      "text": "but it's necessary for long-term success."
+    },
+    {
+      "t": 962.16,
+      "text": "I'm aligned."
+    },
+    {
+      "t": 963.16,
+      "text": "I'll work on a detailed roadmap with milestones and ownership for each initiative."
+    },
+    {
+      "t": 967.96,
+      "text": "Excellent."
+    },
+    {
+      "t": 968.96,
+      "text": "Let's reconvene in three weeks with progress updates and refined action plans."
+    },
+    {
+      "t": 974.44,
+      "text": "Agreed."
+    },
+    {
+      "t": 975.44,
+      "text": "Thank you for the open and constructive discussion."
+    },
+    {
+      "t": 978.44,
+      "text": "Thank you."
+    },
+    {
+      "t": 979.44,
+      "text": "Let's move forward with clarity and discipline."
+    },
+    {
+      "t": 982.36,
+      "text": "Thank you for joining this extended review session."
+    },
+    {
+      "t": 985.88,
+      "text": "The purpose of today's meeting is to address growing demand volatility, assess the accuracy"
+    },
+    {
+      "t": 992.32,
+      "text": "of our forecasting processes, and evaluate how working capital management and distributor"
+    },
+    {
+      "t": 998.44,
+      "text": "health are impacting overall business performance."
+    },
+    {
+      "t": 1002.68,
+      "text": "These issues are increasingly interconnected and require a holistic approach."
+    },
+    {
+      "t": 1008.52,
+      "text": "Good morning."
+    },
+    {
+      "t": 1009.6,
+      "text": "I agree."
+    },
+    {
+      "t": 1010.6,
+      "text": "Over the last few quarters, we've seen sharper swings in demand patterns, which have exposed"
+    },
+    {
+      "t": 1015.56,
+      "text": "gaps in forecasting, inventory planning, and distributor capability."
+    },
+    {
+      "t": 1020.52,
+      "text": "Addressing these gaps is critical for sustainable growth."
+    },
+    {
+      "t": 1023.56,
+      "text": "Let's start with demand volatility."
+    },
+    {
+      "t": 1026.84,
+      "text": "Our sales numbers show strong peaks during promotions, but weaker than expected baseline"
+    },
+    {
+      "t": 1032.6,
+      "text": "sales in between."
+    },
+    {
+      "t": 1034.6,
+      "text": "This creates instability across the supply chain."
+    },
+    {
+      "t": 1038.0,
+      "text": "Yes, our business has become promotion heavy."
+    },
+    {
+      "t": 1041.24,
+      "text": "While promotions deliver short-term volume spikes, they distort true consumer demand,"
+    },
+    {
+      "t": 1046.48,
+      "text": "making forecasting more complex."
+    },
+    {
+      "t": 1049.04,
+      "text": "That distortion is clearly visible in inventory levels."
+    },
+    {
+      "t": 1053.08,
+      "text": "We have excess stock in some depots and stock outs in others."
+    },
+    {
+      "t": 1057.8,
+      "text": "What are the main drivers behind this mismatch?"
+    },
+    {
+      "t": 1061.04,
+      "text": "One key issue is forecast ownership."
+    },
+    {
+      "t": 1064.2,
+      "text": "Forecasts are often treated as a supply chain responsibility, while sales inputs are sometimes"
+    },
+    {
+      "t": 1068.84,
+      "text": "optimistic and not grounded in actual market demand."
+    },
+    {
+      "t": 1072.2,
+      "text": "That's a cultural issue."
+    },
+    {
+      "t": 1075.24,
+      "text": "Forecasting should be a shared accountability across sales, marketing, finance, and supply"
+    },
+    {
+      "t": 1080.48,
+      "text": "chain."
+    },
+    {
+      "t": 1081.48,
+      "text": "Exactly."
+    },
+    {
+      "t": 1082.76,
+      "text": "Without alignment, forecasts become numbers to meet targets rather than realistic demand"
+    },
+    {
+      "t": 1087.28,
+      "text": "projections."
+    },
+    {
+      "t": 1088.68,
+      "text": "What changes would you recommend to improve forecast accuracy?"
+    },
+    {
+      "t": 1092.56,
+      "text": "First, we need a structured demand review process where assumptions are challenged."
+    },
+    {
+      "t": 1097.48,
+      "text": "Second, historical promotion uplift data should be systematically incorporated."
+    },
+    {
+      "t": 1102.08,
+      "text": "Third, we should differentiate between baseline demand and promotional demand."
+    },
+    {
+      "t": 1107.24,
+      "text": "That makes sense."
+    },
+    {
+      "t": 1108.6,
+      "text": "Now let's talk about working capital."
+    },
+    {
+      "t": 1111.96,
+      "text": "days have increased by nearly 12 percent while receivable days remain stretched in certain"
+    },
+    {
+      "t": 1118.08,
+      "text": "regions."
+    },
+    {
+      "t": 1119.08,
+      "text": "Yes, inventory buildup is a direct outcome of forecast inaccuracy and uneven distributor"
+    },
+    {
+      "t": 1124.8,
+      "text": "offtake."
+    },
+    {
+      "t": 1125.96,
+      "text": "At the same time, extended credit terms are putting pressure on cash flow."
+    },
+    {
+      "t": 1130.22,
+      "text": "How much of this is within our control versus driven by market realities?"
+    },
+    {
+      "t": 1134.84,
+      "text": "A significant portion is within our control."
+    },
+    {
+      "t": 1137.54,
+      "text": "We sometimes push inventory to distributors to close monthly targets, which improves short-term"
+    },
+    {
+      "t": 1142.5,
+      "text": "sales but weakens cash discipline."
+    },
+    {
+      "t": 1145.5,
+      "text": "That practice is risky."
+    },
+    {
+      "t": 1147.14,
+      "text": "It creates artificial growth and increases the risk of returns or write-offs later."
+    },
+    {
+      "t": 1152.42,
+      "text": "Agreed."
+    },
+    {
+      "t": 1153.42,
+      "text": "We need to shift from a sell-in mindset to a sell-out focus."
+    },
+    {
+      "t": 1157.54,
+      "text": "True demand should drive replenishment."
+    },
+    {
+      "t": 1159.78,
+      "text": "Let's discuss distributor health."
+    },
+    {
+      "t": 1162.42,
+      "text": "Are our distributors financially strong enough to support growth ambitions?"
+    },
+    {
+      "t": 1167.46,
+      "text": "Higher health varies widely."
+    },
+    {
+      "t": 1169.38,
+      "text": "Some are well-capitalized and invest in infrastructure and manpower."
+    },
+    {
+      "t": 1173.42,
+      "text": "Others are over-leveraged and struggle with cash flow."
+    },
+    {
+      "t": 1176.9,
+      "text": "That imbalance affects service levels in market execution."
+    },
+    {
+      "t": 1180.8,
+      "text": "Should we reassess our distributor selection and support model?"
+    },
+    {
+      "t": 1184.98,
+      "text": "Yes."
+    },
+    {
+      "t": 1185.98,
+      "text": "We should introduce a distributor health scorecard covering financial stability, service quality,"
+    },
+    {
+      "t": 1190.9,
+      "text": "and compliance."
+    },
+    {
+      "t": 1192.2,
+      "text": "This will help us identify partners who need support versus those who may need"
+    },
+    {
+      "t": 1195.94,
+      "text": "to be replaced."
+    },
+    {
+      "t": 1197.82,
+      "text": "Support is important, but accountability is equally critical."
+    },
+    {
+      "t": 1201.78,
+      "text": "Exactly."
+    },
+    {
+      "t": 1203.1,
+      "text": "Support without accountability only prolongs inefficiency."
+    },
+    {
+      "t": 1206.52,
+      "text": "What role can technology play in improving distributor performance?"
+    },
+    {
+      "t": 1210.74,
+      "text": "A significant role."
+    },
+    {
+      "t": 1212.62,
+      "text": "Distributor management systems, real-time inventory visibility, and automated order"
+    },
+    {
+      "t": 1216.5,
+      "text": "processing can reduce errors and improve responsiveness."
+    },
+    {
+      "t": 1219.82,
+      "text": "We've invested in some digital tools, but adoption is inconsistent."
+    },
+    {
+      "t": 1225.18,
+      "text": "Why is that?"
+    },
+    {
+      "t": 1226.66,
+      "text": "Change resistance is a major factor."
+    },
+    {
+      "t": 1228.98,
+      "text": "Some distributors and sales teams see technology as additional work rather than an enabler."
+    },
+    {
+      "t": 1234.18,
+      "text": "That's a mindset issue."
+    },
+    {
+      "t": 1236.38,
+      "text": "How do we improve adoption?"
+    },
+    {
+      "t": 1238.78,
+      "text": "Training is important, but so is demonstrating clear benefits."
+    },
+    {
+      "t": 1242.22,
+      "text": "When users see faster order cycles, fewer disputes, and better visibility, adoption"
+    },
+    {
+      "t": 1247.1,
+      "text": "improves naturally."
+    },
+    {
+      "t": 1248.54,
+      "text": "Let's shift to sales execution."
+    },
+    {
+      "t": 1251.42,
+      "text": "Are our sales incentives aligned with working capital and demand quality?"
+    },
+    {
+      "t": 1256.62,
+      "text": "Not fully."
+    },
+    {
+      "t": 1258.06,
+      "text": "Incentives are still heavily volume-driven."
+    },
+    {
+      "t": 1260.22,
+      "text": "This encourages forward loading and excessive discounting."
+    },
+    {
+      "t": 1263.96,
+      "text": "That explains some of the behaviors we're seeing."
+    },
+    {
+      "t": 1266.54,
+      "text": "Yes, if we want better discipline, incentives must reward healthy sell-out, inventory rotation,"
+    },
+    {
+      "t": 1272.5,
+      "text": "and timely collections."
+    },
+    {
+      "t": 1273.78,
+      "text": "That's a major change, but probably necessary."
+    },
+    {
+      "t": 1277.86,
+      "text": "It is."
+    },
+    {
+      "t": 1278.86,
+      "text": "Incentive alignment, process changes will have limited impact."
+    },
+    {
+      "t": 1282.14,
+      "text": "Let's talk about planning cadence."
+    },
+    {
+      "t": 1284.98,
+      "text": "Are our monthly and quarterly reviews effective?"
+    },
+    {
+      "t": 1288.38,
+      "text": "They are informative, but not always action-oriented."
+    },
+    {
+      "t": 1292.02,
+      "text": "Reviews focus heavily on numbers, but less on root cause analysis and corrective actions."
+    },
+    {
+      "t": 1297.1,
+      "text": "So we need fewer reports and more decision-making."
+    },
+    {
+      "t": 1300.7,
+      "text": "Exactly."
+    },
+    {
+      "t": 1301.7,
+      "text": "A smaller set of critical metrics with clear ownership would improve focus."
+    },
+    {
+      "t": 1306.42,
+      "text": "What about cross-functional collaboration?"
+    },
+    {
+      "t": 1308.78,
+      "text": "Are teams working in silos?"
+    },
+    {
+      "t": 1311.02,
+      "text": "To some extent, yes."
+    },
+    {
+      "t": 1312.7,
+      "text": "Sales, supply chain, and finance often optimize their own KPIs, sometimes at the expense of"
+    },
+    {
+      "t": 1318.66,
+      "text": "overall business health."
+    },
+    {
+      "t": 1320.62,
+      "text": "That's a common FMCG challenge."
+    },
+    {
+      "t": 1323.06,
+      "text": "How do we break these silos?"
+    },
+    {
+      "t": 1325.22,
+      "text": "Shared KPIs and joint reviews help."
+    },
+    {
+      "t": 1327.9,
+      "text": "When teams are measured on the same outcomes, collaboration improves."
+    },
+    {
+      "t": 1331.46,
+      "text": "Let's address long-term sustainability."
+    },
+    {
+      "t": 1334.9,
+      "text": "How do we ensure growth without increasing volatility?"
+    },
+    {
+      "t": 1338.7,
+      "text": "by strengthening fundamentals, accurate forecasting, disciplined promotions, healthy distributors,"
+    },
+    {
+      "t": 1344.62,
+      "text": "and data-driven decisions."
+    },
+    {
+      "t": 1346.64,
+      "text": "Growth built on weak fundamentals is unstable."
+    },
+    {
+      "t": 1349.06,
+      "text": "That's a strong statement, and I agree."
+    },
+    {
+      "t": 1352.66,
+      "text": "Additionally, investing in demand-sensing tools and analytics can help us respond faster"
+    },
+    {
+      "t": 1357.22,
+      "text": "to market changes."
+    },
+    {
+      "t": 1358.9,
+      "text": "What about people capability?"
+    },
+    {
+      "t": 1360.74,
+      "text": "Do teams have the analytical skills required?"
+    },
+    {
+      "t": 1364.38,
+      "text": "Skills are uneven."
+    },
+    {
+      "t": 1365.66,
+      "text": "We need to upskill teams and data interpretation, not just data reporting."
+    },
+    {
+      "t": 1370.48,
+      "text": "Training and capability building should be part of the roadmap."
+    },
+    {
+      "t": 1374.02,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1375.46,
+      "text": "Technology without capability does not deliver value."
+    },
+    {
+      "t": 1378.3,
+      "text": "Let's summarize key actions."
+    },
+    {
+      "t": 1381.14,
+      "text": "For MySide, improve forecast governance, align incentives with sell-out and cash flow,"
+    },
+    {
+      "t": 1387.38,
+      "text": "and strengthen distributor management."
+    },
+    {
+      "t": 1390.02,
+      "text": "For MySide, implement distributor health scorecards, improve technology adoption, and redesign"
+    },
+    {
+      "t": 1395.44,
+      "text": "review forums to be more action driven. We'll need clear timelines and ownership to make"
+    },
+    {
+      "t": 1400.76,
+      "text": "this happen. Agreed. I'll draft a detailed implementation plan and share it ahead of"
+    },
+    {
+      "t": 1405.66,
+      "text": "the next review. Excellent. This was a very comprehensive and honest discussion. Thank"
+    },
+    {
+      "t": 1411.72,
+      "text": "you. With discipline and alignment, we can reduce volatility and build a more resilient"
+    },
+    {
+      "t": 1416.56,
+      "text": "FMCG business. Thank you. Let's move forward with focus and consistency. Thank you."
+    },
+    {
+      "t": 1423.84,
+      "text": "Good morning."
+    },
+    {
+      "t": 1425.0,
+      "text": "Thank you for joining this extended leadership discussion."
+    },
+    {
+      "t": 1428.16,
+      "text": "The purpose of today's meeting is to review our quality and compliance performance, assess"
+    },
+    {
+      "t": 1433.3,
+      "text": "our sustainability commitments, and understand how these areas impact brand trust and long-term"
+    },
+    {
+      "t": 1439.58,
+      "text": "growth."
+    },
+    {
+      "t": 1440.58,
+      "text": "These topics are no longer secondary."
+    },
+    {
+      "t": 1442.88,
+      "text": "They are central to our FMCG strategy."
+    },
+    {
+      "t": 1446.28,
+      "text": "Good morning."
+    },
+    {
+      "t": 1447.28,
+      "text": "I completely agree."
+    },
+    {
+      "t": 1448.8,
+      "text": "Consumers, regulators, and trade partners are all holding FMCG companies to higher standards."
+    },
+    {
+      "t": 1455.54,
+      "text": "Any weakness in quality, compliance, or sustainability can quickly translate into reputational and"
+    },
+    {
+      "t": 1460.96,
+      "text": "financial risk."
+    },
+    {
+      "t": 1462.76,
+      "text": "Let's start with quality assurance."
+    },
+    {
+      "t": 1464.8,
+      "text": "Overall, our complaint rate remains within acceptable limits, but we've seen a slight"
+    },
+    {
+      "t": 1469.88,
+      "text": "increase in quality-related feedback over the past quarter."
+    },
+    {
+      "t": 1473.72,
+      "text": "While not alarming yet, it's a signal we should not ignore."
+    },
+    {
+      "t": 1477.24,
+      "text": "Yes, most of the complaints relate to packaging integrity and shelf-life perception rather"
+    },
+    {
+      "t": 1482.4,
+      "text": "than product safety."
+    },
+    {
+      "t": 1483.88,
+      "text": "However, perception matters as much as reality when it comes to consumer trust."
+    },
+    {
+      "t": 1488.6,
+      "text": "Exactly."
+    },
+    {
+      "t": 1489.8,
+      "text": "Even minor quality concerns can damage brand credibility in a highly competitive FMCG environment."
+    },
+    {
+      "t": 1496.52,
+      "text": "Do you see this as a process issue or an execution issue?"
+    },
+    {
+      "t": 1500.48,
+      "text": "It's partly process-related."
+    },
+    {
+      "t": 1502.52,
+      "text": "We've expanded production capacity rapidly, and in some cases, quality checks have"
+    },
+    {
+      "t": 1506.8,
+      "text": "not scaled at the same pace. Additionally, handling practices at distributor and retailer"
+    },
+    {
+      "t": 1512.24,
+      "text": "levels vary significantly. That's an important point. Quality doesn't end at the factory gate."
+    },
+    {
+      "t": 1518.24,
+      "text": "How can we strengthen quality control across the supply chain? First, we need clear,"
+    },
+    {
+      "t": 1523.44,
+      "text": "standard operating procedures for distributors, especially regarding storage and handling."
+    },
+    {
+      "t": 1528.72,
+      "text": "Second, periodic audits and training can help reinforce best practices."
+    },
+    {
+      "t": 1532.8,
+      "text": "Agreed. Now let's discuss regulatory compliance. We operate in a tightly regulated FMCG environment,"
+    },
+    {
+      "t": 1540.64,
+      "text": "and compliance failures can be costly. Are there any emerging risks we should be aware of?"
+    },
+    {
+      "t": 1545.8,
+      "text": "Yes, labeling regulations are becoming more stringent, especially around nutritional"
+    },
+    {
+      "t": 1551.24,
+      "text": "claims and ingredient disclosures. Any delay in updating packaging could expose us to"
+    },
+    {
+      "t": 1556.24,
+      "text": "regulatory scrutiny. That's critical. Packaging changes often take longer than expected due"
+    },
+    {
+      "t": 1561.96,
+      "text": "to inventory cycles. We need proactive planning rather than reactive fixes. Exactly. Cross-functional"
+    },
+    {
+      "t": 1568.86,
+      "text": "coordination between legal, marketing, supply chain and procurement is essential to avoid"
+    },
+    {
+      "t": 1574.04,
+      "text": "last-minute risks."
+    },
+    {
+      "t": 1575.8,
+      "text": "Let's move to sustainability and ESG commitments. Sustainability is no longer just a corporate"
+    },
+    {
+      "t": 1581.56,
+      "text": "responsibility initiative. It's becoming a commercial differentiator. How do you"
+    },
+    {
+      "t": 1586.2,
+      "text": "assess our current position? We've made progress, particularly in reducing plastic"
+    },
+    {
+      "t": 1591.2,
+      "text": "usage and improving energy efficiency."
+    },
+    {
+      "t": 1593.64,
+      "text": "However, our sustainability story is not consistently communicated to consumers or trade partners."
+    },
+    {
+      "t": 1599.32,
+      "text": "That's a missed opportunity."
+    },
+    {
+      "t": 1601.84,
+      "text": "Consumers increasingly prefer brands that align with their values, but they also expect"
+    },
+    {
+      "t": 1606.36,
+      "text": "authenticity, not greenwashing."
+    },
+    {
+      "t": 1608.92,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1610.32,
+      "text": "Any sustainability claim must be backed by measurable action and transparent reporting,"
+    },
+    {
+      "t": 1615.28,
+      "text": "otherwise it can backfire."
+    },
+    {
+      "t": 1617.2,
+      "text": "From a cost perspective, sustainability initiatives sometimes face resistance due to upfront investments."
+    },
+    {
+      "t": 1623.44,
+      "text": "How do we balance cost and long-term value?"
+    },
+    {
+      "t": 1626.64,
+      "text": "We need to evaluate sustainability investments through a long-term lens."
+    },
+    {
+      "t": 1631.14,
+      "text": "For example, energy-efficient processes may require capital expenditure but deliver savings"
+    },
+    {
+      "t": 1636.32,
+      "text": "over time and reduce risk exposure."
+    },
+    {
+      "t": 1639.12,
+      "text": "That makes sense."
+    },
+    {
+      "t": 1640.12,
+      "text": "Let's discuss risk management more broadly."
+    },
+    {
+      "t": 1643.2,
+      "text": "One of the top risks facing our FMCG operations today."
+    },
+    {
+      "t": 1647.32,
+      "text": "Key risks include supply disruption, regulatory non-compliance, reputational damage from quality"
+    },
+    {
+      "t": 1653.3,
+      "text": "issues, and increasing dependence on a limited number of suppliers."
+    },
+    {
+      "t": 1658.0,
+      "text": "Supplier concentration is something we've talked about before."
+    },
+    {
+      "t": 1661.0,
+      "text": "Are we doing enough to diversify?"
+    },
+    {
+      "t": 1663.12,
+      "text": "Not yet."
+    },
+    {
+      "t": 1664.68,
+      "text": "Diversification can increase short-term complexity, but significantly improves resilience."
+    },
+    {
+      "t": 1669.4,
+      "text": "We should prioritize dual-sourcing for critical raw materials."
+    },
+    {
+      "t": 1673.24,
+      "text": "Agreed."
+    },
+    {
+      "t": 1674.24,
+      "text": "Now let's talk about crisis preparedness."
+    },
+    {
+      "t": 1676.8,
+      "text": "If a product recall or regulatory notice were to occur, are we fully prepared?"
+    },
+    {
+      "t": 1681.76,
+      "text": "We have documented procedures, but simulation exercises are limited."
+    },
+    {
+      "t": 1686.24,
+      "text": "Teams may know the process on paper, but not in practice."
+    },
+    {
+      "t": 1689.52,
+      "text": "That's concerning."
+    },
+    {
+      "t": 1690.52,
+      "text": "A poorly handled crisis can cause more damage than the issue itself."
+    },
+    {
+      "t": 1695.04,
+      "text": "Exactly. Regular mock drills can improve response speed and coordination across functions."
+    },
+    {
+      "t": 1700.68,
+      "text": "Let's shift to brand trust. In FMCG, trust is built slowly and lost quickly. How do quality,"
+    },
+    {
+      "t": 1708.52,
+      "text": "compliance, and sustainability translate into consumer trust? Trust comes from consistency."
+    },
+    {
+      "t": 1715.08,
+      "text": "When consumers experience the same quality every time, see honest communication, and"
+    },
+    {
+      "t": 1720.08,
+      "text": "observe responsible behavior, loyalty increases."
+    },
+    {
+      "t": 1723.64,
+      "text": "So trust is not driven by advertising alone."
+    },
+    {
+      "t": 1727.12,
+      "text": "Correct."
+    },
+    {
+      "t": 1727.92,
+      "text": "Advertising may attract trial, but trust drives repeat purchase."
+    },
+    {
+      "t": 1732.2,
+      "text": "What role does internal culture play in maintaining trust?"
+    },
+    {
+      "t": 1735.92,
+      "text": "A huge role."
+    },
+    {
+      "t": 1737.16,
+      "text": "If employees understand that quality and"
+    },
+    {
+      "t": 1739.36,
+      "text": "compliance are non-negotiable, decisions at every level improve."
+    },
+    {
+      "t": 1743.8,
+      "text": "Culture shapes behavior when no one is watching."
+    },
+    {
+      "t": 1746.64,
+      "text": "That's very true."
+    },
+    {
+      "t": 1747.96,
+      "text": "Let's discuss people capability."
+    },
+    {
+      "t": 1750.2,
+      "text": "Do teams have the right skills and mindset to manage increasing complexity?"
+    },
+    {
+      "t": 1755.2,
+      "text": "Technical skills exist, but commercial pressure sometimes leads to shortcuts."
+    },
+    {
+      "t": 1759.84,
+      "text": "Reinforcing ethical decision-making and long-term thinking is essential."
+    },
+    {
+      "t": 1763.56,
+      "text": "How do we reinforce that without slowing the business?"
+    },
+    {
+      "t": 1767.1,
+      "text": "Clear leadership messaging, aligned incentives, and consistent consequences."
+    },
+    {
+      "t": 1771.64,
+      "text": "When people see that doing the right thing is rewarded, behavior follows."
+    },
+    {
+      "t": 1775.64,
+      "text": "Now, from a strategic standpoint, how do these topics—quality, sustainability, and"
+    },
+    {
+      "t": 1781.12,
+      "text": "compliance—support growth rather than limit it?"
+    },
+    {
+      "t": 1784.38,
+      "text": "They create differentiation."
+    },
+    {
+      "t": 1786.32,
+      "text": "In a crowded FMC G market, trust and responsibility can be powerful competitive advantages, especially"
+    },
+    {
+      "t": 1792.68,
+      "text": "among premium and family-oriented consumers."
+    },
+    {
+      "t": 1795.28,
+      "text": "That's an important perspective."
+    },
+    {
+      "t": 1797.72,
+      "text": "Growth and responsibility are not mutually exclusive."
+    },
+    {
+      "t": 1800.96,
+      "text": "Exactly."
+    },
+    {
+      "t": 1801.96,
+      "text": "In fact, irresponsible growth often leads to setbacks."
+    },
+    {
+      "t": 1805.56,
+      "text": "Let's summarize key actions."
+    },
+    {
+      "t": 1807.46,
+      "text": "From my side, priorities are strengthening end-to-end quality control, proactive regulatory"
+    },
+    {
+      "t": 1812.96,
+      "text": "planning, and integrating sustainability into core business decisions."
+    },
+    {
+      "t": 1817.64,
+      "text": "From my side, I'll focus on risk mapping, supplier diversification, compliance audits,"
+    },
+    {
+      "t": 1823.04,
+      "text": "and improving internal awareness through training and simulations."
+    },
+    {
+      "t": 1826.68,
+      "text": "Good."
+    },
+    {
+      "t": 1827.68,
+      "text": "We should also define clear KPIs to track progress, not just financial metrics,"
+    },
+    {
+      "t": 1832.68,
+      "text": "quality, compliance, and sustainability indicators.\""
+    },
+    {
+      "t": 1836.28,
+      "text": "Agreed."
+    },
+    {
+      "t": 1837.28,
+      "text": "What gets measured gets managed."
+    },
+    {
+      "t": 1839.48,
+      "text": "Before we close, any final thoughts?"
+    },
+    {
+      "t": 1841.68,
+      "text": "Yes, in FMCG, short-term wins are tempting, but long-term success depends on discipline,"
+    },
+    {
+      "t": 1847.92,
+      "text": "integrity, and trust."
+    },
+    {
+      "t": 1849.6,
+      "text": "If we stay committed to these principles, growth will follow."
+    },
+    {
+      "t": 1852.76,
+      "text": "Well said."
+    },
+    {
+      "t": 1853.76,
+      "text": "Thank you for a very thoughtful and constructive discussion."
+    },
+    {
+      "t": 1857.12,
+      "text": "Let's convert this into action and ensure alignment across the organization."
+    },
+    {
+      "t": 1861.6,
+      "text": "Thank you."
+    },
+    {
+      "t": 1862.6,
+      "text": "to driving these initiatives forward."
+    },
+    {
+      "t": 1868.5,
+      "text": "Good morning."
+    },
+    {
+      "t": 1869.54,
+      "text": "Thanks for joining this meeting on time."
+    },
+    {
+      "t": 1871.82,
+      "text": "The main purpose today is to review our Q2 performance,"
+    },
+    {
+      "t": 1875.82,
+      "text": "discuss the current challenges we're facing"
+    },
+    {
+      "t": 1878.22,
+      "text": "in trade execution and supply chain,"
+    },
+    {
+      "t": 1880.74,
+      "text": "and align on strategies for Q3 and Q4."
+    },
+    {
+      "t": 1885.1,
+      "text": "I'd like this to be an open discussion,"
+    },
+    {
+      "t": 1887.54,
+      "text": "so please feel free to share your views."
+    },
+    {
+      "t": 1890.5,
+      "text": "Good morning."
+    },
+    {
+      "t": 1891.42,
+      "text": "Thank you for setting this up."
+    },
+    {
+      "t": 1893.26,
+      "text": "I've gone through the sales reports,"
+    },
+    {
+      "t": 1894.86,
+      "text": "distributor feedback and market data, so I'm ready to discuss."
+    },
+    {
+      "t": 1898.94,
+      "text": "I agree that alignment is critical, especially given the competitive pressure"
+    },
+    {
+      "t": 1903.34,
+      "text": "we're seeing in the FMCG space."
+    },
+    {
+      "t": 1906.14,
+      "text": "Great."
+    },
+    {
+      "t": 1906.98,
+      "text": "Let's start with overall performance."
+    },
+    {
+      "t": 1909.62,
+      "text": "From a top line perspective, we closed Q2 with a 7% growth versus last year,"
+    },
+    {
+      "t": 1916.22,
+      "text": "which is positive but still below our target of 10%."
+    },
+    {
+      "t": 1920.62,
+      "text": "However, growth is uneven across categories."
+    },
+    {
+      "t": 1923.9,
+      "text": "some SKUs performed exceptionally well,"
+    },
+    {
+      "t": 1927.14,
+      "text": "while others underperformed significantly."
+    },
+    {
+      "t": 1930.26,
+      "text": "Yes, I noticed the same trend."
+    },
+    {
+      "t": 1932.66,
+      "text": "Our core SKUs, especially in the jam and spreads category,"
+    },
+    {
+      "t": 1936.5,
+      "text": "showed stable volume growth,"
+    },
+    {
+      "t": 1938.42,
+      "text": "mainly driven by strong distribution"
+    },
+    {
+      "t": 1940.46,
+      "text": "in urban and semi-urban areas."
+    },
+    {
+      "t": 1942.86,
+      "text": "On the other hand, some of the newly launched variants"
+    },
+    {
+      "t": 1945.42,
+      "text": "struggled due to limited visibility"
+    },
+    {
+      "t": 1947.58,
+      "text": "and inconsistent trade support."
+    },
+    {
+      "t": 1949.86,
+      "text": "Exactly."
+    },
+    {
+      "t": 1951.1,
+      "text": "One concern I have is the effectiveness"
+    },
+    {
+      "t": 1953.66,
+      "text": "our trade promotions. We invested heavily in schemes like 12 plus 1 and assorted trade"
+    },
+    {
+      "t": 1960.18,
+      "text": "offers, but the incremental volume uplift was not as expected in certain regions."
+    },
+    {
+      "t": 1966.54,
+      "text": "I think part of the issue is execution at the distributor and retailer level. While"
+    },
+    {
+      "t": 1971.7,
+      "text": "the schemes are attractive on paper, communication gaps and delayed system updates have caused"
+    },
+    {
+      "t": 1977.26,
+      "text": "confusion. Some retailers were not fully aware of the offer mechanics which reduced"
+    },
+    {
+      "t": 1982.32,
+      "text": "participation. That's a valid point. We also received complaints about free"
+    },
+    {
+      "t": 1987.92,
+      "text": "issue not reflecting correctly on invoices. This impacts retailer confidence"
+    },
+    {
+      "t": 1993.68,
+      "text": "and discourages repeat participation in future schemes. Absolutely. From my"
+    },
+    {
+      "t": 1999.64,
+      "text": "discussions with the sales team I understand that system lead time and"
+    },
+    {
+      "t": 2003.44,
+      "text": "manual interventions are major bottlenecks. We need a more streamlined"
+    },
+    {
+      "t": 2007.76,
+      "text": "process where schemes are activated quickly and reflected accurately across all systems."
+    },
+    {
+      "t": 2013.84,
+      "text": "Agreed. Moving on to distribution. Numeric distribution improved marginally,"
+    },
+    {
+      "t": 2020.24,
+      "text": "but weighted distribution remains below benchmark in some key modern trade outlets."
+    },
+    {
+      "t": 2026.16,
+      "text": "What's your assessment?"
+    },
+    {
+      "t": 2027.92,
+      "text": "In modern trade, shelf competition is intense. Competitors are offering higher margins and"
+    },
+    {
+      "t": 2033.76,
+      "text": "and more in-store visibility support."
+    },
+    {
+      "t": 2036.16,
+      "text": "While our pricing is competitive,"
+    },
+    {
+      "t": 2037.88,
+      "text": "our negotiation power is slightly weaker"
+    },
+    {
+      "t": 2040.36,
+      "text": "because our promotional calendar was finalized late."
+    },
+    {
+      "t": 2043.44,
+      "text": "That's something we need to fix."
+    },
+    {
+      "t": 2045.64,
+      "text": "Early planning is crucial."
+    },
+    {
+      "t": 2047.76,
+      "text": "For Q3 and Q4, we should lock the promotional calendar"
+    },
+    {
+      "t": 2051.86,
+      "text": "at least three months in advance"
+    },
+    {
+      "t": 2054.08,
+      "text": "so that we can negotiate better shelf space"
+    },
+    {
+      "t": 2056.56,
+      "text": "and secondary displays."
+    },
+    {
+      "t": 2058.56,
+      "text": "I agree."
+    },
+    {
+      "t": 2059.64,
+      "text": "Additionally, we should differentiate promotions by channel,"
+    },
+    {
+      "t": 2062.98,
+      "text": "What works in general trade may not be effective"
+    },
+    {
+      "t": 2065.58,
+      "text": "in modern trade or e-commerce."
+    },
+    {
+      "t": 2067.7,
+      "text": "For example, bundle offers and limited edition packs"
+    },
+    {
+      "t": 2070.88,
+      "text": "could work better online."
+    },
+    {
+      "t": 2072.62,
+      "text": "Good suggestion."
+    },
+    {
+      "t": 2073.94,
+      "text": "Speaking of e-commerce, our online sales grew by 18%,"
+    },
+    {
+      "t": 2078.54,
+      "text": "which is encouraging, but the base is still small."
+    },
+    {
+      "t": 2082.02,
+      "text": "What opportunities do you see there?"
+    },
+    {
+      "t": 2084.46,
+      "text": "E-commerce gives us a chance to test new SKUs"
+    },
+    {
+      "t": 2087.54,
+      "text": "with lower risk."
+    },
+    {
+      "t": 2088.78,
+      "text": "We can also use consumer data"
+    },
+    {
+      "t": 2090.6,
+      "text": "to understand preferences faster."
+    },
+    {
+      "t": 2092.78,
+      "text": "However, we need better product content, optimized images and stronger digital promotions to stand out."
+    },
+    {
+      "t": 2099.34,
+      "text": "Noted. Let's talk about supply chain challenges."
+    },
+    {
+      "t": 2103.18,
+      "text": "We experienced stock outs in May and June, particularly for high-moving SKUs."
+    },
+    {
+      "t": 2109.02,
+      "text": "This clearly impacted sales momentum."
+    },
+    {
+      "t": 2112.1,
+      "text": "Yes, the root cause was a combination of raw material delays and conservative demand forecasting."
+    },
+    {
+      "t": 2118.74,
+      "text": "Given market volatility, we need a more agile forecasting model that considers promotional"
+    },
+    {
+      "t": 2123.9,
+      "text": "spikes and seasonal demand."
+    },
+    {
+      "t": 2126.5,
+      "text": "Do you think increasing safety stock is a viable solution, or would that impact working capital"
+    },
+    {
+      "t": 2132.38,
+      "text": "too much?"
+    },
+    {
+      "t": 2133.54,
+      "text": "I think a selective approach would work."
+    },
+    {
+      "t": 2136.18,
+      "text": "For A category SKUs, especially those with predictable demand, maintaining higher safety"
+    },
+    {
+      "t": 2141.6,
+      "text": "stock makes sense."
+    },
+    {
+      "t": 2143.14,
+      "text": "For slow-moving or experimental SKUs, we should keep inventory lean."
+    },
+    {
+      "t": 2148.3,
+      "text": "That aligns with my thinking."
+    },
+    {
+      "t": 2150.34,
+      "text": "Now let's discuss pricing and margins."
+    },
+    {
+      "t": 2153.66,
+      "text": "Input costs have increased and our gross margin is under pressure."
+    },
+    {
+      "t": 2157.38,
+      "text": "However, passing the full cost increase to consumers may affect volumes."
+    },
+    {
+      "t": 2163.02,
+      "text": "This is a delicate balance."
+    },
+    {
+      "t": 2165.34,
+      "text": "Instead of direct price hikes, we could consider Grammage Adjustments, premiumization of"
+    },
+    {
+      "t": 2169.78,
+      "text": "select SKUs, or reducing trade discounts where elasticity is low."
+    },
+    {
+      "t": 2174.82,
+      "text": "Yes, premium variants could help improve margins while maintaining brand perception."
+    },
+    {
+      "t": 2180.48,
+      "text": "We should also analyze SKU-level profitability more closely before making any major pricing"
+    },
+    {
+      "t": 2186.68,
+      "text": "decisions."
+    },
+    {
+      "t": 2188.18,
+      "text": "Agreed."
+    },
+    {
+      "t": 2189.18,
+      "text": "Another area worth discussing is consumer engagement."
+    },
+    {
+      "t": 2192.56,
+      "text": "Our brand awareness is strong, but repeat purchase frequency could be improved."
+    },
+    {
+      "t": 2197.22,
+      "text": "We need more consistent the low-the-line activities and digital engagement."
+    },
+    {
+      "t": 2201.66,
+      "text": "I completely agree."
+    },
+    {
+      "t": 2203.74,
+      "text": "Impling in-store activations and influencer collaborations can help reinforce trial and"
+    },
+    {
+      "t": 2209.86,
+      "text": "loyalty, especially among younger consumers."
+    },
+    {
+      "t": 2213.38,
+      "text": "Exactly."
+    },
+    {
+      "t": 2214.38,
+      "text": "Additionally, sustainability and health messaging are becoming increasingly important in FMCG."
+    },
+    {
+      "t": 2220.6,
+      "text": "If we communicate our quality standards and responsible sourcing more clearly, it"
+    },
+    {
+      "t": 2225.06,
+      "text": "could strengthen brand trust."
+    },
+    {
+      "t": 2226.98,
+      "text": "That's an excellent point."
+    },
+    {
+      "t": 2229.14,
+      "text": "We should coordinate with the marketing and R&D teams to ensure our packaging and communication"
+    },
+    {
+      "t": 2235.1,
+      "text": "reflect these values without overcomplicating the message."
+    },
+    {
+      "t": 2239.7,
+      "text": "Before we conclude, I'd like to touch on team capability."
+    },
+    {
+      "t": 2243.3,
+      "text": "Sales execution depends heavily on frontline teams."
+    },
+    {
+      "t": 2247.04,
+      "text": "Regular training on product knowledge, scheme mechanics, and negotiation skills can significantly"
+    },
+    {
+      "t": 2252.26,
+      "text": "improve results."
+    },
+    {
+      "t": 2254.02,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2255.22,
+      "text": "We sometimes underestimate the impact of training."
+    },
+    {
+      "t": 2258.58,
+      "text": "A well-informed sales team can convert even a modest scheme into a strong performance."
+    },
+    {
+      "t": 2264.78,
+      "text": "To summarize, our priorities should be improving trade execution, strengthening supply chain"
+    },
+    {
+      "t": 2270.26,
+      "text": "planning, finalizing promotions earlier and focusing on profitable growth rather than"
+    },
+    {
+      "t": 2275.22,
+      "text": "just volume."
+    },
+    {
+      "t": 2276.98,
+      "text": "Well summarized, I'll take responsibility for aligning cross-functional teams and"
+    },
+    {
+      "t": 2282.14,
+      "text": "setting clear timelines."
+    },
+    {
+      "t": 2284.34,
+      "text": "schedule a follow-up meeting in two weeks to review action progress. That sounds good."
+    },
+    {
+      "t": 2289.7,
+      "text": "I'll share a detailed action plan and key observations from the field before the next meeting."
+    },
+    {
+      "t": 2295.06,
+      "text": "Perfect. Thank you for the productive discussion. I'm confident that with better coordination"
+    },
+    {
+      "t": 2300.58,
+      "text": "and focused execution, we can achieve our growth targets in the coming quarters."
+    },
+    {
+      "t": 2305.78,
+      "text": "Thank you. Looking forward to the next steps."
+    },
+    {
+      "t": 2309.36,
+      "text": "Good morning. Thank you for joining this detailed strategic discussion."
+    },
+    {
+      "t": 2313.68,
+      "text": "Today's objective is to review our brand architecture, evaluate how effectively we are using consumer"
+    },
+    {
+      "t": 2321.36,
+      "text": "insights, assess media and communication efficiency, and critically examine the return on investment"
+    },
+    {
+      "t": 2328.76,
+      "text": "from our innovation pipeline."
+    },
+    {
+      "t": 2330.92,
+      "text": "Ultimately, this discussion should help us clarify our path toward category leadership."
+    },
+    {
+      "t": 2336.76,
+      "text": "Good morning."
+    },
+    {
+      "t": 2337.76,
+      "text": "I'm glad we're having this conversation."
+    },
+    {
+      "t": 2340.4,
+      "text": "As our portfolio grows, complexity is increasing."
+    },
+    {
+      "t": 2343.8,
+      "text": "And without clear brand roles and sharper consumer understanding, we risk spreading resources"
+    },
+    {
+      "t": 2349.04,
+      "text": "too thin."
+    },
+    {
+      "t": 2350.54,
+      "text": "Let's start with brand architecture."
+    },
+    {
+      "t": 2353.16,
+      "text": "Over the past few years, we've added several sub-brands, variants, and extensions."
+    },
+    {
+      "t": 2358.92,
+      "text": "While this has helped us cover more price points, it has also created overlap."
+    },
+    {
+      "t": 2364.24,
+      "text": "What's your assessment?"
+    },
+    {
+      "t": 2365.74,
+      "text": "The core issue is clarity."
+    },
+    {
+      "t": 2367.72,
+      "text": "Internally, teams understand the differences between brands and variants, but consumers"
+    },
+    {
+      "t": 2372.52,
+      "text": "don't always perceive a clear distinction."
+    },
+    {
+      "t": 2375.36,
+      "text": "In some cases, brands are competing with each other rather than strengthening the portfolio."
+    },
+    {
+      "t": 2380.08,
+      "text": "That's concerning."
+    },
+    {
+      "t": 2381.92,
+      "text": "Brand architecture should simplify choices for consumers, not complicate them."
+    },
+    {
+      "t": 2387.2,
+      "text": "Exactly."
+    },
+    {
+      "t": 2388.2,
+      "text": "We need to clearly define the role of each brand, whether it's entry level, mainstream,"
+    },
+    {
+      "t": 2393.08,
+      "text": "premium, and ensure that communication reinforces those roles consistently."
+    },
+    {
+      "t": 2398.64,
+      "text": "Do you think we should consider pruning some overlapping variants?"
+    },
+    {
+      "t": 2402.6,
+      "text": "Yes, but carefully."
+    },
+    {
+      "t": 2405.44,
+      "text": "Rationalization should be based on consumer relevance and profitability, not just volume."
+    },
+    {
+      "t": 2410.48,
+      "text": "Removing low-impact variants can actually strengthen the remaining range."
+    },
+    {
+      "t": 2414.76,
+      "text": "Agreed."
+    },
+    {
+      "t": 2415.76,
+      "text": "Now moving to consumer insights."
+    },
+    {
+      "t": 2418.42,
+      "text": "We collect a lot of data through market research, social listening, and sales analytics."
+    },
+    {
+      "t": 2424.42,
+      "text": "Are we using it effectively?"
+    },
+    {
+      "t": 2426.66,
+      "text": "We are generating insights, but the translation into action is inconsistent."
+    },
+    {
+      "t": 2431.98,
+      "text": "Insights are often presented as reports rather than embedded into decision-making processes."
+    },
+    {
+      "t": 2437.42,
+      "text": "That's a common problem."
+    },
+    {
+      "t": 2439.26,
+      "text": "Insights should drive choices, not just inform presentations."
+    },
+    {
+      "t": 2443.54,
+      "text": "Exactly."
+    },
+    {
+      "t": 2444.7,
+      "text": "For example, our research shows that convenience and trust are key purchase drivers, yet some"
+    },
+    {
+      "t": 2449.76,
+      "text": "of our innovations focus more on novelty than solving real consumer problems."
+    },
+    {
+      "t": 2455.0,
+      "text": "That's a valuable observation."
+    },
+    {
+      "t": 2457.48,
+      "text": "Innovation without relevance rarely delivers sustained growth."
+    },
+    {
+      "t": 2461.32,
+      "text": "True, we should start innovation projects with a clearly defined consumer tension and"
+    },
+    {
+      "t": 2466.2,
+      "text": "success metric, rather than just a product idea."
+    },
+    {
+      "t": 2470.12,
+      "text": "Let's talk about innovation ROI."
+    },
+    {
+      "t": 2472.8,
+      "text": "How are our recent launches performing against expectations?"
+    },
+    {
+      "t": 2477.36,
+      "text": "Performance is mixed."
+    },
+    {
+      "t": 2478.36,
+      "text": "A few launches exceeded expectations, mainly those that addressed clear unmet needs."
+    },
+    {
+      "t": 2483.92,
+      "text": "Others delivered initial trials but failed to sustain repeat purchases."
+    },
+    {
+      "t": 2488.4,
+      "text": "What were the common reasons behind underperformance?"
+    },
+    {
+      "t": 2491.88,
+      "text": "In most cases, either the consumer benefit was not clear enough or post-launch support"
+    },
+    {
+      "t": 2496.98,
+      "text": "dropped too quickly."
+    },
+    {
+      "t": 2499.08,
+      "text": "Innovation requires sustained investment beyond launch."
+    },
+    {
+      "t": 2502.64,
+      "text": "That's an important reminder."
+    },
+    {
+      "t": 2504.36,
+      "text": "Too often we treat launch as the finish line, rather than the starting point."
+    },
+    {
+      "t": 2509.4,
+      "text": "Exactly."
+    },
+    {
+      "t": 2510.4,
+      "text": "Additionally, some innovations added complexity to operations without delivering proportionate"
+    },
+    {
+      "t": 2515.44,
+      "text": "returns."
+    },
+    {
+      "t": 2516.8,
+      "text": "That brings us back to portfolio discipline."
+    },
+    {
+      "t": 2520.2,
+      "text": "Innovation should simplify the consumer choice while strengthening profitability."
+    },
+    {
+      "t": 2525.08,
+      "text": "Agreed."
+    },
+    {
+      "t": 2526.08,
+      "text": "We may need stricter stage gate processes with clearer kill criteria for projects"
+    },
+    {
+      "t": 2530.76,
+      "text": "that don't meet benchmarks."
+    },
+    {
+      "t": 2533.0,
+      "text": "Let's shift to media and communication effectiveness."
+    },
+    {
+      "t": 2536.48,
+      "text": "Our media spend has increased, but brand metrics have not improved proportionately."
+    },
+    {
+      "t": 2542.4,
+      "text": "What's your view?"
+    },
+    {
+      "t": 2543.6,
+      "text": "The issue is not just spend, but efficiency."
+    },
+    {
+      "t": 2546.6,
+      "text": "We are spreading budgets across too many platforms without clear prioritization."
+    },
+    {
+      "t": 2551.28,
+      "text": "This dilutes impact."
+    },
+    {
+      "t": 2553.02,
+      "text": "Are we following a clear media strategy by brand and target audience?"
+    },
+    {
+      "t": 2558.28,
+      "text": "Not consistently."
+    },
+    {
+      "t": 2559.76,
+      "text": "Some brands are over-invested in short-term performance media, while others lack sufficient"
+    },
+    {
+      "t": 2564.18,
+      "text": "long-term brand-building support."
+    },
+    {
+      "t": 2567.14,
+      "text": "That imbalance can hurt long-term equity."
+    },
+    {
+      "t": 2570.06,
+      "text": "Exactly."
+    },
+    {
+      "t": 2571.06,
+      "text": "Strong FMCG brands balance short-term activation with long-term brand building, neglecting"
+    },
+    {
+      "t": 2576.98,
+      "text": "either creates risk."
+    },
+    {
+      "t": 2579.1,
+      "text": "What about message consistency?"
+    },
+    {
+      "t": 2581.22,
+      "text": "Are we communicating the same core promise across channels?"
+    },
+    {
+      "t": 2585.3,
+      "text": "In some cases, no."
+    },
+    {
+      "t": 2587.22,
+      "text": "Different agencies and platforms sometimes interpret the brand differently, leading to"
+    },
+    {
+      "t": 2591.18,
+      "text": "fragmented messaging."
+    },
+    {
+      "t": 2593.14,
+      "text": "That's something we must address."
+    },
+    {
+      "t": 2595.74,
+      "text": "Consistency builds memory structures and trust."
+    },
+    {
+      "t": 2598.66,
+      "text": "Agreed."
+    },
+    {
+      "t": 2599.66,
+      "text": "A clearer brand playbook could help align internal teams and external partners."
+    },
+    {
+      "t": 2604.5,
+      "text": "Let's discuss category leadership."
+    },
+    {
+      "t": 2606.98,
+      "text": "What does leadership mean for us beyond market share?"
+    },
+    {
+      "t": 2610.82,
+      "text": "True leadership means setting standards on quality, innovation, responsibility, and consumer"
+    },
+    {
+      "t": 2616.54,
+      "text": "engagement."
+    },
+    {
+      "t": 2617.54,
+      "text": "It's about shaping the category, not just participating in it."
+    },
+    {
+      "t": 2621.7,
+      "text": "That's a strong perspective."
+    },
+    {
+      "t": 2623.5,
+      "text": "Are we currently leading or reacting?"
+    },
+    {
+      "t": 2626.72,
+      "text": "In some areas we're leading."
+    },
+    {
+      "t": 2628.56,
+      "text": "In others, especially in digital engagement and personalization, we're reacting to competitors."
+    },
+    {
+      "t": 2634.9,
+      "text": "Digital engagement is evolving quickly."
+    },
+    {
+      "t": 2637.34,
+      "text": "How can we improve?"
+    },
+    {
+      "t": 2639.02,
+      "text": "By moving from campaign-based engagement to continuous consumer relationships, loyalty"
+    },
+    {
+      "t": 2644.3,
+      "text": "programs, content platforms, and data-driven personalization can help."
+    },
+    {
+      "t": 2649.66,
+      "text": "That requires capability and investment."
+    },
+    {
+      "t": 2652.34,
+      "text": "Yes, but it also creates long-term competitive advantage that is harder to replicate."
+    },
+    {
+      "t": 2657.62,
+      "text": "Let's talk about internal alignment."
+    },
+    {
+      "t": 2660.7,
+      "text": "Are teams aligned around the same definition of success?"
+    },
+    {
+      "t": 2664.82,
+      "text": "Not always, sales may prioritize volume, marketing may focus on awareness, and finance"
+    },
+    {
+      "t": 2670.42,
+      "text": "on margins."
+    },
+    {
+      "t": 2671.82,
+      "text": "Without alignment, trade-offs become conflicts."
+    },
+    {
+      "t": 2674.82,
+      "text": "So we need a shared scorecard."
+    },
+    {
+      "t": 2677.54,
+      "text": "Exactly."
+    },
+    {
+      "t": 2678.54,
+      "text": "A balanced scorecard that includes growth, profitability, brand health, and execution"
+    },
+    {
+      "t": 2684.06,
+      "text": "quality."
+    },
+    {
+      "t": 2685.06,
+      "text": "How do we ensure this cascades down the organization?"
+    },
+    {
+      "t": 2689.22,
+      "text": "Clear communication, consistent leadership behavior, and aligned incentives."
+    },
+    {
+      "t": 2694.06,
+      "text": "follow what leaders consistently reinforce."
+    },
+    {
+      "t": 2697.42,
+      "text": "Let's address capability building. Do we have the right skills for the next phase of growth?"
+    },
+    {
+      "t": 2703.26,
+      "text": "We have strong functional skills, but we need more cross-functional thinking. Future leaders"
+    },
+    {
+      "t": 2708.18,
+      "text": "must understand the full value chain, not just their function."
+    },
+    {
+      "t": 2712.06,
+      "text": "That's important. FMCG complexity requires holistic decision making."
+    },
+    {
+      "t": 2717.86,
+      "text": "Agreed. Structured rotations and cross-functional projects could help build this capability."
+    },
+    {
+      "t": 2723.54,
+      "text": "Before we close, let's summarize key priorities."
+    },
+    {
+      "t": 2727.02,
+      "text": "From my side, simplify brand architecture, sharpen consumer-led innovation, and improve"
+    },
+    {
+      "t": 2733.34,
+      "text": "media efficiency."
+    },
+    {
+      "t": 2735.42,
+      "text": "From my side, strengthen insight to action processes, enforce innovation discipline,"
+    },
+    {
+      "t": 2740.82,
+      "text": "and align teams around a shared definition of success."
+    },
+    {
+      "t": 2744.38,
+      "text": "We'll need a clear roadmap with milestones to make this happen."
+    },
+    {
+      "t": 2748.34,
+      "text": "I'll work with the teams to translate today's discussion into a concrete action"
+    },
+    {
+      "t": 2752.1,
+      "text": "plan."
+    },
+    {
+      "t": 2753.1,
+      "text": "Excellent. This has been a very strategic and forward-looking conversation."
+    },
+    {
+      "t": 2757.78,
+      "text": "Agreed. If we execute with discipline, we can move from short-term wins to long-term"
+    },
+    {
+      "t": 2762.66,
+      "text": "category leadership."
+    },
+    {
+      "t": 2764.58,
+      "text": "Thank you for the thoughtful discussion. Let's move forward with clarity and confidence."
+    },
+    {
+      "t": 2770.06,
+      "text": "Thank you."
+    },
+    {
+      "t": 2771.06,
+      "text": "Good morning. I've called this discussion because we've reached a critical point"
+    },
+    {
+      "t": 2775.1,
+      "text": "where marketing and sales seem to be working at cross-purposes. We need to address"
+    },
+    {
+      "t": 2780.3,
+      "text": "this honestly. Our campaigns, launches, and brand strategy are not being executed consistently,"
+    },
+    {
+      "t": 2786.86,
+      "text": "and it's starting to hurt long-term brand equity."
+    },
+    {
+      "t": 2789.46,
+      "text": "Good morning. I agree this conversation is overdue. From sales perspective, the market"
+    },
+    {
+      "t": 2795.36,
+      "text": "pressure has been intense. Retailers are aggressive, competitors are flooding offers,"
+    },
+    {
+      "t": 2801.12,
+      "text": "and our targets remain high. Sometimes we have to make on-the-ground decisions that"
+    },
+    {
+      "t": 2805.62,
+      "text": "But marketing may see us inconsistent."
+    },
+    {
+      "t": 2808.1,
+      "text": "But the goal is to protect our shelf space and volumes."
+    },
+    {
+      "t": 2811.6,
+      "text": "I understand market pressure."
+    },
+    {
+      "t": 2813.8,
+      "text": "But when field teams deviate from approved pricing or schemes without escalation, it creates"
+    },
+    {
+      "t": 2819.4,
+      "text": "confusion."
+    },
+    {
+      "t": 2820.9,
+      "text": "Consumers see different offers in different outlets which diminishes trust in our brands."
+    },
+    {
+      "t": 2825.66,
+      "text": "Over time, that impacts loyalty."
+    },
+    {
+      "t": 2828.06,
+      "text": "I hear you."
+    },
+    {
+      "t": 2829.06,
+      "text": "However, when a competitor drops prices by 20% in a region and a retailer is threatening"
+    },
+    {
+      "t": 2834.42,
+      "text": "to delist, our teams have limited levers to protect the account."
+    },
+    {
+      "t": 2838.8,
+      "text": "If we stick rigidly to the plan, we risk losing shelf stays, which affects volumes and downstream"
+    },
+    {
+      "t": 2844.9,
+      "text": "revenue."
+    },
+    {
+      "t": 2845.9,
+      "text": "That's exactly the tension we need to resolve."
+    },
+    {
+      "t": 2849.54,
+      "text": "Marketing focuses on long-term brand health, while SEALs is measured on short-term numbers."
+    },
+    {
+      "t": 2854.88,
+      "text": "The question is, how do we balance both without compromising either?"
+    },
+    {
+      "t": 2859.42,
+      "text": "I think part of the issue is complexity."
+    },
+    {
+      "t": 2862.3,
+      "text": "Many marketing campaigns and promotional schemes are difficult to explain to retailers."
+    },
+    {
+      "t": 2867.34,
+      "text": "Field teams end up improvising or simplifying, which marketing interprets as non-compliance."
+    },
+    {
+      "t": 2872.78,
+      "text": "That's a fair point."
+    },
+    {
+      "t": 2875.3,
+      "text": "Perhaps marketing has over-engineered some campaigns and schemes."
+    },
+    {
+      "t": 2879.02,
+      "text": "However, simplification should not mean compromising brand positioning."
+    },
+    {
+      "t": 2883.54,
+      "text": "We need creative but executable plans."
+    },
+    {
+      "t": 2886.5,
+      "text": "Agreed."
+    },
+    {
+      "t": 2887.5,
+      "text": "At the same time, marketing sometimes launches new products too broadly, expecting immediate"
+    },
+    {
+      "t": 2892.9,
+      "text": "traction."
+    },
+    {
+      "t": 2893.9,
+      "text": "In reality, retailers need proof of repeat sales before fully committing."
+    },
+    {
+      "t": 2898.94,
+      "text": "Sales ends up firefighting, which can appear like resistance to support innovation."
+    },
+    {
+      "t": 2904.54,
+      "text": "Innovation requires patience, but if launches fail due to lack of on-ground support, it's"
+    },
+    {
+      "t": 2909.58,
+      "text": "damaging."
+    },
+    {
+      "t": 2910.58,
+      "text": "The issue seems to be a combination of planning and execution gaps."
+    },
+    {
+      "t": 2914.82,
+      "text": "How do we improve that?"
+    },
+    {
+      "t": 2916.74,
+      "text": "approach is phased rollouts. Pilot products in select regions, gather real-time feedback,"
+    },
+    {
+      "t": 2923.26,
+      "text": "optimize the plan, and then scale. That way, sales can manage risk, and marketing can ensure"
+    },
+    {
+      "t": 2929.32,
+      "text": "the campaign delivers the intended brand message."
+    },
+    {
+      "t": 2932.54,
+      "text": "I like that. It also allows us to validate consumer insights before committing significant"
+    },
+    {
+      "t": 2937.74,
+      "text": "resources. Speaking of insights, I feel some recommendations from the field are"
+    },
+    {
+      "t": 2942.68,
+      "text": "not integrated into marketing planning. For example, pricing sensitivity and pack-size"
+    },
+    {
+      "t": 2947.84,
+      "text": "preferences vary by region, but campaigns are often standardized."
+    },
+    {
+      "t": 2952.96,
+      "text": "That's correct. Field teams have deep knowledge of consumer behavior at the outlet level,"
+    },
+    {
+      "t": 2958.2,
+      "text": "but insights aren't always communicated effectively or incorporated in marketing decisions."
+    },
+    {
+      "t": 2963.72,
+      "text": "That contributes to friction."
+    },
+    {
+      "t": 2965.72,
+      "text": "We need a system where sales insights see directly into campaign design and SKU"
+    },
+    {
+      "t": 2971.16,
+      "text": "planning. This will prevent disconnects and improve alignment."
+    },
+    {
+      "t": 2975.04,
+      "text": "Agreed. Another point, portfolio management. Sales feels pressure to distribute the full"
+    },
+    {
+      "t": 2981.28,
+      "text": "product range everywhere. This creates stock complexity, confuses retailers, and dilutes"
+    },
+    {
+      "t": 2987.32,
+      "text": "focus. We end up pushing slow-moving SKUs to meet numeric distribution targets."
+    },
+    {
+      "t": 2993.12,
+      "text": "That's a valid concern. Marketing sometimes overestimates SKU relevance in certain"
+    },
+    {
+      "t": 2998.76,
+      "text": "channels."
+    },
+    {
+      "t": 2999.76,
+      "text": "We need a channel-specific assortment strategy so sales can focus on high-impact SKUs that"
+    },
+    {
+      "t": 3005.9,
+      "text": "align with consumer demand."
+    },
+    {
+      "t": 3008.16,
+      "text": "Exactly."
+    },
+    {
+      "t": 3009.16,
+      "text": "Fewer SKUs per outlet, better rotation, clearer priorities."
+    },
+    {
+      "t": 3014.02,
+      "text": "That also makes it easier for field teams to communicate benefits to retailers and consumers."
+    },
+    {
+      "t": 3019.72,
+      "text": "Let's discuss promotions."
+    },
+    {
+      "t": 3021.76,
+      "text": "Marketing believes that ad hoc discounting erodes brand equity."
+    },
+    {
+      "t": 3025.92,
+      "text": "Sales believes that promotions are necessary to maintain distribution and volume in a competitive"
+    },
+    {
+      "t": 3030.94,
+      "text": "environment."
+    },
+    {
+      "t": 3031.94,
+      "text": "How do we reconcile this?"
+    },
+    {
+      "t": 3034.46,
+      "text": "Promotions should be structured and controlled, not spontaneous."
+    },
+    {
+      "t": 3038.1,
+      "text": "If we can design simple, predictable, and easily explainable schemes, sales can use"
+    },
+    {
+      "t": 3043.32,
+      "text": "them without improvisation."
+    },
+    {
+      "t": 3045.86,
+      "text": "Retailers will trust consistent programs and brand equity is preserved."
+    },
+    {
+      "t": 3050.38,
+      "text": "Agreed, structured promotions should be tied to clear business objectives and measured"
+    },
+    {
+      "t": 3055.3,
+      "text": "for ROI. We also need escalation protocols if deviations are required so marketing can"
+    },
+    {
+      "t": 3061.34,
+      "text": "approve or adjust."
+    },
+    {
+      "t": 3063.54,
+      "text": "That's a workable compromise. It gives sales flexibility while protecting the brand."
+    },
+    {
+      "t": 3069.1,
+      "text": "Now regarding KPIs, misaligned measurement is fueling conflict. Marketing focuses on"
+    },
+    {
+      "t": 3075.42,
+      "text": "brand metrics and consumer engagement. Sales focuses on volume, revenue and distribution."
+    },
+    {
+      "t": 3081.76,
+      "text": "We need shared KPIs to align incentives."
+    },
+    {
+      "t": 3085.2,
+      "text": "I agree."
+    },
+    {
+      "t": 3086.6,
+      "text": "Sales should be accountable for brand compliance, campaign execution quality, and promotion adherence."
+    },
+    {
+      "t": 3093.2,
+      "text": "Marketing should be accountable for driving measurable business outcomes, like contribution"
+    },
+    {
+      "t": 3097.82,
+      "text": "to volume and revenue growth."
+    },
+    {
+      "t": 3100.12,
+      "text": "That creates shared responsibility."
+    },
+    {
+      "t": 3102.64,
+      "text": "Everyone will be evaluated on both brand and business impact."
+    },
+    {
+      "t": 3106.64,
+      "text": "Exactly."
+    },
+    {
+      "t": 3107.72,
+      "text": "That way, decisions in the field will balance short-term results with long-term brand health."
+    },
+    {
+      "t": 3113.28,
+      "text": "Communication and transparency are also key."
+    },
+    {
+      "t": 3116.8,
+      "text": "Marketing should provide sales with clear timelines, campaign assets and rationale behind promotional"
+    },
+    {
+      "t": 3122.52,
+      "text": "plans."
+    },
+    {
+      "t": 3123.52,
+      "text": "Sales should provide feedback from the field regularly, not just after the fact."
+    },
+    {
+      "t": 3128.48,
+      "text": "Agreed."
+    },
+    {
+      "t": 3129.64,
+      "text": "Regular joint reviews of campaigns, scheme performance and launch success metrics can"
+    },
+    {
+      "t": 3134.32,
+      "text": "help."
+    },
+    {
+      "t": 3135.32,
+      "text": "view exceptions and learn lessons collaboratively."
+    },
+    {
+      "t": 3138.82,
+      "text": "One more point."
+    },
+    {
+      "t": 3139.82,
+      "text": "Training."
+    },
+    {
+      "t": 3140.82,
+      "text": "Marketing campaigns and product launches are often complex."
+    },
+    {
+      "t": 3144.18,
+      "text": "If sales doesn't fully understand the message or mechanics, execution suffers."
+    },
+    {
+      "t": 3149.3,
+      "text": "We should invest in pre-launch training and regular refreshers."
+    },
+    {
+      "t": 3153.56,
+      "text": "Training is critical."
+    },
+    {
+      "t": 3154.98,
+      "text": "It empowers field teams to confidently communicate campaigns and handle retailer objections."
+    },
+    {
+      "t": 3161.38,
+      "text": "Marketing should also make the materials practical, ready to use assets, not just presentation"
+    },
+    {
+      "t": 3166.5,
+      "text": "decks."
+    },
+    {
+      "t": 3167.5,
+      "text": "Agreed."
+    },
+    {
+      "t": 3168.5,
+      "text": "Let's also establish quarterly field immersions."
+    },
+    {
+      "t": 3171.6,
+      "text": "Marketing should visit outlets with sales teams to see execution first-hand."
+    },
+    {
+      "t": 3176.0,
+      "text": "That builds empathy and improves future plans."
+    },
+    {
+      "t": 3179.3,
+      "text": "That would be extremely valuable."
+    },
+    {
+      "t": 3181.34,
+      "text": "It also allows marketing to see retailer reactions and consumer behavior directly."
+    },
+    {
+      "t": 3186.5,
+      "text": "Finally, culture."
+    },
+    {
+      "t": 3188.3,
+      "text": "This marketing versus sales mindset must end."
+    },
+    {
+      "t": 3191.68,
+      "text": "We need a shared purpose, profitable growth while strengthening brand equity."
+    },
+    {
+      "t": 3196.76,
+      "text": "Conflict will happen, but it must be constructive based on data and aimed at solving problems,"
+    },
+    {
+      "t": 3202.22,
+      "text": "not scoring points."
+    },
+    {
+      "t": 3203.8,
+      "text": "I completely agree."
+    },
+    {
+      "t": 3205.64,
+      "text": "If we approach decisions as we, not me versus you, the team wins."
+    },
+    {
+      "t": 3210.96,
+      "text": "Let's summarize the agreed actions."
+    },
+    {
+      "t": 3213.12,
+      "text": "Phased innovation rollouts, pilot launches, monitor, optimize, then scale."
+    },
+    {
+      "t": 3218.8,
+      "text": "Channel-specific portfolio, prioritize high-impact SKUs per outlet and channel."
+    },
+    {
+      "t": 3224.96,
+      "text": "Structured promotions, simplified, predictable, with escalation protocols for deviations."
+    },
+    {
+      "t": 3230.4,
+      "text": "Shared KPIs, sales accountable for execution and brand compliance, marketing accountable"
+    },
+    {
+      "t": 3235.76,
+      "text": "for business outcomes."
+    },
+    {
+      "t": 3237.6,
+      "text": "Feedback loops, sales insights integrated into marketing planning, regular joint reviews,"
+    },
+    {
+      "t": 3243.32,
+      "text": "training and field immersions, pre-launch and ongoing training, marketing visit stores"
+    },
+    {
+      "t": 3248.08,
+      "text": "with sales teams, cultural alignment, conflict becomes problem solving, not blame."
+    },
+    {
+      "t": 3254.2,
+      "text": "I fully support these actions."
+    },
+    {
+      "t": 3256.48,
+      "text": "They address execution challenges, protect the brand, and give sales the tools to succeed"
+    },
+    {
+      "t": 3261.84,
+      "text": "in the market."
+    },
+    {
+      "t": 3263.48,
+      "text": "Everything also commits to designing executable, realistic campaigns, considering field realities"
+    },
+    {
+      "t": 3269.22,
+      "text": "and channel nuances."
+    },
+    {
+      "t": 3271.1,
+      "text": "Clear communication and support will be our standard."
+    },
+    {
+      "t": 3274.5,
+      "text": "With discipline on both sides, I believe we can achieve sustainable growth while strengthening"
+    },
+    {
+      "t": 3279.78,
+      "text": "brand equity."
+    },
+    {
+      "t": 3281.26,
+      "text": "Agreed."
+    },
+    {
+      "t": 3282.26,
+      "text": "Let's treat this as a turning point."
+    },
+    {
+      "t": 3284.08,
+      "text": "From now on, we operate as one leadership team with shared objectives and accountability."
+    },
+    {
+      "t": 3289.82,
+      "text": "Absolutely."
+    },
+    {
+      "t": 3291.02,
+      "text": "Elaboration is the only way forward."
+    },
+    {
+      "t": 3293.82,
+      "text": "Thank you for the open and honest discussion."
+    },
+    {
+      "t": 3296.54,
+      "text": "Let's convert this into action and track progress rigorously."
+    },
+    {
+      "t": 3300.38,
+      "text": "Thank you."
+    },
+    {
+      "t": 3301.3,
+      "text": "Looking forward to working together as a cohesive team."
+    }
+  ],
+  "lemmas": [
+    [
+      "market",
+      51
+    ],
+    [
+      "sal",
+      51
+    ],
+    [
+      "need",
+      45
+    ],
+    [
+      "brand",
+      44
+    ],
+    [
+      "consumer",
+      40
+    ],
+    [
+      "team",
+      35
+    ],
+    [
+      "good",
+      34
+    ],
+    [
+      "execution",
+      26
+    ],
+    [
+      "plan",
+      26
+    ],
+    [
+      "also",
+      24
+    ],
+    [
+      "clear",
+      24
+    ],
+    [
+      "growth",
+      24
+    ],
+    [
+      "agre",
+      24
+    ],
+    [
+      "thank",
+      23
+    ],
+    [
+      "focus",
+      23
+    ],
+    [
+      "quality",
+      23
+    ],
+    [
+      "trade",
+      23
+    ],
+    [
+      "retailer",
+      22
+    ],
+    [
+      "innovation",
+      22
+    ],
+    [
+      "review",
+      21
+    ],
+    [
+      "help",
+      21
+    ],
+    [
+      "exactly",
+      21
+    ],
+    [
+      "action",
+      21
+    ],
+    [
+      "without",
+      20
+    ],
+    [
+      "skus",
+      20
+    ],
+    [
+      "improve",
+      20
+    ],
+    [
+      "product",
+      19
+    ],
+    [
+      "distributor",
+      19
+    ],
+    [
+      "launch",
+      18
+    ],
+    [
+      "demand",
+      18
+    ],
+    [
+      "schem",
+      18
+    ],
+    [
+      "work",
+      18
+    ],
+    [
+      "forecast",
+      18
+    ],
+    [
+      "trust",
+      18
+    ],
+    [
+      "field",
+      17
+    ],
+    [
+      "level",
+      17
+    ],
+    [
+      "discussion",
+      17
+    ],
+    [
+      "rather",
+      17
+    ],
+    [
+      "support",
+      17
+    ],
+    [
+      "improv",
+      17
+    ],
+    [
+      "supply",
+      17
+    ],
+    [
+      "promotion",
+      17
+    ],
+    [
+      "see",
+      17
+    ],
+    [
+      "risk",
+      16
+    ],
+    [
+      "align",
+      16
+    ],
+    [
+      "long-term",
+      16
+    ],
+    [
+      "performance",
+      15
+    ],
+    [
+      "cost",
+      15
+    ],
+    [
+      "especially",
+      15
+    ],
+    [
+      "point",
+      15
+    ],
+    [
+      "train",
+      15
+    ],
+    [
+      "us",
+      14
+    ],
+    [
+      "volume",
+      14
+    ],
+    [
+      "outlet",
+      14
+    ],
+    [
+      "issue",
+      14
+    ],
+    [
+      "insight",
+      14
+    ],
+    [
+      "strengthen",
+      14
+    ],
+    [
+      "fmcg",
+      14
+    ],
+    [
+      "sustainability",
+      14
+    ],
+    [
+      "morn",
+      13
+    ],
+    [
+      "key",
+      13
+    ],
+    [
+      "strong",
+      13
+    ],
+    [
+      "agree",
+      13
+    ],
+    [
+      "chain",
+      13
+    ],
+    [
+      "increas",
+      13
+    ],
+    [
+      "capability",
+      13
+    ],
+    [
+      "understand",
+      13
+    ],
+    [
+      "business",
+      13
+    ],
+    [
+      "discuss",
+      13
+    ],
+    [
+      "limit",
+      12
+    ],
+    [
+      "impact",
+      12
+    ],
+    [
+      "forward",
+      12
+    ],
+    [
+      "short-term",
+      12
+    ],
+    [
+      "discipline",
+      12
+    ],
+    [
+      "process",
+      12
+    ],
+    [
+      "across",
+      12
+    ],
+    [
+      "decision",
+      12
+    ],
+    [
+      "compliance",
+      12
+    ],
+    [
+      "campaign",
+      12
+    ],
+    [
+      "address",
+      11
+    ],
+    [
+      "however",
+      11
+    ],
+    [
+      "pric",
+      11
+    ],
+    [
+      "price",
+      11
+    ],
+    [
+      "communication",
+      11
+    ],
+    [
+      "many",
+      11
+    ],
+    [
+      "sometim",
+      11
+    ],
+    [
+      "weve",
+      11
+    ],
+    [
+      "data",
+      11
+    ],
+    [
+      "health",
+      11
+    ],
+    [
+      "leadership",
+      11
+    ],
+    [
+      "meet",
+      10
+    ],
+    [
+      "rural",
+      10
+    ],
+    [
+      "prioriti",
+      10
+    ],
+    [
+      "stock",
+      10
+    ],
+    [
+      "region",
+      10
+    ],
+    [
+      "margin",
+      10
+    ],
+    [
+      "scheme",
+      10
+    ],
+    [
+      "often",
+      10
+    ],
+    [
+      "alignment",
+      10
+    ],
+    [
+      "critical",
+      10
+    ],
+    [
+      "inventory",
+      10
+    ],
+    [
+      "mak",
+      9
+    ],
+    [
+      "area",
+      9
+    ],
+    [
+      "think",
+      9
+    ],
+    [
+      "competitor",
+      9
+    ],
+    [
+      "alway",
+      9
+    ],
+    [
+      "distribution",
+      9
+    ],
+    [
+      "pressure",
+      9
+    ],
+    [
+      "fully",
+      9
+    ],
+    [
+      "one",
+      9
+    ],
+    [
+      "build",
+      9
+    ],
+    [
+      "talk",
+      9
+    ],
+    [
+      "creat",
+      9
+    ],
+    [
+      "report",
+      9
+    ],
+    [
+      "shar",
+      9
+    ],
+    [
+      "today",
+      8
+    ],
+    [
+      "gap",
+      8
+    ],
+    [
+      "perspective",
+      8
+    ],
+    [
+      "concern",
+      8
+    ],
+    [
+      "role",
+      8
+    ],
+    [
+      "shelf",
+      8
+    ],
+    [
+      "value",
+      8
+    ],
+    [
+      "visibility",
+      8
+    ],
+    [
+      "time",
+      8
+    ],
+    [
+      "ensure",
+      8
+    ],
+    [
+      "important",
+      8
+    ],
+    [
+      "incentiv",
+      8
+    ],
+    [
+      "complexity",
+      8
+    ],
+    [
+      "number",
+      8
+    ],
+    [
+      "move",
+      8
+    ],
+    [
+      "strategy",
+      8
+    ],
+    [
+      "share",
+      8
+    ],
+    [
+      "engagement",
+      8
+    ],
+    [
+      "offer",
+      8
+    ],
+    [
+      "kpis",
+      8
+    ],
+    [
+      "behavior",
+      8
+    ],
+    [
+      "profitability",
+      7
+    ],
+    [
+      "management",
+      7
+    ],
+    [
+      "finance",
+      7
+    ],
+    [
+      "quickly",
+      7
+    ],
+    [
+      "new",
+      7
+    ],
+    [
+      "success",
+      7
+    ],
+    [
+      "true",
+      7
+    ],
+    [
+      "consistently",
+      7
+    ],
+    [
+      "progress",
+      7
+    ],
+    [
+      "due",
+      7
+    ],
+    [
+      "capital",
+      7
+    ],
+    [
+      "shift",
+      7
+    ],
+    [
+      "spend",
+      7
+    ],
+    [
+      "chang",
+      7
+    ],
+    [
+      "feedback",
+      7
+    ],
+    [
+      "invest",
+      7
+    ],
+    [
+      "effectively",
+      7
+    ],
+    [
+      "enough",
+      7
+    ],
+    [
+      "category",
+      7
+    ],
+    [
+      "promotional",
+      7
+    ],
+    [
+      "structur",
+      7
+    ],
+    [
+      "cross-functional",
+      7
+    ],
+    [
+      "digital",
+      7
+    ],
+    [
+      "start",
+      7
+    ],
+    [
+      "deliver",
+      7
+    ],
+    [
+      "responsibility",
+      7
+    ],
+    [
+      "target",
+      7
+    ],
+    [
+      "skill",
+      7
+    ],
+    [
+      "join",
+      6
+    ],
+    [
+      "challeng",
+      6
+    ],
+    [
+      "next",
+      6
+    ],
+    [
+      "regional",
+      6
+    ],
+    [
+      "driven",
+      6
+    ],
+    [
+      "repeat",
+      6
+    ],
+    [
+      "higher",
+      6
+    ],
+    [
+      "reduc",
+      6
+    ],
+    [
+      "expect",
+      6
+    ],
+    [
+      "efficiency",
+      6
+    ],
+    [
+      "affect",
+      6
+    ],
+    [
+      "major",
+      6
+    ],
+    [
+      "look",
+      6
+    ],
+    [
+      "make",
+      6
+    ],
+    [
+      "accountability",
+      6
+    ],
+    [
+      "summarize",
+      6
+    ],
+    [
+      "side",
+      6
+    ],
+    [
+      "cas",
+      6
+    ],
+    [
+      "clearer",
+      6
+    ],
+    [
+      "channel",
+      6
+    ],
+    [
+      "balance",
+      6
+    ],
+    [
+      "absolutely",
+      6
+    ],
+    [
+      "metric",
+      6
+    ],
+    [
+      "requir",
+      6
+    ],
+    [
+      "competitive",
+      6
+    ],
+    [
+      "lead",
+      6
+    ],
+    [
+      "variant",
+      6
+    ],
+    [
+      "media",
+      6
+    ],
+    [
+      "equity",
+      6
+    ],
+    [
+      "quarter",
+      5
+    ],
+    [
+      "updat",
+      5
+    ],
+    [
+      "overall",
+      5
+    ],
+    [
+      "purchase",
+      5
+    ],
+    [
+      "play",
+      5
+    ],
+    [
+      "material",
+      5
+    ],
+    [
+      "productivity",
+      5
+    ],
+    [
+      "approach",
+      5
+    ],
+    [
+      "drive",
+      5
+    ],
+    [
+      "another",
+      5
+    ],
+    [
+      "using",
+      5
+    ],
+    [
+      "financial",
+      5
+    ],
+    [
+      "someth",
+      5
+    ],
+    [
+      "control",
+      5
+    ],
+    [
+      "alone",
+      5
+    ],
+    [
+      "driv",
+      5
+    ],
+    [
+      "consider",
+      5
+    ],
+    [
+      "simplify",
+      5
+    ],
+    [
+      "consistency",
+      5
+    ],
+    [
+      "inconsistent",
+      5
+    ],
+    [
+      "yet",
+      5
+    ],
+    [
+      "example",
+      5
+    ],
+    [
+      "monthly",
+      5
+    ],
+    [
+      "problem",
+      5
+    ],
+    [
+      "detail",
+      5
+    ],
+    [
+      "excellent",
+      5
+    ],
+    [
+      "set",
+      5
+    ],
+    [
+      "ownership",
+      5
+    ],
+    [
+      "sustainable",
+      5
+    ],
+    [
+      "become",
+      5
+    ],
+    [
+      "core",
+      5
+    ],
+    [
+      "maintain",
+      5
+    ],
+    [
+      "consistent",
+      5
+    ],
+    [
+      "space",
+      5
+    ],
+    [
+      "heavily",
+      5
+    ],
+    [
+      "becom",
+      5
+    ],
+    [
+      "architecture",
+      5
+    ],
+    [
+      "volatility",
+      5
+    ],
+    [
+      "clearly",
+      5
+    ],
+    [
+      "remain",
+      5
+    ],
+    [
+      "versus",
+      5
+    ],
+    [
+      "system",
+      5
+    ],
+    [
+      "additionally",
+      5
+    ],
+    [
+      "standard",
+      5
+    ],
+    [
+      "end",
+      5
+    ],
+    [
+      "regulatory",
+      5
+    ],
+    [
+      "investment",
+      5
+    ],
+    [
+      "regular",
+      5
+    ],
+    [
+      "portfolio",
+      5
+    ],
+    [
+      "practice",
+      4
+    ],
+    [
+      "initial",
+      4
+    ],
+    [
+      "encourag",
+      4
+    ],
+    [
+      "first",
+      4
+    ],
+    [
+      "assessment",
+      4
+    ],
+    [
+      "mainly",
+      4
+    ],
+    [
+      "pipeline",
+      4
+    ],
+    [
+      "mean",
+      4
+    ],
+    [
+      "position",
+      4
+    ],
+    [
+      "directly",
+      4
+    ],
+    [
+      "issu",
+      4
+    ],
+    [
+      "future",
+      4
+    ],
+    [
+      "mov",
+      4
+    ],
+    [
+      "strategic",
+      4
+    ],
+    [
+      "year",
+      4
+    ],
+    [
+      "per",
+      4
+    ],
+    [
+      "still",
+      4
+    ],
+    [
+      "smaller",
+      4
+    ],
+    [
+      "trial",
+      4
+    ],
+    [
+      "service",
+      4
+    ],
+    [
+      "perception",
+      4
+    ],
+    [
+      "reduce",
+      4
+    ],
+    [
+      "aggressive",
+      4
+    ],
+    [
+      "increase",
+      4
+    ],
+    [
+      "volum",
+      4
+    ],
+    [
+      "return",
+      4
+    ],
+    [
+      "roi",
+      4
+    ],
+    [
+      "discount",
+      4
+    ],
+    [
+      "effectiveness",
+      4
+    ],
+    [
+      "every",
+      4
+    ],
+    [
+      "objectiv",
+      4
+    ],
+    [
+      "necessary",
+      4
+    ],
+    [
+      "person",
+      4
+    ],
+    [
+      "culture",
+      4
+    ],
+    [
+      "uneven",
+      4
+    ],
+    [
+      "decision-mak",
+      4
+    ],
+    [
+      "solv",
+      4
+    ],
+    [
+      "close",
+      4
+    ],
+    [
+      "timelin",
+      4
+    ],
+    [
+      "constructive",
+      4
+    ],
+    [
+      "extend",
+      4
+    ],
+    [
+      "behind",
+      4
+    ],
+    [
+      "evaluate",
+      4
+    ],
+    [
+      "environment",
+      4
+    ],
+    [
+      "modern",
+      4
+    ],
+    [
+      "e-commerce",
+      4
+    ],
+    [
+      "win",
+      4
+    ],
+    [
+      "faster",
+      4
+    ],
+    [
+      "even",
+      4
+    ],
+    [
+      "revenue",
+      4
+    ],
+    [
+      "significant",
+      4
+    ],
+    [
+      "increasingly",
+      4
+    ],
+    [
+      "benefit",
+      4
+    ],
+    [
+      "spread",
+      4
+    ],
+    [
+      "fewer",
+      4
+    ],
+    [
+      "sense",
+      4
+    ],
+    [
+      "show",
+      4
+    ],
+    [
+      "tool",
+      4
+    ],
+    [
+      "treat",
+      4
+    ],
+    [
+      "collaboration",
+      4
+    ],
+    [
+      "purpose",
+      4
+    ],
+    [
+      "assess",
+      4
+    ],
+    [
+      "cash",
+      4
+    ],
+    [
+      "mindset",
+      4
+    ],
+    [
+      "scorecard",
+      4
+    ],
+    [
+      "partner",
+      4
+    ],
+    [
+      "technology",
+      4
+    ],
+    [
+      "adoption",
+      4
+    ],
+    [
+      "measur",
+      4
+    ],
+    [
+      "packag",
+      4
+    ],
+    [
+      "significantly",
+      4
+    ],
+    [
+      "reinforce",
+      4
+    ],
+    [
+      "loyalty",
+      4
+    ],
+    [
+      "internal",
+      4
+    ],
+    [
+      "follow",
+      4
+    ],
+    [
+      "commit",
+      4
+    ],
+    [
+      "message",
+      4
+    ],
+    [
+      "conflict",
+      4
+    ],
+    [
+      "protect",
+      4
+    ],
+    [
+      "accountable",
+      4
+    ],
+    [
+      "speak",
+      3
+    ],
+    [
+      "want",
+      3
+    ],
+    [
+      "recent",
+      3
+    ],
+    [
+      "expansion",
+      3
+    ],
+    [
+      "week",
+      3
+    ],
+    [
+      "momentum",
+      3
+    ],
+    [
+      "secondary",
+      3
+    ],
+    [
+      "projection",
+      3
+    ],
+    [
+      "differentiation",
+      3
+    ],
+    [
+      "urban",
+      3
+    ],
+    [
+      "numeric",
+      3
+    ],
+    [
+      "pack",
+      3
+    ],
+    [
+      "lower",
+      3
+    ],
+    [
+      "second",
+      3
+    ],
+    [
+      "route",
+      3
+    ],
+    [
+      "cover",
+      3
+    ],
+    [
+      "drop",
+      3
+    ],
+    [
+      "raw",
+      3
+    ],
+    [
+      "improvement",
+      3
+    ],
+    [
+      "get",
+      3
+    ],
+    [
+      "sku",
+      3
+    ],
+    [
+      "add",
+      3
+    ],
+    [
+      "topic",
+      3
+    ],
+    [
+      "operation",
+      3
+    ],
+    [
+      "regard",
+      3
+    ],
+    [
+      "confus",
+      3
+    ],
+    [
+      "change",
+      3
+    ],
+    [
+      "reliability",
+      3
+    ],
+    [
+      "trend",
+      3
+    ],
+    [
+      "data-driven",
+      3
+    ],
+    [
+      "collect",
+      3
+    ],
+    [
+      "identify",
+      3
+    ],
+    [
+      "achieve",
+      3
+    ],
+    [
+      "stay",
+      3
+    ],
+    [
+      "last",
+      3
+    ],
+    [
+      "incremental",
+      3
+    ],
+    [
+      "lost",
+      3
+    ],
+    [
+      "stable",
+      3
+    ],
+    [
+      "driver",
+      3
+    ],
+    [
+      "combination",
+      3
+    ],
+    [
+      "three",
+      3
+    ],
+    [
+      "confidence",
+      3
+    ],
+    [
+      "result",
+      3
+    ],
+    [
+      "excess",
+      3
+    ],
+    [
+      "slow-mov",
+      3
+    ],
+    [
+      "model",
+      3
+    ],
+    [
+      "quarterly",
+      3
+    ],
+    [
+      "operate",
+      3
+    ],
+    [
+      "past",
+      3
+    ],
+    [
+      "line",
+      3
+    ],
+    [
+      "create",
+      3
+    ],
+    [
+      "opportuniti",
+      3
+    ],
+    [
+      "profitable",
+      3
+    ],
+    [
+      "perform",
+      3
+    ],
+    [
+      "fail",
+      3
+    ],
+    [
+      "essential",
+      3
+    ],
+    [
+      "day",
+      3
+    ],
+    [
+      "lack",
+      3
+    ],
+    [
+      "sharper",
+      3
+    ],
+    [
+      "choic",
+      3
+    ],
+    [
+      "stronger",
+      3
+    ],
+    [
+      "participation",
+      3
+    ],
+    [
+      "confusion",
+      3
+    ],
+    [
+      "assortment",
+      3
+    ],
+    [
+      "analytic",
+      3
+    ],
+    [
+      "allow",
+      3
+    ],
+    [
+      "top",
+      3
+    ],
+    [
+      "month",
+      3
+    ],
+    [
+      "accuracy",
+      3
+    ],
+    [
+      "require",
+      3
+    ],
+    [
+      "roadmap",
+      3
+    ],
+    [
+      "open",
+      3
+    ],
+    [
+      "clarity",
+      3
+    ],
+    [
+      "certain",
+      3
+    ],
+    [
+      "flow",
+      3
+    ],
+    [
+      "much",
+      3
+    ],
+    [
+      "within",
+      3
+    ],
+    [
+      "sell-out",
+      3
+    ],
+    [
+      "resistance",
+      3
+    ],
+    [
+      "rotation",
+      3
+    ],
+    [
+      "cause",
+      3
+    ],
+    [
+      "optimize",
+      3
+    ],
+    [
+      "common",
+      3
+    ],
+    [
+      "joint",
+      3
+    ],
+    [
+      "outcom",
+      3
+    ],
+    [
+      "part",
+      3
+    ],
+    [
+      "happen",
+      3
+    ],
+    [
+      "honest",
+      3
+    ],
+    [
+      "longer",
+      3
+    ],
+    [
+      "completely",
+      3
+    ],
+    [
+      "translate",
+      3
+    ],
+    [
+      "complaint",
+      3
+    ],
+    [
+      "safety",
+      3
+    ],
+    [
+      "com",
+      3
+    ],
+    [
+      "damage",
+      3
+    ],
+    [
+      "handl",
+      3
+    ],
+    [
+      "around",
+      3
+    ],
+    [
+      "delay",
+      3
+    ],
+    [
+      "coordination",
+      3
+    ],
+    [
+      "communicat",
+      3
+    ],
+    [
+      "supplier",
+      3
+    ],
+    [
+      "prioritize",
+      3
+    ],
+    [
+      "messag",
+      3
+    ],
+    [
+      "premium",
+      3
+    ],
+    [
+      "integrat",
+      3
+    ],
+    [
+      "awareness",
+      3
+    ],
+    [
+      "convert",
+      3
+    ],
+    [
+      "feel",
+      3
+    ],
+    [
+      "view",
+      3
+    ],
+    [
+      "give",
+      3
+    ],
+    [
+      "mechanic",
+      3
+    ],
+    [
+      "reflect",
+      3
+    ],
+    [
+      "use",
+      3
+    ],
+    [
+      "predictable",
+      3
+    ],
+    [
+      "full",
+      3
+    ],
+    [
+      "communicate",
+      3
+    ],
+    [
+      "conversation",
+      3
+    ],
+    [
+      "ad",
+      3
+    ],
+    [
+      "relevance",
+      3
+    ],
+    [
+      "sustain",
+      3
+    ],
+    [
+      "project",
+      3
+    ],
+    [
+      "either",
+      3
+    ],
+    [
+      "platform",
+      3
+    ],
+    [
+      "different",
+      3
+    ],
+    [
+      "escalation",
+      3
+    ],
+    [
+      "way",
+      3
+    ],
+    [
+      "design",
+      3
+    ],
+    [
+      "listen",
+      2
+    ],
+    [
+      "perfect",
+      2
+    ],
+    [
+      "two",
+      2
+    ],
+    [
+      "begin",
+      2
+    ],
+    [
+      "offtake",
+      2
+    ],
+    [
+      "town",
+      2
+    ],
+    [
+      "slow",
+      2
+    ],
+    [
+      "believe",
+      2
+    ],
+    [
+      "pace",
+      2
+    ],
+    [
+      "overestimat",
+      2
+    ],
+    [
+      "extent",
+      2
+    ],
+    [
+      "establish",
+      2
+    ],
+    [
+      "slightly",
+      2
+    ],
+    [
+      "proposition",
+      2
+    ],
+    [
+      "roll",
+      2
+    ],
+    [
+      "tier",
+      2
+    ],
+    [
+      "receiv",
+      2
+    ],
+    [
+      "proper",
+      2
+    ],
+    [
+      "end-to-end",
+      2
+    ],
+    [
+      "far",
+      2
+    ],
+    [
+      "positive",
+      2
+    ],
+    [
+      "low",
+      2
+    ],
+    [
+      "slower",
+      2
+    ],
+    [
+      "strategi",
+      2
+    ],
+    [
+      "adjustment",
+      2
+    ],
+    [
+      "recommend",
+      2
+    ],
+    [
+      "credit",
+      2
+    ],
+    [
+      "term",
+      2
+    ],
+    [
+      "third",
+      2
+    ],
+    [
+      "local",
+      2
+    ],
+    [
+      "influencer",
+      2
+    ],
+    [
+      "price-sensitive",
+      2
+    ],
+    [
+      "closely",
+      2
+    ],
+    [
+      "availability",
+      2
+    ],
+    [
+      "production",
+      2
+    ],
+    [
+      "challenge",
+      2
+    ],
+    [
+      "daily",
+      2
+    ],
+    [
+      "coverage",
+      2
+    ],
+    [
+      "call",
+      2
+    ],
+    [
+      "sub-distributor",
+      2
+    ],
+    [
+      "reach",
+      2
+    ],
+    [
+      "operat",
+      2
+    ],
+    [
+      "fuel",
+      2
+    ],
+    [
+      "hik",
+      2
+    ],
+    [
+      "load",
+      2
+    ],
+    [
+      "capacity",
+      2
+    ],
+    [
+      "semi-urban",
+      2
+    ],
+    [
+      "optimization",
+      2
+    ],
+    [
+      "nearly",
+      2
+    ],
+    [
+      "vari",
+      2
+    ],
+    [
+      "real",
+      2
+    ],
+    [
+      "stricter",
+      2
+    ],
+    [
+      "otherwise",
+      2
+    ],
+    [
+      "erod",
+      2
+    ],
+    [
+      "rationalization",
+      2
+    ],
+    [
+      "meaningful",
+      2
+    ],
+    [
+      "contribution",
+      2
+    ],
+    [
+      "frequent",
+      2
+    ],
+    [
+      "fair",
+      2
+    ],
+    [
+      "response",
+      2
+    ],
+    [
+      "credibility",
+      2
+    ],
+    [
+      "currently",
+      2
+    ],
+    [
+      "rely",
+      2
+    ],
+    [
+      "learn",
+      2
+    ],
+    [
+      "basic",
+      2
+    ],
+    [
+      "emerg",
+      2
+    ],
+    [
+      "perhap",
+      2
+    ],
+    [
+      "optimiz",
+      2
+    ],
+    [
+      "bring",
+      2
+    ],
+    [
+      "analysis",
+      2
+    ],
+    [
+      "coordinate",
+      2
+    ],
+    [
+      "confident",
+      2
+    ],
+    [
+      "execut",
+      2
+    ],
+    [
+      "objective",
+      2
+    ],
+    [
+      "analyze",
+      2
+    ],
+    [
+      "reason",
+      2
+    ],
+    [
+      "corrective",
+      2
+    ],
+    [
+      "timely",
+      2
+    ],
+    [
+      "regain",
+      2
+    ],
+    [
+      "marginally",
+      2
+    ],
+    [
+      "percentage",
+      2
+    ],
+    [
+      "expand",
+      2
+    ],
+    [
+      "general",
+      2
+    ],
+    [
+      "narrow",
+      2
+    ],
+    [
+      "compromise",
+      2
+    ],
+    [
+      "go",
+      2
+    ],
+    [
+      "optimistic",
+      2
+    ],
+    [
+      "conservative",
+      2
+    ],
+    [
+      "factor",
+      2
+    ],
+    [
+      "correctly",
+      2
+    ],
+    [
+      "variation",
+      2
+    ],
+    [
+      "mismatch",
+      2
+    ],
+    [
+      "toward",
+      2
+    ],
+    [
+      "competition",
+      2
+    ],
+    [
+      "compet",
+      2
+    ],
+    [
+      "honestly",
+      2
+    ],
+    [
+      "extension",
+      2
+    ],
+    [
+      "attract",
+      2
+    ],
+    [
+      "respond",
+      2
+    ],
+    [
+      "convenience",
+      2
+    ],
+    [
+      "label",
+      2
+    ],
+    [
+      "functional",
+      2
+    ],
+    [
+      "early",
+      2
+    ],
+    [
+      "prefer",
+      2
+    ],
+    [
+      "stor",
+      2
+    ],
+    [
+      "entry",
+      2
+    ],
+    [
+      "easily",
+      2
+    ],
+    [
+      "ground",
+      2
+    ],
+    [
+      "struggle",
+      2
+    ],
+    [
+      "lot",
+      2
+    ],
+    [
+      "earlier",
+      2
+    ],
+    [
+      "manual",
+      2
+    ],
+    [
+      "conclude",
+      2
+    ],
+    [
+      "sharpen",
+      2
+    ],
+    [
+      "embed",
+      2
+    ],
+    [
+      "execute",
+      2
+    ],
+    [
+      "resilient",
+      2
+    ],
+    [
+      "say",
+      2
+    ],
+    [
+      "difficult",
+      2
+    ],
+    [
+      "mileston",
+      2
+    ],
+    [
+      "initiative",
+      2
+    ],
+    [
+      "grow",
+      2
+    ],
+    [
+      "holistic",
+      2
+    ],
+    [
+      "weaker",
+      2
+    ],
+    [
+      "baseline",
+      2
+    ],
+    [
+      "spik",
+      2
+    ],
+    [
+      "complex",
+      2
+    ],
+    [
+      "main",
+      2
+    ],
+    [
+      "input",
+      2
+    ],
+    [
+      "cultural",
+      2
+    ],
+    [
+      "realistic",
+      2
+    ],
+    [
+      "uplift",
+      2
+    ],
+    [
+      "incorporat",
+      2
+    ],
+    [
+      "differentiate",
+      2
+    ],
+    [
+      "direct",
+      2
+    ],
+    [
+      "realiti",
+      2
+    ],
+    [
+      "push",
+      2
+    ],
+    [
+      "imbalance",
+      2
+    ],
+    [
+      "real-time",
+      2
+    ],
+    [
+      "order",
+      2
+    ],
+    [
+      "cycl",
+      2
+    ],
+    [
+      "explain",
+      2
+    ],
+    [
+      "reward",
+      2
+    ],
+    [
+      "healthy",
+      2
+    ],
+    [
+      "effective",
+      2
+    ],
+    [
+      "root",
+      2
+    ],
+    [
+      "silo",
+      2
+    ],
+    [
+      "fundamental",
+      2
+    ],
+    [
+      "built",
+      2
+    ],
+    [
+      "myside",
+      2
+    ],
+    [
+      "commitment",
+      2
+    ],
+    [
+      "reputational",
+      2
+    ],
+    [
+      "integrity",
+      2
+    ],
+    [
+      "reality",
+      2
+    ],
+    [
+      "practic",
+      2
+    ],
+    [
+      "vary",
+      2
+    ],
+    [
+      "gate",
+      2
+    ],
+    [
+      "procedur",
+      2
+    ],
+    [
+      "audit",
+      2
+    ],
+    [
+      "aware",
+      2
+    ],
+    [
+      "claim",
+      2
+    ],
+    [
+      "take",
+      2
+    ],
+    [
+      "proactive",
+      2
+    ],
+    [
+      "fix",
+      2
+    ],
+    [
+      "commercial",
+      2
+    ],
+    [
+      "current",
+      2
+    ],
+    [
+      "particularly",
+      2
+    ],
+    [
+      "valu",
+      2
+    ],
+    [
+      "back",
+      2
+    ],
+    [
+      "measurable",
+      2
+    ],
+    [
+      "initiativ",
+      2
+    ],
+    [
+      "broadly",
+      2
+    ],
+    [
+      "fac",
+      2
+    ],
+    [
+      "non-compliance",
+      2
+    ],
+    [
+      "diversification",
+      2
+    ],
+    [
+      "crisis",
+      2
+    ],
+    [
+      "simulation",
+      2
+    ],
+    [
+      "paper",
+      2
+    ],
+    [
+      "function",
+      2
+    ],
+    [
+      "responsible",
+      2
+    ],
+    [
+      "advertis",
+      2
+    ],
+    [
+      "correct",
+      2
+    ],
+    [
+      "shap",
+      2
+    ],
+    [
+      "manage",
+      2
+    ],
+    [
+      "reinforc",
+      2
+    ],
+    [
+      "among",
+      2
+    ],
+    [
+      "fact",
+      2
+    ],
+    [
+      "define",
+      2
+    ],
+    [
+      "track",
+      2
+    ],
+    [
+      "depend",
+      2
+    ],
+    [
+      "thoughtful",
+      2
+    ],
+    [
+      "organization",
+      2
+    ],
+    [
+      "free",
+      2
+    ],
+    [
+      "ready",
+      2
+    ],
+    [
+      "valid",
+      2
+    ],
+    [
+      "benchmark",
+      2
+    ],
+    [
+      "intense",
+      2
+    ],
+    [
+      "in-store",
+      2
+    ],
+    [
+      "negotiation",
+      2
+    ],
+    [
+      "calendar",
+      2
+    ],
+    [
+      "finaliz",
+      2
+    ],
+    [
+      "online",
+      2
+    ],
+    [
+      "giv",
+      2
+    ],
+    [
+      "preferenc",
+      2
+    ],
+    [
+      "content",
+      2
+    ],
+    [
+      "select",
+      2
+    ],
+    [
+      "activation",
+      2
+    ],
+    [
+      "knowledge",
+      2
+    ],
+    [
+      "observation",
+      2
+    ],
+    [
+      "rol",
+      2
+    ],
+    [
+      "resourc",
+      2
+    ],
+    [
+      "overlap",
+      2
+    ],
+    [
+      "bas",
+      2
+    ],
+    [
+      "range",
+      2
+    ],
+    [
+      "research",
+      2
+    ],
+    [
+      "presentation",
+      2
+    ],
+    [
+      "valuable",
+      2
+    ],
+    [
+      "tension",
+      2
+    ],
+    [
+      "expectation",
+      2
+    ],
+    [
+      "beyond",
+      2
+    ],
+    [
+      "dilut",
+      2
+    ],
+    [
+      "hurt",
+      2
+    ],
+    [
+      "interpret",
+      2
+    ],
+    [
+      "react",
+      2
+    ],
+    [
+      "personalization",
+      2
+    ],
+    [
+      "program",
+      2
+    ],
+    [
+      "definition",
+      2
+    ],
+    [
+      "leader",
+      2
+    ],
+    [
+      "seem",
+      2
+    ],
+    [
+      "compromis",
+      2
+    ],
+    [
+      "executable",
+      2
+    ],
+    [
+      "phas",
+      2
+    ],
+    [
+      "rollout",
+      2
+    ],
+    [
+      "pilot",
+      2
+    ],
+    [
+      "scale",
+      2
+    ],
+    [
+      "channel-specific",
+      2
+    ],
+    [
+      "high-impact",
+      2
+    ],
+    [
+      "believ",
+      2
+    ],
+    [
+      "protocol",
+      2
+    ],
+    [
+      "deviation",
+      2
+    ],
+    [
+      "provide",
+      2
+    ],
+    [
+      "asset",
+      2
+    ],
+    [
+      "pre-launch",
+      2
+    ],
+    [
+      "immersion",
+      2
+    ],
+    [
+      "visit",
+      2
+    ],
+    [
+      "four",
+      1
+    ],
+    [
+      "finalize",
+      1
+    ],
+    [
+      "dashboard",
+      1
+    ],
+    [
+      "summari",
+      1
+    ],
+    [
+      "positiv",
+      1
+    ],
+    [
+      "six",
+      1
+    ],
+    [
+      "metro",
+      1
+    ],
+    [
+      "large",
+      1
+    ],
+    [
+      "fill",
+      1
+    ],
+    [
+      "introductory",
+      1
+    ],
+    [
+      "pick",
+      1
+    ],
+    [
+      "compar",
+      1
+    ],
+    [
+      "sale",
+      1
+    ],
+    [
+      "decent",
+      1
+    ],
+    [
+      "strip",
+      1
+    ],
+    [
+      "wobbler",
+      1
+    ],
+    [
+      "impulse",
+      1
+    ],
+    [
+      "highlight",
+      1
+    ],
+    [
+      "priority",
+      1
+    ],
+    [
+      "cautious",
+      1
+    ],
+    [
+      "turnover",
+      1
+    ],
+    [
+      "tailor",
+      1
+    ],
+    [
+      "siz",
+      1
+    ],
+    [
+      "simpler",
+      1
+    ],
+    [
+      "encourage",
+      1
+    ],
+    [
+      "promote",
+      1
+    ],
+    [
+      "activity",
+      1
+    ],
+    [
+      "village-level",
+      1
+    ],
+    [
+      "sampl",
+      1
+    ],
+    [
+      "disrupt",
+      1
+    ],
+    [
+      "representativ",
+      1
+    ],
+    [
+      "long",
+      1
+    ],
+    [
+      "distanc",
+      1
+    ],
+    [
+      "restructur",
+      1
+    ],
+    [
+      "rout",
+      1
+    ],
+    [
+      "understood",
+      1
+    ],
+    [
+      "top-line",
+      1
+    ],
+    [
+      "steady",
+      1
+    ],
+    [
+      "logistic",
+      1
+    ],
+    [
+      "flag",
+      1
+    ],
+    [
+      "breakdown",
+      1
+    ],
+    [
+      "inefficient",
+      1
+    ],
+    [
+      "truck",
+      1
+    ],
+    [
+      "run",
+      1
+    ],
+    [
+      "optimal",
+      1
+    ],
+    [
+      "consolidation",
+      1
+    ],
+    [
+      "case",
+      1
+    ],
+    [
+      "careful",
+      1
+    ],
+    [
+      "come",
+      1
+    ],
+    [
+      "adequate",
+      1
+    ],
+    [
+      "buy",
+      1
+    ],
+    [
+      "consumption",
+      1
+    ],
+    [
+      "evaluation",
+      1
+    ],
+    [
+      "post-evaluation",
+      1
+    ],
+    [
+      "low-rotation",
+      1
+    ],
+    [
+      "sensitive",
+      1
+    ],
+    [
+      "tail",
+      1
+    ],
+    [
+      "high-margin",
+      1
+    ],
+    [
+      "recur",
+      1
+    ],
+    [
+      "hir",
+      1
+    ],
+    [
+      "officer",
+      1
+    ],
+    [
+      "recently",
+      1
+    ],
+    [
+      "onboard",
+      1
+    ],
+    [
+      "coach",
+      1
+    ],
+    [
+      "on-the-job",
+      1
+    ],
+    [
+      "standardize",
+      1
+    ],
+    [
+      "modul",
+      1
+    ],
+    [
+      "explanation",
+      1
+    ],
+    [
+      "definitely",
+      1
+    ],
+    [
+      "utiliz",
+      1
+    ],
+    [
+      "generate",
+      1
+    ],
+    [
+      "translat",
+      1
+    ],
+    [
+      "beneficial",
+      1
+    ],
+    [
+      "gain",
+      1
+    ],
+    [
+      "decisively",
+      1
+    ],
+    [
+      "deeply",
+      1
+    ],
+    [
+      "structural",
+      1
+    ],
+    [
+      "absolute",
+      1
+    ],
+    [
+      "grown",
+      1
+    ],
+    [
+      "approximately",
+      1
+    ],
+    [
+      "since",
+      1
+    ],
+    [
+      "aggressively",
+      1
+    ],
+    [
+      "loss",
+      1
+    ],
+    [
+      "pronounc",
+      1
+    ],
+    [
+      "relatively",
+      1
+    ],
+    [
+      "traditional",
+      1
+    ],
+    [
+      "primary",
+      1
+    ],
+    [
+      "intensity",
+      1
+    ],
+    [
+      "contrast",
+      1
+    ],
+    [
+      "interruption",
+      1
+    ],
+    [
+      "strongest",
+      1
+    ],
+    [
+      "lose",
+      1
+    ],
+    [
+      "frequently",
+      1
+    ],
+    [
+      "wrong",
+      1
+    ],
+    [
+      "overly",
+      1
+    ],
+    [
+      "underestimat",
+      1
+    ],
+    [
+      "shortag",
+      1
+    ],
+    [
+      "fast",
+      1
+    ],
+    [
+      "mover",
+      1
+    ],
+    [
+      "implication",
+      1
+    ],
+    [
+      "tie",
+      1
+    ],
+    [
+      "stockout",
+      1
+    ],
+    [
+      "outdat",
+      1
+    ],
+    [
+      "noticeable",
+      1
+    ],
+    [
+      "rise",
+      1
+    ],
+    [
+      "serious",
+      1
+    ],
+    [
+      "threat",
+      1
+    ],
+    [
+      "segment",
+      1
+    ],
+    [
+      "player",
+      1
+    ],
+    [
+      "overhead",
+      1
+    ],
+    [
+      "accept",
+      1
+    ],
+    [
+      "thinner",
+      1
+    ],
+    [
+      "match",
+      1
+    ],
+    [
+      "perceiv",
+      1
+    ],
+    [
+      "appeal",
+      1
+    ],
+    [
+      "purely",
+      1
+    ],
+    [
+      "ideal",
+      1
+    ],
+    [
+      "excitement",
+      1
+    ],
+    [
+      "anticipate",
+      1
+    ],
+    [
+      "affordability",
+      1
+    ],
+    [
+      "cleaner",
+      1
+    ],
+    [
+      "format",
+      1
+    ],
+    [
+      "fit",
+      1
+    ],
+    [
+      "routin",
+      1
+    ],
+    [
+      "scalable",
+      1
+    ],
+    [
+      "innovative",
+      1
+    ],
+    [
+      "nationally",
+      1
+    ],
+    [
+      "involvement",
+      1
+    ],
+    [
+      "declin",
+      1
+    ],
+    [
+      "neither",
+      1
+    ],
+    [
+      "predictability",
+      1
+    ],
+    [
+      "easy",
+      1
+    ],
+    [
+      "dilute",
+      1
+    ],
+    [
+      "rationaliz",
+      1
+    ],
+    [
+      "ladder",
+      1
+    ],
+    [
+      "difference",
+      1
+    ],
+    [
+      "mid-tier",
+      1
+    ],
+    [
+      "up-trad",
+      1
+    ],
+    [
+      "segmentation",
+      1
+    ],
+    [
+      "suggest",
+      1
+    ],
+    [
+      "inconsistency",
+      1
+    ],
+    [
+      "big",
+      1
+    ],
+    [
+      "manager",
+      1
+    ],
+    [
+      "indicat",
+      1
+    ],
+    [
+      "emphasis",
+      1
+    ],
+    [
+      "transformation",
+      1
+    ],
+    [
+      "retrospectively",
+      1
+    ],
+    [
+      "used",
+      1
+    ],
+    [
+      "proactively",
+      1
+    ],
+    [
+      "predictive",
+      1
+    ],
+    [
+      "sell",
+      1
+    ],
+    [
+      "restore",
+      1
+    ],
+    [
+      "accelerate",
+      1
+    ],
+    [
+      "ensur",
+      1
+    ],
+    [
+      "afterthought",
+      1
+    ],
+    [
+      "reconvene",
+      1
+    ],
+    [
+      "refin",
+      1
+    ],
+    [
+      "session",
+      1
+    ],
+    [
+      "interconnect",
+      1
+    ],
+    [
+      "swing",
+      1
+    ],
+    [
+      "pattern",
+      1
+    ],
+    [
+      "expos",
+      1
+    ],
+    [
+      "peak",
+      1
+    ],
+    [
+      "instability",
+      1
+    ],
+    [
+      "heavy",
+      1
+    ],
+    [
+      "distort",
+      1
+    ],
+    [
+      "distortion",
+      1
+    ],
+    [
+      "visible",
+      1
+    ],
+    [
+      "depot",
+      1
+    ],
+    [
+      "actual",
+      1
+    ],
+    [
+      "assumption",
+      1
+    ],
+    [
+      "historical",
+      1
+    ],
+    [
+      "systematically",
+      1
+    ],
+    [
+      "percent",
+      1
+    ],
+    [
+      "receivable",
+      1
+    ],
+    [
+      "stretch",
+      1
+    ],
+    [
+      "buildup",
+      1
+    ],
+    [
+      "outcome",
+      1
+    ],
+    [
+      "inaccuracy",
+      1
+    ],
+    [
+      "put",
+      1
+    ],
+    [
+      "portion",
+      1
+    ],
+    [
+      "weaken",
+      1
+    ],
+    [
+      "risky",
+      1
+    ],
+    [
+      "artificial",
+      1
+    ],
+    [
+      "write-off",
+      1
+    ],
+    [
+      "later",
+      1
+    ],
+    [
+      "sell-in",
+      1
+    ],
+    [
+      "replenishment",
+      1
+    ],
+    [
+      "financially",
+      1
+    ],
+    [
+      "ambition",
+      1
+    ],
+    [
+      "widely",
+      1
+    ],
+    [
+      "well-capitaliz",
+      1
+    ],
+    [
+      "infrastructure",
+      1
+    ],
+    [
+      "manpower",
+      1
+    ],
+    [
+      "over-leverag",
+      1
+    ],
+    [
+      "reassess",
+      1
+    ],
+    [
+      "selection",
+      1
+    ],
+    [
+      "introduce",
+      1
+    ],
+    [
+      "stability",
+      1
+    ],
+    [
+      "replac",
+      1
+    ],
+    [
+      "equally",
+      1
+    ],
+    [
+      "prolong",
+      1
+    ],
+    [
+      "inefficiency",
+      1
+    ],
+    [
+      "automat",
+      1
+    ],
+    [
+      "error",
+      1
+    ],
+    [
+      "responsiveness",
+      1
+    ],
+    [
+      "additional",
+      1
+    ],
+    [
+      "enabler",
+      1
+    ],
+    [
+      "demonstrat",
+      1
+    ],
+    [
+      "user",
+      1
+    ],
+    [
+      "disput",
+      1
+    ],
+    [
+      "naturally",
+      1
+    ],
+    [
+      "volume-driven",
+      1
+    ],
+    [
+      "excessive",
+      1
+    ],
+    [
+      "collection",
+      1
+    ],
+    [
+      "probably",
+      1
+    ],
+    [
+      "incentive",
+      1
+    ],
+    [
+      "cadence",
+      1
+    ],
+    [
+      "informative",
+      1
+    ],
+    [
+      "action-orient",
+      1
+    ],
+    [
+      "less",
+      1
+    ],
+    [
+      "expense",
+      1
+    ],
+    [
+      "break",
+      1
+    ],
+    [
+      "accurate",
+      1
+    ],
+    [
+      "disciplin",
+      1
+    ],
+    [
+      "weak",
+      1
+    ],
+    [
+      "unstable",
+      1
+    ],
+    [
+      "statement",
+      1
+    ],
+    [
+      "demand-sens",
+      1
+    ],
+    [
+      "analytical",
+      1
+    ],
+    [
+      "upskill",
+      1
+    ],
+    [
+      "interpretation",
+      1
+    ],
+    [
+      "governance",
+      1
+    ],
+    [
+      "implement",
+      1
+    ],
+    [
+      "redesign",
+      1
+    ],
+    [
+      "forum",
+      1
+    ],
+    [
+      "draft",
+      1
+    ],
+    [
+      "implementation",
+      1
+    ],
+    [
+      "ahead",
+      1
+    ],
+    [
+      "comprehensive",
+      1
+    ],
+    [
+      "central",
+      1
+    ],
+    [
+      "regulator",
+      1
+    ],
+    [
+      "hold",
+      1
+    ],
+    [
+      "compani",
+      1
+    ],
+    [
+      "weakness",
+      1
+    ],
+    [
+      "assurance",
+      1
+    ],
+    [
+      "rate",
+      1
+    ],
+    [
+      "acceptable",
+      1
+    ],
+    [
+      "slight",
+      1
+    ],
+    [
+      "quality-relat",
+      1
+    ],
+    [
+      "alarm",
+      1
+    ],
+    [
+      "signal",
+      1
+    ],
+    [
+      "ignore",
+      1
+    ],
+    [
+      "relate",
+      1
+    ],
+    [
+      "shelf-life",
+      1
+    ],
+    [
+      "matter",
+      1
+    ],
+    [
+      "minor",
+      1
+    ],
+    [
+      "highly",
+      1
+    ],
+    [
+      "partly",
+      1
+    ],
+    [
+      "process-relat",
+      1
+    ],
+    [
+      "rapidly",
+      1
+    ],
+    [
+      "check",
+      1
+    ],
+    [
+      "scal",
+      1
+    ],
+    [
+      "factory",
+      1
+    ],
+    [
+      "storage",
+      1
+    ],
+    [
+      "periodic",
+      1
+    ],
+    [
+      "tightly",
+      1
+    ],
+    [
+      "regulat",
+      1
+    ],
+    [
+      "failur",
+      1
+    ],
+    [
+      "costly",
+      1
+    ],
+    [
+      "regulation",
+      1
+    ],
+    [
+      "stringent",
+      1
+    ],
+    [
+      "nutritional",
+      1
+    ],
+    [
+      "ingredient",
+      1
+    ],
+    [
+      "disclosur",
+      1
+    ],
+    [
+      "expose",
+      1
+    ],
+    [
+      "scrutiny",
+      1
+    ],
+    [
+      "reactive",
+      1
+    ],
+    [
+      "legal",
+      1
+    ],
+    [
+      "procurement",
+      1
+    ],
+    [
+      "avoid",
+      1
+    ],
+    [
+      "last-minute",
+      1
+    ],
+    [
+      "esg",
+      1
+    ],
+    [
+      "corporate",
+      1
+    ],
+    [
+      "differentiator",
+      1
+    ],
+    [
+      "plastic",
+      1
+    ],
+    [
+      "usage",
+      1
+    ],
+    [
+      "energy",
+      1
+    ],
+    [
+      "story",
+      1
+    ],
+    [
+      "miss",
+      1
+    ],
+    [
+      "opportunity",
+      1
+    ],
+    [
+      "authenticity",
+      1
+    ],
+    [
+      "greenwash",
+      1
+    ],
+    [
+      "transparent",
+      1
+    ],
+    [
+      "backfire",
+      1
+    ],
+    [
+      "face",
+      1
+    ],
+    [
+      "upfront",
+      1
+    ],
+    [
+      "len",
+      1
+    ],
+    [
+      "energy-efficient",
+      1
+    ],
+    [
+      "expenditure",
+      1
+    ],
+    [
+      "saving",
+      1
+    ],
+    [
+      "exposure",
+      1
+    ],
+    [
+      "include",
+      1
+    ],
+    [
+      "disruption",
+      1
+    ],
+    [
+      "dependence",
+      1
+    ],
+    [
+      "concentration",
+      1
+    ],
+    [
+      "diversify",
+      1
+    ],
+    [
+      "resilience",
+      1
+    ],
+    [
+      "dual-sourc",
+      1
+    ],
+    [
+      "preparedness",
+      1
+    ],
+    [
+      "recall",
+      1
+    ],
+    [
+      "notice",
+      1
+    ],
+    [
+      "occur",
+      1
+    ],
+    [
+      "prepar",
+      1
+    ],
+    [
+      "document",
+      1
+    ],
+    [
+      "exercis",
+      1
+    ],
+    [
+      "know",
+      1
+    ],
+    [
+      "poorly",
+      1
+    ],
+    [
+      "mock",
+      1
+    ],
+    [
+      "drill",
+      1
+    ],
+    [
+      "spe",
+      1
+    ],
+    [
+      "slowly",
+      1
+    ],
+    [
+      "experience",
+      1
+    ],
+    [
+      "observe",
+      1
+    ],
+    [
+      "huge",
+      1
+    ],
+    [
+      "employe",
+      1
+    ],
+    [
+      "non-negotiable",
+      1
+    ],
+    [
+      "watch",
+      1
+    ],
+    [
+      "technical",
+      1
+    ],
+    [
+      "exist",
+      1
+    ],
+    [
+      "shortcut",
+      1
+    ],
+    [
+      "ethical",
+      1
+    ],
+    [
+      "consequenc",
+      1
+    ],
+    [
+      "thing",
+      1
+    ],
+    [
+      "standpoint",
+      1
+    ],
+    [
+      "crowd",
+      1
+    ],
+    [
+      "fmc",
+      1
+    ],
+    [
+      "powerful",
+      1
+    ],
+    [
+      "advantag",
+      1
+    ],
+    [
+      "family-orient",
+      1
+    ],
+    [
+      "mutually",
+      1
+    ],
+    [
+      "exclusive",
+      1
+    ],
+    [
+      "irresponsible",
+      1
+    ],
+    [
+      "setback",
+      1
+    ],
+    [
+      "map",
+      1
+    ],
+    [
+      "indicator",
+      1
+    ],
+    [
+      "manag",
+      1
+    ],
+    [
+      "final",
+      1
+    ],
+    [
+      "thought",
+      1
+    ],
+    [
+      "tempt",
+      1
+    ],
+    [
+      "principl",
+      1
+    ],
+    [
+      "please",
+      1
+    ],
+    [
+      "great",
+      1
+    ],
+    [
+      "clos",
+      1
+    ],
+    [
+      "categori",
+      1
+    ],
+    [
+      "exceptionally",
+      1
+    ],
+    [
+      "underperform",
+      1
+    ],
+    [
+      "notic",
+      1
+    ],
+    [
+      "jam",
+      1
+    ],
+    [
+      "hand",
+      1
+    ],
+    [
+      "newly",
+      1
+    ],
+    [
+      "struggl",
+      1
+    ],
+    [
+      "plus",
+      1
+    ],
+    [
+      "assort",
+      1
+    ],
+    [
+      "attractive",
+      1
+    ],
+    [
+      "caus",
+      1
+    ],
+    [
+      "invoic",
+      1
+    ],
+    [
+      "discourag",
+      1
+    ],
+    [
+      "intervention",
+      1
+    ],
+    [
+      "bottleneck",
+      1
+    ],
+    [
+      "streamlin",
+      1
+    ],
+    [
+      "activat",
+      1
+    ],
+    [
+      "accurately",
+      1
+    ],
+    [
+      "weight",
+      1
+    ],
+    [
+      "power",
+      1
+    ],
+    [
+      "late",
+      1
+    ],
+    [
+      "crucial",
+      1
+    ],
+    [
+      "lock",
+      1
+    ],
+    [
+      "least",
+      1
+    ],
+    [
+      "advance",
+      1
+    ],
+    [
+      "negotiate",
+      1
+    ],
+    [
+      "display",
+      1
+    ],
+    [
+      "bundle",
+      1
+    ],
+    [
+      "edition",
+      1
+    ],
+    [
+      "suggestion",
+      1
+    ],
+    [
+      "grew",
+      1
+    ],
+    [
+      "base",
+      1
+    ],
+    [
+      "small",
+      1
+    ],
+    [
+      "chance",
+      1
+    ],
+    [
+      "test",
+      1
+    ],
+    [
+      "imag",
+      1
+    ],
+    [
+      "stand",
+      1
+    ],
+    [
+      "experienc",
+      1
+    ],
+    [
+      "june",
+      1
+    ],
+    [
+      "high-mov",
+      1
+    ],
+    [
+      "agile",
+      1
+    ],
+    [
+      "seasonal",
+      1
+    ],
+    [
+      "viable",
+      1
+    ],
+    [
+      "solution",
+      1
+    ],
+    [
+      "selective",
+      1
+    ],
+    [
+      "experimental",
+      1
+    ],
+    [
+      "keep",
+      1
+    ],
+    [
+      "lean",
+      1
+    ],
+    [
+      "gross",
+      1
+    ],
+    [
+      "pass",
+      1
+    ],
+    [
+      "delicate",
+      1
+    ],
+    [
+      "instead",
+      1
+    ],
+    [
+      "grammage",
+      1
+    ],
+    [
+      "premiumization",
+      1
+    ],
+    [
+      "elasticity",
+      1
+    ],
+    [
+      "sku-level",
+      1
+    ],
+    [
+      "worth",
+      1
+    ],
+    [
+      "frequency",
+      1
+    ],
+    [
+      "low-the-line",
+      1
+    ],
+    [
+      "activiti",
+      1
+    ],
+    [
+      "impl",
+      1
+    ],
+    [
+      "younger",
+      1
+    ],
+    [
+      "sourc",
+      1
+    ],
+    [
+      "overcomplicat",
+      1
+    ],
+    [
+      "touch",
+      1
+    ],
+    [
+      "frontline",
+      1
+    ],
+    [
+      "underestimate",
+      1
+    ],
+    [
+      "well-inform",
+      1
+    ],
+    [
+      "modest",
+      1
+    ],
+    [
+      "summariz",
+      1
+    ],
+    [
+      "schedule",
+      1
+    ],
+    [
+      "follow-up",
+      1
+    ],
+    [
+      "sound",
+      1
+    ],
+    [
+      "productive",
+      1
+    ],
+    [
+      "step",
+      1
+    ],
+    [
+      "critically",
+      1
+    ],
+    [
+      "examine",
+      1
+    ],
+    [
+      "ultimately",
+      1
+    ],
+    [
+      "clarify",
+      1
+    ],
+    [
+      "path",
+      1
+    ],
+    [
+      "glad",
+      1
+    ],
+    [
+      "thin",
+      1
+    ],
+    [
+      "several",
+      1
+    ],
+    [
+      "sub-brand",
+      1
+    ],
+    [
+      "internally",
+      1
+    ],
+    [
+      "differenc",
+      1
+    ],
+    [
+      "perceive",
+      1
+    ],
+    [
+      "distinction",
+      1
+    ],
+    [
+      "complicate",
+      1
+    ],
+    [
+      "whether",
+      1
+    ],
+    [
+      "mainstream",
+      1
+    ],
+    [
+      "prun",
+      1
+    ],
+    [
+      "carefully",
+      1
+    ],
+    [
+      "remov",
+      1
+    ],
+    [
+      "low-impact",
+      1
+    ],
+    [
+      "social",
+      1
+    ],
+    [
+      "generat",
+      1
+    ],
+    [
+      "translation",
+      1
+    ],
+    [
+      "present",
+      1
+    ],
+    [
+      "inform",
+      1
+    ],
+    [
+      "novelty",
+      1
+    ],
+    [
+      "rarely",
+      1
+    ],
+    [
+      "defin",
+      1
+    ],
+    [
+      "idea",
+      1
+    ],
+    [
+      "mix",
+      1
+    ],
+    [
+      "exceed",
+      1
+    ],
+    [
+      "unmet",
+      1
+    ],
+    [
+      "purchas",
+      1
+    ],
+    [
+      "underperformance",
+      1
+    ],
+    [
+      "post-launch",
+      1
+    ],
+    [
+      "reminder",
+      1
+    ],
+    [
+      "finish",
+      1
+    ],
+    [
+      "proportionate",
+      1
+    ],
+    [
+      "choice",
+      1
+    ],
+    [
+      "stage",
+      1
+    ],
+    [
+      "kill",
+      1
+    ],
+    [
+      "criteria",
+      1
+    ],
+    [
+      "proportionately",
+      1
+    ],
+    [
+      "budget",
+      1
+    ],
+    [
+      "prioritization",
+      1
+    ],
+    [
+      "audience",
+      1
+    ],
+    [
+      "over-invest",
+      1
+    ],
+    [
+      "sufficient",
+      1
+    ],
+    [
+      "brand-build",
+      1
+    ],
+    [
+      "neglect",
+      1
+    ],
+    [
+      "promise",
+      1
+    ],
+    [
+      "agenci",
+      1
+    ],
+    [
+      "differently",
+      1
+    ],
+    [
+      "fragment",
+      1
+    ],
+    [
+      "memory",
+      1
+    ],
+    [
+      "playbook",
+      1
+    ],
+    [
+      "external",
+      1
+    ],
+    [
+      "participat",
+      1
+    ],
+    [
+      "evolv",
+      1
+    ],
+    [
+      "campaign-bas",
+      1
+    ],
+    [
+      "continuous",
+      1
+    ],
+    [
+      "relationship",
+      1
+    ],
+    [
+      "advantage",
+      1
+    ],
+    [
+      "harder",
+      1
+    ],
+    [
+      "replicate",
+      1
+    ],
+    [
+      "trade-off",
+      1
+    ],
+    [
+      "balanc",
+      1
+    ],
+    [
+      "includ",
+      1
+    ],
+    [
+      "cascad",
+      1
+    ],
+    [
+      "phase",
+      1
+    ],
+    [
+      "consumer-l",
+      1
+    ],
+    [
+      "enforce",
+      1
+    ],
+    [
+      "concrete",
+      1
+    ],
+    [
+      "forward-look",
+      1
+    ],
+    [
+      "cross-purpos",
+      1
+    ],
+    [
+      "overdue",
+      1
+    ],
+    [
+      "flood",
+      1
+    ],
+    [
+      "high",
+      1
+    ],
+    [
+      "on-the-ground",
+      1
+    ],
+    [
+      "goal",
+      1
+    ],
+    [
+      "deviate",
+      1
+    ],
+    [
+      "approv",
+      1
+    ],
+    [
+      "diminish",
+      1
+    ],
+    [
+      "hear",
+      1
+    ],
+    [
+      "threaten",
+      1
+    ],
+    [
+      "delist",
+      1
+    ],
+    [
+      "lever",
+      1
+    ],
+    [
+      "account",
+      1
+    ],
+    [
+      "stick",
+      1
+    ],
+    [
+      "rigidly",
+      1
+    ],
+    [
+      "los",
+      1
+    ],
+    [
+      "downstream",
+      1
+    ],
+    [
+      "resolve",
+      1
+    ],
+    [
+      "seal",
+      1
+    ],
+    [
+      "question",
+      1
+    ],
+    [
+      "improvis",
+      1
+    ],
+    [
+      "over-engineer",
+      1
+    ],
+    [
+      "simplification",
+      1
+    ],
+    [
+      "creative",
+      1
+    ],
+    [
+      "immediate",
+      1
+    ],
+    [
+      "traction",
+      1
+    ],
+    [
+      "proof",
+      1
+    ],
+    [
+      "firefight",
+      1
+    ],
+    [
+      "appear",
+      1
+    ],
+    [
+      "patience",
+      1
+    ],
+    [
+      "on-ground",
+      1
+    ],
+    [
+      "damag",
+      1
+    ],
+    [
+      "gather",
+      1
+    ],
+    [
+      "intend",
+      1
+    ],
+    [
+      "validate",
+      1
+    ],
+    [
+      "recommendation",
+      1
+    ],
+    [
+      "sensitivity",
+      1
+    ],
+    [
+      "pack-size",
+      1
+    ],
+    [
+      "standardiz",
+      1
+    ],
+    [
+      "deep",
+      1
+    ],
+    [
+      "contribut",
+      1
+    ],
+    [
+      "friction",
+      1
+    ],
+    [
+      "prevent",
+      1
+    ],
+    [
+      "disconnect",
+      1
+    ],
+    [
+      "distribute",
+      1
+    ],
+    [
+      "everywhere",
+      1
+    ],
+    [
+      "easier",
+      1
+    ],
+    [
+      "hoc",
+      1
+    ],
+    [
+      "reconcile",
+      1
+    ],
+    [
+      "controll",
+      1
+    ],
+    [
+      "spontaneous",
+      1
+    ],
+    [
+      "simple",
+      1
+    ],
+    [
+      "explainable",
+      1
+    ],
+    [
+      "improvisation",
+      1
+    ],
+    [
+      "preserv",
+      1
+    ],
+    [
+      "tied",
+      1
+    ],
+    [
+      "approve",
+      1
+    ],
+    [
+      "adjust",
+      1
+    ],
+    [
+      "workable",
+      1
+    ],
+    [
+      "flexibility",
+      1
+    ],
+    [
+      "misalign",
+      1
+    ],
+    [
+      "measurement",
+      1
+    ],
+    [
+      "adherence",
+      1
+    ],
+    [
+      "everyone",
+      1
+    ],
+    [
+      "evaluat",
+      1
+    ],
+    [
+      "transparency",
+      1
+    ],
+    [
+      "rationale",
+      1
+    ],
+    [
+      "regularly",
+      1
+    ],
+    [
+      "exception",
+      1
+    ],
+    [
+      "lesson",
+      1
+    ],
+    [
+      "collaboratively",
+      1
+    ],
+    [
+      "suffer",
+      1
+    ],
+    [
+      "refresher",
+      1
+    ],
+    [
+      "empower",
+      1
+    ],
+    [
+      "confidently",
+      1
+    ],
+    [
+      "handle",
+      1
+    ],
+    [
+      "objection",
+      1
+    ],
+    [
+      "practical",
+      1
+    ],
+    [
+      "deck",
+      1
+    ],
+    [
+      "first-hand",
+      1
+    ],
+    [
+      "empathy",
+      1
+    ],
+    [
+      "extremely",
+      1
+    ],
+    [
+      "reaction",
+      1
+    ],
+    [
+      "finally",
+      1
+    ],
+    [
+      "aim",
+      1
+    ],
+    [
+      "scor",
+      1
+    ],
+    [
+      "monitor",
+      1
+    ],
+    [
+      "simplifi",
+      1
+    ],
+    [
+      "loop",
+      1
+    ],
+    [
+      "ongo",
+      1
+    ],
+    [
+      "blame",
+      1
+    ],
+    [
+      "succe",
+      1
+    ],
+    [
+      "everyth",
+      1
+    ],
+    [
+      "nuanc",
+      1
+    ],
+    [
+      "sid",
+      1
+    ],
+    [
+      "turn",
+      1
+    ],
+    [
+      "elaboration",
+      1
+    ],
+    [
+      "rigorously",
+      1
+    ],
+    [
+      "together",
+      1
+    ],
+    [
+      "cohesive",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 7098,
+    "unique_words": 1299,
+    "duration_min": 55.3
+  }
+}

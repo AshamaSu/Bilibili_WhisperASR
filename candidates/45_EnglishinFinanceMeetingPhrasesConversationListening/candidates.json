@@ -1,0 +1,7213 @@
+{
+  "file_stem": "45_EnglishinFinanceMeetingPhrasesConversationListening",
+  "no": 45,
+  "title_keywords": [
+    [
+      "english",
+      "english"
+    ],
+    [
+      "finance",
+      "finance"
+    ],
+    [
+      "meeting",
+      "meet"
+    ],
+    [
+      "phrases",
+      "phras"
+    ],
+    [
+      "conversation",
+      "conversation"
+    ],
+    [
+      "listening",
+      "listen"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "risk",
+      78,
+      "A2"
+    ],
+    [
+      "project",
+      49,
+      "B1+"
+    ],
+    [
+      "cost",
+      48,
+      "A2"
+    ],
+    [
+      "initial",
+      39,
+      "B1+"
+    ],
+    [
+      "investment",
+      39,
+      "B1+"
+    ],
+    [
+      "market",
+      39,
+      "A2"
+    ],
+    [
+      "credit",
+      36,
+      "B1+"
+    ],
+    [
+      "good",
+      36,
+      "A2"
+    ],
+    [
+      "new",
+      36,
+      "A2"
+    ],
+    [
+      "npv",
+      36,
+      "B1+"
+    ],
+    [
+      "need",
+      33,
+      "A2"
+    ],
+    [
+      "scenario",
+      33,
+      "B1+"
+    ],
+    [
+      "contracts",
+      30,
+      "B1+"
+    ],
+    [
+      "morning",
+      30,
+      "B1+"
+    ],
+    [
+      "rate",
+      30,
+      "B1+"
+    ],
+    [
+      "currency",
+      27,
+      "B1+"
+    ],
+    [
+      "delay",
+      27,
+      "B1+"
+    ],
+    [
+      "revenue",
+      27,
+      "B1+"
+    ],
+    [
+      "us",
+      27,
+      "A2"
+    ],
+    [
+      "alpha",
+      26,
+      "B1+"
+    ],
+    [
+      "higher",
+      24,
+      "B1+"
+    ],
+    [
+      "team",
+      24,
+      "A2"
+    ],
+    [
+      "year",
+      22,
+      "A2"
+    ],
+    [
+      "confirms",
+      21,
+      "B1+"
+    ],
+    [
+      "launch",
+      21,
+      "B1+"
+    ],
+    [
+      "payment",
+      21,
+      "B1+"
+    ],
+    [
+      "return",
+      21,
+      "A2"
+    ],
+    [
+      "product",
+      19,
+      "B1+"
+    ],
+    [
+      "base",
+      18,
+      "B1+"
+    ],
+    [
+      "case",
+      18,
+      "A2"
+    ],
+    [
+      "discuss",
+      18,
+      "B1+"
+    ],
+    [
+      "drop",
+      18,
+      "A2"
+    ],
+    [
+      "financial",
+      18,
+      "B1+"
+    ],
+    [
+      "irr",
+      18,
+      "B1+"
+    ],
+    [
+      "pessimistic",
+      18,
+      "B1+"
+    ],
+    [
+      "positive",
+      18,
+      "B1+"
+    ],
+    [
+      "sales",
+      18,
+      "B1+"
+    ],
+    [
+      "target",
+      18,
+      "B1+"
+    ],
+    [
+      "euro",
+      16,
+      "B1+"
+    ],
+    [
+      "beta",
+      15,
+      "B1+"
+    ],
+    [
+      "capital",
+      15,
+      "B1+"
+    ],
+    [
+      "cash",
+      15,
+      "B1+"
+    ],
+    [
+      "expected",
+      15,
+      "A2"
+    ],
+    [
+      "flows",
+      15,
+      "B1+"
+    ],
+    [
+      "increase",
+      15,
+      "A2"
+    ],
+    [
+      "insurance",
+      15,
+      "B1+"
+    ],
+    [
+      "know",
+      15,
+      "A2"
+    ],
+    [
+      "major",
+      15,
+      "B1+"
+    ],
+    [
+      "plan",
+      15,
+      "A2"
+    ],
+    [
+      "significant",
+      15,
+      "B1+"
+    ],
+    [
+      "spend",
+      15,
+      "A2"
+    ],
+    [
+      "volume",
+      15,
+      "B1+"
+    ],
+    [
+      "high",
+      13,
+      "A2"
+    ],
+    [
+      "absolutely",
+      12,
+      "B1+"
+    ],
+    [
+      "accounts",
+      12,
+      "B1+"
+    ],
+    [
+      "also",
+      12,
+      "A2"
+    ],
+    [
+      "budgeting",
+      12,
+      "B1+"
+    ],
+    [
+      "competitive",
+      12,
+      "B1+"
+    ],
+    [
+      "concerns",
+      12,
+      "B1+"
+    ],
+    [
+      "controls",
+      12,
+      "B1+"
+    ],
+    [
+      "cover",
+      12,
+      "A2"
+    ],
+    [
+      "creative",
+      12,
+      "B1+"
+    ],
+    [
+      "due",
+      12,
+      "B1+"
+    ],
+    [
+      "focus",
+      12,
+      "B1+"
+    ],
+    [
+      "forecast",
+      12,
+      "B1+"
+    ],
+    [
+      "forward",
+      12,
+      "A2"
+    ],
+    [
+      "given",
+      12,
+      "A2"
+    ],
+    [
+      "growth",
+      12,
+      "B1+"
+    ],
+    [
+      "immediate",
+      12,
+      "B1+"
+    ],
+    [
+      "look",
+      12,
+      "A2"
+    ],
+    [
+      "media",
+      12,
+      "B1+"
+    ],
+    [
+      "next",
+      12,
+      "A2"
+    ],
+    [
+      "production",
+      12,
+      "B1+"
+    ],
+    [
+      "reduction",
+      12,
+      "B1+"
+    ],
+    [
+      "significantly",
+      12,
+      "B1+"
+    ],
+    [
+      "specific",
+      12,
+      "B1+"
+    ],
+    [
+      "strategy",
+      12,
+      "B1+"
+    ],
+    [
+      "terms",
+      12,
+      "A2"
+    ],
+    [
+      "two",
+      12,
+      "A2"
+    ],
+    [
+      "value",
+      12,
+      "B1+"
+    ],
+    [
+      "implement",
+      11,
+      "B1+"
+    ],
+    [
+      "yen",
+      10,
+      "B1+"
+    ],
+    [
+      "advantage",
+      9,
+      "B1+"
+    ],
+    [
+      "agency",
+      9,
+      "B1+"
+    ],
+    [
+      "agree",
+      9,
+      "A2"
+    ],
+    [
+      "analysis",
+      9,
+      "B1+"
+    ],
+    [
+      "areas",
+      9,
+      "A2"
+    ],
+    [
+      "assessment",
+      9,
+      "B1+"
+    ],
+    [
+      "assets",
+      9,
+      "B1+"
+    ],
+    [
+      "bank",
+      9,
+      "A2"
+    ],
+    [
+      "beyond",
+      9,
+      "B1+"
+    ],
+    [
+      "board",
+      9,
+      "A2"
+    ],
+    [
+      "buyer",
+      9,
+      "B1+"
+    ],
+    [
+      "campaign",
+      9,
+      "B1+"
+    ],
+    [
+      "certainly",
+      9,
+      "B1+"
+    ],
+    [
+      "clients",
+      9,
+      "B1+"
+    ],
+    [
+      "company's",
+      9,
+      "B1+"
+    ],
+    [
+      "completely",
+      9,
+      "B1+"
+    ],
+    [
+      "current",
+      9,
+      "B1+"
+    ],
+    [
+      "customers",
+      9,
+      "B1+"
+    ],
+    [
+      "default",
+      9,
+      "B1+"
+    ],
+    [
+      "development",
+      9,
+      "B1+"
+    ],
+    [
+      "digital",
+      9,
+      "B1+"
+    ],
+    [
+      "directly",
+      9,
+      "B1+"
+    ],
+    [
+      "engineering",
+      9,
+      "B1+"
+    ],
+    [
+      "estimated",
+      9,
+      "B1+"
+    ],
+    [
+      "exchange",
+      9,
+      "B1+"
+    ],
+    [
+      "expansion",
+      9,
+      "B1+"
+    ],
+    [
+      "exposure",
+      9,
+      "B1+"
+    ],
+    [
+      "fall",
+      9,
+      "A2"
+    ],
+    [
+      "figure",
+      9,
+      "B1+"
+    ],
+    [
+      "flagged",
+      9,
+      "B1+"
+    ],
+    [
+      "flexibility",
+      9,
+      "B1+"
+    ],
+    [
+      "future",
+      9,
+      "A2"
+    ],
+    [
+      "goes",
+      9,
+      "A2"
+    ],
+    [
+      "hit",
+      9,
+      "A2"
+    ],
+    [
+      "however",
+      9,
+      "A2"
+    ],
+    [
+      "hurdle",
+      9,
+      "B1+"
+    ],
+    [
+      "impact",
+      9,
+      "B1+"
+    ],
+    [
+      "increased",
+      9,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "good morning",
+      "count": 30,
+      "example": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets.",
+      "t": 12.37
+    },
+    {
+      "text": "credit risk",
+      "count": 15,
+      "example": "on three key areas, currency risk, credit risk, and transit risk.",
+      "t": 40.7
+    },
+    {
+      "text": "base case",
+      "count": 12,
+      "example": "Excellent. Let's start with the base case.",
+      "t": 433.6
+    },
+    {
+      "text": "pessimistic scenario",
+      "count": 12,
+      "example": "Let's examine the pessimistic scenario.",
+      "t": 484.92
+    },
+    {
+      "text": "project beta",
+      "count": 12,
+      "example": "than Project Beta, the product line upgrade.",
+      "t": 744.56
+    },
+    {
+      "text": "local currency",
+      "count": 9,
+      "example": "in local currency.",
+      "t": 59.44
+    },
+    {
+      "text": "cash flows",
+      "count": 9,
+      "example": "What is your professional recommendation for stabilizing our cash flows over the next six",
+      "t": 87.58
+    },
+    {
+      "text": "exchange rate",
+      "count": 9,
+      "example": "They allow us to lock in an exchange rate today for a future Euro-yen transaction,",
+      "t": 102.9
+    },
+    {
+      "text": "trade credit",
+      "count": 9,
+      "example": "Secondly, we must secure our position with trade credit insurance.",
+      "t": 175.05
+    },
+    {
+      "text": "credit insurance",
+      "count": 9,
+      "example": "Secondly, we must secure our position with trade credit insurance.",
+      "t": 175.05
+    }
+  ],
+  "phrases": [
+    {
+      "text": "good morning",
+      "count": 30,
+      "example": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets.",
+      "t": 12.37
+    },
+    {
+      "text": "credit risk",
+      "count": 15,
+      "example": "on three key areas, currency risk, credit risk, and transit risk.",
+      "t": 40.7
+    },
+    {
+      "text": "base case",
+      "count": 12,
+      "example": "Excellent. Let's start with the base case.",
+      "t": 433.6
+    },
+    {
+      "text": "pessimistic scenario",
+      "count": 12,
+      "example": "Let's examine the pessimistic scenario.",
+      "t": 484.92
+    },
+    {
+      "text": "project beta",
+      "count": 12,
+      "example": "than Project Beta, the product line upgrade.",
+      "t": 744.56
+    },
+    {
+      "text": "local currency",
+      "count": 9,
+      "example": "in local currency.",
+      "t": 59.44
+    },
+    {
+      "text": "cash flows",
+      "count": 9,
+      "example": "What is your professional recommendation for stabilizing our cash flows over the next six",
+      "t": 87.58
+    },
+    {
+      "text": "exchange rate",
+      "count": 9,
+      "example": "They allow us to lock in an exchange rate today for a future Euro-yen transaction,",
+      "t": 102.9
+    },
+    {
+      "text": "trade credit",
+      "count": 9,
+      "example": "Secondly, we must secure our position with trade credit insurance.",
+      "t": 175.05
+    },
+    {
+      "text": "credit insurance",
+      "count": 9,
+      "example": "Secondly, we must secure our position with trade credit insurance.",
+      "t": 175.05
+    },
+    {
+      "text": "trade credit insurance",
+      "count": 9,
+      "example": "Secondly, we must secure our position with trade credit insurance.",
+      "t": 175.05
+    },
+    {
+      "text": "hurdle rate",
+      "count": 9,
+      "example": "What does the net present value, or NPV, look like at our hurdle rate of 12%?",
+      "t": 436.6
+    },
+    {
+      "text": "initial investment",
+      "count": 9,
+      "example": "For the base case, with an initial investment of $4.5 million, the projected NPV stands at a positive $820,000.",
+      "t": 442.6
+    },
+    {
+      "text": "payback period",
+      "count": 9,
+      "example": "How does that align with our payback period target?",
+      "t": 465.6
+    },
+    {
+      "text": "launch delay",
+      "count": 9,
+      "example": "Launch delay is an operational risk we can attempt to mitigate.",
+      "t": 539.8
+    },
+    {
+      "text": "project alpha",
+      "count": 9,
+      "example": "Project Alpha has a significantly higher NPV, confirming it would generate more value",
+      "t": 738.24
+    },
+    {
+      "text": "forward contracts",
+      "count": 7,
+      "example": "I propose we engage with our bank to secure six-month forward contracts to cover approximately",
+      "t": 113.72
+    },
+    {
+      "text": "six months",
+      "count": 7,
+      "example": "for the initial six months,",
+      "t": 577.86
+    },
+    {
+      "text": "morning aisha",
+      "count": 6,
+      "example": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets.",
+      "t": 12.37
+    },
+    {
+      "text": "good morning aisha",
+      "count": 6,
+      "example": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets.",
+      "t": 12.37
+    },
+    {
+      "text": "morning samir",
+      "count": 6,
+      "example": "Good morning, Samir. Absolutely. I've reviewed the financials, and while the growth in sales",
+      "t": 28.46
+    },
+    {
+      "text": "good morning samir",
+      "count": 6,
+      "example": "Good morning, Samir. Absolutely. I've reviewed the financials, and while the growth in sales",
+      "t": 28.46
+    },
+    {
+      "text": "need to get",
+      "count": 6,
+      "example": "is impressive, you're right. The exposure has also increased. We need to get a firm grip",
+      "t": 34.82
+    },
+    {
+      "text": "let's start",
+      "count": 6,
+      "example": "Exactly. Let's start with the most immediate threat, currency fluctuation. Our contracts",
+      "t": 46.38
+    },
+    {
+      "text": "operating costs",
+      "count": 6,
+      "example": "are primarily denominated in euros and yen, but our operating costs here in Sri Lanka are",
+      "t": 53.18
+    },
+    {
+      "text": "translation risk",
+      "count": 6,
+      "example": "That's a classic translation risk for an export business.",
+      "t": 67.38
+    },
+    {
+      "text": "six-month forward",
+      "count": 6,
+      "example": "I propose we engage with our bank to secure six-month forward contracts to cover approximately",
+      "t": 113.72
+    },
+    {
+      "text": "let's pivot",
+      "count": 6,
+      "example": "Now, let's pivot to the second major issue, credit risk.",
+      "t": 134.24
+    },
+    {
+      "text": "sales team",
+      "count": 6,
+      "example": "The sales team has secured those two significant new customers overseas, but their credit histories",
+      "t": 138.4
+    },
+    {
+      "text": "accounts receivable",
+      "count": 6,
+      "example": "The accounts receivable team flagged the same concern.",
+      "t": 146.17
+    },
+    {
+      "text": "receivable team",
+      "count": 6,
+      "example": "The accounts receivable team flagged the same concern.",
+      "t": 146.17
+    },
+    {
+      "text": "accounts receivable team",
+      "count": 6,
+      "example": "The accounts receivable team flagged the same concern.",
+      "t": 146.17
+    },
+    {
+      "text": "credit scoring",
+      "count": 6,
+      "example": "Firstly, we need to run a more rigorous in-depth credit scoring assessment through an international",
+      "t": 165.43
+    },
+    {
+      "text": "scoring assessment",
+      "count": 6,
+      "example": "Firstly, we need to run a more rigorous in-depth credit scoring assessment through an international",
+      "t": 165.43
+    },
+    {
+      "text": "credit scoring assessment",
+      "count": 6,
+      "example": "Firstly, we need to run a more rigorous in-depth credit scoring assessment through an international",
+      "t": 165.43
+    },
+    {
+      "text": "balance sheet",
+      "count": 6,
+      "example": "It essentially transfers the credit risk off our balance sheet.",
+      "t": 200.41
+    },
+    {
+      "text": "risk transference",
+      "count": 6,
+      "example": "It's a cost, but it's an investment in risk transference.",
+      "t": 208.85
+    },
+    {
+      "text": "it's an investment",
+      "count": 6,
+      "example": "It's a cost, but it's an investment in risk transference.",
+      "t": 208.85
+    },
+    {
+      "text": "payment terms",
+      "count": 6,
+      "example": "Beyond insurance, what about payment terms?",
+      "t": 213.0
+    },
+    {
+      "text": "new clients",
+      "count": 6,
+      "example": "For new clients with no established payment track record, we should insist on either",
+      "t": 217.36
+    },
+    {
+      "text": "advance payment",
+      "count": 6,
+      "example": "a partial advance payment, say 20% upon contract signing, or sign...",
+      "t": 221.6
+    },
+    {
+      "text": "risk mitigation",
+      "count": 6,
+      "example": "We absolutely need to implement risk mitigation strategies before confirming those contracts.",
+      "t": 353.22
+    },
+    {
+      "text": "cash flow",
+      "count": 6,
+      "example": "Good morning, absolutely. I've compiled the initial cash flow projections",
+      "t": 424.6
+    },
+    {
+      "text": "sensitivity analysis",
+      "count": 6,
+      "example": "and the sensitivity analysis based on the three scenarios we discussed.",
+      "t": 429.6
+    },
+    {
+      "text": "rate of return",
+      "count": 6,
+      "example": "The internal rate of return, or IRR, is estimated at 18.5%.",
+      "t": 452.6
+    },
+    {
+      "text": "market penetration",
+      "count": 6,
+      "example": "The pessimistic scenario models a slower than expected market penetration, combined with",
+      "t": 531.28
+    },
+    {
+      "text": "operational risk",
+      "count": 6,
+      "example": "Launch delay is an operational risk we can attempt to mitigate.",
+      "t": 539.8
+    },
+    {
+      "text": "removing the launch",
+      "count": 6,
+      "example": "What is the impact of removing the launch delay while keeping the 15% volume reduction?",
+      "t": 543.56
+    },
+    {
+      "text": "million investment",
+      "count": 6,
+      "example": "Factoring in the total $5 million investment,",
+      "t": 594.78
+    },
+    {
+      "text": "npv drops",
+      "count": 6,
+      "example": "the base case NPV drops from $820,000 to $450,000.",
+      "t": 597.98
+    },
+    {
+      "text": "expected return",
+      "count": 6,
+      "example": "That's a significant drop in expected return, but it buys us greater certainty and lowers",
+      "t": 607.7
+    },
+    {
+      "text": "cost controls",
+      "count": 6,
+      "example": "We can define those as stage 2 cost controls.",
+      "t": 635.86
+    },
+    {
+      "text": "marketing spend",
+      "count": 6,
+      "example": "They could include a freeze on non-essential marketing spend and renegotiation of our",
+      "t": 639.1
+    },
+    {
+      "text": "optimistic scenario",
+      "count": 6,
+      "example": "Now let's pivot to the optimistic scenario.",
+      "t": 689.6
+    },
+    {
+      "text": "return on investment",
+      "count": 6,
+      "example": "The larger NPV for alpha confirms the massive potential return on investment we estimated",
+      "t": 750.19
+    },
+    {
+      "text": "engineering team",
+      "count": 6,
+      "example": "Project alpha requires substantial upfront development and a larger engineering team.",
+      "t": 771.09
+    },
+    {
+      "text": "higher cost",
+      "count": 6,
+      "example": "This translates directly into a higher cost overruns and schedule delays, which could",
+      "t": 777.23
+    },
+    {
+      "text": "forecast shows",
+      "count": 6,
+      "example": "capital and higher risk. My forecast shows the payback period for alpha is almost",
+      "t": 837.78
+    },
+    {
+      "text": "line item",
+      "count": 6,
+      "example": "I'm happy to go over the line item increases for the next fiscal year.",
+      "t": 942.92
+    },
+    {
+      "text": "cost control",
+      "count": 6,
+      "example": "Given the company's current focus on strict cost control targets and rising production costs,",
+      "t": 961.49
+    },
+    {
+      "text": "revenue growth",
+      "count": 6,
+      "example": "to the company's 10% revenue growth target. This isn't maintenance spending,",
+      "t": 978.13
+    },
+    {
+      "text": "creative production",
+      "count": 6,
+      "example": "creative production, and platform advertising. I see the planned increase in digital media spend",
+      "t": 1012.93
+    },
+    {
+      "text": "media spend",
+      "count": 6,
+      "example": "creative production, and platform advertising. I see the planned increase in digital media spend",
+      "t": 1012.93
+    },
+    {
+      "text": "creative costs",
+      "count": 6,
+      "example": "Let's look at the Creative Costs line item.",
+      "t": 1051.92
+    },
+    {
+      "text": "euro and yen",
+      "count": 5,
+      "example": "75% of our forecasted euro and yen receivables.",
+      "t": 120.36
+    },
+    {
+      "text": "project nova",
+      "count": 5,
+      "example": "Good morning. I wanted to discuss the Capital Budgeting Proposal for Project NOVA.",
+      "t": 413.57
+    },
+    {
+      "text": "alpha requires",
+      "count": 5,
+      "example": "Project alpha requires substantial upfront development and a larger engineering team.",
+      "t": 771.09
+    },
+    {
+      "text": "market segment",
+      "count": 5,
+      "example": "Being an early mover in that market segment, small retail, gives Novatech a huge competitive",
+      "t": 827.41
+    },
+    {
+      "text": "foreign currency",
+      "count": 4,
+      "example": "known foreign currency receivables.",
+      "t": 289.15
+    },
+    {
+      "text": "initial rate",
+      "count": 4,
+      "example": "$50,000. The initial rate of return inches up to 12.3%.",
+      "t": 556.66
+    },
+    {
+      "text": "profitability even",
+      "count": 4,
+      "example": "This provides a clear path to profitability even under adverse conditions.",
+      "t": 672.06
+    },
+    {
+      "text": "competitive advantage",
+      "count": 4,
+      "example": "advantage for long-term growth. Competitive advantage at a higher cost of",
+      "t": 833.09
+    },
+    {
+      "text": "financial risks",
+      "count": 3,
+      "example": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets.",
+      "t": 12.37
+    },
+    {
+      "text": "we're facing",
+      "count": 3,
+      "example": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets.",
+      "t": 12.37
+    },
+    {
+      "text": "global harvest",
+      "count": 3,
+      "example": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets.",
+      "t": 12.37
+    },
+    {
+      "text": "harvest exports",
+      "count": 3,
+      "example": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets.",
+      "t": 12.37
+    },
+    {
+      "text": "new international",
+      "count": 3,
+      "example": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets.",
+      "t": 12.37
+    },
+    {
+      "text": "international markets",
+      "count": 3,
+      "example": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets.",
+      "t": 12.37
+    },
+    {
+      "text": "thanks for meeting",
+      "count": 3,
+      "example": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets.",
+      "t": 12.37
+    },
+    {
+      "text": "today to discuss",
+      "count": 3,
+      "example": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets.",
+      "t": 12.37
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen. Practice. Speak. Practice makes you perfect."
+    },
+    {
+      "t": 12.37,
+      "text": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks we're facing with the expansion of global harvest exports into new international markets."
+    },
+    {
+      "t": 25.46,
+      "text": "I know you've had a chance to look at the preliminary reports."
+    },
+    {
+      "t": 28.46,
+      "text": "Good morning, Samir. Absolutely. I've reviewed the financials, and while the growth in sales"
+    },
+    {
+      "t": 34.82,
+      "text": "is impressive, you're right. The exposure has also increased. We need to get a firm grip"
+    },
+    {
+      "t": 40.7,
+      "text": "on three key areas, currency risk, credit risk, and transit risk."
+    },
+    {
+      "t": 46.38,
+      "text": "Exactly. Let's start with the most immediate threat, currency fluctuation. Our contracts"
+    },
+    {
+      "t": 53.18,
+      "text": "are primarily denominated in euros and yen, but our operating costs here in Sri Lanka are"
+    },
+    {
+      "t": 59.44,
+      "text": "in local currency."
+    },
+    {
+      "t": 61.46,
+      "text": "The recent weakening of the euro is already impacting our profit margins significantly."
+    },
+    {
+      "t": 67.38,
+      "text": "That's a classic translation risk for an export business."
+    },
+    {
+      "t": 70.72,
+      "text": "The drop in the euro's value means less local currency revenue for the same foreign"
+    },
+    {
+      "t": 75.46,
+      "text": "currency price."
+    },
+    {
+      "t": 77.1,
+      "text": "We need to move away from simply reacting to the market and establish a formal hedging"
+    },
+    {
+      "t": 81.66,
+      "text": "strategy."
+    },
+    {
+      "t": 82.66,
+      "text": "I agree completely."
+    },
+    {
+      "t": 84.42,
+      "text": "I've been exploring a few hedging instruments."
+    },
+    {
+      "t": 87.58,
+      "text": "What is your professional recommendation for stabilizing our cash flows over the next six"
+    },
+    {
+      "t": 92.66,
+      "text": "months?"
+    },
+    {
+      "t": 93.66,
+      "text": "Given the nature of our sales cycle and the relatively predictable revenue stream, forward"
+    },
+    {
+      "t": 98.86,
+      "text": "contracts would be the most straightforward and effective tool."
+    },
+    {
+      "t": 102.9,
+      "text": "They allow us to lock in an exchange rate today for a future Euro-yen transaction,"
+    },
+    {
+      "t": 108.66,
+      "text": "essentially removing the exchange rate uncertainty."
+    },
+    {
+      "t": 111.66,
+      "text": "That sounds like a solid plan."
+    },
+    {
+      "t": 113.72,
+      "text": "I propose we engage with our bank to secure six-month forward contracts to cover approximately"
+    },
+    {
+      "t": 120.36,
+      "text": "75% of our forecasted euro and yen receivables."
+    },
+    {
+      "t": 125.0,
+      "text": "This provides stability while leaving a small portion open for potential favorable movements."
+    },
+    {
+      "t": 130.76,
+      "text": "That is a well-judged mitigation level, Samir."
+    },
+    {
+      "t": 134.24,
+      "text": "Now, let's pivot to the second major issue, credit risk."
+    },
+    {
+      "t": 138.4,
+      "text": "The sales team has secured those two significant new customers overseas, but their credit histories"
+    },
+    {
+      "t": 143.22,
+      "text": "are limited."
+    },
+    {
+      "t": 146.17,
+      "text": "The accounts receivable team flagged the same concern."
+    },
+    {
+      "t": 149.75,
+      "text": "The potential revenue is huge, but the danger of delayed payments or worse default is a"
+    },
+    {
+      "t": 155.87,
+      "text": "genuine worry."
+    },
+    {
+      "t": 157.47,
+      "text": "We can't afford a major write-off so early into this expansion phase."
+    },
+    {
+      "t": 161.95,
+      "text": "My immediate recommendation is a two-pronged approach."
+    },
+    {
+      "t": 165.43,
+      "text": "Firstly, we need to run a more rigorous in-depth credit scoring assessment through an international"
+    },
+    {
+      "t": 171.57,
+      "text": "credit agency going beyond the preliminary checks."
+    },
+    {
+      "t": 175.05,
+      "text": "Secondly, we must secure our position with trade credit insurance."
+    },
+    {
+      "t": 179.69,
+      "text": "Trade credit insurance."
+    },
+    {
+      "t": 181.77,
+      "text": "Can you elaborate on how that would work in this scenario?"
+    },
+    {
+      "t": 184.89,
+      "text": "Certainly."
+    },
+    {
+      "t": 185.89,
+      "text": "It protects us from both protracted default, where the buyer takes too long to pay,"
+    },
+    {
+      "t": 191.09,
+      "text": "and insolvency, where the buyer goes bankrupt."
+    },
+    {
+      "t": 194.29,
+      "text": "If a covered loss occurs, the insurer compensates us for a significant percentage of the unpaid"
+    },
+    {
+      "t": 199.41,
+      "text": "invoice."
+    },
+    {
+      "t": 200.41,
+      "text": "It essentially transfers the credit risk off our balance sheet."
+    },
+    {
+      "t": 204.13,
+      "text": "That level of security is necessary for such high-value new contracts."
+    },
+    {
+      "t": 208.85,
+      "text": "It's a cost, but it's an investment in risk transference."
+    },
+    {
+      "t": 213.0,
+      "text": "Beyond insurance, what about payment terms?"
+    },
+    {
+      "t": 215.92,
+      "text": "We must tighten them."
+    },
+    {
+      "t": 217.36,
+      "text": "For new clients with no established payment track record, we should insist on either"
+    },
+    {
+      "t": 221.6,
+      "text": "a partial advance payment, say 20% upon contract signing, or sign..."
+    },
+    {
+      "t": 226.86,
+      "text": "Good morning, Aisha."
+    },
+    {
+      "t": 228.54,
+      "text": "I'm glad we could schedule this follow-up after reviewing the risk assessment matrix we"
+    },
+    {
+      "t": 233.66,
+      "text": "discussed last week."
+    },
+    {
+      "t": 235.9,
+      "text": "Good morning, Samir."
+    },
+    {
+      "t": 237.54,
+      "text": "The data confirms our initial concerns, particularly regarding the volatility in the currency"
+    },
+    {
+      "t": 244.22,
+      "text": "markets and the high credit risk associated with the new overseas accounts."
+    },
+    {
+      "t": 250.26,
+      "text": "Let's focus on the currency exposure first."
+    },
+    {
+      "t": 254.02,
+      "text": "As you know, the fluctuation in the euro and yen against the local currency is eroding our"
+    },
+    {
+      "t": 260.9,
+      "text": "profitability."
+    },
+    {
+      "t": 263.09,
+      "text": "Even small shifts are having a significant impact on our earnings."
+    },
+    {
+      "t": 268.01,
+      "text": "Correct."
+    },
+    {
+      "t": 269.09,
+      "text": "The immediate priority is locking in a predictable exchange rate for our future cash flows."
+    },
+    {
+      "t": 276.21,
+      "text": "Have you contacted the bank regarding the forward contracts we proposed?"
+    },
+    {
+      "t": 280.65,
+      "text": "Yes, I have."
+    },
+    {
+      "t": 282.31,
+      "text": "The bank confirmed they can structure a six-month forward agreement covering up to 80% of our"
+    },
+    {
+      "t": 289.15,
+      "text": "known foreign currency receivables."
+    },
+    {
+      "t": 292.55,
+      "text": "My initial proposal was 75%."
+    },
+    {
+      "t": 296.19,
+      "text": "Do you think 80% is an appropriate hedge ratio?"
+    },
+    {
+      "t": 300.31,
+      "text": "Given the current market instability, increasing the coverage to 80% seems prudent."
+    },
+    {
+      "t": 306.93,
+      "text": "It provides maximum certainty for our budgeting process without completely eliminating the"
+    },
+    {
+      "t": 312.91,
+      "text": "chance to benefit from an unexpected favorable movement."
+    },
+    {
+      "t": 316.99,
+      "text": "I'll execute those contracts immediately then."
+    },
+    {
+      "t": 321.01,
+      "text": "That addresses the translation risk."
+    },
+    {
+      "t": 324.02,
+      "text": "Next, the credit risk raised by the two new large customers."
+    },
+    {
+      "t": 329.18,
+      "text": "The promise of high revenue is offset by their limited payment history."
+    },
+    {
+      "t": 334.42,
+      "text": "This is critical."
+    },
+    {
+      "t": 336.18,
+      "text": "The accounts receivable team has completed the detailed credit scoring assessment as requested."
+    },
+    {
+      "t": 342.78,
+      "text": "Both buyers fall into a medium high risk bracket due to short operational history and"
+    },
+    {
+      "t": 349.2,
+      "text": "high leverage."
+    },
+    {
+      "t": 350.74,
+      "text": "That confirms our fears."
+    },
+    {
+      "t": 353.22,
+      "text": "We absolutely need to implement risk mitigation strategies before confirming those contracts."
+    },
+    {
+      "t": 360.46,
+      "text": "Did you prepare a draft proposal for trade credit insurance?"
+    },
+    {
+      "t": 364.62,
+      "text": "Yes, I've sourced quotes for a policy that would cover both the new clients."
+    },
+    {
+      "t": 370.86,
+      "text": "The premium is justifiable as it secures us against both protracted non-payment and"
+    },
+    {
+      "t": 376.98,
+      "text": "outright insolvency."
+    },
+    {
+      "t": 379.34,
+      "text": "It's an essential risk transference mechanism."
+    },
+    {
+      "t": 382.58,
+      "text": "I agree."
+    },
+    {
+      "t": 383.94,
+      "text": "It protects our balance sheet from a catastrophic client default."
+    },
+    {
+      "t": 388.69,
+      "text": "Beyond the insurance, we also discussed implementing stricter payment terms."
+    },
+    {
+      "t": 394.41,
+      "text": "How should we communicate this to the sales team without jeopardizing the deals?"
+    },
+    {
+      "t": 399.81,
+      "text": "We need to frame it as standard risk governance for high-value initial orders."
+    },
+    {
+      "t": 405.77,
+      "text": "We should insist on a minimum 20% advance payment upon order confirmation."
+    },
+    {
+      "t": 411.57,
+      "text": "Additionally, the remaining balance..."
+    },
+    {
+      "t": 413.57,
+      "text": "Good morning. I wanted to discuss the Capital Budgeting Proposal for Project NOVA."
+    },
+    {
+      "t": 419.07,
+      "text": "We need to finalize our financial strategy before presenting to the board next week."
+    },
+    {
+      "t": 424.6,
+      "text": "Good morning, absolutely. I've compiled the initial cash flow projections"
+    },
+    {
+      "t": 429.6,
+      "text": "and the sensitivity analysis based on the three scenarios we discussed."
+    },
+    {
+      "t": 433.6,
+      "text": "Excellent. Let's start with the base case."
+    },
+    {
+      "t": 436.6,
+      "text": "What does the net present value, or NPV, look like at our hurdle rate of 12%?"
+    },
+    {
+      "t": 442.6,
+      "text": "For the base case, with an initial investment of $4.5 million, the projected NPV stands at a positive $820,000."
+    },
+    {
+      "t": 452.6,
+      "text": "The internal rate of return, or IRR, is estimated at 18.5%."
+    },
+    {
+      "t": 458.6,
+      "text": "An 18.5% IRR is certainly promising, especially with a 12% hurdle rate."
+    },
+    {
+      "t": 465.6,
+      "text": "How does that align with our payback period target?"
+    },
+    {
+      "t": 469.16,
+      "text": "The standard payback period is within four years."
+    },
+    {
+      "t": 472.2,
+      "text": "Project NOVA is projected to recover its initial investment"
+    },
+    {
+      "t": 475.48,
+      "text": "in approximately 3.4 years under the base scenario."
+    },
+    {
+      "t": 478.96,
+      "text": "That's well within our acceptable range."
+    },
+    {
+      "t": 481.72,
+      "text": "However, we must not overlook the risk exposure."
+    },
+    {
+      "t": 484.92,
+      "text": "Let's examine the pessimistic scenario."
+    },
+    {
+      "t": 487.9,
+      "text": "In the pessimistic scenario,"
+    },
+    {
+      "t": 490.08,
+      "text": "which assumes a 15% reduction in annual revenue"
+    },
+    {
+      "t": 493.52,
+      "text": "and a 5% increase in variable costs, the projected MPV drops to a negative $150,000."
+    },
+    {
+      "t": 501.28,
+      "text": "That puts us in a loss position, which means the project is value-destructive under those"
+    },
+    {
+      "t": 506.36,
+      "text": "conditions."
+    },
+    {
+      "t": 507.52,
+      "text": "What happens to the IRR in that case?"
+    },
+    {
+      "t": 510.44,
+      "text": "The IRR falls sharply to 10.5%."
+    },
+    {
+      "t": 514.08,
+      "text": "Since this is below our 12% hurdle rate, it confirms the project's non-viability"
+    },
+    {
+      "t": 518.9,
+      "text": "if those assumptions materialize."
+    },
+    {
+      "t": 521.24,
+      "text": "We need to focus on the cost drivers that lead to that 15% drop."
+    },
+    {
+      "t": 525.4,
+      "text": "Is the revenue decrease due to volume or is it a pricing pressure issue?"
+    },
+    {
+      "t": 530.12,
+      "text": "Primarily volume."
+    },
+    {
+      "t": 531.28,
+      "text": "The pessimistic scenario models a slower than expected market penetration, combined with"
+    },
+    {
+      "t": 536.36,
+      "text": "a six-month delay in the initial product launch."
+    },
+    {
+      "t": 539.8,
+      "text": "Launch delay is an operational risk we can attempt to mitigate."
+    },
+    {
+      "t": 543.56,
+      "text": "What is the impact of removing the launch delay while keeping the 15% volume reduction?"
+    },
+    {
+      "t": 549.4,
+      "text": "me run that calculation. Removing the launch delay, the NPV shifts to a marginally positive"
+    },
+    {
+      "t": 556.66,
+      "text": "$50,000. The initial rate of return inches up to 12.3%."
+    },
+    {
+      "t": 562.7,
+      "text": "That's a very fine margin, but it highlights the critical nature of the launch timeline."
+    },
+    {
+      "t": 567.7,
+      "text": "It also tells us that contingency planning for the initial rollout must be robust."
+    },
+    {
+      "t": 572.86,
+      "text": "Agreed. We should allocate an additional $500,000 in the contingency budget for"
+    },
+    {
+      "t": 577.86,
+      "text": "for the initial six months,"
+    },
+    {
+      "t": 579.62,
+      "text": "earmarked specifically for unforeseen delays"
+    },
+    {
+      "t": 582.26,
+      "text": "or immediate competitive response."
+    },
+    {
+      "t": 584.38,
+      "text": "Let's factor that 500,000"
+    },
+    {
+      "t": 586.3,
+      "text": "into the initial investment for all scenarios."
+    },
+    {
+      "t": 589.1,
+      "text": "This is about managing downside risk."
+    },
+    {
+      "t": 591.78,
+      "text": "How does that new investment affect the base case?"
+    },
+    {
+      "t": 594.78,
+      "text": "Factoring in the total $5 million investment,"
+    },
+    {
+      "t": 597.98,
+      "text": "the base case NPV drops from $820,000 to $450,000."
+    },
+    {
+      "t": 604.62,
+      "text": "The IRR is now 15.1%."
+    },
+    {
+      "t": 607.7,
+      "text": "That's a significant drop in expected return, but it buys us greater certainty and lowers"
+    },
+    {
+      "t": 612.98,
+      "text": "our risk profile."
+    },
+    {
+      "t": 614.3,
+      "text": "I can defend that tradeoff to the board."
+    },
+    {
+      "t": 617.06,
+      "text": "And for the pessimistic case, with the full $5 million investment, the NPV is now at a"
+    },
+    {
+      "t": 623.06,
+      "text": "negative $525,000."
+    },
+    {
+      "t": 626.54,
+      "text": "That negative figure is now more severe."
+    },
+    {
+      "t": 629.18,
+      "text": "We must prepare specific cost-saving measures that are activated only if we hit those"
+    },
+    {
+      "t": 633.82,
+      "text": "pessimistic revenue targets."
+    },
+    {
+      "t": 635.86,
+      "text": "We can define those as stage 2 cost controls."
+    },
+    {
+      "t": 639.1,
+      "text": "They could include a freeze on non-essential marketing spend and renegotiation of our"
+    },
+    {
+      "t": 644.0,
+      "text": "annual software licensing contracts."
+    },
+    {
+      "t": 646.84,
+      "text": "These measures would reduce year 2 operating costs by an estimated 10%."
+    },
+    {
+      "t": 651.7,
+      "text": "Let's quantify that recovery."
+    },
+    {
+      "t": 653.62,
+      "text": "If we implement a 10% operating cost reduction in year 2 of the pessimistic scenario, how"
+    },
+    {
+      "t": 659.24,
+      "text": "does the NPV change?"
+    },
+    {
+      "t": 662.08,
+      "text": "those cost controls, the NPV becomes a positive $120,000, and the IRR is 13.8%."
+    },
+    {
+      "t": 670.52,
+      "text": "Now we're talking."
+    },
+    {
+      "t": 672.06,
+      "text": "This provides a clear path to profitability even under adverse conditions."
+    },
+    {
+      "t": 676.42,
+      "text": "It demonstrates that the management team has a viable exit strategy."
+    },
+    {
+      "t": 680.46,
+      "text": "This is a crucial finding."
+    },
+    {
+      "t": 682.12,
+      "text": "The board will want to see that mitigating action is quantifiable and tied to specific"
+    },
+    {
+      "t": 687.04,
+      "text": "performance thresholds."
+    },
+    {
+      "t": 688.6,
+      "text": "Precisely."
+    },
+    {
+      "t": 689.6,
+      "text": "Now let's pivot to the optimistic scenario."
+    },
+    {
+      "t": 692.74,
+      "text": "What happens if everything goes better than expected?"
+    },
+    {
+      "t": 695.98,
+      "text": "The optimistic scenario assumes a 20% higher sales volume due to a rapid adoption rate"
+    },
+    {
+      "t": 701.82,
+      "text": "and minimal competitive interference."
+    },
+    {
+      "t": 703.7,
+      "text": "Good morning, Priya."
+    },
+    {
+      "t": 705.62,
+      "text": "Thanks for making time to walk through the final evaluation of these two investment"
+    },
+    {
+      "t": 710.02,
+      "text": "projects."
+    },
+    {
+      "t": 711.52,
+      "text": "I know we both have strong perspectives, but we need to land on a unified recommendation."
+    },
+    {
+      "t": 718.6,
+      "text": "Good morning, Arjun."
+    },
+    {
+      "t": 720.4,
+      "text": "Absolutely."
+    },
+    {
+      "t": 721.4,
+      "text": "I'm keen to hear your final take on the numbers, especially after our last discussion on Project"
+    },
+    {
+      "t": 726.84,
+      "text": "Alpha, the cloud inventory system, and the projected volatility."
+    },
+    {
+      "t": 732.0,
+      "text": "Right."
+    },
+    {
+      "t": 733.4,
+      "text": "From a purely financial standpoint, the difference is clear."
+    },
+    {
+      "t": 738.24,
+      "text": "Project Alpha has a significantly higher NPV, confirming it would generate more value"
+    },
+    {
+      "t": 744.56,
+      "text": "than Project Beta, the product line upgrade."
+    },
+    {
+      "t": 748.55,
+      "text": "I saw that."
+    },
+    {
+      "t": 750.19,
+      "text": "The larger NPV for alpha confirms the massive potential return on investment we estimated"
+    },
+    {
+      "t": 756.09,
+      "text": "from the market studies."
+    },
+    {
+      "t": 757.99,
+      "text": "But what concerns you given the positive NPV?"
+    },
+    {
+      "t": 761.79,
+      "text": "The risk-adjusted return."
+    },
+    {
+      "t": 764.49,
+      "text": "While the expected return is higher, my sensitivity analysis flags major concerns."
+    },
+    {
+      "t": 771.09,
+      "text": "Project alpha requires substantial upfront development and a larger engineering team."
+    },
+    {
+      "t": 777.23,
+      "text": "This translates directly into a higher cost overruns and schedule delays, which could"
+    },
+    {
+      "t": 782.99,
+      "text": "completely erode that NPV advantage."
+    },
+    {
+      "t": 786.55,
+      "text": "I acknowledge the higher operational risk, Arjun."
+    },
+    {
+      "t": 789.91,
+      "text": "We are entering a new product space, but I believe focusing too heavily on short-term"
+    },
+    {
+      "t": 795.43,
+      "text": "financial safety with Project Beta would be a strategic mistake."
+    },
+    {
+      "t": 800.79,
+      "text": "Why do you view it as a mistake?"
+    },
+    {
+      "t": 803.31,
+      "text": "Project Beta offers a guaranteed, positive, steady cash flow and a quick launch utilizing"
+    },
+    {
+      "t": 809.67,
+      "text": "existing resources."
+    },
+    {
+      "t": 811.75,
+      "text": "It's the definition of a safe, profitable bet."
+    },
+    {
+      "t": 815.89,
+      "text": "Because the tech industry is pivoting hard toward automated, cloud-based solutions."
+    },
+    {
+      "t": 821.93,
+      "text": "Project Alpha isn't just a product."
+    },
+    {
+      "t": 824.41,
+      "text": "It's a strategic positioning move."
+    },
+    {
+      "t": 827.41,
+      "text": "Being an early mover in that market segment, small retail, gives Novatech a huge competitive"
+    },
+    {
+      "t": 833.09,
+      "text": "advantage for long-term growth. Competitive advantage at a higher cost of"
+    },
+    {
+      "t": 837.78,
+      "text": "capital and higher risk. My forecast shows the payback period for alpha is almost"
+    },
+    {
+      "t": 844.1,
+      "text": "twice as long as betas. That ties up capital for a longer duration limiting"
+    },
+    {
+      "t": 849.5,
+      "text": "our flexibility. But consider the market expansion. Project beta simply"
+    },
+    {
+      "t": 855.4,
+      "text": "upgrades our current customer base. Alpha opens up an entirely new market"
+    },
+    {
+      "t": 861.12,
+      "text": "segment. If we miss this window, a competitor will surely step in and our future competitiveness"
+    },
+    {
+      "t": 867.66,
+      "text": "will suffer."
+    },
+    {
+      "t": 869.16,
+      "text": "I agree that the market is shifting. That's why I ran a deeper analysis on the expected"
+    },
+    {
+      "t": 874.56,
+      "text": "cash flows under a scenario of development delay. If the alpha launch is delayed by"
+    },
+    {
+      "t": 880.46,
+      "text": "six months, the NPV drops significantly, though it remains positive. It just validates"
+    },
+    {
+      "t": 887.16,
+      "text": "that we have zero margin for error on execution."
+    },
+    {
+      "t": 891.08,
+      "text": "That brings us back to the risk mitigation plan."
+    },
+    {
+      "t": 893.84,
+      "text": "We can address that execution risk directly."
+    },
+    {
+      "t": 896.8,
+      "text": "What if we structure the investment into phased tranches?"
+    },
+    {
+      "t": 900.08,
+      "text": "We release capital for development only upon hitting"
+    },
+    {
+      "t": 903.04,
+      "text": "specific rigorous performance checkpoints."
+    },
+    {
+      "t": 906.4,
+      "text": "That's a sensible approach to managing"
+    },
+    {
+      "t": 908.4,
+      "text": "the implementation risk."
+    },
+    {
+      "t": 910.24,
+      "text": "We can use the initial phase to onboard the core"
+    },
+    {
+      "t": 913.52,
+      "text": "engineering team and validate the minimum viable product MVP design. But what about the raw material"
+    },
+    {
+      "t": 920.72,
+      "text": "volatility, the human capital? Alpha requires us to quickly hire and integrate specialized cloud"
+    },
+    {
+      "t": 927.6,
+      "text": "engineers. Our human resources strategy. Good morning, Maya. Thanks for coming in to discuss the"
+    },
+    {
+      "t": 936.12,
+      "text": "Q1 budget forecast. I appreciate you walking me through the numbers. Good morning, Ravi."
+    },
+    {
+      "t": 942.92,
+      "text": "I'm happy to go over the line item increases for the next fiscal year."
+    },
+    {
+      "t": 949.2,
+      "text": "I know the overall figure is noticeably fire."
+    },
+    {
+      "t": 954.27,
+      "text": "It is."
+    },
+    {
+      "t": 955.49,
+      "text": "The draft forecast shows a 15% increase in the total marketing spend."
+    },
+    {
+      "t": 961.49,
+      "text": "Given the company's current focus on strict cost control targets and rising production costs,"
+    },
+    {
+      "t": 968.49,
+      "text": "I need a deeper understanding of this jump."
+    },
+    {
+      "t": 971.81,
+      "text": "I fully understand the pressure on costs. However, this increase is directly linked"
+    },
+    {
+      "t": 978.13,
+      "text": "to the company's 10% revenue growth target. This isn't maintenance spending,"
+    },
+    {
+      "t": 983.57,
+      "text": "it's an investment into major Q2 initiatives. Can you elaborate on those initiatives?"
+    },
+    {
+      "t": 990.96,
+      "text": "Specifically, how do they justify an increase that is disproportionate to the anticipated 10%"
+    },
+    {
+      "t": 997.44,
+      "text": "revenue growth. Certainly, the biggest allocation is for the product relaunch and the major"
+    },
+    {
+      "t": 1005.41,
+      "text": "digital campaign planned for Q2. These require significant funds for media placements, high-quality"
+    },
+    {
+      "t": 1012.93,
+      "text": "creative production, and platform advertising. I see the planned increase in digital media spend"
+    },
+    {
+      "t": 1019.84,
+      "text": "here, it's up 22% year over year. While I recognize the need to drive awareness, we"
+    },
+    {
+      "t": 1027.72,
+      "text": "must ensure that every dollar is optimized for return on investment."
+    },
+    {
+      "t": 1033.44,
+      "text": "We've modeled the ROI based on last year's conversion rates, and the enhanced targeting"
+    },
+    {
+      "t": 1039.16,
+      "text": "capabilities of the new campaign should provide greater efficiency. Without this"
+    },
+    {
+      "t": 1044.68,
+      "text": "media volume, we simply won't achieve the necessary market penetration to hit the 10%"
+    },
+    {
+      "t": 1050.92,
+      "text": "sales target."
+    },
+    {
+      "t": 1051.92,
+      "text": "Let's look at the Creative Costs line item."
+    },
+    {
+      "t": 1055.58,
+      "text": "This is also up significantly, close to 18%."
+    },
+    {
+      "t": 1060.08,
+      "text": "Is there an opportunity to streamline the production process here?"
+    },
+    {
+      "t": 1065.05,
+      "text": "We are using a new agency for the relaunch assets, which accounts for the higher"
+    },
+    {
+      "t": 1070.45,
+      "text": "initial rate."
+    },
+    {
+      "t": 1071.93,
+      "text": "However, I do believe there's some flexibility in this area."
+    },
+    {
+      "t": 1077.85,
+      "text": "Flexibility is exactly what I'm looking for, Maya."
+    },
+    {
+      "t": 1080.83,
+      "text": "The finance team's objective is to maintain financial discipline."
+    },
+    {
+      "t": 1085.45,
+      "text": "Are there specific areas within creative production where we could negotiate better"
+    },
+    {
+      "t": 1089.77,
+      "text": "terms or perhaps leverage existing internal assets?"
+    },
+    {
+      "t": 1094.8,
+      "text": "That's a fair challenge, Ravi."
+    },
+    {
+      "t": 1096.52,
+      "text": "I've already flagged the agency contract terms for reevaluation."
+    },
+    {
+      "t": 1101.6,
+      "text": "We might be able to reduce the creative costs by 3% or 4% through stronger negotiation on"
+    },
+    {
+      "t": 1108.68,
+      "text": "fees and bundling the digital assets into one package."
+    },
+    {
+      "t": 1114.02,
+      "text": "That 3-4% reduction would be helpful, but it still leaves a considerable gap against"
+    },
+    {
+      "t": 1119.6,
+      "text": "our cost control mandate."
+    },
+    {
+      "t": 1122.06,
+      "text": "We need to get closer to a figure that the company can sustainably support."
+    },
+    {
+      "t": 1127.61,
+      "text": "Cutting the media spend is extremely difficult."
+    },
+    {
+      "t": 1131.09,
+      "text": "If we reduce that allocation, we risk the entire campaign falling flat due to insufficient"
+    },
+    {
+      "t": 1137.29,
+      "text": "frequency and reach."
+    },
+    {
+      "t": 1139.21,
+      "text": "That would make the whole investment unproductive."
+    },
+    {
+      "t": 1145.25,
+      "text": "Good morning, Aisha."
+    },
+    {
+      "t": 1147.26,
+      "text": "Thanks for meeting with me today to discuss the financial risks we're facing with the"
+    },
+    {
+      "t": 1151.38,
+      "text": "expansion of global harvest exports into new international markets."
+    },
+    {
+      "t": 1156.5,
+      "text": "I know you've had a chance to look at the preliminary reports."
+    },
+    {
+      "t": 1160.1,
+      "text": "Good morning, Samir."
+    },
+    {
+      "t": 1161.78,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1162.78,
+      "text": "I've reviewed the financials and while the growth in sales is impressive, you're right."
+    },
+    {
+      "t": 1167.7,
+      "text": "The exposure has also increased."
+    },
+    {
+      "t": 1170.38,
+      "text": "We need to get a firm grip on three key areas, currency risk, credit risk, and transit risk."
+    },
+    {
+      "t": 1177.34,
+      "text": "Exactly."
+    },
+    {
+      "t": 1178.82,
+      "text": "Let's start with the most immediate threat, currency fluctuation."
+    },
+    {
+      "t": 1183.5,
+      "text": "Our contracts are primarily denominated in euros and yen, but our operating costs"
+    },
+    {
+      "t": 1189.1,
+      "text": "here in Sri Lanka are in local currency."
+    },
+    {
+      "t": 1192.46,
+      "text": "The recent weakening of the euro is already impacting our profit margins significantly."
+    },
+    {
+      "t": 1198.42,
+      "text": "That's a classic translation risk for an export business."
+    },
+    {
+      "t": 1201.72,
+      "text": "The drop in the euro's value means less local currency revenue for the same foreign currency"
+    },
+    {
+      "t": 1207.02,
+      "text": "price."
+    },
+    {
+      "t": 1208.1,
+      "text": "We need to move away from simply reacting to the market and establish a formal hedging"
+    },
+    {
+      "t": 1212.66,
+      "text": "strategy."
+    },
+    {
+      "t": 1213.66,
+      "text": "I agree completely."
+    },
+    {
+      "t": 1215.46,
+      "text": "I've been exploring a few hedging instruments."
+    },
+    {
+      "t": 1218.62,
+      "text": "What is your professional recommendation for stabilizing our cash flows over the next six"
+    },
+    {
+      "t": 1223.7,
+      "text": "months?"
+    },
+    {
+      "t": 1224.7,
+      "text": "Given the nature of our sales cycle and the relatively predictable revenue stream, forward"
+    },
+    {
+      "t": 1229.9,
+      "text": "contracts would be the most straightforward and effective tool."
+    },
+    {
+      "t": 1233.94,
+      "text": "They allow us to lock in an exchange rate today for a future Euro Yen transaction, essentially"
+    },
+    {
+      "t": 1240.02,
+      "text": "removing the exchange rate uncertainty."
+    },
+    {
+      "t": 1242.7,
+      "text": "That sounds like a solid plan."
+    },
+    {
+      "t": 1244.78,
+      "text": "I propose we engage with our bank to secure six-month forward contracts to cover approximately"
+    },
+    {
+      "t": 1251.38,
+      "text": "75% of our forecasted euro and yen receivables."
+    },
+    {
+      "t": 1256.06,
+      "text": "This provides stability while leaving a small portion open for potential favorable movements."
+    },
+    {
+      "t": 1261.82,
+      "text": "That is a well-judged mitigation level, Samir."
+    },
+    {
+      "t": 1265.22,
+      "text": "Now, let's pivot to the second major issue, credit risk."
+    },
+    {
+      "t": 1269.42,
+      "text": "The sales team has secured those two significant new customers overseas, but their credit"
+    },
+    {
+      "t": 1273.82,
+      "text": "Histories are limited."
+    },
+    {
+      "t": 1277.09,
+      "text": "The accounts receivable team flag the same concern."
+    },
+    {
+      "t": 1280.73,
+      "text": "The potential revenue is huge,"
+    },
+    {
+      "t": 1282.89,
+      "text": "but the danger of delayed payments or worse default"
+    },
+    {
+      "t": 1286.49,
+      "text": "is a genuine worry."
+    },
+    {
+      "t": 1288.41,
+      "text": "We can't afford a major write-off"
+    },
+    {
+      "t": 1290.37,
+      "text": "so early into this expansion phase."
+    },
+    {
+      "t": 1292.89,
+      "text": "My immediate recommendation is a two-pronged approach."
+    },
+    {
+      "t": 1296.69,
+      "text": "Firstly, we need to run a more rigorous,"
+    },
+    {
+      "t": 1299.37,
+      "text": "in-depth credit scoring assessment"
+    },
+    {
+      "t": 1301.57,
+      "text": "through an international credit agency"
+    },
+    {
+      "t": 1303.81,
+      "text": "going beyond the preliminary checks."
+    },
+    {
+      "t": 1306.09,
+      "text": "Secondly, we must secure our position"
+    },
+    {
+      "t": 1308.25,
+      "text": "with trade credit insurance."
+    },
+    {
+      "t": 1310.29,
+      "text": "Trade credit insurance."
+    },
+    {
+      "t": 1312.61,
+      "text": "Can you elaborate on how that would work in this scenario?"
+    },
+    {
+      "t": 1315.77,
+      "text": "Certainly."
+    },
+    {
+      "t": 1316.73,
+      "text": "It protects us from both protracted default,"
+    },
+    {
+      "t": 1319.77,
+      "text": "where the buyer takes too long to pay,"
+    },
+    {
+      "t": 1321.93,
+      "text": "and insolvency, where the buyer goes bankrupt."
+    },
+    {
+      "t": 1325.17,
+      "text": "If a covered loss occurs,"
+    },
+    {
+      "t": 1326.73,
+      "text": "the insurer compensates us for a significant percentage"
+    },
+    {
+      "t": 1329.69,
+      "text": "of the unpaid invoice."
+    },
+    {
+      "t": 1331.45,
+      "text": "It essentially transfers the credit risk"
+    },
+    {
+      "t": 1333.45,
+      "text": "off our balance sheet."
+    },
+    {
+      "t": 1335.13,
+      "text": "That level of security is necessary for such high-value new contracts."
+    },
+    {
+      "t": 1339.85,
+      "text": "It's a cost, but it's an investment in risk transference."
+    },
+    {
+      "t": 1343.99,
+      "text": "Beyond insurance, what about payment terms?"
+    },
+    {
+      "t": 1346.91,
+      "text": "We must tighten them."
+    },
+    {
+      "t": 1348.35,
+      "text": "For new clients with no established payment track record, we should insist on either"
+    },
+    {
+      "t": 1352.59,
+      "text": "a partial advance payment, say 20% upon contract signing, or sign..."
+    },
+    {
+      "t": 1357.82,
+      "text": "Good morning, Aisha."
+    },
+    {
+      "t": 1359.54,
+      "text": "I'm glad we could schedule this follow-up after reviewing the risk assessment matrix"
+    },
+    {
+      "t": 1364.46,
+      "text": "we discussed last week."
+    },
+    {
+      "t": 1366.9,
+      "text": "Good morning, Samir."
+    },
+    {
+      "t": 1368.54,
+      "text": "The data confirms our initial concerns, particularly regarding the volatility in the currency markets"
+    },
+    {
+      "t": 1376.22,
+      "text": "and the high credit risk associated with the new overseas accounts."
+    },
+    {
+      "t": 1381.22,
+      "text": "Let's focus on the currency exposure first."
+    },
+    {
+      "t": 1384.98,
+      "text": "As you know, the fluctuation in the euro and yen against the local currency is eroding our"
+    },
+    {
+      "t": 1391.88,
+      "text": "profitability."
+    },
+    {
+      "t": 1394.06,
+      "text": "Even small shifts are having a significant impact on our earnings."
+    },
+    {
+      "t": 1398.9,
+      "text": "Correct."
+    },
+    {
+      "t": 1400.06,
+      "text": "The immediate priority is locking in a predictable exchange rate for our future cash flows."
+    },
+    {
+      "t": 1407.18,
+      "text": "Have you contacted the bank regarding the forward contracts we proposed?"
+    },
+    {
+      "t": 1411.58,
+      "text": "Yes, I have."
+    },
+    {
+      "t": 1413.26,
+      "text": "The bank confirmed they can structure a six-month forward agreement covering up to 80% of our"
+    },
+    {
+      "t": 1420.1,
+      "text": "known foreign currency receivables."
+    },
+    {
+      "t": 1423.52,
+      "text": "My initial proposal was 75%."
+    },
+    {
+      "t": 1427.14,
+      "text": "Do you think 80% is an appropriate hedge ratio?"
+    },
+    {
+      "t": 1431.26,
+      "text": "Given the current market instability, increasing the coverage to 80% seems prudent."
+    },
+    {
+      "t": 1437.9,
+      "text": "It provides maximum certainty for our budgeting process without completely eliminating the"
+    },
+    {
+      "t": 1443.9,
+      "text": "chance to benefit from an unexpected favorable movement."
+    },
+    {
+      "t": 1447.98,
+      "text": "I'll execute those contracts immediately then."
+    },
+    {
+      "t": 1451.99,
+      "text": "That addresses the translation risk."
+    },
+    {
+      "t": 1454.89,
+      "text": "Next, the credit risk raised by the two new large customers."
+    },
+    {
+      "t": 1460.17,
+      "text": "The promise of high revenue is offset by their limited payment history."
+    },
+    {
+      "t": 1465.39,
+      "text": "This is critical."
+    },
+    {
+      "t": 1467.17,
+      "text": "The accounts receivable team has completed the detailed credit scoring assessment as requested."
+    },
+    {
+      "t": 1473.77,
+      "text": "Both buyers fall into a medium high risk bracket due to short operational history and high leverage."
+    },
+    {
+      "t": 1481.75,
+      "text": "That confirms our fears."
+    },
+    {
+      "t": 1484.21,
+      "text": "We absolutely need to implement risk mitigation strategies before confirming those contracts."
+    },
+    {
+      "t": 1491.44,
+      "text": "Did you prepare a draft proposal for trade credit insurance?"
+    },
+    {
+      "t": 1495.8,
+      "text": "Yes, I've sourced quotes for a policy that would cover both the new clients."
+    },
+    {
+      "t": 1501.8,
+      "text": "The premium is justifiable as it secures us against both protracted non-payment and outright"
+    },
+    {
+      "t": 1508.4,
+      "text": "insolvency."
+    },
+    {
+      "t": 1509.4,
+      "text": "It's an essential risk transference mechanism."
+    },
+    {
+      "t": 1513.52,
+      "text": "I agree."
+    },
+    {
+      "t": 1514.88,
+      "text": "It protects our balance sheet from a catastrophic client default."
+    },
+    {
+      "t": 1519.96,
+      "text": "Beyond the insurance, we also discussed implementing stricter payment terms."
+    },
+    {
+      "t": 1525.36,
+      "text": "How should we communicate this to the sales team without jeopardizing the deals?"
+    },
+    {
+      "t": 1530.8,
+      "text": "We need to frame it as standard risk governance for high-value initial orders."
+    },
+    {
+      "t": 1536.72,
+      "text": "We should insist on a minimum 20% advance payment upon order confirmation."
+    },
+    {
+      "t": 1542.6,
+      "text": "Additionally, the remaining balance..."
+    },
+    {
+      "t": 1544.64,
+      "text": "Good morning."
+    },
+    {
+      "t": 1545.64,
+      "text": "I wanted to discuss the capital budgeting proposal for Project NOVA."
+    },
+    {
+      "t": 1550.28,
+      "text": "We need to finalize our financial strategy before presenting to the board next week."
+    },
+    {
+      "t": 1555.91,
+      "text": "Good morning."
+    },
+    {
+      "t": 1556.91,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1557.91,
+      "text": "I've compiled the initial cash flow projections and the sensitivity analysis based on the"
+    },
+    {
+      "t": 1562.79,
+      "text": "three scenarios we discussed."
+    },
+    {
+      "t": 1564.87,
+      "text": "Excellent."
+    },
+    {
+      "t": 1566.07,
+      "text": "Let's start with the base case."
+    },
+    {
+      "t": 1568.01,
+      "text": "What does the net present value or NPV look like at our hurdle rate of 12%?"
+    },
+    {
+      "t": 1574.15,
+      "text": "For the base case, with an initial investment of $4.5 million, the projected NPV stands"
+    },
+    {
+      "t": 1581.15,
+      "text": "at a positive $820,000."
+    },
+    {
+      "t": 1584.41,
+      "text": "The internal rate of return, or IRR, is estimated at 18.5%."
+    },
+    {
+      "t": 1590.07,
+      "text": "An 18.5% IRR is certainly promising, especially with a 12% hurdle rate."
+    },
+    {
+      "t": 1596.71,
+      "text": "How does that align with our payback period target?"
+    },
+    {
+      "t": 1600.23,
+      "text": "The standard payback period is within four years."
+    },
+    {
+      "t": 1603.51,
+      "text": "Magnova is projected to recover its initial investment in approximately 3.4 years under"
+    },
+    {
+      "t": 1608.75,
+      "text": "the base scenario."
+    },
+    {
+      "t": 1610.25,
+      "text": "That's well within our acceptable range."
+    },
+    {
+      "t": 1612.47,
+      "text": "However, we must not overlook the risk exposure."
+    },
+    {
+      "t": 1616.15,
+      "text": "Let's examine the pessimistic scenario."
+    },
+    {
+      "t": 1619.07,
+      "text": "In the pessimistic scenario, which assumes a 15% reduction in annual revenue and"
+    },
+    {
+      "t": 1624.67,
+      "text": "a 5% increase in variable costs, the projected MPV drops to a negative $150,000."
+    },
+    {
+      "t": 1632.31,
+      "text": "puts us in a loss position, which means the project is value destructive under those conditions."
+    },
+    {
+      "t": 1638.51,
+      "text": "What happens to the IRR in that case?"
+    },
+    {
+      "t": 1641.43,
+      "text": "The IRR falls sharply to 10.5%."
+    },
+    {
+      "t": 1645.07,
+      "text": "Since this is below our 12% hurdle rate, it confirms the project's non-viability if those"
+    },
+    {
+      "t": 1650.35,
+      "text": "assumptions materialize."
+    },
+    {
+      "t": 1652.23,
+      "text": "We need to focus on the cost drivers that lead to that 15% drop."
+    },
+    {
+      "t": 1656.39,
+      "text": "Is the revenue decrease due to volume or is it a pricing pressure issue?"
+    },
+    {
+      "t": 1660.75,
+      "text": "Primarily volume."
+    },
+    {
+      "t": 1662.27,
+      "text": "The pessimistic scenario models a slower than expected market penetration, combined with"
+    },
+    {
+      "t": 1667.35,
+      "text": "a six-month delay in the initial product launch."
+    },
+    {
+      "t": 1670.79,
+      "text": "Launch delay is an operational risk we can attempt to mitigate."
+    },
+    {
+      "t": 1674.55,
+      "text": "What is the impact of removing the launch delay while keeping the 15% volume reduction?"
+    },
+    {
+      "t": 1680.39,
+      "text": "Let me run that calculation."
+    },
+    {
+      "t": 1683.47,
+      "text": "Removing the launch delay, the NPV shifts to a marginally positive $50,000."
+    },
+    {
+      "t": 1689.71,
+      "text": "initial rate of return inches up to 12.3%. That's a very fine margin, but it"
+    },
+    {
+      "t": 1695.55,
+      "text": "highlights the critical nature of the launch timeline. It also tells us that"
+    },
+    {
+      "t": 1699.55,
+      "text": "contingency planning for the initial rollout must be robust. Agreed. We should"
+    },
+    {
+      "t": 1705.11,
+      "text": "allocate an additional $500,000 in the contingency budget for the initial"
+    },
+    {
+      "t": 1709.35,
+      "text": "six months, earmarked specifically for unforeseen delays or immediate"
+    },
+    {
+      "t": 1713.83,
+      "text": "competitive response. Let's factor that $500,000 into the initial investment"
+    },
+    {
+      "t": 1718.55,
+      "text": "for all scenarios. This is about managing downside risk. How does that new investment"
+    },
+    {
+      "t": 1724.11,
+      "text": "affect the base case?"
+    },
+    {
+      "t": 1725.95,
+      "text": "Factoring in the total $5 million investment, the base case NPV drops from $820,000 to $450,000."
+    },
+    {
+      "t": 1735.67,
+      "text": "The IRR is now 15.1%."
+    },
+    {
+      "t": 1738.99,
+      "text": "That's a significant drop in expected return, but it buys us greater certainty and lowers"
+    },
+    {
+      "t": 1743.99,
+      "text": "our risk profile. I can defend that tradeoff to the board."
+    },
+    {
+      "t": 1748.03,
+      "text": "And for the pessimistic case, with the full $5 million investment, the NPV is now at"
+    },
+    {
+      "t": 1754.01,
+      "text": "a negative $525,000."
+    },
+    {
+      "t": 1757.53,
+      "text": "That negative figure is now more severe."
+    },
+    {
+      "t": 1760.17,
+      "text": "We must prepare specific cost-saving measures that are activated only if we hit those pessimistic"
+    },
+    {
+      "t": 1765.59,
+      "text": "revenue targets."
+    },
+    {
+      "t": 1766.85,
+      "text": "We can define those as stage two cost controls."
+    },
+    {
+      "t": 1770.09,
+      "text": "They could include a freeze on non-essential marketing spend and renegotiation of our"
+    },
+    {
+      "t": 1774.97,
+      "text": "annual software licensing contracts."
+    },
+    {
+      "t": 1777.85,
+      "text": "These measures would reduce year 2 operating costs by an estimated 10%."
+    },
+    {
+      "t": 1782.69,
+      "text": "Let's quantify that recovery."
+    },
+    {
+      "t": 1784.61,
+      "text": "If we implement a 10% operating cost reduction in year 2 of the pessimistic scenario, how"
+    },
+    {
+      "t": 1790.25,
+      "text": "does the NPV change?"
+    },
+    {
+      "t": 1793.07,
+      "text": "Implementing those cost controls, the NPV becomes a positive $120,000, and the IRR"
+    },
+    {
+      "t": 1799.71,
+      "text": "is 13.8%."
+    },
+    {
+      "t": 1801.51,
+      "text": "Now we're talking."
+    },
+    {
+      "t": 1803.07,
+      "text": "This provides a clear path to profitability even under adverse conditions."
+    },
+    {
+      "t": 1807.43,
+      "text": "It demonstrates that the management team has a viable exit strategy."
+    },
+    {
+      "t": 1811.47,
+      "text": "This is a crucial finding."
+    },
+    {
+      "t": 1813.13,
+      "text": "The board will want to see that mitigating action is quantifiable and tied to specific"
+    },
+    {
+      "t": 1818.03,
+      "text": "performance thresholds."
+    },
+    {
+      "t": 1819.43,
+      "text": "Precisely."
+    },
+    {
+      "t": 1820.43,
+      "text": "Now, let's pivot to the optimistic scenario."
+    },
+    {
+      "t": 1823.75,
+      "text": "What happens if everything goes better than expected?"
+    },
+    {
+      "t": 1827.01,
+      "text": "The optimistic scenario assumes a 20% higher sales volume due to a rapid adoption rate"
+    },
+    {
+      "t": 1832.83,
+      "text": "and minimal competitive interference."
+    },
+    {
+      "t": 1834.75,
+      "text": "Good morning, Priya."
+    },
+    {
+      "t": 1836.65,
+      "text": "Thanks for making time to walk through the final evaluation of these two investment projects."
+    },
+    {
+      "t": 1842.53,
+      "text": "I know we both have strong perspectives, but we need to land on a unified recommendation."
+    },
+    {
+      "t": 1849.63,
+      "text": "Good morning, Arjun."
+    },
+    {
+      "t": 1851.55,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1852.55,
+      "text": "I'm keen to hear your final take on the numbers, especially after our last discussion"
+    },
+    {
+      "t": 1857.11,
+      "text": "on Project Alpha, the cloud inventory system, and the projected volatility."
+    },
+    {
+      "t": 1863.19,
+      "text": "Right. From a purely financial standpoint, the difference is clear. Project Alpha has"
+    },
+    {
+      "t": 1870.37,
+      "text": "a significantly higher NPV, confirming it would generate more value than Project Beta,"
+    },
+    {
+      "t": 1877.19,
+      "text": "the product line upgrade."
+    },
+    {
+      "t": 1879.57,
+      "text": "I saw that. The larger NPV for Alpha confirms the massive potential return on investment"
+    },
+    {
+      "t": 1886.37,
+      "text": "we estimated from the market studies. But what concerns you given the positive NPV?"
+    },
+    {
+      "t": 1892.8,
+      "text": "risk-adjusted return. While the expected return is higher, my sensitivity analysis flags major"
+    },
+    {
+      "t": 1900.3,
+      "text": "concerns. Project Alpha requires substantial upfront development and a larger engineering team."
+    },
+    {
+      "t": 1907.98,
+      "text": "This translates directly into a higher cost overruns and schedule delays,"
+    },
+    {
+      "t": 1913.5,
+      "text": "which could completely erode that NPV advantage."
+    },
+    {
+      "t": 1916.7,
+      "text": "I acknowledge the higher operational risk, Arjun. We're entering a new product space,"
+    },
+    {
+      "t": 1922.7,
+      "text": "but I believe focusing too heavily on short-term financial safety with Project Beta would be a"
+    },
+    {
+      "t": 1929.66,
+      "text": "strategic mistake. Why do you view it as a mistake? Project Beta offers a guaranteed positive,"
+    },
+    {
+      "t": 1936.98,
+      "text": "steady cash flow and a quick launch utilizing existing resources. It's the definition of a"
+    },
+    {
+      "t": 1943.94,
+      "text": "a safe, profitable bet."
+    },
+    {
+      "t": 1946.53,
+      "text": "Because the tech industry is pivoting hard"
+    },
+    {
+      "t": 1949.45,
+      "text": "toward automated cloud-based solutions."
+    },
+    {
+      "t": 1952.53,
+      "text": "Project Alpha isn't just a product."
+    },
+    {
+      "t": 1955.29,
+      "text": "It's a strategic positioning move."
+    },
+    {
+      "t": 1958.21,
+      "text": "Being an early mover in that market segment,"
+    },
+    {
+      "t": 1960.69,
+      "text": "small retail, gives Nova Tech a huge competitive advantage"
+    },
+    {
+      "t": 1964.69,
+      "text": "for long-term growth."
+    },
+    {
+      "t": 1966.49,
+      "text": "Competitive advantage at a higher cost of capital"
+    },
+    {
+      "t": 1969.77,
+      "text": "and higher risk."
+    },
+    {
+      "t": 1971.57,
+      "text": "My forecast shows the payback period for alpha is almost twice as long as betas."
+    },
+    {
+      "t": 1977.45,
+      "text": "That ties up capital for a longer duration, limiting our flexibility."
+    },
+    {
+      "t": 1982.58,
+      "text": "But consider the market expansion."
+    },
+    {
+      "t": 1985.58,
+      "text": "Project beta simply upgrades our current customer base."
+    },
+    {
+      "t": 1989.9,
+      "text": "Alpha opens up an entirely new market segment."
+    },
+    {
+      "t": 1993.34,
+      "text": "If we miss this window, a competitor will surely step in and our future competitiveness"
+    },
+    {
+      "t": 1998.66,
+      "text": "will suffer."
+    },
+    {
+      "t": 2000.14,
+      "text": "I agree that the market is shifting."
+    },
+    {
+      "t": 2002.82,
+      "text": "That's why I ran a deeper analysis on the expected cash flows under a scenario of development"
+    },
+    {
+      "t": 2008.62,
+      "text": "delay."
+    },
+    {
+      "t": 2009.82,
+      "text": "If the alpha launch is delayed by six months, the NPV drops significantly, though it remains"
+    },
+    {
+      "t": 2016.26,
+      "text": "positive."
+    },
+    {
+      "t": 2017.38,
+      "text": "It just validates that we have zero margin for error on execution."
+    },
+    {
+      "t": 2022.35,
+      "text": "That brings us back to the risk mitigation plan."
+    },
+    {
+      "t": 2025.03,
+      "text": "We can address that execution risk directly."
+    },
+    {
+      "t": 2028.03,
+      "text": "What if we structure the investment into phased tranches?"
+    },
+    {
+      "t": 2031.25,
+      "text": "We release capital for development only upon hitting specific, rigorous performance checkpoints."
+    },
+    {
+      "t": 2037.69,
+      "text": "That's a sensible approach to managing the implementation risk."
+    },
+    {
+      "t": 2041.41,
+      "text": "We can use the initial phase to onboard the core engineering team and validate the"
+    },
+    {
+      "t": 2046.81,
+      "text": "minimum viable product, MVP design."
+    },
+    {
+      "t": 2050.41,
+      "text": "But what about the raw material volatility, the human capital?"
+    },
+    {
+      "t": 2054.77,
+      "text": "requires us to quickly hire and integrate specialized cloud engineers."
+    },
+    {
+      "t": 2060.29,
+      "text": "Our human resources strategy."
+    },
+    {
+      "t": 2063.63,
+      "text": "Good morning, Maya."
+    },
+    {
+      "t": 2065.59,
+      "text": "Thanks for coming in to discuss the Q1 budget forecast."
+    },
+    {
+      "t": 2069.67,
+      "text": "I appreciate you walking me through the numbers."
+    },
+    {
+      "t": 2073.16,
+      "text": "Good morning, Ravi."
+    },
+    {
+      "t": 2075.1,
+      "text": "I'm happy to go over the line item increases for the next fiscal year."
+    },
+    {
+      "t": 2081.0,
+      "text": "I know the overall figure is noticeably fire."
+    },
+    {
+      "t": 2085.32,
+      "text": "It is."
+    },
+    {
+      "t": 2086.95,
+      "text": "The draft forecast shows a 15% increase in the total marketing spend."
+    },
+    {
+      "t": 2093.19,
+      "text": "Given the company's current focus on strict cost control targets and rising production"
+    },
+    {
+      "t": 2098.39,
+      "text": "costs, I need a deeper understanding of this jump."
+    },
+    {
+      "t": 2102.91,
+      "text": "I fully understand the pressure on costs."
+    },
+    {
+      "t": 2106.19,
+      "text": "However, this increase is directly linked to the company's 10% revenue growth target."
+    },
+    {
+      "t": 2112.95,
+      "text": "This isn't maintenance spending."
+    },
+    {
+      "t": 2114.87,
+      "text": "It's an investment into major Q2 initiatives."
+    },
+    {
+      "t": 2119.17,
+      "text": "Can you elaborate on those initiatives?"
+    },
+    {
+      "t": 2121.89,
+      "text": "Specifically, how do they justify an increase that is disproportionate to the anticipated"
+    },
+    {
+      "t": 2127.89,
+      "text": "10% revenue growth?"
+    },
+    {
+      "t": 2130.5,
+      "text": "Certainly, the biggest allocation is for the product relaunch and the major digital"
+    },
+    {
+      "t": 2136.9,
+      "text": "campaign planned for Q2."
+    },
+    {
+      "t": 2140.09,
+      "text": "These require significant funds for media placements, high-quality creative production, and platform"
+    },
+    {
+      "t": 2146.45,
+      "text": "advertising."
+    },
+    {
+      "t": 2147.45,
+      "text": "I see the planned increase in digital media spend here."
+    },
+    {
+      "t": 2151.93,
+      "text": "It's up 22% year over year."
+    },
+    {
+      "t": 2155.37,
+      "text": "While I recognize the need to drive awareness, we must ensure that every dollar is optimized"
+    },
+    {
+      "t": 2161.49,
+      "text": "for return on investment."
+    },
+    {
+      "t": 2164.45,
+      "text": "We've modeled the ROI based on last year's conversion rates, and the enhanced targeting"
+    },
+    {
+      "t": 2170.17,
+      "text": "capabilities of the new campaign should provide greater efficiency."
+    },
+    {
+      "t": 2175.49,
+      "text": "Without this media volume, we simply won't achieve the necessary market penetration to"
+    },
+    {
+      "t": 2180.75,
+      "text": "hit the 10% sales target."
+    },
+    {
+      "t": 2182.89,
+      "text": "Let's look at the creative costs line item."
+    },
+    {
+      "t": 2186.61,
+      "text": "This is also up significantly, close to 18%."
+    },
+    {
+      "t": 2191.09,
+      "text": "Is there an opportunity to streamline the production process here?"
+    },
+    {
+      "t": 2196.05,
+      "text": "We are using a new agency for the relaunch assets, which accounts for the higher initial"
+    },
+    {
+      "t": 2202.01,
+      "text": "rate."
+    },
+    {
+      "t": 2203.01,
+      "text": "However, I do believe there's some flexibility in this area."
+    },
+    {
+      "t": 2208.85,
+      "text": "Flexibility is exactly what I'm looking for, Maya."
+    },
+    {
+      "t": 2211.81,
+      "text": "The finance team's objective is to maintain financial discipline."
+    },
+    {
+      "t": 2216.45,
+      "text": "Are there specific areas within creative production where we could negotiate better"
+    },
+    {
+      "t": 2220.77,
+      "text": "terms or perhaps leverage existing internal assets?"
+    },
+    {
+      "t": 2225.81,
+      "text": "That's a fair challenge, Ravi."
+    },
+    {
+      "t": 2227.61,
+      "text": "I've already flagged the agency contract terms for re-evaluation."
+    },
+    {
+      "t": 2232.61,
+      "text": "We might be able to reduce the creative costs by 3% or 4% through stronger negotiation on"
+    },
+    {
+      "t": 2239.71,
+      "text": "fees and bundling the digital assets into one package."
+    },
+    {
+      "t": 2245.05,
+      "text": "That 3-4% reduction would be helpful, but it still leaves a considerable gap against"
+    },
+    {
+      "t": 2250.65,
+      "text": "our cost control mandate. We need to get closer to a figure that the company can sustainably"
+    },
+    {
+      "t": 2256.89,
+      "text": "support. Cutting the media spend is extremely difficult. If we reduce that allocation, we"
+    },
+    {
+      "t": 2264.6,
+      "text": "risk the entire campaign falling flat due to insufficient frequency and reach. That would"
+    },
+    {
+      "t": 2270.44,
+      "text": "make the whole investment unproductive."
+    },
+    {
+      "t": 2276.24,
+      "text": "Good morning, Aisha. Thanks for meeting with me today to discuss the financial risks"
+    },
+    {
+      "t": 2281.42,
+      "text": "we're facing with the expansion of global harvest exports into new international markets."
+    },
+    {
+      "t": 2287.46,
+      "text": "I know you've had a chance to look at the preliminary reports."
+    },
+    {
+      "t": 2291.1,
+      "text": "Good morning, Samir."
+    },
+    {
+      "t": 2292.58,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2293.58,
+      "text": "I've reviewed the financials and while the growth in sales is impressive, you're right."
+    },
+    {
+      "t": 2298.7,
+      "text": "The exposure has also increased."
+    },
+    {
+      "t": 2301.38,
+      "text": "We need to get a firm grip on three key areas, currency risk, credit risk, and"
+    },
+    {
+      "t": 2306.74,
+      "text": "transit risk."
+    },
+    {
+      "t": 2308.3,
+      "text": "Exactly."
+    },
+    {
+      "t": 2309.82,
+      "text": "Let's start with the most immediate threat, currency fluctuation."
+    },
+    {
+      "t": 2314.5,
+      "text": "Our contracts are primarily denominated in euros and yen, but our operating costs here"
+    },
+    {
+      "t": 2320.26,
+      "text": "in Sri Lanka are in local currency."
+    },
+    {
+      "t": 2323.46,
+      "text": "The recent weakening of the euro is already impacting our profit margins significantly."
+    },
+    {
+      "t": 2329.38,
+      "text": "That's a classic translation risk for an export business."
+    },
+    {
+      "t": 2332.7,
+      "text": "The drop in the euro's value means less local currency revenue for the same foreign"
+    },
+    {
+      "t": 2337.46,
+      "text": "currency price."
+    },
+    {
+      "t": 2339.06,
+      "text": "We need to move away from simply reacting to the market and establish a formal hedging"
+    },
+    {
+      "t": 2343.66,
+      "text": "strategy."
+    },
+    {
+      "t": 2344.66,
+      "text": "I agree completely."
+    },
+    {
+      "t": 2346.46,
+      "text": "I've been exploring a few hedging instruments."
+    },
+    {
+      "t": 2349.62,
+      "text": "What is your professional recommendation for stabilizing our cash flows over the next"
+    },
+    {
+      "t": 2354.46,
+      "text": "six months?"
+    },
+    {
+      "t": 2355.9,
+      "text": "Given the nature of our sales cycle and the relatively predictable revenue stream,"
+    },
+    {
+      "t": 2360.9,
+      "text": "forward contracts would be the most straightforward and effective tool."
+    },
+    {
+      "t": 2364.94,
+      "text": "They allow us to lock in an exchange rate today for a future euro-yen transaction, essentially"
+    },
+    {
+      "t": 2371.02,
+      "text": "removing the exchange rate uncertainty."
+    },
+    {
+      "t": 2373.7,
+      "text": "That sounds like a solid plan."
+    },
+    {
+      "t": 2375.77,
+      "text": "I propose we engage with our bank to secure six-month forward contracts to cover approximately"
+    },
+    {
+      "t": 2382.33,
+      "text": "75% of our forecasted euro and yen receivables."
+    },
+    {
+      "t": 2387.05,
+      "text": "This provides stability while leaving a small portion open for potential favorable"
+    },
+    {
+      "t": 2391.53,
+      "text": "movements."
+    },
+    {
+      "t": 2392.81,
+      "text": "is a well-judged mitigation level, Samir."
+    },
+    {
+      "t": 2396.49,
+      "text": "Now, let's pivot to the second major issue, credit risk."
+    },
+    {
+      "t": 2400.33,
+      "text": "The sales team has secured those two significant new customers"
+    },
+    {
+      "t": 2403.21,
+      "text": "overseas, but their credit histories are limited."
+    },
+    {
+      "t": 2408.04,
+      "text": "The accounts receivable team flagged the same concern."
+    },
+    {
+      "t": 2411.68,
+      "text": "The potential revenue is huge, but the danger of delayed"
+    },
+    {
+      "t": 2415.32,
+      "text": "payments or worse default is a genuine worry."
+    },
+    {
+      "t": 2419.36,
+      "text": "We can't afford a major write-off"
+    },
+    {
+      "t": 2421.32,
+      "text": "so early into this expansion phase."
+    },
+    {
+      "t": 2423.88,
+      "text": "My immediate recommendation is a two-pronged approach."
+    },
+    {
+      "t": 2427.64,
+      "text": "Firstly, we need to run a more rigorous,"
+    },
+    {
+      "t": 2430.36,
+      "text": "in-depth credit scoring assessment"
+    },
+    {
+      "t": 2432.52,
+      "text": "through an international credit agency"
+    },
+    {
+      "t": 2434.8,
+      "text": "going beyond the preliminary checks."
+    },
+    {
+      "t": 2437.08,
+      "text": "Secondly, we must secure our position"
+    },
+    {
+      "t": 2439.26,
+      "text": "with trade credit insurance."
+    },
+    {
+      "t": 2441.3,
+      "text": "Trade credit insurance."
+    },
+    {
+      "t": 2443.62,
+      "text": "Can you elaborate on how that would work in this scenario?"
+    },
+    {
+      "t": 2446.76,
+      "text": "Certainly."
+    },
+    {
+      "t": 2447.72,
+      "text": "It protects us from both protracted default"
+    },
+    {
+      "t": 2450.76,
+      "text": "where the buyer takes too long to pay, and in solvency, where the buyer goes bankrupt."
+    },
+    {
+      "t": 2456.32,
+      "text": "If a covered loss occurs, the insurer compensates us for a significant percentage of the unpaid"
+    },
+    {
+      "t": 2461.4,
+      "text": "invoice."
+    },
+    {
+      "t": 2462.56,
+      "text": "It essentially transfers the credit risk off our balance sheet."
+    },
+    {
+      "t": 2466.14,
+      "text": "That level of security is necessary for such high value new contracts."
+    },
+    {
+      "t": 2470.84,
+      "text": "It's a cost, but it's an investment in risk transference."
+    },
+    {
+      "t": 2475.26,
+      "text": "Beyond insurance, what about payment terms?"
+    },
+    {
+      "t": 2477.94,
+      "text": "We must tighten them."
+    },
+    {
+      "t": 2479.38,
+      "text": "For new clients with no established payment track record, we should insist on either a"
+    },
+    {
+      "t": 2483.62,
+      "text": "partial advance payment, say 20% upon contract signing, or sign..."
+    },
+    {
+      "t": 2488.85,
+      "text": "Good morning, Aisha."
+    },
+    {
+      "t": 2490.53,
+      "text": "I'm glad we could schedule this follow-up after reviewing the risk assessment matrix"
+    },
+    {
+      "t": 2495.45,
+      "text": "we discussed last week."
+    },
+    {
+      "t": 2497.89,
+      "text": "Good morning, Samir."
+    },
+    {
+      "t": 2499.53,
+      "text": "The data confirms our initial concerns, particularly regarding the volatility in the currency"
+    },
+    {
+      "t": 2506.21,
+      "text": "markets and the high credit risk associated with the new overseas accounts."
+    },
+    {
+      "t": 2512.21,
+      "text": "Let's focus on the currency exposure first. As you know, the fluctuation in the euro and"
+    },
+    {
+      "t": 2519.41,
+      "text": "yen against the local currency is eroding our profitability. Even small shifts are"
+    },
+    {
+      "t": 2526.37,
+      "text": "having a significant impact on our earnings. Correct. The immediate priority is locking"
+    },
+    {
+      "t": 2533.21,
+      "text": "in a predictable exchange rate for our future cash flows. Have you contacted the bank regarding"
+    },
+    {
+      "t": 2540.01,
+      "text": "the forward contracts we proposed? Yes, I have. The bank confirmed they can"
+    },
+    {
+      "t": 2545.85,
+      "text": "structure a six-month forward agreement covering up to 80% of our known foreign currency receivables."
+    },
+    {
+      "t": 2554.33,
+      "text": "My initial proposal was 75%. Do you think 80% is an appropriate hedge ratio?"
+    },
+    {
+      "t": 2561.29,
+      "text": "Hello?"
+    },
+    {
+      "t": 2562.29,
+      "text": "Given the current market instability, increasing the coverage to 80% seems prudent."
+    },
+    {
+      "t": 2568.93,
+      "text": "It provides maximum certainty for our budgeting process without completely eliminating the"
+    },
+    {
+      "t": 2574.91,
+      "text": "chance to benefit from an unexpected favorable movement."
+    },
+    {
+      "t": 2579.01,
+      "text": "I'll execute those contracts immediately then."
+    },
+    {
+      "t": 2583.02,
+      "text": "That addresses the translation risk."
+    },
+    {
+      "t": 2585.94,
+      "text": "Next, the credit risk raised by the two new large customers."
+    },
+    {
+      "t": 2591.18,
+      "text": "The promise of high revenue is offset by their limited payment history."
+    },
+    {
+      "t": 2596.42,
+      "text": "This is critical."
+    },
+    {
+      "t": 2598.18,
+      "text": "The accounts receivable team has completed the detailed credit scoring assessment as requested."
+    },
+    {
+      "t": 2604.78,
+      "text": "Both buyers fall into a medium high risk bracket due to short operational history and high"
+    },
+    {
+      "t": 2611.66,
+      "text": "leverage."
+    },
+    {
+      "t": 2612.74,
+      "text": "That confirms our fears."
+    },
+    {
+      "t": 2615.22,
+      "text": "We absolutely need to implement risk mitigation strategies before confirming those contracts."
+    },
+    {
+      "t": 2622.44,
+      "text": "Did you prepare a draft proposal for trade credit insurance?"
+    },
+    {
+      "t": 2626.58,
+      "text": "Yes, I've sourced quotes for a policy that would cover both the new clients."
+    },
+    {
+      "t": 2632.84,
+      "text": "The premium is justifiable as it secures us against both protracted non-payment and"
+    },
+    {
+      "t": 2638.94,
+      "text": "outright insolvency."
+    },
+    {
+      "t": 2641.3,
+      "text": "It's an essential risk transference mechanism."
+    },
+    {
+      "t": 2644.58,
+      "text": "I agree."
+    },
+    {
+      "t": 2645.94,
+      "text": "It protects our balance sheet from a catastrophic client default."
+    },
+    {
+      "t": 2650.7,
+      "text": "Beyond the insurance, we also discussed implementing stricter payment terms."
+    },
+    {
+      "t": 2656.42,
+      "text": "How should we communicate this to the sales team without jeopardizing the deals?"
+    },
+    {
+      "t": 2661.82,
+      "text": "We need to frame it as standard risk governance for high-value initial orders."
+    },
+    {
+      "t": 2667.76,
+      "text": "We should insist on a minimum 20% advance payment upon order confirmation."
+    },
+    {
+      "t": 2673.62,
+      "text": "Additionally, the remaining b-"
+    },
+    {
+      "t": 2675.46,
+      "text": "Good morning. I wanted to discuss the Capital Budgeting Proposal for Project NOVA."
+    },
+    {
+      "t": 2681.06,
+      "text": "We need to finalize our financial strategy before presenting to the board next week."
+    },
+    {
+      "t": 2686.72,
+      "text": "Good morning. Absolutely. I've compiled the initial cash flow projections and the"
+    },
+    {
+      "t": 2691.92,
+      "text": "sensitivity analysis based on the three scenarios we discussed."
+    },
+    {
+      "t": 2695.76,
+      "text": "Excellent. Let's start with the base case. What does the net present value or NPV look"
+    },
+    {
+      "t": 2701.92,
+      "text": "like at our hurdle rate of 12%. For the base case, with an initial investment of $4.5 million,"
+    },
+    {
+      "t": 2710.16,
+      "text": "the projected NPV stands at a positive $820,000. The internal rate of return, or IRR, is estimated"
+    },
+    {
+      "t": 2718.64,
+      "text": "at 18.5%. And 18.5% IRR is certainly promising, especially with a 12% hurdle rate. How does"
+    },
+    {
+      "t": 2727.84,
+      "text": "How does that align with our payback period target?"
+    },
+    {
+      "t": 2731.28,
+      "text": "The standard payback period is within four years."
+    },
+    {
+      "t": 2734.56,
+      "text": "Project NOVA is projected to recover its initial investment in approximately 3.4 years under"
+    },
+    {
+      "t": 2739.76,
+      "text": "the base scenario."
+    },
+    {
+      "t": 2741.26,
+      "text": "That's well within our acceptable range."
+    },
+    {
+      "t": 2743.44,
+      "text": "However, we must not overlook the risk exposure."
+    },
+    {
+      "t": 2747.12,
+      "text": "Let's examine the pessimistic scenario."
+    },
+    {
+      "t": 2750.08,
+      "text": "In the pessimistic scenario, which assumes a 15% reduction in annual revenue and a"
+    },
+    {
+      "t": 2755.84,
+      "text": "increase in variable costs, the projected MPV drops to a negative $150,000."
+    },
+    {
+      "t": 2762.84,
+      "text": "That puts us in a lost position, which means the project is value destructive under those conditions."
+    },
+    {
+      "t": 2768.84,
+      "text": "What happens to the IRR in that case?"
+    },
+    {
+      "t": 2771.84,
+      "text": "The IRR falls sharply to 10.5%. Since this is below our 12% hurdle rate,"
+    },
+    {
+      "t": 2777.84,
+      "text": "it confirms the project's non-viability if those assumptions materialize."
+    },
+    {
+      "t": 2782.84,
+      "text": "We need to focus on the cost drivers that lead to that 15% drop."
+    },
+    {
+      "t": 2787.04,
+      "text": "Is the revenue decrease due to volume or is it a pricing pressure issue?"
+    },
+    {
+      "t": 2791.44,
+      "text": "Primarily volume."
+    },
+    {
+      "t": 2792.94,
+      "text": "The pessimistic scenario models a slower than expected market penetration,"
+    },
+    {
+      "t": 2797.54,
+      "text": "combined with a six-month delay in the initial product launch."
+    },
+    {
+      "t": 2801.14,
+      "text": "A launch delay is an operational risk we can attempt to mitigate."
+    },
+    {
+      "t": 2805.24,
+      "text": "What is the impact of removing the launch delay while keeping the 15% volume reduction?"
+    },
+    {
+      "t": 2811.04,
+      "text": "Let me run that calculation."
+    },
+    {
+      "t": 2813.87,
+      "text": "Removing the launch delay, the NPV shifts to a marginally positive $50,000."
+    },
+    {
+      "t": 2820.51,
+      "text": "The initial rate of return inches up to 12.3%."
+    },
+    {
+      "t": 2824.27,
+      "text": "That's a very fine margin, but it highlights the critical nature of the launch timeline."
+    },
+    {
+      "t": 2829.47,
+      "text": "It also tells us that contingency planning for the initial rollout must be robust."
+    },
+    {
+      "t": 2834.75,
+      "text": "Agreed. We should allocate an additional $500,000 in the contingency budget for the initial six months,"
+    },
+    {
+      "t": 2841.47,
+      "text": "earmarked specifically for unforeseen delays or immediate competitive response."
+    },
+    {
+      "t": 2846.27,
+      "text": "Let's factor that $500,000 into the initial investment for all scenarios."
+    },
+    {
+      "t": 2850.99,
+      "text": "This is about managing downside risk. How does that new investment affect the base case?"
+    },
+    {
+      "t": 2856.75,
+      "text": "Factoring in the total $5 million investment, the base case NPV drops from $820,000 to $450,000."
+    },
+    {
+      "t": 2865.39,
+      "text": "The IRR is now 15.1 percent."
+    },
+    {
+      "t": 2869.39,
+      "text": "That's a significant drop in expected return, but it buys us greater certainty and lowers our risk profile."
+    },
+    {
+      "t": 2875.39,
+      "text": "I can defend that trade-off to the board."
+    },
+    {
+      "t": 2878.39,
+      "text": "And for the pessimistic case, with the full $5 million investment, the NPV is now at a negative $525,000."
+    },
+    {
+      "t": 2887.39,
+      "text": "That negative figure is now more severe. We must prepare specific cost-saving"
+    },
+    {
+      "t": 2893.19,
+      "text": "measures that are activated only if we hit those pessimistic revenue targets."
+    },
+    {
+      "t": 2897.55,
+      "text": "We can define those as stage two cost controls. They could include a freeze on"
+    },
+    {
+      "t": 2902.47,
+      "text": "non-essential marketing spend and renegotiation of our annual software"
+    },
+    {
+      "t": 2906.83,
+      "text": "licensing contracts. These measures would reduce year two operating costs by"
+    },
+    {
+      "t": 2911.79,
+      "text": "an estimated 10%. Let's quantify that recovery. If we implement a 10%"
+    },
+    {
+      "t": 2917.03,
+      "text": "operating cost reduction in Year 2 of the pessimistic scenario, how does the NPV change?"
+    },
+    {
+      "t": 2924.03,
+      "text": "Implementing those cost controls, the NPV becomes a positive $120,000, and the IRR is"
+    },
+    {
+      "t": 2930.91,
+      "text": "13.8%."
+    },
+    {
+      "t": 2932.47,
+      "text": "Now we're talking."
+    },
+    {
+      "t": 2934.03,
+      "text": "This provides a clear path to profitability even under adverse conditions."
+    },
+    {
+      "t": 2938.39,
+      "text": "It demonstrates that the management team has a viable exit strategy."
+    },
+    {
+      "t": 2942.43,
+      "text": "This is a crucial finding."
+    },
+    {
+      "t": 2944.11,
+      "text": "The board will want to see that mitigating action is quantifiable and tied to specific"
+    },
+    {
+      "t": 2948.99,
+      "text": "performance thresholds."
+    },
+    {
+      "t": 2950.47,
+      "text": "Precisely."
+    },
+    {
+      "t": 2951.47,
+      "text": "Now, let's pivot to the optimistic scenario."
+    },
+    {
+      "t": 2954.73,
+      "text": "What happens if everything goes better than expected?"
+    },
+    {
+      "t": 2957.99,
+      "text": "The optimistic scenario assumes a 20% higher sales volume due to a rapid adoption rate"
+    },
+    {
+      "t": 2963.81,
+      "text": "and minimal competitive interference."
+    },
+    {
+      "t": 2965.71,
+      "text": "Good morning, Priya."
+    },
+    {
+      "t": 2967.63,
+      "text": "Thanks for making time to walk through the final evaluation of these two investment"
+    },
+    {
+      "t": 2972.03,
+      "text": "projects."
+    },
+    {
+      "t": 2973.53,
+      "text": "I know we both have strong perspectives, but we need to land on a unified recommendation."
+    },
+    {
+      "t": 2980.63,
+      "text": "Good morning Arjun."
+    },
+    {
+      "t": 2982.63,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2983.63,
+      "text": "I'm keen to hear your final take on the numbers, especially after our last discussion on Project"
+    },
+    {
+      "t": 2988.87,
+      "text": "Alpha, the cloud inventory system, and the projected volatility."
+    },
+    {
+      "t": 2993.91,
+      "text": "Right."
+    },
+    {
+      "t": 2995.41,
+      "text": "From a purely financial standpoint, the difference is clear."
+    },
+    {
+      "t": 3000.23,
+      "text": "product alpha has a significantly higher NPV, confirming it would generate more value than"
+    },
+    {
+      "t": 3006.75,
+      "text": "project beta, the product line upgrade."
+    },
+    {
+      "t": 3010.52,
+      "text": "I saw that."
+    },
+    {
+      "t": 3012.2,
+      "text": "The larger NPV for alpha confirms the massive potential return on investment we estimated"
+    },
+    {
+      "t": 3018.1,
+      "text": "from the market studies."
+    },
+    {
+      "t": 3020.0,
+      "text": "But what concerns you, given the positive NPV?"
+    },
+    {
+      "t": 3023.8,
+      "text": "The risk-adjusted return."
+    },
+    {
+      "t": 3026.51,
+      "text": "While the expected return is higher, my sensitivity analysis flags major concerns."
+    },
+    {
+      "t": 3033.09,
+      "text": "Project Alpha requires substantial upfront development and a larger engineering team."
+    },
+    {
+      "t": 3039.23,
+      "text": "This translates directly into a higher cost overruns and schedule delays, which could"
+    },
+    {
+      "t": 3044.99,
+      "text": "completely erode that NPV advantage."
+    },
+    {
+      "t": 3048.57,
+      "text": "I acknowledge the higher operational risk, Arjun."
+    },
+    {
+      "t": 3051.95,
+      "text": "We're entering a new product space, but I believe focusing too heavily on short-term"
+    },
+    {
+      "t": 3057.43,
+      "text": "financial safety with Project Beta would be a strategic mistake."
+    },
+    {
+      "t": 3062.79,
+      "text": "Why do you view it as a mistake?"
+    },
+    {
+      "t": 3065.31,
+      "text": "Project Beta offers a guaranteed positive steady cash flow and a quick launch utilizing"
+    },
+    {
+      "t": 3071.67,
+      "text": "existing resources."
+    },
+    {
+      "t": 3073.71,
+      "text": "It's the definition of a safe, profitable bet."
+    },
+    {
+      "t": 3077.84,
+      "text": "Because the tech industry is pivoting hard toward automated cloud-based solutions."
+    },
+    {
+      "t": 3083.88,
+      "text": "Project Alpha isn't just a product, it's a strategic positioning move."
+    },
+    {
+      "t": 3089.36,
+      "text": "Being an early mover in that market segment, small retail, gives Novatech a huge competitive"
+    },
+    {
+      "t": 3095.04,
+      "text": "advantage for long-term growth."
+    },
+    {
+      "t": 3098.0,
+      "text": "Competitive advantage at a higher cost of capital and higher risk."
+    },
+    {
+      "t": 3102.6,
+      "text": "My forecast shows the payback period for alpha is almost twice as long as betas."
+    },
+    {
+      "t": 3108.4,
+      "text": "That ties up capital for a longer duration, limiting our flexibility."
+    },
+    {
+      "t": 3113.55,
+      "text": "But consider the market expansion."
+    },
+    {
+      "t": 3116.51,
+      "text": "Project beta simply upgrades our current customer base."
+    },
+    {
+      "t": 3120.87,
+      "text": "Alpha opens up an entirely new market segment."
+    },
+    {
+      "t": 3124.31,
+      "text": "If we miss this window, a competitor will surely step in and our future competitiveness"
+    },
+    {
+      "t": 3129.59,
+      "text": "will suffer."
+    },
+    {
+      "t": 3131.11,
+      "text": "I agree that the market is shifting."
+    },
+    {
+      "t": 3133.79,
+      "text": "That's why I ran a deeper analysis on the expected cash flows under a scenario of development"
+    },
+    {
+      "t": 3139.59,
+      "text": "delay."
+    },
+    {
+      "t": 3140.79,
+      "text": "If the alpha launch is delayed by six months, the NPV drops significantly, though it remains"
+    },
+    {
+      "t": 3147.23,
+      "text": "positive."
+    },
+    {
+      "t": 3148.35,
+      "text": "It just validates that we have zero margin for error on execution."
+    },
+    {
+      "t": 3153.32,
+      "text": "That brings us back to the risk mitigation plan."
+    },
+    {
+      "t": 3156.0,
+      "text": "We can address that execution risk directly."
+    },
+    {
+      "t": 3159.0,
+      "text": "What if we structure the investment into phased tranches?"
+    },
+    {
+      "t": 3162.24,
+      "text": "We release capital for development only upon hitting specific, rigorous performance checkpoints."
+    },
+    {
+      "t": 3168.68,
+      "text": "That's a sensible approach to managing the implementation risk."
+    },
+    {
+      "t": 3172.4,
+      "text": "We can use the initial phase to onboard the core engineering team and validate the"
+    },
+    {
+      "t": 3177.8,
+      "text": "minimum viable product, MVP design."
+    },
+    {
+      "t": 3181.4,
+      "text": "But what about the raw material volatility, the human capital?"
+    },
+    {
+      "t": 3185.52,
+      "text": "Alpha requires us to quickly hire and integrate specialized cloud engineers."
+    },
+    {
+      "t": 3191.28,
+      "text": "Our human resources strategy."
+    },
+    {
+      "t": 3194.61,
+      "text": "Good morning, Maya."
+    },
+    {
+      "t": 3196.59,
+      "text": "Thanks for coming in to discuss the Q1 budget forecast."
+    },
+    {
+      "t": 3200.66,
+      "text": "I appreciate you walking me through the numbers."
+    },
+    {
+      "t": 3204.17,
+      "text": "Good morning, Ravi."
+    },
+    {
+      "t": 3206.1,
+      "text": "I'm happy to go over the line item increases for the next fiscal year."
+    },
+    {
+      "t": 3212.03,
+      "text": "I know the overall figure is noticeably fire."
+    },
+    {
+      "t": 3216.31,
+      "text": "It is."
+    },
+    {
+      "t": 3217.94,
+      "text": "The draft forecast shows a 15% increase in the total marketing spend."
+    },
+    {
+      "t": 3224.18,
+      "text": "Given the company's current focus on strict cost control targets and rising production"
+    },
+    {
+      "t": 3229.38,
+      "text": "costs, I need a deeper understanding of this jump."
+    },
+    {
+      "t": 3233.9,
+      "text": "I fully understand the pressure on costs."
+    },
+    {
+      "t": 3237.18,
+      "text": "However, this increase is directly linked to the company's 10% revenue growth target."
+    },
+    {
+      "t": 3243.94,
+      "text": "This isn't maintenance spending."
+    },
+    {
+      "t": 3245.86,
+      "text": "It's an investment into major Q2 initiatives."
+    },
+    {
+      "t": 3250.16,
+      "text": "Can you elaborate on those initiatives?"
+    },
+    {
+      "t": 3252.88,
+      "text": "Specifically, how do they justify an increase that is disproportionate to the anticipated"
+    },
+    {
+      "t": 3258.88,
+      "text": "10% revenue growth?"
+    },
+    {
+      "t": 3261.55,
+      "text": "Certainly."
+    },
+    {
+      "t": 3262.95,
+      "text": "The biggest allocation is for the product relaunch and the major digital campaign planned"
+    },
+    {
+      "t": 3268.95,
+      "text": "for Q2."
+    },
+    {
+      "t": 3271.06,
+      "text": "These require significant funds for media placements, high-quality creative production,"
+    },
+    {
+      "t": 3276.7,
+      "text": "and platform advertising."
+    },
+    {
+      "t": 3278.86,
+      "text": "I see the planned increase in digital media spend here."
+    },
+    {
+      "t": 3282.94,
+      "text": "It's up 22% year-over-year."
+    },
+    {
+      "t": 3286.38,
+      "text": "While I recognize the need to drive awareness, we must ensure that every dollar is optimized"
+    },
+    {
+      "t": 3292.5,
+      "text": "for return on investment."
+    },
+    {
+      "t": 3295.46,
+      "text": "We've modeled the ROI based on last year's conversion rates, and the enhanced targeting"
+    },
+    {
+      "t": 3301.14,
+      "text": "capabilities of the new campaign should provide greater efficiency."
+    },
+    {
+      "t": 3306.46,
+      "text": "Without this media volume, we simply won't achieve the necessary market penetration to"
+    },
+    {
+      "t": 3311.74,
+      "text": "hit the 10% sales target."
+    },
+    {
+      "t": 3314.58,
+      "text": "Let's look at the creative costs line item."
+    },
+    {
+      "t": 3317.58,
+      "text": "This is also up significantly, close to 18%."
+    },
+    {
+      "t": 3322.06,
+      "text": "Is there an opportunity to streamline the production process here?"
+    },
+    {
+      "t": 3327.02,
+      "text": "We are using a new agency for the relaunch assets, which accounts for the higher initial"
+    },
+    {
+      "t": 3332.98,
+      "text": "rate."
+    },
+    {
+      "t": 3333.98,
+      "text": "However, I do believe there's some flexibility in this area."
+    },
+    {
+      "t": 3339.82,
+      "text": "Flexibility is exactly what I'm looking for, Maya."
+    },
+    {
+      "t": 3342.82,
+      "text": "The finance team's objective is to maintain financial discipline."
+    },
+    {
+      "t": 3347.42,
+      "text": "Are there specific areas within creative production where we could negotiate better"
+    },
+    {
+      "t": 3351.74,
+      "text": "terms or perhaps leverage existing internal assets?"
+    },
+    {
+      "t": 3356.78,
+      "text": "That's a fair challenge, Ravi."
+    },
+    {
+      "t": 3358.58,
+      "text": "I've already flagged the agency contract terms for re-evaluation."
+    },
+    {
+      "t": 3363.58,
+      "text": "We might be able to reduce the creative costs by 3% or 4% through stronger negotiation on"
+    },
+    {
+      "t": 3370.66,
+      "text": "fees and bundling the digital assets into one package."
+    },
+    {
+      "t": 3376.02,
+      "text": "That 3-4% reduction would be helpful, but it still leaves a considerable gap against"
+    },
+    {
+      "t": 3381.58,
+      "text": "our cost control mandate."
+    },
+    {
+      "t": 3384.06,
+      "text": "We need to get closer to a figure that the company can sustainably support."
+    },
+    {
+      "t": 3389.6,
+      "text": "Cutting the media spend is extremely difficult."
+    },
+    {
+      "t": 3393.08,
+      "text": "If we reduce that allocation, we risk the entire campaign falling flat due to insufficient"
+    },
+    {
+      "t": 3399.3,
+      "text": "frequency and reach."
+    },
+    {
+      "t": 3401.2,
+      "text": "That would make the whole investment unproductive."
+    }
+  ],
+  "lemmas": [
+    [
+      "risk",
+      78
+    ],
+    [
+      "project",
+      49
+    ],
+    [
+      "cost",
+      48
+    ],
+    [
+      "market",
+      39
+    ],
+    [
+      "investment",
+      39
+    ],
+    [
+      "initial",
+      39
+    ],
+    [
+      "good",
+      36
+    ],
+    [
+      "new",
+      36
+    ],
+    [
+      "credit",
+      36
+    ],
+    [
+      "npv",
+      36
+    ],
+    [
+      "need",
+      33
+    ],
+    [
+      "scenario",
+      33
+    ],
+    [
+      "morn",
+      30
+    ],
+    [
+      "contract",
+      30
+    ],
+    [
+      "rate",
+      30
+    ],
+    [
+      "currency",
+      27
+    ],
+    [
+      "revenue",
+      27
+    ],
+    [
+      "us",
+      27
+    ],
+    [
+      "delay",
+      27
+    ],
+    [
+      "alpha",
+      26
+    ],
+    [
+      "team",
+      24
+    ],
+    [
+      "higher",
+      24
+    ],
+    [
+      "year",
+      22
+    ],
+    [
+      "payment",
+      21
+    ],
+    [
+      "confirm",
+      21
+    ],
+    [
+      "return",
+      21
+    ],
+    [
+      "launch",
+      21
+    ],
+    [
+      "product",
+      19
+    ],
+    [
+      "discuss",
+      18
+    ],
+    [
+      "financial",
+      18
+    ],
+    [
+      "sal",
+      18
+    ],
+    [
+      "drop",
+      18
+    ],
+    [
+      "base",
+      18
+    ],
+    [
+      "case",
+      18
+    ],
+    [
+      "positive",
+      18
+    ],
+    [
+      "irr",
+      18
+    ],
+    [
+      "target",
+      18
+    ],
+    [
+      "pessimistic",
+      18
+    ],
+    [
+      "euro",
+      16
+    ],
+    [
+      "know",
+      15
+    ],
+    [
+      "cash",
+      15
+    ],
+    [
+      "flow",
+      15
+    ],
+    [
+      "plan",
+      15
+    ],
+    [
+      "major",
+      15
+    ],
+    [
+      "significant",
+      15
+    ],
+    [
+      "insurance",
+      15
+    ],
+    [
+      "capital",
+      15
+    ],
+    [
+      "increase",
+      15
+    ],
+    [
+      "volume",
+      15
+    ],
+    [
+      "expect",
+      15
+    ],
+    [
+      "spend",
+      15
+    ],
+    [
+      "beta",
+      15
+    ],
+    [
+      "high",
+      13
+    ],
+    [
+      "look",
+      12
+    ],
+    [
+      "absolutely",
+      12
+    ],
+    [
+      "growth",
+      12
+    ],
+    [
+      "also",
+      12
+    ],
+    [
+      "immediate",
+      12
+    ],
+    [
+      "significantly",
+      12
+    ],
+    [
+      "value",
+      12
+    ],
+    [
+      "strategy",
+      12
+    ],
+    [
+      "next",
+      12
+    ],
+    [
+      "give",
+      12
+    ],
+    [
+      "forward",
+      12
+    ],
+    [
+      "cover",
+      12
+    ],
+    [
+      "forecast",
+      12
+    ],
+    [
+      "two",
+      12
+    ],
+    [
+      "account",
+      12
+    ],
+    [
+      "concern",
+      12
+    ],
+    [
+      "term",
+      12
+    ],
+    [
+      "focus",
+      12
+    ],
+    [
+      "budget",
+      12
+    ],
+    [
+      "due",
+      12
+    ],
+    [
+      "reduction",
+      12
+    ],
+    [
+      "competitive",
+      12
+    ],
+    [
+      "specific",
+      12
+    ],
+    [
+      "control",
+      12
+    ],
+    [
+      "production",
+      12
+    ],
+    [
+      "media",
+      12
+    ],
+    [
+      "creative",
+      12
+    ],
+    [
+      "implement",
+      11
+    ],
+    [
+      "yen",
+      10
+    ],
+    [
+      "thank",
+      9
+    ],
+    [
+      "expansion",
+      9
+    ],
+    [
+      "samir",
+      9
+    ],
+    [
+      "exposure",
+      9
+    ],
+    [
+      "increas",
+      9
+    ],
+    [
+      "area",
+      9
+    ],
+    [
+      "operat",
+      9
+    ],
+    [
+      "local",
+      9
+    ],
+    [
+      "impact",
+      9
+    ],
+    [
+      "margin",
+      9
+    ],
+    [
+      "simply",
+      9
+    ],
+    [
+      "agree",
+      9
+    ],
+    [
+      "completely",
+      9
+    ],
+    [
+      "recommendation",
+      9
+    ],
+    [
+      "six",
+      9
+    ],
+    [
+      "month",
+      9
+    ],
+    [
+      "exchange",
+      9
+    ],
+    [
+      "future",
+      9
+    ],
+    [
+      "remov",
+      9
+    ],
+    [
+      "bank",
+      9
+    ],
+    [
+      "six-month",
+      9
+    ],
+    [
+      "provid",
+      9
+    ],
+    [
+      "small",
+      9
+    ],
+    [
+      "potential",
+      9
+    ],
+    [
+      "mitigation",
+      9
+    ],
+    [
+      "pivot",
+      9
+    ],
+    [
+      "customer",
+      9
+    ],
+    [
+      "limit",
+      9
+    ],
+    [
+      "flag",
+      9
+    ],
+    [
+      "default",
+      9
+    ],
+    [
+      "run",
+      9
+    ],
+    [
+      "assessment",
+      9
+    ],
+    [
+      "agency",
+      9
+    ],
+    [
+      "beyond",
+      9
+    ],
+    [
+      "position",
+      9
+    ],
+    [
+      "trade",
+      9
+    ],
+    [
+      "certainly",
+      9
+    ],
+    [
+      "buyer",
+      9
+    ],
+    [
+      "go",
+      9
+    ],
+    [
+      "client",
+      9
+    ],
+    [
+      "upon",
+      9
+    ],
+    [
+      "last",
+      9
+    ],
+    [
+      "volatility",
+      9
+    ],
+    [
+      "shift",
+      9
+    ],
+    [
+      "proposal",
+      9
+    ],
+    [
+      "current",
+      9
+    ],
+    [
+      "without",
+      9
+    ],
+    [
+      "fall",
+      9
+    ],
+    [
+      "operational",
+      9
+    ],
+    [
+      "board",
+      9
+    ],
+    [
+      "analysis",
+      9
+    ],
+    [
+      "hurdle",
+      9
+    ],
+    [
+      "million",
+      9
+    ],
+    [
+      "estimat",
+      9
+    ],
+    [
+      "payback",
+      9
+    ],
+    [
+      "period",
+      9
+    ],
+    [
+      "within",
+      9
+    ],
+    [
+      "however",
+      9
+    ],
+    [
+      "negative",
+      9
+    ],
+    [
+      "figure",
+      9
+    ],
+    [
+      "hit",
+      9
+    ],
+    [
+      "reduce",
+      9
+    ],
+    [
+      "see",
+      9
+    ],
+    [
+      "line",
+      9
+    ],
+    [
+      "development",
+      9
+    ],
+    [
+      "engineer",
+      9
+    ],
+    [
+      "directly",
+      9
+    ],
+    [
+      "advantage",
+      9
+    ],
+    [
+      "flexibility",
+      9
+    ],
+    [
+      "company",
+      9
+    ],
+    [
+      "digital",
+      9
+    ],
+    [
+      "campaign",
+      9
+    ],
+    [
+      "asset",
+      9
+    ],
+    [
+      "balance",
+      8
+    ],
+    [
+      "aisha",
+      6
+    ],
+    [
+      "today",
+      6
+    ],
+    [
+      "export",
+      6
+    ],
+    [
+      "international",
+      6
+    ],
+    [
+      "chance",
+      6
+    ],
+    [
+      "preliminary",
+      6
+    ],
+    [
+      "review",
+      6
+    ],
+    [
+      "get",
+      6
+    ],
+    [
+      "three",
+      6
+    ],
+    [
+      "exactly",
+      6
+    ],
+    [
+      "start",
+      6
+    ],
+    [
+      "fluctuation",
+      6
+    ],
+    [
+      "primarily",
+      6
+    ],
+    [
+      "already",
+      6
+    ],
+    [
+      "translation",
+      6
+    ],
+    [
+      "mean",
+      6
+    ],
+    [
+      "foreign",
+      6
+    ],
+    [
+      "move",
+      6
+    ],
+    [
+      "establish",
+      6
+    ],
+    [
+      "hedg",
+      6
+    ],
+    [
+      "nature",
+      6
+    ],
+    [
+      "predictable",
+      6
+    ],
+    [
+      "lock",
+      6
+    ],
+    [
+      "essentially",
+      6
+    ],
+    [
+      "secure",
+      6
+    ],
+    [
+      "approximately",
+      6
+    ],
+    [
+      "receivabl",
+      6
+    ],
+    [
+      "leav",
+      6
+    ],
+    [
+      "open",
+      6
+    ],
+    [
+      "favorable",
+      6
+    ],
+    [
+      "movement",
+      6
+    ],
+    [
+      "level",
+      6
+    ],
+    [
+      "issue",
+      6
+    ],
+    [
+      "secur",
+      6
+    ],
+    [
+      "oversea",
+      6
+    ],
+    [
+      "receivable",
+      6
+    ],
+    [
+      "huge",
+      6
+    ],
+    [
+      "early",
+      6
+    ],
+    [
+      "phase",
+      6
+    ],
+    [
+      "approach",
+      6
+    ],
+    [
+      "rigorous",
+      6
+    ],
+    [
+      "scor",
+      6
+    ],
+    [
+      "elaborate",
+      6
+    ],
+    [
+      "protect",
+      6
+    ],
+    [
+      "protract",
+      6
+    ],
+    [
+      "long",
+      6
+    ],
+    [
+      "sheet",
+      6
+    ],
+    [
+      "necessary",
+      6
+    ],
+    [
+      "transference",
+      6
+    ],
+    [
+      "insist",
+      6
+    ],
+    [
+      "advance",
+      6
+    ],
+    [
+      "sign",
+      6
+    ],
+    [
+      "schedule",
+      6
+    ],
+    [
+      "week",
+      6
+    ],
+    [
+      "regard",
+      6
+    ],
+    [
+      "profitability",
+      6
+    ],
+    [
+      "even",
+      6
+    ],
+    [
+      "structure",
+      6
+    ],
+    [
+      "certainty",
+      6
+    ],
+    [
+      "process",
+      6
+    ],
+    [
+      "address",
+      6
+    ],
+    [
+      "history",
+      6
+    ],
+    [
+      "critical",
+      6
+    ],
+    [
+      "leverage",
+      6
+    ],
+    [
+      "prepare",
+      6
+    ],
+    [
+      "draft",
+      6
+    ],
+    [
+      "standard",
+      6
+    ],
+    [
+      "order",
+      6
+    ],
+    [
+      "minimum",
+      6
+    ],
+    [
+      "remain",
+      6
+    ],
+    [
+      "want",
+      6
+    ],
+    [
+      "nova",
+      6
+    ],
+    [
+      "present",
+      6
+    ],
+    [
+      "sensitivity",
+      6
+    ],
+    [
+      "bas",
+      6
+    ],
+    [
+      "internal",
+      6
+    ],
+    [
+      "especially",
+      6
+    ],
+    [
+      "assum",
+      6
+    ],
+    [
+      "annual",
+      6
+    ],
+    [
+      "condition",
+      6
+    ],
+    [
+      "happen",
+      6
+    ],
+    [
+      "pressure",
+      6
+    ],
+    [
+      "model",
+      6
+    ],
+    [
+      "penetration",
+      6
+    ],
+    [
+      "contingency",
+      6
+    ],
+    [
+      "specifically",
+      6
+    ],
+    [
+      "factor",
+      6
+    ],
+    [
+      "manag",
+      6
+    ],
+    [
+      "total",
+      6
+    ],
+    [
+      "greater",
+      6
+    ],
+    [
+      "measur",
+      6
+    ],
+    [
+      "clear",
+      6
+    ],
+    [
+      "viable",
+      6
+    ],
+    [
+      "performance",
+      6
+    ],
+    [
+      "optimistic",
+      6
+    ],
+    [
+      "walk",
+      6
+    ],
+    [
+      "final",
+      6
+    ],
+    [
+      "arjun",
+      6
+    ],
+    [
+      "number",
+      6
+    ],
+    [
+      "cloud",
+      6
+    ],
+    [
+      "larger",
+      6
+    ],
+    [
+      "requir",
+      6
+    ],
+    [
+      "believe",
+      6
+    ],
+    [
+      "strategic",
+      6
+    ],
+    [
+      "mistake",
+      6
+    ],
+    [
+      "exist",
+      6
+    ],
+    [
+      "resourc",
+      6
+    ],
+    [
+      "segment",
+      6
+    ],
+    [
+      "show",
+      6
+    ],
+    [
+      "deeper",
+      6
+    ],
+    [
+      "execution",
+      6
+    ],
+    [
+      "human",
+      6
+    ],
+    [
+      "maya",
+      6
+    ],
+    [
+      "ravi",
+      6
+    ],
+    [
+      "item",
+      6
+    ],
+    [
+      "understand",
+      6
+    ],
+    [
+      "initiativ",
+      6
+    ],
+    [
+      "allocation",
+      6
+    ],
+    [
+      "relaunch",
+      6
+    ],
+    [
+      "insolvency",
+      5
+    ],
+    [
+      "loss",
+      5
+    ],
+    [
+      "high-value",
+      5
+    ],
+    [
+      "mak",
+      4
+    ],
+    [
+      "tech",
+      4
+    ],
+    [
+      "meet",
+      3
+    ],
+    [
+      "fac",
+      3
+    ],
+    [
+      "global",
+      3
+    ],
+    [
+      "harvest",
+      3
+    ],
+    [
+      "youve",
+      3
+    ],
+    [
+      "report",
+      3
+    ],
+    [
+      "impressive",
+      3
+    ],
+    [
+      "firm",
+      3
+    ],
+    [
+      "grip",
+      3
+    ],
+    [
+      "key",
+      3
+    ],
+    [
+      "transit",
+      3
+    ],
+    [
+      "threat",
+      3
+    ],
+    [
+      "denominat",
+      3
+    ],
+    [
+      "sri",
+      3
+    ],
+    [
+      "lanka",
+      3
+    ],
+    [
+      "recent",
+      3
+    ],
+    [
+      "weaken",
+      3
+    ],
+    [
+      "profit",
+      3
+    ],
+    [
+      "classic",
+      3
+    ],
+    [
+      "business",
+      3
+    ],
+    [
+      "less",
+      3
+    ],
+    [
+      "price",
+      3
+    ],
+    [
+      "away",
+      3
+    ],
+    [
+      "react",
+      3
+    ],
+    [
+      "formal",
+      3
+    ],
+    [
+      "explor",
+      3
+    ],
+    [
+      "instrument",
+      3
+    ],
+    [
+      "professional",
+      3
+    ],
+    [
+      "stabiliz",
+      3
+    ],
+    [
+      "cycle",
+      3
+    ],
+    [
+      "relatively",
+      3
+    ],
+    [
+      "stream",
+      3
+    ],
+    [
+      "straightforward",
+      3
+    ],
+    [
+      "effective",
+      3
+    ],
+    [
+      "tool",
+      3
+    ],
+    [
+      "allow",
+      3
+    ],
+    [
+      "transaction",
+      3
+    ],
+    [
+      "uncertainty",
+      3
+    ],
+    [
+      "sound",
+      3
+    ],
+    [
+      "solid",
+      3
+    ],
+    [
+      "propose",
+      3
+    ],
+    [
+      "engage",
+      3
+    ],
+    [
+      "stability",
+      3
+    ],
+    [
+      "portion",
+      3
+    ],
+    [
+      "well-judg",
+      3
+    ],
+    [
+      "second",
+      3
+    ],
+    [
+      "histori",
+      3
+    ],
+    [
+      "danger",
+      3
+    ],
+    [
+      "bad",
+      3
+    ],
+    [
+      "genuine",
+      3
+    ],
+    [
+      "worry",
+      3
+    ],
+    [
+      "afford",
+      3
+    ],
+    [
+      "write-off",
+      3
+    ],
+    [
+      "two-prong",
+      3
+    ],
+    [
+      "firstly",
+      3
+    ],
+    [
+      "in-depth",
+      3
+    ],
+    [
+      "going",
+      3
+    ],
+    [
+      "check",
+      3
+    ],
+    [
+      "secondly",
+      3
+    ],
+    [
+      "work",
+      3
+    ],
+    [
+      "tak",
+      3
+    ],
+    [
+      "pay",
+      3
+    ],
+    [
+      "bankrupt",
+      3
+    ],
+    [
+      "occur",
+      3
+    ],
+    [
+      "insurer",
+      3
+    ],
+    [
+      "compensat",
+      3
+    ],
+    [
+      "percentage",
+      3
+    ],
+    [
+      "unpaid",
+      3
+    ],
+    [
+      "invoice",
+      3
+    ],
+    [
+      "transfer",
+      3
+    ],
+    [
+      "security",
+      3
+    ],
+    [
+      "tighten",
+      3
+    ],
+    [
+      "track",
+      3
+    ],
+    [
+      "record",
+      3
+    ],
+    [
+      "either",
+      3
+    ],
+    [
+      "partial",
+      3
+    ],
+    [
+      "say",
+      3
+    ],
+    [
+      "glad",
+      3
+    ],
+    [
+      "follow-up",
+      3
+    ],
+    [
+      "matrix",
+      3
+    ],
+    [
+      "data",
+      3
+    ],
+    [
+      "particularly",
+      3
+    ],
+    [
+      "associat",
+      3
+    ],
+    [
+      "first",
+      3
+    ],
+    [
+      "erod",
+      3
+    ],
+    [
+      "earning",
+      3
+    ],
+    [
+      "correct",
+      3
+    ],
+    [
+      "priority",
+      3
+    ],
+    [
+      "contact",
+      3
+    ],
+    [
+      "propos",
+      3
+    ],
+    [
+      "agreement",
+      3
+    ],
+    [
+      "think",
+      3
+    ],
+    [
+      "appropriate",
+      3
+    ],
+    [
+      "hedge",
+      3
+    ],
+    [
+      "ratio",
+      3
+    ],
+    [
+      "instability",
+      3
+    ],
+    [
+      "coverage",
+      3
+    ],
+    [
+      "seem",
+      3
+    ],
+    [
+      "prudent",
+      3
+    ],
+    [
+      "maximum",
+      3
+    ],
+    [
+      "eliminat",
+      3
+    ],
+    [
+      "benefit",
+      3
+    ],
+    [
+      "unexpect",
+      3
+    ],
+    [
+      "execute",
+      3
+    ],
+    [
+      "immediately",
+      3
+    ],
+    [
+      "rais",
+      3
+    ],
+    [
+      "large",
+      3
+    ],
+    [
+      "promise",
+      3
+    ],
+    [
+      "offset",
+      3
+    ],
+    [
+      "complet",
+      3
+    ],
+    [
+      "detail",
+      3
+    ],
+    [
+      "request",
+      3
+    ],
+    [
+      "medium",
+      3
+    ],
+    [
+      "bracket",
+      3
+    ],
+    [
+      "short",
+      3
+    ],
+    [
+      "fear",
+      3
+    ],
+    [
+      "strategi",
+      3
+    ],
+    [
+      "sourc",
+      3
+    ],
+    [
+      "quot",
+      3
+    ],
+    [
+      "policy",
+      3
+    ],
+    [
+      "premium",
+      3
+    ],
+    [
+      "justifiable",
+      3
+    ],
+    [
+      "non-payment",
+      3
+    ],
+    [
+      "outright",
+      3
+    ],
+    [
+      "essential",
+      3
+    ],
+    [
+      "mechanism",
+      3
+    ],
+    [
+      "catastrophic",
+      3
+    ],
+    [
+      "stricter",
+      3
+    ],
+    [
+      "communicate",
+      3
+    ],
+    [
+      "jeopardiz",
+      3
+    ],
+    [
+      "deal",
+      3
+    ],
+    [
+      "frame",
+      3
+    ],
+    [
+      "governance",
+      3
+    ],
+    [
+      "confirmation",
+      3
+    ],
+    [
+      "additionally",
+      3
+    ],
+    [
+      "finalize",
+      3
+    ],
+    [
+      "compil",
+      3
+    ],
+    [
+      "projection",
+      3
+    ],
+    [
+      "excellent",
+      3
+    ],
+    [
+      "net",
+      3
+    ],
+    [
+      "stand",
+      3
+    ],
+    [
+      "promis",
+      3
+    ],
+    [
+      "align",
+      3
+    ],
+    [
+      "four",
+      3
+    ],
+    [
+      "recover",
+      3
+    ],
+    [
+      "acceptable",
+      3
+    ],
+    [
+      "range",
+      3
+    ],
+    [
+      "overlook",
+      3
+    ],
+    [
+      "examine",
+      3
+    ],
+    [
+      "variable",
+      3
+    ],
+    [
+      "mpv",
+      3
+    ],
+    [
+      "put",
+      3
+    ],
+    [
+      "sharply",
+      3
+    ],
+    [
+      "since",
+      3
+    ],
+    [
+      "non-viability",
+      3
+    ],
+    [
+      "assumption",
+      3
+    ],
+    [
+      "materialize",
+      3
+    ],
+    [
+      "driver",
+      3
+    ],
+    [
+      "lead",
+      3
+    ],
+    [
+      "decrease",
+      3
+    ],
+    [
+      "pric",
+      3
+    ],
+    [
+      "slower",
+      3
+    ],
+    [
+      "combin",
+      3
+    ],
+    [
+      "attempt",
+      3
+    ],
+    [
+      "mitigate",
+      3
+    ],
+    [
+      "keep",
+      3
+    ],
+    [
+      "calculation",
+      3
+    ],
+    [
+      "marginally",
+      3
+    ],
+    [
+      "inch",
+      3
+    ],
+    [
+      "fine",
+      3
+    ],
+    [
+      "highlight",
+      3
+    ],
+    [
+      "timeline",
+      3
+    ],
+    [
+      "tell",
+      3
+    ],
+    [
+      "rollout",
+      3
+    ],
+    [
+      "robust",
+      3
+    ],
+    [
+      "agre",
+      3
+    ],
+    [
+      "allocate",
+      3
+    ],
+    [
+      "additional",
+      3
+    ],
+    [
+      "earmark",
+      3
+    ],
+    [
+      "unforeseen",
+      3
+    ],
+    [
+      "response",
+      3
+    ],
+    [
+      "downside",
+      3
+    ],
+    [
+      "affect",
+      3
+    ],
+    [
+      "buy",
+      3
+    ],
+    [
+      "lower",
+      3
+    ],
+    [
+      "profile",
+      3
+    ],
+    [
+      "defend",
+      3
+    ],
+    [
+      "full",
+      3
+    ],
+    [
+      "severe",
+      3
+    ],
+    [
+      "cost-sav",
+      3
+    ],
+    [
+      "activat",
+      3
+    ],
+    [
+      "define",
+      3
+    ],
+    [
+      "stage",
+      3
+    ],
+    [
+      "include",
+      3
+    ],
+    [
+      "freeze",
+      3
+    ],
+    [
+      "non-essential",
+      3
+    ],
+    [
+      "renegotiation",
+      3
+    ],
+    [
+      "software",
+      3
+    ],
+    [
+      "licens",
+      3
+    ],
+    [
+      "quantify",
+      3
+    ],
+    [
+      "recovery",
+      3
+    ],
+    [
+      "change",
+      3
+    ],
+    [
+      "becom",
+      3
+    ],
+    [
+      "talk",
+      3
+    ],
+    [
+      "path",
+      3
+    ],
+    [
+      "adverse",
+      3
+    ],
+    [
+      "demonstrat",
+      3
+    ],
+    [
+      "management",
+      3
+    ],
+    [
+      "exit",
+      3
+    ],
+    [
+      "crucial",
+      3
+    ],
+    [
+      "find",
+      3
+    ],
+    [
+      "mitigat",
+      3
+    ],
+    [
+      "action",
+      3
+    ],
+    [
+      "quantifiable",
+      3
+    ],
+    [
+      "tied",
+      3
+    ],
+    [
+      "threshold",
+      3
+    ],
+    [
+      "precisely",
+      3
+    ],
+    [
+      "everyth",
+      3
+    ],
+    [
+      "rapid",
+      3
+    ],
+    [
+      "adoption",
+      3
+    ],
+    [
+      "minimal",
+      3
+    ],
+    [
+      "interference",
+      3
+    ],
+    [
+      "priya",
+      3
+    ],
+    [
+      "time",
+      3
+    ],
+    [
+      "evaluation",
+      3
+    ],
+    [
+      "strong",
+      3
+    ],
+    [
+      "perspectiv",
+      3
+    ],
+    [
+      "land",
+      3
+    ],
+    [
+      "unifi",
+      3
+    ],
+    [
+      "keen",
+      3
+    ],
+    [
+      "hear",
+      3
+    ],
+    [
+      "take",
+      3
+    ],
+    [
+      "discussion",
+      3
+    ],
+    [
+      "inventory",
+      3
+    ],
+    [
+      "system",
+      3
+    ],
+    [
+      "purely",
+      3
+    ],
+    [
+      "standpoint",
+      3
+    ],
+    [
+      "difference",
+      3
+    ],
+    [
+      "generate",
+      3
+    ],
+    [
+      "upgrade",
+      3
+    ],
+    [
+      "massive",
+      3
+    ],
+    [
+      "studi",
+      3
+    ],
+    [
+      "risk-adjust",
+      3
+    ],
+    [
+      "substantial",
+      3
+    ],
+    [
+      "upfront",
+      3
+    ],
+    [
+      "translat",
+      3
+    ],
+    [
+      "overrun",
+      3
+    ],
+    [
+      "erode",
+      3
+    ],
+    [
+      "acknowledge",
+      3
+    ],
+    [
+      "enter",
+      3
+    ],
+    [
+      "space",
+      3
+    ],
+    [
+      "heavily",
+      3
+    ],
+    [
+      "short-term",
+      3
+    ],
+    [
+      "safety",
+      3
+    ],
+    [
+      "view",
+      3
+    ],
+    [
+      "offer",
+      3
+    ],
+    [
+      "guarante",
+      3
+    ],
+    [
+      "steady",
+      3
+    ],
+    [
+      "quick",
+      3
+    ],
+    [
+      "utiliz",
+      3
+    ],
+    [
+      "definition",
+      3
+    ],
+    [
+      "safe",
+      3
+    ],
+    [
+      "profitable",
+      3
+    ],
+    [
+      "bet",
+      3
+    ],
+    [
+      "industry",
+      3
+    ],
+    [
+      "hard",
+      3
+    ],
+    [
+      "toward",
+      3
+    ],
+    [
+      "automat",
+      3
+    ],
+    [
+      "cloud-bas",
+      3
+    ],
+    [
+      "solution",
+      3
+    ],
+    [
+      "mover",
+      3
+    ],
+    [
+      "retail",
+      3
+    ],
+    [
+      "giv",
+      3
+    ],
+    [
+      "long-term",
+      3
+    ],
+    [
+      "almost",
+      3
+    ],
+    [
+      "twice",
+      3
+    ],
+    [
+      "tie",
+      3
+    ],
+    [
+      "longer",
+      3
+    ],
+    [
+      "duration",
+      3
+    ],
+    [
+      "consider",
+      3
+    ],
+    [
+      "upgrad",
+      3
+    ],
+    [
+      "entirely",
+      3
+    ],
+    [
+      "miss",
+      3
+    ],
+    [
+      "window",
+      3
+    ],
+    [
+      "competitor",
+      3
+    ],
+    [
+      "surely",
+      3
+    ],
+    [
+      "step",
+      3
+    ],
+    [
+      "competitiveness",
+      3
+    ],
+    [
+      "suffer",
+      3
+    ],
+    [
+      "though",
+      3
+    ],
+    [
+      "validat",
+      3
+    ],
+    [
+      "zero",
+      3
+    ],
+    [
+      "error",
+      3
+    ],
+    [
+      "bring",
+      3
+    ],
+    [
+      "back",
+      3
+    ],
+    [
+      "phas",
+      3
+    ],
+    [
+      "tranch",
+      3
+    ],
+    [
+      "release",
+      3
+    ],
+    [
+      "checkpoint",
+      3
+    ],
+    [
+      "sensible",
+      3
+    ],
+    [
+      "implementation",
+      3
+    ],
+    [
+      "use",
+      3
+    ],
+    [
+      "onboard",
+      3
+    ],
+    [
+      "core",
+      3
+    ],
+    [
+      "validate",
+      3
+    ],
+    [
+      "mvp",
+      3
+    ],
+    [
+      "design",
+      3
+    ],
+    [
+      "raw",
+      3
+    ],
+    [
+      "material",
+      3
+    ],
+    [
+      "quickly",
+      3
+    ],
+    [
+      "hire",
+      3
+    ],
+    [
+      "integrate",
+      3
+    ],
+    [
+      "specializ",
+      3
+    ],
+    [
+      "com",
+      3
+    ],
+    [
+      "appreciate",
+      3
+    ],
+    [
+      "happy",
+      3
+    ],
+    [
+      "fiscal",
+      3
+    ],
+    [
+      "overall",
+      3
+    ],
+    [
+      "noticeably",
+      3
+    ],
+    [
+      "fire",
+      3
+    ],
+    [
+      "strict",
+      3
+    ],
+    [
+      "ris",
+      3
+    ],
+    [
+      "jump",
+      3
+    ],
+    [
+      "fully",
+      3
+    ],
+    [
+      "link",
+      3
+    ],
+    [
+      "maintenance",
+      3
+    ],
+    [
+      "justify",
+      3
+    ],
+    [
+      "disproportionate",
+      3
+    ],
+    [
+      "anticipat",
+      3
+    ],
+    [
+      "biggest",
+      3
+    ],
+    [
+      "require",
+      3
+    ],
+    [
+      "fund",
+      3
+    ],
+    [
+      "placement",
+      3
+    ],
+    [
+      "high-quality",
+      3
+    ],
+    [
+      "platform",
+      3
+    ],
+    [
+      "advertis",
+      3
+    ],
+    [
+      "recognize",
+      3
+    ],
+    [
+      "drive",
+      3
+    ],
+    [
+      "awareness",
+      3
+    ],
+    [
+      "ensure",
+      3
+    ],
+    [
+      "every",
+      3
+    ],
+    [
+      "dollar",
+      3
+    ],
+    [
+      "optimiz",
+      3
+    ],
+    [
+      "weve",
+      3
+    ],
+    [
+      "roi",
+      3
+    ],
+    [
+      "conversion",
+      3
+    ],
+    [
+      "rat",
+      3
+    ],
+    [
+      "enhanc",
+      3
+    ],
+    [
+      "capabiliti",
+      3
+    ],
+    [
+      "provide",
+      3
+    ],
+    [
+      "efficiency",
+      3
+    ],
+    [
+      "achieve",
+      3
+    ],
+    [
+      "close",
+      3
+    ],
+    [
+      "opportunity",
+      3
+    ],
+    [
+      "streamline",
+      3
+    ],
+    [
+      "using",
+      3
+    ],
+    [
+      "ther",
+      3
+    ],
+    [
+      "finance",
+      3
+    ],
+    [
+      "objective",
+      3
+    ],
+    [
+      "maintain",
+      3
+    ],
+    [
+      "discipline",
+      3
+    ],
+    [
+      "negotiate",
+      3
+    ],
+    [
+      "perhap",
+      3
+    ],
+    [
+      "fair",
+      3
+    ],
+    [
+      "challenge",
+      3
+    ],
+    [
+      "able",
+      3
+    ],
+    [
+      "stronger",
+      3
+    ],
+    [
+      "negotiation",
+      3
+    ],
+    [
+      "fee",
+      3
+    ],
+    [
+      "bundl",
+      3
+    ],
+    [
+      "one",
+      3
+    ],
+    [
+      "package",
+      3
+    ],
+    [
+      "helpful",
+      3
+    ],
+    [
+      "still",
+      3
+    ],
+    [
+      "considerable",
+      3
+    ],
+    [
+      "gap",
+      3
+    ],
+    [
+      "mandate",
+      3
+    ],
+    [
+      "closer",
+      3
+    ],
+    [
+      "sustainably",
+      3
+    ],
+    [
+      "support",
+      3
+    ],
+    [
+      "cut",
+      3
+    ],
+    [
+      "extremely",
+      3
+    ],
+    [
+      "difficult",
+      3
+    ],
+    [
+      "entire",
+      3
+    ],
+    [
+      "flat",
+      3
+    ],
+    [
+      "insufficient",
+      3
+    ],
+    [
+      "frequency",
+      3
+    ],
+    [
+      "reach",
+      3
+    ],
+    [
+      "make",
+      3
+    ],
+    [
+      "whole",
+      3
+    ],
+    [
+      "unproductive",
+      3
+    ],
+    [
+      "practice",
+      2
+    ],
+    [
+      "euro-yen",
+      2
+    ],
+    [
+      "tradeoff",
+      2
+    ],
+    [
+      "novatech",
+      2
+    ],
+    [
+      "destructive",
+      2
+    ],
+    [
+      "let",
+      2
+    ],
+    [
+      "re-evaluation",
+      2
+    ],
+    [
+      "listen",
+      1
+    ],
+    [
+      "speak",
+      1
+    ],
+    [
+      "perfect",
+      1
+    ],
+    [
+      "value-destructive",
+      1
+    ],
+    [
+      "reevaluation",
+      1
+    ],
+    [
+      "magnova",
+      1
+    ],
+    [
+      "solvency",
+      1
+    ],
+    [
+      "hello",
+      1
+    ],
+    [
+      "lost",
+      1
+    ],
+    [
+      "percent",
+      1
+    ],
+    [
+      "trade-off",
+      1
+    ],
+    [
+      "year-over-year",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 7304,
+    "unique_words": 690,
+    "duration_min": 56.9
+  }
+}

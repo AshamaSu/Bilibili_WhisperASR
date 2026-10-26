@@ -17,6 +17,8 @@ data_backup/
 
 # 流水线瞬态：临时文件、WAV、日志、冒烟产物
 work/
+logs/
+.workbuddy/
 
 # macOS
 .DS_Store

@@ -1,0 +1,8045 @@
+{
+  "file_stem": "36_RealBusinessMeetingConversations",
+  "no": 36,
+  "title_keywords": [
+    [
+      "real",
+      "real"
+    ],
+    [
+      "business",
+      "business"
+    ],
+    [
+      "meeting",
+      "meet"
+    ],
+    [
+      "conversations",
+      "conversation"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "good",
+      33,
+      "A2"
+    ],
+    [
+      "customer",
+      31,
+      "B1+"
+    ],
+    [
+      "decisions",
+      31,
+      "B1+"
+    ],
+    [
+      "risk",
+      29,
+      "A2"
+    ],
+    [
+      "support",
+      29,
+      "A2"
+    ],
+    [
+      "agreed",
+      26,
+      "B1+"
+    ],
+    [
+      "need",
+      26,
+      "A2"
+    ],
+    [
+      "owners",
+      24,
+      "B1+"
+    ],
+    [
+      "teams",
+      24,
+      "A2"
+    ],
+    [
+      "review",
+      22,
+      "B1+"
+    ],
+    [
+      "marketing",
+      21,
+      "A2"
+    ],
+    [
+      "recap",
+      21,
+      "B1+"
+    ],
+    [
+      "pilot",
+      20,
+      "A2"
+    ],
+    [
+      "make",
+      19,
+      "A2"
+    ],
+    [
+      "also",
+      18,
+      "A2"
+    ],
+    [
+      "clear",
+      18,
+      "A2"
+    ],
+    [
+      "want",
+      18,
+      "A2"
+    ],
+    [
+      "finance",
+      16,
+      "B1+"
+    ],
+    [
+      "talk",
+      16,
+      "A2"
+    ],
+    [
+      "testing",
+      16,
+      "A2"
+    ],
+    [
+      "next",
+      15,
+      "A2"
+    ],
+    [
+      "vendor",
+      15,
+      "B1+"
+    ],
+    [
+      "wednesday",
+      15,
+      "B1+"
+    ],
+    [
+      "data",
+      14,
+      "B1+"
+    ],
+    [
+      "engineering",
+      14,
+      "B1+"
+    ],
+    [
+      "exactly",
+      14,
+      "B1+"
+    ],
+    [
+      "feedback",
+      14,
+      "B1+"
+    ],
+    [
+      "go",
+      14,
+      "A2"
+    ],
+    [
+      "product",
+      14,
+      "B1+"
+    ],
+    [
+      "tomorrow",
+      14,
+      "A2"
+    ],
+    [
+      "updates",
+      14,
+      "B1+"
+    ],
+    [
+      "channel",
+      13,
+      "B1+"
+    ],
+    [
+      "include",
+      13,
+      "A2"
+    ],
+    [
+      "launch",
+      13,
+      "B1+"
+    ],
+    [
+      "communication",
+      12,
+      "B1+"
+    ],
+    [
+      "correct",
+      12,
+      "A2"
+    ],
+    [
+      "early",
+      12,
+      "A2"
+    ],
+    [
+      "keep",
+      12,
+      "A2"
+    ],
+    [
+      "messaging",
+      12,
+      "B1+"
+    ],
+    [
+      "morning",
+      12,
+      "B1+"
+    ],
+    [
+      "thursday",
+      12,
+      "B1+"
+    ],
+    [
+      "clearly",
+      11,
+      "B1+"
+    ],
+    [
+      "close",
+      11,
+      "A2"
+    ],
+    [
+      "draft",
+      11,
+      "B1+"
+    ],
+    [
+      "meeting",
+      11,
+      "A2"
+    ],
+    [
+      "one",
+      11,
+      "A2"
+    ],
+    [
+      "pricing",
+      11,
+      "B1+"
+    ],
+    [
+      "sales",
+      11,
+      "B1+"
+    ],
+    [
+      "sure",
+      11,
+      "A2"
+    ],
+    [
+      "today",
+      11,
+      "A2"
+    ],
+    [
+      "us",
+      11,
+      "A2"
+    ],
+    [
+      "within",
+      11,
+      "A2"
+    ],
+    [
+      "without",
+      11,
+      "A2"
+    ],
+    [
+      "aligned",
+      10,
+      "B1+"
+    ],
+    [
+      "call",
+      10,
+      "A2"
+    ],
+    [
+      "confirm",
+      10,
+      "B1+"
+    ],
+    [
+      "end",
+      10,
+      "A2"
+    ],
+    [
+      "final",
+      10,
+      "B1+"
+    ],
+    [
+      "leadership",
+      10,
+      "B1+"
+    ],
+    [
+      "minutes",
+      10,
+      "B1+"
+    ],
+    [
+      "scope",
+      10,
+      "B1+"
+    ],
+    [
+      "send",
+      10,
+      "A2"
+    ],
+    [
+      "still",
+      10,
+      "A2"
+    ],
+    [
+      "time",
+      10,
+      "A2"
+    ],
+    [
+      "adoption",
+      9,
+      "B1+"
+    ],
+    [
+      "concise",
+      9,
+      "B1+"
+    ],
+    [
+      "critical",
+      9,
+      "B1+"
+    ],
+    [
+      "excellent",
+      9,
+      "B1+"
+    ],
+    [
+      "expectations",
+      9,
+      "B1+"
+    ],
+    [
+      "faq",
+      9,
+      "B1+"
+    ],
+    [
+      "feature",
+      9,
+      "B1+"
+    ],
+    [
+      "legal",
+      9,
+      "B1+"
+    ],
+    [
+      "perfect",
+      9,
+      "A2"
+    ],
+    [
+      "plan",
+      9,
+      "A2"
+    ],
+    [
+      "questions",
+      9,
+      "A2"
+    ],
+    [
+      "timeline",
+      9,
+      "B1+"
+    ],
+    [
+      "absolutely",
+      8,
+      "B1+"
+    ],
+    [
+      "alignment",
+      8,
+      "B1+"
+    ],
+    [
+      "ask",
+      8,
+      "A2"
+    ],
+    [
+      "dashboard",
+      8,
+      "B1+"
+    ],
+    [
+      "delays",
+      8,
+      "B1+"
+    ],
+    [
+      "everything",
+      8,
+      "B1+"
+    ],
+    [
+      "important",
+      8,
+      "A2"
+    ],
+    [
+      "log",
+      8,
+      "B1+"
+    ],
+    [
+      "matters",
+      8,
+      "A2"
+    ],
+    [
+      "people",
+      8,
+      "A2"
+    ],
+    [
+      "please",
+      8,
+      "A2"
+    ],
+    [
+      "points",
+      8,
+      "A2"
+    ],
+    [
+      "quickly",
+      8,
+      "B1+"
+    ],
+    [
+      "said",
+      8,
+      "A2"
+    ],
+    [
+      "set",
+      8,
+      "B1+"
+    ],
+    [
+      "step",
+      8,
+      "A2"
+    ],
+    [
+      "success",
+      8,
+      "B1+"
+    ],
+    [
+      "thank",
+      8,
+      "A2"
+    ],
+    [
+      "training",
+      8,
+      "A2"
+    ],
+    [
+      "add",
+      7,
+      "B1+"
+    ],
+    [
+      "clarity",
+      7,
+      "B1+"
+    ],
+    [
+      "confusion",
+      7,
+      "B1+"
+    ],
+    [
+      "deliver",
+      7,
+      "B1+"
+    ],
+    [
+      "design",
+      7,
+      "B1+"
+    ],
+    [
+      "discipline",
+      7,
+      "B1+"
+    ],
+    [
+      "documents",
+      7,
+      "B1+"
+    ],
+    [
+      "escalation",
+      7,
+      "B1+"
+    ],
+    [
+      "even",
+      7,
+      "B1+"
+    ],
+    [
+      "first",
+      7,
+      "A2"
+    ],
+    [
+      "focused",
+      7,
+      "B1+"
+    ],
+    [
+      "great",
+      7,
+      "A2"
+    ],
+    [
+      "issues",
+      7,
+      "B1+"
+    ],
+    [
+      "leo",
+      7,
+      "B1+"
+    ],
+    [
+      "metrics",
+      7,
+      "B1+"
+    ],
+    [
+      "monday",
+      7,
+      "B1+"
+    ],
+    [
+      "move",
+      7,
+      "A2"
+    ],
+    [
+      "readiness",
+      7,
+      "B1+"
+    ],
+    [
+      "response",
+      7,
+      "B1+"
+    ],
+    [
+      "short",
+      7,
+      "A2"
+    ],
+    [
+      "start",
+      7,
+      "A2"
+    ],
+    [
+      "tuesday",
+      7,
+      "B1+"
+    ],
+    [
+      "understand",
+      7,
+      "A2"
+    ],
+    [
+      "week",
+      7,
+      "A2"
+    ],
+    [
+      "we've",
+      7,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "let's talk",
+      "count": 12,
+      "example": "Now let's talk about the go or no-go decision.",
+      "t": 216.47
+    },
+    {
+      "text": "make sure",
+      "count": 10,
+      "example": "make sure we are completely aligned on what has been decided and what still needs attention.",
+      "t": 19.83
+    },
+    {
+      "text": "i'll also",
+      "count": 7,
+      "example": "I'll also send a short note summarizing what we need from finance so there's",
+      "t": 115.67
+    },
+    {
+      "text": "i'll include",
+      "count": 5,
+      "example": "I'll include leadership, product, engineering, marketing, support, and finance.",
+      "t": 239.35
+    },
+    {
+      "text": "tomorrow morning",
+      "count": 5,
+      "example": "Ninth, the data team will validate the logging pipeline and report back tomorrow morning.",
+      "t": 428.53
+    },
+    {
+      "text": "don't want",
+      "count": 4,
+      "example": "I don't want us leaving this call with assumptions instead of clarity.",
+      "t": 25.55
+    },
+    {
+      "text": "let's start",
+      "count": 4,
+      "example": "Let's start from the top.",
+      "t": 42.95
+    },
+    {
+      "text": "noon tomorrow",
+      "count": 4,
+      "example": "Finance will confirm final numbers by noon tomorrow, which gives marketing enough time",
+      "t": 84.27
+    },
+    {
+      "text": "end of day",
+      "count": 4,
+      "example": "I'll draft the first version and share it by end of day Wednesday.",
+      "t": 186.51
+    },
+    {
+      "text": "p m",
+      "count": 4,
+      "example": "Tuesday at 3 p.m. for 30 minutes.",
+      "t": 224.95
+    }
+  ],
+  "phrases": [
+    {
+      "text": "let's talk",
+      "count": 12,
+      "example": "Now let's talk about the go or no-go decision.",
+      "t": 216.47
+    },
+    {
+      "text": "make sure",
+      "count": 10,
+      "example": "make sure we are completely aligned on what has been decided and what still needs attention.",
+      "t": 19.83
+    },
+    {
+      "text": "i'll also",
+      "count": 7,
+      "example": "I'll also send a short note summarizing what we need from finance so there's",
+      "t": 115.67
+    },
+    {
+      "text": "i'll include",
+      "count": 5,
+      "example": "I'll include leadership, product, engineering, marketing, support, and finance.",
+      "t": 239.35
+    },
+    {
+      "text": "tomorrow morning",
+      "count": 5,
+      "example": "Ninth, the data team will validate the logging pipeline and report back tomorrow morning.",
+      "t": 428.53
+    },
+    {
+      "text": "don't want",
+      "count": 4,
+      "example": "I don't want us leaving this call with assumptions instead of clarity.",
+      "t": 25.55
+    },
+    {
+      "text": "let's start",
+      "count": 4,
+      "example": "Let's start from the top.",
+      "t": 42.95
+    },
+    {
+      "text": "noon tomorrow",
+      "count": 4,
+      "example": "Finance will confirm final numbers by noon tomorrow, which gives marketing enough time",
+      "t": 84.27
+    },
+    {
+      "text": "end of day",
+      "count": 4,
+      "example": "I'll draft the first version and share it by end of day Wednesday.",
+      "t": 186.51
+    },
+    {
+      "text": "p m",
+      "count": 4,
+      "example": "Tuesday at 3 p.m. for 30 minutes.",
+      "t": 224.95
+    },
+    {
+      "text": "i'll send",
+      "count": 4,
+      "example": "I'll send the calendar invite right after this meeting.",
+      "t": 227.55
+    },
+    {
+      "text": "within hours",
+      "count": 4,
+      "example": "I'll ask the vendor for an uptime and incident report within 24 hours.",
+      "t": 264.93
+    },
+    {
+      "text": "slack channel",
+      "count": 4,
+      "example": "Very true. Now, one operational question. Should we set up a dedicated Slack channel for this launch?",
+      "t": 297.87
+    },
+    {
+      "text": "decision log",
+      "count": 4,
+      "example": "timeline, key documents, and the decision log.",
+      "t": 310.19
+    },
+    {
+      "text": "within minutes",
+      "count": 4,
+      "example": "And you'll send the recap within 15 minutes?",
+      "t": 349.91
+    },
+    {
+      "text": "send the recap",
+      "count": 4,
+      "example": "And you'll send the recap within 15 minutes?",
+      "t": 349.91
+    },
+    {
+      "text": "let's move",
+      "count": 4,
+      "example": "All right, before we formally close, let's move to the next set of decisions we discussed",
+      "t": 364.25
+    },
+    {
+      "text": "want us",
+      "count": 3,
+      "example": "I don't want us leaving this call with assumptions instead of clarity.",
+      "t": 25.55
+    },
+    {
+      "text": "thursday morning",
+      "count": 3,
+      "example": "We agreed that the launch email copy will be finalized by Thursday morning.",
+      "t": 46.07
+    },
+    {
+      "text": "brings us",
+      "count": 3,
+      "example": "That works as long as finance actually hits that deadline, which brings us to the next",
+      "t": 91.03
+    },
+    {
+      "text": "i'll keep",
+      "count": 3,
+      "example": "Will do. I'll keep it concise but clear. Great. Moving on to product. Product will",
+      "t": 128.75
+    },
+    {
+      "text": "day wednesday",
+      "count": 3,
+      "example": "I'll draft the first version and share it by end of day Wednesday.",
+      "t": 186.51
+    },
+    {
+      "text": "i'll make",
+      "count": 3,
+      "example": "I'll make sure the language is simple, direct, and consistent with the marketing and product",
+      "t": 210.11
+    },
+    {
+      "text": "i'll make sure",
+      "count": 3,
+      "example": "I'll make sure the language is simple, direct, and consistent with the marketing and product",
+      "t": 210.11
+    },
+    {
+      "text": "vendor api",
+      "count": 3,
+      "example": "The biggest one right now is vendor API stability.",
+      "t": 255.11
+    },
+    {
+      "text": "next monday",
+      "count": 3,
+      "example": "timeline reliability. Third, we moved the Customer Advisory Board preview to next Monday",
+      "t": 386.33
+    },
+    {
+      "text": "success metrics",
+      "count": 3,
+      "example": "Success Metrics dashboard. Good, keep going. Fifth, support will draft proactive responses",
+      "t": 398.17
+    },
+    {
+      "text": "also add",
+      "count": 3,
+      "example": "I'll also add a status column so people can update progress without pinging others",
+      "t": 475.25
+    },
+    {
+      "text": "social posts",
+      "count": 3,
+      "example": "rollout scheduling, Finance monitors spend, Marketing owns social posts, the success team",
+      "t": 519.65
+    },
+    {
+      "text": "let's go",
+      "count": 3,
+      "example": "So let's go through each area conversationally.",
+      "t": 723.15
+    },
+    {
+      "text": "early users",
+      "count": 3,
+      "example": "A calm, confident, and honest tone will attract the right early users.",
+      "t": 816.21
+    },
+    {
+      "text": "escalation paths",
+      "count": 3,
+      "example": "Support needs scripts, FAQs, and escalation paths that are easy to follow.",
+      "t": 873.45
+    },
+    {
+      "text": "risk management",
+      "count": 3,
+      "example": "That ties into risk management. We've identified risks, but the real test is how we respond",
+      "t": 914.37
+    },
+    {
+      "text": "talk briefly",
+      "count": 3,
+      "example": "Exactly. Now let's talk briefly about communication norms.",
+      "t": 976.61
+    },
+    {
+      "text": "let's talk briefly",
+      "count": 3,
+      "example": "Exactly. Now let's talk briefly about communication norms.",
+      "t": 976.61
+    },
+    {
+      "text": "next steps",
+      "count": 3,
+      "example": "That brings us to next steps.",
+      "t": 1122.19
+    },
+    {
+      "text": "decisions owners",
+      "count": 3,
+      "example": "A written recap will go out shortly with decisions, owners, timelines, and risks.",
+      "t": 1124.01
+    },
+    {
+      "text": "move forward",
+      "count": 3,
+      "example": "for your time, your preparation, and your engagement. Let's move forward with confidence",
+      "t": 1167.57
+    },
+    {
+      "text": "support playbook",
+      "count": 3,
+      "example": "I plan to add a simple escalation matrix to the support playbook.",
+      "t": 1464.03
+    },
+    {
+      "text": "vendor latency",
+      "count": 3,
+      "example": "Vendor latency is clearly our top risk.",
+      "t": 1974.39
+    },
+    {
+      "text": "data validation",
+      "count": 3,
+      "example": "Leo owns data validation.",
+      "t": 1999.83
+    },
+    {
+      "text": "completely aligned",
+      "count": 2,
+      "example": "make sure we are completely aligned on what has been decided and what still needs attention.",
+      "t": 19.83
+    },
+    {
+      "text": "still needs",
+      "count": 2,
+      "example": "make sure we are completely aligned on what has been decided and what still needs attention.",
+      "t": 19.83
+    },
+    {
+      "text": "save us",
+      "count": 2,
+      "example": "Owners and deadlines now will save us from confusion later, especially once people switch",
+      "t": 35.03
+    },
+    {
+      "text": "owners and deadlines",
+      "count": 2,
+      "example": "Owners and deadlines now will save us from confusion later, especially once people switch",
+      "t": 35.03
+    },
+    {
+      "text": "launch email",
+      "count": 2,
+      "example": "We agreed that the launch email copy will be finalized by Thursday morning.",
+      "t": 46.07
+    },
+    {
+      "text": "email copy",
+      "count": 2,
+      "example": "We agreed that the launch email copy will be finalized by Thursday morning.",
+      "t": 46.07
+    },
+    {
+      "text": "launch email copy",
+      "count": 2,
+      "example": "We agreed that the launch email copy will be finalized by Thursday morning.",
+      "t": 46.07
+    },
+    {
+      "text": "finalized by thursday",
+      "count": 2,
+      "example": "We agreed that the launch email copy will be finalized by Thursday morning.",
+      "t": 46.07
+    },
+    {
+      "text": "finance committed",
+      "count": 2,
+      "example": "Finance committed to reviewing pricing scenarios and reverting by noon tomorrow for leadership",
+      "t": 97.23
+    },
+    {
+      "text": "pricing scenarios",
+      "count": 2,
+      "example": "Finance committed to reviewing pricing scenarios and reverting by noon tomorrow for leadership",
+      "t": 97.23
+    },
+    {
+      "text": "committed to reviewing",
+      "count": 2,
+      "example": "Finance committed to reviewing pricing scenarios and reverting by noon tomorrow for leadership",
+      "t": 97.23
+    },
+    {
+      "text": "scenarios and reverting",
+      "count": 2,
+      "example": "Finance committed to reviewing pricing scenarios and reverting by noon tomorrow for leadership",
+      "t": 97.23
+    },
+    {
+      "text": "call to reconfirm",
+      "count": 2,
+      "example": "I'll personally ping Ravi right after this call to reconfirm the budget guard rails",
+      "t": 109.23
+    },
+    {
+      "text": "response time",
+      "count": 2,
+      "example": "in expected response time.",
+      "t": 113.73
+    },
+    {
+      "text": "feature list",
+      "count": 2,
+      "example": "lock the feature list today so designers can proceed without rework. Is that lock",
+      "t": 135.47
+    },
+    {
+      "text": "anything else",
+      "count": 2,
+      "example": "issue. Anything else goes into the backlog after the pilot.",
+      "t": 152.03
+    },
+    {
+      "text": "i'll reinforce",
+      "count": 2,
+      "example": "I agree. Product is aligned on that. And I'll reinforce it again in the recap so",
+      "t": 166.31
+    },
+    {
+      "text": "customer-facing materials",
+      "count": 2,
+      "example": "customer-facing materials.",
+      "t": 176.67
+    },
+    {
+      "text": "i'll draft",
+      "count": 2,
+      "example": "I'll draft the first version and share it by end of day Wednesday.",
+      "t": 186.51
+    },
+    {
+      "text": "first version",
+      "count": 2,
+      "example": "I'll draft the first version and share it by end of day Wednesday.",
+      "t": 186.51
+    },
+    {
+      "text": "draft the first",
+      "count": 2,
+      "example": "I'll draft the first version and share it by end of day Wednesday.",
+      "t": 186.51
+    },
+    {
+      "text": "version and share",
+      "count": 2,
+      "example": "I'll draft the first version and share it by end of day Wednesday.",
+      "t": 186.51
+    },
+    {
+      "text": "go or no-go",
+      "count": 2,
+      "example": "Now let's talk about the go or no-go decision.",
+      "t": 216.47
+    },
+    {
+      "text": "tuesday at p",
+      "count": 2,
+      "example": "Tuesday at 3 p.m. for 30 minutes.",
+      "t": 224.95
+    },
+    {
+      "text": "calendar invite",
+      "count": 2,
+      "example": "I'll send the calendar invite right after this meeting.",
+      "t": 227.55
+    },
+    {
+      "text": "send the calendar",
+      "count": 2,
+      "example": "I'll send the calendar invite right after this meeting.",
+      "t": 227.55
+    },
+    {
+      "text": "decision makers",
+      "count": 2,
+      "example": "Make sure all decision makers are included, not just observers.",
+      "t": 230.67
+    },
+    {
+      "text": "product engineering",
+      "count": 2,
+      "example": "I'll include leadership, product, engineering, marketing, support, and finance.",
+      "t": 239.35
+    },
+    {
+      "text": "engineering marketing",
+      "count": 2,
+      "example": "I'll include leadership, product, engineering, marketing, support, and finance.",
+      "t": 239.35
+    },
+    {
+      "text": "marketing support",
+      "count": 2,
+      "example": "I'll include leadership, product, engineering, marketing, support, and finance.",
+      "t": 239.35
+    },
+    {
+      "text": "product engineering marketing",
+      "count": 2,
+      "example": "I'll include leadership, product, engineering, marketing, support, and finance.",
+      "t": 239.35
+    },
+    {
+      "text": "anyone else",
+      "count": 2,
+      "example": "Anyone else can review the notes afterward.",
+      "t": 244.23
+    },
+    {
+      "text": "good approach",
+      "count": 2,
+      "example": "Good approach.",
+      "t": 246.71
+    },
+    {
+      "text": "two weeks",
+      "count": 2,
+      "example": "performance has been inconsistent over the past two weeks.",
+      "t": 258.51
+    },
+    {
+      "text": "i'll ask",
+      "count": 2,
+      "example": "I'll ask the vendor for an uptime and incident report within 24 hours.",
+      "t": 264.93
+    },
+    {
+      "text": "report within",
+      "count": 2,
+      "example": "I'll ask the vendor for an uptime and incident report within 24 hours.",
+      "t": 264.93
+    },
+    {
+      "text": "report within hours",
+      "count": 2,
+      "example": "I'll ask the vendor for an uptime and incident report within 24 hours.",
+      "t": 264.93
+    },
+    {
+      "text": "support team",
+      "count": 2,
+      "example": "I'll also alert the support team so they can prepare proactive customer responses",
+      "t": 281.79
+    },
+    {
+      "text": "big difference",
+      "count": 2,
+      "example": "Excellent. That kind of preparation makes a big difference in customer perception.",
+      "t": 288.43
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen. Practice. Speak. Practice makes you perfect."
+    },
+    {
+      "t": 14.27,
+      "text": "We are almost out of time, so before anyone drops off, let's slow down for a moment and"
+    },
+    {
+      "t": 19.83,
+      "text": "make sure we are completely aligned on what has been decided and what still needs attention."
+    },
+    {
+      "t": 25.55,
+      "text": "I don't want us leaving this call with assumptions instead of clarity."
+    },
+    {
+      "t": 29.51,
+      "text": "Agreed. The discussion was productive, but there were many points covered quickly. Capturing"
+    },
+    {
+      "t": 35.03,
+      "text": "Owners and deadlines now will save us from confusion later, especially once people switch"
+    },
+    {
+      "t": 39.95,
+      "text": "back to their other priorities."
+    },
+    {
+      "t": 41.95,
+      "text": "Exactly."
+    },
+    {
+      "t": 42.95,
+      "text": "Let's start from the top."
+    },
+    {
+      "t": 44.55,
+      "text": "First, marketing."
+    },
+    {
+      "t": 46.07,
+      "text": "We agreed that the launch email copy will be finalized by Thursday morning."
+    },
+    {
+      "t": 50.91,
+      "text": "That means not a draft, not an outline, but a version ready for approval and scheduling."
+    },
+    {
+      "t": 56.63,
+      "text": "Are we aligned on that expectation?"
+    },
+    {
+      "t": 58.87,
+      "text": "Yes, completely aligned."
+    },
+    {
+      "t": 61.03,
+      "text": "Alan confirmed he can deliver the final copy by Thursday morning."
+    },
+    {
+      "t": 64.79,
+      "text": "already has most of the content drafted, so the remaining work is refinement and alignment"
+    },
+    {
+      "t": 69.73,
+      "text": "with the updated positioning."
+    },
+    {
+      "t": 71.43,
+      "text": "Good, and there's no dependency holding that up, correct?"
+    },
+    {
+      "t": 75.91,
+      "text": "Pricing inputs, product details, anything like that?"
+    },
+    {
+      "t": 79.85,
+      "text": "Pricing is still under review, but marketing is using placeholder ranges."
+    },
+    {
+      "t": 84.27,
+      "text": "Finance will confirm final numbers by noon tomorrow, which gives marketing enough time"
+    },
+    {
+      "t": 88.39,
+      "text": "to adjust if needed before Thursday."
+    },
+    {
+      "t": 91.03,
+      "text": "That works as long as finance actually hits that deadline, which brings us to the next"
+    },
+    {
+      "t": 96.15,
+      "text": "point."
+    },
+    {
+      "t": 97.23,
+      "text": "Finance committed to reviewing pricing scenarios and reverting by noon tomorrow for leadership"
+    },
+    {
+      "t": 102.27,
+      "text": "alignment."
+    },
+    {
+      "t": 103.43,
+      "text": "Have we assigned someone to follow up or are we assuming it will just happen?"
+    },
+    {
+      "t": 107.83,
+      "text": "I'm not assuming."
+    },
+    {
+      "t": 109.23,
+      "text": "I'll personally ping Ravi right after this call to reconfirm the budget guard rails"
+    },
+    {
+      "t": 113.73,
+      "text": "in expected response time."
+    },
+    {
+      "t": 115.67,
+      "text": "I'll also send a short note summarizing what we need from finance so there's"
+    },
+    {
+      "t": 119.43,
+      "text": "no ambiguity. Perfect. Please include the context about customer sensitivity and"
+    },
+    {
+      "t": 124.99,
+      "text": "competitive positioning so they understand why timing matters here."
+    },
+    {
+      "t": 128.75,
+      "text": "Will do. I'll keep it concise but clear. Great. Moving on to product. Product will"
+    },
+    {
+      "t": 135.47,
+      "text": "lock the feature list today so designers can proceed without rework. Is that lock"
+    },
+    {
+      "t": 140.99,
+      "text": "truly final or are we still leaving room for exceptions? The agreement was"
+    },
+    {
+      "t": 146.11,
+      "text": "a hard lock. No new features, no scope additions unless there's a critical risk or compliance"
+    },
+    {
+      "t": 152.03,
+      "text": "issue. Anything else goes into the backlog after the pilot."
+    },
+    {
+      "t": 155.79,
+      "text": "Good. That discipline is important. We've lost time in the past by reopening decisions"
+    },
+    {
+      "t": 161.31,
+      "text": "too often. Designers need stability if they're going to deliver on schedule."
+    },
+    {
+      "t": 166.31,
+      "text": "I agree. Product is aligned on that. And I'll reinforce it again in the recap so"
+    },
+    {
+      "t": 170.63,
+      "text": "there's a written record."
+    },
+    {
+      "t": 172.51,
+      "text": "Speaking of the recap, we'll come back to that, but before we do, let's address the"
+    },
+    {
+      "t": 176.67,
+      "text": "customer-facing materials."
+    },
+    {
+      "t": 178.75,
+      "text": "Who owns drafting the FAQ?"
+    },
+    {
+      "t": 181.23,
+      "text": "We mentioned it briefly, but I want it clearly assigned."
+    },
+    {
+      "t": 184.51,
+      "text": "I'll take ownership of the FAQ."
+    },
+    {
+      "t": 186.51,
+      "text": "I'll draft the first version and share it by end of day Wednesday."
+    },
+    {
+      "t": 190.35,
+      "text": "End of day Wednesday, not Thursday, not sometime this week, Wednesday."
+    },
+    {
+      "t": 194.95,
+      "text": "Correct."
+    },
+    {
+      "t": 195.95,
+      "text": "Wednesday."
+    },
+    {
+      "t": 196.95,
+      "text": "That gives support and legal time to review before launch communications go out."
+    },
+    {
+      "t": 201.19,
+      "text": "Exactly."
+    },
+    {
+      "t": 202.19,
+      "text": "The FAQ is critical for reducing inbound questions and preventing misinterpretation, especially"
+    },
+    {
+      "t": 208.27,
+      "text": "during the early rollout."
+    },
+    {
+      "t": 210.11,
+      "text": "I'll make sure the language is simple, direct, and consistent with the marketing and product"
+    },
+    {
+      "t": 214.47,
+      "text": "messaging."
+    },
+    {
+      "t": 215.47,
+      "text": "Good."
+    },
+    {
+      "t": 216.47,
+      "text": "Now let's talk about the go or no-go decision."
+    },
+    {
+      "t": 219.71,
+      "text": "We agreed we need a formal checkpoint next week."
+    },
+    {
+      "t": 222.63,
+      "text": "What's the final decision on timing?"
+    },
+    {
+      "t": 224.95,
+      "text": "Tuesday at 3 p.m. for 30 minutes."
+    },
+    {
+      "t": 227.55,
+      "text": "I'll send the calendar invite right after this meeting."
+    },
+    {
+      "t": 230.67,
+      "text": "Make sure all decision makers are included, not just observers."
+    },
+    {
+      "t": 234.39,
+      "text": "We don't want to delay because someone critical wasn't on the invite."
+    },
+    {
+      "t": 238.35,
+      "text": "Agreed."
+    },
+    {
+      "t": 239.35,
+      "text": "I'll include leadership, product, engineering, marketing, support, and finance."
+    },
+    {
+      "t": 244.23,
+      "text": "Anyone else can review the notes afterward."
+    },
+    {
+      "t": 246.71,
+      "text": "Good approach."
+    },
+    {
+      "t": 247.71,
+      "text": "Now, before we close this section, I want to surface risks."
+    },
+    {
+      "t": 251.43,
+      "text": "Are there any blockers or concerns we haven't captured yet?"
+    },
+    {
+      "t": 255.11,
+      "text": "The biggest one right now is vendor API stability."
+    },
+    {
+      "t": 258.51,
+      "text": "performance has been inconsistent over the past two weeks."
+    },
+    {
+      "t": 262.03,
+      "text": "That's concerning."
+    },
+    {
+      "t": 263.03,
+      "text": "What's the mitigation plan?"
+    },
+    {
+      "t": 264.93,
+      "text": "I'll ask the vendor for an uptime and incident report within 24 hours."
+    },
+    {
+      "t": 269.41,
+      "text": "That should give us data to assess whether this is a short term issue or a systemic"
+    },
+    {
+      "t": 273.55,
+      "text": "risk."
+    },
+    {
+      "t": 274.55,
+      "text": "Good."
+    },
+    {
+      "t": 275.55,
+      "text": "And internally, what are we doing in parallel?"
+    },
+    {
+      "t": 278.63,
+      "text": "Engineering is preparing fallback logic and additional monitoring."
+    },
+    {
+      "t": 281.79,
+      "text": "I'll also alert the support team so they can prepare proactive customer responses"
+    },
+    {
+      "t": 285.83,
+      "text": "in case users experience issues."
+    },
+    {
+      "t": 288.43,
+      "text": "Excellent. That kind of preparation makes a big difference in customer perception."
+    },
+    {
+      "t": 293.23,
+      "text": "Agreed. We've learned that silence creates more frustration than problems do."
+    },
+    {
+      "t": 297.87,
+      "text": "Very true. Now, one operational question. Should we set up a dedicated Slack channel for this launch?"
+    },
+    {
+      "t": 304.91,
+      "text": "Yes, I think that's necessary. I'll create it right after this meeting and pin the owner's list,"
+    },
+    {
+      "t": 310.19,
+      "text": "timeline, key documents, and the decision log."
+    },
+    {
+      "t": 313.55,
+      "text": "Perfect. That will help keep conversations centralized and reduce scattered messages."
+    },
+    {
+      "t": 318.75,
+      "text": "I'll also encourage teams to keep updates concise and action-oriented so the channel doesn't become"
+    },
+    {
+      "t": 324.03,
+      "text": "noisy. Good. Now let's do a quick action summary just to sanity check everything."
+    },
+    {
+      "t": 330.03,
+      "text": "Marketing email by Thursday. Product feature freeze today. Pricing review by noon tomorrow."
+    },
+    {
+      "t": 336.99,
+      "text": "FAQ draft by Wednesday, vendor API follow-up within 24 hours, go or no-go meeting Tuesday"
+    },
+    {
+      "t": 344.71,
+      "text": "at 3 p.m."
+    },
+    {
+      "t": 346.65,
+      "text": "That's correct."
+    },
+    {
+      "t": 347.65,
+      "text": "I'll include all of that in the recap."
+    },
+    {
+      "t": 349.91,
+      "text": "And you'll send the recap within 15 minutes?"
+    },
+    {
+      "t": 352.59,
+      "text": "Yes, within 15 minutes, with owners tagged and deadlines clearly stated."
+    },
+    {
+      "t": 357.23,
+      "text": "Great."
+    },
+    {
+      "t": 358.23,
+      "text": "I'll stay available if you need quick clarifications while drafting."
+    },
+    {
+      "t": 362.25,
+      "text": "Appreciate that."
+    },
+    {
+      "t": 363.25,
+      "text": "It helps keep momentum."
+    },
+    {
+      "t": 364.25,
+      "text": "All right, before we formally close, let's move to the next set of decisions we discussed"
+    },
+    {
+      "t": 369.45,
+      "text": "toward the end of the meeting. We talked about the pilot approach. Can you recap those decisions"
+    },
+    {
+      "t": 374.33,
+      "text": "verbally one more time? Sure. First, we agreed to proceed with a lightweight pilot in the North"
+    },
+    {
+      "t": 380.57,
+      "text": "Region only. Second, we trimmed the scope to three core features to ensure quality and"
+    },
+    {
+      "t": 386.33,
+      "text": "timeline reliability. Third, we moved the Customer Advisory Board preview to next Monday"
+    },
+    {
+      "t": 392.41,
+      "text": "together focused feedback. Fourth, executive sponsor approval was secured for the revised"
+    },
+    {
+      "t": 398.17,
+      "text": "Success Metrics dashboard. Good, keep going. Fifth, support will draft proactive responses"
+    },
+    {
+      "t": 404.65,
+      "text": "for the top five expected customer objections. Sixth, procurement will finalize the vendor"
+    },
+    {
+      "t": 410.33,
+      "text": "addendum once legal shares red lines today. Seventh, design will deliver updated mockups"
+    },
+    {
+      "t": 416.17,
+      "text": "by Friday, including accessibility improvements. Eighth, sales enablement will host a concise"
+    },
+    {
+      "t": 422.09,
+      "text": "training session on Thursday for front-line teams."
+    },
+    {
+      "t": 425.81,
+      "text": "That's a lot of moving parts. Continue."
+    },
+    {
+      "t": 428.53,
+      "text": "Ninth, the data team will validate the logging pipeline and report back tomorrow morning."
+    },
+    {
+      "t": 433.45,
+      "text": "Tenth, we will publish a public-facing roadmap slide deck to the customer portal on Wednesday."
+    },
+    {
+      "t": 438.97,
+      "text": "Eleventh, engineering will run overnight performance tests to confirm stability after"
+    },
+    {
+      "t": 443.85,
+      "text": "recent changes."
+    },
+    {
+      "t": 445.21,
+      "text": "Twelfth, marketing will announce beta-list closure once capacity reaches 90%."
+    },
+    {
+      "t": 451.01,
+      "text": "the final points?"
+    },
+    {
+      "t": 452.43,
+      "text": "14th, we agreed to pause any new feature requests until after pilot results are reviewed."
+    },
+    {
+      "t": 458.13,
+      "text": "15th, retrospectives will be held bi-weekly to capture learnings."
+    },
+    {
+      "t": 462.57,
+      "text": "16th, Slack updates will remain concise with daily check-ins before noon."
+    },
+    {
+      "t": 467.73,
+      "text": "Excellent."
+    },
+    {
+      "t": 468.73,
+      "text": "Please make sure all 15 points are clearly listed in the recap, with owners and dates."
+    },
+    {
+      "t": 474.25,
+      "text": "I will."
+    },
+    {
+      "t": 475.25,
+      "text": "I'll also add a status column so people can update progress without pinging others"
+    },
+    {
+      "t": 479.21,
+      "text": "directly."
+    },
+    {
+      "t": 480.21,
+      "text": "That's a smart move. Transparency reduces follow-up noise."
+    },
+    {
+      "t": 484.37,
+      "text": "I'll also attach the decision log so the context is preserved for anyone who joins later or needs"
+    },
+    {
+      "t": 490.05,
+      "text": "audit visibility. Please highlight which items are at risk."
+    },
+    {
+      "t": 494.29,
+      "text": "Procurement is the tightest timeline. Off-lag that clearly and ask finance to prioritize the review."
+    },
+    {
+      "t": 501.01,
+      "text": "Good. Let's not let contracts be the reason we slip."
+    },
+    {
+      "t": 504.45,
+      "text": "Agreed."
+    },
+    {
+      "t": 504.93,
+      "text": "Now, moving to ownership confirmation, let's quickly run through who owns what so nothing"
+    },
+    {
+      "t": 510.85,
+      "text": "falls through the cracks."
+    },
+    {
+      "t": 512.73,
+      "text": "PREA owns testing, Allen owns communications, Jamie owns training content, Operations owns"
+    },
+    {
+      "t": 519.65,
+      "text": "rollout scheduling, Finance monitors spend, Marketing owns social posts, the success team"
+    },
+    {
+      "t": 526.01,
+      "text": "prepares onboarding guides, Engineering owns hotfix readiness, Design Analytics measures"
+    },
+    {
+      "t": 531.89,
+      "text": "Adoption Weekly, Legal Reviews Terms, and Procurement finalizes vendor paperwork."
+    },
+    {
+      "t": 538.05,
+      "text": "Dates"
+    },
+    {
+      "t": 539.09,
+      "text": "Testing Complete Thursday, Communications Drafted Friday, Training Recorded Monday, Rollout Schedule"
+    },
+    {
+      "t": 545.97,
+      "text": "Shared Tuesday, Spend Report Thursday, Social Posts Queued by Wednesday Morning, Onboarding"
+    },
+    {
+      "t": 552.33,
+      "text": "Guides Ready Thursday, Adoption Dashboard Live Next Monday, Legal Review Wednesday,"
+    },
+    {
+      "t": 558.73,
+      "text": "Consider paperwork signed Friday, hot fix plan ready tomorrow, feedback survey built this"
+    },
+    {
+      "t": 564.09,
+      "text": "week."
+    },
+    {
+      "t": 565.09,
+      "text": "Excellent."
+    },
+    {
+      "t": 566.09,
+      "text": "Add risk owners as well."
+    },
+    {
+      "t": 567.89,
+      "text": "Priya for testing gaps, Allen for messaging, Jamie for training clarity, backups for Leo"
+    },
+    {
+      "t": 574.01,
+      "text": "for testing, and Sarah for communications."
+    },
+    {
+      "t": 577.37,
+      "text": "Very thorough."
+    },
+    {
+      "t": 578.37,
+      "text": "Please also note handoff points so teams know when responsibility shifts."
+    },
+    {
+      "t": 583.21,
+      "text": "I'll include that along with contact channels."
+    },
+    {
+      "t": 586.39,
+      "text": "After adding a short glossary for acronyms…"
+    },
+    {
+      "t": 589.39,
+      "text": "Good idea."
+    },
+    {
+      "t": 590.39,
+      "text": "I'll keep it brief."
+    },
+    {
+      "t": 591.67,
+      "text": "Should we add office hours?"
+    },
+    {
+      "t": 593.39,
+      "text": "Yes."
+    },
+    {
+      "t": 594.39,
+      "text": "15 minutes tomorrow at 2 p.m."
+    },
+    {
+      "t": 596.59,
+      "text": "I'll share the link."
+    },
+    {
+      "t": 598.07,
+      "text": "Perfect."
+    },
+    {
+      "t": 599.07,
+      "text": "Anything else before we close?"
+    },
+    {
+      "t": 600.91,
+      "text": "Just one thing."
+    },
+    {
+      "t": 601.91,
+      "text": "If Timeline slip, we need to manage customer expectations proactively."
+    },
+    {
+      "t": 606.51,
+      "text": "Absolutely."
+    },
+    {
+      "t": 607.51,
+      "text": "Please highlight that in the recap and tag customer success."
+    },
+    {
+      "t": 611.31,
+      "text": "We'll do."
+    },
+    {
+      "t": 612.31,
+      "text": "All right."
+    },
+    {
+      "t": 613.31,
+      "text": "Use the meeting so you can send the recap while everything is fresh."
+    },
+    {
+      "t": 616.59,
+      "text": "Understood."
+    },
+    {
+      "t": 617.59,
+      "text": "The recap will be in the channel within 10 to 15 minutes."
+    },
+    {
+      "t": 621.23,
+      "text": "Thanks for driving this so cleanly."
+    },
+    {
+      "t": 622.93,
+      "text": "This level of structure makes execution much smoother."
+    },
+    {
+      "t": 626.27,
+      "text": "I appreciate the collaboration."
+    },
+    {
+      "t": 628.27,
+      "text": "Clear decisions make a big difference."
+    },
+    {
+      "t": 630.39,
+      "text": "Agreed."
+    },
+    {
+      "t": 631.39,
+      "text": "Let's touch base tomorrow morning to confirm progress."
+    },
+    {
+      "t": 634.11,
+      "text": "Deal."
+    },
+    {
+      "t": 635.11,
+      "text": "I'll bring any early feedback or updates."
+    },
+    {
+      "t": 637.43,
+      "text": "Perfect."
+    },
+    {
+      "t": 638.43,
+      "text": "Closing the call now."
+    },
+    {
+      "t": 639.43,
+      "text": "Sounds good."
+    },
+    {
+      "t": 640.43,
+      "text": "Talk soon."
+    },
+    {
+      "t": 641.43,
+      "text": "Thanks everyone for staying on the line."
+    },
+    {
+      "t": 643.55,
+      "text": "I know we've already covered a lot today, but before we formally close, I want us to"
+    },
+    {
+      "t": 648.55,
+      "text": "run through one more full alignment conversation."
+    },
+    {
+      "t": 652.11,
+      "text": "Think of this as a clean room discussion where we restate context, priorities, and expectations"
+    },
+    {
+      "t": 658.15,
+      "text": "so there's zero confusion once we leave this call."
+    },
+    {
+      "t": 661.47,
+      "text": "That makes sense."
+    },
+    {
+      "t": 662.47,
+      "text": "A reset like this is useful, especially when multiple teams are involved and decisions"
+    },
+    {
+      "t": 666.99,
+      "text": "have downstream effects."
+    },
+    {
+      "t": 668.99,
+      "text": "Let's walk through it carefully and keep the language simple and direct."
+    },
+    {
+      "t": 672.43,
+      "text": "Great."
+    },
+    {
+      "t": 673.43,
+      "text": "To start, let me restate the objective of this initiative in plain terms."
+    },
+    {
+      "t": 678.03,
+      "text": "We are launching a controlled business rollout designed to test value, operational readiness,"
+    },
+    {
+      "t": 684.27,
+      "text": "and customer response without overextending teams or budget."
+    },
+    {
+      "t": 688.83,
+      "text": "This is not about perfection."
+    },
+    {
+      "t": 690.63,
+      "text": "It's about learning quickly and safely."
+    },
+    {
+      "t": 693.07,
+      "text": "Exactly."
+    },
+    {
+      "t": 694.07,
+      "text": "And I think it's important we emphasize that mindset."
+    },
+    {
+      "t": 696.87,
+      "text": "Some teams still approach this as if it were a full-scale launch."
+    },
+    {
+      "t": 700.59,
+      "text": "We need consistency in how we frame it internally, so expectations stay realistic."
+    },
+    {
+      "t": 705.55,
+      "text": "Agreed."
+    },
+    {
+      "t": 706.79,
+      "text": "That brings us to alignment across departments."
+    },
+    {
+      "t": 710.03,
+      "text": "Product, engineering, marketing, sales, support, finance, legal, and operations all play"
+    },
+    {
+      "t": 717.03,
+      "text": "a role here."
+    },
+    {
+      "t": 718.37,
+      "text": "If even one group operates on outdated assumptions, we risk friction."
+    },
+    {
+      "t": 723.15,
+      "text": "So let's go through each area conversationally."
+    },
+    {
+      "t": 726.39,
+      "text": "Let's start with product and engineering since they set the foundation."
+    },
+    {
+      "t": 730.01,
+      "text": "The scope has been deliberately limited."
+    },
+    {
+      "t": 732.07,
+      "text": "We are delivering a stable core, not a comprehensive feature set."
+    },
+    {
+      "t": 736.05,
+      "text": "The feature freeze is active and will remain in place until after the pilot review."
+    },
+    {
+      "t": 740.65,
+      "text": "Right, and I want to be very explicit."
+    },
+    {
+      "t": 743.71,
+      "text": "Any request that sounds small but requires code changes is still out of scope."
+    },
+    {
+      "t": 749.05,
+      "text": "If someone believes a change is critical, it must be escalated with a clear business"
+    },
+    {
+      "t": 753.73,
+      "text": "case, impact assessment, and timing implications."
+    },
+    {
+      "t": 757.69,
+      "text": "That level of discipline is necessary."
+    },
+    {
+      "t": 760.33,
+      "text": "Engineering teams perform best when priorities are stable."
+    },
+    {
+      "t": 763.81,
+      "text": "Constant context switching leads to quality issues, which is the opposite of what we want"
+    },
+    {
+      "t": 767.73,
+      "text": "right now."
+    },
+    {
+      "t": 769.05,
+      "text": "Exactly."
+    },
+    {
+      "t": 770.05,
+      "text": "Now on delivery confidence."
+    },
+    {
+      "t": 772.69,
+      "text": "Engineering has committed to stability checks, overnight tests, and monitoring dashboards."
+    },
+    {
+      "t": 778.05,
+      "text": "The expectation is not that nothing goes wrong, but that issues are detected early"
+    },
+    {
+      "t": 782.61,
+      "text": "and communicated immediately."
+    },
+    {
+      "t": 784.69,
+      "text": "Communication is key there."
+    },
+    {
+      "t": 786.57,
+      "text": "If an issue is found, even if it's still under investigation,"
+    },
+    {
+      "t": 789.93,
+      "text": "the relevant channel should be updated."
+    },
+    {
+      "t": 792.21,
+      "text": "Silence creates anxiety and speculation,"
+    },
+    {
+      "t": 794.93,
+      "text": "which slows decision-making."
+    },
+    {
+      "t": 796.97,
+      "text": "Well said."
+    },
+    {
+      "t": 798.09,
+      "text": "Moving to marketing."
+    },
+    {
+      "t": 799.63,
+      "text": "The purpose of marketing in this phase is clarity, not hype."
+    },
+    {
+      "t": 803.39,
+      "text": "The messaging should explain what the offering does,"
+    },
+    {
+      "t": 806.25,
+      "text": "who it's for, and why it matters, without exaggeration."
+    },
+    {
+      "t": 810.25,
+      "text": "I agree."
+    },
+    {
+      "t": 811.21,
+      "text": "Overpromising now would create unnecessary pressure on support and damaged trust."
+    },
+    {
+      "t": 816.21,
+      "text": "A calm, confident, and honest tone will attract the right early users."
+    },
+    {
+      "t": 821.13,
+      "text": "And internally, marketing also sets the narrative."
+    },
+    {
+      "t": 824.61,
+      "text": "If sales, support, and leadership repeat the same message, customers feel consistency."
+    },
+    {
+      "t": 830.41,
+      "text": "That's why alignment meetings like this matter."
+    },
+    {
+      "t": 833.13,
+      "text": "Absolutely."
+    },
+    {
+      "t": 834.13,
+      "text": "Speaking of sales, their role during the pilot is selective engagement."
+    },
+    {
+      "t": 838.49,
+      "text": "We are not pushing volume."
+    },
+    {
+      "t": 840.01,
+      "text": "prioritizing fit and feedback. Correct. Sales teams should treat this as a"
+    },
+    {
+      "t": 845.13,
+      "text": "consultative process. The goal is to understand customer reactions, objections,"
+    },
+    {
+      "t": 850.21,
+      "text": "and use cases, not just to close deals quickly. That also means sales needs"
+    },
+    {
+      "t": 855.17,
+      "text": "clear guidance on when to say no. Not every interested customer is a good"
+    },
+    {
+      "t": 859.53,
+      "text": "pilot participant. Exactly. Saying no early prevents dissatisfaction later."
+    },
+    {
+      "t": 864.85,
+      "text": "Support teams will thank us for that discipline. On support side,"
+    },
+    {
+      "t": 869.05,
+      "text": "preparation is everything. Even with a limited rollout, questions will come in."
+    },
+    {
+      "t": 873.45,
+      "text": "Support needs scripts, FAQs, and escalation paths that are easy to follow."
+    },
+    {
+      "t": 878.29,
+      "text": "Yes, and support feedback is extremely valuable. They often see patterns before"
+    },
+    {
+      "t": 884.05,
+      "text": "anyone else. We should encourage them to share insights, not just resolve tickets."
+    },
+    {
+      "t": 888.61,
+      "text": "Agreed. Now let's talk about operations. Operational readiness is often"
+    },
+    {
+      "t": 893.97,
+      "text": "invisible when it works well, but very visible when it doesn't. Processes, access, handoffs"
+    },
+    {
+      "t": 900.21,
+      "text": "and documentation must be in place before launch."
+    },
+    {
+      "t": 903.57,
+      "text": "Right. Operations ensures that what we promise can actually be delivered repeatedly. If something"
+    },
+    {
+      "t": 909.45,
+      "text": "relies on manual intervention, it should be clearly documented and assigned."
+    },
+    {
+      "t": 914.37,
+      "text": "That ties into risk management. We've identified risks, but the real test is how we respond"
+    },
+    {
+      "t": 919.57,
+      "text": "when something unexpected happens."
+    },
+    {
+      "t": 921.97,
+      "text": "Exactly. Risk management isn't about predicting everything, it's about having a calm, structured"
+    },
+    {
+      "t": 927.73,
+      "text": "response when reality doesn't match the plan."
+    },
+    {
+      "t": 931.05,
+      "text": "Which is why ownership matters. When everyone knows who owns what, problems get addressed"
+    },
+    {
+      "t": 935.97,
+      "text": "faster."
+    },
+    {
+      "t": 936.97,
+      "text": "Let's talk about finance for a moment. Finance's role here is not just budget control"
+    },
+    {
+      "t": 941.93,
+      "text": "but guidance. We need to understand cost implications, pricing logic, and long-term"
+    },
+    {
+      "t": 947.49,
+      "text": "sustainability."
+    },
+    {
+      "t": 948.49,
+      "text": "Yes. Pricing decisions influence perception. Too low in customer's question value. Too"
+    },
+    {
+      "t": 954.65,
+      "text": "high and we limit adoption. Finance provides the guardrails that balance those forces."
+    },
+    {
+      "t": 960.93,
+      "text": "Legal is another critical partner. Compliance, data handling, and contractual clarity protect"
+    },
+    {
+      "t": 966.57,
+      "text": "the company and our customers."
+    },
+    {
+      "t": 968.81,
+      "text": "And legal timelines should be respected. Rushing reviews increases risk. Early involvement"
+    },
+    {
+      "t": 974.33,
+      "text": "reduces last-minute surprises."
+    },
+    {
+      "t": 976.61,
+      "text": "Exactly. Now let's talk briefly about communication norms."
+    },
+    {
+      "t": 980.69,
+      "text": "We've agreed on a central channel, concise updates, and documented decisions."
+    },
+    {
+      "t": 985.81,
+      "text": "That structure is non-negotiable."
+    },
+    {
+      "t": 988.13,
+      "text": "I'd also add that tone matters. Updates should be factual, calm, and solution-oriented."
+    },
+    {
+      "t": 993.81,
+      "text": "Emotional or vague messages slow things down."
+    },
+    {
+      "t": 997.25,
+      "text": "Very true. If something is blocked, say it clearly."
+    },
+    {
+      "t": 1000.53,
+      "text": "If something is delayed, explain why and what happens next."
+    },
+    {
+      "t": 1004.37,
+      "text": "No drama, just information."
+    },
+    {
+      "t": 1006.65,
+      "text": "That transparency builds trust internally,"
+    },
+    {
+      "t": 1009.21,
+      "text": "which ultimately benefits customers."
+    },
+    {
+      "t": 1011.57,
+      "text": "Now, let's zoom out for a moment."
+    },
+    {
+      "t": 1013.65,
+      "text": "Beyond this pilot, what are we trying to learn?"
+    },
+    {
+      "t": 1016.81,
+      "text": "Adoption behavior, operational load,"
+    },
+    {
+      "t": 1019.53,
+      "text": "support volume, and value perception."
+    },
+    {
+      "t": 1022.45,
+      "text": "Exactly."
+    },
+    {
+      "t": 1023.45,
+      "text": "Those insights will shape the next phase."
+    },
+    {
+      "t": 1025.89,
+      "text": "The pilot is not the end goal."
+    },
+    {
+      "t": 1027.69,
+      "text": "It's a data gathering step."
+    },
+    {
+      "t": 1029.61,
+      "text": "Which means documentation is important."
+    },
+    {
+      "t": 1032.09,
+      "text": "Decisions, outcomes, and lessons learned should be recorded while they're fresh."
+    },
+    {
+      "t": 1036.97,
+      "text": "Retrospectives help with that. They turn experience into institutional knowledge."
+    },
+    {
+      "t": 1042.01,
+      "text": "Right. And retrospectives should be honest, not defensive. The goal is improvement, not blame."
+    },
+    {
+      "t": 1048.41,
+      "text": "That cultural point is critical. Teams must feel safe raising issues."
+    },
+    {
+      "t": 1053.05,
+      "text": "Agreed. Now let's talk briefly about leadership visibility. Leadership doesn't"
+    },
+    {
+      "t": 1058.01,
+      "text": "need every detail, but they need confidence that the process is under control."
+    },
+    {
+      "t": 1062.61,
+      "text": "Which is why clear summaries, risk flags, and recommended actions are so important."
+    },
+    {
+      "t": 1067.53,
+      "text": "Exactly."
+    },
+    {
+      "t": 1068.53,
+      "text": "Leaders make better decisions when information is structured."
+    },
+    {
+      "t": 1072.13,
+      "text": "Let me ask you this."
+    },
+    {
+      "t": 1073.33,
+      "text": "From your perspective, what would success look like at the end of this pilot?"
+    },
+    {
+      "t": 1077.65,
+      "text": "Good question."
+    },
+    {
+      "t": 1078.91,
+      "text": "Success would mean stable performance, engaged early users, manageable support volume,"
+    },
+    {
+      "t": 1084.65,
+      "text": "and clear signals about what to improve next."
+    },
+    {
+      "t": 1087.65,
+      "text": "I agree. I'd also add internal confidence. If teams feel the process worked, scaling"
+    },
+    {
+      "t": 1093.29,
+      "text": "becomes much easier."
+    },
+    {
+      "t": 1095.17,
+      "text": "That's a great point. Morale and confidence are often overlooked metrics."
+    },
+    {
+      "t": 1099.61,
+      "text": "Now before we wrap, let's talk about personal accountability. Everyone on this call plays"
+    },
+    {
+      "t": 1104.49,
+      "text": "a role in reinforcing clarity. If you see confusion, address it. If you see misalignment,"
+    },
+    {
+      "t": 1110.37,
+      "text": "raise it early."
+    },
+    {
+      "t": 1111.65,
+      "text": "Absolutely. Alignment is not a one-time event. It's an ongoing responsibility."
+    },
+    {
+      "t": 1117.25,
+      "text": "Meetings like this only work if people follow through afterward."
+    },
+    {
+      "t": 1121.17,
+      "text": "Well said."
+    },
+    {
+      "t": 1122.19,
+      "text": "That brings us to next steps."
+    },
+    {
+      "t": 1124.01,
+      "text": "A written recap will go out shortly with decisions, owners, timelines, and risks."
+    },
+    {
+      "t": 1129.73,
+      "text": "And once that recap is out, execution begins."
+    },
+    {
+      "t": 1133.01,
+      "text": "No re-litigating decisions unless new information emerges."
+    },
+    {
+      "t": 1136.93,
+      "text": "Exactly."
+    },
+    {
+      "t": 1137.93,
+      "text": "Momentum matters."
+    },
+    {
+      "t": 1139.09,
+      "text": "We don't want to stall with unnecessary debates."
+    },
+    {
+      "t": 1142.29,
+      "text": "Before we close, is there anything you feel hasn't been said that should be said?"
+    },
+    {
+      "t": 1146.89,
+      "text": "this, I appreciate the professionalism and focus everyone has shown. These conversations"
+    },
+    {
+      "t": 1152.41,
+      "text": "aren't easy, but they're necessary. When we do them well, outcomes improve dramatically."
+    },
+    {
+      "t": 1157.89,
+      "text": "I share that sentiment. Clear communication is one of the underrated business skills,"
+    },
+    {
+      "t": 1162.73,
+      "text": "and today was a good example of it in action. Then, let's end on that note. Thank you"
+    },
+    {
+      "t": 1167.57,
+      "text": "for your time, your preparation, and your engagement. Let's move forward with confidence"
+    },
+    {
+      "t": 1172.53,
+      "text": "and discipline."
+    },
+    {
+      "t": 1173.81,
+      "text": "agreed. Looking forward to seeing this plan turn into results. Closing the meeting now."
+    },
+    {
+      "t": 1179.41,
+      "text": "Before we wrap up, I want to make sure we're aligned not just on tasks, but on intent."
+    },
+    {
+      "t": 1184.21,
+      "text": "We've discussed timelines, owners, and risks, but I want to confirm that everyone understands"
+    },
+    {
+      "t": 1189.09,
+      "text": "why we're sequencing things this way. Otherwise, execution might drift even if tasks are"
+    },
+    {
+      "t": 1194.73,
+      "text": "technically completed."
+    },
+    {
+      "t": 1196.61,
+      "text": "That's a fair point. When people understand the reasoning, they make better decisions"
+    },
+    {
+      "t": 1201.13,
+      "text": "on their own."
+    },
+    {
+      "t": 1202.37,
+      "text": "From my perspective, the sequencing is designed to protect the customer experience first and"
+    },
+    {
+      "t": 1207.85,
+      "text": "internally efficiency second."
+    },
+    {
+      "t": 1210.29,
+      "text": "Exactly."
+    },
+    {
+      "t": 1211.29,
+      "text": "Too often teams focus on internal milestones without considering how small delays or inconsistencies"
+    },
+    {
+      "t": 1217.57,
+      "text": "show up for customers."
+    },
+    {
+      "t": 1219.41,
+      "text": "Let's start by restating the primary objective of this phase so it's clear."
+    },
+    {
+      "t": 1223.73,
+      "text": "The primary objective is to deliver a stable, clearly positioned pilot that validates"
+    },
+    {
+      "t": 1229.57,
+      "text": "customer value without overextending the team or introducing unnecessary risk."
+    },
+    {
+      "t": 1234.85,
+      "text": "Good."
+    },
+    {
+      "t": 1236.17,
+      "text": "And stability matters more than feature breadth at this stage."
+    },
+    {
+      "t": 1239.73,
+      "text": "Correct."
+    },
+    {
+      "t": 1240.73,
+      "text": "That's why we deliberately limited scope even though there were requests to include"
+    },
+    {
+      "t": 1245.13,
+      "text": "additional functionality."
+    },
+    {
+      "t": 1247.17,
+      "text": "That decision wasn't easy, but it was necessary."
+    },
+    {
+      "t": 1249.45,
+      "text": "I'd rather disappoint a few internal stakeholders now than disappoint customers later."
+    },
+    {
+      "t": 1254.73,
+      "text": "Speaking of which, let's talk about customer communication."
+    },
+    {
+      "t": 1257.89,
+      "text": "How confident are we that our messaging is consistent across channels?"
+    },
+    {
+      "t": 1262.09,
+      "text": "We're close, but not fully there yet."
+    },
+    {
+      "t": 1265.35,
+      "text": "Marketing has the core narrative, product has feature descriptions, and support has"
+    },
+    {
+      "t": 1269.95,
+      "text": "draft responses, but alignment still needs tightening."
+    },
+    {
+      "t": 1274.43,
+      "text": "Where do you see the biggest gaps?"
+    },
+    {
+      "t": 1276.89,
+      "text": "Tone and expectation setting."
+    },
+    {
+      "t": 1279.43,
+      "text": "Marketing language is optimistic, which is fine, but support messaging needs to"
+    },
+    {
+      "t": 1283.69,
+      "text": "be more precise about limitations and known constraints during the pilot."
+    },
+    {
+      "t": 1288.53,
+      "text": "That's a classic tension. Optimism attracts users, but accuracy retains trust. How are"
+    },
+    {
+      "t": 1294.49,
+      "text": "we resolving that?"
+    },
+    {
+      "t": 1296.09,
+      "text": "The FAQ will be the anchor. Marketing, support, and product will align to that document"
+    },
+    {
+      "t": 1302.25,
+      "text": "so we don't contradict ourselves."
+    },
+    {
+      "t": 1304.13,
+      "text": "Good. And you're still owning the FAQ."
+    },
+    {
+      "t": 1307.41,
+      "text": "Yes. I'll circulate a draft by Wednesday end of day and explicitly ask for feedback"
+    },
+    {
+      "t": 1313.01,
+      "text": "within 24 hours. Make the review window clear. Otherwise silence gets interpreted as approval"
+    },
+    {
+      "t": 1319.29,
+      "text": "and that can backfire. Agreed. I'll specify that no response means approval, but only"
+    },
+    {
+      "t": 1324.97,
+      "text": "after the review deadline. Perfect. Now let's move to internal readiness. Engineering mentioned"
+    },
+    {
+      "t": 1331.13,
+      "text": "they can deliver the required fixes, but they flagged resource strain. How serious"
+    },
+    {
+      "t": 1335.55,
+      "text": "is that concern? It's manageable, but it's real. The team is covering night testing"
+    },
+    {
+      "t": 1341.13,
+      "text": "and regular sprint work simultaneously."
+    },
+    {
+      "t": 1344.57,
+      "text": "That's not sustainable long term."
+    },
+    {
+      "t": 1346.57,
+      "text": "No, which is why this pilot must stay contained if scope expands we'll need to reassess capacity"
+    },
+    {
+      "t": 1352.65,
+      "text": "immediately."
+    },
+    {
+      "t": 1353.89,
+      "text": "Understood."
+    },
+    {
+      "t": 1354.89,
+      "text": "Let's be explicit about that in leadership updates so expectations are realistic."
+    },
+    {
+      "t": 1359.45,
+      "text": "I'll include a capacity note in the executive summary."
+    },
+    {
+      "t": 1362.89,
+      "text": "Good."
+    },
+    {
+      "t": 1363.89,
+      "text": "Now, finance."
+    },
+    {
+      "t": 1365.45,
+      "text": "Pricing review is due tomorrow."
+    },
+    {
+      "t": 1367.17,
+      "text": "What happens if finance comes back with constraints that force changes to our offer?"
+    },
+    {
+      "t": 1371.81,
+      "text": "If the changes are minor, marketing can adapt quickly."
+    },
+    {
+      "t": 1375.19,
+      "text": "If they're major, we'll need a fast alignment meeting to decide whether to proceed or pause."
+    },
+    {
+      "t": 1380.79,
+      "text": "Do we have that contingency scheduled?"
+    },
+    {
+      "t": 1383.41,
+      "text": "Not yet, but I can pre-block a 20-minute slot tomorrow afternoon just in case."
+    },
+    {
+      "t": 1388.69,
+      "text": "Please do."
+    },
+    {
+      "t": 1389.69,
+      "text": "It's better to cancel than scramble."
+    },
+    {
+      "t": 1391.41,
+      "text": "I'll handle that."
+    },
+    {
+      "t": 1392.69,
+      "text": "Let's talk about data."
+    },
+    {
+      "t": 1394.53,
+      "text": "We're relying heavily on early metrics to judge pilot success."
+    },
+    {
+      "t": 1398.81,
+      "text": "How confident are we in the logging and dashboards?"
+    },
+    {
+      "t": 1402.41,
+      "text": "Moderately confident."
+    },
+    {
+      "t": 1403.65,
+      "text": "The data team is validating event tracking, but there have been inconsistencies in the"
+    },
+    {
+      "t": 1407.81,
+      "text": "past."
+    },
+    {
+      "t": 1409.01,
+      "text": "That worries me."
+    },
+    {
+      "t": 1410.49,
+      "text": "Decisions based on flawed data are worse than decisions made slowly."
+    },
+    {
+      "t": 1414.01,
+      "text": "I agree."
+    },
+    {
+      "t": 1415.01,
+      "text": "That's why Leo is validating the pipeline and will report back tomorrow morning with"
+    },
+    {
+      "t": 1419.53,
+      "text": "a go or no go assessment on data reliability."
+    },
+    {
+      "t": 1423.27,
+      "text": "And if the data isn't reliable?"
+    },
+    {
+      "t": 1425.43,
+      "text": "Then we delay any performance-based conclusions and rely more on qualitative feedback until"
+    },
+    {
+      "t": 1430.59,
+      "text": "fixes are in place."
+    },
+    {
+      "t": 1432.43,
+      "text": "That's sensible."
+    },
+    {
+      "t": 1433.43,
+      "text": "Let's communicate that clearly so stakeholders don't overreact to incomplete metrics."
+    },
+    {
+      "t": 1438.47,
+      "text": "I'll add a disclaimer to the dashboard and call it out in updates."
+    },
+    {
+      "t": 1442.71,
+      "text": "Excellent."
+    },
+    {
+      "t": 1443.71,
+      "text": "Now, let's talk about support readiness."
+    },
+    {
+      "t": 1445.87,
+      "text": "You mentioned proactive responses earlier."
+    },
+    {
+      "t": 1448.23,
+      "text": "How prepared is the support team, really?"
+    },
+    {
+      "t": 1450.87,
+      "text": "They're engaged, but they need final wording in escalation paths."
+    },
+    {
+      "t": 1455.17,
+      "text": "They also ask for clarity on what issues should trigger engineering involvement."
+    },
+    {
+      "t": 1460.11,
+      "text": "Have we documented escalation criteria?"
+    },
+    {
+      "t": 1463.03,
+      "text": "Not fully."
+    },
+    {
+      "t": 1464.03,
+      "text": "I plan to add a simple escalation matrix to the support playbook."
+    },
+    {
+      "t": 1468.43,
+      "text": "Please do."
+    },
+    {
+      "t": 1469.43,
+      "text": "Ambiguity during incidents causes delays and frustration."
+    },
+    {
+      "t": 1472.87,
+      "text": "Understood."
+    },
+    {
+      "t": 1473.87,
+      "text": "I'll include severity levels and response times."
+    },
+    {
+      "t": 1477.19,
+      "text": "Good."
+    },
+    {
+      "t": 1478.19,
+      "text": "Now, vendor dependency."
+    },
+    {
+      "t": 1480.03,
+      "text": "The API instability concerns me."
+    },
+    {
+      "t": 1482.59,
+      "text": "What's our fallback if the vendor doesn't improve reliability?"
+    },
+    {
+      "t": 1485.99,
+      "text": "Short-term, we throttle usage and communicate transparently"
+    },
+    {
+      "t": 1489.67,
+      "text": "with affected customers."
+    },
+    {
+      "t": 1491.31,
+      "text": "Long-term, we evaluate alternative providers."
+    },
+    {
+      "t": 1494.91,
+      "text": "Are customers aware we depend on a third party?"
+    },
+    {
+      "t": 1497.95,
+      "text": "Not explicitly, but the terms mention external integrations."
+    },
+    {
+      "t": 1502.51,
+      "text": "Make sure support knows how to explain that"
+    },
+    {
+      "t": 1504.63,
+      "text": "without deflecting responsibility."
+    },
+    {
+      "t": 1506.91,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1507.83,
+      "text": "will own the experience even if the root cause isn't ours."
+    },
+    {
+      "t": 1511.63,
+      "text": "That's the right mindset."
+    },
+    {
+      "t": 1513.43,
+      "text": "Now, let's shift to execution rhythm."
+    },
+    {
+      "t": 1515.91,
+      "text": "You proposed daily stand-ups this week."
+    },
+    {
+      "t": 1518.11,
+      "text": "What's the format?"
+    },
+    {
+      "t": 1519.23,
+      "text": "10 minutes strictly timed."
+    },
+    {
+      "t": 1521.35,
+      "text": "Each owner answers three questions,"
+    },
+    {
+      "t": 1523.47,
+      "text": "what's done, what's next, and what's blocked."
+    },
+    {
+      "t": 1526.47,
+      "text": "No problem solving in the stand-up."
+    },
+    {
+      "t": 1528.71,
+      "text": "Correct."
+    },
+    {
+      "t": 1529.51,
+      "text": "Follow-ups happen offline."
+    },
+    {
+      "t": 1531.35,
+      "text": "Good."
+    },
+    {
+      "t": 1531.85,
+      "text": "That keeps things efficient."
+    },
+    {
+      "t": 1533.51,
+      "text": "I'll also post a brief summary afterward"
+    },
+    {
+      "t": 1535.95,
+      "text": "for anyone who couldn't attend."
+    },
+    {
+      "t": 1537.87,
+      "text": "Appreciate it."
+    },
+    {
+      "t": 1539.15,
+      "text": "Now, about documentation."
+    },
+    {
+      "t": 1541.19,
+      "text": "You mentioned locking permissions overnight."
+    },
+    {
+      "t": 1543.67,
+      "text": "Can you explain the rationale?"
+    },
+    {
+      "t": 1545.39,
+      "text": "We've had issues before where documents were edited"
+    },
+    {
+      "t": 1548.47,
+      "text": "asynchronously without context causing confusion."
+    },
+    {
+      "t": 1551.99,
+      "text": "Locking overnight preserves a stable version."
+    },
+    {
+      "t": 1555.27,
+      "text": "Makes sense."
+    },
+    {
+      "t": 1556.23,
+      "text": "Just make sure people know when it will reopen."
+    },
+    {
+      "t": 1558.87,
+      "text": "I'll note the editing window clearly."
+    },
+    {
+      "t": 1561.27,
+      "text": "Great."
+    },
+    {
+      "t": 1562.11,
+      "text": "Now, let's move to leadership communication."
+    },
+    {
+      "t": 1564.67,
+      "text": "When's the next executive update?"
+    },
+    {
+      "t": 1566.67,
+      "text": "Tuesday afternoon."
+    },
+    {
+      "t": 1568.01,
+      "text": "Slides will be concise, focused on risks, progress, and decisions needed."
+    },
+    {
+      "t": 1573.11,
+      "text": "Avoid overloading them with operational detail."
+    },
+    {
+      "t": 1576.47,
+      "text": "Agreed."
+    },
+    {
+      "t": 1577.17,
+      "text": "Details will live in the appendix for those who want them."
+    },
+    {
+      "t": 1580.43,
+      "text": "Good."
+    },
+    {
+      "t": 1581.27,
+      "text": "Now, I want to talk about Team morale."
+    },
+    {
+      "t": 1583.79,
+      "text": "We're asking for extra effort this week."
+    },
+    {
+      "t": 1585.67,
+      "text": "How are we acknowledging that?"
+    },
+    {
+      "t": 1587.35,
+      "text": "We're planning to recognize wins publicly in the channel"
+    },
+    {
+      "t": 1590.43,
+      "text": "and give the team breathing room once the pilot stabilizes."
+    },
+    {
+      "t": 1594.03,
+      "text": "Recognition matters. Burnout sneaks up when people feel unseen."
+    },
+    {
+      "t": 1598.35,
+      "text": "I'll make sure managers reinforce that message."
+    },
+    {
+      "t": 1601.47,
+      "text": "Excellent. Now, before we close, let's do a final pass on risks."
+    },
+    {
+      "t": 1606.19,
+      "text": "What keeps you up at night about this launch?"
+    },
+    {
+      "t": 1608.59,
+      "text": "Honestly, misalignment. Not technical failure, but people interpreting"
+    },
+    {
+      "t": 1613.39,
+      "text": "decisions differently and acting accordingly."
+    },
+    {
+      "t": 1616.35,
+      "text": "That's a valid concern."
+    },
+    {
+      "t": 1618.03,
+      "text": "That's why the recap, decision log, and slack channel discipline are so important."
+    },
+    {
+      "t": 1623.15,
+      "text": "I agree. Clarity beats speed in the long run."
+    },
+    {
+      "t": 1626.51,
+      "text": "Exactly."
+    },
+    {
+      "t": 1627.63,
+      "text": "Any other risks?"
+    },
+    {
+      "t": 1628.99,
+      "text": "Customer expectations. Even with careful messaging, some users may assume this pilot is a full release."
+    },
+    {
+      "t": 1636.19,
+      "text": "How do we mitigate that?"
+    },
+    {
+      "t": 1637.79,
+      "text": "Clear labeling, consistent language, and reminders that feedback will shape the final version."
+    },
+    {
+      "t": 1643.63,
+      "text": "Good. Make that explicit in the onboarding materials."
+    },
+    {
+      "t": 1646.99,
+      "text": "We'll do. Now, next steps. You'll send the recap within 15 minutes, correct?"
+    },
+    {
+      "t": 1652.51,
+      "text": "Yes, it will include decisions, owners, deadlines, risks, and links."
+    },
+    {
+      "t": 1657.51,
+      "text": "And you'll tag owners so accountability is visible."
+    },
+    {
+      "t": 1661.01,
+      "text": "Absolutely. Once that's done, I want you to disconnect and get some air."
+    },
+    {
+      "t": 1665.51,
+      "text": "You've been carrying a lot of coordination today."
+    },
+    {
+      "t": 1668.01,
+      "text": "I appreciate that. I'll finish the recap first, then step away briefly."
+    },
+    {
+      "t": 1672.51,
+      "text": "Good. Any final questions before we close?"
+    },
+    {
+      "t": 1675.51,
+      "text": "Just one. If new information comes in overnight that materially affects scope or timeline,"
+    },
+    {
+      "t": 1681.51,
+      "text": "Do you want immediate escalation or wait until the morning?"
+    },
+    {
+      "t": 1684.91,
+      "text": "If it impacts customer experience or launch readiness, escalate immediately."
+    },
+    {
+      "t": 1689.71,
+      "text": "Otherwise, capture it and bring it to the morning stand-up."
+    },
+    {
+      "t": 1692.71,
+      "text": "Understood."
+    },
+    {
+      "t": 1693.71,
+      "text": "Alright, this was a solid session."
+    },
+    {
+      "t": 1696.11,
+      "text": "Clear decisions, clear ownership, and a realistic plan."
+    },
+    {
+      "t": 1699.71,
+      "text": "Thank you. The structure helped a lot."
+    },
+    {
+      "t": 1702.11,
+      "text": "It did. Let's keep that discipline through execution."
+    },
+    {
+      "t": 1705.51,
+      "text": "Agreed."
+    },
+    {
+      "t": 1706.51,
+      "text": "Closing the meeting now so you can send the recap while everything is fresh."
+    },
+    {
+      "t": 1710.11,
+      "text": "on it. Recap coming shortly."
+    },
+    {
+      "t": 1712.61,
+      "text": "Thanks again."
+    },
+    {
+      "t": 1713.61,
+      "text": "Thank you. Talk soon."
+    },
+    {
+      "t": 1715.11,
+      "text": "We are almost at the end of our scheduled time, so before people start dropping off,"
+    },
+    {
+      "t": 1720.11,
+      "text": "I want us to slow down just a bit and make sure everything is absolutely clear."
+    },
+    {
+      "t": 1725.61,
+      "text": "The last thing we need is confusion after a meeting that was actually very productive."
+    },
+    {
+      "t": 1731.11,
+      "text": "I agree completely. A clear wrap-up now will save us hours of follow-up messages later."
+    },
+    {
+      "t": 1737.11,
+      "text": "Let's go step by step and confirm decisions, owners, and deadlines in plain language so"
+    },
+    {
+      "t": 1743.29,
+      "text": "nothing is left open to interpretation."
+    },
+    {
+      "t": 1745.87,
+      "text": "Perfect."
+    },
+    {
+      "t": 1747.37,
+      "text": "Let's start with the big picture."
+    },
+    {
+      "t": 1749.51,
+      "text": "We agreed that the pilot will move forward as planned, but with a limited scope."
+    },
+    {
+      "t": 1755.01,
+      "text": "We are focusing only on the three core features to protect quality and timelines."
+    },
+    {
+      "t": 1760.47,
+      "text": "Are we fully aligned on that?"
+    },
+    {
+      "t": 1762.47,
+      "text": "Yes, fully aligned."
+    },
+    {
+      "t": 1764.39,
+      "text": "Trimming the scope was the right call."
+    },
+    {
+      "t": 1766.59,
+      "text": "It reduces risk, keeps engineering focused, and gives us cleaner feedback from customers."
+    },
+    {
+      "t": 1772.47,
+      "text": "We can always expand later once we validate performance and adoption."
+    },
+    {
+      "t": 1777.19,
+      "text": "Good."
+    },
+    {
+      "t": 1778.31,
+      "text": "On the timeline, we are still targeting a soft launch next Thursday."
+    },
+    {
+      "t": 1783.03,
+      "text": "That assumes no major surprises from testing or the vendor side."
+    },
+    {
+      "t": 1787.43,
+      "text": "I want to be explicit here."
+    },
+    {
+      "t": 1789.51,
+      "text": "If we see a critical blocker, we escalate immediately rather than quietly slipping dates."
+    },
+    {
+      "t": 1795.87,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1797.07,
+      "text": "No silent delays."
+    },
+    {
+      "t": 1798.75,
+      "text": "If something threatens the timeline, we surface it the same day, flag the impact, and propose"
+    },
+    {
+      "t": 1804.55,
+      "text": "options."
+    },
+    {
+      "t": 1805.55,
+      "text": "That way, leadership can make informed decisions quickly."
+    },
+    {
+      "t": 1808.67,
+      "text": "Great."
+    },
+    {
+      "t": 1809.67,
+      "text": "Now let's go into functional areas, starting with marketing."
+    },
+    {
+      "t": 1813.83,
+      "text": "The launch email copy needs to be finalized by Thursday morning."
+    },
+    {
+      "t": 1818.43,
+      "text": "Alan owns that."
+    },
+    {
+      "t": 1819.99,
+      "text": "The tone should be clear, confident, and realistic, no over-promising, especially given this is"
+    },
+    {
+      "t": 1826.59,
+      "text": "a pilot."
+    },
+    {
+      "t": 1827.59,
+      "text": "Correct."
+    },
+    {
+      "t": 1828.59,
+      "text": "I spoke with Alan briefly earlier, and he understands the importance of setting the right expectations."
+    },
+    {
+      "t": 1834.65,
+      "text": "The email will highlight the value, explain that it's an early release, and clearly"
+    },
+    {
+      "t": 1839.41,
+      "text": "state what customers can and cannot expect at this stage."
+    },
+    {
+      "t": 1843.75,
+      "text": "Good to hear."
+    },
+    {
+      "t": 1844.91,
+      "text": "Alongside that, social posts are scheduled, but they depend on the same messaging framework."
+    },
+    {
+      "t": 1851.47,
+      "text": "Marketing owns those as well, and they are queued for Wednesday morning, assuming pricing"
+    },
+    {
+      "t": 1856.31,
+      "text": "is confirmed by then."
+    },
+    {
+      "t": 1858.23,
+      "text": "Yes, and that dependency is important."
+    },
+    {
+      "t": 1861.27,
+      "text": "If finance delays pricing confirmation, marketing content pauses automatically."
+    },
+    {
+      "t": 1866.87,
+      "text": "We should make that dependency very visible in the recap, so no one is surprised."
+    },
+    {
+      "t": 1871.91,
+      "text": "Agreed."
+    },
+    {
+      "t": 1872.91,
+      "text": "Speaking of pricing, Finance committed to reviewing the pricing scenarios and reverting"
+    },
+    {
+      "t": 1878.11,
+      "text": "by noon tomorrow."
+    },
+    {
+      "t": 1879.95,
+      "text": "Ravi is the contact there."
+    },
+    {
+      "t": 1882.11,
+      "text": "You said you would ping him after the call to reconfirm guardrails."
+    },
+    {
+      "t": 1886.07,
+      "text": "That's right."
+    },
+    {
+      "t": 1887.07,
+      "text": "I'll send him a short message immediately after we close."
+    },
+    {
+      "t": 1890.43,
+      "text": "I'll ask for confirmation on the approved range and any conditions we need to communicate"
+    },
+    {
+      "t": 1895.71,
+      "text": "to sales and marketing."
+    },
+    {
+      "t": 1897.67,
+      "text": "Excellent."
+    },
+    {
+      "t": 1898.67,
+      "text": "Now, product and engineering."
+    },
+    {
+      "t": 1900.99,
+      "text": "The feature list is locked as of today."
+    },
+    {
+      "t": 1904.03,
+      "text": "That decision is final for the pilot."
+    },
+    {
+      "t": 1906.55,
+      "text": "No new feature requests, no enhancements, no exceptions unless there is a critical defect."
+    },
+    {
+      "t": 1913.23,
+      "text": "Completely agreed."
+    },
+    {
+      "t": 1914.43,
+      "text": "I'll reinforce that message with the product team."
+    },
+    {
+      "t": 1917.29,
+      "text": "The freeze is essential to protect stability and allow design, testing, and documentation"
+    },
+    {
+      "t": 1922.95,
+      "text": "to move forward without churn."
+    },
+    {
+      "t": 1925.63,
+      "text": "In design, updated mockups, including accessibility tweaks, are due by Friday."
+    },
+    {
+      "t": 1931.47,
+      "text": "That's already committed, correct?"
+    },
+    {
+      "t": 1933.51,
+      "text": "Yes, design is on track."
+    },
+    {
+      "t": 1935.79,
+      "text": "They incorporated the accessibility feedback and are prioritizing contrast, font size,"
+    },
+    {
+      "t": 1941.67,
+      "text": "and keyboard navigation."
+    },
+    {
+      "t": 1943.39,
+      "text": "They understand these updates are non-negotiable."
+    },
+    {
+      "t": 1946.51,
+      "text": "Good."
+    },
+    {
+      "t": 1948.07,
+      "text": "Testing is another critical area."
+    },
+    {
+      "t": 1950.15,
+      "text": "Priya Owens' testing with Leo as backup."
+    },
+    {
+      "t": 1953.79,
+      "text": "Testing needs to be completed by Thursday."
+    },
+    {
+      "t": 1956.51,
+      "text": "Any risks there we should be aware of right now?"
+    },
+    {
+      "t": 1959.63,
+      "text": "The main risk is integration with the vendor API."
+    },
+    {
+      "t": 1963.71,
+      "text": "Functional testing is fine, but performance under load is still a question."
+    },
+    {
+      "t": 1967.99,
+      "text": "That's why we asked the vendor for an uptime and latency report within 24 hours."
+    },
+    {
+      "t": 1973.39,
+      "text": "Right."
+    },
+    {
+      "t": 1974.39,
+      "text": "Vendor latency is clearly our top risk."
+    },
+    {
+      "t": 1977.31,
+      "text": "We agreed to schedule a short sync tomorrow morning to review their response, 15 minutes"
+    },
+    {
+      "t": 1982.91,
+      "text": "at 9 a.m."
+    },
+    {
+      "t": 1984.43,
+      "text": "That invite is going out today."
+    },
+    {
+      "t": 1986.59,
+      "text": "Yes, I'll send that invite as soon as this meeting ends."
+    },
+    {
+      "t": 1990.33,
+      "text": "If their numbers look shaky, we'll discuss mitigation options immediately instead of"
+    },
+    {
+      "t": 1994.73,
+      "text": "waiting."
+    },
+    {
+      "t": 1996.07,
+      "text": "Good approach."
+    },
+    {
+      "t": 1997.07,
+      "text": "Now, data and analytics."
+    },
+    {
+      "t": 1999.83,
+      "text": "Leo owns data validation."
+    },
+    {
+      "t": 2002.29,
+      "text": "The logging pipeline must be validated by tomorrow morning."
+    },
+    {
+      "t": 2006.39,
+      "text": "The adoption dashboard is expected to go live next Monday."
+    },
+    {
+      "t": 2010.59,
+      "text": "Correct. Data validation depends on the logging fix engineering is deploying tonight."
+    },
+    {
+      "t": 2016.59,
+      "text": "Leo is aware of the dependency, and will confirm accuracy once the fix is in place."
+    },
+    {
+      "t": 2021.99,
+      "text": "Perfect."
+    },
+    {
+      "t": 2022.99,
+      "text": "Now, customer-facing materials. Who owns the customer FAQ?"
+    },
+    {
+      "t": 2028.39,
+      "text": "I do. I'll draft the first version and share it by end of day Wednesday."
+    },
+    {
+      "t": 2032.69,
+      "text": "The goal is to address the most likely questions in simple language so support and sales are"
+    },
+    {
+      "t": 2038.05,
+      "text": "aligned."
+    },
+    {
+      "t": 2039.05,
+      "text": "Excellent."
+    },
+    {
+      "t": 2040.83,
+      "text": "Support also has a role here."
+    },
+    {
+      "t": 2042.93,
+      "text": "Carlos owns the support playbook, which is due Wednesday."
+    },
+    {
+      "t": 2046.93,
+      "text": "That playbook should align closely with the FAQ to avoid mixed messages."
+    },
+    {
+      "t": 2052.17,
+      "text": "Yes, and support staffing is already confirmed."
+    },
+    {
+      "t": 2055.77,
+      "text": "Night shifts are covered and escalation paths are defined."
+    },
+    {
+      "t": 2059.17,
+      "text": "I'll make sure the playbook includes clear guidance on when to escalate issues."
+    },
+    {
+      "t": 2063.97,
+      "text": "Great. Now, sales enablement."
+    },
+    {
+      "t": 2066.95,
+      "text": "Jamie owns training content."
+    },
+    {
+      "t": 2069.35,
+      "text": "The training session will be recorded on Monday and shared by Wednesday."
+    },
+    {
+      "t": 2073.85,
+      "text": "This is a concise session, not a deep technical dive."
+    },
+    {
+      "t": 2077.85,
+      "text": "Exactly. The focus is on positioning, common objections,"
+    },
+    {
+      "t": 2081.97,
+      "text": "and when to loop in product or support."
+    },
+    {
+      "t": 2084.67,
+      "text": "We want sales to feel confident, not overloaded."
+    },
+    {
+      "t": 2088.17,
+      "text": "Now, let's talk about communication and coordination."
+    },
+    {
+      "t": 2092.29,
+      "text": "We agreed to create a dedicated Slack channel for this launch."
+    },
+    {
+      "t": 2096.49,
+      "text": "That channel will include pinned owners, timelines, key documents, and the decision log."
+    },
+    {
+      "t": 2102.73,
+      "text": "Yes, and we also agreed on communication discipline, daily check-ins before noon, concise updates,"
+    },
+    {
+      "t": 2110.29,
+      "text": "no unnecessary chatter, important updates only."
+    },
+    {
+      "t": 2114.21,
+      "text": "I like that."
+    },
+    {
+      "t": 2115.33,
+      "text": "It helps prevent alert fatigue."
+    },
+    {
+      "t": 2117.73,
+      "text": "We also agreed to consolidate notifications into daily digests whenever possible."
+    },
+    {
+      "t": 2123.53,
+      "text": "Correct, and for transparency, we'll include a status column in the Action Tracker so owners"
+    },
+    {
+      "t": 2129.37,
+      "text": "can update progress without being chased."
+    },
+    {
+      "t": 2132.33,
+      "text": "Good."
+    },
+    {
+      "t": 2133.61,
+      "text": "On risk management, we identified 15 risks with corresponding next steps."
+    },
+    {
+      "t": 2139.77,
+      "text": "Vendor latency, messaging confusion, scope creep, training gaps, budget overrun, integration"
+    },
+    {
+      "t": 2146.81,
+      "text": "slow adoption, unclear ownership, dashboard errors, delayed approvals,"
+    },
+    {
+      "t": 2152.73,
+      "text": "missing content, compliance, low feedback, hand-off confusion, and alert fatigue."
+    },
+    {
+      "t": 2159.33,
+      "text": "Yes, and each risk has an owner and a mitigation step. We'll color code them as"
+    },
+    {
+      "t": 2165.05,
+      "text": "open, in progress, mitigated, or closed so leadership can scan quickly."
+    },
+    {
+      "t": 2170.41,
+      "text": "Perfect. Which risks need escalation today?"
+    },
+    {
+      "t": 2174.41,
+      "text": "The main one is vendor latency. Procurement timeline is tight, so finance prioritizing contract review is important. Everything else is being managed within teams for now."
+    },
+    {
+      "t": 2186.41,
+      "text": "Understood. On procurement, Monica owns the review, with legal reviewing terms by Wednesday"
+    },
+    {
+      "t": 2193.89,
+      "text": "and vendor paperwork signed by Friday. That timeline cannot slip without impacting launch."
+    },
+    {
+      "t": 2200.57,
+      "text": "Agreed. I'll flag that as at risk in the recap and tag finance and legal for visibility."
+    },
+    {
+      "t": 2207.25,
+      "text": "Good. Now let's confirm ownership and deadlines one more time just to be absolutely clear."
+    },
+    {
+      "t": 2213.85,
+      "text": "Marketing content due Friday, owner Allen, training script Monday, owner Jamie,"
+    },
+    {
+      "t": 2220.45,
+      "text": "engineering fixes tonight, owner Priya, data validation tomorrow, owner Leo,"
+    },
+    {
+      "t": 2226.85,
+      "text": "customer communications Tuesday, owner Sarah, procurement review Tuesday,"
+    },
+    {
+      "t": 2232.65,
+      "text": "owner Monica, support playbook Wednesday, owner Carlos, success metrics dashboard"
+    },
+    {
+      "t": 2239.15,
+      "text": "Monday, owner Nina, Contingency Outage Plan, owner Ravi."
+    },
+    {
+      "t": 2244.31,
+      "text": "That matches my notes exactly."
+    },
+    {
+      "t": 2246.41,
+      "text": "I'll also include backups where applicable,"
+    },
+    {
+      "t": 2248.87,
+      "text": "like Leo covering testing if needed"
+    },
+    {
+      "t": 2251.15,
+      "text": "and Sarah covering comms if Allen is unavailable."
+    },
+    {
+      "t": 2254.67,
+      "text": "Excellent."
+    },
+    {
+      "t": 2255.75,
+      "text": "Let's talk briefly about governance."
+    },
+    {
+      "t": 2258.15,
+      "text": "We set a go or no go checkpoint on Tuesday at 3 p.m."
+    },
+    {
+      "t": 2262.99,
+      "text": "That meeting will be 30 minutes decision makers only."
+    },
+    {
+      "t": 2266.87,
+      "text": "Yes, the goal is not to debate endlessly, but to review readiness, risks, and data, then"
+    },
+    {
+      "t": 2272.99,
+      "text": "make a clear call."
+    },
+    {
+      "t": 2274.27,
+      "text": "I'll send the calendar invite today."
+    },
+    {
+      "t": 2276.63,
+      "text": "Good."
+    },
+    {
+      "t": 2277.63,
+      "text": "We also scheduled bi-weekly retrospectives during the pilot to capture learnings and adjust"
+    },
+    {
+      "t": 2283.15,
+      "text": "quickly."
+    },
+    {
+      "t": 2284.15,
+      "text": "Correct."
+    },
+    {
+      "t": 2285.15,
+      "text": "The first retro will be two weeks after launch."
+    },
+    {
+      "t": 2288.59,
+      "text": "Feedback from support, sales, and customers will all feed into that."
+    },
+    {
+      "t": 2293.11,
+      "text": "On customer feedback, we opened a feedback channel and agreed to collect insights daily"
+    },
+    {
+      "t": 2298.15,
+      "text": "from early users."
+    },
+    {
+      "t": 2299.79,
+      "text": "Adoption, churn signals, and support ticket volume are our key success metrics."
+    },
+    {
+      "t": 2305.51,
+      "text": "Yes, and we'll review those metrics weekly to spot trends early."
+    },
+    {
+      "t": 2310.11,
+      "text": "If adoption is slow, we already discussed running customer webinars to demonstrate value."
+    },
+    {
+      "t": 2315.79,
+      "text": "That's proactive."
+    },
+    {
+      "t": 2316.79,
+      "text": "Now, before we close, are there very blockers that require leadership support right now?"
+    },
+    {
+      "t": 2322.99,
+      "text": "None beyond the vendor response time, which we're actively tracking."
+    },
+    {
+      "t": 2326.83,
+      "text": "Everything else is within control for now."
+    },
+    {
+      "t": 2329.63,
+      "text": "Good. I appreciate that level of preparedness."
+    },
+    {
+      "t": 2333.07,
+      "text": "Let's talk about the recap."
+    },
+    {
+      "t": 2334.87,
+      "text": "You committed to sending it within 15 minutes of closing this call."
+    },
+    {
+      "t": 2339.27,
+      "text": "That's right."
+    },
+    {
+      "t": 2340.11,
+      "text": "The recap will include decisions, actions, owners, deadlines, risks, and dependencies."
+    },
+    {
+      "t": 2346.67,
+      "text": "It'll be concise, bulleted, and pinned in the Slack channel."
+    },
+    {
+      "t": 2350.67,
+      "text": "Please also include a short glossary for acronyms."
+    },
+    {
+      "t": 2354.31,
+      "text": "We have new joiners and we don't want anyone guessing meanings."
+    },
+    {
+      "t": 2358.35,
+      "text": "Already noted, I'll keep it short and simple."
+    },
+    {
+      "t": 2361.63,
+      "text": "Excellent."
+    },
+    {
+      "t": 2362.63,
+      "text": "Once the recap is posted, I'll thank the team"
+    },
+    {
+      "t": 2365.57,
+      "text": "and release them to execute."
+    },
+    {
+      "t": 2367.45,
+      "text": "No further meetings today unless something urgent."
+    }
+  ],
+  "lemmas": [
+    [
+      "good",
+      33
+    ],
+    [
+      "customer",
+      31
+    ],
+    [
+      "decision",
+      31
+    ],
+    [
+      "risk",
+      29
+    ],
+    [
+      "support",
+      29
+    ],
+    [
+      "need",
+      26
+    ],
+    [
+      "agre",
+      26
+    ],
+    [
+      "owner",
+      24
+    ],
+    [
+      "team",
+      24
+    ],
+    [
+      "review",
+      22
+    ],
+    [
+      "market",
+      21
+    ],
+    [
+      "recap",
+      21
+    ],
+    [
+      "pilot",
+      20
+    ],
+    [
+      "make",
+      19
+    ],
+    [
+      "want",
+      18
+    ],
+    [
+      "also",
+      18
+    ],
+    [
+      "clear",
+      18
+    ],
+    [
+      "finance",
+      16
+    ],
+    [
+      "talk",
+      16
+    ],
+    [
+      "test",
+      16
+    ],
+    [
+      "next",
+      15
+    ],
+    [
+      "wednesday",
+      15
+    ],
+    [
+      "vendor",
+      15
+    ],
+    [
+      "exactly",
+      14
+    ],
+    [
+      "updat",
+      14
+    ],
+    [
+      "product",
+      14
+    ],
+    [
+      "tomorrow",
+      14
+    ],
+    [
+      "go",
+      14
+    ],
+    [
+      "engineer",
+      14
+    ],
+    [
+      "data",
+      14
+    ],
+    [
+      "feedback",
+      14
+    ],
+    [
+      "launch",
+      13
+    ],
+    [
+      "include",
+      13
+    ],
+    [
+      "channel",
+      13
+    ],
+    [
+      "thursday",
+      12
+    ],
+    [
+      "morn",
+      12
+    ],
+    [
+      "correct",
+      12
+    ],
+    [
+      "keep",
+      12
+    ],
+    [
+      "communication",
+      12
+    ],
+    [
+      "early",
+      12
+    ],
+    [
+      "messag",
+      12
+    ],
+    [
+      "sure",
+      11
+    ],
+    [
+      "us",
+      11
+    ],
+    [
+      "draft",
+      11
+    ],
+    [
+      "pric",
+      11
+    ],
+    [
+      "today",
+      11
+    ],
+    [
+      "without",
+      11
+    ],
+    [
+      "clearly",
+      11
+    ],
+    [
+      "meet",
+      11
+    ],
+    [
+      "close",
+      11
+    ],
+    [
+      "one",
+      11
+    ],
+    [
+      "within",
+      11
+    ],
+    [
+      "sal",
+      11
+    ],
+    [
+      "time",
+      10
+    ],
+    [
+      "align",
+      10
+    ],
+    [
+      "still",
+      10
+    ],
+    [
+      "call",
+      10
+    ],
+    [
+      "confirm",
+      10
+    ],
+    [
+      "final",
+      10
+    ],
+    [
+      "leadership",
+      10
+    ],
+    [
+      "send",
+      10
+    ],
+    [
+      "scope",
+      10
+    ],
+    [
+      "end",
+      10
+    ],
+    [
+      "minut",
+      10
+    ],
+    [
+      "perfect",
+      9
+    ],
+    [
+      "expectation",
+      9
+    ],
+    [
+      "concise",
+      9
+    ],
+    [
+      "feature",
+      9
+    ],
+    [
+      "critical",
+      9
+    ],
+    [
+      "faq",
+      9
+    ],
+    [
+      "legal",
+      9
+    ],
+    [
+      "question",
+      9
+    ],
+    [
+      "plan",
+      9
+    ],
+    [
+      "excellent",
+      9
+    ],
+    [
+      "timeline",
+      9
+    ],
+    [
+      "adoption",
+      9
+    ],
+    [
+      "point",
+      8
+    ],
+    [
+      "quickly",
+      8
+    ],
+    [
+      "person",
+      8
+    ],
+    [
+      "alignment",
+      8
+    ],
+    [
+      "please",
+      8
+    ],
+    [
+      "matter",
+      8
+    ],
+    [
+      "important",
+      8
+    ],
+    [
+      "delay",
+      8
+    ],
+    [
+      "ask",
+      8
+    ],
+    [
+      "set",
+      8
+    ],
+    [
+      "log",
+      8
+    ],
+    [
+      "everyth",
+      8
+    ],
+    [
+      "success",
+      8
+    ],
+    [
+      "dashboard",
+      8
+    ],
+    [
+      "train",
+      8
+    ],
+    [
+      "absolutely",
+      8
+    ],
+    [
+      "thank",
+      8
+    ],
+    [
+      "say",
+      8
+    ],
+    [
+      "step",
+      8
+    ],
+    [
+      "clarity",
+      7
+    ],
+    [
+      "confusion",
+      7
+    ],
+    [
+      "start",
+      7
+    ],
+    [
+      "first",
+      7
+    ],
+    [
+      "deliver",
+      7
+    ],
+    [
+      "response",
+      7
+    ],
+    [
+      "short",
+      7
+    ],
+    [
+      "understand",
+      7
+    ],
+    [
+      "great",
+      7
+    ],
+    [
+      "discipline",
+      7
+    ],
+    [
+      "weve",
+      7
+    ],
+    [
+      "week",
+      7
+    ],
+    [
+      "tuesday",
+      7
+    ],
+    [
+      "issu",
+      7
+    ],
+    [
+      "document",
+      7
+    ],
+    [
+      "move",
+      7
+    ],
+    [
+      "monday",
+      7
+    ],
+    [
+      "focus",
+      7
+    ],
+    [
+      "metric",
+      7
+    ],
+    [
+      "design",
+      7
+    ],
+    [
+      "add",
+      7
+    ],
+    [
+      "readiness",
+      7
+    ],
+    [
+      "leo",
+      7
+    ],
+    [
+      "even",
+      7
+    ],
+    [
+      "escalation",
+      7
+    ],
+    [
+      "speak",
+      6
+    ],
+    [
+      "anyone",
+      6
+    ],
+    [
+      "slow",
+      6
+    ],
+    [
+      "cover",
+      6
+    ],
+    [
+      "deadlin",
+      6
+    ],
+    [
+      "later",
+      6
+    ],
+    [
+      "schedul",
+      6
+    ],
+    [
+      "already",
+      6
+    ],
+    [
+      "content",
+      6
+    ],
+    [
+      "work",
+      6
+    ],
+    [
+      "noon",
+      6
+    ],
+    [
+      "lock",
+      6
+    ],
+    [
+      "new",
+      6
+    ],
+    [
+      "else",
+      6
+    ],
+    [
+      "stability",
+      6
+    ],
+    [
+      "agree",
+      6
+    ],
+    [
+      "briefly",
+      6
+    ],
+    [
+      "ownership",
+      6
+    ],
+    [
+      "language",
+      6
+    ],
+    [
+      "hour",
+      6
+    ],
+    [
+      "term",
+      6
+    ],
+    [
+      "user",
+      6
+    ],
+    [
+      "appreciate",
+      6
+    ],
+    [
+      "procurement",
+      6
+    ],
+    [
+      "friday",
+      6
+    ],
+    [
+      "fix",
+      6
+    ],
+    [
+      "know",
+      6
+    ],
+    [
+      "value",
+      6
+    ],
+    [
+      "immediately",
+      6
+    ],
+    [
+      "confident",
+      6
+    ],
+    [
+      "feel",
+      6
+    ],
+    [
+      "see",
+      6
+    ],
+    [
+      "someth",
+      6
+    ],
+    [
+      "mak",
+      5
+    ],
+    [
+      "back",
+      5
+    ],
+    [
+      "mean",
+      5
+    ],
+    [
+      "version",
+      5
+    ],
+    [
+      "approval",
+      5
+    ],
+    [
+      "ther",
+      5
+    ],
+    [
+      "dependency",
+      5
+    ],
+    [
+      "bring",
+      5
+    ],
+    [
+      "commit",
+      5
+    ],
+    [
+      "happen",
+      5
+    ],
+    [
+      "note",
+      5
+    ],
+    [
+      "context",
+      5
+    ],
+    [
+      "tim",
+      5
+    ],
+    [
+      "mov",
+      5
+    ],
+    [
+      "often",
+      5
+    ],
+    [
+      "mention",
+      5
+    ],
+    [
+      "share",
+      5
+    ],
+    [
+      "day",
+      5
+    ],
+    [
+      "rollout",
+      5
+    ],
+    [
+      "simple",
+      5
+    ],
+    [
+      "invite",
+      5
+    ],
+    [
+      "concern",
+      5
+    ],
+    [
+      "performance",
+      5
+    ],
+    [
+      "report",
+      5
+    ],
+    [
+      "internally",
+      5
+    ],
+    [
+      "experience",
+      5
+    ],
+    [
+      "operational",
+      5
+    ],
+    [
+      "slack",
+      5
+    ],
+    [
+      "help",
+      5
+    ],
+    [
+      "action",
+      5
+    ],
+    [
+      "run",
+      5
+    ],
+    [
+      "overnight",
+      5
+    ],
+    [
+      "daily",
+      5
+    ],
+    [
+      "progress",
+      5
+    ],
+    [
+      "post",
+      5
+    ],
+    [
+      "thing",
+      5
+    ],
+    [
+      "understood",
+      5
+    ],
+    [
+      "execution",
+      5
+    ],
+    [
+      "clos",
+      5
+    ],
+    [
+      "everyone",
+      5
+    ],
+    [
+      "role",
+      5
+    ],
+    [
+      "limit",
+      5
+    ],
+    [
+      "stable",
+      5
+    ],
+    [
+      "confidence",
+      5
+    ],
+    [
+      "explain",
+      5
+    ],
+    [
+      "goal",
+      5
+    ],
+    [
+      "timelin",
+      5
+    ],
+    [
+      "playbook",
+      5
+    ],
+    [
+      "completely",
+      4
+    ],
+    [
+      "especially",
+      4
+    ],
+    [
+      "email",
+      4
+    ],
+    [
+      "position",
+      4
+    ],
+    [
+      "detail",
+      4
+    ],
+    [
+      "anyth",
+      4
+    ],
+    [
+      "assum",
+      4
+    ],
+    [
+      "budget",
+      4
+    ],
+    [
+      "expect",
+      4
+    ],
+    [
+      "list",
+      4
+    ],
+    [
+      "unless",
+      4
+    ],
+    [
+      "record",
+      4
+    ],
+    [
+      "address",
+      4
+    ],
+    [
+      "reduc",
+      4
+    ],
+    [
+      "includ",
+      4
+    ],
+    [
+      "approach",
+      4
+    ],
+    [
+      "api",
+      4
+    ],
+    [
+      "proactive",
+      4
+    ],
+    [
+      "respons",
+      4
+    ],
+    [
+      "learn",
+      4
+    ],
+    [
+      "necessary",
+      4
+    ],
+    [
+      "key",
+      4
+    ],
+    [
+      "follow-up",
+      4
+    ],
+    [
+      "tag",
+      4
+    ],
+    [
+      "stay",
+      4
+    ],
+    [
+      "discuss",
+      4
+    ],
+    [
+      "core",
+      4
+    ],
+    [
+      "session",
+      4
+    ],
+    [
+      "lot",
+      4
+    ],
+    [
+      "chang",
+      4
+    ],
+    [
+      "request",
+      4
+    ],
+    [
+      "retrospectiv",
+      4
+    ],
+    [
+      "slip",
+      4
+    ],
+    [
+      "allen",
+      4
+    ],
+    [
+      "jamie",
+      4
+    ],
+    [
+      "operation",
+      4
+    ],
+    [
+      "level",
+      4
+    ],
+    [
+      "realistic",
+      4
+    ],
+    [
+      "place",
+      4
+    ],
+    [
+      "explicit",
+      4
+    ],
+    [
+      "impact",
+      4
+    ],
+    [
+      "unnecessary",
+      4
+    ],
+    [
+      "tone",
+      4
+    ],
+    [
+      "message",
+      4
+    ],
+    [
+      "volume",
+      4
+    ],
+    [
+      "process",
+      4
+    ],
+    [
+      "documentation",
+      4
+    ],
+    [
+      "protect",
+      4
+    ],
+    [
+      "information",
+      4
+    ],
+    [
+      "flag",
+      4
+    ],
+    [
+      "internal",
+      4
+    ],
+    [
+      "forward",
+      4
+    ],
+    [
+      "validat",
+      4
+    ],
+    [
+      "fully",
+      4
+    ],
+    [
+      "due",
+      4
+    ],
+    [
+      "latency",
+      4
+    ],
+    [
+      "moment",
+      3
+    ],
+    [
+      "prioriti",
+      3
+    ],
+    [
+      "top",
+      3
+    ],
+    [
+      "copy",
+      3
+    ],
+    [
+      "finaliz",
+      3
+    ],
+    [
+      "ready",
+      3
+    ],
+    [
+      "alan",
+      3
+    ],
+    [
+      "remain",
+      3
+    ],
+    [
+      "giv",
+      3
+    ],
+    [
+      "long",
+      3
+    ],
+    [
+      "assign",
+      3
+    ],
+    [
+      "someone",
+      3
+    ],
+    [
+      "follow",
+      3
+    ],
+    [
+      "ping",
+      3
+    ],
+    [
+      "ravi",
+      3
+    ],
+    [
+      "proce",
+      3
+    ],
+    [
+      "room",
+      3
+    ],
+    [
+      "featur",
+      3
+    ],
+    [
+      "compliance",
+      3
+    ],
+    [
+      "issue",
+      3
+    ],
+    [
+      "past",
+      3
+    ],
+    [
+      "going",
+      3
+    ],
+    [
+      "schedule",
+      3
+    ],
+    [
+      "reinforce",
+      3
+    ],
+    [
+      "material",
+      3
+    ],
+    [
+      "prevent",
+      3
+    ],
+    [
+      "consistent",
+      3
+    ],
+    [
+      "afterward",
+      3
+    ],
+    [
+      "blocker",
+      3
+    ],
+    [
+      "yet",
+      3
+    ],
+    [
+      "mitigation",
+      3
+    ],
+    [
+      "give",
+      3
+    ],
+    [
+      "prepar",
+      3
+    ],
+    [
+      "monitor",
+      3
+    ],
+    [
+      "alert",
+      3
+    ],
+    [
+      "case",
+      3
+    ],
+    [
+      "preparation",
+      3
+    ],
+    [
+      "big",
+      3
+    ],
+    [
+      "perception",
+      3
+    ],
+    [
+      "silence",
+      3
+    ],
+    [
+      "problem",
+      3
+    ],
+    [
+      "think",
+      3
+    ],
+    [
+      "create",
+      3
+    ],
+    [
+      "pin",
+      3
+    ],
+    [
+      "conversation",
+      3
+    ],
+    [
+      "summary",
+      3
+    ],
+    [
+      "freeze",
+      3
+    ],
+    [
+      "youll",
+      3
+    ],
+    [
+      "three",
+      3
+    ],
+    [
+      "quality",
+      3
+    ],
+    [
+      "reliability",
+      3
+    ],
+    [
+      "executive",
+      3
+    ],
+    [
+      "objection",
+      3
+    ],
+    [
+      "shar",
+      3
+    ],
+    [
+      "accessibility",
+      3
+    ],
+    [
+      "pipeline",
+      3
+    ],
+    [
+      "capacity",
+      3
+    ],
+    [
+      "th",
+      3
+    ],
+    [
+      "capture",
+      3
+    ],
+    [
+      "dat",
+      3
+    ],
+    [
+      "update",
+      3
+    ],
+    [
+      "transparency",
+      3
+    ],
+    [
+      "visibility",
+      3
+    ],
+    [
+      "highlight",
+      3
+    ],
+    [
+      "let",
+      3
+    ],
+    [
+      "confirmation",
+      3
+    ],
+    [
+      "noth",
+      3
+    ],
+    [
+      "social",
+      3
+    ],
+    [
+      "onboard",
+      3
+    ],
+    [
+      "paperwork",
+      3
+    ],
+    [
+      "live",
+      3
+    ],
+    [
+      "priya",
+      3
+    ],
+    [
+      "gap",
+      3
+    ],
+    [
+      "backup",
+      3
+    ],
+    [
+      "sarah",
+      3
+    ],
+    [
+      "responsibility",
+      3
+    ],
+    [
+      "shift",
+      3
+    ],
+    [
+      "fresh",
+      3
+    ],
+    [
+      "structure",
+      3
+    ],
+    [
+      "soon",
+      3
+    ],
+    [
+      "objective",
+      3
+    ],
+    [
+      "business",
+      3
+    ],
+    [
+      "area",
+      3
+    ],
+    [
+      "phase",
+      3
+    ],
+    [
+      "trust",
+      3
+    ],
+    [
+      "calm",
+      3
+    ],
+    [
+      "meeting",
+      3
+    ],
+    [
+      "prioritiz",
+      3
+    ],
+    [
+      "guidance",
+      3
+    ],
+    [
+      "path",
+      3
+    ],
+    [
+      "easy",
+      3
+    ],
+    [
+      "insight",
+      3
+    ],
+    [
+      "visible",
+      3
+    ],
+    [
+      "management",
+      3
+    ],
+    [
+      "get",
+      3
+    ],
+    [
+      "control",
+      3
+    ],
+    [
+      "surpris",
+      3
+    ],
+    [
+      "look",
+      3
+    ],
+    [
+      "improve",
+      3
+    ],
+    [
+      "otherwise",
+      3
+    ],
+    [
+      "night",
+      3
+    ],
+    [
+      "com",
+      3
+    ],
+    [
+      "track",
+      3
+    ],
+    [
+      "communicate",
+      3
+    ],
+    [
+      "aware",
+      3
+    ],
+    [
+      "depend",
+      3
+    ],
+    [
+      "integration",
+      3
+    ],
+    [
+      "stand-up",
+      3
+    ],
+    [
+      "release",
+      3
+    ],
+    [
+      "escalate",
+      3
+    ],
+    [
+      "open",
+      3
+    ],
+    [
+      "validation",
+      3
+    ],
+    [
+      "practice",
+      2
+    ],
+    [
+      "almost",
+      2
+    ],
+    [
+      "drop",
+      2
+    ],
+    [
+      "leav",
+      2
+    ],
+    [
+      "assumption",
+      2
+    ],
+    [
+      "instead",
+      2
+    ],
+    [
+      "discussion",
+      2
+    ],
+    [
+      "productive",
+      2
+    ],
+    [
+      "captur",
+      2
+    ],
+    [
+      "save",
+      2
+    ],
+    [
+      "switch",
+      2
+    ],
+    [
+      "number",
+      2
+    ],
+    [
+      "adjust",
+      2
+    ],
+    [
+      "deadline",
+      2
+    ],
+    [
+      "scenario",
+      2
+    ],
+    [
+      "revert",
+      2
+    ],
+    [
+      "reconfirm",
+      2
+    ],
+    [
+      "ambiguity",
+      2
+    ],
+    [
+      "designer",
+      2
+    ],
+    [
+      "exception",
+      2
+    ],
+    [
+      "reopen",
+      2
+    ],
+    [
+      "write",
+      2
+    ],
+    [
+      "come",
+      2
+    ],
+    [
+      "customer-fac",
+      2
+    ],
+    [
+      "direct",
+      2
+    ],
+    [
+      "no-go",
+      2
+    ],
+    [
+      "checkpoint",
+      2
+    ],
+    [
+      "calendar",
+      2
+    ],
+    [
+      "maker",
+      2
+    ],
+    [
+      "surface",
+      2
+    ],
+    [
+      "biggest",
+      2
+    ],
+    [
+      "two",
+      2
+    ],
+    [
+      "uptime",
+      2
+    ],
+    [
+      "incident",
+      2
+    ],
+    [
+      "whether",
+      2
+    ],
+    [
+      "fallback",
+      2
+    ],
+    [
+      "logic",
+      2
+    ],
+    [
+      "additional",
+      2
+    ],
+    [
+      "difference",
+      2
+    ],
+    [
+      "creat",
+      2
+    ],
+    [
+      "frustration",
+      2
+    ],
+    [
+      "true",
+      2
+    ],
+    [
+      "dedicat",
+      2
+    ],
+    [
+      "encourage",
+      2
+    ],
+    [
+      "quick",
+      2
+    ],
+    [
+      "check",
+      2
+    ],
+    [
+      "momentum",
+      2
+    ],
+    [
+      "formally",
+      2
+    ],
+    [
+      "second",
+      2
+    ],
+    [
+      "trim",
+      2
+    ],
+    [
+      "third",
+      2
+    ],
+    [
+      "mockup",
+      2
+    ],
+    [
+      "improvement",
+      2
+    ],
+    [
+      "enablement",
+      2
+    ],
+    [
+      "validate",
+      2
+    ],
+    [
+      "pause",
+      2
+    ],
+    [
+      "result",
+      2
+    ],
+    [
+      "bi-weekly",
+      2
+    ],
+    [
+      "learning",
+      2
+    ],
+    [
+      "check-in",
+      2
+    ],
+    [
+      "status",
+      2
+    ],
+    [
+      "column",
+      2
+    ],
+    [
+      "preserv",
+      2
+    ],
+    [
+      "contract",
+      2
+    ],
+    [
+      "reason",
+      2
+    ],
+    [
+      "spend",
+      2
+    ],
+    [
+      "guid",
+      2
+    ],
+    [
+      "analytic",
+      2
+    ],
+    [
+      "weekly",
+      2
+    ],
+    [
+      "queu",
+      2
+    ],
+    [
+      "consider",
+      2
+    ],
+    [
+      "sign",
+      2
+    ],
+    [
+      "handoff",
+      2
+    ],
+    [
+      "contact",
+      2
+    ],
+    [
+      "glossary",
+      2
+    ],
+    [
+      "acronym",
+      2
+    ],
+    [
+      "brief",
+      2
+    ],
+    [
+      "link",
+      2
+    ],
+    [
+      "use",
+      2
+    ],
+    [
+      "much",
+      2
+    ],
+    [
+      "deal",
+      2
+    ],
+    [
+      "sound",
+      2
+    ],
+    [
+      "full",
+      2
+    ],
+    [
+      "restate",
+      2
+    ],
+    [
+      "leave",
+      2
+    ],
+    [
+      "sense",
+      2
+    ],
+    [
+      "plain",
+      2
+    ],
+    [
+      "overextend",
+      2
+    ],
+    [
+      "mindset",
+      2
+    ],
+    [
+      "consistency",
+      2
+    ],
+    [
+      "across",
+      2
+    ],
+    [
+      "play",
+      2
+    ],
+    [
+      "deliberately",
+      2
+    ],
+    [
+      "small",
+      2
+    ],
+    [
+      "requir",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "assessment",
+      2
+    ],
+    [
+      "implication",
+      2
+    ],
+    [
+      "offer",
+      2
+    ],
+    [
+      "honest",
+      2
+    ],
+    [
+      "attract",
+      2
+    ],
+    [
+      "narrative",
+      2
+    ],
+    [
+      "engagement",
+      2
+    ],
+    [
+      "every",
+      2
+    ],
+    [
+      "side",
+      2
+    ],
+    [
+      "script",
+      2
+    ],
+    [
+      "ticket",
+      2
+    ],
+    [
+      "identifi",
+      2
+    ],
+    [
+      "real",
+      2
+    ],
+    [
+      "structur",
+      2
+    ],
+    [
+      "match",
+      2
+    ],
+    [
+      "long-term",
+      2
+    ],
+    [
+      "low",
+      2
+    ],
+    [
+      "guardrail",
+      2
+    ],
+    [
+      "another",
+      2
+    ],
+    [
+      "involvement",
+      2
+    ],
+    [
+      "non-negotiable",
+      2
+    ],
+    [
+      "block",
+      2
+    ],
+    [
+      "beyond",
+      2
+    ],
+    [
+      "load",
+      2
+    ],
+    [
+      "shape",
+      2
+    ],
+    [
+      "outcom",
+      2
+    ],
+    [
+      "turn",
+      2
+    ],
+    [
+      "perspective",
+      2
+    ],
+    [
+      "engag",
+      2
+    ],
+    [
+      "manageable",
+      2
+    ],
+    [
+      "signal",
+      2
+    ],
+    [
+      "morale",
+      2
+    ],
+    [
+      "wrap",
+      2
+    ],
+    [
+      "accountability",
+      2
+    ],
+    [
+      "misalignment",
+      2
+    ],
+    [
+      "event",
+      2
+    ],
+    [
+      "shortly",
+      2
+    ],
+    [
+      "task",
+      2
+    ],
+    [
+      "sequenc",
+      2
+    ],
+    [
+      "way",
+      2
+    ],
+    [
+      "complet",
+      2
+    ],
+    [
+      "inconsistenci",
+      2
+    ],
+    [
+      "primary",
+      2
+    ],
+    [
+      "stage",
+      2
+    ],
+    [
+      "rather",
+      2
+    ],
+    [
+      "disappoint",
+      2
+    ],
+    [
+      "stakeholder",
+      2
+    ],
+    [
+      "fine",
+      2
+    ],
+    [
+      "constraint",
+      2
+    ],
+    [
+      "accuracy",
+      2
+    ],
+    [
+      "explicitly",
+      2
+    ],
+    [
+      "window",
+      2
+    ],
+    [
+      "interpret",
+      2
+    ],
+    [
+      "expand",
+      2
+    ],
+    [
+      "major",
+      2
+    ],
+    [
+      "contingency",
+      2
+    ],
+    [
+      "afternoon",
+      2
+    ],
+    [
+      "rely",
+      2
+    ],
+    [
+      "earlier",
+      2
+    ],
+    [
+      "caus",
+      2
+    ],
+    [
+      "affect",
+      2
+    ],
+    [
+      "done",
+      2
+    ],
+    [
+      "edit",
+      2
+    ],
+    [
+      "avoid",
+      2
+    ],
+    [
+      "overload",
+      2
+    ],
+    [
+      "technical",
+      2
+    ],
+    [
+      "coordination",
+      2
+    ],
+    [
+      "wait",
+      2
+    ],
+    [
+      "option",
+      2
+    ],
+    [
+      "functional",
+      2
+    ],
+    [
+      "churn",
+      2
+    ],
+    [
+      "main",
+      2
+    ],
+    [
+      "tonight",
+      2
+    ],
+    [
+      "carlo",
+      2
+    ],
+    [
+      "fatigue",
+      2
+    ],
+    [
+      "monica",
+      2
+    ],
+    [
+      "listen",
+      1
+    ],
+    [
+      "decid",
+      1
+    ],
+    [
+      "attention",
+      1
+    ],
+    [
+      "many",
+      1
+    ],
+    [
+      "outline",
+      1
+    ],
+    [
+      "refinement",
+      1
+    ],
+    [
+      "hold",
+      1
+    ],
+    [
+      "input",
+      1
+    ],
+    [
+      "using",
+      1
+    ],
+    [
+      "placeholder",
+      1
+    ],
+    [
+      "rang",
+      1
+    ],
+    [
+      "enough",
+      1
+    ],
+    [
+      "hit",
+      1
+    ],
+    [
+      "personally",
+      1
+    ],
+    [
+      "guard",
+      1
+    ],
+    [
+      "rail",
+      1
+    ],
+    [
+      "summariz",
+      1
+    ],
+    [
+      "sensitivity",
+      1
+    ],
+    [
+      "competitive",
+      1
+    ],
+    [
+      "rework",
+      1
+    ],
+    [
+      "truly",
+      1
+    ],
+    [
+      "agreement",
+      1
+    ],
+    [
+      "hard",
+      1
+    ],
+    [
+      "addition",
+      1
+    ],
+    [
+      "backlog",
+      1
+    ],
+    [
+      "lost",
+      1
+    ],
+    [
+      "take",
+      1
+    ],
+    [
+      "sometime",
+      1
+    ],
+    [
+      "inbound",
+      1
+    ],
+    [
+      "misinterpretation",
+      1
+    ],
+    [
+      "formal",
+      1
+    ],
+    [
+      "observer",
+      1
+    ],
+    [
+      "section",
+      1
+    ],
+    [
+      "inconsistent",
+      1
+    ],
+    [
+      "assess",
+      1
+    ],
+    [
+      "systemic",
+      1
+    ],
+    [
+      "parallel",
+      1
+    ],
+    [
+      "prepare",
+      1
+    ],
+    [
+      "kind",
+      1
+    ],
+    [
+      "centraliz",
+      1
+    ],
+    [
+      "reduce",
+      1
+    ],
+    [
+      "scatter",
+      1
+    ],
+    [
+      "action-orient",
+      1
+    ],
+    [
+      "become",
+      1
+    ],
+    [
+      "noisy",
+      1
+    ],
+    [
+      "sanity",
+      1
+    ],
+    [
+      "stat",
+      1
+    ],
+    [
+      "available",
+      1
+    ],
+    [
+      "clarification",
+      1
+    ],
+    [
+      "toward",
+      1
+    ],
+    [
+      "verbally",
+      1
+    ],
+    [
+      "lightweight",
+      1
+    ],
+    [
+      "north",
+      1
+    ],
+    [
+      "region",
+      1
+    ],
+    [
+      "ensure",
+      1
+    ],
+    [
+      "advisory",
+      1
+    ],
+    [
+      "board",
+      1
+    ],
+    [
+      "preview",
+      1
+    ],
+    [
+      "together",
+      1
+    ],
+    [
+      "fourth",
+      1
+    ],
+    [
+      "sponsor",
+      1
+    ],
+    [
+      "secur",
+      1
+    ],
+    [
+      "revis",
+      1
+    ],
+    [
+      "fifth",
+      1
+    ],
+    [
+      "five",
+      1
+    ],
+    [
+      "sixth",
+      1
+    ],
+    [
+      "finalize",
+      1
+    ],
+    [
+      "addendum",
+      1
+    ],
+    [
+      "red",
+      1
+    ],
+    [
+      "lin",
+      1
+    ],
+    [
+      "seventh",
+      1
+    ],
+    [
+      "eighth",
+      1
+    ],
+    [
+      "host",
+      1
+    ],
+    [
+      "front-line",
+      1
+    ],
+    [
+      "part",
+      1
+    ],
+    [
+      "continue",
+      1
+    ],
+    [
+      "ninth",
+      1
+    ],
+    [
+      "tenth",
+      1
+    ],
+    [
+      "publish",
+      1
+    ],
+    [
+      "public-fac",
+      1
+    ],
+    [
+      "roadmap",
+      1
+    ],
+    [
+      "slide",
+      1
+    ],
+    [
+      "deck",
+      1
+    ],
+    [
+      "portal",
+      1
+    ],
+    [
+      "eleventh",
+      1
+    ],
+    [
+      "recent",
+      1
+    ],
+    [
+      "twelfth",
+      1
+    ],
+    [
+      "announce",
+      1
+    ],
+    [
+      "beta-list",
+      1
+    ],
+    [
+      "closure",
+      1
+    ],
+    [
+      "reach",
+      1
+    ],
+    [
+      "held",
+      1
+    ],
+    [
+      "directly",
+      1
+    ],
+    [
+      "smart",
+      1
+    ],
+    [
+      "noise",
+      1
+    ],
+    [
+      "attach",
+      1
+    ],
+    [
+      "join",
+      1
+    ],
+    [
+      "audit",
+      1
+    ],
+    [
+      "item",
+      1
+    ],
+    [
+      "tightest",
+      1
+    ],
+    [
+      "off-lag",
+      1
+    ],
+    [
+      "prioritize",
+      1
+    ],
+    [
+      "fall",
+      1
+    ],
+    [
+      "crack",
+      1
+    ],
+    [
+      "prea",
+      1
+    ],
+    [
+      "hotfix",
+      1
+    ],
+    [
+      "measur",
+      1
+    ],
+    [
+      "complete",
+      1
+    ],
+    [
+      "hot",
+      1
+    ],
+    [
+      "survey",
+      1
+    ],
+    [
+      "built",
+      1
+    ],
+    [
+      "thorough",
+      1
+    ],
+    [
+      "along",
+      1
+    ],
+    [
+      "ad",
+      1
+    ],
+    [
+      "idea",
+      1
+    ],
+    [
+      "office",
+      1
+    ],
+    [
+      "manage",
+      1
+    ],
+    [
+      "proactively",
+      1
+    ],
+    [
+      "driv",
+      1
+    ],
+    [
+      "cleanly",
+      1
+    ],
+    [
+      "smoother",
+      1
+    ],
+    [
+      "collaboration",
+      1
+    ],
+    [
+      "touch",
+      1
+    ],
+    [
+      "base",
+      1
+    ],
+    [
+      "line",
+      1
+    ],
+    [
+      "clean",
+      1
+    ],
+    [
+      "zero",
+      1
+    ],
+    [
+      "reset",
+      1
+    ],
+    [
+      "useful",
+      1
+    ],
+    [
+      "multiple",
+      1
+    ],
+    [
+      "involv",
+      1
+    ],
+    [
+      "downstream",
+      1
+    ],
+    [
+      "effect",
+      1
+    ],
+    [
+      "walk",
+      1
+    ],
+    [
+      "carefully",
+      1
+    ],
+    [
+      "initiative",
+      1
+    ],
+    [
+      "controll",
+      1
+    ],
+    [
+      "perfection",
+      1
+    ],
+    [
+      "safely",
+      1
+    ],
+    [
+      "emphasize",
+      1
+    ],
+    [
+      "full-scale",
+      1
+    ],
+    [
+      "frame",
+      1
+    ],
+    [
+      "department",
+      1
+    ],
+    [
+      "group",
+      1
+    ],
+    [
+      "operat",
+      1
+    ],
+    [
+      "outdat",
+      1
+    ],
+    [
+      "friction",
+      1
+    ],
+    [
+      "conversationally",
+      1
+    ],
+    [
+      "since",
+      1
+    ],
+    [
+      "foundation",
+      1
+    ],
+    [
+      "comprehensive",
+      1
+    ],
+    [
+      "active",
+      1
+    ],
+    [
+      "believ",
+      1
+    ],
+    [
+      "change",
+      1
+    ],
+    [
+      "escalat",
+      1
+    ],
+    [
+      "perform",
+      1
+    ],
+    [
+      "constant",
+      1
+    ],
+    [
+      "lead",
+      1
+    ],
+    [
+      "opposite",
+      1
+    ],
+    [
+      "delivery",
+      1
+    ],
+    [
+      "wrong",
+      1
+    ],
+    [
+      "detect",
+      1
+    ],
+    [
+      "communicat",
+      1
+    ],
+    [
+      "find",
+      1
+    ],
+    [
+      "investigation",
+      1
+    ],
+    [
+      "relevant",
+      1
+    ],
+    [
+      "anxiety",
+      1
+    ],
+    [
+      "speculation",
+      1
+    ],
+    [
+      "decision-mak",
+      1
+    ],
+    [
+      "purpose",
+      1
+    ],
+    [
+      "hype",
+      1
+    ],
+    [
+      "exaggeration",
+      1
+    ],
+    [
+      "overpromis",
+      1
+    ],
+    [
+      "pressure",
+      1
+    ],
+    [
+      "damag",
+      1
+    ],
+    [
+      "repeat",
+      1
+    ],
+    [
+      "selective",
+      1
+    ],
+    [
+      "push",
+      1
+    ],
+    [
+      "fit",
+      1
+    ],
+    [
+      "treat",
+      1
+    ],
+    [
+      "consultative",
+      1
+    ],
+    [
+      "reaction",
+      1
+    ],
+    [
+      "cas",
+      1
+    ],
+    [
+      "interest",
+      1
+    ],
+    [
+      "participant",
+      1
+    ],
+    [
+      "dissatisfaction",
+      1
+    ],
+    [
+      "extremely",
+      1
+    ],
+    [
+      "valuable",
+      1
+    ],
+    [
+      "pattern",
+      1
+    ],
+    [
+      "resolve",
+      1
+    ],
+    [
+      "invisible",
+      1
+    ],
+    [
+      "access",
+      1
+    ],
+    [
+      "ensur",
+      1
+    ],
+    [
+      "promise",
+      1
+    ],
+    [
+      "repeatedly",
+      1
+    ],
+    [
+      "reli",
+      1
+    ],
+    [
+      "manual",
+      1
+    ],
+    [
+      "intervention",
+      1
+    ],
+    [
+      "tie",
+      1
+    ],
+    [
+      "respond",
+      1
+    ],
+    [
+      "unexpect",
+      1
+    ],
+    [
+      "predict",
+      1
+    ],
+    [
+      "reality",
+      1
+    ],
+    [
+      "faster",
+      1
+    ],
+    [
+      "financ",
+      1
+    ],
+    [
+      "cost",
+      1
+    ],
+    [
+      "sustainability",
+      1
+    ],
+    [
+      "influence",
+      1
+    ],
+    [
+      "high",
+      1
+    ],
+    [
+      "provid",
+      1
+    ],
+    [
+      "balance",
+      1
+    ],
+    [
+      "forc",
+      1
+    ],
+    [
+      "partner",
+      1
+    ],
+    [
+      "handl",
+      1
+    ],
+    [
+      "contractual",
+      1
+    ],
+    [
+      "company",
+      1
+    ],
+    [
+      "respect",
+      1
+    ],
+    [
+      "rush",
+      1
+    ],
+    [
+      "increas",
+      1
+    ],
+    [
+      "last-minute",
+      1
+    ],
+    [
+      "norm",
+      1
+    ],
+    [
+      "central",
+      1
+    ],
+    [
+      "factual",
+      1
+    ],
+    [
+      "solution-orient",
+      1
+    ],
+    [
+      "emotional",
+      1
+    ],
+    [
+      "vague",
+      1
+    ],
+    [
+      "drama",
+      1
+    ],
+    [
+      "build",
+      1
+    ],
+    [
+      "ultimately",
+      1
+    ],
+    [
+      "benefit",
+      1
+    ],
+    [
+      "zoom",
+      1
+    ],
+    [
+      "try",
+      1
+    ],
+    [
+      "behavior",
+      1
+    ],
+    [
+      "gather",
+      1
+    ],
+    [
+      "lesson",
+      1
+    ],
+    [
+      "institutional",
+      1
+    ],
+    [
+      "knowledge",
+      1
+    ],
+    [
+      "defensive",
+      1
+    ],
+    [
+      "blame",
+      1
+    ],
+    [
+      "cultural",
+      1
+    ],
+    [
+      "safe",
+      1
+    ],
+    [
+      "rais",
+      1
+    ],
+    [
+      "summari",
+      1
+    ],
+    [
+      "recommend",
+      1
+    ],
+    [
+      "leader",
+      1
+    ],
+    [
+      "scal",
+      1
+    ],
+    [
+      "becom",
+      1
+    ],
+    [
+      "easier",
+      1
+    ],
+    [
+      "overlook",
+      1
+    ],
+    [
+      "personal",
+      1
+    ],
+    [
+      "reinforc",
+      1
+    ],
+    [
+      "raise",
+      1
+    ],
+    [
+      "one-time",
+      1
+    ],
+    [
+      "ongo",
+      1
+    ],
+    [
+      "begin",
+      1
+    ],
+    [
+      "re-litigat",
+      1
+    ],
+    [
+      "emerg",
+      1
+    ],
+    [
+      "stall",
+      1
+    ],
+    [
+      "debat",
+      1
+    ],
+    [
+      "professionalism",
+      1
+    ],
+    [
+      "shown",
+      1
+    ],
+    [
+      "dramatically",
+      1
+    ],
+    [
+      "sentiment",
+      1
+    ],
+    [
+      "underrat",
+      1
+    ],
+    [
+      "skill",
+      1
+    ],
+    [
+      "example",
+      1
+    ],
+    [
+      "intent",
+      1
+    ],
+    [
+      "drift",
+      1
+    ],
+    [
+      "technically",
+      1
+    ],
+    [
+      "fair",
+      1
+    ],
+    [
+      "efficiency",
+      1
+    ],
+    [
+      "mileston",
+      1
+    ],
+    [
+      "show",
+      1
+    ],
+    [
+      "restat",
+      1
+    ],
+    [
+      "introduc",
+      1
+    ],
+    [
+      "breadth",
+      1
+    ],
+    [
+      "though",
+      1
+    ],
+    [
+      "functionality",
+      1
+    ],
+    [
+      "description",
+      1
+    ],
+    [
+      "tighten",
+      1
+    ],
+    [
+      "optimistic",
+      1
+    ],
+    [
+      "precise",
+      1
+    ],
+    [
+      "limitation",
+      1
+    ],
+    [
+      "classic",
+      1
+    ],
+    [
+      "tension",
+      1
+    ],
+    [
+      "optimism",
+      1
+    ],
+    [
+      "retain",
+      1
+    ],
+    [
+      "resolv",
+      1
+    ],
+    [
+      "anchor",
+      1
+    ],
+    [
+      "contradict",
+      1
+    ],
+    [
+      "circulate",
+      1
+    ],
+    [
+      "backfire",
+      1
+    ],
+    [
+      "specify",
+      1
+    ],
+    [
+      "resource",
+      1
+    ],
+    [
+      "strain",
+      1
+    ],
+    [
+      "serious",
+      1
+    ],
+    [
+      "regular",
+      1
+    ],
+    [
+      "sprint",
+      1
+    ],
+    [
+      "simultaneously",
+      1
+    ],
+    [
+      "sustainable",
+      1
+    ],
+    [
+      "contain",
+      1
+    ],
+    [
+      "reassess",
+      1
+    ],
+    [
+      "force",
+      1
+    ],
+    [
+      "minor",
+      1
+    ],
+    [
+      "adapt",
+      1
+    ],
+    [
+      "fast",
+      1
+    ],
+    [
+      "decide",
+      1
+    ],
+    [
+      "pre-block",
+      1
+    ],
+    [
+      "minute",
+      1
+    ],
+    [
+      "slot",
+      1
+    ],
+    [
+      "cancel",
+      1
+    ],
+    [
+      "scramble",
+      1
+    ],
+    [
+      "handle",
+      1
+    ],
+    [
+      "heavily",
+      1
+    ],
+    [
+      "judge",
+      1
+    ],
+    [
+      "moderately",
+      1
+    ],
+    [
+      "worri",
+      1
+    ],
+    [
+      "bas",
+      1
+    ],
+    [
+      "flaw",
+      1
+    ],
+    [
+      "bad",
+      1
+    ],
+    [
+      "slowly",
+      1
+    ],
+    [
+      "reliable",
+      1
+    ],
+    [
+      "performance-bas",
+      1
+    ],
+    [
+      "conclusion",
+      1
+    ],
+    [
+      "qualitative",
+      1
+    ],
+    [
+      "sensible",
+      1
+    ],
+    [
+      "overreact",
+      1
+    ],
+    [
+      "incomplete",
+      1
+    ],
+    [
+      "disclaimer",
+      1
+    ],
+    [
+      "word",
+      1
+    ],
+    [
+      "trigger",
+      1
+    ],
+    [
+      "criteria",
+      1
+    ],
+    [
+      "matrix",
+      1
+    ],
+    [
+      "severity",
+      1
+    ],
+    [
+      "instability",
+      1
+    ],
+    [
+      "short-term",
+      1
+    ],
+    [
+      "throttle",
+      1
+    ],
+    [
+      "usage",
+      1
+    ],
+    [
+      "transparently",
+      1
+    ],
+    [
+      "evaluate",
+      1
+    ],
+    [
+      "alternative",
+      1
+    ],
+    [
+      "provider",
+      1
+    ],
+    [
+      "party",
+      1
+    ],
+    [
+      "external",
+      1
+    ],
+    [
+      "deflect",
+      1
+    ],
+    [
+      "root",
+      1
+    ],
+    [
+      "cause",
+      1
+    ],
+    [
+      "rhythm",
+      1
+    ],
+    [
+      "propos",
+      1
+    ],
+    [
+      "format",
+      1
+    ],
+    [
+      "strictly",
+      1
+    ],
+    [
+      "answer",
+      1
+    ],
+    [
+      "solv",
+      1
+    ],
+    [
+      "offline",
+      1
+    ],
+    [
+      "efficient",
+      1
+    ],
+    [
+      "attend",
+      1
+    ],
+    [
+      "permission",
+      1
+    ],
+    [
+      "rationale",
+      1
+    ],
+    [
+      "asynchronously",
+      1
+    ],
+    [
+      "slid",
+      1
+    ],
+    [
+      "appendix",
+      1
+    ],
+    [
+      "extra",
+      1
+    ],
+    [
+      "effort",
+      1
+    ],
+    [
+      "acknowledg",
+      1
+    ],
+    [
+      "recognize",
+      1
+    ],
+    [
+      "win",
+      1
+    ],
+    [
+      "publicly",
+      1
+    ],
+    [
+      "breath",
+      1
+    ],
+    [
+      "stabiliz",
+      1
+    ],
+    [
+      "recognition",
+      1
+    ],
+    [
+      "burnout",
+      1
+    ],
+    [
+      "sneak",
+      1
+    ],
+    [
+      "unseen",
+      1
+    ],
+    [
+      "manager",
+      1
+    ],
+    [
+      "pass",
+      1
+    ],
+    [
+      "honestly",
+      1
+    ],
+    [
+      "failure",
+      1
+    ],
+    [
+      "differently",
+      1
+    ],
+    [
+      "act",
+      1
+    ],
+    [
+      "accordingly",
+      1
+    ],
+    [
+      "valid",
+      1
+    ],
+    [
+      "beat",
+      1
+    ],
+    [
+      "spe",
+      1
+    ],
+    [
+      "careful",
+      1
+    ],
+    [
+      "assume",
+      1
+    ],
+    [
+      "mitigate",
+      1
+    ],
+    [
+      "label",
+      1
+    ],
+    [
+      "reminder",
+      1
+    ],
+    [
+      "disconnect",
+      1
+    ],
+    [
+      "air",
+      1
+    ],
+    [
+      "youve",
+      1
+    ],
+    [
+      "carry",
+      1
+    ],
+    [
+      "finish",
+      1
+    ],
+    [
+      "away",
+      1
+    ],
+    [
+      "materially",
+      1
+    ],
+    [
+      "immediate",
+      1
+    ],
+    [
+      "alright",
+      1
+    ],
+    [
+      "solid",
+      1
+    ],
+    [
+      "bit",
+      1
+    ],
+    [
+      "last",
+      1
+    ],
+    [
+      "wrap-up",
+      1
+    ],
+    [
+      "interpretation",
+      1
+    ],
+    [
+      "picture",
+      1
+    ],
+    [
+      "cleaner",
+      1
+    ],
+    [
+      "alway",
+      1
+    ],
+    [
+      "target",
+      1
+    ],
+    [
+      "soft",
+      1
+    ],
+    [
+      "quietly",
+      1
+    ],
+    [
+      "silent",
+      1
+    ],
+    [
+      "threaten",
+      1
+    ],
+    [
+      "propose",
+      1
+    ],
+    [
+      "inform",
+      1
+    ],
+    [
+      "over-promis",
+      1
+    ],
+    [
+      "importance",
+      1
+    ],
+    [
+      "state",
+      1
+    ],
+    [
+      "hear",
+      1
+    ],
+    [
+      "alongside",
+      1
+    ],
+    [
+      "framework",
+      1
+    ],
+    [
+      "paus",
+      1
+    ],
+    [
+      "automatically",
+      1
+    ],
+    [
+      "approv",
+      1
+    ],
+    [
+      "range",
+      1
+    ],
+    [
+      "condition",
+      1
+    ],
+    [
+      "enhancement",
+      1
+    ],
+    [
+      "defect",
+      1
+    ],
+    [
+      "essential",
+      1
+    ],
+    [
+      "allow",
+      1
+    ],
+    [
+      "tweak",
+      1
+    ],
+    [
+      "incorporat",
+      1
+    ],
+    [
+      "contrast",
+      1
+    ],
+    [
+      "font",
+      1
+    ],
+    [
+      "size",
+      1
+    ],
+    [
+      "keyboard",
+      1
+    ],
+    [
+      "navigation",
+      1
+    ],
+    [
+      "owen",
+      1
+    ],
+    [
+      "sync",
+      1
+    ],
+    [
+      "shaky",
+      1
+    ],
+    [
+      "deploy",
+      1
+    ],
+    [
+      "likely",
+      1
+    ],
+    [
+      "closely",
+      1
+    ],
+    [
+      "mix",
+      1
+    ],
+    [
+      "staff",
+      1
+    ],
+    [
+      "defin",
+      1
+    ],
+    [
+      "deep",
+      1
+    ],
+    [
+      "dive",
+      1
+    ],
+    [
+      "common",
+      1
+    ],
+    [
+      "loop",
+      1
+    ],
+    [
+      "chatter",
+      1
+    ],
+    [
+      "consolidate",
+      1
+    ],
+    [
+      "notification",
+      1
+    ],
+    [
+      "digest",
+      1
+    ],
+    [
+      "whenever",
+      1
+    ],
+    [
+      "possible",
+      1
+    ],
+    [
+      "tracker",
+      1
+    ],
+    [
+      "chas",
+      1
+    ],
+    [
+      "correspond",
+      1
+    ],
+    [
+      "creep",
+      1
+    ],
+    [
+      "overrun",
+      1
+    ],
+    [
+      "unclear",
+      1
+    ],
+    [
+      "error",
+      1
+    ],
+    [
+      "miss",
+      1
+    ],
+    [
+      "hand-off",
+      1
+    ],
+    [
+      "color",
+      1
+    ],
+    [
+      "mitigat",
+      1
+    ],
+    [
+      "scan",
+      1
+    ],
+    [
+      "tight",
+      1
+    ],
+    [
+      "manag",
+      1
+    ],
+    [
+      "nina",
+      1
+    ],
+    [
+      "outage",
+      1
+    ],
+    [
+      "applicable",
+      1
+    ],
+    [
+      "comm",
+      1
+    ],
+    [
+      "unavailable",
+      1
+    ],
+    [
+      "governance",
+      1
+    ],
+    [
+      "debate",
+      1
+    ],
+    [
+      "endlessly",
+      1
+    ],
+    [
+      "retro",
+      1
+    ],
+    [
+      "feed",
+      1
+    ],
+    [
+      "collect",
+      1
+    ],
+    [
+      "spot",
+      1
+    ],
+    [
+      "trend",
+      1
+    ],
+    [
+      "webinar",
+      1
+    ],
+    [
+      "demonstrate",
+      1
+    ],
+    [
+      "require",
+      1
+    ],
+    [
+      "none",
+      1
+    ],
+    [
+      "actively",
+      1
+    ],
+    [
+      "preparedness",
+      1
+    ],
+    [
+      "dependenci",
+      1
+    ],
+    [
+      "itll",
+      1
+    ],
+    [
+      "bullet",
+      1
+    ],
+    [
+      "joiner",
+      1
+    ],
+    [
+      "guess",
+      1
+    ],
+    [
+      "meaning",
+      1
+    ],
+    [
+      "execute",
+      1
+    ],
+    [
+      "urgent",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 5564,
+    "unique_words": 1035,
+    "duration_min": 39.6
+  }
+}

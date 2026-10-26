@@ -755,13 +755,13 @@
     "slug": "RealBusinessMeetingConversations",
     "file_stem": "36_RealBusinessMeetingConversations",
     "duration_min": 39.6,
-    "status": "pending",
-    "retries": 0,
+    "status": "done",
+    "retries": 1,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.998,
+      "word_count": 5600,
+      "repetition_ratio": 0.0345,
       "flags": []
     }
   },
@@ -776,13 +776,13 @@
     "slug": "LearnBusinessEnglishThroughStory10InterestingShortStories",
     "file_stem": "37_LearnBusinessEnglishThroughStory10InterestingShortStories",
     "duration_min": 50.6,
-    "status": "pending",
-    "retries": 0,
+    "status": "done",
+    "retries": 1,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.997,
+      "word_count": 6670,
+      "repetition_ratio": 0.0333,
       "flags": []
     }
   },
@@ -797,13 +797,13 @@
     "slug": "30PracticalBusinessEnglishConversationstoImproveYourBusinessSkills",
     "file_stem": "38_30PracticalBusinessEnglishConversationstoImproveYourBusinessSkills",
     "duration_min": 68.6,
-    "status": "pending",
-    "retries": 0,
+    "status": "done",
+    "retries": 1,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.994,
+      "word_count": 9066,
+      "repetition_ratio": 0.0294,
       "flags": []
     }
   },
@@ -818,13 +818,13 @@
     "slug": "BusinessEnglishNegotiationsKeyDialogues",
     "file_stem": "39_BusinessEnglishNegotiationsKeyDialogues",
     "duration_min": 53.5,
-    "status": "pending",
-    "retries": 0,
+    "status": "done",
+    "retries": 1,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.996,
+      "word_count": 7270,
+      "repetition_ratio": 0.0278,
       "flags": []
     }
   },
@@ -839,13 +839,13 @@
     "slug": "BusinessMeetingConversationsin50minutesEssentialPhrases",
     "file_stem": "40_BusinessMeetingConversationsin50minutesEssentialPhrases",
     "duration_min": 55.3,
-    "status": "pending",
-    "retries": 0,
+    "status": "done",
+    "retries": 1,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.998,
+      "word_count": 7218,
+      "repetition_ratio": 0.0244,
       "flags": []
     }
   },
@@ -862,13 +862,13 @@
     "slug": "HowtoCommunicateconfidentlyinworkplace",
     "file_stem": "41_HowtoCommunicateconfidentlyinworkplace",
     "duration_min": 61.5,
-    "status": "pending",
-    "retries": 0,
+    "status": "done",
+    "retries": 1,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.998,
+      "word_count": 11242,
+      "repetition_ratio": 0.0303,
       "flags": []
     }
   },
@@ -883,13 +883,13 @@
     "slug": "BusinessEnglishProfessionalEmailPhrases150",
     "file_stem": "42_BusinessEnglishProfessionalEmailPhrases150",
     "duration_min": 36.7,
-    "status": "pending",
-    "retries": 0,
+    "status": "done",
+    "retries": 1,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.997,
+      "word_count": 2624,
+      "repetition_ratio": 0.037,
       "flags": []
     }
   },
@@ -904,13 +904,13 @@
     "slug": "BusinessMeetingConversationsin40minutes",
     "file_stem": "43_BusinessMeetingConversationsin40minutes",
     "duration_min": 40.1,
-    "status": "pending",
-    "retries": 0,
+    "status": "done",
+    "retries": 1,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.998,
+      "word_count": 6795,
+      "repetition_ratio": 0.0333,
       "flags": []
     }
   },
@@ -925,13 +925,13 @@
     "slug": "JobInterviewDialoguesBrandManager",
     "file_stem": "44_JobInterviewDialoguesBrandManager",
     "duration_min": 57.0,
-    "status": "pending",
-    "retries": 0,
+    "status": "done",
+    "retries": 1,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.997,
+      "word_count": 7489,
+      "repetition_ratio": 0.0263,
       "flags": []
     }
   },
@@ -946,13 +946,13 @@
     "slug": "EnglishinFinanceMeetingPhrasesConversationListening",
     "file_stem": "45_EnglishinFinanceMeetingPhrasesConversationListening",
     "duration_min": 56.9,
-    "status": "pending",
-    "retries": 0,
+    "status": "done",
+    "retries": 1,
     "qa": {
-      "language": null,
-      "language_probability": null,
-      "word_count": null,
-      "repetition_ratio": null,
+      "language": "en",
+      "language_probability": 0.994,
+      "word_count": 7368,
+      "repetition_ratio": 0.0208,
       "flags": []
     }
   },

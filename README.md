@@ -31,7 +31,7 @@ whisperASR/
 |---|---|---|
 | 预检 | `python -m pipeline preflight` | 下载/校验 whisper small 模型（HF_HOME=models/） |
 | 一 · 编号映射 | `python -m pipeline index` | 解析 entry.json → cid 升序编号 → 标题 typo 修正 → episodes.{json,md} |
-| 二 · 音频转换 | （`run` 内置） | ffmpeg → 16k mono WAV，转一集删一集 |
+| 二 · 音频转换 | （`run` 内置） | ffmpeg → 16k mono WAV，转一集删一集；缓存原件缺失时回退 `data/m4a/<file_stem>.m4a` |
 | 三 · 转写 | `python -m pipeline transcribe` | faster-whisper（CPU int8）+ 语种门禁 + 复读检测 + 自动 QA |
 | 四 · 候选提取 | `python -m pipeline extract` | 词频/短语/语块候选 + 全局词表（CEFR 分级） |
 | 批量 | `python -m pipeline run --episodes 1-5` | 逐集 convert→transcribe→extract，断点续跑 |
@@ -63,5 +63,5 @@ python -m pipeline status            # 查看各集状态
 ## 进度
 
 - [x] 阶段一：67 集编号映射（index/episodes.md，6 处标题 typo 已修正）
-- [x] 01–10 集转写 + 学习 md（output/）
-- [ ] 11–67 集
+- [x] 01–45 集转写 + 学习 md（output/）
+- [ ] 46–67 集

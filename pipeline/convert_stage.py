@@ -21,10 +21,19 @@ def check_disk():
             f"磁盘剩余 {free / 1024 ** 3:.1f}GB < {config.MIN_FREE_DISK_GB}GB，中止转换")
 
 
-def convert_episode(ep):
+def source_audio(ep):
+    """优先用 B 站缓存原件；缓存已清理时回退到 data/m4a/<file_stem>.m4a。"""
     m4s = config.DATA_DIR / ep["dir"] / ep["m4s_rel"]
-    if not m4s.exists():
-        raise ConvertError(f"音频不存在: {m4s}")
+    if m4s.exists():
+        return m4s
+    m4a = config.DATA_DIR / "m4a" / f"{ep['file_stem']}.m4a"
+    if m4a.exists():
+        return m4a
+    raise ConvertError(f"音频不存在: {m4s} / {m4a}")
+
+
+def convert_episode(ep):
+    m4s = source_audio(ep)
     config.WORK_TMP.mkdir(parents=True, exist_ok=True)
     check_disk()
     out = wav_path(ep["cid"])

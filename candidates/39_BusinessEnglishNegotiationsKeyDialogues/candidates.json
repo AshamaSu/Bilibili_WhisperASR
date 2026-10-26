@@ -1,0 +1,8397 @@
+{
+  "file_stem": "39_BusinessEnglishNegotiationsKeyDialogues",
+  "no": 39,
+  "title_keywords": [
+    [
+      "business",
+      "business"
+    ],
+    [
+      "english",
+      "english"
+    ],
+    [
+      "negotiations",
+      "negotiation"
+    ],
+    [
+      "key",
+      "key"
+    ],
+    [
+      "dialogues",
+      "dialogu"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "us",
+      49,
+      "A2"
+    ],
+    [
+      "days",
+      44,
+      "A2"
+    ],
+    [
+      "review",
+      40,
+      "B1+"
+    ],
+    [
+      "cost",
+      39,
+      "A2"
+    ],
+    [
+      "terms",
+      35,
+      "A2"
+    ],
+    [
+      "good",
+      34,
+      "A2"
+    ],
+    [
+      "volume",
+      32,
+      "B1+"
+    ],
+    [
+      "level",
+      31,
+      "B1+"
+    ],
+    [
+      "pricing",
+      31,
+      "B1+"
+    ],
+    [
+      "work",
+      29,
+      "A2"
+    ],
+    [
+      "payment",
+      28,
+      "B1+"
+    ],
+    [
+      "need",
+      27,
+      "A2"
+    ],
+    [
+      "planning",
+      27,
+      "A2"
+    ],
+    [
+      "thank",
+      27,
+      "A2"
+    ],
+    [
+      "discount",
+      26,
+      "B1+"
+    ],
+    [
+      "also",
+      25,
+      "A2"
+    ],
+    [
+      "quality",
+      25,
+      "A2"
+    ],
+    [
+      "discuss",
+      24,
+      "B1+"
+    ],
+    [
+      "monthly",
+      24,
+      "B1+"
+    ],
+    [
+      "price",
+      22,
+      "A2"
+    ],
+    [
+      "forecasts",
+      21,
+      "B1+"
+    ],
+    [
+      "months",
+      21,
+      "A2"
+    ],
+    [
+      "agreement",
+      20,
+      "B1+"
+    ],
+    [
+      "contract",
+      20,
+      "B1+"
+    ],
+    [
+      "internally",
+      20,
+      "B1+"
+    ],
+    [
+      "operational",
+      20,
+      "B1+"
+    ],
+    [
+      "performance",
+      20,
+      "B1+"
+    ],
+    [
+      "proposal",
+      20,
+      "B1+"
+    ],
+    [
+      "service",
+      20,
+      "B1+"
+    ],
+    [
+      "still",
+      20,
+      "A2"
+    ],
+    [
+      "discussion",
+      19,
+      "B1+"
+    ],
+    [
+      "reduction",
+      19,
+      "B1+"
+    ],
+    [
+      "agreed",
+      18,
+      "B1+"
+    ],
+    [
+      "another",
+      18,
+      "A2"
+    ],
+    [
+      "clear",
+      18,
+      "A2"
+    ],
+    [
+      "delivery",
+      18,
+      "B1+"
+    ],
+    [
+      "look",
+      18,
+      "A2"
+    ],
+    [
+      "management",
+      18,
+      "B1+"
+    ],
+    [
+      "offer",
+      18,
+      "A2"
+    ],
+    [
+      "year",
+      18,
+      "A2"
+    ],
+    [
+      "based",
+      17,
+      "B1+"
+    ],
+    [
+      "concerns",
+      17,
+      "B1+"
+    ],
+    [
+      "escalation",
+      17,
+      "B1+"
+    ],
+    [
+      "first",
+      17,
+      "A2"
+    ],
+    [
+      "flexibility",
+      17,
+      "B1+"
+    ],
+    [
+      "points",
+      17,
+      "A2"
+    ],
+    [
+      "team",
+      17,
+      "A2"
+    ],
+    [
+      "approach",
+      16,
+      "B1+"
+    ],
+    [
+      "case",
+      16,
+      "A2"
+    ],
+    [
+      "help",
+      16,
+      "A2"
+    ],
+    [
+      "internal",
+      16,
+      "B1+"
+    ],
+    [
+      "meeting",
+      16,
+      "A2"
+    ],
+    [
+      "propose",
+      16,
+      "B1+"
+    ],
+    [
+      "credits",
+      15,
+      "B1+"
+    ],
+    [
+      "incentives",
+      15,
+      "B1+"
+    ],
+    [
+      "risk",
+      15,
+      "A2"
+    ],
+    [
+      "appreciate",
+      14,
+      "B1+"
+    ],
+    [
+      "approval",
+      14,
+      "B1+"
+    ],
+    [
+      "commitments",
+      14,
+      "B1+"
+    ],
+    [
+      "consider",
+      14,
+      "B1+"
+    ],
+    [
+      "improvement",
+      14,
+      "B1+"
+    ],
+    [
+      "joint",
+      14,
+      "B1+"
+    ],
+    [
+      "long-term",
+      14,
+      "B1+"
+    ],
+    [
+      "move",
+      14,
+      "A2"
+    ],
+    [
+      "time",
+      14,
+      "A2"
+    ],
+    [
+      "include",
+      13,
+      "A2"
+    ],
+    [
+      "market",
+      13,
+      "A2"
+    ],
+    [
+      "morning",
+      13,
+      "B1+"
+    ],
+    [
+      "ordering",
+      13,
+      "A2"
+    ],
+    [
+      "quarterly",
+      13,
+      "B1+"
+    ],
+    [
+      "see",
+      13,
+      "A2"
+    ],
+    [
+      "today",
+      13,
+      "A2"
+    ],
+    [
+      "understand",
+      13,
+      "A2"
+    ],
+    [
+      "unit",
+      13,
+      "A2"
+    ],
+    [
+      "agree",
+      12,
+      "A2"
+    ],
+    [
+      "aligns",
+      12,
+      "B1+"
+    ],
+    [
+      "annual",
+      12,
+      "B1+"
+    ],
+    [
+      "communication",
+      12,
+      "B1+"
+    ],
+    [
+      "critical",
+      12,
+      "B1+"
+    ],
+    [
+      "especially",
+      12,
+      "B1+"
+    ],
+    [
+      "impact",
+      12,
+      "B1+"
+    ],
+    [
+      "overall",
+      12,
+      "B1+"
+    ],
+    [
+      "structure",
+      12,
+      "B1+"
+    ],
+    [
+      "absolutely",
+      11,
+      "B1+"
+    ],
+    [
+      "address",
+      11,
+      "B1+"
+    ],
+    [
+      "cash",
+      11,
+      "B1+"
+    ],
+    [
+      "important",
+      11,
+      "A2"
+    ],
+    [
+      "periods",
+      11,
+      "A2"
+    ],
+    [
+      "provided",
+      11,
+      "B1+"
+    ],
+    [
+      "provide",
+      11,
+      "A2"
+    ],
+    [
+      "reduce",
+      11,
+      "B1+"
+    ],
+    [
+      "reliability",
+      11,
+      "B1+"
+    ],
+    [
+      "sides",
+      11,
+      "B1+"
+    ],
+    [
+      "start",
+      11,
+      "A2"
+    ],
+    [
+      "supply",
+      11,
+      "B1+"
+    ],
+    [
+      "target",
+      11,
+      "B1+"
+    ],
+    [
+      "allow",
+      10,
+      "B1+"
+    ],
+    [
+      "audits",
+      10,
+      "B1+"
+    ],
+    [
+      "demand",
+      10,
+      "B1+"
+    ],
+    [
+      "disruptions",
+      10,
+      "B1+"
+    ],
+    [
+      "flow",
+      10,
+      "B1+"
+    ],
+    [
+      "forward",
+      10,
+      "A2"
+    ],
+    [
+      "increase",
+      10,
+      "A2"
+    ],
+    [
+      "issues",
+      10,
+      "B1+"
+    ],
+    [
+      "makes",
+      10,
+      "B1+"
+    ],
+    [
+      "moving",
+      10,
+      "B1+"
+    ],
+    [
+      "one",
+      10,
+      "A2"
+    ],
+    [
+      "partnership",
+      10,
+      "B1+"
+    ],
+    [
+      "priority",
+      10,
+      "B1+"
+    ],
+    [
+      "remaining",
+      10,
+      "A2"
+    ],
+    [
+      "sharing",
+      10,
+      "B1+"
+    ],
+    [
+      "standard",
+      10,
+      "B1+"
+    ],
+    [
+      "strong",
+      10,
+      "A2"
+    ],
+    [
+      "two",
+      10,
+      "A2"
+    ],
+    [
+      "we'd",
+      10,
+      "B1+"
+    ],
+    [
+      "acceptable",
+      9,
+      "B1+"
+    ],
+    [
+      "area",
+      9,
+      "A2"
+    ],
+    [
+      "delays",
+      9,
+      "B1+"
+    ],
+    [
+      "expectations",
+      9,
+      "B1+"
+    ],
+    [
+      "justify",
+      9,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "payment terms",
+      "count": 17,
+      "example": "Alright, another area we need to discuss is payment terms.",
+      "t": 217.66
+    },
+    {
+      "text": "good morning",
+      "count": 12,
+      "example": "Good morning. Thank you for meeting with us today. We appreciate the opportunity to discuss this proposal in detail.",
+      "t": 12.37
+    },
+    {
+      "text": "let's also",
+      "count": 11,
+      "example": "it could work. That's good to hear. Let's also talk about delivery and service levels,",
+      "t": 261.66
+    },
+    {
+      "text": "cash flow",
+      "count": 8,
+      "example": "Yes, longer payment terms are essential for our cash flow planning.",
+      "t": 568.08
+    },
+    {
+      "text": "first year",
+      "count": 7,
+      "example": "The challenge is that the first year volume is uncertain.",
+      "t": 495.7
+    },
+    {
+      "text": "buffer stock",
+      "count": 7,
+      "example": "Additionally, we can maintain buffer stock for critical items to prevent disruptions during peak periods.",
+      "t": 623.08
+    },
+    {
+      "text": "quality audits",
+      "count": 7,
+      "example": "We propose joint quality audits twice a year and clear corrective action plans in case issues arise.",
+      "t": 656.08
+    },
+    {
+      "text": "rolling forecasts",
+      "count": 6,
+      "example": "If you can provide rolling forecasts, even indicative ones, it would help us manage inventory",
+      "t": 196.18
+    },
+    {
+      "text": "early payment",
+      "count": 6,
+      "example": "We could also include early payment incentives, allowing you to take advantage of small discounts if cash flow permits.",
+      "t": 588.08
+    },
+    {
+      "text": "joint quality",
+      "count": 6,
+      "example": "We propose joint quality audits twice a year and clear corrective action plans in case issues arise.",
+      "t": 656.08
+    }
+  ],
+  "phrases": [
+    {
+      "text": "payment terms",
+      "count": 17,
+      "example": "Alright, another area we need to discuss is payment terms.",
+      "t": 217.66
+    },
+    {
+      "text": "good morning",
+      "count": 12,
+      "example": "Good morning. Thank you for meeting with us today. We appreciate the opportunity to discuss this proposal in detail.",
+      "t": 12.37
+    },
+    {
+      "text": "let's also",
+      "count": 11,
+      "example": "it could work. That's good to hear. Let's also talk about delivery and service levels,",
+      "t": 261.66
+    },
+    {
+      "text": "cash flow",
+      "count": 8,
+      "example": "Yes, longer payment terms are essential for our cash flow planning.",
+      "t": 568.08
+    },
+    {
+      "text": "first year",
+      "count": 7,
+      "example": "The challenge is that the first year volume is uncertain.",
+      "t": 495.7
+    },
+    {
+      "text": "buffer stock",
+      "count": 7,
+      "example": "Additionally, we can maintain buffer stock for critical items to prevent disruptions during peak periods.",
+      "t": 623.08
+    },
+    {
+      "text": "quality audits",
+      "count": 7,
+      "example": "We propose joint quality audits twice a year and clear corrective action plans in case issues arise.",
+      "t": 656.08
+    },
+    {
+      "text": "rolling forecasts",
+      "count": 6,
+      "example": "If you can provide rolling forecasts, even indicative ones, it would help us manage inventory",
+      "t": 196.18
+    },
+    {
+      "text": "early payment",
+      "count": 6,
+      "example": "We could also include early payment incentives, allowing you to take advantage of small discounts if cash flow permits.",
+      "t": 588.08
+    },
+    {
+      "text": "joint quality",
+      "count": 6,
+      "example": "We propose joint quality audits twice a year and clear corrective action plans in case issues arise.",
+      "t": 656.08
+    },
+    {
+      "text": "joint quality audits",
+      "count": 6,
+      "example": "We propose joint quality audits twice a year and clear corrective action plans in case issues arise.",
+      "t": 656.08
+    },
+    {
+      "text": "monthly operational",
+      "count": 6,
+      "example": "resolution with monthly operational reviews and quarterly management reviews.",
+      "t": 674.36
+    },
+    {
+      "text": "works for us",
+      "count": 6,
+      "example": "That works for us.",
+      "t": 765.92
+    },
+    {
+      "text": "unit price",
+      "count": 5,
+      "example": "After reviewing your proposal, we notice that your unit price is higher than what we are",
+      "t": 44.76
+    },
+    {
+      "text": "we're open",
+      "count": 5,
+      "example": "We're open to discussing volume, but we need clarity on what kind of commitment would justify",
+      "t": 86.56
+    },
+    {
+      "text": "we're looking",
+      "count": 5,
+      "example": "Ideally, we're looking at a minimum 10% reduction to justify the switch.",
+      "t": 122.42
+    },
+    {
+      "text": "one-year contract",
+      "count": 5,
+      "example": "A one-year contract could be acceptable, provided there are clear performance benchmarks",
+      "t": 149.64
+    },
+    {
+      "text": "on-time delivery",
+      "count": 5,
+      "example": "sharing with a 15% flexibility range, and a 98% on-time delivery commitment with service",
+      "t": 353.68
+    },
+    {
+      "text": "look forward",
+      "count": 5,
+      "example": "We look forward to working together.",
+      "t": 396.8
+    },
+    {
+      "text": "finance team",
+      "count": 5,
+      "example": "than what our finance team is comfortable approving.",
+      "t": 441.1
+    },
+    {
+      "text": "easier to justify",
+      "count": 5,
+      "example": "That approach seems workable and easier to justify internally.",
+      "t": 516.46
+    },
+    {
+      "text": "allow us",
+      "count": 5,
+      "example": "A two- or three-year framework agreement would allow us to offer more favorable terms while",
+      "t": 534.26
+    },
+    {
+      "text": "six months",
+      "count": 5,
+      "example": "For example, 60 days for the first six months,",
+      "t": 577.08
+    },
+    {
+      "text": "payment incentives",
+      "count": 5,
+      "example": "We could also include early payment incentives, allowing you to take advantage of small discounts if cash flow permits.",
+      "t": 588.08
+    },
+    {
+      "text": "early payment incentives",
+      "count": 5,
+      "example": "We could also include early payment incentives, allowing you to take advantage of small discounts if cash flow permits.",
+      "t": 588.08
+    },
+    {
+      "text": "service credits",
+      "count": 5,
+      "example": "We propose a 98% on-time delivery rate with defined escalation procedures and service credits for repeated failures.",
+      "t": 611.08
+    },
+    {
+      "text": "also discuss",
+      "count": 5,
+      "example": "Let's also discuss the onboarding phase.",
+      "t": 959.06
+    },
+    {
+      "text": "that's reasonable",
+      "count": 4,
+      "example": "That's reasonable.",
+      "t": 156.32
+    },
+    {
+      "text": "service level",
+      "count": 4,
+      "example": "We can include quarterly performance reviews and service level evaluations.",
+      "t": 158.16
+    },
+    {
+      "text": "raw material",
+      "count": 4,
+      "example": "and raw material costs.",
+      "t": 201.92
+    },
+    {
+      "text": "another area",
+      "count": 4,
+      "example": "Alright, another area we need to discuss is payment terms.",
+      "t": 217.66
+    },
+    {
+      "text": "delivery rate",
+      "count": 4,
+      "example": "delivery rate. And if that level isn't met? We can include a service penalty clause, such as",
+      "t": 282.38
+    },
+    {
+      "text": "i'm glad",
+      "count": 4,
+      "example": "I'm glad we could align. Shall we recap to ensure everything is clear?",
+      "t": 332.5
+    },
+    {
+      "text": "mutually beneficial",
+      "count": 4,
+      "example": "We're confident this partnership will be successful and mutually beneficial.",
+      "t": 385.72
+    },
+    {
+      "text": "justify internally",
+      "count": 4,
+      "example": "That approach seems workable and easier to justify internally.",
+      "t": 516.46
+    },
+    {
+      "text": "contract duration",
+      "count": 4,
+      "example": "Another lever we can use is contract duration.",
+      "t": 520.42
+    },
+    {
+      "text": "first six",
+      "count": 4,
+      "example": "For example, 60 days for the first six months,",
+      "t": 577.08
+    },
+    {
+      "text": "first six months",
+      "count": 4,
+      "example": "For example, 60 days for the first six months,",
+      "t": 577.08
+    },
+    {
+      "text": "carry the cost",
+      "count": 4,
+      "example": "Who would carry the cost for the buffer stock?",
+      "t": 630.08
+    },
+    {
+      "text": "updated monthly",
+      "count": 4,
+      "example": "We can provide three-month rolling forecasts updated monthly, which should allow you to plan effectively.",
+      "t": 638.08
+    },
+    {
+      "text": "propose joint",
+      "count": 4,
+      "example": "We propose joint quality audits twice a year and clear corrective action plans in case issues arise.",
+      "t": 656.08
+    },
+    {
+      "text": "audits twice",
+      "count": 4,
+      "example": "We propose joint quality audits twice a year and clear corrective action plans in case issues arise.",
+      "t": 656.08
+    },
+    {
+      "text": "corrective action",
+      "count": 4,
+      "example": "We propose joint quality audits twice a year and clear corrective action plans in case issues arise.",
+      "t": 656.08
+    },
+    {
+      "text": "action plans",
+      "count": 4,
+      "example": "We propose joint quality audits twice a year and clear corrective action plans in case issues arise.",
+      "t": 656.08
+    },
+    {
+      "text": "twice a year",
+      "count": 4,
+      "example": "We propose joint quality audits twice a year and clear corrective action plans in case issues arise.",
+      "t": 656.08
+    },
+    {
+      "text": "corrective action plans",
+      "count": 4,
+      "example": "We propose joint quality audits twice a year and clear corrective action plans in case issues arise.",
+      "t": 656.08
+    },
+    {
+      "text": "responsiveness and issue",
+      "count": 4,
+      "example": "In addition, we can establish KPIs for delivery performance, quality, responsiveness, and issue",
+      "t": 666.08
+    },
+    {
+      "text": "quarterly management",
+      "count": 4,
+      "example": "resolution with monthly operational reviews and quarterly management reviews.",
+      "t": 674.36
+    },
+    {
+      "text": "receive it we'll",
+      "count": 4,
+      "example": "Once we receive it, we'll review internally and aim to finalize within two weeks.",
+      "t": 811.44
+    },
+    {
+      "text": "let's also discuss",
+      "count": 4,
+      "example": "Let's also discuss the onboarding phase.",
+      "t": 959.06
+    },
+    {
+      "text": "good afternoon",
+      "count": 4,
+      "example": "Good afternoon.",
+      "t": 1225.71
+    },
+    {
+      "text": "makes sense",
+      "count": 4,
+      "example": "That makes sense. In many cases, indirect costs end up having a bigger impact than the headline price.",
+      "t": 1280.27
+    },
+    {
+      "text": "let's move",
+      "count": 4,
+      "example": "Now, let's move to payment terms.",
+      "t": 1490.13
+    },
+    {
+      "text": "day payment",
+      "count": 4,
+      "example": "In that case, we can accept 60-day payment terms.",
+      "t": 2264.63
+    },
+    {
+      "text": "day payment terms",
+      "count": 4,
+      "example": "In that case, we can accept 60-day payment terms.",
+      "t": 2264.63
+    },
+    {
+      "text": "monthly ordering",
+      "count": 4,
+      "example": "Would you consider shifting to a monthly ordering cycle?",
+      "t": 2482.24
+    },
+    {
+      "text": "morning thank",
+      "count": 3,
+      "example": "Good morning. Thank you for meeting with us today. We appreciate the opportunity to discuss this proposal in detail.",
+      "t": 12.37
+    },
+    {
+      "text": "good morning thank",
+      "count": 3,
+      "example": "Good morning. Thank you for meeting with us today. We appreciate the opportunity to discuss this proposal in detail.",
+      "t": 12.37
+    },
+    {
+      "text": "appreciate the opportunity",
+      "count": 3,
+      "example": "Good morning. Thank you for meeting with us today. We appreciate the opportunity to discuss this proposal in detail.",
+      "t": 12.37
+    },
+    {
+      "text": "pricing reflects",
+      "count": 3,
+      "example": "However, our pricing reflects product consistency, quality standards, and supply reliability, which",
+      "t": 56.36
+    },
+    {
+      "text": "volume commitments",
+      "count": 3,
+      "example": "That gap is significant, but it may be possible to reduce it depending on volume commitments",
+      "t": 78.64
+    },
+    {
+      "text": "need clarity",
+      "count": 3,
+      "example": "We're open to discussing volume, but we need clarity on what kind of commitment would justify",
+      "t": 86.56
+    },
+    {
+      "text": "open to discussing",
+      "count": 3,
+      "example": "We're open to discussing volume, but we need clarity on what kind of commitment would justify",
+      "t": 86.56
+    },
+    {
+      "text": "monthly volume",
+      "count": 3,
+      "example": "Currently, the quotation is based on a monthly volume of 7,000 units.",
+      "t": 93.64
+    },
+    {
+      "text": "volume of units",
+      "count": 3,
+      "example": "Currently, the quotation is based on a monthly volume of 7,000 units.",
+      "t": 93.64
+    },
+    {
+      "text": "longer term",
+      "count": 3,
+      "example": "However, if we consider a longer term agreement, there may be room for further adjustment.",
+      "t": 132.38
+    },
+    {
+      "text": "term agreement",
+      "count": 3,
+      "example": "However, if we consider a longer term agreement, there may be room for further adjustment.",
+      "t": 132.38
+    },
+    {
+      "text": "longer term agreement",
+      "count": 3,
+      "example": "However, if we consider a longer term agreement, there may be room for further adjustment.",
+      "t": 132.38
+    },
+    {
+      "text": "performance reviews",
+      "count": 3,
+      "example": "We can include quarterly performance reviews and service level evaluations.",
+      "t": 158.16
+    },
+    {
+      "text": "internal approval",
+      "count": 3,
+      "example": "Without reaching 10%, internal approval will be very difficult.",
+      "t": 177.82
+    },
+    {
+      "text": "help us",
+      "count": 3,
+      "example": "If you can provide rolling forecasts, even indicative ones, it would help us manage inventory",
+      "t": 196.18
+    },
+    {
+      "text": "that's acceptable",
+      "count": 3,
+      "example": "That's acceptable.",
+      "t": 211.82
+    },
+    {
+      "text": "terms are days",
+      "count": 3,
+      "example": "Our usual terms are 45 days.",
+      "t": 225.74
+    },
+    {
+      "text": "two months",
+      "count": 3,
+      "example": "We could propose a 20% advance for the first two months, after which the 60-day",
+      "t": 249.22
+    },
+    {
+      "text": "that's good",
+      "count": 3,
+      "example": "it could work. That's good to hear. Let's also talk about delivery and service levels,",
+      "t": 261.66
+    },
+    {
+      "text": "service levels",
+      "count": 3,
+      "example": "it could work. That's good to hear. Let's also talk about delivery and service levels,",
+      "t": 261.66
+    },
+    {
+      "text": "good to hear",
+      "count": 3,
+      "example": "it could work. That's good to hear. Let's also talk about delivery and service levels,",
+      "t": 261.66
+    },
+    {
+      "text": "give us",
+      "count": 3,
+      "example": "issuing credit notes for delays beyond an agreed threshold. That would give us more confidence.",
+      "t": 289.18
+    },
+    {
+      "text": "based on everything",
+      "count": 3,
+      "example": "Based on everything discussed so far, can you now confirm whether the 10% discount is achievable?",
+      "t": 309.5
+    },
+    {
+      "text": "discussed so far",
+      "count": 3,
+      "example": "Based on everything discussed so far, can you now confirm whether the 10% discount is achievable?",
+      "t": 309.5
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen. Practice. Speak. Practice makes you perfect."
+    },
+    {
+      "t": 12.37,
+      "text": "Good morning. Thank you for meeting with us today. We appreciate the opportunity to discuss this proposal in detail."
+    },
+    {
+      "t": 21.36,
+      "text": "Good morning. Thank you for hosting us. We are interested in moving forward, but there are several areas we'd like to negotiate before making a final decision."
+    },
+    {
+      "t": 31.36,
+      "text": "That's completely understandable."
+    },
+    {
+      "t": 34.48,
+      "text": "Please feel free to raise any concerns."
+    },
+    {
+      "t": 37.2,
+      "text": "Our objective is to reach a solution that works well for both sides."
+    },
+    {
+      "t": 41.64,
+      "text": "To begin with, I'd like to address pricing."
+    },
+    {
+      "t": 44.76,
+      "text": "After reviewing your proposal, we notice that your unit price is higher than what we are"
+    },
+    {
+      "t": 49.52,
+      "text": "currently paying our existing supplier."
+    },
+    {
+      "t": 52.56,
+      "text": "I see."
+    },
+    {
+      "t": 54.04,
+      "text": "Price is always a critical factor."
+    },
+    {
+      "t": 56.36,
+      "text": "However, our pricing reflects product consistency, quality standards, and supply reliability, which"
+    },
+    {
+      "t": 63.36,
+      "text": "we believe add long-term value."
+    },
+    {
+      "t": 66.2,
+      "text": "We acknowledge the quality aspect, but internally the comparison is largely based on numbers."
+    },
+    {
+      "t": 72.54,
+      "text": "At the moment, the difference is approximately 12%."
+    },
+    {
+      "t": 76.64,
+      "text": "Thank you for being direct."
+    },
+    {
+      "t": 78.64,
+      "text": "That gap is significant, but it may be possible to reduce it depending on volume commitments"
+    },
+    {
+      "t": 84.24,
+      "text": "and contracts duration."
+    },
+    {
+      "t": 86.56,
+      "text": "We're open to discussing volume, but we need clarity on what kind of commitment would justify"
+    },
+    {
+      "t": 91.96,
+      "text": "a price revision."
+    },
+    {
+      "t": 93.64,
+      "text": "Currently, the quotation is based on a monthly volume of 7,000 units."
+    },
+    {
+      "t": 99.28,
+      "text": "If you can increase that to 10,000 units, we could offer a better rate."
+    },
+    {
+      "t": 104.64,
+      "text": "Increasing volume is possible, but only if the pricing becomes more competitive."
+    },
+    {
+      "t": 109.62,
+      "text": "What kind of reduction are we talking about?"
+    },
+    {
+      "t": 112.38,
+      "text": "With a volume of 10,000 units per month, we could reduce the price by around 6%."
+    },
+    {
+      "t": 119.06,
+      "text": "That's an improvement, but it still doesn't meet our expectations."
+    },
+    {
+      "t": 122.42,
+      "text": "Ideally, we're looking at a minimum 10% reduction to justify the switch."
+    },
+    {
+      "t": 128.18,
+      "text": "A 10% reduction is challenging under the current terms."
+    },
+    {
+      "t": 132.38,
+      "text": "However, if we consider a longer term agreement, there may be room for further adjustment."
+    },
+    {
+      "t": 138.26,
+      "text": "How long a contract are you suggesting?"
+    },
+    {
+      "t": 141.08,
+      "text": "If we move from a six-month agreement to a 12-month contract, we can achieve better"
+    },
+    {
+      "t": 146.36,
+      "text": "production planning and cost efficiencies."
+    },
+    {
+      "t": 149.64,
+      "text": "A one-year contract could be acceptable, provided there are clear performance benchmarks"
+    },
+    {
+      "t": 154.8,
+      "text": "and review points."
+    },
+    {
+      "t": 156.32,
+      "text": "That's reasonable."
+    },
+    {
+      "t": 158.16,
+      "text": "We can include quarterly performance reviews and service level evaluations."
+    },
+    {
+      "t": 163.06,
+      "text": "In that case, what discount could you offer with a one-year commitment and increased"
+    },
+    {
+      "t": 167.64,
+      "text": "volume?"
+    },
+    {
+      "t": 169.0,
+      "text": "Under those conditions, we could improve the discount to around eight and a half percent."
+    },
+    {
+      "t": 174.22,
+      "text": "I appreciate the flexibility, but I need to be honest."
+    },
+    {
+      "t": 177.82,
+      "text": "Without reaching 10%, internal approval will be very difficult."
+    },
+    {
+      "t": 182.34,
+      "text": "I understand your position."
+    },
+    {
+      "t": 184.66,
+      "text": "If we meet the 10% target, we would need some risk-sharing mechanisms in place."
+    },
+    {
+      "t": 190.3,
+      "text": "What kind of risk-sharing are you referring to?"
+    },
+    {
+      "t": 193.54,
+      "text": "Primarily, demand forecasting."
+    },
+    {
+      "t": 196.18,
+      "text": "If you can provide rolling forecasts, even indicative ones, it would help us manage inventory"
+    },
+    {
+      "t": 201.92,
+      "text": "and raw material costs."
+    },
+    {
+      "t": 204.3,
+      "text": "We can provide forecasts, but accuracy beyond one month can't be guaranteed due to market"
+    },
+    {
+      "t": 209.98,
+      "text": "fluctuations."
+    },
+    {
+      "t": 211.82,
+      "text": "That's acceptable."
+    },
+    {
+      "t": 213.38,
+      "text": "Even non-binding forecasts would be beneficial for planning purposes."
+    },
+    {
+      "t": 217.66,
+      "text": "Alright, another area we need to discuss is payment terms."
+    },
+    {
+      "t": 222.22,
+      "text": "Our standard policy is 60 days credit."
+    },
+    {
+      "t": 225.74,
+      "text": "Our usual terms are 45 days."
+    },
+    {
+      "t": 228.82,
+      "text": "Extending to 60 days increases our financing costs."
+    },
+    {
+      "t": 233.1,
+      "text": "I understand, but adjusting payment terms internally is extremely complex for us."
+    },
+    {
+      "t": 239.3,
+      "text": "If we agreed to 60 days, would you consider an advance payment for the initial period?"
+    },
+    {
+      "t": 245.06,
+      "text": "Possibly, but it would need to be reasonable and time-bound."
+    },
+    {
+      "t": 249.22,
+      "text": "We could propose a 20% advance for the first two months, after which the 60-day"
+    },
+    {
+      "t": 254.7,
+      "text": "credit would apply fully. That seems manageable. I'll need internal confirmation, but in principle,"
+    },
+    {
+      "t": 261.66,
+      "text": "it could work. That's good to hear. Let's also talk about delivery and service levels,"
+    },
+    {
+      "t": 267.98,
+      "text": "as reliability is a key part of our offering. Yes, reliability is very important to us. We've faced"
+    },
+    {
+      "t": 275.5,
+      "text": "supply disruptions in the past, and we want to avoid that. We can commit to a 98% on time"
+    },
+    {
+      "t": 282.38,
+      "text": "delivery rate. And if that level isn't met? We can include a service penalty clause, such as"
+    },
+    {
+      "t": 289.18,
+      "text": "issuing credit notes for delays beyond an agreed threshold. That would give us more confidence."
+    },
+    {
+      "t": 295.42,
+      "text": "At the same time, demand can be unpredictable on our side. We understand. We can allow a"
+    },
+    {
+      "t": 301.98,
+      "text": "plus or minus 15% flexibility on monthly forecasts without penalties. That flexibility is helpful."
+    },
+    {
+      "t": 309.5,
+      "text": "Based on everything discussed so far, can you now confirm whether the 10% discount is achievable?"
+    },
+    {
+      "t": 315.5,
+      "text": "Considering the increased volume, one-year contract, forecast sharing, advanced payment,"
+    },
+    {
+      "t": 322.5,
+      "text": "and agreed service terms, yes, we can agree to a 10% unit discount."
+    },
+    {
+      "t": 327.5,
+      "text": "That's excellent. This makes the proposal much more viable for us."
+    },
+    {
+      "t": 332.5,
+      "text": "I'm glad we could align. Shall we recap to ensure everything is clear?"
+    },
+    {
+      "t": 337.5,
+      "text": "Yes, please."
+    },
+    {
+      "t": 339.4,
+      "text": "We're agreeing on a one-year contract, a minimum monthly volume of 10,000 units, a 10% unit"
+    },
+    {
+      "t": 346.52,
+      "text": "price discount, 60-day credit terms after an initial 20% advance for two months, forecast"
+    },
+    {
+      "t": 353.68,
+      "text": "sharing with a 15% flexibility range, and a 98% on-time delivery commitment with service"
+    },
+    {
+      "t": 361.0,
+      "text": "penalties."
+    },
+    {
+      "t": 362.48,
+      "text": "That summary is accurate and reflects our discussion well."
+    },
+    {
+      "t": 366.08,
+      "text": "Great."
+    },
+    {
+      "t": 367.08,
+      "text": "We'll prepare a revised proposal and draft agreement incorporating all these points."
+    },
+    {
+      "t": 372.68,
+      "text": "Please share those documents as soon as possible so we can proceed with internal approvals."
+    },
+    {
+      "t": 378.24,
+      "text": "We'll send everything by tomorrow morning."
+    },
+    {
+      "t": 380.84,
+      "text": "Perfect."
+    },
+    {
+      "t": 381.84,
+      "text": "Once approved, we should be able to move forward without delay."
+    },
+    {
+      "t": 385.72,
+      "text": "We're confident this partnership will be successful and mutually beneficial."
+    },
+    {
+      "t": 390.68,
+      "text": "We feel the same."
+    },
+    {
+      "t": 392.04,
+      "text": "Thank you for a professional and constructive negotiation."
+    },
+    {
+      "t": 395.8,
+      "text": "Thank you as well."
+    },
+    {
+      "t": 396.8,
+      "text": "We look forward to working together."
+    },
+    {
+      "t": 400.9,
+      "text": "Good morning."
+    },
+    {
+      "t": 401.9,
+      "text": "I appreciate you making time for this meeting."
+    },
+    {
+      "t": 404.46,
+      "text": "I believe we're at a critical stage where we can address the remaining concerns and work"
+    },
+    {
+      "t": 409.94,
+      "text": "toward finalizing the agreement."
+    },
+    {
+      "t": 412.5,
+      "text": "Good morning."
+    },
+    {
+      "t": 413.5,
+      "text": "Thank you."
+    },
+    {
+      "t": 414.5,
+      "text": "Yes, we've reviewed your proposal and overall see value, but there are still several"
+    },
+    {
+      "t": 419.36,
+      "text": "areas that require clarification and alignment."
+    },
+    {
+      "t": 423.1,
+      "text": "That's perfectly understandable."
+    },
+    {
+      "t": 425.1,
+      "text": "Our aim is to be transparent and flexible so we can reach a mutually beneficial outcome."
+    },
+    {
+      "t": 431.46,
+      "text": "Let's go through your concerns systematically."
+    },
+    {
+      "t": 434.58,
+      "text": "Let's start with pricing."
+    },
+    {
+      "t": 436.22,
+      "text": "While the quality and service you offer are strong, the overall cost is still higher"
+    },
+    {
+      "t": 441.1,
+      "text": "than what our finance team is comfortable approving."
+    },
+    {
+      "t": 444.46,
+      "text": "I understand."
+    },
+    {
+      "t": 445.9,
+      "text": "Our pricing reflects not only the product but also reliability, service, and long-term"
+    },
+    {
+      "t": 451.94,
+      "text": "operational efficiency, which often reduces hidden costs."
+    },
+    {
+      "t": 456.54,
+      "text": "That said, we can explore options to make the numbers more competitive."
+    },
+    {
+      "t": 460.94,
+      "text": "We appreciate that."
+    },
+    {
+      "t": 462.62,
+      "text": "Internally, the target is roughly an 8 to 10% reduction on first-year costs."
+    },
+    {
+      "t": 468.66,
+      "text": "We can work toward that by combining a moderate upfront discount"
+    },
+    {
+      "t": 473.14,
+      "text": "with incentives tied to volume commitments or multi-year contracts."
+    },
+    {
+      "t": 478.06,
+      "text": "Can you provide more detail on how those incentives would work?"
+    },
+    {
+      "t": 481.7,
+      "text": "Certainly."
+    },
+    {
+      "t": 482.7,
+      "text": "For instance, we could offer a base discount of 6% immediately."
+    },
+    {
+      "t": 487.94,
+      "text": "If the monthly order volume exceeds a specified target, an additional 2-3% reduction would"
+    },
+    {
+      "t": 494.38,
+      "text": "be applied."
+    },
+    {
+      "t": 495.7,
+      "text": "The challenge is that the first year volume is uncertain."
+    },
+    {
+      "t": 499.92,
+      "text": "Would it be possible to phase the discount based on actual achieved volumes?"
+    },
+    {
+      "t": 504.82,
+      "text": "Absolutely."
+    },
+    {
+      "t": 505.82,
+      "text": "We can structure the discount in tiers."
+    },
+    {
+      "t": 508.38,
+      "text": "The first level applies to the base volume with incremental reductions as volumes increase"
+    },
+    {
+      "t": 514.7,
+      "text": "reviewed quarterly."
+    },
+    {
+      "t": 516.46,
+      "text": "That approach seems workable and easier to justify internally."
+    },
+    {
+      "t": 520.42,
+      "text": "Another lever we can use is contract duration."
+    },
+    {
+      "t": 524.3,
+      "text": "Longer agreements justify stronger discounts and better cost predictability."
+    },
+    {
+      "t": 529.62,
+      "text": "Currently we're looking at a one-year contract."
+    },
+    {
+      "t": 532.58,
+      "text": "How long would you propose?"
+    },
+    {
+      "t": 534.26,
+      "text": "A two- or three-year framework agreement would allow us to offer more favorable terms while"
+    },
+    {
+      "t": 540.0,
+      "text": "maintaining operational stability."
+    },
+    {
+      "t": 542.7,
+      "text": "Two years is feasible, provided there are clear exit clauses for underperformance or market"
+    },
+    {
+      "t": 548.04,
+      "text": "disruptions."
+    },
+    {
+      "t": 549.54,
+      "text": "Absolutely."
+    },
+    {
+      "t": 551.04,
+      "text": "Termination clauses can be linked to agreed performance metrics or significant changes"
+    },
+    {
+      "t": 555.88,
+      "text": "in the market environment."
+    },
+    {
+      "t": 558.04,
+      "text": "That would satisfy our internal risk management team."
+    },
+    {
+      "t": 561.08,
+      "text": "Speaking of risk, payment terms are another key area."
+    },
+    {
+      "t": 565.08,
+      "text": "Your team prefers 90 days, correct?"
+    },
+    {
+      "t": 568.08,
+      "text": "Yes, longer payment terms are essential for our cash flow planning."
+    },
+    {
+      "t": 572.08,
+      "text": "90 days is a challenge for us, but we can explore a staged approach."
+    },
+    {
+      "t": 577.08,
+      "text": "For example, 60 days for the first six months,"
+    },
+    {
+      "t": 581.08,
+      "text": "moving to 90 days after demonstrated performance."
+    },
+    {
+      "t": 584.08,
+      "text": "That staged approach would be easier to gain internal approval."
+    },
+    {
+      "t": 588.08,
+      "text": "We could also include early payment incentives, allowing you to take advantage of small discounts if cash flow permits."
+    },
+    {
+      "t": 596.08,
+      "text": "That flexibility would be appreciated."
+    },
+    {
+      "t": 598.08,
+      "text": "Another area worth addressing is delivery reliability."
+    },
+    {
+      "t": 602.08,
+      "text": "We understand past delays with other suppliers have caused significant issues."
+    },
+    {
+      "t": 607.08,
+      "text": "Yes, consistent on-time delivery is a priority."
+    },
+    {
+      "t": 611.08,
+      "text": "We propose a 98% on-time delivery rate with defined escalation procedures and service credits for repeated failures."
+    },
+    {
+      "t": 620.08,
+      "text": "That would increase confidence in execution."
+    },
+    {
+      "t": 623.08,
+      "text": "Additionally, we can maintain buffer stock for critical items to prevent disruptions during peak periods."
+    },
+    {
+      "t": 630.08,
+      "text": "Who would carry the cost for the buffer stock?"
+    },
+    {
+      "t": 633.08,
+      "text": "We would, provided we receive rolling forecasts with sufficient visibility."
+    },
+    {
+      "t": 638.08,
+      "text": "We can provide three-month rolling forecasts updated monthly, which should allow you to plan effectively."
+    },
+    {
+      "t": 644.08,
+      "text": "Perfect. Let's discuss quality compliance. Deviations directly impact our operations."
+    },
+    {
+      "t": 651.08,
+      "text": "Absolutely. Any compromise on quality is unacceptable."
+    },
+    {
+      "t": 656.08,
+      "text": "We propose joint quality audits twice a year and clear corrective action plans in case issues arise."
+    },
+    {
+      "t": 663.08,
+      "text": "That would provide the assurance management requires."
+    },
+    {
+      "t": 666.08,
+      "text": "In addition, we can establish KPIs for delivery performance, quality, responsiveness, and issue"
+    },
+    {
+      "t": 674.36,
+      "text": "resolution with monthly operational reviews and quarterly management reviews."
+    },
+    {
+      "t": 680.36,
+      "text": "That structured approach aligns with our internal expectations."
+    },
+    {
+      "t": 684.72,
+      "text": "Incentives for exceptional performance could include priority handling, faster approvals,"
+    },
+    {
+      "t": 690.24,
+      "text": "or additional commercial benefits."
+    },
+    {
+      "t": 692.76,
+      "text": "That creates motivation on both sides to maintain high standards."
+    },
+    {
+      "t": 696.96,
+      "text": "We'd also like to explore collaboration beyond operations, such as process improvements,"
+    },
+    {
+      "t": 703.12,
+      "text": "supply chain optimization, and efficiency initiatives."
+    },
+    {
+      "t": 707.04,
+      "text": "That is appealing, particularly if it results in measurable savings or operational improvements."
+    },
+    {
+      "t": 713.56,
+      "text": "Periodic joint workshops could be used to identify and implement these improvements."
+    },
+    {
+      "t": 718.72,
+      "text": "That would also strengthen relations between our teams."
+    },
+    {
+      "t": 722.24,
+      "text": "During risk management, market volatility and unforeseen events need to be addressed"
+    },
+    {
+      "t": 727.48,
+      "text": "up front."
+    },
+    {
+      "t": 728.8,
+      "text": "How do you propose we mitigate these risks?"
+    },
+    {
+      "t": 731.72,
+      "text": "Through clear contingency plans, outlining responsibilities, communication protocols,"
+    },
+    {
+      "t": 737.4,
+      "text": "and decision-making authority."
+    },
+    {
+      "t": 739.88,
+      "text": "Annual reviews would update the plan based on evolving conditions."
+    },
+    {
+      "t": 744.32,
+      "text": "That level of preparation would satisfy our leadership team."
+    },
+    {
+      "t": 748.08,
+      "text": "Another topic is communication."
+    },
+    {
+      "t": 750.28,
+      "text": "Misalignment often arises from poor information flow."
+    },
+    {
+      "t": 754.16,
+      "text": "Agreed."
+    },
+    {
+      "t": 755.16,
+      "text": "How frequently do you suggest formal communications?"
+    },
+    {
+      "t": 758.56,
+      "text": "Monthly operational calls, quarterly management reviews, and ad hoc escalation for urgent matters."
+    },
+    {
+      "t": 765.92,
+      "text": "That works for us."
+    },
+    {
+      "t": 767.36,
+      "text": "Finally, we want to ensure transparency in all agreements, from pricing to operational"
+    },
+    {
+      "t": 773.08,
+      "text": "commitments to avoid misunderstandings."
+    },
+    {
+      "t": 776.08,
+      "text": "Absolutely."
+    },
+    {
+      "t": 777.36,
+      "text": "Teared documentation is key for internal approvals."
+    },
+    {
+      "t": 781.08,
+      "text": "Based on today's discussion, we can summarize tiered pricing with volume incentives, staged"
+    },
+    {
+      "t": 787.22,
+      "text": "payment terms transitioning from 60 to 90 days, buffer stock support, service level"
+    },
+    {
+      "t": 793.5,
+      "text": "agreements with credits, joint quality audits, KPIs with regular review cycles, and collaborative"
+    },
+    {
+      "t": 800.84,
+      "text": "improvement initiatives."
+    },
+    {
+      "t": 802.9,
+      "text": "That accurately captures our discussion."
+    },
+    {
+      "t": 805.44,
+      "text": "Excellent."
+    },
+    {
+      "t": 806.44,
+      "text": "Next step is to prepare a revised contract reflecting all these points."
+    },
+    {
+      "t": 811.44,
+      "text": "Once we receive it, we'll review internally and aim to finalize within two weeks."
+    },
+    {
+      "t": 816.44,
+      "text": "That timeline works for us."
+    },
+    {
+      "t": 818.44,
+      "text": "Thank you for your constructive and transparent approach."
+    },
+    {
+      "t": 821.44,
+      "text": "Thank you as well. We're confident this partnership will be long-term and mutually beneficial."
+    },
+    {
+      "t": 827.44,
+      "text": "Agreed. We look forward to reviewing the draft and moving forward."
+    },
+    {
+      "t": 835.54,
+      "text": "Good morning. Thank you for meeting with us again."
+    },
+    {
+      "t": 838.54,
+      "text": "I believe this is an important stage in our discussions."
+    },
+    {
+      "t": 842.18,
+      "text": "Good morning."
+    },
+    {
+      "t": 843.18,
+      "text": "Yes, I agree."
+    },
+    {
+      "t": 844.86,
+      "text": "We've made good progress so far, and today we'd like to see if we can align on the remaining"
+    },
+    {
+      "t": 850.26,
+      "text": "points."
+    },
+    {
+      "t": 851.26,
+      "text": "That's our intention as well."
+    },
+    {
+      "t": 853.54,
+      "text": "From our side, there is strong interest in building a long-term relationship rather"
+    },
+    {
+      "t": 858.5,
+      "text": "than focusing only on short-term gains."
+    },
+    {
+      "t": 861.92,
+      "text": "That perspective is appreciated."
+    },
+    {
+      "t": 863.98,
+      "text": "Internally, however, we still need to balance strategic value with financial discipline."
+    },
+    {
+      "t": 869.66,
+      "text": "Of course."
+    },
+    {
+      "t": 870.66,
+      "text": "Perhaps we can start by reviewing the feedback you received from your internal stakeholders."
+    },
+    {
+      "t": 876.18,
+      "text": "Certainly."
+    },
+    {
+      "t": 877.18,
+      "text": "Overall, they see value in your proposal, particularly in terms of reliability and operational"
+    },
+    {
+      "t": 883.94,
+      "text": "support."
+    },
+    {
+      "t": 884.94,
+      "text": "The main concerns relate to cost certainty and risk exposure."
+    },
+    {
+      "t": 889.58,
+      "text": "That's helpful feedback."
+    },
+    {
+      "t": 891.5,
+      "text": "certainty is something we can address through structure, even if the headline price doesn't"
+    },
+    {
+      "t": 896.66,
+      "text": "change dramatically."
+    },
+    {
+      "t": 898.58,
+      "text": "That's exactly what our finance team is looking for, predictability rather than surprises."
+    },
+    {
+      "t": 904.54,
+      "text": "In that case, one option is to move away from variable pricing and agree on fixed pricing"
+    },
+    {
+      "t": 910.5,
+      "text": "bands for defined periods."
+    },
+    {
+      "t": 913.1,
+      "text": "How long would those fixed periods be?"
+    },
+    {
+      "t": 915.9,
+      "text": "We could fix pricing for 12 months at a time with a structured review at the"
+    },
+    {
+      "t": 920.42,
+      "text": "end of each period."
+    },
+    {
+      "t": 922.34,
+      "text": "That would make budgeting much easier for us."
+    },
+    {
+      "t": 925.26,
+      "text": "In exchange for that stability, we would need clearer visibility on expected volumes."
+    },
+    {
+      "t": 931.06,
+      "text": "We can provide annual volume estimates broken down quarterly."
+    },
+    {
+      "t": 935.62,
+      "text": "That level of detail would be very useful."
+    },
+    {
+      "t": 938.14,
+      "text": "It would allow us to plan production and logistics more efficiently."
+    },
+    {
+      "t": 942.5,
+      "text": "One concern we have is flexibility."
+    },
+    {
+      "t": 945.06,
+      "text": "If market conditions change, we may need to adjust volumes."
+    },
+    {
+      "t": 949.62,
+      "text": "That's understandable."
+    },
+    {
+      "t": 950.98,
+      "text": "We can include flexibility ranges so you're not locked in to exact numbers."
+    },
+    {
+      "t": 956.4,
+      "text": "That would reduce internal resistance."
+    },
+    {
+      "t": 959.06,
+      "text": "Let's also discuss the onboarding phase."
+    },
+    {
+      "t": 961.82,
+      "text": "The first few months are critical for setting the tone of the partnership."
+    },
+    {
+      "t": 966.22,
+      "text": "Agreed."
+    },
+    {
+      "t": 967.22,
+      "text": "Poor execution at the beginning often creates long-term issues."
+    },
+    {
+      "t": 971.42,
+      "text": "To avoid that, we propose a structured onboarding plan with clear milestones."
+    },
+    {
+      "t": 977.42,
+      "text": "What would that involve?"
+    },
+    {
+      "t": 979.54,
+      "text": "related project leads from both sides, weekly check-ins during the first two months, and"
+    },
+    {
+      "t": 984.82,
+      "text": "clear success criteria."
+    },
+    {
+      "t": 987.38,
+      "text": "That level of attention would be reassuring."
+    },
+    {
+      "t": 990.18,
+      "text": "We found that investing time early prevents misunderstandings later."
+    },
+    {
+      "t": 995.3,
+      "text": "That aligns with our experience as well."
+    },
+    {
+      "t": 998.22,
+      "text": "Moving on to logistics, we understand that delivery reliability is a key concern."
+    },
+    {
+      "t": 1003.78,
+      "text": "Yes, late deliveries have caused significant disruption in the past."
+    },
+    {
+      "t": 1008.7,
+      "text": "We propose agreed delivery windows and real-time tracking visibility."
+    },
+    {
+      "t": 1014.14,
+      "text": "Real-time visibility would be a major improvement for us."
+    },
+    {
+      "t": 1017.98,
+      "text": "Additionally, we can define escalation timelines if deliveries are at risk."
+    },
+    {
+      "t": 1023.3,
+      "text": "That would help our teams respond faster."
+    },
+    {
+      "t": 1026.14,
+      "text": "Let's touch on payment terms again as I know this remains sensitive."
+    },
+    {
+      "t": 1030.34,
+      "text": "Yes, payment terms are still under discussion internally."
+    },
+    {
+      "t": 1034.58,
+      "text": "Our proposal of 60 days is already an extension for us."
+    },
+    {
+      "t": 1039.1,
+      "text": "We appreciate that."
+    },
+    {
+      "t": 1040.74,
+      "text": "Would there be any flexibility during peak spending periods?"
+    },
+    {
+      "t": 1044.78,
+      "text": "Potentially, yes."
+    },
+    {
+      "t": 1046.1,
+      "text": "We could allow temporary extensions with prior agreement."
+    },
+    {
+      "t": 1050.18,
+      "text": "That flexibility could help us manage cash flow more effectively."
+    },
+    {
+      "t": 1054.26,
+      "text": "In return, we'd expect prompt communication if any payment issues arise."
+    },
+    {
+      "t": 1059.06,
+      "text": "That's fair."
+    },
+    {
+      "t": 1060.22,
+      "text": "Let's also consider performance measurement."
+    },
+    {
+      "t": 1063.58,
+      "text": "Your metrics help both sides stay aligned."
+    },
+    {
+      "t": 1066.58,
+      "text": "Agreed."
+    },
+    {
+      "t": 1067.58,
+      "text": "We prefer objective measures rather than informal assessments."
+    },
+    {
+      "t": 1071.98,
+      "text": "We suggest KPIs covering delivery performance, quality levels, responsiveness, and issue"
+    },
+    {
+      "t": 1078.32,
+      "text": "resolution time."
+    },
+    {
+      "t": 1080.1,
+      "text": "How would underperformance be handled?"
+    },
+    {
+      "t": 1082.98,
+      "text": "Through corrective action plans rather than immediate penalties, at least initially."
+    },
+    {
+      "t": 1088.5,
+      "text": "That collaborative approach is appreciated."
+    },
+    {
+      "t": 1091.26,
+      "text": "Our goal is improvement, not punishment."
+    },
+    {
+      "t": 1094.34,
+      "text": "That mindset makes a big difference."
+    },
+    {
+      "t": 1096.86,
+      "text": "Over time, if performance is consistently strong, we could even look at simplifying processes"
+    },
+    {
+      "t": 1102.86,
+      "text": "such as reduced approval layers, faster order confirmations, and priority handling."
+    },
+    {
+      "t": 1110.02,
+      "text": "Those operational benefits would be valuable."
+    },
+    {
+      "t": 1112.78,
+      "text": "Exactly."
+    },
+    {
+      "t": 1114.22,
+      "text": "Strong performance should create advantages for both sides."
+    },
+    {
+      "t": 1118.22,
+      "text": "Another topic raised internally is contingency planning."
+    },
+    {
+      "t": 1121.94,
+      "text": "In what sense?"
+    },
+    {
+      "t": 1123.42,
+      "text": "How we handle unexpected disruptions, such as supply shortages or transportation issues."
+    },
+    {
+      "t": 1129.78,
+      "text": "We propose having a joint contingency plan outlining responsibilities and communication"
+    },
+    {
+      "t": 1135.42,
+      "text": "protocols."
+    },
+    {
+      "t": 1136.78,
+      "text": "That would reduce confusion during critical situations."
+    },
+    {
+      "t": 1140.22,
+      "text": "We can also conduct annual scenario reviews to keep those plans updated."
+    },
+    {
+      "t": 1145.42,
+      "text": "That level of preparation would be reassuring for our leadership team."
+    },
+    {
+      "t": 1149.22,
+      "text": "Let's talk briefly about communication style and frequency."
+    },
+    {
+      "t": 1153.42,
+      "text": "Yes, that's important."
+    },
+    {
+      "t": 1156.02,
+      "text": "Misalignment often starts with poor communication."
+    },
+    {
+      "t": 1158.98,
+      "text": "We suggest monthly operational calls and quarterly management reviews."
+    },
+    {
+      "t": 1164.22,
+      "text": "That cadence works for us."
+    },
+    {
+      "t": 1166.14,
+      "text": "For urgent matters, we'll ensure direct access to decision makers."
+    },
+    {
+      "t": 1170.34,
+      "text": "That's critical during time-sensitive situations."
+    },
+    {
+      "t": 1174.34,
+      "text": "Based on today's discussion, do you feel the remaining concerns are manageable?"
+    },
+    {
+      "t": 1178.62,
+      "text": "Yes, I do."
+    },
+    {
+      "t": 1180.22,
+      "text": "The structure you've outlined addresses most of the internal questions we've received."
+    },
+    {
+      "t": 1185.02,
+      "text": "I'm glad to hear that."
+    },
+    {
+      "t": 1186.82,
+      "text": "The key will be translating this discussion into a clear and balanced contract."
+    },
+    {
+      "t": 1192.18,
+      "text": "We completely agree."
+    },
+    {
+      "t": 1193.74,
+      "text": "Clarity in documentation is essential."
+    },
+    {
+      "t": 1197.14,
+      "text": "Once we receive the revised draft, we'll review it carefully."
+    },
+    {
+      "t": 1201.22,
+      "text": "We'll aim to send it within the next few days."
+    },
+    {
+      "t": 1204.06,
+      "text": "Now it works for us."
+    },
+    {
+      "t": 1205.54,
+      "text": "Thank you again for the constructive dialogue."
+    },
+    {
+      "t": 1208.5,
+      "text": "Thank you as well."
+    },
+    {
+      "t": 1209.92,
+      "text": "These discussions have been open and productive."
+    },
+    {
+      "t": 1213.02,
+      "text": "We're confident that with this level of alignment,"
+    },
+    {
+      "t": 1215.58,
+      "text": "the partnership can succeed."
+    },
+    {
+      "t": 1217.7,
+      "text": "We share that confidence."
+    },
+    {
+      "t": 1219.66,
+      "text": "We look forward to the next steps."
+    },
+    {
+      "t": 1221.9,
+      "text": "Likewise, thank you."
+    },
+    {
+      "t": 1225.71,
+      "text": "Good afternoon."
+    },
+    {
+      "t": 1226.95,
+      "text": "I appreciate you joining us today."
+    },
+    {
+      "t": 1229.23,
+      "text": "I know there have been several rounds"
+    },
+    {
+      "t": 1231.31,
+      "text": "of discussion already,"
+    },
+    {
+      "t": 1232.75,
+      "text": "So, I hope this meeting helps us close the remaining gaps."
+    },
+    {
+      "t": 1236.99,
+      "text": "Good afternoon."
+    },
+    {
+      "t": 1238.15,
+      "text": "Thank you for arranging this session."
+    },
+    {
+      "t": 1240.55,
+      "text": "Yes, we're keen to move closer to a decision"
+    },
+    {
+      "t": 1243.69,
+      "text": "provided we can resolve a few outstanding concerns."
+    },
+    {
+      "t": 1247.59,
+      "text": "That's completely fair."
+    },
+    {
+      "t": 1249.31,
+      "text": "From our side, we see strong potential in this partnership,"
+    },
+    {
+      "t": 1253.03,
+      "text": "and we're prepared to be flexible within reasonable limits."
+    },
+    {
+      "t": 1257.03,
+      "text": "That's good to hear."
+    },
+    {
+      "t": 1258.43,
+      "text": "Internally, there is interest,"
+    },
+    {
+      "t": 1260.27,
+      "text": "but the approval committee has asked us to revisit certain commercial and risk-related elements."
+    },
+    {
+      "t": 1266.27,
+      "text": "Understood. Perhaps we can go through those points one by one."
+    },
+    {
+      "t": 1270.77,
+      "text": "Let's start with the overall commercial structure."
+    },
+    {
+      "t": 1273.77,
+      "text": "While the unit price is important, our management is also looking closely at total cost of ownership."
+    },
+    {
+      "t": 1280.27,
+      "text": "That makes sense. In many cases, indirect costs end up having a bigger impact than the headline price."
+    },
+    {
+      "t": 1287.77,
+      "text": "Exactly. For example, logistics inefficiencies, rework, or inconsistent lead times have cost"
+    },
+    {
+      "t": 1294.77,
+      "text": "us more than expected in the past."
+    },
+    {
+      "t": 1297.17,
+      "text": "I appreciate you sharing that. One of our strengths is process consistency, which helps"
+    },
+    {
+      "t": 1302.81,
+      "text": "reduce those hidden costs."
+    },
+    {
+      "t": 1305.37,
+      "text": "Can you elaborate on how that would work in practice?"
+    },
+    {
+      "t": 1308.65,
+      "text": "Certainly. We operate with standardized production planning, fixed logistics partners, and"
+    },
+    {
+      "t": 1314.49,
+      "text": "clear escalation procedures. This reduces variability and unexpected delays."
+    },
+    {
+      "t": 1320.77,
+      "text": "That's encouraging, but our finance team will still ask for tangible numbers."
+    },
+    {
+      "t": 1325.79,
+      "text": "Of course, we can provide a cost comparison model showing how improved service levels"
+    },
+    {
+      "t": 1331.73,
+      "text": "reduce expediting, inventory holding, and operational disruptions."
+    },
+    {
+      "t": 1337.11,
+      "text": "That would be useful. Now, coming back to pricing, your revised offer shows improvement,"
+    },
+    {
+      "t": 1342.51,
+      "text": "it's still slightly above our target. I understand. May I ask what target range"
+    },
+    {
+      "t": 1348.11,
+      "text": "you're working with? Ideally, we need to see a minimum overall reduction of 10% in"
+    },
+    {
+      "t": 1354.19,
+      "text": "the first year. In the first year specifically? Yes, that's how our budget"
+    },
+    {
+      "t": 1359.35,
+      "text": "is structured. In that case, instead of focusing solely on unit price, we could"
+    },
+    {
+      "t": 1365.23,
+      "text": "look at a combination of price reduction and value credits. What do you"
+    },
+    {
+      "t": 1369.95,
+      "text": "mean by value credits? For example, logistic support, technical assistance, or"
+    },
+    {
+      "t": 1375.75,
+      "text": "marketing support that offsets your costs even if the list price doesn't drop as"
+    },
+    {
+      "t": 1381.15,
+      "text": "much. That could be interesting, especially if it's clearly quantified. We can"
+    },
+    {
+      "t": 1386.45,
+      "text": "define those elements contractually so they are measurable and auditable. That"
+    },
+    {
+      "t": 1391.43,
+      "text": "would make it easier to justify internally. Another area worth discussing"
+    },
+    {
+      "t": 1396.35,
+      "text": "is demand planning. Variability increases costs on both sides."
+    },
+    {
+      "t": 1401.95,
+      "text": "True, but our demand can be unpredictable due to market conditions."
+    },
+    {
+      "t": 1406.65,
+      "text": "We don't expect perfect accuracy. However, better visibility helps us plan production"
+    },
+    {
+      "t": 1412.31,
+      "text": "more efficiently."
+    },
+    {
+      "t": 1414.07,
+      "text": "What level of visibility are you asking for?"
+    },
+    {
+      "t": 1416.87,
+      "text": "A rolling three-month forecast, updated monthly, even if it's indicative."
+    },
+    {
+      "t": 1422.17,
+      "text": "We can provide that, but we'd need flexibility to adjust."
+    },
+    {
+      "t": 1426.31,
+      "text": "Absolutely, we can agree on a tolerance band to accommodate changes."
+    },
+    {
+      "t": 1431.27,
+      "text": "That sounds reasonable."
+    },
+    {
+      "t": 1432.91,
+      "text": "Let's also talk about lead times."
+    },
+    {
+      "t": 1435.47,
+      "text": "Our current proposal assumes a standard lead time of four weeks."
+    },
+    {
+      "t": 1440.47,
+      "text": "Four weeks is acceptable in most cases, but during peak seasons sometimes we need faster"
+    },
+    {
+      "t": 1445.95,
+      "text": "turnaround."
+    },
+    {
+      "t": 1447.39,
+      "text": "In those situations, we can offer expedited production subject to capacity."
+    },
+    {
+      "t": 1452.91,
+      "text": "Would that come at an additional cost?"
+    },
+    {
+      "t": 1455.99,
+      "text": "Yes, but for strategic partners, we can include a limited number of expedited orders at no"
+    },
+    {
+      "t": 1462.25,
+      "text": "extra charge."
+    },
+    {
+      "t": 1464.13,
+      "text": "That would be valuable, especially during promotions."
+    },
+    {
+      "t": 1467.41,
+      "text": "Speaking of promotions, do you anticipate any major campaigns that could impact demand?"
+    },
+    {
+      "t": 1473.29,
+      "text": "Yes, we typically run two major campaigns each year."
+    },
+    {
+      "t": 1477.85,
+      "text": "If those are planned in advance, we can allocate capacity accordingly and avoid last-minute"
+    },
+    {
+      "t": 1483.21,
+      "text": "pressure."
+    },
+    {
+      "t": 1484.37,
+      "text": "We can share promotional calendars as part of our planning process."
+    },
+    {
+      "t": 1488.49,
+      "text": "That would help significantly."
+    },
+    {
+      "t": 1490.13,
+      "text": "Now, let's move to payment terms."
+    },
+    {
+      "t": 1493.01,
+      "text": "This remains a sensitive topic internally."
+    },
+    {
+      "t": 1495.93,
+      "text": "I understand."
+    },
+    {
+      "t": 1497.29,
+      "text": "Your team mentioned that extended credit is important."
+    },
+    {
+      "t": 1500.85,
+      "text": "Correct."
+    },
+    {
+      "t": 1501.85,
+      "text": "Our preferred terms are 90 days."
+    },
+    {
+      "t": 1504.65,
+      "text": "As discussed previously, 90 days stretches our cash flow, but we're willing to explore"
+    },
+    {
+      "t": 1510.49,
+      "text": "alternatives."
+    },
+    {
+      "t": 1512.05,
+      "text": "What kind of alternatives?"
+    },
+    {
+      "t": 1514.01,
+      "text": "For instance, we could agree on 60 days as standard with an option to extend to 90 days"
+    },
+    {
+      "t": 1520.25,
+      "text": "for specific months."
+    },
+    {
+      "t": 1522.45,
+      "text": "That flexibility could work, especially during high spend periods."
+    },
+    {
+      "t": 1526.89,
+      "text": "In return, we would ask for timely dispute resolutions so payments aren't delayed unnecessarily."
+    },
+    {
+      "t": 1533.77,
+      "text": "That's fair."
+    },
+    {
+      "t": 1534.97,
+      "text": "Delays due to internal processes can be managed better on our side."
+    },
+    {
+      "t": 1539.45,
+      "text": "Thank you."
+    },
+    {
+      "t": 1540.45,
+      "text": "Another topic that often comes up is risk sharing."
+    },
+    {
+      "t": 1543.77,
+      "text": "Yes, particularly in relation to raw material price fluctuations."
+    },
+    {
+      "t": 1548.89,
+      "text": "We propose a transparent adjustment mechanism based on agreed indices."
+    },
+    {
+      "t": 1554.37,
+      "text": "Our concern is unpredictability."
+    },
+    {
+      "t": 1557.25,
+      "text": "Sudden increases make budgeting difficult."
+    },
+    {
+      "t": 1560.13,
+      "text": "To address that, we can introduce caps on price movements within a defined period."
+    },
+    {
+      "t": 1566.21,
+      "text": "That would help smooth out volatility."
+    },
+    {
+      "t": 1568.69,
+      "text": "Similarly, if prices move downward, we're open to sharing those benefits as well."
+    },
+    {
+      "t": 1574.77,
+      "text": "That balanced approach will be viewed positively."
+    },
+    {
+      "t": 1578.17,
+      "text": "Let's also discuss performance management."
+    },
+    {
+      "t": 1581.09,
+      "text": "Clear metrics help avoid misunderstandings."
+    },
+    {
+      "t": 1583.89,
+      "text": "Agreed."
+    },
+    {
+      "t": 1585.13,
+      "text": "We prefer having measurable KPIs rather than subjective assessments."
+    },
+    {
+      "t": 1590.05,
+      "text": "We propose KPIs covering on-time delivery, quality performance, responsiveness, and issue"
+    },
+    {
+      "t": 1596.89,
+      "text": "resolution."
+    },
+    {
+      "t": 1598.29,
+      "text": "How frequently would those be reviewed?"
+    },
+    {
+      "t": 1601.33,
+      "text": "Monthly at an operational level and quarterly at a management level."
+    },
+    {
+      "t": 1606.05,
+      "text": "That cadence works for us."
+    },
+    {
+      "t": 1608.01,
+      "text": "In case KPIs are consistently missed, we can agree on corrective action plans."
+    },
+    {
+      "t": 1614.11,
+      "text": "And if performance exceeds expectations?"
+    },
+    {
+      "t": 1617.21,
+      "text": "Then we can discuss incentives, such as preferential pricing or priority capacity."
+    },
+    {
+      "t": 1623.29,
+      "text": "That creates a more collaborative dynamic."
+    },
+    {
+      "t": 1626.17,
+      "text": "Exactly."
+    },
+    {
+      "t": 1627.17,
+      "text": "We want this to be a partnership, not just a transactional relationship."
+    },
+    {
+      "t": 1631.97,
+      "text": "On that note, how do you see the relationship evolving over time?"
+    },
+    {
+      "t": 1636.37,
+      "text": "Ideally, we'd move from a basic supply arrangement to a strategic collaboration where we jointly"
+    },
+    {
+      "t": 1642.93,
+      "text": "plan growth."
+    },
+    {
+      "t": 1644.73,
+      "text": "That aligns with our long-term vision as well."
+    },
+    {
+      "t": 1647.81,
+      "text": "To support that, we can organize annual strategy workshops involving senior leadership"
+    },
+    {
+      "t": 1653.37,
+      "text": "from both sides."
+    },
+    {
+      "t": 1655.29,
+      "text": "That would help align expectations and priorities."
+    },
+    {
+      "t": 1658.81,
+      "text": "Coming back to the immediate decision, are there any remaining blockers we haven't discussed?"
+    },
+    {
+      "t": 1664.61,
+      "text": "The main concern now is whether all these commitments can be clearly…"
+    },
+    {
+      "t": 1668.69,
+      "text": "Good morning."
+    },
+    {
+      "t": 1669.69,
+      "text": "Thank you for coming in today."
+    },
+    {
+      "t": 1670.93,
+      "text": "I know your schedule is busy, so we really appreciate you taking the time to meet with"
+    },
+    {
+      "t": 1675.09,
+      "text": "us in person."
+    },
+    {
+      "t": 1676.77,
+      "text": "Good morning."
+    },
+    {
+      "t": 1677.77,
+      "text": "Thank you for inviting us."
+    },
+    {
+      "t": 1679.25,
+      "text": "We believe this discussion is important, especially at this stage of the evaluation"
+    },
+    {
+      "t": 1683.77,
+      "text": "process."
+    },
+    {
+      "t": 1684.77,
+      "text": "Absolutely. The objective of today's meeting is to openly discuss the remaining gaps in the"
+    },
+    {
+      "t": 1690.29,
+      "text": "proposal and see whether we can move toward a final agreement. That aligns with our expectations."
+    },
+    {
+      "t": 1696.85,
+      "text": "Internally, there is strong interest in working with your company,"
+    },
+    {
+      "t": 1700.45,
+      "text": "but several commercial and operational points still need clarification."
+    },
+    {
+      "t": 1705.33,
+      "text": "Understood. Why don't we start with your overall feedback on the proposal?"
+    },
+    {
+      "t": 1709.25,
+      "text": "Overall, the proposal is comprehensive and well-thought-out."
+    },
+    {
+      "t": 1713.25,
+      "text": "However, from a procurement perspective, the total cost structure is still a concern,"
+    },
+    {
+      "t": 1718.25,
+      "text": "especially when compared to alternative suppliers."
+    },
+    {
+      "t": 1721.25,
+      "text": "I appreciate your honesty."
+    },
+    {
+      "t": 1723.25,
+      "text": "Cost competitiveness is critical, but we also believe the value we bring goes beyond unit pricing."
+    },
+    {
+      "t": 1730.25,
+      "text": "We recognize that, but senior management tends to focus heavily on immediate financial impact"
+    },
+    {
+      "t": 1736.25,
+      "text": "rather than long-term qualitative benefits."
+    },
+    {
+      "t": 1739.25,
+      "text": "That's quite common."
+    },
+    {
+      "t": 1741.25,
+      "text": "Perhaps we can frame the discussion in a way that highlights both short-term savings"
+    },
+    {
+      "t": 1745.25,
+      "text": "and long-term stability."
+    },
+    {
+      "t": 1747.25,
+      "text": "That would be helpful."
+    },
+    {
+      "t": 1748.25,
+      "text": "Let's begin with pricing, as that's the biggest topic internally."
+    },
+    {
+      "t": 1752.25,
+      "text": "Of course, based on your feedback,"
+    },
+    {
+      "t": 1755.25,
+      "text": "could you clarify what price level would be considered acceptable?"
+    },
+    {
+      "t": 1759.25,
+      "text": "Ideally, we're targeting a reduction of around 12%"
+    },
+    {
+      "t": 1763.25,
+      "text": "compared to your initial quotation."
+    },
+    {
+      "t": 1765.25,
+      "text": "12% is a significant adjustment."
+    },
+    {
+      "t": 1769.13,
+      "text": "To achieve that, we would need to revisit several assumptions in the proposal."
+    },
+    {
+      "t": 1773.81,
+      "text": "We expected that."
+    },
+    {
+      "t": 1775.21,
+      "text": "We're open to discussing trade-offs if they make sense for both sides."
+    },
+    {
+      "t": 1779.65,
+      "text": "That's encouraging."
+    },
+    {
+      "t": 1780.93,
+      "text": "One key assumption is volume."
+    },
+    {
+      "t": 1782.97,
+      "text": "The current pricing is based on conservative volume estimates."
+    },
+    {
+      "t": 1786.81,
+      "text": "If pricing improves, we may be able to commit to higher volumes, but we need clarity"
+    },
+    {
+      "t": 1791.97,
+      "text": "first."
+    },
+    {
+      "t": 1792.97,
+      "text": "If you were able to increase annual volume by 25%, we could unlock meaningful cost efficiencies."
+    },
+    {
+      "t": 1800.97,
+      "text": "25% is ambitious, especially in the first year."
+    },
+    {
+      "t": 1805.97,
+      "text": "What level would be more realistic?"
+    },
+    {
+      "t": 1807.97,
+      "text": "A 10-15% increase is more achievable initially, with the possibility to scale up later."
+    },
+    {
+      "t": 1814.97,
+      "text": "In that case, we could consider a tiered pricing model where discounts improve as volumes grow."
+    },
+    {
+      "t": 1820.97,
+      "text": "That approach could work. It would allow us to manage risk while still benefiting from better pricing."
+    },
+    {
+      "t": 1826.97,
+      "text": "Exactly. For example, we could apply an 8% discount at the base volume and increase it to 12% once the higher volume threshold is reached."
+    },
+    {
+      "t": 1836.97,
+      "text": "That's interesting. It gives us an incentive to grow without locking us into unrealistic commitments."
+    },
+    {
+      "t": 1842.97,
+      "text": "That's the idea. Let's also consider contract duration as that has a direct impact on our cost planning."
+    },
+    {
+      "t": 1849.97,
+      "text": "Currently, the proposal mentions a one-year contract."
+    },
+    {
+      "t": 1853.09,
+      "text": "Is that flexible?"
+    },
+    {
+      "t": 1854.53,
+      "text": "It is."
+    },
+    {
+      "t": 1855.53,
+      "text": "From our perspective, a longer term agreement would justify stronger pricing concessions."
+    },
+    {
+      "t": 1860.97,
+      "text": "What duration would you have in mind?"
+    },
+    {
+      "t": 1862.97,
+      "text": "Ideally, a three-year framework agreement with annual performance reviews."
+    },
+    {
+      "t": 1868.53,
+      "text": "Three years is a long commitment."
+    },
+    {
+      "t": 1870.77,
+      "text": "We would need strong exit clauses and flexibility."
+    },
+    {
+      "t": 1874.53,
+      "text": "That's reasonable."
+    },
+    {
+      "t": 1875.53,
+      "text": "include termination options linked to performance, service levels, and major market changes."
+    },
+    {
+      "t": 1881.23,
+      "text": "If those safeguards are clear, a longer term agreement could be acceptable."
+    },
+    {
+      "t": 1885.75,
+      "text": "In that case, we could improve the base discount further, potentially reaching your 12% target"
+    },
+    {
+      "t": 1890.95,
+      "text": "over time."
+    },
+    {
+      "t": 1892.35,
+      "text": "That would certainly strengthen the business case internally."
+    },
+    {
+      "t": 1895.11,
+      "text": "Let's move to payment terms as they often have a big impact on cash flow."
+    },
+    {
+      "t": 1900.27,
+      "text": "Yes, payment terms are critical for us."
+    },
+    {
+      "t": 1903.27,
+      "text": "standard policy is 90 days. 90 days is quite extended compared to our standard 60-day terms."
+    },
+    {
+      "t": 1911.03,
+      "text": "I understand, but aligning with our internal systems is not easy. If we agree to 90 days,"
+    },
+    {
+      "t": 1917.19,
+      "text": "we would need compensation elsewhere, perhaps through volume certainty or pricing structure."
+    },
+    {
+      "t": 1922.89,
+      "text": "Would you consider a hybrid model, such as 60 days initially and 90 days once volume"
+    },
+    {
+      "t": 1928.53,
+      "text": "That could work, for example, 60 days for the first six months moving to 90 days afterward."
+    },
+    {
+      "t": 1935.53,
+      "text": "That sounds reasonable and easier to justify internally."
+    },
+    {
+      "t": 1938.53,
+      "text": "Another option is early payment incentives. If invoices are paid earlier, discounts could apply."
+    },
+    {
+      "t": 1944.53,
+      "text": "That flexibility would be appreciated. It gives us options depending on our cash position."
+    },
+    {
+      "t": 1949.53,
+      "text": "Let's now discuss supply reliability as this has come up frequently in your feedback."
+    },
+    {
+      "t": 1954.53,
+      "text": "Yes, reliability is extremely important."
+    },
+    {
+      "t": 1958.53,
+      "text": "Past disruptions with other suppliers have caused serious operational issues."
+    },
+    {
+      "t": 1963.53,
+      "text": "We take that very seriously."
+    },
+    {
+      "t": 1965.53,
+      "text": "We can commit to a service level agreement with defined delivery timelines."
+    },
+    {
+      "t": 1970.53,
+      "text": "What level of service are you proposing?"
+    },
+    {
+      "t": 1972.53,
+      "text": "A minimum 98% on-time in-fall delivery rate."
+    },
+    {
+      "t": 1977.53,
+      "text": "And if that level is not met,"
+    },
+    {
+      "t": 1979.53,
+      "text": "is not met? We can include service credits or penalties tied to repeated failures. That"
+    },
+    {
+      "t": 1985.73,
+      "text": "level of accountability is reassuring. To further mitigate risk, we can also maintain"
+    },
+    {
+      "t": 1990.65,
+      "text": "buffer stock for critical items. Who would carry the cost of that inventory? We would"
+    },
+    {
+      "t": 1996.09,
+      "text": "carry it, provided we receive reliable forecasts. We can provide rolling forecasts, but demand"
+    },
+    {
+      "t": 2002.61,
+      "text": "volatility is always a challenge. We understand. We can allow a flexibility range of plus"
+    },
+    {
+      "t": 2008.25,
+      "text": "are minus 20%. That should be manageable. Let's talk about quality and compliance as"
+    },
+    {
+      "t": 2014.37,
+      "text": "these are non-negotiable areas. Absolutely. Any quality issue reflects directly on our"
+    },
+    {
+      "t": 2020.33,
+      "text": "brand. We propose joint quality audits twice a year along with regular reporting. Joint"
+    },
+    {
+      "t": 2026.65,
+      "text": "audits are a good idea. They promote transparency and trust. In case of quality deviations,"
+    },
+    {
+      "t": 2032.57,
+      "text": "we commit to corrective actions and, where appropriate, compensation. That aligns with"
+    },
+    {
+      "t": 2037.33,
+      "text": "our expectations. Another area worth discussing is innovation and continuous improvement."
+    },
+    {
+      "t": 2043.93,
+      "text": "Can you elaborate on that? We see this partnership as more than a transactional arrangement. We'd"
+    },
+    {
+      "t": 2049.37,
+      "text": "like to collaborate on process improvements and cost optimization over time. That's appealing,"
+    },
+    {
+      "t": 2055.01,
+      "text": "especially if it leads to measurable savings. We can set up joint workshops to identify"
+    },
+    {
+      "t": 2059.99,
+      "text": "improvement opportunities. That would also help build stronger working relationships"
+    },
+    {
+      "t": 2064.65,
+      "text": "between our teams."
+    },
+    {
+      "t": 2066.09,
+      "text": "Exactly."
+    },
+    {
+      "t": 2067.09,
+      "text": "Strong collaboration often leads to better outcomes than transactional relationships."
+    },
+    {
+      "t": 2071.85,
+      "text": "Agreed."
+    },
+    {
+      "t": 2072.85,
+      "text": "Let's also discuss governance and communication."
+    },
+    {
+      "t": 2076.13,
+      "text": "Certainly, we suggest a structured governance model with clear escalation paths."
+    },
+    {
+      "t": 2082.15,
+      "text": "What would that look like?"
+    },
+    {
+      "t": 2083.89,
+      "text": "Monthly operational review meetings, quarterly performance reviews, and an annual strategic"
+    },
+    {
+      "t": 2088.85,
+      "text": "review at senior management level."
+    },
+    {
+      "t": 2091.47,
+      "text": "That level of structure would be very helpful."
+    },
+    {
+      "t": 2094.13,
+      "text": "We would also assign a dedicated account manager as your single point of contact."
+    },
+    {
+      "t": 2099.05,
+      "text": "That's important for efficiency and accountability."
+    },
+    {
+      "t": 2102.29,
+      "text": "Based on everything we've discussed so far, do you feel the proposal is moving in the right"
+    },
+    {
+      "t": 2106.37,
+      "text": "direction?"
+    },
+    {
+      "t": 2107.37,
+      "text": "Yes, definitely."
+    },
+    {
+      "t": 2109.37,
+      "text": "Good morning."
+    },
+    {
+      "t": 2110.37,
+      "text": "Thank you for joining the meeting today."
+    },
+    {
+      "t": 2111.97,
+      "text": "I hope you're doing well."
+    },
+    {
+      "t": 2113.77,
+      "text": "Good morning."
+    },
+    {
+      "t": 2114.77,
+      "text": "Thank you."
+    },
+    {
+      "t": 2115.77,
+      "text": "Yes, all good on my side."
+    },
+    {
+      "t": 2117.13,
+      "text": "I'm glad we could schedule this discussion."
+    },
+    {
+      "t": 2119.53,
+      "text": "Likewise, the purpose of today's meeting is to review the revised proposal and see"
+    },
+    {
+      "t": 2124.69,
+      "text": "whether we can finalize the commercial terms."
+    },
+    {
+      "t": 2127.89,
+      "text": "That sounds fine."
+    },
+    {
+      "t": 2128.89,
+      "text": "We've reviewed the document internally, and while there are several positives, there"
+    },
+    {
+      "t": 2133.29,
+      "text": "are still a few points we need to negotiate."
+    },
+    {
+      "t": 2136.01,
+      "text": "I expected that."
+    },
+    {
+      "t": 2137.81,
+      "text": "Please feel free to walk me through your concerns."
+    },
+    {
+      "t": 2140.77,
+      "text": "Let's start with pricing."
+    },
+    {
+      "t": 2142.53,
+      "text": "Compared to the market, your offer is still slightly above average, which raises"
+    },
+    {
+      "t": 2146.29,
+      "text": "questions from our finance team."
+    },
+    {
+      "t": 2148.33,
+      "text": "I understand, our pricing is based on long-term cost stability rather than short-term discounts,"
+    },
+    {
+      "t": 2154.73,
+      "text": "but we're open to adjustments if the overall structure makes sense."
+    },
+    {
+      "t": 2158.99,
+      "text": "From our side, we need clearer savings in the first year, not just long-term benefits."
+    },
+    {
+      "t": 2164.21,
+      "text": "In that case, we could look at a phased pricing model with a stronger discount in"
+    },
+    {
+      "t": 2168.49,
+      "text": "year one and a gradual normalization afterward."
+    },
+    {
+      "t": 2171.89,
+      "text": "That's an interesting approach."
+    },
+    {
+      "t": 2173.93,
+      "text": "How would that work in practice?"
+    },
+    {
+      "t": 2175.75,
+      "text": "For example, we could offer a 9% discount in the first year and reduce it to 6% in the"
+    },
+    {
+      "t": 2181.31,
+      "text": "second year, assuming volumes remain stable."
+    },
+    {
+      "t": 2184.87,
+      "text": "That would help in the short term, but our preference is for a more predictable structure."
+    },
+    {
+      "t": 2189.39,
+      "text": "Understood."
+    },
+    {
+      "t": 2190.75,
+      "text": "Another option would be a one-time onboarding rebate in the first six months."
+    },
+    {
+      "t": 2195.43,
+      "text": "A rebate could be easier to justify internally."
+    },
+    {
+      "t": 2198.51,
+      "text": "What level are you considering?"
+    },
+    {
+      "t": 2200.21,
+      "text": "We could offer a rebate equivalent to 4% of purchases during the first six months."
+    },
+    {
+      "t": 2205.71,
+      "text": "What could work provided the ongoing price is still competitive?"
+    },
+    {
+      "t": 2209.27,
+      "text": "In parallel, we'd like to discuss volume commitments."
+    },
+    {
+      "t": 2212.79,
+      "text": "Greater volume would allow us to reduce fixed costs."
+    },
+    {
+      "t": 2216.11,
+      "text": "What volume increase are you looking for?"
+    },
+    {
+      "t": 2218.47,
+      "text": "If monthly volume increases by 20% compared to the base forecast, we can reduce the unit"
+    },
+    {
+      "t": 2224.35,
+      "text": "price by an additional 3%."
+    },
+    {
+      "t": 2226.59,
+      "text": "A 20% increase is ambitious."
+    },
+    {
+      "t": 2229.43,
+      "text": "We could consider 10% initially."
+    },
+    {
+      "t": 2231.87,
+      "text": "If we start with 10% and review after three months, we could still offer a partial reduction."
+    },
+    {
+      "t": 2237.91,
+      "text": "That seems fair."
+    },
+    {
+      "t": 2238.91,
+      "text": "Let's include a review mechanism."
+    },
+    {
+      "t": 2241.07,
+      "text": "Agreed."
+    },
+    {
+      "t": 2242.07,
+      "text": "Now, let's move to payment terms."
+    },
+    {
+      "t": 2244.51,
+      "text": "Your proposal mentioned 60 days, but our policy is 45."
+    },
+    {
+      "t": 2249.31,
+      "text": "Extending to 60 days is important for our cash flow, especially during peak periods."
+    },
+    {
+      "t": 2254.59,
+      "text": "If we agree to 60 days, we would need stronger order predictability."
+    },
+    {
+      "t": 2259.35,
+      "text": "We can commit to firm orders four weeks in advance."
+    },
+    {
+      "t": 2262.79,
+      "text": "That would help significantly."
+    },
+    {
+      "t": 2264.63,
+      "text": "In that case, we can accept 60-day payment terms."
+    },
+    {
+      "t": 2268.03,
+      "text": "Good."
+    },
+    {
+      "t": 2269.27,
+      "text": "Another point is logistics."
+    },
+    {
+      "t": 2271.43,
+      "text": "Deliveries in the past have affected our operations."
+    },
+    {
+      "t": 2274.23,
+      "text": "We've invested in additional logistics capacity to address that."
+    },
+    {
+      "t": 2278.07,
+      "text": "We can commit to specific delivery windows."
+    },
+    {
+      "t": 2281.07,
+      "text": "What happens if deliveries fall outside those windows?"
+    },
+    {
+      "t": 2284.39,
+      "text": "We can include service credits for repeated delays."
+    },
+    {
+      "t": 2287.91,
+      "text": "That would give us more confidence."
+    },
+    {
+      "t": 2289.79,
+      "text": "On the topic of risk, we should also discuss force majeure and supply disruptions."
+    },
+    {
+      "t": 2294.99,
+      "text": "Yes, that's important, especially given recent market volatility."
+    },
+    {
+      "t": 2299.39,
+      "text": "We propose maintaining safety stock equivalent to two weeks of average demand."
+    },
+    {
+      "t": 2304.35,
+      "text": "Who would carry the cost of that inventory?"
+    },
+    {
+      "t": 2306.93,
+      "text": "We would carry the inventory, provided demand forecasts are shared regularly."
+    },
+    {
+      "t": 2311.27,
+      "text": "That's acceptable."
+    },
+    {
+      "t": 2313.03,
+      "text": "Let's also touch on communication and governance."
+    },
+    {
+      "t": 2316.27,
+      "text": "Your escalation paths are critical."
+    },
+    {
+      "t": 2318.55,
+      "text": "Agreed."
+    },
+    {
+      "t": 2319.55,
+      "text": "We'd like a dedicated account manager and monthly review calls."
+    },
+    {
+      "t": 2323.39,
+      "text": "We can assign a senior account manager and schedule monthly operational reviews and quarterly"
+    },
+    {
+      "t": 2328.61,
+      "text": "strategic reviews."
+    },
+    {
+      "t": 2330.49,
+      "text": "That level of engagement is appreciated."
+    },
+    {
+      "t": 2333.07,
+      "text": "Based on our discussion, do you feel we're moving closer to an agreement?"
+    },
+    {
+      "t": 2336.83,
+      "text": "Yes."
+    },
+    {
+      "t": 2337.83,
+      "text": "The structure is becoming more balanced."
+    },
+    {
+      "t": 2340.03,
+      "text": "To confirm, we're looking at a competitive base price, a first six-month rebate,"
+    },
+    {
+      "t": 2345.15,
+      "text": "a potential additional discount linked to volume growth, 60-day payment terms, firm"
+    },
+    {
+      "t": 2350.67,
+      "text": "order commitments, service credits for delays, safety stock support, and regular governance"
+    },
+    {
+      "t": 2356.35,
+      "text": "meetings."
+    },
+    {
+      "t": 2357.47,
+      "text": "That captures the main points accurately."
+    },
+    {
+      "t": 2359.95,
+      "text": "Excellent."
+    },
+    {
+      "t": 2360.95,
+      "text": "We'll reflect these terms in a revised draft and share it shortly."
+    },
+    {
+      "t": 2365.15,
+      "text": "Once we receive it, we'll aim to finalize approvals within the week."
+    },
+    {
+      "t": 2368.79,
+      "text": "That's great to hear."
+    },
+    {
+      "t": 2369.99,
+      "text": "We appreciate your collaboration throughout this negotiation."
+    },
+    {
+      "t": 2373.47,
+      "text": "Likewise, this has been a productive discussion and transparent."
+    },
+    {
+      "t": 2377.55,
+      "text": "Thank you."
+    },
+    {
+      "t": 2378.55,
+      "text": "We look forward to a successful partnership."
+    },
+    {
+      "t": 2380.91,
+      "text": "Thank you."
+    },
+    {
+      "t": 2381.91,
+      "text": "We're optimistic about working together."
+    },
+    {
+      "t": 2392.24,
+      "text": "Good afternoon."
+    },
+    {
+      "t": 2393.4,
+      "text": "Thank you for making time to meet today."
+    },
+    {
+      "t": 2395.32,
+      "text": "I trust everything is going well on your end."
+    },
+    {
+      "t": 2398.36,
+      "text": "Good afternoon."
+    },
+    {
+      "t": 2399.36,
+      "text": "Yes, thank you."
+    },
+    {
+      "t": 2400.4,
+      "text": "We appreciate the opportunity to continue discussions and see whether we can reach common"
+    },
+    {
+      "t": 2404.72,
+      "text": "ground."
+    },
+    {
+      "t": 2405.72,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2407.08,
+      "text": "Our goal today is to clarify expectations and see how we can move this negotiation forward"
+    },
+    {
+      "t": 2413.04,
+      "text": "in a constructive way."
+    },
+    {
+      "t": 2415.16,
+      "text": "That's good to hear."
+    },
+    {
+      "t": 2416.16,
+      "text": "We see potential in working together, but there are still several commercial points we need"
+    },
+    {
+      "t": 2420.64,
+      "text": "to align on."
+    },
+    {
+      "t": 2421.92,
+      "text": "Understood."
+    },
+    {
+      "t": 2423.08,
+      "text": "Perhaps we can start with your overall impression of the proposal."
+    },
+    {
+      "t": 2427.44,
+      "text": "Overall the proposal is well-structured, however from our perspective the total cost"
+    },
+    {
+      "t": 2431.82,
+      "text": "is still higher than what our management team is comfortable approving."
+    },
+    {
+      "t": 2435.6,
+      "text": "I appreciate the feedback."
+    },
+    {
+      "t": 2437.56,
+      "text": "Could you share which components are driving that concern the most?"
+    },
+    {
+      "t": 2441.64,
+      "text": "Primarily the unit price and the annual escalation clause both have a significant impact on our"
+    },
+    {
+      "t": 2447.12,
+      "text": "long-term cost projections."
+    },
+    {
+      "t": 2449.56,
+      "text": "That makes sense."
+    },
+    {
+      "t": 2450.76,
+      "text": "Our pricing model is designed to account for raw material volatility and operational costs,"
+    },
+    {
+      "t": 2456.92,
+      "text": "but we are open to revisiting it if there is room for compromise."
+    },
+    {
+      "t": 2460.84,
+      "text": "That's encouraging."
+    },
+    {
+      "t": 2461.84,
+      "text": "The transparent were under pressure to reduce procurement costs by at least 8% this year."
+    },
+    {
+      "t": 2467.52,
+      "text": "Thank you for sharing that context."
+    },
+    {
+      "t": 2469.6,
+      "text": "If cost reduction is the priority, we may need to look at the overall package rather"
+    },
+    {
+      "t": 2474.28,
+      "text": "than price alone."
+    },
+    {
+      "t": 2475.96,
+      "text": "I agree."
+    },
+    {
+      "t": 2476.96,
+      "text": "Let's explore that approach."
+    },
+    {
+      "t": 2478.28,
+      "text": "Currently, the proposal assumes a quarterly ordering pattern."
+    },
+    {
+      "t": 2482.24,
+      "text": "Would you consider shifting to a monthly ordering cycle?"
+    },
+    {
+      "t": 2485.92,
+      "text": "Monthly ordering is possible, but it would require more coordination on both sides."
+    },
+    {
+      "t": 2490.88,
+      "text": "If we move to monthly orders with consistent volumes, it would help us optimize production"
+    },
+    {
+      "t": 2496.02,
+      "text": "and logistics, which could translate into cost savings."
+    },
+    {
+      "t": 2500.0,
+      "text": "What kind of savings are we talking about?"
+    },
+    {
+      "t": 2502.88,
+      "text": "Potentially a 5-6% reduction on the unit price, depending on volume stability."
+    },
+    {
+      "t": 2508.88,
+      "text": "That's a good start, but still short of our target."
+    },
+    {
+      "t": 2512.16,
+      "text": "Understood."
+    },
+    {
+      "t": 2513.16,
+      "text": "Another lever could be contract duration."
+    },
+    {
+      "t": 2515.4,
+      "text": "A longer commitment would give us more certainty."
+    },
+    {
+      "t": 2518.76,
+      "text": "How long are you proposing?"
+    },
+    {
+      "t": 2520.4,
+      "text": "Ideally, a two-year agreement with pricing reviewed annually."
+    },
+    {
+      "t": 2524.96,
+      "text": "A two-year contract is a big commitment."
+    },
+    {
+      "t": 2527.4,
+      "text": "We would need strong safeguards and exit options."
+    },
+    {
+      "t": 2530.52,
+      "text": "That's reasonable."
+    },
+    {
+      "t": 2531.76,
+      "text": "We can include termination clauses tied to performance and market conditions."
+    },
+    {
+      "t": 2536.84,
+      "text": "If those safeguards are clear, a longer contract could be considered."
+    },
+    {
+      "t": 2540.92,
+      "text": "In that case, we could improve the discount to around 9%."
+    },
+    {
+      "t": 2545.32,
+      "text": "That's getting closer."
+    },
+    {
+      "t": 2546.52,
+      "text": "However, the escalation clause still concerns us."
+    },
+    {
+      "t": 2549.64,
+      "text": "The escalation clause is linked to raw material indices."
+    },
+    {
+      "t": 2553.48,
+      "text": "Without it, we would be exposed to significant risk."
+    },
+    {
+      "t": 2556.86,
+      "text": "Would you consider capping the escalation at a fixed percentage?"
+    },
+    {
+      "t": 2560.44,
+      "text": "We could agree to a cap, provided there's also a floor"
+    },
+    {
+      "t": 2563.68,
+      "text": "to protect us if costs decrease sharply."
+    },
+    {
+      "t": 2566.88,
+      "text": "A capped escalation makes sense."
+    },
+    {
+      "t": 2568.68,
+      "text": "What level are you suggesting?"
+    },
+    {
+      "t": 2570.48,
+      "text": "We could cap annual escalation at 4%"
+    },
+    {
+      "t": 2573.6,
+      "text": "with a minimum adjustment of 1%."
+    },
+    {
+      "t": 2576.28,
+      "text": "That's more predictable than the current structure."
+    },
+    {
+      "t": 2578.4,
+      "text": "I think management would view that positively."
+    },
+    {
+      "t": 2580.96,
+      "text": "Good. Let's also discuss payment terms as they impact our cash flow."
+    },
+    {
+      "t": 2585.92,
+      "text": "Currently we operate on 90-day credit across most suppliers."
+    },
+    {
+      "t": 2590.32,
+      "text": "90 days is quite extended for us."
+    },
+    {
+      "t": 2592.96,
+      "text": "Our standard terms are 60 days."
+    },
+    {
+      "t": 2595.6,
+      "text": "Reducing to 60 days would require special approval."
+    },
+    {
+      "t": 2599.2,
+      "text": "If we meet you halfway at 75 days, could that be acceptable?"
+    },
+    {
+      "t": 2603.68,
+      "text": "75 days might be achievable, especially if there are incentives attached."
+    },
+    {
+      "t": 2608.16,
+      "text": "In that case, we could include an early payment discount if invoices are settled within 45 days."
+    },
+    {
+      "t": 2614.72,
+      "text": "That could work well for us. It gives flexibility depending on our cash position."
+    },
+    {
+      "t": 2619.04,
+      "text": "Exactly. It creates options for both sides."
+    },
+    {
+      "t": 2622.48,
+      "text": "Another concern is supply continuity during peak seasons."
+    },
+    {
+      "t": 2626.4,
+      "text": "We're aware that your demand spikes significantly during those periods."
+    },
+    {
+      "t": 2630.96,
+      "text": "Yes, and any disruption has a direct impact on our customers."
+    },
+    {
+      "t": 2634.96,
+      "text": "We can commit to priority allocation during peak months,"
+    },
+    {
+      "t": 2638.48,
+      "text": "provided forecasts are shared in advance."
+    },
+    {
+      "t": 2641.52,
+      "text": "How much advance notice would you need?"
+    },
+    {
+      "t": 2643.76,
+      "text": "Ideally, a rolling forecast three months ahead, updated monthly."
+    },
+    {
+      "t": 2648.88,
+      "text": "We can do that, although the last month may still be subject to change."
+    },
+    {
+      "t": 2653.04,
+      "text": "That's acceptable. We can build in a tolerance range to accommodate adjustments."
+    },
+    {
+      "t": 2658.0,
+      "text": "That would reduce risk on both sides."
+    },
+    {
+      "t": 2660.48,
+      "text": "Agreed. Let's also touch on quality and compliance, as these are non-negotiable for us."
+    },
+    {
+      "t": 2666.64,
+      "text": "Quality is extremely important to us as well. Any deviation causes reputational damage."
+    },
+    {
+      "t": 2672.32,
+      "text": "We propose joint quality audits twice a year to ensure standards are maintained."
+    },
+    {
+      "t": 2677.84,
+      "text": "Joint audits are a good idea. They promote transparency."
+    },
+    {
+      "t": 2681.2,
+      "text": "In the event of quality issues, we're prepared to offer corrective action plans and compensation"
+    },
+    {
+      "t": 2686.88,
+      "text": "where applicable."
+    },
+    {
+      "t": 2688.48,
+      "text": "That level of accountability is reassuring."
+    },
+    {
+      "t": 2691.3,
+      "text": "Based on everything discussed so far, do you feel we're moving closer to your expectations?"
+    },
+    {
+      "t": 2696.6,
+      "text": "Yes, definitely."
+    },
+    {
+      "t": 2698.04,
+      "text": "The gap is narrowing, especially with the revised pricing and escalation cap."
+    },
+    {
+      "t": 2702.58,
+      "text": "If we consolidate all these points, we may be able to reach your 8% cost reduction"
+    },
+    {
+      "t": 2707.58,
+      "text": "target."
+    },
+    {
+      "t": 2708.72,
+      "text": "That would be ideal."
+    },
+    {
+      "t": 2709.8,
+      "text": "Can you confirm that in numbers?"
+    },
+    {
+      "t": 2711.76,
+      "text": "With monthly ordering, a two-year contract, capped escalation, 75-day payment terms with"
+    },
+    {
+      "t": 2718.14,
+      "text": "early payment incentives, priority supply during peak months, forecast sharing, and"
+    },
+    {
+      "t": 2723.94,
+      "text": "joint quality audits, we can offer an effective 8-9% reduction."
+    },
+    {
+      "t": 2729.58,
+      "text": "That should satisfy our internal requirements."
+    },
+    {
+      "t": 2732.18,
+      "text": "Excellent."
+    },
+    {
+      "t": 2733.18,
+      "text": "Shall we recap the agreed points to ensure clarity?"
+    },
+    {
+      "t": 2736.42,
+      "text": "Yes, please do."
+    },
+    {
+      "t": 2738.06,
+      "text": "We're looking at a two-year contract with annual price reviews, monthly ordering with"
+    },
+    {
+      "t": 2743.06,
+      "text": "stable volumes, an effective 8-9% cost reduction, capped escalation, 75-day payment terms with"
+    },
+    {
+      "t": 2751.5,
+      "text": "early payment incentives, priority supply during peak months, forecast sharing, and joint"
+    },
+    {
+      "t": 2757.66,
+      "text": "quality audits."
+    },
+    {
+      "t": 2759.42,
+      "text": "That summary reflects our discussion accurately."
+    },
+    {
+      "t": 2762.06,
+      "text": "Great!"
+    },
+    {
+      "t": 2763.06,
+      "text": "Incorporate these terms into a revised agreement and share it for your review."
+    },
+    {
+      "t": 2768.18,
+      "text": "Once we receive it, we'll move quickly with internal approvals."
+    },
+    {
+      "t": 2771.38,
+      "text": "Perfect."
+    },
+    {
+      "t": 2772.38,
+      "text": "We appreciate your openness and willingness to collaborate."
+    },
+    {
+      "t": 2775.7,
+      "text": "Likewise, this has been a very constructive negotiation."
+    },
+    {
+      "t": 2779.5,
+      "text": "Thank you."
+    },
+    {
+      "t": 2780.5,
+      "text": "We look forward to building a strong and long-term partnership."
+    },
+    {
+      "t": 2784.26,
+      "text": "So do we."
+    },
+    {
+      "t": 2785.26,
+      "text": "Thank you for your time and flexibility."
+    },
+    {
+      "t": 2788.58,
+      "text": "Good morning."
+    },
+    {
+      "t": 2789.58,
+      "text": "I'm glad we could meet today."
+    },
+    {
+      "t": 2791.06,
+      "text": "I think it's a critical moment to finalize the remaining points in our discussion."
+    },
+    {
+      "t": 2795.94,
+      "text": "Good morning."
+    },
+    {
+      "t": 2796.94,
+      "text": "Yes, we appreciate the opportunity."
+    },
+    {
+      "t": 2799.14,
+      "text": "We've reviewed your proposal in detail and would like to address some of the outstanding"
+    },
+    {
+      "t": 2802.82,
+      "text": "areas before giving a final recommendation."
+    },
+    {
+      "t": 2805.78,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2806.98,
+      "text": "Our goal today is to work through any issues openly and collaboratively."
+    },
+    {
+      "t": 2811.86,
+      "text": "Where would you like to start?"
+    },
+    {
+      "t": 2813.62,
+      "text": "Let's begin with pricing."
+    },
+    {
+      "t": 2815.26,
+      "text": "While we acknowledge the quality and service you offer, the overall cost is still higher"
+    },
+    {
+      "t": 2819.38,
+      "text": "than what our finance team is comfortable with."
+    },
+    {
+      "t": 2821.82,
+      "text": "I understand."
+    },
+    {
+      "t": 2823.22,
+      "text": "Our pricing reflects not just the product, but also reliability, service, and added value"
+    },
+    {
+      "t": 2829.46,
+      "text": "that often reduces hidden costs."
+    },
+    {
+      "t": 2832.22,
+      "text": "But we're open to discussing adjustments to make the business case stronger."
+    },
+    {
+      "t": 2836.82,
+      "text": "We recognize the added value, but internally it comes down to immediate budget impact."
+    },
+    {
+      "t": 2842.14,
+      "text": "Our target is roughly a 10% reduction on the first year cost."
+    },
+    {
+      "t": 2846.3,
+      "text": "One percent is ambitious, but perhaps we can explore a combination of price reduction and"
+    },
+    {
+      "t": 2851.42,
+      "text": "incentives tied to volume or long-term commitments."
+    },
+    {
+      "t": 2855.66,
+      "text": "That approach could work, but we would need clarity on how those incentives are structured."
+    },
+    {
+      "t": 2860.46,
+      "text": "Certainly."
+    },
+    {
+      "t": 2861.46,
+      "text": "For example, we could offer a baseline discount of 6% with a further reduction if the volume"
+    },
+    {
+      "t": 2867.38,
+      "text": "exceeds a predefined target."
+    },
+    {
+      "t": 2870.06,
+      "text": "What volume are you suggesting for the additional reduction?"
+    },
+    {
+      "t": 2873.02,
+      "text": "If monthly orders increase by 20% compared to the base forecast, we could add an extra"
+    },
+    {
+      "t": 2879.46,
+      "text": "3-4% discount."
+    },
+    {
+      "t": 2881.46,
+      "text": "20% is a stretch initially."
+    },
+    {
+      "t": 2883.86,
+      "text": "Would a phased approach work, starting with 10% growth and reviewing after three months?"
+    },
+    {
+      "t": 2889.02,
+      "text": "That's reasonable."
+    },
+    {
+      "t": 2890.1,
+      "text": "We can structure it so that growth is monitored quarterly and the discount adjusts accordingly."
+    },
+    {
+      "t": 2896.1,
+      "text": "That would be easier to justify to management."
+    },
+    {
+      "t": 2898.94,
+      "text": "Another lever could be contract duration."
+    },
+    {
+      "t": 2901.78,
+      "text": "agreements allow us to offer better pricing."
+    },
+    {
+      "t": 2904.78,
+      "text": "Currently we're looking at a one-year arrangement."
+    },
+    {
+      "t": 2907.22,
+      "text": "How much longer would you suggest?"
+    },
+    {
+      "t": 2909.02,
+      "text": "Ideally, a two-year term with annual review points."
+    },
+    {
+      "t": 2913.1,
+      "text": "This provides stability and justifies stronger discounts."
+    },
+    {
+      "t": 2916.94,
+      "text": "Two years is acceptable if there are clear exit clauses in case of underperformance"
+    },
+    {
+      "t": 2921.18,
+      "text": "or market changes."
+    },
+    {
+      "t": 2922.94,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2924.42,
+      "text": "Termination clauses can be included based on performance metrics and significant"
+    },
+    {
+      "t": 2928.54,
+      "text": "market shifts."
+    },
+    {
+      "t": 2930.12,
+      "text": "That would address our internal risk concerns."
+    },
+    {
+      "t": 2932.96,
+      "text": "Let's also touch on payment terms."
+    },
+    {
+      "t": 2935.32,
+      "text": "Your team prefers 90 days, correct?"
+    },
+    {
+      "t": 2938.0,
+      "text": "Yes, it's critical for our cash flow planning."
+    },
+    {
+      "t": 2941.48,
+      "text": "90 days is challenging for us, but we could consider a staged approach, for example,"
+    },
+    {
+      "t": 2946.68,
+      "text": "60 days for the initial six months, moving to 90 days once volume stabilizes."
+    },
+    {
+      "t": 2953.0,
+      "text": "That phased approach would make approval easier internally."
+    },
+    {
+      "t": 2956.24,
+      "text": "To make it more flexible, we could offer early payment incentives, small discounts for settling"
+    },
+    {
+      "t": 2961.78,
+      "text": "invoices before the due date."
+    },
+    {
+      "t": 2964.3,
+      "text": "That could work, giving us flexibility depending on cash availability."
+    },
+    {
+      "t": 2968.38,
+      "text": "Another point we should cover is delivery reliability."
+    },
+    {
+      "t": 2971.74,
+      "text": "We understand this has been an issue in the past with other suppliers."
+    },
+    {
+      "t": 2975.66,
+      "text": "Yes, timely delivery is a priority."
+    },
+    {
+      "t": 2978.58,
+      "text": "Delays have caused significant operational problems previously."
+    },
+    {
+      "t": 2982.06,
+      "text": "To address that, we can commit to a 98% on-time delivery rate with defined escalation procedures."
+    },
+    {
+      "t": 2989.62,
+      "text": "And if deliveries fall below that rate, we can introduce service credits for repeated"
+    },
+    {
+      "t": 2994.3,
+      "text": "failures ensuring accountability."
+    },
+    {
+      "t": 2997.14,
+      "text": "That would increase our confidence."
+    },
+    {
+      "t": 2999.06,
+      "text": "Additionally, we can maintain buffer stock to prevent disruptions during peak demand"
+    },
+    {
+      "t": 3003.9,
+      "text": "periods."
+    },
+    {
+      "t": 3005.06,
+      "text": "Who would carry the cost for the buffer stock?"
+    },
+    {
+      "t": 3007.54,
+      "text": "We would, provided we receive reliable rolling forecasts from your side."
+    },
+    {
+      "t": 3012.62,
+      "text": "We can provide three-month rolling forecasts updated monthly."
+    },
+    {
+      "t": 3016.22,
+      "text": "That should give you enough visibility."
+    },
+    {
+      "t": 3018.18,
+      "text": "Perfect."
+    },
+    {
+      "t": 3019.18,
+      "text": "That helps us plan production and logistics efficiently."
+    },
+    {
+      "t": 3022.66,
+      "text": "Another concern is quality compliance."
+    },
+    {
+      "t": 3024.74,
+      "text": "Any deviation impacts our operations significantly."
+    },
+    {
+      "t": 3028.46,
+      "text": "Quality is non-negotiable for us."
+    },
+    {
+      "t": 3030.74,
+      "text": "We propose joint audits twice a year and clear corrective actions in case issues"
+    },
+    {
+      "t": 3036.02,
+      "text": "arise."
+    },
+    {
+      "t": 3037.1,
+      "text": "That would provide the assurance we need."
+    },
+    {
+      "t": 3039.1,
+      "text": "Additionally, we can include KPIs for delivery, quality, responsiveness, and issue resolution."
+    },
+    {
+      "t": 3046.78,
+      "text": "Performance metrics would be reviewed monthly operationally and quarterly at management"
+    },
+    {
+      "t": 3051.5,
+      "text": "level."
+    },
+    {
+      "t": 3052.5,
+      "text": "That structured approach aligns with our expectations."
+    },
+    {
+      "t": 3055.5,
+      "text": "On top of that, we could discuss incentives for exceptional performance, priority handling,"
+    },
+    {
+      "t": 3061.18,
+      "text": "faster approvals, or commercial benefits."
+    },
+    {
+      "t": 3064.26,
+      "text": "That would motivate both teams to maintain high standards."
+    },
+    {
+      "t": 3067.46,
+      "text": "Beyond operations, we'd like to explore collaboration opportunities, such as joint process improvements"
+    },
+    {
+      "t": 3073.94,
+      "text": "or supply chain optimizations."
+    },
+    {
+      "t": 3076.54,
+      "text": "That's appealing, especially if it leads to measurable savings or efficiency gains."
+    },
+    {
+      "t": 3081.06,
+      "text": "We could set up periodic workshops to discuss innovations and improvements."
+    },
+    {
+      "t": 3085.82,
+      "text": "That would also strengthen the relationship between our teams."
+    },
+    {
+      "t": 3089.18,
+      "text": "Let's not forget risk management."
+    },
+    {
+      "t": 3091.66,
+      "text": "Volatility and unforeseen events can impact both parties."
+    },
+    {
+      "t": 3096.1,
+      "text": "How do you propose we mitigate these risks?"
+    },
+    {
+      "t": 3098.62,
+      "text": "Through clear contingency plans, predefined roles, communication protocols, and scenario"
+    },
+    {
+      "t": 3104.9,
+      "text": "planning, annual reviews would update the plan based on current conditions."
+    },
+    {
+      "t": 3109.98,
+      "text": "That level of preparedness would be appreciated by management."
+    },
+    {
+      "t": 3113.54,
+      "text": "Another operational topic is communication."
+    },
+    {
+      "t": 3116.58,
+      "text": "Misalignment often stems from poor information flow."
+    },
+    {
+      "t": 3120.26,
+      "text": "Agreed."
+    },
+    {
+      "t": 3121.26,
+      "text": "Frequently would you propose formal communications, monthly operational calls, quarterly management"
+    },
+    {
+      "t": 3127.22,
+      "text": "reviews, and ad hoc escalation for urgent matters?"
+    },
+    {
+      "t": 3131.26,
+      "text": "That cadence would work well for us."
+    },
+    {
+      "t": 3133.26,
+      "text": "Finally, we want to ensure clear transparency in all commercial and operational agreements"
+    },
+    {
+      "t": 3138.94,
+      "text": "to avoid misunderstandings."
+    },
+    {
+      "t": 3140.94,
+      "text": "Absolutely."
+    },
+    {
+      "t": 3142.18,
+      "text": "Clear documentation will be key to gaining internal approval."
+    },
+    {
+      "t": 3145.78,
+      "text": "Based on our discussion, we can summarize tiered pricing with volume incentives, phased payment"
+    },
+    {
+      "t": 3151.9,
+      "text": "terms moving from 60 to 90 days, buffer stock support, service level agreements with credits,"
+    },
+    {
+      "t": 3159.18,
+      "text": "joint quality audits, KPIs with review cycles, and collaborative improvement initiatives."
+    },
+    {
+      "t": 3165.88,
+      "text": "That summary accurately reflects our discussion."
+    },
+    {
+      "t": 3168.78,
+      "text": "Excellent."
+    },
+    {
+      "t": 3169.78,
+      "text": "Our next step is to draft a revised contract incorporating these points for your review."
+    },
+    {
+      "t": 3175.48,
+      "text": "Once we receive it, we'll circulate it internally for approval, aiming to finalize within two"
+    },
+    {
+      "t": 3180.24,
+      "text": "weeks."
+    },
+    {
+      "t": 3181.24,
+      "text": "That timeline works for us."
+    },
+    {
+      "t": 3183.12,
+      "text": "Thank you for the constructive and transparent approach."
+    },
+    {
+      "t": 3186.08,
+      "text": "Thank you as well."
+    },
+    {
+      "t": 3187.28,
+      "text": "We're optimistic about building a long-term, mutually beneficial partnership."
+    },
+    {
+      "t": 3191.6,
+      "text": "Agreed."
+    },
+    {
+      "t": 3192.6,
+      "text": "Let's move forward with the draft and take it to the next stage."
+    }
+  ],
+  "lemmas": [
+    [
+      "us",
+      49
+    ],
+    [
+      "day",
+      44
+    ],
+    [
+      "review",
+      40
+    ],
+    [
+      "cost",
+      39
+    ],
+    [
+      "term",
+      35
+    ],
+    [
+      "good",
+      34
+    ],
+    [
+      "volume",
+      32
+    ],
+    [
+      "pric",
+      31
+    ],
+    [
+      "level",
+      31
+    ],
+    [
+      "work",
+      29
+    ],
+    [
+      "payment",
+      28
+    ],
+    [
+      "thank",
+      27
+    ],
+    [
+      "need",
+      27
+    ],
+    [
+      "plan",
+      27
+    ],
+    [
+      "discount",
+      26
+    ],
+    [
+      "quality",
+      25
+    ],
+    [
+      "also",
+      25
+    ],
+    [
+      "discuss",
+      24
+    ],
+    [
+      "monthly",
+      24
+    ],
+    [
+      "price",
+      22
+    ],
+    [
+      "month",
+      21
+    ],
+    [
+      "forecast",
+      21
+    ],
+    [
+      "proposal",
+      20
+    ],
+    [
+      "internally",
+      20
+    ],
+    [
+      "contract",
+      20
+    ],
+    [
+      "still",
+      20
+    ],
+    [
+      "agreement",
+      20
+    ],
+    [
+      "performance",
+      20
+    ],
+    [
+      "service",
+      20
+    ],
+    [
+      "operational",
+      20
+    ],
+    [
+      "reduction",
+      19
+    ],
+    [
+      "discussion",
+      19
+    ],
+    [
+      "offer",
+      18
+    ],
+    [
+      "look",
+      18
+    ],
+    [
+      "clear",
+      18
+    ],
+    [
+      "another",
+      18
+    ],
+    [
+      "agre",
+      18
+    ],
+    [
+      "delivery",
+      18
+    ],
+    [
+      "year",
+      18
+    ],
+    [
+      "management",
+      18
+    ],
+    [
+      "concern",
+      17
+    ],
+    [
+      "bas",
+      17
+    ],
+    [
+      "point",
+      17
+    ],
+    [
+      "flexibility",
+      17
+    ],
+    [
+      "first",
+      17
+    ],
+    [
+      "team",
+      17
+    ],
+    [
+      "escalation",
+      17
+    ],
+    [
+      "meet",
+      16
+    ],
+    [
+      "case",
+      16
+    ],
+    [
+      "internal",
+      16
+    ],
+    [
+      "help",
+      16
+    ],
+    [
+      "propose",
+      16
+    ],
+    [
+      "approach",
+      16
+    ],
+    [
+      "credit",
+      15
+    ],
+    [
+      "incentiv",
+      15
+    ],
+    [
+      "risk",
+      15
+    ],
+    [
+      "appreciate",
+      14
+    ],
+    [
+      "long-term",
+      14
+    ],
+    [
+      "commitment",
+      14
+    ],
+    [
+      "improvement",
+      14
+    ],
+    [
+      "consider",
+      14
+    ],
+    [
+      "move",
+      14
+    ],
+    [
+      "approval",
+      14
+    ],
+    [
+      "time",
+      14
+    ],
+    [
+      "joint",
+      14
+    ],
+    [
+      "morn",
+      13
+    ],
+    [
+      "today",
+      13
+    ],
+    [
+      "unit",
+      13
+    ],
+    [
+      "see",
+      13
+    ],
+    [
+      "include",
+      13
+    ],
+    [
+      "quarterly",
+      13
+    ],
+    [
+      "understand",
+      13
+    ],
+    [
+      "market",
+      13
+    ],
+    [
+      "order",
+      13
+    ],
+    [
+      "critical",
+      12
+    ],
+    [
+      "agree",
+      12
+    ],
+    [
+      "align",
+      12
+    ],
+    [
+      "overall",
+      12
+    ],
+    [
+      "structure",
+      12
+    ],
+    [
+      "impact",
+      12
+    ],
+    [
+      "communication",
+      12
+    ],
+    [
+      "annual",
+      12
+    ],
+    [
+      "especially",
+      12
+    ],
+    [
+      "sid",
+      11
+    ],
+    [
+      "address",
+      11
+    ],
+    [
+      "supply",
+      11
+    ],
+    [
+      "reliability",
+      11
+    ],
+    [
+      "reduce",
+      11
+    ],
+    [
+      "provid",
+      11
+    ],
+    [
+      "target",
+      11
+    ],
+    [
+      "provide",
+      11
+    ],
+    [
+      "period",
+      11
+    ],
+    [
+      "important",
+      11
+    ],
+    [
+      "start",
+      11
+    ],
+    [
+      "absolutely",
+      11
+    ],
+    [
+      "cash",
+      11
+    ],
+    [
+      "mak",
+      10
+    ],
+    [
+      "mov",
+      10
+    ],
+    [
+      "forward",
+      10
+    ],
+    [
+      "wed",
+      10
+    ],
+    [
+      "standard",
+      10
+    ],
+    [
+      "increase",
+      10
+    ],
+    [
+      "demand",
+      10
+    ],
+    [
+      "one",
+      10
+    ],
+    [
+      "two",
+      10
+    ],
+    [
+      "disruption",
+      10
+    ],
+    [
+      "issu",
+      10
+    ],
+    [
+      "allow",
+      10
+    ],
+    [
+      "shar",
+      10
+    ],
+    [
+      "partnership",
+      10
+    ],
+    [
+      "remain",
+      10
+    ],
+    [
+      "strong",
+      10
+    ],
+    [
+      "flow",
+      10
+    ],
+    [
+      "priority",
+      10
+    ],
+    [
+      "audit",
+      10
+    ],
+    [
+      "area",
+      9
+    ],
+    [
+      "reflect",
+      9
+    ],
+    [
+      "value",
+      9
+    ],
+    [
+      "significant",
+      9
+    ],
+    [
+      "justify",
+      9
+    ],
+    [
+      "expectation",
+      9
+    ],
+    [
+      "acceptable",
+      9
+    ],
+    [
+      "delay",
+      9
+    ],
+    [
+      "revis",
+      9
+    ],
+    [
+      "often",
+      9
+    ],
+    [
+      "option",
+      9
+    ],
+    [
+      "make",
+      9
+    ],
+    [
+      "volum",
+      9
+    ],
+    [
+      "stock",
+      9
+    ],
+    [
+      "peak",
+      9
+    ],
+    [
+      "logistic",
+      9
+    ],
+    [
+      "ideally",
+      8
+    ],
+    [
+      "longer",
+      8
+    ],
+    [
+      "suggest",
+      8
+    ],
+    [
+      "reasonable",
+      8
+    ],
+    [
+      "roll",
+      8
+    ],
+    [
+      "weve",
+      8
+    ],
+    [
+      "commit",
+      8
+    ],
+    [
+      "easier",
+      8
+    ],
+    [
+      "maintain",
+      8
+    ],
+    [
+      "example",
+      8
+    ],
+    [
+      "receive",
+      8
+    ],
+    [
+      "kpis",
+      8
+    ],
+    [
+      "commercial",
+      8
+    ],
+    [
+      "process",
+      8
+    ],
+    [
+      "rather",
+      8
+    ],
+    [
+      "cap",
+      8
+    ],
+    [
+      "interest",
+      7
+    ],
+    [
+      "several",
+      7
+    ],
+    [
+      "feel",
+      7
+    ],
+    [
+      "reach",
+      7
+    ],
+    [
+      "currently",
+      7
+    ],
+    [
+      "however",
+      7
+    ],
+    [
+      "open",
+      7
+    ],
+    [
+      "increas",
+      7
+    ],
+    [
+      "adjustment",
+      7
+    ],
+    [
+      "production",
+      7
+    ],
+    [
+      "one-year",
+      7
+    ],
+    [
+      "advance",
+      7
+    ],
+    [
+      "key",
+      7
+    ],
+    [
+      "past",
+      7
+    ],
+    [
+      "side",
+      7
+    ],
+    [
+      "explore",
+      7
+    ],
+    [
+      "base",
+      7
+    ],
+    [
+      "additional",
+      7
+    ],
+    [
+      "stronger",
+      7
+    ],
+    [
+      "early",
+      7
+    ],
+    [
+      "buffer",
+      7
+    ],
+    [
+      "visibility",
+      7
+    ],
+    [
+      "structur",
+      7
+    ],
+    [
+      "benefit",
+      7
+    ],
+    [
+      "saving",
+      7
+    ],
+    [
+      "topic",
+      7
+    ],
+    [
+      "support",
+      7
+    ],
+    [
+      "within",
+      7
+    ],
+    [
+      "week",
+      7
+    ],
+    [
+      "exactly",
+      7
+    ],
+    [
+      "lead",
+      7
+    ],
+    [
+      "perfect",
+      6
+    ],
+    [
+      "higher",
+      6
+    ],
+    [
+      "supplier",
+      6
+    ],
+    [
+      "number",
+      6
+    ],
+    [
+      "duration",
+      6
+    ],
+    [
+      "rate",
+      6
+    ],
+    [
+      "talk",
+      6
+    ],
+    [
+      "condition",
+      6
+    ],
+    [
+      "even",
+      6
+    ],
+    [
+      "extend",
+      6
+    ],
+    [
+      "avoid",
+      6
+    ],
+    [
+      "everyth",
+      6
+    ],
+    [
+      "ensure",
+      6
+    ],
+    [
+      "on-time",
+      6
+    ],
+    [
+      "draft",
+      6
+    ],
+    [
+      "share",
+      6
+    ],
+    [
+      "constructive",
+      6
+    ],
+    [
+      "transparent",
+      6
+    ],
+    [
+      "certainly",
+      6
+    ],
+    [
+      "stability",
+      6
+    ],
+    [
+      "claus",
+      6
+    ],
+    [
+      "appreciat",
+      6
+    ],
+    [
+      "carry",
+      6
+    ],
+    [
+      "corrective",
+      6
+    ],
+    [
+      "action",
+      6
+    ],
+    [
+      "issue",
+      6
+    ],
+    [
+      "volatility",
+      6
+    ],
+    [
+      "relationship",
+      6
+    ],
+    [
+      "perhap",
+      6
+    ],
+    [
+      "feedback",
+      6
+    ],
+    [
+      "fix",
+      6
+    ],
+    [
+      "expect",
+      6
+    ],
+    [
+      "sense",
+      6
+    ],
+    [
+      "model",
+      6
+    ],
+    [
+      "compar",
+      6
+    ],
+    [
+      "please",
+      5
+    ],
+    [
+      "believe",
+      5
+    ],
+    [
+      "possible",
+      5
+    ],
+    [
+      "depend",
+      5
+    ],
+    [
+      "clarity",
+      5
+    ],
+    [
+      "kind",
+      5
+    ],
+    [
+      "minimum",
+      5
+    ],
+    [
+      "current",
+      5
+    ],
+    [
+      "long",
+      5
+    ],
+    [
+      "without",
+      5
+    ],
+    [
+      "inventory",
+      5
+    ],
+    [
+      "beyond",
+      5
+    ],
+    [
+      "beneficial",
+      5
+    ],
+    [
+      "hear",
+      5
+    ],
+    [
+      "give",
+      5
+    ],
+    [
+      "confidence",
+      5
+    ],
+    [
+      "whether",
+      5
+    ],
+    [
+      "excellent",
+      5
+    ],
+    [
+      "much",
+      5
+    ],
+    [
+      "aim",
+      5
+    ],
+    [
+      "finance",
+      5
+    ],
+    [
+      "reduc",
+      5
+    ],
+    [
+      "metric",
+      5
+    ],
+    [
+      "prefer",
+      5
+    ],
+    [
+      "six",
+      5
+    ],
+    [
+      "caus",
+      5
+    ],
+    [
+      "defin",
+      5
+    ],
+    [
+      "updat",
+      5
+    ],
+    [
+      "operation",
+      5
+    ],
+    [
+      "resolution",
+      5
+    ],
+    [
+      "faster",
+      5
+    ],
+    [
+      "collaboration",
+      5
+    ],
+    [
+      "measurable",
+      5
+    ],
+    [
+      "next",
+      5
+    ],
+    [
+      "finalize",
+      5
+    ],
+    [
+      "build",
+      5
+    ],
+    [
+      "strategic",
+      5
+    ],
+    [
+      "deliveri",
+      5
+    ],
+    [
+      "initially",
+      5
+    ],
+    [
+      "ask",
+      5
+    ],
+    [
+      "understood",
+      5
+    ],
+    [
+      "com",
+      5
+    ],
+    [
+      "giv",
+      5
+    ],
+    [
+      "two-year",
+      5
+    ],
+    [
+      "practice",
+      4
+    ],
+    [
+      "detail",
+      4
+    ],
+    [
+      "decision",
+      4
+    ],
+    [
+      "begin",
+      4
+    ],
+    [
+      "direct",
+      4
+    ],
+    [
+      "gap",
+      4
+    ],
+    [
+      "competitive",
+      4
+    ],
+    [
+      "around",
+      4
+    ],
+    [
+      "improve",
+      4
+    ],
+    [
+      "raw",
+      4
+    ],
+    [
+      "material",
+      4
+    ],
+    [
+      "due",
+      4
+    ],
+    [
+      "adjust",
+      4
+    ],
+    [
+      "initial",
+      4
+    ],
+    [
+      "want",
+      4
+    ],
+    [
+      "clause",
+      4
+    ],
+    [
+      "penalti",
+      4
+    ],
+    [
+      "helpful",
+      4
+    ],
+    [
+      "far",
+      4
+    ],
+    [
+      "glad",
+      4
+    ],
+    [
+      "range",
+      4
+    ],
+    [
+      "able",
+      4
+    ],
+    [
+      "mutually",
+      4
+    ],
+    [
+      "negotiation",
+      4
+    ],
+    [
+      "stage",
+      4
+    ],
+    [
+      "flexible",
+      4
+    ],
+    [
+      "efficiency",
+      4
+    ],
+    [
+      "tied",
+      4
+    ],
+    [
+      "tier",
+      4
+    ],
+    [
+      "exit",
+      4
+    ],
+    [
+      "termination",
+      4
+    ],
+    [
+      "link",
+      4
+    ],
+    [
+      "chang",
+      4
+    ],
+    [
+      "stag",
+      4
+    ],
+    [
+      "gain",
+      4
+    ],
+    [
+      "repeat",
+      4
+    ],
+    [
+      "additionally",
+      4
+    ],
+    [
+      "compliance",
+      4
+    ],
+    [
+      "deviation",
+      4
+    ],
+    [
+      "twice",
+      4
+    ],
+    [
+      "responsiveness",
+      4
+    ],
+    [
+      "handl",
+      4
+    ],
+    [
+      "creat",
+      4
+    ],
+    [
+      "workshop",
+      4
+    ],
+    [
+      "contingency",
+      4
+    ],
+    [
+      "poor",
+      4
+    ],
+    [
+      "frequently",
+      4
+    ],
+    [
+      "call",
+      4
+    ],
+    [
+      "ad",
+      4
+    ],
+    [
+      "transparency",
+      4
+    ],
+    [
+      "misunderstanding",
+      4
+    ],
+    [
+      "collaborative",
+      4
+    ],
+    [
+      "accurately",
+      4
+    ],
+    [
+      "perspective",
+      4
+    ],
+    [
+      "certainty",
+      4
+    ],
+    [
+      "budget",
+      4
+    ],
+    [
+      "reassur",
+      4
+    ],
+    [
+      "major",
+      4
+    ],
+    [
+      "touch",
+      4
+    ],
+    [
+      "fair",
+      4
+    ],
+    [
+      "immediate",
+      4
+    ],
+    [
+      "likewise",
+      4
+    ],
+    [
+      "afternoon",
+      4
+    ],
+    [
+      "closer",
+      4
+    ],
+    [
+      "capacity",
+      4
+    ],
+    [
+      "significantly",
+      4
+    ],
+    [
+      "growth",
+      4
+    ],
+    [
+      "senior",
+      4
+    ],
+    [
+      "three",
+      4
+    ],
+    [
+      "accountability",
+      4
+    ],
+    [
+      "governance",
+      4
+    ],
+    [
+      "account",
+      4
+    ],
+    [
+      "phas",
+      4
+    ],
+    [
+      "rebate",
+      4
+    ],
+    [
+      "speak",
+      3
+    ],
+    [
+      "opportunity",
+      3
+    ],
+    [
+      "final",
+      3
+    ],
+    [
+      "completely",
+      3
+    ],
+    [
+      "understandable",
+      3
+    ],
+    [
+      "objective",
+      3
+    ],
+    [
+      "product",
+      3
+    ],
+    [
+      "position",
+      3
+    ],
+    [
+      "mechanism",
+      3
+    ],
+    [
+      "manage",
+      3
+    ],
+    [
+      "policy",
+      3
+    ],
+    [
+      "extremely",
+      3
+    ],
+    [
+      "apply",
+      3
+    ],
+    [
+      "seem",
+      3
+    ],
+    [
+      "manageable",
+      3
+    ],
+    [
+      "confirm",
+      3
+    ],
+    [
+      "achievable",
+      3
+    ],
+    [
+      "summary",
+      3
+    ],
+    [
+      "great",
+      3
+    ],
+    [
+      "approv",
+      3
+    ],
+    [
+      "confident",
+      3
+    ],
+    [
+      "together",
+      3
+    ],
+    [
+      "toward",
+      3
+    ],
+    [
+      "require",
+      3
+    ],
+    [
+      "go",
+      3
+    ],
+    [
+      "comfortable",
+      3
+    ],
+    [
+      "hidden",
+      3
+    ],
+    [
+      "exceed",
+      3
+    ],
+    [
+      "challenge",
+      3
+    ],
+    [
+      "lever",
+      3
+    ],
+    [
+      "predictability",
+      3
+    ],
+    [
+      "underperformance",
+      3
+    ],
+    [
+      "satisfy",
+      3
+    ],
+    [
+      "correct",
+      3
+    ],
+    [
+      "take",
+      3
+    ],
+    [
+      "worth",
+      3
+    ],
+    [
+      "procedur",
+      3
+    ],
+    [
+      "failur",
+      3
+    ],
+    [
+      "prevent",
+      3
+    ],
+    [
+      "three-month",
+      3
+    ],
+    [
+      "arise",
+      3
+    ],
+    [
+      "high",
+      3
+    ],
+    [
+      "optimization",
+      3
+    ],
+    [
+      "initiativ",
+      3
+    ],
+    [
+      "appeal",
+      3
+    ],
+    [
+      "particularly",
+      3
+    ],
+    [
+      "strengthen",
+      3
+    ],
+    [
+      "event",
+      3
+    ],
+    [
+      "mitigate",
+      3
+    ],
+    [
+      "outlin",
+      3
+    ],
+    [
+      "protocol",
+      3
+    ],
+    [
+      "leadership",
+      3
+    ],
+    [
+      "misalignment",
+      3
+    ],
+    [
+      "urgent",
+      3
+    ],
+    [
+      "matter",
+      3
+    ],
+    [
+      "documentation",
+      3
+    ],
+    [
+      "regular",
+      3
+    ],
+    [
+      "step",
+      3
+    ],
+    [
+      "focus",
+      3
+    ],
+    [
+      "short-term",
+      3
+    ],
+    [
+      "course",
+      3
+    ],
+    [
+      "main",
+      3
+    ],
+    [
+      "change",
+      3
+    ],
+    [
+      "end",
+      3
+    ],
+    [
+      "efficiently",
+      3
+    ],
+    [
+      "onboard",
+      3
+    ],
+    [
+      "set",
+      3
+    ],
+    [
+      "window",
+      3
+    ],
+    [
+      "know",
+      3
+    ],
+    [
+      "potentially",
+      3
+    ],
+    [
+      "cover",
+      3
+    ],
+    [
+      "goal",
+      3
+    ],
+    [
+      "big",
+      3
+    ],
+    [
+      "situation",
+      3
+    ],
+    [
+      "cadence",
+      3
+    ],
+    [
+      "balanc",
+      3
+    ],
+    [
+      "potential",
+      3
+    ],
+    [
+      "revisit",
+      3
+    ],
+    [
+      "total",
+      3
+    ],
+    [
+      "encourag",
+      3
+    ],
+    [
+      "expedit",
+      3
+    ],
+    [
+      "sound",
+      3
+    ],
+    [
+      "assum",
+      3
+    ],
+    [
+      "four",
+      3
+    ],
+    [
+      "mention",
+      3
+    ],
+    [
+      "transactional",
+      3
+    ],
+    [
+      "arrangement",
+      3
+    ],
+    [
+      "schedule",
+      3
+    ],
+    [
+      "quite",
+      3
+    ],
+    [
+      "ambitious",
+      3
+    ],
+    [
+      "idea",
+      3
+    ],
+    [
+      "safeguard",
+      3
+    ],
+    [
+      "compensation",
+      3
+    ],
+    [
+      "invoic",
+      3
+    ],
+    [
+      "non-negotiable",
+      3
+    ],
+    [
+      "manager",
+      3
+    ],
+    [
+      "negotiate",
+      2
+    ],
+    [
+      "free",
+      2
+    ],
+    [
+      "notice",
+      2
+    ],
+    [
+      "alway",
+      2
+    ],
+    [
+      "consistency",
+      2
+    ],
+    [
+      "add",
+      2
+    ],
+    [
+      "acknowledge",
+      2
+    ],
+    [
+      "comparison",
+      2
+    ],
+    [
+      "moment",
+      2
+    ],
+    [
+      "difference",
+      2
+    ],
+    [
+      "quotation",
+      2
+    ],
+    [
+      "becom",
+      2
+    ],
+    [
+      "challeng",
+      2
+    ],
+    [
+      "room",
+      2
+    ],
+    [
+      "six-month",
+      2
+    ],
+    [
+      "achieve",
+      2
+    ],
+    [
+      "efficienci",
+      2
+    ],
+    [
+      "evaluation",
+      2
+    ],
+    [
+      "percent",
+      2
+    ],
+    [
+      "difficult",
+      2
+    ],
+    [
+      "risk-shar",
+      2
+    ],
+    [
+      "primarily",
+      2
+    ],
+    [
+      "indicative",
+      2
+    ],
+    [
+      "accuracy",
+      2
+    ],
+    [
+      "fluctuation",
+      2
+    ],
+    [
+      "confirmation",
+      2
+    ],
+    [
+      "part",
+      2
+    ],
+    [
+      "threshold",
+      2
+    ],
+    [
+      "unpredictable",
+      2
+    ],
+    [
+      "plus",
+      2
+    ],
+    [
+      "minus",
+      2
+    ],
+    [
+      "recap",
+      2
+    ],
+    [
+      "prepare",
+      2
+    ],
+    [
+      "incorporat",
+      2
+    ],
+    [
+      "document",
+      2
+    ],
+    [
+      "send",
+      2
+    ],
+    [
+      "successful",
+      2
+    ],
+    [
+      "clarification",
+      2
+    ],
+    [
+      "alignment",
+      2
+    ],
+    [
+      "roughly",
+      2
+    ],
+    [
+      "instance",
+      2
+    ],
+    [
+      "appli",
+      2
+    ],
+    [
+      "phase",
+      2
+    ],
+    [
+      "three-year",
+      2
+    ],
+    [
+      "framework",
+      2
+    ],
+    [
+      "essential",
+      2
+    ],
+    [
+      "small",
+      2
+    ],
+    [
+      "consistent",
+      2
+    ],
+    [
+      "execution",
+      2
+    ],
+    [
+      "item",
+      2
+    ],
+    [
+      "effectively",
+      2
+    ],
+    [
+      "directly",
+      2
+    ],
+    [
+      "compromise",
+      2
+    ],
+    [
+      "assurance",
+      2
+    ],
+    [
+      "exceptional",
+      2
+    ],
+    [
+      "chain",
+      2
+    ],
+    [
+      "periodic",
+      2
+    ],
+    [
+      "identify",
+      2
+    ],
+    [
+      "relation",
+      2
+    ],
+    [
+      "unforeseen",
+      2
+    ],
+    [
+      "responsibiliti",
+      2
+    ],
+    [
+      "update",
+      2
+    ],
+    [
+      "evolv",
+      2
+    ],
+    [
+      "preparation",
+      2
+    ],
+    [
+      "information",
+      2
+    ],
+    [
+      "formal",
+      2
+    ],
+    [
+      "hoc",
+      2
+    ],
+    [
+      "finally",
+      2
+    ],
+    [
+      "summarize",
+      2
+    ],
+    [
+      "cycl",
+      2
+    ],
+    [
+      "captur",
+      2
+    ],
+    [
+      "timeline",
+      2
+    ],
+    [
+      "financial",
+      2
+    ],
+    [
+      "receiv",
+      2
+    ],
+    [
+      "headline",
+      2
+    ],
+    [
+      "band",
+      2
+    ],
+    [
+      "clearer",
+      2
+    ],
+    [
+      "estimat",
+      2
+    ],
+    [
+      "useful",
+      2
+    ],
+    [
+      "lock",
+      2
+    ],
+    [
+      "invest",
+      2
+    ],
+    [
+      "later",
+      2
+    ],
+    [
+      "real-time",
+      2
+    ],
+    [
+      "define",
+      2
+    ],
+    [
+      "timelin",
+      2
+    ],
+    [
+      "sensitive",
+      2
+    ],
+    [
+      "already",
+      2
+    ],
+    [
+      "extension",
+      2
+    ],
+    [
+      "spend",
+      2
+    ],
+    [
+      "return",
+      2
+    ],
+    [
+      "assessment",
+      2
+    ],
+    [
+      "least",
+      2
+    ],
+    [
+      "consistently",
+      2
+    ],
+    [
+      "valuable",
+      2
+    ],
+    [
+      "rais",
+      2
+    ],
+    [
+      "unexpect",
+      2
+    ],
+    [
+      "scenario",
+      2
+    ],
+    [
+      "question",
+      2
+    ],
+    [
+      "productive",
+      2
+    ],
+    [
+      "join",
+      2
+    ],
+    [
+      "hope",
+      2
+    ],
+    [
+      "outstand",
+      2
+    ],
+    [
+      "prepar",
+      2
+    ],
+    [
+      "limit",
+      2
+    ],
+    [
+      "element",
+      2
+    ],
+    [
+      "cas",
+      2
+    ],
+    [
+      "tim",
+      2
+    ],
+    [
+      "elaborate",
+      2
+    ],
+    [
+      "operate",
+      2
+    ],
+    [
+      "partner",
+      2
+    ],
+    [
+      "variability",
+      2
+    ],
+    [
+      "show",
+      2
+    ],
+    [
+      "improv",
+      2
+    ],
+    [
+      "back",
+      2
+    ],
+    [
+      "slightly",
+      2
+    ],
+    [
+      "combination",
+      2
+    ],
+    [
+      "clearly",
+      2
+    ],
+    [
+      "tolerance",
+      2
+    ],
+    [
+      "accommodate",
+      2
+    ],
+    [
+      "season",
+      2
+    ],
+    [
+      "subject",
+      2
+    ],
+    [
+      "come",
+      2
+    ],
+    [
+      "extra",
+      2
+    ],
+    [
+      "promotion",
+      2
+    ],
+    [
+      "campaign",
+      2
+    ],
+    [
+      "accordingly",
+      2
+    ],
+    [
+      "pressure",
+      2
+    ],
+    [
+      "previously",
+      2
+    ],
+    [
+      "stretch",
+      2
+    ],
+    [
+      "alternativ",
+      2
+    ],
+    [
+      "specific",
+      2
+    ],
+    [
+      "timely",
+      2
+    ],
+    [
+      "indic",
+      2
+    ],
+    [
+      "introduce",
+      2
+    ],
+    [
+      "view",
+      2
+    ],
+    [
+      "positively",
+      2
+    ],
+    [
+      "openly",
+      2
+    ],
+    [
+      "procurement",
+      2
+    ],
+    [
+      "recognize",
+      2
+    ],
+    [
+      "common",
+      2
+    ],
+    [
+      "way",
+      2
+    ],
+    [
+      "clarify",
+      2
+    ],
+    [
+      "assumption",
+      2
+    ],
+    [
+      "grow",
+      2
+    ],
+    [
+      "business",
+      2
+    ],
+    [
+      "afterward",
+      2
+    ],
+    [
+      "propos",
+      2
+    ],
+    [
+      "reliable",
+      2
+    ],
+    [
+      "promote",
+      2
+    ],
+    [
+      "trust",
+      2
+    ],
+    [
+      "innovation",
+      2
+    ],
+    [
+      "collaborate",
+      2
+    ],
+    [
+      "opportuniti",
+      2
+    ],
+    [
+      "path",
+      2
+    ],
+    [
+      "meeting",
+      2
+    ],
+    [
+      "assign",
+      2
+    ],
+    [
+      "dedicat",
+      2
+    ],
+    [
+      "definitely",
+      2
+    ],
+    [
+      "average",
+      2
+    ],
+    [
+      "stable",
+      2
+    ],
+    [
+      "short",
+      2
+    ],
+    [
+      "predictable",
+      2
+    ],
+    [
+      "equivalent",
+      2
+    ],
+    [
+      "firm",
+      2
+    ],
+    [
+      "fall",
+      2
+    ],
+    [
+      "safety",
+      2
+    ],
+    [
+      "optimistic",
+      2
+    ],
+    [
+      "shift",
+      2
+    ],
+    [
+      "think",
+      2
+    ],
+    [
+      "settl",
+      2
+    ],
+    [
+      "effective",
+      2
+    ],
+    [
+      "predefin",
+      2
+    ],
+    [
+      "listen",
+      1
+    ],
+    [
+      "host",
+      1
+    ],
+    [
+      "raise",
+      1
+    ],
+    [
+      "solution",
+      1
+    ],
+    [
+      "pay",
+      1
+    ],
+    [
+      "exist",
+      1
+    ],
+    [
+      "factor",
+      1
+    ],
+    [
+      "aspect",
+      1
+    ],
+    [
+      "largely",
+      1
+    ],
+    [
+      "approximately",
+      1
+    ],
+    [
+      "revision",
+      1
+    ],
+    [
+      "per",
+      1
+    ],
+    [
+      "switch",
+      1
+    ],
+    [
+      "benchmark",
+      1
+    ],
+    [
+      "eight",
+      1
+    ],
+    [
+      "half",
+      1
+    ],
+    [
+      "honest",
+      1
+    ],
+    [
+      "place",
+      1
+    ],
+    [
+      "refer",
+      1
+    ],
+    [
+      "guarante",
+      1
+    ],
+    [
+      "non-bind",
+      1
+    ],
+    [
+      "purpos",
+      1
+    ],
+    [
+      "alright",
+      1
+    ],
+    [
+      "usual",
+      1
+    ],
+    [
+      "financ",
+      1
+    ],
+    [
+      "complex",
+      1
+    ],
+    [
+      "possibly",
+      1
+    ],
+    [
+      "time-bound",
+      1
+    ],
+    [
+      "fully",
+      1
+    ],
+    [
+      "principle",
+      1
+    ],
+    [
+      "fac",
+      1
+    ],
+    [
+      "penalty",
+      1
+    ],
+    [
+      "advanc",
+      1
+    ],
+    [
+      "viable",
+      1
+    ],
+    [
+      "accurate",
+      1
+    ],
+    [
+      "soon",
+      1
+    ],
+    [
+      "proce",
+      1
+    ],
+    [
+      "tomorrow",
+      1
+    ],
+    [
+      "professional",
+      1
+    ],
+    [
+      "finaliz",
+      1
+    ],
+    [
+      "perfectly",
+      1
+    ],
+    [
+      "outcome",
+      1
+    ],
+    [
+      "systematically",
+      1
+    ],
+    [
+      "say",
+      1
+    ],
+    [
+      "first-year",
+      1
+    ],
+    [
+      "combin",
+      1
+    ],
+    [
+      "moderate",
+      1
+    ],
+    [
+      "upfront",
+      1
+    ],
+    [
+      "multi-year",
+      1
+    ],
+    [
+      "immediately",
+      1
+    ],
+    [
+      "specifi",
+      1
+    ],
+    [
+      "uncertain",
+      1
+    ],
+    [
+      "actual",
+      1
+    ],
+    [
+      "achiev",
+      1
+    ],
+    [
+      "incremental",
+      1
+    ],
+    [
+      "workable",
+      1
+    ],
+    [
+      "use",
+      1
+    ],
+    [
+      "favorable",
+      1
+    ],
+    [
+      "feasible",
+      1
+    ],
+    [
+      "environment",
+      1
+    ],
+    [
+      "demonstrat",
+      1
+    ],
+    [
+      "advantage",
+      1
+    ],
+    [
+      "permit",
+      1
+    ],
+    [
+      "sufficient",
+      1
+    ],
+    [
+      "unacceptable",
+      1
+    ],
+    [
+      "requir",
+      1
+    ],
+    [
+      "addition",
+      1
+    ],
+    [
+      "establish",
+      1
+    ],
+    [
+      "motivation",
+      1
+    ],
+    [
+      "result",
+      1
+    ],
+    [
+      "used",
+      1
+    ],
+    [
+      "implement",
+      1
+    ],
+    [
+      "front",
+      1
+    ],
+    [
+      "decision-mak",
+      1
+    ],
+    [
+      "authority",
+      1
+    ],
+    [
+      "aris",
+      1
+    ],
+    [
+      "tear",
+      1
+    ],
+    [
+      "transition",
+      1
+    ],
+    [
+      "progress",
+      1
+    ],
+    [
+      "intention",
+      1
+    ],
+    [
+      "balance",
+      1
+    ],
+    [
+      "discipline",
+      1
+    ],
+    [
+      "stakeholder",
+      1
+    ],
+    [
+      "relate",
+      1
+    ],
+    [
+      "exposure",
+      1
+    ],
+    [
+      "someth",
+      1
+    ],
+    [
+      "dramatically",
+      1
+    ],
+    [
+      "surpris",
+      1
+    ],
+    [
+      "away",
+      1
+    ],
+    [
+      "variable",
+      1
+    ],
+    [
+      "exchange",
+      1
+    ],
+    [
+      "broken",
+      1
+    ],
+    [
+      "rang",
+      1
+    ],
+    [
+      "exact",
+      1
+    ],
+    [
+      "resistance",
+      1
+    ],
+    [
+      "tone",
+      1
+    ],
+    [
+      "mileston",
+      1
+    ],
+    [
+      "involve",
+      1
+    ],
+    [
+      "relat",
+      1
+    ],
+    [
+      "project",
+      1
+    ],
+    [
+      "weekly",
+      1
+    ],
+    [
+      "check-in",
+      1
+    ],
+    [
+      "success",
+      1
+    ],
+    [
+      "criteria",
+      1
+    ],
+    [
+      "attention",
+      1
+    ],
+    [
+      "find",
+      1
+    ],
+    [
+      "experience",
+      1
+    ],
+    [
+      "late",
+      1
+    ],
+    [
+      "track",
+      1
+    ],
+    [
+      "respond",
+      1
+    ],
+    [
+      "temporary",
+      1
+    ],
+    [
+      "prior",
+      1
+    ],
+    [
+      "prompt",
+      1
+    ],
+    [
+      "measurement",
+      1
+    ],
+    [
+      "stay",
+      1
+    ],
+    [
+      "measur",
+      1
+    ],
+    [
+      "informal",
+      1
+    ],
+    [
+      "punishment",
+      1
+    ],
+    [
+      "mindset",
+      1
+    ],
+    [
+      "simplify",
+      1
+    ],
+    [
+      "layer",
+      1
+    ],
+    [
+      "create",
+      1
+    ],
+    [
+      "advantag",
+      1
+    ],
+    [
+      "handle",
+      1
+    ],
+    [
+      "shortag",
+      1
+    ],
+    [
+      "transportation",
+      1
+    ],
+    [
+      "confusion",
+      1
+    ],
+    [
+      "conduct",
+      1
+    ],
+    [
+      "keep",
+      1
+    ],
+    [
+      "briefly",
+      1
+    ],
+    [
+      "style",
+      1
+    ],
+    [
+      "frequency",
+      1
+    ],
+    [
+      "access",
+      1
+    ],
+    [
+      "maker",
+      1
+    ],
+    [
+      "time-sensitive",
+      1
+    ],
+    [
+      "youve",
+      1
+    ],
+    [
+      "translat",
+      1
+    ],
+    [
+      "carefully",
+      1
+    ],
+    [
+      "dialogue",
+      1
+    ],
+    [
+      "succe",
+      1
+    ],
+    [
+      "round",
+      1
+    ],
+    [
+      "close",
+      1
+    ],
+    [
+      "arrang",
+      1
+    ],
+    [
+      "session",
+      1
+    ],
+    [
+      "keen",
+      1
+    ],
+    [
+      "resolve",
+      1
+    ],
+    [
+      "committee",
+      1
+    ],
+    [
+      "certain",
+      1
+    ],
+    [
+      "risk-relat",
+      1
+    ],
+    [
+      "closely",
+      1
+    ],
+    [
+      "ownership",
+      1
+    ],
+    [
+      "many",
+      1
+    ],
+    [
+      "indirect",
+      1
+    ],
+    [
+      "bigger",
+      1
+    ],
+    [
+      "inefficienci",
+      1
+    ],
+    [
+      "rework",
+      1
+    ],
+    [
+      "inconsistent",
+      1
+    ],
+    [
+      "strength",
+      1
+    ],
+    [
+      "standardiz",
+      1
+    ],
+    [
+      "tangible",
+      1
+    ],
+    [
+      "hold",
+      1
+    ],
+    [
+      "specifically",
+      1
+    ],
+    [
+      "instead",
+      1
+    ],
+    [
+      "solely",
+      1
+    ],
+    [
+      "mean",
+      1
+    ],
+    [
+      "technical",
+      1
+    ],
+    [
+      "assistance",
+      1
+    ],
+    [
+      "offset",
+      1
+    ],
+    [
+      "list",
+      1
+    ],
+    [
+      "drop",
+      1
+    ],
+    [
+      "quantifi",
+      1
+    ],
+    [
+      "contractually",
+      1
+    ],
+    [
+      "auditable",
+      1
+    ],
+    [
+      "true",
+      1
+    ],
+    [
+      "sometim",
+      1
+    ],
+    [
+      "turnaround",
+      1
+    ],
+    [
+      "charge",
+      1
+    ],
+    [
+      "anticipate",
+      1
+    ],
+    [
+      "typically",
+      1
+    ],
+    [
+      "run",
+      1
+    ],
+    [
+      "allocate",
+      1
+    ],
+    [
+      "last-minute",
+      1
+    ],
+    [
+      "promotional",
+      1
+    ],
+    [
+      "calendar",
+      1
+    ],
+    [
+      "dispute",
+      1
+    ],
+    [
+      "unnecessarily",
+      1
+    ],
+    [
+      "manag",
+      1
+    ],
+    [
+      "unpredictability",
+      1
+    ],
+    [
+      "sudden",
+      1
+    ],
+    [
+      "movement",
+      1
+    ],
+    [
+      "smooth",
+      1
+    ],
+    [
+      "similarly",
+      1
+    ],
+    [
+      "downward",
+      1
+    ],
+    [
+      "subjective",
+      1
+    ],
+    [
+      "miss",
+      1
+    ],
+    [
+      "preferential",
+      1
+    ],
+    [
+      "dynamic",
+      1
+    ],
+    [
+      "note",
+      1
+    ],
+    [
+      "basic",
+      1
+    ],
+    [
+      "jointly",
+      1
+    ],
+    [
+      "vision",
+      1
+    ],
+    [
+      "organize",
+      1
+    ],
+    [
+      "strategy",
+      1
+    ],
+    [
+      "involv",
+      1
+    ],
+    [
+      "prioriti",
+      1
+    ],
+    [
+      "blocker",
+      1
+    ],
+    [
+      "busy",
+      1
+    ],
+    [
+      "tak",
+      1
+    ],
+    [
+      "person",
+      1
+    ],
+    [
+      "invit",
+      1
+    ],
+    [
+      "company",
+      1
+    ],
+    [
+      "comprehensive",
+      1
+    ],
+    [
+      "well-thought-out",
+      1
+    ],
+    [
+      "alternative",
+      1
+    ],
+    [
+      "honesty",
+      1
+    ],
+    [
+      "competitiveness",
+      1
+    ],
+    [
+      "bring",
+      1
+    ],
+    [
+      "tend",
+      1
+    ],
+    [
+      "heavily",
+      1
+    ],
+    [
+      "qualitative",
+      1
+    ],
+    [
+      "frame",
+      1
+    ],
+    [
+      "highlight",
+      1
+    ],
+    [
+      "biggest",
+      1
+    ],
+    [
+      "trade-off",
+      1
+    ],
+    [
+      "conservative",
+      1
+    ],
+    [
+      "unlock",
+      1
+    ],
+    [
+      "meaningful",
+      1
+    ],
+    [
+      "realistic",
+      1
+    ],
+    [
+      "possibility",
+      1
+    ],
+    [
+      "scale",
+      1
+    ],
+    [
+      "incentive",
+      1
+    ],
+    [
+      "unrealistic",
+      1
+    ],
+    [
+      "concession",
+      1
+    ],
+    [
+      "mind",
+      1
+    ],
+    [
+      "system",
+      1
+    ],
+    [
+      "easy",
+      1
+    ],
+    [
+      "elsewhere",
+      1
+    ],
+    [
+      "hybrid",
+      1
+    ],
+    [
+      "paid",
+      1
+    ],
+    [
+      "earlier",
+      1
+    ],
+    [
+      "serious",
+      1
+    ],
+    [
+      "seriously",
+      1
+    ],
+    [
+      "in-fall",
+      1
+    ],
+    [
+      "brand",
+      1
+    ],
+    [
+      "along",
+      1
+    ],
+    [
+      "report",
+      1
+    ],
+    [
+      "appropriate",
+      1
+    ],
+    [
+      "continuous",
+      1
+    ],
+    [
+      "outcom",
+      1
+    ],
+    [
+      "single",
+      1
+    ],
+    [
+      "contact",
+      1
+    ],
+    [
+      "direction",
+      1
+    ],
+    [
+      "purpose",
+      1
+    ],
+    [
+      "fine",
+      1
+    ],
+    [
+      "positiv",
+      1
+    ],
+    [
+      "walk",
+      1
+    ],
+    [
+      "gradual",
+      1
+    ],
+    [
+      "normalization",
+      1
+    ],
+    [
+      "second",
+      1
+    ],
+    [
+      "preference",
+      1
+    ],
+    [
+      "one-time",
+      1
+    ],
+    [
+      "purchas",
+      1
+    ],
+    [
+      "ongo",
+      1
+    ],
+    [
+      "parallel",
+      1
+    ],
+    [
+      "greater",
+      1
+    ],
+    [
+      "partial",
+      1
+    ],
+    [
+      "accept",
+      1
+    ],
+    [
+      "affect",
+      1
+    ],
+    [
+      "happen",
+      1
+    ],
+    [
+      "outside",
+      1
+    ],
+    [
+      "force",
+      1
+    ],
+    [
+      "majeure",
+      1
+    ],
+    [
+      "recent",
+      1
+    ],
+    [
+      "regularly",
+      1
+    ],
+    [
+      "engagement",
+      1
+    ],
+    [
+      "shortly",
+      1
+    ],
+    [
+      "throughout",
+      1
+    ],
+    [
+      "going",
+      1
+    ],
+    [
+      "continue",
+      1
+    ],
+    [
+      "ground",
+      1
+    ],
+    [
+      "impression",
+      1
+    ],
+    [
+      "well-structur",
+      1
+    ],
+    [
+      "component",
+      1
+    ],
+    [
+      "driv",
+      1
+    ],
+    [
+      "projection",
+      1
+    ],
+    [
+      "design",
+      1
+    ],
+    [
+      "context",
+      1
+    ],
+    [
+      "package",
+      1
+    ],
+    [
+      "alone",
+      1
+    ],
+    [
+      "pattern",
+      1
+    ],
+    [
+      "cycle",
+      1
+    ],
+    [
+      "coordination",
+      1
+    ],
+    [
+      "optimize",
+      1
+    ],
+    [
+      "translate",
+      1
+    ],
+    [
+      "annually",
+      1
+    ],
+    [
+      "get",
+      1
+    ],
+    [
+      "expos",
+      1
+    ],
+    [
+      "percentage",
+      1
+    ],
+    [
+      "ther",
+      1
+    ],
+    [
+      "floor",
+      1
+    ],
+    [
+      "protect",
+      1
+    ],
+    [
+      "decrease",
+      1
+    ],
+    [
+      "sharply",
+      1
+    ],
+    [
+      "across",
+      1
+    ],
+    [
+      "special",
+      1
+    ],
+    [
+      "halfway",
+      1
+    ],
+    [
+      "attach",
+      1
+    ],
+    [
+      "continuity",
+      1
+    ],
+    [
+      "aware",
+      1
+    ],
+    [
+      "spik",
+      1
+    ],
+    [
+      "customer",
+      1
+    ],
+    [
+      "allocation",
+      1
+    ],
+    [
+      "ahead",
+      1
+    ],
+    [
+      "although",
+      1
+    ],
+    [
+      "last",
+      1
+    ],
+    [
+      "reputational",
+      1
+    ],
+    [
+      "damage",
+      1
+    ],
+    [
+      "applicable",
+      1
+    ],
+    [
+      "narrow",
+      1
+    ],
+    [
+      "consolidate",
+      1
+    ],
+    [
+      "ideal",
+      1
+    ],
+    [
+      "requirement",
+      1
+    ],
+    [
+      "incorporate",
+      1
+    ],
+    [
+      "quickly",
+      1
+    ],
+    [
+      "openness",
+      1
+    ],
+    [
+      "willingness",
+      1
+    ],
+    [
+      "recommendation",
+      1
+    ],
+    [
+      "collaboratively",
+      1
+    ],
+    [
+      "baseline",
+      1
+    ],
+    [
+      "monitor",
+      1
+    ],
+    [
+      "justifi",
+      1
+    ],
+    [
+      "includ",
+      1
+    ],
+    [
+      "stabiliz",
+      1
+    ],
+    [
+      "date",
+      1
+    ],
+    [
+      "availability",
+      1
+    ],
+    [
+      "problem",
+      1
+    ],
+    [
+      "ensur",
+      1
+    ],
+    [
+      "enough",
+      1
+    ],
+    [
+      "operationally",
+      1
+    ],
+    [
+      "top",
+      1
+    ],
+    [
+      "motivate",
+      1
+    ],
+    [
+      "forget",
+      1
+    ],
+    [
+      "parti",
+      1
+    ],
+    [
+      "rol",
+      1
+    ],
+    [
+      "preparedness",
+      1
+    ],
+    [
+      "stem",
+      1
+    ],
+    [
+      "circulate",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 7206,
+    "unique_words": 946,
+    "duration_min": 53.5
+  }
+}

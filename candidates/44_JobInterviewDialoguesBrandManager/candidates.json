@@ -1,0 +1,7849 @@
+{
+  "file_stem": "44_JobInterviewDialoguesBrandManager",
+  "no": 44,
+  "title_keywords": [
+    [
+      "job",
+      "job"
+    ],
+    [
+      "interview",
+      "interview"
+    ],
+    [
+      "dialogues",
+      "dialogu"
+    ],
+    [
+      "brand",
+      "brand"
+    ],
+    [
+      "manager",
+      "manager"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "brand",
+      196,
+      "B1+"
+    ],
+    [
+      "consumer",
+      99,
+      "B1+"
+    ],
+    [
+      "campaign",
+      61,
+      "B1+"
+    ],
+    [
+      "product",
+      53,
+      "B1+"
+    ],
+    [
+      "market",
+      48,
+      "A2"
+    ],
+    [
+      "good",
+      44,
+      "A2"
+    ],
+    [
+      "understand",
+      43,
+      "A2"
+    ],
+    [
+      "insights",
+      41,
+      "B1+"
+    ],
+    [
+      "communication",
+      36,
+      "B1+"
+    ],
+    [
+      "thank",
+      34,
+      "A2"
+    ],
+    [
+      "sales",
+      32,
+      "B1+"
+    ],
+    [
+      "innovation",
+      31,
+      "B1+"
+    ],
+    [
+      "competitor",
+      29,
+      "B1+"
+    ],
+    [
+      "new",
+      29,
+      "A2"
+    ],
+    [
+      "morning",
+      27,
+      "B1+"
+    ],
+    [
+      "need",
+      27,
+      "A2"
+    ],
+    [
+      "start",
+      27,
+      "A2"
+    ],
+    [
+      "digital",
+      26,
+      "B1+"
+    ],
+    [
+      "pricing",
+      26,
+      "B1+"
+    ],
+    [
+      "gaps",
+      25,
+      "B1+"
+    ],
+    [
+      "management",
+      25,
+      "B1+"
+    ],
+    [
+      "strategy",
+      25,
+      "B1+"
+    ],
+    [
+      "work",
+      25,
+      "A2"
+    ],
+    [
+      "first",
+      24,
+      "A2"
+    ],
+    [
+      "promotions",
+      23,
+      "B1+"
+    ],
+    [
+      "time",
+      23,
+      "A2"
+    ],
+    [
+      "clear",
+      22,
+      "A2"
+    ],
+    [
+      "building",
+      21,
+      "A2"
+    ],
+    [
+      "decisions",
+      20,
+      "B1+"
+    ],
+    [
+      "execution",
+      20,
+      "B1+"
+    ],
+    [
+      "strong",
+      20,
+      "A2"
+    ],
+    [
+      "launches",
+      19,
+      "B1+"
+    ],
+    [
+      "packaging",
+      19,
+      "B1+"
+    ],
+    [
+      "value",
+      19,
+      "B1+"
+    ],
+    [
+      "share",
+      18,
+      "A2"
+    ],
+    [
+      "distribution",
+      17,
+      "B1+"
+    ],
+    [
+      "look",
+      17,
+      "A2"
+    ],
+    [
+      "manager",
+      17,
+      "B1+"
+    ],
+    [
+      "performance",
+      17,
+      "B1+"
+    ],
+    [
+      "emotional",
+      16,
+      "B1+"
+    ],
+    [
+      "planning",
+      16,
+      "A2"
+    ],
+    [
+      "align",
+      15,
+      "B1+"
+    ],
+    [
+      "engagement",
+      15,
+      "B1+"
+    ],
+    [
+      "evaluate",
+      15,
+      "B1+"
+    ],
+    [
+      "existing",
+      15,
+      "B1+"
+    ],
+    [
+      "supply",
+      15,
+      "B1+"
+    ],
+    [
+      "targeted",
+      15,
+      "B1+"
+    ],
+    [
+      "whether",
+      15,
+      "A2"
+    ],
+    [
+      "also",
+      14,
+      "A2"
+    ],
+    [
+      "analysis",
+      14,
+      "B1+"
+    ],
+    [
+      "data",
+      14,
+      "B1+"
+    ],
+    [
+      "helped",
+      14,
+      "A2"
+    ],
+    [
+      "suppose",
+      14,
+      "A2"
+    ],
+    [
+      "tell",
+      14,
+      "A2"
+    ],
+    [
+      "today",
+      14,
+      "A2"
+    ],
+    [
+      "trade",
+      14,
+      "A2"
+    ],
+    [
+      "chain",
+      13,
+      "B1+"
+    ],
+    [
+      "decide",
+      13,
+      "A2"
+    ],
+    [
+      "ensure",
+      13,
+      "B1+"
+    ],
+    [
+      "feels",
+      13,
+      "A2"
+    ],
+    [
+      "finance",
+      13,
+      "B1+"
+    ],
+    [
+      "idea",
+      13,
+      "A2"
+    ],
+    [
+      "joining",
+      13,
+      "A2"
+    ],
+    [
+      "long-term",
+      13,
+      "B1+"
+    ],
+    [
+      "positioning",
+      13,
+      "B1+"
+    ],
+    [
+      "role",
+      13,
+      "B1+"
+    ],
+    [
+      "thinking",
+      13,
+      "A2"
+    ],
+    [
+      "activity",
+      12,
+      "B1+"
+    ],
+    [
+      "awareness",
+      12,
+      "B1+"
+    ],
+    [
+      "behavior",
+      12,
+      "B1+"
+    ],
+    [
+      "equity",
+      12,
+      "B1+"
+    ],
+    [
+      "feasibility",
+      12,
+      "B1+"
+    ],
+    [
+      "focus",
+      12,
+      "B1+"
+    ],
+    [
+      "pack",
+      12,
+      "B1+"
+    ],
+    [
+      "point",
+      12,
+      "A2"
+    ],
+    [
+      "process",
+      12,
+      "B1+"
+    ],
+    [
+      "purchase",
+      12,
+      "B1+"
+    ],
+    [
+      "refresh",
+      12,
+      "B1+"
+    ],
+    [
+      "retailers",
+      12,
+      "B1+"
+    ],
+    [
+      "run",
+      12,
+      "A2"
+    ],
+    [
+      "teams",
+      12,
+      "A2"
+    ],
+    [
+      "us",
+      12,
+      "A2"
+    ],
+    [
+      "career",
+      11,
+      "B1+"
+    ],
+    [
+      "develop",
+      11,
+      "B1+"
+    ],
+    [
+      "identify",
+      11,
+      "B1+"
+    ],
+    [
+      "identity",
+      11,
+      "B1+"
+    ],
+    [
+      "manage",
+      11,
+      "B1+"
+    ],
+    [
+      "messaging",
+      11,
+      "B1+"
+    ],
+    [
+      "moved",
+      11,
+      "B1+"
+    ],
+    [
+      "penetration",
+      11,
+      "B1+"
+    ],
+    [
+      "say",
+      11,
+      "A2"
+    ],
+    [
+      "talk",
+      11,
+      "A2"
+    ],
+    [
+      "across",
+      10,
+      "A2"
+    ],
+    [
+      "analyze",
+      10,
+      "B1+"
+    ],
+    [
+      "collaborate",
+      10,
+      "B1+"
+    ],
+    [
+      "connect",
+      10,
+      "B1+"
+    ],
+    [
+      "creative",
+      10,
+      "B1+"
+    ],
+    [
+      "deliver",
+      10,
+      "B1+"
+    ],
+    [
+      "everyone",
+      10,
+      "A2"
+    ],
+    [
+      "finally",
+      10,
+      "B1+"
+    ],
+    [
+      "growth",
+      10,
+      "B1+"
+    ],
+    [
+      "interest",
+      10,
+      "A2"
+    ],
+    [
+      "maintain",
+      10,
+      "B1+"
+    ],
+    [
+      "one",
+      10,
+      "A2"
+    ],
+    [
+      "repeat",
+      10,
+      "A2"
+    ],
+    [
+      "shaping",
+      10,
+      "B1+"
+    ],
+    [
+      "test",
+      10,
+      "A2"
+    ],
+    [
+      "address",
+      9,
+      "B1+"
+    ],
+    [
+      "category",
+      9,
+      "B1+"
+    ],
+    [
+      "commercial",
+      9,
+      "B1+"
+    ],
+    [
+      "created",
+      9,
+      "B1+"
+    ],
+    [
+      "direction",
+      9,
+      "B1+"
+    ],
+    [
+      "expectations",
+      9,
+      "B1+"
+    ],
+    [
+      "experience",
+      9,
+      "A2"
+    ],
+    [
+      "great",
+      9,
+      "A2"
+    ],
+    [
+      "handled",
+      9,
+      "B1+"
+    ],
+    [
+      "imagine",
+      9,
+      "A2"
+    ],
+    [
+      "improving",
+      9,
+      "B1+"
+    ],
+    [
+      "key",
+      9,
+      "A2"
+    ],
+    [
+      "make",
+      9,
+      "A2"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "good morning",
+      "count": 27,
+      "example": "Good morning. Thanks for joining us today. Let's begin with a simple question.",
+      "t": 12.37
+    },
+    {
+      "text": "brand management",
+      "count": 18,
+      "example": "Could you tell me a little about your background and what inspired you to move into brand management?",
+      "t": 18.33
+    },
+    {
+      "text": "consumer insights",
+      "count": 18,
+      "example": "Let's talk consumer insights.",
+      "t": 149.85
+    },
+    {
+      "text": "brand strategy",
+      "count": 17,
+      "example": "My role is to keep the project aligned with the brand strategy.",
+      "t": 209.65
+    },
+    {
+      "text": "r d",
+      "count": 16,
+      "example": "Throughout the process, I collaborate closely with R&D, supply chain and finance",
+      "t": 200.69
+    },
+    {
+      "text": "joining us",
+      "count": 12,
+      "example": "Good morning. Thanks for joining us today. Let's begin with a simple question.",
+      "t": 12.37
+    },
+    {
+      "text": "brand manager",
+      "count": 12,
+      "example": "When you think about your role as a brand manager, what would you say is the central",
+      "t": 47.29
+    },
+    {
+      "text": "supply chain",
+      "count": 12,
+      "example": "Throughout the process, I collaborate closely with R&D, supply chain and finance",
+      "t": 200.69
+    },
+    {
+      "text": "new product",
+      "count": 12,
+      "example": "How do you decide if a new product is worth adding to the portfolio?",
+      "t": 702.57
+    },
+    {
+      "text": "us today",
+      "count": 11,
+      "example": "Good morning. Thanks for joining us today. Let's begin with a simple question.",
+      "t": 12.37
+    }
+  ],
+  "phrases": [
+    {
+      "text": "good morning",
+      "count": 27,
+      "example": "Good morning. Thanks for joining us today. Let's begin with a simple question.",
+      "t": 12.37
+    },
+    {
+      "text": "brand management",
+      "count": 18,
+      "example": "Could you tell me a little about your background and what inspired you to move into brand management?",
+      "t": 18.33
+    },
+    {
+      "text": "consumer insights",
+      "count": 18,
+      "example": "Let's talk consumer insights.",
+      "t": 149.85
+    },
+    {
+      "text": "brand strategy",
+      "count": 17,
+      "example": "My role is to keep the project aligned with the brand strategy.",
+      "t": 209.65
+    },
+    {
+      "text": "r d",
+      "count": 16,
+      "example": "Throughout the process, I collaborate closely with R&D, supply chain and finance",
+      "t": 200.69
+    },
+    {
+      "text": "joining us",
+      "count": 12,
+      "example": "Good morning. Thanks for joining us today. Let's begin with a simple question.",
+      "t": 12.37
+    },
+    {
+      "text": "brand manager",
+      "count": 12,
+      "example": "When you think about your role as a brand manager, what would you say is the central",
+      "t": 47.29
+    },
+    {
+      "text": "supply chain",
+      "count": 12,
+      "example": "Throughout the process, I collaborate closely with R&D, supply chain and finance",
+      "t": 200.69
+    },
+    {
+      "text": "new product",
+      "count": 12,
+      "example": "How do you decide if a new product is worth adding to the portfolio?",
+      "t": 702.57
+    },
+    {
+      "text": "us today",
+      "count": 11,
+      "example": "Good morning. Thanks for joining us today. Let's begin with a simple question.",
+      "t": 12.37
+    },
+    {
+      "text": "joining us today",
+      "count": 11,
+      "example": "Good morning. Thanks for joining us today. Let's begin with a simple question.",
+      "t": 12.37
+    },
+    {
+      "text": "let's talk",
+      "count": 11,
+      "example": "Let's talk consumer insights.",
+      "t": 149.85
+    },
+    {
+      "text": "morning and thank",
+      "count": 11,
+      "example": "Good morning, and thank you for the opportunity.",
+      "t": 268.29
+    },
+    {
+      "text": "brand equity",
+      "count": 10,
+      "example": "Collaboration is essential, but so is protecting brand equity.",
+      "t": 250.93
+    },
+    {
+      "text": "closely with r",
+      "count": 8,
+      "example": "Throughout the process, I collaborate closely with R&D, supply chain and finance",
+      "t": 200.69
+    },
+    {
+      "text": "repeat purchase",
+      "count": 8,
+      "example": "I look at brand equity scores, awareness levels, consideration, and repeat purchase behavior.",
+      "t": 317.41
+    },
+    {
+      "text": "market share",
+      "count": 8,
+      "example": "Then I review performance data such as market share, distribution, pricing, and competitor",
+      "t": 324.97
+    },
+    {
+      "text": "digital engagement",
+      "count": 8,
+      "example": "Using execution, I monitor performance weekly, digital engagement, sales uplift, and feedback",
+      "t": 422.67
+    },
+    {
+      "text": "morning thank",
+      "count": 7,
+      "example": "Good morning. Thank you for having me.",
+      "t": 24.33
+    },
+    {
+      "text": "good morning thank",
+      "count": 7,
+      "example": "Good morning. Thank you for having me.",
+      "t": 24.33
+    },
+    {
+      "text": "trade marketing",
+      "count": 7,
+      "example": "I began my career in trade marketing, where I handled activation programs and in-store",
+      "t": 565.99
+    },
+    {
+      "text": "consumer behavior",
+      "count": 6,
+      "example": "I started my career in marketing research, which gave me a strong foundation in understanding consumer behavior.",
+      "t": 26.33
+    },
+    {
+      "text": "make sure",
+      "count": 6,
+      "example": "to make sure the idea is both desirable and viable.",
+      "t": 205.89
+    },
+    {
+      "text": "competitor activity",
+      "count": 6,
+      "example": "Market data, consumer behavior, competitor activity,",
+      "t": 825.93
+    },
+    {
+      "text": "it's time",
+      "count": 6,
+      "example": "How do you decide when it's time to refresh packaging?",
+      "t": 932.51
+    },
+    {
+      "text": "let's begin",
+      "count": 5,
+      "example": "Good morning. Thanks for joining us today. Let's begin with a simple question.",
+      "t": 12.37
+    },
+    {
+      "text": "pack sizes",
+      "count": 5,
+      "example": "I would analyze pricing, pack sizes, communication gaps, and competitive activity.",
+      "t": 89.41
+    },
+    {
+      "text": "promotions and digital",
+      "count": 5,
+      "example": "I started in general marketing, coordinating campaigns, promotions, and digital activities.",
+      "t": 271.17
+    },
+    {
+      "text": "brand roles",
+      "count": 5,
+      "example": "That interest led me into brand roles where I've helped manage portfolios, launch innovations,",
+      "t": 291.77
+    },
+    {
+      "text": "equity scores",
+      "count": 5,
+      "example": "I look at brand equity scores, awareness levels, consideration, and repeat purchase behavior.",
+      "t": 317.41
+    },
+    {
+      "text": "brand equity scores",
+      "count": 5,
+      "example": "I look at brand equity scores, awareness levels, consideration, and repeat purchase behavior.",
+      "t": 317.41
+    },
+    {
+      "text": "digital sentiment",
+      "count": 5,
+      "example": "I combine that with qualitative inputs from consumers, retailers, and digital sentiment.",
+      "t": 332.29
+    },
+    {
+      "text": "major campaign",
+      "count": 5,
+      "example": "Suppose you're planning a major campaign.",
+      "t": 389.17
+    },
+    {
+      "text": "work closely",
+      "count": 5,
+      "example": "Then I work closely with R&D to test formulations, with procurement to evaluate cost structures,",
+      "t": 499.07
+    },
+    {
+      "text": "distribution gaps",
+      "count": 5,
+      "example": "It could be poor penetration, weak differentiation, lack of innovation, distribution gaps, or",
+      "t": 635.35
+    },
+    {
+      "text": "value communication",
+      "count": 5,
+      "example": "and clearer value communication.",
+      "t": 914.67
+    },
+    {
+      "text": "competitor launches",
+      "count": 5,
+      "example": "Imagine a competitor launches aggressive promotions.",
+      "t": 1204.36
+    },
+    {
+      "text": "i'm passionate",
+      "count": 5,
+      "example": "I'm passionate about building brands that grow sustainably, deliver commercial results,",
+      "t": 1295.9
+    },
+    {
+      "text": "building brands",
+      "count": 5,
+      "example": "I'm passionate about building brands that grow sustainably, deliver commercial results,",
+      "t": 1295.9
+    },
+    {
+      "text": "understanding consumer",
+      "count": 4,
+      "example": "I started my career in marketing research, which gave me a strong foundation in understanding consumer behavior.",
+      "t": 26.33
+    },
+    {
+      "text": "started my career",
+      "count": 4,
+      "example": "I started my career in marketing research, which gave me a strong foundation in understanding consumer behavior.",
+      "t": 26.33
+    },
+    {
+      "text": "career in marketing",
+      "count": 4,
+      "example": "I started my career in marketing research, which gave me a strong foundation in understanding consumer behavior.",
+      "t": 26.33
+    },
+    {
+      "text": "value proposition",
+      "count": 4,
+      "example": "define the product concept and ensure the value proposition is clear.",
+      "t": 196.05
+    },
+    {
+      "text": "let's start",
+      "count": 4,
+      "example": "Let's start with something simple.",
+      "t": 259.37
+    },
+    {
+      "text": "clear picture",
+      "count": 4,
+      "example": "This gives me a clear picture of where the brand stands and what gaps need to be addressed.",
+      "t": 339.33
+    },
+    {
+      "text": "decide whether",
+      "count": 4,
+      "example": "And when you identify a gap, how do you decide whether it requires communication, product",
+      "t": 345.37
+    },
+    {
+      "text": "whether it's",
+      "count": 4,
+      "example": "Once I understand the root cause, the solution becomes clear, whether it's product renovation,",
+      "t": 376.37
+    },
+    {
+      "text": "visual identity",
+      "count": 4,
+      "example": "I ensure the messaging ladder is clear, the visual identity is aligned with the brand,",
+      "t": 412.89
+    },
+    {
+      "text": "later i moved",
+      "count": 4,
+      "example": "Later, I moved into digital communication, and that's where I really understood how",
+      "t": 576.99
+    },
+    {
+      "text": "time i realized",
+      "count": 4,
+      "example": "storytelling influences brand perception. Over time, I realized I wanted to be more",
+      "t": 581.71
+    },
+    {
+      "text": "consumer need",
+      "count": 4,
+      "example": "Then, I validate the consumer need, estimate potential demand, and study whether the product",
+      "t": 713.37
+    },
+    {
+      "text": "let's say",
+      "count": 4,
+      "example": "Let's say your agency presents a campaign that is extremely creative but doesn't clearly",
+      "t": 776.37
+    },
+    {
+      "text": "strategy consumer",
+      "count": 4,
+      "example": "I'm a marketing professional with experience in brand strategy, consumer insights, trade",
+      "t": 794.29
+    },
+    {
+      "text": "experience in brand",
+      "count": 4,
+      "example": "I'm a marketing professional with experience in brand strategy, consumer insights, trade",
+      "t": 794.29
+    },
+    {
+      "text": "strategy consumer insights",
+      "count": 4,
+      "example": "I'm a marketing professional with experience in brand strategy, consumer insights, trade",
+      "t": 794.29
+    },
+    {
+      "text": "brand managers",
+      "count": 4,
+      "example": "Brand managers often balance long-term plans",
+      "t": 859.65
+    },
+    {
+      "text": "managers often",
+      "count": 4,
+      "example": "Brand managers often balance long-term plans",
+      "t": 859.65
+    },
+    {
+      "text": "brand managers often",
+      "count": 4,
+      "example": "Brand managers often balance long-term plans",
+      "t": 859.65
+    },
+    {
+      "text": "kpis include",
+      "count": 4,
+      "example": "Long-term KPIs include brand equity,",
+      "t": 869.61
+    },
+    {
+      "text": "decide when it's",
+      "count": 4,
+      "example": "How do you decide when it's time to refresh packaging?",
+      "t": 932.51
+    },
+    {
+      "text": "time to refresh",
+      "count": 4,
+      "example": "How do you decide when it's time to refresh packaging?",
+      "t": 932.51
+    },
+    {
+      "text": "moved into brand",
+      "count": 4,
+      "example": "Later, I moved into brand strategy and campaign management, where I realized that",
+      "t": 1014.99
+    },
+    {
+      "text": "digital campaigns",
+      "count": 4,
+      "example": "Digital campaigns, social media engagement, and influencer collaborations often help.",
+      "t": 1110.07
+    },
+    {
+      "text": "ensure the brand",
+      "count": 4,
+      "example": "At the same time, I'd ensure the brand retains its core promise, so existing loyal customers",
+      "t": 1115.93
+    },
+    {
+      "text": "imagine a competitor",
+      "count": 4,
+      "example": "Imagine a competitor launches aggressive promotions.",
+      "t": 1204.36
+    },
+    {
+      "text": "suppose your brand",
+      "count": 4,
+      "example": "Suppose your brand is strong in urban areas but losing relevance in smaller towns.",
+      "t": 1373.26
+    },
+    {
+      "text": "smaller pack",
+      "count": 4,
+      "example": "Smaller pack sizes, localized messaging, tailored promotions, or on-ground activations.",
+      "t": 1394.14
+    },
+    {
+      "text": "smaller pack sizes",
+      "count": 4,
+      "example": "Smaller pack sizes, localized messaging, tailored promotions, or on-ground activations.",
+      "t": 1394.14
+    },
+    {
+      "text": "management wants",
+      "count": 4,
+      "example": "Let's say the management wants a quick product launch,",
+      "t": 1472.97
+    },
+    {
+      "text": "category trends",
+      "count": 4,
+      "example": "insights, our needs evolving, are there pain points? Category trends, are competitors",
+      "t": 1795.32
+    },
+    {
+      "text": "successful brand",
+      "count": 4,
+      "example": "How do you define a successful brand strategy and how do you normally build one from scratch?",
+      "t": 1999.47
+    },
+    {
+      "text": "successful brand strategy",
+      "count": 4,
+      "example": "How do you define a successful brand strategy and how do you normally build one from scratch?",
+      "t": 1999.47
+    },
+    {
+      "text": "focus groups",
+      "count": 4,
+      "example": "Sure. In my previous role, we noticed through focus groups that mothers felt our product",
+      "t": 2054.89
+    },
+    {
+      "text": "brand building",
+      "count": 3,
+      "example": "That curiosity evolved into a passion for brand building, and that's what led me into",
+      "t": 39.53
+    },
+    {
+      "text": "i'd analyze",
+      "count": 3,
+      "example": "First, I'd analyze whether the campaign is creating long-term value or just short-term",
+      "t": 125.15
+    },
+    {
+      "text": "multiple sources",
+      "count": 3,
+      "example": "I believe in triangulation using multiple sources.",
+      "t": 158.53
+    },
+    {
+      "text": "unmet need",
+      "count": 3,
+      "example": "or unmet need. It's about interpreting patterns, not just collecting information.",
+      "t": 174.05
+    },
+    {
+      "text": "let's shift",
+      "count": 3,
+      "example": "Good answer. Now let's shift to product development. What role do you see a brand",
+      "t": 179.33
+    },
+    {
+      "text": "product development",
+      "count": 3,
+      "example": "Good answer. Now let's shift to product development. What role do you see a brand",
+      "t": 179.33
+    },
+    {
+      "text": "consumer needs",
+      "count": 3,
+      "example": "consumer needs and technical feasibility. I help identify opportunity spaces,",
+      "t": 190.77
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen. Practice. Speak. Practice makes you perfect."
+    },
+    {
+      "t": 12.37,
+      "text": "Good morning. Thanks for joining us today. Let's begin with a simple question."
+    },
+    {
+      "t": 18.33,
+      "text": "Could you tell me a little about your background and what inspired you to move into brand management?"
+    },
+    {
+      "t": 24.33,
+      "text": "Good morning. Thank you for having me."
+    },
+    {
+      "t": 26.33,
+      "text": "I started my career in marketing research, which gave me a strong foundation in understanding consumer behavior."
+    },
+    {
+      "t": 33.33,
+      "text": "Over time, I became fascinated with how brands shape decisions and build trust."
+    },
+    {
+      "t": 39.53,
+      "text": "That curiosity evolved into a passion for brand building, and that's what led me into"
+    },
+    {
+      "t": 44.33,
+      "text": "brand management."
+    },
+    {
+      "t": 45.97,
+      "text": "Interesting."
+    },
+    {
+      "t": 47.29,
+      "text": "When you think about your role as a brand manager, what would you say is the central"
+    },
+    {
+      "t": 51.73,
+      "text": "responsibility?"
+    },
+    {
+      "t": 53.33,
+      "text": "I believe the central responsibility is to protect and grow the brand's equity."
+    },
+    {
+      "t": 58.71,
+      "text": "That includes everything from ensuring consistent communication to understanding market trends,"
+    },
+    {
+      "t": 64.71,
+      "text": "maintaining product relevance, and driving long-term growth."
+    },
+    {
+      "t": 68.39,
+      "text": "A brand manager must balance creative thinking with commercial discipline."
+    },
+    {
+      "t": 72.95,
+      "text": "Excellent."
+    },
+    {
+      "t": 73.95,
+      "text": "Now, I'd like you to imagine something."
+    },
+    {
+      "t": 77.29,
+      "text": "Suppose you inherit a brand with strong awareness but declining penetration."
+    },
+    {
+      "t": 82.51,
+      "text": "What would be your approach?"
+    },
+    {
+      "t": 83.99,
+      "text": "First, I'd identify what's stopping consumers from converting awareness to purchase."
+    },
+    {
+      "t": 89.41,
+      "text": "I would analyze pricing, pack sizes, communication gaps, and competitive activity."
+    },
+    {
+      "t": 94.95,
+      "text": "I might also conduct shopper research to understand and store barriers."
+    },
+    {
+      "t": 99.35,
+      "text": "Once the insight is clear, I'd craft targeted interventions, whether that means a trial"
+    },
+    {
+      "t": 104.43,
+      "text": "campaign, bundle packs, packaging refresh, or better visibility at retail."
+    },
+    {
+      "t": 110.03,
+      "text": "Good."
+    },
+    {
+      "t": 111.03,
+      "text": "Let's look at competition."
+    },
+    {
+      "t": 113.07,
+      "text": "Imagine your main competitor suddenly launches an aggressive campaign with heavy discounts"
+    },
+    {
+      "t": 118.71,
+      "text": "and strong digital presence."
+    },
+    {
+      "t": 121.07,
+      "text": "How do you respond?"
+    },
+    {
+      "t": 122.55,
+      "text": "I wouldn't panic or copy them immediately."
+    },
+    {
+      "t": 125.15,
+      "text": "First, I'd analyze whether the campaign is creating long-term value or just short-term"
+    },
+    {
+      "t": 130.35,
+      "text": "noise."
+    },
+    {
+      "t": 131.51,
+      "text": "If their message threatens our positioning, I'd strengthen our communication and highlight"
+    },
+    {
+      "t": 136.15,
+      "text": "our core differentiators."
+    },
+    {
+      "t": 138.27,
+      "text": "If it's purely a price war, I would consider selective tactical offers without compromising"
+    },
+    {
+      "t": 143.73,
+      "text": "our brand premium."
+    },
+    {
+      "t": 145.45,
+      "text": "The key is to stay strategic, not reactive."
+    },
+    {
+      "t": 148.85,
+      "text": "Very good."
+    },
+    {
+      "t": 149.85,
+      "text": "Let's talk consumer insights."
+    },
+    {
+      "t": 152.01,
+      "text": "How do you ensure your strategic decisions are genuinely driven by insight and not"
+    },
+    {
+      "t": 156.93,
+      "text": "just assumptions?"
+    },
+    {
+      "t": 158.53,
+      "text": "I believe in triangulation using multiple sources."
+    },
+    {
+      "t": 162.29,
+      "text": "I review quantitative data, conduct qualitative interviews, observe shopper behavior and"
+    },
+    {
+      "t": 167.97,
+      "text": "monitor digital conversations. Insights emerge when these sources point toward the same tension"
+    },
+    {
+      "t": 174.05,
+      "text": "or unmet need. It's about interpreting patterns, not just collecting information."
+    },
+    {
+      "t": 179.33,
+      "text": "Good answer. Now let's shift to product development. What role do you see a brand"
+    },
+    {
+      "t": 185.41,
+      "text": "manager playing in the innovation process? A brand manager acts as a bridge between"
+    },
+    {
+      "t": 190.77,
+      "text": "consumer needs and technical feasibility. I help identify opportunity spaces,"
+    },
+    {
+      "t": 196.05,
+      "text": "define the product concept and ensure the value proposition is clear."
+    },
+    {
+      "t": 200.69,
+      "text": "Throughout the process, I collaborate closely with R&D, supply chain and finance"
+    },
+    {
+      "t": 205.89,
+      "text": "to make sure the idea is both desirable and viable."
+    },
+    {
+      "t": 209.65,
+      "text": "My role is to keep the project aligned with the brand strategy."
+    },
+    {
+      "t": 213.65,
+      "text": "Let's imagine an internal challenge."
+    },
+    {
+      "t": 216.21,
+      "text": "Suppose your sales team pushes for a low priced variant to compete with an economy brand,"
+    },
+    {
+      "t": 221.97,
+      "text": "but you worry it will dilute your premium positioning."
+    },
+    {
+      "t": 225.41,
+      "text": "How do you handle the conflict?"
+    },
+    {
+      "t": 227.49,
+      "text": "I'd start by understanding their reasoning."
+    },
+    {
+      "t": 229.65,
+      "text": "Usually it's driven by pressure from retailers or declining share in certain channels."
+    },
+    {
+      "t": 234.93,
+      "text": "I would then explain the long-term risks of brand dilution, showing data from similar cases."
+    },
+    {
+      "t": 240.93,
+      "text": "Instead of rejecting the idea outright, I might propose a controlled pilot test"
+    },
+    {
+      "t": 245.97,
+      "text": "or suggest alternative PAC formats instead of lowering the overall brand price."
+    },
+    {
+      "t": 250.93,
+      "text": "Collaboration is essential, but so is protecting brand equity."
+    },
+    {
+      "t": 254.53,
+      "text": "Good."
+    },
+    {
+      "t": 255.53,
+      "text": "Good morning."
+    },
+    {
+      "t": 257.41,
+      "text": "Thank you for joining us today."
+    },
+    {
+      "t": 259.37,
+      "text": "Let's start with something simple."
+    },
+    {
+      "t": 261.41,
+      "text": "Could you briefly introduce yourself and explain how your career has evolved in the direction"
+    },
+    {
+      "t": 266.47,
+      "text": "of brand management?"
+    },
+    {
+      "t": 268.29,
+      "text": "Good morning, and thank you for the opportunity."
+    },
+    {
+      "t": 271.17,
+      "text": "I started in general marketing, coordinating campaigns, promotions, and digital activities."
+    },
+    {
+      "t": 278.13,
+      "text": "Over time, I found myself drawn to the bigger picture thinking behind brand development,"
+    },
+    {
+      "t": 284.21,
+      "text": "understanding consumer psychology, shaping perceptions, and building long-term brand value."
+    },
+    {
+      "t": 291.77,
+      "text": "That interest led me into brand roles where I've helped manage portfolios, launch innovations,"
+    },
+    {
+      "t": 298.39,
+      "text": "run large campaigns, and collaborate across functions to deliver growth."
+    },
+    {
+      "t": 304.03,
+      "text": "Thank you."
+    },
+    {
+      "t": 305.03,
+      "text": "Now when you're given a brand, new or existing, what's the first thing you do to understand"
+    },
+    {
+      "t": 311.05,
+      "text": "its current health?"
+    },
+    {
+      "t": 312.65,
+      "text": "I begin by analyzing how consumers perceive the brand today."
+    },
+    {
+      "t": 317.41,
+      "text": "I look at brand equity scores, awareness levels, consideration, and repeat purchase behavior."
+    },
+    {
+      "t": 324.97,
+      "text": "Then I review performance data such as market share, distribution, pricing, and competitor"
+    },
+    {
+      "t": 331.01,
+      "text": "activity."
+    },
+    {
+      "t": 332.29,
+      "text": "I combine that with qualitative inputs from consumers, retailers, and digital sentiment."
+    },
+    {
+      "t": 339.33,
+      "text": "This gives me a clear picture of where the brand stands and what gaps need to be addressed."
+    },
+    {
+      "t": 345.37,
+      "text": "And when you identify a gap, how do you decide whether it requires communication, product"
+    },
+    {
+      "t": 350.85,
+      "text": "improvement, or something else?"
+    },
+    {
+      "t": 353.17,
+      "text": "I break it down into what I call the why, what, how framework."
+    },
+    {
+      "t": 358.69,
+      "text": "Why is the gap happening?"
+    },
+    {
+      "t": 360.55,
+      "text": "What exactly is affecting consumer decisions?"
+    },
+    {
+      "t": 363.69,
+      "text": "How can the brand address it?"
+    },
+    {
+      "t": 366.33,
+      "text": "Once the issue is functional, taste, packaging, format, other times it's emotional, lack"
+    },
+    {
+      "t": 373.01,
+      "text": "of connection, outdated positioning."
+    },
+    {
+      "t": 376.37,
+      "text": "Once I understand the root cause, the solution becomes clear, whether it's product renovation,"
+    },
+    {
+      "t": 382.17,
+      "text": "a packaging upgrade, or a refreshed communication platform."
+    },
+    {
+      "t": 387.13,
+      "text": "Let's talk execution."
+    },
+    {
+      "t": 389.17,
+      "text": "Suppose you're planning a major campaign."
+    },
+    {
+      "t": 391.73,
+      "text": "Walk me through how you manage that process."
+    },
+    {
+      "t": 395.13,
+      "text": "First I define the campaign objective, awareness, trial, consideration, or frequency."
+    },
+    {
+      "t": 402.31,
+      "text": "Then I gather insight to understand what emotional hook will resonate."
+    },
+    {
+      "t": 407.21,
+      "text": "I work with the agency to develop a strong idea that can translate across channels."
+    },
+    {
+      "t": 412.89,
+      "text": "I ensure the messaging ladder is clear, the visual identity is aligned with the brand,"
+    },
+    {
+      "t": 418.79,
+      "text": "and the media mix is optimized for the target audience."
+    },
+    {
+      "t": 422.67,
+      "text": "Using execution, I monitor performance weekly, digital engagement, sales uplift, and feedback"
+    },
+    {
+      "t": 429.87,
+      "text": "from the field."
+    },
+    {
+      "t": 431.27,
+      "text": "And finally, I evaluate the campaign's impact on the brand and document learnings for future"
+    },
+    {
+      "t": 437.23,
+      "text": "planning."
+    },
+    {
+      "t": 438.23,
+      "text": "Can you share an example of a campaign that performed exceptionally well under your leadership?"
+    },
+    {
+      "t": 443.59,
+      "text": "Yes."
+    },
+    {
+      "t": 444.59,
+      "text": "We were promoting a product in a highly competitive category."
+    },
+    {
+      "t": 448.67,
+      "text": "Instead of traditional ads, we built the campaign around real consumer stories."
+    },
+    {
+      "t": 454.51,
+      "text": "We worked with micro-influencers, created short-form content, and partnered with retailers for sampling."
+    },
+    {
+      "t": 461.31,
+      "text": "The authentic storytelling angle created strong emotional appeal, engagement exceeded expectations,"
+    },
+    {
+      "t": 468.65,
+      "text": "and the campaign delivered a significant uplift in trial and penetration."
+    },
+    {
+      "t": 473.55,
+      "text": "It reminded me that consumers respond strongly when communication feels relatable and human."
+    },
+    {
+      "t": 480.23,
+      "text": "Interesting."
+    },
+    {
+      "t": 481.47,
+      "text": "How do you manage innovation projects, especially when multiple stakeholders are involved?"
+    },
+    {
+      "t": 486.91,
+      "text": "For innovation to succeed, alignment is critical."
+    },
+    {
+      "t": 490.83,
+      "text": "I start by building a solid case, consumer insight, market gap, feasibility, and business"
+    },
+    {
+      "t": 497.47,
+      "text": "potential."
+    },
+    {
+      "t": 499.07,
+      "text": "Then I work closely with R&D to test formulations, with procurement to evaluate cost structures,"
+    },
+    {
+      "t": 505.67,
+      "text": "and with supply chain to confirm production capability."
+    },
+    {
+      "t": 509.59,
+      "text": "Throughout the project, I keep everyone updated with clear timelines and expectations."
+    },
+    {
+      "t": 515.03,
+      "text": "I've learned that innovation fails not because of lack of ideas, but because of poor coordination."
+    },
+    {
+      "t": 521.71,
+      "text": "I make sure everyone feels part of the process and understands the purpose behind the innovation."
+    },
+    {
+      "t": 528.23,
+      "text": "shift to numbers. How comfortable are you with financial responsibilities like P&L or"
+    },
+    {
+      "t": 534.03,
+      "text": "pricing decisions? Very comfortable. A brand manager is not just a creative role. It's"
+    },
+    {
+      "t": 540.23,
+      "text": "also a commercial one. I work with finance to understand margins, cogs, tradespend, and"
+    },
+    {
+      "t": 546.87,
+      "text": "ROI. When pricing changes are needed, I evaluate elasticity. Good morning. Thank"
+    },
+    {
+      "t": 553.75,
+      "text": "Thank you for joining us today."
+    },
+    {
+      "t": 555.65,
+      "text": "To start off, could you tell me a bit about your professional background and what sparked"
+    },
+    {
+      "t": 560.83,
+      "text": "your interest in brand management?"
+    },
+    {
+      "t": 563.63,
+      "text": "Good morning and thank you for inviting me."
+    },
+    {
+      "t": 565.99,
+      "text": "I began my career in trade marketing, where I handled activation programs and in-store"
+    },
+    {
+      "t": 571.03,
+      "text": "visibility."
+    },
+    {
+      "t": 572.43,
+      "text": "That experience taught me how consumers interact with brands at the point of purchase."
+    },
+    {
+      "t": 576.99,
+      "text": "Later, I moved into digital communication, and that's where I really understood how"
+    },
+    {
+      "t": 581.71,
+      "text": "storytelling influences brand perception. Over time, I realized I wanted to be more"
+    },
+    {
+      "t": 587.07,
+      "text": "involved in shaping strategy, not just execution. That's what drew me toward brand management."
+    },
+    {
+      "t": 593.71,
+      "text": "Great. In your view, what differentiates an average brand from a truly powerful brand?"
+    },
+    {
+      "t": 601.31,
+      "text": "A powerful brand has a purpose, a personality, and a promise that stays consistent across"
+    },
+    {
+      "t": 607.31,
+      "text": "every touch point. It knows who its customers are, what it stands for, and how to communicate"
+    },
+    {
+      "t": 613.23,
+      "text": "in a memorable way. An average brand just reacts. A powerful brand leads."
+    },
+    {
+      "t": 619.39,
+      "text": "Nicely put, let's imagine a scenario. Your brand is suffering from stagnation. There's no decline,"
+    },
+    {
+      "t": 627.07,
+      "text": "but no meaningful growth either. How would you approach this?"
+    },
+    {
+      "t": 631.15,
+      "text": "I would start by identifying what's limiting growth."
+    },
+    {
+      "t": 635.35,
+      "text": "It could be poor penetration, weak differentiation, lack of innovation, distribution gaps, or"
+    },
+    {
+      "t": 641.63,
+      "text": "communication fatigue."
+    },
+    {
+      "t": 643.35,
+      "text": "I'd conduct a brand audit, internal performance analysis, retailer feedback, and fresh consumer"
+    },
+    {
+      "t": 649.91,
+      "text": "insight."
+    },
+    {
+      "t": 650.91,
+      "text": "Based on that, I'd refresh the communication angle, refine the positioning, or introduce"
+    },
+    {
+      "t": 655.99,
+      "text": "new pack formats."
+    },
+    {
+      "t": 657.83,
+      "text": "usually comes from unlocking a new consumer segment or strengthening the brand's role"
+    },
+    {
+      "t": 662.87,
+      "text": "in an existing segment."
+    },
+    {
+      "t": 664.63,
+      "text": "Good."
+    },
+    {
+      "t": 665.63,
+      "text": "Now, suppose after your audit you discover that younger consumers simply don't connect"
+    },
+    {
+      "t": 670.95,
+      "text": "with your brand."
+    },
+    {
+      "t": 672.51,
+      "text": "What steps would you take?"
+    },
+    {
+      "t": 674.63,
+      "text": "Younger consumers value authenticity, convenience, and simplicity."
+    },
+    {
+      "t": 679.35,
+      "text": "I'd update the brand tone, more energetic, genuine, and relatable."
+    },
+    {
+      "t": 683.87,
+      "text": "I'd strengthen digital first communication and maybe collaborate with influencers who align with the brand's character."
+    },
+    {
+      "t": 690.77,
+      "text": "I'd also check whether the product features, design, and pricing match their lifestyle."
+    },
+    {
+      "t": 696.07,
+      "text": "If necessary, I'd introduce a variant tailored to younger needs."
+    },
+    {
+      "t": 700.37,
+      "text": "Let's talk about innovation."
+    },
+    {
+      "t": 702.57,
+      "text": "How do you decide if a new product is worth adding to the portfolio?"
+    },
+    {
+      "t": 707.07,
+      "text": "First, I identify whether the product solves a real problem or creates a new occasion for usage."
+    },
+    {
+      "t": 713.37,
+      "text": "Then, I validate the consumer need, estimate potential demand, and study whether the product"
+    },
+    {
+      "t": 718.81,
+      "text": "enhances the brand's overall value."
+    },
+    {
+      "t": 721.89,
+      "text": "Financial viability is critical, margins, production feasibility, and scalability."
+    },
+    {
+      "t": 727.45,
+      "text": "A strong innovation idea must be relevant, profitable, and aligned with brand strategy."
+    },
+    {
+      "t": 733.49,
+      "text": "Fantastic."
+    },
+    {
+      "t": 734.49,
+      "text": "Now, imagine the company wants to launch a premium extension for a mass-market brand."
+    },
+    {
+      "t": 740.65,
+      "text": "Some people argue it'll confuse consumers."
+    },
+    {
+      "t": 743.79,
+      "text": "What would be your viewpoint?"
+    },
+    {
+      "t": 746.15,
+      "text": "Premium extensions can work if the value is clearly communicated and the core brand promise"
+    },
+    {
+      "t": 751.21,
+      "text": "remains untouched."
+    },
+    {
+      "t": 752.71,
+      "text": "I'd ensure the premium variant has distinct features, superior quality, unique ingredients,"
+    },
+    {
+      "t": 758.55,
+      "text": "or a differentiated experience."
+    },
+    {
+      "t": 760.69,
+      "text": "The key is maintaining clarity."
+    },
+    {
+      "t": 762.81,
+      "text": "The mass variant stays accessible while the premium variant offers an upgrade."
+    },
+    {
+      "t": 767.65,
+      "text": "If executed well, it can bring new customers and increase overall brand value."
+    },
+    {
+      "t": 772.65,
+      "text": "Very good."
+    },
+    {
+      "t": 774.37,
+      "text": "Moving to communication."
+    },
+    {
+      "t": 776.37,
+      "text": "Let's say your agency presents a campaign that is extremely creative but doesn't clearly"
+    },
+    {
+      "t": 781.57,
+      "text": "communicate."
+    },
+    {
+      "t": 782.57,
+      "text": "Good morning."
+    },
+    {
+      "t": 783.57,
+      "text": "Thank you for joining us today."
+    },
+    {
+      "t": 785.61,
+      "text": "Let's begin with a quick introduction."
+    },
+    {
+      "t": 788.13,
+      "text": "Tell me about yourself and your branding experience."
+    },
+    {
+      "t": 792.01,
+      "text": "Good morning."
+    },
+    {
+      "t": 793.01,
+      "text": "Thank you for having me."
+    },
+    {
+      "t": 794.29,
+      "text": "I'm a marketing professional with experience in brand strategy, consumer insights, trade"
+    },
+    {
+      "t": 800.21,
+      "text": "marketing and new product development."
+    },
+    {
+      "t": 802.93,
+      "text": "I've worked in FMCG categories where I handled brand campaigns, market analysis and full"
+    },
+    {
+      "t": 809.49,
+      "text": "year brand planning."
+    },
+    {
+      "t": 811.09,
+      "text": "I enjoy combining creative ideas with data-driven decisions to build strong, meaningful brands."
+    },
+    {
+      "t": 818.01,
+      "text": "Great to hear."
+    },
+    {
+      "t": 819.09,
+      "text": "Tell me how you usually assess the current performance of a brand."
+    },
+    {
+      "t": 823.13,
+      "text": "I analyze four key areas."
+    },
+    {
+      "t": 825.93,
+      "text": "Market data, consumer behavior, competitor activity,"
+    },
+    {
+      "t": 830.21,
+      "text": "and internal performance."
+    },
+    {
+      "t": 832.37,
+      "text": "I look at penetration, frequency, distribution gaps,"
+    },
+    {
+      "t": 836.61,
+      "text": "region-wise sales, and channel performance."
+    },
+    {
+      "t": 839.89,
+      "text": "Then I evaluate consumer perception,"
+    },
+    {
+      "t": 842.65,
+      "text": "brand equity scores, and digital sentiment."
+    },
+    {
+      "t": 845.95,
+      "text": "I also track competitor pricing, innovation, and promotions."
+    },
+    {
+      "t": 850.39,
+      "text": "This helps me identify whether the challenge"
+    },
+    {
+      "t": 852.65,
+      "text": "is awareness, availability, affordability, or relevance."
+    },
+    {
+      "t": 856.89,
+      "text": "And then I shape strategies accordingly."
+    },
+    {
+      "t": 859.65,
+      "text": "Brand managers often balance long-term plans"
+    },
+    {
+      "t": 862.97,
+      "text": "with short-term sales pressure."
+    },
+    {
+      "t": 865.23,
+      "text": "How do you manage that?"
+    },
+    {
+      "t": 866.85,
+      "text": "I said clear KPIs for each."
+    },
+    {
+      "t": 869.61,
+      "text": "Long-term KPIs include brand equity,"
+    },
+    {
+      "t": 872.85,
+      "text": "penetration, product roadmap,"
+    },
+    {
+      "t": 875.29,
+      "text": "and strengthening positioning."
+    },
+    {
+      "t": 877.37,
+      "text": "Short-term KPIs include quarterly sales numbers,"
+    },
+    {
+      "t": 880.99,
+      "text": "trade activation, availability, and tactical promotions."
+    },
+    {
+      "t": 885.55,
+      "text": "I make sure that even short-term promotions reflect the brand's strategic direction."
+    },
+    {
+      "t": 891.07,
+      "text": "Tactical moves should support the long-term narrative, not dilute it."
+    },
+    {
+      "t": 895.71,
+      "text": "Tell me about a situation where you helped a struggling brand recover."
+    },
+    {
+      "t": 900.31,
+      "text": "I once handled a variant that was losing share due to both taste issues and weak communication."
+    },
+    {
+      "t": 906.83,
+      "text": "I ran retail audits, consumer groups, and blind taste tests."
+    },
+    {
+      "t": 911.31,
+      "text": "The insight showed the product needed a better formulation"
+    },
+    {
+      "t": 914.67,
+      "text": "and clearer value communication."
+    },
+    {
+      "t": 917.23,
+      "text": "We improved the recipe, upgraded the packaging,"
+    },
+    {
+      "t": 920.27,
+      "text": "and launched a digital first campaign"
+    },
+    {
+      "t": 922.71,
+      "text": "focusing on taste superiority."
+    },
+    {
+      "t": 925.27,
+      "text": "Within six months, repeat purchases improved,"
+    },
+    {
+      "t": 928.39,
+      "text": "distribution picked up,"
+    },
+    {
+      "t": 929.83,
+      "text": "and the brand regained lost share."
+    },
+    {
+      "t": 932.51,
+      "text": "How do you decide when it's time to refresh packaging?"
+    },
+    {
+      "t": 936.55,
+      "text": "I look at consumer relevance, shelf standout, and functionality."
+    },
+    {
+      "t": 941.43,
+      "text": "If consumers say the pack looks outdated, if it blends into the shelf too easily, or if"
+    },
+    {
+      "t": 947.03,
+      "text": "there are usability issues, it's time to refresh."
+    },
+    {
+      "t": 950.55,
+      "text": "But I ensure recognizability stays intact, so loyal customers don't get confused."
+    },
+    {
+      "t": 956.31,
+      "text": "A refresh should improve identity, not disrupt it."
+    },
+    {
+      "t": 960.31,
+      "text": "Cross-functional collaboration is important."
+    },
+    {
+      "t": 963.15,
+      "text": "How do you handle that?"
+    },
+    {
+      "t": 964.55,
+      "text": "I work closely with R&D, supply chain, sales, finance, and procurement."
+    },
+    {
+      "t": 970.97,
+      "text": "I run regular check-ins, share clear briefs, and align everyone toward the brand objective."
+    },
+    {
+      "t": 977.23,
+      "text": "I believe transparency and clarity are essential."
+    },
+    {
+      "t": 980.73,
+      "text": "When every team understands the why, execution becomes much smoother."
+    },
+    {
+      "t": 985.67,
+      "text": "How do you typically brief an agency?"
+    },
+    {
+      "t": 988.45,
+      "text": "I structure briefs around the brand challenge, target in the..."
+    },
+    {
+      "t": 992.89,
+      "text": "Good morning and thank you for joining us today."
+    },
+    {
+      "t": 996.07,
+      "text": "Could you start by telling me about your professional background and why you chose brand management?"
+    },
+    {
+      "t": 1002.55,
+      "text": "Good morning."
+    },
+    {
+      "t": 1003.55,
+      "text": "Thank you for having me."
+    },
+    {
+      "t": 1004.79,
+      "text": "I started my career in marketing operations and trade marketing, which helped me understand"
+    },
+    {
+      "t": 1010.75,
+      "text": "consumer behavior and retail dynamics first hand."
+    },
+    {
+      "t": 1014.99,
+      "text": "Later, I moved into brand strategy and campaign management, where I realized that"
+    },
+    {
+      "t": 1020.51,
+      "text": "But shaping the brand's direction, from positioning to communication, is what excites me most."
+    },
+    {
+      "t": 1026.99,
+      "text": "That's why I pursue a career in brand management."
+    },
+    {
+      "t": 1029.91,
+      "text": "Great."
+    },
+    {
+      "t": 1031.11,
+      "text": "In your opinion, what makes a brand strong and sustainable?"
+    },
+    {
+      "t": 1035.43,
+      "text": "A strong brand has clarity, consistency, and emotional connection."
+    },
+    {
+      "t": 1041.19,
+      "text": "It communicates a clear value proposition, stands out from competitors, and builds trust"
+    },
+    {
+      "t": 1046.95,
+      "text": "over time."
+    },
+    {
+      "t": 1048.39,
+      "text": "Most importantly, it stays relevant to consumers' evolving needs without losing its identity."
+    },
+    {
+      "t": 1054.95,
+      "text": "Suppose you take over a brand that has stable sales but stagnant growth."
+    },
+    {
+      "t": 1060.79,
+      "text": "How would you approach it?"
+    },
+    {
+      "t": 1062.83,
+      "text": "First I would analyze performance across multiple dimensions."
+    },
+    {
+      "t": 1066.95,
+      "text": "Market share, consumer perception, penetration, distribution and competitor activities."
+    },
+    {
+      "t": 1073.47,
+      "text": "I'd also look at communication effectiveness and innovation gaps."
+    },
+    {
+      "t": 1078.07,
+      "text": "Since I understand the reasons behind stagnation, I develop a strategy that could include refreshing"
+    },
+    {
+      "t": 1084.07,
+      "text": "messaging, introducing new pack formats or variants, optimizing distribution or targeting"
+    },
+    {
+      "t": 1090.43,
+      "text": "a new consumer segment."
+    },
+    {
+      "t": 1092.75,
+      "text": "Let's say younger consumers don't connect with the brand."
+    },
+    {
+      "t": 1096.03,
+      "text": "How would you rebuild relevance?"
+    },
+    {
+      "t": 1098.47,
+      "text": "I would first understand their lifestyle, values, and expectations, then I'd adapt"
+    },
+    {
+      "t": 1104.11,
+      "text": "the brand tone, visual identity, and communication channels to align with them."
+    },
+    {
+      "t": 1110.07,
+      "text": "Digital campaigns, social media engagement, and influencer collaborations often help."
+    },
+    {
+      "t": 1115.93,
+      "text": "At the same time, I'd ensure the brand retains its core promise, so existing loyal customers"
+    },
+    {
+      "t": 1121.61,
+      "text": "still recognize it."
+    },
+    {
+      "t": 1123.61,
+      "text": "How do you decide whether to launch a new product?"
+    },
+    {
+      "t": 1126.93,
+      "text": "I evaluate three aspects."
+    },
+    {
+      "t": 1129.61,
+      "text": "need, commercial viability, and feasibility? Is there an unmet need or opportunity? Will"
+    },
+    {
+      "t": 1136.65,
+      "text": "it be profitable and scalable? Can it be produced consistently? If all three conditions are positive,"
+    },
+    {
+      "t": 1143.33,
+      "text": "the idea is worth pursuing."
+    },
+    {
+      "t": 1145.61,
+      "text": "Suppose your R&D team proposes a product you don't believe will succeed. How would"
+    },
+    {
+      "t": 1150.81,
+      "text": "you handle it?"
+    },
+    {
+      "t": 1152.24,
+      "text": "I would provide constructive feedback based on data, consumer insights, competitor"
+    },
+    {
+      "t": 1157.6,
+      "text": "benchmarks and financial analysis. I'd collaborate with the team to refine the idea or test it"
+    },
+    {
+      "t": 1164.04,
+      "text": "in a limited market. The goal is to ensure the brand makes decisions backed by evidence"
+    },
+    {
+      "t": 1169.56,
+      "text": "while maintaining trust with cross-functional teams."
+    },
+    {
+      "t": 1173.32,
+      "text": "How do you measure the effectiveness of a brand campaign?"
+    },
+    {
+      "t": 1177.0,
+      "text": "I evaluate campaigns in three stages, execution, performance, and impact. Execution checks"
+    },
+    {
+      "t": 1184.44,
+      "text": "if the brief was delivered on time and on budget."
+    },
+    {
+      "t": 1187.8,
+      "text": "Performance measures reach, engagement,"
+    },
+    {
+      "t": 1190.36,
+      "text": "and retailer compliance."
+    },
+    {
+      "t": 1192.48,
+      "text": "Impact evaluates outcomes such as awareness,"
+    },
+    {
+      "t": 1195.96,
+      "text": "consideration, trial, repeat purchase, and sales growth."
+    },
+    {
+      "t": 1200.28,
+      "text": "Post-campaign review helps refine future strategies."
+    },
+    {
+      "t": 1204.36,
+      "text": "Imagine a competitor launches aggressive promotions."
+    },
+    {
+      "t": 1207.92,
+      "text": "How would you respond?"
+    },
+    {
+      "t": 1209.72,
+      "text": "I would first assess the actual threat."
+    },
+    {
+      "t": 1212.5,
+      "text": "If it's short-term and limited, I might focus on brand differentiation rather than price."
+    },
+    {
+      "t": 1218.54,
+      "text": "If it's affecting our market share, I'd consider targeted promotions or value communication"
+    },
+    {
+      "t": 1223.94,
+      "text": "to protect core consumers."
+    },
+    {
+      "t": 1226.3,
+      "text": "The aim is to defend the brand without eroding equity."
+    },
+    {
+      "t": 1230.74,
+      "text": "Budgets are often constrained."
+    },
+    {
+      "t": 1232.5,
+      "text": "How do you prioritize spending?"
+    },
+    {
+      "t": 1234.82,
+      "text": "I allocate based on impact."
+    },
+    {
+      "t": 1237.46,
+      "text": "Channels that drive penetration, awareness, or trial get priority."
+    },
+    {
+      "t": 1242.34,
+      "text": "with lower ROI are reduced. I continuously evaluate past performance to optimize allocation."
+    },
+    {
+      "t": 1250.18,
+      "text": "Every investment must either strengthen brand equity or generate measurable sales impact."
+    },
+    {
+      "t": 1256.42,
+      "text": "How do you collaborate with cross-functional teams?"
+    },
+    {
+      "t": 1259.7,
+      "text": "I maintain transparency, align objectives, and communicate frequently. I ensure that"
+    },
+    {
+      "t": 1265.94,
+      "text": "R&D, sales, supply chain, and finance understand their role in achieving brand goals."
+    },
+    {
+      "t": 1272.86,
+      "text": "Shared understanding builds ownership, ensures smoother execution, and prevents misalignment."
+    },
+    {
+      "t": 1279.58,
+      "text": "Finally, why do you think you are the right candidate for this role?"
+    },
+    {
+      "t": 1283.94,
+      "text": "I bring strategic thinking, creative problem solving, and analytical rigor."
+    },
+    {
+      "t": 1289.46,
+      "text": "I understand consumers collaborate effectively with teams and make evidence-based decisions."
+    },
+    {
+      "t": 1295.9,
+      "text": "I'm passionate about building brands that grow sustainably, deliver commercial results,"
+    },
+    {
+      "t": 1301.38,
+      "text": "and connect meaningfully with consumers."
+    },
+    {
+      "t": 1303.86,
+      "text": "We start with a brief overview of your professional background and how you got into brand management."
+    },
+    {
+      "t": 1310.42,
+      "text": "Good morning, and thank you for having me."
+    },
+    {
+      "t": 1312.94,
+      "text": "I started in marketing operations and trade marketing, which gave me insight into consumer"
+    },
+    {
+      "t": 1318.42,
+      "text": "behavior at the point of purchase."
+    },
+    {
+      "t": 1321.06,
+      "text": "Later, I moved into brand strategy, where I managed campaigns, launches, and market analysis."
+    },
+    {
+      "t": 1327.98,
+      "text": "Over time, I realized I enjoy guiding a brand's overall direction, deciding how it's perceived,"
+    },
+    {
+      "t": 1334.62,
+      "text": "how it communicates, and how it grows in market share."
+    },
+    {
+      "t": 1338.54,
+      "text": "That's what led me to focus on brand management."
+    },
+    {
+      "t": 1341.9,
+      "text": "When you take on a brand that isn't performing as expected, what's your first step?"
+    },
+    {
+      "t": 1347.06,
+      "text": "I like to start with a deep dive audit."
+    },
+    {
+      "t": 1350.02,
+      "text": "I look at sales trends, distribution gaps, pricing alignment, and promotional effectiveness."
+    },
+    {
+      "t": 1356.38,
+      "text": "I also check consumer insights, brand perception, and competitor activity."
+    },
+    {
+      "t": 1361.78,
+      "text": "Finally, I speak with sales and retail teams to get a ground-level understanding."
+    },
+    {
+      "t": 1367.22,
+      "text": "Once I have a clear picture of the problem areas, I can design targeted strategies to"
+    },
+    {
+      "t": 1371.86,
+      "text": "address them."
+    },
+    {
+      "t": 1373.26,
+      "text": "Suppose your brand is strong in urban areas but losing relevance in smaller towns."
+    },
+    {
+      "t": 1378.9,
+      "text": "How would you tackle that?"
+    },
+    {
+      "t": 1380.46,
+      "text": "I'd first identify why the brand isn't connecting in those towns."
+    },
+    {
+      "t": 1384.94,
+      "text": "Is it price, distribution, communication, or product relevance?"
+    },
+    {
+      "t": 1390.26,
+      "text": "Then I'd adapt strategies specifically for those markets."
+    },
+    {
+      "t": 1394.14,
+      "text": "Smaller pack sizes, localized messaging, tailored promotions, or on-ground activations."
+    },
+    {
+      "t": 1400.58,
+      "text": "The key is to respect the brand's core identity while making it relevant to new"
+    },
+    {
+      "t": 1405.46,
+      "text": "audiences."
+    },
+    {
+      "t": 1407.3,
+      "text": "When a competitor launches an aggressive campaign and captures a lot of attention, what's your"
+    },
+    {
+      "t": 1412.36,
+      "text": "response strategy?"
+    },
+    {
+      "t": 1414.14,
+      "text": "I would first analyze what's resonating with consumers."
+    },
+    {
+      "t": 1417.86,
+      "text": "If it's a short-term tactic, I'd focus on reinforcing our brand's differentiation rather"
+    },
+    {
+      "t": 1423.46,
+      "text": "than copying them."
+    },
+    {
+      "t": 1425.16,
+      "text": "If it affects our core consumers, I'd design a tactical response, targeted promotions,"
+    },
+    {
+      "t": 1431.02,
+      "text": "communication emphasizing unique benefits, or value-added offers."
+    },
+    {
+      "t": 1436.18,
+      "text": "My goal is to protect brand equity while responding strategically."
+    },
+    {
+      "t": 1441.29,
+      "text": "How do you decide when to innovate versus improve existing products?"
+    },
+    {
+      "t": 1446.13,
+      "text": "I look at consumer feedback, market gaps, and competitor innovations."
+    },
+    {
+      "t": 1451.41,
+      "text": "If consumers are asking for something new or a gap exists in the category, I lean towards"
+    },
+    {
+      "t": 1457.13,
+      "text": "innovation."
+    },
+    {
+      "t": 1458.53,
+      "text": "If the issue is satisfaction or repeat purchase, I focus on improving the existing product,"
+    },
+    {
+      "t": 1464.85,
+      "text": "like packaging, features, or messaging."
+    },
+    {
+      "t": 1467.89,
+      "text": "The decision is always data-driven"
+    },
+    {
+      "t": 1470.31,
+      "text": "and aligned with brand strategy."
+    },
+    {
+      "t": 1472.97,
+      "text": "Let's say the management wants a quick product launch,"
+    },
+    {
+      "t": 1476.25,
+      "text": "but you feel more testing is needed."
+    },
+    {
+      "t": 1478.57,
+      "text": "How would you handle that?"
+    },
+    {
+      "t": 1480.51,
+      "text": "I would present my concerns with evidence."
+    },
+    {
+      "t": 1482.65,
+      "text": "Good morning and welcome."
+    },
+    {
+      "t": 1484.57,
+      "text": "Let's start with a simple question."
+    },
+    {
+      "t": 1486.89,
+      "text": "Can you tell me a bit about your journey"
+    },
+    {
+      "t": 1488.89,
+      "text": "into brand management?"
+    },
+    {
+      "t": 1490.61,
+      "text": "Good morning and thank you for having me."
+    },
+    {
+      "t": 1492.81,
+      "text": "I began my career in trade marketing,"
+    },
+    {
+      "t": 1494.93,
+      "text": "which gave me a practical understanding"
+    },
+    {
+      "t": 1496.93,
+      "text": "of how consumers interact with brands"
+    },
+    {
+      "t": 1499.23,
+      "text": "at the point of sale."
+    },
+    {
+      "t": 1500.81,
+      "text": "Later, I moved into marketing strategy and brand campaigns,"
+    },
+    {
+      "t": 1504.41,
+      "text": "and that's when I realized I enjoy guiding a brand's story"
+    },
+    {
+      "t": 1508.21,
+      "text": "and shaping its market presence."
+    },
+    {
+      "t": 1510.41,
+      "text": "Brand management allows me to combine creativity,"
+    },
+    {
+      "t": 1513.53,
+      "text": "analytics, and consumer understanding,"
+    },
+    {
+      "t": 1515.89,
+      "text": "which I find very fulfilling."
+    },
+    {
+      "t": 1517.93,
+      "text": "Great."
+    },
+    {
+      "t": 1518.93,
+      "text": "When you join a brand that is underperforming,"
+    },
+    {
+      "t": 1521.93,
+      "text": "What's your first step?"
+    },
+    {
+      "t": 1523.83,
+      "text": "I start with a comprehensive audit."
+    },
+    {
+      "t": 1526.03,
+      "text": "I review sales data, distribution coverage,"
+    },
+    {
+      "t": 1529.37,
+      "text": "repeat purchase patterns, and promotional effectiveness."
+    },
+    {
+      "t": 1532.97,
+      "text": "I also dive into consumer insights,"
+    },
+    {
+      "t": 1535.21,
+      "text": "digital engagement, and social sentiment."
+    },
+    {
+      "t": 1538.13,
+      "text": "Speaking with the sales and retail teams"
+    },
+    {
+      "t": 1540.25,
+      "text": "often uncovers real world issues"
+    },
+    {
+      "t": 1542.37,
+      "text": "that aren't immediately visible in the data."
+    },
+    {
+      "t": 1545.49,
+      "text": "Only after this holistic view"
+    },
+    {
+      "t": 1547.45,
+      "text": "do I develop a strategic action plan."
+    },
+    {
+      "t": 1550.43,
+      "text": "Suppose your brand is performing well in major cities but losing traction in smaller towns."
+    },
+    {
+      "t": 1556.99,
+      "text": "How would you approach the issue? I'd first identify the differences in consumer behavior,"
+    },
+    {
+      "t": 1562.83,
+      "text": "pricing expectations, and access points. Based on that, I could adjust messaging,"
+    },
+    {
+      "t": 1568.51,
+      "text": "introduce smaller pack sizes, or run localized activations. The key is to maintain the"
+    },
+    {
+      "t": 1574.27,
+      "text": "the brand's identity while adapting to local needs."
+    },
+    {
+      "t": 1578.15,
+      "text": "Imagine a competitor launches a new product that is quickly gaining attention."
+    },
+    {
+      "t": 1583.27,
+      "text": "What would be your response?"
+    },
+    {
+      "t": 1584.91,
+      "text": "I'd analyze why it resonates, price, packaging, or communication."
+    },
+    {
+      "t": 1590.19,
+      "text": "Then I'd focus on reinforcing our unique strengths."
+    },
+    {
+      "t": 1594.23,
+      "text": "Sometimes that means creating targeted promotions, limited editions, or digital campaigns"
+    },
+    {
+      "t": 1599.23,
+      "text": "emphasizing our differentiators."
+    },
+    {
+      "t": 1601.99,
+      "text": "It's about smart, evidence-based responses rather than reactive imitation."
+    },
+    {
+      "t": 1607.49,
+      "text": "How do you decide between innovating a new product or improving an existing one?"
+    },
+    {
+      "t": 1612.97,
+      "text": "It depends on consumer need, market gaps, and brand strategy."
+    },
+    {
+      "t": 1617.59,
+      "text": "If a new opportunity exists that fills an unmet need, innovation is justified."
+    },
+    {
+      "t": 1623.43,
+      "text": "If the existing product can be optimized to improve satisfaction or retention, enhancement"
+    },
+    {
+      "t": 1629.51,
+      "text": "is better."
+    },
+    {
+      "t": 1630.79,
+      "text": "Every decision is backed by insights and commercial analysis."
+    },
+    {
+      "t": 1635.27,
+      "text": "Suppose management wants a..."
+    },
+    {
+      "t": 1636.95,
+      "text": "Good morning."
+    },
+    {
+      "t": 1637.95,
+      "text": "Thank you for joining us today."
+    },
+    {
+      "t": 1639.71,
+      "text": "Can you start by telling me about your background and how you came into brand management?"
+    },
+    {
+      "t": 1645.15,
+      "text": "Good morning and thank you."
+    },
+    {
+      "t": 1647.03,
+      "text": "I began my career in trade marketing, which gave me first-hand exposure to how products"
+    },
+    {
+      "t": 1652.11,
+      "text": "perform at the point of sale."
+    },
+    {
+      "t": 1654.59,
+      "text": "Later I transitioned into brand strategy, managing campaigns, product launches and"
+    },
+    {
+      "t": 1660.19,
+      "text": "market research. I realized I enjoy shaping a brand's story, positioning, and long-term"
+    },
+    {
+      "t": 1666.27,
+      "text": "growth, combining creativity with analytics. That's what drew me to brand management."
+    },
+    {
+      "t": 1672.67,
+      "text": "When you take over a brand that's underperforming, what's your first step?"
+    },
+    {
+      "t": 1677.29,
+      "text": "I start with a complete audit. I look at sales trends, distribution gaps, repeat purchase"
+    },
+    {
+      "t": 1683.19,
+      "text": "behavior, pricing, and promotions. I also analyze consumer insights, social media"
+    },
+    {
+      "t": 1689.43,
+      "text": "sentiment and competitor strategies."
+    },
+    {
+      "t": 1692.59,
+      "text": "Speaking with sales and retail teams helps uncover practical challenges that aren't always"
+    },
+    {
+      "t": 1697.51,
+      "text": "visible in the data."
+    },
+    {
+      "t": 1699.43,
+      "text": "With this full picture, I can design a targeted strategy."
+    },
+    {
+      "t": 1703.59,
+      "text": "Suppose your brand is performing well in urban areas but declining in rural markets."
+    },
+    {
+      "t": 1708.79,
+      "text": "How would you address this?"
+    },
+    {
+      "t": 1710.31,
+      "text": "I'd study differences in consumer needs, purchasing patterns, and retail environments."
+    },
+    {
+      "t": 1716.75,
+      "text": "Based on insights, I might introduce smaller pack sizes, adjust pricing, or run localized"
+    },
+    {
+      "t": 1723.03,
+      "text": "campaigns and in-store promotions."
+    },
+    {
+      "t": 1725.79,
+      "text": "The key is to maintain the brand identity while ensuring relevance in these new markets."
+    },
+    {
+      "t": 1731.43,
+      "text": "Imagine a competitor launches a new product that's rapidly gaining attention."
+    },
+    {
+      "t": 1736.39,
+      "text": "What's your approach?"
+    },
+    {
+      "t": 1737.59,
+      "text": "I'd analyze why consumers are responding, price, features, packaging, or messaging."
+    },
+    {
+      "t": 1744.71,
+      "text": "Then I'd reinforce our brand's unique strengths through targeted campaigns or limited edition"
+    },
+    {
+      "t": 1750.27,
+      "text": "offers."
+    },
+    {
+      "t": 1751.27,
+      "text": "The aim is to differentiate intelligently rather than simply copying the competitor."
+    },
+    {
+      "t": 1756.63,
+      "text": "How do you decide between innovating a new product or improving an existing one?"
+    },
+    {
+      "t": 1762.43,
+      "text": "It depends on the market opportunity."
+    },
+    {
+      "t": 1765.03,
+      "text": "If there is an unmet consumer need, innovation is the right choice."
+    },
+    {
+      "t": 1769.19,
+      "text": "If the challenge is product satisfaction or retention, improving the current product"
+    },
+    {
+      "t": 1774.11,
+      "text": "is better. Decisions are always backed by consumer insights, competitor analysis, and"
+    },
+    {
+      "t": 1779.95,
+      "text": "financial feasibility. Let's say management wants a quick launch."
+    },
+    {
+      "t": 1786.12,
+      "text": "Let's move to innovation. How do you decide when it's time for a new product or packaging"
+    },
+    {
+      "t": 1791.6,
+      "text": "change? I base the decision on three things. Consumer"
+    },
+    {
+      "t": 1795.32,
+      "text": "insights, our needs evolving, are there pain points? Category trends, are competitors"
+    },
+    {
+      "t": 1800.92,
+      "text": "moving? Are there new gaps? Business viability, cost, feasibility, margins, and supply readiness."
+    },
+    {
+      "t": 1809.24,
+      "text": "When these three align, innovation becomes meaningful rather than just activity."
+    },
+    {
+      "t": 1814.08,
+      "text": "Good. Brand managers often work with multiple departments. How do you coordinate with sales,"
+    },
+    {
+      "t": 1820.12,
+      "text": "R&D, finance, and supply chain?"
+    },
+    {
+      "t": 1823.04,
+      "text": "I maintain clear proactive communication. For example, with sales, I align on trade"
+    },
+    {
+      "t": 1828.84,
+      "text": "promotions and volume forecasts. With R&D, I collaborate on product improvements, sensory"
+    },
+    {
+      "t": 1835.0,
+      "text": "tests and feasibility. With finance, I work on pricing, COGS analysis and budgeting. With"
+    },
+    {
+      "t": 1842.0,
+      "text": "supply chain, I plan demand and resolve stock issues. I always create a shared objective"
+    },
+    {
+      "t": 1848.36,
+      "text": "so that everyone works in the same direction."
+    },
+    {
+      "t": 1851.16,
+      "text": "Let's talk about challenge handling. Can you describe a tough situation you faced"
+    },
+    {
+      "t": 1855.72,
+      "text": "as a brand manager?"
+    },
+    {
+      "t": 1857.16,
+      "text": "Yes, we once faced a sudden raw material price increase that affected margins."
+    },
+    {
+      "t": 1862.88,
+      "text": "Instead of reducing quality, I coordinated with R&D to explore cost-optimized"
+    },
+    {
+      "t": 1868.24,
+      "text": "formulations and with finance to adjust pricing and pack size mix."
+    },
+    {
+      "t": 1873.32,
+      "text": "We also ran a value communication campaign to maintain consumer trust."
+    },
+    {
+      "t": 1878.52,
+      "text": "The brand retained market share while keeping profitability stable."
+    },
+    {
+      "t": 1882.64,
+      "text": "Very good."
+    },
+    {
+      "t": 1883.72,
+      "text": "What is your approach to competitor analysis?"
+    },
+    {
+      "t": 1886.8,
+      "text": "I review competitor activity weekly, pricing, promotions, digital engagement, new launches,"
+    },
+    {
+      "t": 1893.8,
+      "text": "distribution changes."
+    },
+    {
+      "t": 1895.8,
+      "text": "Then I map risks and opportunities, ensuring our brand stays differentiated and relevant."
+    },
+    {
+      "t": 1901.8,
+      "text": "What do you think are the three most important qualities of an effective brand manager?"
+    },
+    {
+      "t": 1906.8,
+      "text": "I would say strategic thinking, consumer empathy, and strong execution discipline."
+    },
+    {
+      "t": 1913.83,
+      "text": "A brand manager should be creative, analytical, and operational at the same time."
+    },
+    {
+      "t": 1919.43,
+      "text": "Great. Finally, why should we select you for this role?"
+    },
+    {
+      "t": 1923.43,
+      "text": "Because I bring strong experience in brand building, campaign execution, and cross-functional leadership."
+    },
+    {
+      "t": 1930.43,
+      "text": "I can balance creativity with commercial thinking and ensure the brand grows sustainably."
+    },
+    {
+      "t": 1936.43,
+      "text": "Most importantly, I'm passionate about understanding consumers and building brands that truly connect with them."
+    },
+    {
+      "t": 1943.43,
+      "text": "Thank you for your time. We will get back to you soon."
+    },
+    {
+      "t": 1946.43,
+      "text": "Thank you. I look forward to hearing from you."
+    },
+    {
+      "t": 1948.43,
+      "text": "Good morning. Thank you for joining us today."
+    },
+    {
+      "t": 1951.43,
+      "text": "Let's begin with a simple introduction."
+    },
+    {
+      "t": 1953.43,
+      "text": "Could you walk me through your background and how you developed an interest in brand management?"
+    },
+    {
+      "t": 1958.43,
+      "text": "Good morning, and thank you for having me."
+    },
+    {
+      "t": 1960.43,
+      "text": "I started my career in marketing as a coordinator handling promotions and digital campaigns."
+    },
+    {
+      "t": 1966.43,
+      "text": "campaigns. Over time, I realized that the most exciting part of marketing is shaping"
+    },
+    {
+      "t": 1971.77,
+      "text": "how consumers actually feel about a brand. I gradually moved into brand roles, and for"
+    },
+    {
+      "t": 1977.63,
+      "text": "the past few years, I've been managing product portfolios, leading campaigns, and working"
+    },
+    {
+      "t": 1983.47,
+      "text": "closely with R&D, sales, and supply chain. I'm passionate about strategy, consumer insights,"
+    },
+    {
+      "t": 1990.75,
+      "text": "and building brands that make emotional connections."
+    },
+    {
+      "t": 1994.55,
+      "text": "Understanding Brand Strategy Great."
+    },
+    {
+      "t": 1997.39,
+      "text": "Let's talk about brand strategy."
+    },
+    {
+      "t": 1999.47,
+      "text": "How do you define a successful brand strategy and how do you normally build one from scratch?"
+    },
+    {
+      "t": 2005.15,
+      "text": "A successful brand strategy is a roadmap that clearly defines who we are, what we stand"
+    },
+    {
+      "t": 2010.75,
+      "text": "for and how we deliver value to consumers."
+    },
+    {
+      "t": 2014.15,
+      "text": "I start with deep consumer understanding, what motivates them, what frustrates them,"
+    },
+    {
+      "t": 2019.99,
+      "text": "unmet needs exist. Then I study the competition and category trends. Once I understand the"
+    },
+    {
+      "t": 2027.03,
+      "text": "landscape, I craft a brand purpose, a unique value proposition, a positioning statement,"
+    },
+    {
+      "t": 2033.91,
+      "text": "a tone of voice, and key communication pillars. Finally, I develop an execution plan that connects"
+    },
+    {
+      "t": 2041.17,
+      "text": "all consumer touch points consistently. Consumer insights and research. Let's dive into consumer"
+    },
+    {
+      "t": 2047.89,
+      "text": "insights, tell me about a time you identified an insight that helped shape a campaign or"
+    },
+    {
+      "t": 2053.29,
+      "text": "product decision."
+    },
+    {
+      "t": 2054.89,
+      "text": "Sure. In my previous role, we noticed through focus groups that mothers felt our product"
+    },
+    {
+      "t": 2060.05,
+      "text": "was good but too functional. The emotional connection was missing. So we shifted our"
+    },
+    {
+      "t": 2065.49,
+      "text": "communication from product benefits to emotional storytelling, showing real-life moments of"
+    },
+    {
+      "t": 2071.17,
+      "text": "family bonding. We redesigned the packaging to feel warmer and more homely. After"
+    },
+    {
+      "t": 2077.49,
+      "text": "After the relaunch, brand recall and overall engagement increased significantly."
+    },
+    {
+      "t": 2082.85,
+      "text": "How do you normally gather consumer insights?"
+    },
+    {
+      "t": 2085.45,
+      "text": "I use a combination of qualitative research, focus groups, home visits, in-store observations,"
+    },
+    {
+      "t": 2092.13,
+      "text": "quantitative research, surveys, brand health trackers, social listening, sales data analysis,"
+    },
+    {
+      "t": 2099.09,
+      "text": "and retailer feedback."
+    },
+    {
+      "t": 2101.53,
+      "text": "Insights usually come from connecting dots across multiple sources, not just one."
+    },
+    {
+      "t": 2106.85,
+      "text": "development and execution. Let's talk about campaigns. Walk me through your end-to-end"
+    },
+    {
+      "t": 2112.09,
+      "text": "process for developing a major campaign."
+    },
+    {
+      "t": 2114.95,
+      "text": "My process is structured into five states."
+    },
+    {
+      "t": 2117.71,
+      "text": "Good morning. Thanks for joining us. Can you tell me about your professional journey"
+    },
+    {
+      "t": 2122.43,
+      "text": "and why you chose brand management?"
+    },
+    {
+      "t": 2125.53,
+      "text": "Good morning and thank you. I started in trade marketing, which gave me first-hand"
+    },
+    {
+      "t": 2130.01,
+      "text": "experience with how consumers interact with brands at the point of purchase. Later,"
+    },
+    {
+      "t": 2134.61,
+      "text": "I transitioned into brand strategy and campaign management, where I discovered my passion for"
+    },
+    {
+      "t": 2139.69,
+      "text": "shaping a brand's positioning, messaging, and growth."
+    },
+    {
+      "t": 2143.69,
+      "text": "Brand management allows me to combine analytics, creativity, and consumer insights, which I"
+    },
+    {
+      "t": 2148.89,
+      "text": "find very rewarding."
+    },
+    {
+      "t": 2151.17,
+      "text": "When you take over a brand that is underperforming, what is your first approach?"
+    },
+    {
+      "t": 2157.09,
+      "text": "I conduct a thorough audit, looking at sales trends, distribution coverage, repeat purchase"
+    },
+    {
+      "t": 2163.33,
+      "text": "rates, pricing, and promotional effectiveness."
+    },
+    {
+      "t": 2166.69,
+      "text": "I also assess consumer insights, digital engagement, and competitor activity."
+    },
+    {
+      "t": 2172.37,
+      "text": "Finally, I speak with sales teams and retailers to understand real-world challenges."
+    },
+    {
+      "t": 2178.17,
+      "text": "Only after this full analysis can I design a targeted action plan."
+    },
+    {
+      "t": 2183.33,
+      "text": "Suppose your brand is strong in urban markets, but declining in smaller towns."
+    },
+    {
+      "t": 2189.65,
+      "text": "How would you address it?"
+    },
+    {
+      "t": 2191.33,
+      "text": "I would analyze consumer behavior, pricing expectations, and retail infrastructure in"
+    },
+    {
+      "t": 2197.01,
+      "text": "those towns."
+    },
+    {
+      "t": 2198.45,
+      "text": "Based on insights, I might introduce smaller pack sizes, adapt messaging, run localized"
+    },
+    {
+      "t": 2204.17,
+      "text": "promotions, or conduct in-store activations."
+    },
+    {
+      "t": 2207.57,
+      "text": "The goal is to remain consistent with brand identity while becoming more relevant locally."
+    },
+    {
+      "t": 2213.81,
+      "text": "Imagine a competitor launches a new product that's gaining attention quickly."
+    },
+    {
+      "t": 2218.69,
+      "text": "How would you respond?"
+    },
+    {
+      "t": 2220.45,
+      "text": "I would first understand why the competitor's product is resonating, whether it's price,"
+    },
+    {
+      "t": 2225.73,
+      "text": "packaging, features, or messaging."
+    },
+    {
+      "t": 2228.61,
+      "text": "Then I'd emphasize our brand's differentiators through targeted campaigns, digital engagement,"
+    },
+    {
+      "t": 2234.33,
+      "text": "or limited edition offerings."
+    },
+    {
+      "t": 2236.45,
+      "text": "It's about strategic differentiation rather than copying."
+    },
+    {
+      "t": 2240.41,
+      "text": "How do you decide between innovating a new product or improving an existing one?"
+    },
+    {
+      "t": 2246.57,
+      "text": "I evaluate consumer needs, category gaps, and brand objectives."
+    },
+    {
+      "t": 2251.83,
+      "text": "If there is an unmet consumer need, I focus on innovation."
+    },
+    {
+      "t": 2255.59,
+      "text": "If there are issues with satisfaction or retention, I optimize the current product."
+    },
+    {
+      "t": 2261.03,
+      "text": "All decisions are backed by data, insights, and financial feasibility."
+    },
+    {
+      "t": 2266.27,
+      "text": "Suppose management wants a fast, let's move to innovation."
+    },
+    {
+      "t": 2270.43,
+      "text": "How do you decide when it's time for a new product or packaging change?"
+    },
+    {
+      "t": 2274.39,
+      "text": "I base the decision on three things."
+    },
+    {
+      "t": 2276.63,
+      "text": "Consumer insights, our needs evolving,"
+    },
+    {
+      "t": 2279.43,
+      "text": "are there pain points?"
+    },
+    {
+      "t": 2281.07,
+      "text": "Category trends, our competitors moving,"
+    },
+    {
+      "t": 2283.87,
+      "text": "are there new gaps?"
+    },
+    {
+      "t": 2285.39,
+      "text": "Business viability, cost, feasibility,"
+    },
+    {
+      "t": 2288.91,
+      "text": "margins, and supply readiness."
+    },
+    {
+      "t": 2291.47,
+      "text": "When these three align,"
+    },
+    {
+      "t": 2292.71,
+      "text": "innovation becomes meaningful rather than just activity."
+    },
+    {
+      "t": 2296.31,
+      "text": "Good."
+    },
+    {
+      "t": 2297.19,
+      "text": "Brand managers often work with multiple departments."
+    },
+    {
+      "t": 2300.43,
+      "text": "How do you coordinate with sales, R&D, finance,"
+    },
+    {
+      "t": 2304.07,
+      "text": "and supply chain."
+    },
+    {
+      "t": 2305.35,
+      "text": "I maintain clear proactive communication."
+    },
+    {
+      "t": 2308.39,
+      "text": "For example, with sales, I align on trade promotions"
+    },
+    {
+      "t": 2311.83,
+      "text": "and volume forecasts."
+    },
+    {
+      "t": 2313.47,
+      "text": "With R&D, I collaborate on product improvements,"
+    },
+    {
+      "t": 2316.79,
+      "text": "sensory tests, and feasibility."
+    },
+    {
+      "t": 2319.39,
+      "text": "With finance, I work on pricing, COGS analysis,"
+    },
+    {
+      "t": 2322.87,
+      "text": "and budgeting."
+    },
+    {
+      "t": 2324.11,
+      "text": "With supply chain, I plan demand and resolve stock issues."
+    },
+    {
+      "t": 2328.51,
+      "text": "I always create a shared objective"
+    },
+    {
+      "t": 2330.67,
+      "text": "so that everyone works in the same direction."
+    },
+    {
+      "t": 2333.19,
+      "text": "Let's talk about challenge handling."
+    },
+    {
+      "t": 2335.59,
+      "text": "Can you describe a tough situation you faced as a brand manager?"
+    },
+    {
+      "t": 2339.39,
+      "text": "Yes, we once faced a sudden raw material price increase that"
+    },
+    {
+      "t": 2343.51,
+      "text": "affected margins."
+    },
+    {
+      "t": 2345.07,
+      "text": "Instead of reducing quality, I coordinated with R&D"
+    },
+    {
+      "t": 2348.63,
+      "text": "to explore cost-optimized formulations"
+    },
+    {
+      "t": 2351.63,
+      "text": "and with finance to adjust pricing and pack size mix."
+    },
+    {
+      "t": 2355.51,
+      "text": "We also ran a value communication campaign"
+    },
+    {
+      "t": 2358.19,
+      "text": "to maintain consumer trust."
+    },
+    {
+      "t": 2360.71,
+      "text": "The brand retained market share while keeping profitability stable."
+    },
+    {
+      "t": 2364.71,
+      "text": "Very good."
+    },
+    {
+      "t": 2365.71,
+      "text": "What is your approach to competitor analysis?"
+    },
+    {
+      "t": 2368.71,
+      "text": "I review competitor activity weekly."
+    },
+    {
+      "t": 2371.71,
+      "text": "Pricing, promotions, digital engagement, new launches, distribution changes."
+    },
+    {
+      "t": 2377.71,
+      "text": "Then, I map risks and opportunities,"
+    },
+    {
+      "t": 2380.71,
+      "text": "ensuring our brand stays differentiated and relevant."
+    },
+    {
+      "t": 2383.71,
+      "text": "What do you think are the three most important qualities of an effective brand manager?"
+    },
+    {
+      "t": 2388.71,
+      "text": "I would say strategic thinking, consumer empathy, and strong execution discipline."
+    },
+    {
+      "t": 2395.71,
+      "text": "A brand manager should be creative, analytical, and operational at the same time."
+    },
+    {
+      "t": 2401.74,
+      "text": "Great. Finally, why should we select you for this role?"
+    },
+    {
+      "t": 2405.74,
+      "text": "Because I bring strong experience in brand building, campaign execution, and cross-functional leadership."
+    },
+    {
+      "t": 2412.74,
+      "text": "I can balance creativity with commercial thinking and ensure the brand grows sustainably."
+    },
+    {
+      "t": 2419.14,
+      "text": "Most importantly, I'm passionate about understanding consumers and building brands that truly connect"
+    },
+    {
+      "t": 2424.98,
+      "text": "with them."
+    },
+    {
+      "t": 2425.98,
+      "text": "Thank you for your time."
+    },
+    {
+      "t": 2427.42,
+      "text": "We will get back to you soon."
+    },
+    {
+      "t": 2429.14,
+      "text": "Thank you."
+    },
+    {
+      "t": 2430.14,
+      "text": "I look forward to hearing from you."
+    },
+    {
+      "t": 2431.5,
+      "text": "Good morning."
+    },
+    {
+      "t": 2432.5,
+      "text": "Thank you for joining us today."
+    },
+    {
+      "t": 2434.26,
+      "text": "Let's begin with a simple introduction."
+    },
+    {
+      "t": 2436.7,
+      "text": "Could you walk me through your background and how you developed an interest in brand"
+    },
+    {
+      "t": 2440.58,
+      "text": "management?"
+    },
+    {
+      "t": 2441.58,
+      "text": "Good morning, and thank you for having me."
+    },
+    {
+      "t": 2443.86,
+      "text": "I started my career in marketing as a coordinator handling promotions and digital campaigns."
+    },
+    {
+      "t": 2450.0,
+      "text": "Over time, I realized that the most exciting part of marketing is shaping how consumers"
+    },
+    {
+      "t": 2455.02,
+      "text": "actually feel about a brand."
+    },
+    {
+      "t": 2457.42,
+      "text": "I gradually moved into brand roles, and for the past few years, I've been managing"
+    },
+    {
+      "t": 2462.1,
+      "text": "product portfolios, leading campaigns, and working closely with R&D, sales, and supply"
+    },
+    {
+      "t": 2468.34,
+      "text": "chain."
+    },
+    {
+      "t": 2469.34,
+      "text": "I'm passionate about strategy, consumer insights, and building brands that make emotional connections."
+    },
+    {
+      "t": 2476.14,
+      "text": "Understanding brand strategy. Great. Let's talk about brand strategy. How do you define"
+    },
+    {
+      "t": 2482.54,
+      "text": "a successful brand strategy, and how do you normally build one from scratch?"
+    },
+    {
+      "t": 2487.26,
+      "text": "A successful brand strategy is a roadmap that clearly defines who we are, what we stand for,"
+    },
+    {
+      "t": 2493.42,
+      "text": "and how we deliver value to consumers. I start with deep consumer understanding,"
+    },
+    {
+      "t": 2499.1,
+      "text": "what motivates them, what frustrates them, what unmet needs exist."
+    },
+    {
+      "t": 2504.38,
+      "text": "Then I study the competition and category trends."
+    },
+    {
+      "t": 2508.22,
+      "text": "Once I understand the landscape, I craft a brand purpose,"
+    },
+    {
+      "t": 2512.22,
+      "text": "a unique value proposition, a positioning statement,"
+    },
+    {
+      "t": 2516.22,
+      "text": "a tone of voice, and key communication pillars."
+    },
+    {
+      "t": 2520.29,
+      "text": "Finally, I develop an execution plan that connects all consumer touch"
+    },
+    {
+      "t": 2524.61,
+      "text": "points consistently. Consumer insights and research."
+    },
+    {
+      "t": 2528.69,
+      "text": "Let's dive into consumer insights."
+    },
+    {
+      "t": 2531.09,
+      "text": "Tell me about a time you identified an insight that helped shape a campaign or product decision."
+    },
+    {
+      "t": 2537.01,
+      "text": "Sure. In my previous role, we noticed through focus groups that mothers felt our product was"
+    },
+    {
+      "t": 2542.61,
+      "text": "good but too functional. The emotional connection was missing, so we shifted our communication"
+    },
+    {
+      "t": 2548.61,
+      "text": "from product benefits to emotional storytelling, showing real-life moments of family bonding."
+    },
+    {
+      "t": 2554.37,
+      "text": "We redesigned the packaging to feel warmer and more homely."
+    },
+    {
+      "t": 2558.37,
+      "text": "After the relaunch, brand recall and overall engagement increased significantly."
+    },
+    {
+      "t": 2564.37,
+      "text": "How do you normally gather consumer insights?"
+    },
+    {
+      "t": 2567.37,
+      "text": "I use a combination of qualitative research, focus groups,"
+    },
+    {
+      "t": 2571.37,
+      "text": "home visits, in-store observations, quantitative research,"
+    },
+    {
+      "t": 2575.37,
+      "text": "surveys, brand health trackers, social listening,"
+    },
+    {
+      "t": 2579.37,
+      "text": "sales data analysis, and retailer feedback."
+    },
+    {
+      "t": 2582.37,
+      "text": "Insights usually come from connecting dots across multiple sources, not just one."
+    },
+    {
+      "t": 2588.37,
+      "text": "Campaign development and execution. Let's talk about campaigns."
+    },
+    {
+      "t": 2592.37,
+      "text": "Walk me through your end-to-end process for developing a major campaign."
+    },
+    {
+      "t": 2596.37,
+      "text": "My process is structured into five states."
+    },
+    {
+      "t": 2599.37,
+      "text": "Good morning. Thank you for joining us today."
+    },
+    {
+      "t": 2602.37,
+      "text": "Let's start with something simple."
+    },
+    {
+      "t": 2604.37,
+      "text": "Could you briefly introduce yourself and explain how your career has evolved in the direction of brand management?"
+    },
+    {
+      "t": 2611.37,
+      "text": "Good morning, and thank you for the opportunity."
+    },
+    {
+      "t": 2614.77,
+      "text": "I started in general marketing, coordinating campaigns, promotions, and digital activities."
+    },
+    {
+      "t": 2621.73,
+      "text": "Over time, I found myself drawn to the bigger picture thinking behind brand development,"
+    },
+    {
+      "t": 2628.29,
+      "text": "understanding consumer psychology, shaping perceptions, and building long-term brand"
+    },
+    {
+      "t": 2633.73,
+      "text": "value."
+    },
+    {
+      "t": 2635.41,
+      "text": "That interest led me into brand roles where I've helped manage portfolios, launch innovations,"
+    },
+    {
+      "t": 2642.05,
+      "text": "run large campaigns, and collaborate across functions to deliver growth."
+    },
+    {
+      "t": 2647.69,
+      "text": "Thank you."
+    },
+    {
+      "t": 2648.69,
+      "text": "Now, when you're given a brand new or existing, what's the first thing you do to understand"
+    },
+    {
+      "t": 2654.69,
+      "text": "its current health?"
+    },
+    {
+      "t": 2656.29,
+      "text": "I begin by analyzing how consumers perceive the brand today."
+    },
+    {
+      "t": 2661.01,
+      "text": "I look at brand equity scores, awareness levels, consideration, and repeat purchase behavior."
+    },
+    {
+      "t": 2668.57,
+      "text": "Then I review performance data such as market share, distribution, pricing, and competitor"
+    },
+    {
+      "t": 2674.57,
+      "text": "activity."
+    },
+    {
+      "t": 2675.91,
+      "text": "I combine that with qualitative inputs from consumers, retailers, and digital sentiment."
+    },
+    {
+      "t": 2682.95,
+      "text": "This gives me a clear picture of where the brand stands and what gaps need to be addressed."
+    },
+    {
+      "t": 2689.01,
+      "text": "And when you identify a gap, how do you decide whether it requires communication, product"
+    },
+    {
+      "t": 2694.45,
+      "text": "improvement, or something else?"
+    },
+    {
+      "t": 2696.77,
+      "text": "I break it down into what I call the why, what, how framework."
+    },
+    {
+      "t": 2702.29,
+      "text": "Why is the gap happening?"
+    },
+    {
+      "t": 2704.15,
+      "text": "What exactly is affecting consumer decisions?"
+    },
+    {
+      "t": 2707.29,
+      "text": "How can the brand address it?"
+    },
+    {
+      "t": 2709.93,
+      "text": "Sometimes the issue is functional, taste, packaging, format."
+    },
+    {
+      "t": 2714.57,
+      "text": "Other times, it's emotional, lack of connection, outdated positioning."
+    },
+    {
+      "t": 2719.93,
+      "text": "Once I understand the root cause, the solution becomes clear, whether it's product renovation,"
+    },
+    {
+      "t": 2725.77,
+      "text": "a packaging upgrade, or a refreshed communication platform."
+    },
+    {
+      "t": 2730.69,
+      "text": "Let's talk execution."
+    },
+    {
+      "t": 2732.77,
+      "text": "Suppose you're planning a major campaign."
+    },
+    {
+      "t": 2735.33,
+      "text": "Walk me through how you manage that process."
+    },
+    {
+      "t": 2738.17,
+      "text": "First, I define the campaign objective, awareness, trial, consideration, or frequency."
+    },
+    {
+      "t": 2745.93,
+      "text": "Then I gather insight to understand what emotional hook will resonate."
+    },
+    {
+      "t": 2750.81,
+      "text": "I work with the agency to develop a strong idea that can translate across channels."
+    },
+    {
+      "t": 2756.49,
+      "text": "I ensure the messaging ladder is clear, the visual identity is aligned with the brand,"
+    },
+    {
+      "t": 2762.41,
+      "text": "and the media mix is optimized for the target audience."
+    },
+    {
+      "t": 2766.29,
+      "text": "During execution, I monitor performance weekly, digital engagement, sales uplift, and feedback"
+    },
+    {
+      "t": 2773.49,
+      "text": "from the field."
+    },
+    {
+      "t": 2774.89,
+      "text": "And finally, I evaluate the campaign's impact on the brand and document learnings for future"
+    },
+    {
+      "t": 2780.89,
+      "text": "planning."
+    },
+    {
+      "t": 2781.89,
+      "text": "Can you share an example of a campaign that performed exceptionally well under your leadership?"
+    },
+    {
+      "t": 2787.21,
+      "text": "Yes."
+    },
+    {
+      "t": 2788.21,
+      "text": "We were promoting a product in a highly competitive category."
+    },
+    {
+      "t": 2792.29,
+      "text": "Instead of traditional ads, we built the campaign around real consumer stories."
+    },
+    {
+      "t": 2798.13,
+      "text": "We worked with micro-influencers, created short-form content, and partnered with retailers for sampling."
+    },
+    {
+      "t": 2804.93,
+      "text": "The authentic storytelling angle created strong emotional appeal, engagement exceeded expectations,"
+    },
+    {
+      "t": 2812.29,
+      "text": "and the campaign delivered a significant uplift in trial and penetration."
+    },
+    {
+      "t": 2817.17,
+      "text": "It reminded me that consumers respond strongly when communication feels relatable and human."
+    },
+    {
+      "t": 2823.85,
+      "text": "Interesting."
+    },
+    {
+      "t": 2825.09,
+      "text": "How do you manage innovation projects, especially when multiple stakeholders are involved?"
+    },
+    {
+      "t": 2830.53,
+      "text": "For innovation to succeed, alignment is critical."
+    },
+    {
+      "t": 2834.45,
+      "text": "I start by building a solid case, consumer insight, market gap, feasibility, and business"
+    },
+    {
+      "t": 2841.29,
+      "text": "potential."
+    },
+    {
+      "t": 2842.29,
+      "text": "Then, I work closely with R&D to test formulations with procurement to evaluate cost structures"
+    },
+    {
+      "t": 2849.01,
+      "text": "and with supply chain to confirm production capability. Throughout the project, I keep"
+    },
+    {
+      "t": 2854.61,
+      "text": "everyone updated with clear timelines and expectations. I've learned that innovation"
+    },
+    {
+      "t": 2860.13,
+      "text": "fails not because of lack of ideas, but because of poor coordination. I make sure"
+    },
+    {
+      "t": 2865.97,
+      "text": "everyone feels part of the process and understands the purpose behind the innovation."
+    },
+    {
+      "t": 2870.93,
+      "text": "Let's shift to numbers. How comfortable are you with financial responsibilities like P&L or pricing"
+    },
+    {
+      "t": 2878.17,
+      "text": "decisions? Very comfortable. A brand manager is not just a creative role. It's also a commercial"
+    },
+    {
+      "t": 2884.89,
+      "text": "one. I work with finance to understand margins, cogs, trade spend, and ROI. When pricing changes"
+    },
+    {
+      "t": 2892.89,
+      "text": "are needed, I evaluate elasticity. Good morning. Thank you for joining us today."
+    },
+    {
+      "t": 2898.57,
+      "text": "Let's start with something simple."
+    },
+    {
+      "t": 2901.49,
+      "text": "Could you briefly introduce yourself and explain how your career has evolved in the direction"
+    },
+    {
+      "t": 2906.53,
+      "text": "of brand management?"
+    },
+    {
+      "t": 2908.37,
+      "text": "Good morning, and thank you for the opportunity."
+    },
+    {
+      "t": 2911.21,
+      "text": "I started in general marketing, coordinating campaigns, promotions, and digital activities."
+    },
+    {
+      "t": 2918.21,
+      "text": "Over time, I found myself drawn to the bigger picture thinking behind brand development,"
+    },
+    {
+      "t": 2924.21,
+      "text": "understanding consumer psychology, shaping perceptions, and building long-term brand value."
+    },
+    {
+      "t": 2931.81,
+      "text": "That interest led me into brand roles where I've helped manage portfolios, launch innovations,"
+    },
+    {
+      "t": 2938.45,
+      "text": "run large campaigns, and collaborate across functions to deliver growth."
+    },
+    {
+      "t": 2944.09,
+      "text": "Thank you."
+    },
+    {
+      "t": 2945.09,
+      "text": "Now, when you're given a brand new or existing, what's the first thing you do to understand"
+    },
+    {
+      "t": 2951.09,
+      "text": "its current health?"
+    },
+    {
+      "t": 2952.69,
+      "text": "I begin by analyzing how consumers perceive the brand today."
+    },
+    {
+      "t": 2957.45,
+      "text": "I look at brand equity scores, awareness levels, consideration, and repeat purchase behavior."
+    },
+    {
+      "t": 2965.01,
+      "text": "Then I review performance data such as market share, distribution, pricing, and competitor"
+    },
+    {
+      "t": 2971.05,
+      "text": "activity."
+    },
+    {
+      "t": 2972.33,
+      "text": "I combine that with qualitative inputs from consumers, retailers, and digital sentiment."
+    },
+    {
+      "t": 2979.39,
+      "text": "This gives me a clear picture of where the brand stands and what gaps need to be addressed."
+    },
+    {
+      "t": 2985.43,
+      "text": "And when you identify a gap, how do you decide whether it requires communication, product"
+    },
+    {
+      "t": 2990.91,
+      "text": "improvement, or something else?"
+    },
+    {
+      "t": 2993.23,
+      "text": "I break it down into what I call the why, what, how framework."
+    },
+    {
+      "t": 2998.75,
+      "text": "Why is the gap happening?"
+    },
+    {
+      "t": 3000.61,
+      "text": "What exactly is affecting consumer decisions?"
+    },
+    {
+      "t": 3003.75,
+      "text": "How can the brand address it?"
+    },
+    {
+      "t": 3006.39,
+      "text": "Once the issue is functional, taste, packaging, format, other times it's emotional, lack"
+    },
+    {
+      "t": 3013.07,
+      "text": "of connection, outdated positioning."
+    },
+    {
+      "t": 3016.43,
+      "text": "Once I understand the root cause, the solution becomes clear, whether it's product renovation,"
+    },
+    {
+      "t": 3022.19,
+      "text": "a packaging upgrade, or a refreshed communication platform."
+    },
+    {
+      "t": 3027.19,
+      "text": "Let's talk execution."
+    },
+    {
+      "t": 3029.23,
+      "text": "Suppose you're planning a major campaign."
+    },
+    {
+      "t": 3031.79,
+      "text": "Walk me through how you manage that process."
+    },
+    {
+      "t": 3035.19,
+      "text": "First I define the campaign objective, awareness, trial, consideration, or frequency."
+    },
+    {
+      "t": 3042.39,
+      "text": "Then I gather insight to understand what emotional hook will resonate."
+    },
+    {
+      "t": 3047.27,
+      "text": "I work with the agency to develop a strong idea that can translate across channels."
+    },
+    {
+      "t": 3052.95,
+      "text": "I ensure the messaging ladder is clear, the visual identity is aligned with the brand,"
+    },
+    {
+      "t": 3058.85,
+      "text": "and the media mix is optimized for the target audience."
+    },
+    {
+      "t": 3062.75,
+      "text": "During execution, I monitor performance weekly, digital engagement, sales uplift, and feedback"
+    },
+    {
+      "t": 3069.95,
+      "text": "from the field."
+    },
+    {
+      "t": 3071.35,
+      "text": "And finally, I evaluate the campaign's impact on the brand and document learnings for future"
+    },
+    {
+      "t": 3077.31,
+      "text": "planning."
+    },
+    {
+      "t": 3078.31,
+      "text": "Can you share an example of a campaign that performed exceptionally well under your leadership?"
+    },
+    {
+      "t": 3083.67,
+      "text": "Yes."
+    },
+    {
+      "t": 3084.67,
+      "text": "We were promoting a product in a highly competitive category."
+    },
+    {
+      "t": 3088.75,
+      "text": "Instead of traditional ads, we built the campaign around real consumer stories."
+    },
+    {
+      "t": 3094.57,
+      "text": "We worked with micro-influencers, created short-form content, and partnered with retailers"
+    },
+    {
+      "t": 3100.05,
+      "text": "for sampling."
+    },
+    {
+      "t": 3101.39,
+      "text": "The authentic storytelling angle created strong emotional appeal."
+    },
+    {
+      "t": 3106.79,
+      "text": "Engagement exceeded expectations, and the campaign delivered a significant uplift in"
+    },
+    {
+      "t": 3111.41,
+      "text": "trial and penetration."
+    },
+    {
+      "t": 3113.59,
+      "text": "It reminded me that consumers respond strongly when communication feels relatable and human."
+    },
+    {
+      "t": 3120.35,
+      "text": "Interesting."
+    },
+    {
+      "t": 3121.35,
+      "text": "How do you manage innovation projects, especially when multiple stakeholders are involved?"
+    },
+    {
+      "t": 3126.95,
+      "text": "For innovation to succeed, alignment is critical."
+    },
+    {
+      "t": 3130.87,
+      "text": "I start by building a solid case, consumer insight, market gap, feasibility, and business"
+    },
+    {
+      "t": 3137.55,
+      "text": "potential."
+    },
+    {
+      "t": 3138.55,
+      "text": "Then, I work closely with R&D to test formulations, with procurement to evaluate cost structures,"
+    },
+    {
+      "t": 3145.71,
+      "text": "and with supply chain to confirm production capability."
+    },
+    {
+      "t": 3149.43,
+      "text": "Throughout the project, I keep everyone updated with clear timelines and expectations."
+    },
+    {
+      "t": 3155.07,
+      "text": "I've learned that innovation fails not because of lack of ideas, but because of"
+    },
+    {
+      "t": 3159.87,
+      "text": "poor coordination."
+    },
+    {
+      "t": 3161.75,
+      "text": "I make sure everyone feels part of the process and understands the purpose behind"
+    },
+    {
+      "t": 3166.67,
+      "text": "the innovation."
+    },
+    {
+      "t": 3167.67,
+      "text": "Let's shift to numbers. How comfortable are you with financial responsibilities like P&L or pricing decisions?"
+    },
+    {
+      "t": 3175.51,
+      "text": "Very comfortable. A brand manager is not just a creative role. It's also a commercial one."
+    },
+    {
+      "t": 3181.47,
+      "text": "I work with finance to understand margins, cogs, trade spend, and ROI."
+    },
+    {
+      "t": 3187.81,
+      "text": "When pricing changes are needed, I evaluate elasticity,"
+    },
+    {
+      "t": 3192.33,
+      "text": "Good morning. Thank you for joining us today."
+    },
+    {
+      "t": 3194.99,
+      "text": "Let's begin with a quick introduction. Tell me about yourself and your branding experience."
+    },
+    {
+      "t": 3201.51,
+      "text": "Good morning. Thank you for having me. I'm a marketing professional with experience in brand"
+    },
+    {
+      "t": 3207.67,
+      "text": "strategy, consumer insights, trade marketing, and new product development. I've worked in FMCG"
+    },
+    {
+      "t": 3214.79,
+      "text": "categories where I handled brand campaigns, market analysis, and full-year brand planning."
+    },
+    {
+      "t": 3220.83,
+      "text": "I enjoy combining creative ideas with data-driven decisions to build strong, meaningful brands."
+    },
+    {
+      "t": 3227.83,
+      "text": "Great to hear. Tell me how you usually assess the current performance of a brand."
+    },
+    {
+      "t": 3232.83,
+      "text": "I analyze four key areas – market data, consumer behavior, competitor activity, and internal performance."
+    },
+    {
+      "t": 3241.83,
+      "text": "I look at penetration, frequency, distribution gaps, region-wise sales and channel performance."
+    },
+    {
+      "t": 3249.83,
+      "text": "Then, I evaluate consumer perception, brand equity scores, and digital sentiment."
+    },
+    {
+      "t": 3256.23,
+      "text": "I also track competitor pricing, innovation, and promotions."
+    },
+    {
+      "t": 3260.79,
+      "text": "This helps me identify whether the challenge is awareness, availability, affordability,"
+    },
+    {
+      "t": 3266.35,
+      "text": "or relevance, and then I shape strategies accordingly."
+    },
+    {
+      "t": 3270.23,
+      "text": "Brand managers often balance long-term plans with short-term sales pressure."
+    },
+    {
+      "t": 3275.63,
+      "text": "How do you manage that?"
+    },
+    {
+      "t": 3277.11,
+      "text": "I said clear KPIs for each."
+    },
+    {
+      "t": 3279.87,
+      "text": "Long-term KPIs include brand equity, penetration,"
+    },
+    {
+      "t": 3284.35,
+      "text": "product roadmap, and strengthening positioning."
+    },
+    {
+      "t": 3287.63,
+      "text": "Short-term KPIs include quarterly sales numbers,"
+    },
+    {
+      "t": 3291.27,
+      "text": "trade activation, availability, and tactical promotions."
+    },
+    {
+      "t": 3295.79,
+      "text": "I make sure that even short-term promotions"
+    },
+    {
+      "t": 3298.23,
+      "text": "reflect the brand's strategic direction."
+    },
+    {
+      "t": 3300.87,
+      "text": "Tactical moves should support the long-term narrative,"
+    },
+    {
+      "t": 3304.37,
+      "text": "not dilute it."
+    },
+    {
+      "t": 3305.83,
+      "text": "Tell me about a situation where you helped a struggling brand recover."
+    },
+    {
+      "t": 3310.61,
+      "text": "I once handled a variant that was losing share due to both taste issues and weak communication."
+    },
+    {
+      "t": 3317.11,
+      "text": "I ran retail audits, consumer groups, and blind taste tests."
+    },
+    {
+      "t": 3321.67,
+      "text": "The insight showed the product needed a better formulation and clearer value communication."
+    },
+    {
+      "t": 3327.65,
+      "text": "We improved the recipe, upgraded the packaging, and launched a digital first campaign focusing"
+    },
+    {
+      "t": 3333.51,
+      "text": "on taste superiority."
+    },
+    {
+      "t": 3335.71,
+      "text": "Within six months, repeat purchases improved, distribution picked up, and the brand regained"
+    },
+    {
+      "t": 3341.49,
+      "text": "lost share."
+    },
+    {
+      "t": 3342.93,
+      "text": "How do you decide when it's time to refresh packaging?"
+    },
+    {
+      "t": 3346.85,
+      "text": "I look at consumer relevance, shelf standout, and functionality."
+    },
+    {
+      "t": 3351.73,
+      "text": "If consumers say the pack looks outdated, if it blends into the shelf too easily, or"
+    },
+    {
+      "t": 3357.21,
+      "text": "if there are usability issues, it's time to refresh."
+    },
+    {
+      "t": 3360.85,
+      "text": "But I ensure recognizability stays intact, so loyal customers don't get confused."
+    },
+    {
+      "t": 3366.57,
+      "text": "A refresh should improve identity, not disrupt it."
+    },
+    {
+      "t": 3370.57,
+      "text": "Cross-functional collaboration is important."
+    },
+    {
+      "t": 3373.41,
+      "text": "How do you handle that?"
+    },
+    {
+      "t": 3374.81,
+      "text": "I work closely with R&D, supply chain, sales, finance, and procurement."
+    },
+    {
+      "t": 3381.25,
+      "text": "I run regular check-ins, share clear briefs, and align everyone toward the brand objective."
+    },
+    {
+      "t": 3387.49,
+      "text": "I believe transparency and clarity are essential when every team understands the why execution"
+    },
+    {
+      "t": 3394.05,
+      "text": "becomes much smoother."
+    },
+    {
+      "t": 3395.93,
+      "text": "How do you typically brief an agency?"
+    },
+    {
+      "t": 3398.69,
+      "text": "I structure briefs around the brand challenge, target"
+    }
+  ],
+  "lemmas": [
+    [
+      "brand",
+      196
+    ],
+    [
+      "consumer",
+      99
+    ],
+    [
+      "campaign",
+      61
+    ],
+    [
+      "product",
+      53
+    ],
+    [
+      "market",
+      48
+    ],
+    [
+      "good",
+      44
+    ],
+    [
+      "understand",
+      43
+    ],
+    [
+      "insight",
+      41
+    ],
+    [
+      "communication",
+      36
+    ],
+    [
+      "thank",
+      34
+    ],
+    [
+      "sal",
+      32
+    ],
+    [
+      "innovation",
+      31
+    ],
+    [
+      "competitor",
+      29
+    ],
+    [
+      "new",
+      29
+    ],
+    [
+      "morn",
+      27
+    ],
+    [
+      "start",
+      27
+    ],
+    [
+      "need",
+      27
+    ],
+    [
+      "pric",
+      26
+    ],
+    [
+      "digital",
+      26
+    ],
+    [
+      "management",
+      25
+    ],
+    [
+      "gap",
+      25
+    ],
+    [
+      "strategy",
+      25
+    ],
+    [
+      "work",
+      25
+    ],
+    [
+      "first",
+      24
+    ],
+    [
+      "time",
+      23
+    ],
+    [
+      "promotion",
+      23
+    ],
+    [
+      "clear",
+      22
+    ],
+    [
+      "build",
+      21
+    ],
+    [
+      "strong",
+      20
+    ],
+    [
+      "decision",
+      20
+    ],
+    [
+      "execution",
+      20
+    ],
+    [
+      "packag",
+      19
+    ],
+    [
+      "launch",
+      19
+    ],
+    [
+      "value",
+      19
+    ],
+    [
+      "share",
+      18
+    ],
+    [
+      "manager",
+      17
+    ],
+    [
+      "look",
+      17
+    ],
+    [
+      "performance",
+      17
+    ],
+    [
+      "distribution",
+      17
+    ],
+    [
+      "emotional",
+      16
+    ],
+    [
+      "plan",
+      16
+    ],
+    [
+      "target",
+      15
+    ],
+    [
+      "whether",
+      15
+    ],
+    [
+      "supply",
+      15
+    ],
+    [
+      "align",
+      15
+    ],
+    [
+      "exist",
+      15
+    ],
+    [
+      "engagement",
+      15
+    ],
+    [
+      "evaluate",
+      15
+    ],
+    [
+      "today",
+      14
+    ],
+    [
+      "tell",
+      14
+    ],
+    [
+      "suppose",
+      14
+    ],
+    [
+      "also",
+      14
+    ],
+    [
+      "data",
+      14
+    ],
+    [
+      "help",
+      14
+    ],
+    [
+      "trade",
+      14
+    ],
+    [
+      "analysis",
+      14
+    ],
+    [
+      "join",
+      13
+    ],
+    [
+      "think",
+      13
+    ],
+    [
+      "role",
+      13
+    ],
+    [
+      "long-term",
+      13
+    ],
+    [
+      "position",
+      13
+    ],
+    [
+      "ensure",
+      13
+    ],
+    [
+      "chain",
+      13
+    ],
+    [
+      "finance",
+      13
+    ],
+    [
+      "idea",
+      13
+    ],
+    [
+      "decide",
+      13
+    ],
+    [
+      "feel",
+      13
+    ],
+    [
+      "us",
+      12
+    ],
+    [
+      "behavior",
+      12
+    ],
+    [
+      "equity",
+      12
+    ],
+    [
+      "awareness",
+      12
+    ],
+    [
+      "purchase",
+      12
+    ],
+    [
+      "pack",
+      12
+    ],
+    [
+      "activity",
+      12
+    ],
+    [
+      "refresh",
+      12
+    ],
+    [
+      "point",
+      12
+    ],
+    [
+      "process",
+      12
+    ],
+    [
+      "feasibility",
+      12
+    ],
+    [
+      "team",
+      12
+    ],
+    [
+      "retailer",
+      12
+    ],
+    [
+      "run",
+      12
+    ],
+    [
+      "focus",
+      12
+    ],
+    [
+      "career",
+      11
+    ],
+    [
+      "say",
+      11
+    ],
+    [
+      "penetration",
+      11
+    ],
+    [
+      "identify",
+      11
+    ],
+    [
+      "talk",
+      11
+    ],
+    [
+      "manage",
+      11
+    ],
+    [
+      "develop",
+      11
+    ],
+    [
+      "messag",
+      11
+    ],
+    [
+      "identity",
+      11
+    ],
+    [
+      "mov",
+      11
+    ],
+    [
+      "interest",
+      10
+    ],
+    [
+      "maintain",
+      10
+    ],
+    [
+      "growth",
+      10
+    ],
+    [
+      "creative",
+      10
+    ],
+    [
+      "analyze",
+      10
+    ],
+    [
+      "collaborate",
+      10
+    ],
+    [
+      "test",
+      10
+    ],
+    [
+      "shap",
+      10
+    ],
+    [
+      "across",
+      10
+    ],
+    [
+      "deliver",
+      10
+    ],
+    [
+      "repeat",
+      10
+    ],
+    [
+      "finally",
+      10
+    ],
+    [
+      "everyone",
+      10
+    ],
+    [
+      "one",
+      10
+    ],
+    [
+      "connect",
+      10
+    ],
+    [
+      "research",
+      9
+    ],
+    [
+      "relevance",
+      9
+    ],
+    [
+      "commercial",
+      9
+    ],
+    [
+      "imagine",
+      9
+    ],
+    [
+      "trial",
+      9
+    ],
+    [
+      "retail",
+      9
+    ],
+    [
+      "creat",
+      9
+    ],
+    [
+      "short-term",
+      9
+    ],
+    [
+      "price",
+      9
+    ],
+    [
+      "key",
+      9
+    ],
+    [
+      "strategic",
+      9
+    ],
+    [
+      "multiple",
+      9
+    ],
+    [
+      "make",
+      9
+    ],
+    [
+      "direction",
+      9
+    ],
+    [
+      "address",
+      9
+    ],
+    [
+      "taste",
+      9
+    ],
+    [
+      "category",
+      9
+    ],
+    [
+      "expectation",
+      9
+    ],
+    [
+      "handl",
+      9
+    ],
+    [
+      "experience",
+      9
+    ],
+    [
+      "great",
+      9
+    ],
+    [
+      "improv",
+      9
+    ],
+    [
+      "three",
+      9
+    ],
+    [
+      "begin",
+      8
+    ],
+    [
+      "give",
+      8
+    ],
+    [
+      "trend",
+      8
+    ],
+    [
+      "someth",
+      8
+    ],
+    [
+      "approach",
+      8
+    ],
+    [
+      "respond",
+      8
+    ],
+    [
+      "stay",
+      8
+    ],
+    [
+      "review",
+      8
+    ],
+    [
+      "development",
+      8
+    ],
+    [
+      "closely",
+      8
+    ],
+    [
+      "sure",
+      8
+    ],
+    [
+      "challenge",
+      8
+    ],
+    [
+      "variant",
+      8
+    ],
+    [
+      "channel",
+      8
+    ],
+    [
+      "introduce",
+      8
+    ],
+    [
+      "picture",
+      8
+    ],
+    [
+      "perception",
+      8
+    ],
+    [
+      "connection",
+      8
+    ],
+    [
+      "becom",
+      8
+    ],
+    [
+      "feedback",
+      8
+    ],
+    [
+      "margin",
+      8
+    ],
+    [
+      "audit",
+      8
+    ],
+    [
+      "issu",
+      8
+    ],
+    [
+      "brief",
+      8
+    ],
+    [
+      "simple",
+      7
+    ],
+    [
+      "background",
+      7
+    ],
+    [
+      "evolv",
+      7
+    ],
+    [
+      "unmet",
+      7
+    ],
+    [
+      "opportunity",
+      7
+    ],
+    [
+      "project",
+      7
+    ],
+    [
+      "instead",
+      7
+    ],
+    [
+      "behind",
+      7
+    ],
+    [
+      "current",
+      7
+    ],
+    [
+      "consideration",
+      7
+    ],
+    [
+      "sentiment",
+      7
+    ],
+    [
+      "stand",
+      7
+    ],
+    [
+      "affect",
+      7
+    ],
+    [
+      "lack",
+      7
+    ],
+    [
+      "walk",
+      7
+    ],
+    [
+      "objective",
+      7
+    ],
+    [
+      "impact",
+      7
+    ],
+    [
+      "perform",
+      7
+    ],
+    [
+      "formulation",
+      7
+    ],
+    [
+      "financial",
+      7
+    ],
+    [
+      "realiz",
+      7
+    ],
+    [
+      "often",
+      7
+    ],
+    [
+      "get",
+      7
+    ],
+    [
+      "rather",
+      7
+    ],
+    [
+      "smaller",
+      7
+    ],
+    [
+      "strengthen",
+      6
+    ],
+    [
+      "core",
+      6
+    ],
+    [
+      "tactical",
+      6
+    ],
+    [
+      "premium",
+      6
+    ],
+    [
+      "qualitative",
+      6
+    ],
+    [
+      "shift",
+      6
+    ],
+    [
+      "define",
+      6
+    ],
+    [
+      "keep",
+      6
+    ],
+    [
+      "usually",
+      6
+    ],
+    [
+      "format",
+      6
+    ],
+    [
+      "overall",
+      6
+    ],
+    [
+      "portfolio",
+      6
+    ],
+    [
+      "major",
+      6
+    ],
+    [
+      "agency",
+      6
+    ],
+    [
+      "uplift",
+      6
+    ],
+    [
+      "storytell",
+      6
+    ],
+    [
+      "purpose",
+      6
+    ],
+    [
+      "comfortable",
+      6
+    ],
+    [
+      "professional",
+      6
+    ],
+    [
+      "activation",
+      6
+    ],
+    [
+      "later",
+      6
+    ],
+    [
+      "want",
+      6
+    ],
+    [
+      "limit",
+      6
+    ],
+    [
+      "bas",
+      6
+    ],
+    [
+      "relevant",
+      6
+    ],
+    [
+      "unique",
+      6
+    ],
+    [
+      "strategi",
+      6
+    ],
+    [
+      "kpis",
+      6
+    ],
+    [
+      "group",
+      6
+    ],
+    [
+      "cross-functional",
+      6
+    ],
+    [
+      "back",
+      6
+    ],
+    [
+      "speak",
+      5
+    ],
+    [
+      "shape",
+      5
+    ],
+    [
+      "trust",
+      5
+    ],
+    [
+      "led",
+      5
+    ],
+    [
+      "believe",
+      5
+    ],
+    [
+      "grow",
+      5
+    ],
+    [
+      "ensur",
+      5
+    ],
+    [
+      "balance",
+      5
+    ],
+    [
+      "siz",
+      5
+    ],
+    [
+      "conduct",
+      5
+    ],
+    [
+      "toward",
+      5
+    ],
+    [
+      "handle",
+      5
+    ],
+    [
+      "show",
+      5
+    ],
+    [
+      "coordinat",
+      5
+    ],
+    [
+      "find",
+      5
+    ],
+    [
+      "rol",
+      5
+    ],
+    [
+      "thing",
+      5
+    ],
+    [
+      "health",
+      5
+    ],
+    [
+      "scor",
+      5
+    ],
+    [
+      "combine",
+      5
+    ],
+    [
+      "improvement",
+      5
+    ],
+    [
+      "issue",
+      5
+    ],
+    [
+      "functional",
+      5
+    ],
+    [
+      "outdat",
+      5
+    ],
+    [
+      "frequency",
+      5
+    ],
+    [
+      "gather",
+      5
+    ],
+    [
+      "media",
+      5
+    ],
+    [
+      "mix",
+      5
+    ],
+    [
+      "optimiz",
+      5
+    ],
+    [
+      "weekly",
+      5
+    ],
+    [
+      "example",
+      5
+    ],
+    [
+      "leadership",
+      5
+    ],
+    [
+      "around",
+      5
+    ],
+    [
+      "real",
+      5
+    ],
+    [
+      "business",
+      5
+    ],
+    [
+      "procurement",
+      5
+    ],
+    [
+      "cost",
+      5
+    ],
+    [
+      "structur",
+      5
+    ],
+    [
+      "part",
+      5
+    ],
+    [
+      "number",
+      5
+    ],
+    [
+      "cog",
+      5
+    ],
+    [
+      "chang",
+      5
+    ],
+    [
+      "in-store",
+      5
+    ],
+    [
+      "every",
+      5
+    ],
+    [
+      "customer",
+      5
+    ],
+    [
+      "meaningful",
+      5
+    ],
+    [
+      "take",
+      5
+    ],
+    [
+      "featur",
+      5
+    ],
+    [
+      "design",
+      5
+    ],
+    [
+      "enjoy",
+      5
+    ],
+    [
+      "area",
+      5
+    ],
+    [
+      "include",
+      5
+    ],
+    [
+      "los",
+      5
+    ],
+    [
+      "effectiveness",
+      5
+    ],
+    [
+      "social",
+      5
+    ],
+    [
+      "passionate",
+      5
+    ],
+    [
+      "town",
+      5
+    ],
+    [
+      "alway",
+      5
+    ],
+    [
+      "creativity",
+      5
+    ],
+    [
+      "mak",
+      4
+    ],
+    [
+      "protect",
+      4
+    ],
+    [
+      "declin",
+      4
+    ],
+    [
+      "competitive",
+      4
+    ],
+    [
+      "copy",
+      4
+    ],
+    [
+      "offer",
+      4
+    ],
+    [
+      "sourc",
+      4
+    ],
+    [
+      "monitor",
+      4
+    ],
+    [
+      "proposition",
+      4
+    ],
+    [
+      "throughout",
+      4
+    ],
+    [
+      "internal",
+      4
+    ],
+    [
+      "explain",
+      4
+    ],
+    [
+      "collaboration",
+      4
+    ],
+    [
+      "activiti",
+      4
+    ],
+    [
+      "upgrade",
+      4
+    ],
+    [
+      "visual",
+      4
+    ],
+    [
+      "future",
+      4
+    ],
+    [
+      "angle",
+      4
+    ],
+    [
+      "relatable",
+      4
+    ],
+    [
+      "involv",
+      4
+    ],
+    [
+      "succe",
+      4
+    ],
+    [
+      "alignment",
+      4
+    ],
+    [
+      "critical",
+      4
+    ],
+    [
+      "potential",
+      4
+    ],
+    [
+      "production",
+      4
+    ],
+    [
+      "poor",
+      4
+    ],
+    [
+      "roi",
+      4
+    ],
+    [
+      "differentiat",
+      4
+    ],
+    [
+      "differentiation",
+      4
+    ],
+    [
+      "younger",
+      4
+    ],
+    [
+      "step",
+      4
+    ],
+    [
+      "tone",
+      4
+    ],
+    [
+      "study",
+      4
+    ],
+    [
+      "viability",
+      4
+    ],
+    [
+      "clearly",
+      4
+    ],
+    [
+      "clarity",
+      4
+    ],
+    [
+      "bring",
+      4
+    ],
+    [
+      "quick",
+      4
+    ],
+    [
+      "introduction",
+      4
+    ],
+    [
+      "hear",
+      4
+    ],
+    [
+      "assess",
+      4
+    ],
+    [
+      "availability",
+      4
+    ],
+    [
+      "roadmap",
+      4
+    ],
+    [
+      "situation",
+      4
+    ],
+    [
+      "shelf",
+      4
+    ],
+    [
+      "improve",
+      4
+    ],
+    [
+      "important",
+      4
+    ],
+    [
+      "adapt",
+      4
+    ],
+    [
+      "goal",
+      4
+    ],
+    [
+      "budget",
+      4
+    ],
+    [
+      "manag",
+      4
+    ],
+    [
+      "dive",
+      4
+    ],
+    [
+      "localiz",
+      4
+    ],
+    [
+      "attention",
+      4
+    ],
+    [
+      "satisfaction",
+      4
+    ],
+    [
+      "adjust",
+      4
+    ],
+    [
+      "fac",
+      4
+    ],
+    [
+      "successful",
+      4
+    ],
+    [
+      "normally",
+      4
+    ],
+    [
+      "listen",
+      3
+    ],
+    [
+      "move",
+      3
+    ],
+    [
+      "consistent",
+      3
+    ],
+    [
+      "discipline",
+      3
+    ],
+    [
+      "craft",
+      3
+    ],
+    [
+      "competition",
+      3
+    ],
+    [
+      "aggressive",
+      3
+    ],
+    [
+      "differentiator",
+      3
+    ],
+    [
+      "without",
+      3
+    ],
+    [
+      "quantitative",
+      3
+    ],
+    [
+      "pattern",
+      3
+    ],
+    [
+      "dilute",
+      3
+    ],
+    [
+      "pressure",
+      3
+    ],
+    [
+      "risk",
+      3
+    ],
+    [
+      "essential",
+      3
+    ],
+    [
+      "briefly",
+      3
+    ],
+    [
+      "general",
+      3
+    ],
+    [
+      "drawn",
+      3
+    ],
+    [
+      "bigger",
+      3
+    ],
+    [
+      "psychology",
+      3
+    ],
+    [
+      "large",
+      3
+    ],
+    [
+      "function",
+      3
+    ],
+    [
+      "analyz",
+      3
+    ],
+    [
+      "perceive",
+      3
+    ],
+    [
+      "level",
+      3
+    ],
+    [
+      "input",
+      3
+    ],
+    [
+      "giv",
+      3
+    ],
+    [
+      "requir",
+      3
+    ],
+    [
+      "else",
+      3
+    ],
+    [
+      "break",
+      3
+    ],
+    [
+      "call",
+      3
+    ],
+    [
+      "framework",
+      3
+    ],
+    [
+      "happen",
+      3
+    ],
+    [
+      "exactly",
+      3
+    ],
+    [
+      "tim",
+      3
+    ],
+    [
+      "root",
+      3
+    ],
+    [
+      "cause",
+      3
+    ],
+    [
+      "solution",
+      3
+    ],
+    [
+      "renovation",
+      3
+    ],
+    [
+      "platform",
+      3
+    ],
+    [
+      "hook",
+      3
+    ],
+    [
+      "resonate",
+      3
+    ],
+    [
+      "translate",
+      3
+    ],
+    [
+      "ladder",
+      3
+    ],
+    [
+      "audience",
+      3
+    ],
+    [
+      "field",
+      3
+    ],
+    [
+      "document",
+      3
+    ],
+    [
+      "learning",
+      3
+    ],
+    [
+      "exceptionally",
+      3
+    ],
+    [
+      "promot",
+      3
+    ],
+    [
+      "highly",
+      3
+    ],
+    [
+      "traditional",
+      3
+    ],
+    [
+      "ads",
+      3
+    ],
+    [
+      "built",
+      3
+    ],
+    [
+      "stori",
+      3
+    ],
+    [
+      "micro-influencer",
+      3
+    ],
+    [
+      "short-form",
+      3
+    ],
+    [
+      "content",
+      3
+    ],
+    [
+      "partner",
+      3
+    ],
+    [
+      "sampl",
+      3
+    ],
+    [
+      "authentic",
+      3
+    ],
+    [
+      "appeal",
+      3
+    ],
+    [
+      "exceed",
+      3
+    ],
+    [
+      "significant",
+      3
+    ],
+    [
+      "remind",
+      3
+    ],
+    [
+      "strongly",
+      3
+    ],
+    [
+      "human",
+      3
+    ],
+    [
+      "especially",
+      3
+    ],
+    [
+      "stakeholder",
+      3
+    ],
+    [
+      "solid",
+      3
+    ],
+    [
+      "case",
+      3
+    ],
+    [
+      "confirm",
+      3
+    ],
+    [
+      "capability",
+      3
+    ],
+    [
+      "updat",
+      3
+    ],
+    [
+      "timelin",
+      3
+    ],
+    [
+      "learn",
+      3
+    ],
+    [
+      "fail",
+      3
+    ],
+    [
+      "coordination",
+      3
+    ],
+    [
+      "responsibiliti",
+      3
+    ],
+    [
+      "elasticity",
+      3
+    ],
+    [
+      "began",
+      3
+    ],
+    [
+      "interact",
+      3
+    ],
+    [
+      "truly",
+      3
+    ],
+    [
+      "powerful",
+      3
+    ],
+    [
+      "promise",
+      3
+    ],
+    [
+      "touch",
+      3
+    ],
+    [
+      "communicate",
+      3
+    ],
+    [
+      "lead",
+      3
+    ],
+    [
+      "weak",
+      3
+    ],
+    [
+      "refine",
+      3
+    ],
+    [
+      "segment",
+      3
+    ],
+    [
+      "check",
+      3
+    ],
+    [
+      "problem",
+      3
+    ],
+    [
+      "demand",
+      3
+    ],
+    [
+      "communicat",
+      3
+    ],
+    [
+      "quality",
+      3
+    ],
+    [
+      "increase",
+      3
+    ],
+    [
+      "full",
+      3
+    ],
+    [
+      "year",
+      3
+    ],
+    [
+      "combin",
+      3
+    ],
+    [
+      "data-driven",
+      3
+    ],
+    [
+      "purchas",
+      3
+    ],
+    [
+      "loyal",
+      3
+    ],
+    [
+      "transparency",
+      3
+    ],
+    [
+      "smoother",
+      3
+    ],
+    [
+      "excit",
+      3
+    ],
+    [
+      "importantly",
+      3
+    ],
+    [
+      "stable",
+      3
+    ],
+    [
+      "retain",
+      3
+    ],
+    [
+      "consistently",
+      3
+    ],
+    [
+      "spend",
+      3
+    ],
+    [
+      "reduc",
+      3
+    ],
+    [
+      "past",
+      3
+    ],
+    [
+      "shar",
+      3
+    ],
+    [
+      "analytical",
+      3
+    ],
+    [
+      "sustainably",
+      3
+    ],
+    [
+      "deep",
+      3
+    ],
+    [
+      "promotional",
+      3
+    ],
+    [
+      "urban",
+      3
+    ],
+    [
+      "response",
+      3
+    ],
+    [
+      "resonat",
+      3
+    ],
+    [
+      "benefit",
+      3
+    ],
+    [
+      "analytic",
+      3
+    ],
+    [
+      "underperform",
+      3
+    ],
+    [
+      "gain",
+      3
+    ],
+    [
+      "edition",
+      3
+    ],
+    [
+      "innovat",
+      3
+    ],
+    [
+      "retention",
+      3
+    ],
+    [
+      "come",
+      3
+    ],
+    [
+      "practice",
+      2
+    ],
+    [
+      "question",
+      2
+    ],
+    [
+      "passion",
+      2
+    ],
+    [
+      "central",
+      2
+    ],
+    [
+      "responsibility",
+      2
+    ],
+    [
+      "shopper",
+      2
+    ],
+    [
+      "mean",
+      2
+    ],
+    [
+      "visibility",
+      2
+    ],
+    [
+      "presence",
+      2
+    ],
+    [
+      "immediately",
+      2
+    ],
+    [
+      "consider",
+      2
+    ],
+    [
+      "reactive",
+      2
+    ],
+    [
+      "driven",
+      2
+    ],
+    [
+      "using",
+      2
+    ],
+    [
+      "reason",
+      2
+    ],
+    [
+      "lower",
+      2
+    ],
+    [
+      "bit",
+      2
+    ],
+    [
+      "drew",
+      2
+    ],
+    [
+      "view",
+      2
+    ],
+    [
+      "average",
+      2
+    ],
+    [
+      "stagnation",
+      2
+    ],
+    [
+      "either",
+      2
+    ],
+    [
+      "discover",
+      2
+    ],
+    [
+      "simply",
+      2
+    ],
+    [
+      "influencer",
+      2
+    ],
+    [
+      "lifestyle",
+      2
+    ],
+    [
+      "tailor",
+      2
+    ],
+    [
+      "worth",
+      2
+    ],
+    [
+      "solv",
+      2
+    ],
+    [
+      "profitable",
+      2
+    ],
+    [
+      "extension",
+      2
+    ],
+    [
+      "remain",
+      2
+    ],
+    [
+      "present",
+      2
+    ],
+    [
+      "fmcg",
+      2
+    ],
+    [
+      "categori",
+      2
+    ],
+    [
+      "four",
+      2
+    ],
+    [
+      "region-wise",
+      2
+    ],
+    [
+      "track",
+      2
+    ],
+    [
+      "affordability",
+      2
+    ],
+    [
+      "accordingly",
+      2
+    ],
+    [
+      "quarterly",
+      2
+    ],
+    [
+      "even",
+      2
+    ],
+    [
+      "reflect",
+      2
+    ],
+    [
+      "support",
+      2
+    ],
+    [
+      "narrative",
+      2
+    ],
+    [
+      "struggl",
+      2
+    ],
+    [
+      "recover",
+      2
+    ],
+    [
+      "due",
+      2
+    ],
+    [
+      "blind",
+      2
+    ],
+    [
+      "clearer",
+      2
+    ],
+    [
+      "recipe",
+      2
+    ],
+    [
+      "upgrad",
+      2
+    ],
+    [
+      "superiority",
+      2
+    ],
+    [
+      "within",
+      2
+    ],
+    [
+      "six",
+      2
+    ],
+    [
+      "month",
+      2
+    ],
+    [
+      "pick",
+      2
+    ],
+    [
+      "regain",
+      2
+    ],
+    [
+      "lost",
+      2
+    ],
+    [
+      "standout",
+      2
+    ],
+    [
+      "functionality",
+      2
+    ],
+    [
+      "blend",
+      2
+    ],
+    [
+      "easily",
+      2
+    ],
+    [
+      "usability",
+      2
+    ],
+    [
+      "recognizability",
+      2
+    ],
+    [
+      "intact",
+      2
+    ],
+    [
+      "confus",
+      2
+    ],
+    [
+      "disrupt",
+      2
+    ],
+    [
+      "regular",
+      2
+    ],
+    [
+      "check-in",
+      2
+    ],
+    [
+      "much",
+      2
+    ],
+    [
+      "typically",
+      2
+    ],
+    [
+      "structure",
+      2
+    ],
+    [
+      "chose",
+      2
+    ],
+    [
+      "operation",
+      2
+    ],
+    [
+      "evidence",
+      2
+    ],
+    [
+      "aim",
+      2
+    ],
+    [
+      "optimize",
+      2
+    ],
+    [
+      "objectiv",
+      2
+    ],
+    [
+      "evidence-bas",
+      2
+    ],
+    [
+      "guid",
+      2
+    ],
+    [
+      "reinforc",
+      2
+    ],
+    [
+      "emphasiz",
+      2
+    ],
+    [
+      "journey",
+      2
+    ],
+    [
+      "practical",
+      2
+    ],
+    [
+      "sale",
+      2
+    ],
+    [
+      "story",
+      2
+    ],
+    [
+      "allow",
+      2
+    ],
+    [
+      "coverage",
+      2
+    ],
+    [
+      "uncover",
+      2
+    ],
+    [
+      "visible",
+      2
+    ],
+    [
+      "action",
+      2
+    ],
+    [
+      "differenc",
+      2
+    ],
+    [
+      "quickly",
+      2
+    ],
+    [
+      "strength",
+      2
+    ],
+    [
+      "sometim",
+      2
+    ],
+    [
+      "depend",
+      2
+    ],
+    [
+      "first-hand",
+      2
+    ],
+    [
+      "transition",
+      2
+    ],
+    [
+      "challeng",
+      2
+    ],
+    [
+      "change",
+      2
+    ],
+    [
+      "base",
+      2
+    ],
+    [
+      "pain",
+      2
+    ],
+    [
+      "readiness",
+      2
+    ],
+    [
+      "department",
+      2
+    ],
+    [
+      "coordinate",
+      2
+    ],
+    [
+      "proactive",
+      2
+    ],
+    [
+      "volume",
+      2
+    ],
+    [
+      "forecast",
+      2
+    ],
+    [
+      "sensory",
+      2
+    ],
+    [
+      "resolve",
+      2
+    ],
+    [
+      "stock",
+      2
+    ],
+    [
+      "create",
+      2
+    ],
+    [
+      "describe",
+      2
+    ],
+    [
+      "tough",
+      2
+    ],
+    [
+      "sudden",
+      2
+    ],
+    [
+      "raw",
+      2
+    ],
+    [
+      "material",
+      2
+    ],
+    [
+      "explore",
+      2
+    ],
+    [
+      "cost-optimiz",
+      2
+    ],
+    [
+      "size",
+      2
+    ],
+    [
+      "profitability",
+      2
+    ],
+    [
+      "map",
+      2
+    ],
+    [
+      "opportuniti",
+      2
+    ],
+    [
+      "qualiti",
+      2
+    ],
+    [
+      "effective",
+      2
+    ],
+    [
+      "empathy",
+      2
+    ],
+    [
+      "operational",
+      2
+    ],
+    [
+      "select",
+      2
+    ],
+    [
+      "soon",
+      2
+    ],
+    [
+      "forward",
+      2
+    ],
+    [
+      "coordinator",
+      2
+    ],
+    [
+      "gradually",
+      2
+    ],
+    [
+      "scratch",
+      2
+    ],
+    [
+      "defin",
+      2
+    ],
+    [
+      "motivat",
+      2
+    ],
+    [
+      "frustrat",
+      2
+    ],
+    [
+      "landscape",
+      2
+    ],
+    [
+      "statement",
+      2
+    ],
+    [
+      "voice",
+      2
+    ],
+    [
+      "pillar",
+      2
+    ],
+    [
+      "identifi",
+      2
+    ],
+    [
+      "previous",
+      2
+    ],
+    [
+      "notic",
+      2
+    ],
+    [
+      "mother",
+      2
+    ],
+    [
+      "miss",
+      2
+    ],
+    [
+      "real-life",
+      2
+    ],
+    [
+      "moment",
+      2
+    ],
+    [
+      "family",
+      2
+    ],
+    [
+      "bond",
+      2
+    ],
+    [
+      "redesign",
+      2
+    ],
+    [
+      "warmer",
+      2
+    ],
+    [
+      "homely",
+      2
+    ],
+    [
+      "relaunch",
+      2
+    ],
+    [
+      "recall",
+      2
+    ],
+    [
+      "increas",
+      2
+    ],
+    [
+      "significantly",
+      2
+    ],
+    [
+      "use",
+      2
+    ],
+    [
+      "combination",
+      2
+    ],
+    [
+      "home",
+      2
+    ],
+    [
+      "visit",
+      2
+    ],
+    [
+      "observation",
+      2
+    ],
+    [
+      "survey",
+      2
+    ],
+    [
+      "tracker",
+      2
+    ],
+    [
+      "dot",
+      2
+    ],
+    [
+      "end-to-end",
+      2
+    ],
+    [
+      "five",
+      2
+    ],
+    [
+      "stat",
+      2
+    ],
+    [
+      "perfect",
+      1
+    ],
+    [
+      "little",
+      1
+    ],
+    [
+      "inspir",
+      1
+    ],
+    [
+      "foundation",
+      1
+    ],
+    [
+      "became",
+      1
+    ],
+    [
+      "fascinat",
+      1
+    ],
+    [
+      "curiosity",
+      1
+    ],
+    [
+      "includ",
+      1
+    ],
+    [
+      "everyth",
+      1
+    ],
+    [
+      "driv",
+      1
+    ],
+    [
+      "excellent",
+      1
+    ],
+    [
+      "inherit",
+      1
+    ],
+    [
+      "stop",
+      1
+    ],
+    [
+      "convert",
+      1
+    ],
+    [
+      "store",
+      1
+    ],
+    [
+      "barrier",
+      1
+    ],
+    [
+      "intervention",
+      1
+    ],
+    [
+      "bundle",
+      1
+    ],
+    [
+      "main",
+      1
+    ],
+    [
+      "suddenly",
+      1
+    ],
+    [
+      "heavy",
+      1
+    ],
+    [
+      "discount",
+      1
+    ],
+    [
+      "panic",
+      1
+    ],
+    [
+      "noise",
+      1
+    ],
+    [
+      "message",
+      1
+    ],
+    [
+      "threaten",
+      1
+    ],
+    [
+      "highlight",
+      1
+    ],
+    [
+      "purely",
+      1
+    ],
+    [
+      "war",
+      1
+    ],
+    [
+      "selective",
+      1
+    ],
+    [
+      "compromis",
+      1
+    ],
+    [
+      "genuinely",
+      1
+    ],
+    [
+      "assumption",
+      1
+    ],
+    [
+      "triangulation",
+      1
+    ],
+    [
+      "interview",
+      1
+    ],
+    [
+      "observe",
+      1
+    ],
+    [
+      "conversation",
+      1
+    ],
+    [
+      "emerge",
+      1
+    ],
+    [
+      "tension",
+      1
+    ],
+    [
+      "interpret",
+      1
+    ],
+    [
+      "collect",
+      1
+    ],
+    [
+      "information",
+      1
+    ],
+    [
+      "answer",
+      1
+    ],
+    [
+      "see",
+      1
+    ],
+    [
+      "play",
+      1
+    ],
+    [
+      "act",
+      1
+    ],
+    [
+      "bridge",
+      1
+    ],
+    [
+      "technical",
+      1
+    ],
+    [
+      "spac",
+      1
+    ],
+    [
+      "concept",
+      1
+    ],
+    [
+      "desirable",
+      1
+    ],
+    [
+      "viable",
+      1
+    ],
+    [
+      "push",
+      1
+    ],
+    [
+      "low",
+      1
+    ],
+    [
+      "compete",
+      1
+    ],
+    [
+      "economy",
+      1
+    ],
+    [
+      "worry",
+      1
+    ],
+    [
+      "conflict",
+      1
+    ],
+    [
+      "certain",
+      1
+    ],
+    [
+      "dilution",
+      1
+    ],
+    [
+      "similar",
+      1
+    ],
+    [
+      "cas",
+      1
+    ],
+    [
+      "reject",
+      1
+    ],
+    [
+      "outright",
+      1
+    ],
+    [
+      "propose",
+      1
+    ],
+    [
+      "controll",
+      1
+    ],
+    [
+      "pilot",
+      1
+    ],
+    [
+      "suggest",
+      1
+    ],
+    [
+      "alternative",
+      1
+    ],
+    [
+      "pac",
+      1
+    ],
+    [
+      "tradespend",
+      1
+    ],
+    [
+      "spark",
+      1
+    ],
+    [
+      "invit",
+      1
+    ],
+    [
+      "program",
+      1
+    ],
+    [
+      "taught",
+      1
+    ],
+    [
+      "understood",
+      1
+    ],
+    [
+      "influenc",
+      1
+    ],
+    [
+      "personality",
+      1
+    ],
+    [
+      "know",
+      1
+    ],
+    [
+      "memorable",
+      1
+    ],
+    [
+      "way",
+      1
+    ],
+    [
+      "react",
+      1
+    ],
+    [
+      "nicely",
+      1
+    ],
+    [
+      "put",
+      1
+    ],
+    [
+      "scenario",
+      1
+    ],
+    [
+      "suffer",
+      1
+    ],
+    [
+      "ther",
+      1
+    ],
+    [
+      "decline",
+      1
+    ],
+    [
+      "fatigue",
+      1
+    ],
+    [
+      "fresh",
+      1
+    ],
+    [
+      "com",
+      1
+    ],
+    [
+      "unlock",
+      1
+    ],
+    [
+      "authenticity",
+      1
+    ],
+    [
+      "convenience",
+      1
+    ],
+    [
+      "simplicity",
+      1
+    ],
+    [
+      "update",
+      1
+    ],
+    [
+      "energetic",
+      1
+    ],
+    [
+      "genuine",
+      1
+    ],
+    [
+      "maybe",
+      1
+    ],
+    [
+      "character",
+      1
+    ],
+    [
+      "match",
+      1
+    ],
+    [
+      "necessary",
+      1
+    ],
+    [
+      "ad",
+      1
+    ],
+    [
+      "occasion",
+      1
+    ],
+    [
+      "usage",
+      1
+    ],
+    [
+      "validate",
+      1
+    ],
+    [
+      "estimate",
+      1
+    ],
+    [
+      "enhanc",
+      1
+    ],
+    [
+      "scalability",
+      1
+    ],
+    [
+      "fantastic",
+      1
+    ],
+    [
+      "company",
+      1
+    ],
+    [
+      "mass-market",
+      1
+    ],
+    [
+      "person",
+      1
+    ],
+    [
+      "argue",
+      1
+    ],
+    [
+      "itll",
+      1
+    ],
+    [
+      "confuse",
+      1
+    ],
+    [
+      "viewpoint",
+      1
+    ],
+    [
+      "untouch",
+      1
+    ],
+    [
+      "distinct",
+      1
+    ],
+    [
+      "superior",
+      1
+    ],
+    [
+      "ingredient",
+      1
+    ],
+    [
+      "mass",
+      1
+    ],
+    [
+      "accessible",
+      1
+    ],
+    [
+      "execut",
+      1
+    ],
+    [
+      "extremely",
+      1
+    ],
+    [
+      "dynamic",
+      1
+    ],
+    [
+      "hand",
+      1
+    ],
+    [
+      "pursue",
+      1
+    ],
+    [
+      "opinion",
+      1
+    ],
+    [
+      "sustainable",
+      1
+    ],
+    [
+      "consistency",
+      1
+    ],
+    [
+      "stagnant",
+      1
+    ],
+    [
+      "dimension",
+      1
+    ],
+    [
+      "since",
+      1
+    ],
+    [
+      "introduc",
+      1
+    ],
+    [
+      "rebuild",
+      1
+    ],
+    [
+      "valu",
+      1
+    ],
+    [
+      "still",
+      1
+    ],
+    [
+      "recognize",
+      1
+    ],
+    [
+      "aspect",
+      1
+    ],
+    [
+      "scalable",
+      1
+    ],
+    [
+      "produc",
+      1
+    ],
+    [
+      "condition",
+      1
+    ],
+    [
+      "positive",
+      1
+    ],
+    [
+      "pursu",
+      1
+    ],
+    [
+      "propos",
+      1
+    ],
+    [
+      "provide",
+      1
+    ],
+    [
+      "constructive",
+      1
+    ],
+    [
+      "benchmark",
+      1
+    ],
+    [
+      "measure",
+      1
+    ],
+    [
+      "stag",
+      1
+    ],
+    [
+      "measur",
+      1
+    ],
+    [
+      "reach",
+      1
+    ],
+    [
+      "compliance",
+      1
+    ],
+    [
+      "evaluat",
+      1
+    ],
+    [
+      "outcom",
+      1
+    ],
+    [
+      "post-campaign",
+      1
+    ],
+    [
+      "actual",
+      1
+    ],
+    [
+      "threat",
+      1
+    ],
+    [
+      "defend",
+      1
+    ],
+    [
+      "erod",
+      1
+    ],
+    [
+      "constrain",
+      1
+    ],
+    [
+      "prioritize",
+      1
+    ],
+    [
+      "allocate",
+      1
+    ],
+    [
+      "drive",
+      1
+    ],
+    [
+      "priority",
+      1
+    ],
+    [
+      "continuously",
+      1
+    ],
+    [
+      "allocation",
+      1
+    ],
+    [
+      "investment",
+      1
+    ],
+    [
+      "generate",
+      1
+    ],
+    [
+      "measurable",
+      1
+    ],
+    [
+      "frequently",
+      1
+    ],
+    [
+      "achiev",
+      1
+    ],
+    [
+      "ownership",
+      1
+    ],
+    [
+      "prevent",
+      1
+    ],
+    [
+      "misalignment",
+      1
+    ],
+    [
+      "candidate",
+      1
+    ],
+    [
+      "rigor",
+      1
+    ],
+    [
+      "effectively",
+      1
+    ],
+    [
+      "result",
+      1
+    ],
+    [
+      "meaningfully",
+      1
+    ],
+    [
+      "overview",
+      1
+    ],
+    [
+      "decid",
+      1
+    ],
+    [
+      "perceiv",
+      1
+    ],
+    [
+      "expect",
+      1
+    ],
+    [
+      "ground-level",
+      1
+    ],
+    [
+      "tackle",
+      1
+    ],
+    [
+      "specifically",
+      1
+    ],
+    [
+      "on-ground",
+      1
+    ],
+    [
+      "respect",
+      1
+    ],
+    [
+      "audienc",
+      1
+    ],
+    [
+      "captur",
+      1
+    ],
+    [
+      "lot",
+      1
+    ],
+    [
+      "tactic",
+      1
+    ],
+    [
+      "value-ad",
+      1
+    ],
+    [
+      "strategically",
+      1
+    ],
+    [
+      "innovate",
+      1
+    ],
+    [
+      "versus",
+      1
+    ],
+    [
+      "ask",
+      1
+    ],
+    [
+      "lean",
+      1
+    ],
+    [
+      "concern",
+      1
+    ],
+    [
+      "welcome",
+      1
+    ],
+    [
+      "fulfill",
+      1
+    ],
+    [
+      "comprehensive",
+      1
+    ],
+    [
+      "world",
+      1
+    ],
+    [
+      "holistic",
+      1
+    ],
+    [
+      "citi",
+      1
+    ],
+    [
+      "traction",
+      1
+    ],
+    [
+      "access",
+      1
+    ],
+    [
+      "local",
+      1
+    ],
+    [
+      "smart",
+      1
+    ],
+    [
+      "respons",
+      1
+    ],
+    [
+      "imitation",
+      1
+    ],
+    [
+      "fill",
+      1
+    ],
+    [
+      "justifi",
+      1
+    ],
+    [
+      "enhancement",
+      1
+    ],
+    [
+      "exposure",
+      1
+    ],
+    [
+      "complete",
+      1
+    ],
+    [
+      "rural",
+      1
+    ],
+    [
+      "environment",
+      1
+    ],
+    [
+      "rapidly",
+      1
+    ],
+    [
+      "reinforce",
+      1
+    ],
+    [
+      "differentiate",
+      1
+    ],
+    [
+      "intelligently",
+      1
+    ],
+    [
+      "choice",
+      1
+    ],
+    [
+      "reward",
+      1
+    ],
+    [
+      "thorough",
+      1
+    ],
+    [
+      "rat",
+      1
+    ],
+    [
+      "real-world",
+      1
+    ],
+    [
+      "infrastructure",
+      1
+    ],
+    [
+      "locally",
+      1
+    ],
+    [
+      "emphasize",
+      1
+    ],
+    [
+      "offering",
+      1
+    ],
+    [
+      "fast",
+      1
+    ],
+    [
+      "full-year",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 7424,
+    "unique_words": 860,
+    "duration_min": 57.0
+  }
+}

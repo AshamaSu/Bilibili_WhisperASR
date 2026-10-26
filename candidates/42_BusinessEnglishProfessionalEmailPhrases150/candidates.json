@@ -1,0 +1,3981 @@
+{
+  "file_stem": "42_BusinessEnglishProfessionalEmailPhrases150",
+  "no": 42,
+  "title_keywords": [
+    [
+      "business",
+      "business"
+    ],
+    [
+      "english",
+      "english"
+    ],
+    [
+      "professional",
+      "professional"
+    ],
+    [
+      "email",
+      "email"
+    ],
+    [
+      "phrases",
+      "phras"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "please",
+      100,
+      "A2"
+    ],
+    [
+      "kindly",
+      72,
+      "B1+"
+    ],
+    [
+      "thank",
+      66,
+      "A2"
+    ],
+    [
+      "confirm",
+      61,
+      "B1+"
+    ],
+    [
+      "review",
+      48,
+      "B1+"
+    ],
+    [
+      "proceed",
+      34,
+      "B1+"
+    ],
+    [
+      "ensure",
+      33,
+      "B1+"
+    ],
+    [
+      "share",
+      22,
+      "A2"
+    ],
+    [
+      "approval",
+      21,
+      "B1+"
+    ],
+    [
+      "plan",
+      19,
+      "A2"
+    ],
+    [
+      "align",
+      16,
+      "B1+"
+    ],
+    [
+      "campaign",
+      16,
+      "B1+"
+    ],
+    [
+      "find",
+      16,
+      "A2"
+    ],
+    [
+      "attached",
+      14,
+      "B1+"
+    ],
+    [
+      "shared",
+      13,
+      "B1+"
+    ],
+    [
+      "accordingly",
+      12,
+      "B1+"
+    ],
+    [
+      "confirmation",
+      12,
+      "B1+"
+    ],
+    [
+      "support",
+      12,
+      "A2"
+    ],
+    [
+      "update",
+      12,
+      "B1+"
+    ],
+    [
+      "brand",
+      11,
+      "B1+"
+    ],
+    [
+      "internally",
+      11,
+      "B1+"
+    ],
+    [
+      "appreciate",
+      10,
+      "B1+"
+    ],
+    [
+      "cooperation",
+      10,
+      "B1+"
+    ],
+    [
+      "timely",
+      10,
+      "B1+"
+    ],
+    [
+      "alignment",
+      9,
+      "B1+"
+    ],
+    [
+      "coordination",
+      9,
+      "B1+"
+    ],
+    [
+      "details",
+      9,
+      "B1+"
+    ],
+    [
+      "promotion",
+      9,
+      "B1+"
+    ],
+    [
+      "required",
+      9,
+      "B1+"
+    ],
+    [
+      "response",
+      9,
+      "B1+"
+    ],
+    [
+      "taken",
+      9,
+      "A2"
+    ],
+    [
+      "updated",
+      9,
+      "B1+"
+    ],
+    [
+      "feedback",
+      8,
+      "B1+"
+    ],
+    [
+      "forward",
+      8,
+      "A2"
+    ],
+    [
+      "meeting",
+      8,
+      "A2"
+    ],
+    [
+      "next",
+      8,
+      "A2"
+    ],
+    [
+      "team",
+      8,
+      "A2"
+    ],
+    [
+      "action",
+      7,
+      "B1+"
+    ],
+    [
+      "agreed",
+      7,
+      "B1+"
+    ],
+    [
+      "final",
+      7,
+      "B1+"
+    ],
+    [
+      "inputs",
+      7,
+      "B1+"
+    ],
+    [
+      "per",
+      7,
+      "B1+"
+    ],
+    [
+      "performance",
+      7,
+      "B1+"
+    ],
+    [
+      "receipt",
+      7,
+      "B1+"
+    ],
+    [
+      "request",
+      7,
+      "B1+"
+    ],
+    [
+      "revised",
+      7,
+      "B1+"
+    ],
+    [
+      "us",
+      7,
+      "A2"
+    ],
+    [
+      "accuracy",
+      6,
+      "B1+"
+    ],
+    [
+      "attention",
+      6,
+      "B1+"
+    ],
+    [
+      "budget",
+      6,
+      "B1+"
+    ],
+    [
+      "continued",
+      6,
+      "B1+"
+    ],
+    [
+      "discussed",
+      6,
+      "B1+"
+    ],
+    [
+      "documents",
+      6,
+      "B1+"
+    ],
+    [
+      "inform",
+      6,
+      "B1+"
+    ],
+    [
+      "internal",
+      6,
+      "B1+"
+    ],
+    [
+      "mechanics",
+      6,
+      "B1+"
+    ],
+    [
+      "note",
+      6,
+      "A2"
+    ],
+    [
+      "provided",
+      6,
+      "B1+"
+    ],
+    [
+      "recorded",
+      6,
+      "A2"
+    ],
+    [
+      "sales",
+      6,
+      "B1+"
+    ],
+    [
+      "advise",
+      5,
+      "B1+"
+    ],
+    [
+      "approach",
+      5,
+      "B1+"
+    ],
+    [
+      "approved",
+      5,
+      "B1+"
+    ],
+    [
+      "availability",
+      5,
+      "B1+"
+    ],
+    [
+      "clarification",
+      5,
+      "B1+"
+    ],
+    [
+      "compliance",
+      5,
+      "B1+"
+    ],
+    [
+      "email",
+      5,
+      "A2"
+    ],
+    [
+      "execution",
+      5,
+      "B1+"
+    ],
+    [
+      "financial",
+      5,
+      "B1+"
+    ],
+    [
+      "keep",
+      5,
+      "A2"
+    ],
+    [
+      "let",
+      5,
+      "A2"
+    ],
+    [
+      "management",
+      5,
+      "B1+"
+    ],
+    [
+      "media",
+      5,
+      "B1+"
+    ],
+    [
+      "payment",
+      5,
+      "B1+"
+    ],
+    [
+      "pending",
+      5,
+      "B1+"
+    ],
+    [
+      "prompt",
+      5,
+      "B1+"
+    ],
+    [
+      "proposed",
+      5,
+      "B1+"
+    ],
+    [
+      "quick",
+      5,
+      "A2"
+    ],
+    [
+      "revert",
+      5,
+      "B1+"
+    ],
+    [
+      "shortly",
+      5,
+      "B1+"
+    ],
+    [
+      "steps",
+      5,
+      "A2"
+    ],
+    [
+      "across",
+      4,
+      "A2"
+    ],
+    [
+      "addressed",
+      4,
+      "B1+"
+    ],
+    [
+      "communication",
+      4,
+      "B1+"
+    ],
+    [
+      "cost",
+      4,
+      "A2"
+    ],
+    [
+      "currently",
+      4,
+      "B1+"
+    ],
+    [
+      "date",
+      4,
+      "B1+"
+    ],
+    [
+      "finalize",
+      4,
+      "B1+"
+    ],
+    [
+      "follow",
+      4,
+      "A2"
+    ],
+    [
+      "guidelines",
+      4,
+      "B1+"
+    ],
+    [
+      "immediate",
+      4,
+      "B1+"
+    ],
+    [
+      "information",
+      4,
+      "B1+"
+    ],
+    [
+      "know",
+      4,
+      "A2"
+    ],
+    [
+      "matter",
+      4,
+      "A2"
+    ],
+    [
+      "perspective",
+      4,
+      "B1+"
+    ],
+    [
+      "pricing",
+      4,
+      "B1+"
+    ],
+    [
+      "quantity",
+      4,
+      "B1+"
+    ],
+    [
+      "received",
+      4,
+      "B1+"
+    ],
+    [
+      "summary",
+      4,
+      "B1+"
+    ],
+    [
+      "tracker",
+      4,
+      "B1+"
+    ],
+    [
+      "version",
+      4,
+      "B1+"
+    ],
+    [
+      "acceptable",
+      3,
+      "B1+"
+    ],
+    [
+      "acknowledge",
+      3,
+      "B1+"
+    ],
+    [
+      "agreement",
+      3,
+      "B1+"
+    ],
+    [
+      "arrangement",
+      3,
+      "B1+"
+    ],
+    [
+      "assistance",
+      3,
+      "B1+"
+    ],
+    [
+      "awaiting",
+      3,
+      "B1+"
+    ],
+    [
+      "bringing",
+      3,
+      "A2"
+    ],
+    [
+      "calendar",
+      3,
+      "B1+"
+    ],
+    [
+      "call",
+      3,
+      "A2"
+    ],
+    [
+      "changes",
+      3,
+      "B1+"
+    ],
+    [
+      "channels",
+      3,
+      "B1+"
+    ],
+    [
+      "checked",
+      3,
+      "A2"
+    ],
+    [
+      "clarity",
+      3,
+      "B1+"
+    ],
+    [
+      "close",
+      3,
+      "A2"
+    ],
+    [
+      "closure",
+      3,
+      "B1+"
+    ],
+    [
+      "completed",
+      3,
+      "B1+"
+    ],
+    [
+      "complete",
+      3,
+      "B1+"
+    ],
+    [
+      "completion",
+      3,
+      "B1+"
+    ],
+    [
+      "concern",
+      3,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "kindly confirm",
+      "count": 41,
+      "example": "Kindly confirm your availability for a call. Kindly confirm your availability for a call.",
+      "t": 28.58
+    },
+    {
+      "text": "please ensure",
+      "count": 23,
+      "example": "Please ensure inputs are complete.",
+      "t": 138.82
+    },
+    {
+      "text": "please proceed",
+      "count": 21,
+      "example": "Please proceed once prerequisites are met.",
+      "t": 49.06
+    },
+    {
+      "text": "please confirm",
+      "count": 14,
+      "example": "Please confirm if this works for you. We will revert with clarity shortly.",
+      "t": 75.1
+    },
+    {
+      "text": "please find",
+      "count": 14,
+      "example": "We will integrate this into planning. Please find the updated tracker attached.",
+      "t": 103.1
+    },
+    {
+      "text": "kindly review",
+      "count": 11,
+      "example": "Kindly review the recommendations shared.",
+      "t": 61.74
+    },
+    {
+      "text": "please review",
+      "count": 8,
+      "example": "Please review the points highlighted below. Please review the points highlighted below.",
+      "t": 14.42
+    },
+    {
+      "text": "kindly ensure",
+      "count": 8,
+      "example": "Thank you for raising this concern. Kindly ensure alignment with agreed",
+      "t": 87.02
+    },
+    {
+      "text": "ensure alignment",
+      "count": 7,
+      "example": "Thank you for raising this concern. Kindly ensure alignment with agreed",
+      "t": 87.02
+    },
+    {
+      "text": "kindly share",
+      "count": 7,
+      "example": "Kindly share the supporting backup for this cost.",
+      "t": 445.96
+    }
+  ],
+  "phrases": [
+    {
+      "text": "kindly confirm",
+      "count": 41,
+      "example": "Kindly confirm your availability for a call. Kindly confirm your availability for a call.",
+      "t": 28.58
+    },
+    {
+      "text": "please ensure",
+      "count": 23,
+      "example": "Please ensure inputs are complete.",
+      "t": 138.82
+    },
+    {
+      "text": "please proceed",
+      "count": 21,
+      "example": "Please proceed once prerequisites are met.",
+      "t": 49.06
+    },
+    {
+      "text": "please confirm",
+      "count": 14,
+      "example": "Please confirm if this works for you. We will revert with clarity shortly.",
+      "t": 75.1
+    },
+    {
+      "text": "please find",
+      "count": 14,
+      "example": "We will integrate this into planning. Please find the updated tracker attached.",
+      "t": 103.1
+    },
+    {
+      "text": "kindly review",
+      "count": 11,
+      "example": "Kindly review the recommendations shared.",
+      "t": 61.74
+    },
+    {
+      "text": "please review",
+      "count": 8,
+      "example": "Please review the points highlighted below. Please review the points highlighted below.",
+      "t": 14.42
+    },
+    {
+      "text": "kindly ensure",
+      "count": 8,
+      "example": "Thank you for raising this concern. Kindly ensure alignment with agreed",
+      "t": 87.02
+    },
+    {
+      "text": "ensure alignment",
+      "count": 7,
+      "example": "Thank you for raising this concern. Kindly ensure alignment with agreed",
+      "t": 87.02
+    },
+    {
+      "text": "kindly share",
+      "count": 7,
+      "example": "Kindly share the supporting backup for this cost.",
+      "t": 445.96
+    },
+    {
+      "text": "promotion mechanics",
+      "count": 6,
+      "example": "Please proceed with the agreed promotion mechanics.",
+      "t": 1301.07
+    },
+    {
+      "text": "kindly ensure alignment",
+      "count": 5,
+      "example": "Thank you for raising this concern. Kindly ensure alignment with agreed",
+      "t": 87.02
+    },
+    {
+      "text": "please share",
+      "count": 5,
+      "example": "Please share the updated budget figures.",
+      "t": 371.68
+    },
+    {
+      "text": "please note",
+      "count": 5,
+      "example": "Please note the revised cost allocation.",
+      "t": 397.44
+    },
+    {
+      "text": "share feedback",
+      "count": 5,
+      "example": "We will share feedback shortly.",
+      "t": 609.84
+    },
+    {
+      "text": "let us",
+      "count": 5,
+      "example": "Let us know if this works for you.",
+      "t": 1093.77
+    },
+    {
+      "text": "proceed as per",
+      "count": 4,
+      "example": "We will proceed as per confirmation.",
+      "t": 131.86
+    },
+    {
+      "text": "confirm receipt",
+      "count": 4,
+      "example": "Kindly confirm receipt of the invoice.",
+      "t": 359.28
+    },
+    {
+      "text": "share the updated",
+      "count": 4,
+      "example": "Please share the updated budget figures.",
+      "t": 371.68
+    },
+    {
+      "text": "note the revised",
+      "count": 4,
+      "example": "Please note the revised cost allocation.",
+      "t": 397.44
+    },
+    {
+      "text": "confirm approval",
+      "count": 4,
+      "example": "Kindly confirm approval to proceed.",
+      "t": 415.84
+    },
+    {
+      "text": "kindly confirm approval",
+      "count": 4,
+      "example": "Kindly confirm approval to proceed.",
+      "t": 415.84
+    },
+    {
+      "text": "please advise",
+      "count": 4,
+      "example": "Please advise if any revisions are needed.",
+      "t": 544.32
+    },
+    {
+      "text": "review the details",
+      "count": 4,
+      "example": "Kindly review the details provided.",
+      "t": 629.42
+    },
+    {
+      "text": "ensure accuracy",
+      "count": 4,
+      "example": "Please ensure accuracy of the data.",
+      "t": 712.84
+    },
+    {
+      "text": "please ensure accuracy",
+      "count": 4,
+      "example": "Please ensure accuracy of the data.",
+      "t": 712.84
+    },
+    {
+      "text": "confirm the final",
+      "count": 4,
+      "example": "Kindly confirm the final version.",
+      "t": 797.32
+    },
+    {
+      "text": "next steps",
+      "count": 4,
+      "example": "We will initiate the next steps.",
+      "t": 803.92
+    },
+    {
+      "text": "us know",
+      "count": 4,
+      "example": "Let us know if this works for you.",
+      "t": 1093.77
+    },
+    {
+      "text": "let us know",
+      "count": 4,
+      "example": "Let us know if this works for you.",
+      "t": 1093.77
+    },
+    {
+      "text": "campaign performance",
+      "count": 4,
+      "example": "attached document for your review. Please find the campaign performance",
+      "t": 1259.99
+    },
+    {
+      "text": "find the campaign",
+      "count": 4,
+      "example": "attached document for your review. Please find the campaign performance",
+      "t": 1259.99
+    },
+    {
+      "text": "summary attached",
+      "count": 4,
+      "example": "summary attached. Please find the campaign performance summary attached. We are",
+      "t": 1265.11
+    },
+    {
+      "text": "timely campaign",
+      "count": 4,
+      "example": "perspective. Thank you for your timely campaign update. Thank you for your",
+      "t": 1411.27
+    },
+    {
+      "text": "campaign update",
+      "count": 4,
+      "example": "perspective. Thank you for your timely campaign update. Thank you for your",
+      "t": 1411.27
+    },
+    {
+      "text": "timely campaign update",
+      "count": 4,
+      "example": "perspective. Thank you for your timely campaign update. Thank you for your",
+      "t": 1411.27
+    },
+    {
+      "text": "confirm promotion",
+      "count": 4,
+      "example": "timely campaign update, kindly confirm promotion mechanics, kindly confirm promotion mechanics.",
+      "t": 1416.91
+    },
+    {
+      "text": "kindly confirm promotion",
+      "count": 4,
+      "example": "timely campaign update, kindly confirm promotion mechanics, kindly confirm promotion mechanics.",
+      "t": 1416.91
+    },
+    {
+      "text": "confirm promotion mechanics",
+      "count": 4,
+      "example": "timely campaign update, kindly confirm promotion mechanics, kindly confirm promotion mechanics.",
+      "t": 1416.91
+    },
+    {
+      "text": "communication plan",
+      "count": 4,
+      "example": "We will finalize the communication plan. We will finalize the communication plan.",
+      "t": 1425.23
+    },
+    {
+      "text": "finalize the communication",
+      "count": 4,
+      "example": "We will finalize the communication plan. We will finalize the communication plan.",
+      "t": 1425.23
+    },
+    {
+      "text": "ensure pricing",
+      "count": 4,
+      "example": "Please ensure pricing compliance across channels. Please ensure pricing compliance across.",
+      "t": 1431.55
+    },
+    {
+      "text": "pricing compliance",
+      "count": 4,
+      "example": "Please ensure pricing compliance across channels. Please ensure pricing compliance across.",
+      "t": 1431.55
+    },
+    {
+      "text": "compliance across",
+      "count": 4,
+      "example": "Please ensure pricing compliance across channels. Please ensure pricing compliance across.",
+      "t": 1431.55
+    },
+    {
+      "text": "please ensure pricing",
+      "count": 4,
+      "example": "Please ensure pricing compliance across channels. Please ensure pricing compliance across.",
+      "t": 1431.55
+    },
+    {
+      "text": "ensure pricing compliance",
+      "count": 4,
+      "example": "Please ensure pricing compliance across channels. Please ensure pricing compliance across.",
+      "t": 1431.55
+    },
+    {
+      "text": "pricing compliance across",
+      "count": 4,
+      "example": "Please ensure pricing compliance across channels. Please ensure pricing compliance across.",
+      "t": 1431.55
+    },
+    {
+      "text": "find the updated",
+      "count": 3,
+      "example": "We will integrate this into planning. Please find the updated tracker attached.",
+      "t": 103.1
+    },
+    {
+      "text": "continued cooperation",
+      "count": 3,
+      "example": "This will be addressed during review. Thank you for your continued cooperation.",
+      "t": 115.74
+    },
+    {
+      "text": "proceed with coordination",
+      "count": 3,
+      "example": "We will align this with schedules. Please proceed with coordination efforts.",
+      "t": 259.66
+    },
+    {
+      "text": "proceed after confirmation",
+      "count": 3,
+      "example": "We will proceed after confirmation.",
+      "t": 316.9
+    },
+    {
+      "text": "management approval",
+      "count": 3,
+      "example": "We are awaiting management approval.",
+      "t": 481.12
+    },
+    {
+      "text": "proceed once approval",
+      "count": 3,
+      "example": "Kindly confirm if a cruel is required. We will proceed once approval is received.",
+      "t": 503.08
+    },
+    {
+      "text": "approval is received",
+      "count": 3,
+      "example": "Kindly confirm if a cruel is required. We will proceed once approval is received.",
+      "t": 503.08
+    },
+    {
+      "text": "confirm your agreement",
+      "count": 3,
+      "example": "We are reviewing this internally. Kindly confirm your agreement.",
+      "t": 592.96
+    },
+    {
+      "text": "appreciate your support",
+      "count": 3,
+      "example": "We appreciate your support on this matter.",
+      "t": 636.42
+    },
+    {
+      "text": "take this forward",
+      "count": 3,
+      "example": "We will take this forward accordingly.",
+      "t": 739.48
+    },
+    {
+      "text": "ensure timely",
+      "count": 3,
+      "example": "We will ensure timely completion.",
+      "t": 770.32
+    },
+    {
+      "text": "final version",
+      "count": 3,
+      "example": "Kindly confirm the final version.",
+      "t": 797.32
+    },
+    {
+      "text": "changes are required",
+      "count": 3,
+      "example": "Kindly confirm if changes are required.",
+      "t": 897.6
+    },
+    {
+      "text": "acknowledge receipt",
+      "count": 3,
+      "example": "Kindly acknowledge receipt.",
+      "t": 1139.95
+    },
+    {
+      "text": "share the final",
+      "count": 3,
+      "example": "We will share the final version shortly.",
+      "t": 1155.47
+    },
+    {
+      "text": "performance summary",
+      "count": 3,
+      "example": "summary attached. Please find the campaign performance summary attached. We are",
+      "t": 1265.11
+    },
+    {
+      "text": "campaign performance summary",
+      "count": 3,
+      "example": "summary attached. Please find the campaign performance summary attached. We are",
+      "t": 1265.11
+    },
+    {
+      "text": "performance summary attached",
+      "count": 3,
+      "example": "summary attached. Please find the campaign performance summary attached. We are",
+      "t": 1265.11
+    },
+    {
+      "text": "brand performance",
+      "count": 3,
+      "example": "reviewing the brand performance for the period.",
+      "t": 1271.83
+    },
+    {
+      "text": "reviewing the brand",
+      "count": 3,
+      "example": "reviewing the brand performance for the period.",
+      "t": 1271.83
+    },
+    {
+      "text": "proposed campaign",
+      "count": 3,
+      "example": "10. Kindly confirm approval for the proposed campaign.",
+      "t": 1279.29
+    },
+    {
+      "text": "media plan",
+      "count": 3,
+      "example": "11. Thank you for the inputs on the media plan.",
+      "t": 1287.57
+    },
+    {
+      "text": "marketing plan",
+      "count": 3,
+      "example": "This has been considered in the marketing plan.",
+      "t": 1308.91
+    },
+    {
+      "text": "promotion effectiveness",
+      "count": 3,
+      "example": "We will evaluate the promotion effectiveness.",
+      "t": 1356.27
+    },
+    {
+      "text": "evaluate the promotion",
+      "count": 3,
+      "example": "We will evaluate the promotion effectiveness.",
+      "t": 1356.27
+    },
+    {
+      "text": "sales uplift",
+      "count": 3,
+      "example": "Please share the sales uplift estimate.",
+      "t": 1363.27
+    },
+    {
+      "text": "uplift estimate",
+      "count": 3,
+      "example": "Please share the sales uplift estimate.",
+      "t": 1363.27
+    },
+    {
+      "text": "share the sales",
+      "count": 3,
+      "example": "Please share the sales uplift estimate.",
+      "t": 1363.27
+    },
+    {
+      "text": "sales uplift estimate",
+      "count": 3,
+      "example": "Please share the sales uplift estimate.",
+      "t": 1363.27
+    },
+    {
+      "text": "campaign calendar",
+      "count": 3,
+      "example": "This has been noted in the campaign calendar.",
+      "t": 1369.27
+    },
+    {
+      "text": "consumer insights",
+      "count": 3,
+      "example": "Thank you for sharing the consumer insights.",
+      "t": 1376.27
+    },
+    {
+      "text": "sharing the consumer",
+      "count": 3,
+      "example": "Thank you for sharing the consumer insights.",
+      "t": 1376.27
+    },
+    {
+      "text": "confirm posm",
+      "count": 3,
+      "example": "Kindly confirm POSM quantity requirements.",
+      "t": 1383.27
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen. Practice. Speak. Practice makes you perfect."
+    },
+    {
+      "t": 14.42,
+      "text": "Please review the points highlighted below. Please review the points highlighted below."
+    },
+    {
+      "t": 21.06,
+      "text": "We are evaluating the request internally. We are evaluating the request internally."
+    },
+    {
+      "t": 28.58,
+      "text": "Kindly confirm your availability for a call. Kindly confirm your availability for a call."
+    },
+    {
+      "t": 35.74,
+      "text": "Thank you for the clear direction provided."
+    },
+    {
+      "t": 42.06,
+      "text": "We will share a consolidated response."
+    },
+    {
+      "t": 49.06,
+      "text": "Please proceed once prerequisites are met."
+    },
+    {
+      "t": 56.38,
+      "text": "This has been acknowledged and noted."
+    },
+    {
+      "t": 61.74,
+      "text": "Kindly review the recommendations shared."
+    },
+    {
+      "t": 65.5,
+      "text": "review the recommendations shared. We appreciate your timely coordination."
+    },
+    {
+      "t": 75.1,
+      "text": "Please confirm if this works for you. We will revert with clarity shortly."
+    },
+    {
+      "t": 87.02,
+      "text": "Thank you for raising this concern. Kindly ensure alignment with agreed"
+    },
+    {
+      "t": 95.34,
+      "text": "scope. Kindly ensure alignment with agreed scope. We will integrate this into planning."
+    },
+    {
+      "t": 103.1,
+      "text": "We will integrate this into planning. Please find the updated tracker attached."
+    },
+    {
+      "t": 109.46,
+      "text": "Please find the updated tracker attached. This will be addressed during review."
+    },
+    {
+      "t": 115.74,
+      "text": "This will be addressed during review. Thank you for your continued cooperation."
+    },
+    {
+      "t": 122.06,
+      "text": "Thank you for your continued cooperation."
+    },
+    {
+      "t": 125.42,
+      "text": "Kindly confirm if approval is granted."
+    },
+    {
+      "t": 128.82,
+      "text": "Kindly confirm if approval is granted."
+    },
+    {
+      "t": 131.86,
+      "text": "We will proceed as per confirmation."
+    },
+    {
+      "t": 135.22,
+      "text": "We will proceed as per confirmation."
+    },
+    {
+      "t": 138.82,
+      "text": "Please ensure inputs are complete."
+    },
+    {
+      "t": 141.96,
+      "text": "Please ensure inputs are complete."
+    },
+    {
+      "t": 145.04,
+      "text": "This has been shared for internal alignment."
+    },
+    {
+      "t": 148.52,
+      "text": "This has been shared for internal alignment."
+    },
+    {
+      "t": 151.74,
+      "text": "Thank you for your helpful suggestions."
+    },
+    {
+      "t": 157.66,
+      "text": "Kindly review and provide approval."
+    },
+    {
+      "t": 163.98,
+      "text": "We will move ahead accordingly."
+    },
+    {
+      "t": 169.26,
+      "text": "Please proceed with next actions."
+    },
+    {
+      "t": 175.1,
+      "text": "This is currently under consideration."
+    },
+    {
+      "t": 181.26,
+      "text": "Thank you for your prompt assistance."
+    },
+    {
+      "t": 186.46,
+      "text": "Kindly confirm the expected timeline."
+    },
+    {
+      "t": 193.26,
+      "text": "We will ensure smooth coordination."
+    },
+    {
+      "t": 199.66,
+      "text": "Please confirm completion once done."
+    },
+    {
+      "t": 206.14,
+      "text": "This has been reviewed and recorded."
+    },
+    {
+      "t": 211.74,
+      "text": "Thank you for your ongoing engagement."
+    },
+    {
+      "t": 217.74,
+      "text": "Kindly confirm if further review is needed."
+    },
+    {
+      "t": 225.18,
+      "text": "We will proceed with internal checks."
+    },
+    {
+      "t": 231.42,
+      "text": "Please ensure alignment before execution."
+    },
+    {
+      "t": 235.18,
+      "text": "Please ensure alignment before execution. This will be taken up on priority."
+    },
+    {
+      "t": 241.9,
+      "text": "This will be taken up on priority. Thank you for your quick clarification."
+    },
+    {
+      "t": 247.74,
+      "text": "Thank you for your quick clarification. Kindly confirm if issues remain."
+    },
+    {
+      "t": 253.74,
+      "text": "Kindly confirm if issues remain. We will align this with schedules."
+    },
+    {
+      "t": 259.66,
+      "text": "We will align this with schedules. Please proceed with coordination efforts."
+    },
+    {
+      "t": 265.18,
+      "text": "Please proceed with coordination efforts."
+    },
+    {
+      "t": 269.22,
+      "text": "This has been checked for accuracy."
+    },
+    {
+      "t": 271.86,
+      "text": "This has been checked for accuracy."
+    },
+    {
+      "t": 274.58,
+      "text": "Thank you for your proactive approach."
+    },
+    {
+      "t": 277.38,
+      "text": "Thank you for your proactive approach."
+    },
+    {
+      "t": 280.34,
+      "text": "Kindly confirm responsibility assignment."
+    },
+    {
+      "t": 283.96,
+      "text": "Kindly confirm responsibility assignment."
+    },
+    {
+      "t": 287.22,
+      "text": "We will track this till closure."
+    },
+    {
+      "t": 289.76,
+      "text": "We will track this till closure."
+    },
+    {
+      "t": 292.54,
+      "text": "Please ensure deadlines are met."
+    },
+    {
+      "t": 298.18,
+      "text": "This is pending management review."
+    },
+    {
+      "t": 303.82,
+      "text": "Thank you for your structured feedback."
+    },
+    {
+      "t": 309.5,
+      "text": "Kindly confirm if risks are identified."
+    },
+    {
+      "t": 316.9,
+      "text": "We will proceed after confirmation."
+    },
+    {
+      "t": 319.96,
+      "text": "We will proceed after confirmation."
+    },
+    {
+      "t": 323.04,
+      "text": "Please ensure clarity on responsibilities."
+    },
+    {
+      "t": 326.36,
+      "text": "Please ensure clarity on responsibilities."
+    },
+    {
+      "t": 330.36,
+      "text": "This has been communicated to stakeholders."
+    },
+    {
+      "t": 333.52,
+      "text": "This has been communicated to stakeholders."
+    },
+    {
+      "t": 336.7,
+      "text": "Thank you for your coordination support."
+    },
+    {
+      "t": 342.44,
+      "text": "Kindly confirm next action steps."
+    },
+    {
+      "t": 349.08,
+      "text": "We will follow the agreed framework."
+    },
+    {
+      "t": 351.96,
+      "text": "Please find the attached financial report for review."
+    },
+    {
+      "t": 359.28,
+      "text": "Kindly confirm receipt of the invoice."
+    },
+    {
+      "t": 365.32,
+      "text": "We are reviewing the month-end financials."
+    },
+    {
+      "t": 371.68,
+      "text": "Please share the updated budget figures."
+    },
+    {
+      "t": 377.84,
+      "text": "This expense has been recorded accordingly."
+    },
+    {
+      "t": 380.98,
+      "text": "This expense has been recorded accordingly."
+    },
+    {
+      "t": 384.32,
+      "text": "Kindly provide clarification on this variance."
+    },
+    {
+      "t": 391.16,
+      "text": "We will process the payment as per terms."
+    },
+    {
+      "t": 397.44,
+      "text": "Please note the revised cost allocation."
+    },
+    {
+      "t": 404.0,
+      "text": "Thank you for submitting the required documents."
+    },
+    {
+      "t": 407.28,
+      "text": "Thank you for submitting the required documents."
+    },
+    {
+      "t": 410.24,
+      "text": "This has been reviewed by the finance team."
+    },
+    {
+      "t": 415.84,
+      "text": "Kindly confirm approval to proceed."
+    },
+    {
+      "t": 421.88,
+      "text": "We are finalizing the financial forecast."
+    },
+    {
+      "t": 428.08,
+      "text": "Please ensure compliance with financial policies."
+    },
+    {
+      "t": 435.12,
+      "text": "This amount has been provisioned in the budget."
+    },
+    {
+      "t": 440.92,
+      "text": "Thank you for your timely response."
+    },
+    {
+      "t": 445.96,
+      "text": "Kindly share the supporting backup for this cost."
+    },
+    {
+      "t": 452.96,
+      "text": "We will update the ledger accordingly."
+    },
+    {
+      "t": 458.24,
+      "text": "Please confirm the payment due date."
+    },
+    {
+      "t": 463.6,
+      "text": "This has been aligned with the approved budget."
+    },
+    {
+      "t": 466.52,
+      "text": "This has been aligned with the approved budget."
+    },
+    {
+      "t": 469.46,
+      "text": "Thank you for flagging this discrepancy."
+    },
+    {
+      "t": 472.2,
+      "text": "Thank you for flagging this discrepancy."
+    },
+    {
+      "t": 475.0,
+      "text": "Kindly review the attached reconciliation."
+    },
+    {
+      "t": 481.12,
+      "text": "We are awaiting management approval."
+    },
+    {
+      "t": 483.72,
+      "text": "We are awaiting management approval."
+    },
+    {
+      "t": 486.52,
+      "text": "Please note the revised forecast assumptions."
+    },
+    {
+      "t": 489.76,
+      "text": "Please note the revised forecast assumptions."
+    },
+    {
+      "t": 493.08,
+      "text": "will be adjusted in the next cycle. Thank you for the cost breakdown."
+    },
+    {
+      "t": 503.08,
+      "text": "Kindly confirm if a cruel is required. We will proceed once approval is received."
+    },
+    {
+      "t": 515.96,
+      "text": "Please ensure accurate coding of expenses."
+    },
+    {
+      "t": 522.88,
+      "text": "This has been captured in the financial system."
+    },
+    {
+      "t": 528.88,
+      "text": "Thank you for your cooperation."
+    },
+    {
+      "t": 533.32,
+      "text": "Kindly review the cash flow statement."
+    },
+    {
+      "t": 539.04,
+      "text": "We are closing the accounts for the month."
+    },
+    {
+      "t": 544.32,
+      "text": "Please advise if any revisions are needed."
+    },
+    {
+      "t": 550.32,
+      "text": "This cost falls within the approved limit."
+    },
+    {
+      "t": 556.32,
+      "text": "Thank you for the approval confirmation."
+    },
+    {
+      "t": 562.32,
+      "text": "Kindly share the updated payment schedule."
+    },
+    {
+      "t": 568.32,
+      "text": "We will track this under operating expenses."
+    },
+    {
+      "t": 572.32,
+      "text": "this under operating expenses. Please confirm the tax treatment applied. Please"
+    },
+    {
+      "t": 578.32,
+      "text": "confirm the tax treatment applied. Please find the requested information below."
+    },
+    {
+      "t": 585.96,
+      "text": "Please find the requested information below. We are reviewing this internally."
+    },
+    {
+      "t": 592.96,
+      "text": "We are reviewing this internally. Kindly confirm your agreement."
+    },
+    {
+      "t": 602.96,
+      "text": "Thank you for bringing this to our attention."
+    },
+    {
+      "t": 609.84,
+      "text": "We will share feedback shortly."
+    },
+    {
+      "t": 615.96,
+      "text": "Please proceed after confirmation."
+    },
+    {
+      "t": 622.48,
+      "text": "This has been noted for further action."
+    },
+    {
+      "t": 629.42,
+      "text": "Kindly review the details provided."
+    },
+    {
+      "t": 632.8,
+      "text": "Kindly review the details provided."
+    },
+    {
+      "t": 636.42,
+      "text": "We appreciate your support on this matter."
+    },
+    {
+      "t": 643.76,
+      "text": "Please confirm the discussed timelines."
+    },
+    {
+      "t": 651.3,
+      "text": "We will revert with updates."
+    },
+    {
+      "t": 656.9,
+      "text": "Thank you for your quick response."
+    },
+    {
+      "t": 662.66,
+      "text": "Kindly ensure all points are covered."
+    },
+    {
+      "t": 669.96,
+      "text": "We will align this with our plan."
+    },
+    {
+      "t": 676.46,
+      "text": "Please find the revised file attached."
+    },
+    {
+      "t": 684.06,
+      "text": "This will be reviewed at management level."
+    },
+    {
+      "t": 691.36,
+      "text": "Thank you for your continued assistance."
+    },
+    {
+      "t": 697.86,
+      "text": "Kindly confirm if this is acceptable."
+    },
+    {
+      "t": 705.24,
+      "text": "We will proceed based on your response."
+    },
+    {
+      "t": 712.84,
+      "text": "Please ensure accuracy of the data."
+    },
+    {
+      "t": 719.96,
+      "text": "This has been shared with the team."
+    },
+    {
+      "t": 725.88,
+      "text": "Thank you for your valuable input."
+    },
+    {
+      "t": 732.28,
+      "text": "Kindly review and confirm receipt."
+    },
+    {
+      "t": 739.48,
+      "text": "We will take this forward accordingly."
+    },
+    {
+      "t": 746.08,
+      "text": "Please proceed with the review."
+    },
+    {
+      "t": 751.66,
+      "text": "This is under internal evaluation."
+    },
+    {
+      "t": 758.88,
+      "text": "Thank you for your prompt follow-up."
+    },
+    {
+      "t": 764.8,
+      "text": "Kindly share your feedback."
+    },
+    {
+      "t": 770.32,
+      "text": "We will ensure timely completion."
+    },
+    {
+      "t": 777.2,
+      "text": "Please confirm closure status."
+    },
+    {
+      "t": 783.6,
+      "text": "This has been documented for reference."
+    },
+    {
+      "t": 790.2,
+      "text": "Thank you for your ongoing cooperation."
+    },
+    {
+      "t": 797.32,
+      "text": "Kindly confirm the final version."
+    },
+    {
+      "t": 803.92,
+      "text": "We will initiate the next steps."
+    },
+    {
+      "t": 810.8,
+      "text": "Please ensure all actions are aligned."
+    },
+    {
+      "t": 818.6,
+      "text": "This will be addressed accordingly."
+    },
+    {
+      "t": 824.84,
+      "text": "Thank you for your constructive approach."
+    },
+    {
+      "t": 831.64,
+      "text": "Kindly confirm if clarification is needed."
+    },
+    {
+      "t": 839.84,
+      "text": "We will follow up on this."
+    },
+    {
+      "t": 845.14,
+      "text": "Please proceed with the agreed approach."
+    },
+    {
+      "t": 852.04,
+      "text": "This has been reviewed internally."
+    },
+    {
+      "t": 858.04,
+      "text": "Thank you for your support and cooperation."
+    },
+    {
+      "t": 865.54,
+      "text": "Kindly confirm the action owner."
+    },
+    {
+      "t": 872.04,
+      "text": "We will keep you informed."
+    },
+    {
+      "t": 877.04,
+      "text": "Please ensure timely follow-up."
+    },
+    {
+      "t": 883.8,
+      "text": "This is pending internal approval."
+    },
+    {
+      "t": 890.68,
+      "text": "Thank you for your immediate response."
+    },
+    {
+      "t": 897.6,
+      "text": "Kindly confirm if changes are required."
+    },
+    {
+      "t": 905.52,
+      "text": "We will close this once confirmed."
+    },
+    {
+      "t": 912.26,
+      "text": "Please ensure documentation is complete."
+    },
+    {
+      "t": 920.16,
+      "text": "This has been reviewed and noted."
+    },
+    {
+      "t": 926.38,
+      "text": "Thank you for your consistent follow-up."
+    },
+    {
+      "t": 933.41,
+      "text": "Kindly confirm meeting availability."
+    },
+    {
+      "t": 940.57,
+      "text": "We will align internally and revert."
+    },
+    {
+      "t": 948.07,
+      "text": "Please proceed with coordination."
+    },
+    {
+      "t": 954.33,
+      "text": "This has been escalated internally."
+    },
+    {
+      "t": 960.93,
+      "text": "Thank you for your detailed explanation."
+    },
+    {
+      "t": 968.15,
+      "text": "Kindly confirm the delivery schedule."
+    },
+    {
+      "t": 973.15,
+      "text": "As discussed earlier, please proceed accordingly."
+    },
+    {
+      "t": 980.65,
+      "text": "We would appreciate your confirmation."
+    },
+    {
+      "t": 986.25,
+      "text": "Thank you for your prompt response."
+    },
+    {
+      "t": 991.25,
+      "text": "This is to inform you that the request has been approved."
+    },
+    {
+      "t": 999.25,
+      "text": "Please find below the details for your reference."
+    },
+    {
+      "t": 1007.25,
+      "text": "We are currently reviewing the matter."
+    },
+    {
+      "t": 1012.25,
+      "text": "We regret to inform you of the delay."
+    },
+    {
+      "t": 1015.25,
+      "text": "We regret to inform you of the delay."
+    },
+    {
+      "t": 1018.25,
+      "text": "Could you please share the updated figures?"
+    },
+    {
+      "t": 1024.75,
+      "text": "This is a gentle reminder regarding the pending task."
+    },
+    {
+      "t": 1033.25,
+      "text": "Please confirm receipt of this email."
+    },
+    {
+      "t": 1039.25,
+      "text": "We will revert once we receive approval."
+    },
+    {
+      "t": 1042.75,
+      "text": "We will revert once we receive approval."
+    },
+    {
+      "t": 1046.11,
+      "text": "Thank you for your cooperation."
+    },
+    {
+      "t": 1048.43,
+      "text": "Thank you for your cooperation."
+    },
+    {
+      "t": 1050.75,
+      "text": "As per our records, the payment is pending."
+    },
+    {
+      "t": 1054.19,
+      "text": "As per our records, the payment is pending."
+    },
+    {
+      "t": 1057.55,
+      "text": "Please advise on the next steps."
+    },
+    {
+      "t": 1060.35,
+      "text": "Please advise on the next steps."
+    },
+    {
+      "t": 1063.15,
+      "text": "We appreciate your continued support."
+    },
+    {
+      "t": 1066.11,
+      "text": "We appreciate your continued support."
+    },
+    {
+      "t": 1068.99,
+      "text": "Kindly share your availability for a meeting."
+    },
+    {
+      "t": 1072.35,
+      "text": "Kindly share your availability for a meeting."
+    },
+    {
+      "t": 1075.73,
+      "text": "The issue has now been resolved."
+    },
+    {
+      "t": 1078.61,
+      "text": "The issue has now been resolved."
+    },
+    {
+      "t": 1081.61,
+      "text": "Please ensure this is completed by today."
+    },
+    {
+      "t": 1088.17,
+      "text": "We will keep you posted on the progress."
+    },
+    {
+      "t": 1093.77,
+      "text": "Let us know if this works for you."
+    },
+    {
+      "t": 1098.97,
+      "text": "Thank you for bringing this to our attention."
+    },
+    {
+      "t": 1102.13,
+      "text": "you for bringing this to our attention. Please note the revised timeline."
+    },
+    {
+      "t": 1110.69,
+      "text": "We request your approval to proceed. Please feel free to contact us for any queries."
+    },
+    {
+      "t": 1124.09,
+      "text": "The report is attached for your review. Thank you for your patience."
+    },
+    {
+      "t": 1132.01,
+      "text": "Thank you for your patience."
+    },
+    {
+      "t": 1134.19,
+      "text": "We are aligned with the proposed plan."
+    },
+    {
+      "t": 1137.15,
+      "text": "We are aligned with the proposed plan."
+    },
+    {
+      "t": 1139.95,
+      "text": "Kindly acknowledge receipt."
+    },
+    {
+      "t": 1142.67,
+      "text": "Kindly acknowledge receipt."
+    },
+    {
+      "t": 1144.67,
+      "text": "This requires immediate attention."
+    },
+    {
+      "t": 1147.71,
+      "text": "This requires immediate attention."
+    },
+    {
+      "t": 1150.63,
+      "text": "Please confirm once completed."
+    },
+    {
+      "t": 1153.15,
+      "text": "Please confirm once completed."
+    },
+    {
+      "t": 1155.47,
+      "text": "We will share the final version shortly."
+    },
+    {
+      "t": 1158.51,
+      "text": "We will share the final version shortly."
+    },
+    {
+      "t": 1161.79,
+      "text": "you for your valuable input. Please review and share your feedback. We are pleased to"
+    },
+    {
+      "t": 1173.55,
+      "text": "inform you of the approval. Let us schedule a call to discuss further. Please find the"
+    },
+    {
+      "t": 1216.39,
+      "text": "Thank you for your quick turnaround."
+    },
+    {
+      "t": 1219.39,
+      "text": "Please confirm the revised quantity."
+    },
+    {
+      "t": 1225.39,
+      "text": "We will close this once finalized."
+    },
+    {
+      "t": 1231.39,
+      "text": "Your support is highly appreciated."
+    },
+    {
+      "t": 1236.39,
+      "text": "Please proceed as discussed."
+    },
+    {
+      "t": 1241.39,
+      "text": "Looking forward to your response."
+    },
+    {
+      "t": 1245.39,
+      "text": "to your response. I hope this email finds you well. I am writing to follow up on"
+    },
+    {
+      "t": 1254.31,
+      "text": "our discussion. I am writing to follow up on our discussion. Kindly find the"
+    },
+    {
+      "t": 1259.99,
+      "text": "attached document for your review. Please find the campaign performance"
+    },
+    {
+      "t": 1265.11,
+      "text": "summary attached. Please find the campaign performance summary attached. We are"
+    },
+    {
+      "t": 1271.83,
+      "text": "reviewing the brand performance for the period."
+    },
+    {
+      "t": 1279.29,
+      "text": "10. Kindly confirm approval for the proposed campaign."
+    },
+    {
+      "t": 1287.57,
+      "text": "11. Thank you for the inputs on the media plan."
+    },
+    {
+      "t": 1294.11,
+      "text": "We will align this with the brand strategy."
+    },
+    {
+      "t": 1301.07,
+      "text": "Please proceed with the agreed promotion mechanics."
+    },
+    {
+      "t": 1308.91,
+      "text": "This has been considered in the marketing plan."
+    },
+    {
+      "t": 1312.29,
+      "text": "This has been considered in the marketing plan."
+    },
+    {
+      "t": 1315.55,
+      "text": "Kindly review the artwork and share feedback."
+    },
+    {
+      "t": 1322.55,
+      "text": "We appreciate your support on the campaign rollout."
+    },
+    {
+      "t": 1330.27,
+      "text": "Please confirm the final launch date."
+    },
+    {
+      "t": 1336.27,
+      "text": "We will update the tracker accordingly."
+    },
+    {
+      "t": 1342.27,
+      "text": "Thank you for confirming the media budget."
+    },
+    {
+      "t": 1348.27,
+      "text": "Kindly ensure alignment with brand guidelines."
+    },
+    {
+      "t": 1356.27,
+      "text": "We will evaluate the promotion effectiveness."
+    },
+    {
+      "t": 1359.27,
+      "text": "We will evaluate the promotion effectiveness."
+    },
+    {
+      "t": 1363.27,
+      "text": "Please share the sales uplift estimate."
+    },
+    {
+      "t": 1366.27,
+      "text": "Please share the sales uplift estimate."
+    },
+    {
+      "t": 1369.27,
+      "text": "This has been noted in the campaign calendar."
+    },
+    {
+      "t": 1373.27,
+      "text": "This has been noted in the campaign calendar."
+    },
+    {
+      "t": 1376.27,
+      "text": "Thank you for sharing the consumer insights."
+    },
+    {
+      "t": 1379.27,
+      "text": "Thank you for sharing the consumer insights."
+    },
+    {
+      "t": 1383.27,
+      "text": "Kindly confirm POSM quantity requirements."
+    },
+    {
+      "t": 1387.27,
+      "text": "kindly confirm POSM quantity requirements. We will align with the sales team on"
+    },
+    {
+      "t": 1394.27,
+      "text": "execution. We will align with the sales team on execution. Please proceed with"
+    },
+    {
+      "t": 1400.67,
+      "text": "vendor coordination. Please proceed with vendor coordination. This has been"
+    },
+    {
+      "t": 1406.47,
+      "text": "reviewed from a brand perspective. This has been reviewed from a brand"
+    },
+    {
+      "t": 1411.27,
+      "text": "perspective. Thank you for your timely campaign update. Thank you for your"
+    },
+    {
+      "t": 1416.91,
+      "text": "timely campaign update, kindly confirm promotion mechanics, kindly confirm promotion mechanics."
+    },
+    {
+      "t": 1425.23,
+      "text": "We will finalize the communication plan. We will finalize the communication plan."
+    },
+    {
+      "t": 1431.55,
+      "text": "Please ensure pricing compliance across channels. Please ensure pricing compliance across."
+    },
+    {
+      "t": 1438.59,
+      "text": "Please find the campaign performance summary attached."
+    },
+    {
+      "t": 1442.43,
+      "text": "– Please find the Campaign Performance Summary attached."
+    },
+    {
+      "t": 1447.25,
+      "text": "We are reviewing the brand performance for the period."
+    },
+    {
+      "t": 1451.83,
+      "text": "We are reviewing the brand performance for the period."
+    },
+    {
+      "t": 1455.83,
+      "text": "Kindly confirm approval for the proposed campaign."
+    },
+    {
+      "t": 1460.43,
+      "text": "Kindly confirm approval for the proposed campaign."
+    },
+    {
+      "t": 1464.21,
+      "text": "Thank you for the inputs on the media plan."
+    },
+    {
+      "t": 1467.55,
+      "text": "Thank you for the inputs on the media plan."
+    },
+    {
+      "t": 1470.41,
+      "text": "We will align this with the brand strategy."
+    },
+    {
+      "t": 1477.21,
+      "text": "Please proceed with the agreed promotion mechanics."
+    },
+    {
+      "t": 1485.09,
+      "text": "This has been considered in the marketing plan."
+    },
+    {
+      "t": 1491.69,
+      "text": "Kindly review the artwork and share feedback."
+    },
+    {
+      "t": 1498.73,
+      "text": "We appreciate your support on the campaign rollout."
+    },
+    {
+      "t": 1506.83,
+      "text": "Please confirm the final launch date."
+    },
+    {
+      "t": 1512.77,
+      "text": "We will update the tracker accordingly."
+    },
+    {
+      "t": 1518.97,
+      "text": "Thank you for confirming the media budget."
+    },
+    {
+      "t": 1524.89,
+      "text": "Kindly ensure alignment with brand guidelines."
+    },
+    {
+      "t": 1532.69,
+      "text": "We will evaluate the promotion effectiveness."
+    },
+    {
+      "t": 1539.61,
+      "text": "Please share the sales uplift estimate."
+    },
+    {
+      "t": 1546.37,
+      "text": "This has been noted in the campaign calendar."
+    },
+    {
+      "t": 1552.97,
+      "text": "Thank you for sharing the consumer insights."
+    },
+    {
+      "t": 1559.57,
+      "text": "Kindly confirm POSM quantity requirements."
+    },
+    {
+      "t": 1568.21,
+      "text": "We will align with the sales team on execution."
+    },
+    {
+      "t": 1575.85,
+      "text": "Please proceed with vendor coordination."
+    },
+    {
+      "t": 1582.23,
+      "text": "This has been reviewed from a brand perspective."
+    },
+    {
+      "t": 1585.79,
+      "text": "This has been reviewed from a brand perspective."
+    },
+    {
+      "t": 1589.13,
+      "text": "Thank you for your timely campaign update."
+    },
+    {
+      "t": 1592.55,
+      "text": "Thank you for your timely campaign update."
+    },
+    {
+      "t": 1595.91,
+      "text": "Kindly Confirm Promotion Mechanics."
+    },
+    {
+      "t": 1599.03,
+      "text": "Kindly Confirm Promotion Mechanics."
+    },
+    {
+      "t": 1601.65,
+      "text": "We will finalize the communication plan."
+    },
+    {
+      "t": 1604.93,
+      "text": "We will finalize the communication plan."
+    },
+    {
+      "t": 1608.19,
+      "text": "Please ensure pricing compliance across channels."
+    },
+    {
+      "t": 1612.11,
+      "text": "Please ensure pricing compliance across channels."
+    },
+    {
+      "t": 1615.83,
+      "text": "Please review the details shared earlier."
+    },
+    {
+      "t": 1619.51,
+      "text": "Please review the details shared earlier."
+    },
+    {
+      "t": 1623.47,
+      "text": "We are currently assessing the situation."
+    },
+    {
+      "t": 1627.23,
+      "text": "We are currently assessing the situation."
+    },
+    {
+      "t": 1631.24,
+      "text": "Kindly confirm your agreement on this."
+    },
+    {
+      "t": 1635.0,
+      "text": "Kindly confirm your agreement on this."
+    },
+    {
+      "t": 1638.98,
+      "text": "Thank you for the update provided."
+    },
+    {
+      "t": 1642.34,
+      "text": "Thank you for the update provided."
+    },
+    {
+      "t": 1645.7,
+      "text": "We will take this forward internally."
+    },
+    {
+      "t": 1649.3,
+      "text": "We will take this forward internally."
+    },
+    {
+      "t": 1653.22,
+      "text": "Please proceed as per the shared guidelines."
+    },
+    {
+      "t": 1657.66,
+      "text": "Please proceed as per the shared guidelines."
+    },
+    {
+      "t": 1662.16,
+      "text": "This has been taken into consideration."
+    },
+    {
+      "t": 1665.93,
+      "text": "This has been taken into consideration."
+    },
+    {
+      "t": 1669.84,
+      "text": "Kindly review the attached document."
+    },
+    {
+      "t": 1677.35,
+      "text": "We appreciate your timely response."
+    },
+    {
+      "t": 1684.62,
+      "text": "Please confirm receipt of this email."
+    },
+    {
+      "t": 1692.21,
+      "text": "We will update you accordingly."
+    },
+    {
+      "t": 1698.78,
+      "text": "Thank you for your confirmation."
+    },
+    {
+      "t": 1704.72,
+      "text": "Kindly ensure this is addressed promptly."
+    },
+    {
+      "t": 1713.16,
+      "text": "We will align this with the plan."
+    },
+    {
+      "t": 1720.01,
+      "text": "Please let us know your preference."
+    },
+    {
+      "t": 1726.4,
+      "text": "This has been noted for action."
+    },
+    {
+      "t": 1732.57,
+      "text": "Thank you for sharing the information."
+    },
+    {
+      "t": 1739.67,
+      "text": "Kindly confirm the next steps."
+    },
+    {
+      "t": 1746.51,
+      "text": "We will review this internally."
+    },
+    {
+      "t": 1753.24,
+      "text": "Please proceed with the arrangement."
+    },
+    {
+      "t": 1756.58,
+      "text": "Please proceed with the arrangement."
+    },
+    {
+      "t": 1759.84,
+      "text": "This has been forwarded to the team."
+    },
+    {
+      "t": 1766.74,
+      "text": "Thank you for your cooperation."
+    },
+    {
+      "t": 1772.94,
+      "text": "Kindly confirm if changes are required."
+    },
+    {
+      "t": 1781.51,
+      "text": "We will proceed based on approval."
+    },
+    {
+      "t": 1788.58,
+      "text": "Please ensure accuracy before submission."
+    },
+    {
+      "t": 1796.86,
+      "text": "This is under internal discussion."
+    },
+    {
+      "t": 1803.99,
+      "text": "Thank you for your prompt reply."
+    },
+    {
+      "t": 1809.18,
+      "text": "Please find the updated file attached."
+    },
+    {
+      "t": 1817.42,
+      "text": "We are awaiting your confirmation to proceed."
+    },
+    {
+      "t": 1824.42,
+      "text": "Thank you for the detailed explanation."
+    },
+    {
+      "t": 1831.42,
+      "text": "Kindly review and confirm at your earliest convenience."
+    },
+    {
+      "t": 1840.42,
+      "text": "This is noted for future reference."
+    },
+    {
+      "t": 1846.42,
+      "text": "We will update you once finalized."
+    },
+    {
+      "t": 1852.42,
+      "text": "Please let us know your preferred option."
+    },
+    {
+      "t": 1858.42,
+      "text": "The matter is under review."
+    },
+    {
+      "t": 1863.42,
+      "text": "Thank you for your continued cooperation."
+    },
+    {
+      "t": 1869.42,
+      "text": "Please confirm the delivery date."
+    },
+    {
+      "t": 1875.42,
+      "text": "We appreciate your prompt attention to this matter."
+    },
+    {
+      "t": 1882.42,
+      "text": "This email is for your information only."
+    },
+    {
+      "t": 1889.42,
+      "text": "Please proceed with the necessary arrangements."
+    },
+    {
+      "t": 1896.42,
+      "text": "We will arrange the meeting accordingly."
+    },
+    {
+      "t": 1902.42,
+      "text": "Kindly share the updated status."
+    },
+    {
+      "t": 1908.42,
+      "text": "This has been escalated for further review."
+    },
+    {
+      "t": 1914.42,
+      "text": "Thank you for your time and support."
+    },
+    {
+      "t": 1920.42,
+      "text": "We will keep this on hold until further notice."
+    },
+    {
+      "t": 1924.42,
+      "text": "We will keep this on hold until further notice."
+    },
+    {
+      "t": 1928.42,
+      "text": "Please review the proposal and share feedback."
+    },
+    {
+      "t": 1932.42,
+      "text": "Please review the proposal and share feedback."
+    },
+    {
+      "t": 1935.42,
+      "text": "We are pleased to move forward with this plan."
+    },
+    {
+      "t": 1939.42,
+      "text": "We are pleased to move forward with this plan."
+    },
+    {
+      "t": 1942.42,
+      "text": "Kindly confirm whether this is acceptable."
+    },
+    {
+      "t": 1946.42,
+      "text": "Kindly confirm whether this is acceptable."
+    },
+    {
+      "t": 1949.42,
+      "text": "Please ensure accuracy before submission."
+    },
+    {
+      "t": 1953.42,
+      "text": "Please ensure accuracy before submission."
+    },
+    {
+      "t": 1956.92,
+      "text": "We will circulate the minutes of the meeting."
+    },
+    {
+      "t": 1962.92,
+      "text": "Thank you for raising this concern."
+    },
+    {
+      "t": 1968.92,
+      "text": "Please treat this as high priority."
+    },
+    {
+      "t": 1974.92,
+      "text": "The request has been forwarded to the relevant team."
+    },
+    {
+      "t": 1982.42,
+      "text": "We will take this up internally."
+    },
+    {
+      "t": 1987.78,
+      "text": "Kindly confirm the final numbers."
+    },
+    {
+      "t": 1993.78,
+      "text": "This is subject to management approval."
+    },
+    {
+      "t": 2000.18,
+      "text": "Thank you for your valuable cooperation."
+    },
+    {
+      "t": 2006.54,
+      "text": "We will proceed once approval is received."
+    },
+    {
+      "t": 2010.18,
+      "text": "We will proceed once approval is received."
+    },
+    {
+      "t": 2013.62,
+      "text": "Please note this change with immediate effect."
+    },
+    {
+      "t": 2020.7,
+      "text": "Kindly ensure timely completion."
+    },
+    {
+      "t": 2026.82,
+      "text": "We will share further updates shortly."
+    },
+    {
+      "t": 2033.14,
+      "text": "Thank you for keeping us informed."
+    },
+    {
+      "t": 2038.74,
+      "text": "Please review the below and advise."
+    },
+    {
+      "t": 2044.9,
+      "text": "This has been approved as discussed."
+    },
+    {
+      "t": 2050.74,
+      "text": "We acknowledge receipt of your email."
+    },
+    {
+      "t": 2056.82,
+      "text": "Kindly ensure alignment with the agreed terms."
+    },
+    {
+      "t": 2064.74,
+      "text": "We will close this subject upon confirmation."
+    },
+    {
+      "t": 2072.06,
+      "text": "Please advise if any changes are required."
+    },
+    {
+      "t": 2079.42,
+      "text": "Thank you for your swift action."
+    },
+    {
+      "t": 2084.86,
+      "text": "We will coordinate with the concerned team."
+    },
+    {
+      "t": 2091.46,
+      "text": "Please find the revised version below."
+    },
+    {
+      "t": 2097.9,
+      "text": "This will be implemented as planned."
+    },
+    {
+      "t": 2103.86,
+      "text": "Kindly confirm your understanding."
+    },
+    {
+      "t": 2109.5,
+      "text": "We appreciate your quick confirmation."
+    },
+    {
+      "t": 2115.82,
+      "text": "Please ensure all details are correct."
+    },
+    {
+      "t": 2119.26,
+      "text": "Please ensure all details are correct."
+    },
+    {
+      "t": 2122.7,
+      "text": "We will revisit this in the next meeting."
+    },
+    {
+      "t": 2128.9,
+      "text": "Thank you for your ongoing support."
+    },
+    {
+      "t": 2134.94,
+      "text": "Kindly share the final approval status."
+    },
+    {
+      "t": 2141.7,
+      "text": "We are aligned on the discussed approach."
+    },
+    {
+      "t": 2148.1,
+      "text": "Please proceed once confirmation is received."
+    },
+    {
+      "t": 2155.58,
+      "text": "This will be reviewed in due course."
+    },
+    {
+      "t": 2161.74,
+      "text": "Thank you for the clarification provided."
+    },
+    {
+      "t": 2168.22,
+      "text": "Kindly note the attached supporting documents."
+    },
+    {
+      "t": 2175.54,
+      "text": "We will update the records accordingly."
+    },
+    {
+      "t": 2181.54,
+      "text": "Please let us know if further assistance is required."
+    },
+    {
+      "t": 2189.54,
+      "text": "This has been taken in"
+    }
+  ],
+  "lemmas": [
+    [
+      "please",
+      100
+    ],
+    [
+      "kindly",
+      72
+    ],
+    [
+      "thank",
+      66
+    ],
+    [
+      "confirm",
+      61
+    ],
+    [
+      "review",
+      48
+    ],
+    [
+      "proce",
+      34
+    ],
+    [
+      "ensure",
+      33
+    ],
+    [
+      "share",
+      22
+    ],
+    [
+      "approval",
+      21
+    ],
+    [
+      "plan",
+      19
+    ],
+    [
+      "find",
+      16
+    ],
+    [
+      "align",
+      16
+    ],
+    [
+      "campaign",
+      16
+    ],
+    [
+      "attach",
+      14
+    ],
+    [
+      "shar",
+      13
+    ],
+    [
+      "confirmation",
+      12
+    ],
+    [
+      "accordingly",
+      12
+    ],
+    [
+      "support",
+      12
+    ],
+    [
+      "update",
+      12
+    ],
+    [
+      "internally",
+      11
+    ],
+    [
+      "brand",
+      11
+    ],
+    [
+      "appreciate",
+      10
+    ],
+    [
+      "timely",
+      10
+    ],
+    [
+      "cooperation",
+      10
+    ],
+    [
+      "response",
+      9
+    ],
+    [
+      "coordination",
+      9
+    ],
+    [
+      "alignment",
+      9
+    ],
+    [
+      "updat",
+      9
+    ],
+    [
+      "take",
+      9
+    ],
+    [
+      "requir",
+      9
+    ],
+    [
+      "detail",
+      9
+    ],
+    [
+      "promotion",
+      9
+    ],
+    [
+      "meet",
+      8
+    ],
+    [
+      "next",
+      8
+    ],
+    [
+      "feedback",
+      8
+    ],
+    [
+      "team",
+      8
+    ],
+    [
+      "forward",
+      8
+    ],
+    [
+      "request",
+      7
+    ],
+    [
+      "agre",
+      7
+    ],
+    [
+      "per",
+      7
+    ],
+    [
+      "input",
+      7
+    ],
+    [
+      "action",
+      7
+    ],
+    [
+      "receipt",
+      7
+    ],
+    [
+      "revis",
+      7
+    ],
+    [
+      "final",
+      7
+    ],
+    [
+      "us",
+      7
+    ],
+    [
+      "performance",
+      7
+    ],
+    [
+      "provid",
+      6
+    ],
+    [
+      "continu",
+      6
+    ],
+    [
+      "internal",
+      6
+    ],
+    [
+      "record",
+      6
+    ],
+    [
+      "accuracy",
+      6
+    ],
+    [
+      "budget",
+      6
+    ],
+    [
+      "note",
+      6
+    ],
+    [
+      "document",
+      6
+    ],
+    [
+      "attention",
+      6
+    ],
+    [
+      "discuss",
+      6
+    ],
+    [
+      "inform",
+      6
+    ],
+    [
+      "mechanic",
+      6
+    ],
+    [
+      "sal",
+      6
+    ],
+    [
+      "availability",
+      5
+    ],
+    [
+      "revert",
+      5
+    ],
+    [
+      "shortly",
+      5
+    ],
+    [
+      "prompt",
+      5
+    ],
+    [
+      "execution",
+      5
+    ],
+    [
+      "quick",
+      5
+    ],
+    [
+      "clarification",
+      5
+    ],
+    [
+      "approach",
+      5
+    ],
+    [
+      "pend",
+      5
+    ],
+    [
+      "management",
+      5
+    ],
+    [
+      "step",
+      5
+    ],
+    [
+      "financial",
+      5
+    ],
+    [
+      "payment",
+      5
+    ],
+    [
+      "compliance",
+      5
+    ],
+    [
+      "approv",
+      5
+    ],
+    [
+      "advise",
+      5
+    ],
+    [
+      "keep",
+      5
+    ],
+    [
+      "email",
+      5
+    ],
+    [
+      "let",
+      5
+    ],
+    [
+      "propos",
+      5
+    ],
+    [
+      "media",
+      5
+    ],
+    [
+      "tracker",
+      4
+    ],
+    [
+      "address",
+      4
+    ],
+    [
+      "currently",
+      4
+    ],
+    [
+      "follow",
+      4
+    ],
+    [
+      "cost",
+      4
+    ],
+    [
+      "date",
+      4
+    ],
+    [
+      "receiv",
+      4
+    ],
+    [
+      "information",
+      4
+    ],
+    [
+      "matter",
+      4
+    ],
+    [
+      "version",
+      4
+    ],
+    [
+      "immediate",
+      4
+    ],
+    [
+      "know",
+      4
+    ],
+    [
+      "quantity",
+      4
+    ],
+    [
+      "summary",
+      4
+    ],
+    [
+      "guidelin",
+      4
+    ],
+    [
+      "perspective",
+      4
+    ],
+    [
+      "finalize",
+      4
+    ],
+    [
+      "communication",
+      4
+    ],
+    [
+      "pric",
+      4
+    ],
+    [
+      "across",
+      4
+    ],
+    [
+      "point",
+      3
+    ],
+    [
+      "call",
+      3
+    ],
+    [
+      "clarity",
+      3
+    ],
+    [
+      "concern",
+      3
+    ],
+    [
+      "complete",
+      3
+    ],
+    [
+      "move",
+      3
+    ],
+    [
+      "consideration",
+      3
+    ],
+    [
+      "assistance",
+      3
+    ],
+    [
+      "completion",
+      3
+    ],
+    [
+      "ongo",
+      3
+    ],
+    [
+      "need",
+      3
+    ],
+    [
+      "check",
+      3
+    ],
+    [
+      "priority",
+      3
+    ],
+    [
+      "track",
+      3
+    ],
+    [
+      "closure",
+      3
+    ],
+    [
+      "finaliz",
+      3
+    ],
+    [
+      "forecast",
+      3
+    ],
+    [
+      "await",
+      3
+    ],
+    [
+      "expens",
+      3
+    ],
+    [
+      "schedule",
+      3
+    ],
+    [
+      "agreement",
+      3
+    ],
+    [
+      "bring",
+      3
+    ],
+    [
+      "acceptable",
+      3
+    ],
+    [
+      "valuable",
+      3
+    ],
+    [
+      "follow-up",
+      3
+    ],
+    [
+      "status",
+      3
+    ],
+    [
+      "reference",
+      3
+    ],
+    [
+      "chang",
+      3
+    ],
+    [
+      "close",
+      3
+    ],
+    [
+      "earlier",
+      3
+    ],
+    [
+      "complet",
+      3
+    ],
+    [
+      "acknowledge",
+      3
+    ],
+    [
+      "pleas",
+      3
+    ],
+    [
+      "discussion",
+      3
+    ],
+    [
+      "period",
+      3
+    ],
+    [
+      "consider",
+      3
+    ],
+    [
+      "market",
+      3
+    ],
+    [
+      "evaluate",
+      3
+    ],
+    [
+      "effectiveness",
+      3
+    ],
+    [
+      "uplift",
+      3
+    ],
+    [
+      "estimate",
+      3
+    ],
+    [
+      "calendar",
+      3
+    ],
+    [
+      "consumer",
+      3
+    ],
+    [
+      "insight",
+      3
+    ],
+    [
+      "posm",
+      3
+    ],
+    [
+      "requirement",
+      3
+    ],
+    [
+      "vendor",
+      3
+    ],
+    [
+      "channel",
+      3
+    ],
+    [
+      "arrangement",
+      3
+    ],
+    [
+      "submission",
+      3
+    ],
+    [
+      "practice",
+      2
+    ],
+    [
+      "highlight",
+      2
+    ],
+    [
+      "evaluat",
+      2
+    ],
+    [
+      "recommendation",
+      2
+    ],
+    [
+      "work",
+      2
+    ],
+    [
+      "rais",
+      2
+    ],
+    [
+      "scope",
+      2
+    ],
+    [
+      "integrate",
+      2
+    ],
+    [
+      "grant",
+      2
+    ],
+    [
+      "provide",
+      2
+    ],
+    [
+      "timeline",
+      2
+    ],
+    [
+      "issu",
+      2
+    ],
+    [
+      "remain",
+      2
+    ],
+    [
+      "schedul",
+      2
+    ],
+    [
+      "effort",
+      2
+    ],
+    [
+      "proactive",
+      2
+    ],
+    [
+      "responsibility",
+      2
+    ],
+    [
+      "assignment",
+      2
+    ],
+    [
+      "till",
+      2
+    ],
+    [
+      "responsibiliti",
+      2
+    ],
+    [
+      "communicat",
+      2
+    ],
+    [
+      "stakeholder",
+      2
+    ],
+    [
+      "report",
+      2
+    ],
+    [
+      "figur",
+      2
+    ],
+    [
+      "expense",
+      2
+    ],
+    [
+      "term",
+      2
+    ],
+    [
+      "submit",
+      2
+    ],
+    [
+      "due",
+      2
+    ],
+    [
+      "flag",
+      2
+    ],
+    [
+      "discrepancy",
+      2
+    ],
+    [
+      "assumption",
+      2
+    ],
+    [
+      "operat",
+      2
+    ],
+    [
+      "tax",
+      2
+    ],
+    [
+      "treatment",
+      2
+    ],
+    [
+      "appli",
+      2
+    ],
+    [
+      "file",
+      2
+    ],
+    [
+      "bas",
+      2
+    ],
+    [
+      "escalat",
+      2
+    ],
+    [
+      "explanation",
+      2
+    ],
+    [
+      "delivery",
+      2
+    ],
+    [
+      "regret",
+      2
+    ],
+    [
+      "delay",
+      2
+    ],
+    [
+      "receive",
+      2
+    ],
+    [
+      "issue",
+      2
+    ],
+    [
+      "resolv",
+      2
+    ],
+    [
+      "patience",
+      2
+    ],
+    [
+      "writ",
+      2
+    ],
+    [
+      "strategy",
+      2
+    ],
+    [
+      "artwork",
+      2
+    ],
+    [
+      "rollout",
+      2
+    ],
+    [
+      "launch",
+      2
+    ],
+    [
+      "assess",
+      2
+    ],
+    [
+      "situation",
+      2
+    ],
+    [
+      "hold",
+      2
+    ],
+    [
+      "notice",
+      2
+    ],
+    [
+      "proposal",
+      2
+    ],
+    [
+      "whether",
+      2
+    ],
+    [
+      "subject",
+      2
+    ],
+    [
+      "correct",
+      2
+    ],
+    [
+      "listen",
+      1
+    ],
+    [
+      "speak",
+      1
+    ],
+    [
+      "mak",
+      1
+    ],
+    [
+      "perfect",
+      1
+    ],
+    [
+      "clear",
+      1
+    ],
+    [
+      "direction",
+      1
+    ],
+    [
+      "consolidat",
+      1
+    ],
+    [
+      "prerequisit",
+      1
+    ],
+    [
+      "acknowledg",
+      1
+    ],
+    [
+      "helpful",
+      1
+    ],
+    [
+      "suggestion",
+      1
+    ],
+    [
+      "ahead",
+      1
+    ],
+    [
+      "expect",
+      1
+    ],
+    [
+      "smooth",
+      1
+    ],
+    [
+      "done",
+      1
+    ],
+    [
+      "engagement",
+      1
+    ],
+    [
+      "deadlin",
+      1
+    ],
+    [
+      "structur",
+      1
+    ],
+    [
+      "risk",
+      1
+    ],
+    [
+      "identifi",
+      1
+    ],
+    [
+      "framework",
+      1
+    ],
+    [
+      "invoice",
+      1
+    ],
+    [
+      "month-end",
+      1
+    ],
+    [
+      "variance",
+      1
+    ],
+    [
+      "process",
+      1
+    ],
+    [
+      "allocation",
+      1
+    ],
+    [
+      "finance",
+      1
+    ],
+    [
+      "polici",
+      1
+    ],
+    [
+      "amount",
+      1
+    ],
+    [
+      "provision",
+      1
+    ],
+    [
+      "backup",
+      1
+    ],
+    [
+      "ledger",
+      1
+    ],
+    [
+      "reconciliation",
+      1
+    ],
+    [
+      "adjust",
+      1
+    ],
+    [
+      "cycle",
+      1
+    ],
+    [
+      "breakdown",
+      1
+    ],
+    [
+      "cruel",
+      1
+    ],
+    [
+      "accurate",
+      1
+    ],
+    [
+      "cod",
+      1
+    ],
+    [
+      "captur",
+      1
+    ],
+    [
+      "system",
+      1
+    ],
+    [
+      "cash",
+      1
+    ],
+    [
+      "flow",
+      1
+    ],
+    [
+      "statement",
+      1
+    ],
+    [
+      "clos",
+      1
+    ],
+    [
+      "account",
+      1
+    ],
+    [
+      "month",
+      1
+    ],
+    [
+      "revision",
+      1
+    ],
+    [
+      "fall",
+      1
+    ],
+    [
+      "within",
+      1
+    ],
+    [
+      "limit",
+      1
+    ],
+    [
+      "timelin",
+      1
+    ],
+    [
+      "cover",
+      1
+    ],
+    [
+      "level",
+      1
+    ],
+    [
+      "data",
+      1
+    ],
+    [
+      "evaluation",
+      1
+    ],
+    [
+      "initiate",
+      1
+    ],
+    [
+      "constructive",
+      1
+    ],
+    [
+      "owner",
+      1
+    ],
+    [
+      "documentation",
+      1
+    ],
+    [
+      "consistent",
+      1
+    ],
+    [
+      "gentle",
+      1
+    ],
+    [
+      "reminder",
+      1
+    ],
+    [
+      "regard",
+      1
+    ],
+    [
+      "task",
+      1
+    ],
+    [
+      "today",
+      1
+    ],
+    [
+      "post",
+      1
+    ],
+    [
+      "progress",
+      1
+    ],
+    [
+      "feel",
+      1
+    ],
+    [
+      "free",
+      1
+    ],
+    [
+      "contact",
+      1
+    ],
+    [
+      "queri",
+      1
+    ],
+    [
+      "turnaround",
+      1
+    ],
+    [
+      "highly",
+      1
+    ],
+    [
+      "appreciat",
+      1
+    ],
+    [
+      "look",
+      1
+    ],
+    [
+      "hope",
+      1
+    ],
+    [
+      "promptly",
+      1
+    ],
+    [
+      "preference",
+      1
+    ],
+    [
+      "reply",
+      1
+    ],
+    [
+      "earliest",
+      1
+    ],
+    [
+      "convenience",
+      1
+    ],
+    [
+      "future",
+      1
+    ],
+    [
+      "prefer",
+      1
+    ],
+    [
+      "option",
+      1
+    ],
+    [
+      "necessary",
+      1
+    ],
+    [
+      "arrange",
+      1
+    ],
+    [
+      "time",
+      1
+    ],
+    [
+      "circulate",
+      1
+    ],
+    [
+      "minut",
+      1
+    ],
+    [
+      "treat",
+      1
+    ],
+    [
+      "high",
+      1
+    ],
+    [
+      "relevant",
+      1
+    ],
+    [
+      "number",
+      1
+    ],
+    [
+      "change",
+      1
+    ],
+    [
+      "effect",
+      1
+    ],
+    [
+      "upon",
+      1
+    ],
+    [
+      "swift",
+      1
+    ],
+    [
+      "coordinate",
+      1
+    ],
+    [
+      "implement",
+      1
+    ],
+    [
+      "understand",
+      1
+    ],
+    [
+      "revisit",
+      1
+    ],
+    [
+      "course",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 2620,
+    "unique_words": 313,
+    "duration_min": 36.7
+  }
+}
