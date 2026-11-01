@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>精读辅助 · 音频同步字幕</title>
+<style>
+:root{
+  --bg:#f6f7f9; --surface:#ffffff; --ink:#171a1f; --muted:#626b78;
+  --line:#e3e6eb; --accent:#2559d6; --accent-soft:#e9effc;
+  --radius:14px;
+  --shadow:0 1px 2px rgba(16,24,40,.06),0 6px 18px rgba(16,24,40,.05);
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+}
+button{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px;border-radius:6px}
+.appbar{
+  position:sticky;top:0;z-index:20;background:rgba(255,255,255,.94);backdrop-filter:blur(8px);
+  border-bottom:1px solid var(--line);
+}
+.appbar .inner{max-width:760px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:10px}
+.appbar h1{font-size:17px;font-weight:650;flex:1;min-width:0;margin:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+select{font:inherit;border:1px solid var(--line);border-radius:10px;padding:8px 10px;min-height:44px;background:var(--surface);max-width:46vw}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:14px;box-shadow:var(--shadow)}
+main{max-width:760px;margin:0 auto;padding:14px 16px 40px;display:flex;flex-direction:column;gap:12px}
+.ep-title{font-size:18px;font-weight:650;line-height:1.4;word-break:break-word}
+.muted{color:var(--muted)}
+.small{font-size:14px}
+.tiny{font-size:13px}
+.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.spread{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+.btn{border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:8px 14px;cursor:pointer;min-height:44px;min-width:44px}
+.btn:hover{border-color:#c9ced6}
+.btn--primary{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+.btn[aria-pressed="true"]{background:var(--accent-soft);border-color:#b9cbf3;color:var(--accent);font-weight:600}
+.btn .ico{font-size:16px}
+.time{font-variant-numeric:tabular-nums;white-space:nowrap}
+.speed{display:flex;gap:6px;flex-wrap:wrap}
+.speed .btn{padding:6px 10px;min-height:40px;font-size:14px}
+/* 字幕区 */
+.subs{
+  height:min(56vh,560px);overflow-y:auto;border:1px solid var(--line);border-radius:12px;background:var(--surface);
+  scroll-behavior:auto; padding:8px; overscroll-behavior:contain;
+}
+.sub{
+  display:block;width:100%;text-align:left;border:0;background:none;cursor:pointer;
+  padding:10px 12px;border-radius:10px;line-height:1.55;word-break:break-word;
+  color:var(--ink);border-left:3px solid transparent;
+}
+.sub:hover{background:#f0f3fa}
+.sub[aria-current="true"]{
+  background:var(--accent-soft);border-left-color:var(--accent);font-weight:600;
+}
+.sub .idx{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums;margin-right:8px}
+.hintbar{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+kbd{background:#f0f2f5;border:1px solid var(--line);border-bottom-width:2px;border-radius:6px;padding:1px 6px;font-size:12px}
+dialog{border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);max-width:420px;padding:18px}
+dialog::backdrop{background:rgba(0,0,0,.35)}
+.status{position:fixed;left:-9999px}
+.banner{background:var(--warn-soft,#fdf1dc);border:1px solid #ecd3a0;color:#8a5300;border-radius:10px;padding:8px 12px;font-size:14px}
+@supports not (overscroll-behavior:contain){.subs{height:480px}}
+</style>
+</head>
+<body>
+<header class="appbar">
+  <div class="inner">
+    <h1>精读辅助</h1>
+    <label class="sr-only" for="epSel" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)">选择集数</label>
+    <select id="epSel" aria-label="选择集数"></select>
+  </div>
+</header>
+<main>
+  <div id="banner" class="banner" hidden></div>
+  <section class="card">
+    <div class="ep-title" id="epTitle"></div>
+    <div class="tiny muted" id="epMeta"></div>
+    <div class="row" style="margin-top:10px">
+      <button class="btn btn--primary" id="playBtn" aria-label="播放"><span class="ico" id="playIco">▶</span></button>
+      <span class="time small" id="timeNow">0:00</span>
+      <span class="muted">/</span>
+      <span class="time small muted" id="timeTotal">–:––</span>
+      <div class="speed" id="speedBox" role="group" aria-label="播放速率"></div>
+    </div>
+    <div class="row spread" style="margin-top:6px">
+      <span class="tiny muted" id="sentNo">–</span>
+      <span class="tiny muted" id="loadState"></span>
+    </div>
+  </section>
+  <div class="subs" id="subs" tabindex="0" aria-label="字幕列表，点击句子跳转播放"></div>
+  <div class="hintbar small">
+    <label class="row" style="gap:6px;cursor:pointer;user-select:none">
+      <input type="checkbox" id="followChk" checked style="width:18px;height:18px;accent-color:var(--accent)">
+      <span>同步滚动</span>
+    </label>
+    <span class="muted"><kbd>↑</kbd><kbd>↓</kbd> 句 <kbd>←</kbd><kbd>→</kbd> ±10s <kbd>Space</kbd> 播放 <kbd>?</kbd> 帮助</span>
+    <button class="btn small" id="helpBtn" style="min-height:32px;padding:4px 10px">快捷键</button>
+  </div>
+</main>
+<dialog id="helpDlg" aria-labelledby="helpTitle">
+  <h2 id="helpTitle" style="margin:0 0 10px;font-size:16px">快捷键</h2>
+  <p style="margin:6px 0"><kbd>↑</kbd> / <kbd>↓</kbd>：上一句 / 下一句</p>
+  <p style="margin:6px 0"><kbd>←</kbd> / <kbd>→</kbd>：后退 / 前进 10 秒</p>
+  <p style="margin:6px 0"><kbd>Space</kbd>：播放 / 暂停</p>
+  <p style="margin:6px 0"><kbd>Enter</kbd>：聚焦句子时跳转该句</p>
+  <p style="margin:6px 0" class="muted small">点击任意句子可跳转；「同步滚动」开启时当前句保持在字幕区中部，手动滚动会临时暂停跟随，约 4 秒后自动恢复（点句子或 ±10s 也会立即恢复）。</p>
+  <div style="text-align:right;margin-top:12px"><button class="btn btn--primary" id="helpClose">知道了</button></div>
+</dialog>
+<div class="status" id="live" aria-live="polite"></div>
+<audio id="player" preload="metadata" tabindex="-1"></audio>
+<script id="site-data" type="application/json">__SITE_DATA__</script>
+<script>
+"use strict";
+(function(){
+  var DATA = JSON.parse(document.getElementById("site-data").textContent);
+  var eps = DATA.eps;   // [{no,file_stem,title,dur_min,sents:[[s,e,text],...]}]
+  var $ = function(id){ return document.getElementById(id); };
+  var player=$("player"), subsEl=$("subs"), epSel=$("epSel"), playBtn=$("playBtn"), playIco=$("playIco");
+  var timeNow=$("timeNow"), timeTotal=$("timeTotal"), sentNo=$("sentNo"), live=$("live"), loadState=$("loadState");
+  var epTitle=$("epTitle"), epMeta=$("epMeta"), banner=$("banner");
+
+  // ---------- localStorage（file:// 各浏览器分区不同；一律 try/catch） ----------
+  var store = {
+    get:function(k){ try{ return localStorage.getItem(k); }catch(e){ return null; } },
+    set:function(k,v){ try{ localStorage.setItem(k,v); }catch(e){} },
+  };
+
+  // ---------- 状态 ----------
+  var cur = { ep:null, sents:[], idx:-1, metaReady:false, pendingSeek:null };
+  var lastSave = 0, lastArrow = 0;
+  var followChk = $("followChk");
+  // 同步滚动开关：勾选=跟随进度自动滚动（当前句居中）；手动滚动字幕会临时暂停跟随，句切换/seek 恢复
+  followChk.checked = store.get("wh:intensive:follow") !== "0";
+  var follow = followChk.checked;
+  followChk.addEventListener("change", function(){
+    follow = followChk.checked;
+    store.set("wh:intensive:follow", follow ? "1" : "0");
+    announce(follow ? "同步滚动已开启" : "同步滚动已关闭");
+    if(follow && cur.idx >= 0) scrollSub(subsEl.children[cur.idx]);
+  });
+  var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  function fmt(t){
+    if(!isFinite(t)) return "–:––";
+    t = Math.max(0, Math.round(t));
+    var h = Math.floor(t/3600), m = Math.floor(t%3600/60), s = t%60;
+    var mm = h ? String(m).padStart(2,"0") : String(m);
+    return (h ? h + ":" : "") + mm + ":" + String(s).padStart(2,"0");
+  }
+  function announce(msg){ live.textContent = msg; }
+
+  // ---------- 集列表 ----------
+  eps.forEach(function(ep, i){
+    var opt = document.createElement("option");
+    opt.value = String(i);
+    opt.textContent = String(ep.no).padStart(2,"0") + " · " + ep.title + " (" + Math.round(ep.dur_min) + "min)";
+    epSel.appendChild(opt);
+  });
+  var savedEp = parseInt(store.get("wh:intensive:ep") || "0", 10);
+  if(isNaN(savedEp) || savedEp < 0 || savedEp >= eps.length) savedEp = 0;
+  epSel.value = String(savedEp);
+
+  // ---------- 字幕渲染（只渲染当前集） ----------
+  function renderEpisode(i){
+    var ep = eps[i];
+    cur.ep = ep; cur.sents = ep.sents; cur.idx = -1; cur.metaReady = false;
+    epTitle.textContent = String(ep.no).padStart(2,"0") + " · " + ep.title;
+    epMeta.textContent = ep.sents.length + " 句 · 约 " + Math.round(ep.dur_min) + " 分钟";
+    subsEl.textContent = "";
+    var frag = document.createDocumentFragment();
+    ep.sents.forEach(function(s, j){
+      var b = document.createElement("button");
+      b.className = "sub"; b.type = "button";
+      b.dataset.i = String(j);
+      b.setAttribute("aria-current", "false");
+      var idx = document.createElement("span");
+      idx.className = "idx"; idx.textContent = String(j+1);
+      b.appendChild(idx);
+      b.appendChild(document.createTextNode(s[2]));   // textContent 防注入
+      frag.appendChild(b);
+    });
+    subsEl.appendChild(frag);
+    player.src = "../data/m4a/" + encodeURIComponent(ep.file_stem) + ".m4a";
+    loadState.textContent = "加载中…";
+    timeTotal.textContent = "–:––";
+    timeNow.textContent = "0:00";
+    sentNo.textContent = "– / " + ep.sents.length;
+  }
+
+  // ---------- 高亮与滚动 ----------
+  function findIdx(t){
+    var s = cur.sents, lo = 0, hi = s.length - 1, ans = -1;
+    while(lo <= hi){
+      var mid = (lo + hi) >> 1;
+      if(t >= s[mid][0]){ ans = mid; lo = mid + 1; } else { hi = mid - 1; }
+    }
+    return ans;   // gap 期间保持上一句（start<=t<next.start）
+  }
+  var progScrollUntil = 0;   // 程序滚动窗口：此时刻前的 scroll 事件都是平滑滚动动画自身发出的
+  function scrollSub(el){
+    // 当前句置于字幕显示区中部：上下句可见，便于精读对照。
+    // 用 rect 相对计算：subs 无 position 定位时 offsetTop 是相对页面的，会算错
+    var rel = el.getBoundingClientRect().top - subsEl.getBoundingClientRect().top;
+    var target = subsEl.scrollTop + rel - subsEl.clientHeight/2 + el.clientHeight/2;
+    if(reduceMotion){
+      subsEl.scrollTop = target;
+    } else {
+      subsEl.scrollTo({top:target, behavior:"smooth"});
+    }
+    // smooth 滚动会连续触发几十个 scroll 事件，计数器必被击穿；改用时间窗口
+    progScrollUntil = Date.now() + 700;
+  }
+  function setIdx(i, opts){
+    opts = opts || {};
+    if(i < 0 || i >= cur.sents.length) return;
+    if(cur.idx === i && !opts.force) { updateSentNo(); return; }
+    if(cur.idx >= 0){
+      var prev = subsEl.children[cur.idx];
+      if(prev) prev.setAttribute("aria-current","false");
+    }
+    cur.idx = i;
+    var el = subsEl.children[i];
+    el.setAttribute("aria-current","true");
+    if(follow || opts.scroll) scrollSub(el);
+    updateSentNo();
+  }
+  function updateSentNo(){
+    sentNo.textContent = cur.idx >= 0 ? (cur.idx+1) + " / " + cur.sents.length : "– / " + cur.sents.length;
+  }
+
+  // 手动滚动只认真实用户手势：滚轮 / 触摸 / 按住滚动条拖动。
+  // 不能靠 scroll 事件判手动——程序 smooth 滚动的几十个 scroll 事件会被误判。
+  // 手动接管后暂停跟随，4 秒无操作自动恢复（勾选框仍开启时）
+  var manualTimer = null;
+  function pauseFollow(){
+    if(!followChk.checked) return;
+    follow = false;
+    if(manualTimer) clearTimeout(manualTimer);
+    manualTimer = setTimeout(function(){ restoreFollow(); }, 4000);
+  }
+  ["wheel", "touchstart"].forEach(function(ev){
+    subsEl.addEventListener(ev, pauseFollow, {passive:true});
+  });
+  subsEl.addEventListener("pointerdown", function(e){
+    // 按住的是滚动条（宽度内 16px）也视为手动接管
+    if(e.clientX > subsEl.getBoundingClientRect().right - 16) pauseFollow();
+  });
+  function restoreFollow(){
+    if(!followChk.checked) return;
+    follow = true;
+    if(manualTimer){ clearTimeout(manualTimer); manualTimer = null; }
+    if(cur.idx >= 0) scrollSub(subsEl.children[cur.idx]);
+  }
+
+  // ---------- 播放控制 ----------
+  function seekTo(t){
+    if(!cur.metaReady){ cur.pendingSeek = t; return; }
+    player.currentTime = t;
+    refresh(t);
+    restoreFollow();   // 用户主动 seek（点句/±10s）即恢复自动跟随
+    savePos(true);
+  }
+  function goToSentence(i){
+    if(i < 0 || i >= cur.sents.length) return;
+    setIdx(i);
+    seekTo(cur.sents[i][0]);   // restoreFollow 会把当前句滚到中部
+  }
+  function togglePlay(){
+    if(player.paused) player.play().catch(function(){
+      banner.hidden = false; banner.textContent = "浏览器阻止了自动播放，请再按一次播放按钮。";
+    });
+    else player.pause();
+  }
+  function refresh(t){
+    var i = findIdx(t);
+    if(i >= 0) setIdx(i);
+    timeNow.textContent = fmt(t);
+  }
+  function savePos(force){
+    var now = Date.now();
+    if(!force && now - lastSave < 5000) return;
+    lastSave = now;
+    store.set("wh:intensive:pos:" + cur.ep.file_stem, String(player.currentTime || 0));
+    store.set("wh:intensive:rate", String(player.playbackRate));
+  }
+
+  player.addEventListener("loadedmetadata", function(){
+    cur.metaReady = true;
+    timeTotal.textContent = fmt(player.duration);
+    loadState.textContent = "";
+    if(cur.pendingSeek != null){ player.currentTime = cur.pendingSeek; cur.pendingSeek = null; }
+    else {
+      var saved = parseFloat(store.get("wh:intensive:pos:" + cur.ep.file_stem) || "0");
+      if(saved > 0 && saved < player.duration - 1){ player.currentTime = saved; announce("已恢复到上次位置"); }
+    }
+    applyRate();
+    refresh(player.currentTime);
+  });
+  player.addEventListener("timeupdate", function(){
+    refresh(player.currentTime);
+    savePos(false);
+  });
+  player.addEventListener("play", function(){
+    playIco.textContent = "⏸"; playBtn.setAttribute("aria-label","暂停");
+    applyRate(); savePos(true);
+  });
+  player.addEventListener("pause", function(){
+    playIco.textContent = "▶"; playBtn.setAttribute("aria-label","播放"); savePos(true);
+  });
+  player.addEventListener("ended", function(){
+    playIco.textContent = "▶"; playBtn.setAttribute("aria-label","播放"); savePos(true);
+  });
+  player.addEventListener("error", function(){
+    loadState.textContent = "音频加载失败";
+    banner.hidden = false; banner.textContent = "找不到 ../data/m4a/" + cur.ep.file_stem + ".m4a（请确认目录结构）";
+  });
+
+  // ---------- 变速 ----------
+  var SPEEDS = [0.75, 1, 1.25, 1.5];
+  var speedBox = $("speedBox");
+  function applyRate(){
+    var r = parseFloat(store.get("wh:intensive:rate") || "1");
+    if(SPEEDS.indexOf(r) < 0) r = 1;
+    player.playbackRate = r;
+    SPEEDS.forEach(function(s){
+      var b = speedBox.querySelector('[data-rate="' + s + '"]');
+      if(b) b.setAttribute("aria-pressed", String(s === r));
+    });
+  }
+  SPEEDS.forEach(function(s){
+    var b = document.createElement("button");
+    b.className = "btn"; b.type = "button"; b.dataset.rate = String(s);
+    b.textContent = s + "×";
+    b.addEventListener("click", function(){
+      player.playbackRate = s;
+      store.set("wh:intensive:rate", String(s));
+      applyRate();
+      announce("播放速率 " + s + "×");
+    });
+    speedBox.appendChild(b);
+  });
+
+  // ---------- 键盘 ----------
+  function onArrow(){
+    var now = Date.now();
+    if(now - lastArrow < 150) return true;   // 长按连发节流
+    lastArrow = now;
+    return false;
+  }
+  document.addEventListener("keydown", function(e){
+    var tag = (e.target.tagName || "").toLowerCase();
+    if(tag === "input" || tag === "select" || tag === "textarea") return;
+    switch(e.key){
+      case "ArrowUp": e.preventDefault(); goToSentence(cur.idx - 1); break;
+      case "ArrowDown": e.preventDefault(); goToSentence(cur.idx + 1); break;
+      case "ArrowLeft": e.preventDefault(); if(!onArrow()) seekTo(Math.max(0, player.currentTime - 10)); break;
+      case "ArrowRight": e.preventDefault(); if(!onArrow()) seekTo(player.currentTime + 10); break;
+      case " ": case "Spacebar": e.preventDefault(); togglePlay(); break;
+      case "?": e.preventDefault(); helpDlg.showModal(); break;
+      case "Enter":
+        if(e.target.classList && e.target.classList.contains("sub")){
+          e.preventDefault(); goToSentence(parseInt(e.target.dataset.i, 10));
+        }
+        break;
+    }
+  });
+
+  subsEl.addEventListener("click", function(e){
+    var b = e.target.closest(".sub");
+    if(b) goToSentence(parseInt(b.dataset.i, 10));
+  });
+  playBtn.addEventListener("click", togglePlay);
+  var helpDlg = $("helpDlg");
+  $("helpBtn").addEventListener("click", function(){ helpDlg.showModal(); });
+  $("helpClose").addEventListener("click", function(){ helpDlg.close(); });
+  epSel.addEventListener("change", function(){
+    store.set("wh:intensive:ep", epSel.value);
+    renderEpisode(parseInt(epSel.value, 10));
+    epSel.blur();   // 防焦点停留在 select 上时方向键误触发
+  });
+  window.addEventListener("beforeunload", savePos);
+
+  // ---------- 启动 ----------
+  renderEpisode(savedEp);
+  applyRate();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,158 @@
+#!/usr/bin/env python3
+"""把 transcripts/ 句级字幕 + data/m4a 音频组装成单文件精读页 intensive/index.html。
+
+数据源：index/episodes.json（67 集）+ transcripts/<file_stem>/transcript.json（segments）。
+音频不内联：<audio> 相对路径 ../data/m4a/<file_stem>.m4a（file:// 双击即用）。
+用法:
+    python webgen/build_intensive.py            # 生成 intensive/index.html
+    python webgen/build_intensive.py --dump     # 只打印统计
+退出码: 0 成功 / 1 数据校验失败 / 3 产物校验失败
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import re
+import sys
+import time
+from pathlib import Path
+from typing import List, Optional
+
+ROOT = Path(__file__).resolve().parent.parent
+INDEX_JSON = ROOT / "index" / "episodes.json"
+TRANSCRIPTS = ROOT / "transcripts"
+M4A_DIR = ROOT / "data" / "m4a"
+TEMPLATE = Path(__file__).resolve().parent / "template_intensive.html"
+DEFAULT_OUT = ROOT / "intensive" / "index.html"
+
+MAX_BYTES = 8 * 1024 * 1024
+WARN_BYTES = 6 * 1024 * 1024
+PLACEHOLDER = "__SITE_DATA__"
+
+
+def load_episodes(path: Path) -> List[dict]:
+    with path.open(encoding="utf-8") as f:
+        data = json.load(f)
+    if not isinstance(data, list) or not data:
+        raise ValueError("episodes.json 不是非空数组")
+    done = [e for e in data if e.get("status") == "done"]
+    done.sort(key=lambda e: e["no"])
+    for i, e in enumerate(done):
+        if e["no"] != i + 1:
+            raise ValueError("done 集号不连续：期望 %d 实际 %d" % (i + 1, e["no"]))
+    return done
+
+
+def load_sents(file_stem: str) -> List[list]:
+    path = TRANSCRIPTS / file_stem / "transcript.json"
+    with path.open(encoding="utf-8") as f:
+        d = json.load(f)
+    sents = []
+    for s in d["segments"]:
+        text = str(s.get("text", "")).strip()
+        if not text:
+            continue
+        sents.append([round(float(s["start"]), 2), round(float(s["end"]), 2), text])
+    if not sents:
+        raise ValueError("%s 无有效句子" % file_stem)
+    # 时间轴单调校验
+    for a, b in zip(sents, sents[1:]):
+        if b[0] < a[0] - 0.01:
+            raise ValueError("%s 句子时间轴非单调" % file_stem)
+    return sents
+
+
+def build_data() -> dict:
+    eps = []
+    total = 0
+    for ep in load_episodes(INDEX_JSON):
+        stem = ep["file_stem"]
+        m4a = M4A_DIR / (stem + ".m4a")
+        if not m4a.exists():
+            raise ValueError("音频缺失: %s" % m4a)
+        sents = load_sents(stem)
+        total += len(sents)
+        eps.append({"no": ep["no"], "file_stem": stem,
+                    "title": ep.get("title_fixed") or ep.get("title_raw", ""),
+                    "dur_min": ep.get("duration_min"), "sents": sents})
+    return {"v": 1, "eps": eps, "total_sents": total}
+
+
+def embed_json(data: dict) -> str:
+    s = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+    s = s.replace("</", "<\\/")
+    s = s.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
+    if "</script" in s.lower():
+        raise ValueError("内联 JSON 仍含 </script")
+    return s
+
+
+def render_template(tpl: str, payload: str) -> str:
+    if tpl.count(PLACEHOLDER) != 1:
+        raise ValueError("占位符出现 %d 次，必须恰好 1 次" % tpl.count(PLACEHOLDER))
+    return tpl.replace(PLACEHOLDER, payload)
+
+
+def write_atomic(path: Path, text: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_name(path.name + ".tmp")
+    with tmp.open("w", encoding="utf-8", newline="\n") as f:
+        f.write(text)
+    os.replace(tmp, path)
+
+
+def check_output(html: str) -> List[str]:
+    errs = []
+    size = len(html.encode("utf-8"))
+    if size > MAX_BYTES:
+        errs.append("产物 %.2f MB 超过 8 MB 上限" % (size / 1048576.0))
+    # 外部资源黑名单（相对路径 audio src 除外，这正是本页的核心）
+    bad = [r"<script[^>]+src=", r"<link[^>]+href=", r"<img[^>]+src=",
+           r"<iframe", r"<video", r"@import", r"(?<![\\w-])url\(", r"fetch\(", r"XMLHttpRequest"]
+    for pat in bad:
+        if re.search(pat, html, re.I):
+            errs.append("检出外链/网络请求：%s" % pat)
+    return errs
+
+
+def main(argv: Optional[List[str]] = None) -> int:
+    ap = argparse.ArgumentParser(description="生成精读辅助单文件页面")
+    ap.add_argument("--out", default=str(DEFAULT_OUT))
+    ap.add_argument("--dump", action="store_true", help="只打印统计，不写文件")
+    args = ap.parse_args(argv)
+
+    try:
+        data = build_data()
+    except (ValueError, OSError, json.JSONDecodeError) as e:
+        print("ERROR %s" % e, file=sys.stderr)
+        return 1
+
+    print("集数 %d / 句子总数 %d / 音频全部存在" % (len(data["eps"]), data["total_sents"]))
+    if args.dump:
+        return 0
+
+    try:
+        tpl = TEMPLATE.read_text(encoding="utf-8")
+        html = render_template(tpl, embed_json(data))
+    except (OSError, ValueError) as e:
+        print("ERROR 渲染失败：%s" % e, file=sys.stderr)
+        return 1
+
+    errs = check_output(html)
+    if errs:
+        for e in errs:
+            print("ERROR 产物校验：%s" % e, file=sys.stderr)
+        return 3
+
+    out = Path(args.out)
+    write_atomic(out, html)
+    size = len(html.encode("utf-8"))
+    if size > WARN_BYTES:
+        print("WARN 产物 %.2f MB，超过 6 MB 提示线" % (size / 1048576.0), file=sys.stderr)
+    print("已写出 %s (%.2f MB)" % (out, size / 1048576.0))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

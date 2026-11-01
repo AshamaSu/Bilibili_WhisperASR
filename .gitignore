@@ -20,6 +20,15 @@ work/
 logs/
 .workbuddy/
 
+# conn/ 含 SSH 私钥与服务器地址（asr.env），严禁入库——仓库有公开 remote
+conn/
+
+# dist/：发布包产物（index.html 由 build_site.py --mode minimal 生成），不入库
+dist/
+
+# intensive/：精读页产物（由 build_intensive.py 从 transcripts/ 再生，含全量句级字幕），不入库
+intensive/
+
 # macOS
 .DS_Store
 
