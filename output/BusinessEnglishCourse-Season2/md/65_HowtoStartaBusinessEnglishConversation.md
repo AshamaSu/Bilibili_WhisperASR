@@ -23,7 +23,7 @@
 |---|---|---|---|
 | conversation | /ˌkɒnvəˈseɪʃn/ | n. 对话（标题词，33 集已收） | Let's jump into this deep dive on mastering business English conversations. |
 | example | /ɪɡˈzɑːmpl/ | n. 例子 | Even some example conversations. |
-| strong | /strɒŋ/ | adj. 牢固的 | You need to make sure it’s strong enough to actually get you to the other side. |
+| strong | /strɒŋ/ | adj. 牢固的 | You need to make sure it's strong enough to actually get you to the other side. |
 | interesting | /ˈɪntrəstɪŋ/ | adj. 有意思的 | It's interesting you should say that. |
 | great | /ɡreɪt/ | adj. 很棒的 | Oh, that's a great one. |
 | good | /ɡʊd/ | adj. 不错的 | That's a good one, too. |
