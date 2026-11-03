@@ -26,6 +26,7 @@
 | time management | /taɪm ˈmænɪdʒmənt/ | 时间管理（33 集已收） | They're all focused squarely on time management, scheduling. |
 | scheduling | /ˈʃedjuːlɪŋ/ | n. 排期（33 集已收） | Focused squarely on time management, scheduling. |
 | flex | /fleks/ | n. 弹性（时段） | Slot in these flex blocks around them. |
+| slot in | /slɒt ɪn/ | 安排进去 | You thoughtfully slot in these flex blocks around them. |
 | must-do | /ˈmʌst duː/ | n. 必做事项 | You lock in the critical tasks first, the must-dos. |
 | mental | /ˈmentl/ | adj. 心智的、精力的 | It helps save that mental energy for the really critical tasks later. |
 | clearly | /ˈklɪəli/ | adv. 清楚地 | Ensuring the task goals are crystal clear. |
