@@ -135,8 +135,9 @@ def fix_file(md_path, sents, apply=False):
             out.append(line)
             continue
         cells = [c.strip() for c in line.strip().strip("|").split("|")]
-        if len(cells) < 3 or all(set(c) <= set("-: ") for c in cells):
-            out.append(line)
+        if (len(cells) < 3 or all(set(c) <= set("-: ") for c in cells)
+                or cells[0] in ("词", "语块", "句式", "英文")):
+            out.append(line)   # 表头与分隔行不参与回填
             continue
         idx = None
         if "翻译" in section or (len(cells) == 2 and not section):
