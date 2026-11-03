@@ -11,7 +11,7 @@
 | meeting | /ˈmiːtɪŋ/ | n. 会议（标题词；→ 见总词表，01 集已收） | Real Business Meeting Conversations（篇名） |
 | conversations | /ˌkɒnvəˈseɪʃnz/ | n. 对话（标题词；新收） | Real Business Meeting Conversations（篇名） |
 | recap | /ˈriːkæp/ | n. 会议回顾、要点复述（→ 见总词表，02 集已收） | And I'll reinforce it again in the recap. |
-| alignment | /əˈlaɪnmənt/ | n. 对齐、口径一致（→ 见总词表，01 集已收） | Let's make sure we are completely aligned on what has been decided. |
+| alignment | /əˈlaɪnmənt/ | n. 对齐、口径一致（→ 见总词表，01 集已收） | already has most of the content drafted, so the remaining work is refinement and alignment |
 | escalation | /ˌeskəˈleɪʃn/ | n. 上报升级（→ 见总词表，35 集已收） | Support needs scripts, FAQs, and escalation paths that are easy to follow. |
 | latency | /ˈleɪtənsi/ | n. 延迟、响应时延（新收） | Vendor latency is clearly our top risk. |
 | vendor | /ˈvendə/ | n. 供应商（→ 见总词表，21 集已收） | The biggest one right now is vendor API stability. |
@@ -28,7 +28,7 @@
 |---|---|---|---|
 | deadline | /ˈdedlaɪn/ | n. 截止时间 | That works as long as finance actually hits that deadline. |
 | deliver | /dɪˈlɪvə/ | v. 交付、兑现 | The primary objective is to deliver a stable, clearly positioned pilot. |
-| compliance | /kəmˈplaɪəns/ | n. 合规 | Compliance, data handling, and contractual clarity protect us. |
+| compliance | /kəmˈplaɪəns/ | n. 合规 | Legal is another critical partner. Compliance, data handling, and contractual clarity protect |
 | rework | /ˌriːˈwɜːk/ | n. 返工 | Lock the feature list today so designers can proceed without rework. |
 | playbook | /ˈpleɪbʊk/ | n. 标准操作手册 | Carlos owns the support playbook, which is due Wednesday. |
 | incident | /ˈɪnsɪdənt/ | n. 故障事件 | Ambiguity during incidents causes delays and frustration. |
@@ -50,7 +50,7 @@
 | send the recap | 会后发纪要 | And you'll send the recap within 15 minutes? |
 | decision log | 决策记录（可追溯） | I'll also attach the decision log so the context is preserved. |
 | go or no-go decision | 上线／不上线的决断 | Now let's talk about the go or no-go decision. |
-| hard lock | 硬性冻结，之后不再改 | That's a hard lock. No new features, no scope additions. |
+| hard lock | 硬性冻结，之后不再改 | a hard lock. No new features, no scope additions unless there's a critical risk or compliance |
 | within 24 hours | 24 小时内给结果 | I'll ask the vendor for an uptime and incident report within 24 hours. |
 
 ## 2. 句式

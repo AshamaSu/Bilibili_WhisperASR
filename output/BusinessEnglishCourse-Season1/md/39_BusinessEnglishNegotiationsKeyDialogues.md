@@ -11,33 +11,33 @@
 | negotiations | /nɪˌɡəʊʃiˈeɪʃnz/ | n. 谈判（标题词；新收） | Business English Negotiations: Key Dialogues（篇名） |
 | key | /kiː/ | adj. 关键的（标题词；→ 见总词表，01 集已收） | Key Dialogues（篇名） |
 | dialogues | /ˈdaɪəlɒɡz/ | n. 对话（标题词；新收） | Key Dialogues（篇名） |
-| volume | /ˈvɒljuːm/ | n. 采购量、业务量（→ 见总词表，01 集已收） | That may be possible depending on volume commitments. |
+| volume | /ˈvɒljuːm/ | n. 采购量、业务量（→ 见总词表，01 集已收） | That gap is significant, but it may be possible to reduce it depending on volume commitments |
 | discount | /ˈdɪskaʊnt/ | n. 折扣（→ 见总词表，06 集已收） | What discount could you offer with a one-year commitment? |
-| agreement | /əˈɡriːmənt/ | n. 协议（→ 见总词表，06 集已收） | If we consider a longer term agreement, there may be room for adjustment. |
+| agreement | /əˈɡriːmənt/ | n. 协议（→ 见总词表，06 集已收） | However, if we consider a longer term agreement, there may be room for further adjustment. |
 | contract | /ˈkɒntrækt/ | n. 合同（→ 见总词表，06 集已收） | How long a contract are you suggesting? |
-| forecasts | /ˈfɔːkɑːsts/ | n. 预测（新收） | If you can provide rolling forecasts, it would help us manage inventory. |
+| forecasts | /ˈfɔːkɑːsts/ | n. 预测（新收） | If you can provide rolling forecasts, even indicative ones, it would help us manage inventory |
 | incentives | /ɪnˈsentɪvz/ | n. 激励、优惠机制（新收） | With incentives tied to volume commitments or multi-year contracts. |
 | credits | /ˈkredɪts/ | n. 抵扣额度、账期（新收） | Our standard policy is 60 days credit. |
 | flexibility | /ˌfleksəˈbɪləti/ | n. 弹性（→ 见总词表，03 集已收） | Plus or minus 15% flexibility on monthly forecasts without penalties. |
-| commitments | /kəˈmɪtmənts/ | n. 承诺量（新收） | We need clarity on what kind of commitment would justify the price. |
+| commitments | /kəˈmɪtmənts/ | n. 承诺量（新收） | That gap is significant, but it may be possible to reduce it depending on volume commitments |
 | reliability | /rɪˌlaɪəˈbɪləti/ | n. 可靠性（→ 见总词表，02 集已收） | Reliability is a key part of our offering. |
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
-| inventory | /ˈɪnvəntri/ | n. 库存 | It would help us manage inventory more efficiently. |
+| inventory | /ˈɪnvəntri/ | n. 库存 | If you can provide rolling forecasts, even indicative ones, it would help us manage inventory |
 | penalty | /ˈpenəlti/ | n. 罚则、违约金 | We can include a service penalty clause. |
-| clause | /klɔːz/ | n. 条款 | We can include a service penalty clause if that level isn't met. |
+| clause | /klɔːz/ | n. 条款 | delivery rate. And if that level isn't met? We can include a service penalty clause, such as |
 | audits | /ˈɔːdɪts/ | n. 审查、稽核（→ 见总词表，29 集已收） | We propose joint quality audits twice a year. |
 | KPI | /ˌkeɪ piː ˈaɪ/ | n. 关键绩效指标 | KPIs with regular review cycles. |
 | transparency | /trænsˈpærənsi/ | n. 透明（→ 见总词表，03 集已收） | Thank you for your constructive and transparent approach. |
 | quarterly | /ˈkwɔːtəli/ | adj. 季度的 | We can include quarterly performance reviews. |
-| indicative | /ɪnˈdɪkətɪv/ | adj. 指示性的、参考性的 | Even indicative forecasts would help. |
+| indicative | /ɪnˈdɪkətɪv/ | adj. 指示性的、参考性的 | If you can provide rolling forecasts, even indicative ones, it would help us manage inventory |
 | multi-year | /ˌmʌlti ˈjɪə/ | adj. 多年的 | Incentives tied to volume commitments or multi-year contracts. |
 | partnership | /ˈpɑːtnəʃɪp/ | n. 合作伙伴关系 | This partnership will be successful and mutually beneficial. |
-| constructive | /kənˈstrʌktɪv/ | adj. 建设性的 | Thank you for your constructive approach. |
-| mitigate | /ˈmɪtɪɡeɪt/ | v. 缓解 | Buffer stock helps mitigate peak-period risk. |
+| constructive | /kənˈstrʌktɪv/ | adj. 建设性的 | Thank you for your constructive and transparent approach. |
+| mitigate | /ˈmɪtɪɡeɪt/ | v. 缓解 | How do you propose we mitigate these risks? |
 
 ### 语块（整体记忆，不拆单词）
 
@@ -46,7 +46,7 @@
 | payment terms | 付款条件 | Longer payment terms are essential for our cash flow planning. |
 | cash flow | 现金流 | Longer payment terms are essential for our cash flow planning. |
 | buffer stock | 缓冲库存 | We can maintain buffer stock for critical items to prevent disruptions. |
-| rolling forecasts | 滚动预测 | If you can provide rolling forecasts, it would help us manage inventory. |
+| rolling forecasts | 滚动预测 | If you can provide rolling forecasts, even indicative ones, it would help us manage inventory |
 | joint quality audits | 联合质量稽核 | We propose joint quality audits twice a year. |
 
 ## 2. 句式
@@ -54,16 +54,16 @@
 | 句式 | 使用场景 | 原文例句 |
 |---|---|---|
 | We appreciate the opportunity to discuss this proposal in detail. | 开场致谢 | We appreciate the opportunity to discuss this proposal in detail. |
-| We're open to discussing volume, but we need clarity on what kind of commitment would justify it. | 有条件开放 | We're open to discussing volume, but we need clarity on what kind of commitment would justify it. |
+| We're open to discussing volume, but we need clarity on what kind of commitment would justify it. | 有条件开放 | We're open to discussing volume, but we need clarity on what kind of commitment would justify |
 | Ideally, we're looking at a minimum 10% reduction to justify the switch. | 表明底线 | Ideally, we're looking at a minimum 10% reduction to justify the switch. |
 | That's reasonable. | 认可对方条件 | That's reasonable. |
 | I appreciate the flexibility, but I need to be honest. | 礼貌转折 | I appreciate the flexibility, but I need to be honest. |
-| If you can provide rolling forecasts, it would help us manage inventory. | 交换条件 | If you can provide rolling forecasts, it would help us manage inventory. |
+| If you can provide rolling forecasts, it would help us manage inventory. | 交换条件 | If you can provide rolling forecasts, even indicative ones, it would help us manage inventory |
 | Our standard policy is 60 days credit. | 说明既有政策 | Our standard policy is 60 days credit. |
-| We can include a service penalty clause if that level isn't met. | 给出保障条款 | We can include a service penalty clause if that level isn't met. |
+| We can include a service penalty clause if that level isn't met. | 给出保障条款 | delivery rate. And if that level isn't met? We can include a service penalty clause, such as |
 | Our aim is to be transparent and flexible so we can reach a mutually beneficial outcome. | 表达合作姿态 | Our aim is to be transparent and flexible so we can reach a mutually beneficial outcome. |
-| Based on everything discussed so far, can you confirm whether the 10% discount is achievable? | 收口确认 | Based on everything discussed so far, can you confirm whether the 10% discount is achievable? |
-| I'll need internal confirmation, but in principle that works. | 留余地 | I'll need internal confirmation, but in principle that works. |
+| Based on everything discussed so far, can you confirm whether the 10% discount is achievable? | 收口确认 | Based on everything discussed so far, can you now confirm whether the 10% discount is achievable? |
+| I'll need internal confirmation, but in principle that works. | 留余地 | credit would apply fully. That seems manageable. I'll need internal confirmation, but in principle, |
 | We're confident this partnership will be successful and mutually beneficial. | 收尾定调 | We're confident this partnership will be successful and mutually beneficial. |
 
 ### 填空版（听完自测，关键短语挖空）

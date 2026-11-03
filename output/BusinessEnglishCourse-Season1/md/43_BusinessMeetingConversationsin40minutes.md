@@ -11,27 +11,27 @@
 | conversations | /ˌkɒnvəˈseɪʃnz/ | n. 对话（标题词；→ 见总词表，36 集已收） | Business Meeting Conversations（篇名） |
 | minutes | /ˈmɪnɪts/ | n. 分钟（标题词；→ 见总词表，27 集已收） | ...in 40 Minutes（篇名） |
 | assertive | /əˈsɜːtɪv/ | adj. 坚定而不失礼的（新收） | It's what we're calling assertive professionalism. |
-| boundaries | /ˈbaʊndriz/ | n. 边界、底线（新收） | They're absolutely unwavering when they're setting boundaries. |
+| boundaries | /ˈbaʊndriz/ | n. 边界、底线（新收） | and absolutely unwavering when they're setting boundaries. |
 | anchor | /ˈæŋkə/ | v. 锚定、以…为依据（→ 见总词表，08 集已收） | Anchor in facts, not feelings. |
-| governance | /ˈɡʌvənəns/ | n. 治理（→ 见总词表，38 集已收） | Protect those corporate resources and enforce governance. |
-| accountability | /əˌkaʊntəˈbɪləti/ | n. 责任归属（→ 见总词表，04 集已收） | You document the choices so accountability stays transparent. |
+| governance | /ˈɡʌvənəns/ | n. 治理（→ 见总词表，38 集已收） | narrative, protect those vital corporate resources and enforce governance. |
+| accountability | /əˌkaʊntəˈbɪləti/ | n. 责任归属（→ 见总词表，04 集已收） | You document the choices so the accountability for that swap stays transparent. |
 | trade-offs | /ˈtreɪdɒfs/ | n. 取舍（新收） | You make the trade-offs crystal clear. |
 | defense | /dɪˈfens/ | n. 防守、辩护（→ 见总词表，08 集已收） | Always defend the process. |
 | capacity | /kəˈpæsəti/ | n. 产能、承载量（→ 见总词表，08 集已收） | Your teams are already at 90% capacity. |
 | constraints | /kənˈstreɪnts/ | n. 制约条件（新收） | Mark, specifically what is the critical path constraint? |
-| document | /ˈdɒkjumənt/ | v. 记录在案（新收） | You document the choices so nothing is relitigated. |
+| document | /ˈdɒkjumənt/ | v. 记录在案（新收） | You document the choices so the accountability for that swap stays transparent. |
 | clarity | /ˈklærəti/ | n. 清晰（→ 见总词表，01 集已收） | You make the trade-offs crystal clear. |
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
-| ad hoc | /ˌæd ˈhɒk/ | adj. 临时的、随机的 | Guarding bandwidth from ad hoc pressure. |
+| ad hoc | /ˌæd ˈhɒk/ | adj. 临时的、随机的 | Finally, let's talk about guarding specialist bandwidth from ad hoc pressure, like being |
 | steering committee | /ˈstɪərɪŋ kəˈmɪti/ | n. 指导委员会 | Authority for this decision resides with the steering committee. |
-| heat map | /ˈhiːt mæp/ | n. 热力图 | A workload heat map proves your teams are at 90% capacity. |
+| heat map | /ˈhiːt mæp/ | n. 热力图 | workload heat map that proves your teams are already at 90% capacity. It's not personal, |
 | deprioritize | /ˌdiː praɪˈɒrətaɪz/ | v. 降低优先级 | What gets deprioritized to make room for this? |
-| unrealistic | /ˌʌnrɪəˈlɪstɪk/ | adj. 不切实际的 | The language you need to push back on unrealistic delivery dates. |
-| commitment | /kəˈmɪtmənt/ | n. 承诺（→ 见总词表，06 集已收） | That quick chat that somehow turns into a new commitment. |
+| unrealistic | /ˌʌnrɪəˈlɪstɪk/ | adj. 不切实际的 | project management. It's the language you need to push back on those unrealistic delivery |
+| commitment | /kəˈmɪtmənt/ | n. 承诺（→ 见总词表，06 集已收） | that quick chat by the coffee machine that somehow turns into a new commitment. The |
 | compliance | /kəmˈplaɪəns/ | n. 合规（→ 见总词表，36 集已收） | Risk logs showing compliance penalties. |
 | escalation | /ˌeskəˈleɪʃn/ | n. 上报（→ 见总词表，35 集已收） | Escalation is the last step, not the first. |
 | specialist | /ˈspeʃəlɪst/ | n. 专业人员 | Guarding specialist bandwidth from ad hoc pressure. |
@@ -43,8 +43,8 @@
 
 | 语块 | 使用场景 | 原文例句摘录 |
 |---|---|---|
-| scope creep | 范围蔓延 | That's how scope creep starts. |
-| change control | 变更控制流程 | Let's run this through the change control process so we can evaluate it properly. |
+| scope creep | 范围蔓延 | We're talking about scope creep. |
+| change control | 变更控制流程 | change control process so we can evaluate it properly? You're not being difficult. |
 | ad hoc | 临时插进来的事 | Guarding specialist bandwidth from ad hoc pressure. |
 | steering committee | 决策委员会 | Authority for this decision resides with the steering committee. |
 | risk log | 风险台账 | A risk log that everyone's already agreed on. |
@@ -60,7 +60,7 @@
 | What gets deprioritized to make room for this? | 逼对方取舍 | What gets deprioritized to make room for this? |
 | Flag it immediately and formally park it for later. | 先标记、后搁置 | The strategy is to flag it immediately. Flag it and formally park it for later. |
 | The authority for this decision resides with the steering committee. | 指明决策权归属 | Authority for this decision resides with the steering committee. |
-| Let's run this through the change control process. | 走变更流程 | Let's run this through the change control process so we can evaluate it properly. |
+| Let's run this through the change control process. | 走变更流程 | change control process so we can evaluate it properly? You're not being difficult. |
 | Let's document the trade-offs. | 记录取舍 | You say, okay, let's document the trade-offs. |
 | Mark, specifically what is the critical path constraint? | 追问关键制约 | Mark, specifically what is the critical path constraint? |
 | It's not personal. | 对事不对人 | It's not personal. |

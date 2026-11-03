@@ -16,10 +16,10 @@
 | range | /reɪndʒ/ | n. 区间（→ 见总词表，06 集已收） | What's the salary range for this position? |
 | package | /ˈpækɪdʒ/ | n. 一揽子待遇（→ 见总词表，10 集已收） | Salary and benefits make up your compensation package. |
 | wages | /ˈweɪdʒɪz/ | n. 时薪、工钱 | Wages are hourly. |
-| underpaid | /ˌʌndəˈpeɪd/ | adj. 薪资偏低的 | A common mistake is saying, I feel underpaid. |
-| raise | /reɪz/ | n. 加薪（→ 见总词表，08 集已收） | Talking to your manager about a raise. |
+| underpaid | /ˌʌndəˈpeɪd/ | adj. 薪资偏低的 | A common mistake is starting with emotion, saying, I feel underpaid or I'm unhappy with |
+| raise | /reɪz/ | n. 加薪（→ 见总词表，08 集已收） | to your manager about a raise. |
 | promotion | /prəˈməʊʃn/ | n. 晋升（→ 见总词表，02 集已收） | A promotion means a new role. |
-| uncomfortable | /ʌnˈkʌmftəbl/ | adj. 尴尬的（→ 见总词表，02 集已收） | Salary conversations feel uncomfortable. |
+| uncomfortable | /ʌnˈkʌmftəbl/ | adj. 尴尬的（→ 见总词表，02 集已收） | Asking direct questions about someone's salary can feel uncomfortable or even rude. |
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
@@ -33,7 +33,7 @@
 | negotiation | /nɪˌɡəʊʃiˈeɪʃn/ | n. 谈判（→ 见总词表，06 集已收） | That shows appreciation while opening the door for negotiation. |
 | respectful | /rɪˈspektfl/ | adj. 有分寸的（→ 见总词表，02 集已收） | That sounds respectful and confident at the same time. |
 | calm | /kɑːm/ | adj. 冷静的（→ 见总词表，01 集已收） | These words sound calm and professional. |
-| emotional | /ɪˈməʊʃənl/ | adj. 情绪化的（→ 见总词表，04 集已收） | Starting with emotion is a common mistake. |
+| emotional | /ɪˈməʊʃənl/ | adj. 情绪化的（→ 见总词表，04 集已收） | Another phrase can sound emotional or even aggressive. |
 | mistakes | /mɪˈsteɪks/ | n. 错误（→ 见总词表，21 集已收） | How to avoid common mistakes English learners make. |
 | position | /pəˈzɪʃn/ | n. 职位（→ 见总词表，02 集已收） | The salary range for this position. |
 | level | /ˈlevl/ | n. 职级（→ 见总词表，02 集已收） | Let's break this down into three levels. |
@@ -44,8 +44,8 @@
 |---|---|---|
 | salary range | 问薪资区间 | What's the salary range for this position? |
 | discuss my compensation | 委婉提出谈薪 | Instead of saying, I want more money, you can say, I'd like to discuss my compensation. |
-| performance review | 绩效面谈 | Saying, I want more money during a review is a mistake. |
-| flexible working hours | 讲弹性福利 | Benefits can include health insurance, vacation days, flexible working hours. |
+| performance review | 绩效面谈 | Mistake number two, saying, I want more money during a review. |
+| flexible working hours | 讲弹性福利 | Benefits can include health insurance, vacation days, bonuses, flexible working hours, or |
 | open the door for negotiation | 为谈判留口子 | That shows appreciation while opening the door for negotiation. |
 
 ## 2. 句式

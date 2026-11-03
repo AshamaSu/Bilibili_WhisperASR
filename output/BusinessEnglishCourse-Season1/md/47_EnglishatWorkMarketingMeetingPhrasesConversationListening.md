@@ -26,10 +26,10 @@
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
-| content | /ˈkɒntent/ | n. 内容（→ 见总词表，01 集已收） | Let's revise our content strategy and take a hard look at what's working. |
-| digital | /ˈdɪdʒɪtl/ | adj. 数字化的（→ 见总词表，01 集已收） | With all the shifts in customer behavior, digital trends, and competitive pressure. |
+| content | /ˈkɒntent/ | n. 内容（→ 见总词表，01 集已收） | revise our content strategy, and take a hard look at what's working and what's not. |
+| digital | /ˈdɪdʒɪtl/ | adj. 数字化的（→ 见总词表，01 集已收） | With all the shifts we're seeing in customer behavior, digital trends, and competitive |
 | emotional | /ɪˈməʊʃənl/ | adj. 情感的（→ 见总词表，04 集已收） | If we want loyalty, we need to create emotional resonance, not just information. |
-| identity | /aɪˈdentəti/ | n. 品牌身份（→ 见总词表，08 集已收） | There's this sense that our identity is shifting faster than our messaging can follow. |
+| identity | /aɪˈdentəti/ | n. 品牌身份（→ 见总词表，08 集已收） | in a negative way, but there's this sense that our identity is shifting faster than |
 | unified | /ˈjuːnɪfaɪd/ | adj. 统一的（新收） | Unified language, unified style, unified visuals, but more importantly, unified intent. |
 | tone | /təʊn/ | n. 语气、调性（→ 见总词表，02 集已收） | Our tone is polite, professional, but flat. It doesn't inspire. |
 | rebranding | /riːˈbrændɪŋ/ | n. 品牌重塑（新收） | Parts around the upcoming rebranding discussions. |
@@ -46,8 +46,8 @@
 | social listening | 社交聆听（分析社媒讨论） | Maybe we should run more surveys, customer interviews, and even social listening. |
 | creative team | 创意团队 | The creative team is already asking for clarity on next quarter's direction. |
 | emotional resonance | 情感共鸣 | If we want loyalty, we need to create emotional resonance, not just information. |
-| marketing strategy | 营销策略 | I'd like us to revisit our positioning and revise our content strategy. |
-| market share | 市场份额 | We're losing ground while they're gaining market share. |
+| marketing strategy | 营销策略 | That's why today, I'd like us to revisit our positioning, revise our content strategy, |
+| market share | 市场份额 | Some brands are capturing market share |
 
 ## 2. 句式
 
@@ -59,11 +59,11 @@
 | But brands that grow, brands that scale, are brands that build emotional resonance. | 给出结论 | But brands that grow, brands that scale, are brands that build emotional resonance. |
 | If we want loyalty, we need to create emotional resonance, not just information. | 条件和主张 | If we want loyalty, we need to create emotional resonance, not just information. |
 | Our tone is polite, professional, but flat. It doesn't inspire. | 诊断问题 | Absolutely. Our tone is polite, professional, but flat. It doesn't inspire. |
-| That's why today I'd like us to revisit our positioning. | 引出议题 | That's why today, I'd like us to revisit our positioning and revise our content strategy. |
+| That's why today I'd like us to revisit our positioning. | 引出议题 | That's why today, I'd like us to revisit our positioning, revise our content strategy, |
 | If we streamline execution, we'll be able to deliver campaigns while they're still relevant. | 提流程改进 | If we streamline execution, we'll be able to deliver campaigns while they're still relevant. |
 | We need to brief them with deeper insights into customer pain points, not just product specs. | 要求给创意下更深的 brief | We need to brief them with deeper insights into customer pain points, not just product specs. |
 | We need more advanced analytics, customer journey mapping, heat mapping on our site. | 列数据需求 | We need more advanced analytics, customer journey mapping, heat mapping on our site. |
-| Customer expectations are rising, attention spans are shrinking. | 描述外部环境 | Customer expectations are rising, attention spans are shrinking, and the number of channels is exploding. |
+| Customer expectations are rising, attention spans are shrinking. | 描述外部环境 | Customer expectations are rising, attention spans are shrinking, and the number of channels |
 | Maybe we should run more surveys, customer interviews, and even social listening. | 提调研建议 | Maybe we should run more surveys, customer interviews, and even social listening. |
 
 ### 填空版（听完自测，关键短语挖空）

@@ -10,7 +10,7 @@
 | meeting | /ˈmiːtɪŋ/ | n. 会议（标题词；→ 见总词表，01 集已收） | Business Meeting Conversations…（篇名） |
 | conversations | /ˌkɒnvəˈseɪʃnz/ | n. 对话（标题词；→ 见总词表，01 集已收） | …Meeting Conversations in 30 minutes（篇名） |
 | minutes | /ˈmɪnɪts/ | n. 分钟（标题词；A2 熟词，硬性入选） | …Conversations in 30 minutes（篇名） |
-| clients | /ˈklaɪənts/ | n. 客户（→ 见总词表，01 集已收） | Our goal is to become a partner our clients can rely on. |
+| clients | /ˈklaɪənts/ | n. 客户（→ 见总词表，01 集已收） | Our goal is not just to deliver a product, but to become a partner our clients can rely |
 | processes | /ˈprəʊsesɪz/ | n. 流程 | …projected ROI based on your current processes. |
 | concerns | /kənˈsɜːnz/ | n. 顾虑 | We often include workshops to address concerns early. |
 | stakeholders | /ˈsteɪkhəʊldəz/ | n. 利益相关方 | In the early stages, we would need input from key stakeholders. |
@@ -35,7 +35,7 @@
 | ongoing | /ˈɒŋɡəʊɪŋ/ | adj. 持续的 | We provide onboarding sessions and ongoing support. |
 | expectations | /ˌekspekˈteɪʃnz/ | n. 期望 | Now I'd like to hear more about your expectations. |
 | goals | /ɡəʊlz/ | n. 目标（→ 见总词表，21 集已收） | Could you tell me a bit more about your company's goals for the next year or two? |
-| internal | /ɪnˈtɜːnl/ | adj. 内部的（→ 见总词表，01 集已收） | …but our internal processes are a bit of a mess. |
+| internal | /ɪnˈtɜːnl/ | adj. 内部的（→ 见总词表，01 集已收） | Well, our team is very motivated, and our products are strong, but our internal processes |
 | weekly | /ˈwiːkli/ | adj. 每周的（→ 见总词表，01 集已收） | Short weekly updates plus monthly strategic reviews. |
 | appreciate | /əˈpriːʃieɪt/ | v. 感激（→ 见总词表，02 集已收） | Appreciate 是商务礼貌用词。 |
 

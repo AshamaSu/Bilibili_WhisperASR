@@ -6,17 +6,17 @@
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
-| communicate | /kəˈmjuːnɪkeɪt/ | v. 沟通（标题词；→ 见总词表，01 集已收） | How to Communicate Confidently in the Workplace（篇名） |
+| communicate | /kəˈmjuːnɪkeɪt/ | v. 沟通（标题词；→ 见总词表，01 集已收） | ability to read a room, to understand social dynamics, and this is crucial, to communicate |
 | confidently | /ˈkɒnfɪdəntli/ | adv. 自信地（标题词；→ 见总词表，01 集已收） | How to Communicate Confidently（篇名） |
 | workplace | /ˈwɜːkpleɪs/ | n. 职场（标题词；→ 见总词表，12 集已收） | The workplace isn't just a place you go. |
-| professional | /prəˈfeʃənl/ | adj. 职业的（→ 见总词表，01 集已收） | It's where all your professional confidence lives. |
+| professional | /prəˈfeʃənl/ | adj. 职业的（→ 见总词表，01 集已收） | It's where all your professional confidence, your ability to articulate yourself under |
 | confidence | /ˈkɒnfɪdəns/ | n. 自信（→ 见总词表，01 集已收） | The key to real, sustainable confidence is just to act. |
-| manager | /ˈmænɪdʒə/ | n. 上级、经理（→ 见总词表，01 集已收） | Your manager will notice how you handle it. |
+| manager | /ˈmænɪdʒə/ | n. 上级、经理（→ 见总词表，01 集已收） | The day you become a manager or you start your own business, you will get it. |
 | weakness | /ˈwiːknəs/ | n. 短板（→ 见总词表，10 集已收） | What is your greatest weakness? |
 | passive | /ˈpæsɪv/ | adj. 被动的（→ 见总词表，06 集已收） | Then dealing with passive aggression in the workplace. |
 | articulation | /ɑːˌtɪkjuˈleɪʃn/ | n. 清晰表达（新收） | Professional articulation, as the sources call it. |
 | dynamics | /daɪˈnæmɪks/ | n. 互动关系、暗流（新收） | You have to get good at the dynamics, the nuances of how people interact. |
-| career | /kəˈrɪə/ | n. 职业发展（→ 见总词表，02 集已收） | She is a hugely popular career strategist. |
+| career | /kəˈrɪə/ | n. 职业发展（→ 见总词表，02 集已收） | from Aaron McGoff, who is this hugely popular career strategist. |
 | negotiation | /nɪˌɡəʊʃiˈeɪʃn/ | n. 谈判（→ 见总词表，06 集已收） | Interviews, conflicts, negotiations. |
 | strategic | /strəˈtiːdʒɪk/ | adj. 有策略的（→ 见总词表，08 集已收） | You have to develop these really strategic ways. |
 | direct | /dəˈrekt/ | v./adj. 直接指明、直接的（→ 见总词表，02 集已收） | Actually directing what you do next. |
@@ -29,22 +29,22 @@
 | interviewer | /ˈɪntəvjuːə/ | n. 面试官 | The interviewer is not sitting there hoping you'll confess. |
 | feedback | /ˈfiːdbæk/ | n. 反馈（→ 见总词表，01 集已收） | Thank you for the feedback. |
 | hierarchy | /ˈhaɪərɑːki/ | n. 层级（→ 见总词表，27 集已收） | You're basically at the bottom of a hierarchy of eight people. |
-| boundary | /ˈbaʊndri/ | n. 边界 | It's a transactional boundary. |
+| boundary | /ˈbaʊndri/ | n. 边界 | transactional boundary. Your response is calm and brief. I understand this is difficult news. |
 | actionable | /ˈækʃənəbl/ | adj. 可执行的 | They either have to give you actionable feedback. |
 | nuance | /ˈnjuːɑːns/ | n. 细微差别 | The nuances of how people interact. |
-| vague | /veɪɡ/ | adj. 含糊的 | If they send a vague undermining message. |
-| defensive | /dɪˈfensɪv/ | adj. 防御性的 | Instead of getting defensive, you just stay calm. |
-| transactional | /trænˈzækʃənl/ | adj. 事务性的、就事论事的 | It's a transactional boundary. Your response is calm and brief. |
-| counterintuitive | /ˌkaʊntərɪnˈtjuːɪtɪv/ | adj. 反直觉的 | It might sound counterintuitive to start with self-talk. |
-| distill | /dɪˈstɪl/ | v. 提炼 | Distill all of that knowledge into things you can use tomorrow. |
-| colleague | /ˈkɒliːɡ/ | n. 同事 | A technique for dealing with a passive-aggressive colleague. |
+| vague | /veɪɡ/ | adj. 含糊的 | So if they send a vague undermining slack message like, |
+| defensive | /dɪˈfensɪv/ | adj. 防御性的 | I just think we need to rethink this entire strategy. Instead of getting defensive, you just |
+| transactional | /trænˈzækʃənl/ | adj. 事务性的、就事论事的 | transactional boundary. Your response is calm and brief. I understand this is difficult news. |
+| counterintuitive | /ˌkaʊntərɪnˈtjuːɪtɪv/ | adj. 反直觉的 | With ourselves hmm it might sound a little I don't know counterintuitive to start a deep dive on workplace dynamics by talking about self-talk |
+| distill | /dɪˈstɪl/ | v. 提炼 | distill all of that knowledge into things you can use like tomorrow. Actionable strategies. We're |
+| colleague | /ˈkɒliːɡ/ | n. 同事 | for dealing with a passive-aggressive colleague. |
 
 ### 语块（整体记忆，不拆单词）
 
 | 语块 | 使用场景 | 原文例句摘录 |
 |---|---|---|
 | passive aggression | 被动攻击（阴阳怪气） | Then dealing with passive aggression in the workplace. |
-| hidden curriculum | 隐性规则、潜规则 | The source material calls it the hidden curriculum. |
+| hidden curriculum | 隐性规则、潜规则 | going to be tackling with the source material it calls the hidden curriculum. I love that phrase, |
 | professional articulation | 职业化表达 | Professional articulation, as the sources call it. |
 | high stakes | 高风险、输不起的场合 | The big high stakes moments, like asking for more money. |
 | red flag | 危险信号 | First, they are just screening for red flags. |
@@ -62,7 +62,7 @@
 | You're forcing them to be specific. | 用提问逼出具体 | Again, you're forcing them to be specific. |
 | A true best friend doesn't just tell you you're amazing all the time. | 自我对话要诚实 | A true best friend doesn't just tell you you're amazing all the time. |
 | The key to real, sustainable confidence is just to act. | 自信来自行动 | The key to real, sustainable confidence is just to act. |
-| They either have to give you actionable feedback or drop it. | 逼出可执行反馈 | They either have to give you actionable feedback or drop it. |
+| They either have to give you actionable feedback or drop it. | 逼出可执行反馈 | Again, you're forcing them to be specific. They either have to give you actionable feedback, |
 | The need to be concise and strategic. | 表达要简洁有策略 | The need to be concise and strategic. |
 | You're labeling the hidden emotion. | 谈判式标注情绪 | You're labeling the hidden emotion. |
 

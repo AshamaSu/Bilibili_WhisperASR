@@ -14,7 +14,7 @@
 | minutes | /ˈmɪnɪts/ | n. 分钟（标题词；篇名） | Supply Chain Business Meeting Conversations in 40 Minutes（篇名） |
 | procurement | /prəˈkjʊəmənt/ | n. 采购（→ 见总词表，26 集已收） | Delays are becoming more frequent and the procurement team is feeling overwhelmed. |
 | resilience | /rɪˈzɪliəns/ | n. 韧性、抗风险能力（→ 见总词表，37 集已收） | Yes, and resilience is the key word here. |
-| forecast | /ˈfɔːkɑːst/ | v./n. 预测（→ 见总词表，16 集已收） | Our forecasting team is talented, but the tools may not fully capture the volatility. |
+| forecast | /ˈfɔːkɑːst/ | v./n. 预测（→ 见总词表，16 集已收） | For instance, our forecasting hasn't exactly been stable. |
 | vendor | /ˈvendə/ | n. 供应商（→ 见总词表，21 集已收） | Agreed. And speaking of reviews, I think we need to rethink our vendor scorecard. |
 | volatility | /ˌvɒləˈtɪləti/ | n. 波动性（→ 见总词表，25 集已收） | But with the current volatility, I believe we need to review our safety stock levels. |
 | diversification | /daɪˌvɜːsɪfɪˈkeɪʃn/ | n. 多元化（→ 见总词表，38 集已收） | I actually think supplier diversification is not just an option, it's essential. |
@@ -27,15 +27,15 @@
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
 | component | /kəmˈpəʊnənt/ | n. 零部件（→ 见总词表，24 集已收） | Last week production had to slow down because one critical component wasn't available. |
-| bottleneck | /ˈbɒtlnek/ | n. 瓶颈（→ 见总词表，01 集已收） | A holistic review might help us understand where the bottlenecks are. |
+| bottleneck | /ˈbɒtlnek/ | n. 瓶颈（→ 见总词表，01 集已收） | discussion ahead regarding the supply chain bottlenecks and procurement strategy for the |
 | visibility | /ˌvɪzəˈbɪləti/ | n. 可见度、透明度（→ 见总词表，02 集已收） | One major challenge we've been facing is the lack of real-time visibility. |
 | inventory | /ˈɪnvəntri/ | n. 库存（→ 见总词表，23 集已收） | I know maintaining too much inventory increases our carrying costs. |
 | contingency | /kənˈtɪndʒənsi/ | n. 应急储备、备用方案（→ 见总词表，33 集已收） | For bottleneck items we need contingency plans, multiple sources, inventory buffers. |
 | holistic | /həʊˈlɪstɪk/ | adj. 全面的、整体的（→ 见总词表，40 集已收） | I know it's a big scope, but a holistic review might help us. |
 | agility | /əˈdʒɪləti/ | n. 敏捷、灵活（→ 见总词表，33 集已收） | The goal is resilience and agility. |
-| geopolitical | /ˌdʒiːəʊpəˈlɪtɪkl/ | adj. 地缘政治的（→ 见总词表，33 集已收） | Financial stability, operational capacity, and geopolitical exposure have to be part of it. |
-| expedite | /ˈekspədaɪt/ | v. 加急、加快（→ 见总词表，34 集已收） | Customer complaints, expedited shipping fees, production overtime — it was a mess. |
-| sustainability | /səˌsteɪnəˈbɪləti/ | n. 可持续性（→ 见总词表，24 集已收） | Things have been hectic on my side, especially with the new sustainability reporting. |
+| geopolitical | /ˌdʒiːəʊpəˈlɪtɪkl/ | adj. 地缘政治的（→ 见总词表，33 集已收） | Things like financial stability, operational capacity, and geopolitical exposure have to be |
+| expedite | /ˈekspədaɪt/ | v. 加急、加快（→ 见总词表，34 集已收） | Don't remind me. The ripple effects were everywhere. Customer complaints, expedited |
+| sustainability | /səˌsteɪnəˈbɪləti/ | n. 可持续性（→ 见总词表，24 集已收） | And yes, things have been pretty hectic on my side, especially with the new sustainability |
 | integration | /ˌɪntɪˈɡreɪʃn/ | n. 整合、打通（→ 见总词表，01 集已收） | If we want to improve performance, we need to push for digital integration. |
 | shipment | /ˈʃɪpmənt/ | n. 一批货、货运（→ 见总词表，16 集已收） | We track shipments, but the data is fragmented. |
 
@@ -44,10 +44,10 @@
 | 语块 | 使用场景 | 原文例句摘录 |
 |---|---|---|
 | safety stock | 安全库存 | I think we should recalculate safety stock using higher variability assumptions. |
-| lead time | 交货周期 | Our average supplier lead time increased from 22 days to about 36. |
+| lead time | 交货周期 | As of last month, our average supplier lead time increased from 22 days to about |
 | ripple effect | 连锁反应 | As you know, that's caused a ripple effect in production planning. |
 | port congestion | 港口拥堵 | Some point to port congestion, and others blame upstream shortages. |
-| single source | 单一供应源 | A healthy supply chain shouldn't rely on a single source. |
+| single source | 单一供应源 | Very risky. And the current environment makes it riskier. Single source or limited |
 
 ## 2. 句式
 
@@ -62,7 +62,7 @@
 | Perhaps we could also use a dynamic safety stock model that adjusts based on real-time demand. | 提改进方案 | Perhaps we could also use a dynamic safety stock model that adjusts based on real-time demand. |
 | Agreed. And speaking of reviews, I think we need to rethink our vendor scorecard. | 承接并切换议题 | Agreed. And speaking of reviews, I think we need to rethink our vendor scorecard. |
 | If you look at the last three months, our stockouts increased by 17%. | 用数据说话 | If you look at the last three months, our stockouts increased by 17%. |
-| I know it's a big scope, but a holistic review might help us. | 承认难度再推进 | I know it's a big scope, but a holistic review might help us understand where the bottlenecks are. |
+| I know it's a big scope, but a holistic review might help us. | 承认难度再推进 | I know it's a big scope, but a holistic review might help us understand where the bottlenecks |
 | We need a structured process, not just occasional meetings. | 要求机制化 | And not just occasional meetings — we need a structured process. |
 
 ### 填空版（听完自测，关键短语挖空）

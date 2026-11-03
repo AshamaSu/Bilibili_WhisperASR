@@ -29,7 +29,7 @@
 | practical | /ˈpræktɪkl/ | adj. 实用的（→ 见总词表，06 集已收） | …including practical examples and real situations. |
 | follow-up | /ˈfɒləʊ ʌp/ | n. 跟进（→ 见总词表，07 集已收） | After the meeting, AI is very useful for summarizing and follow-ups. |
 | strategy | /ˈstrætədʒi/ | n. 战略（→ 见总词表，04 集已收） | Last week, we had a strategy meeting. |
-| communication | /kəˌmjuːnɪˈkeɪʃn/ | n. 沟通 | …it's about communication, understanding…（语境） |
+| communication | /kəˌmjuːnɪˈkeɪʃn/ | n. 沟通 | It's not just about technology, but also about communication skills. |
 | senior management team | /ˈsiːniə ˈmænɪdʒmənt tiːm/ | 高管团队 | It looks like an important meeting with the senior management team. |
 | automatically | /ˌɔːtəˈmætɪkli/ | adv. 自动地 | And it creates slides automatically? |
 | identify | /aɪˈdentɪfaɪ/ | v. 识别 | It identified trends and suggested… |

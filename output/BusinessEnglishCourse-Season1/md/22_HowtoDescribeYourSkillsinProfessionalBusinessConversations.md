@@ -37,7 +37,7 @@
 | campaign | /kæmˈpeɪn/ | n. 营销活动（→ 见总词表，01 集已收） | Marketing projects require creativity and planning. |
 | valuable | /ˈvæljuəbl/ | adj. 宝贵的（→ 见总词表，01 集已收） | Your skills are valuable, so don't be afraid to talk about them. |
 | clearly | /ˈklɪəli/ | adv. 清晰地（A2 降级） | I might add that I'm good at presenting ideas clearly. |
-| quickly | /ˈkwɪkli/ | adv. 快速地（A2 降级） | Learn to adjust quickly when plans change. |
+| quickly | /ˈkwɪkli/ | adv. 快速地（A2 降级） | Things change quickly, especially when you're working on multiple projects. |
 
 ### 语块（整体记忆，不拆单词）
 

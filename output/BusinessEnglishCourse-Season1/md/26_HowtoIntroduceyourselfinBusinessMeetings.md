@@ -10,16 +10,16 @@
 | business | /ˈbɪznəs/ | n. 商务（标题词；→ 见总词表，01 集已收） | …in Business Meetings（篇名） |
 | meetings | /ˈmiːtɪŋz/ | n. 会议（标题词；→ 见总词表，01 集已收） | …Business Meetings（篇名） |
 | introduction | /ˌɪntrəˈdʌkʃn/ | n. 介绍（→ 见总词表，01 集已收） | What would a strong virtual introduction sound like? |
-| credibility | /ˌkredəˈbɪləti/ | n. 可信度 | A clear introduction builds credibility. |
+| credibility | /ˌkredəˈbɪləti/ | n. 可信度 | Because it builds credibility. |
 | virtual | /ˈvɜːtʃuəl/ | adj. 线上的 | What would a strong virtual introduction sound like? |
 | approachability | /əˌprəʊtʃəˈbɪləti/ | n. 亲和力 | A natural smile shows confidence and approachability. |
 | handshake | /ˈhændʃeɪk/ | n. 握手 | Offer a firm handshake if appropriate. |
 | mispronounced | /ˌmɪsprəˈnaʊnst/ | v. 读错音 | If your name is often mispronounced… |
 | oversee | /ˌəʊvəˈsiː/ | v. 监管（→ 见总词表，17 集已收） | I'm responsible for overseeing cross-border logistics. |
 | greeting | /ˈɡriːtɪŋ/ | n. 问候（→ 见总词表，05 集已收） | Start with a greeting, then your name. |
-| concise | /kənˈsaɪs/ | adj. 简洁的（→ 见总词表，03 集已收） | That's structured and concise. |
-| clarity | /ˈklærəti/ | n. 清晰（→ 见总词表，01 集已收） | Clarity makes your introduction easy to follow. |
-| responsibility | /rɪˌspɒnsəˈbɪləti/ | n. 职责（→ 见总词表，01 集已收） | Greeting, name, position, company, key responsibility, purpose. |
+| concise | /kənˈsaɪs/ | adj. 简洁的（→ 见总词表，03 集已收） | Brevity means being short and concise. |
+| clarity | /ˈklærəti/ | n. 清晰（→ 见总词表，01 集已收） | In that case, clarity becomes even more important. |
+| responsibility | /rɪˌspɒnsəˈbɪləti/ | n. 职责（→ 见总词表，01 集已收） | Greeting plus name plus position plus company plus key responsibility plus purpose. |
 | department | /dɪˈpɑːtmənt/ | n. 部门（→ 见总词表，01 集已收） | Third, the company or department you represent. |
 
 ### 补充词（听中查阅；已收词与降级词归此）
@@ -28,7 +28,7 @@
 |---|---|---|---|
 | operations | /ˌɒpəˈreɪʃnz/ | n. 运营 | My background is logistics and workflow planning. |
 | tone | /təʊn/ | n. 语气（→ 见总词表，02 集已收） | Ending with enthusiasm creates a friendly tone. |
-| confidence | /ˈkɒnfɪdəns/ | n. 自信（→ 见总词表，01 集已收） | Body language communicates confidence. |
+| confidence | /ˈkɒnfɪdəns/ | n. 自信（→ 见总词表，01 集已收） | language communicates confidence. Stand or sit upright, maintain eye contact, and |
 | client | /ˈklaɪənt/ | n. 客户（→ 见总词表，01 集已收） | I oversee client accounts in the European market. |
 | manager | /ˈmænɪdʒə(r)/ | n. 经理（→ 见总词表，01 集已收） | I'm the operations manager at Global Tech. |
 | senior | /ˈsiːniə(r)/ | adj. 资深的（→ 见总词表，02 集已收） | In a very formal meeting with senior executives. |
@@ -43,7 +43,7 @@
 
 | 语块 | 使用场景 | 原文例句摘录 |
 |---|---|---|
-| introduce myself | 自我介绍 | On my first day I had to introduce myself to the whole team. |
+| introduce myself | 自我介绍 | I had just joined a new company and on my first day I had to introduce myself to the |
 | look forward to (doing) | 友好收尾 | I look forward to collaborating with you. |
 | It's a pleasure to… | 初见寒暄 | It's a pleasure to meet you. |
 | eye contact | 肢体语言 | Maintain eye contact, smile naturally. |

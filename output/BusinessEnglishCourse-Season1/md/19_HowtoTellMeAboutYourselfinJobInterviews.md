@@ -9,33 +9,33 @@
 | tell | /tel/ | v. 讲述（标题词；A2 熟词，硬性入选） | The question is, tell me about yourself. |
 | job | /dʒɒb/ | n. 工作（标题词；→ 见总词表，07 集已收） | …in Job Interviews（篇名） |
 | interviews | /ˈɪntəvjuːz/ | n. 面试（标题词；→ 见总词表，03 集已收） | …in Job Interviews（篇名） |
-| introduction | /ˌɪntrəˈdʌkʃn/ | n. 自我介绍（本集核心概念） | With a simple structure, you can give a clear self-introduction. |
+| introduction | /ˌɪntrəˈdʌkʃn/ | n. 自我介绍（本集核心概念） | Could you give an example of a simple self-introduction for beginners? |
 | background | /ˈbækɡraʊnd/ | n. 背景 | I usually start with a brief introduction about my professional background. |
-| relevant | /ˈreləvənt/ | adj. 相关的 | Include information that is relevant to the job. |
+| relevant | /ˈreləvənt/ | adj. 相关的 | information that isn't really relevant. |
 | strengths | /streŋθs/ | n. 长处 | One of my strengths is my ability to analyze market trends. |
 | authentic | /ɔːˈθentɪk/ | adj. 真实的、不做作的 | What's most important is being clear, confident, and authentic. |
 | dynamic | /ˈdaɪnæmɪk/ | adj. 有活力的 | …contribute to a dynamic team. |
-| contribute | /kənˈtrɪbjuːt/ | v. 贡献 | I'm looking for opportunities where I can contribute to meaningful projects. |
+| contribute | /kənˈtrɪbjuːt/ | v. 贡献 | For example, now I'm looking for an opportunity where I can continue learning and contribute |
 | enthusiasm | /ɪnˈθjuːziæzəm/ | n. 热情 | I also think enthusiasm is important during a self-introduction. |
 | transition | /trænˈzɪʃn/ | n. 转型、转换 | I decided to transition into the field of human resources. |
-| memorize | /ˈmeməraɪz/ | v. 死记硬背 | It's better not to memorize it word for word. |
-| script | /skrɪpt/ | n. 稿子、台词 | If you memorize a script word for word, it might sound robotic. |
+| memorize | /ˈmeməraɪz/ | v. 死记硬背 | If you memorize every word, it might sound robotic. |
+| script | /skrɪpt/ | n. 稿子、台词 | Another mistake is memorizing a script word for word. |
 | sincere | /sɪnˈsɪə(r)/ | adj. 真诚的 | It simply needs to be clear and sincere. |
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
-| structure | /ˈstrʌktʃə(r)/ | n. 结构（→ 见总词表，03 集已收） | Follow a simple structure: who you are, background, experience, goals. |
+| structure | /ˈstrʌktʃə(r)/ | n. 结构（→ 见总词表，03 集已收） | Exactly. With a simple structure and a little practice, you can give a clear and confident |
 | graduate | /ˈɡrædʒueɪt/ | v. 毕业（→ 见总词表，16 集已收） | I recently graduated with a degree in business administration. |
 | internship | /ˈɪntɜːnʃɪp/ | n. 实习（→ 见总词表，16 集已收） | I also completed an internship where I assisted with organizing events. |
-| networking | /ˈnetwɜːkɪŋ/ | n. 社交拓展 | You might hear it at a networking event. |
+| networking | /ˈnetwɜːkɪŋ/ | n. 社交拓展 | You might hear it during a job interview, a networking event, a business meeting, |
 | teamwork | /ˈtiːmwɜːk/ | n. 团队合作 | During my studies, I developed an interest in project management and teamwork. |
 | impression | /ɪmˈpreʃn/ | n. 印象（→ 见总词表，13 集已收） | It helps create a positive first impression. |
 | hobby | /ˈhɒbi/ | n. 爱好 | Hobbies can help make the introduction more personal. |
-| pronunciation | /prəˌnʌnsiˈeɪʃn/ | n. 发音 | Beginners sometimes worry about pronunciation. |
-| fluency | /ˈfluːənsi/ | n. 流利度 | Repeating your introduction can improve your fluency. |
-| formal | /ˈfɔːml/ | adj. 正式的（→ 见总词表，05 集已收） | Don't include too much personal detail in formal situations. |
+| pronunciation | /prəˌnʌnsiˈeɪʃn/ | n. 发音 | Another thing beginners sometimes worry about is pronunciation. |
+| fluency | /ˈfluːənsi/ | n. 流利度 | can improve your fluency. |
+| formal | /ˈfɔːml/ | adj. 正式的（→ 见总词表，05 集已收） | But it's important to not include too much personal detail, especially in formal situations. |
 | relatable | /rɪˈleɪtəbl/ | adj. 有亲和力的 | That makes the introduction feel more human and relatable. |
 | overview | /ˈəʊvəvjuː/ | n. 概览 | They just want a brief overview of your background. |
 
@@ -54,12 +54,12 @@
 | 句式 | 使用场景 | 原文例句 |
 |---|---|---|
 | Tell me about yourself. | 面试开场必问 | Tell me about yourself. |
-| Hello, my name is David and I'm a marketing professional. | 自我介绍开场 | Hello, my name is David and I'm a marketing professional with several years of experience. |
+| Hello, my name is David and I'm a marketing professional. | 自我介绍开场 | My name is David and I'm a marketing professional with several years of experience in digital |
 | I have a background in business and marketing. | 讲背景 | I have a background in business and marketing. |
 | I studied business administration at university. | 讲教育经历 | I studied business administration at university, where I developed a strong interest in marketing. |
 | One of my strengths is my ability to analyze market trends. | 讲长处 | One of my strengths is my ability to analyze market trends. |
 | In my previous role, I helped launch a campaign that increased engagement by 30%. | 用数据支撑长处 | I helped launch a social media campaign that increased customer engagement by more than 30%. |
-| Currently, I'm looking for opportunities where I can continue growing. | 讲目标收尾 | Currently, I'm looking for opportunities where I can continue growing professionally. |
+| Currently, I'm looking for opportunities where I can continue growing. | 讲目标收尾 | I might say something like, currently, I'm looking for opportunities where I can continue |
 | Outside of work, I enjoy reading and traveling. | 补充个人细节 | Outside of work, I enjoy reading, traveling, and learning new languages. |
 | I recently joined the marketing team as a digital marketing specialist. | 新团队自我介绍 | Hello everyone, my name is David. I recently joined the marketing team. |
 | I'm really excited to collaborate with all of you. | 表达期待 | I'm really excited to collaborate with all of you. |

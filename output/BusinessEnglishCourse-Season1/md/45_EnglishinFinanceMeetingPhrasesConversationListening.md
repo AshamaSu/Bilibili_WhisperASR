@@ -15,29 +15,29 @@
 | investment | /ɪnˈvestmənt/ | n. 投资（→ 见总词表，17 集已收） | With an initial investment of $4.5 million. |
 | credit | /ˈkredɪt/ | n. 信用、赊账（→ 见总词表，08 集已收） | Now let's pivot to the second major issue, credit risk. |
 | scenario | /səˈnɑːriəʊ/ | n. 情形、情景（→ 见总词表，01 集已收） | Now let's pivot to the optimistic scenario. |
-| revenue | /ˈrevənjuː/ | n. 营收（→ 见总词表，13 集已收） | Revenue is denominated in euros and yen. |
-| currency | /ˈkʌrənsi/ | n. 货币（→ 见总词表，27 集已收） | We need to get a grip on currency risk. |
-| hurdle | /ˈhɜːdl/ | n. 门槛（hurdle rate 门槛收益率；新收） | An 18.5% IRR is promising, with a 12% hurdle rate. |
+| revenue | /ˈrevənjuː/ | n. 营收（→ 见总词表，13 集已收） | The drop in the euro's value means less local currency revenue for the same foreign |
+| currency | /ˈkʌrənsi/ | n. 货币（→ 见总词表，27 集已收） | We need to get a firm grip on three key areas, currency risk, credit risk, and transit risk. |
+| hurdle | /ˈhɜːdl/ | n. 门槛（hurdle rate 门槛收益率；新收） | An 18.5% IRR is certainly promising, especially with a 12% hurdle rate. |
 | sensitivity | /ˌsensəˈtɪvəti/ | n. 敏感性（新收） | My sensitivity analysis flags major concerns. |
 | default | /dɪˈfɔːlt/ | n. 违约（→ 见总词表，08 集已收） | It protects our balance sheet from a catastrophic client default. |
-| exposure | /ɪkˈspəʊʒə/ | n. 风险敞口（→ 见总词表，23 集已收） | That reduces our currency exposure. |
+| exposure | /ɪkˈspəʊʒə/ | n. 风险敞口（→ 见总词表，23 集已收） | is impressive, you're right. The exposure has also increased. We need to get a firm grip |
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
 | NPV | /ˌen piː ˈviː/ | n. 净现值 | The projected NPV stands at a positive $820,000. |
-| IRR | /ˌaɪ ɑːr ˈɑːr/ | n. 内部收益率 | The internal rate of return is estimated at 18.5%. |
+| IRR | /ˌaɪ ɑːr ˈɑːr/ | n. 内部收益率 | The internal rate of return, or IRR, is estimated at 18.5%. |
 | payback period | /ˈpeɪbæk ˌpɪəriəd/ | n. 投资回收期 | The standard payback period is within four years. |
-| beta | /ˈbiːtə/ | n. 贝塔（风险系数） | Project Alpha has a higher beta than Project Beta. |
+| beta | /ˈbiːtə/ | n. 贝塔（风险系数） | a significantly higher NPV, confirming it would generate more value than Project Beta, |
 | receivable | /rɪˈsiːvəbl/ | n. 应收账款 | 75% of our forecasted euro and yen receivables. |
-| trade credit | /ˌtreɪd ˈkredɪt/ | n. 商业信用（赊销） | Trade credit insurance protects the balance sheet. |
-| forward contract | /ˈfɔːwəd ˌkɒntrækt/ | n. 远期合约 | Six-month forward contracts to cover receivables. |
+| trade credit | /ˌtreɪd ˈkredɪt/ | n. 商业信用（赊销） | It essentially transfers the credit risk off our balance sheet. |
+| forward contract | /ˈfɔːwəd ˌkɒntrækt/ | n. 远期合约 | I propose we engage with our bank to secure six-month forward contracts to cover approximately |
 | translation risk | /trænzˈleɪʃn rɪsk/ | n. 折算风险 | That's a classic translation risk for an export business. |
-| balance sheet | /ˈbæləns ʃiːt/ | n. 资产负债表 | It transfers credit risk off our balance sheet. |
+| balance sheet | /ˈbæləns ʃiːt/ | n. 资产负债表 | It essentially transfers the credit risk off our balance sheet. |
 | mitigation | /ˌmɪtɪˈɡeɪʃn/ | n. 缓解（→ 见总词表，36 集已收） | That brings us back to the risk mitigation plan. |
 | optimistic | /ˌɒptɪˈmɪstɪk/ | adj. 乐观的 | Now let's pivot to the optimistic scenario. |
-| pessimistic | /ˌpesɪˈmɪstɪk/ | adj. 悲观的 | The pessimistic scenario assumes a launch delay. |
+| pessimistic | /ˌpesɪˈmɪstɪk/ | adj. 悲观的 | In the pessimistic scenario, which assumes a 15% reduction in annual revenue and |
 
 ### 语块（整体记忆，不拆单词）
 
@@ -45,9 +45,9 @@
 |---|---|---|
 | credit risk | 信用风险 | Now let's pivot to the second major issue, credit risk. |
 | base case | 基准情形 | Excellent. Let's start with the base case. |
-| hurdle rate | 门槛收益率 | What does the NPV look like at our hurdle rate of 12%? |
+| hurdle rate | 门槛收益率 | What does the net present value, or NPV, look like at our hurdle rate of 12%? |
 | trade credit insurance | 应收账款保险 | We must secure our position with trade credit insurance. |
-| exchange rate | 汇率 | Exchange rate movements hit the forecast. |
+| exchange rate | 汇率 | essentially removing the exchange rate uncertainty. |
 
 ## 2. 句式
 
@@ -55,13 +55,13 @@
 |---|---|---|
 | Let's start with the base case. | 从基准情形开始 | Excellent. Let's start with the base case. |
 | With an initial investment of $4.5 million, the projected NPV stands at a positive $820,000. | 报财务数字 | With an initial investment of $4.5 million, the projected NPV stands at a positive $820,000. |
-| What does the NPV look like at our hurdle rate of 12%? | 追问门槛 | What does the net present value look like at our hurdle rate of 12%? |
+| What does the NPV look like at our hurdle rate of 12%? | 追问门槛 | What does the net present value, or NPV, look like at our hurdle rate of 12%? |
 | An 18.5% IRR is certainly promising, especially with a 12% hurdle rate. | 评价回报 | An 18.5% IRR is certainly promising, especially with a 12% hurdle rate. |
 | How does that align with our payback period target? | 对照回收期 | How does that align with our payback period target? |
 | The base case NPV drops from $820,000 to $450,000. | 报敏感性结果 | The base case NPV drops from $820,000 to $450,000. |
 | What is the impact of removing the launch delay while keeping the 15% volume reduction? | 单变量测试 | What is the impact of removing the launch delay while keeping the 15% volume reduction? |
 | That's a classic translation risk for an export business. | 命名风险类型 | That's a classic translation risk for an export business. |
-| I propose we secure six-month forward contracts to cover 75% of receivables. | 提对冲方案 | I propose we secure six-month forward contracts to cover approximately 75% of receivables. |
+| I propose we secure six-month forward contracts to cover 75% of receivables. | 提对冲方案 | I propose we engage with our bank to secure six-month forward contracts to cover approximately |
 | Trade credit insurance transfers the credit risk off our balance sheet. | 解释保险作用 | It essentially transfers the credit risk off our balance sheet. |
 | We need to implement risk mitigation strategies before confirming those contracts. | 先化解再签约 | We absolutely need to implement risk mitigation strategies before confirming those contracts. |
 | Now let's pivot to the second major issue, credit risk. | 切换议题 | Now, let's pivot to the second major issue, credit risk. |

@@ -20,7 +20,7 @@
 | trends | /trendz/ | n. 趋势 | Based on current trends, we anticipate moderate revenue growth. |
 | compared | /kəmˈpeəd/ | v. 对比 | Notice the comparison language: compared to the previous quarter. |
 | margins | /ˈmɑːdʒɪnz/ | n. 利润率 | While sales volume increased, profit margins decreased. |
-| exceeded | /ɪkˈsiːdɪd/ | v. 超出 | Strong performance verbs include exceeded, delivered, achieved. |
+| exceeded | /ɪkˈsiːdɪd/ | v. 超出 | Exceeded projections fell short of targets year-over-year growth, quarter-over-quarter improvement. |
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
@@ -29,15 +29,15 @@
 | declined | /dɪˈklaɪnd/ | v. 下降 | This quarter revenue declined by 6% compared to the previous quarter. |
 | metrics | /ˈmetrɪks/ | n. 指标 | The first skill is understanding what metric matters. |
 | forecasting | /ˈfɔːkɑːstɪŋ/ | n. 预测 | Let's discuss forecasting. |
-| retention | /rɪˈtenʃn/ | n. 留存 | Our key KPIs included customer acquisition rate, churn, retention. |
+| retention | /rɪˈtenʃn/ | n. 留存 | retention, and operational efficiency. It depends on the context and industry. |
 | expenses | /ɪkˈspensɪz/ | n. 开支 | Operating expenses decreased by 2%. |
 | anticipate | /ænˈtɪsɪpeɪt/ | v. 预期 | We anticipate moderate revenue growth next quarter. |
-| outperformed | /ˌaʊtpəˈfɔːmd/ | v. 表现优于 | Strong performance verbs include outperformed, exceeded. |
+| outperformed | /ˌaʊtpəˈfɔːmd/ | v. 表现优于 | improved, outperformed, exceeded, delivered, achieved. |
 | quarter | /ˈkwɔːtə(r)/ | n. 季度（→ 见总词表，02 集已收） | Overall, the company delivered solid growth this quarter. |
 | efficiency | /ɪˈfɪʃnsi/ | n. 效率（→ 见总词表，01 集已收） | Operations may care about efficiency. |
 | productivity | /ˌprɒdʌkˈtɪvəti/ | n. 生产力（→ 见总词表，01 集已收） | Typically: revenue, profit, costs, growth rate, market share, productivity. |
 | satisfaction | /ˌsætɪsˈfækʃn/ | n. 满意度（→ 见总词表，01 集已收） | Customer satisfaction scores improved. |
-| slightly | /ˈslaɪtli/ | adv. 略微（→ 见总词表，03 集已收） | Use phrases like slightly above, below expectations. |
+| slightly | /ˈslaɪtli/ | adv. 略微（→ 见总词表，03 集已收） | Good idea. Use phrases like compared to, in line with, slightly above, below expectations, |
 | steady | /ˈstedi/ | adj. 平稳的（→ 见总词表，08 集已收） | Performance remained steady or we maintained consistent growth. |
 | context | /ˈkɒntekst/ | n. 语境（→ 见总词表，02 集已收） | It depends on the context and industry. |
 

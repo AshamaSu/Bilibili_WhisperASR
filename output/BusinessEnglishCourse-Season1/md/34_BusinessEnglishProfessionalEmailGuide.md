@@ -19,7 +19,7 @@
 | buy-in | /ˈbaɪ ɪn/ | n. 认同与支持（新收） | Early engagement creates buy-in. |
 | optimize | /ˈɒptɪmaɪz/ | v. 优化（→ 见总词表，08 集已收） | Optimization for growth is needed. |
 | prioritize | /praɪˈɒrətaɪz/ | v. 排优先级（→ 见总词表，01 集已收） | Let's prioritize this task. |
-| contingency | /kənˈtɪndʒənsi/ | n. 应急预案（→ 见总词表，33 集已收） | Let's create a contingency plan. |
+| contingency | /kənˈtɪndʒənsi/ | n. 应急预案（→ 见总词表，33 集已收） | and create a contingency plan. |
 | metric | /ˈmetrɪk/ | n. 指标（→ 见总词表，23 集已收） | Leaders speak in metrics. |
 
 ### 补充词（听中查阅；已收词与降级词归此）
@@ -28,12 +28,12 @@
 |---|---|---|---|
 | comprehensive | /ˌkɒmprɪˈhensɪv/ | adj. 全面的 | We need a comprehensive risk assessment. |
 | thorough | /ˈθʌrə/ | adj. 彻底的 | Conduct a thorough market analysis. |
-| turnaround | /ˈtɜːnəraʊnd/ | n. 周转时间 | Streamlining operations will improve turnaround time. |
-| due diligence | /djuː ˈdɪlɪdʒəns/ | n. 尽职调查 | It's about due diligence. |
-| buzzword | /ˈbʌzwɜːd/ | n. 流行行话 | You sound like you're playing Business Bingo with buzzwords. |
+| turnaround | /ˈtɜːnəraʊnd/ | n. 周转时间 | and improve turnaround time. |
+| due diligence | /djuː ˈdɪlɪdʒəns/ | n. 尽职调查 | This is about due diligence. |
+| buzzword | /ˈbʌzwɜːd/ | n. 流行行话 | buzzwords that you don't actually know |
 | inauthentic | /ˌɪnɔːˈθentɪk/ | adj. 不真实的 | You sound completely inauthentic. |
-| condescending | /ˌkɒndɪˈsendɪŋ/ | adj. 居高临下的 | Do you understand? Sounds condescending. |
-| indispensable | /ˌɪndɪˈspensəbl/ | adj. 不可或缺的 | Align is absolutely indispensable. |
+| condescending | /ˌkɒndɪˈsendɪŋ/ | adj. 居高临下的 | Right, it's condescending, it's hierarchical. |
+| indispensable | /ˌɪndɪˈspensəbl/ | adj. 不可或缺的 | but it is absolutely indispensable. |
 | conscientious | /ˌkɒnʃiˈenʃəs/ | adj. 认真细致的 | That makes you look conscientious, not checked out. |
 | diplomatic | /ˌdɪpləˈmætɪk/ | adj. 得体外交的 | It's a diplomatic move. |
 | hierarchical | /ˌhaɪəˈrɑːkɪkl/ | adj. 等级分明的 | It's condescending, it's hierarchical. |
@@ -45,7 +45,7 @@
 
 | 语块 | 使用场景 | 原文例句摘录 |
 |---|---|---|
-| thank you for your patience | 替代「抱歉让你久等」 | The absolute MVP of business emails is thank you for your patience. |
+| thank you for your patience | 替代「抱歉让你久等」 | thank you for your patience all the way to the powerhouse phrases like |
 | take the lead | 主动扛下项目 | I'll take the lead on this project. |
 | comprehensive risk assessment | 正式风险评估 | Before we launch this, we need a comprehensive risk assessment. |
 | gap analysis | 把失败变成数学题 | We need to conduct a gap analysis. |
@@ -55,17 +55,17 @@
 
 | 句式 | 使用场景 | 原文例句 |
 |---|---|---|
-| Thank you for your patience. | 延迟致歉的升级版 | Thank you for your patience is the MVP of business emails. |
-| Could you repeat that please? I want to make sure I understood correctly. | 没听清时的得体追问 | You say, could you repeat that please? I want to make sure I understood correctly. |
+| Thank you for your patience. | 延迟致歉的升级版 | thank you for your patience all the way to the powerhouse phrases like |
+| Could you repeat that please? I want to make sure I understood correctly. | 没听清时的得体追问 | You say, could you repeat that please? |
 | Can we align on the expectations? | 项目启动对齐认知 | Can we align on the expectations? |
-| What's the deadline for this? | 直接确认硬截止日 | Stop guessing. Ask: what's the deadline for this? |
+| What's the deadline for this? | 直接确认硬截止日 | What's the deadline for this? |
 | Please let me know if you have any questions. | 邮件结尾开门式收尾 | Please let me know if you have any questions. |
 | Is there a way to expedite this process? | 催进度不催情绪 | Is there a way to expedite this process? |
-| Let's prioritize this task. | 战略性排序（非「先做这个」） | Let's prioritize this task. It sounds strategic. |
+| Let's prioritize this task. | 战略性排序（非「先做这个」） | let's prioritize this sounds strategic. It implies you have looked at all the available |
 | I'll take the lead on this project. | 主动担责（职业跃升句） | I'll take the lead on this project to ensure we hit our deadline. |
 | We need to conduct a gap analysis. | 把失败重构成数学题 | We need to conduct a gap analysis. |
 | Before we launch, we need a comprehensive risk assessment. | 表达风险意识 | Before we launch this, we need a comprehensive risk assessment. |
-| We quantified the impact, and customer retention is up 12%. | 用数字讲成果 | We quantified the impact and customer retention is up 12% year over year. |
+| We quantified the impact, and customer retention is up 12%. | 用数字讲成果 | impact of the website update and customer retention is up 12% year over year, that |
 | I'm committed to delivering results. | 收尾表态 | I'm committed to delivering results. |
 
 ### 填空版（听完自测，关键短语挖空）

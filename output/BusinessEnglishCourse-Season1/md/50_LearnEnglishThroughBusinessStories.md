@@ -6,38 +6,38 @@
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
-| learn | /lɜːn/ | v. 学习（标题词；→ 见总词表，01 集已收） | You also learn lessons about vision, risk-taking, and long-term thinking. |
+| learn | /lɜːn/ | v. 学习（标题词；→ 见总词表，01 集已收） | history, but also learn lessons about vision, risk-taking, and long-term thinking. |
 | english | /ˈɪŋɡlɪʃ/ | n. 英语（标题词；→ 见总词表，01 集已收） | I post amazing videos every day to help you learn English through stories. |
 | business | /ˈbɪznəs/ | n. 商业（标题词；→ 见总词表，01 集已收） | Learn English Through Business Stories（篇名） |
 | stories | /ˈstɔːriz/ | n. 故事（标题词；→ 见总词表，01 集已收） | Today's story is not just about improving your English. |
 | innovation | /ˌɪnəˈveɪʃn/ | n. 创新（→ 见总词表，03 集已收） | Apple's story shows that innovation and dedication can turn dreams into reality. |
-| vision | /ˈvɪʒn/ | n. 愿景（→ 见总词表，24 集已收） | Its story proves that a small idea, nurtured with hard work and vision, can grow. |
+| vision | /ˈvɪʒn/ | n. 愿景（→ 见总词表，24 集已收） | Its story proves that even a small idea, nurtured with hard work and vision, can |
 | persistence | /pəˈsɪstəns/ | n. 坚持、韧性（新收） | Apple's story is a testament to vision, persistence, and relentless innovation. |
 | empire | /ˈempaɪə/ | n. 商业帝国（新收） | Nike's strategies for becoming a global empire can be summarized in key lessons. |
 | strategy | /ˈstrætədʒi/ | n. 策略（→ 见总词表，01 集已收） | Through innovation, strategy, and courage, they built one of the most iconic brands. |
-| launch | /lɔːntʃ/ | v./n. 推出、发布（→ 见总词表，01 集已收） | Every launch, every event, and every social media post matters. |
-| breakthrough | /ˈbreɪkθruː/ | n. 突破（新收） | Nike's first big breakthrough came with the Cortez running shoe. |
+| launch | /lɔːntʃ/ | v./n. 推出、发布（→ 见总词表，01 集已收） | Every launch, every event, and every social media post was a lesson in creating hype and |
+| breakthrough | /ˈbreɪkθruː/ | n. 突破（新收） | Nike's first big breakthrough came with the Nike Cortez running shoe, released during |
 | startup | /ˈstɑːtʌp/ | n. 初创公司（→ 见总词表，17 集已收） | From a small startup with a risky idea to a company worth hundreds of billions. |
-| struggle | /ˈstrʌɡl/ | n./v. 艰难、挣扎（→ 见总词表，01 集已收） | The company faced production bottlenecks and struggles with cash flow. |
+| struggle | /ˈstrʌɡl/ | n./v. 艰难、挣扎（→ 见总词表，01 集已收） | or without the brothers' full support. At first, things were slow, and he struggled |
 | failure | /ˈfeɪljə/ | n. 失败（→ 见总词表，04 集已收） | The company faced production delays, technical failures, and financial crises. |
-| disrupt | /dɪsˈrʌpt/ | v. 颠覆（→ 见总词表，29 集已收） | Vision, persistence, and innovation could disrupt even the largest, most established companies. |
+| disrupt | /dɪsˈrʌpt/ | v. 颠覆（→ 见总词表，29 集已收） | It proved that vision, persistence, and innovation could disrupt even the largest, most established |
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
 | risk | /rɪsk/ | n. 风险（A2；→ 见总词表，03 集已收） | He embraced risk, worked tirelessly, and stayed obsessed with solving problems. |
-| product | /ˈprɒdʌkt/ | n. 产品（→ 见总词表，01 集已收） | Products weren't selling, and the company was losing millions. |
+| product | /ˈprɒdʌkt/ | n. 产品（→ 见总词表，01 集已收） | Affordability, mass production, efficient cooking, limited menu. |
 | design | /dɪˈzaɪn/ | n./v. 设计（→ 见总词表，01 集已收） | Its colorful design, easy to use interface, and unique look made Apple cool again. |
 | investor | /ɪnˈvestə/ | n. 投资人（→ 见总词表，24 集已收） | In 2004, Elon Musk joined Tesla as an investor and chairman of the board. |
-| lesson | /ˈlesn/ | n. 经验教训（A2；→ 见总词表，01 集已收） | Nike's strategies can be summarized in key lessons. |
+| lesson | /ˈlesn/ | n. 经验教训（A2；→ 见总词表，01 集已收） | knowledge, business lessons, and inspiration. |
 | mindset | /ˈmaɪndset/ | n. 思维方式（→ 见总词表，02 集已收） | The founder's mindset shaped every decision the company made. |
-| legacy | /ˈleɡəsi/ | n. 留下的遗产、影响（→ 见总词表，37 集已收） | They overcame obstacles and left a lasting legacy. |
+| legacy | /ˈleɡəsi/ | n. 留下的遗产、影响（→ 见总词表，37 集已收） | obstacles and leave a lasting legacy. |
 | venture | /ˈventʃə/ | n. 事业、创业项目（新收） | Every new venture starts with an idea nobody believes in. |
-| skeptical | /ˈskeptɪkl/ | adj. 怀疑的（新收） | Investors were skeptical, shipping was slow, and the business was risky. |
-| iconic | /aɪˈkɒnɪk/ | adj. 标志性的（新收） | They built one of the most iconic brands in the world. |
+| skeptical | /ˈskeptɪkl/ | adj. 怀疑的（新收） | Investors were skeptical, shipping was slow, and running an online business was risky. |
+| iconic | /aɪˈkɒnɪk/ | adj. 标志性的（新收） | through innovation, strategy, and courage, they built one of the most iconic brands |
 | bankruptcy | /ˈbæŋkrʌptsi/ | n. 破产（新收） | The company was near bankruptcy, losing millions. |
-| revenue | /ˈrevənjuː/ | n. 营收（→ 见总词表，13 集已收） | Revenue grew faster than anyone had predicted. |
+| revenue | /ˈrevənjuː/ | n. 营收（→ 见总词表，13 集已收） | Today, Nike has over $50 billion in annual revenue, employs hundreds of thousands globally, |
 
 ### 语块（整体记忆，不拆单词）
 
@@ -45,17 +45,17 @@
 |---|---|---|
 | turn dreams into reality | 把梦想变成现实 | Innovation and dedication can turn dreams into reality. |
 | a testament to | 是……的明证 | Apple's story is a testament to vision, persistence, and relentless innovation. |
-| diving deep | 深入剖析 | We're diving deep into the history of a company everybody knows. |
+| diving deep | 深入剖析 | Stay with me, because today, we are diving deep into the fascinating journey of McDonald's, |
 | near bankruptcy | 濒临破产 | The company was near bankruptcy, losing millions. |
-| let's get started | 开始吧 | Let's get started with a story everybody knows. |
+| let's get started | 开始吧 | but also learn lessons about innovation, vision, resilience, and leadership. So let's get started. |
 
 ## 2. 句式
 
 | 句式 | 使用场景 | 原文例句 |
 |---|---|---|
-| Today's story is not just about improving your English. | 开场点出双重目的 | Today's story is not just about improving your English, it's also about gaining business lessons. |
+| Today's story is not just about improving your English. | 开场点出双重目的 | And trust me, today's story is not just about improving your English, it's also about gaining |
 | Apple's story shows that innovation and dedication can turn dreams into reality. | 用故事下结论 | Apple's story shows that innovation and dedication can turn dreams into reality. |
-| Its story proves that even a small idea can change the world. | 强调小起点 | Its story proves that even a small idea, nurtured with hard work and vision, can change the world. |
+| Its story proves that even a small idea can change the world. | 强调小起点 | Its story proves that even a small idea, nurtured with hard work and vision, can |
 | Apple's story is a testament to vision, persistence, and relentless innovation. | 三词概括成功要素 | Apple's story is a testament to vision, persistence, and relentless innovation. |
 | The idea of an electric car company seemed risky, expensive, and even impossible. | 描述最初的质疑 | The idea of an electric car company seemed risky, expensive, and even impossible. |
 | He embraced risk, worked tirelessly, and stayed obsessed with solving problems. | 描述创始人特质 | He embraced risk, worked tirelessly, and stayed obsessed with solving problems. |
@@ -64,7 +64,7 @@
 | Jobs made bold moves, he cut unnecessary products. | 讲关键决策 | Jobs made bold moves, he cut unnecessary products, streamlined the product line. |
 | Nike's first big breakthrough came with the Cortez running shoe. | 讲转折点 | Nike's first big breakthrough came with the Nike Cortez running shoe. |
 | Nike's strategies for becoming a global empire can be summarized in key lessons. | 收束并提取经验 | Nike's strategies for becoming a global empire can be summarized in key lessons. |
-| It proved that vision and persistence could disrupt even the largest companies. | 总结行业影响 | It proved that vision, persistence, and innovation could disrupt even the largest, most established companies. |
+| It proved that vision and persistence could disrupt even the largest companies. | 总结行业影响 | It proved that vision, persistence, and innovation could disrupt even the largest, most established |
 
 ### 填空版（听完自测，关键短语挖空）
 

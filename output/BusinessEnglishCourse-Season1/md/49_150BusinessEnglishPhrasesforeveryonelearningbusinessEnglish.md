@@ -8,7 +8,7 @@
 |---|---|---|---|
 | business | /ˈbɪznəs/ | n. 商务（标题词；→ 见总词表，01 集已收） | 150 Business English Phrases（篇名） |
 | english | /ˈɪŋɡlɪʃ/ | n. 英语（标题词；→ 见总词表，01 集已收） | 150 Business English Phrases（篇名） |
-| phrases | /ˈfreɪzɪz/ | n. 短语（标题词；新收） | Today we're going to crack the code on the phrases people actually use. |
+| phrases | /ˈfreɪzɪz/ | n. 短语（标题词；新收） | First up in our little decoding guide are the phrases you're almost guaranteed to |
 | everyone | /ˈevriwʌn/ | pron. 每个人（标题词；→ 见总词表，05 集已收） | For everyone learning business English（篇名） |
 | learning | /ˈlɜːnɪŋ/ | n. 学习（标题词；→ 见总词表，08 集已收） | For everyone learning business English（篇名） |
 | professional | /prəˈfeʃənl/ | adj. 专业的（→ 见总词表，01 集已收） | Non-negotiable if you want to succeed in an English-speaking professional world. |
@@ -18,19 +18,19 @@
 | signal | /ˈsɪɡnəl/ | v./n. 传递信号（→ 见总词表，08 集已收） | This one often comes from a manager and it signals a change is needed. |
 | momentum | /məˈmentəm/ | n. 势头、动能（→ 见总词表，04 集已收） | Let's get some quick, easy wins to build momentum before we tackle the big stuff. |
 | loop | /luːp/ | n. 圈子（keep someone in the loop 让某人知情；→ 见总词表，08 集已收） | Streamline, take the lead, keep you in the loop, and hit the ground running. |
-| brief | /briːf/ | n./v. 简报、交代任务（→ 见总词表，08 集已收） | We need to brief them before the client call. |
-| agenda | /əˈdʒendə/ | n. 议程（→ 见总词表，07 集已收） | In one breath, they've set an agenda, prioritized tasks, called for innovation. |
-| follow-up | /ˈfɒləʊ ʌp/ | n. 后续跟进（→ 见总词表，01 集已收） | You move that conversation to a follow-up email or a separate smaller call. |
+| brief | /briːf/ | n./v. 简报、交代任务（→ 见总词表，08 集已收） | But it implies something brief. |
+| agenda | /əˈdʒendə/ | n. 议程（→ 见总词表，07 集已收） | In like one breath, they've set an agenda, prioritized tasks, called for innovation, |
+| follow-up | /ˈfɒləʊ ʌp/ | n. 后续跟进（→ 见总词表，01 集已收） | You move that specific conversation to a follow-up email or a separate smaller call after the |
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
 | formal | /ˈfɔːml/ | adj. 正式的（A2；→ 见总词表，02 集已收） | Look at the formal versions, continue, postpone, investigate. |
-| informal | /ɪnˈfɔːml/ | adj. 非正式的（A2；→ 见总词表，05 集已收） | The informal one, I need more time, sounds a little defensive or rushed. |
+| informal | /ɪnˈfɔːml/ | adj. 非正式的（A2；→ 见总词表，05 集已收） | the informal one, I need more time. It almost sounds a little defensive or rushed. |
 | verb | /vɜːb/ | n. 动词（→ 见总词表，26 集已收） | Right, but in US corporate speak, it's a verb. |
 | word | /wɜːd/ | n. 单词（→ 见总词表，01 集已收） | It's using the formal word in an informal situation. |
-| information | /ˌɪnfəˈmeɪʃn/ | n. 信息（→ 见总词表，01 集已收） | We need more information before we commit. |
+| information | /ˌɪnfəˈmeɪʃn/ | n. 信息（→ 见总词表，01 集已收） | I gave her the information she needed, but I told her I need more time to finish the |
 | manager | /ˈmænɪdʒə/ | n. 经理（→ 见总词表，02 集已收） | This one often comes from a manager. |
 | update | /ˈʌpdeɪt/ | n. 进展通报（→ 见总词表，02 集已收） | It means timely, concise updates. Think bullet points. |
 | offline | /ˌɒfˈlaɪn/ | adv. 会下单独谈（take it offline；→ 见总词表，08 集已收） | This is a bit off track, let's take it offline. |
@@ -46,7 +46,7 @@
 | touch base | 短会同步、打个招呼 | I want you to touch base with the marketing team. |
 | think outside the box | 跳出框框想问题 | We need to think outside the box and find some real synergy. |
 | hit the ground running | 上手就出活 | They expect you to hit the ground running. |
-| get the ball rolling | 把事情推动起来 | Get the ball rolling means to start something. |
+| get the ball rolling | 把事情推动起来 | Basically, all it means is connecting with someone to get on the same page about something. |
 | low-hanging fruit | 容易摘的果子（先做易见效的事） | We're going to start with a great one for prioritization, low-hanging fruit. |
 
 ## 2. 句式
@@ -54,9 +54,9 @@
 | 句式 | 使用场景 | 原文例句 |
 |---|---|---|
 | Today, we're going to crack the code on corporate speak. | 开场说明主题 | Today, we're going to crack the code on corporate speak. |
-| We have to start with what I think is the most common one of all, touch base. | 引出第一个要点 | We have to start with what I think is the most common one of all, touch base. |
+| We have to start with what I think is the most common one of all, touch base. | 引出第一个要点 | And we have to start with what is, I think, the most common one of all, touch base. |
 | In the office or in a professional email, you're going to want to say, assist. | 给替代表达 | In the office or in a professional email, you're going to want to say, assist. |
-| Look at the formal versions, continue, postpone, investigate. | 列举正式说法 | But look at the formal versions, continue, postpone, investigate, it's an instant signal. |
+| Look at the formal versions, continue, postpone, investigate. | 列举正式说法 | But look at the formal versions, continue, postpone, investigate, it's an instant |
 | It's using the formal word in an informal situation, which is a mistake in itself. | 指出用词错位 | It's using the formal word in an informal situation, which is a mistake in itself. |
 | That feels like the number one rule of corporate life. Don't surprise the boss. | 总结职场规则 | That feels like the number one rule of corporate life. Don't surprise the boss. |
 | They expect you to hit the ground running. | 说明岗位预期 | If a company hires you and says they expect you to hit the ground running. |

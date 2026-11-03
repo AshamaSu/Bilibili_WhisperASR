@@ -14,20 +14,20 @@
 | learners | /ˈlɜːnəz/ | n. 学习者（标题词；新收） | Phrases for Business English Learners（篇名） |
 | launch | /lɔːntʃ/ | n./v. 发布、上市（→ 见总词表，01 集已收） | The upcoming product launch campaign. |
 | campaign | /kæmˈpeɪn/ | n. 营销活动（→ 见总词表，01 集已收） | I own email campaigns and blog posts. |
-| engagement | /ɪnˈɡeɪdʒmənt/ | n. 互动、参与度（→ 见总词表，03 集已收） | Explainer videos tend to boost engagement. |
+| engagement | /ɪnˈɡeɪdʒmənt/ | n. 互动、参与度（→ 见总词表，03 集已收） | Short explainer videos or demo clips tend to boost engagement, especially on Instagram |
 | influencer | /ˈɪnfluənsə/ | n. 网红、意见领袖（→ 见总词表，08 集已收） | We've signed contracts with four influencers. |
 | messaging | /ˈmesɪdʒɪŋ/ | n. 传播口径（新收） | Messaging inconsistencies across channels. |
-| targeting | /ˈtɑːɡətɪŋ/ | n. 定向投放（新收） | Audience targeting must be finalized. |
-| conversion | /kənˈvɜːʃn/ | n. 转化（→ 见总词表，03 集已收） | Conversions 5%, blog conversion 3%. |
+| targeting | /ˈtɑːɡətɪŋ/ | n. 定向投放（新收） | Right. Let's start with audience targeting. Have we finalized our core segments? |
+| conversion | /kənˈvɜːʃn/ | n. 转化（→ 见总词表，03 集已收） | blog, conversion, 3%, PR mentions 5 minimum and positive sentiment 80%. |
 | outreach | /ˈaʊtriːtʃ/ | n. 推广触达（新收） | PR outreach begins one day post launch. |
-| benchmark | /ˈbentʃmɑːk/ | n. 基准线（→ 见总词表，03 集已收） | If CTR is below benchmark, we tweak copy immediately. |
+| benchmark | /ˈbentʃmɑːk/ | n. 基准线（→ 见总词表，03 集已收） | For example, if CTR is below benchmark, we tweak copy or targeting immediately. |
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
 | segmentation | /ˌseɡmenˈteɪʃn/ | n. 分层细分 | That segmentation is essential. |
-| escalate | /ˈeskəleɪt/ | v. 上报升级 | If unresolved, escalate to the lead for that function. |
+| escalate | /ˈeskəleɪt/ | v. 上报升级 | If unresolved, in two hours, escalate to the lead for that function, |
 | postmortem | /pəʊstˈmɔːtem/ | n. 复盘会 | Let's schedule a postmortem two weeks after launch. |
 | retrospective | /ˌretrəˈspektɪv/ | n. 回顾复盘 | We hold a full retrospective. |
 | sentiment | /ˈsentɪmənt/ | n. 舆论倾向 | 80% positive sentiment. |
@@ -38,9 +38,9 @@
 | pipeline | /ˈpaɪplaɪn/ | n. 储备线索池 | Leads in the nurture pipeline. |
 | teaser | /ˈtiːzə/ | n. 预热内容 | Pre-launch teasers on social start next week. |
 | streamline | /ˈstriːmlaɪn/ | v. 精简（→ 见总词表，01 集已收） | This will streamline communication. |
-| discrepancy | /dɪsˈkrepənsi/ | n. 不一致 | Even a small discrepancy can confuse our audience. |
+| discrepancy | /dɪsˈkrepənsi/ | n. 不一致 | Even a small discrepancy between email, social and PR |
 | cannibalize | /ˈkænɪbəlaɪz/ | v. 自相蚕食 | We don't want one message to cannibalize the impact of another. |
-| localization | /ˌləʊkəlaɪˈzeɪʃn/ | n. 本地化 | Banner ads need localization for different regions. |
+| localization | /ˌləʊkəlaɪˈzeɪʃn/ | n. 本地化 | Banner ads are drafted but need localization |
 
 ### 语块（整体记忆，不拆单词）
 
@@ -50,7 +50,7 @@
 | social proof | 社交证明 | Social proof and shares will extend reach. |
 | call-to-action (CTA) | 行动号召按钮 | Every post has a CTA driving traffic to the landing page. |
 | escalation path | 问题升级路径 | We need clear escalation paths. |
-| lessons learned | 复盘沉淀 | Review KPIs, lessons learned, and feedback. |
+| lessons learned | 复盘沉淀 | Review KPIs, lessons learned, feedback from internal teams |
 
 ## 2. 句式
 
@@ -59,7 +59,7 @@
 | The main goal is to drive awareness and generate qualified leads. | 说明活动目标 | The main goal is to drive awareness and generate qualified leads. |
 | Does that align with what you've seen in the materials? | 确认理解一致 | Does that align with what you've seen in the materials? |
 | Do we have a clear owner for each type? | 明确任务归属 | Regarding content, do we have a clear owner for each type? |
-| If anything is delayed, we need to know immediately so we can reallocate resources. | 强调及时上报 | If anything is delayed, we need to know immediately. |
+| If anything is delayed, we need to know immediately so we can reallocate resources. | 强调及时上报 | we need to know immediately so we can reallocate resources. |
 | If CTR is below benchmark, we tweak copy or targeting immediately. | 数据不达标就调整 | If CTR is below benchmark, we tweak copy or targeting immediately. |
 | Let's map dependencies in a visual timeline. | 可视化任务依赖 | Let's map dependencies in a visual timeline. |
 | Any changes after that require leadership sign off. | 强调审批纪律 | Any changes after that require leadership sign off. |

@@ -15,8 +15,8 @@
 | duty | /ˈdjuːti/ | n. 职责（本集辨析：duty vs achievement） | Duties are what you were supposed to do. |
 | candidate | /ˈkændɪdət/ | n. 求职者 | Many candidates only talk about their duties. |
 | vague | /veɪɡ/ | adj. 模糊的、含糊的 | Mistake number one, being too vague. |
-| tense | /tens/ | n. 时态 | Using incorrect verb tenses—past for previous jobs, present for the current one. |
-| internship | /ˈɪntɜːnʃɪp/ | n. 实习 | You can talk about internships, projects, or volunteering. |
+| tense | /tens/ | n. 时态 | Yes, if you had previous jobs, you can talk about them using the past tense. |
+| internship | /ˈɪntɜːnʃɪp/ | n. 实习 | you can talk about internships, projects, or studies. |
 | revenue | /ˈrevənjuː/ | n. 收入 | …managing client accounts and increasing revenue. |
 | impact | /ˈɪmpækt/ | n. 影响、成效 | Responsibilities don't show impact. You need to talk about results. |
 | inquiry | /ɪnˈkwaɪəri/ | n. 询问 | I was responsible for managing customer inquiries. |
@@ -36,7 +36,7 @@
 | customer satisfaction | /ˈkʌstəmə ˌsætɪsˈfækʃn/ | 客户满意度（→ 见总词表，01 集已收） | I also improved customer satisfaction by 15%. |
 | social media | /ˈsəʊʃl ˈmiːdiə/ | 社交媒体 | I managed social media accounts and created content. |
 | feedback | /ˈfiːdbæk/ | n. 反馈（→ 见总词表，01 集已收） | I introduced a new feedback system. |
-| graduate | /ˈɡrædʒueɪt/ | v. 毕业 | I recently graduated, so I don't have full-time experience yet. |
+| graduate | /ˈɡrædʒueɪt/ | v. 毕业 | I recently graduated, and during my studies, |
 | schedule | /ˈʃedjuːl/ | n. 进度（→ 见总词表，04 集已收） | …completing a project two weeks ahead of schedule. |
 
 ### 语块（整体记忆，不拆单词）
@@ -46,8 +46,8 @@
 | I started my career as… | 讲职业起点 | I started my career as a sales assistant. |
 | I was responsible for… | 讲岗位职责 | I was responsible for managing customer inquiries and handling complaints. |
 | I worked closely with… | 讲团队协作 | I worked closely with the marketing team to develop campaigns. |
-| ahead of schedule | 提前完成 | I successfully completed a project two weeks ahead of schedule. |
-| One of my key achievements was… | 亮出核心成果 | One of my key achievements was increasing our online engagement by 30%. |
+| ahead of schedule | 提前完成 | I completed a project two weeks ahead of schedule. |
+| One of my key achievements was… | 亮出核心成果 | One of my main achievements was increasing our online engagement by 30%. |
 
 ## 2. 句式
 
@@ -62,8 +62,8 @@
 | One of my key achievements was increasing sales by 20%. | 讲成果 | One of my key achievements was increasing sales by 20% in one year. |
 | I increased sales by 15% in six months. | 数字化成果 | I increased sales by 15% in six months. |
 | Duties are what you were supposed to do. | 辨析 duty/achievement | Duties are what you were supposed to do. Achievements are what you did successfully. |
-| Use past tense for previous jobs. | 时态建议 | Use past tense for previous jobs and present tense for your current role. |
-| Instead of saying…, you should say… | 弱句改强句 | Instead of saying, I answered customer emails, say, I handled customer inquiries and improved response time by 30%. |
+| Use past tense for previous jobs. | 时态建议 | And present tense for your current role. |
+| Instead of saying…, you should say… | 弱句改强句 | For example, instead of saying something very complex, you can say, |
 | I believe my experience has prepared me well for this position. | 收尾自信句 | I believe my experience has prepared me well for this position. |
 
 ### 填空版（听完自测，关键短语挖空）

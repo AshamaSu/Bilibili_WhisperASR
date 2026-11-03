@@ -13,9 +13,9 @@
 | success | /səkˈses/ | n. 成功 | I had a small but nice success this morning. |
 | finally | /ˈfaɪnəli/ | adv. 终于 | I finally kept my promise to wake up early. |
 | proud | /praʊd/ | adj. 自豪的（本集高频搭配 be proud of） | I felt very proud of myself. |
-| recipe | /ˈresəpi/ | n. 食谱 | I followed the recipe very carefully. |
+| recipe | /ˈresəpi/ | n. 食谱 | She said it was very tasty and asked for the recipe. |
 | dough | /dəʊ/ | n. 面团 | The dough was too sticky. |
-| balance | /ˈbæləns/ | n. 平衡 | The hardest part was keeping my balance. |
+| balance | /ˈbæləns/ | n. 平衡 | Well, imagine a grown adult trying to balance on a bicycle for the first time. |
 | compliment | /ˈkɒmplɪmənt/ | n. 赞美 | She said it was very tasty and asked for the recipe—that's the best compliment. |
 | celebrate | /ˈselɪbreɪt/ | v. 庆祝 | Remember to celebrate your progress. |
 | milestone | /ˈmaɪlstəʊn/ | n. 里程碑 | That's a great milestone. |
@@ -35,17 +35,17 @@
 | elastic | /ɪˈlæstɪk/ | adj. 有弹性的 | After some time it felt smooth and elastic. |
 | embarrassing | /ɪmˈbærəsɪŋ/ | adj. 尴尬的 | It was funny, but also a little embarrassing. |
 | humbling | /ˈhʌmblɪŋ/ | adj. 令人谦卑的 | That must have been humbling. |
-| subtitle | /ˈsʌbtaɪtl/ | n. 字幕 | Understanding a movie without subtitles is progress. |
+| subtitle | /ˈsʌbtaɪtl/ | n. 字幕 | Or understanding a movie without subtitles. |
 | volunteer | /ˌvɒlənˈtɪə(r)/ | n./v. 志愿者；做志愿 | You can also mention volunteering. |
-| presentation | /ˌpreznˈteɪʃn/ | n. 演示（→ 见总词表，13 集已收） | Our team had to prepare a presentation for new clients. |
-| bicycle | /ˈbaɪsɪkl/ | n. 自行车 | I finally learned how to ride a bicycle. |
-| guitar | /ɡɪˈtɑː(r)/ | n. 吉他 | I'm trying to learn a new song on the guitar. |
+| presentation | /ˌpreznˈteɪʃn/ | n. 演示（→ 见总词表，13 集已收） | Our team had to prepare a presentation |
+| bicycle | /ˈbaɪsɪkl/ | n. 自行车 | I learned how to ride a bicycle. |
+| guitar | /ɡɪˈtɑː(r)/ | n. 吉他 | What are you doing with that guitar? |
 
 ### 语块（整体记忆，不拆单词）
 
 | 语块 | 使用场景 | 原文例句摘录 |
 |---|---|---|
-| I felt very proud of myself. | 表达自豪 | When I finished playing, I felt very proud of myself. |
+| I felt very proud of myself. | 表达自豪 | When I finished playing, I felt very proud. |
 | All my hard work paid off. | 努力得到回报 | It really did. All the practice paid off. |
 | I managed to do it. | 强调虽难但做到 | I managed to ride for 10 seconds. |
 | Well done! | 祝贺别人 | You can encourage them: Well done! |
@@ -61,9 +61,9 @@
 | I practiced several times. I even timed myself. | 描述准备过程 | I practiced several times. I even timed myself to make sure I didn't speak too long. |
 | All the practice paid off. | 努力见效 | It really did. All the practice paid off. |
 | After the meeting, my manager said, Great job today. | 转述他人认可 | After the meeting, my manager came to me and said, Great job today. |
-| Thank you. I worked hard on it. | 得体接受赞美 | Daniel, your presentation was excellent. — Thank you. I worked hard on it. |
+| Thank you. I worked hard on it. | 得体接受赞美 | And my name is Daniel. Thank you so much for joining us again. We are here to help you |
 | Success doesn't always mean something huge. | 概念句 | I think the important lesson is that success doesn't always mean something huge. |
-| I managed to ride for 10 seconds. | managed to 句型 | At first I could only ride for a few seconds, then I managed to ride for 10 seconds. |
+| I managed to ride for 10 seconds. | managed to 句型 | ride for a few seconds and then then I managed to ride for 10 seconds. That's progress. Then 20 |
 | After about 20 minutes, I started feeling more comfortable. | 描述渐入佳境 | After about 20 minutes, I started feeling more comfortable. |
 | Learning is a journey, not a race. | 收尾金句 | Remember, learning is a journey, not a race. |
 | Every small step is progress. | 收尾金句 | Every small step is progress. |

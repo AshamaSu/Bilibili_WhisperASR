@@ -14,32 +14,32 @@
 | interesting | /ˈɪntrəstɪŋ/ | adj. 有趣的（标题词；新收） | 10 Interesting Short Stories（篇名） |
 | client | /ˈklaɪənt/ | n. 客户（→ 见总词表，04 集已收） | Before our first client call at 11 a.m. |
 | strategic | /strəˈtiːdʒɪk/ | adj. 战略性的（→ 见总词表，08 集已收） | Sarah confidently presented a strategic proposal. |
-| accountability | /əˌkaʊntəˈbɪləti/ | n. 责任到位、问责（→ 见总词表，04 集已收） | Any unresolved client complaint was a breakdown in accountability or communication. |
-| operational | /ˌɒpəˈreɪʃənl/ | adj. 运营层面的（→ 见总词表，08 集已收） | Operational performance improved, and so did internal morale. |
-| confidence | /ˈkɒnfɪdəns/ | n. 自信（→ 见总词表，01 集已收） | She felt a surge of confidence. |
+| accountability | /əˌkaʊntəˈbɪləti/ | n. 责任到位、问责（→ 见总词表，04 集已收） | and unresolved client complaint was a breakdown in decision-making, accountability, or communication. |
+| operational | /ˌɒpəˈreɪʃənl/ | adj. 运营层面的（→ 见总词表，08 集已收） | And as operational performance improved, so did internal morale, because employees felt |
+| confidence | /ˈkɒnfɪdəns/ | n. 自信（→ 见总词表，01 集已收） | she felt a quiet confidence grounded not in optimism but in capability, |
 | crisis | /ˈkraɪsɪs/ | n. 危机（→ 见总词表，08 集已收） | The organization was not merely solving a crisis, but developing. |
-| trust | /trʌst/ | n. 信任（→ 见总词表，01 集已收） | Consistency was the foundation of trust in business. |
+| trust | /trʌst/ | n. 信任（→ 见总词表，01 集已收） | And consistency, Maya reminded her teams, was the foundation of trust in business |
 | continuous | /kənˈtɪnjuəs/ | adj. 持续的（→ 见总词表，03 集已收） | Continuous learning was essential for long-term success. |
-| disciplined | /ˈdɪsəplɪnd/ | adj. 有纪律的、有章法的（新收） | He asked the same disciplined questions in each meeting. |
+| disciplined | /ˈdɪsəplɪnd/ | adj. 有纪律的、有章法的（新收） | the same disciplined questions in each meeting, focusing on challenges, priorities, and expectations. |
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
-| leadership | /ˈliːdəʃɪp/ | n. 领导力（→ 见总词表，01 集已收） | Inconsistent leadership standards were visible. |
-| communication | /kəˌmjuːnɪˈkeɪʃn/ | n. 沟通（→ 见总词表，01 集已收） | Communication skills carried her through the year. |
+| leadership | /ˈliːdəʃɪp/ | n. 领导力（→ 见总词表，01 集已收） | on investor slides but had created operational fragmentation, inconsistent leadership standards, |
+| communication | /kəˌmjuːnɪˈkeɪʃn/ | n. 沟通（→ 见总词表，01 集已收） | her confidence and communication skills. |
 | etiquette | /ˈetɪket/ | n. 礼仪、规矩 | She learned the nuances of corporate etiquette. |
-| stakeholder | /ˈsteɪkhəʊldə/ | n. 利益相关方 | Balancing multiple stakeholders required more than technical skills. |
-| fragmentation | /ˌfræɡmenˈteɪʃn/ | n. 割裂、碎片化 | It had created operational fragmentation and cultural fragmentation. |
-| diagnostic | /ˌdaɪəɡˈnɒstɪk/ | adj. 诊断性的 | A clear diagnostic summary framed the situation as an alignment issue. |
-| renewal | /rɪˈnjuːəl/ | n. 更新、重生 | The organization transformed not by crisis, but by renewal. |
+| stakeholder | /ˈsteɪkhəʊldə/ | n. 利益相关方 | She quickly realized that balancing multiple stakeholders required not only technical |
+| fragmentation | /ˌfræɡmenˈteɪʃn/ | n. 割裂、碎片化 | on investor slides but had created operational fragmentation, inconsistent leadership standards, |
+| diagnostic | /ˌdaɪəɡˈnɒstɪk/ | adj. 诊断性的 | a clear diagnostic summary that framed the situation as an organizational alignment issue |
+| renewal | /rɪˈnjuːəl/ | n. 更新、重生 | by crisis, but by renewal. And as Daniel stood once again in the executive conference room, |
 | morale | /məˈrɑːl/ | n. 士气 | Employee morale was dangerously low. |
-| quarterly | /ˈkwɔːtəli/ | adj. 季度的 | The meeting discussed quarterly sales figures and client feedback. |
+| quarterly | /ˈkwɔːtəli/ | adj. 季度的 | The team meeting began, discussing quarterly sales figures, client feedback, and upcoming |
 | defensive | /dɪˈfensɪv/ | adj. 防御性的、辩解的 | Language that balanced accountability with confidence, avoiding defensive explanations. |
 | reputation | /ˌrepjuˈteɪʃn/ | n. 声誉 | A development that threatened both revenue and reputation. |
-| resilience | /rɪˈzɪliəns/ | n. 韧性 | Business demanded discipline, communication, and resilience. |
-| narrative | /ˈnærətɪv/ | n. 叙事、说法 | Narrative management proved essential when news of the acquisition broke. |
-| acquisition | /ˌækwɪˈzɪʃn/ | n. 收购 | News of the hostile acquisition attempt spread quickly. |
+| resilience | /rɪˈzɪliəns/ | n. 韧性 | uncertainty with discipline, communication, and resilience—a lesson he had learned early |
+| narrative | /ˈnærətɪv/ | n. 叙事、说法 | And this narrative management proved essential when news of the hostile acquisition attempt |
+| acquisition | /ˌækwɪˈzɪʃn/ | n. 收购 | And this narrative management proved essential when news of the hostile acquisition attempt |
 | mentorship | /ˈmentɔːʃɪp/ | n. 导师制 | We have monthly training sessions and mentorship programs. |
 
 ### 语块（整体记忆，不拆单词）
@@ -49,7 +49,7 @@
 | build trust | 建立信任 | Listening during meetings to understand different perspectives and build trust with clients. |
 | continuous learning | 持续学习 | Knowing that continuous learning was essential for long-term success. |
 | corporate world | 职场、企业圈 | Strong communication is key to advancing in the corporate world. |
-| decision ownership | 决策责任归属 | Standardized protocols, decision ownership, and performance review discipline. |
+| decision ownership | 决策责任归属 | standardized communication protocols, decision ownership, and performance review discipline. |
 | lessons learned | 复盘沉淀 | Sharing success stories, reflecting on lessons learned, and planning goals. |
 
 ## 2. 句式
@@ -57,7 +57,7 @@
 | 句式 | 使用场景 | 原文例句 |
 |---|---|---|
 | She learned the nuances of corporate etiquette, including writing concise emails. | 描述学习职场细节 | She learned the nuances of corporate etiquette, including writing concise emails. |
-| She quickly realized that balancing multiple stakeholders required more than technical skills. | 点出认知升级 | She quickly realized that balancing multiple stakeholders required more than technical skills. |
+| She quickly realized that balancing multiple stakeholders required more than technical skills. | 点出认知升级 | She quickly realized that balancing multiple stakeholders required not only technical |
 | Continuous learning was essential for long-term success. | 强调持续学习 | Continuous learning was essential for long-term success. |
 | Strong communication is key to advancing in the corporate world. | 强调沟通价值 | Strong communication is key to advancing in the corporate world. |
 | She learned to remain calm under pressure. | 压力下的自我管理 | She learned to remain calm under pressure. |

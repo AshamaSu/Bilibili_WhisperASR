@@ -8,13 +8,13 @@
 |---|---|---|---|
 | essential | /ɪˈsenʃl/ | adj. 至关重要的（标题词；→ 见总词表，01 集已收） | Strategic foresight in business planning is essential. |
 | business | /ˈbɪznəs/ | n. 商业（标题词；→ 见总词表，01 集已收） | Advanced business English phrases for confident conversation. |
-| english | /ˈɪŋɡlɪʃ/ | n. 英语（标题词；→ 见总词表，01 集已收） | Advanced Business English Conversation（篇名） |
+| english | /ˈɪŋɡlɪʃ/ | n. 英语（标题词；→ 见总词表，01 集已收） | of sources here, all of them focused on advanced business English phrases for |
 | conversation | /ˌkɒnvəˈseɪʃn/ | n. 对话（标题词；→ 见总词表，01 集已收） | Phrases for confident conversation. |
 | advanced | /ədˈvɑːnst/ | adj. 高级的（标题词；新收） | Are you at an advanced level?（篇名） |
 | level | /ˈlevl/ | n. 水平（标题词；→ 见总词表，02 集已收） | Are you at an ADVANCED level?（篇名） |
 | phrase | /freɪz/ | n. 短语、句式 | Just choose five phrases a day. |
 | strategy | /ˈstrætədʒi/ | n. 策略 | We should reconsider our investment strategies. |
-| mitigate | /ˈmɪtɪɡeɪt/ | v. 缓解、降低（风险） | Contingency plans are essential to mitigate risks. |
+| mitigate | /ˈmɪtɪɡeɪt/ | v. 缓解、降低（风险） | We are utilizing strategic foresight to develop robust contingency plans that will mitigate risk. |
 | leverage | /ˈliːvərɪdʒ/ | v. 杠杆式放大利用 | We need to leverage our core competencies. |
 | streamline | /ˈstriːmlaɪn/ | v. 精简（流程） | It is imperative that we streamline our operations. |
 | imperative | /ɪmˈperətɪv/ | adj. 势在必行的 | The implementation of robust quality control measures is imperative. |
@@ -26,19 +26,19 @@
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
-| synergy | /ˈsɪnədʒi/ | n. 协同效应 | Exploring synergies between AI and human creativity. |
-| feasibility | /ˌfiːzəˈbɪləti/ | n. 可行性 | A detailed feasibility study will help us understand the risks. |
+| synergy | /ˈsɪnədʒi/ | n. 协同效应 | our listeners into corporate robots. Please don't. I don't want people walking around saying synergy every three seconds. Just to you know sound smart. That actually backfires. |
+| feasibility | /ˌfiːzəˈbɪləti/ | n. 可行性 | the new product line and this one. A detailed feasibility study will help us understand the |
 | volatility | /ˌvɒləˈtɪləti/ | n. 剧烈波动 | In light of the recent market volatility. |
-| foresight | /ˈfɔːsaɪt/ | n. 远见 | Strategic foresight is how you distinguish yourself. |
+| foresight | /ˈfɔːsaɪt/ | n. 远见 | No, that's just firefighting and this brings us to a pair of phrases from our source that are all about foresight and risks |
 | contingency | /kənˈtɪndʒənsi/ | n. 应急预案 | Developing robust contingency plans. |
 | credibility | /ˌkredəˈbɪləti/ | n. 可信度 | You actually damage your credibility. |
 | scrutinize | /ˈskruːtənaɪz/ | v. 严格审视 | We must scrutinize all operational aspects. |
 | foster | /ˈfɒstə/ | v. 培养、营造 | By fostering interdisciplinary collaboration. |
-| compliance | /kəmˈplaɪəns/ | n. 合规 | To ensure compliance, all team members must be familiar with the standards. |
-| silo | /ˈsaɪləʊ/ | n. 部门孤岛 | It directly tackles the huge corporate problem of silos. |
+| compliance | /kəmˈplaɪəns/ | n. 合规 | The phrase is, to ensure compliance, all team members must be familiar with the new regulatory |
+| silo | /ˈsaɪləʊ/ | n. 部门孤岛 | the huge corporate problem of silos. |
 | interdisciplinary | /ˌɪntəˈdɪsəplɪnəri/ | adj. 跨学科的 | Fostering interdisciplinary collaboration. |
-| well-being | /ˌwelˈbiːɪŋ/ | n. 身心健康 | Prioritizing employee well-being is a key driver of productivity. |
-| positioning | /pəˈzɪʃənɪŋ/ | n. 市场定位 | Positioning is answering: who are we compared to the competition? |
+| well-being | /ˌwelˈbiːɪŋ/ | n. 身心健康 | Prioritizing employee well-being has proven to be a key driver of productivity. |
+| positioning | /pəˈzɪʃənɪŋ/ | n. 市场定位 | Positioning is about answering the question, who are we compared to them, the competition? |
 | gatekeeping | /ˈɡeɪtkiːpɪŋ/ | n. 门槛把持 | It's linguistic gatekeeping. |
 | divestiture | /daɪˈvestʃə/ | n. 资产剥离 | We should consider strategic divestitures. |
 | competency | /ˈkɒmpɪtənsi/ | n. 核心能力 | Our core competencies. |
@@ -61,7 +61,7 @@
 | We need to capitalize on our core competencies to drive sustainable growth. | 战略聚焦优势 | We need to capitalize on our core competencies to drive sustainable growth moving forward. |
 | Developing robust contingency plans is essential to mitigate risks associated with market fluctuations. | 讲风险预案 | Developing robust contingency plans is essential to mitigate risks. |
 | It is imperative that we streamline our operations to remain competitive. | 强调势在必行 | It is imperative that we streamline our operations to remain competitive in this sector. |
-| The integration of AI requires careful consideration of ethical implications. | 提伦理审慎 | The integration of artificial intelligence requires careful consideration of ethical implications. |
+| The integration of AI requires careful consideration of ethical implications. | 提伦理审慎 | The integration of artificial intelligence into our systems requires careful consideration of ethical implications |
 | Is this solution scalable? | 追问能否规模化 | Will this blow up in our faces if we actually get successful? |
 | I recommend we conduct a thorough market analysis before launching the new product line. | 提议先做调研 | I recommend we conduct a thorough market analysis before launching the new product line. |
 | A detailed feasibility study will help us understand the potential risks and benefits. | 论证可行性 | A detailed feasibility study will help us understand the potential risks and benefits. |

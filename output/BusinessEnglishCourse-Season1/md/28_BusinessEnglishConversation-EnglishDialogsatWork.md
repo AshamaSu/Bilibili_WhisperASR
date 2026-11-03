@@ -35,7 +35,7 @@
 | flag | /flæɡ/ | v. 标记提醒 | Please flag any risks you notice early. |
 | trust | /trʌst/ | n. 信任（→ 见总词表，01 集已收） | …that builds trust and lets the team pivot on a dime. |
 | manager | /ˈmænɪdʒə(r)/ | n. 经理（→ 见总词表，01 集已收） | In a corporation, managers are the homeowners. |
-| document | /ˈdɒkjumənt/ | n. 文档（→ 见总词表，01 集已收） | A detailed handoff document. |
+| document | /ˈdɒkjumənt/ | n. 文档（→ 见总词表，01 集已收） | And the source asks, do we need a live handoff call or is the document enough? |
 | transcripts | /ˈtrænskrɪpts/ | n. 转写稿 | These are essentially raw transcripts. |
 | section | /ˈsekʃn/ | n. 部分（→ 见总词表，04 集已收） | Section 是文档分段用词。 |
 
@@ -46,7 +46,7 @@
 | pregame engineering | 会前精心准备 | Let's look at another example of this pregame engineering. |
 | in case they push back | 防对方反驳 | We can also prepare backup examples in case they push back. |
 | surface blockers early | 提前暴露阻碍 | Help us surface blockers early. |
-| handoff document | 交接文档 | It starts with preparing a really detailed handoff document. |
+| handoff document | 交接文档 | And the source asks, do we need a live handoff call or is the document enough? |
 | blow up into a crisis | 事态恶化为危机 | …dealing with it before it blows up into a crisis. |
 
 ## 2. 句式

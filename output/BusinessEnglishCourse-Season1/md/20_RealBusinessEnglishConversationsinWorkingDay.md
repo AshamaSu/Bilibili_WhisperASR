@@ -18,7 +18,7 @@
 | brainstorming | /ˈbreɪnstɔːmɪŋ/ | n. 头脑风暴 | I enjoy brainstorming new ideas. |
 | traffic | /ˈtræfɪk/ | n. 路况、车流 | I usually leave early to avoid traffic. |
 | planner | /ˈplænə(r)/ | n. 计划本 | While the computer is starting, I check my planner. |
-| cafeteria | /ˌkæfəˈtɪəriə/ | n. 自助餐厅 | Sometimes I eat in the office cafeteria. |
+| cafeteria | /ˌkæfəˈtɪəriə/ | n. 自助餐厅 | Sometimes in the office cafeteria. |
 | takeout | /ˈteɪkaʊt/ | n. 外卖 | I sometimes order takeout. |
 | grocery | /ˈɡrəʊsəri/ | n. 食品杂货 | On Saturday morning, I went to the grocery store. |
 
@@ -27,7 +27,7 @@
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
 | usually | /ˈjuːʒuəli/ | adv. 通常（A2 降级） | I usually wake up at 7 a.m. |
-| sometimes | /ˈsʌmtaɪmz/ | adv. 有时（A2 降级） | Sometimes deadlines are close. |
+| sometimes | /ˈsʌmtaɪmz/ | adv. 有时（A2 降级） | Sometimes when deadlines are close. |
 | agenda | /əˈdʒendə/ | n. 议程（→ 见总词表，09 集已收） | We always prepare an agenda before the meeting. |
 | feedback | /ˈfiːdbæk/ | n. 反馈（→ 见总词表，01 集已收） | Feedback helps me understand what I can improve. |
 | deadline | /ˈdedlaɪn/ | n. 截止日期（→ 见总词表，06 集已收） | Deadlines can be stressful. |
@@ -43,8 +43,8 @@
 
 | 语块 | 使用场景 | 原文例句摘录 |
 |---|---|---|
-| a typical work day | 一个普通工作日 | Let's talk about a typical workday in an office. |
-| I keep track of (deadlines) | 跟进、盯进度 | I keep track of deadlines and communicate with different teams. |
+| a typical work day | 一个普通工作日 | So let's start with a conversation about a typical workday in an office. |
+| I keep track of (deadlines) | 跟进、盯进度 | Yes, I keep track of deadlines and communicate with the different teams. |
 | take a coffee break | 喝咖啡休息 | We usually take a short coffee break. |
 | arrive at work | 到岗 | What happens when you arrive at work? |
 | prepare for the week | 为下周做准备 | Sunday evening is when I prepare for the week. |
@@ -54,15 +54,15 @@
 | 句式 | 使用场景 | 原文例句 |
 |---|---|---|
 | How are you today? I'm doing well, but a little busy. | 开场寒暄 | I'm doing well, thank you. I feel a little busy, but it is a good kind of busy. |
-| I start work at 9 and finish around 5.30. | 讲作息 | I start work at 9 a.m. … Around 5.30 p.m. |
+| I start work at 9 and finish around 5.30. | 讲作息 | What time does your work day usually start? |
 | How do you go to work? I take the subway. | 问通勤方式 | How do you go to work? I take the subway. |
 | My commute takes about 40 minutes. | 讲通勤时长 | How long does your commute take? About 40 minutes. |
-| First, I greet my colleagues and check my emails. | 讲到岗流程 | First, I greet my colleagues. Then I turn on my computer and open my email. |
+| First, I greet my colleagues and check my emails. | 讲到岗流程 | I turn on my computer and open my email. |
 | We have a short meeting every morning. | 讲例会 | Yes, we have a short meeting every morning. |
 | We discuss projects, progress, and future plans. | 讲会议内容 | We discuss projects, progress, and future plans. |
 | I keep track of deadlines and communicate with different teams. | 讲岗位职责 | I keep track of deadlines and communicate with the different teams. |
 | Deadlines can be stressful. | 谈工作压力 | Yes, especially when many tasks are due at the same time. |
-| What does your typical day look like? | 问别人日常 | Here is our question: what does your typical day look like? |
+| What does your typical day look like? | 问别人日常 | What does your typical day look like? |
 | I usually bring lunch from home. | 讲午饭习惯 | I often bring lunch from home. That saves money. |
 | Sunday evening is when I prepare for the week. | 讲周日备下周 | Sunday evening is when I prepare for the week. |
 

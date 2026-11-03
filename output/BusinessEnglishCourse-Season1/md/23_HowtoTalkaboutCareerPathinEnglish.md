@@ -13,7 +13,7 @@
 | transitioned | /trænˈzɪʃnd/ | v. 转型、转岗 | Eventually, I transitioned into digital marketing, specializing in data analytics. |
 | promoted | /prəˈməʊtɪd/ | v. 晋升 | After two years, I was promoted to marketing executive. |
 | gained | /ɡeɪnd/ | v. 获得 | …where I gained hands-on experience in financial reporting. |
-| responsibilities | /rɪˌspɒnsəˈbɪlətiz/ | n. 职责 | It allowed me to take on more responsibilities. |
+| responsibilities | /rɪˌspɒnsəˈbɪlətiz/ | n. 职责 | and take on more strategic responsibilities. |
 | goals | /ɡəʊlz/ | n. 目标 | My long-term goal is to move into executive management. |
 | pivot | /ˈpɪvət/ | v./n. 转向、转行 | After five years in finance, I decided to pivot into the technology sector. |
 | hands-on | /ˌhændz ˈɒn/ | adj. 实际动手的 | …as a logistics coordinator, where I gained hands-on experience. |
@@ -32,12 +32,12 @@
 | industries | /ˈɪndəstriz/ | n. 行业 | That's important, especially if you switched industries. |
 | motivation | /ˌməʊtɪˈveɪʃn/ | n. 动机 | That explanation highlights motivation and preparation. |
 | interviews | /ˈɪntəvjuːz/ | n. 面试（→ 见总词表，01 集已收） | Let's role-play an interview situation. |
-| direction | /dəˈrekʃn/ | n. 方向（→ 见总词表，02 集已收） | A clear direction makes your story easier to follow. |
-| leadership | /ˈliːdəʃɪp/ | n. 领导力（→ 见总词表，01 集已收） | Leadership skills grow with each role. |
-| client | /ˈklaɪənt/ | n. 客户（→ 见总词表，01 集已收） | …which allowed me to manage client relationships. |
+| direction | /dəˈrekʃn/ | n. 方向（→ 见总词表，02 集已收） | And finally, you explain your current role and future direction. |
+| leadership | /ˈliːdəʃɪp/ | n. 领导力（→ 见总词表，01 集已收） | I want to grow into a leadership role and manage larger teams. |
+| client | /ˈklaɪənt/ | n. 客户（→ 见总词表，01 集已收） | After two years, I was promoted to marketing executive, which allowed me to manage client |
 | long-term | /ˌlɒŋ ˈtɜːm/ | adj. 长期的（→ 见总词表，02 集已收） | My long-term goal is to move into executive management. |
 | strategic | /strəˈtiːdʒɪk/ | adj. 战略性的（→ 见总词表，08 集已收） | …skill development, and strategic decisions. |
-| growth | /ɡrəʊθ/ | n. 成长（→ 见总词表，01 集已收） | Growth comes from taking on new challenges. |
+| growth | /ɡrəʊθ/ | n. 成长（→ 见总词表，01 集已收） | Because they want growth or new challenges. |
 
 ### 语块（整体记忆，不拆单词）
 
@@ -54,7 +54,7 @@
 | 句式 | 使用场景 | 原文例句 |
 |---|---|---|
 | I started my career in… as… | 讲职业起点 | Certainly, I started my career in operations as a logistics coordinator. |
-| After two years, I was promoted to… | 讲晋升 | After two years, I was promoted to marketing executive, which allowed me to manage client relationships. |
+| After two years, I was promoted to… | 讲晋升 | After two years, I was promoted to marketing executive, which allowed me to manage client |
 | Eventually, I transitioned into… | 讲转型 | Eventually, I transitioned into digital marketing, specializing in data analytics. |
 | After five years in…, I decided to pivot into… | 讲转行 | After five years in finance, I decided to pivot into the technology sector. |
 | A career path includes promotions, industry changes, skill development, and strategic decisions. | 定义概念 | It includes promotions, industry changes, skill development, and strategic decisions. |

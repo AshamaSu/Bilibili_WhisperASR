@@ -17,8 +17,8 @@
 | concern | /kənˈsɜːn/ | n. 顾虑、担忧（→ 见总词表，01 集已收） | That's a valid concern. |
 | transparency | /trænsˈpærənsi/ | n. 透明公开（→ 见总词表，03 集已收） | How transparent should we be internally? |
 | containment | /kənˈteɪnmənt/ | n. 控制事态、止损（新收） | We need to focus on containment. |
-| governance | /ˈɡʌvənəns/ | n. 治理结构（新收） | From a governance and compliance perspective, we need clear oversight. |
-| reputational | /ˌrepjuˈteɪʃənl/ | adj. 声誉上的（→ 见总词表，34 集已收） | The board is understandably concerned about reputational fallout. |
+| governance | /ˈɡʌvənəns/ | n. 治理结构（新收） | From a governance and compliance perspective, |
+| reputational | /ˌrepjuˈteɪʃənl/ | adj. 声誉上的（→ 见总词表，34 集已收） | Speaking of the board, they are understandably concerned about reputational fallout. |
 | breach | /briːtʃ/ | n. 数据泄露、违规（→ 见总词表，33 集已收） | History is full of companies that survived breaches. |
 | disruption | /dɪsˈrʌpʃn/ | n. 中断、扰乱（→ 见总词表，22 集已收） | The message should acknowledge the disruption. |
 
@@ -26,12 +26,12 @@
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
-| incident | /ˈɪnsɪdənt/ | n. 事故、事件（→ 见总词表，26 集已收） | We should treat it as a serious incident. |
+| incident | /ˈɪnsɪdənt/ | n. 事故、事件（→ 见总词表，26 集已收） | this incident raises serious concerns. |
 | recovery | /rɪˈkʌvəri/ | n. 恢复（→ 见总词表，08 集已收） | We need to focus on containment, communication, and recovery. |
-| fallout | /ˈfɔːlaʊt/ | n. （负面）后果、余波（新收） | The board is concerned about reputational fallout. |
+| fallout | /ˈfɔːlaʊt/ | n. （负面）后果、余波（新收） | Speaking of the board, they are understandably concerned about reputational fallout. |
 | protocol | /ˈprəʊtəkɒl/ | n. 规程 | I'd also add internal communication protocols. |
-| contingency | /kənˈtɪndʒənsi/ | n. 应急方案（→ 见总词表，33 集已收） | This is a contingency plan, not a decision. |
-| stakeholder | /ˈsteɪkhəʊldə/ | n. 利益相关方（→ 见总词表，01 集已收） | External stakeholders will judge how we handle this. |
+| contingency | /kənˈtɪndʒənsi/ | n. 应急方案（→ 见总词表，33 集已收） | pricing implications and contingency plans. |
+| stakeholder | /ˈsteɪkhəʊldə/ | n. 利益相关方（→ 见总词表，01 集已收） | That's good, but containment alone won't reassure stakeholders. |
 | blame | /bleɪm/ | n./v. 归咎（→ 见总词表，04 集已收） | Assigning blame during an ongoing crisis is counterproductive. |
 | speculation | /ˌspekjuˈleɪʃn/ | n. 猜测、传言（新收） | Silence or vague communication will only fuel speculation. |
 | oversight | /ˈəʊvəsaɪt/ | n. 监督（新收） | A task force would allow us to act quickly while maintaining oversight. |
@@ -39,7 +39,7 @@
 | accountable | /əˈkaʊntəbl/ | adj. 负有责任的（新收） | A calm, accountable tone goes a long way. |
 | corrective | /kəˈrektɪv/ | adj. 纠正性的（新收） | Acknowledgement, corrective action, and consistency over time. |
 | allocate | /ˈæləkeɪt/ | v. 分配（资源） | Keep technical resources fully allocated to root cause resolution. |
-| resilience | /rɪˈzɪliəns/ | n. 韧性 | Invest in infrastructure resilience and staff training. |
+| resilience | /rɪˈzɪliəns/ | n. 韧性 | in infrastructure resilience, staff training, and contingency planning. |
 
 ### 语块（整体记忆，不拆单词）
 
@@ -49,7 +49,7 @@
 | task force | 专项应急小组 | I'd like to suggest setting up a crisis task force. |
 | root cause | 根本原因 | Keep technical resources fully allocated to root cause resolution. |
 | worst case scenario | 最坏情况预案 | We should prepare for worst case outcomes, such as prolonged supplier disruption. |
-| reputational fallout | 声誉受损的余波 | The board is understandably concerned about reputational fallout. |
+| reputational fallout | 声誉受损的余波 | Speaking of the board, they are understandably concerned about reputational fallout. |
 
 ## 2. 句式
 

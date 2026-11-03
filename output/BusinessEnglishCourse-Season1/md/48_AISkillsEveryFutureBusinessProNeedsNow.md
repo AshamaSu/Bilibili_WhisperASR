@@ -15,23 +15,23 @@
 | innovation | /ˌɪnəˈveɪʃn/ | n. 创新（→ 见总词表，03 集已收） | Customer acquisition costs and innovation pipeline velocity should influence budget. |
 | operational | /ˌɒpəˈreɪʃənl/ | adj. 运营的（→ 见总词表，08 集已收） | Let's move to the second pillar, operational excellence and scalability. |
 | leadership | /ˈliːdəʃɪp/ | n. 领导力（→ 见总词表，01 集已收） | Our leadership pipeline, for example, still favors experience over adaptability. |
-| strategic | /strəˈtiːdʒɪk/ | adj. 战略性的（→ 见总词表，08 集已收） | We should begin by redefining our core strategic pillars for the next cycle. |
+| strategic | /strəˈtiːdʒɪk/ | adj. 战略性的（→ 见总词表，08 集已收） | Then perhaps we should begin by redefining our core strategic pillars for the next |
 | talent | /ˈtælənt/ | n. 人才（→ 见总词表，24 集已收） | Talent readiness is another concern. |
-| adoption | /əˈdɒpʃn/ | n. 采用、落地（→ 见总词表，27 集已收） | Predictive analytics adoption lags behind the digitization work. |
+| adoption | /əˈdɒpʃn/ | n. 采用、落地（→ 见总词表，27 集已收） | The fly chain digitization is progressing, but predictive analytics adoption lags. |
 | alignment | /əˈlaɪnmənt/ | n. 对齐、协同（→ 见总词表，01 集已收） | The council ensures alignment, avoids duplication, and validates business impact. |
-| predictive | /prɪˈdɪktɪv/ | adj. 预测性的（→ 见总词表，23 集已收） | Predictive analytics can prevent bottlenecks, but real-time visibility is essential. |
+| predictive | /prɪˈdɪktɪv/ | adj. 预测性的（→ 见总词表，23 集已收） | predictive analytics can prevent bottlenecks but real-time visibility is |
 | efficiency | /ɪˈfɪʃnsi/ | n. 效率（→ 见总词表，01 集已收） | Some regions operate with world-class efficiency. |
 
 ### 补充词（听中查阅；已收词与降级词归此）
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
-| employee | /ɪmˈplɔɪiː/ | n. 员工（→ 见总词表，02 集已收） | AI tools evolve quickly, so employees must be open to learning continuously. |
-| initiative | /ɪˈnɪʃətɪv/ | n. 举措、项目（→ 见总词表，01 集已收） | Each initiative requires a detailed roadmap, clear ownership, and risk resilience. |
-| metric | /ˈmetrɪk/ | n. 指标（→ 见总词表，23 集已收） | And reporting must be transparent. Internal metrics matter here. |
+| employee | /ɪmˈplɔɪiː/ | n. 员工（→ 见总词表，02 集已收） | Organizations want employees who can use AI responsibly |
+| initiative | /ɪˈnɪʃətɪv/ | n. 举措、项目（→ 见总词表，01 集已收） | discipline, and risk resilience. Each initiative requires a detailed roadmap, |
+| metric | /ˈmetrɪk/ | n. 指标（→ 见总词表，23 集已收） | purchase behavior, channel preference, journey moments, loyalty triggers, and satisfaction metrics. |
 | pillar | /ˈpɪlə/ | n. 支柱（战略支柱）（→ 见总词表，27 集已收） | I propose four strategic pillars. |
 | simulation | /ˌsɪmjuˈleɪʃn/ | n. 模拟演练（→ 见总词表，26 集已收） | Scenario testing is key. We need simulations. |
-| outcome | /ˈaʊtkʌm/ | n. 结果、产出（→ 见总词表，01 集已收） | We measure accuracy of predictions, usage frequency, and impact on outcomes. |
+| outcome | /ˈaʊtkʌm/ | n. 结果、产出（→ 见总词表，01 集已收） | If leaders' bonuses depend partially on ESG outcomes, the organization takes it seriously. |
 | collaboration | /kəˌlæbəˈreɪʃn/ | n. 协作（→ 见总词表，01 集已收） | Leadership reinforcement is crucial to signal that collaboration is non-negotiable. |
 | literacy | /ˈlɪtərəsi/ | n. 素养（data literacy 数据素养；新收） | Another important skill is data literacy. |
 | succession planning | /səkˈseʃn ˈplænɪŋ/ | n. 继任规划（新收） | We need to discuss succession planning in executive roles. |
@@ -44,7 +44,7 @@
 | 语块 | 使用场景 | 原文例句摘录 |
 |---|---|---|
 | generative ai | 生成式人工智能 | Today, we're focusing on how Generative AI is transforming the workplace. |
-| ai tools | AI 工具 | AI tools evolve quickly, so employees must be open to learning continuously. |
+| ai tools | AI 工具 | is becoming a top priority too. AI tools evolve quickly, so employees must be open |
 | predictive analytics | 预测性分析 | Predictive analytics, generative AI, and automated reporting can unlock efficiency. |
 | strategic pillars | 战略支柱 | Then perhaps we should begin by redefining our core strategic pillars. |
 | operational excellence | 运营卓越 | Let's move to the second pillar, operational excellence and scalability. |

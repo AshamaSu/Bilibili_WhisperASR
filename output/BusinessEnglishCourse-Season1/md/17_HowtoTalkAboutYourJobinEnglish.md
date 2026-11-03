@@ -12,7 +12,7 @@
 | title | /ˈtaɪtl/ | n. 职衔、头衔 | Don't stop at your job title—add one sentence about what you do. |
 | manage | /ˈmænɪdʒ/ | v. 管理 | I manage cross-functional teams and ensure projects are delivered on time. |
 | company | /ˈkʌmpəni/ | n. 公司 | I work for a multinational technology company. |
-| analyze | /ˈænəlaɪz/ | v. 分析 | I analyze market trends to help clients make better decisions. |
+| analyze | /ˈænəlaɪz/ | v. 分析 | I work for an investment firm and I analyze market trends to help clients make better |
 | industry | /ˈɪndəstri/ | n. 行业 | I work in the finance industry. |
 | specialize | /ˈspeʃəlaɪz/ | v. 专攻 | I specialize in digital marketing and campaign management. |
 | oversee | /ˌəʊvəˈsiː/ | v. 监督、统筹 | I oversee daily business activities and ensure efficiency. |
@@ -37,7 +37,7 @@
 | stressful | /ˈstresfʊl/ | adj. 有压力的 | It can be stressful during busy periods. |
 | promotion | /prəˈməʊʃn/ | n. 晋升（promote→02 集已收） | I'm working towards a promotion. |
 | leadership | /ˈliːdəʃɪp/ | n. 领导力 | I want to develop my skills in leadership. |
-| HR (human resources) | /ˌeɪtʃ ˈɑː(r)/ | 人力资源 | I work in HR. I handle recruitment. |
+| HR (human resources) | /ˌeɪtʃ ˈɑː(r)/ | 人力资源 | I'm a human resources deshlist. |
 | work environment | /ˈwɜːk ɪnˌvaɪrənmənt/ | 工作环境 | I like the work environment. |
 | flexibility | /ˌfleksəˈbɪləti/ | n. 弹性（→ 见总词表，06 集已收） | I love the flexibility of my job. |
 
@@ -46,7 +46,7 @@
 | 语块 | 使用场景 | 原文例句摘录 |
 |---|---|---|
 | What do you do? | 问职业最自然的说法 | So, what do you do? |
-| I work at / for / in… | 地点/公司/行业三介词 | I work at a bank. I work for HSBC. I work in finance. |
+| I work at / for / in… | 地点/公司/行业三介词 | And I work for HSBC. |
 | My main responsibility is to… | 讲核心职责 | My main responsibility is to manage client accounts. |
 | I'm working towards… | 讲在朝某目标努力 | I'm working towards a promotion. |
 | I find my job rewarding. | 表达职业满足感 | You can also say, I find my job rewarding. |
@@ -58,8 +58,8 @@
 | What do you do? | 问职业（比 what is your job 自然） | The most common question is, what do you do? |
 | I'm a project manager. I manage teams and coordinate projects. | 报职位+一句职责 | I'm a project manager. I manage teams and coordinate projects. |
 | I work for a multinational company. | 讲雇主（for+公司） | I work for a multinational technology company. |
-| My main responsibilities include conducting training sessions. | 列举职责 | My main responsibilities include conducting training sessions and coaching clients. |
-| This role involves coordinating with different departments. | 概述岗位内容 | This role involves coordinating with different departments and managing timelines. |
+| My main responsibilities include conducting training sessions. | 列举职责 | My main responsibilities include conducting training sessions, preparing lesson materials |
+| This role involves coordinating with different departments. | 概述岗位内容 | This role involves coordinating with different departments, managing timelines, and ensuring |
 | I specialize in digital marketing. | 讲专长 | I specialize in digital marketing and campaign management. |
 | One challenge is managing tight deadlines. | 委婉谈挑战 | One challenge is managing tight deadlines. |
 | I enjoy solving problems and working with different teams. | 谈喜欢的部分 | I enjoy solving problems and working with different teams. |

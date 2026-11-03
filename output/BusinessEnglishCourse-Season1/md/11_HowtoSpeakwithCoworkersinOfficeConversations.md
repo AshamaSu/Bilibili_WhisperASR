@@ -17,7 +17,7 @@
 | chat | /tʃæt/ | v./n. 闲聊 | …chatting during lunch… |
 | grab | /ɡræb/ | 熟词僻义：**顺便吃/买**（非"抓住"） | Do you want to grab lunch…? |
 | free | /friː/ | 熟词僻义：**有空的**（非"自由的"） | …or are you free for coffee later? |
-| handle | /ˈhændl/ | v. 处理、应对 | …and even handling small talk. |
+| handle | /ˈhændl/ | v. 处理、应对 | That's how you handle it politely without any awkwardness. |
 
 ### 补充词（听中查阅；已收词与降级词归此）
 

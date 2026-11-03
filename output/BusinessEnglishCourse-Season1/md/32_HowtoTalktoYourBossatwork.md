@@ -9,7 +9,7 @@
 | talk | /tɔːk/ | v. 交谈（标题词；A2 熟词，硬性入选） | How to Talk to Your Boss at Work（篇名） |
 | boss | /bɒs/ | n. 老板（标题词；→ 见总词表，05 集已收） | Talking to your boss can be challenging. |
 | work | /wɜːk/ | n. 工作（标题词；A2 熟词，硬性入选） | Business English at Work（篇名） |
-| deadline | /ˈdedlaɪn/ | n. 截止日期 | I can meet the deadline, but I want to make sure the quality stays high. |
+| deadline | /ˈdedlaɪn/ | n. 截止日期 | I also wanted to talk about deadlines this week. |
 | priority | /praɪˈɒrəti/ | n. 优先事项 | The proposal is the top priority. |
 | appreciate | /əˈpriːʃieɪt/ | v. 感激 | Thank you. I really appreciate your time. |
 | confident | /ˈkɒnfɪdənt/ | adj. 自信的（→ 见总词表，01 集已收） | How to talk to your boss clearly and confidently. |
@@ -36,7 +36,7 @@
 | encouragement | /ɪnˈkʌrɪdʒmənt/ | n. 鼓励 | Thank you for your encouragement. |
 | awareness | /əˈweənəs/ | n. 自我意识 | Actually, it shows awareness and professionalism. |
 | input | /ˈɪnpʊt/ | n. 意见 | Most people will appreciate your input. |
-| train of thought | /treɪn əv θɔːt/ | n. 思路 | I worry I'll lose my train of thought. |
+| train of thought | /treɪn əv θɔːt/ | n. 思路 | Sometimes I worry I'll forget words or lose my train of thought. |
 | commute | /kəˈmjuːt/ | n. 通勤 | I usually listen to English podcasts during my commute. |
 | senior management | /ˈsiːniə ˈmænɪdʒmənt/ | n. 高层管理 | I'm not sure if the tone is right for senior management. |
 | high level | /ˌhaɪ ˈlevl/ | adj. 宏观层面的 | Should it be more detailed or more high level? |
@@ -47,7 +47,7 @@
 |---|---|---|
 | on the right track | 确认方向没错 | Check if I'm on the right track. |
 | top priority | 说明最重要的事 | The client analysis is the top priority. |
-| speak up | 鼓励发言 | I'll try to speak up more in meetings. |
+| speak up | 鼓励发言 | I'll try to speak up more. |
 | take on more responsibility | 争取更多职责 | I'd like to take on more responsibility in the future. |
 | my door is always open | 表示随时可沟通 | Anytime. My door is always open. |
 

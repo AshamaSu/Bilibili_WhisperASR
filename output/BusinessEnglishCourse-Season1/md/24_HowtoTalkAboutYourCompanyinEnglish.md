@@ -10,12 +10,12 @@
 | company | /ˈkʌmpəni/ | n. 公司（标题词；→ 见总词表，01 集已收） | …Talk About Your Company in English（篇名） |
 | english | /ˈɪŋɡlɪʃ/ | n. 英语（标题词；→ 见总词表，01 集已收） | …Your Company in English（篇名） |
 | clients | /ˈklaɪənts/ | n. 客户（→ 见总词表，01 集已收） | We primarily serve clients in the financial and telecommunications sectors. |
-| services | /ˈsɜːvɪsɪz/ | n. 服务 | Our core services include workflow automation. |
+| services | /ˈsɜːvɪsɪz/ | n. 服务 | Our core services include We primarily serve |
 | solutions | /səˈluːʃnz/ | n. 解决方案 | We provide software solutions for small and medium-sized businesses. |
 | operate | /ˈɒpəreɪt/ | v. 运营（→ 见总词表，08 集已收） | We operate in the renewable energy sector. |
 | mission | /ˈmɪʃn/ | n. 使命（→ 见总词表，08 集已收） | Our mission is to make financial services more accessible and affordable. |
 | sector | /ˈsektə(r)/ | n. 行业、部门（→ 见总词表，19 集已收） | We operate in the renewable energy sector. |
-| specialize | /ˈspeʃəlaɪz/ | v. 专攻（→ 见总词表，10 集已收） | …a technology company that specializes in cloud-based solutions. |
+| specialize | /ˈspeʃəlaɪz/ | v. 专攻（→ 见总词表，10 集已收） | For example, I work for a mid-sized technology company that specializes in cloud-based |
 | founded | /ˈfaʊndɪd/ | v. 创立 | The company was founded in 2008 and has grown steadily. |
 | headquarters | /ˌhedˈkwɔːtəz/ | n. 总部 | Our headquarters are based in Amsterdam. |
 | medium-sized | /ˈmiːdiəm saɪzd/ | adj. 中型的 | I work for a mid-sized technology company. |
@@ -28,7 +28,7 @@
 |---|---|---|---|
 | startup | /ˈstɑːtʌp/ | n. 初创公司（→ 见总词表，17 集已收） | We started as a small startup and have since expanded. |
 | competitive | /kəmˈpetətɪv/ | adj. 有竞争力的（→ 见总词表，14 集已收） | How do you talk about your company's competitive advantage? |
-| consulting | /kənˈsʌltɪŋ/ | n. 咨询 | I currently work for a global consulting firm that advises clients on strategy. |
+| consulting | /kənˈsʌltɪŋ/ | n. 咨询 | For example, I currently work for a global consulting firm that advises clients on strategic |
 | logistics | /ləˈdʒɪstɪks/ | n. 物流 | I work for a mid-sized logistics company that provides supply chain solutions. |
 | global | /ˈɡləʊbl/ | adj. 全球性的（→ 见总词表，08 集已收） | I work for a global e-commerce company. |
 | revenue | /ˈrevənjuː/ | n. 营收（→ 见总词表，13 集已收） | We achieved a 15% increase in revenue. |
@@ -37,7 +37,7 @@
 | culture | /ˈkʌltʃə(r)/ | n. 文化（→ 见总词表，05 集已收） | Company culture describes the values, environment. |
 | employees | /ɪmˈplɔɪiːz/ | n. 员工（→ 见总词表，21 集已收） | We have about 200 employees and operate across Southeast Asia. |
 | networking | /ˈnetwɜːkɪŋ/ | n. 人脉拓展（→ 见总词表，23 集已收） | …especially for meetings, interviews, networking events. |
-| firm | /fɜːm/ | n. 公司、事务所（→ 见总词表，05 集已收） | Whether your company is a startup, a national firm, or a global player. |
+| firm | /fɜːm/ | n. 公司、事务所（→ 见总词表，05 集已收） | It helps the listener understand whether your company is a startup, a national firm, or |
 
 ### 语块（整体记忆，不拆单词）
 
@@ -47,13 +47,13 @@
 | small and medium-sized businesses | 描述目标客户 | We provide software solutions for small and medium-sized businesses. |
 | market share | 谈市场份额 | …expanded our market share in the Asia-Pacific region. |
 | competitive advantage | 谈竞争优势 | Let's talk about competitive advantage. |
-| core services | 谈核心业务 | Our core services include workflow automation. |
+| core services | 谈核心业务 | Our core competencies include artificial intelligence integration, workflow automation, |
 
 ## 2. 句式
 
 | 句式 | 使用场景 | 原文例句 |
 |---|---|---|
-| I work for a mid-sized technology company that specializes in… | 一句话介绍公司 | I work for a mid-sized technology company that specializes in cloud-based solutions. |
+| I work for a mid-sized technology company that specializes in… | 一句话介绍公司 | For example, I work for a mid-sized technology company that specializes in cloud-based |
 | Our mission is to… | 讲公司使命 | Our mission is to make financial services more accessible and affordable. |
 | The company was founded in… and has grown steadily. | 讲公司历史 | The company was founded in 2008 and has grown steadily over the past decade. |
 | Our headquarters are based in… | 讲总部位置 | Our headquarters are based in Amsterdam. |

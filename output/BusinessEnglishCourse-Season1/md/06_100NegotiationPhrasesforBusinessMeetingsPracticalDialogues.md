@@ -13,7 +13,7 @@
 | dialogue | /ˈdaɪəlɒɡ/ | n. 对话（标题词） | …& Practical Dialogues（篇名） |
 | compromise | /ˈkɒmprəmaɪz/ | n./v. 折中、让步 | Now let's talk about compromise. |
 | counter offer | /ˈkaʊntə ˌɒfə(r)/ | 反报价、还价 | A counter offer is when you respond with a different… |
-| offer | /ˈɒfə(r)/ | n./v. 出价、提议 | A counter offer is when you respond with a different offer. |
+| offer | /ˈɒfə(r)/ | n./v. 出价、提议 | important in negotiation. A counter offer is when you respond with a different |
 | flexibility | /ˌfleksəˈbɪləti/ | n. 弹性、灵活度 | Would there be flexibility with bonuses or benefits? |
 | budget | /ˈbʌdʒɪt/ | n. 预算 | （谈判语境：预算约束） |
 | extend | /ɪkˈstend/ | v. 延长 | （谈判语境：延长工期/期限） |

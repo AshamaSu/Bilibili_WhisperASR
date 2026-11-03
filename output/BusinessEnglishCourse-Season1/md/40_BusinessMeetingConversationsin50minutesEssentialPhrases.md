@@ -12,14 +12,14 @@
 | minutes | /ˈmɪnɪts/ | n. 分钟（标题词；→ 见总词表，27 集已收） | ...in 50 Minutes: Essential Phrases（篇名） |
 | essential | /ɪˈsenʃl/ | adj. 必不可少的（标题词；→ 见总词表，01 集已收） | Essential Phrases（篇名） |
 | phrases | /ˈfreɪzɪz/ | n. 短语（标题词；→ 见总词表，12 集已收） | Essential Phrases（篇名） |
-| brand | /brænd/ | n. 品牌（→ 见总词表，08 集已收） | Even the strongest brand will lose shelf space if it's out of stock. |
-| consumer | /kənˈsjuːmə/ | n. 消费者（→ 见总词表，19 集已收） | The initial success was driven by pipeline filling rather than true consumer demand. |
-| execution | /ˌeksɪˈkjuːʃn/ | n. 执行落地（→ 见总词表，08 集已收） | In urban markets execution was decent, but in Tier 2 towns it slipped. |
+| brand | /brænd/ | n. 品牌（→ 见总词表，08 集已收） | Even the strongest brand will lose shelf space if it's frequently out of stock. |
+| consumer | /kənˈsjuːmə/ | n. 消费者（→ 见总词表，19 集已收） | I believe the initial success was driven mainly by pipeline filling rather than true consumer demand. |
+| execution | /ˌeksɪˈkjuːʃn/ | n. 执行落地（→ 见总词表，08 集已收） | In urban markets, execution was decent, but in Tier 2 and Tier 3 towns, many outlets received |
 | retailers | /ˈriːteɪləz/ | n. 零售商（新收） | Many rural retailers are cautious about stocking new SKUs. |
 | distributor | /dɪˈstrɪbjətə/ | n. 经销商（新收） | Distributors stocked the product because of the introductory schemes. |
 | forecasting | /ˈfɔːkɑːstɪŋ/ | n. 预测（新收） | Better demand forecasting and regional consolidation could help. |
 | promotions | /prəˈməʊʃnz/ | n. 促销活动（新收） | Outlet level data can help identify where to invest promotions. |
-| margins | /ˈmɑːdʒɪnz/ | n. 利润率（→ 见总词表，25 集已收） | Margins are under pressure due to higher logistics costs. |
+| margins | /ˈmɑːdʒɪnz/ | n. 利润率（→ 见总词表，25 集已收） | margins are under pressure due to higher logistics and raw material costs. Finance has flagged |
 | sustainability | /səˌsteɪnəˈbɪləti/ | n. 可持续性（→ 见总词表，24 集已收） | Align on corrective actions for sustainable growth. |
 
 ### 补充词（听中查阅；已收词与降级词归此）
@@ -27,14 +27,14 @@
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
 | SKU | /ˌes keɪ ˈjuː/ | n. 单品（库存单位） | Rural retailers are cautious about stocking new SKUs. |
-| category | /ˈkætəɡəri/ | n. 品类（→ 见总词表，34 集已收） | We gained points in value share in the core category. |
+| category | /ˈkætəɡəri/ | n. 品类（→ 见总词表，34 集已收） | points in value share in the core category. |
 | competitor | /kəmˈpetɪtə/ | n. 竞争对手 | Consumers are comparing it directly with established competitors. |
 | scheme | /skiːm/ | n. 促销方案、激励政策 | ROI varies by scheme. |
 | outlet | /ˈaʊtlet/ | n. 零售门店、终端 | Outlet level data can help identify where to invest. |
-| turnover | /ˈtɜːnəʊvə/ | n. 周转（率） | Slower turnover makes retailers cautious. |
-| logistics | /ləˈdʒɪstɪks/ | n. 物流 | Margins are under pressure due to higher logistics costs. |
-| alignment | /əˈlaɪnmənt/ | n. 对齐（→ 见总词表，01 集已收） | With better alignment and execution, we can grow. |
-| consolidation | /kənˌsɒlɪˈdeɪʃn/ | n. 整合、集中 | Regional consolidation could reduce complexity. |
+| turnover | /ˈtɜːnəʊvə/ | n. 周转（率） | Many rural retailers are cautious about stocking new SKUs due to slower turnover and limited |
+| logistics | /ləˈdʒɪstɪks/ | n. 物流 | margins are under pressure due to higher logistics and raw material costs. Finance has flagged |
+| alignment | /əˈlaɪnmənt/ | n. 对齐（→ 见总词表，01 集已收） | With better alignment and execution, I'm confident we can achieve sustainable growth rather than |
+| consolidation | /kənˌsɒlɪˈdeɪʃn/ | n. 整合、集中 | That's something we can control. Better demand forecasting and regional consolidation could |
 | ROI | /ˌɑːr əʊ ˈaɪ/ | n. 投入产出比 | Trade spend has increased by nearly 15%, but ROI varies. |
 | pipeline | /ˈpaɪplaɪn/ | n. 铺货管道、储备 | Success was driven mainly by pipeline filling. |
 | corrective | /kəˈrektɪv/ | adj. 纠正性的 | Align on corrective actions for sustainable growth. |
@@ -43,7 +43,7 @@
 
 | 语块 | 使用场景 | 原文例句摘录 |
 |---|---|---|
-| supply chain | 供应链 | Supply chain is where most of the gaps sit. |
+| supply chain | 供应链 | We should work closely with the supply chain team to ensure availability of these |
 | working capital | 营运资金 | Excess inventory ties up working capital. |
 | brand equity | 品牌资产 | It's starting to hurt long-term brand equity. |
 | trade spend | 渠道费用投放 | What about trade spend? |

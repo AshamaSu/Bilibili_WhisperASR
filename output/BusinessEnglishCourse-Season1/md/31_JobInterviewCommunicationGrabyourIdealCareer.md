@@ -28,7 +28,7 @@
 |---|---|---|---|
 | outcome | /ˈaʊtkʌm/ | n. 结果 | Make simple mistakes that change the outcome. |
 | flustered | /ˈflʌstəd/ | adj. 慌乱的 | I walked in feeling stressed and flustered. |
-| insecure | /ˌɪnsɪˈkjʊə/ | adj. 不自信的 | It can make you seem insecure or uninterested. |
+| insecure | /ˌɪnsɪˈkjʊə/ | adj. 不自信的 | Your posture, avoiding eye contact, or fidgeting can make you seem insecure or uninterested. |
 | negatively | /ˈneɡətɪvli/ | adv. 负面地 | I spoke negatively about my manager. |
 | curiosity | /ˌkjʊəriˈɒsəti/ | n. 好奇心 | Asking questions shows interest and curiosity. |
 | complaints | /kəmˈpleɪnts/ | n. 抱怨 | Interviewers want to see professionalism, not complaints. |
