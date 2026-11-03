@@ -1,0 +1,8717 @@
+{
+  "file_stem": "45_BusinessMeetingConversationEFFECTIVECommunicationSkills",
+  "no": 45,
+  "title_keywords": [
+    [
+      "business",
+      "business"
+    ],
+    [
+      "meeting",
+      "meet"
+    ],
+    [
+      "conversation",
+      "conversation"
+    ],
+    [
+      "effective",
+      "effective"
+    ],
+    [
+      "communication",
+      "communication"
+    ],
+    [
+      "skills",
+      "skill"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "say",
+      71,
+      "A2"
+    ],
+    [
+      "get",
+      59,
+      "A2"
+    ],
+    [
+      "good",
+      53,
+      "A2"
+    ],
+    [
+      "communication",
+      49,
+      "B1+"
+    ],
+    [
+      "even",
+      46,
+      "B1+"
+    ],
+    [
+      "people",
+      43,
+      "A2"
+    ],
+    [
+      "things",
+      40,
+      "A2"
+    ],
+    [
+      "know",
+      36,
+      "A2"
+    ],
+    [
+      "one",
+      36,
+      "A2"
+    ],
+    [
+      "listening",
+      34,
+      "A2"
+    ],
+    [
+      "talk",
+      33,
+      "A2"
+    ],
+    [
+      "team",
+      33,
+      "A2"
+    ],
+    [
+      "feel",
+      32,
+      "A2"
+    ],
+    [
+      "think",
+      31,
+      "A2"
+    ],
+    [
+      "exactly",
+      30,
+      "B1+"
+    ],
+    [
+      "make",
+      28,
+      "A2"
+    ],
+    [
+      "build",
+      25,
+      "A2"
+    ],
+    [
+      "oh",
+      25,
+      "B1+"
+    ],
+    [
+      "work",
+      25,
+      "A2"
+    ],
+    [
+      "understand",
+      23,
+      "A2"
+    ],
+    [
+      "makes",
+      22,
+      "B1+"
+    ],
+    [
+      "words",
+      22,
+      "A2"
+    ],
+    [
+      "important",
+      21,
+      "A2"
+    ],
+    [
+      "much",
+      21,
+      "A2"
+    ],
+    [
+      "see",
+      21,
+      "A2"
+    ],
+    [
+      "simulations",
+      21,
+      "B1+"
+    ],
+    [
+      "sure",
+      21,
+      "A2"
+    ],
+    [
+      "conversations",
+      20,
+      "B1+"
+    ],
+    [
+      "feedback",
+      20,
+      "B1+"
+    ],
+    [
+      "language",
+      20,
+      "A2"
+    ],
+    [
+      "trying",
+      20,
+      "A2"
+    ],
+    [
+      "shows",
+      19,
+      "A2"
+    ],
+    [
+      "time",
+      19,
+      "A2"
+    ],
+    [
+      "different",
+      18,
+      "A2"
+    ],
+    [
+      "ask",
+      17,
+      "A2"
+    ],
+    [
+      "body",
+      17,
+      "A2"
+    ],
+    [
+      "something",
+      17,
+      "B1+"
+    ],
+    [
+      "nonverbal",
+      16,
+      "B1+"
+    ],
+    [
+      "sometimes",
+      16,
+      "B1+"
+    ],
+    [
+      "way",
+      16,
+      "A2"
+    ],
+    [
+      "absolutely",
+      15,
+      "B1+"
+    ],
+    [
+      "always",
+      15,
+      "B1+"
+    ],
+    [
+      "help",
+      15,
+      "A2"
+    ],
+    [
+      "learn",
+      15,
+      "A2"
+    ],
+    [
+      "relationships",
+      15,
+      "B1+"
+    ],
+    [
+      "communicate",
+      14,
+      "B1+"
+    ],
+    [
+      "everyone",
+      14,
+      "A2"
+    ],
+    [
+      "give",
+      14,
+      "A2"
+    ],
+    [
+      "interesting",
+      14,
+      "A2"
+    ],
+    [
+      "need",
+      14,
+      "A2"
+    ],
+    [
+      "remember",
+      14,
+      "A2"
+    ],
+    [
+      "take",
+      14,
+      "A2"
+    ],
+    [
+      "want",
+      14,
+      "A2"
+    ],
+    [
+      "we've",
+      14,
+      "B1+"
+    ],
+    [
+      "aware",
+      13,
+      "B1+"
+    ],
+    [
+      "big",
+      13,
+      "A2"
+    ],
+    [
+      "cues",
+      13,
+      "B1+"
+    ],
+    [
+      "go",
+      13,
+      "A2"
+    ],
+    [
+      "great",
+      13,
+      "A2"
+    ],
+    [
+      "instead",
+      13,
+      "A2"
+    ],
+    [
+      "point",
+      13,
+      "A2"
+    ],
+    [
+      "questions",
+      13,
+      "A2"
+    ],
+    [
+      "trust",
+      13,
+      "B1+"
+    ],
+    [
+      "adapting",
+      12,
+      "B1+"
+    ],
+    [
+      "attention",
+      12,
+      "B1+"
+    ],
+    [
+      "cultures",
+      12,
+      "B1+"
+    ],
+    [
+      "focus",
+      12,
+      "B1+"
+    ],
+    [
+      "going",
+      12,
+      "B1+"
+    ],
+    [
+      "lot",
+      12,
+      "A2"
+    ],
+    [
+      "pay",
+      12,
+      "A2"
+    ],
+    [
+      "sense",
+      12,
+      "A2"
+    ],
+    [
+      "speaking",
+      12,
+      "A2"
+    ],
+    [
+      "tough",
+      12,
+      "B1+"
+    ],
+    [
+      "use",
+      12,
+      "A2"
+    ],
+    [
+      "email",
+      11,
+      "A2"
+    ],
+    [
+      "especially",
+      11,
+      "B1+"
+    ],
+    [
+      "find",
+      11,
+      "A2"
+    ],
+    [
+      "giving",
+      11,
+      "B1+"
+    ],
+    [
+      "keep",
+      11,
+      "A2"
+    ],
+    [
+      "also",
+      10,
+      "A2"
+    ],
+    [
+      "clear",
+      10,
+      "A2"
+    ],
+    [
+      "new",
+      10,
+      "A2"
+    ],
+    [
+      "open",
+      10,
+      "A2"
+    ],
+    [
+      "problems",
+      10,
+      "A2"
+    ],
+    [
+      "tone",
+      10,
+      "B1+"
+    ],
+    [
+      "back",
+      9,
+      "A2"
+    ],
+    [
+      "cultural",
+      9,
+      "B1+"
+    ],
+    [
+      "deep",
+      9,
+      "A2"
+    ],
+    [
+      "differences",
+      9,
+      "B1+"
+    ],
+    [
+      "effective",
+      9,
+      "B1+"
+    ],
+    [
+      "little",
+      9,
+      "A2"
+    ],
+    [
+      "part",
+      9,
+      "A2"
+    ],
+    [
+      "sound",
+      9,
+      "A2"
+    ],
+    [
+      "totally",
+      9,
+      "B1+"
+    ],
+    [
+      "another",
+      8,
+      "A2"
+    ],
+    [
+      "change",
+      8,
+      "A2"
+    ],
+    [
+      "connection",
+      8,
+      "B1+"
+    ],
+    [
+      "dive",
+      8,
+      "B1+"
+    ],
+    [
+      "emotions",
+      8,
+      "B1+"
+    ],
+    [
+      "empathy",
+      8,
+      "B1+"
+    ],
+    [
+      "meetings",
+      8,
+      "B1+"
+    ],
+    [
+      "moment",
+      8,
+      "A2"
+    ],
+    [
+      "powerful",
+      8,
+      "B1+"
+    ],
+    [
+      "someone",
+      8,
+      "A2"
+    ],
+    [
+      "subtle",
+      8,
+      "B1+"
+    ],
+    [
+      "active",
+      7,
+      "B1+"
+    ],
+    [
+      "comes",
+      7,
+      "B1+"
+    ],
+    [
+      "contact",
+      7,
+      "B1+"
+    ],
+    [
+      "creates",
+      7,
+      "B1+"
+    ],
+    [
+      "eye",
+      7,
+      "A2"
+    ],
+    [
+      "information",
+      7,
+      "B1+"
+    ],
+    [
+      "let",
+      7,
+      "A2"
+    ],
+    [
+      "look",
+      7,
+      "A2"
+    ],
+    [
+      "present",
+      7,
+      "A2"
+    ],
+    [
+      "space",
+      7,
+      "A2"
+    ],
+    [
+      "specific",
+      7,
+      "B1+"
+    ],
+    [
+      "statements",
+      7,
+      "B1+"
+    ],
+    [
+      "stay",
+      7,
+      "A2"
+    ],
+    [
+      "stressed",
+      7,
+      "B1+"
+    ],
+    [
+      "stuff",
+      7,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "body language",
+      "count": 15,
+      "example": "Body language is fascinating.",
+      "t": 295.37
+    },
+    {
+      "text": "nonverbal cues",
+      "count": 13,
+      "example": "They believe it builds stronger connections because you pick up on those little nonverbal cues that get lost virtually.",
+      "t": 259.6
+    },
+    {
+      "text": "pay attention",
+      "count": 9,
+      "example": "Being aware of your own is important, but they also say you've got to pay attention to others' nonverbal cues, too.",
+      "t": 308.0
+    },
+    {
+      "text": "makes sense",
+      "count": 8,
+      "example": "Okay, makes sense.",
+      "t": 137.71
+    },
+    {
+      "text": "make sure",
+      "count": 8,
+      "example": "Make sure everyone gets their chance to speak.",
+      "t": 477.22
+    },
+    {
+      "text": "effective communication",
+      "count": 7,
+      "example": "Today, we're diving into effective communication, especially in business.",
+      "t": 15.48
+    },
+    {
+      "text": "you're saying",
+      "count": 7,
+      "example": "But open posture usually means they're confident and open to what you're saying.",
+      "t": 399.6
+    },
+    {
+      "text": "deep dive",
+      "count": 7,
+      "example": "Stay tuned for part two of our deep dive into effective communication, where we'll look at building strong relationships, dealing with tough conversations, and how to use technology without losing that human connection.",
+      "t": 604.81
+    },
+    {
+      "text": "active listening",
+      "count": 7,
+      "example": "Active listening.",
+      "t": 755.95
+    },
+    {
+      "text": "different cultures",
+      "count": 6,
+      "example": "They say take the time to actually learn about how different cultures communicate.",
+      "t": 231.03
+    }
+  ],
+  "phrases": [
+    {
+      "text": "body language",
+      "count": 15,
+      "example": "Body language is fascinating.",
+      "t": 295.37
+    },
+    {
+      "text": "nonverbal cues",
+      "count": 13,
+      "example": "They believe it builds stronger connections because you pick up on those little nonverbal cues that get lost virtually.",
+      "t": 259.6
+    },
+    {
+      "text": "pay attention",
+      "count": 9,
+      "example": "Being aware of your own is important, but they also say you've got to pay attention to others' nonverbal cues, too.",
+      "t": 308.0
+    },
+    {
+      "text": "makes sense",
+      "count": 8,
+      "example": "Okay, makes sense.",
+      "t": 137.71
+    },
+    {
+      "text": "make sure",
+      "count": 8,
+      "example": "Make sure everyone gets their chance to speak.",
+      "t": 477.22
+    },
+    {
+      "text": "effective communication",
+      "count": 7,
+      "example": "Today, we're diving into effective communication, especially in business.",
+      "t": 15.48
+    },
+    {
+      "text": "you're saying",
+      "count": 7,
+      "example": "But open posture usually means they're confident and open to what you're saying.",
+      "t": 399.6
+    },
+    {
+      "text": "deep dive",
+      "count": 7,
+      "example": "Stay tuned for part two of our deep dive into effective communication, where we'll look at building strong relationships, dealing with tough conversations, and how to use technology without losing that human connection.",
+      "t": 604.81
+    },
+    {
+      "text": "active listening",
+      "count": 7,
+      "example": "Active listening.",
+      "t": 755.95
+    },
+    {
+      "text": "different cultures",
+      "count": 6,
+      "example": "They say take the time to actually learn about how different cultures communicate.",
+      "t": 231.03
+    },
+    {
+      "text": "eye contact",
+      "count": 6,
+      "example": "Eye contact, gestures, how close you stand, all different meanings in different cultures.",
+      "t": 341.24
+    },
+    {
+      "text": "cultural differences",
+      "count": 5,
+      "example": "But what about cultural differences?",
+      "t": 226.97
+    },
+    {
+      "text": "people feel",
+      "count": 5,
+      "example": "When people feel heard and understood, it creates a bond.",
+      "t": 459.37
+    },
+    {
+      "text": "that's a great",
+      "count": 5,
+      "example": "That's a great start.",
+      "t": 527.34
+    },
+    {
+      "text": "remember that simulation",
+      "count": 5,
+      "example": "Remember that simulation with the sales team and that huge client?",
+      "t": 1581.72
+    },
+    {
+      "text": "welcome back",
+      "count": 4,
+      "example": "Welcome back.",
+      "t": 14.64
+    },
+    {
+      "text": "you're trying",
+      "count": 4,
+      "example": "You're trying to solve the problem, not win the argument.",
+      "t": 168.66
+    },
+    {
+      "text": "cultures communicate",
+      "count": 4,
+      "example": "They say take the time to actually learn about how different cultures communicate.",
+      "t": 231.03
+    },
+    {
+      "text": "different cultures communicate",
+      "count": 4,
+      "example": "They say take the time to actually learn about how different cultures communicate.",
+      "t": 231.03
+    },
+    {
+      "text": "you've got",
+      "count": 4,
+      "example": "You've got to understand that.",
+      "t": 238.08
+    },
+    {
+      "text": "facial expressions",
+      "count": 4,
+      "example": "They talk about how your posture, your facial expressions, even the tone of your voice speak volumes, especially at work.",
+      "t": 300.86
+    },
+    {
+      "text": "they're big",
+      "count": 4,
+      "example": "They're big on reading those subtle signals to get the real meaning behind the words.",
+      "t": 320.24
+    },
+    {
+      "text": "across cultures",
+      "count": 4,
+      "example": "But interpreting those nonverbal cues across cultures, that can get tricky, right?",
+      "t": 336.43
+    },
+    {
+      "text": "dive into effective",
+      "count": 4,
+      "example": "Stay tuned for part two of our deep dive into effective communication, where we'll look at building strong relationships, dealing with tough conversations, and how to use technology without losing that human connection.",
+      "t": 604.81
+    },
+    {
+      "text": "what's interesting",
+      "count": 4,
+      "example": "But you know what's interesting?",
+      "t": 1751.09
+    },
+    {
+      "text": "good one",
+      "count": 3,
+      "example": "Oh, this is a good one.",
+      "t": 19.22
+    },
+    {
+      "text": "even said",
+      "count": 3,
+      "example": "They even said, and I wrote this down, express your ideas in a way that leaves absolutely no room for ambiguity.",
+      "t": 42.62
+    },
+    {
+      "text": "giving feedback",
+      "count": 3,
+      "example": "But then what about giving feedback?",
+      "t": 63.05
+    },
+    {
+      "text": "tough conversations",
+      "count": 3,
+      "example": "Speaking of changing how you think, they also get into tough conversations.",
+      "t": 108.01
+    },
+    {
+      "text": "you're always",
+      "count": 3,
+      "example": "Like instead of, you're always late, try, I feel stressed when deadlines are missed.",
+      "t": 151.64
+    },
+    {
+      "text": "instead of you're",
+      "count": 3,
+      "example": "Like instead of, you're always late, try, I feel stressed when deadlines are missed.",
+      "t": 151.64
+    },
+    {
+      "text": "find a solution",
+      "count": 3,
+      "example": "We get caught up in the moment and forget that we're all on the same team trying to find a solution that works for everyone.",
+      "t": 174.01
+    },
+    {
+      "text": "solution that works",
+      "count": 3,
+      "example": "We get caught up in the moment and forget that we're all on the same team trying to find a solution that works for everyone.",
+      "t": 174.01
+    },
+    {
+      "text": "feel heard",
+      "count": 3,
+      "example": "It makes them feel heard, builds trust, and then they're more likely to listen to you too.",
+      "t": 200.07
+    },
+    {
+      "text": "builds trust",
+      "count": 3,
+      "example": "It makes them feel heard, builds trust, and then they're more likely to listen to you too.",
+      "t": 200.07
+    },
+    {
+      "text": "take the time",
+      "count": 3,
+      "example": "They say take the time to actually learn about how different cultures communicate.",
+      "t": 231.03
+    },
+    {
+      "text": "virtual meetings",
+      "count": 3,
+      "example": "They said, while virtual meetings are convenient, face-to-face communication fosters stronger connections and allows for better nonverbal cues.",
+      "t": 269.8
+    },
+    {
+      "text": "especially at work",
+      "count": 3,
+      "example": "They talk about how your posture, your facial expressions, even the tone of your voice speak volumes, especially at work.",
+      "t": 300.86
+    },
+    {
+      "text": "oh for sure",
+      "count": 3,
+      "example": "Oh, for sure.",
+      "t": 340.7
+    },
+    {
+      "text": "nonverbal communication",
+      "count": 3,
+      "example": "Any other surprising things about nonverbal communication?",
+      "t": 351.76
+    },
+    {
+      "text": "get better",
+      "count": 3,
+      "example": "So more than just nodding and saying, uh-huh, what are some ways to get better at truly listening?",
+      "t": 423.26
+    },
+    {
+      "text": "show you're",
+      "count": 3,
+      "example": "Make eye contact, nod, use your posture to show you're interested.",
+      "t": 436.55
+    },
+    {
+      "text": "good advice",
+      "count": 3,
+      "example": "Good advice.",
+      "t": 495.26
+    },
+    {
+      "text": "adapt your style",
+      "count": 3,
+      "example": "And they really stress that you have to understand those differences and adapt your style to match.",
+      "t": 506.64
+    },
+    {
+      "text": "prevent a lot",
+      "count": 3,
+      "example": "Learning how different cultures communicate can prevent a lot of problems and help you build relationships.",
+      "t": 568.62
+    },
+    {
+      "text": "help you build",
+      "count": 3,
+      "example": "Learning how different cultures communicate can prevent a lot of problems and help you build relationships.",
+      "t": 568.62
+    },
+    {
+      "text": "it's about making",
+      "count": 3,
+      "example": "It's about making sure they actually get it.",
+      "t": 586.83
+    },
+    {
+      "text": "two-way street",
+      "count": 3,
+      "example": "It's a two-way street.",
+      "t": 589.81
+    },
+    {
+      "text": "sending and receiving",
+      "count": 3,
+      "example": "sending and receiving the information properly.",
+      "t": 591.28
+    },
+    {
+      "text": "we've covered",
+      "count": 3,
+      "example": "We've covered so much from being clear and empathetic to all those nonverbal cues and becoming a better listener.",
+      "t": 597.11
+    },
+    {
+      "text": "better listener",
+      "count": 3,
+      "example": "We've covered so much from being clear and empathetic to all those nonverbal cues and becoming a better listener.",
+      "t": 597.11
+    },
+    {
+      "text": "stay tuned",
+      "count": 3,
+      "example": "Stay tuned for part two of our deep dive into effective communication, where we'll look at building strong relationships, dealing with tough conversations, and how to use technology without losing that human connection.",
+      "t": 604.81
+    },
+    {
+      "text": "part two",
+      "count": 3,
+      "example": "Stay tuned for part two of our deep dive into effective communication, where we'll look at building strong relationships, dealing with tough conversations, and how to use technology without losing that human connection.",
+      "t": 604.81
+    },
+    {
+      "text": "strong relationships",
+      "count": 3,
+      "example": "Stay tuned for part two of our deep dive into effective communication, where we'll look at building strong relationships, dealing with tough conversations, and how to use technology without losing that human connection.",
+      "t": 604.81
+    },
+    {
+      "text": "human connection",
+      "count": 3,
+      "example": "Stay tuned for part two of our deep dive into effective communication, where we'll look at building strong relationships, dealing with tough conversations, and how to use technology without losing that human connection.",
+      "t": 604.81
+    },
+    {
+      "text": "go wrong",
+      "count": 3,
+      "example": "So be proactive, keep those lines open, instead of waiting until things go wrong.",
+      "t": 664.95
+    },
+    {
+      "text": "little things",
+      "count": 3,
+      "example": "Those little things can really strengthen the bond.",
+      "t": 726.33
+    },
+    {
+      "text": "completely change",
+      "count": 3,
+      "example": "They also point out that with tech, you often miss those little nonverbal cues that can completely change how you understand something.",
+      "t": 797.56
+    },
+    {
+      "text": "tone of voice",
+      "count": 3,
+      "example": "So listen for tone of voice, watch their face, try to get a sense of how they're feeling.",
+      "t": 1049.1
+    },
+    {
+      "text": "even small",
+      "count": 3,
+      "example": "So even small things can make a difference.",
+      "t": 1400.19
+    },
+    {
+      "text": "make a difference",
+      "count": 3,
+      "example": "So even small things can make a difference.",
+      "t": 1400.19
+    },
+    {
+      "text": "it's a lot",
+      "count": 3,
+      "example": "It's a lot to think about.",
+      "t": 1469.26
+    },
+    {
+      "text": "know what's",
+      "count": 3,
+      "example": "But you know what's interesting?",
+      "t": 1751.09
+    },
+    {
+      "text": "know what's interesting",
+      "count": 3,
+      "example": "But you know what's interesting?",
+      "t": 1751.09
+    },
+    {
+      "text": "u s",
+      "count": 3,
+      "example": "Like the U.S. team was all about getting straight to the point.",
+      "t": 1803.49
+    },
+    {
+      "text": "s team",
+      "count": 3,
+      "example": "Like the U.S. team was all about getting straight to the point.",
+      "t": 1803.49
+    },
+    {
+      "text": "u s team",
+      "count": 3,
+      "example": "Like the U.S. team was all about getting straight to the point.",
+      "t": 1803.49
+    },
+    {
+      "text": "japanese team",
+      "count": 3,
+      "example": "And the Japanese team was much more indirect.",
+      "t": 1807.55
+    },
+    {
+      "text": "we've talked",
+      "count": 3,
+      "example": "Okay, so we've talked about active listening, body language, difficult conversation, even cross-cultural communication.",
+      "t": 1838.11
+    },
+    {
+      "text": "sounds good",
+      "count": 3,
+      "example": "Sounds good.",
+      "t": 1940.07
+    },
+    {
+      "text": "team leader",
+      "count": 3,
+      "example": "Yeah, there was that one with the new team leader.",
+      "t": 1985.37
+    },
+    {
+      "text": "asking good",
+      "count": 3,
+      "example": "Asking good questions.",
+      "t": 2259.54
+    },
+    {
+      "text": "good questions",
+      "count": 3,
+      "example": "Asking good questions.",
+      "t": 2259.54
+    },
+    {
+      "text": "asking good questions",
+      "count": 3,
+      "example": "Asking good questions.",
+      "t": 2259.54
+    },
+    {
+      "text": "we've got",
+      "count": 2,
+      "example": "We've got these conversations between two pros who really know their stuff when it comes to communication in the workplace.",
+      "t": 20.18
+    },
+    {
+      "text": "build trust",
+      "count": 2,
+      "example": "This goes deeper, like how empathy can totally change a negotiation or how just listening well can build trust.",
+      "t": 28.65
+    },
+    {
+      "text": "specific things",
+      "count": 2,
+      "example": "Their technique is to focus on the actions, the specific things someone did, not the person themselves.",
+      "t": 68.29
+    },
+    {
+      "text": "they're good",
+      "count": 2,
+      "example": "So remind them what they're good at, too.",
+      "t": 90.51
+    },
+    {
+      "text": "it's meant",
+      "count": 2,
+      "example": "Feedback can be hard to swallow, even if it's meant well.",
+      "t": 96.1
+    },
+    {
+      "text": "even if it's",
+      "count": 2,
+      "example": "Feedback can be hard to swallow, even if it's meant well.",
+      "t": 96.1
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.03,
+      "text": "Listen."
+    },
+    {
+      "t": 8.53,
+      "text": "Practice."
+    },
+    {
+      "t": 9.57,
+      "text": "Speak."
+    },
+    {
+      "t": 10.61,
+      "text": "Practice makes you perfect."
+    },
+    {
+      "t": 13.94,
+      "text": "Hey, everyone."
+    },
+    {
+      "t": 14.64,
+      "text": "Welcome back."
+    },
+    {
+      "t": 15.48,
+      "text": "Today, we're diving into effective communication, especially in business."
+    },
+    {
+      "t": 19.22,
+      "text": "Oh, this is a good one."
+    },
+    {
+      "t": 20.18,
+      "text": "We've got these conversations between two pros who really know their stuff when it comes to communication in the workplace."
+    },
+    {
+      "t": 26.69,
+      "text": "Not just like sending an email."
+    },
+    {
+      "t": 28.29,
+      "text": "Right."
+    },
+    {
+      "t": 28.65,
+      "text": "This goes deeper, like how empathy can totally change a negotiation or how just listening well can build trust."
+    },
+    {
+      "t": 35.18,
+      "text": "Exactly."
+    },
+    {
+      "t": 36.42,
+      "text": "And something that stood out to me was how they emphasize being crystal clear right from the get-go."
+    },
+    {
+      "t": 42.62,
+      "text": "They even said, and I wrote this down, express your ideas in a way that leaves absolutely no room for ambiguity."
+    },
+    {
+      "t": 48.85,
+      "text": "Yeah, that's huge."
+    },
+    {
+      "t": 50.69,
+      "text": "So many problems come from just not understanding each other, wasted time, arguments, and even morale takes a hit."
+    },
+    {
+      "t": 57.04,
+      "text": "So getting communication right, that's setting yourself up for success."
+    },
+    {
+      "t": 60.32,
+      "text": "For sure."
+    },
+    {
+      "t": 60.8,
+      "text": "So clarity is the base."
+    },
+    {
+      "t": 63.05,
+      "text": "But then what about giving feedback?"
+    },
+    {
+      "t": 64.97,
+      "text": "No one loves that part, right?"
+    },
+    {
+      "t": 66.37,
+      "text": "Well, they actually had a cool perspective on feedback."
+    },
+    {
+      "t": 68.29,
+      "text": "Their technique is to focus on the actions, the specific things someone did, not the person themselves."
+    },
+    {
+      "t": 72.88,
+      "text": "So not you always interrupt, but more like when I'm interrupted, it's hard to share my ideas."
+    },
+    {
+      "t": 79.19,
+      "text": "That does sound less like an attack."
+    },
+    {
+      "t": 81.02,
+      "text": "Exactly."
+    },
+    {
+      "t": 81.84,
+      "text": "It's more constructive, less likely to make someone defensive, and to make it even better, they suggest adding some positive reinforcement along with it."
+    },
+    {
+      "t": 89.95,
+      "text": "I see."
+    },
+    {
+      "t": 90.51,
+      "text": "So remind them what they're good at, too."
+    },
+    {
+      "t": 92.23,
+      "text": "Keep them motivated."
+    },
+    {
+      "t": 93.64,
+      "text": "But what about being on the receiving end?"
+    },
+    {
+      "t": 96.1,
+      "text": "Feedback can be hard to swallow, even if it's meant well."
+    },
+    {
+      "t": 99.48,
+      "text": "Absolutely."
+    },
+    {
+      "t": 100.06,
+      "text": "They talk about going into any feedback situation with an open mind, see it as a chance to learn and grow, change how you think about it."
+    },
+    {
+      "t": 108.01,
+      "text": "Speaking of changing how you think, they also get into tough conversations."
+    },
+    {
+      "t": 111.8,
+      "text": "Those are unavoidable, right?"
+    },
+    {
+      "t": 113.64,
+      "text": "In any workplace, you're going to have clashes."
+    },
+    {
+      "t": 115.3,
+      "text": "Right."
+    },
+    {
+      "t": 115.9,
+      "text": "And they're all about staying calm even when things get heated."
+    },
+    {
+      "t": 118.28,
+      "text": "Don't let your emotions control the whole conversation."
+    },
+    {
+      "t": 121.45,
+      "text": "That's harder than it sounds, though."
+    },
+    {
+      "t": 123.11,
+      "text": "Any practical tips on actually doing that when you feel that tension?"
+    },
+    {
+      "t": 126.57,
+      "text": "They suggest, first, take a deep breath."
+    },
+    {
+      "t": 129.36,
+      "text": "Then, really try to listen and understand the other person's side."
+    },
+    {
+      "t": 133.04,
+      "text": "You don't have to agree, but seeing where they're coming from can help things cool down."
+    },
+    {
+      "t": 137.71,
+      "text": "Okay, makes sense."
+    },
+    {
+      "t": 139.55,
+      "text": "But what about when you need to say your own concerns?"
+    },
+    {
+      "t": 141.77,
+      "text": "How do you do that without making it worse?"
+    },
+    {
+      "t": 144.45,
+      "text": "They've got a great strategy for this."
+    },
+    {
+      "t": 146.49,
+      "text": "Instead of use statements, which can sound blamey, they say to use I statements."
+    },
+    {
+      "t": 151.64,
+      "text": "Like instead of, you're always late, try, I feel stressed when deadlines are missed."
+    },
+    {
+      "t": 155.74,
+      "text": "It's subtle, but I can see how it would make a big difference."
+    },
+    {
+      "t": 158.77,
+      "text": "It's about your experience, not pointing fingers."
+    },
+    {
+      "t": 161.51,
+      "text": "Exactly."
+    },
+    {
+      "t": 162.13,
+      "text": "Express your feelings without attacking."
+    },
+    {
+      "t": 165.16,
+      "text": "They also remind you to remember the bigger picture, the goal."
+    },
+    {
+      "t": 168.66,
+      "text": "You're trying to solve the problem, not win the argument."
+    },
+    {
+      "t": 172.73,
+      "text": "So true."
+    },
+    {
+      "t": 174.01,
+      "text": "We get caught up in the moment and forget that we're all on the same team trying to find a solution that works for everyone."
+    },
+    {
+      "t": 179.64,
+      "text": "And that actually leads to what they call the secret weapon, empathy."
+    },
+    {
+      "t": 183.63,
+      "text": "They're not just saying it's a nice feeling."
+    },
+    {
+      "t": 185.17,
+      "text": "They mean it's a tool for better communication."
+    },
+    {
+      "t": 187.85,
+      "text": "I'm listening."
+    },
+    {
+      "t": 189.41,
+      "text": "So it's more than I understand how you feel."
+    },
+    {
+      "t": 192.1,
+      "text": "How do they actually put empathy into action?"
+    },
+    {
+      "t": 194.6,
+      "text": "One tip they give is to really listen and acknowledge how the other person feels, even if you disagree."
+    },
+    {
+      "t": 200.07,
+      "text": "It makes them feel heard, builds trust, and then they're more likely to listen to you too."
+    },
+    {
+      "t": 205.96,
+      "text": "That's interesting."
+    },
+    {
+      "t": 207.28,
+      "text": "Now let's tackle something else that can be tough."
+    },
+    {
+      "t": 209.74,
+      "text": "Communication barriers, language differences, cultural stuff, and of course, all the tech challenges."
+    },
+    {
+      "t": 215.25,
+      "text": "The world's a global place now."
+    },
+    {
+      "t": 217.3,
+      "text": "These professionals really stress being adaptable."
+    },
+    {
+      "t": 219.88,
+      "text": "Like, if there's a language barrier, make your language simpler to ensure the message gets through."
+    },
+    {
+      "t": 224.51,
+      "text": "Right."
+    },
+    {
+      "t": 225.15,
+      "text": "Keep it basic."
+    },
+    {
+      "t": 226.97,
+      "text": "But what about cultural differences?"
+    },
+    {
+      "t": 228.89,
+      "text": "Those can be subtle and tough to navigate."
+    },
+    {
+      "t": 231.03,
+      "text": "They say take the time to actually learn about how different cultures communicate."
+    },
+    {
+      "t": 235.32,
+      "text": "Some are very direct."
+    },
+    {
+      "t": 236.56,
+      "text": "Others prefer a roundabout way."
+    },
+    {
+      "t": 238.08,
+      "text": "You've got to understand that."
+    },
+    {
+      "t": 239.49,
+      "text": "And what about technology?"
+    },
+    {
+      "t": 241.35,
+      "text": "It was supposed to make things easier, but sometimes it feels like a whole new set of problems."
+    },
+    {
+      "t": 245.46,
+      "text": "They have an interesting take on that."
+    },
+    {
+      "t": 247.4,
+      "text": "While they acknowledge all the great tools like video conferencing, they actually say to prioritize face-to-face communication whenever you can."
+    },
+    {
+      "t": 255.41,
+      "text": "Really?"
+    },
+    {
+      "t": 256.28,
+      "text": "I wouldn't have guessed that."
+    },
+    {
+      "t": 257.84,
+      "text": "Why is in-person so important to them?"
+    },
+    {
+      "t": 259.6,
+      "text": "They believe it builds stronger connections because you pick up on those little nonverbal cues that get lost virtually."
+    },
+    {
+      "t": 265.67,
+      "text": "It builds trust better too."
+    },
+    {
+      "t": 267.27,
+      "text": "They actually said... Let me grab my notes."
+    },
+    {
+      "t": 269.0,
+      "text": "I don't want to miss this."
+    },
+    {
+      "t": 269.8,
+      "text": "They said, while virtual meetings are convenient, face-to-face communication fosters stronger connections and allows for better nonverbal cues."
+    },
+    {
+      "t": 279.43,
+      "text": "I think that sums it up nicely."
+    },
+    {
+      "t": 281.0,
+      "text": "So even those quick chats in the hallway or by the coffee machine can be crucial."
+    },
+    {
+      "t": 285.41,
+      "text": "Exactly."
+    },
+    {
+      "t": 285.99,
+      "text": "It's not just about formal meetings."
+    },
+    {
+      "t": 287.67,
+      "text": "It's about those moments where you build that real connection."
+    },
+    {
+      "t": 291.1,
+      "text": "Speaking of nonverbal cues, that's another thing they get into."
+    },
+    {
+      "t": 293.58,
+      "text": "I'm all about that."
+    },
+    {
+      "t": 295.37,
+      "text": "Body language is fascinating."
+    },
+    {
+      "t": 297.19,
+      "text": "How it can say so much about what someone's truly thinking."
+    },
+    {
+      "t": 300.86,
+      "text": "They talk about how your posture, your facial expressions, even the tone of your voice speak volumes, especially at work."
+    },
+    {
+      "t": 308.0,
+      "text": "Being aware of your own is important, but they also say you've got to pay attention to others' nonverbal cues, too."
+    },
+    {
+      "t": 313.21,
+      "text": "So if someone says they're fine, but their body's screaming stressed out, you need to notice that disconnect."
+    },
+    {
+      "t": 319.44,
+      "text": "Exactly."
+    },
+    {
+      "t": 320.24,
+      "text": "They're big on reading those subtle signals to get the real meaning behind the words."
+    },
+    {
+      "t": 324.43,
+      "text": "That's valuable anywhere, but especially at work."
+    },
+    {
+      "t": 327.98,
+      "text": "And with so many virtual meetings now where you don't see as much, being mindful of your tone and choosing your words carefully is even more important."
+    },
+    {
+      "t": 335.57,
+      "text": "I see."
+    },
+    {
+      "t": 336.43,
+      "text": "But interpreting those nonverbal cues across cultures, that can get tricky, right?"
+    },
+    {
+      "t": 340.7,
+      "text": "Oh, for sure."
+    },
+    {
+      "t": 341.24,
+      "text": "Eye contact, gestures, how close you stand, all different meanings in different cultures."
+    },
+    {
+      "t": 346.99,
+      "text": "Do your research."
+    },
+    {
+      "t": 348.35,
+      "text": "Be sensitive to what's normal for them."
+    },
+    {
+      "t": 350.33,
+      "text": "Great advice."
+    },
+    {
+      "t": 351.76,
+      "text": "Any other surprising things about nonverbal communication?"
+    },
+    {
+      "t": 354.4,
+      "text": "They brought up something I hadn't thought much about."
+    },
+    {
+      "t": 356.52,
+      "text": "Using silence strategically."
+    },
+    {
+      "t": 359.63,
+      "text": "Silence."
+    },
+    {
+      "t": 360.51,
+      "text": "Now that's interesting."
+    },
+    {
+      "t": 361.47,
+      "text": "Tell me more."
+    },
+    {
+      "t": 362.17,
+      "text": "They say silence can be powerful, especially when you feel like you have to fill the space with words."
+    },
+    {
+      "t": 367.63,
+      "text": "Allowing a pause gives space to think."
+    },
+    {
+      "t": 370.18,
+      "text": "It's true."
+    },
+    {
+      "t": 371.32,
+      "text": "We rush to fill those silences sometimes, but quiet moments can make a conversation more meaningful."
+    },
+    {
+      "t": 376.9,
+      "text": "Being comfortable with those pauses and realizing they can be as powerful as words, that's the key."
+    },
+    {
+      "t": 382.59,
+      "text": "Okay, I'll try to remember that."
+    },
+    {
+      "t": 384.55,
+      "text": "Now I'm curious, what nonverbal cues do you personally pay attention to?"
+    },
+    {
+      "t": 389.0,
+      "text": "Hmm."
+    },
+    {
+      "t": 389.9,
+      "text": "For me, eye contact's a big one."
+    },
+    {
+      "t": 392.58,
+      "text": "Shows they're engaged, sincere."
+    },
+    {
+      "t": 394.47,
+      "text": "And posture, too."
+    },
+    {
+      "t": 396.13,
+      "text": "That can reveal a lot."
+    },
+    {
+      "t": 397.79,
+      "text": "Closed off means uncomfortable, maybe."
+    },
+    {
+      "t": 399.6,
+      "text": "But open posture usually means they're confident and open to what you're saying."
+    },
+    {
+      "t": 404.06,
+      "text": "Those are good ones."
+    },
+    {
+      "t": 404.9,
+      "text": "And I think it reminds all of us to be more aware of how our own body language comes across."
+    },
+    {
+      "t": 408.99,
+      "text": "Absolutely."
+    },
+    {
+      "t": 409.55,
+      "text": "It goes both ways."
+    },
+    {
+      "t": 410.71,
+      "text": "Be aware of yours and how you read other people's."
+    },
+    {
+      "t": 412.95,
+      "text": "All right."
+    },
+    {
+      "t": 413.17,
+      "text": "Let's switch gears now and talk about a fundamental part of communication."
+    },
+    {
+      "t": 416.82,
+      "text": "Listening."
+    },
+    {
+      "t": 417.55,
+      "text": "They're adamant that listening isn't just hearing words, it's actively engaging with what's being said."
+    },
+    {
+      "t": 423.26,
+      "text": "So more than just nodding and saying, uh-huh, what are some ways to get better at truly listening?"
+    },
+    {
+      "t": 429.0,
+      "text": "They say, first, be present."
+    },
+    {
+      "t": 431.0,
+      "text": "Put your phone away."
+    },
+    {
+      "t": 432.12,
+      "text": "Close your laptop."
+    },
+    {
+      "t": 433.21,
+      "text": "Focus on the conversation."
+    },
+    {
+      "t": 434.65,
+      "text": "Second, your body language matters."
+    },
+    {
+      "t": 436.55,
+      "text": "Make eye contact, nod, use your posture to show you're interested."
+    },
+    {
+      "t": 439.89,
+      "text": "And lastly, ask clarifying questions."
+    },
+    {
+      "t": 442.19,
+      "text": "It shows you're not just waiting for your turn to talk."
+    },
+    {
+      "t": 444.78,
+      "text": "So be mentally and physically present."
+    },
+    {
+      "t": 446.56,
+      "text": "Exactly."
+    },
+    {
+      "t": 447.48,
+      "text": "And listen to the emotions too, not just the words themselves."
+    },
+    {
+      "t": 451.04,
+      "text": "Pay attention to tone, facial expressions, get a sense of how they feel."
+    },
+    {
+      "t": 454.97,
+      "text": "Right."
+    },
+    {
+      "t": 455.61,
+      "text": "And they say mastering this kind of listening can really build trust at work."
+    },
+    {
+      "t": 459.37,
+      "text": "When people feel heard and understood, it creates a bond."
+    },
+    {
+      "t": 462.6,
+      "text": "Makes sense."
+    },
+    {
+      "t": 463.31,
+      "text": "It builds respect and makes working together so much easier."
+    },
+    {
+      "t": 466.66,
+      "text": "And they even have advice for when someone's taking over the conversation others can't get a word in."
+    },
+    {
+      "t": 472.06,
+      "text": "Those meetings."
+    },
+    {
+      "t": 473.16,
+      "text": "What do they say to do?"
+    },
+    {
+      "t": 474.35,
+      "text": "They say gently interrupt and redirect."
+    },
+    {
+      "t": 477.22,
+      "text": "Make sure everyone gets their chance to speak."
+    },
+    {
+      "t": 479.3,
+      "text": "So find that balance."
+    },
+    {
+      "t": 481.09,
+      "text": "Be assertive but respectful."
+    },
+    {
+      "t": 483.21,
+      "text": "Everyone's voice matters."
+    },
+    {
+      "t": 484.68,
+      "text": "Exactly."
+    },
+    {
+      "t": 485.24,
+      "text": "Make it a fair discussion."
+    },
+    {
+      "t": 486.54,
+      "text": "You know, my weakness is staying focused when I'm trying to listen."
+    },
+    {
+      "t": 490.17,
+      "text": "So many distractions."
+    },
+    {
+      "t": 491.21,
+      "text": "We've all been there."
+    },
+    {
+      "t": 492.35,
+      "text": "But the more you practice being mindful, the better you get at it."
+    },
+    {
+      "t": 494.92,
+      "text": "All right."
+    },
+    {
+      "t": 495.26,
+      "text": "Good advice."
+    },
+    {
+      "t": 496.47,
+      "text": "Now, let's talk about something that can be a bit of a puzzle, adapting to different communication styles."
+    },
+    {
+      "t": 501.87,
+      "text": "We all have our own way of talking, right?"
+    },
+    {
+      "t": 503.79,
+      "text": "Some people get to the point."
+    },
+    {
+      "t": 505.06,
+      "text": "Others need all the details."
+    },
+    {
+      "t": 506.64,
+      "text": "And they really stress that you have to understand those differences and adapt your style to match."
+    },
+    {
+      "t": 511.7,
+      "text": "So be flexible and change your approach based on who you're talking to."
+    },
+    {
+      "t": 515.75,
+      "text": "Exactly."
+    },
+    {
+      "t": 516.53,
+      "text": "Figure out how they like to communicate."
+    },
+    {
+      "t": 518.59,
+      "text": "Are they brief or detailed?"
+    },
+    {
+      "t": 520.51,
+      "text": "Direct or subtle?"
+    },
+    {
+      "t": 522.27,
+      "text": "Then adjust how you talk to them."
+    },
+    {
+      "t": 524.24,
+      "text": "But how do you figure that out?"
+    },
+    {
+      "t": 525.54,
+      "text": "Just watch how they communicate."
+    },
+    {
+      "t": 527.34,
+      "text": "That's a great start."
+    },
+    {
+      "t": 528.4,
+      "text": "Listen to their words, tone, body language."
+    },
+    {
+      "t": 531.59,
+      "text": "Do they jump right in or go around the subject?"
+    },
+    {
+      "t": 533.75,
+      "text": "Jokes or serious?"
+    },
+    {
+      "t": 535.48,
+      "text": "You become a communication detective."
+    },
+    {
+      "t": 537.16,
+      "text": "I like that."
+    },
+    {
+      "t": 538.26,
+      "text": "Gather clues and adjust your approach."
+    },
+    {
+      "t": 540.63,
+      "text": "They even give specific tips for certain types of people, like with executives."
+    },
+    {
+      "t": 545.45,
+      "text": "Be concise."
+    },
+    {
+      "t": 546.31,
+      "text": "Focus on the results."
+    },
+    {
+      "t": 547.27,
+      "text": "No long stories."
+    },
+    {
+      "t": 548.29,
+      "text": "Get to the point."
+    },
+    {
+      "t": 549.0,
+      "text": "Right."
+    },
+    {
+      "t": 549.72,
+      "text": "Executives are busy, want results."
+    },
+    {
+      "t": 551.54,
+      "text": "They like things clear and to the point."
+    },
+    {
+      "t": 553.42,
+      "text": "Got it."
+    },
+    {
+      "t": 554.04,
+      "text": "What about new people on the team?"
+    },
+    {
+      "t": 555.46,
+      "text": "Be patient."
+    },
+    {
+      "t": 556.14,
+      "text": "Explain more."
+    },
+    {
+      "t": 557.14,
+      "text": "New folks need more background."
+    },
+    {
+      "t": 558.75,
+      "text": "So be thorough."
+    },
+    {
+      "t": 560.13,
+      "text": "That makes sense."
+    },
+    {
+      "t": 561.07,
+      "text": "And of course, cultural differences are huge, especially now with global teams."
+    },
+    {
+      "t": 565.19,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 566.21,
+      "text": "They say cultural awareness is key."
+    },
+    {
+      "t": 568.62,
+      "text": "Learning how different cultures communicate can prevent a lot of problems and help you build relationships."
+    },
+    {
+      "t": 573.77,
+      "text": "For sure."
+    },
+    {
+      "t": 574.73,
+      "text": "And even when we're trying our best, sometimes people just don't get it."
+    },
+    {
+      "t": 578.17,
+      "text": "They're big on feedback to fix that."
+    },
+    {
+      "t": 580.46,
+      "text": "Don't be afraid to ask if they understood or if something needs clarifying."
+    },
+    {
+      "t": 584.86,
+      "text": "So it's not just about giving the information."
+    },
+    {
+      "t": 586.83,
+      "text": "It's about making sure they actually get it."
+    },
+    {
+      "t": 588.79,
+      "text": "Bingo."
+    },
+    {
+      "t": 589.81,
+      "text": "It's a two-way street."
+    },
+    {
+      "t": 591.28,
+      "text": "sending and receiving the information properly."
+    },
+    {
+      "t": 593.7,
+      "text": "Well, this has been eye-opening."
+    },
+    {
+      "t": 594.88,
+      "text": "It feels like a good place to take a break."
+    },
+    {
+      "t": 597.11,
+      "text": "We've covered so much from being clear and empathetic to all those nonverbal cues and becoming a better listener."
+    },
+    {
+      "t": 603.25,
+      "text": "And there's so much more to come."
+    },
+    {
+      "t": 604.81,
+      "text": "Stay tuned for part two of our deep dive into effective communication, where we'll look at building strong relationships, dealing with tough conversations, and how to use technology without losing that human connection."
+    },
+    {
+      "t": 617.13,
+      "text": "See you soon."
+    },
+    {
+      "t": 618.19,
+      "text": "Welcome back."
+    },
+    {
+      "t": 619.5,
+      "text": "Last time we were talking about how important it is to be adaptable with your communication style."
+    },
+    {
+      "t": 624.26,
+      "text": "Right, like figuring out if you're dealing with an executive who wants the bottom line or someone new who needs all the details."
+    },
+    {
+      "t": 630.71,
+      "text": "And this whole adapting thing, it's really crucial when you're trying to build those strong relationships at work."
+    },
+    {
+      "t": 636.28,
+      "text": "These professionals, they talk about trust being so important, like the foundation of a good working relationship."
+    },
+    {
+      "t": 641.81,
+      "text": "And they say open communication is how you build it."
+    },
+    {
+      "t": 644.57,
+      "text": "Okay, so it's more than just sounding good in meetings."
+    },
+    {
+      "t": 648.12,
+      "text": "It's about those everyday interactions that show you're reliable and can be trusted."
+    },
+    {
+      "t": 653.32,
+      "text": "How do you actually do that through communicating?"
+    },
+    {
+      "t": 656.32,
+      "text": "One thing they say is to be consistent."
+    },
+    {
+      "t": 658.4,
+      "text": "Regular check-ins, keep people in the loop, that kind of thing."
+    },
+    {
+      "t": 661.54,
+      "text": "Prevents those annoying mix-ups and make sure everyone's on the same page."
+    },
+    {
+      "t": 664.95,
+      "text": "So be proactive, keep those lines open, instead of waiting until things go wrong."
+    },
+    {
+      "t": 669.05,
+      "text": "Exactly."
+    },
+    {
+      "t": 669.61,
+      "text": "And be responsive, too."
+    },
+    {
+      "t": 671.24,
+      "text": "Replying to emails without making people wait, acknowledging when someone reaches out, it shows you respect their time and what they have to say."
+    },
+    {
+      "t": 678.56,
+      "text": "Keeps things moving smoothly."
+    },
+    {
+      "t": 680.31,
+      "text": "We talked about feedback before, but they bring it up again for building relationships."
+    },
+    {
+      "t": 685.48,
+      "text": "It's tricky, right?"
+    },
+    {
+      "t": 686.52,
+      "text": "You want to help but not sound like you're just criticizing."
+    },
+    {
+      "t": 690.15,
+      "text": "It is."
+    },
+    {
+      "t": 690.55,
+      "text": "It's a balancing act."
+    },
+    {
+      "t": 691.67,
+      "text": "Yeah."
+    },
+    {
+      "t": 692.05,
+      "text": "But they say feedback, when it's done right, actually shows respect."
+    },
+    {
+      "t": 696.7,
+      "text": "You're invested in that person's growth."
+    },
+    {
+      "t": 698.5,
+      "text": "Okay."
+    },
+    {
+      "t": 698.93,
+      "text": "So how do you make sure it's helpful and not just picking them apart?"
+    },
+    {
+      "t": 703.48,
+      "text": "They say focus on what they did, specific actions, and combine anything critical with some genuine praise."
+    },
+    {
+      "t": 709.87,
+      "text": "So you're not a team player, but more like, hey, I noticed you didn't share your thoughts in that last meeting."
+    },
+    {
+      "t": 714.45,
+      "text": "Your ideas are great, and I think the team would really benefit from hearing them."
+    },
+    {
+      "t": 717.68,
+      "text": "Exactly."
+    },
+    {
+      "t": 718.56,
+      "text": "You recognize what they're good at while pointing out an area to work on."
+    },
+    {
+      "t": 721.7,
+      "text": "And don't underestimate a little appreciation, saying thank you, noticing someone's effort."
+    },
+    {
+      "t": 726.33,
+      "text": "Those little things can really strengthen the bond."
+    },
+    {
+      "t": 728.81,
+      "text": "Create a culture where people feel valued."
+    },
+    {
+      "t": 731.46,
+      "text": "Besides feedback and saying thanks, anything else for building strong relationships."
+    },
+    {
+      "t": 736.18,
+      "text": "They talk about helping out."
+    },
+    {
+      "t": 737.8,
+      "text": "Being the person who lends a hand, shares what they know, it creates a feeling of partnership."
+    },
+    {
+      "t": 743.07,
+      "text": "So that sense of we're in this together."
+    },
+    {
+      "t": 746.72,
+      "text": "Right."
+    },
+    {
+      "t": 747.18,
+      "text": "And sometimes the simplest thing is the most powerful."
+    },
+    {
+      "t": 750.02,
+      "text": "Just listen."
+    },
+    {
+      "t": 751.48,
+      "text": "Really listen to what the other person is saying without interrupting or jumping to conclusions."
+    },
+    {
+      "t": 755.95,
+      "text": "Active listening."
+    },
+    {
+      "t": 757.49,
+      "text": "There it is again."
+    },
+    {
+      "t": 758.25,
+      "text": "It really seems to be the key for pretty much everything."
+    },
+    {
+      "t": 763.05,
+      "text": "Speaking of communication, they had some interesting things to say about how technology has changed things at work."
+    },
+    {
+      "t": 768.33,
+      "text": "It's a mixed bag, isn't it?"
+    },
+    {
+      "t": 769.67,
+      "text": "We have all these tools, email, instant messaging, video calls, but sometimes it's overwhelming and you lose that human connection."
+    },
+    {
+      "t": 776.82,
+      "text": "For sure."
+    },
+    {
+      "t": 777.56,
+      "text": "I've definitely felt like I'm communicating constantly, but not really connecting with anyone."
+    },
+    {
+      "t": 782.11,
+      "text": "They say pick the right tool for the job."
+    },
+    {
+      "t": 784.25,
+      "text": "Email for formal stuff, instant message for quick things, video for when you need that face-to-face."
+    },
+    {
+      "t": 789.71,
+      "text": "Be strategic about it."
+    },
+    {
+      "t": 790.79,
+      "text": "And set boundaries, right?"
+    },
+    {
+      "t": 792.53,
+      "text": "Don't let tech run your life."
+    },
+    {
+      "t": 794.18,
+      "text": "Make sure you're still making time for real conversations."
+    },
+    {
+      "t": 796.6,
+      "text": "Absolutely."
+    },
+    {
+      "t": 797.56,
+      "text": "They also point out that with tech, you often miss those little nonverbal cues that can completely change how you understand something."
+    },
+    {
+      "t": 804.3,
+      "text": "Yeah."
+    },
+    {
+      "t": 804.61,
+      "text": "Tone in an email or text is so easy to misread."
+    },
+    {
+      "t": 807.85,
+      "text": "Exactly."
+    },
+    {
+      "t": 808.43,
+      "text": "So they say be extra clear in writing."
+    },
+    {
+      "t": 810.75,
+      "text": "And if you need a nuanced discussion or want to build that rapport, get on a video call."
+    },
+    {
+      "t": 815.19,
+      "text": "And even with tech, have some ground rules."
+    },
+    {
+      "t": 817.46,
+      "text": "So like agree on how quickly you'll reply to emails or when it's OK to just message instead of scheduling a call gets everyone on the same page."
+    },
+    {
+      "t": 825.88,
+      "text": "Now, let's talk about something a bit tougher, those difficult conversations, whether it's conflict with a coworker or giving hard feedback."
+    },
+    {
+      "t": 833.23,
+      "text": "We all have them."
+    },
+    {
+      "t": 834.33,
+      "text": "And these professionals had some really good advice."
+    },
+    {
+      "t": 837.21,
+      "text": "I'm all ears."
+    },
+    {
+      "t": 838.53,
+      "text": "I think we could all use some tips on how to handle those gracefully and make them productive."
+    },
+    {
+      "t": 842.92,
+      "text": "First thing, stay calm even when you feel like exploding."
+    },
+    {
+      "t": 846.38,
+      "text": "Easier said than done."
+    },
+    {
+      "t": 847.8,
+      "text": "How do you actually pull that off when someone's pushing your buttons?"
+    },
+    {
+      "t": 850.36,
+      "text": "They say, take a step back, literally walk away, breathe and remind yourself you're aiming for a solution, not winning a fight."
+    },
+    {
+      "t": 857.38,
+      "text": "OK, good point."
+    },
+    {
+      "t": 858.26,
+      "text": "Sometimes you just want to prove you're right, but that's not helpful in the long run."
+    },
+    {
+      "t": 862.02,
+      "text": "What else?"
+    },
+    {
+      "t": 862.66,
+      "text": "Active listening is huge here."
+    },
+    {
+      "t": 864.21,
+      "text": "Really hear their side before you react."
+    },
+    {
+      "t": 866.81,
+      "text": "So not just planning your response while they're talking, but actually trying to understand their point of view, even if you disagree."
+    },
+    {
+      "t": 873.84,
+      "text": "Right."
+    },
+    {
+      "t": 874.5,
+      "text": "And then when you say your piece, be clear and respectful, no blaming or attacking."
+    },
+    {
+      "t": 880.0,
+      "text": "Tough when you're frustrated, though."
+    },
+    {
+      "t": 881.43,
+      "text": "It is."
+    },
+    {
+      "t": 881.93,
+      "text": "But remember, focus on the problem, not the person."
+    },
+    {
+      "t": 884.99,
+      "text": "They suggest I statements instead of you statements."
+    },
+    {
+      "t": 888.82,
+      "text": "Like, I feel stressed when deadlines are missed instead of you're always late."
+    },
+    {
+      "t": 892.68,
+      "text": "Perfect."
+    },
+    {
+      "t": 893.75,
+      "text": "It's your experience, not an accusation."
+    },
+    {
+      "t": 896.53,
+      "text": "And empathy is really important here, too."
+    },
+    {
+      "t": 898.41,
+      "text": "Even if you don't agree, understanding their side and acknowledging their feelings can calm things down."
+    },
+    {
+      "t": 903.82,
+      "text": "It's about finding that common ground, remembering we're all human, even when we disagree."
+    },
+    {
+      "t": 908.37,
+      "text": "And in the end, the goal is to find a solution that works, not to win the argument."
+    },
+    {
+      "t": 913.48,
+      "text": "So collaborate, find a win-win."
+    },
+    {
+      "t": 915.28,
+      "text": "They say it's not about winning."
+    },
+    {
+      "t": 917.16,
+      "text": "It's about moving forward in a way that works for everyone."
+    },
+    {
+      "t": 920.11,
+      "text": "Now, they also talk about communicating across cultures, which has its own challenges."
+    },
+    {
+      "t": 924.74,
+      "text": "Right."
+    },
+    {
+      "t": 925.02,
+      "text": "Different cultures have different ways of communicating, and that can easily lead to misunderstandings."
+    },
+    {
+      "t": 929.63,
+      "text": "They say awareness is key."
+    },
+    {
+      "t": 931.46,
+      "text": "Take the time to learn how different cultures communicate."
+    },
+    {
+      "t": 934.45,
+      "text": "So do your research."
+    },
+    {
+      "t": 935.87,
+      "text": "Be sensitive to what's normal for them."
+    },
+    {
+      "t": 937.97,
+      "text": "Exactly."
+    },
+    {
+      "t": 938.95,
+      "text": "Some cultures are very direct."
+    },
+    {
+      "t": 940.38,
+      "text": "Others like to hint and be subtle."
+    },
+    {
+      "t": 942.4,
+      "text": "You need to know that going in."
+    },
+    {
+      "t": 943.8,
+      "text": "So what about body language?"
+    },
+    {
+      "t": 945.28,
+      "text": "I bet that's a minefield across cultures."
+    },
+    {
+      "t": 947.78,
+      "text": "Big time."
+    },
+    {
+      "t": 948.9,
+      "text": "Eye contact, gestures, personal space, all different."
+    },
+    {
+      "t": 953.19,
+      "text": "Pay attention to your own body language and be observant of theirs."
+    },
+    {
+      "t": 956.97,
+      "text": "So be aware of what you're doing and how you're reading their signals, right?"
+    },
+    {
+      "t": 960.76,
+      "text": "You got it."
+    },
+    {
+      "t": 962.06,
+      "text": "And be patient, flexible."
+    },
+    {
+      "t": 964.35,
+      "text": "Don't assume you're always reading them right."
+    },
+    {
+      "t": 966.65,
+      "text": "And be willing to adapt your style to make everyone comfortable."
+    },
+    {
+      "t": 969.62,
+      "text": "It's about being curious and open to learning."
+    },
+    {
+      "t": 971.9,
+      "text": "And building that rapport, that trust is super important across cultures."
+    },
+    {
+      "t": 976.23,
+      "text": "Respect their culture and how they communicate."
+    },
+    {
+      "t": 978.44,
+      "text": "That goes a long way."
+    },
+    {
+      "t": 979.95,
+      "text": "All great points."
+    },
+    {
+      "t": 981.27,
+      "text": "It makes me think about being more intentional with communication in general, whether it's cultural differences or just someone who has a different style than you."
+    },
+    {
+      "t": 988.78,
+      "text": "Be aware of what you're saying, how you're saying it, and be open to what they're saying, too."
+    },
+    {
+      "t": 992.87,
+      "text": "It's about building connection, understanding."
+    },
+    {
+      "t": 995.18,
+      "text": "Speaking of understanding, let's get back to a skill we touched on before, listening."
+    },
+    {
+      "t": 999.97,
+      "text": "I'm all ears."
+    },
+    {
+      "t": 1001.21,
+      "text": "We talked about active listening, but I want to hear more about what they have to say on that."
+    },
+    {
+      "t": 1004.34,
+      "text": "They're really clear that listening isn't just passively letting words go in one ear and out the other."
+    },
+    {
+      "t": 1009.69,
+      "text": "It takes effort, focus."
+    },
+    {
+      "t": 1011.71,
+      "text": "You have to really want to get what the other person is saying."
+    },
+    {
+      "t": 1014.11,
+      "text": "So be in the moment, fully engaged with what they're saying."
+    },
+    {
+      "t": 1018.24,
+      "text": "What are some actual things you can do to become a better listener?"
+    },
+    {
+      "t": 1022.18,
+      "text": "They have a few suggestions."
+    },
+    {
+      "t": 1024.11,
+      "text": "First, ditch the distractions."
+    },
+    {
+      "t": 1026.75,
+      "text": "Phone away, laptop closed, create a space where you can actually focus on the conversation."
+    },
+    {
+      "t": 1031.6,
+      "text": "Second, your body language matters."
+    },
+    {
+      "t": 1033.94,
+      "text": "Make eye contact, nod, sit in a way that shows you're listening."
+    },
+    {
+      "t": 1038.01,
+      "text": "And third, ask questions to make sure you're understanding."
+    },
+    {
+      "t": 1041.25,
+      "text": "So be present mentally and physically."
+    },
+    {
+      "t": 1043.62,
+      "text": "Exactly."
+    },
+    {
+      "t": 1044.66,
+      "text": "And don't just listen to the words."
+    },
+    {
+      "t": 1046.64,
+      "text": "Pay attention to the emotions behind them too."
+    },
+    {
+      "t": 1049.1,
+      "text": "So listen for tone of voice, watch their face, try to get a sense of how they're feeling."
+    },
+    {
+      "t": 1054.17,
+      "text": "That's it."
+    },
+    {
+      "t": 1055.15,
+      "text": "And they say when you master this kind of listening, it builds trust in relationships."
+    },
+    {
+      "t": 1059.7,
+      "text": "People feel heard, understood, and it creates a stronger bond."
+    },
+    {
+      "t": 1063.75,
+      "text": "It creates that feeling of respect, empathy, which are so important for communication to really work."
+    },
+    {
+      "t": 1070.48,
+      "text": "And they even have some strategies for those situations where one person dominates the conversation and nobody else can get a word in."
+    },
+    {
+      "t": 1077.01,
+      "text": "Oh, I've been in those meetings."
+    },
+    {
+      "t": 1078.97,
+      "text": "So frustrating when you feel like your voice doesn't matter."
+    },
+    {
+      "t": 1081.71,
+      "text": "What do they suggest?"
+    },
+    {
+      "t": 1083.01,
+      "text": "They say politely but firmly interrupt and redirect."
+    },
+    {
+      "t": 1086.67,
+      "text": "Make sure everyone gets a chance to talk."
+    },
+    {
+      "t": 1088.86,
+      "text": "So be assertive but respectful."
+    },
+    {
+      "t": 1091.32,
+      "text": "You're looking out for everyone, not shutting anyone down."
+    },
+    {
+      "t": 1093.86,
+      "text": "Exactly."
+    },
+    {
+      "t": 1094.1,
+      "text": "You're making it a balanced conversation where everyone can contribute."
+    },
+    {
+      "t": 1097.19,
+      "text": "My biggest struggle with listening, staying focused."
+    },
+    {
+      "t": 1100.68,
+      "text": "Distractions are everywhere."
+    },
+    {
+      "t": 1101.86,
+      "text": "We all feel that."
+    },
+    {
+      "t": 1103.0,
+      "text": "But the more you practice being mindful, the better you get at it."
+    },
+    {
+      "t": 1106.2,
+      "text": "All right."
+    },
+    {
+      "t": 1106.78,
+      "text": "Good advice."
+    },
+    {
+      "t": 1108.22,
+      "text": "Now let's dive into something that can feel really tricky, adapting to different communication styles."
+    },
+    {
+      "t": 1114.73,
+      "text": "We all have our own way of talking, right?"
+    },
+    {
+      "t": 1116.91,
+      "text": "Some people are straight to the point."
+    },
+    {
+      "t": 1118.09,
+      "text": "Others like all the details."
+    },
+    {
+      "t": 1120.08,
+      "text": "And they really hammer home that you need to understand those differences and adjust how you communicate."
+    },
+    {
+      "t": 1124.82,
+      "text": "So be flexible, change your approach based on who you're talking to."
+    },
+    {
+      "t": 1128.91,
+      "text": "Right."
+    },
+    {
+      "t": 1129.69,
+      "text": "Pay attention to how they like to communicate."
+    },
+    {
+      "t": 1131.99,
+      "text": "Are they concise or do they want the whole story?"
+    },
+    {
+      "t": 1134.8,
+      "text": "Are they direct or more subtle?"
+    },
+    {
+      "t": 1137.99,
+      "text": "Then adjust how you talk to them."
+    },
+    {
+      "t": 1139.65,
+      "text": "So you have to be a bit of a communication detective, figure out their style."
+    },
+    {
+      "t": 1143.75,
+      "text": "I like that."
+    },
+    {
+      "t": 1145.15,
+      "text": "Gather the clues and adapt your approach."
+    },
+    {
+      "t": 1147.7,
+      "text": "They even give specific tips for certain types of people."
+    },
+    {
+      "t": 1150.88,
+      "text": "Like with executives, keep it brief and focus on results."
+    },
+    {
+      "t": 1154.39,
+      "text": "No long explanations, just the bottom line."
+    },
+    {
+      "t": 1156.49,
+      "text": "Yep."
+    },
+    {
+      "t": 1157.21,
+      "text": "Executives are busy."
+    },
+    {
+      "t": 1158.16,
+      "text": "They want results."
+    },
+    {
+      "t": 1159.04,
+      "text": "So they appreciate clear, concise communication that focuses on the outcome."
+    },
+    {
+      "t": 1164.19,
+      "text": "Makes sense."
+    },
+    {
+      "t": 1164.91,
+      "text": "What about when you're communicating with new people on the team?"
+    },
+    {
+      "t": 1167.46,
+      "text": "Then they suggest being more patient and explaining things more."
+    },
+    {
+      "t": 1170.86,
+      "text": "New folks need more context and guidance, so be clear and thorough."
+    },
+    {
+      "t": 1175.17,
+      "text": "Okay, that makes sense."
+    },
+    {
+      "t": 1176.21,
+      "text": "And of course, cultural differences play a huge role, especially in global teams these days."
+    },
+    {
+      "t": 1180.34,
+      "text": "They're big on cultural awareness."
+    },
+    {
+      "t": 1182.38,
+      "text": "Take the time to learn how different cultures communicate."
+    },
+    {
+      "t": 1184.9,
+      "text": "It can prevent a lot of problems and help you build stronger relationships."
+    },
+    {
+      "t": 1188.97,
+      "text": "For sure."
+    },
+    {
+      "t": 1189.87,
+      "text": "And sometimes, even when you're trying your best to communicate clearly, misunderstandings still happen."
+    },
+    {
+      "t": 1196.33,
+      "text": "They're big on using feedback to fix that."
+    },
+    {
+      "t": 1199.28,
+      "text": "Don't be afraid to ask if they understood or if you need to clarify something."
+    },
+    {
+      "t": 1203.3,
+      "text": "So communication isn't just about sending the information."
+    },
+    {
+      "t": 1206.28,
+      "text": "It's about making sure it was actually received and understood."
+    },
+    {
+      "t": 1209.42,
+      "text": "You got it."
+    },
+    {
+      "t": 1210.11,
+      "text": "It's a two-way street."
+    },
+    {
+      "t": 1211.89,
+      "text": "Sending and receiving information properly."
+    },
+    {
+      "t": 1214.43,
+      "text": "Well, this has been eye-opening."
+    },
+    {
+      "t": 1215.77,
+      "text": "It feels like a good place to take a break."
+    },
+    {
+      "t": 1217.13,
+      "text": "We've covered so much from being clear and empathetic to those nonverbal cues and becoming a better listener."
+    },
+    {
+      "t": 1222.78,
+      "text": "And there's so much more to come."
+    },
+    {
+      "t": 1224.87,
+      "text": "Stay tuned for part three of our deep dive into effective communication, where we'll look at building stronger relationships, dealing with tough conversations, and how to use technology without losing that human connection."
+    },
+    {
+      "t": 1236.26,
+      "text": "See you soon."
+    },
+    {
+      "t": 1237.05,
+      "text": "Okay, I'm ready to put those active listening skills into practice."
+    },
+    {
+      "t": 1241.23,
+      "text": "It's interesting how they emphasize that listening is so crucial in the workplace, not just for building those relationships, but for problem solving and even giving feedback."
+    },
+    {
+      "t": 1251.21,
+      "text": "Which actually reminds me, they had some really insightful things to say about feedback itself, didn't they?"
+    },
+    {
+      "t": 1256.16,
+      "text": "Oh, they did."
+    },
+    {
+      "t": 1256.8,
+      "text": "It comes up a lot in these conversations."
+    },
+    {
+      "t": 1258.84,
+      "text": "They see feedback as essential, like truly essential for growth, both at work and just in life."
+    },
+    {
+      "t": 1264.59,
+      "text": "It's a gift, helps you see your blind spots, get better at things, and be more effective."
+    },
+    {
+      "t": 1269.93,
+      "text": "But giving feedback well, that can be tricky."
+    },
+    {
+      "t": 1272.81,
+      "text": "You want to help but not sound like you're just criticizing."
+    },
+    {
+      "t": 1275.86,
+      "text": "Oh, yeah, it's a fine line."
+    },
+    {
+      "t": 1277.5,
+      "text": "But they have some great tips for getting it right."
+    },
+    {
+      "t": 1279.68,
+      "text": "First, they say focus on specific things the person did, not their personality."
+    },
+    {
+      "t": 1284.69,
+      "text": "So instead of you're disorganized, it's more like I noticed the reports last week had some formatting inconsistencies."
+    },
+    {
+      "t": 1290.98,
+      "text": "Be specific."
+    },
+    {
+      "t": 1291.74,
+      "text": "Give examples."
+    },
+    {
+      "t": 1292.66,
+      "text": "Right."
+    },
+    {
+      "t": 1293.06,
+      "text": "And they talk about offering solutions, not just pointing out problems."
+    },
+    {
+      "t": 1296.31,
+      "text": "So give them something to work with, a way to actually improve."
+    },
+    {
+      "t": 1299.52,
+      "text": "And be mindful of their feelings."
+    },
+    {
+      "t": 1301.89,
+      "text": "Even when you're giving tough feedback, be empathetic and respectful."
+    },
+    {
+      "t": 1305.19,
+      "text": "Makes sense."
+    },
+    {
+      "t": 1306.21,
+      "text": "And they talk about receiving feedback well too, right?"
+    },
+    {
+      "t": 1308.8,
+      "text": "Being open to it, seeing it as a way to learn."
+    },
+    {
+      "t": 1311.82,
+      "text": "Yeah, it's not always fun to hear criticism, even if it's meant well."
+    },
+    {
+      "t": 1316.11,
+      "text": "But try to see it as a gift, a chance to get better."
+    },
+    {
+      "t": 1319.17,
+      "text": "And remember, the person giving it probably wants you to succeed."
+    },
+    {
+      "t": 1323.44,
+      "text": "Now, another thing they talked about, which is often overlooked, is nonverbal communication."
+    },
+    {
+      "t": 1327.94,
+      "text": "Ah, yes, body language, facial expressions, tone of voice, all that unspoken stuff."
+    },
+    {
+      "t": 1333.41,
+      "text": "They talk about how those nonverbal cues can be so powerful, sometimes even stronger than what you actually say."
+    },
+    {
+      "t": 1338.87,
+      "text": "They say, especially at work, be aware of your own body language."
+    },
+    {
+      "t": 1343.28,
+      "text": "Posture, eye contact, your tone, even subtle things can say a lot about how confident you are, how engaged you are, what your intentions are."
+    },
+    {
+      "t": 1351.55,
+      "text": "So think about how you're presenting yourself."
+    },
+    {
+      "t": 1353.55,
+      "text": "Make sure it matches what you're trying to say."
+    },
+    {
+      "t": 1355.55,
+      "text": "And pay attention to other people's nonverbal cues, too."
+    },
+    {
+      "t": 1358.84,
+      "text": "Pick up on those little hints that tell you how they really feel, even if their words are saying something different."
+    },
+    {
+      "t": 1363.95,
+      "text": "They talk about how sometimes your words and your body language don't match up."
+    },
+    {
+      "t": 1367.95,
+      "text": "Like someone says, I'm fine, but everything else screams, I'm stressed."
+    },
+    {
+      "t": 1372.04,
+      "text": "So you've got to pay attention to that mismatch and try to understand the whole message, not just the words."
+    },
+    {
+      "t": 1376.79,
+      "text": "Right."
+    },
+    {
+      "t": 1377.25,
+      "text": "And they say, make sure your own words and body language are telling the same story."
+    },
+    {
+      "t": 1381.18,
+      "text": "Otherwise, people get confused."
+    },
+    {
+      "t": 1382.86,
+      "text": "They don't trust what you're saying."
+    },
+    {
+      "t": 1384.26,
+      "text": "Makes sense."
+    },
+    {
+      "t": 1385.23,
+      "text": "Do they give any tips on using nonverbal communication effectively?"
+    },
+    {
+      "t": 1388.8,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 1389.22,
+      "text": "They have a bunch."
+    },
+    {
+      "t": 1390.02,
+      "text": "Like maintain good eye contact to show you're engaged."
+    },
+    {
+      "t": 1393.82,
+      "text": "Use gestures to emphasize things and try mirroring the other person's body language a little to build rapport."
+    },
+    {
+      "t": 1400.19,
+      "text": "So even small things can make a difference."
+    },
+    {
+      "t": 1402.54,
+      "text": "And be aware of cultural differences, too."
+    },
+    {
+      "t": 1404.84,
+      "text": "What's polite in one culture might be rude in another."
+    },
+    {
+      "t": 1408.16,
+      "text": "True."
+    },
+    {
+      "t": 1408.81,
+      "text": "Do your homework."
+    },
+    {
+      "t": 1409.77,
+      "text": "Be sensitive to those differences."
+    },
+    {
+      "t": 1411.93,
+      "text": "Now, what about those virtual meetings where you don't get all those nonverbal cues?"
+    },
+    {
+      "t": 1416.17,
+      "text": "It's tough."
+    },
+    {
+      "t": 1416.79,
+      "text": "You don't have the full picture, so it's harder to read people."
+    },
+    {
+      "t": 1419.62,
+      "text": "They say to pay close attention to facial expressions, tone of voice, even their background, to try to get a better sense of how they're feeling."
+    },
+    {
+      "t": 1427.07,
+      "text": "Good points."
+    },
+    {
+      "t": 1428.33,
+      "text": "Be extra observant."
+    },
+    {
+      "t": 1429.81,
+      "text": "Use everything you can to understand what they're really saying."
+    },
+    {
+      "t": 1432.91,
+      "text": "And they talk about the power of silence again."
+    },
+    {
+      "t": 1435.49,
+      "text": "I love that they bring that up."
+    },
+    {
+      "t": 1436.75,
+      "text": "We always want to fill the space with words, but they say sometimes a pause is more powerful than anything you could say."
+    },
+    {
+      "t": 1443.78,
+      "text": "Use it strategically."
+    },
+    {
+      "t": 1445.08,
+      "text": "Don't rush to fill the gap."
+    },
+    {
+      "t": 1446.82,
+      "text": "Let that quiet moment create space to think, to let things sink in."
+    },
+    {
+      "t": 1451.13,
+      "text": "It's true."
+    },
+    {
+      "t": 1452.19,
+      "text": "Sometimes those pauses say more than words ever could."
+    },
+    {
+      "t": 1457.82,
+      "text": "You know, this whole deep dive has really made me realize how complicated communication is."
+    },
+    {
+      "t": 1462.46,
+      "text": "It's so much more than just talking."
+    },
+    {
+      "t": 1464.49,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1465.13,
+      "text": "Being aware of what you're saying, how you're saying it, how other people communicate."
+    },
+    {
+      "t": 1469.26,
+      "text": "It's a lot to think about."
+    },
+    {
+      "t": 1470.34,
+      "text": "And being a good listener, understanding different styles, being sensitive to cultures."
+    },
+    {
+      "t": 1474.89,
+      "text": "It's all part of it."
+    },
+    {
+      "t": 1475.87,
+      "text": "Building connections, finding that understanding."
+    },
+    {
+      "t": 1477.93,
+      "text": "That's what it's all about."
+    },
+    {
+      "t": 1478.99,
+      "text": "And these professionals, they really believe that good communication can change things, not just at work, but in the world."
+    },
+    {
+      "t": 1485.3,
+      "text": "That's a great thought."
+    },
+    {
+      "t": 1486.48,
+      "text": "So it's not just about getting things done."
+    },
+    {
+      "t": 1488.37,
+      "text": "It's about making the world a better place."
+    },
+    {
+      "t": 1490.61,
+      "text": "Exactly."
+    },
+    {
+      "t": 1491.41,
+      "text": "Using these skills to build bridges, resolve conflicts, create a more understanding and compassionate world."
+    },
+    {
+      "t": 1497.97,
+      "text": "I love that."
+    },
+    {
+      "t": 1499.01,
+      "text": "So be mindful, be intentional, communicate with clarity, empathy, and respect."
+    },
+    {
+      "t": 1505.21,
+      "text": "That's it."
+    },
+    {
+      "t": 1506.15,
+      "text": "And that wraps up our deep dive into effective communication."
+    },
+    {
+      "t": 1509.18,
+      "text": "I hope you found it useful and interesting."
+    },
+    {
+      "t": 1511.54,
+      "text": "It's been amazing."
+    },
+    {
+      "t": 1512.4,
+      "text": "And for me, the biggest takeaway is that communication is a skill you can always improve."
+    },
+    {
+      "t": 1517.63,
+      "text": "Keep learning, keep practicing, and keep trying to connect with people genuinely and respectfully, and you'll see how powerful communication can be."
+    },
+    {
+      "t": 1526.04,
+      "text": "One last thought for you to ponder."
+    },
+    {
+      "t": 1527.68,
+      "text": "These professionals we learned from really emphasized being adaptable in your communication."
+    },
+    {
+      "t": 1531.99,
+      "text": "Thinking back on your own work experiences, is there a time when you could have been more flexible?"
+    },
+    {
+      "t": 1537.66,
+      "text": "That's a great question."
+    },
+    {
+      "t": 1539.38,
+      "text": "Until next time, keep diving deep."
+    },
+    {
+      "t": 1541.61,
+      "text": "All right, everyone, get ready, because today we are going to deep dive into effective communication."
+    },
+    {
+      "t": 1550.54,
+      "text": "And, you know, specifically how it all works in business settings."
+    },
+    {
+      "t": 1556.47,
+      "text": "We are going to be looking at some simulated conversations from your files."
+    },
+    {
+      "t": 1560.48,
+      "text": "And some of these scenarios are so real, it's spooky."
+    },
+    {
+      "t": 1563.84,
+      "text": "Yeah, they really throw you right in."
+    },
+    {
+      "t": 1565.0,
+      "text": "Think of us as your coaches."
+    },
+    {
+      "t": 1566.59,
+      "text": "Yeah."
+    },
+    {
+      "t": 1566.99,
+      "text": "You know, your communication coaches helping you break down exactly what to say."
+    },
+    {
+      "t": 1570.5,
+      "text": "And it's interesting because they really go beyond just, you know, your textbook definitions."
+    },
+    {
+      "t": 1576.75,
+      "text": "No, totally."
+    },
+    {
+      "t": 1577.47,
+      "text": "Active listening, body language."
+    },
+    {
+      "t": 1579.02,
+      "text": "Yes."
+    },
+    {
+      "t": 1579.24,
+      "text": "It's really all about application."
+    },
+    {
+      "t": 1581.08,
+      "text": "Exactly."
+    },
+    {
+      "t": 1581.72,
+      "text": "Remember that simulation with the sales team and that huge client?"
+    },
+    {
+      "t": 1585.29,
+      "text": "And it really all came down to how they were handling those initial objections."
+    },
+    {
+      "t": 1589.25,
+      "text": "Right."
+    },
+    {
+      "t": 1589.63,
+      "text": "The way they use specific questions to kind of dig deeper into the client's concerns."
+    },
+    {
+      "t": 1593.7,
+      "text": "Yeah."
+    },
+    {
+      "t": 1594.18,
+      "text": "That was masterful."
+    },
+    {
+      "t": 1595.14,
+      "text": "It really was."
+    },
+    {
+      "t": 1595.68,
+      "text": "It was like instead of just presenting their pitch, it was more like, you know, can we solve this together?"
+    },
+    {
+      "t": 1600.61,
+      "text": "Yeah."
+    },
+    {
+      "t": 1601.07,
+      "text": "And they would ask things like, what are your biggest hesitations about moving forward with this?"
+    },
+    {
+      "t": 1605.17,
+      "text": "Yes."
+    },
+    {
+      "t": 1605.53,
+      "text": "Or if we could address X concern, would you feel differently?"
+    },
+    {
+      "t": 1608.91,
+      "text": "Exactly."
+    },
+    {
+      "t": 1609.74,
+      "text": "It was really neat to see how they did that."
+    },
+    {
+      "t": 1611.46,
+      "text": "I think one of the takeaways here is that it's not just about being nice or polite."
+    },
+    {
+      "t": 1615.77,
+      "text": "Right."
+    },
+    {
+      "t": 1616.12,
+      "text": "It's about strategic communication to get you what you want."
+    },
+    {
+      "t": 1620.07,
+      "text": "Totally."
+    },
+    {
+      "t": 1620.53,
+      "text": "And it was really cool to see how those little changes in language can just completely change a conversation."
+    },
+    {
+      "t": 1626.26,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1626.94,
+      "text": "And it was so interesting to see how those nonverbal cues played in."
+    },
+    {
+      "t": 1632.55,
+      "text": "There was that one performance review."
+    },
+    {
+      "t": 1634.19,
+      "text": "Yes."
+    },
+    {
+      "t": 1634.79,
+      "text": "And the manager was giving positive feedback, but their arms were crossed."
+    },
+    {
+      "t": 1638.56,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 1639.56,
+      "text": "I remember that one."
+    },
+    {
+      "t": 1640.48,
+      "text": "It was like so awkward."
+    },
+    {
+      "t": 1641.83,
+      "text": "Yeah."
+    },
+    {
+      "t": 1642.09,
+      "text": "Talk about mixed messages."
+    },
+    {
+      "t": 1643.43,
+      "text": "It was so clear that their body was saying something different than their words."
+    },
+    {
+      "t": 1647.43,
+      "text": "Right."
+    },
+    {
+      "t": 1647.58,
+      "text": "And the employee even said, I hear what you're saying, but I just don't believe it."
+    },
+    {
+      "t": 1651.92,
+      "text": "And that's really where self-awareness is so important."
+    },
+    {
+      "t": 1654.37,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 1654.87,
+      "text": "If they had been paying attention to what they were putting out there non-verbally."
+    },
+    {
+      "t": 1658.47,
+      "text": "Right."
+    },
+    {
+      "t": 1658.69,
+      "text": "You know, it would have been a completely different situation."
+    },
+    {
+      "t": 1661.46,
+      "text": "It's almost like this constant feedback loop."
+    },
+    {
+      "t": 1664.34,
+      "text": "You know, we're always sending and receiving signals."
+    },
+    {
+      "t": 1667.63,
+      "text": "Right."
+    },
+    {
+      "t": 1667.77,
+      "text": "And being aware of those signals can really make a difference."
+    },
+    {
+      "t": 1671.17,
+      "text": "Totally."
+    },
+    {
+      "t": 1671.67,
+      "text": "And the simulations really force you to think about those little things."
+    },
+    {
+      "t": 1675.54,
+      "text": "Yeah."
+    },
+    {
+      "t": 1675.88,
+      "text": "Especially in high pressure situations."
+    },
+    {
+      "t": 1677.66,
+      "text": "Yes."
+    },
+    {
+      "t": 1678.44,
+      "text": "You know, it's not always about finding the perfect words."
+    },
+    {
+      "t": 1680.85,
+      "text": "Right."
+    },
+    {
+      "t": 1680.99,
+      "text": "It's about reading the room and adapting."
+    },
+    {
+      "t": 1683.11,
+      "text": "Exactly."
+    },
+    {
+      "t": 1684.05,
+      "text": "And speaking of adapting, you know, one of the things that these simulations really got me thinking about was dealing with difficult conversations."
+    },
+    {
+      "t": 1692.25,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 1692.73,
+      "text": "We've all been there."
+    },
+    {
+      "t": 1693.69,
+      "text": "For sure."
+    },
+    {
+      "t": 1694.33,
+      "text": "When emotions are high and you feel like everything's on the line."
+    },
+    {
+      "t": 1697.48,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1698.1,
+      "text": "And I was really struck by the fact that it wasn't about."
+    },
+    {
+      "t": 1701.18,
+      "text": "avoiding conflict right it was about navigating it like that negotiation where the two team leads were butting heads over resources right and the person who came out on top didn't try to steamroll the other person yeah they actually took time to acknowledge the other person's perspective."
+    },
+    {
+      "t": 1720.57,
+      "text": "It's so important."
+    },
+    {
+      "t": 1721.43,
+      "text": "And they even said, I understand that you're under pressure too."
+    },
+    {
+      "t": 1725.2,
+      "text": "Yeah."
+    },
+    {
+      "t": 1725.32,
+      "text": "And that's why."
+    },
+    {
+      "t": 1726.5,
+      "text": "That's what they call tactical empathy."
+    },
+    {
+      "t": 1728.36,
+      "text": "Yes."
+    },
+    {
+      "t": 1728.92,
+      "text": "It's not about agreeing with them."
+    },
+    {
+      "t": 1730.12,
+      "text": "It's just showing that you get where they're coming from."
+    },
+    {
+      "t": 1733.45,
+      "text": "Right."
+    },
+    {
+      "t": 1733.87,
+      "text": "You know."
+    },
+    {
+      "t": 1734.41,
+      "text": "And it was really cool to see how they used I statements too."
+    },
+    {
+      "t": 1737.88,
+      "text": "Instead of saying, you're being unreasonable."
+    },
+    {
+      "t": 1741.24,
+      "text": "Right."
+    },
+    {
+      "t": 1741.52,
+      "text": "They said, I'm feeling concerned that we haven't reached a solution that works for both of us."
+    },
+    {
+      "t": 1747.07,
+      "text": "Right."
+    },
+    {
+      "t": 1747.21,
+      "text": "And it takes it away from blame and puts it more on collaboration."
+    },
+    {
+      "t": 1750.35,
+      "text": "Totally."
+    },
+    {
+      "t": 1750.49,
+      "text": "Totally."
+    },
+    {
+      "t": 1751.09,
+      "text": "But you know what's interesting?"
+    },
+    {
+      "t": 1752.09,
+      "text": "It's that."
+    },
+    {
+      "t": 1752.63,
+      "text": "Even though I statements are supposed to be this, you know, cure all."
+    },
+    {
+      "t": 1756.98,
+      "text": "Right."
+    },
+    {
+      "t": 1757.4,
+      "text": "Sometimes they can actually backfire."
+    },
+    {
+      "t": 1759.38,
+      "text": "There was one where they used too many I statements and it just seemed really passive, manipulative."
+    },
+    {
+      "t": 1765.47,
+      "text": "Yeah."
+    },
+    {
+      "t": 1765.75,
+      "text": "It's all about knowing when to use which technique."
+    },
+    {
+      "t": 1768.42,
+      "text": "Exactly."
+    },
+    {
+      "t": 1768.82,
+      "text": "And when not to."
+    },
+    {
+      "t": 1769.62,
+      "text": "Right."
+    },
+    {
+      "t": 1769.92,
+      "text": "And it's about understanding the context and using it strategically."
+    },
+    {
+      "t": 1773.83,
+      "text": "Yes."
+    },
+    {
+      "t": 1774.43,
+      "text": "Exactly."
+    },
+    {
+      "t": 1774.71,
+      "text": "It's not just about throwing out techniques."
+    },
+    {
+      "t": 1777.91,
+      "text": "Right."
+    },
+    {
+      "t": 1778.05,
+      "text": "And that leads us to another tricky area that they explored in the simulations."
+    },
+    {
+      "t": 1782.78,
+      "text": "Okay."
+    },
+    {
+      "t": 1782.98,
+      "text": "Cross-cultural communication."
+    },
+    {
+      "t": 1784.82,
+      "text": "Yes."
+    },
+    {
+      "t": 1785.26,
+      "text": "There was that scenario with a team from the US working with a team in Japan."
+    },
+    {
+      "t": 1790.23,
+      "text": "Right."
+    },
+    {
+      "t": 1790.91,
+      "text": "And there were some serious miscommunications about deadlines and expectations."
+    },
+    {
+      "t": 1795.72,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 1796.28,
+      "text": "It was so interesting to see how even little things like how direct you are."
+    },
+    {
+      "t": 1801.36,
+      "text": "Yes."
+    },
+    {
+      "t": 1801.72,
+      "text": "Can cause big problems."
+    },
+    {
+      "t": 1803.37,
+      "text": "Yeah."
+    },
+    {
+      "t": 1803.49,
+      "text": "Like the U.S. team was all about getting straight to the point."
+    },
+    {
+      "t": 1807.03,
+      "text": "Right."
+    },
+    {
+      "t": 1807.55,
+      "text": "And the Japanese team was much more indirect."
+    },
+    {
+      "t": 1810.48,
+      "text": "And it really created tension."
+    },
+    {
+      "t": 1812.88,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 1813.28,
+      "text": "The U.S. team thought the Japanese team was being evasive."
+    },
+    {
+      "t": 1815.94,
+      "text": "Right."
+    },
+    {
+      "t": 1816.46,
+      "text": "And the Japanese team thought the U.S. team was being rude."
+    },
+    {
+      "t": 1819.31,
+      "text": "It was a mess."
+    },
+    {
+      "t": 1820.75,
+      "text": "But you know what?"
+    },
+    {
+      "t": 1821.51,
+      "text": "Neither team was intentionally trying to be difficult."
+    },
+    {
+      "t": 1824.58,
+      "text": "That's true."
+    },
+    {
+      "t": 1825.28,
+      "text": "It was just a clash of styles."
+    },
+    {
+      "t": 1827.4,
+      "text": "It really highlights how important it is to be aware of those cultural nuances."
+    },
+    {
+      "t": 1832.03,
+      "text": "Yeah."
+    },
+    {
+      "t": 1832.41,
+      "text": "And adapt accordingly."
+    },
+    {
+      "t": 1833.74,
+      "text": "It's almost like learning another language."
+    },
+    {
+      "t": 1835.4,
+      "text": "Exactly."
+    },
+    {
+      "t": 1835.86,
+      "text": "You know, you've got to learn the rules."
+    },
+    {
+      "t": 1837.57,
+      "text": "Got it."
+    },
+    {
+      "t": 1838.11,
+      "text": "Okay, so we've talked about active listening, body language, difficult conversation, even cross-cultural communication."
+    },
+    {
+      "t": 1845.79,
+      "text": "Right."
+    },
+    {
+      "t": 1846.29,
+      "text": "But there's another big thing that the simulations looked at."
+    },
+    {
+      "t": 1850.28,
+      "text": "What's that?"
+    },
+    {
+      "t": 1851.0,
+      "text": "Technology."
+    },
+    {
+      "t": 1851.88,
+      "text": "Oh, yeah, the double-edged sword."
+    },
+    {
+      "t": 1853.39,
+      "text": "It's given us amazing tools for connecting with people around the world."
+    },
+    {
+      "t": 1857.08,
+      "text": "For sure."
+    },
+    {
+      "t": 1857.66,
+      "text": "But it's also created new challenges."
+    },
+    {
+      "t": 1859.91,
+      "text": "Oh, absolutely."
+    },
+    {
+      "t": 1860.73,
+      "text": "For effective communication."
+    },
+    {
+      "t": 1862.41,
+      "text": "Yeah."
+    },
+    {
+      "t": 1862.87,
+      "text": "I mean, think about how many different ways we communicate now."
+    },
+    {
+      "t": 1865.7,
+      "text": "Right."
+    },
+    {
+      "t": 1866.08,
+      "text": "Email, instant messaging, video conferencing, social media."
+    },
+    {
+      "t": 1870.64,
+      "text": "Right."
+    },
+    {
+      "t": 1870.78,
+      "text": "It's a lot."
+    },
+    {
+      "t": 1871.53,
+      "text": "It's a lot to juggle."
+    },
+    {
+      "t": 1872.63,
+      "text": "Uh-huh."
+    },
+    {
+      "t": 1873.09,
+      "text": "And the simulations really showed how it can go wrong."
+    },
+    {
+      "t": 1876.23,
+      "text": "Yeah."
+    },
+    {
+      "t": 1876.78,
+      "text": "Like that team that relied too much on email for a complex project."
+    },
+    {
+      "t": 1880.84,
+      "text": "It was a total disaster."
+    },
+    {
+      "t": 1882.47,
+      "text": "Important details got lost in these long email chains."
+    },
+    {
+      "t": 1886.58,
+      "text": "And there was just this constant miscommunication."
+    },
+    {
+      "t": 1888.96,
+      "text": "That is mess."
+    },
+    {
+      "t": 1889.74,
+      "text": "Yeah."
+    },
+    {
+      "t": 1890.44,
+      "text": "And then there was another one where a team was using a messaging app for everything."
+    },
+    {
+      "t": 1894.89,
+      "text": "And it just led to all these misinterpretations and feelings."
+    },
+    {
+      "t": 1898.44,
+      "text": "Because the tone just got lost."
+    },
+    {
+      "t": 1899.94,
+      "text": "Right, exactly."
+    },
+    {
+      "t": 1901.3,
+      "text": "It's a classic example of using the wrong tool for the job."
+    },
+    {
+      "t": 1904.37,
+      "text": "Totally."
+    },
+    {
+      "t": 1904.79,
+      "text": "And the simulations really showed how important it is to be strategic about which communication channel you use."
+    },
+    {
+      "t": 1911.06,
+      "text": "And, you know, beware of the limitations of each one."
+    },
+    {
+      "t": 1914.24,
+      "text": "For sure."
+    },
+    {
+      "t": 1914.76,
+      "text": "Like maybe email is great for sending project updates."
+    },
+    {
+      "t": 1917.35,
+      "text": "Yeah."
+    },
+    {
+      "t": 1917.77,
+      "text": "But maybe a quick phone call is better for resolving conflict or brainstorming ideas."
+    },
+    {
+      "t": 1922.08,
+      "text": "Exactly."
+    },
+    {
+      "t": 1922.76,
+      "text": "It all comes back to being adaptable."
+    },
+    {
+      "t": 1925.84,
+      "text": "Yeah."
+    },
+    {
+      "t": 1926.18,
+      "text": "Being aware of the strengths and weaknesses of each tool and choosing the right one."
+    },
+    {
+      "t": 1930.17,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1931.19,
+      "text": "And that's a great place to pause for now."
+    },
+    {
+      "t": 1934.13,
+      "text": "Okay."
+    },
+    {
+      "t": 1934.92,
+      "text": "In part two, we are going to be delving even deeper into these simulations."
+    },
+    {
+      "t": 1940.07,
+      "text": "Sounds good."
+    },
+    {
+      "t": 1940.47,
+      "text": "We're going to be exploring how they handle those all-important professional relationships and reveal some even more advanced communication techniques to give you an edge."
+    },
+    {
+      "t": 1949.97,
+      "text": "I like it."
+    },
+    {
+      "t": 1950.63,
+      "text": "Stay tuned."
+    },
+    {
+      "t": 1951.27,
+      "text": "Can't wait."
+    },
+    {
+      "t": 1952.07,
+      "text": "Welcome back, you guys."
+    },
+    {
+      "t": 1954.02,
+      "text": "I am still thinking about those communication simulations."
+    },
+    {
+      "t": 1957.14,
+      "text": "Me too."
+    },
+    {
+      "t": 1957.7,
+      "text": "It's amazing how much we can learn from watching other people mess up, even if it is simulated."
+    },
+    {
+      "t": 1963.85,
+      "text": "Yeah."
+    },
+    {
+      "t": 1964.37,
+      "text": "And what really struck me in this next batch was how important relationships are."
+    },
+    {
+      "t": 1970.18,
+      "text": "Yes."
+    },
+    {
+      "t": 1970.56,
+      "text": "You know, we can have all the skills and techniques in the world."
+    },
+    {
+      "t": 1972.74,
+      "text": "Right."
+    },
+    {
+      "t": 1973.18,
+      "text": "But if we don't have good relationships with our colleagues."
+    },
+    {
+      "t": 1975.63,
+      "text": "Exactly."
+    },
+    {
+      "t": 1976.11,
+      "text": "We're not going to get very far."
+    },
+    {
+      "t": 1977.49,
+      "text": "And I think the simulation showed that trust is not something that just happens."
+    },
+    {
+      "t": 1983.07,
+      "text": "Right."
+    },
+    {
+      "t": 1983.45,
+      "text": "It takes time and effort."
+    },
+    {
+      "t": 1985.37,
+      "text": "Yeah, there was that one with the new team leader."
+    },
+    {
+      "t": 1987.54,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 1987.94,
+      "text": "Who was always missing deadlines and breaking promises."
+    },
+    {
+      "t": 1991.64,
+      "text": "I remember that."
+    },
+    {
+      "t": 1992.93,
+      "text": "It was tough to watch."
+    },
+    {
+      "t": 1994.02,
+      "text": "It really showed how actions speak louder than words, especially when it comes to trust."
+    },
+    {
+      "t": 2000.13,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2000.75,
+      "text": "And then there was another one where the manager was super supportive during a really tough project."
+    },
+    {
+      "t": 2007.32,
+      "text": "They were always there to answer questions and offer encouragement."
+    },
+    {
+      "t": 2010.77,
+      "text": "It was amazing."
+    },
+    {
+      "t": 2011.33,
+      "text": "They even jumped in to help with tasks."
+    },
+    {
+      "t": 2013.15,
+      "text": "You could just feel the team getting closer."
+    },
+    {
+      "t": 2015.05,
+      "text": "Yeah, it was great."
+    },
+    {
+      "t": 2016.14,
+      "text": "And you know what's interesting?"
+    },
+    {
+      "t": 2017.38,
+      "text": "What?"
+    },
+    {
+      "t": 2017.96,
+      "text": "That same manager wasn't afraid to give constructive criticism, but because there was already that foundation of trust, the team was actually open to the feedback."
+    },
+    {
+      "t": 2028.97,
+      "text": "Yeah, it shows that trust is just so essential for good communication."
+    },
+    {
+      "t": 2033.62,
+      "text": "It makes me think of that quote, people don't care how much you know until they know how much you care."
+    },
+    {
+      "t": 2038.41,
+      "text": "That's a good one."
+    },
+    {
+      "t": 2040.15,
+      "text": "And speaking of caring, those simulations also highlighted how important it is to be responsive."
+    },
+    {
+      "t": 2046.78,
+      "text": "Oh, for sure."
+    },
+    {
+      "t": 2047.64,
+      "text": "You know, like there was that one where the team member was always ignoring emails and messages."
+    },
+    {
+      "t": 2052.13,
+      "text": "It's the worst."
+    },
+    {
+      "t": 2052.79,
+      "text": "It really slowed everything down."
+    },
+    {
+      "t": 2054.33,
+      "text": "Yeah."
+    },
+    {
+      "t": 2054.51,
+      "text": "And it makes you feel like you don't matter."
+    },
+    {
+      "t": 2055.71,
+      "text": "Right."
+    },
+    {
+      "t": 2056.25,
+      "text": "Like your time isn't important."
+    },
+    {
+      "t": 2057.58,
+      "text": "Yeah."
+    },
+    {
+      "t": 2057.96,
+      "text": "And it's not just about being quick to respond."
+    },
+    {
+      "t": 2060.4,
+      "text": "Right."
+    },
+    {
+      "t": 2060.8,
+      "text": "It's also about giving good responses."
+    },
+    {
+      "t": 2062.82,
+      "text": "Yeah."
+    },
+    {
+      "t": 2063.24,
+      "text": "There was one where they were really fast at replying, but their answers were always so vague."
+    },
+    {
+      "t": 2068.97,
+      "text": "Right."
+    },
+    {
+      "t": 2069.53,
+      "text": "Like they weren't really helpful."
+    },
+    {
+      "t": 2071.08,
+      "text": "Exactly."
+    },
+    {
+      "t": 2071.78,
+      "text": "So it's about quality to taking the time to really understand what people are asking."
+    },
+    {
+      "t": 2077.91,
+      "text": "Yeah."
+    },
+    {
+      "t": 2078.18,
+      "text": "And give a thoughtful response."
+    },
+    {
+      "t": 2080.03,
+      "text": "And you know what else I noticed?"
+    },
+    {
+      "t": 2081.53,
+      "text": "What's that?"
+    },
+    {
+      "t": 2082.37,
+      "text": "The teams that took the time to appreciate each other, they just seem to work better together."
+    },
+    {
+      "t": 2088.62,
+      "text": "Oh, for sure."
+    },
+    {
+      "t": 2089.95,
+      "text": "Like a simple thank you can go a long way."
+    },
+    {
+      "t": 2093.84,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2094.38,
+      "text": "It makes people feel valued."
+    },
+    {
+      "t": 2096.11,
+      "text": "Yeah."
+    },
+    {
+      "t": 2096.65,
+      "text": "And it doesn't have to be a big thing."
+    },
+    {
+      "t": 2098.07,
+      "text": "Even small gestures can make a difference."
+    },
+    {
+      "t": 2100.32,
+      "text": "Like in that one where the team leader wrote handwritten thank you notes."
+    },
+    {
+      "t": 2105.81,
+      "text": "Oh, yeah, that was nice."
+    },
+    {
+      "t": 2106.99,
+      "text": "It was a small thing."
+    },
+    {
+      "t": 2108.18,
+      "text": "Yeah."
+    },
+    {
+      "t": 2108.48,
+      "text": "But you could tell it meant a lot to the team."
+    },
+    {
+      "t": 2110.76,
+      "text": "It shows that communication is about more than just information."
+    },
+    {
+      "t": 2113.77,
+      "text": "Right."
+    },
+    {
+      "t": 2114.31,
+      "text": "It's about connecting with people."
+    },
+    {
+      "t": 2115.63,
+      "text": "Exactly."
+    },
+    {
+      "t": 2116.15,
+      "text": "But let's be real."
+    },
+    {
+      "t": 2118.01,
+      "text": "Even with the best intentions, communication can still go wrong."
+    },
+    {
+      "t": 2120.98,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 2121.72,
+      "text": "We've all been there."
+    },
+    {
+      "t": 2122.48,
+      "text": "We've all said something we wish we could take back or misinterpreted something."
+    },
+    {
+      "t": 2127.17,
+      "text": "And what's interesting is the simulations actually showed that happening."
+    },
+    {
+      "t": 2131.1,
+      "text": "Yeah."
+    },
+    {
+      "t": 2131.22,
+      "text": "Even experienced communicators make mistakes."
+    },
+    {
+      "t": 2134.03,
+      "text": "That happens."
+    },
+    {
+      "t": 2134.69,
+      "text": "But the key is to learn from them."
+    },
+    {
+      "t": 2136.84,
+      "text": "Yeah."
+    },
+    {
+      "t": 2137.34,
+      "text": "And be willing to improve."
+    },
+    {
+      "t": 2138.6,
+      "text": "Like that one where the manager gave some really harsh feedback and it totally backfired."
+    },
+    {
+      "t": 2143.17,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 2143.79,
+      "text": "The employee just shut down."
+    },
+    {
+      "t": 2145.51,
+      "text": "It was a mess."
+    },
+    {
+      "t": 2146.53,
+      "text": "If they'd just taken a moment to check in with the employee."
+    },
+    {
+      "t": 2148.96,
+      "text": "Right."
+    },
+    {
+      "t": 2149.44,
+      "text": "Could have gone so much better."
+    },
+    {
+      "t": 2150.98,
+      "text": "Sometimes the best thing to do is just stop talking and listen."
+    },
+    {
+      "t": 2154.66,
+      "text": "You got it."
+    },
+    {
+      "t": 2155.39,
+      "text": "And the simulations also emphasize how important it is to adapt your style to different people and situations."
+    },
+    {
+      "t": 2162.88,
+      "text": "There was that one where a really direct communicator was trying to work with someone who was much more reserved."
+    },
+    {
+      "t": 2169.34,
+      "text": "It was like oil and water."
+    },
+    {
+      "t": 2170.89,
+      "text": "Yeah, it wasn't pretty."
+    },
+    {
+      "t": 2171.97,
+      "text": "But the person who was able to adapt to slow down and listen more, they were the one who was successful."
+    },
+    {
+      "t": 2179.1,
+      "text": "It's fascinating how small changes can make such a big difference."
+    },
+    {
+      "t": 2183.1,
+      "text": "It reminds me of what one of the experts said, effective communication is less about finding the perfect words and more about finding the right approach."
+    },
+    {
+      "t": 2191.15,
+      "text": "That's so true."
+    },
+    {
+      "t": 2192.23,
+      "text": "It's about being flexible and observant."
+    },
+    {
+      "t": 2194.79,
+      "text": "Yeah."
+    },
+    {
+      "t": 2195.11,
+      "text": "And, you know, sometimes it means paying attention to the silence."
+    },
+    {
+      "t": 2198.13,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 2198.61,
+      "text": "Like in that negotiation where the best negotiator was actually the one who spoke the least."
+    },
+    {
+      "t": 2202.78,
+      "text": "Right."
+    },
+    {
+      "t": 2203.36,
+      "text": "They knew when to be quiet and let the other person think."
+    },
+    {
+      "t": 2206.56,
+      "text": "It's a good reminder that communication is a two-way street."
+    },
+    {
+      "t": 2210.28,
+      "text": "Yes."
+    },
+    {
+      "t": 2210.8,
+      "text": "We need to listen as much as we speak."
+    },
+    {
+      "t": 2212.92,
+      "text": "And that's a wrap for part two."
+    },
+    {
+      "t": 2214.2,
+      "text": "Okay."
+    },
+    {
+      "t": 2214.82,
+      "text": "We've talked about relationships, adapting your style, and even the power of silence."
+    },
+    {
+      "t": 2219.91,
+      "text": "It's been a good one."
+    },
+    {
+      "t": 2220.76,
+      "text": "But there's more to come."
+    },
+    {
+      "t": 2222.36,
+      "text": "In part three, we're going to look at some even more advanced techniques."
+    },
+    {
+      "t": 2225.55,
+      "text": "Sounds good."
+    },
+    {
+      "t": 2226.07,
+      "text": "That can help you navigate those really tough workplace challenges."
+    },
+    {
+      "t": 2229.95,
+      "text": "I'm ready."
+    },
+    {
+      "t": 2230.92,
+      "text": "welcome back for the final part of our communication deep dive i am so ready for the advanced stuff all right let's do it you know the stuff that can really give you an edge this next set of simulations they really showcase some subtle but powerful techniques okay already and you know what's interesting is that they all build on what we've already talked about it's like taking your communication skills to the next level give me that black belt yeah so what's the first secret weapon"
+    },
+    {
+      "t": 2259.54,
+      "text": "Asking good questions."
+    },
+    {
+      "t": 2260.72,
+      "text": "Oh, okay."
+    },
+    {
+      "t": 2261.39,
+      "text": "I'm serious."
+    },
+    {
+      "t": 2262.27,
+      "text": "These simulations, they really show how asking the right questions at the right time can completely change the direction of a conversation."
+    },
+    {
+      "t": 2271.08,
+      "text": "Yeah, that makes sense."
+    },
+    {
+      "t": 2272.32,
+      "text": "We see it in negotiations, team meetings, even just casual conversations."
+    },
+    {
+      "t": 2276.43,
+      "text": "I get that."
+    },
+    {
+      "t": 2277.45,
+      "text": "A good question can, you know, unlock new ideas."
+    },
+    {
+      "t": 2282.51,
+      "text": "Right."
+    },
+    {
+      "t": 2282.77,
+      "text": "Help you understand people's motivations."
+    },
+    {
+      "t": 2284.66,
+      "text": "Yeah."
+    },
+    {
+      "t": 2285.1,
+      "text": "And even de-escalate a tense situation."
+    },
+    {
+      "t": 2287.1,
+      "text": "But to be honest, I sometimes struggle with knowing what to ask and when to ask it."
+    },
+    {
+      "t": 2291.91,
+      "text": "Remember that simulation with the marketing team?"
+    },
+    {
+      "t": 2294.68,
+      "text": "They were brainstorming a new campaign and they were just stuck."
+    },
+    {
+      "t": 2297.78,
+      "text": "Totally."
+    },
+    {
+      "t": 2298.32,
+      "text": "And then one person asked, what if we completely flipped our target audience?"
+    },
+    {
+      "t": 2302.51,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 2302.77,
+      "text": "And it was like a light bulb went off."
+    },
+    {
+      "t": 2304.67,
+      "text": "It's amazing how one question can do that."
+    },
+    {
+      "t": 2307.75,
+      "text": "Right."
+    },
+    {
+      "t": 2308.63,
+      "text": "It can spark so much creativity."
+    },
+    {
+      "t": 2310.38,
+      "text": "Okay."
+    },
+    {
+      "t": 2310.57,
+      "text": "But what about those times when you need to get to the root of a problem?"
+    },
+    {
+      "t": 2316.04,
+      "text": "You know, really figure out what's going on."
+    },
+    {
+      "t": 2318.07,
+      "text": "Yeah."
+    },
+    {
+      "t": 2318.55,
+      "text": "Well, there was that with the budget issue."
+    },
+    {
+      "t": 2320.93,
+      "text": "Remember?"
+    },
+    {
+      "t": 2321.55,
+      "text": "Yes."
+    },
+    {
+      "t": 2321.87,
+      "text": "Instead of just arguing about the numbers."
+    },
+    {
+      "t": 2323.73,
+      "text": "Right."
+    },
+    {
+      "t": 2324.53,
+      "text": "One of the leaders asked, what are your biggest concerns about this proposal?"
+    },
+    {
+      "t": 2328.9,
+      "text": "What's keeping you up at night?"
+    },
+    {
+      "t": 2330.84,
+      "text": "It's about understanding the why behind the what."
+    },
+    {
+      "t": 2334.26,
+      "text": "Exactly."
+    },
+    {
+      "t": 2334.86,
+      "text": "And once they got to the emotional core of the issue, they were able to find a solution that actually worked for everyone."
+    },
+    {
+      "t": 2341.73,
+      "text": "And it's not just about asking the questions."
+    },
+    {
+      "t": 2344.05,
+      "text": "Right."
+    },
+    {
+      "t": 2344.53,
+      "text": "It's about really listening to the answers and not just the words, but the body language, too."
+    },
+    {
+      "t": 2350.24,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2350.76,
+      "text": "Remember that one with the CEO giving the presentation and there was that one employee who just looked so bored?"
+    },
+    {
+      "t": 2356.74,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 2357.16,
+      "text": "I thought they were going to fall asleep."
+    },
+    {
+      "t": 2358.35,
+      "text": "But instead of ignoring it, the CEO stopped and asked, hey, you seem distracted."
+    },
+    {
+      "t": 2363.65,
+      "text": "Is there something on your mind?"
+    },
+    {
+      "t": 2365.38,
+      "text": "That was a bold move."
+    },
+    {
+      "t": 2366.44,
+      "text": "It was."
+    },
+    {
+      "t": 2366.96,
+      "text": "It worked."
+    },
+    {
+      "t": 2368.4,
+      "text": "Yeah."
+    },
+    {
+      "t": 2368.64,
+      "text": "It turned out the employee had some really important information that the CEO had missed."
+    },
+    {
+      "t": 2373.28,
+      "text": "Right."
+    },
+    {
+      "t": 2373.61,
+      "text": "So by creating that space for open communication."
+    },
+    {
+      "t": 2377.21,
+      "text": "Yeah."
+    },
+    {
+      "t": 2377.67,
+      "text": "They avoided a big mistake."
+    },
+    {
+      "t": 2379.39,
+      "text": "It shows how important it is to be present and to pay attention."
+    },
+    {
+      "t": 2382.49,
+      "text": "And to be willing to ask those tough questions."
+    },
+    {
+      "t": 2384.76,
+      "text": "Exactly."
+    },
+    {
+      "t": 2385.38,
+      "text": "OK, so we've talked about asking good questions."
+    },
+    {
+      "t": 2388.26,
+      "text": "But what about storytelling?"
+    },
+    {
+      "t": 2390.13,
+      "text": "Ah, yes."
+    },
+    {
+      "t": 2390.63,
+      "text": "The power of stories."
+    },
+    {
+      "t": 2392.09,
+      "text": "Because everyone loves a good story."
+    },
+    {
+      "t": 2394.13,
+      "text": "We're wired for it."
+    },
+    {
+      "t": 2395.3,
+      "text": "And they can make information so much more memorable."
+    },
+    {
+      "t": 2398.24,
+      "text": "Exactly."
+    },
+    {
+      "t": 2398.96,
+      "text": "And they help us connect with each other on a deeper level."
+    },
+    {
+      "t": 2401.97,
+      "text": "Remember that simulation with the sales pitch?"
+    },
+    {
+      "t": 2403.97,
+      "text": "Yeah."
+    },
+    {
+      "t": 2404.31,
+      "text": "Instead of just, you know, listing off features."
+    },
+    {
+      "t": 2406.42,
+      "text": "Yeah."
+    },
+    {
+      "t": 2407.16,
+      "text": "They told a story about a customer who had used the product."
+    },
+    {
+      "t": 2410.62,
+      "text": "Right."
+    },
+    {
+      "t": 2411.12,
+      "text": "And it was so much more effective."
+    },
+    {
+      "t": 2412.77,
+      "text": "You made it real."
+    },
+    {
+      "t": 2413.75,
+      "text": "Yeah."
+    },
+    {
+      "t": 2414.13,
+      "text": "It put a human face on the product."
+    },
+    {
+      "t": 2415.67,
+      "text": "And stories aren't just for selling."
+    },
+    {
+      "t": 2417.25,
+      "text": "Right."
+    },
+    {
+      "t": 2417.57,
+      "text": "They can help you lead teams."
+    },
+    {
+      "t": 2420.6,
+      "text": "Uh-huh."
+    },
+    {
+      "t": 2421.06,
+      "text": "Share ideas."
+    },
+    {
+      "t": 2422.16,
+      "text": "Yeah."
+    },
+    {
+      "t": 2422.64,
+      "text": "Even resolve conflict."
+    },
+    {
+      "t": 2424.55,
+      "text": "Remember that simulation where the two team members were..."
+    },
+    {
+      "t": 2427.97,
+      "text": "Arguing about the project strategy."
+    },
+    {
+      "t": 2429.84,
+      "text": "Yeah."
+    },
+    {
+      "t": 2430.7,
+      "text": "And one of them told a story about a time when a similar approach had failed."
+    },
+    {
+      "t": 2435.69,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 2436.87,
+      "text": "And it really helped the other person see the risks."
+    },
+    {
+      "t": 2439.54,
+      "text": "It's like stories can cut through all the noise."
+    },
+    {
+      "t": 2441.64,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2442.12,
+      "text": "They can get to the heart of the matter in a way that logic and data just can't."
+    },
+    {
+      "t": 2446.7,
+      "text": "And it doesn't have to be some big epic tale."
+    },
+    {
+      "t": 2449.43,
+      "text": "Right."
+    },
+    {
+      "t": 2449.99,
+      "text": "Even small anecdotes can be powerful."
+    },
+    {
+      "t": 2452.53,
+      "text": "Okay, so we've got asking good questions, the power of storytelling."
+    },
+    {
+      "t": 2457.46,
+      "text": "Yeah."
+    },
+    {
+      "t": 2457.95,
+      "text": "What's the final piece of the puzzle?"
+    },
+    {
+      "t": 2460.37,
+      "text": "Emotional intelligence."
+    },
+    {
+      "t": 2461.77,
+      "text": "Okay, tell me more."
+    },
+    {
+      "t": 2463.59,
+      "text": "These simulations, they really show how important it is to be aware of your own emotions and the emotions of others."
+    },
+    {
+      "t": 2469.89,
+      "text": "Yeah."
+    },
+    {
+      "t": 2470.39,
+      "text": "You know, especially in the workplace."
+    },
+    {
+      "t": 2472.01,
+      "text": "Especially in the workplace."
+    },
+    {
+      "t": 2472.91,
+      "text": "There are always these complex dynamics going on."
+    },
+    {
+      "t": 2475.22,
+      "text": "Right."
+    },
+    {
+      "t": 2475.58,
+      "text": "Remember that simulation where the team was under a lot of pressure to meet a deadline?"
+    },
+    {
+      "t": 2479.5,
+      "text": "Uh-huh."
+    },
+    {
+      "t": 2479.92,
+      "text": "The team leader, instead of just yelling at everyone?"
+    },
+    {
+      "t": 2482.48,
+      "text": "Right."
+    },
+    {
+      "t": 2483.04,
+      "text": "It took a minute to acknowledge how stressed everyone was."
+    },
+    {
+      "t": 2485.51,
+      "text": "And they offered support and encouragement."
+    },
+    {
+      "t": 2488.27,
+      "text": "It's so important to make people feel seen and heard."
+    },
+    {
+      "t": 2491.15,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2491.69,
+      "text": "And it wasn't just about being nice."
+    },
+    {
+      "t": 2493.71,
+      "text": "Right."
+    },
+    {
+      "t": 2493.99,
+      "text": "It was about being smart."
+    },
+    {
+      "t": 2495.24,
+      "text": "Yeah."
+    },
+    {
+      "t": 2496.42,
+      "text": "Understanding and responding to emotions can help you build better relationships, resolve conflicts and just create a more positive work environment."
+    },
+    {
+      "t": 2505.95,
+      "text": "So it's about being empathetic, but also being aware of how your own emotions might be affecting your communication."
+    },
+    {
+      "t": 2513.18,
+      "text": "You got it."
+    },
+    {
+      "t": 2513.8,
+      "text": "And sometimes the most emotionally intelligent thing you can do is just pause."
+    },
+    {
+      "t": 2517.28,
+      "text": "Yeah."
+    },
+    {
+      "t": 2517.68,
+      "text": "Take a breath."
+    },
+    {
+      "t": 2518.72,
+      "text": "Right."
+    },
+    {
+      "t": 2519.22,
+      "text": "Give yourself and others a moment to process what's happening."
+    },
+    {
+      "t": 2522.52,
+      "text": "It's so easy to react in the moment and say something you regret."
+    },
+    {
+      "t": 2527.09,
+      "text": "That pause can really prevent a lot of misunderstandings."
+    },
+    {
+      "t": 2529.94,
+      "text": "You know, I think that's a great takeaway from these simulations."
+    },
+    {
+      "t": 2532.68,
+      "text": "It's not just about mastering techniques."
+    },
+    {
+      "t": 2535.59,
+      "text": "Right."
+    },
+    {
+      "t": 2536.05,
+      "text": "It's about being present, being adaptable, and always being willing to learn and grow."
+    },
+    {
+      "t": 2542.52,
+      "text": "It's a journey."
+    },
+    {
+      "t": 2543.7,
+      "text": "It is."
+    },
+    {
+      "t": 2544.16,
+      "text": "And on that note, I think it's time to wrap up our communication deep dive."
+    },
+    {
+      "t": 2548.16,
+      "text": "Sounds good."
+    },
+    {
+      "t": 2548.65,
+      "text": "We've covered a lot."
+    },
+    {
+      "t": 2549.95,
+      "text": "We have."
+    },
+    {
+      "t": 2550.75,
+      "text": "From active listening to storytelling to emotional intelligence."
+    },
+    {
+      "t": 2554.89,
+      "text": "It's been fun."
+    },
+    {
+      "t": 2555.99,
+      "text": "And I think we've all learned some really valuable stuff."
+    },
+    {
+      "t": 2558.34,
+      "text": "For sure."
+    },
+    {
+      "t": 2559.14,
+      "text": "So go out there and communicate with confidence, clarity, and empathy."
+    },
+    {
+      "t": 2563.32,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2564.0,
+      "text": "And until next time, happy communicating."
+    }
+  ],
+  "lemmas": [
+    [
+      "say",
+      71
+    ],
+    [
+      "get",
+      59
+    ],
+    [
+      "good",
+      53
+    ],
+    [
+      "communication",
+      49
+    ],
+    [
+      "even",
+      46
+    ],
+    [
+      "person",
+      43
+    ],
+    [
+      "thing",
+      40
+    ],
+    [
+      "one",
+      36
+    ],
+    [
+      "know",
+      36
+    ],
+    [
+      "listen",
+      34
+    ],
+    [
+      "talk",
+      33
+    ],
+    [
+      "team",
+      33
+    ],
+    [
+      "feel",
+      32
+    ],
+    [
+      "think",
+      31
+    ],
+    [
+      "exactly",
+      30
+    ],
+    [
+      "make",
+      28
+    ],
+    [
+      "oh",
+      25
+    ],
+    [
+      "build",
+      25
+    ],
+    [
+      "work",
+      25
+    ],
+    [
+      "understand",
+      23
+    ],
+    [
+      "mak",
+      22
+    ],
+    [
+      "word",
+      22
+    ],
+    [
+      "sure",
+      21
+    ],
+    [
+      "see",
+      21
+    ],
+    [
+      "important",
+      21
+    ],
+    [
+      "much",
+      21
+    ],
+    [
+      "simulation",
+      21
+    ],
+    [
+      "conversation",
+      20
+    ],
+    [
+      "feedback",
+      20
+    ],
+    [
+      "try",
+      20
+    ],
+    [
+      "language",
+      20
+    ],
+    [
+      "time",
+      19
+    ],
+    [
+      "show",
+      19
+    ],
+    [
+      "different",
+      18
+    ],
+    [
+      "someth",
+      17
+    ],
+    [
+      "body",
+      17
+    ],
+    [
+      "ask",
+      17
+    ],
+    [
+      "way",
+      16
+    ],
+    [
+      "sometim",
+      16
+    ],
+    [
+      "nonverbal",
+      16
+    ],
+    [
+      "absolutely",
+      15
+    ],
+    [
+      "alway",
+      15
+    ],
+    [
+      "learn",
+      15
+    ],
+    [
+      "help",
+      15
+    ],
+    [
+      "relationship",
+      15
+    ],
+    [
+      "everyone",
+      14
+    ],
+    [
+      "weve",
+      14
+    ],
+    [
+      "take",
+      14
+    ],
+    [
+      "need",
+      14
+    ],
+    [
+      "remember",
+      14
+    ],
+    [
+      "give",
+      14
+    ],
+    [
+      "interest",
+      14
+    ],
+    [
+      "communicate",
+      14
+    ],
+    [
+      "want",
+      14
+    ],
+    [
+      "go",
+      13
+    ],
+    [
+      "trust",
+      13
+    ],
+    [
+      "great",
+      13
+    ],
+    [
+      "instead",
+      13
+    ],
+    [
+      "big",
+      13
+    ],
+    [
+      "point",
+      13
+    ],
+    [
+      "cue",
+      13
+    ],
+    [
+      "aware",
+      13
+    ],
+    [
+      "question",
+      13
+    ],
+    [
+      "speak",
+      12
+    ],
+    [
+      "focus",
+      12
+    ],
+    [
+      "going",
+      12
+    ],
+    [
+      "tough",
+      12
+    ],
+    [
+      "sense",
+      12
+    ],
+    [
+      "use",
+      12
+    ],
+    [
+      "cultur",
+      12
+    ],
+    [
+      "pay",
+      12
+    ],
+    [
+      "attention",
+      12
+    ],
+    [
+      "lot",
+      12
+    ],
+    [
+      "adapt",
+      12
+    ],
+    [
+      "especially",
+      11
+    ],
+    [
+      "email",
+      11
+    ],
+    [
+      "giv",
+      11
+    ],
+    [
+      "keep",
+      11
+    ],
+    [
+      "find",
+      11
+    ],
+    [
+      "clear",
+      10
+    ],
+    [
+      "problem",
+      10
+    ],
+    [
+      "open",
+      10
+    ],
+    [
+      "also",
+      10
+    ],
+    [
+      "new",
+      10
+    ],
+    [
+      "tone",
+      10
+    ],
+    [
+      "back",
+      9
+    ],
+    [
+      "effective",
+      9
+    ],
+    [
+      "totally",
+      9
+    ],
+    [
+      "part",
+      9
+    ],
+    [
+      "sound",
+      9
+    ],
+    [
+      "deep",
+      9
+    ],
+    [
+      "differenc",
+      9
+    ],
+    [
+      "cultural",
+      9
+    ],
+    [
+      "little",
+      9
+    ],
+    [
+      "empathy",
+      8
+    ],
+    [
+      "change",
+      8
+    ],
+    [
+      "someone",
+      8
+    ],
+    [
+      "emotion",
+      8
+    ],
+    [
+      "subtle",
+      8
+    ],
+    [
+      "moment",
+      8
+    ],
+    [
+      "connection",
+      8
+    ],
+    [
+      "meeting",
+      8
+    ],
+    [
+      "another",
+      8
+    ],
+    [
+      "powerful",
+      8
+    ],
+    [
+      "dive",
+      8
+    ],
+    [
+      "stuff",
+      7
+    ],
+    [
+      "com",
+      7
+    ],
+    [
+      "tak",
+      7
+    ],
+    [
+      "specific",
+      7
+    ],
+    [
+      "stay",
+      7
+    ],
+    [
+      "let",
+      7
+    ],
+    [
+      "tip",
+      7
+    ],
+    [
+      "statement",
+      7
+    ],
+    [
+      "stress",
+      7
+    ],
+    [
+      "tool",
+      7
+    ],
+    [
+      "eye",
+      7
+    ],
+    [
+      "contact",
+      7
+    ],
+    [
+      "using",
+      7
+    ],
+    [
+      "tell",
+      7
+    ],
+    [
+      "space",
+      7
+    ],
+    [
+      "us",
+      7
+    ],
+    [
+      "present",
+      7
+    ],
+    [
+      "creat",
+      7
+    ],
+    [
+      "style",
+      7
+    ],
+    [
+      "information",
+      7
+    ],
+    [
+      "look",
+      7
+    ],
+    [
+      "active",
+      7
+    ],
+    [
+      "two",
+      6
+    ],
+    [
+      "workplace",
+      6
+    ],
+    [
+      "send",
+      6
+    ],
+    [
+      "idea",
+      6
+    ],
+    [
+      "come",
+      6
+    ],
+    [
+      "remind",
+      6
+    ],
+    [
+      "receiv",
+      6
+    ],
+    [
+      "situation",
+      6
+    ],
+    [
+      "whole",
+      6
+    ],
+    [
+      "first",
+      6
+    ],
+    [
+      "without",
+      6
+    ],
+    [
+      "miss",
+      6
+    ],
+    [
+      "true",
+      6
+    ],
+    [
+      "solution",
+      6
+    ],
+    [
+      "call",
+      6
+    ],
+    [
+      "mean",
+      6
+    ],
+    [
+      "put",
+      6
+    ],
+    [
+      "else",
+      6
+    ],
+    [
+      "world",
+      6
+    ],
+    [
+      "professional",
+      6
+    ],
+    [
+      "direct",
+      6
+    ],
+    [
+      "stronger",
+      6
+    ],
+    [
+      "real",
+      6
+    ],
+    [
+      "voice",
+      6
+    ],
+    [
+      "read",
+      6
+    ],
+    [
+      "silence",
+      6
+    ],
+    [
+      "hear",
+      6
+    ],
+    [
+      "matter",
+      6
+    ],
+    [
+      "respect",
+      6
+    ],
+    [
+      "approach",
+      6
+    ],
+    [
+      "long",
+      6
+    ],
+    [
+      "communicat",
+      6
+    ],
+    [
+      "conflict",
+      6
+    ],
+    [
+      "skill",
+      6
+    ],
+    [
+      "techniqu",
+      6
+    ],
+    [
+      "practice",
+      5
+    ],
+    [
+      "huge",
+      5
+    ],
+    [
+      "many",
+      5
+    ],
+    [
+      "interrupt",
+      5
+    ],
+    [
+      "suggest",
+      5
+    ],
+    [
+      "concern",
+      5
+    ],
+    [
+      "difference",
+      5
+    ],
+    [
+      "lead",
+      5
+    ],
+    [
+      "place",
+      5
+    ],
+    [
+      "adaptable",
+      5
+    ],
+    [
+      "ther",
+      5
+    ],
+    [
+      "technology",
+      5
+    ],
+    [
+      "video",
+      5
+    ],
+    [
+      "posture",
+      5
+    ],
+    [
+      "mindful",
+      5
+    ],
+    [
+      "across",
+      5
+    ],
+    [
+      "tricky",
+      5
+    ],
+    [
+      "advice",
+      5
+    ],
+    [
+      "pause",
+      5
+    ],
+    [
+      "key",
+      5
+    ],
+    [
+      "engag",
+      5
+    ],
+    [
+      "understood",
+      5
+    ],
+    [
+      "detail",
+      5
+    ],
+    [
+      "flexible",
+      5
+    ],
+    [
+      "human",
+      5
+    ],
+    [
+      "create",
+      5
+    ],
+    [
+      "everyth",
+      5
+    ],
+    [
+      "messag",
+      5
+    ],
+    [
+      "connect",
+      5
+    ],
+    [
+      "completely",
+      5
+    ],
+    [
+      "story",
+      5
+    ],
+    [
+      "happen",
+      5
+    ],
+    [
+      "small",
+      5
+    ],
+    [
+      "amaz",
+      5
+    ],
+    [
+      "next",
+      5
+    ],
+    [
+      "employee",
+      5
+    ],
+    [
+      "perfect",
+      4
+    ],
+    [
+      "welcome",
+      4
+    ],
+    [
+      "deeper",
+      4
+    ],
+    [
+      "negotiation",
+      4
+    ],
+    [
+      "emphasize",
+      4
+    ],
+    [
+      "set",
+      4
+    ],
+    [
+      "cool",
+      4
+    ],
+    [
+      "action",
+      4
+    ],
+    [
+      "chance",
+      4
+    ],
+    [
+      "chang",
+      4
+    ],
+    [
+      "agree",
+      4
+    ],
+    [
+      "deadlin",
+      4
+    ],
+    [
+      "feeling",
+      4
+    ],
+    [
+      "win",
+      4
+    ],
+    [
+      "nice",
+      4
+    ],
+    [
+      "acknowledge",
+      4
+    ],
+    [
+      "heard",
+      4
+    ],
+    [
+      "tech",
+      4
+    ],
+    [
+      "challeng",
+      4
+    ],
+    [
+      "message",
+      4
+    ],
+    [
+      "youve",
+      4
+    ],
+    [
+      "pick",
+      4
+    ],
+    [
+      "quick",
+      4
+    ],
+    [
+      "someon",
+      4
+    ],
+    [
+      "facial",
+      4
+    ],
+    [
+      "expression",
+      4
+    ],
+    [
+      "signal",
+      4
+    ],
+    [
+      "gestur",
+      4
+    ],
+    [
+      "sensitive",
+      4
+    ],
+    [
+      "fill",
+      4
+    ],
+    [
+      "uh-huh",
+      4
+    ],
+    [
+      "away",
+      4
+    ],
+    [
+      "wait",
+      4
+    ],
+    [
+      "kind",
+      4
+    ],
+    [
+      "together",
+      4
+    ],
+    [
+      "respectful",
+      4
+    ],
+    [
+      "styl",
+      4
+    ],
+    [
+      "figure",
+      4
+    ],
+    [
+      "adjust",
+      4
+    ],
+    [
+      "watch",
+      4
+    ],
+    [
+      "executiv",
+      4
+    ],
+    [
+      "result",
+      4
+    ],
+    [
+      "stori",
+      4
+    ],
+    [
+      "prevent",
+      4
+    ],
+    [
+      "break",
+      4
+    ],
+    [
+      "empathetic",
+      4
+    ],
+    [
+      "listener",
+      4
+    ],
+    [
+      "deal",
+      4
+    ],
+    [
+      "last",
+      4
+    ],
+    [
+      "line",
+      4
+    ],
+    [
+      "wrong",
+      4
+    ],
+    [
+      "notic",
+      4
+    ],
+    [
+      "thank",
+      4
+    ],
+    [
+      "seem",
+      4
+    ],
+    [
+      "still",
+      4
+    ],
+    [
+      "difficult",
+      4
+    ],
+    [
+      "biggest",
+      4
+    ],
+    [
+      "ready",
+      4
+    ],
+    [
+      "power",
+      4
+    ],
+    [
+      "manager",
+      4
+    ],
+    [
+      "mess",
+      4
+    ],
+    [
+      "project",
+      4
+    ],
+    [
+      "leader",
+      4
+    ],
+    [
+      "hey",
+      3
+    ],
+    [
+      "argument",
+      3
+    ],
+    [
+      "clarity",
+      3
+    ],
+    [
+      "hard",
+      3
+    ],
+    [
+      "share",
+      3
+    ],
+    [
+      "less",
+      3
+    ],
+    [
+      "attack",
+      3
+    ],
+    [
+      "positive",
+      3
+    ],
+    [
+      "meant",
+      3
+    ],
+    [
+      "calm",
+      3
+    ],
+    [
+      "though",
+      3
+    ],
+    [
+      "side",
+      3
+    ],
+    [
+      "disagree",
+      3
+    ],
+    [
+      "course",
+      3
+    ],
+    [
+      "global",
+      3
+    ],
+    [
+      "easier",
+      3
+    ],
+    [
+      "face-to-face",
+      3
+    ],
+    [
+      "believe",
+      3
+    ],
+    [
+      "lost",
+      3
+    ],
+    [
+      "virtual",
+      3
+    ],
+    [
+      "crucial",
+      3
+    ],
+    [
+      "truly",
+      3
+    ],
+    [
+      "fine",
+      3
+    ],
+    [
+      "behind",
+      3
+    ],
+    [
+      "close",
+      3
+    ],
+    [
+      "strategically",
+      3
+    ],
+    [
+      "quiet",
+      3
+    ],
+    [
+      "maybe",
+      3
+    ],
+    [
+      "peopl",
+      3
+    ],
+    [
+      "nod",
+      3
+    ],
+    [
+      "phone",
+      3
+    ],
+    [
+      "clarify",
+      3
+    ],
+    [
+      "master",
+      3
+    ],
+    [
+      "bond",
+      3
+    ],
+    [
+      "distraction",
+      3
+    ],
+    [
+      "bit",
+      3
+    ],
+    [
+      "match",
+      3
+    ],
+    [
+      "jump",
+      3
+    ],
+    [
+      "serious",
+      3
+    ],
+    [
+      "concise",
+      3
+    ],
+    [
+      "patient",
+      3
+    ],
+    [
+      "awareness",
+      3
+    ],
+    [
+      "afraid",
+      3
+    ],
+    [
+      "two-way",
+      3
+    ],
+    [
+      "street",
+      3
+    ],
+    [
+      "cover",
+      3
+    ],
+    [
+      "tun",
+      3
+    ],
+    [
+      "strong",
+      3
+    ],
+    [
+      "reply",
+      3
+    ],
+    [
+      "mov",
+      3
+    ],
+    [
+      "done",
+      3
+    ],
+    [
+      "helpful",
+      3
+    ],
+    [
+      "anyth",
+      3
+    ],
+    [
+      "effort",
+      3
+    ],
+    [
+      "culture",
+      3
+    ],
+    [
+      "instant",
+      3
+    ],
+    [
+      "strategic",
+      3
+    ],
+    [
+      "rapport",
+      3
+    ],
+    [
+      "ear",
+      3
+    ],
+    [
+      "misunderstanding",
+      3
+    ],
+    [
+      "observant",
+      3
+    ],
+    [
+      "essential",
+      3
+    ],
+    [
+      "offer",
+      3
+    ],
+    [
+      "improve",
+      3
+    ],
+    [
+      "resolve",
+      3
+    ],
+    [
+      "wrap",
+      3
+    ],
+    [
+      "takeaway",
+      3
+    ],
+    [
+      "pressure",
+      3
+    ],
+    [
+      "used",
+      3
+    ],
+    [
+      "japanese",
+      3
+    ],
+    [
+      "advanc",
+      3
+    ],
+    [
+      "answer",
+      3
+    ],
+    [
+      "already",
+      3
+    ],
+    [
+      "emotional",
+      3
+    ],
+    [
+      "ceo",
+      3
+    ],
+    [
+      "storytell",
+      3
+    ],
+    [
+      "today",
+      2
+    ],
+    [
+      "div",
+      2
+    ],
+    [
+      "business",
+      2
+    ],
+    [
+      "write",
+      2
+    ],
+    [
+      "express",
+      2
+    ],
+    [
+      "room",
+      2
+    ],
+    [
+      "lov",
+      2
+    ],
+    [
+      "perspective",
+      2
+    ],
+    [
+      "technique",
+      2
+    ],
+    [
+      "constructive",
+      2
+    ],
+    [
+      "likely",
+      2
+    ],
+    [
+      "end",
+      2
+    ],
+    [
+      "mind",
+      2
+    ],
+    [
+      "grow",
+      2
+    ],
+    [
+      "clash",
+      2
+    ],
+    [
+      "harder",
+      2
+    ],
+    [
+      "tension",
+      2
+    ],
+    [
+      "breath",
+      2
+    ],
+    [
+      "bad",
+      2
+    ],
+    [
+      "strategy",
+      2
+    ],
+    [
+      "late",
+      2
+    ],
+    [
+      "experience",
+      2
+    ],
+    [
+      "picture",
+      2
+    ],
+    [
+      "goal",
+      2
+    ],
+    [
+      "solve",
+      2
+    ],
+    [
+      "secret",
+      2
+    ],
+    [
+      "weapon",
+      2
+    ],
+    [
+      "barrier",
+      2
+    ],
+    [
+      "navigate",
+      2
+    ],
+    [
+      "suppos",
+      2
+    ],
+    [
+      "conferenc",
+      2
+    ],
+    [
+      "allow",
+      2
+    ],
+    [
+      "formal",
+      2
+    ],
+    [
+      "fascinat",
+      2
+    ],
+    [
+      "scream",
+      2
+    ],
+    [
+      "valuable",
+      2
+    ],
+    [
+      "choos",
+      2
+    ],
+    [
+      "research",
+      2
+    ],
+    [
+      "normal",
+      2
+    ],
+    [
+      "rush",
+      2
+    ],
+    [
+      "comfortable",
+      2
+    ],
+    [
+      "paus",
+      2
+    ],
+    [
+      "curious",
+      2
+    ],
+    [
+      "reveal",
+      2
+    ],
+    [
+      "clos",
+      2
+    ],
+    [
+      "confident",
+      2
+    ],
+    [
+      "laptop",
+      2
+    ],
+    [
+      "second",
+      2
+    ],
+    [
+      "turn",
+      2
+    ],
+    [
+      "mentally",
+      2
+    ],
+    [
+      "physically",
+      2
+    ],
+    [
+      "redirect",
+      2
+    ],
+    [
+      "assertive",
+      2
+    ],
+    [
+      "everyon",
+      2
+    ],
+    [
+      "discussion",
+      2
+    ],
+    [
+      "weakness",
+      2
+    ],
+    [
+      "puzzle",
+      2
+    ],
+    [
+      "bas",
+      2
+    ],
+    [
+      "brief",
+      2
+    ],
+    [
+      "around",
+      2
+    ],
+    [
+      "become",
+      2
+    ],
+    [
+      "detective",
+      2
+    ],
+    [
+      "gather",
+      2
+    ],
+    [
+      "clu",
+      2
+    ],
+    [
+      "certain",
+      2
+    ],
+    [
+      "typ",
+      2
+    ],
+    [
+      "busy",
+      2
+    ],
+    [
+      "explain",
+      2
+    ],
+    [
+      "folk",
+      2
+    ],
+    [
+      "background",
+      2
+    ],
+    [
+      "thorough",
+      2
+    ],
+    [
+      "fix",
+      2
+    ],
+    [
+      "properly",
+      2
+    ],
+    [
+      "eye-open",
+      2
+    ],
+    [
+      "becom",
+      2
+    ],
+    [
+      "los",
+      2
+    ],
+    [
+      "soon",
+      2
+    ],
+    [
+      "bottom",
+      2
+    ],
+    [
+      "foundation",
+      2
+    ],
+    [
+      "loop",
+      2
+    ],
+    [
+      "page",
+      2
+    ],
+    [
+      "responsive",
+      2
+    ],
+    [
+      "acknowledg",
+      2
+    ],
+    [
+      "reach",
+      2
+    ],
+    [
+      "bring",
+      2
+    ],
+    [
+      "criticiz",
+      2
+    ],
+    [
+      "balanc",
+      2
+    ],
+    [
+      "growth",
+      2
+    ],
+    [
+      "meet",
+      2
+    ],
+    [
+      "area",
+      2
+    ],
+    [
+      "valu",
+      2
+    ],
+    [
+      "pretty",
+      2
+    ],
+    [
+      "mix",
+      2
+    ],
+    [
+      "anyone",
+      2
+    ],
+    [
+      "job",
+      2
+    ],
+    [
+      "run",
+      2
+    ],
+    [
+      "life",
+      2
+    ],
+    [
+      "often",
+      2
+    ],
+    [
+      "easy",
+      2
+    ],
+    [
+      "extra",
+      2
+    ],
+    [
+      "nuanc",
+      2
+    ],
+    [
+      "ground",
+      2
+    ],
+    [
+      "rul",
+      2
+    ],
+    [
+      "youll",
+      2
+    ],
+    [
+      "whether",
+      2
+    ],
+    [
+      "handle",
+      2
+    ],
+    [
+      "react",
+      2
+    ],
+    [
+      "response",
+      2
+    ],
+    [
+      "piece",
+      2
+    ],
+    [
+      "frustrat",
+      2
+    ],
+    [
+      "forward",
+      2
+    ],
+    [
+      "hint",
+      2
+    ],
+    [
+      "super",
+      2
+    ],
+    [
+      "intentional",
+      2
+    ],
+    [
+      "face",
+      2
+    ],
+    [
+      "shut",
+      2
+    ],
+    [
+      "struggle",
+      2
+    ],
+    [
+      "straight",
+      2
+    ],
+    [
+      "appreciate",
+      2
+    ],
+    [
+      "context",
+      2
+    ],
+    [
+      "play",
+      2
+    ],
+    [
+      "three",
+      2
+    ],
+    [
+      "gift",
+      2
+    ],
+    [
+      "fun",
+      2
+    ],
+    [
+      "criticism",
+      2
+    ],
+    [
+      "ah",
+      2
+    ],
+    [
+      "intention",
+      2
+    ],
+    [
+      "polite",
+      2
+    ],
+    [
+      "rude",
+      2
+    ],
+    [
+      "love",
+      2
+    ],
+    [
+      "experienc",
+      2
+    ],
+    [
+      "simulat",
+      2
+    ],
+    [
+      "scenario",
+      2
+    ],
+    [
+      "throw",
+      2
+    ],
+    [
+      "coach",
+      2
+    ],
+    [
+      "sal",
+      2
+    ],
+    [
+      "client",
+      2
+    ],
+    [
+      "pitch",
+      2
+    ],
+    [
+      "almost",
+      2
+    ],
+    [
+      "constant",
+      2
+    ],
+    [
+      "high",
+      2
+    ],
+    [
+      "struck",
+      2
+    ],
+    [
+      "avoid",
+      2
+    ],
+    [
+      "explor",
+      2
+    ],
+    [
+      "cross-cultural",
+      2
+    ],
+    [
+      "miscommunication",
+      2
+    ],
+    [
+      "highlight",
+      2
+    ],
+    [
+      "complex",
+      2
+    ],
+    [
+      "brainstorm",
+      2
+    ],
+    [
+      "edge",
+      2
+    ],
+    [
+      "encouragement",
+      2
+    ],
+    [
+      "care",
+      2
+    ],
+    [
+      "member",
+      2
+    ],
+    [
+      "ignor",
+      2
+    ],
+    [
+      "slow",
+      2
+    ],
+    [
+      "respond",
+      2
+    ],
+    [
+      "communicator",
+      2
+    ],
+    [
+      "stop",
+      2
+    ],
+    [
+      "able",
+      2
+    ],
+    [
+      "final",
+      2
+    ],
+    [
+      "level",
+      2
+    ],
+    [
+      "issue",
+      2
+    ],
+    [
+      "argu",
+      2
+    ],
+    [
+      "product",
+      2
+    ],
+    [
+      "intelligence",
+      2
+    ],
+    [
+      "pro",
+      1
+    ],
+    [
+      "stood",
+      1
+    ],
+    [
+      "crystal",
+      1
+    ],
+    [
+      "get-go",
+      1
+    ],
+    [
+      "leav",
+      1
+    ],
+    [
+      "ambiguity",
+      1
+    ],
+    [
+      "wast",
+      1
+    ],
+    [
+      "morale",
+      1
+    ],
+    [
+      "hit",
+      1
+    ],
+    [
+      "success",
+      1
+    ],
+    [
+      "base",
+      1
+    ],
+    [
+      "defensive",
+      1
+    ],
+    [
+      "ad",
+      1
+    ],
+    [
+      "reinforcement",
+      1
+    ],
+    [
+      "along",
+      1
+    ],
+    [
+      "motivat",
+      1
+    ],
+    [
+      "swallow",
+      1
+    ],
+    [
+      "unavoidable",
+      1
+    ],
+    [
+      "heat",
+      1
+    ],
+    [
+      "control",
+      1
+    ],
+    [
+      "practical",
+      1
+    ],
+    [
+      "theyve",
+      1
+    ],
+    [
+      "blamey",
+      1
+    ],
+    [
+      "finger",
+      1
+    ],
+    [
+      "bigger",
+      1
+    ],
+    [
+      "caught",
+      1
+    ],
+    [
+      "forget",
+      1
+    ],
+    [
+      "tackle",
+      1
+    ],
+    [
+      "simpler",
+      1
+    ],
+    [
+      "ensure",
+      1
+    ],
+    [
+      "basic",
+      1
+    ],
+    [
+      "prefer",
+      1
+    ],
+    [
+      "roundabout",
+      1
+    ],
+    [
+      "prioritize",
+      1
+    ],
+    [
+      "whenever",
+      1
+    ],
+    [
+      "guess",
+      1
+    ],
+    [
+      "in-person",
+      1
+    ],
+    [
+      "virtually",
+      1
+    ],
+    [
+      "grab",
+      1
+    ],
+    [
+      "convenient",
+      1
+    ],
+    [
+      "foster",
+      1
+    ],
+    [
+      "sum",
+      1
+    ],
+    [
+      "nicely",
+      1
+    ],
+    [
+      "chat",
+      1
+    ],
+    [
+      "hallway",
+      1
+    ],
+    [
+      "coffee",
+      1
+    ],
+    [
+      "machine",
+      1
+    ],
+    [
+      "volum",
+      1
+    ],
+    [
+      "notice",
+      1
+    ],
+    [
+      "disconnect",
+      1
+    ],
+    [
+      "anywhere",
+      1
+    ],
+    [
+      "carefully",
+      1
+    ],
+    [
+      "interpret",
+      1
+    ],
+    [
+      "stand",
+      1
+    ],
+    [
+      "meaning",
+      1
+    ],
+    [
+      "surpris",
+      1
+    ],
+    [
+      "brought",
+      1
+    ],
+    [
+      "silenc",
+      1
+    ],
+    [
+      "meaningful",
+      1
+    ],
+    [
+      "realiz",
+      1
+    ],
+    [
+      "personally",
+      1
+    ],
+    [
+      "sincere",
+      1
+    ],
+    [
+      "uncomfortable",
+      1
+    ],
+    [
+      "usually",
+      1
+    ],
+    [
+      "switch",
+      1
+    ],
+    [
+      "gear",
+      1
+    ],
+    [
+      "fundamental",
+      1
+    ],
+    [
+      "adamant",
+      1
+    ],
+    [
+      "actively",
+      1
+    ],
+    [
+      "lastly",
+      1
+    ],
+    [
+      "gently",
+      1
+    ],
+    [
+      "balance",
+      1
+    ],
+    [
+      "fair",
+      1
+    ],
+    [
+      "start",
+      1
+    ],
+    [
+      "subject",
+      1
+    ],
+    [
+      "jok",
+      1
+    ],
+    [
+      "bingo",
+      1
+    ],
+    [
+      "figur",
+      1
+    ],
+    [
+      "executive",
+      1
+    ],
+    [
+      "everyday",
+      1
+    ],
+    [
+      "interaction",
+      1
+    ],
+    [
+      "reliable",
+      1
+    ],
+    [
+      "consistent",
+      1
+    ],
+    [
+      "regular",
+      1
+    ],
+    [
+      "check-in",
+      1
+    ],
+    [
+      "annoy",
+      1
+    ],
+    [
+      "mix-up",
+      1
+    ],
+    [
+      "proactive",
+      1
+    ],
+    [
+      "lin",
+      1
+    ],
+    [
+      "smoothly",
+      1
+    ],
+    [
+      "act",
+      1
+    ],
+    [
+      "invest",
+      1
+    ],
+    [
+      "apart",
+      1
+    ],
+    [
+      "combine",
+      1
+    ],
+    [
+      "critical",
+      1
+    ],
+    [
+      "genuine",
+      1
+    ],
+    [
+      "praise",
+      1
+    ],
+    [
+      "player",
+      1
+    ],
+    [
+      "thought",
+      1
+    ],
+    [
+      "benefit",
+      1
+    ],
+    [
+      "recognize",
+      1
+    ],
+    [
+      "underestimate",
+      1
+    ],
+    [
+      "appreciation",
+      1
+    ],
+    [
+      "strengthen",
+      1
+    ],
+    [
+      "besid",
+      1
+    ],
+    [
+      "lend",
+      1
+    ],
+    [
+      "hand",
+      1
+    ],
+    [
+      "shar",
+      1
+    ],
+    [
+      "partnership",
+      1
+    ],
+    [
+      "simplest",
+      1
+    ],
+    [
+      "conclusion",
+      1
+    ],
+    [
+      "bag",
+      1
+    ],
+    [
+      "overwhelm",
+      1
+    ],
+    [
+      "lose",
+      1
+    ],
+    [
+      "definitely",
+      1
+    ],
+    [
+      "constantly",
+      1
+    ],
+    [
+      "boundari",
+      1
+    ],
+    [
+      "text",
+      1
+    ],
+    [
+      "misread",
+      1
+    ],
+    [
+      "writ",
+      1
+    ],
+    [
+      "quickly",
+      1
+    ],
+    [
+      "schedul",
+      1
+    ],
+    [
+      "tougher",
+      1
+    ],
+    [
+      "coworker",
+      1
+    ],
+    [
+      "gracefully",
+      1
+    ],
+    [
+      "productive",
+      1
+    ],
+    [
+      "explod",
+      1
+    ],
+    [
+      "pull",
+      1
+    ],
+    [
+      "push",
+      1
+    ],
+    [
+      "button",
+      1
+    ],
+    [
+      "step",
+      1
+    ],
+    [
+      "literally",
+      1
+    ],
+    [
+      "walk",
+      1
+    ],
+    [
+      "breathe",
+      1
+    ],
+    [
+      "aim",
+      1
+    ],
+    [
+      "fight",
+      1
+    ],
+    [
+      "prove",
+      1
+    ],
+    [
+      "plan",
+      1
+    ],
+    [
+      "view",
+      1
+    ],
+    [
+      "blam",
+      1
+    ],
+    [
+      "accusation",
+      1
+    ],
+    [
+      "common",
+      1
+    ],
+    [
+      "collaborate",
+      1
+    ],
+    [
+      "win-win",
+      1
+    ],
+    [
+      "easily",
+      1
+    ],
+    [
+      "bet",
+      1
+    ],
+    [
+      "minefield",
+      1
+    ],
+    [
+      "personal",
+      1
+    ],
+    [
+      "assume",
+      1
+    ],
+    [
+      "general",
+      1
+    ],
+    [
+      "touch",
+      1
+    ],
+    [
+      "passively",
+      1
+    ],
+    [
+      "fully",
+      1
+    ],
+    [
+      "actual",
+      1
+    ],
+    [
+      "suggestion",
+      1
+    ],
+    [
+      "ditch",
+      1
+    ],
+    [
+      "sit",
+      1
+    ],
+    [
+      "third",
+      1
+    ],
+    [
+      "strategi",
+      1
+    ],
+    [
+      "dominat",
+      1
+    ],
+    [
+      "nobody",
+      1
+    ],
+    [
+      "politely",
+      1
+    ],
+    [
+      "firmly",
+      1
+    ],
+    [
+      "contribute",
+      1
+    ],
+    [
+      "everywhere",
+      1
+    ],
+    [
+      "hammer",
+      1
+    ],
+    [
+      "home",
+      1
+    ],
+    [
+      "explanation",
+      1
+    ],
+    [
+      "outcome",
+      1
+    ],
+    [
+      "guidance",
+      1
+    ],
+    [
+      "role",
+      1
+    ],
+    [
+      "day",
+      1
+    ],
+    [
+      "clearly",
+      1
+    ],
+    [
+      "solv",
+      1
+    ],
+    [
+      "insightful",
+      1
+    ],
+    [
+      "blind",
+      1
+    ],
+    [
+      "spot",
+      1
+    ],
+    [
+      "personality",
+      1
+    ],
+    [
+      "disorganiz",
+      1
+    ],
+    [
+      "report",
+      1
+    ],
+    [
+      "week",
+      1
+    ],
+    [
+      "format",
+      1
+    ],
+    [
+      "inconsistenci",
+      1
+    ],
+    [
+      "exampl",
+      1
+    ],
+    [
+      "probably",
+      1
+    ],
+    [
+      "succe",
+      1
+    ],
+    [
+      "overlook",
+      1
+    ],
+    [
+      "unspoken",
+      1
+    ],
+    [
+      "mismatch",
+      1
+    ],
+    [
+      "otherwise",
+      1
+    ],
+    [
+      "confus",
+      1
+    ],
+    [
+      "effectively",
+      1
+    ],
+    [
+      "bunch",
+      1
+    ],
+    [
+      "maintain",
+      1
+    ],
+    [
+      "mirror",
+      1
+    ],
+    [
+      "homework",
+      1
+    ],
+    [
+      "full",
+      1
+    ],
+    [
+      "gap",
+      1
+    ],
+    [
+      "sink",
+      1
+    ],
+    [
+      "ever",
+      1
+    ],
+    [
+      "realize",
+      1
+    ],
+    [
+      "complicat",
+      1
+    ],
+    [
+      "bridg",
+      1
+    ],
+    [
+      "compassionate",
+      1
+    ],
+    [
+      "hope",
+      1
+    ],
+    [
+      "useful",
+      1
+    ],
+    [
+      "practic",
+      1
+    ],
+    [
+      "genuinely",
+      1
+    ],
+    [
+      "respectfully",
+      1
+    ],
+    [
+      "ponder",
+      1
+    ],
+    [
+      "emphasiz",
+      1
+    ],
+    [
+      "specifically",
+      1
+    ],
+    [
+      "setting",
+      1
+    ],
+    [
+      "fil",
+      1
+    ],
+    [
+      "spooky",
+      1
+    ],
+    [
+      "beyond",
+      1
+    ],
+    [
+      "textbook",
+      1
+    ],
+    [
+      "definition",
+      1
+    ],
+    [
+      "application",
+      1
+    ],
+    [
+      "handl",
+      1
+    ],
+    [
+      "initial",
+      1
+    ],
+    [
+      "objection",
+      1
+    ],
+    [
+      "dig",
+      1
+    ],
+    [
+      "masterful",
+      1
+    ],
+    [
+      "hesitation",
+      1
+    ],
+    [
+      "address",
+      1
+    ],
+    [
+      "differently",
+      1
+    ],
+    [
+      "neat",
+      1
+    ],
+    [
+      "performance",
+      1
+    ],
+    [
+      "review",
+      1
+    ],
+    [
+      "arm",
+      1
+    ],
+    [
+      "cross",
+      1
+    ],
+    [
+      "awkward",
+      1
+    ],
+    [
+      "self-awareness",
+      1
+    ],
+    [
+      "non-verbally",
+      1
+    ],
+    [
+      "force",
+      1
+    ],
+    [
+      "everything",
+      1
+    ],
+    [
+      "fact",
+      1
+    ],
+    [
+      "navigat",
+      1
+    ],
+    [
+      "head",
+      1
+    ],
+    [
+      "resourc",
+      1
+    ],
+    [
+      "top",
+      1
+    ],
+    [
+      "steamroll",
+      1
+    ],
+    [
+      "tactical",
+      1
+    ],
+    [
+      "unreasonable",
+      1
+    ],
+    [
+      "blame",
+      1
+    ],
+    [
+      "collaboration",
+      1
+    ],
+    [
+      "cure",
+      1
+    ],
+    [
+      "backfire",
+      1
+    ],
+    [
+      "passive",
+      1
+    ],
+    [
+      "manipulative",
+      1
+    ],
+    [
+      "japan",
+      1
+    ],
+    [
+      "expectation",
+      1
+    ],
+    [
+      "cause",
+      1
+    ],
+    [
+      "indirect",
+      1
+    ],
+    [
+      "evasive",
+      1
+    ],
+    [
+      "neither",
+      1
+    ],
+    [
+      "intentionally",
+      1
+    ],
+    [
+      "accordingly",
+      1
+    ],
+    [
+      "double-edg",
+      1
+    ],
+    [
+      "sword",
+      1
+    ],
+    [
+      "social",
+      1
+    ],
+    [
+      "media",
+      1
+    ],
+    [
+      "juggle",
+      1
+    ],
+    [
+      "reli",
+      1
+    ],
+    [
+      "total",
+      1
+    ],
+    [
+      "disaster",
+      1
+    ],
+    [
+      "chain",
+      1
+    ],
+    [
+      "app",
+      1
+    ],
+    [
+      "led",
+      1
+    ],
+    [
+      "misinterpretation",
+      1
+    ],
+    [
+      "classic",
+      1
+    ],
+    [
+      "example",
+      1
+    ],
+    [
+      "channel",
+      1
+    ],
+    [
+      "beware",
+      1
+    ],
+    [
+      "limitation",
+      1
+    ],
+    [
+      "updat",
+      1
+    ],
+    [
+      "resolv",
+      1
+    ],
+    [
+      "strength",
+      1
+    ],
+    [
+      "delv",
+      1
+    ],
+    [
+      "all-important",
+      1
+    ],
+    [
+      "guy",
+      1
+    ],
+    [
+      "batch",
+      1
+    ],
+    [
+      "colleagu",
+      1
+    ],
+    [
+      "far",
+      1
+    ],
+    [
+      "promis",
+      1
+    ],
+    [
+      "louder",
+      1
+    ],
+    [
+      "supportive",
+      1
+    ],
+    [
+      "task",
+      1
+    ],
+    [
+      "closer",
+      1
+    ],
+    [
+      "quote",
+      1
+    ],
+    [
+      "car",
+      1
+    ],
+    [
+      "respons",
+      1
+    ],
+    [
+      "fast",
+      1
+    ],
+    [
+      "vague",
+      1
+    ],
+    [
+      "quality",
+      1
+    ],
+    [
+      "thoughtful",
+      1
+    ],
+    [
+      "simple",
+      1
+    ],
+    [
+      "handwritten",
+      1
+    ],
+    [
+      "wish",
+      1
+    ],
+    [
+      "misinterpret",
+      1
+    ],
+    [
+      "mistak",
+      1
+    ],
+    [
+      "harsh",
+      1
+    ],
+    [
+      "backfir",
+      1
+    ],
+    [
+      "theyd",
+      1
+    ],
+    [
+      "check",
+      1
+    ],
+    [
+      "reserv",
+      1
+    ],
+    [
+      "oil",
+      1
+    ],
+    [
+      "water",
+      1
+    ],
+    [
+      "successful",
+      1
+    ],
+    [
+      "expert",
+      1
+    ],
+    [
+      "negotiator",
+      1
+    ],
+    [
+      "least",
+      1
+    ],
+    [
+      "reminder",
+      1
+    ],
+    [
+      "showcase",
+      1
+    ],
+    [
+      "black",
+      1
+    ],
+    [
+      "belt",
+      1
+    ],
+    [
+      "direction",
+      1
+    ],
+    [
+      "casual",
+      1
+    ],
+    [
+      "unlock",
+      1
+    ],
+    [
+      "motivation",
+      1
+    ],
+    [
+      "de-escalate",
+      1
+    ],
+    [
+      "tense",
+      1
+    ],
+    [
+      "honest",
+      1
+    ],
+    [
+      "market",
+      1
+    ],
+    [
+      "campaign",
+      1
+    ],
+    [
+      "stuck",
+      1
+    ],
+    [
+      "flip",
+      1
+    ],
+    [
+      "target",
+      1
+    ],
+    [
+      "audience",
+      1
+    ],
+    [
+      "light",
+      1
+    ],
+    [
+      "bulb",
+      1
+    ],
+    [
+      "spark",
+      1
+    ],
+    [
+      "creativity",
+      1
+    ],
+    [
+      "tim",
+      1
+    ],
+    [
+      "root",
+      1
+    ],
+    [
+      "budget",
+      1
+    ],
+    [
+      "number",
+      1
+    ],
+    [
+      "proposal",
+      1
+    ],
+    [
+      "night",
+      1
+    ],
+    [
+      "core",
+      1
+    ],
+    [
+      "presentation",
+      1
+    ],
+    [
+      "bor",
+      1
+    ],
+    [
+      "fall",
+      1
+    ],
+    [
+      "asleep",
+      1
+    ],
+    [
+      "distract",
+      1
+    ],
+    [
+      "bold",
+      1
+    ],
+    [
+      "move",
+      1
+    ],
+    [
+      "mistake",
+      1
+    ],
+    [
+      "wir",
+      1
+    ],
+    [
+      "memorable",
+      1
+    ],
+    [
+      "list",
+      1
+    ],
+    [
+      "featur",
+      1
+    ],
+    [
+      "customer",
+      1
+    ],
+    [
+      "sell",
+      1
+    ],
+    [
+      "similar",
+      1
+    ],
+    [
+      "fail",
+      1
+    ],
+    [
+      "risk",
+      1
+    ],
+    [
+      "cut",
+      1
+    ],
+    [
+      "noise",
+      1
+    ],
+    [
+      "heart",
+      1
+    ],
+    [
+      "logic",
+      1
+    ],
+    [
+      "data",
+      1
+    ],
+    [
+      "epic",
+      1
+    ],
+    [
+      "tale",
+      1
+    ],
+    [
+      "anecdot",
+      1
+    ],
+    [
+      "dynamic",
+      1
+    ],
+    [
+      "deadline",
+      1
+    ],
+    [
+      "yell",
+      1
+    ],
+    [
+      "minute",
+      1
+    ],
+    [
+      "support",
+      1
+    ],
+    [
+      "smart",
+      1
+    ],
+    [
+      "environment",
+      1
+    ],
+    [
+      "affect",
+      1
+    ],
+    [
+      "emotionally",
+      1
+    ],
+    [
+      "intelligent",
+      1
+    ],
+    [
+      "process",
+      1
+    ],
+    [
+      "regret",
+      1
+    ],
+    [
+      "journey",
+      1
+    ],
+    [
+      "note",
+      1
+    ],
+    [
+      "confidence",
+      1
+    ],
+    [
+      "happy",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 7791,
+    "unique_words": 884,
+    "duration_min": 42.9
+  }
+}

@@ -1,0 +1,10485 @@
+{
+  "file_stem": "79_BusinessMeetingConversationsin60minutes",
+  "no": 79,
+  "title_keywords": [
+    [
+      "business",
+      "business"
+    ],
+    [
+      "meeting",
+      "meet"
+    ],
+    [
+      "conversations",
+      "conversation"
+    ],
+    [
+      "minutes",
+      "minut"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "good",
+      92,
+      "A2"
+    ],
+    [
+      "meeting",
+      77,
+      "A2"
+    ],
+    [
+      "everyone",
+      76,
+      "A2"
+    ],
+    [
+      "today",
+      76,
+      "A2"
+    ],
+    [
+      "thank",
+      64,
+      "A2"
+    ],
+    [
+      "meetings",
+      55,
+      "B1+"
+    ],
+    [
+      "exactly",
+      52,
+      "B1+"
+    ],
+    [
+      "english",
+      48,
+      "A2"
+    ],
+    [
+      "communication",
+      44,
+      "B1+"
+    ],
+    [
+      "also",
+      40,
+      "A2"
+    ],
+    [
+      "client",
+      40,
+      "B1+"
+    ],
+    [
+      "idea",
+      40,
+      "A2"
+    ],
+    [
+      "morning",
+      40,
+      "B1+"
+    ],
+    [
+      "team",
+      40,
+      "A2"
+    ],
+    [
+      "conversations",
+      36,
+      "B1+"
+    ],
+    [
+      "important",
+      36,
+      "A2"
+    ],
+    [
+      "time",
+      36,
+      "A2"
+    ],
+    [
+      "work",
+      36,
+      "A2"
+    ],
+    [
+      "department",
+      34,
+      "B1+"
+    ],
+    [
+      "business",
+      30,
+      "B1+"
+    ],
+    [
+      "great",
+      30,
+      "A2"
+    ],
+    [
+      "marketing",
+      30,
+      "A2"
+    ],
+    [
+      "next",
+      30,
+      "A2"
+    ],
+    [
+      "sounds",
+      30,
+      "A2"
+    ],
+    [
+      "think",
+      30,
+      "A2"
+    ],
+    [
+      "definitely",
+      29,
+      "B1+"
+    ],
+    [
+      "agree",
+      28,
+      "A2"
+    ],
+    [
+      "customers",
+      28,
+      "B1+"
+    ],
+    [
+      "help",
+      28,
+      "A2"
+    ],
+    [
+      "practice",
+      28,
+      "A2"
+    ],
+    [
+      "want",
+      28,
+      "A2"
+    ],
+    [
+      "delays",
+      26,
+      "B1+"
+    ],
+    [
+      "discuss",
+      26,
+      "B1+"
+    ],
+    [
+      "minutes",
+      26,
+      "B1+"
+    ],
+    [
+      "new",
+      26,
+      "A2"
+    ],
+    [
+      "questions",
+      26,
+      "A2"
+    ],
+    [
+      "starts",
+      26,
+      "A2"
+    ],
+    [
+      "updates",
+      26,
+      "B1+"
+    ],
+    [
+      "first",
+      24,
+      "A2"
+    ],
+    [
+      "go",
+      24,
+      "A2"
+    ],
+    [
+      "need",
+      24,
+      "A2"
+    ],
+    [
+      "office",
+      24,
+      "A2"
+    ],
+    [
+      "project",
+      24,
+      "B1+"
+    ],
+    [
+      "sales",
+      24,
+      "B1+"
+    ],
+    [
+      "still",
+      24,
+      "A2"
+    ],
+    [
+      "us",
+      24,
+      "A2"
+    ],
+    [
+      "absolutely",
+      22,
+      "B1+"
+    ],
+    [
+      "completely",
+      22,
+      "B1+"
+    ],
+    [
+      "looks",
+      22,
+      "A2"
+    ],
+    [
+      "professional",
+      22,
+      "B1+"
+    ],
+    [
+      "true",
+      22,
+      "A2"
+    ],
+    [
+      "problems",
+      21,
+      "A2"
+    ],
+    [
+      "excellent",
+      20,
+      "B1+"
+    ],
+    [
+      "feel",
+      20,
+      "A2"
+    ],
+    [
+      "improving",
+      20,
+      "B1+"
+    ],
+    [
+      "learning",
+      20,
+      "A2"
+    ],
+    [
+      "people",
+      20,
+      "A2"
+    ],
+    [
+      "begin",
+      18,
+      "A2"
+    ],
+    [
+      "honestly",
+      18,
+      "B1+"
+    ],
+    [
+      "increased",
+      18,
+      "B1+"
+    ],
+    [
+      "presentation",
+      18,
+      "B1+"
+    ],
+    [
+      "ethan",
+      17,
+      "B1+"
+    ],
+    [
+      "speaking",
+      17,
+      "A2"
+    ],
+    [
+      "always",
+      16,
+      "B1+"
+    ],
+    [
+      "clear",
+      16,
+      "A2"
+    ],
+    [
+      "every",
+      16,
+      "A2"
+    ],
+    [
+      "happen",
+      16,
+      "A2"
+    ],
+    [
+      "improve",
+      16,
+      "B1+"
+    ],
+    [
+      "keep",
+      16,
+      "A2"
+    ],
+    [
+      "know",
+      16,
+      "A2"
+    ],
+    [
+      "month's",
+      16,
+      "A2"
+    ],
+    [
+      "practicing",
+      16,
+      "B1+"
+    ],
+    [
+      "shorter",
+      16,
+      "B1+"
+    ],
+    [
+      "situations",
+      16,
+      "A2"
+    ],
+    [
+      "strong",
+      16,
+      "A2"
+    ],
+    [
+      "welcome",
+      16,
+      "A2"
+    ],
+    [
+      "makes",
+      15,
+      "B1+"
+    ],
+    [
+      "perfect",
+      15,
+      "A2"
+    ],
+    [
+      "almost",
+      14,
+      "B1+"
+    ],
+    [
+      "asking",
+      14,
+      "A2"
+    ],
+    [
+      "campaign",
+      14,
+      "B1+"
+    ],
+    [
+      "coffee",
+      14,
+      "A2"
+    ],
+    [
+      "day",
+      14,
+      "A2"
+    ],
+    [
+      "email",
+      14,
+      "A2"
+    ],
+    [
+      "employees",
+      14,
+      "B1+"
+    ],
+    [
+      "especially",
+      14,
+      "B1+"
+    ],
+    [
+      "finish",
+      14,
+      "A2"
+    ],
+    [
+      "goals",
+      14,
+      "B1+"
+    ],
+    [
+      "hear",
+      14,
+      "A2"
+    ],
+    [
+      "issues",
+      14,
+      "B1+"
+    ],
+    [
+      "last",
+      14,
+      "A2"
+    ],
+    [
+      "make",
+      14,
+      "A2"
+    ],
+    [
+      "management",
+      14,
+      "B1+"
+    ],
+    [
+      "maybe",
+      14,
+      "A2"
+    ],
+    [
+      "prepare",
+      14,
+      "A2"
+    ],
+    [
+      "room",
+      14,
+      "A2"
+    ],
+    [
+      "sometimes",
+      14,
+      "B1+"
+    ],
+    [
+      "sure",
+      14,
+      "A2"
+    ],
+    [
+      "another",
+      12,
+      "A2"
+    ],
+    [
+      "chloe",
+      12,
+      "B1+"
+    ],
+    [
+      "everything",
+      12,
+      "B1+"
+    ],
+    [
+      "expected",
+      12,
+      "A2"
+    ],
+    [
+      "future",
+      12,
+      "A2"
+    ],
+    [
+      "hour",
+      12,
+      "A2"
+    ],
+    [
+      "however",
+      12,
+      "A2"
+    ],
+    [
+      "interesting",
+      12,
+      "A2"
+    ],
+    [
+      "joining",
+      12,
+      "A2"
+    ],
+    [
+      "long",
+      12,
+      "A2"
+    ],
+    [
+      "lot",
+      12,
+      "A2"
+    ],
+    [
+      "managers",
+      12,
+      "B1+"
+    ],
+    [
+      "one",
+      12,
+      "A2"
+    ],
+    [
+      "point",
+      12,
+      "A2"
+    ],
+    [
+      "prepared",
+      12,
+      "B1+"
+    ],
+    [
+      "review",
+      12,
+      "B1+"
+    ],
+    [
+      "session",
+      12,
+      "B1+"
+    ],
+    [
+      "topic",
+      12,
+      "B1+"
+    ],
+    [
+      "use",
+      12,
+      "A2"
+    ],
+    [
+      "way",
+      12,
+      "A2"
+    ],
+    [
+      "arrived",
+      10,
+      "B1+"
+    ],
+    [
+      "course",
+      10,
+      "A2"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "good morning",
+      "count": 20,
+      "example": "Good morning, Ethan.",
+      "t": 59.28
+    },
+    {
+      "text": "business meeting",
+      "count": 14,
+      "example": "Today's topic is business meeting conversations in 60 minutes.",
+      "t": 29.66
+    },
+    {
+      "text": "morning everyone",
+      "count": 14,
+      "example": "Good morning, everyone.",
+      "t": 139.4
+    },
+    {
+      "text": "us today",
+      "count": 12,
+      "example": "We're so happy you're here learning English with us today.",
+      "t": 20.35
+    },
+    {
+      "text": "today's meeting",
+      "count": 12,
+      "example": "All right, Isen, are you ready to start today's meeting practice?",
+      "t": 54.36
+    },
+    {
+      "text": "let's begin",
+      "count": 12,
+      "example": "Let's begin.",
+      "t": 58.34
+    },
+    {
+      "text": "good idea",
+      "count": 12,
+      "example": "Good idea.",
+      "t": 105.34
+    },
+    {
+      "text": "conversation practice",
+      "count": 10,
+      "example": "Hello, everyone, and welcome back to our English conversation practice session.",
+      "t": 14.02
+    },
+    {
+      "text": "meeting conversations",
+      "count": 10,
+      "example": "Today's topic is business meeting conversations in 60 minutes.",
+      "t": 29.66
+    },
+    {
+      "text": "business meeting conversations",
+      "count": 10,
+      "example": "Today's topic is business meeting conversations in 60 minutes.",
+      "t": 29.66
+    }
+  ],
+  "phrases": [
+    {
+      "text": "good morning",
+      "count": 20,
+      "example": "Good morning, Ethan.",
+      "t": 59.28
+    },
+    {
+      "text": "business meeting",
+      "count": 14,
+      "example": "Today's topic is business meeting conversations in 60 minutes.",
+      "t": 29.66
+    },
+    {
+      "text": "morning everyone",
+      "count": 14,
+      "example": "Good morning, everyone.",
+      "t": 139.4
+    },
+    {
+      "text": "us today",
+      "count": 12,
+      "example": "We're so happy you're here learning English with us today.",
+      "t": 20.35
+    },
+    {
+      "text": "today's meeting",
+      "count": 12,
+      "example": "All right, Isen, are you ready to start today's meeting practice?",
+      "t": 54.36
+    },
+    {
+      "text": "let's begin",
+      "count": 12,
+      "example": "Let's begin.",
+      "t": 58.34
+    },
+    {
+      "text": "good idea",
+      "count": 12,
+      "example": "Good idea.",
+      "t": 105.34
+    },
+    {
+      "text": "conversation practice",
+      "count": 10,
+      "example": "Hello, everyone, and welcome back to our English conversation practice session.",
+      "t": 14.02
+    },
+    {
+      "text": "meeting conversations",
+      "count": 10,
+      "example": "Today's topic is business meeting conversations in 60 minutes.",
+      "t": 29.66
+    },
+    {
+      "text": "business meeting conversations",
+      "count": 10,
+      "example": "Today's topic is business meeting conversations in 60 minutes.",
+      "t": 29.66
+    },
+    {
+      "text": "good morning everyone",
+      "count": 10,
+      "example": "Good morning, everyone.",
+      "t": 139.4
+    },
+    {
+      "text": "completely agree",
+      "count": 10,
+      "example": "I completely agree.",
+      "t": 252.92
+    },
+    {
+      "text": "welcome back",
+      "count": 8,
+      "example": "Hello, everyone, and welcome back to our English conversation practice session.",
+      "t": 14.02
+    },
+    {
+      "text": "english conversation",
+      "count": 8,
+      "example": "Hello, everyone, and welcome back to our English conversation practice session.",
+      "t": 14.02
+    },
+    {
+      "text": "english conversation practice",
+      "count": 8,
+      "example": "Hello, everyone, and welcome back to our English conversation practice session.",
+      "t": 14.02
+    },
+    {
+      "text": "conversations in minutes",
+      "count": 8,
+      "example": "Today's topic is business meeting conversations in 60 minutes.",
+      "t": 29.66
+    },
+    {
+      "text": "meeting starts",
+      "count": 8,
+      "example": "Yeah, I wanted to prepare before the strategy meeting starts.",
+      "t": 63.31
+    },
+    {
+      "text": "sales increased",
+      "count": 8,
+      "example": "Overall sales increased by 8% this quarter.",
+      "t": 215.14
+    },
+    {
+      "text": "let's review",
+      "count": 8,
+      "example": "Before we finish, let's review today's action points.",
+      "t": 420.96
+    },
+    {
+      "text": "that's good",
+      "count": 8,
+      "example": "That's good to hear.",
+      "t": 500.95
+    },
+    {
+      "text": "hello everyone",
+      "count": 6,
+      "example": "Hello, everyone, and welcome back to our English conversation practice session.",
+      "t": 14.02
+    },
+    {
+      "text": "i'm ethan",
+      "count": 6,
+      "example": "I'm Ethan.",
+      "t": 18.53
+    },
+    {
+      "text": "english with us",
+      "count": 6,
+      "example": "We're so happy you're here learning English with us today.",
+      "t": 20.35
+    },
+    {
+      "text": "professional situations",
+      "count": 6,
+      "example": "If you want to improve your spoken English for work and professional situations, you're in the right place.",
+      "t": 23.27
+    },
+    {
+      "text": "today's topic",
+      "count": 6,
+      "example": "Today's topic is business meeting conversations in 60 minutes.",
+      "t": 29.66
+    },
+    {
+      "text": "topic is business",
+      "count": 6,
+      "example": "Today's topic is business meeting conversations in 60 minutes.",
+      "t": 29.66
+    },
+    {
+      "text": "business meetings",
+      "count": 6,
+      "example": "We're going to practice realistic office conversations that happen before, during, and after business meetings.",
+      "t": 33.93
+    },
+    {
+      "text": "wanted to prepare",
+      "count": 6,
+      "example": "Yeah, I wanted to prepare before the strategy meeting starts.",
+      "t": 63.31
+    },
+    {
+      "text": "conference room",
+      "count": 6,
+      "example": "Should we go to the conference room?",
+      "t": 133.1
+    },
+    {
+      "text": "first we'll",
+      "count": 6,
+      "example": "First, we'll review project progress from each department.",
+      "t": 149.68
+    },
+    {
+      "text": "social media",
+      "count": 6,
+      "example": "mainly short-form video campaigns and stronger social media interaction.",
+      "t": 166.69
+    },
+    {
+      "text": "makes sense",
+      "count": 6,
+      "example": "That makes sense.",
+      "t": 176.88
+    },
+    {
+      "text": "go ahead",
+      "count": 6,
+      "example": "Go ahead.",
+      "t": 258.87
+    },
+    {
+      "text": "agree completely",
+      "count": 6,
+      "example": "I agree completely.",
+      "t": 276.23
+    },
+    {
+      "text": "let's discuss",
+      "count": 6,
+      "example": "Let's discuss next month's goals.",
+      "t": 291.14
+    },
+    {
+      "text": "customer satisfaction",
+      "count": 6,
+      "example": "The company wants to improve customer satisfaction and internal communication.",
+      "t": 293.34
+    },
+    {
+      "text": "project delays",
+      "count": 6,
+      "example": "We also want to reduce project delays by improving workflow efficiency.",
+      "t": 301.09
+    },
+    {
+      "text": "that's important",
+      "count": 6,
+      "example": "That's important.",
+      "t": 324.26
+    },
+    {
+      "text": "shorter meetings",
+      "count": 6,
+      "example": "I think shorter meetings with clear action points would improve productivity significantly.",
+      "t": 380.59
+    },
+    {
+      "text": "thank you everyone",
+      "count": 6,
+      "example": "Thank you everyone for your time and participation today.",
+      "t": 447.6
+    },
+    {
+      "text": "that's true",
+      "count": 6,
+      "example": "That's true.",
+      "t": 525.8
+    },
+    {
+      "text": "useful english",
+      "count": 6,
+      "example": "Well, everyone, we hope today's conversation helped you learn useful English for business meetings and office communication.",
+      "t": 538.48
+    },
+    {
+      "text": "every day",
+      "count": 6,
+      "example": "These are practical phrases and expressions you can use at work every day.",
+      "t": 544.53
+    },
+    {
+      "text": "i'm chloe",
+      "count": 6,
+      "example": "And I'm Chloe.",
+      "t": 573.37
+    },
+    {
+      "text": "we're currently",
+      "count": 6,
+      "example": "We're currently researching opportunities in Europe and Asia.",
+      "t": 966.77
+    },
+    {
+      "text": "client meeting",
+      "count": 5,
+      "example": "Yeah, I wanted to prepare before the client meeting starts.",
+      "t": 1224.95
+    },
+    {
+      "text": "practice session",
+      "count": 4,
+      "example": "Hello, everyone, and welcome back to our English conversation practice session.",
+      "t": 14.02
+    },
+    {
+      "text": "conversation practice session",
+      "count": 4,
+      "example": "Hello, everyone, and welcome back to our English conversation practice session.",
+      "t": 14.02
+    },
+    {
+      "text": "happy you're",
+      "count": 4,
+      "example": "We're so happy you're here learning English with us today.",
+      "t": 20.35
+    },
+    {
+      "text": "learning english",
+      "count": 4,
+      "example": "We're so happy you're here learning English with us today.",
+      "t": 20.35
+    },
+    {
+      "text": "we're so happy",
+      "count": 4,
+      "example": "We're so happy you're here learning English with us today.",
+      "t": 20.35
+    },
+    {
+      "text": "we're going",
+      "count": 4,
+      "example": "We're going to practice realistic office conversations that happen before, during, and after business meetings.",
+      "t": 33.93
+    },
+    {
+      "text": "practice realistic",
+      "count": 4,
+      "example": "We're going to practice realistic office conversations that happen before, during, and after business meetings.",
+      "t": 33.93
+    },
+    {
+      "text": "conversations that happen",
+      "count": 4,
+      "example": "We're going to practice realistic office conversations that happen before, during, and after business meetings.",
+      "t": 33.93
+    },
+    {
+      "text": "presenting ideas",
+      "count": 4,
+      "example": "You'll hear useful phrases for presenting ideas, discussing problems, asking questions, sharing opinions, and working with a team.",
+      "t": 40.22
+    },
+    {
+      "text": "ideas discussing",
+      "count": 4,
+      "example": "You'll hear useful phrases for presenting ideas, discussing problems, asking questions, sharing opinions, and working with a team.",
+      "t": 40.22
+    },
+    {
+      "text": "presenting ideas discussing",
+      "count": 4,
+      "example": "You'll hear useful phrases for presenting ideas, discussing problems, asking questions, sharing opinions, and working with a team.",
+      "t": 40.22
+    },
+    {
+      "text": "we'll use",
+      "count": 4,
+      "example": "And just like always, we'll use clear and natural English that sounds professional but easy to understand.",
+      "t": 48.33
+    },
+    {
+      "text": "use clear",
+      "count": 4,
+      "example": "And just like always, we'll use clear and natural English that sounds professional but easy to understand.",
+      "t": 48.33
+    },
+    {
+      "text": "natural english",
+      "count": 4,
+      "example": "And just like always, we'll use clear and natural English that sounds professional but easy to understand.",
+      "t": 48.33
+    },
+    {
+      "text": "we'll use clear",
+      "count": 4,
+      "example": "And just like always, we'll use clear and natural English that sounds professional but easy to understand.",
+      "t": 48.33
+    },
+    {
+      "text": "clear and natural",
+      "count": 4,
+      "example": "And just like always, we'll use clear and natural English that sounds professional but easy to understand.",
+      "t": 48.33
+    },
+    {
+      "text": "morning ethan",
+      "count": 4,
+      "example": "Good morning, Ethan.",
+      "t": 59.28
+    },
+    {
+      "text": "good morning ethan",
+      "count": 4,
+      "example": "Good morning, Ethan.",
+      "t": 59.28
+    },
+    {
+      "text": "strategy meeting",
+      "count": 4,
+      "example": "Yeah, I wanted to prepare before the strategy meeting starts.",
+      "t": 63.31
+    },
+    {
+      "text": "wants updates",
+      "count": 4,
+      "example": "Management wants updates from every department.",
+      "t": 70.36
+    },
+    {
+      "text": "every department",
+      "count": 4,
+      "example": "Management wants updates from every department.",
+      "t": 70.36
+    },
+    {
+      "text": "heard the ceo",
+      "count": 4,
+      "example": "I heard the CEO will join too.",
+      "t": 72.89
+    },
+    {
+      "text": "don't worry",
+      "count": 4,
+      "example": "Don't worry.",
+      "t": 78.05
+    },
+    {
+      "text": "preparation makes",
+      "count": 4,
+      "example": "Preparation makes meetings less stressful.",
+      "t": 84.78
+    },
+    {
+      "text": "presentation slides",
+      "count": 4,
+      "example": "Did you finish your presentation slides?",
+      "t": 88.19
+    },
+    {
+      "text": "let's grab",
+      "count": 4,
+      "example": "Let's grab coffee first, though.",
+      "t": 135.18
+    },
+    {
+      "text": "grab coffee",
+      "count": 4,
+      "example": "Let's grab coffee first, though.",
+      "t": 135.18
+    },
+    {
+      "text": "let's grab coffee",
+      "count": 4,
+      "example": "Let's grab coffee first, though.",
+      "t": 135.18
+    },
+    {
+      "text": "joining today's",
+      "count": 4,
+      "example": "Thanks for joining today's business meeting conversation.",
+      "t": 140.64
+    },
+    {
+      "text": "today's business",
+      "count": 4,
+      "example": "Thanks for joining today's business meeting conversation.",
+      "t": 140.64
+    },
+    {
+      "text": "joining today's business",
+      "count": 4,
+      "example": "Thanks for joining today's business meeting conversation.",
+      "t": 140.64
+    },
+    {
+      "text": "today's business meeting",
+      "count": 4,
+      "example": "Thanks for joining today's business meeting conversation.",
+      "t": 140.64
+    },
+    {
+      "text": "we'll discuss",
+      "count": 4,
+      "example": "Then we'll discuss next month's goals.",
+      "t": 152.78
+    },
+    {
+      "text": "discuss next",
+      "count": 4,
+      "example": "Then we'll discuss next month's goals.",
+      "t": 152.78
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.03,
+      "text": "Listen."
+    },
+    {
+      "t": 8.52,
+      "text": "Practice."
+    },
+    {
+      "t": 9.56,
+      "text": "Speak."
+    },
+    {
+      "t": 10.6,
+      "text": "Practice makes you perfect."
+    },
+    {
+      "t": 14.02,
+      "text": "Hello, everyone, and welcome back to our English conversation practice session."
+    },
+    {
+      "t": 18.53,
+      "text": "I'm Ethan."
+    },
+    {
+      "t": 19.39,
+      "text": "And I'm Mia."
+    },
+    {
+      "t": 20.35,
+      "text": "We're so happy you're here learning English with us today."
+    },
+    {
+      "t": 23.27,
+      "text": "If you want to improve your spoken English for work and professional situations, you're in the right place."
+    },
+    {
+      "t": 28.8,
+      "text": "That's right."
+    },
+    {
+      "t": 29.66,
+      "text": "Today's topic is business meeting conversations in 60 minutes."
+    },
+    {
+      "t": 33.93,
+      "text": "We're going to practice realistic office conversations that happen before, during, and after business meetings."
+    },
+    {
+      "t": 40.22,
+      "text": "You'll hear useful phrases for presenting ideas, discussing problems, asking questions, sharing opinions, and working with a team."
+    },
+    {
+      "t": 48.33,
+      "text": "And just like always, we'll use clear and natural English that sounds professional but easy to understand."
+    },
+    {
+      "t": 54.36,
+      "text": "All right, Isen, are you ready to start today's meeting practice?"
+    },
+    {
+      "t": 57.54,
+      "text": "Absolutely."
+    },
+    {
+      "t": 58.34,
+      "text": "Let's begin."
+    },
+    {
+      "t": 59.28,
+      "text": "Good morning, Ethan."
+    },
+    {
+      "t": 60.33,
+      "text": "You're here earlier than usual today."
+    },
+    {
+      "t": 62.43,
+      "text": "Morning, Mia."
+    },
+    {
+      "t": 63.31,
+      "text": "Yeah, I wanted to prepare before the strategy meeting starts."
+    },
+    {
+      "t": 66.59,
+      "text": "Same here."
+    },
+    {
+      "t": 67.28,
+      "text": "Today's meeting sounds pretty important."
+    },
+    {
+      "t": 69.38,
+      "text": "Definitely."
+    },
+    {
+      "t": 70.36,
+      "text": "Management wants updates from every department."
+    },
+    {
+      "t": 72.89,
+      "text": "I heard the CEO will join too."
+    },
+    {
+      "t": 74.95,
+      "text": "Really?"
+    },
+    {
+      "t": 75.45,
+      "text": "Then I'm even more nervous now."
+    },
+    {
+      "t": 78.05,
+      "text": "Don't worry."
+    },
+    {
+      "t": 78.67,
+      "text": "You're always prepared."
+    },
+    {
+      "t": 80.06,
+      "text": "I try to be."
+    },
+    {
+      "t": 81.16,
+      "text": "I reviewed my notes twice already this morning."
+    },
+    {
+      "t": 83.68,
+      "text": "That's a good habit."
+    },
+    {
+      "t": 84.78,
+      "text": "Preparation makes meetings less stressful."
+    },
+    {
+      "t": 87.2,
+      "text": "Exactly."
+    },
+    {
+      "t": 88.19,
+      "text": "Did you finish your presentation slides?"
+    },
+    {
+      "t": 90.27,
+      "text": "Almost."
+    },
+    {
+      "t": 90.97,
+      "text": "I'm still changing a few things on the final slide."
+    },
+    {
+      "t": 93.81,
+      "text": "What's wrong with it?"
+    },
+    {
+      "t": 94.77,
+      "text": "I think there's too much information."
+    },
+    {
+      "t": 97.06,
+      "text": "That happens a lot with presentations."
+    },
+    {
+      "t": 99.26,
+      "text": "Yeah."
+    },
+    {
+      "t": 99.82,
+      "text": "I want it to look professional, but still simple."
+    },
+    {
+      "t": 102.62,
+      "text": "Maybe use fewer words and add more visuals."
+    },
+    {
+      "t": 105.34,
+      "text": "Good idea."
+    },
+    {
+      "t": 106.25,
+      "text": "Charts usually explain things faster."
+    },
+    {
+      "t": 108.65,
+      "text": "Exactly."
+    },
+    {
+      "t": 109.47,
+      "text": "Especially during meetings where time is limited."
+    },
+    {
+      "t": 112.05,
+      "text": "Speaking of time, this meeting is scheduled for exactly 60 minutes."
+    },
+    {
+      "t": 116.77,
+      "text": "That means everyone needs to keep their updates short and clear."
+    },
+    {
+      "t": 120.26,
+      "text": "Which is honestly harder than it sounds."
+    },
+    {
+      "t": 123.14,
+      "text": "Very true."
+    },
+    {
+      "t": 124.25,
+      "text": "Some people turn 5-minute updates into 20-minute speeches."
+    },
+    {
+      "t": 129.09,
+      "text": "We all know who you're talking about."
+    },
+    {
+      "t": 131.08,
+      "text": "I'm not naming names."
+    },
+    {
+      "t": 132.68,
+      "text": "All right."
+    },
+    {
+      "t": 133.1,
+      "text": "Should we go to the conference room?"
+    },
+    {
+      "t": 134.78,
+      "text": "Sure."
+    },
+    {
+      "t": 135.18,
+      "text": "Let's grab coffee first, though."
+    },
+    {
+      "t": 136.77,
+      "text": "I'll need extra energy today."
+    },
+    {
+      "t": 138.59,
+      "text": "Same here."
+    },
+    {
+      "t": 139.4,
+      "text": "Good morning, everyone."
+    },
+    {
+      "t": 140.64,
+      "text": "Thanks for joining today's business meeting conversation."
+    },
+    {
+      "t": 143.53,
+      "text": "Good morning."
+    },
+    {
+      "t": 144.47,
+      "text": "Morning, everyone."
+    },
+    {
+      "t": 145.55,
+      "text": "Since we only have 60 minutes, let's begin right away."
+    },
+    {
+      "t": 148.74,
+      "text": "Good idea."
+    },
+    {
+      "t": 149.68,
+      "text": "First, we'll review project progress from each department."
+    },
+    {
+      "t": 152.78,
+      "text": "Then we'll discuss next month's goals."
+    },
+    {
+      "t": 155.02,
+      "text": "Sounds good."
+    },
+    {
+      "t": 155.94,
+      "text": "Ethan, would you like to start with the marketing update?"
+    },
+    {
+      "t": 158.49,
+      "text": "Of course."
+    },
+    {
+      "t": 159.39,
+      "text": "Over the past month, our online engagement increased by 12%."
+    },
+    {
+      "t": 163.01,
+      "text": "That's excellent news."
+    },
+    {
+      "t": 164.94,
+      "text": "What contributed to the increase?"
+    },
+    {
+      "t": 166.69,
+      "text": "mainly short-form video campaigns and stronger social media interaction."
+    },
+    {
+      "t": 171.19,
+      "text": "Interesting."
+    },
+    {
+      "t": 171.95,
+      "text": "Which platform performed best?"
+    },
+    {
+      "t": 174.04,
+      "text": "Instagram generated the highest audience engagement."
+    },
+    {
+      "t": 176.88,
+      "text": "That makes sense."
+    },
+    {
+      "t": 177.78,
+      "text": "Video content is extremely popular right now."
+    },
+    {
+      "t": 180.66,
+      "text": "Exactly."
+    },
+    {
+      "t": 181.54,
+      "text": "We also noticed customers responding positively to behind-the-scenes content."
+    },
+    {
+      "t": 185.75,
+      "text": "That's valuable information."
+    },
+    {
+      "t": 187.45,
+      "text": "However, email campaign performance dropped slightly."
+    },
+    {
+      "t": 190.77,
+      "text": "Do we know why?"
+    },
+    {
+      "t": 191.47,
+      "text": "We believe the messages were too long and formal."
+    },
+    {
+      "t": 194.63,
+      "text": "I agree."
+    },
+    {
+      "t": 195.27,
+      "text": "Usually, customers prefer shorter and more personal communication."
+    },
+    {
+      "t": 199.54,
+      "text": "That's what our research suggests as well."
+    },
+    {
+      "t": 201.82,
+      "text": "So, what changes are you planning?"
+    },
+    {
+      "t": 203.72,
+      "text": "We'd like to redesign the email format and focus more on personalized messaging."
+    },
+    {
+      "t": 208.61,
+      "text": "Sounds like a smart approach."
+    },
+    {
+      "t": 210.19,
+      "text": "Thank you."
+    },
+    {
+      "t": 210.95,
+      "text": "All right, let's move on to the sales department update."
+    },
+    {
+      "t": 213.84,
+      "text": "Good morning, everyone."
+    },
+    {
+      "t": 215.14,
+      "text": "Overall sales increased by 8% this quarter."
+    },
+    {
+      "t": 218.34,
+      "text": "Great progress."
+    },
+    {
+      "t": 219.54,
+      "text": "Thank you."
+    },
+    {
+      "t": 220.38,
+      "text": "However, we faced delays in two major client projects."
+    },
+    {
+      "t": 223.83,
+      "text": "What caused the delays?"
+    },
+    {
+      "t": 225.57,
+      "text": "Mostly supply chain issues and late product deliveries."
+    },
+    {
+      "t": 228.89,
+      "text": "Are those issues resolved now?"
+    },
+    {
+      "t": 230.84,
+      "text": "Mostly, yes, but we're still monitoring the situation carefully."
+    },
+    {
+      "t": 234.44,
+      "text": "Good."
+    },
+    {
+      "t": 234.92,
+      "text": "Keeping clients informed is very important during delays."
+    },
+    {
+      "t": 238.43,
+      "text": "Absolutely."
+    },
+    {
+      "t": 239.43,
+      "text": "Communication helped us avoid bigger problems."
+    },
+    {
+      "t": 242.07,
+      "text": "Did any clients react negatively?"
+    },
+    {
+      "t": 243.97,
+      "text": "A few were frustrated at first, but they appreciated our honesty and regular updates."
+    },
+    {
+      "t": 249.42,
+      "text": "Transparency is always important in business relationships."
+    },
+    {
+      "t": 252.92,
+      "text": "I completely agree."
+    },
+    {
+      "t": 254.52,
+      "text": "Excellent."
+    },
+    {
+      "t": 255.04,
+      "text": "Thank you for the update."
+    },
+    {
+      "t": 256.31,
+      "text": "Excuse me, may I add something?"
+    },
+    {
+      "t": 258.33,
+      "text": "Of course."
+    },
+    {
+      "t": 258.87,
+      "text": "Go ahead."
+    },
+    {
+      "t": 259.71,
+      "text": "I think departments should communicate more frequently during large projects."
+    },
+    {
+      "t": 263.69,
+      "text": "What do you mean exactly?"
+    },
+    {
+      "t": 265.32,
+      "text": "Sometimes marketing, sales, and operations work separately without sharing enough information."
+    },
+    {
+      "t": 270.52,
+      "text": "That's actually a very good point."
+    },
+    {
+      "t": 272.51,
+      "text": "Better communication could help us avoid delays and misunderstandings."
+    },
+    {
+      "t": 276.23,
+      "text": "I agree completely."
+    },
+    {
+      "t": 277.56,
+      "text": "Maybe we could organize shorter weekly communication meetings."
+    },
+    {
+      "t": 280.84,
+      "text": "That sounds like a great idea."
+    },
+    {
+      "t": 282.35,
+      "text": "It wouldn't need to be long."
+    },
+    {
+      "t": 283.61,
+      "text": "Even 15 minutes could help."
+    },
+    {
+      "t": 285.91,
+      "text": "That sounds practical and efficient."
+    },
+    {
+      "t": 287.8,
+      "text": "Great suggestion, Ethan."
+    },
+    {
+      "t": 289.22,
+      "text": "Thanks."
+    },
+    {
+      "t": 290.08,
+      "text": "All right, everyone."
+    },
+    {
+      "t": 291.14,
+      "text": "Let's discuss next month's goals."
+    },
+    {
+      "t": 293.34,
+      "text": "The company wants to improve customer satisfaction and internal communication."
+    },
+    {
+      "t": 298.0,
+      "text": "Those are both important priorities."
+    },
+    {
+      "t": 300.21,
+      "text": "Exactly."
+    },
+    {
+      "t": 301.09,
+      "text": "We also want to reduce project delays by improving workflow efficiency."
+    },
+    {
+      "t": 305.53,
+      "text": "That will require stronger teamwork across departments."
+    },
+    {
+      "t": 308.59,
+      "text": "Absolutely."
+    },
+    {
+      "t": 309.31,
+      "text": "I have a question about the new workflow system."
+    },
+    {
+      "t": 312.22,
+      "text": "Sure."
+    },
+    {
+      "t": 312.82,
+      "text": "Will employees receive training before implementation?"
+    },
+    {
+      "t": 315.92,
+      "text": "Yes."
+    },
+    {
+      "t": 316.44,
+      "text": "Training sessions will begin next Monday."
+    },
+    {
+      "t": 318.81,
+      "text": "Good."
+    },
+    {
+      "t": 319.33,
+      "text": "That should make the transition easier."
+    },
+    {
+      "t": 321.17,
+      "text": "We want everyone to feel comfortable using the new system."
+    },
+    {
+      "t": 324.26,
+      "text": "That's important."
+    },
+    {
+      "t": 325.42,
+      "text": "Sudden changes can create confusion."
+    },
+    {
+      "t": 327.74,
+      "text": "Exactly."
+    },
+    {
+      "t": 328.7,
+      "text": "By the way, do we know when the software upgrade will happen?"
+    },
+    {
+      "t": 331.62,
+      "text": "IT plans to complete installation by the end of the month."
+    },
+    {
+      "t": 335.13,
+      "text": "Perfect."
+    },
+    {
+      "t": 335.87,
+      "text": "We'll also provide technical support during the first few weeks."
+    },
+    {
+      "t": 339.36,
+      "text": "That's reassuring, especially for employees who aren't very comfortable with technology yet."
+    },
+    {
+      "t": 344.99,
+      "text": "I know a few people like that."
+    },
+    {
+      "t": 346.85,
+      "text": "I think every office has them."
+    },
+    {
+      "t": 348.56,
+      "text": "True."
+    },
+    {
+      "t": 349.3,
+      "text": "All right, everyone, we still have 20 minutes left."
+    },
+    {
+      "t": 351.82,
+      "text": "Let's open the floor for questions and ideas."
+    },
+    {
+      "t": 354.39,
+      "text": "I'd like to suggest something regarding team productivity."
+    },
+    {
+      "t": 357.5,
+      "text": "Go ahead."
+    },
+    {
+      "t": 358.32,
+      "text": "I think too many long meetings reduce efficiency sometimes."
+    },
+    {
+      "t": 361.92,
+      "text": "Interesting point."
+    },
+    {
+      "t": 363.19,
+      "text": "Some meetings could probably be shorter or handled through email updates instead."
+    },
+    {
+      "t": 367.43,
+      "text": "Honestly, I agree with that."
+    },
+    {
+      "t": 369.16,
+      "text": "People lose focus when meetings last too long without clear goals."
+    },
+    {
+      "t": 373.22,
+      "text": "Very true."
+    },
+    {
+      "t": 374.27,
+      "text": "Maybe we should create stricter meeting schedules and agendas."
+    },
+    {
+      "t": 377.42,
+      "text": "That would help everyone stay organized."
+    },
+    {
+      "t": 379.65,
+      "text": "Exactly."
+    },
+    {
+      "t": 380.59,
+      "text": "I think shorter meetings with clear action points would improve productivity significantly."
+    },
+    {
+      "t": 385.25,
+      "text": "Great idea."
+    },
+    {
+      "t": 386.23,
+      "text": "We should also encourage employees to prepare before meetings."
+    },
+    {
+      "t": 389.72,
+      "text": "Preparation saves a lot of time."
+    },
+    {
+      "t": 391.86,
+      "text": "Definitely."
+    },
+    {
+      "t": 392.92,
+      "text": "I have another suggestion."
+    },
+    {
+      "t": 394.5,
+      "text": "Sure."
+    },
+    {
+      "t": 395.24,
+      "text": "Maybe we could organize monthly team-building activities."
+    },
+    {
+      "t": 398.33,
+      "text": "That sounds fun."
+    },
+    {
+      "t": 399.53,
+      "text": "Better relationships between coworkers often improve communication and teamwork."
+    },
+    {
+      "t": 404.03,
+      "text": "I completely agree."
+    },
+    {
+      "t": 405.36,
+      "text": "What kind of activities are you thinking about?"
+    },
+    {
+      "t": 407.44,
+      "text": "Maybe group lunches, outdoor events, or problem-solving games."
+    },
+    {
+      "t": 411.95,
+      "text": "Escape rooms could be interesting."
+    },
+    {
+      "t": 413.85,
+      "text": "Oh, that would actually be really fun."
+    },
+    {
+      "t": 416.02,
+      "text": "Plus, they require teamwork and communication skills."
+    },
+    {
+      "t": 418.94,
+      "text": "Exactly."
+    },
+    {
+      "t": 420.02,
+      "text": "All right, everyone."
+    },
+    {
+      "t": 420.96,
+      "text": "Before we finish, let's review today's action points."
+    },
+    {
+      "t": 424.19,
+      "text": "First, the marketing team will redesign the email campaign strategy."
+    },
+    {
+      "t": 428.3,
+      "text": "Second, departments will begin shorter weekly communication meetings."
+    },
+    {
+      "t": 432.0,
+      "text": "Third, employee training for the new workflow system starts Monday."
+    },
+    {
+      "t": 435.95,
+      "text": "And finally, management will discuss ideas for future team building activities."
+    },
+    {
+      "t": 440.55,
+      "text": "Perfect summary."
+    },
+    {
+      "t": 441.63,
+      "text": "Does anyone have final questions before we end today's meeting?"
+    },
+    {
+      "t": 444.74,
+      "text": "Nothing from me."
+    },
+    {
+      "t": 445.38,
+      "text": "I'm good too."
+    },
+    {
+      "t": 446.46,
+      "text": "All right then."
+    },
+    {
+      "t": 447.6,
+      "text": "Thank you everyone for your time and participation today."
+    },
+    {
+      "t": 450.66,
+      "text": "Thank you."
+    },
+    {
+      "t": 451.06,
+      "text": "Thanks everyone."
+    },
+    {
+      "t": 452.44,
+      "text": "Great meeting today, Mia."
+    },
+    {
+      "t": 453.97,
+      "text": "Thanks."
+    },
+    {
+      "t": 454.57,
+      "text": "I think everything went smoothly."
+    },
+    {
+      "t": 456.45,
+      "text": "And we actually finished within 60 minutes."
+    },
+    {
+      "t": 459.03,
+      "text": "That might be the most impressive part."
+    },
+    {
+      "t": 461.8,
+      "text": "Very true."
+    },
+    {
+      "t": 462.74,
+      "text": "Honestly, shorter meetings feel much more productive."
+    },
+    {
+      "t": 465.93,
+      "text": "I agree completely."
+    },
+    {
+      "t": 467.38,
+      "text": "People stay focused when discussions are organized."
+    },
+    {
+      "t": 470.16,
+      "text": "Exactly."
+    },
+    {
+      "t": 470.72,
+      "text": "I also liked hearing ideas from different departments."
+    },
+    {
+      "t": 474.12,
+      "text": "Same here."
+    },
+    {
+      "t": 474.97,
+      "text": "Cross-department communication is really important."
+    },
+    {
+      "t": 477.87,
+      "text": "Definitely."
+    },
+    {
+      "t": 478.89,
+      "text": "Sometimes teams become too isolated from each other."
+    },
+    {
+      "t": 481.9,
+      "text": "And that creates misunderstandings later."
+    },
+    {
+      "t": 483.82,
+      "text": "Exactly."
+    },
+    {
+      "t": 485.48,
+      "text": "By the way, your suggestion about shorter meetings was excellent."
+    },
+    {
+      "t": 488.91,
+      "text": "Thanks."
+    },
+    {
+      "t": 489.57,
+      "text": "I've honestly been thinking about it for months."
+    },
+    {
+      "t": 492.75,
+      "text": "I could tell."
+    },
+    {
+      "t": 493.54,
+      "text": "What about your presentation?"
+    },
+    {
+      "t": 494.78,
+      "text": "You looked very confident today."
+    },
+    {
+      "t": 496.85,
+      "text": "Really?"
+    },
+    {
+      "t": 497.45,
+      "text": "I was nervous before speaking."
+    },
+    {
+      "t": 499.13,
+      "text": "Honestly, nobody could tell."
+    },
+    {
+      "t": 500.95,
+      "text": "That's good to hear."
+    },
+    {
+      "t": 501.67,
+      "text": "Your explanations were very clear and professional."
+    },
+    {
+      "t": 504.76,
+      "text": "Thanks."
+    },
+    {
+      "t": 505.32,
+      "text": "I practiced a lot last night."
+    },
+    {
+      "t": 507.08,
+      "text": "Practice definitely helps."
+    },
+    {
+      "t": 508.86,
+      "text": "It really does."
+    },
+    {
+      "t": 510.08,
+      "text": "Hey, are you free for lunch now?"
+    },
+    {
+      "t": 511.73,
+      "text": "Absolutely."
+    },
+    {
+      "t": 512.29,
+      "text": "I'm starving after that meeting."
+    },
+    {
+      "t": 514.35,
+      "text": "Same."
+    },
+    {
+      "t": 515.07,
+      "text": "My brain needs food immediately."
+    },
+    {
+      "t": 517.98,
+      "text": "Let's invite the others, too."
+    },
+    {
+      "t": 519.58,
+      "text": "Good idea."
+    },
+    {
+      "t": 520.56,
+      "text": "Team lunches are always fun."
+    },
+    {
+      "t": 522.18,
+      "text": "Plus, people communicate more naturally outside formal meetings."
+    },
+    {
+      "t": 525.8,
+      "text": "That's true."
+    },
+    {
+      "t": 526.84,
+      "text": "Some of the best ideas happen during casual conversations."
+    },
+    {
+      "t": 530.31,
+      "text": "Exactly."
+    },
+    {
+      "t": 531.29,
+      "text": "So, where should we go today?"
+    },
+    {
+      "t": 532.87,
+      "text": "There's a new restaurant near the office everyone's talking about."
+    },
+    {
+      "t": 536.06,
+      "text": "Perfect."
+    },
+    {
+      "t": 536.64,
+      "text": "Let's try it."
+    },
+    {
+      "t": 537.58,
+      "text": "Sounds good."
+    },
+    {
+      "t": 538.48,
+      "text": "Well, everyone, we hope today's conversation helped you learn useful English for business meetings and office communication."
+    },
+    {
+      "t": 544.53,
+      "text": "These are practical phrases and expressions you can use at work every day."
+    },
+    {
+      "t": 548.28,
+      "text": "Try practicing them with friends, co-workers, or even by yourself out loud."
+    },
+    {
+      "t": 552.91,
+      "text": "The more you practice, the more confident and natural your English will become."
+    },
+    {
+      "t": 556.83,
+      "text": "Thanks for learning with us today."
+    },
+    {
+      "t": 558.5,
+      "text": "And we'll see you again next time with more Real English Conversations."
+    },
+    {
+      "t": 562.38,
+      "text": "Take care, everyone."
+    },
+    {
+      "t": 563.48,
+      "text": "Bye, everyone."
+    },
+    {
+      "t": 566.76,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 567.73,
+      "text": "Welcome back to our English Learning Podcast."
+    },
+    {
+      "t": 570.43,
+      "text": "We're so happy you joined us today."
+    },
+    {
+      "t": 572.53,
+      "text": "I'm Ryan."
+    },
+    {
+      "t": 573.37,
+      "text": "And I'm Chloe."
+    },
+    {
+      "t": 574.42,
+      "text": "Today we have another practical English lesson for office workers and business professionals."
+    },
+    {
+      "t": 579.35,
+      "text": "That's right."
+    },
+    {
+      "t": 580.19,
+      "text": "Today's topic is business meeting conversations in 60 minutes."
+    },
+    {
+      "t": 584.76,
+      "text": "In many companies, meetings are scheduled for one hour."
+    },
+    {
+      "t": 587.94,
+      "text": "During that time, people discuss projects, solve problems, give updates, make decisions, and share ideas."
+    },
+    {
+      "t": 594.83,
+      "text": "So today we'll practice realistic business conversations that happen during a typical one-hour office meeting."
+    },
+    {
+      "t": 600.65,
+      "text": "You'll learn useful English phrases for starting meetings, presenting ideas, discussing deadlines, handling disagreements, and ending meetings professionally."
+    },
+    {
+      "t": 609.92,
+      "text": "And don't worry."
+    },
+    {
+      "t": 610.9,
+      "text": "We'll use clear and natural English so you can follow along easily."
+    },
+    {
+      "t": 614.3,
+      "text": "All right."
+    },
+    {
+      "t": 615.63,
+      "text": "Let's begin."
+    },
+    {
+      "t": 616.53,
+      "text": "Good morning, Chloe."
+    },
+    {
+      "t": 617.59,
+      "text": "Good morning, Ryan."
+    },
+    {
+      "t": 618.55,
+      "text": "You're here early today."
+    },
+    {
+      "t": 620.01,
+      "text": "I wanted to prepare the conference room before the team arrived."
+    },
+    {
+      "t": 623.02,
+      "text": "That's responsible."
+    },
+    {
+      "t": 624.18,
+      "text": "Today's meeting is important."
+    },
+    {
+      "t": 625.76,
+      "text": "Definitely."
+    },
+    {
+      "t": 626.7,
+      "text": "The management team wants updates on every department."
+    },
+    {
+      "t": 629.6,
+      "text": "I heard the CEO might join the meeting too."
+    },
+    {
+      "t": 631.88,
+      "text": "Really?"
+    },
+    {
+      "t": 632.23,
+      "text": "Yes."
+    },
+    {
+      "t": 633.29,
+      "text": "Then we should make sure everything is organized."
+    },
+    {
+      "t": 635.81,
+      "text": "Agreed."
+    },
+    {
+      "t": 636.53,
+      "text": "Did you print the presentation handouts?"
+    },
+    {
+      "t": 638.59,
+      "text": "Yes, I printed enough copies for everyone."
+    },
+    {
+      "t": 641.2,
+      "text": "Perfect."
+    },
+    {
+      "t": 642.08,
+      "text": "I also prepared coffee and water for the meeting."
+    },
+    {
+      "t": 644.74,
+      "text": "Excellent planning."
+    },
+    {
+      "t": 645.82,
+      "text": "Thanks."
+    },
+    {
+      "t": 646.62,
+      "text": "By the way, how was your commute this morning?"
+    },
+    {
+      "t": 648.7,
+      "text": "Surprisingly smooth."
+    },
+    {
+      "t": 650.04,
+      "text": "Lucky you."
+    },
+    {
+      "t": 650.64,
+      "text": "Traffic was bad for you?"
+    },
+    {
+      "t": 652.53,
+      "text": "Terrible."
+    },
+    {
+      "t": 653.43,
+      "text": "What happened?"
+    },
+    {
+      "t": 654.39,
+      "text": "There was construction near the highway."
+    },
+    {
+      "t": 656.41,
+      "text": "That explains it."
+    },
+    {
+      "t": 657.53,
+      "text": "I spent almost an hour in traffic."
+    },
+    {
+      "t": 659.64,
+      "text": "That sounds exhausting."
+    },
+    {
+      "t": 661.2,
+      "text": "At least I made it on time."
+    },
+    {
+      "t": 662.72,
+      "text": "That's what matters."
+    },
+    {
+      "t": 663.91,
+      "text": "All right."
+    },
+    {
+      "t": 664.39,
+      "text": "Looks like everyone is arriving."
+    },
+    {
+      "t": 666.05,
+      "text": "Let's get started."
+    },
+    {
+      "t": 667.17,
+      "text": "Good morning, everyone."
+    },
+    {
+      "t": 668.25,
+      "text": "Thank you for joining today's business meeting."
+    },
+    {
+      "t": 670.49,
+      "text": "We have several important topics to discuss, so let's begin."
+    },
+    {
+      "t": 674.1,
+      "text": "First, let's review last month's performance."
+    },
+    {
+      "t": 676.84,
+      "text": "Overall, our company achieved strong results."
+    },
+    {
+      "t": 679.76,
+      "text": "Sales increased by 22% compared to last quarter."
+    },
+    {
+      "t": 683.07,
+      "text": "That's excellent progress."
+    },
+    {
+      "t": 684.68,
+      "text": "Customer engagement also improved significantly."
+    },
+    {
+      "t": 687.71,
+      "text": "Great news."
+    },
+    {
+      "t": 688.67,
+      "text": "However, we still face a few challenges."
+    },
+    {
+      "t": 691.37,
+      "text": "Such as?"
+    },
+    {
+      "t": 692.25,
+      "text": "Project delays and communication issues between departments."
+    },
+    {
+      "t": 695.88,
+      "text": "I've noticed that too."
+    },
+    {
+      "t": 697.36,
+      "text": "Especially during large projects."
+    },
+    {
+      "t": 699.6,
+      "text": "Better coordination would definitely help."
+    },
+    {
+      "t": 701.88,
+      "text": "Agreed."
+    },
+    {
+      "t": 702.69,
+      "text": "All right, let's hear updates from the marketing department first."
+    },
+    {
+      "t": 706.09,
+      "text": "Thank you."
+    },
+    {
+      "t": 706.87,
+      "text": "Our latest campaign performed better than expected."
+    },
+    {
+      "t": 709.6,
+      "text": "That's wonderful."
+    },
+    {
+      "t": 710.72,
+      "text": "Social media engagement increased by 40%."
+    },
+    {
+      "t": 713.82,
+      "text": "Impressive."
+    },
+    {
+      "t": 714.67,
+      "text": "Website traffic also grew rapidly after the campaign launch."
+    },
+    {
+      "t": 718.43,
+      "text": "What contributed most to the success?"
+    },
+    {
+      "t": 720.76,
+      "text": "Video advertisements and influencer partnerships."
+    },
+    {
+      "t": 723.84,
+      "text": "Interesting."
+    },
+    {
+      "t": 724.62,
+      "text": "Customers responded positively to authentic content."
+    },
+    {
+      "t": 728.02,
+      "text": "That makes sense."
+    },
+    {
+      "t": 729.17,
+      "text": "We also improved communication with customers through live chat support."
+    },
+    {
+      "t": 733.03,
+      "text": "Excellent idea."
+    },
+    {
+      "t": 734.21,
+      "text": "Faster responses improved customer satisfaction."
+    },
+    {
+      "t": 737.29,
+      "text": "Were there any difficulties during the campaign?"
+    },
+    {
+      "t": 739.7,
+      "text": "Yes."
+    },
+    {
+      "t": 740.58,
+      "text": "What kind of difficulties?"
+    },
+    {
+      "t": 742.1,
+      "text": "The team faced tight deadlines."
+    },
+    {
+      "t": 744.15,
+      "text": "That can create a lot of pressure."
+    },
+    {
+      "t": 746.11,
+      "text": "Definitely."
+    },
+    {
+      "t": 747.12,
+      "text": "How did the team handle it?"
+    },
+    {
+      "t": 748.58,
+      "text": "We scheduled shorter daily meetings to track progress."
+    },
+    {
+      "t": 751.74,
+      "text": "Did that help?"
+    },
+    {
+      "t": 752.76,
+      "text": "Very much."
+    },
+    {
+      "t": 753.74,
+      "text": "Communication became more efficient?"
+    },
+    {
+      "t": 755.66,
+      "text": "Exactly."
+    },
+    {
+      "t": 756.57,
+      "text": "Great work."
+    },
+    {
+      "t": 757.45,
+      "text": "Thank you."
+    },
+    {
+      "t": 758.25,
+      "text": "Next, let's hear from the finance department."
+    },
+    {
+      "t": 760.53,
+      "text": "Good morning, everyone."
+    },
+    {
+      "t": 761.81,
+      "text": "Overall, the financial situation looks stable."
+    },
+    {
+      "t": 764.54,
+      "text": "That's good to hear."
+    },
+    {
+      "t": 765.62,
+      "text": "However, some departments exceeded their budgets."
+    },
+    {
+      "t": 768.42,
+      "text": "Which departments?"
+    },
+    {
+      "t": 769.72,
+      "text": "Marketing and product development."
+    },
+    {
+      "t": 771.68,
+      "text": "By how much?"
+    },
+    {
+      "t": 772.85,
+      "text": "Around 10%."
+    },
+    {
+      "t": 774.19,
+      "text": "That's not ideal."
+    },
+    {
+      "t": 775.69,
+      "text": "No, but the additional spending produced strong results."
+    },
+    {
+      "t": 779.12,
+      "text": "That's important."
+    },
+    {
+      "t": 780.3,
+      "text": "Sometimes strategic investment is necessary."
+    },
+    {
+      "t": 782.9,
+      "text": "I agree."
+    },
+    {
+      "t": 783.76,
+      "text": "Still, we should monitor expenses carefully next quarter."
+    },
+    {
+      "t": 786.95,
+      "text": "Definitely."
+    },
+    {
+      "t": 787.85,
+      "text": "We also need to reduce unnecessary travel costs."
+    },
+    {
+      "t": 790.89,
+      "text": "Maybe we can schedule more virtual meetings."
+    },
+    {
+      "t": 793.43,
+      "text": "Good suggestion."
+    },
+    {
+      "t": 794.51,
+      "text": "That would save both money and time."
+    },
+    {
+      "t": 796.78,
+      "text": "Exactly."
+    },
+    {
+      "t": 797.68,
+      "text": "All right, let's move on to project management updates."
+    },
+    {
+      "t": 800.98,
+      "text": "The Wilson project is currently behind schedule."
+    },
+    {
+      "t": 803.7,
+      "text": "What caused the delay?"
+    },
+    {
+      "t": 805.09,
+      "text": "We encountered technical issues during system integration."
+    },
+    {
+      "t": 808.17,
+      "text": "How serious are the issues?"
+    },
+    {
+      "t": 809.95,
+      "text": "More serious than we expected."
+    },
+    {
+      "t": 811.83,
+      "text": "Do we have a solution?"
+    },
+    {
+      "t": 813.17,
+      "text": "The IT department is working on it now."
+    },
+    {
+      "t": 815.46,
+      "text": "How long will it take?"
+    },
+    {
+      "t": 816.74,
+      "text": "Approximately two more weeks."
+    },
+    {
+      "t": 818.74,
+      "text": "Will the client be affected?"
+    },
+    {
+      "t": 820.25,
+      "text": "Most likely."
+    },
+    {
+      "t": 821.31,
+      "text": "Have we informed them yet?"
+    },
+    {
+      "t": 822.75,
+      "text": "Not officially."
+    },
+    {
+      "t": 823.95,
+      "text": "We should communicate with them immediately."
+    },
+    {
+      "t": 825.73,
+      "text": "I agree."
+    },
+    {
+      "t": 827.03,
+      "text": "Clients appreciate transparency."
+    },
+    {
+      "t": 829.0,
+      "text": "Exactly."
+    },
+    {
+      "t": 829.92,
+      "text": "We should explain the situation clearly and provide a revised timeline."
+    },
+    {
+      "t": 833.77,
+      "text": "I'll prepare a detailed report this afternoon."
+    },
+    {
+      "t": 836.3,
+      "text": "Perfect."
+    },
+    {
+      "t": 837.16,
+      "text": "All right, everyone, let's take a short coffee break."
+    },
+    {
+      "t": 839.78,
+      "text": "Finally."
+    },
+    {
+      "t": 840.61,
+      "text": "I think everyone needed that."
+    },
+    {
+      "t": 842.27,
+      "text": "Definitely."
+    },
+    {
+      "t": 843.21,
+      "text": "So, how are things going in your department lately?"
+    },
+    {
+      "t": 845.63,
+      "text": "Busy, but manageable."
+    },
+    {
+      "t": 847.22,
+      "text": "That's good."
+    },
+    {
+      "t": 848.02,
+      "text": "We recently hired two new employees."
+    },
+    {
+      "t": 850.3,
+      "text": "Really?"
+    },
+    {
+      "t": 850.96,
+      "text": "Yes."
+    },
+    {
+      "t": 851.72,
+      "text": "How are they adjusting?"
+    },
+    {
+      "t": 852.86,
+      "text": "Pretty well."
+    },
+    {
+      "t": 853.65,
+      "text": "That's great."
+    },
+    {
+      "t": 854.47,
+      "text": "They're still learning our software systems, though."
+    },
+    {
+      "t": 856.79,
+      "text": "That takes time."
+    },
+    {
+      "t": 857.91,
+      "text": "Exactly."
+    },
+    {
+      "t": 858.85,
+      "text": "Do you enjoy training new employees?"
+    },
+    {
+      "t": 860.84,
+      "text": "Honestly, yes."
+    },
+    {
+      "t": 862.18,
+      "text": "Really?"
+    },
+    {
+      "t": 862.9,
+      "text": "I like helping people feel comfortable in the workplace."
+    },
+    {
+      "t": 865.71,
+      "text": "That's important."
+    },
+    {
+      "t": 866.77,
+      "text": "Starting a new job can feel overwhelming."
+    },
+    {
+      "t": 869.17,
+      "text": "Very true."
+    },
+    {
+      "t": 870.09,
+      "text": "What about you?"
+    },
+    {
+      "t": 870.57,
+      "text": "I enjoy mentoring people, too."
+    },
+    {
+      "t": 872.96,
+      "text": "Good leaders support their teams."
+    },
+    {
+      "t": 874.9,
+      "text": "Absolutely."
+    },
+    {
+      "t": 875.86,
+      "text": "By the way, congratulations on your recent promotion."
+    },
+    {
+      "t": 878.76,
+      "text": "Thank you."
+    },
+    {
+      "t": 879.47,
+      "text": "How does it feel?"
+    },
+    {
+      "t": 880.43,
+      "text": "Exciting, but also challenging."
+    },
+    {
+      "t": 882.73,
+      "text": "More responsibilities?"
+    },
+    {
+      "t": 884.29,
+      "text": "A lot more."
+    },
+    {
+      "t": 885.47,
+      "text": "I can imagine."
+    },
+    {
+      "t": 886.44,
+      "text": "Now I attend meetings almost all day."
+    },
+    {
+      "t": 888.8,
+      "text": "Welcome to management."
+    },
+    {
+      "t": 890.43,
+      "text": "Honestly, I miss having quiet work time sometimes."
+    },
+    {
+      "t": 893.69,
+      "text": "That happens to many managers."
+    },
+    {
+      "t": 895.61,
+      "text": "Still, I enjoy leading projects and helping the team succeed."
+    },
+    {
+      "t": 899.12,
+      "text": "That's a great attitude."
+    },
+    {
+      "t": 900.48,
+      "text": "All right, looks like the break is over."
+    },
+    {
+      "t": 902.36,
+      "text": "Time to continue."
+    },
+    {
+      "t": 903.42,
+      "text": "Welcome back, everyone."
+    },
+    {
+      "t": 904.8,
+      "text": "Let's continue with the next agenda item."
+    },
+    {
+      "t": 907.15,
+      "text": "We need to discuss employee workload and productivity."
+    },
+    {
+      "t": 910.43,
+      "text": "Several teams have been working overtime recently."
+    },
+    {
+      "t": 913.09,
+      "text": "Yes, I've noticed that."
+    },
+    {
+      "t": 914.69,
+      "text": "Employee stress levels are increasing."
+    },
+    {
+      "t": 916.87,
+      "text": "That's concerning."
+    },
+    {
+      "t": 918.11,
+      "text": "Burnout can affect both productivity and morale."
+    },
+    {
+      "t": 921.08,
+      "text": "I completely agree."
+    },
+    {
+      "t": 922.44,
+      "text": "Do you have any suggestions?"
+    },
+    {
+      "t": 924.16,
+      "text": "We could redistribute tasks more evenly between teams."
+    },
+    {
+      "t": 927.66,
+      "text": "Good idea."
+    },
+    {
+      "t": 928.53,
+      "text": "We might also consider hiring temporary staff."
+    },
+    {
+      "t": 931.49,
+      "text": "That could reduce pressure during busy periods."
+    },
+    {
+      "t": 934.05,
+      "text": "Exactly."
+    },
+    {
+      "t": 934.97,
+      "text": "Another issue is communication."
+    },
+    {
+      "t": 936.96,
+      "text": "What kind of communication problems?"
+    },
+    {
+      "t": 938.94,
+      "text": "Some employees feel uncomfortable asking for help."
+    },
+    {
+      "t": 941.82,
+      "text": "That happens often in stressful environments."
+    },
+    {
+      "t": 944.32,
+      "text": "Managers should encourage open communication."
+    },
+    {
+      "t": 947.03,
+      "text": "Definitely."
+    },
+    {
+      "t": 947.95,
+      "text": "Team members should feel supported."
+    },
+    {
+      "t": 949.87,
+      "text": "I agree."
+    },
+    {
+      "t": 950.69,
+      "text": "We could also organize wellness workshops or stress management sessions."
+    },
+    {
+      "t": 954.78,
+      "text": "That's an excellent idea."
+    },
+    {
+      "t": 956.26,
+      "text": "Mental health is important in the workplace."
+    },
+    {
+      "t": 958.61,
+      "text": "Absolutely."
+    },
+    {
+      "t": 959.59,
+      "text": "All right."
+    },
+    {
+      "t": 960.21,
+      "text": "Now let's discuss future company goals."
+    },
+    {
+      "t": 962.9,
+      "text": "One major goal is expanding into international markets."
+    },
+    {
+      "t": 966.0,
+      "text": "Exciting."
+    },
+    {
+      "t": 966.77,
+      "text": "We're currently researching opportunities in Europe and Asia."
+    },
+    {
+      "t": 969.89,
+      "text": "That could create significant growth."
+    },
+    {
+      "t": 971.97,
+      "text": "Exactly."
+    },
+    {
+      "t": 972.91,
+      "text": "What challenges do you expect?"
+    },
+    {
+      "t": 974.78,
+      "text": "Cultural differences and local competition."
+    },
+    {
+      "t": 977.3,
+      "text": "Those are important factors."
+    },
+    {
+      "t": 979.0,
+      "text": "We'll need strong market research before making decisions."
+    },
+    {
+      "t": 982.29,
+      "text": "Definitely."
+    },
+    {
+      "t": 983.25,
+      "text": "Another goal is improving sustainability practices."
+    },
+    {
+      "t": 986.23,
+      "text": "Customers care more about environmental responsibility now."
+    },
+    {
+      "t": 989.62,
+      "text": "Very true."
+    },
+    {
+      "t": 990.6,
+      "text": "What changes are we considering?"
+    },
+    {
+      "t": 992.36,
+      "text": "Reducing paper waste and improving energy efficiency."
+    },
+    {
+      "t": 995.49,
+      "text": "Good initiatives."
+    },
+    {
+      "t": 996.53,
+      "text": "We also want to work with more eco-friendly suppliers."
+    },
+    {
+      "t": 999.64,
+      "text": "That would strengthen the company's reputation."
+    },
+    {
+      "t": 1002.0,
+      "text": "Exactly."
+    },
+    {
+      "t": 1002.9,
+      "text": "All right, before we finish, does anyone have additional comments or questions?"
+    },
+    {
+      "t": 1007.2,
+      "text": "I have one question regarding remote work policies."
+    },
+    {
+      "t": 1010.05,
+      "text": "Go ahead."
+    },
+    {
+      "t": 1010.87,
+      "text": "Will employees continue working from home part-time?"
+    },
+    {
+      "t": 1013.73,
+      "text": "At the moment, yes."
+    },
+    {
+      "t": 1015.03,
+      "text": "That's good news."
+    },
+    {
+      "t": 1016.07,
+      "text": "Management believes flexible work schedules improve productivity."
+    },
+    {
+      "t": 1019.62,
+      "text": "I agree completely."
+    },
+    {
+      "t": 1020.88,
+      "text": "However, teams still need regular in-person meetings."
+    },
+    {
+      "t": 1024.3,
+      "text": "Of course."
+    },
+    {
+      "t": 1025.1,
+      "text": "Face-to-face communication remains important for collaboration."
+    },
+    {
+      "t": 1028.59,
+      "text": "Definitely."
+    },
+    {
+      "t": 1029.47,
+      "text": "Any other questions?"
+    },
+    {
+      "t": 1030.82,
+      "text": "Nothing from me."
+    },
+    {
+      "t": 1031.78,
+      "text": "All right."
+    },
+    {
+      "t": 1032.52,
+      "text": "Then let's wrap up today's meeting."
+    },
+    {
+      "t": 1034.25,
+      "text": "Thank you everyone for your hard work and participation."
+    },
+    {
+      "t": 1037.19,
+      "text": "Please send your updated reports by Friday afternoon."
+    },
+    {
+      "t": 1040.18,
+      "text": "And don't forget next week's strategy meeting."
+    },
+    {
+      "t": 1042.6,
+      "text": "Have a productive day, everyone."
+    },
+    {
+      "t": 1044.2,
+      "text": "Thank you."
+    },
+    {
+      "t": 1044.96,
+      "text": "Well, that meeting went smoothly."
+    },
+    {
+      "t": 1046.65,
+      "text": "Better than expected."
+    },
+    {
+      "t": 1047.85,
+      "text": "Everyone seemed engaged and prepared."
+    },
+    {
+      "t": 1049.99,
+      "text": "Preparation really makes a difference."
+    },
+    {
+      "t": 1052.09,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1053.05,
+      "text": "Do you enjoy leading meetings?"
+    },
+    {
+      "t": 1054.8,
+      "text": "Sometimes."
+    },
+    {
+      "t": 1055.74,
+      "text": "What's the hardest part?"
+    },
+    {
+      "t": 1057.12,
+      "text": "Managing time."
+    },
+    {
+      "t": 1058.44,
+      "text": "That's true."
+    },
+    {
+      "t": 1059.34,
+      "text": "Discussions can easily go off topic."
+    },
+    {
+      "t": 1061.84,
+      "text": "Especially during brainstorming sessions."
+    },
+    {
+      "t": 1064.11,
+      "text": "Exactly."
+    },
+    {
+      "t": 1064.99,
+      "text": "I think strong communication skills are essential for managers."
+    },
+    {
+      "t": 1068.63,
+      "text": "Definitely."
+    },
+    {
+      "t": 1069.45,
+      "text": "Good leaders know how to listen as well."
+    },
+    {
+      "t": 1071.51,
+      "text": "Listening is just as important as speaking."
+    },
+    {
+      "t": 1074.05,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1074.93,
+      "text": "Well, I should probably answer my emails before the next meeting."
+    },
+    {
+      "t": 1078.28,
+      "text": "Same here."
+    },
+    {
+      "t": 1079.1,
+      "text": "My inbox is completely full."
+    },
+    {
+      "t": 1081.3,
+      "text": "Mine too."
+    },
+    {
+      "t": 1082.29,
+      "text": "Office life never slows down."
+    },
+    {
+      "t": 1083.83,
+      "text": "That's very true."
+    },
+    {
+      "t": 1085.51,
+      "text": "All right, everyone."
+    },
+    {
+      "t": 1086.39,
+      "text": "Thank you for practicing English with us today."
+    },
+    {
+      "t": 1088.56,
+      "text": "We hope these business meeting conversations help you feel more confident in professional situations."
+    },
+    {
+      "t": 1093.76,
+      "text": "Remember, business English becomes easier with regular practice."
+    },
+    {
+      "t": 1097.35,
+      "text": "Try repeating these conversations out loud."
+    },
+    {
+      "t": 1099.74,
+      "text": "You can also practice them with coworkers, classmates, or friends."
+    },
+    {
+      "t": 1103.17,
+      "text": "The more you speak, the more natural your English will sound."
+    },
+    {
+      "t": 1106.22,
+      "text": "Keep learning."
+    },
+    {
+      "t": 1107.04,
+      "text": "Keep practicing."
+    },
+    {
+      "t": 1108.11,
+      "text": "And keep improving your professional English every day."
+    },
+    {
+      "t": 1111.0,
+      "text": "See you next time."
+    },
+    {
+      "t": 1111.98,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 1112.92,
+      "text": "Have a wonderful day."
+    },
+    {
+      "t": 1164.14,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 1165.3,
+      "text": "Welcome back to our English Conversation Practice Podcast."
+    },
+    {
+      "t": 1169.0,
+      "text": "I'm Ethan."
+    },
+    {
+      "t": 1169.96,
+      "text": "And I'm Chloe."
+    },
+    {
+      "t": 1171.06,
+      "text": "We're very happy you're spending time learning English with us today."
+    },
+    {
+      "t": 1174.59,
+      "text": "On this podcast, we help you improve your English naturally through real conversations and practical workplace situations."
+    },
+    {
+      "t": 1182.24,
+      "text": "That's right."
+    },
+    {
+      "t": 1183.06,
+      "text": "We use simple and clear English so you can speak more confidently at work, during meetings, and in everyday life."
+    },
+    {
+      "t": 1190.44,
+      "text": "And today, we have a very interesting topic for you."
+    },
+    {
+      "t": 1193.5,
+      "text": "Today's topic is business meeting conversations in 60 minutes."
+    },
+    {
+      "t": 1197.98,
+      "text": "We're going to follow a team through one busy hour at the office."
+    },
+    {
+      "t": 1202.01,
+      "text": "During these 60 minutes, they'll prepare for a meeting, discuss problems, share ideas, solve issues, and make important business decisions."
+    },
+    {
+      "t": 1210.88,
+      "text": "So you'll learn many useful office expressions and practical meeting vocabulary."
+    },
+    {
+      "t": 1215.79,
+      "text": "I'll wait, everyone."
+    },
+    {
+      "t": 1216.75,
+      "text": "Let's begin today's conversation practice."
+    },
+    {
+      "t": 1218.85,
+      "text": "8 a.m. Monday morning."
+    },
+    {
+      "t": 1221.31,
+      "text": "Good morning, Ethan."
+    },
+    {
+      "t": 1222.27,
+      "text": "You're here early today."
+    },
+    {
+      "t": 1224.05,
+      "text": "Morning, Chloe."
+    },
+    {
+      "t": 1224.95,
+      "text": "Yeah, I wanted to prepare before the client meeting starts."
+    },
+    {
+      "t": 1228.07,
+      "text": "Smart idea."
+    },
+    {
+      "t": 1228.88,
+      "text": "Today's schedule looks very busy."
+    },
+    {
+      "t": 1231.62,
+      "text": "Definitely."
+    },
+    {
+      "t": 1232.34,
+      "text": "We only have one hour to finalize everything before the client arrives."
+    },
+    {
+      "t": 1236.24,
+      "text": "I know."
+    },
+    {
+      "t": 1236.62,
+      "text": "I've already received three emails from the manager this morning."
+    },
+    {
+      "t": 1240.39,
+      "text": "Same here."
+    },
+    {
+      "t": 1241.21,
+      "text": "Did you finish updating the sales presentation?"
+    },
+    {
+      "t": 1243.73,
+      "text": "Almost."
+    },
+    {
+      "t": 1244.47,
+      "text": "I just need to add the latest customer feedback numbers."
+    },
+    {
+      "t": 1247.79,
+      "text": "Great."
+    },
+    {
+      "t": 1248.29,
+      "text": "The client specifically asked for updated statistics."
+    },
+    {
+      "t": 1251.4,
+      "text": "Exactly."
+    },
+    {
+      "t": 1252.48,
+      "text": "They want to see how customers responded to the new product launch."
+    },
+    {
+      "t": 1256.32,
+      "text": "Honestly, I think the results look pretty good."
+    },
+    {
+      "t": 1258.85,
+      "text": "Me too."
+    },
+    {
+      "t": 1259.79,
+      "text": "Sales increased faster than we expected."
+    },
+    {
+      "t": 1262.37,
+      "text": "That's always good news."
+    },
+    {
+      "t": 1263.99,
+      "text": "Unless the finance team starts asking too many questions."
+    },
+    {
+      "t": 1268.38,
+      "text": "True."
+    },
+    {
+      "t": 1269.12,
+      "text": "They always want detailed explanations for every number."
+    },
+    {
+      "t": 1272.36,
+      "text": "Speaking of finance, did Kevin send the final budget report?"
+    },
+    {
+      "t": 1276.32,
+      "text": "Yes, I received it about 10 minutes ago."
+    },
+    {
+      "t": 1278.79,
+      "text": "Perfect."
+    },
+    {
+      "t": 1279.51,
+      "text": "That saves us a lot of stress."
+    },
+    {
+      "t": 1281.55,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1282.57,
+      "text": "Last week, we almost entered a meeting with incomplete information."
+    },
+    {
+      "t": 1286.02,
+      "text": "Oh, yes."
+    },
+    {
+      "t": 1286.62,
+      "text": "That was a disaster."
+    },
+    {
+      "t": 1287.72,
+      "text": "The manager looked so frustrated."
+    },
+    {
+      "t": 1290.46,
+      "text": "Especially when the projector stopped working."
+    },
+    {
+      "t": 1292.74,
+      "text": "Don't remind me."
+    },
+    {
+      "t": 1294.59,
+      "text": "That meeting felt endless."
+    },
+    {
+      "t": 1296.35,
+      "text": "Well, hopefully today goes more smoothly."
+    },
+    {
+      "t": 1298.85,
+      "text": "I hope so, too."
+    },
+    {
+      "t": 1300.63,
+      "text": "By the way, have you checked the conference room yet?"
+    },
+    {
+      "t": 1303.5,
+      "text": "Not yet."
+    },
+    {
+      "t": 1304.18,
+      "text": "Why?"
+    },
+    {
+      "t": 1304.42,
+      "text": "I heard another department was using it earlier this morning."
+    },
+    {
+      "t": 1308.3,
+      "text": "Seriously?"
+    },
+    {
+      "t": 1308.84,
+      "text": "Our meeting starts in less than an hour."
+    },
+    {
+      "t": 1311.32,
+      "text": "I know."
+    },
+    {
+      "t": 1312.12,
+      "text": "We should make sure the room is ready."
+    },
+    {
+      "t": 1314.32,
+      "text": "Good idea."
+    },
+    {
+      "t": 1315.06,
+      "text": "Let's go check quickly."
+    },
+    {
+      "t": 1316.48,
+      "text": "Wow."
+    },
+    {
+      "t": 1317.15,
+      "text": "The room is still full of people."
+    },
+    {
+      "t": 1319.39,
+      "text": "Excuse me."
+    },
+    {
+      "t": 1320.25,
+      "text": "Are you almost finished here?"
+    },
+    {
+      "t": 1321.95,
+      "text": "Oh, sorry."
+    },
+    {
+      "t": 1322.89,
+      "text": "We're wrapping up right now."
+    },
+    {
+      "t": 1324.75,
+      "text": "Thanks."
+    },
+    {
+      "t": 1325.28,
+      "text": "We have an important client meeting at 9 a.m. No problem."
+    },
+    {
+      "t": 1328.8,
+      "text": "We'll leave in five minutes."
+    },
+    {
+      "t": 1330.58,
+      "text": "Thank goodness."
+    },
+    {
+      "t": 1331.56,
+      "text": "I was getting nervous."
+    },
+    {
+      "t": 1332.96,
+      "text": "Same here."
+    },
+    {
+      "t": 1333.92,
+      "text": "We still need to set up the laptops and documents."
+    },
+    {
+      "t": 1337.05,
+      "text": "At least the projector's working this time."
+    },
+    {
+      "t": 1339.33,
+      "text": "Let's hope it stays that way."
+    },
+    {
+      "t": 1341.24,
+      "text": "All right, while they finish up, let's review the meeting agenda."
+    },
+    {
+      "t": 1344.8,
+      "text": "Good idea."
+    },
+    {
+      "t": 1345.83,
+      "text": "First, we'll welcome the client and introduce the team."
+    },
+    {
+      "t": 1349.07,
+      "text": "Then we'll present the quarterly sales report."
+    },
+    {
+      "t": 1351.78,
+      "text": "After that, we'll discuss marketing performance and future strategies."
+    },
+    {
+      "t": 1356.0,
+      "text": "And finally, we'll answer questions from the client."
+    },
+    {
+      "t": 1358.85,
+      "text": "Sounds simple enough."
+    },
+    {
+      "t": 1360.43,
+      "text": "Hopefully."
+    },
+    {
+      "t": 1361.23,
+      "text": "Clients always ask unexpected questions."
+    },
+    {
+      "t": 1364.05,
+      "text": "That's true."
+    },
+    {
+      "t": 1364.89,
+      "text": "We should be prepared for anything."
+    },
+    {
+      "t": 1366.86,
+      "text": "Especially questions about project delays."
+    },
+    {
+      "t": 1369.39,
+      "text": "Yeah, the production team is still behind schedule."
+    },
+    {
+      "t": 1372.55,
+      "text": "Do you think the client already knows about the delay?"
+    },
+    {
+      "t": 1375.33,
+      "text": "Probably."
+    },
+    {
+      "t": 1376.03,
+      "text": "They emailed us twice last week asking for updates."
+    },
+    {
+      "t": 1379.66,
+      "text": "That could make today's discussion difficult."
+    },
+    {
+      "t": 1382.1,
+      "text": "Maybe, but honesty is usually the best approach."
+    },
+    {
+      "t": 1385.6,
+      "text": "I agree."
+    },
+    {
+      "t": 1386.34,
+      "text": "It's better to explain the problem clearly than hide it."
+    },
+    {
+      "t": 1389.48,
+      "text": "Exactly."
+    },
+    {
+      "t": 1390.4,
+      "text": "Clients appreciate transparency."
+    },
+    {
+      "t": 1392.75,
+      "text": "All right, the room is finally empty."
+    },
+    {
+      "t": 1394.71,
+      "text": "Let's start setting everything up."
+    },
+    {
+      "t": 1396.41,
+      "text": "I'll arrange the handouts on the table."
+    },
+    {
+      "t": 1398.44,
+      "text": "Great."
+    },
+    {
+      "t": 1399.09,
+      "text": "I'll connect the presentation slides to the projector."
+    },
+    {
+      "t": 1401.65,
+      "text": "Could you also test the speakers?"
+    },
+    {
+      "t": 1403.83,
+      "text": "Sure."
+    },
+    {
+      "t": 1404.29,
+      "text": "We'll need them for the product demonstration video."
+    },
+    {
+      "t": 1406.86,
+      "text": "Thanks."
+    },
+    {
+      "t": 1408.22,
+      "text": "Hmm."
+    },
+    {
+      "t": 1408.32,
+      "text": "The sound seems a little low."
+    },
+    {
+      "t": 1410.3,
+      "text": "Really?"
+    },
+    {
+      "t": 1410.62,
+      "text": "Yeah."
+    },
+    {
+      "t": 1411.6,
+      "text": "Let me adjust the settings quickly."
+    },
+    {
+      "t": 1413.52,
+      "text": "Good catch."
+    },
+    {
+      "t": 1414.42,
+      "text": "Small technical issues can become big problems during meetings."
+    },
+    {
+      "t": 1418.33,
+      "text": "Exactly."
+    },
+    {
+      "t": 1419.43,
+      "text": "All right."
+    },
+    {
+      "t": 1420.25,
+      "text": "I think everything looks ready now."
+    },
+    {
+      "t": 1422.57,
+      "text": "Perfect timing."
+    },
+    {
+      "t": 1423.45,
+      "text": "The manager just arrived."
+    },
+    {
+      "t": 1425.26,
+      "text": "Morning, everyone."
+    },
+    {
+      "t": 1426.24,
+      "text": "Are we ready for the client meeting?"
+    },
+    {
+      "t": 1427.83,
+      "text": "Yes, almost everything is prepared."
+    },
+    {
+      "t": 1429.89,
+      "text": "Great work."
+    },
+    {
+      "t": 1430.69,
+      "text": "We only have 20 minutes left, so let's review the key discussion points quickly."
+    },
+    {
+      "t": 1435.62,
+      "text": "Sure."
+    },
+    {
+      "t": 1436.42,
+      "text": "First, we'll highlight the strong sales growth from last quarter."
+    },
+    {
+      "t": 1440.14,
+      "text": "Right."
+    },
+    {
+      "t": 1440.6,
+      "text": "The numbers improved by nearly 15%."
+    },
+    {
+      "t": 1442.81,
+      "text": "Excellent."
+    },
+    {
+      "t": 1444.33,
+      "text": "That's a strong selling point."
+    },
+    {
+      "t": 1446.17,
+      "text": "We also prepared customer satisfaction reports."
+    },
+    {
+      "t": 1449.23,
+      "text": "Good."
+    },
+    {
+      "t": 1449.81,
+      "text": "The client always focuses heavily on customer experience."
+    },
+    {
+      "t": 1453.83,
+      "text": "Should we mention the shipping delays immediately?"
+    },
+    {
+      "t": 1456.61,
+      "text": "Yes, but carefully."
+    },
+    {
+      "t": 1458.41,
+      "text": "We should explain both the problem and our solution."
+    },
+    {
+      "t": 1461.42,
+      "text": "That makes sense."
+    },
+    {
+      "t": 1463.12,
+      "text": "We don't want the meeting to sound negative."
+    },
+    {
+      "t": 1465.8,
+      "text": "Exactly."
+    },
+    {
+      "t": 1466.74,
+      "text": "Confidence is important during business meetings."
+    },
+    {
+      "t": 1469.65,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1470.73,
+      "text": "One more thing."
+    },
+    {
+      "t": 1471.69,
+      "text": "Please remember to keep your answers short and professional during the Q&A session."
+    },
+    {
+      "t": 1476.56,
+      "text": "Understood."
+    },
+    {
+      "t": 1477.54,
+      "text": "Sometimes long explanations create confusion."
+    },
+    {
+      "t": 1480.8,
+      "text": "especially when clients are short on time."
+    },
+    {
+      "t": 1483.54,
+      "text": "Correct."
+    },
+    {
+      "t": 1484.56,
+      "text": "Excuse me, the clients just arrived downstairs."
+    },
+    {
+      "t": 1487.52,
+      "text": "All right, everyone."
+    },
+    {
+      "t": 1488.4,
+      "text": "Let's stay calm and professional."
+    },
+    {
+      "t": 1490.85,
+      "text": "Good morning, everyone."
+    },
+    {
+      "t": 1492.07,
+      "text": "Welcome to our office."
+    },
+    {
+      "t": 1493.51,
+      "text": "Thank you."
+    },
+    {
+      "t": 1494.31,
+      "text": "It's nice to finally meet everyone in person."
+    },
+    {
+      "t": 1497.13,
+      "text": "Please come in and have a seat."
+    },
+    {
+      "t": 1498.93,
+      "text": "Would anyone like coffee or tea before we begin?"
+    },
+    {
+      "t": 1501.54,
+      "text": "Coffee would be great."
+    },
+    {
+      "t": 1502.96,
+      "text": "Thank you."
+    },
+    {
+      "t": 1503.7,
+      "text": "Of course."
+    },
+    {
+      "t": 1504.74,
+      "text": "All right."
+    },
+    {
+      "t": 1505.38,
+      "text": "Let's begin today's meeting."
+    },
+    {
+      "t": 1506.94,
+      "text": "Thank you all for joining us."
+    },
+    {
+      "t": 1508.54,
+      "text": "We're excited to discuss the project's progress and future opportunities together."
+    },
+    {
+      "t": 1512.74,
+      "text": "First, let's quickly introduce ourselves."
+    },
+    {
+      "t": 1515.94,
+      "text": "I'm Chloe from the marketing department."
+    },
+    {
+      "t": 1518.41,
+      "text": "And I'm Ethan from sales operations."
+    },
+    {
+      "t": 1520.99,
+      "text": "Wonderful."
+    },
+    {
+      "t": 1521.83,
+      "text": "Let's start with the quarterly sales presentation."
+    },
+    {
+      "t": 1524.23,
+      "text": "Ethan."
+    },
+    {
+      "t": 1525.35,
+      "text": "Thank you."
+    },
+    {
+      "t": 1526.43,
+      "text": "Over the past three months, sales performance exceeded our expectations."
+    },
+    {
+      "t": 1530.68,
+      "text": "That's great to hear."
+    },
+    {
+      "t": 1531.56,
+      "text": "Online sales increased significantly after the launch of our new advertising campaign."
+    },
+    {
+      "t": 1536.75,
+      "text": "Which marketing channels performed best?"
+    },
+    {
+      "t": 1539.5,
+      "text": "Short-form video advertisements generated the highest engagement."
+    },
+    {
+      "t": 1543.26,
+      "text": "Interesting."
+    },
+    {
+      "t": 1544.04,
+      "text": "That matches current market trends."
+    },
+    {
+      "t": 1546.21,
+      "text": "Exactly."
+    },
+    {
+      "t": 1547.01,
+      "text": "We also noticed increased customer interaction on social media platforms."
+    },
+    {
+      "t": 1551.31,
+      "text": "Excellent."
+    },
+    {
+      "t": 1552.33,
+      "text": "However, we did face some shipping delays during peak order periods."
+    },
+    {
+      "t": 1556.6,
+      "text": "Yes, we noticed some complaints from customers."
+    },
+    {
+      "t": 1559.96,
+      "text": "We completely understand your concern."
+    },
+    {
+      "t": 1562.22,
+      "text": "The delays were caused by supplier shortages and increased seasonal demand."
+    },
+    {
+      "t": 1567.32,
+      "text": "I see."
+    },
+    {
+      "t": 1567.78,
+      "text": "What steps are you taking to improve the situation?"
+    },
+    {
+      "t": 1570.85,
+      "text": "We're currently expanding warehouse support and improving delivery coordination."
+    },
+    {
+      "t": 1575.59,
+      "text": "We also hired temporary staff to reduce processing times."
+    },
+    {
+      "t": 1579.39,
+      "text": "That sounds reassuring."
+    },
+    {
+      "t": 1580.84,
+      "text": "We expect delivery performance to improve significantly within the next month."
+    },
+    {
+      "t": 1585.4,
+      "text": "Excellent."
+    },
+    {
+      "t": 1586.04,
+      "text": "Communication and transparency are very important to us."
+    },
+    {
+      "t": 1589.39,
+      "text": "We completely agree."
+    },
+    {
+      "t": 1590.67,
+      "text": "Now let's discuss future expansion plans."
+    },
+    {
+      "t": 1594.37,
+      "text": "We're planning to focus more heavily on international markets next year."
+    },
+    {
+      "t": 1598.38,
+      "text": "That's exciting."
+    },
+    {
+      "t": 1599.6,
+      "text": "Which regions are you targeting first?"
+    },
+    {
+      "t": 1601.96,
+      "text": "We're currently researching opportunities in Southeast Asia and Europe."
+    },
+    {
+      "t": 1606.16,
+      "text": "Those markets have strong growth potential right now."
+    },
+    {
+      "t": 1609.13,
+      "text": "Exactly."
+    },
+    {
+      "t": 1609.95,
+      "text": "We believe there's strong demand there."
+    },
+    {
+      "t": 1612.25,
+      "text": "Have you considered local partnerships?"
+    },
+    {
+      "t": 1614.71,
+      "text": "Yes, we're already in discussions with several regional distributors."
+    },
+    {
+      "t": 1618.41,
+      "text": "Very good."
+    },
+    {
+      "t": 1619.37,
+      "text": "That should help market entry significantly."
+    },
+    {
+      "t": 1621.79,
+      "text": "That's our goal."
+    },
+    {
+      "t": 1622.99,
+      "text": "Does anyone have additional questions before we wrap up?"
+    },
+    {
+      "t": 1626.28,
+      "text": "I'd like to ask about the timeline for the next product release."
+    },
+    {
+      "t": 1629.8,
+      "text": "Of course."
+    },
+    {
+      "t": 1630.54,
+      "text": "We're aiming for early September."
+    },
+    {
+      "t": 1632.81,
+      "text": "Great."
+    },
+    {
+      "t": 1633.37,
+      "text": "We'll prepare our marketing schedule accordingly."
+    },
+    {
+      "t": 1635.85,
+      "text": "Wonderful."
+    },
+    {
+      "t": 1636.79,
+      "text": "Thank you everyone for your time today."
+    },
+    {
+      "t": 1638.89,
+      "text": "We appreciate the opportunity to work together."
+    },
+    {
+      "t": 1641.43,
+      "text": "Thank you."
+    },
+    {
+      "t": 1642.15,
+      "text": "This meeting was very productive."
+    },
+    {
+      "t": 1644.22,
+      "text": "We look forward to future collaboration."
+    },
+    {
+      "t": 1646.24,
+      "text": "Well done, Chloe."
+    },
+    {
+      "t": 1647.62,
+      "text": "That meeting went really well."
+    },
+    {
+      "t": 1649.62,
+      "text": "Thanks."
+    },
+    {
+      "t": 1650.36,
+      "text": "Everyone stayed calm and professional."
+    },
+    {
+      "t": 1652.75,
+      "text": "And thankfully, there were no technical disasters this time."
+    },
+    {
+      "t": 1656.37,
+      "text": "Yes, that alone feels like a huge success."
+    },
+    {
+      "t": 1659.84,
+      "text": "I think the clients were happy with our honesty about the delays."
+    },
+    {
+      "t": 1663.06,
+      "text": "Definitely."
+    },
+    {
+      "t": 1663.96,
+      "text": "Clear communication builds trust."
+    },
+    {
+      "t": 1666.42,
+      "text": "Agreed."
+    },
+    {
+      "t": 1667.23,
+      "text": "You also handled the difficult questions very confidently."
+    },
+    {
+      "t": 1670.77,
+      "text": "Thanks."
+    },
+    {
+      "t": 1671.63,
+      "text": "I was nervous at first, honestly."
+    },
+    {
+      "t": 1673.63,
+      "text": "Really?"
+    },
+    {
+      "t": 1673.99,
+      "text": "You looked completely relaxed."
+    },
+    {
+      "t": 1676.14,
+      "text": "That's because I practiced my presentation several times this morning."
+    },
+    {
+      "t": 1679.85,
+      "text": "Preparation makes a huge difference."
+    },
+    {
+      "t": 1682.41,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1683.47,
+      "text": "Well, after that stressful hour, I think we deserve coffee."
+    },
+    {
+      "t": 1687.7,
+      "text": "I completely agree with that idea."
+    },
+    {
+      "t": 1689.93,
+      "text": "Let's grab coffee before the next meeting starts."
+    },
+    {
+      "t": 1692.89,
+      "text": "Wait, there's another meeting today?"
+    },
+    {
+      "t": 1694.91,
+      "text": "Welcome to office life, even."
+    },
+    {
+      "t": 1696.5,
+      "text": "Fair enough."
+    },
+    {
+      "t": 1698.82,
+      "text": "Let's go."
+    },
+    {
+      "t": 1699.55,
+      "text": "All right, everyone."
+    },
+    {
+      "t": 1700.45,
+      "text": "We hope you enjoyed today's English conversation practice about business meeting conversations in 60 minutes."
+    },
+    {
+      "t": 1707.09,
+      "text": "Today, we practiced useful English for presentations, teamwork, client meetings, problem solving, and office communication."
+    },
+    {
+      "t": 1714.86,
+      "text": "These are real expressions you can use in professional situations every day."
+    },
+    {
+      "t": 1719.07,
+      "text": "Remember, confidence comes through regular practice and communication."
+    },
+    {
+      "t": 1723.71,
+      "text": "Keep practicing your English step by step, and don't be afraid to speak during meetings."
+    },
+    {
+      "t": 1728.57,
+      "text": "Thanks so much for learning with us today."
+    },
+    {
+      "t": 1731.16,
+      "text": "We'll see you again in the next English conversation practice session."
+    },
+    {
+      "t": 1734.79,
+      "text": "Take care, everyone."
+    },
+    {
+      "t": 1736.09,
+      "text": "And keep improving your English every single day."
+    },
+    {
+      "t": 1804.12,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 1805.1,
+      "text": "Welcome back to our English Learning Podcast."
+    },
+    {
+      "t": 1807.8,
+      "text": "We're so happy you joined us today."
+    },
+    {
+      "t": 1809.91,
+      "text": "I'm Ryan."
+    },
+    {
+      "t": 1810.75,
+      "text": "And I'm Chloe."
+    },
+    {
+      "t": 1811.87,
+      "text": "Today we have another practical English lesson for office workers and business professionals."
+    },
+    {
+      "t": 1816.75,
+      "text": "That's right."
+    },
+    {
+      "t": 1817.6,
+      "text": "Today's topic is business meeting conversations in 60 minutes."
+    },
+    {
+      "t": 1822.16,
+      "text": "In many companies, meetings are scheduled for one hour."
+    },
+    {
+      "t": 1825.34,
+      "text": "During that time, people discuss projects, solve problems, give updates, make decisions, and share ideas."
+    },
+    {
+      "t": 1832.1,
+      "text": "So today we'll practice realistic business conversations that happen during a typical one-hour office meeting."
+    },
+    {
+      "t": 1838.14,
+      "text": "You'll learn useful English phrases for starting meetings, presenting ideas, discussing deadlines, handling disagreements, and ending meetings professionally."
+    },
+    {
+      "t": 1847.33,
+      "text": "And don't worry."
+    },
+    {
+      "t": 1848.32,
+      "text": "We'll use clear and natural English so you can follow along easily."
+    },
+    {
+      "t": 1852.2,
+      "text": "All right."
+    },
+    {
+      "t": 1853.04,
+      "text": "Let's begin."
+    },
+    {
+      "t": 1853.92,
+      "text": "Good morning, Chloe."
+    },
+    {
+      "t": 1854.98,
+      "text": "Good morning, Ryan."
+    },
+    {
+      "t": 1855.96,
+      "text": "You're here early today."
+    },
+    {
+      "t": 1857.4,
+      "text": "I wanted to prepare the conference room before the team arrived."
+    },
+    {
+      "t": 1860.41,
+      "text": "That's responsible."
+    },
+    {
+      "t": 1861.49,
+      "text": "Today's meeting is important."
+    },
+    {
+      "t": 1863.14,
+      "text": "Definitely."
+    },
+    {
+      "t": 1864.06,
+      "text": "The management team wants updates on every department."
+    },
+    {
+      "t": 1867.08,
+      "text": "I heard the CEO might join the meeting too."
+    },
+    {
+      "t": 1869.3,
+      "text": "Really?"
+    },
+    {
+      "t": 1869.62,
+      "text": "Yes."
+    },
+    {
+      "t": 1870.68,
+      "text": "Then we should make sure everything is organized."
+    },
+    {
+      "t": 1873.21,
+      "text": "Agreed."
+    },
+    {
+      "t": 1873.93,
+      "text": "Did you print the presentation handouts?"
+    },
+    {
+      "t": 1876.01,
+      "text": "Yes, I printed enough copies for everyone."
+    },
+    {
+      "t": 1878.61,
+      "text": "Perfect."
+    },
+    {
+      "t": 1879.47,
+      "text": "I also prepared coffee and water for the meeting."
+    },
+    {
+      "t": 1882.14,
+      "text": "Excellent planning."
+    },
+    {
+      "t": 1883.22,
+      "text": "Thanks."
+    },
+    {
+      "t": 1884.04,
+      "text": "By the way, how was your commute this morning?"
+    },
+    {
+      "t": 1886.1,
+      "text": "Surprisingly smooth."
+    },
+    {
+      "t": 1887.46,
+      "text": "Lucky you."
+    },
+    {
+      "t": 1888.48,
+      "text": "Traffic was bad for you?"
+    },
+    {
+      "t": 1889.92,
+      "text": "Terrible."
+    },
+    {
+      "t": 1890.82,
+      "text": "What happened?"
+    },
+    {
+      "t": 1891.7,
+      "text": "There was construction near the highway."
+    },
+    {
+      "t": 1893.78,
+      "text": "That explains it."
+    },
+    {
+      "t": 1894.89,
+      "text": "I spent almost an hour in traffic."
+    },
+    {
+      "t": 1897.09,
+      "text": "That sounds exhausting."
+    },
+    {
+      "t": 1898.61,
+      "text": "At least I made it on time."
+    },
+    {
+      "t": 1900.13,
+      "text": "That's what matters."
+    },
+    {
+      "t": 1901.31,
+      "text": "All right, looks like everyone is arriving."
+    },
+    {
+      "t": 1903.45,
+      "text": "Let's get started."
+    },
+    {
+      "t": 1904.58,
+      "text": "Good morning, everyone."
+    },
+    {
+      "t": 1905.46,
+      "text": "Thank you for joining today's business meeting."
+    },
+    {
+      "t": 1907.9,
+      "text": "We have several important topics to discuss, so let's begin."
+    },
+    {
+      "t": 1911.5,
+      "text": "First, let's review last month's performance."
+    },
+    {
+      "t": 1914.25,
+      "text": "Overall, our company achieved strong results."
+    },
+    {
+      "t": 1917.17,
+      "text": "Sales increased by 22% compared to last quarter."
+    },
+    {
+      "t": 1920.36,
+      "text": "That's excellent progress."
+    },
+    {
+      "t": 1922.16,
+      "text": "Customer engagement also improved significantly."
+    },
+    {
+      "t": 1925.1,
+      "text": "Great news."
+    },
+    {
+      "t": 1926.06,
+      "text": "However, we still face a few challenges."
+    },
+    {
+      "t": 1928.78,
+      "text": "Such as?"
+    },
+    {
+      "t": 1929.66,
+      "text": "Project delays and communication issues between departments."
+    },
+    {
+      "t": 1933.29,
+      "text": "I've noticed that too."
+    },
+    {
+      "t": 1934.77,
+      "text": "Especially during large projects."
+    },
+    {
+      "t": 1936.99,
+      "text": "Better coordination would definitely help."
+    },
+    {
+      "t": 1939.3,
+      "text": "Agreed."
+    },
+    {
+      "t": 1940.08,
+      "text": "All right, let's hear updates from the marketing department first."
+    },
+    {
+      "t": 1943.48,
+      "text": "Thank you."
+    },
+    {
+      "t": 1944.26,
+      "text": "Our latest campaign performed better than expected."
+    },
+    {
+      "t": 1947.0,
+      "text": "That's wonderful."
+    },
+    {
+      "t": 1947.98,
+      "text": "Social media engagement increased by 40%."
+    },
+    {
+      "t": 1950.6,
+      "text": "Impressive."
+    },
+    {
+      "t": 1952.17,
+      "text": "Website traffic also grew rapidly after the campaign launch."
+    },
+    {
+      "t": 1955.83,
+      "text": "What contributed most to the success?"
+    },
+    {
+      "t": 1958.15,
+      "text": "Video advertisements and influencer partnerships."
+    },
+    {
+      "t": 1961.24,
+      "text": "Interesting."
+    },
+    {
+      "t": 1962.04,
+      "text": "Customers responded positively to authentic content."
+    },
+    {
+      "t": 1965.43,
+      "text": "That makes sense."
+    },
+    {
+      "t": 1966.59,
+      "text": "We also improved communication with customers through live chat support."
+    },
+    {
+      "t": 1970.43,
+      "text": "Excellent idea."
+    },
+    {
+      "t": 1971.64,
+      "text": "Faster responses improved customer satisfaction."
+    },
+    {
+      "t": 1974.61,
+      "text": "Were there any difficulties during the campaign?"
+    },
+    {
+      "t": 1977.09,
+      "text": "Yes."
+    },
+    {
+      "t": 1977.97,
+      "text": "What kind of difficulties?"
+    },
+    {
+      "t": 1979.47,
+      "text": "The team faced tight deadlines."
+    },
+    {
+      "t": 1981.6,
+      "text": "That can create a lot of pressure."
+    },
+    {
+      "t": 1983.52,
+      "text": "Definitely."
+    },
+    {
+      "t": 1984.52,
+      "text": "How did the team handle it?"
+    },
+    {
+      "t": 1985.98,
+      "text": "We scheduled shorter daily meetings to track progress."
+    },
+    {
+      "t": 1989.15,
+      "text": "Did that help?"
+    },
+    {
+      "t": 1990.17,
+      "text": "Very much."
+    },
+    {
+      "t": 1991.15,
+      "text": "Communication became more efficient?"
+    },
+    {
+      "t": 1993.07,
+      "text": "Exactly."
+    },
+    {
+      "t": 1993.97,
+      "text": "Great work."
+    },
+    {
+      "t": 1994.85,
+      "text": "Thank you."
+    },
+    {
+      "t": 1995.65,
+      "text": "Next, let's hear from the finance department."
+    },
+    {
+      "t": 1997.94,
+      "text": "Good morning, everyone."
+    },
+    {
+      "t": 1999.22,
+      "text": "Overall, the financial situation looks stable."
+    },
+    {
+      "t": 2001.96,
+      "text": "That's good to hear."
+    },
+    {
+      "t": 2002.94,
+      "text": "However, some departments exceeded their budgets."
+    },
+    {
+      "t": 2005.79,
+      "text": "Which departments?"
+    },
+    {
+      "t": 2007.09,
+      "text": "Marketing and product development."
+    },
+    {
+      "t": 2009.05,
+      "text": "By how much?"
+    },
+    {
+      "t": 2010.23,
+      "text": "Around 10%."
+    },
+    {
+      "t": 2011.73,
+      "text": "That's not ideal."
+    },
+    {
+      "t": 2013.11,
+      "text": "No, but the additional spending produced strong results."
+    },
+    {
+      "t": 2016.54,
+      "text": "That's important."
+    },
+    {
+      "t": 2017.7,
+      "text": "Sometimes strategic investment is necessary."
+    },
+    {
+      "t": 2020.32,
+      "text": "I agree."
+    },
+    {
+      "t": 2021.16,
+      "text": "Still, we should monitor expenses carefully next quarter."
+    },
+    {
+      "t": 2024.36,
+      "text": "Definitely."
+    },
+    {
+      "t": 2025.26,
+      "text": "We also need to reduce unnecessary travel costs."
+    },
+    {
+      "t": 2028.29,
+      "text": "Maybe we can schedule more virtual meetings."
+    },
+    {
+      "t": 2030.85,
+      "text": "Good suggestion."
+    },
+    {
+      "t": 2031.82,
+      "text": "That would save both money and time."
+    },
+    {
+      "t": 2034.16,
+      "text": "Exactly."
+    },
+    {
+      "t": 2035.06,
+      "text": "All right, let's move on to project management updates."
+    },
+    {
+      "t": 2038.36,
+      "text": "The Wilson project is currently behind schedule."
+    },
+    {
+      "t": 2041.18,
+      "text": "What caused the delay?"
+    },
+    {
+      "t": 2042.49,
+      "text": "We encountered technical issues during system integration."
+    },
+    {
+      "t": 2045.57,
+      "text": "How serious are the issues?"
+    },
+    {
+      "t": 2047.37,
+      "text": "More serious than we expected."
+    },
+    {
+      "t": 2049.23,
+      "text": "Do we have a solution?"
+    },
+    {
+      "t": 2050.6,
+      "text": "The IT department is working on it now."
+    },
+    {
+      "t": 2052.88,
+      "text": "How long will it take?"
+    },
+    {
+      "t": 2054.16,
+      "text": "Approximately two more weeks."
+    },
+    {
+      "t": 2056.14,
+      "text": "Will the client be affected?"
+    },
+    {
+      "t": 2057.66,
+      "text": "Most likely."
+    },
+    {
+      "t": 2058.7,
+      "text": "Have we informed them yet?"
+    },
+    {
+      "t": 2060.15,
+      "text": "Not officially."
+    },
+    {
+      "t": 2061.26,
+      "text": "We should communicate with them immediately."
+    },
+    {
+      "t": 2063.11,
+      "text": "I agree."
+    },
+    {
+      "t": 2064.41,
+      "text": "Clients appreciate transparency."
+    },
+    {
+      "t": 2066.37,
+      "text": "Exactly."
+    },
+    {
+      "t": 2067.29,
+      "text": "We should explain the situation clearly and provide a revised timeline."
+    },
+    {
+      "t": 2071.26,
+      "text": "I'll prepare a detailed report this afternoon."
+    },
+    {
+      "t": 2073.7,
+      "text": "Perfect."
+    },
+    {
+      "t": 2074.58,
+      "text": "All right, everyone, let's take a short coffee break."
+    },
+    {
+      "t": 2077.21,
+      "text": "Finally."
+    },
+    {
+      "t": 2078.01,
+      "text": "I think everyone needed that."
+    },
+    {
+      "t": 2079.67,
+      "text": "Definitely."
+    },
+    {
+      "t": 2080.63,
+      "text": "So, how are things going in your department lately?"
+    },
+    {
+      "t": 2082.98,
+      "text": "busy, but manageable."
+    },
+    {
+      "t": 2084.6,
+      "text": "That's good."
+    },
+    {
+      "t": 2085.42,
+      "text": "We recently hired two new employees."
+    },
+    {
+      "t": 2087.68,
+      "text": "Really?"
+    },
+    {
+      "t": 2088.34,
+      "text": "Yes."
+    },
+    {
+      "t": 2089.09,
+      "text": "How are they adjusting?"
+    },
+    {
+      "t": 2090.25,
+      "text": "Pretty well."
+    },
+    {
+      "t": 2091.01,
+      "text": "That's great."
+    },
+    {
+      "t": 2091.85,
+      "text": "They're still learning our software systems, though."
+    },
+    {
+      "t": 2094.17,
+      "text": "That takes time."
+    },
+    {
+      "t": 2095.29,
+      "text": "Exactly."
+    },
+    {
+      "t": 2096.21,
+      "text": "Do you enjoy training new employees?"
+    },
+    {
+      "t": 2098.32,
+      "text": "Honestly, yes."
+    },
+    {
+      "t": 2099.6,
+      "text": "Really?"
+    },
+    {
+      "t": 2100.32,
+      "text": "I like helping people feel comfortable in the workplace."
+    },
+    {
+      "t": 2103.1,
+      "text": "That's important."
+    },
+    {
+      "t": 2104.18,
+      "text": "Starting a new job can feel overwhelming."
+    },
+    {
+      "t": 2106.58,
+      "text": "Very true."
+    },
+    {
+      "t": 2107.5,
+      "text": "What about you?"
+    },
+    {
+      "t": 2108.47,
+      "text": "I enjoy mentoring people, too."
+    },
+    {
+      "t": 2110.37,
+      "text": "Good leaders support their teams."
+    },
+    {
+      "t": 2112.16,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2113.24,
+      "text": "By the way, congratulations on your recent promotion."
+    },
+    {
+      "t": 2116.14,
+      "text": "Thank you."
+    },
+    {
+      "t": 2116.84,
+      "text": "How does it feel?"
+    },
+    {
+      "t": 2117.82,
+      "text": "Exciting, but also challenging."
+    },
+    {
+      "t": 2120.1,
+      "text": "More responsibilities?"
+    },
+    {
+      "t": 2121.67,
+      "text": "A lot more."
+    },
+    {
+      "t": 2122.85,
+      "text": "I can imagine."
+    },
+    {
+      "t": 2123.97,
+      "text": "Now I attend meetings almost all day."
+    },
+    {
+      "t": 2126.21,
+      "text": "Welcome to management."
+    },
+    {
+      "t": 2127.83,
+      "text": "Honestly, I miss having quiet work time sometimes."
+    },
+    {
+      "t": 2131.11,
+      "text": "That happens to many managers."
+    },
+    {
+      "t": 2133.02,
+      "text": "Still, I enjoy leading projects and helping the team succeed."
+    },
+    {
+      "t": 2136.52,
+      "text": "That's a great attitude."
+    },
+    {
+      "t": 2137.88,
+      "text": "All right, looks like the break is over."
+    },
+    {
+      "t": 2139.76,
+      "text": "Time to continue."
+    },
+    {
+      "t": 2140.82,
+      "text": "Welcome back, everyone."
+    },
+    {
+      "t": 2142.06,
+      "text": "Let's continue with the next agenda item."
+    },
+    {
+      "t": 2144.54,
+      "text": "We need to discuss employee workload and productivity."
+    },
+    {
+      "t": 2147.81,
+      "text": "Several teams have been working overtime recently."
+    },
+    {
+      "t": 2150.47,
+      "text": "Yes, I've noticed that."
+    },
+    {
+      "t": 2152.21,
+      "text": "Employee stress levels are increasing."
+    },
+    {
+      "t": 2154.28,
+      "text": "That's concerning."
+    },
+    {
+      "t": 2155.52,
+      "text": "Burnout can affect both productivity and morale."
+    },
+    {
+      "t": 2158.5,
+      "text": "I completely agree."
+    },
+    {
+      "t": 2159.86,
+      "text": "Do you have any suggestions?"
+    },
+    {
+      "t": 2161.56,
+      "text": "We could redistribute tasks more evenly between teams."
+    },
+    {
+      "t": 2165.07,
+      "text": "Good idea."
+    },
+    {
+      "t": 2165.95,
+      "text": "We might also consider hiring temporary staff."
+    },
+    {
+      "t": 2168.82,
+      "text": "That could reduce pressure during busy periods."
+    },
+    {
+      "t": 2171.45,
+      "text": "Exactly."
+    },
+    {
+      "t": 2172.37,
+      "text": "Another issue is communication."
+    },
+    {
+      "t": 2174.33,
+      "text": "What kind of communication problems?"
+    },
+    {
+      "t": 2176.33,
+      "text": "Some employees feel uncomfortable asking for help."
+    },
+    {
+      "t": 2179.2,
+      "text": "That happens often in stressful environments."
+    },
+    {
+      "t": 2181.8,
+      "text": "Managers should encourage open communication."
+    },
+    {
+      "t": 2184.44,
+      "text": "Definitely."
+    },
+    {
+      "t": 2185.36,
+      "text": "Team members should feel supported."
+    },
+    {
+      "t": 2187.29,
+      "text": "I agree."
+    },
+    {
+      "t": 2188.11,
+      "text": "We could also organize wellness workshops or stress management sessions."
+    },
+    {
+      "t": 2192.17,
+      "text": "That's an excellent idea."
+    },
+    {
+      "t": 2193.67,
+      "text": "Mental health is important in the workplace."
+    },
+    {
+      "t": 2196.02,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2196.89,
+      "text": "All right, now let's discuss future company goals."
+    },
+    {
+      "t": 2200.25,
+      "text": "One major goal is expanding into international markets."
+    },
+    {
+      "t": 2203.37,
+      "text": "Exciting."
+    },
+    {
+      "t": 2204.19,
+      "text": "We're currently researching opportunities in Europe and Asia."
+    },
+    {
+      "t": 2207.3,
+      "text": "That could create significant growth."
+    },
+    {
+      "t": 2209.38,
+      "text": "Exactly."
+    },
+    {
+      "t": 2210.32,
+      "text": "What challenges do you expect?"
+    },
+    {
+      "t": 2212.18,
+      "text": "Cultural differences and local competition."
+    },
+    {
+      "t": 2214.7,
+      "text": "Those are important factors."
+    },
+    {
+      "t": 2216.4,
+      "text": "We'll need strong market research before making decisions."
+    },
+    {
+      "t": 2219.69,
+      "text": "Definitely."
+    },
+    {
+      "t": 2220.65,
+      "text": "Another goal is improving sustainability practices."
+    },
+    {
+      "t": 2223.63,
+      "text": "Customers care more about environmental responsibility now."
+    },
+    {
+      "t": 2226.94,
+      "text": "Very true."
+    },
+    {
+      "t": 2227.96,
+      "text": "What changes are we considering?"
+    },
+    {
+      "t": 2229.74,
+      "text": "Reducing paper waste and improving energy efficiency."
+    },
+    {
+      "t": 2232.84,
+      "text": "Good initiatives."
+    },
+    {
+      "t": 2234.01,
+      "text": "We also want to work with more eco-friendly suppliers."
+    },
+    {
+      "t": 2237.05,
+      "text": "That would strengthen the company's reputation."
+    },
+    {
+      "t": 2239.41,
+      "text": "Exactly."
+    },
+    {
+      "t": 2240.31,
+      "text": "All right, before we finish, does anyone have additional comments or questions?"
+    },
+    {
+      "t": 2244.61,
+      "text": "I have one question regarding remote work policies."
+    },
+    {
+      "t": 2247.44,
+      "text": "Go ahead."
+    },
+    {
+      "t": 2248.26,
+      "text": "Will employees continue working from home part-time?"
+    },
+    {
+      "t": 2251.14,
+      "text": "At the moment, yes."
+    },
+    {
+      "t": 2252.42,
+      "text": "That's good news."
+    },
+    {
+      "t": 2253.48,
+      "text": "Management believes flexible work schedules improve productivity."
+    },
+    {
+      "t": 2256.89,
+      "text": "I agree completely."
+    },
+    {
+      "t": 2258.26,
+      "text": "However, teams still need regular in-person meetings."
+    },
+    {
+      "t": 2261.7,
+      "text": "Of course."
+    },
+    {
+      "t": 2262.54,
+      "text": "Face-to-face communication remains important for collaboration."
+    },
+    {
+      "t": 2265.99,
+      "text": "Definitely."
+    },
+    {
+      "t": 2266.89,
+      "text": "Any other questions?"
+    },
+    {
+      "t": 2268.24,
+      "text": "Nothing from me."
+    },
+    {
+      "t": 2269.2,
+      "text": "All right."
+    },
+    {
+      "t": 2269.92,
+      "text": "Then let's wrap up today's meeting."
+    },
+    {
+      "t": 2271.64,
+      "text": "Thank you everyone for your hard work and participation."
+    },
+    {
+      "t": 2274.61,
+      "text": "Please send your updated reports by Friday afternoon."
+    },
+    {
+      "t": 2277.57,
+      "text": "And don't forget next week's strategy meeting."
+    },
+    {
+      "t": 2280.01,
+      "text": "Have a productive day, everyone."
+    },
+    {
+      "t": 2281.61,
+      "text": "Thank you."
+    },
+    {
+      "t": 2282.36,
+      "text": "Well, that meeting went smoothly."
+    },
+    {
+      "t": 2284.06,
+      "text": "Better than expected."
+    },
+    {
+      "t": 2285.24,
+      "text": "Everyone seemed engaged and prepared."
+    },
+    {
+      "t": 2287.38,
+      "text": "Preparation really makes a difference."
+    },
+    {
+      "t": 2289.5,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2290.47,
+      "text": "Do you enjoy leading meetings?"
+    },
+    {
+      "t": 2292.21,
+      "text": "Sometimes."
+    },
+    {
+      "t": 2293.15,
+      "text": "What's the hardest part?"
+    },
+    {
+      "t": 2294.51,
+      "text": "Managing time."
+    },
+    {
+      "t": 2295.83,
+      "text": "That's true."
+    },
+    {
+      "t": 2296.73,
+      "text": "Discussions can easily go off topic."
+    },
+    {
+      "t": 2299.24,
+      "text": "Especially during brainstorming sessions."
+    },
+    {
+      "t": 2301.52,
+      "text": "Exactly."
+    },
+    {
+      "t": 2302.4,
+      "text": "I think strong communication skills are essential for managers."
+    },
+    {
+      "t": 2306.02,
+      "text": "Definitely."
+    },
+    {
+      "t": 2306.84,
+      "text": "Good leaders know how to listen as well."
+    },
+    {
+      "t": 2308.9,
+      "text": "Listening is just as important as speaking."
+    },
+    {
+      "t": 2311.47,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2312.35,
+      "text": "Well, I should probably answer my emails before the next meeting."
+    },
+    {
+      "t": 2315.69,
+      "text": "Same here."
+    },
+    {
+      "t": 2316.49,
+      "text": "My inbox is completely full."
+    },
+    {
+      "t": 2318.7,
+      "text": "Mine too."
+    },
+    {
+      "t": 2319.68,
+      "text": "Office life never slows down."
+    },
+    {
+      "t": 2321.22,
+      "text": "That's very true."
+    },
+    {
+      "t": 2322.9,
+      "text": "All right, everyone."
+    },
+    {
+      "t": 2323.78,
+      "text": "Thank you for practicing English with us today."
+    },
+    {
+      "t": 2325.95,
+      "text": "We hope these business meeting conversations help you feel more confident in professional situations."
+    },
+    {
+      "t": 2331.18,
+      "text": "Remember, business English becomes easier with regular practice."
+    },
+    {
+      "t": 2334.76,
+      "text": "Try repeating these conversations out loud."
+    },
+    {
+      "t": 2337.13,
+      "text": "You can also practice them with co-workers, classmates, or friends."
+    },
+    {
+      "t": 2340.56,
+      "text": "The more you speak, the more natural your English will sound."
+    },
+    {
+      "t": 2343.61,
+      "text": "Keep learning."
+    },
+    {
+      "t": 2344.43,
+      "text": "Keep practicing."
+    },
+    {
+      "t": 2345.52,
+      "text": "And keep improving your professional English every day."
+    },
+    {
+      "t": 2348.41,
+      "text": "See you next time."
+    },
+    {
+      "t": 2349.37,
+      "text": "Goodbye, everyone."
+    },
+    {
+      "t": 2350.33,
+      "text": "Have a wonderful day."
+    },
+    {
+      "t": 2427.64,
+      "text": "Hello, everyone, and welcome back to our English conversation practice session."
+    },
+    {
+      "t": 2432.18,
+      "text": "I'm Ethan."
+    },
+    {
+      "t": 2433.04,
+      "text": "And I'm Mia."
+    },
+    {
+      "t": 2434.01,
+      "text": "We're so happy you're here learning English with us today."
+    },
+    {
+      "t": 2436.93,
+      "text": "If you want to improve your spoken English for work and professional situations, you're in the right place."
+    },
+    {
+      "t": 2442.54,
+      "text": "That's right."
+    },
+    {
+      "t": 2443.34,
+      "text": "Today's topic is business meeting conversations in 60 minutes."
+    },
+    {
+      "t": 2447.63,
+      "text": "We're going to practice realistic office conversations that happen before, during, and after business meetings."
+    },
+    {
+      "t": 2453.84,
+      "text": "You'll hear useful phrases for presenting ideas, discussing problems, asking questions, sharing opinions, and working with a team."
+    },
+    {
+      "t": 2461.97,
+      "text": "And just like always, we'll use clear and natural English that sounds professional but easy to understand."
+    },
+    {
+      "t": 2468.0,
+      "text": "All right, Ethan, are you ready to start today's meeting practice?"
+    },
+    {
+      "t": 2471.32,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2472.02,
+      "text": "Let's begin."
+    },
+    {
+      "t": 2472.97,
+      "text": "Good morning, Ethan."
+    },
+    {
+      "t": 2474.01,
+      "text": "You're here earlier than usual today."
+    },
+    {
+      "t": 2476.11,
+      "text": "Morning, Mia."
+    },
+    {
+      "t": 2476.99,
+      "text": "Yeah, I wanted to prepare before the strategy meeting starts."
+    },
+    {
+      "t": 2480.13,
+      "text": "Same here."
+    },
+    {
+      "t": 2480.93,
+      "text": "Today's meeting sounds pretty important."
+    },
+    {
+      "t": 2483.04,
+      "text": "Definitely."
+    },
+    {
+      "t": 2484.02,
+      "text": "Management wants updates from every department."
+    },
+    {
+      "t": 2486.54,
+      "text": "I heard the CEO will join, too."
+    },
+    {
+      "t": 2488.61,
+      "text": "Really?"
+    },
+    {
+      "t": 2489.11,
+      "text": "Then I'm even more nervous now."
+    },
+    {
+      "t": 2491.71,
+      "text": "Don't worry."
+    },
+    {
+      "t": 2492.33,
+      "text": "You're always prepared."
+    },
+    {
+      "t": 2493.7,
+      "text": "I try to be."
+    },
+    {
+      "t": 2494.82,
+      "text": "I reviewed my notes twice already this morning."
+    },
+    {
+      "t": 2497.4,
+      "text": "That's a good habit."
+    },
+    {
+      "t": 2498.48,
+      "text": "Preparation makes meetings less stressful."
+    },
+    {
+      "t": 2500.91,
+      "text": "Exactly."
+    },
+    {
+      "t": 2501.87,
+      "text": "Did you finish your presentation slides?"
+    },
+    {
+      "t": 2503.82,
+      "text": "Almost."
+    },
+    {
+      "t": 2504.63,
+      "text": "I'm still changing a few things on the final slide."
+    },
+    {
+      "t": 2507.47,
+      "text": "What's wrong with it?"
+    },
+    {
+      "t": 2508.43,
+      "text": "I think there's too much information."
+    },
+    {
+      "t": 2510.71,
+      "text": "That happens a lot with presentations."
+    },
+    {
+      "t": 2512.92,
+      "text": "Yeah."
+    },
+    {
+      "t": 2513.48,
+      "text": "I want it to look professional, but still simple."
+    },
+    {
+      "t": 2516.28,
+      "text": "Maybe use fewer words and add more visuals."
+    },
+    {
+      "t": 2519.01,
+      "text": "Good idea."
+    },
+    {
+      "t": 2519.91,
+      "text": "Charts usually explain things faster."
+    },
+    {
+      "t": 2522.31,
+      "text": "Exactly."
+    },
+    {
+      "t": 2523.15,
+      "text": "Especially during meetings where time is limited."
+    },
+    {
+      "t": 2525.87,
+      "text": "Speaking of time, this meeting is scheduled for exactly 60 minutes."
+    },
+    {
+      "t": 2530.48,
+      "text": "That means everyone needs to keep their updates short and clear."
+    },
+    {
+      "t": 2533.85,
+      "text": "which is honestly harder than it sounds."
+    },
+    {
+      "t": 2536.81,
+      "text": "Very true."
+    },
+    {
+      "t": 2537.91,
+      "text": "Some people turn five-minute updates into 20-minute speeches."
+    },
+    {
+      "t": 2542.74,
+      "text": "We all know who you're talking about."
+    },
+    {
+      "t": 2544.73,
+      "text": "I'm not naming names."
+    },
+    {
+      "t": 2546.35,
+      "text": "All right."
+    },
+    {
+      "t": 2546.75,
+      "text": "Should we go to the conference room?"
+    },
+    {
+      "t": 2548.45,
+      "text": "Sure."
+    },
+    {
+      "t": 2548.85,
+      "text": "Let's grab coffee first, though."
+    },
+    {
+      "t": 2550.42,
+      "text": "I'll need extra energy today."
+    },
+    {
+      "t": 2552.24,
+      "text": "Same here."
+    },
+    {
+      "t": 2553.07,
+      "text": "Good morning, everyone."
+    },
+    {
+      "t": 2554.31,
+      "text": "Thanks for joining today's business meeting conversation."
+    },
+    {
+      "t": 2557.19,
+      "text": "Good morning."
+    },
+    {
+      "t": 2558.13,
+      "text": "Morning, everyone."
+    },
+    {
+      "t": 2559.22,
+      "text": "Since we only have 60 minutes, let's begin right away."
+    },
+    {
+      "t": 2562.4,
+      "text": "Good idea."
+    },
+    {
+      "t": 2563.34,
+      "text": "First, we'll review project progress from each department."
+    },
+    {
+      "t": 2566.45,
+      "text": "Then we'll discuss next month's goals."
+    },
+    {
+      "t": 2568.69,
+      "text": "Sounds good."
+    },
+    {
+      "t": 2569.61,
+      "text": "Ethan, would you like to start with the marketing update?"
+    },
+    {
+      "t": 2572.15,
+      "text": "Of course."
+    },
+    {
+      "t": 2573.05,
+      "text": "Over the past month, our online engagement increased by 12%."
+    },
+    {
+      "t": 2576.68,
+      "text": "That's excellent news."
+    },
+    {
+      "t": 2578.6,
+      "text": "What contributed to the increase?"
+    },
+    {
+      "t": 2580.35,
+      "text": "mainly short-form video campaigns and stronger social media interaction."
+    },
+    {
+      "t": 2584.86,
+      "text": "Interesting."
+    },
+    {
+      "t": 2585.62,
+      "text": "Which platform performed best?"
+    },
+    {
+      "t": 2587.7,
+      "text": "Instagram generated the highest audience engagement."
+    },
+    {
+      "t": 2590.54,
+      "text": "That makes sense."
+    },
+    {
+      "t": 2591.45,
+      "text": "Video content is extremely popular right now."
+    },
+    {
+      "t": 2594.33,
+      "text": "Exactly."
+    },
+    {
+      "t": 2595.21,
+      "text": "We also noticed customers responding positively to behind-the-scenes content."
+    },
+    {
+      "t": 2599.41,
+      "text": "That's valuable information."
+    },
+    {
+      "t": 2601.11,
+      "text": "However, email campaign performance dropped slightly."
+    },
+    {
+      "t": 2604.44,
+      "text": "Do we know why?"
+    },
+    {
+      "t": 2605.14,
+      "text": "We believe the messages were too long and formal."
+    },
+    {
+      "t": 2608.3,
+      "text": "I agree."
+    },
+    {
+      "t": 2608.94,
+      "text": "Usually, customers prefer shorter and more personal communication."
+    },
+    {
+      "t": 2613.2,
+      "text": "That's what our research suggests as well."
+    },
+    {
+      "t": 2615.49,
+      "text": "So, what changes are you planning?"
+    },
+    {
+      "t": 2617.41,
+      "text": "We'd like to redesign the email format and focus more on personalized messaging."
+    },
+    {
+      "t": 2622.28,
+      "text": "Sounds like a smart approach."
+    },
+    {
+      "t": 2623.86,
+      "text": "Thank you."
+    },
+    {
+      "t": 2624.62,
+      "text": "All right, let's move on to the sales department update."
+    },
+    {
+      "t": 2627.5,
+      "text": "Good morning, everyone."
+    },
+    {
+      "t": 2628.8,
+      "text": "Overall sales increased by 8% this quarter."
+    },
+    {
+      "t": 2632.01,
+      "text": "Great progress."
+    },
+    {
+      "t": 2633.23,
+      "text": "Thank you."
+    },
+    {
+      "t": 2634.05,
+      "text": "However, we faced delays in two major client projects."
+    },
+    {
+      "t": 2637.49,
+      "text": "What caused the delays?"
+    },
+    {
+      "t": 2639.23,
+      "text": "Mostly supply chain issues and late product deliveries."
+    },
+    {
+      "t": 2642.56,
+      "text": "Are those issues resolved now?"
+    },
+    {
+      "t": 2644.5,
+      "text": "Mostly, yes, but we're still monitoring the situation carefully."
+    },
+    {
+      "t": 2648.11,
+      "text": "Good."
+    },
+    {
+      "t": 2648.59,
+      "text": "Keeping clients informed is very important during delays."
+    },
+    {
+      "t": 2652.09,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2653.09,
+      "text": "Communication helped us avoid bigger problems."
+    },
+    {
+      "t": 2655.74,
+      "text": "Did any clients react negatively?"
+    },
+    {
+      "t": 2658.04,
+      "text": "A few were frustrated at first, but they appreciated our honesty and regular updates."
+    },
+    {
+      "t": 2663.08,
+      "text": "Transparency is always important in business relationships."
+    },
+    {
+      "t": 2666.59,
+      "text": "I completely agree."
+    },
+    {
+      "t": 2668.19,
+      "text": "Excellent."
+    },
+    {
+      "t": 2668.71,
+      "text": "Thank you for the update."
+    },
+    {
+      "t": 2669.97,
+      "text": "Excuse me, may I add something?"
+    },
+    {
+      "t": 2671.99,
+      "text": "Of course."
+    },
+    {
+      "t": 2672.53,
+      "text": "Go ahead."
+    },
+    {
+      "t": 2673.38,
+      "text": "I think departments should communicate more frequently during large projects."
+    },
+    {
+      "t": 2677.36,
+      "text": "What do you mean exactly?"
+    },
+    {
+      "t": 2678.98,
+      "text": "Sometimes marketing, sales, and operations work separately without sharing enough information."
+    },
+    {
+      "t": 2684.19,
+      "text": "That's actually a very good point."
+    },
+    {
+      "t": 2686.17,
+      "text": "Better communication could help us avoid delays and misunderstandings."
+    },
+    {
+      "t": 2689.9,
+      "text": "I agree completely."
+    },
+    {
+      "t": 2691.22,
+      "text": "Maybe we could organize shorter weekly communication meetings."
+    },
+    {
+      "t": 2694.51,
+      "text": "That sounds like a great idea."
+    },
+    {
+      "t": 2696.01,
+      "text": "It wouldn't need to be long."
+    },
+    {
+      "t": 2697.28,
+      "text": "Even 15 minutes could help."
+    },
+    {
+      "t": 2699.58,
+      "text": "That sounds practical and efficient."
+    },
+    {
+      "t": 2701.46,
+      "text": "Great suggestion, Ethan."
+    },
+    {
+      "t": 2702.88,
+      "text": "Thanks."
+    },
+    {
+      "t": 2703.74,
+      "text": "All right, everyone."
+    },
+    {
+      "t": 2704.8,
+      "text": "Let's discuss next month's goals."
+    },
+    {
+      "t": 2707.01,
+      "text": "The company wants to improve customer satisfaction and internal communication."
+    },
+    {
+      "t": 2711.67,
+      "text": "Those are both important priorities."
+    },
+    {
+      "t": 2713.87,
+      "text": "Exactly."
+    },
+    {
+      "t": 2714.75,
+      "text": "We also want to reduce project delays by improving workflow efficiency."
+    },
+    {
+      "t": 2719.2,
+      "text": "That will require stronger teamwork across departments."
+    },
+    {
+      "t": 2722.42,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2723.28,
+      "text": "I have a question about the new workflow system."
+    },
+    {
+      "t": 2725.87,
+      "text": "Sure."
+    },
+    {
+      "t": 2726.49,
+      "text": "Will employees receive training before implementation?"
+    },
+    {
+      "t": 2729.59,
+      "text": "Yes."
+    },
+    {
+      "t": 2730.11,
+      "text": "Training sessions will begin next Monday."
+    },
+    {
+      "t": 2732.47,
+      "text": "Good."
+    },
+    {
+      "t": 2732.97,
+      "text": "That should make the transition easier."
+    },
+    {
+      "t": 2734.84,
+      "text": "We want everyone to feel comfortable using the new system."
+    },
+    {
+      "t": 2737.92,
+      "text": "That's important."
+    },
+    {
+      "t": 2739.08,
+      "text": "Sudden changes can create confusion."
+    },
+    {
+      "t": 2741.38,
+      "text": "Exactly."
+    },
+    {
+      "t": 2742.36,
+      "text": "By the way, do we know when the software upgrade will happen?"
+    },
+    {
+      "t": 2745.43,
+      "text": "IT plans to complete installation by the end of the month."
+    },
+    {
+      "t": 2748.83,
+      "text": "Perfect."
+    },
+    {
+      "t": 2749.57,
+      "text": "We'll also provide technical support during the first few weeks."
+    },
+    {
+      "t": 2752.93,
+      "text": "That's reassuring, especially for employees who aren't very comfortable with technology yet."
+    },
+    {
+      "t": 2758.64,
+      "text": "I know a few people like that."
+    },
+    {
+      "t": 2760.5,
+      "text": "I think every office has them."
+    },
+    {
+      "t": 2762.2,
+      "text": "True."
+    },
+    {
+      "t": 2762.96,
+      "text": "All right, everyone, we still have 20 minutes left."
+    },
+    {
+      "t": 2765.47,
+      "text": "Let's open the floor for questions and ideas."
+    },
+    {
+      "t": 2768.15,
+      "text": "I'd like to suggest something regarding team productivity."
+    },
+    {
+      "t": 2771.17,
+      "text": "Go ahead."
+    },
+    {
+      "t": 2771.99,
+      "text": "I think too many long meetings reduce efficiency sometimes."
+    },
+    {
+      "t": 2775.59,
+      "text": "Interesting point."
+    },
+    {
+      "t": 2776.86,
+      "text": "Some meetings could probably be shorter or handled through email updates instead."
+    },
+    {
+      "t": 2781.1,
+      "text": "Honestly, I agree with that."
+    },
+    {
+      "t": 2782.75,
+      "text": "People lose focus when meetings last too long without clear goals."
+    },
+    {
+      "t": 2786.86,
+      "text": "Very true."
+    },
+    {
+      "t": 2787.92,
+      "text": "Maybe we should create stricter meeting schedules and agendas."
+    },
+    {
+      "t": 2791.18,
+      "text": "That would help everyone stay organized."
+    },
+    {
+      "t": 2793.32,
+      "text": "Exactly."
+    },
+    {
+      "t": 2794.26,
+      "text": "I think shorter meetings with clear action points would improve productivity significantly."
+    },
+    {
+      "t": 2798.93,
+      "text": "Great idea."
+    },
+    {
+      "t": 2799.91,
+      "text": "We should also encourage employees to prepare before meetings."
+    },
+    {
+      "t": 2803.4,
+      "text": "Preparation saves a lot of time."
+    },
+    {
+      "t": 2806.38,
+      "text": "I have another suggestion."
+    },
+    {
+      "t": 2808.14,
+      "text": "Sure."
+    },
+    {
+      "t": 2808.9,
+      "text": "Maybe we could organize monthly team building activities."
+    },
+    {
+      "t": 2811.96,
+      "text": "That sounds fun."
+    },
+    {
+      "t": 2813.19,
+      "text": "Better relationships between coworkers often improve communication and teamwork."
+    },
+    {
+      "t": 2817.69,
+      "text": "I completely agree."
+    },
+    {
+      "t": 2818.99,
+      "text": "What kind of activities are you thinking about?"
+    },
+    {
+      "t": 2821.26,
+      "text": "Maybe group lunches, outdoor events, or problem solving games."
+    },
+    {
+      "t": 2825.64,
+      "text": "Escape rooms could be interesting."
+    },
+    {
+      "t": 2827.54,
+      "text": "Oh, that would actually be really fun."
+    },
+    {
+      "t": 2829.69,
+      "text": "Plus, they require teamwork and communication skills."
+    },
+    {
+      "t": 2832.63,
+      "text": "Exactly."
+    },
+    {
+      "t": 2833.58,
+      "text": "All right, everyone."
+    },
+    {
+      "t": 2834.62,
+      "text": "Before we finish, let's review today's action points."
+    },
+    {
+      "t": 2837.82,
+      "text": "First, the marketing team will redesign the email campaign strategy."
+    },
+    {
+      "t": 2841.93,
+      "text": "Second, departments will begin shorter weekly communication meetings."
+    },
+    {
+      "t": 2845.65,
+      "text": "Third, employee training for the new workflow system starts Monday."
+    },
+    {
+      "t": 2849.74,
+      "text": "And finally, management will discuss ideas for future team-building activities."
+    },
+    {
+      "t": 2854.24,
+      "text": "Perfect summary."
+    },
+    {
+      "t": 2855.32,
+      "text": "Does anyone have final questions before we end today's meeting?"
+    },
+    {
+      "t": 2858.43,
+      "text": "Nothing from me."
+    },
+    {
+      "t": 2859.53,
+      "text": "I'm good, too."
+    },
+    {
+      "t": 2860.48,
+      "text": "All right then."
+    },
+    {
+      "t": 2861.24,
+      "text": "Thank you, everyone, for your time and participation today."
+    },
+    {
+      "t": 2864.32,
+      "text": "Thank you."
+    },
+    {
+      "t": 2864.72,
+      "text": "Thanks, everyone."
+    },
+    {
+      "t": 2866.11,
+      "text": "Great meeting today, Mia."
+    },
+    {
+      "t": 2867.63,
+      "text": "Thanks."
+    },
+    {
+      "t": 2868.23,
+      "text": "I think everything went smoothly."
+    },
+    {
+      "t": 2870.11,
+      "text": "And we actually finished within 60 minutes."
+    },
+    {
+      "t": 2872.69,
+      "text": "That might be the most impressive part."
+    },
+    {
+      "t": 2875.46,
+      "text": "Very true."
+    },
+    {
+      "t": 2876.02,
+      "text": "Honestly, shorter meetings feel much more productive."
+    },
+    {
+      "t": 2879.74,
+      "text": "I agree completely."
+    },
+    {
+      "t": 2881.06,
+      "text": "People stay focused when discussions are organized."
+    },
+    {
+      "t": 2883.85,
+      "text": "Exactly."
+    },
+    {
+      "t": 2884.87,
+      "text": "I also liked hearing ideas from different departments."
+    },
+    {
+      "t": 2887.68,
+      "text": "Same here."
+    },
+    {
+      "t": 2888.62,
+      "text": "Cross-department communication is really important."
+    },
+    {
+      "t": 2891.53,
+      "text": "Definitely."
+    },
+    {
+      "t": 2892.55,
+      "text": "Sometimes teams become too isolated from each other."
+    },
+    {
+      "t": 2895.55,
+      "text": "And that creates misunderstandings later."
+    },
+    {
+      "t": 2897.95,
+      "text": "Exactly."
+    },
+    {
+      "t": 2899.13,
+      "text": "By the way, your suggestion about shorter meetings was excellent."
+    },
+    {
+      "t": 2902.56,
+      "text": "Thanks."
+    },
+    {
+      "t": 2903.22,
+      "text": "I've honestly been thinking about it for months."
+    },
+    {
+      "t": 2906.4,
+      "text": "I could tell."
+    },
+    {
+      "t": 2907.34,
+      "text": "What about your presentation?"
+    },
+    {
+      "t": 2908.46,
+      "text": "You looked very confident today."
+    },
+    {
+      "t": 2910.53,
+      "text": "Really?"
+    },
+    {
+      "t": 2911.13,
+      "text": "I was nervous before speaking."
+    },
+    {
+      "t": 2912.69,
+      "text": "Honestly, nobody could tell."
+    },
+    {
+      "t": 2914.61,
+      "text": "That's good to hear."
+    },
+    {
+      "t": 2915.79,
+      "text": "Your explanations were very clear and professional."
+    },
+    {
+      "t": 2918.42,
+      "text": "Thanks."
+    },
+    {
+      "t": 2918.98,
+      "text": "I practiced a lot last night."
+    },
+    {
+      "t": 2920.72,
+      "text": "Practice definitely helps."
+    },
+    {
+      "t": 2922.52,
+      "text": "It really does."
+    },
+    {
+      "t": 2923.74,
+      "text": "Hey, are you free for lunch now?"
+    },
+    {
+      "t": 2925.39,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2925.95,
+      "text": "I'm starving after that meeting."
+    },
+    {
+      "t": 2928.01,
+      "text": "Same."
+    },
+    {
+      "t": 2928.73,
+      "text": "My brain needs food immediately."
+    },
+    {
+      "t": 2931.63,
+      "text": "Let's invite the others, too."
+    },
+    {
+      "t": 2933.24,
+      "text": "Good idea."
+    },
+    {
+      "t": 2933.76,
+      "text": "Team lunches are always fun."
+    },
+    {
+      "t": 2935.9,
+      "text": "Plus, people communicate more naturally outside formal meetings."
+    },
+    {
+      "t": 2939.37,
+      "text": "That's true."
+    },
+    {
+      "t": 2940.51,
+      "text": "Some of the best ideas happen during casual conversations."
+    },
+    {
+      "t": 2943.98,
+      "text": "Exactly."
+    },
+    {
+      "t": 2944.96,
+      "text": "So where should we go today?"
+    },
+    {
+      "t": 2946.54,
+      "text": "There's a new restaurant near the office everyone's talking about."
+    },
+    {
+      "t": 2949.72,
+      "text": "Perfect."
+    },
+    {
+      "t": 2950.3,
+      "text": "Let's try it."
+    },
+    {
+      "t": 2951.25,
+      "text": "Sounds good."
+    },
+    {
+      "t": 2952.15,
+      "text": "Well, everyone, we hope today's conversation helped you learn useful English for business meetings and office communication."
+    },
+    {
+      "t": 2958.2,
+      "text": "These are practical phrases and expressions you can use at work every day."
+    },
+    {
+      "t": 2962.06,
+      "text": "Try practicing them with friends, co-workers, or even by yourself out loud."
+    },
+    {
+      "t": 2966.49,
+      "text": "The more you practice, the more confident and natural your English will become."
+    },
+    {
+      "t": 2970.5,
+      "text": "Thanks for learning with us today."
+    },
+    {
+      "t": 2972.16,
+      "text": "And we'll see you again next time with more Real English Conversations."
+    },
+    {
+      "t": 2976.05,
+      "text": "Take care, everyone."
+    },
+    {
+      "t": 2977.18,
+      "text": "Bye, everyone."
+    },
+    {
+      "t": 3014.34,
+      "text": "Hello, everyone."
+    },
+    {
+      "t": 3015.49,
+      "text": "Welcome back to our English Conversation Practice Podcast."
+    },
+    {
+      "t": 3019.21,
+      "text": "I'm Ethan."
+    },
+    {
+      "t": 3020.15,
+      "text": "And I'm Chloe."
+    },
+    {
+      "t": 3021.25,
+      "text": "We're very happy you're spending time learning English with us today."
+    },
+    {
+      "t": 3024.8,
+      "text": "On this podcast, we help you improve your English naturally through real conversations and practical workplace situations."
+    },
+    {
+      "t": 3032.45,
+      "text": "That's right."
+    },
+    {
+      "t": 3033.27,
+      "text": "We use simple and clear English so you can speak more confidently at work, during meetings, and in everyday life."
+    },
+    {
+      "t": 3040.63,
+      "text": "And today, we have a very interesting topic for you."
+    },
+    {
+      "t": 3043.71,
+      "text": "Today's topic is business meeting conversations in 60 minutes."
+    },
+    {
+      "t": 3048.19,
+      "text": "We're going to follow a team through one busy hour at the office."
+    },
+    {
+      "t": 3052.2,
+      "text": "During these 60 minutes, they'll prepare for a meeting, discuss problems, share ideas, solve issues, and make important business decisions."
+    },
+    {
+      "t": 3061.07,
+      "text": "So you'll learn many useful office expressions and practical meeting vocabulary."
+    },
+    {
+      "t": 3065.97,
+      "text": "I'll wait, everyone."
+    },
+    {
+      "t": 3066.95,
+      "text": "Let's begin today's conversation practice."
+    },
+    {
+      "t": 3069.64,
+      "text": "8 a.m. Monday morning."
+    },
+    {
+      "t": 3071.52,
+      "text": "Good morning, Ethan."
+    },
+    {
+      "t": 3072.48,
+      "text": "You're here early today."
+    },
+    {
+      "t": 3073.76,
+      "text": "Morning, Chloe."
+    },
+    {
+      "t": 3075.16,
+      "text": "Yeah, I wanted to prepare before the client meeting starts."
+    },
+    {
+      "t": 3078.26,
+      "text": "Smart idea."
+    },
+    {
+      "t": 3079.39,
+      "text": "Today's schedule looks very busy."
+    },
+    {
+      "t": 3081.31,
+      "text": "Definitely."
+    },
+    {
+      "t": 3082.53,
+      "text": "We only have one hour to finalize everything before the client arrives."
+    },
+    {
+      "t": 3086.43,
+      "text": "I know."
+    },
+    {
+      "t": 3086.83,
+      "text": "I've already received three emails from the manager this morning."
+    },
+    {
+      "t": 3090.58,
+      "text": "Same here."
+    },
+    {
+      "t": 3091.42,
+      "text": "Did you finish updating the sales presentation?"
+    },
+    {
+      "t": 3093.92,
+      "text": "Almost."
+    },
+    {
+      "t": 3094.68,
+      "text": "I just need to add the latest customer feedback numbers."
+    },
+    {
+      "t": 3097.99,
+      "text": "Great."
+    },
+    {
+      "t": 3098.51,
+      "text": "The client specifically asked for updated statistics."
+    },
+    {
+      "t": 3101.59,
+      "text": "Exactly."
+    },
+    {
+      "t": 3102.69,
+      "text": "They want to see how customers responded to the new product launch."
+    },
+    {
+      "t": 3106.51,
+      "text": "Honestly, I think the results look pretty good."
+    },
+    {
+      "t": 3109.03,
+      "text": "Me too."
+    },
+    {
+      "t": 3109.98,
+      "text": "Sales increased faster than we expected."
+    },
+    {
+      "t": 3112.58,
+      "text": "That's always good news."
+    },
+    {
+      "t": 3114.18,
+      "text": "Unless the finance team starts asking too many questions."
+    },
+    {
+      "t": 3118.56,
+      "text": "True."
+    },
+    {
+      "t": 3119.3,
+      "text": "They always want detailed explanations for every number."
+    },
+    {
+      "t": 3122.57,
+      "text": "Speaking of finance, did Kevin send the final budget report?"
+    },
+    {
+      "t": 3126.53,
+      "text": "Yes, I received it about 10 minutes ago."
+    },
+    {
+      "t": 3128.97,
+      "text": "Perfect."
+    },
+    {
+      "t": 3129.7,
+      "text": "That saves us a lot of stress."
+    },
+    {
+      "t": 3131.76,
+      "text": "Absolutely."
+    },
+    {
+      "t": 3132.76,
+      "text": "Last week, we almost entered a meeting with incomplete information."
+    },
+    {
+      "t": 3136.23,
+      "text": "Oh yes, that was a disaster."
+    },
+    {
+      "t": 3137.91,
+      "text": "The manager looked so frustrated."
+    },
+    {
+      "t": 3140.65,
+      "text": "Especially when the projector stopped working."
+    },
+    {
+      "t": 3143.44,
+      "text": "Don't remind me."
+    },
+    {
+      "t": 3144.78,
+      "text": "That meeting felt endless."
+    },
+    {
+      "t": 3146.56,
+      "text": "Well, hopefully today goes more smoothly."
+    },
+    {
+      "t": 3149.08,
+      "text": "I hope so too."
+    },
+    {
+      "t": 3150.84,
+      "text": "By the way, have you checked the conference room yet?"
+    },
+    {
+      "t": 3153.71,
+      "text": "Not yet."
+    },
+    {
+      "t": 3154.39,
+      "text": "Why?"
+    },
+    {
+      "t": 3155.15,
+      "text": "I heard another department was using it earlier this morning."
+    },
+    {
+      "t": 3158.49,
+      "text": "Seriously?"
+    },
+    {
+      "t": 3159.46,
+      "text": "Our meeting starts in less than an hour."
+    },
+    {
+      "t": 3161.51,
+      "text": "I know."
+    },
+    {
+      "t": 3162.31,
+      "text": "We should make sure the room is ready."
+    },
+    {
+      "t": 3164.51,
+      "text": "Good idea."
+    },
+    {
+      "t": 3165.26,
+      "text": "Let's go check quickly."
+    },
+    {
+      "t": 3166.7,
+      "text": "Wow."
+    },
+    {
+      "t": 3167.36,
+      "text": "The room is still full of people."
+    },
+    {
+      "t": 3169.6,
+      "text": "Excuse me."
+    },
+    {
+      "t": 3170.44,
+      "text": "Are you almost finished here?"
+    },
+    {
+      "t": 3172.14,
+      "text": "Oh, sorry."
+    },
+    {
+      "t": 3172.9,
+      "text": "We're wrapping up right now."
+    },
+    {
+      "t": 3174.97,
+      "text": "Thanks."
+    },
+    {
+      "t": 3175.49,
+      "text": "We have an important client meeting at 9 a.m. No problem."
+    },
+    {
+      "t": 3178.99,
+      "text": "We'll leave in five minutes."
+    },
+    {
+      "t": 3180.79,
+      "text": "Thank goodness."
+    },
+    {
+      "t": 3181.75,
+      "text": "I was getting nervous."
+    },
+    {
+      "t": 3183.15,
+      "text": "Same here."
+    },
+    {
+      "t": 3184.13,
+      "text": "We still need to set up the laptops and documents."
+    },
+    {
+      "t": 3187.24,
+      "text": "At least the projector's working this time."
+    },
+    {
+      "t": 3189.54,
+      "text": "Let's hope it stays that way."
+    },
+    {
+      "t": 3191.43,
+      "text": "All right, while they finish up, let's review the meeting agenda."
+    },
+    {
+      "t": 3195.02,
+      "text": "Good idea."
+    },
+    {
+      "t": 3195.6,
+      "text": "First, we'll welcome the client and introduce the team."
+    },
+    {
+      "t": 3199.26,
+      "text": "Then we'll present the quarterly sales report."
+    },
+    {
+      "t": 3201.97,
+      "text": "After that, we'll discuss marketing performance and future strategies."
+    },
+    {
+      "t": 3206.19,
+      "text": "And finally, we'll answer questions from the client."
+    },
+    {
+      "t": 3209.06,
+      "text": "Sounds simple enough."
+    },
+    {
+      "t": 3210.62,
+      "text": "Hopefully."
+    },
+    {
+      "t": 3211.44,
+      "text": "Clients always ask unexpected questions."
+    },
+    {
+      "t": 3214.24,
+      "text": "That's true."
+    },
+    {
+      "t": 3215.11,
+      "text": "We should be prepared for anything."
+    },
+    {
+      "t": 3217.05,
+      "text": "Especially questions about project delays."
+    },
+    {
+      "t": 3219.58,
+      "text": "Yeah, the production team is still behind schedule."
+    },
+    {
+      "t": 3222.74,
+      "text": "Do you think the client already knows about the delay?"
+    },
+    {
+      "t": 3225.54,
+      "text": "Probably."
+    },
+    {
+      "t": 3226.53,
+      "text": "They emailed us twice last week asking for updates."
+    },
+    {
+      "t": 3229.85,
+      "text": "That could make today's discussion difficult."
+    },
+    {
+      "t": 3232.29,
+      "text": "Maybe, but honesty is usually the best approach."
+    },
+    {
+      "t": 3235.81,
+      "text": "I agree."
+    },
+    {
+      "t": 3236.28,
+      "text": "It's better to explain the problem clearly than hide it."
+    },
+    {
+      "t": 3239.7,
+      "text": "Exactly."
+    },
+    {
+      "t": 3240.62,
+      "text": "Clients appreciate transparency."
+    },
+    {
+      "t": 3242.96,
+      "text": "All right, the room is finally empty."
+    },
+    {
+      "t": 3244.92,
+      "text": "Let's start setting everything up."
+    },
+    {
+      "t": 3246.61,
+      "text": "I'll arrange the handouts on the table."
+    },
+    {
+      "t": 3248.65,
+      "text": "Great."
+    },
+    {
+      "t": 3249.3,
+      "text": "I'll connect the presentation slides to the projector."
+    },
+    {
+      "t": 3251.84,
+      "text": "Could you also test the speakers?"
+    },
+    {
+      "t": 3254.02,
+      "text": "Sure."
+    },
+    {
+      "t": 3254.48,
+      "text": "We'll need them for the product demonstration video."
+    },
+    {
+      "t": 3257.06,
+      "text": "Thanks."
+    },
+    {
+      "t": 3258.43,
+      "text": "Hmm."
+    },
+    {
+      "t": 3258.53,
+      "text": "The sound seems a little low."
+    },
+    {
+      "t": 3260.51,
+      "text": "Really?"
+    },
+    {
+      "t": 3261.35,
+      "text": "Yeah."
+    },
+    {
+      "t": 3261.79,
+      "text": "Let me adjust the settings quickly."
+    },
+    {
+      "t": 3263.71,
+      "text": "Good catch."
+    },
+    {
+      "t": 3264.63,
+      "text": "Small technical issues can become big problems during meetings."
+    },
+    {
+      "t": 3268.54,
+      "text": "Exactly."
+    },
+    {
+      "t": 3269.64,
+      "text": "All right."
+    },
+    {
+      "t": 3270.46,
+      "text": "I think everything looks ready now."
+    },
+    {
+      "t": 3272.78,
+      "text": "Perfect timing."
+    },
+    {
+      "t": 3273.66,
+      "text": "The manager just arrived."
+    },
+    {
+      "t": 3275.45,
+      "text": "Morning, everyone."
+    },
+    {
+      "t": 3276.45,
+      "text": "Are we ready for the client meetings?"
+    },
+    {
+      "t": 3278.03,
+      "text": "Yes, almost everything is prepared."
+    },
+    {
+      "t": 3280.1,
+      "text": "Great work."
+    },
+    {
+      "t": 3280.88,
+      "text": "We only have 20 minutes left, so let's review the key discussion points quickly."
+    },
+    {
+      "t": 3285.82,
+      "text": "Sure."
+    },
+    {
+      "t": 3286.61,
+      "text": "First, we'll highlight the strong sales growth from last quarter."
+    },
+    {
+      "t": 3290.33,
+      "text": "Right."
+    },
+    {
+      "t": 3290.79,
+      "text": "The numbers improved by nearly 15%."
+    },
+    {
+      "t": 3292.99,
+      "text": "Excellent."
+    },
+    {
+      "t": 3294.53,
+      "text": "That's a strong selling point."
+    },
+    {
+      "t": 3296.38,
+      "text": "We also prepared customer satisfaction reports."
+    },
+    {
+      "t": 3299.44,
+      "text": "Good."
+    },
+    {
+      "t": 3300.02,
+      "text": "The client always focuses heavily on customer experience."
+    },
+    {
+      "t": 3304.04,
+      "text": "Should we mention the shipping delays immediately?"
+    },
+    {
+      "t": 3306.8,
+      "text": "Yes, but carefully."
+    },
+    {
+      "t": 3308.62,
+      "text": "We should explain both the problem and our solution."
+    },
+    {
+      "t": 3311.61,
+      "text": "That makes sense."
+    },
+    {
+      "t": 3313.33,
+      "text": "We don't want the meeting to sound negative."
+    },
+    {
+      "t": 3316.01,
+      "text": "Exactly."
+    },
+    {
+      "t": 3316.93,
+      "text": "Confidence is important during business meetings."
+    },
+    {
+      "t": 3319.84,
+      "text": "Absolutely."
+    },
+    {
+      "t": 3320.94,
+      "text": "One more thing."
+    },
+    {
+      "t": 3321.9,
+      "text": "Please remember to keep your answers short and professional during the Q&A session."
+    },
+    {
+      "t": 3326.77,
+      "text": "Understood."
+    },
+    {
+      "t": 3327.73,
+      "text": "Sometimes long explanations create confusion."
+    },
+    {
+      "t": 3330.99,
+      "text": "especially when clients are short on time."
+    },
+    {
+      "t": 3333.75,
+      "text": "Correct."
+    },
+    {
+      "t": 3334.75,
+      "text": "Excuse me, the clients just arrived downstairs."
+    },
+    {
+      "t": 3337.73,
+      "text": "All right, everyone."
+    },
+    {
+      "t": 3338.82,
+      "text": "Let's stay calm and professional."
+    },
+    {
+      "t": 3341.04,
+      "text": "Good morning, everyone."
+    },
+    {
+      "t": 3342.26,
+      "text": "Welcome to our office."
+    },
+    {
+      "t": 3343.7,
+      "text": "Thank you."
+    },
+    {
+      "t": 3344.22,
+      "text": "It's nice to finally meet everyone in person."
+    },
+    {
+      "t": 3347.32,
+      "text": "Please come in and have a seat."
+    },
+    {
+      "t": 3349.15,
+      "text": "Would anyone like coffee or tea before we begin?"
+    },
+    {
+      "t": 3352.15,
+      "text": "Coffee would be great."
+    },
+    {
+      "t": 3353.15,
+      "text": "Thank you."
+    },
+    {
+      "t": 3353.91,
+      "text": "Of course."
+    },
+    {
+      "t": 3354.95,
+      "text": "All right."
+    },
+    {
+      "t": 3355.57,
+      "text": "Let's begin today's meeting."
+    },
+    {
+      "t": 3357.16,
+      "text": "Thank you all for joining us."
+    },
+    {
+      "t": 3358.75,
+      "text": "We're excited to discuss the project's progress and future opportunities together."
+    },
+    {
+      "t": 3363.49,
+      "text": "First, let's quickly introduce ourselves."
+    },
+    {
+      "t": 3366.15,
+      "text": "I'm Chloe from the marketing department."
+    },
+    {
+      "t": 3368.62,
+      "text": "And I'm Ethan from sales operations."
+    },
+    {
+      "t": 3371.2,
+      "text": "Wonderful."
+    },
+    {
+      "t": 3372.04,
+      "text": "Let's start with the quarterly sales presentation."
+    },
+    {
+      "t": 3374.76,
+      "text": "Ethan."
+    },
+    {
+      "t": 3375.54,
+      "text": "Thank you."
+    },
+    {
+      "t": 3376.64,
+      "text": "Over the past three months, sales performance exceeded our expectations."
+    },
+    {
+      "t": 3380.89,
+      "text": "That's great to hear."
+    },
+    {
+      "t": 3381.75,
+      "text": "Online sales increased significantly after the launch of our new advertising campaign."
+    },
+    {
+      "t": 3386.96,
+      "text": "Which marketing channels performed best?"
+    },
+    {
+      "t": 3389.68,
+      "text": "Short-form video advertisements generated the highest engagement."
+    },
+    {
+      "t": 3393.47,
+      "text": "Interesting."
+    },
+    {
+      "t": 3394.25,
+      "text": "That matches current market trends."
+    },
+    {
+      "t": 3396.41,
+      "text": "Exactly."
+    },
+    {
+      "t": 3397.21,
+      "text": "We also noticed increased customer interaction on social media platforms."
+    },
+    {
+      "t": 3401.49,
+      "text": "Excellent."
+    },
+    {
+      "t": 3402.54,
+      "text": "However, we did face some shipping delays during peak order periods."
+    },
+    {
+      "t": 3406.8,
+      "text": "Yes, we noticed some complaints from customers."
+    },
+    {
+      "t": 3410.14,
+      "text": "We completely understand your concern."
+    },
+    {
+      "t": 3412.52,
+      "text": "The delays were caused by supplier shortages and increased seasonal demand."
+    },
+    {
+      "t": 3417.35,
+      "text": "I see."
+    },
+    {
+      "t": 3417.97,
+      "text": "What steps are you taking to improve the situation?"
+    },
+    {
+      "t": 3421.06,
+      "text": "We're currently expanding warehouse support and improving delivery coordination."
+    },
+    {
+      "t": 3425.8,
+      "text": "We also hired temporary staff to reduce processing times."
+    },
+    {
+      "t": 3429.56,
+      "text": "That sounds reassuring."
+    },
+    {
+      "t": 3431.05,
+      "text": "We expect delivery performance to improve significantly within the next month."
+    },
+    {
+      "t": 3435.61,
+      "text": "Excellent."
+    },
+    {
+      "t": 3436.23,
+      "text": "Communication and transparency are very important to us."
+    },
+    {
+      "t": 3439.69,
+      "text": "We completely agree."
+    },
+    {
+      "t": 3440.89,
+      "text": "Now let's discuss future expansion plans."
+    },
+    {
+      "t": 3444.51,
+      "text": "We're planning to focus more heavily on international markets next year."
+    },
+    {
+      "t": 3448.57,
+      "text": "That's exciting."
+    },
+    {
+      "t": 3449.79,
+      "text": "Which regions are you targeting first?"
+    },
+    {
+      "t": 3452.16,
+      "text": "We're currently researching opportunities in Southeast Asia and Europe."
+    },
+    {
+      "t": 3456.36,
+      "text": "Those markets have strong growth potential right now."
+    },
+    {
+      "t": 3459.33,
+      "text": "Exactly."
+    },
+    {
+      "t": 3460.15,
+      "text": "We believe there's strong demand there."
+    },
+    {
+      "t": 3462.45,
+      "text": "Have you considered local partnerships?"
+    },
+    {
+      "t": 3464.92,
+      "text": "Yes, we're already in discussions with several regional distributors."
+    },
+    {
+      "t": 3468.76,
+      "text": "Very good."
+    },
+    {
+      "t": 3469.6,
+      "text": "That should help market entry significantly."
+    },
+    {
+      "t": 3471.61,
+      "text": "That's our goal."
+    },
+    {
+      "t": 3473.09,
+      "text": "Does anyone have additional questions before we wrap up?"
+    },
+    {
+      "t": 3476.48,
+      "text": "I'd like to ask about the timeline for the next product release."
+    },
+    {
+      "t": 3480.0,
+      "text": "Of course."
+    },
+    {
+      "t": 3480.74,
+      "text": "We're aiming for early September."
+    },
+    {
+      "t": 3483.01,
+      "text": "Great."
+    },
+    {
+      "t": 3483.57,
+      "text": "We'll prepare our marketing schedule accordingly."
+    },
+    {
+      "t": 3486.03,
+      "text": "Wonderful."
+    },
+    {
+      "t": 3486.97,
+      "text": "Thank you everyone for your time today."
+    },
+    {
+      "t": 3489.1,
+      "text": "We appreciate the opportunity to work together."
+    },
+    {
+      "t": 3491.64,
+      "text": "Thank you."
+    },
+    {
+      "t": 3492.36,
+      "text": "This meeting was very productive."
+    },
+    {
+      "t": 3494.43,
+      "text": "We look forward to future collaboration."
+    },
+    {
+      "t": 3496.59,
+      "text": "Well done, Chloe."
+    },
+    {
+      "t": 3497.85,
+      "text": "That meeting went really well."
+    },
+    {
+      "t": 3499.74,
+      "text": "Thanks."
+    },
+    {
+      "t": 3500.56,
+      "text": "Everyone stayed calm and professional."
+    },
+    {
+      "t": 3502.94,
+      "text": "And thankfully, there were no technical disasters this time."
+    },
+    {
+      "t": 3506.55,
+      "text": "Yes."
+    },
+    {
+      "t": 3507.27,
+      "text": "That alone feels like a huge success."
+    },
+    {
+      "t": 3510.03,
+      "text": "I think the clients were happy with our honesty about the delays."
+    },
+    {
+      "t": 3513.26,
+      "text": "Definitely."
+    },
+    {
+      "t": 3514.16,
+      "text": "Clear communication builds trust."
+    },
+    {
+      "t": 3516.62,
+      "text": "Agreed."
+    },
+    {
+      "t": 3517.42,
+      "text": "You also handled the difficult questions very confidently."
+    },
+    {
+      "t": 3520.53,
+      "text": "Thanks."
+    },
+    {
+      "t": 3521.83,
+      "text": "I was nervous at first, honestly."
+    },
+    {
+      "t": 3523.83,
+      "text": "Really?"
+    },
+    {
+      "t": 3524.19,
+      "text": "You looked completely relaxed."
+    },
+    {
+      "t": 3526.41,
+      "text": "That's because I practiced my presentation several times this morning."
+    },
+    {
+      "t": 3529.99,
+      "text": "Preparation makes a huge difference."
+    },
+    {
+      "t": 3532.6,
+      "text": "Absolutely."
+    },
+    {
+      "t": 3533.66,
+      "text": "Well, after that stressful hour, I think we deserve coffee."
+    },
+    {
+      "t": 3537.88,
+      "text": "I completely agree with that idea."
+    },
+    {
+      "t": 3540.11,
+      "text": "Let's grab coffee before the next meeting starts."
+    },
+    {
+      "t": 3543.09,
+      "text": "Wait, there's another meeting today?"
+    },
+    {
+      "t": 3545.09,
+      "text": "Welcome to office life, even."
+    },
+    {
+      "t": 3546.67,
+      "text": "Fair enough."
+    },
+    {
+      "t": 3549.0,
+      "text": "Let's go."
+    },
+    {
+      "t": 3549.86,
+      "text": "All right, everyone."
+    },
+    {
+      "t": 3550.68,
+      "text": "We hope you enjoyed today's English conversation practice about business meeting conversations in 60 minutes."
+    },
+    {
+      "t": 3557.23,
+      "text": "Today, we practiced useful English for presentations, teamwork, client meetings, problem solving, and office communication."
+    },
+    {
+      "t": 3565.06,
+      "text": "These are real expressions you can use in professional situations every day."
+    },
+    {
+      "t": 3569.24,
+      "text": "Remember, confidence comes through regular practice and communication."
+    },
+    {
+      "t": 3573.91,
+      "text": "Keep practicing your English step by step, and don't be afraid to speak during meetings."
+    },
+    {
+      "t": 3578.87,
+      "text": "Thanks so much for learning with us today."
+    },
+    {
+      "t": 3581.38,
+      "text": "We'll see you again in the next English conversation practice session."
+    },
+    {
+      "t": 3585.0,
+      "text": "Take care, everyone."
+    },
+    {
+      "t": 3586.17,
+      "text": "and keep improving your English every single day."
+    }
+  ],
+  "lemmas": [
+    [
+      "good",
+      92
+    ],
+    [
+      "meet",
+      77
+    ],
+    [
+      "everyone",
+      76
+    ],
+    [
+      "today",
+      76
+    ],
+    [
+      "thank",
+      64
+    ],
+    [
+      "meeting",
+      55
+    ],
+    [
+      "exactly",
+      52
+    ],
+    [
+      "english",
+      48
+    ],
+    [
+      "communication",
+      44
+    ],
+    [
+      "idea",
+      40
+    ],
+    [
+      "team",
+      40
+    ],
+    [
+      "morn",
+      40
+    ],
+    [
+      "also",
+      40
+    ],
+    [
+      "client",
+      40
+    ],
+    [
+      "conversation",
+      36
+    ],
+    [
+      "work",
+      36
+    ],
+    [
+      "important",
+      36
+    ],
+    [
+      "time",
+      36
+    ],
+    [
+      "department",
+      34
+    ],
+    [
+      "business",
+      30
+    ],
+    [
+      "sound",
+      30
+    ],
+    [
+      "think",
+      30
+    ],
+    [
+      "next",
+      30
+    ],
+    [
+      "market",
+      30
+    ],
+    [
+      "great",
+      30
+    ],
+    [
+      "definitely",
+      29
+    ],
+    [
+      "practice",
+      28
+    ],
+    [
+      "want",
+      28
+    ],
+    [
+      "customer",
+      28
+    ],
+    [
+      "agree",
+      28
+    ],
+    [
+      "help",
+      28
+    ],
+    [
+      "minut",
+      26
+    ],
+    [
+      "discuss",
+      26
+    ],
+    [
+      "question",
+      26
+    ],
+    [
+      "start",
+      26
+    ],
+    [
+      "updat",
+      26
+    ],
+    [
+      "new",
+      26
+    ],
+    [
+      "delay",
+      26
+    ],
+    [
+      "us",
+      24
+    ],
+    [
+      "office",
+      24
+    ],
+    [
+      "still",
+      24
+    ],
+    [
+      "need",
+      24
+    ],
+    [
+      "go",
+      24
+    ],
+    [
+      "first",
+      24
+    ],
+    [
+      "project",
+      24
+    ],
+    [
+      "sal",
+      24
+    ],
+    [
+      "professional",
+      22
+    ],
+    [
+      "absolutely",
+      22
+    ],
+    [
+      "look",
+      22
+    ],
+    [
+      "true",
+      22
+    ],
+    [
+      "completely",
+      22
+    ],
+    [
+      "problem",
+      21
+    ],
+    [
+      "learn",
+      20
+    ],
+    [
+      "person",
+      20
+    ],
+    [
+      "excellent",
+      20
+    ],
+    [
+      "improv",
+      20
+    ],
+    [
+      "feel",
+      20
+    ],
+    [
+      "begin",
+      18
+    ],
+    [
+      "presentation",
+      18
+    ],
+    [
+      "honestly",
+      18
+    ],
+    [
+      "increas",
+      18
+    ],
+    [
+      "speak",
+      17
+    ],
+    [
+      "ethan",
+      17
+    ],
+    [
+      "welcome",
+      16
+    ],
+    [
+      "improve",
+      16
+    ],
+    [
+      "situation",
+      16
+    ],
+    [
+      "happen",
+      16
+    ],
+    [
+      "alway",
+      16
+    ],
+    [
+      "clear",
+      16
+    ],
+    [
+      "every",
+      16
+    ],
+    [
+      "keep",
+      16
+    ],
+    [
+      "know",
+      16
+    ],
+    [
+      "month",
+      16
+    ],
+    [
+      "shorter",
+      16
+    ],
+    [
+      "practic",
+      16
+    ],
+    [
+      "strong",
+      16
+    ],
+    [
+      "mak",
+      15
+    ],
+    [
+      "perfect",
+      15
+    ],
+    [
+      "hear",
+      14
+    ],
+    [
+      "ask",
+      14
+    ],
+    [
+      "prepare",
+      14
+    ],
+    [
+      "management",
+      14
+    ],
+    [
+      "finish",
+      14
+    ],
+    [
+      "almost",
+      14
+    ],
+    [
+      "maybe",
+      14
+    ],
+    [
+      "especially",
+      14
+    ],
+    [
+      "room",
+      14
+    ],
+    [
+      "sure",
+      14
+    ],
+    [
+      "coffee",
+      14
+    ],
+    [
+      "goal",
+      14
+    ],
+    [
+      "campaign",
+      14
+    ],
+    [
+      "email",
+      14
+    ],
+    [
+      "issu",
+      14
+    ],
+    [
+      "sometim",
+      14
+    ],
+    [
+      "employe",
+      14
+    ],
+    [
+      "make",
+      14
+    ],
+    [
+      "last",
+      14
+    ],
+    [
+      "day",
+      14
+    ],
+    [
+      "session",
+      12
+    ],
+    [
+      "topic",
+      12
+    ],
+    [
+      "use",
+      12
+    ],
+    [
+      "join",
+      12
+    ],
+    [
+      "prepar",
+      12
+    ],
+    [
+      "review",
+      12
+    ],
+    [
+      "lot",
+      12
+    ],
+    [
+      "interest",
+      12
+    ],
+    [
+      "however",
+      12
+    ],
+    [
+      "long",
+      12
+    ],
+    [
+      "point",
+      12
+    ],
+    [
+      "way",
+      12
+    ],
+    [
+      "another",
+      12
+    ],
+    [
+      "future",
+      12
+    ],
+    [
+      "everyth",
+      12
+    ],
+    [
+      "chloe",
+      12
+    ],
+    [
+      "one",
+      12
+    ],
+    [
+      "hour",
+      12
+    ],
+    [
+      "expect",
+      12
+    ],
+    [
+      "manager",
+      12
+    ],
+    [
+      "useful",
+      10
+    ],
+    [
+      "much",
+      10
+    ],
+    [
+      "explain",
+      10
+    ],
+    [
+      "schedul",
+      10
+    ],
+    [
+      "progress",
+      10
+    ],
+    [
+      "course",
+      10
+    ],
+    [
+      "engagement",
+      10
+    ],
+    [
+      "video",
+      10
+    ],
+    [
+      "notic",
+      10
+    ],
+    [
+      "performance",
+      10
+    ],
+    [
+      "plan",
+      10
+    ],
+    [
+      "focus",
+      10
+    ],
+    [
+      "product",
+      10
+    ],
+    [
+      "practical",
+      10
+    ],
+    [
+      "suggestion",
+      10
+    ],
+    [
+      "reduce",
+      10
+    ],
+    [
+      "system",
+      10
+    ],
+    [
+      "create",
+      10
+    ],
+    [
+      "support",
+      10
+    ],
+    [
+      "week",
+      10
+    ],
+    [
+      "productivity",
+      10
+    ],
+    [
+      "many",
+      10
+    ],
+    [
+      "stay",
+      10
+    ],
+    [
+      "significantly",
+      10
+    ],
+    [
+      "finally",
+      10
+    ],
+    [
+      "discussion",
+      10
+    ],
+    [
+      "hope",
+      10
+    ],
+    [
+      "see",
+      10
+    ],
+    [
+      "arriv",
+      10
+    ],
+    [
+      "schedule",
+      10
+    ],
+    [
+      "report",
+      10
+    ],
+    [
+      "enjoy",
+      10
+    ],
+    [
+      "back",
+      8
+    ],
+    [
+      "happy",
+      8
+    ],
+    [
+      "natural",
+      8
+    ],
+    [
+      "ready",
+      8
+    ],
+    [
+      "even",
+      8
+    ],
+    [
+      "nervous",
+      8
+    ],
+    [
+      "try",
+      8
+    ],
+    [
+      "already",
+      8
+    ],
+    [
+      "preparation",
+      8
+    ],
+    [
+      "chang",
+      8
+    ],
+    [
+      "thing",
+      8
+    ],
+    [
+      "ther",
+      8
+    ],
+    [
+      "information",
+      8
+    ],
+    [
+      "short",
+      8
+    ],
+    [
+      "research",
+      8
+    ],
+    [
+      "quarter",
+      8
+    ],
+    [
+      "regular",
+      8
+    ],
+    [
+      "transparency",
+      8
+    ],
+    [
+      "enough",
+      8
+    ],
+    [
+      "company",
+      8
+    ],
+    [
+      "teamwork",
+      8
+    ],
+    [
+      "train",
+      8
+    ],
+    [
+      "technical",
+      8
+    ],
+    [
+      "yet",
+      8
+    ],
+    [
+      "anyone",
+      8
+    ],
+    [
+      "take",
+      8
+    ],
+    [
+      "several",
+      8
+    ],
+    [
+      "wonderful",
+      8
+    ],
+    [
+      "currently",
+      8
+    ],
+    [
+      "busy",
+      8
+    ],
+    [
+      "excit",
+      8
+    ],
+    [
+      "quickly",
+      8
+    ],
+    [
+      "hello",
+      6
+    ],
+    [
+      "mia",
+      6
+    ],
+    [
+      "going",
+      6
+    ],
+    [
+      "youll",
+      6
+    ],
+    [
+      "phras",
+      6
+    ],
+    [
+      "present",
+      6
+    ],
+    [
+      "strategy",
+      6
+    ],
+    [
+      "pretty",
+      6
+    ],
+    [
+      "heard",
+      6
+    ],
+    [
+      "stressful",
+      6
+    ],
+    [
+      "final",
+      6
+    ],
+    [
+      "simple",
+      6
+    ],
+    [
+      "add",
+      6
+    ],
+    [
+      "usually",
+      6
+    ],
+    [
+      "faster",
+      6
+    ],
+    [
+      "conference",
+      6
+    ],
+    [
+      "update",
+      6
+    ],
+    [
+      "social",
+      6
+    ],
+    [
+      "media",
+      6
+    ],
+    [
+      "perform",
+      6
+    ],
+    [
+      "sense",
+      6
+    ],
+    [
+      "content",
+      6
+    ],
+    [
+      "respond",
+      6
+    ],
+    [
+      "overall",
+      6
+    ],
+    [
+      "two",
+      6
+    ],
+    [
+      "caus",
+      6
+    ],
+    [
+      "carefully",
+      6
+    ],
+    [
+      "honesty",
+      6
+    ],
+    [
+      "excuse",
+      6
+    ],
+    [
+      "ahead",
+      6
+    ],
+    [
+      "communicate",
+      6
+    ],
+    [
+      "organize",
+      6
+    ],
+    [
+      "satisfaction",
+      6
+    ],
+    [
+      "workflow",
+      6
+    ],
+    [
+      "efficiency",
+      6
+    ],
+    [
+      "monday",
+      6
+    ],
+    [
+      "comfortable",
+      6
+    ],
+    [
+      "end",
+      6
+    ],
+    [
+      "leave",
+      6
+    ],
+    [
+      "probably",
+      6
+    ],
+    [
+      "handl",
+      6
+    ],
+    [
+      "agenda",
+      6
+    ],
+    [
+      "organiz",
+      6
+    ],
+    [
+      "activiti",
+      6
+    ],
+    [
+      "fun",
+      6
+    ],
+    [
+      "kind",
+      6
+    ],
+    [
+      "lunch",
+      6
+    ],
+    [
+      "oh",
+      6
+    ],
+    [
+      "employee",
+      6
+    ],
+    [
+      "smoothly",
+      6
+    ],
+    [
+      "productive",
+      6
+    ],
+    [
+      "become",
+      6
+    ],
+    [
+      "confident",
+      6
+    ],
+    [
+      "explanation",
+      6
+    ],
+    [
+      "immediately",
+      6
+    ],
+    [
+      "expression",
+      6
+    ],
+    [
+      "real",
+      6
+    ],
+    [
+      "care",
+      6
+    ],
+    [
+      "podcast",
+      6
+    ],
+    [
+      "decision",
+      6
+    ],
+    [
+      "early",
+      6
+    ],
+    [
+      "agre",
+      6
+    ],
+    [
+      "traffic",
+      6
+    ],
+    [
+      "result",
+      6
+    ],
+    [
+      "challeng",
+      6
+    ],
+    [
+      "launch",
+      6
+    ],
+    [
+      "finance",
+      6
+    ],
+    [
+      "additional",
+      6
+    ],
+    [
+      "appreciate",
+      6
+    ],
+    [
+      "hir",
+      6
+    ],
+    [
+      "workplace",
+      6
+    ],
+    [
+      "continue",
+      6
+    ],
+    [
+      "stress",
+      6
+    ],
+    [
+      "consider",
+      6
+    ],
+    [
+      "opportuniti",
+      6
+    ],
+    [
+      "growth",
+      6
+    ],
+    [
+      "wrap",
+      6
+    ],
+    [
+      "please",
+      6
+    ],
+    [
+      "answer",
+      6
+    ],
+    [
+      "life",
+      6
+    ],
+    [
+      "remember",
+      6
+    ],
+    [
+      "number",
+      6
+    ],
+    [
+      "projector",
+      6
+    ],
+    [
+      "tim",
+      6
+    ],
+    [
+      "step",
+      6
+    ],
+    [
+      "listen",
+      5
+    ],
+    [
+      "realistic",
+      4
+    ],
+    [
+      "shar",
+      4
+    ],
+    [
+      "understand",
+      4
+    ],
+    [
+      "earlier",
+      4
+    ],
+    [
+      "ceo",
+      4
+    ],
+    [
+      "worry",
+      4
+    ],
+    [
+      "twice",
+      4
+    ],
+    [
+      "less",
+      4
+    ],
+    [
+      "slid",
+      4
+    ],
+    [
+      "mean",
+      4
+    ],
+    [
+      "talk",
+      4
+    ],
+    [
+      "nam",
+      4
+    ],
+    [
+      "grab",
+      4
+    ],
+    [
+      "though",
+      4
+    ],
+    [
+      "energy",
+      4
+    ],
+    [
+      "past",
+      4
+    ],
+    [
+      "online",
+      4
+    ],
+    [
+      "contribut",
+      4
+    ],
+    [
+      "short-form",
+      4
+    ],
+    [
+      "stronger",
+      4
+    ],
+    [
+      "interaction",
+      4
+    ],
+    [
+      "platform",
+      4
+    ],
+    [
+      "generat",
+      4
+    ],
+    [
+      "highest",
+      4
+    ],
+    [
+      "positively",
+      4
+    ],
+    [
+      "believe",
+      4
+    ],
+    [
+      "messag",
+      4
+    ],
+    [
+      "formal",
+      4
+    ],
+    [
+      "suggest",
+      4
+    ],
+    [
+      "redesign",
+      4
+    ],
+    [
+      "smart",
+      4
+    ],
+    [
+      "approach",
+      4
+    ],
+    [
+      "move",
+      4
+    ],
+    [
+      "fac",
+      4
+    ],
+    [
+      "major",
+      4
+    ],
+    [
+      "mostly",
+      4
+    ],
+    [
+      "monitor",
+      4
+    ],
+    [
+      "inform",
+      4
+    ],
+    [
+      "avoid",
+      4
+    ],
+    [
+      "frustrat",
+      4
+    ],
+    [
+      "relationship",
+      4
+    ],
+    [
+      "someth",
+      4
+    ],
+    [
+      "large",
+      4
+    ],
+    [
+      "operation",
+      4
+    ],
+    [
+      "without",
+      4
+    ],
+    [
+      "misunderstanding",
+      4
+    ],
+    [
+      "weekly",
+      4
+    ],
+    [
+      "efficient",
+      4
+    ],
+    [
+      "require",
+      4
+    ],
+    [
+      "easier",
+      4
+    ],
+    [
+      "using",
+      4
+    ],
+    [
+      "confusion",
+      4
+    ],
+    [
+      "software",
+      4
+    ],
+    [
+      "provide",
+      4
+    ],
+    [
+      "reassur",
+      4
+    ],
+    [
+      "open",
+      4
+    ],
+    [
+      "regard",
+      4
+    ],
+    [
+      "action",
+      4
+    ],
+    [
+      "encourage",
+      4
+    ],
+    [
+      "sav",
+      4
+    ],
+    [
+      "often",
+      4
+    ],
+    [
+      "plus",
+      4
+    ],
+    [
+      "skill",
+      4
+    ],
+    [
+      "build",
+      4
+    ],
+    [
+      "noth",
+      4
+    ],
+    [
+      "participation",
+      4
+    ],
+    [
+      "within",
+      4
+    ],
+    [
+      "impressive",
+      4
+    ],
+    [
+      "part",
+      4
+    ],
+    [
+      "tell",
+      4
+    ],
+    [
+      "naturally",
+      4
+    ],
+    [
+      "near",
+      4
+    ],
+    [
+      "friend",
+      4
+    ],
+    [
+      "loud",
+      4
+    ],
+    [
+      "ryan",
+      4
+    ],
+    [
+      "solve",
+      4
+    ],
+    [
+      "share",
+      4
+    ],
+    [
+      "deadlin",
+      4
+    ],
+    [
+      "follow",
+      4
+    ],
+    [
+      "easily",
+      4
+    ],
+    [
+      "print",
+      4
+    ],
+    [
+      "handout",
+      4
+    ],
+    [
+      "least",
+      4
+    ],
+    [
+      "get",
+      4
+    ],
+    [
+      "face",
+      4
+    ],
+    [
+      "coordination",
+      4
+    ],
+    [
+      "latest",
+      4
+    ],
+    [
+      "success",
+      4
+    ],
+    [
+      "advertisement",
+      4
+    ],
+    [
+      "partnership",
+      4
+    ],
+    [
+      "difficulti",
+      4
+    ],
+    [
+      "pressure",
+      4
+    ],
+    [
+      "exceed",
+      4
+    ],
+    [
+      "budget",
+      4
+    ],
+    [
+      "spend",
+      4
+    ],
+    [
+      "behind",
+      4
+    ],
+    [
+      "serious",
+      4
+    ],
+    [
+      "solution",
+      4
+    ],
+    [
+      "affect",
+      4
+    ],
+    [
+      "clearly",
+      4
+    ],
+    [
+      "timeline",
+      4
+    ],
+    [
+      "detail",
+      4
+    ],
+    [
+      "afternoon",
+      4
+    ],
+    [
+      "break",
+      4
+    ],
+    [
+      "recently",
+      4
+    ],
+    [
+      "adjust",
+      4
+    ],
+    [
+      "tak",
+      4
+    ],
+    [
+      "leader",
+      4
+    ],
+    [
+      "lead",
+      4
+    ],
+    [
+      "concern",
+      4
+    ],
+    [
+      "temporary",
+      4
+    ],
+    [
+      "staff",
+      4
+    ],
+    [
+      "period",
+      4
+    ],
+    [
+      "expand",
+      4
+    ],
+    [
+      "international",
+      4
+    ],
+    [
+      "europe",
+      4
+    ],
+    [
+      "asia",
+      4
+    ],
+    [
+      "local",
+      4
+    ],
+    [
+      "supplier",
+      4
+    ],
+    [
+      "collaboration",
+      4
+    ],
+    [
+      "send",
+      4
+    ],
+    [
+      "seem",
+      4
+    ],
+    [
+      "difference",
+      4
+    ],
+    [
+      "full",
+      4
+    ],
+    [
+      "confidently",
+      4
+    ],
+    [
+      "wait",
+      4
+    ],
+    [
+      "receiv",
+      4
+    ],
+    [
+      "three",
+      4
+    ],
+    [
+      "disaster",
+      4
+    ],
+    [
+      "hopefully",
+      4
+    ],
+    [
+      "check",
+      4
+    ],
+    [
+      "set",
+      4
+    ],
+    [
+      "introduce",
+      4
+    ],
+    [
+      "quarterly",
+      4
+    ],
+    [
+      "difficult",
+      4
+    ],
+    [
+      "heavily",
+      4
+    ],
+    [
+      "ship",
+      4
+    ],
+    [
+      "confidence",
+      4
+    ],
+    [
+      "calm",
+      4
+    ],
+    [
+      "together",
+      4
+    ],
+    [
+      "demand",
+      4
+    ],
+    [
+      "delivery",
+      4
+    ],
+    [
+      "huge",
+      4
+    ],
+    [
+      "minute",
+      3
+    ],
+    [
+      "coworker",
+      3
+    ],
+    [
+      "co-worker",
+      3
+    ],
+    [
+      "solv",
+      3
+    ],
+    [
+      "place",
+      2
+    ],
+    [
+      "opinion",
+      2
+    ],
+    [
+      "easy",
+      2
+    ],
+    [
+      "usual",
+      2
+    ],
+    [
+      "habit",
+      2
+    ],
+    [
+      "slide",
+      2
+    ],
+    [
+      "wrong",
+      2
+    ],
+    [
+      "fewer",
+      2
+    ],
+    [
+      "word",
+      2
+    ],
+    [
+      "visual",
+      2
+    ],
+    [
+      "chart",
+      2
+    ],
+    [
+      "limit",
+      2
+    ],
+    [
+      "harder",
+      2
+    ],
+    [
+      "turn",
+      2
+    ],
+    [
+      "speech",
+      2
+    ],
+    [
+      "extra",
+      2
+    ],
+    [
+      "since",
+      2
+    ],
+    [
+      "away",
+      2
+    ],
+    [
+      "increase",
+      2
+    ],
+    [
+      "mainly",
+      2
+    ],
+    [
+      "instagram",
+      2
+    ],
+    [
+      "audience",
+      2
+    ],
+    [
+      "extremely",
+      2
+    ],
+    [
+      "popular",
+      2
+    ],
+    [
+      "behind-the-scen",
+      2
+    ],
+    [
+      "valuable",
+      2
+    ],
+    [
+      "drop",
+      2
+    ],
+    [
+      "slightly",
+      2
+    ],
+    [
+      "prefer",
+      2
+    ],
+    [
+      "personal",
+      2
+    ],
+    [
+      "wed",
+      2
+    ],
+    [
+      "format",
+      2
+    ],
+    [
+      "personaliz",
+      2
+    ],
+    [
+      "supply",
+      2
+    ],
+    [
+      "chain",
+      2
+    ],
+    [
+      "late",
+      2
+    ],
+    [
+      "deliveri",
+      2
+    ],
+    [
+      "resolv",
+      2
+    ],
+    [
+      "bigger",
+      2
+    ],
+    [
+      "react",
+      2
+    ],
+    [
+      "negatively",
+      2
+    ],
+    [
+      "appreciat",
+      2
+    ],
+    [
+      "frequently",
+      2
+    ],
+    [
+      "separately",
+      2
+    ],
+    [
+      "internal",
+      2
+    ],
+    [
+      "prioriti",
+      2
+    ],
+    [
+      "across",
+      2
+    ],
+    [
+      "receive",
+      2
+    ],
+    [
+      "implementation",
+      2
+    ],
+    [
+      "transition",
+      2
+    ],
+    [
+      "sudden",
+      2
+    ],
+    [
+      "upgrade",
+      2
+    ],
+    [
+      "complete",
+      2
+    ],
+    [
+      "installation",
+      2
+    ],
+    [
+      "technology",
+      2
+    ],
+    [
+      "floor",
+      2
+    ],
+    [
+      "instead",
+      2
+    ],
+    [
+      "lose",
+      2
+    ],
+    [
+      "stricter",
+      2
+    ],
+    [
+      "monthly",
+      2
+    ],
+    [
+      "team-build",
+      2
+    ],
+    [
+      "group",
+      2
+    ],
+    [
+      "outdoor",
+      2
+    ],
+    [
+      "event",
+      2
+    ],
+    [
+      "gam",
+      2
+    ],
+    [
+      "escape",
+      2
+    ],
+    [
+      "second",
+      2
+    ],
+    [
+      "third",
+      2
+    ],
+    [
+      "summary",
+      2
+    ],
+    [
+      "lik",
+      2
+    ],
+    [
+      "different",
+      2
+    ],
+    [
+      "cross-department",
+      2
+    ],
+    [
+      "isolat",
+      2
+    ],
+    [
+      "creat",
+      2
+    ],
+    [
+      "later",
+      2
+    ],
+    [
+      "nobody",
+      2
+    ],
+    [
+      "night",
+      2
+    ],
+    [
+      "hey",
+      2
+    ],
+    [
+      "free",
+      2
+    ],
+    [
+      "starv",
+      2
+    ],
+    [
+      "brain",
+      2
+    ],
+    [
+      "food",
+      2
+    ],
+    [
+      "invite",
+      2
+    ],
+    [
+      "outside",
+      2
+    ],
+    [
+      "casual",
+      2
+    ],
+    [
+      "restaurant",
+      2
+    ],
+    [
+      "everyon",
+      2
+    ],
+    [
+      "bye",
+      2
+    ],
+    [
+      "lesson",
+      2
+    ],
+    [
+      "worker",
+      2
+    ],
+    [
+      "compani",
+      2
+    ],
+    [
+      "give",
+      2
+    ],
+    [
+      "typical",
+      2
+    ],
+    [
+      "one-hour",
+      2
+    ],
+    [
+      "disagreement",
+      2
+    ],
+    [
+      "professionally",
+      2
+    ],
+    [
+      "along",
+      2
+    ],
+    [
+      "responsible",
+      2
+    ],
+    [
+      "copi",
+      2
+    ],
+    [
+      "water",
+      2
+    ],
+    [
+      "commute",
+      2
+    ],
+    [
+      "surprisingly",
+      2
+    ],
+    [
+      "smooth",
+      2
+    ],
+    [
+      "lucky",
+      2
+    ],
+    [
+      "bad",
+      2
+    ],
+    [
+      "terrible",
+      2
+    ],
+    [
+      "construction",
+      2
+    ],
+    [
+      "highway",
+      2
+    ],
+    [
+      "spent",
+      2
+    ],
+    [
+      "exhaust",
+      2
+    ],
+    [
+      "matter",
+      2
+    ],
+    [
+      "achiev",
+      2
+    ],
+    [
+      "compar",
+      2
+    ],
+    [
+      "website",
+      2
+    ],
+    [
+      "grew",
+      2
+    ],
+    [
+      "rapidly",
+      2
+    ],
+    [
+      "influencer",
+      2
+    ],
+    [
+      "authentic",
+      2
+    ],
+    [
+      "live",
+      2
+    ],
+    [
+      "chat",
+      2
+    ],
+    [
+      "respons",
+      2
+    ],
+    [
+      "tight",
+      2
+    ],
+    [
+      "handle",
+      2
+    ],
+    [
+      "daily",
+      2
+    ],
+    [
+      "track",
+      2
+    ],
+    [
+      "became",
+      2
+    ],
+    [
+      "financial",
+      2
+    ],
+    [
+      "stable",
+      2
+    ],
+    [
+      "development",
+      2
+    ],
+    [
+      "around",
+      2
+    ],
+    [
+      "ideal",
+      2
+    ],
+    [
+      "produc",
+      2
+    ],
+    [
+      "strategic",
+      2
+    ],
+    [
+      "investment",
+      2
+    ],
+    [
+      "necessary",
+      2
+    ],
+    [
+      "expens",
+      2
+    ],
+    [
+      "unnecessary",
+      2
+    ],
+    [
+      "travel",
+      2
+    ],
+    [
+      "cost",
+      2
+    ],
+    [
+      "virtual",
+      2
+    ],
+    [
+      "save",
+      2
+    ],
+    [
+      "money",
+      2
+    ],
+    [
+      "wilson",
+      2
+    ],
+    [
+      "encounter",
+      2
+    ],
+    [
+      "integration",
+      2
+    ],
+    [
+      "approximately",
+      2
+    ],
+    [
+      "likely",
+      2
+    ],
+    [
+      "officially",
+      2
+    ],
+    [
+      "revis",
+      2
+    ],
+    [
+      "lately",
+      2
+    ],
+    [
+      "manageable",
+      2
+    ],
+    [
+      "job",
+      2
+    ],
+    [
+      "overwhelm",
+      2
+    ],
+    [
+      "mentor",
+      2
+    ],
+    [
+      "congratulation",
+      2
+    ],
+    [
+      "recent",
+      2
+    ],
+    [
+      "promotion",
+      2
+    ],
+    [
+      "responsibiliti",
+      2
+    ],
+    [
+      "imagine",
+      2
+    ],
+    [
+      "attend",
+      2
+    ],
+    [
+      "miss",
+      2
+    ],
+    [
+      "quiet",
+      2
+    ],
+    [
+      "succe",
+      2
+    ],
+    [
+      "attitude",
+      2
+    ],
+    [
+      "item",
+      2
+    ],
+    [
+      "workload",
+      2
+    ],
+    [
+      "overtime",
+      2
+    ],
+    [
+      "level",
+      2
+    ],
+    [
+      "burnout",
+      2
+    ],
+    [
+      "morale",
+      2
+    ],
+    [
+      "redistribute",
+      2
+    ],
+    [
+      "task",
+      2
+    ],
+    [
+      "evenly",
+      2
+    ],
+    [
+      "issue",
+      2
+    ],
+    [
+      "uncomfortable",
+      2
+    ],
+    [
+      "environment",
+      2
+    ],
+    [
+      "member",
+      2
+    ],
+    [
+      "wellness",
+      2
+    ],
+    [
+      "workshop",
+      2
+    ],
+    [
+      "mental",
+      2
+    ],
+    [
+      "health",
+      2
+    ],
+    [
+      "significant",
+      2
+    ],
+    [
+      "cultural",
+      2
+    ],
+    [
+      "differenc",
+      2
+    ],
+    [
+      "competition",
+      2
+    ],
+    [
+      "factor",
+      2
+    ],
+    [
+      "sustainability",
+      2
+    ],
+    [
+      "environmental",
+      2
+    ],
+    [
+      "responsibility",
+      2
+    ],
+    [
+      "reduc",
+      2
+    ],
+    [
+      "paper",
+      2
+    ],
+    [
+      "waste",
+      2
+    ],
+    [
+      "initiativ",
+      2
+    ],
+    [
+      "eco-friendly",
+      2
+    ],
+    [
+      "strengthen",
+      2
+    ],
+    [
+      "reputation",
+      2
+    ],
+    [
+      "comment",
+      2
+    ],
+    [
+      "remote",
+      2
+    ],
+    [
+      "polici",
+      2
+    ],
+    [
+      "home",
+      2
+    ],
+    [
+      "part-time",
+      2
+    ],
+    [
+      "moment",
+      2
+    ],
+    [
+      "believ",
+      2
+    ],
+    [
+      "flexible",
+      2
+    ],
+    [
+      "in-person",
+      2
+    ],
+    [
+      "face-to-face",
+      2
+    ],
+    [
+      "remain",
+      2
+    ],
+    [
+      "hard",
+      2
+    ],
+    [
+      "friday",
+      2
+    ],
+    [
+      "forget",
+      2
+    ],
+    [
+      "engag",
+      2
+    ],
+    [
+      "hardest",
+      2
+    ],
+    [
+      "manag",
+      2
+    ],
+    [
+      "brainstorm",
+      2
+    ],
+    [
+      "essential",
+      2
+    ],
+    [
+      "inbox",
+      2
+    ],
+    [
+      "mine",
+      2
+    ],
+    [
+      "never",
+      2
+    ],
+    [
+      "slow",
+      2
+    ],
+    [
+      "becom",
+      2
+    ],
+    [
+      "repeat",
+      2
+    ],
+    [
+      "classmat",
+      2
+    ],
+    [
+      "goodbye",
+      2
+    ],
+    [
+      "everyday",
+      2
+    ],
+    [
+      "theyll",
+      2
+    ],
+    [
+      "vocabulary",
+      2
+    ],
+    [
+      "finalize",
+      2
+    ],
+    [
+      "feedback",
+      2
+    ],
+    [
+      "specifically",
+      2
+    ],
+    [
+      "statistic",
+      2
+    ],
+    [
+      "unless",
+      2
+    ],
+    [
+      "kevin",
+      2
+    ],
+    [
+      "ago",
+      2
+    ],
+    [
+      "enter",
+      2
+    ],
+    [
+      "incomplete",
+      2
+    ],
+    [
+      "stop",
+      2
+    ],
+    [
+      "remind",
+      2
+    ],
+    [
+      "endless",
+      2
+    ],
+    [
+      "seriously",
+      2
+    ],
+    [
+      "wow",
+      2
+    ],
+    [
+      "sorry",
+      2
+    ],
+    [
+      "five",
+      2
+    ],
+    [
+      "goodness",
+      2
+    ],
+    [
+      "laptop",
+      2
+    ],
+    [
+      "document",
+      2
+    ],
+    [
+      "strategi",
+      2
+    ],
+    [
+      "unexpect",
+      2
+    ],
+    [
+      "anyth",
+      2
+    ],
+    [
+      "production",
+      2
+    ],
+    [
+      "hide",
+      2
+    ],
+    [
+      "empty",
+      2
+    ],
+    [
+      "arrange",
+      2
+    ],
+    [
+      "table",
+      2
+    ],
+    [
+      "connect",
+      2
+    ],
+    [
+      "test",
+      2
+    ],
+    [
+      "speaker",
+      2
+    ],
+    [
+      "demonstration",
+      2
+    ],
+    [
+      "little",
+      2
+    ],
+    [
+      "low",
+      2
+    ],
+    [
+      "let",
+      2
+    ],
+    [
+      "setting",
+      2
+    ],
+    [
+      "catch",
+      2
+    ],
+    [
+      "small",
+      2
+    ],
+    [
+      "big",
+      2
+    ],
+    [
+      "key",
+      2
+    ],
+    [
+      "highlight",
+      2
+    ],
+    [
+      "nearly",
+      2
+    ],
+    [
+      "sell",
+      2
+    ],
+    [
+      "experience",
+      2
+    ],
+    [
+      "mention",
+      2
+    ],
+    [
+      "negative",
+      2
+    ],
+    [
+      "understood",
+      2
+    ],
+    [
+      "correct",
+      2
+    ],
+    [
+      "downstair",
+      2
+    ],
+    [
+      "nice",
+      2
+    ],
+    [
+      "come",
+      2
+    ],
+    [
+      "seat",
+      2
+    ],
+    [
+      "tea",
+      2
+    ],
+    [
+      "expectation",
+      2
+    ],
+    [
+      "advertis",
+      2
+    ],
+    [
+      "channel",
+      2
+    ],
+    [
+      "match",
+      2
+    ],
+    [
+      "current",
+      2
+    ],
+    [
+      "trend",
+      2
+    ],
+    [
+      "peak",
+      2
+    ],
+    [
+      "order",
+      2
+    ],
+    [
+      "complaint",
+      2
+    ],
+    [
+      "shortag",
+      2
+    ],
+    [
+      "seasonal",
+      2
+    ],
+    [
+      "warehouse",
+      2
+    ],
+    [
+      "process",
+      2
+    ],
+    [
+      "expansion",
+      2
+    ],
+    [
+      "year",
+      2
+    ],
+    [
+      "region",
+      2
+    ],
+    [
+      "target",
+      2
+    ],
+    [
+      "southeast",
+      2
+    ],
+    [
+      "potential",
+      2
+    ],
+    [
+      "regional",
+      2
+    ],
+    [
+      "distributor",
+      2
+    ],
+    [
+      "entry",
+      2
+    ],
+    [
+      "release",
+      2
+    ],
+    [
+      "aim",
+      2
+    ],
+    [
+      "september",
+      2
+    ],
+    [
+      "accordingly",
+      2
+    ],
+    [
+      "opportunity",
+      2
+    ],
+    [
+      "forward",
+      2
+    ],
+    [
+      "done",
+      2
+    ],
+    [
+      "thankfully",
+      2
+    ],
+    [
+      "alone",
+      2
+    ],
+    [
+      "trust",
+      2
+    ],
+    [
+      "relax",
+      2
+    ],
+    [
+      "deserve",
+      2
+    ],
+    [
+      "fair",
+      2
+    ],
+    [
+      "com",
+      2
+    ],
+    [
+      "afraid",
+      2
+    ],
+    [
+      "single",
+      2
+    ],
+    [
+      "isen",
+      1
+    ],
+    [
+      "problem-solv",
+      1
+    ],
+    [
+      "five-minute",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 8345,
+    "unique_words": 734,
+    "duration_min": 60.1
+  }
+}

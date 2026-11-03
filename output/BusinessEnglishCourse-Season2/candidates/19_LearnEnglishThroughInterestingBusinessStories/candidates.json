@@ -1,0 +1,6505 @@
+{
+  "file_stem": "19_LearnEnglishThroughInterestingBusinessStories",
+  "no": 19,
+  "title_keywords": [
+    [
+      "learn",
+      "learn"
+    ],
+    [
+      "english",
+      "english"
+    ],
+    [
+      "interesting",
+      "interest"
+    ],
+    [
+      "business",
+      "business"
+    ],
+    [
+      "stories",
+      "stori"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "story",
+      48,
+      "A2"
+    ],
+    [
+      "team",
+      44,
+      "A2"
+    ],
+    [
+      "company's",
+      24,
+      "B1+"
+    ],
+    [
+      "listen",
+      23,
+      "A2"
+    ],
+    [
+      "also",
+      21,
+      "A2"
+    ],
+    [
+      "meeting",
+      20,
+      "A2"
+    ],
+    [
+      "business",
+      19,
+      "B1+"
+    ],
+    [
+      "tom",
+      17,
+      "B1+"
+    ],
+    [
+      "alex",
+      16,
+      "B1+"
+    ],
+    [
+      "product",
+      16,
+      "B1+"
+    ],
+    [
+      "client",
+      15,
+      "B1+"
+    ],
+    [
+      "conference",
+      15,
+      "B1+"
+    ],
+    [
+      "market",
+      15,
+      "A2"
+    ],
+    [
+      "new",
+      15,
+      "A2"
+    ],
+    [
+      "sarah",
+      14,
+      "B1+"
+    ],
+    [
+      "lead",
+      13,
+      "A2"
+    ],
+    [
+      "pitch",
+      13,
+      "B1+"
+    ],
+    [
+      "potential",
+      13,
+      "B1+"
+    ],
+    [
+      "ideas",
+      12,
+      "A2"
+    ],
+    [
+      "jessica",
+      12,
+      "B1+"
+    ],
+    [
+      "project",
+      12,
+      "B1+"
+    ],
+    [
+      "address",
+      11,
+      "B1+"
+    ],
+    [
+      "negotiation",
+      11,
+      "B1+"
+    ],
+    [
+      "communication",
+      10,
+      "B1+"
+    ],
+    [
+      "cultural",
+      10,
+      "B1+"
+    ],
+    [
+      "faces",
+      10,
+      "B1+"
+    ],
+    [
+      "highlights",
+      10,
+      "B1+"
+    ],
+    [
+      "members",
+      10,
+      "A2"
+    ],
+    [
+      "present",
+      10,
+      "A2"
+    ],
+    [
+      "sales",
+      10,
+      "B1+"
+    ],
+    [
+      "challenges",
+      9,
+      "B1+"
+    ],
+    [
+      "contract",
+      9,
+      "B1+"
+    ],
+    [
+      "customer",
+      9,
+      "B1+"
+    ],
+    [
+      "innovative",
+      9,
+      "B1+"
+    ],
+    [
+      "interest",
+      9,
+      "A2"
+    ],
+    [
+      "software",
+      9,
+      "B1+"
+    ],
+    [
+      "solutions",
+      9,
+      "B1+"
+    ],
+    [
+      "tech",
+      9,
+      "B1+"
+    ],
+    [
+      "ability",
+      8,
+      "B1+"
+    ],
+    [
+      "align",
+      8,
+      "B1+"
+    ],
+    [
+      "approach",
+      8,
+      "B1+"
+    ],
+    [
+      "career",
+      8,
+      "B1+"
+    ],
+    [
+      "clear",
+      8,
+      "A2"
+    ],
+    [
+      "conclusion",
+      8,
+      "B1+"
+    ],
+    [
+      "end",
+      8,
+      "A2"
+    ],
+    [
+      "enhance",
+      8,
+      "B1+"
+    ],
+    [
+      "john",
+      8,
+      "B1+"
+    ],
+    [
+      "manager",
+      8,
+      "B1+"
+    ],
+    [
+      "proposes",
+      8,
+      "B1+"
+    ],
+    [
+      "room",
+      8,
+      "A2"
+    ],
+    [
+      "session",
+      8,
+      "B1+"
+    ],
+    [
+      "skills",
+      8,
+      "A2"
+    ],
+    [
+      "benefits",
+      7,
+      "B1+"
+    ],
+    [
+      "change",
+      7,
+      "A2"
+    ],
+    [
+      "concerns",
+      7,
+      "B1+"
+    ],
+    [
+      "day",
+      7,
+      "A2"
+    ],
+    [
+      "derek",
+      7,
+      "B1+"
+    ],
+    [
+      "emily",
+      7,
+      "B1+"
+    ],
+    [
+      "emma",
+      7,
+      "B1+"
+    ],
+    [
+      "introduction",
+      7,
+      "B1+"
+    ],
+    [
+      "investor",
+      7,
+      "B1+"
+    ],
+    [
+      "key",
+      7,
+      "A2"
+    ],
+    [
+      "major",
+      7,
+      "B1+"
+    ],
+    [
+      "mr",
+      7,
+      "A2"
+    ],
+    [
+      "preparation",
+      7,
+      "B1+"
+    ],
+    [
+      "success",
+      7,
+      "B1+"
+    ],
+    [
+      "understanding",
+      7,
+      "A2"
+    ],
+    [
+      "unexpected",
+      7,
+      "B1+"
+    ],
+    [
+      "anita",
+      6,
+      "B1+"
+    ],
+    [
+      "commitment",
+      6,
+      "B1+"
+    ],
+    [
+      "fosters",
+      6,
+      "B1+"
+    ],
+    [
+      "innovation",
+      6,
+      "B1+"
+    ],
+    [
+      "known",
+      6,
+      "A2"
+    ],
+    [
+      "leon",
+      6,
+      "B1+"
+    ],
+    [
+      "linda",
+      6,
+      "B1+"
+    ],
+    [
+      "michael",
+      6,
+      "B1+"
+    ],
+    [
+      "one",
+      6,
+      "A2"
+    ],
+    [
+      "open",
+      6,
+      "A2"
+    ],
+    [
+      "opportunities",
+      6,
+      "B1+"
+    ],
+    [
+      "prepared",
+      6,
+      "B1+"
+    ],
+    [
+      "presentation",
+      6,
+      "B1+"
+    ],
+    [
+      "proactive",
+      6,
+      "B1+"
+    ],
+    [
+      "proposal",
+      6,
+      "B1+"
+    ],
+    [
+      "senior",
+      6,
+      "B1+"
+    ],
+    [
+      "significantly",
+      6,
+      "B1+"
+    ],
+    [
+      "startup",
+      6,
+      "B1+"
+    ],
+    [
+      "supplier",
+      6,
+      "B1+"
+    ],
+    [
+      "support",
+      6,
+      "A2"
+    ],
+    [
+      "thinking",
+      6,
+      "A2"
+    ],
+    [
+      "turn",
+      6,
+      "A2"
+    ],
+    [
+      "vanessa",
+      6,
+      "B1+"
+    ],
+    [
+      "acknowledging",
+      5,
+      "B1+"
+    ],
+    [
+      "benson",
+      5,
+      "B1+"
+    ],
+    [
+      "big",
+      5,
+      "A2"
+    ],
+    [
+      "costs",
+      5,
+      "A2"
+    ],
+    [
+      "data",
+      5,
+      "B1+"
+    ],
+    [
+      "differences",
+      5,
+      "B1+"
+    ],
+    [
+      "encouraged",
+      5,
+      "B1+"
+    ],
+    [
+      "engaging",
+      5,
+      "B1+"
+    ],
+    [
+      "explains",
+      5,
+      "B1+"
+    ],
+    [
+      "goal",
+      5,
+      "B1+"
+    ],
+    [
+      "green",
+      5,
+      "A2"
+    ],
+    [
+      "handling",
+      5,
+      "B1+"
+    ],
+    [
+      "importance",
+      5,
+      "B1+"
+    ],
+    [
+      "increase",
+      5,
+      "A2"
+    ],
+    [
+      "industry",
+      5,
+      "B1+"
+    ],
+    [
+      "informed",
+      5,
+      "B1+"
+    ],
+    [
+      "integration",
+      5,
+      "B1+"
+    ],
+    [
+      "language",
+      5,
+      "A2"
+    ],
+    [
+      "learning",
+      5,
+      "A2"
+    ],
+    [
+      "mark",
+      5,
+      "A2"
+    ],
+    [
+      "offering",
+      5,
+      "A2"
+    ],
+    [
+      "price",
+      5,
+      "A2"
+    ],
+    [
+      "set",
+      5,
+      "B1+"
+    ],
+    [
+      "showcasing",
+      5,
+      "B1+"
+    ],
+    [
+      "strategic",
+      5,
+      "B1+"
+    ],
+    [
+      "strategy",
+      5,
+      "B1+"
+    ],
+    [
+      "successful",
+      5,
+      "B1+"
+    ],
+    [
+      "sustainability",
+      5,
+      "B1+"
+    ],
+    [
+      "today",
+      5,
+      "A2"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "let's listen",
+      "count": 16,
+      "example": "Let's listen to the story again.",
+      "t": 175.66
+    },
+    {
+      "text": "team members",
+      "count": 6,
+      "example": "Linda, a project manager at Global Tech Solutions, is leading a crucial video conference with team members from four different countries.",
+      "t": 312.44
+    },
+    {
+      "text": "mr benson",
+      "count": 4,
+      "example": "Arriving at the client's office, John is ushered into a stark meeting room where Mr. Benson, the client, awaits.",
+      "t": 206.89
+    },
+    {
+      "text": "cultural differences",
+      "count": 4,
+      "example": "Story 3, Breaking Cultural Barriers witness how Linda bridges cultural differences during an important international video conference.",
+      "t": 302.82
+    },
+    {
+      "text": "price increase",
+      "count": 4,
+      "example": "Michael, a procurement manager at EcoBuild, faces tough negotiations with a key supplier proposing a 20% price increase.",
+      "t": 648.42
+    },
+    {
+      "text": "business english",
+      "count": 3,
+      "example": "Welcome to our business English learning session.",
+      "t": 14.0
+    },
+    {
+      "text": "senior management",
+      "count": 3,
+      "example": "Story 1, The Unexpected Proposal Emma as she prepares to present her innovative idea to senior management in a high-stakes meeting.",
+      "t": 31.29
+    },
+    {
+      "text": "strategic thinking",
+      "count": 3,
+      "example": "Emma addresses anticipated challenges and solutions, showcasing her strategic thinking.",
+      "t": 121.99
+    },
+    {
+      "text": "proactive approach",
+      "count": 3,
+      "example": "Sarah's proactive approach at the conference not only secures a potential investor but also opens various doors for partnerships and market expansion.",
+      "t": 618.3
+    },
+    {
+      "text": "longer contract",
+      "count": 3,
+      "example": "If we commit to a longer contract term, could that help stabilize pricing on your end?",
+      "t": 689.18
+    }
+  ],
+  "phrases": [
+    {
+      "text": "let's listen",
+      "count": 16,
+      "example": "Let's listen to the story again.",
+      "t": 175.66
+    },
+    {
+      "text": "team members",
+      "count": 6,
+      "example": "Linda, a project manager at Global Tech Solutions, is leading a crucial video conference with team members from four different countries.",
+      "t": 312.44
+    },
+    {
+      "text": "mr benson",
+      "count": 4,
+      "example": "Arriving at the client's office, John is ushered into a stark meeting room where Mr. Benson, the client, awaits.",
+      "t": 206.89
+    },
+    {
+      "text": "cultural differences",
+      "count": 4,
+      "example": "Story 3, Breaking Cultural Barriers witness how Linda bridges cultural differences during an important international video conference.",
+      "t": 302.82
+    },
+    {
+      "text": "price increase",
+      "count": 4,
+      "example": "Michael, a procurement manager at EcoBuild, faces tough negotiations with a key supplier proposing a 20% price increase.",
+      "t": 648.42
+    },
+    {
+      "text": "business english",
+      "count": 3,
+      "example": "Welcome to our business English learning session.",
+      "t": 14.0
+    },
+    {
+      "text": "senior management",
+      "count": 3,
+      "example": "Story 1, The Unexpected Proposal Emma as she prepares to present her innovative idea to senior management in a high-stakes meeting.",
+      "t": 31.29
+    },
+    {
+      "text": "strategic thinking",
+      "count": 3,
+      "example": "Emma addresses anticipated challenges and solutions, showcasing her strategic thinking.",
+      "t": 121.99
+    },
+    {
+      "text": "proactive approach",
+      "count": 3,
+      "example": "Sarah's proactive approach at the conference not only secures a potential investor but also opens various doors for partnerships and market expansion.",
+      "t": 618.3
+    },
+    {
+      "text": "longer contract",
+      "count": 3,
+      "example": "If we commit to a longer contract term, could that help stabilize pricing on your end?",
+      "t": 689.18
+    },
+    {
+      "text": "big corp",
+      "count": 3,
+      "example": "Alex, a sales executive at Tech Solutions, has been pursuing a major client, Big Corp, for months.",
+      "t": 849.97
+    },
+    {
+      "text": "innovative ideas",
+      "count": 3,
+      "example": "Vanessa, the CEO of CreatiTech, is passionate about building a workplace where innovative ideas can flourish.",
+      "t": 958.16
+    },
+    {
+      "text": "english learning",
+      "count": 2,
+      "example": "Welcome to our business English learning session.",
+      "t": 14.0
+    },
+    {
+      "text": "learning session",
+      "count": 2,
+      "example": "Welcome to our business English learning session.",
+      "t": 14.0
+    },
+    {
+      "text": "business english learning",
+      "count": 2,
+      "example": "Welcome to our business English learning session.",
+      "t": 14.0
+    },
+    {
+      "text": "english learning session",
+      "count": 2,
+      "example": "Welcome to our business English learning session.",
+      "t": 14.0
+    },
+    {
+      "text": "engaging stories",
+      "count": 2,
+      "example": "Today, we will enhance our English skills through engaging stories.",
+      "t": 17.61
+    },
+    {
+      "text": "let's dive",
+      "count": 2,
+      "example": "Let's dive into our first story.",
+      "t": 28.48
+    },
+    {
+      "text": "first story",
+      "count": 2,
+      "example": "Let's dive into our first story.",
+      "t": 28.48
+    },
+    {
+      "text": "conference room",
+      "count": 2,
+      "example": "As Emma enters the sleek conference room, her palms are sweaty, but she feels ready.",
+      "t": 58.89
+    },
+    {
+      "text": "company's vision",
+      "count": 2,
+      "example": "Today, I am excited to present an idea that aligns with our company's vision for sustainability and opens up a new demographic for our products.",
+      "t": 81.73
+    },
+    {
+      "text": "vision for sustainability",
+      "count": 2,
+      "example": "Today, I am excited to present an idea that aligns with our company's vision for sustainability and opens up a new demographic for our products.",
+      "t": 81.73
+    },
+    {
+      "text": "environmentally conscious",
+      "count": 2,
+      "example": "Our new line of biodegradable fabrics will appeal to environmentally conscious consumers and set us apart from competitors.",
+      "t": 108.4
+    },
+    {
+      "text": "move forward",
+      "count": 2,
+      "example": "I look forward to your thoughts on how we can move forward together.",
+      "t": 154.38
+    },
+    {
+      "text": "forward together",
+      "count": 2,
+      "example": "I look forward to your thoughts on how we can move forward together.",
+      "t": 154.38
+    },
+    {
+      "text": "move forward together",
+      "count": 2,
+      "example": "I look forward to your thoughts on how we can move forward together.",
+      "t": 154.38
+    },
+    {
+      "text": "end their contract",
+      "count": 2,
+      "example": "Navigating difficult conversations follow John as he handles a critical negotiation with a difficult client who is threatening to end their contract.",
+      "t": 179.65
+    },
+    {
+      "text": "listens intently",
+      "count": 2,
+      "example": "As the conversation progresses, John listens intently to Mr. Benson's concerns, responding with empathy and offering concrete solutions.",
+      "t": 258.14
+    },
+    {
+      "text": "cultural barriers",
+      "count": 2,
+      "example": "Story 3, Breaking Cultural Barriers witness how Linda bridges cultural differences during an important international video conference.",
+      "t": 302.82
+    },
+    {
+      "text": "video conference",
+      "count": 2,
+      "example": "Story 3, Breaking Cultural Barriers witness how Linda bridges cultural differences during an important international video conference.",
+      "t": 302.82
+    },
+    {
+      "text": "project manager",
+      "count": 2,
+      "example": "Linda, a project manager at Global Tech Solutions, is leading a crucial video conference with team members from four different countries.",
+      "t": 312.44
+    },
+    {
+      "text": "global tech",
+      "count": 2,
+      "example": "Linda, a project manager at Global Tech Solutions, is leading a crucial video conference with team members from four different countries.",
+      "t": 312.44
+    },
+    {
+      "text": "tech solutions",
+      "count": 2,
+      "example": "Linda, a project manager at Global Tech Solutions, is leading a crucial video conference with team members from four different countries.",
+      "t": 312.44
+    },
+    {
+      "text": "collaboration across",
+      "count": 2,
+      "example": "The success of their upcoming software launch depends on seamless collaboration across diverse cultural backgrounds.",
+      "t": 322.68
+    },
+    {
+      "text": "meeting begins",
+      "count": 2,
+      "example": "As the meeting begins, Linda greets each participant in their native language, drawing smiles and appreciative nods.",
+      "t": 330.58
+    },
+    {
+      "text": "native language",
+      "count": 2,
+      "example": "As the meeting begins, Linda greets each participant in their native language, drawing smiles and appreciative nods.",
+      "t": 330.58
+    },
+    {
+      "text": "additional support",
+      "count": 2,
+      "example": "Linda proposes a compromise by adjusting the timeline slightly and arranging for additional support for the Japanese team.",
+      "t": 386.44
+    },
+    {
+      "text": "meeting ends",
+      "count": 2,
+      "example": "The meeting ends with team members feeling respected and valued.",
+      "t": 394.93
+    },
+    {
+      "text": "product launch",
+      "count": 2,
+      "example": "Linda's adept handling of cultural nuances enhances cooperation and sets the stage for a successful product launch.",
+      "t": 399.28
+    },
+    {
+      "text": "customer trust",
+      "count": 2,
+      "example": "Story 4, Crisis Management Mastery Explore how Tom efficiently handles a sudden product recall crisis while maintaining transparency and customer trust.",
+      "t": 410.18
+    },
+    {
+      "text": "business conference",
+      "count": 2,
+      "example": "Story 5, The Art of Networking Discover how Sarah leverages networking at a business conference to find new growth opportunities for her startup.",
+      "t": 527.46
+    },
+    {
+      "text": "potential investor",
+      "count": 2,
+      "example": "At a networking lunch, she meets a potential investor, Mr. Green, who shows interest in her company's innovative software solutions.",
+      "t": 565.61
+    },
+    {
+      "text": "mr green",
+      "count": 2,
+      "example": "At a networking lunch, she meets a potential investor, Mr. Green, who shows interest in her company's innovative software solutions.",
+      "t": 565.61
+    },
+    {
+      "text": "procurement manager",
+      "count": 2,
+      "example": "Michael, a procurement manager at EcoBuild, faces tough negotiations with a key supplier proposing a 20% price increase.",
+      "t": 648.42
+    },
+    {
+      "text": "key supplier",
+      "count": 2,
+      "example": "Michael, a procurement manager at EcoBuild, faces tough negotiations with a key supplier proposing a 20% price increase.",
+      "t": 648.42
+    },
+    {
+      "text": "entire project",
+      "count": 2,
+      "example": "With budget constraints, this is unacceptable for EcoBuild, and the entire project is at risk.",
+      "t": 658.69
+    },
+    {
+      "text": "material costs",
+      "count": 2,
+      "example": "The supplier lays out the reasons for the price hike, citing increased raw material costs and inflation.",
+      "t": 671.13
+    },
+    {
+      "text": "attentively acknowledging",
+      "count": 2,
+      "example": "Michael listens attentively, acknowledging their points but also expressing his constraints.",
+      "t": 678.82
+    },
+    {
+      "text": "middle ground",
+      "count": 2,
+      "example": "Let's find a middle ground, Michael suggests.",
+      "t": 685.41
+    },
+    {
+      "text": "find a middle",
+      "count": 2,
+      "example": "Let's find a middle ground, Michael suggests.",
+      "t": 685.41
+    },
+    {
+      "text": "creative solutions",
+      "count": 2,
+      "example": "Michael's ability to propose creative solutions and maintain a collaborative spirit turns a challenging negotiation into a successful agreement, ensuring the project's continuation at a feasible cost.",
+      "t": 720.66
+    },
+    {
+      "text": "challenging negotiation",
+      "count": 2,
+      "example": "Michael's ability to propose creative solutions and maintain a collaborative spirit turns a challenging negotiation into a successful agreement, ensuring the project's continuation at a feasible cost.",
+      "t": 720.66
+    },
+    {
+      "text": "allowing team",
+      "count": 2,
+      "example": "Jessica encourages open dialogue, allowing team members to voice their concerns and questions to ease the transition.",
+      "t": 794.59
+    },
+    {
+      "text": "allowing team members",
+      "count": 2,
+      "example": "Jessica encourages open dialogue, allowing team members to voice their concerns and questions to ease the transition.",
+      "t": 794.59
+    },
+    {
+      "text": "training sessions",
+      "count": 2,
+      "example": "Jessica also arranges for training sessions to enhance the team's skills to align with new roles and responsibilities.",
+      "t": 811.28
+    },
+    {
+      "text": "ability to lead",
+      "count": 2,
+      "example": "Her ability to lead effectively through change fosters a stronger, more adaptable team.",
+      "t": 831.09
+    },
+    {
+      "text": "sales pitch",
+      "count": 2,
+      "example": "The Sales Pitch Success Watch how Alex secures a major client by delivering a compelling and customized sales pitch.",
+      "t": 841.65
+    },
+    {
+      "text": "major client",
+      "count": 2,
+      "example": "The Sales Pitch Success Watch how Alex secures a major client by delivering a compelling and customized sales pitch.",
+      "t": 841.65
+    },
+    {
+      "text": "pitch alex",
+      "count": 2,
+      "example": "On the day of the pitch, Alex arrives at Big Corp's headquarters with a tailored presentation.",
+      "t": 867.71
+    },
+    {
+      "text": "thorough preparation",
+      "count": 2,
+      "example": "Alex's thorough preparation and ability to connect the product's benefits to the client's needs resonate with the Big Corp team.",
+      "t": 925.05
+    },
+    {
+      "text": "tech industry",
+      "count": 2,
+      "example": "She recognizes that fostering a culture of creativity and collaboration is key to staying competitive in the tech industry.",
+      "t": 966.6
+    },
+    {
+      "text": "present their ideas",
+      "count": 2,
+      "example": "To kickstart this initiative, Vanessa organizes a monthly innovation day where employees are encouraged to present their ideas, no matter how unconventional.",
+      "t": 975.39
+    },
+    {
+      "text": "tom's project",
+      "count": 2,
+      "example": "Encouraging the team to think outside the box, Vanessa decides to greenlight Tom's project.",
+      "t": 1012.5
+    },
+    {
+      "text": "six months",
+      "count": 2,
+      "example": "Six months later, Tom's project leads to a breakthrough product that significantly boosts the company's profile and revenues.",
+      "t": 1025.09
+    },
+    {
+      "text": "sales manager",
+      "count": 2,
+      "example": "Derek, a veteran sales manager at Autoworld, faces the toughest quarter of his career.",
+      "t": 1057.05
+    },
+    {
+      "text": "market trends",
+      "count": 2,
+      "example": "His ability to adapt to market trends and lead his team through adversity not only saves his department but also teaches valuable lessons in resilience and adaptability.",
+      "t": 1133.69
+    },
+    {
+      "text": "board members",
+      "count": 2,
+      "example": "As the board members entered, her nerves tingled, but she took deep breaths to calm herself.",
+      "t": 1223.53
+    },
+    {
+      "text": "manager faces",
+      "count": 2,
+      "example": "The Unexpected DAL Introduction, Tom, an experienced sales manager, faces an unexpected challenge when a key client threatens to end their contract.",
+      "t": 1309.73
+    },
+    {
+      "text": "address any issues",
+      "count": 2,
+      "example": "He requested an in-person meeting to address any issues face-to-face.",
+      "t": 1342.27
+    },
+    {
+      "text": "transformed a potential",
+      "count": 2,
+      "example": "Tom's swift response and sincere handling of the situation transformed a potential loss into a win-win for both parties.",
+      "t": 1400.2
+    },
+    {
+      "text": "business relationships",
+      "count": 2,
+      "example": "Conclusion This story emphasizes the value of transparency and quick action in maintaining business relationships.",
+      "t": 1409.59
+    },
+    {
+      "text": "turn challenges",
+      "count": 2,
+      "example": "When problems arise, addressing them head-on can turn challenges into opportunities for growth and partnership.",
+      "t": 1418.38
+    },
+    {
+      "text": "challenges into opportunities",
+      "count": 2,
+      "example": "When problems arise, addressing them head-on can turn challenges into opportunities for growth and partnership.",
+      "t": 1418.38
+    },
+    {
+      "text": "virtual conference",
+      "count": 2,
+      "example": "Story 3, The Cross-Cultural Conference Introduction, Sarah, a project manager, is tasked with leading a virtual conference with participants from various international offices.",
+      "t": 1429.53
+    },
+    {
+      "text": "manager is tasked",
+      "count": 2,
+      "example": "Story 3, The Cross-Cultural Conference Introduction, Sarah, a project manager, is tasked with leading a virtual conference with participants from various international offices.",
+      "t": 1429.53
+    },
+    {
+      "text": "language barriers",
+      "count": 2,
+      "example": "Despite a few technical glitches and language barriers, the session was lively and productive.",
+      "t": 1504.88
+    },
+    {
+      "text": "intercultural communication",
+      "count": 2,
+      "example": "To address cultural differences, Sarah invited a guest speaker specializing in intercultural communication.",
+      "t": 1511.93
+    },
+    {
+      "text": "last minute",
+      "count": 2,
+      "example": "Story 4, The Last Minute Pitch Introduction, Alex, a startup founder, gets an unexpected chance to pitch to a major investor with very little preparation time.",
+      "t": 1564.77
+    },
+    {
+      "text": "major investor",
+      "count": 2,
+      "example": "Story 4, The Last Minute Pitch Introduction, Alex, a startup founder, gets an unexpected chance to pitch to a major investor with very little preparation time.",
+      "t": 1564.77
+    },
+    {
+      "text": "unexpected opportunities",
+      "count": 2,
+      "example": "Alex's ability to deliver a compelling pitch under pressure showcased not only his dedication but also his agility in seizing unexpected opportunities.",
+      "t": 1657.61
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.45,
+      "text": "Listen."
+    },
+    {
+      "t": 8.53,
+      "text": "Practice."
+    },
+    {
+      "t": 9.57,
+      "text": "Speak."
+    },
+    {
+      "t": 10.62,
+      "text": "Practice makes you perfect."
+    },
+    {
+      "t": 14.0,
+      "text": "Welcome to our business English learning session."
+    },
+    {
+      "t": 17.61,
+      "text": "Today, we will enhance our English skills through engaging stories."
+    },
+    {
+      "t": 22.65,
+      "text": "Listening to various narratives can significantly improve your language proficiency."
+    },
+    {
+      "t": 28.48,
+      "text": "Let's dive into our first story."
+    },
+    {
+      "t": 31.29,
+      "text": "Story 1, The Unexpected Proposal Emma as she prepares to present her innovative idea to senior management in a high-stakes meeting."
+    },
+    {
+      "t": 40.6,
+      "text": "Emma has been with Luxe Designs for five years, steadily climbing the corporate ladder."
+    },
+    {
+      "t": 47.21,
+      "text": "Known for her meticulous attention to detail and creative insights, she now faces the biggest challenge of her career, pitching a new product line to senior management."
+    },
+    {
+      "t": 58.89,
+      "text": "As Emma enters the sleek conference room, her palms are sweaty, but she feels ready."
+    },
+    {
+      "t": 65.22,
+      "text": "The room is filled with executives, each critical to her proposal's success."
+    },
+    {
+      "t": 70.85,
+      "text": "She greets them warmly, Good morning, everyone."
+    },
+    {
+      "t": 74.52,
+      "text": "Thank you for this opportunity."
+    },
+    {
+      "t": 77.0,
+      "text": "With a clear and confident voice, she begins her presentation."
+    },
+    {
+      "t": 81.73,
+      "text": "Today, I am excited to present an idea that aligns with our company's vision for sustainability and opens up a new demographic for our products."
+    },
+    {
+      "t": 92.47,
+      "text": "Using a remote, Emma clicks through her meticulously prepared PowerPoint slides, showcasing data and design mockups."
+    },
+    {
+      "t": 101.73,
+      "text": "As we see here, the eco-friendly market segment is growing at a 20% annual rate."
+    },
+    {
+      "t": 108.4,
+      "text": "Our new line of biodegradable fabrics will appeal to environmentally conscious consumers and set us apart from competitors."
+    },
+    {
+      "t": 117.6,
+      "text": "The room is silent, executives listening intently."
+    },
+    {
+      "t": 121.99,
+      "text": "Emma addresses anticipated challenges and solutions, showcasing her strategic thinking."
+    },
+    {
+      "t": 128.5,
+      "text": "I understand the concerns regarding the cost of new material sourcing, which is why I've identified potential suppliers who can provide high-quality sustainable materials at competitive prices."
+    },
+    {
+      "t": 142.12,
+      "text": "As she concludes, Emma feels the tension in the room."
+    },
+    {
+      "t": 146.16,
+      "text": "In conclusion, this initiative could significantly enhance our brand reputation and drive long-term profitability."
+    },
+    {
+      "t": 154.38,
+      "text": "I look forward to your thoughts on how we can move forward together."
+    },
+    {
+      "t": 159.18,
+      "text": "Emma's proposal is met with thoughtful nods and eventual endorsement."
+    },
+    {
+      "t": 164.29,
+      "text": "Her ability to communicate clearly and persuasively in a business setting not only advances her career but also propels the company toward innovative success."
+    },
+    {
+      "t": 175.66,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 178.15,
+      "text": "Story 2."
+    },
+    {
+      "t": 179.65,
+      "text": "Navigating difficult conversations follow John as he handles a critical negotiation with a difficult client who is threatening to end their contract."
+    },
+    {
+      "t": 189.87,
+      "text": "John, a seasoned account manager at Prestige Communications, is known for his diplomatic approach in tough situations."
+    },
+    {
+      "t": 198.25,
+      "text": "Today, he faces the daunting task of convincing a long-time client not to terminate their lucrative contract."
+    },
+    {
+      "t": 206.89,
+      "text": "Arriving at the client's office, John is ushered into a stark meeting room where Mr. Benson, the client, awaits."
+    },
+    {
+      "t": 215.82,
+      "text": "Without preamble, Mr. Benson expresses his frustrations."
+    },
+    {
+      "t": 221.41,
+      "text": "John, we are not happy with the current results, we're considering other options."
+    },
+    {
+      "t": 227.25,
+      "text": "John acknowledges his concerns with a nod."
+    },
+    {
+      "t": 230.86,
+      "text": "I completely understand your frustrations, Mr. Benson, and I'm here to ensure we address them effectively."
+    },
+    {
+      "t": 239.76,
+      "text": "He lays out his notes, prepared with data to support his arguments."
+    },
+    {
+      "t": 244.8,
+      "text": "We've seen some challenges with the recent campaigns, and I believe a strategic adjustment could enhance performance significantly, John explains, pointing to graphs and statistics on his tablet."
+    },
+    {
+      "t": 258.14,
+      "text": "As the conversation progresses, John listens intently to Mr. Benson's concerns, responding with empathy and offering concrete solutions."
+    },
+    {
+      "t": 269.05,
+      "text": "He proposes an innovative new campaign and negotiates terms that provide additional value to the client without compromising his company's interests."
+    },
+    {
+      "t": 279.53,
+      "text": "By the end of the meeting, Mr. Benson looks relieved and agrees to a trial period for the new proposal."
+    },
+    {
+      "t": 287.28,
+      "text": "John's ability to navigate the conversation with professionalism and empathy not only salvages a valuable partnership but also reinforces his role as a key player in his firm."
+    },
+    {
+      "t": 300.14,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 302.82,
+      "text": "Story 3, Breaking Cultural Barriers witness how Linda bridges cultural differences during an important international video conference."
+    },
+    {
+      "t": 312.44,
+      "text": "Linda, a project manager at Global Tech Solutions, is leading a crucial video conference with team members from four different countries."
+    },
+    {
+      "t": 322.68,
+      "text": "The success of their upcoming software launch depends on seamless collaboration across diverse cultural backgrounds."
+    },
+    {
+      "t": 330.58,
+      "text": "As the meeting begins, Linda greets each participant in their native language, drawing smiles and appreciative nods."
+    },
+    {
+      "t": 339.35,
+      "text": "Welcome, everyone."
+    },
+    {
+      "t": 340.87,
+      "text": "Today, we align our efforts and expectations for the project's final phase, she announces confidently."
+    },
+    {
+      "t": 349.24,
+      "text": "She facilitates the meeting with a clear agenda, ensuring each team member's voice is heard."
+    },
+    {
+      "t": 355.77,
+      "text": "Cultural differences in communication styles are apparent, while some are direct, others prefer a more roundabout approach."
+    },
+    {
+      "t": 364.83,
+      "text": "Linda navigates these differences with tact, paraphrasing statements for clarity and confirming understanding."
+    },
+    {
+      "t": 372.48,
+      "text": "A critical moment arises when a misunderstanding about deadlines creates tension."
+    },
+    {
+      "t": 378.69,
+      "text": "A team member from Japan thinks the timeline is too aggressive, while the US team believes it is manageable."
+    },
+    {
+      "t": 386.44,
+      "text": "Linda proposes a compromise by adjusting the timeline slightly and arranging for additional support for the Japanese team."
+    },
+    {
+      "t": 394.93,
+      "text": "The meeting ends with team members feeling respected and valued."
+    },
+    {
+      "t": 399.28,
+      "text": "Linda's adept handling of cultural nuances enhances cooperation and sets the stage for a successful product launch."
+    },
+    {
+      "t": 408.29,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 410.18,
+      "text": "Story 4, Crisis Management Mastery Explore how Tom efficiently handles a sudden product recall crisis while maintaining transparency and customer trust."
+    },
+    {
+      "t": 422.6,
+      "text": "Tom, the customer service director at HealthSafe, is informed of a potential defect in one of their best-selling products, with thousands of units sold."
+    },
+    {
+      "t": 433.52,
+      "text": "The implications are severe."
+    },
+    {
+      "t": 435.23,
+      "text": "Acting swiftly, Tom organizes an emergency response team."
+    },
+    {
+      "t": 440.84,
+      "text": "Let's prioritize customer safety and maintain transparency, Tom instructs his team."
+    },
+    {
+      "t": 447.73,
+      "text": "They quickly set up a hotline and a dedicated webpage to inform customers of the recall and the steps for reimbursement or product exchange."
+    },
+    {
+      "t": 457.43,
+      "text": "As calls flood in, Tom ensures his team is empathetic and well informed."
+    },
+    {
+      "t": 463.04,
+      "text": "He monitors calls, provides real-time feedback, and adjusts FAQs to address emerging concerns."
+    },
+    {
+      "t": 471.07,
+      "text": "When speaking to a particularly distressed customer, Tom's calm demeanor reassures her."
+    },
+    {
+      "t": 477.31,
+      "text": "We are extremely sorry for any inconvenience."
+    },
+    {
+      "t": 481.49,
+      "text": "Your safety is our priority, and we are doing everything to resolve this swiftly."
+    },
+    {
+      "t": 487.16,
+      "text": "The media catches wind of the recall, and Tom is prepared."
+    },
+    {
+      "t": 491.85,
+      "text": "At a press conference, he is upfront about the issue, the steps taken to rectify it, and the measures to prevent future occurrences."
+    },
+    {
+      "t": 501.1,
+      "text": "We are committed to upholding the highest standards and regaining your trust, he declares."
+    },
+    {
+      "t": 507.63,
+      "text": "Through proactive and transparent communication, Tom manages to turn a potential PR disaster into a demonstration of the company's commitment to customer care."
+    },
+    {
+      "t": 518.97,
+      "text": "The recall is executed smoothly, and customer trust is largely retained."
+    },
+    {
+      "t": 525.01,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 527.46,
+      "text": "Story 5, The Art of Networking Discover how Sarah leverages networking at a business conference to find new growth opportunities for her startup."
+    },
+    {
+      "t": 538.22,
+      "text": "Sarah, the CEO of Innovate Start, attends a major business conference with the goal of expanding her startup's reach."
+    },
+    {
+      "t": 546.89,
+      "text": "Armed with business cards, a polished elevator pitch, and an engaging smile, she is determined to make meaningful connections."
+    },
+    {
+      "t": 555.96,
+      "text": "Throughout the day, Sarah attends panel discussions, participates in workshops, and introduces herself to industry leaders."
+    },
+    {
+      "t": 565.61,
+      "text": "At a networking lunch, she meets a potential investor, Mr. Green, who shows interest in her company's innovative software solutions."
+    },
+    {
+      "t": 576.03,
+      "text": "I believe our product can revolutionize the way small businesses manage their operations, Sarah explains, her enthusiasm evident."
+    },
+    {
+      "t": 585.66,
+      "text": "She shares a quick demo on her tablet, highlighting key features and user testimonials."
+    },
+    {
+      "t": 592.3,
+      "text": "Mr. Green is impressed."
+    },
+    {
+      "t": 595.35,
+      "text": "This is quite interesting, Sarah."
+    },
+    {
+      "t": 598.23,
+      "text": "Let's schedule a meeting next week to discuss this further."
+    },
+    {
+      "t": 601.96,
+      "text": "They exchange contact information, and Sarah notes his interest in her CRM tool."
+    },
+    {
+      "t": 608.72,
+      "text": "The day ends with Sarah having several new contacts, promising leads, and an invitation to speak at an upcoming industry webinar."
+    },
+    {
+      "t": 618.3,
+      "text": "Sarah's proactive approach at the conference not only secures a potential investor but also opens various doors for partnerships and market expansion."
+    },
+    {
+      "t": 629.13,
+      "text": "Her effective networking skills are crucial in positioning her startup for future success."
+    },
+    {
+      "t": 635.64,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 638.11,
+      "text": "Story 6."
+    },
+    {
+      "t": 639.65,
+      "text": "The negotiation turnaround follow Michael as he turns a potentially disastrous negotiation into a win-win situation."
+    },
+    {
+      "t": 648.42,
+      "text": "Michael, a procurement manager at EcoBuild, faces tough negotiations with a key supplier proposing a 20% price increase."
+    },
+    {
+      "t": 658.69,
+      "text": "With budget constraints, this is unacceptable for EcoBuild, and the entire project is at risk."
+    },
+    {
+      "t": 666.12,
+      "text": "As the negotiation meeting begins, the atmosphere is tense."
+    },
+    {
+      "t": 671.13,
+      "text": "The supplier lays out the reasons for the price hike, citing increased raw material costs and inflation."
+    },
+    {
+      "t": 678.82,
+      "text": "Michael listens attentively, acknowledging their points but also expressing his constraints."
+    },
+    {
+      "t": 685.41,
+      "text": "Let's find a middle ground, Michael suggests."
+    },
+    {
+      "t": 689.18,
+      "text": "If we commit to a longer contract term, could that help stabilize pricing on your end?"
+    },
+    {
+      "t": 694.72,
+      "text": "He proposes adjusting the contract from one to three years, offering more security for the supplier."
+    },
+    {
+      "t": 703.24,
+      "text": "The supplier considers this encounters with a smaller increase of 10% coupled with an extended contract."
+    },
+    {
+      "t": 711.04,
+      "text": "Michael also negotiates additional support services to add value to the deal."
+    },
+    {
+      "t": 717.17,
+      "text": "The meeting ends with both parties satisfied."
+    },
+    {
+      "t": 720.66,
+      "text": "Michael's ability to propose creative solutions and maintain a collaborative spirit turns a challenging negotiation into a successful agreement, ensuring the project's continuation at a feasible cost."
+    },
+    {
+      "t": 734.92,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 737.76,
+      "text": "Story 7, Leading Through Change Learn how Jessica guides her team through a major organizational change with effective communication and leadership skills."
+    },
+    {
+      "t": 748.86,
+      "text": "Jessica, the newly appointed director at Dynamic Tech, faces the challenge of leading her department through a significant restructuring process."
+    },
+    {
+      "t": 758.95,
+      "text": "The change aims to enhance innovation and efficiency but is met with apprehension and resistance from her team."
+    },
+    {
+      "t": 766.68,
+      "text": "On her first day in the new role, Jessica convenes a department-wide meeting."
+    },
+    {
+      "t": 772.29,
+      "text": "I understand that change can be unsettling, she begins, addressing the room with empathy and confidence."
+    },
+    {
+      "t": 779.86,
+      "text": "But I am here to ensure that we all move forward together."
+    },
+    {
+      "t": 783.81,
+      "text": "She presents the restructuring plan transparently, explaining the reasons behind the changes and how they will benefit the team and the company in the long run."
+    },
+    {
+      "t": 794.59,
+      "text": "Jessica encourages open dialogue, allowing team members to voice their concerns and questions to ease the transition."
+    },
+    {
+      "t": 802.69,
+      "text": "She introduces regular check-in meetings and creates smaller focus groups to tackle specific aspects of the change."
+    },
+    {
+      "t": 811.28,
+      "text": "Jessica also arranges for training sessions to enhance the team's skills to align with new roles and responsibilities."
+    },
+    {
+      "t": 819.86,
+      "text": "Through her proactive communication and inclusive leadership style, Jessica transforms initial skepticism into commitment and enthusiasm for the new direction."
+    },
+    {
+      "t": 831.09,
+      "text": "Her ability to lead effectively through change fosters a stronger, more adaptable team."
+    },
+    {
+      "t": 837.83,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 840.49,
+      "text": "Story 8."
+    },
+    {
+      "t": 841.65,
+      "text": "The Sales Pitch Success Watch how Alex secures a major client by delivering a compelling and customized sales pitch."
+    },
+    {
+      "t": 849.97,
+      "text": "Alex, a sales executive at Tech Solutions, has been pursuing a major client, Big Corp, for months."
+    },
+    {
+      "t": 858.61,
+      "text": "The opportunity to pitch their latest software product finally arrives, and Alex knows he must stand out against the competition."
+    },
+    {
+      "t": 867.71,
+      "text": "On the day of the pitch, Alex arrives at Big Corp's headquarters with a tailored presentation."
+    },
+    {
+      "t": 874.58,
+      "text": "He starts by addressing the client's specific pain points, which he identified through thorough research."
+    },
+    {
+      "t": 881.95,
+      "text": "Our software not only streamlines your operations but also provides the analytics you need to make informed decisions quickly, Alex explains."
+    },
+    {
+      "t": 892.08,
+      "text": "He demonstrates the software in real-time, showcasing its user-friendly interface and advanced features."
+    },
+    {
+      "t": 900.17,
+      "text": "Alex also highlights case studies from similar industries where the software significantly improved efficiency and profitability."
+    },
+    {
+      "t": 909.26,
+      "text": "Recognizing the client's concern about integration, Alex introduces his technical team, ready to ensure a smooth transition."
+    },
+    {
+      "t": 918.52,
+      "text": "We're not just offering a product, he emphasizes, we're offering a partnership."
+    },
+    {
+      "t": 925.05,
+      "text": "Alex's thorough preparation and ability to connect the product's benefits to the client's needs resonate with the Big Corp team."
+    },
+    {
+      "t": 933.66,
+      "text": "They are impressed with the demonstration and the support system behind the product."
+    },
+    {
+      "t": 938.93,
+      "text": "Two weeks later, Alex receives confirmation that Big Corp will be moving forward with their software."
+    },
+    {
+      "t": 946.4,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 948.86,
+      "text": "Story 9."
+    },
+    {
+      "t": 950.33,
+      "text": "Empowering Innovation Observe how Vanessa fosters a culture of innovation and teamwork within her tech startup."
+    },
+    {
+      "t": 958.16,
+      "text": "Vanessa, the CEO of CreatiTech, is passionate about building a workplace where innovative ideas can flourish."
+    },
+    {
+      "t": 966.6,
+      "text": "She recognizes that fostering a culture of creativity and collaboration is key to staying competitive in the tech industry."
+    },
+    {
+      "t": 975.39,
+      "text": "To kickstart this initiative, Vanessa organizes a monthly innovation day where employees are encouraged to present their ideas, no matter how unconventional."
+    },
+    {
+      "t": 986.63,
+      "text": "The best ideas receive funding and resources for development."
+    },
+    {
+      "t": 991.42,
+      "text": "During one of these sessions, a junior developer, Tom, hesitantly presents his concept for an AI-driven tool that could personalize user experiences on their platforms."
+    },
+    {
+      "t": 1003.79,
+      "text": "Vanessa listens intently and sees potential in Tom's idea, despite some skepticism from senior team members."
+    },
+    {
+      "t": 1012.5,
+      "text": "Encouraging the team to think outside the box, Vanessa decides to greenlight Tom's project."
+    },
+    {
+      "t": 1019.42,
+      "text": "She pairs him with a mentor and provides a small team to help develop a prototype."
+    },
+    {
+      "t": 1025.09,
+      "text": "Six months later, Tom's project leads to a breakthrough product that significantly boosts the company's profile and revenues."
+    },
+    {
+      "t": 1034.2,
+      "text": "Vanessa's commitment to empowering her employees not only spurs innovation but also creates a highly engaged and motivated workforce."
+    },
+    {
+      "t": 1043.93,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 1046.76,
+      "text": "Story 10, Overcoming Adversity in Sales Follow Derek as he overcomes a significant sales slump with resilience and strategic thinking."
+    },
+    {
+      "t": 1057.05,
+      "text": "Derek, a veteran sales manager at Autoworld, faces the toughest quarter of his career."
+    },
+    {
+      "t": 1063.92,
+      "text": "The market is down, and consumer confidence is low, affecting the entire sales team's performance."
+    },
+    {
+      "t": 1071.41,
+      "text": "However, Derek is not one to give up easily."
+    },
+    {
+      "t": 1074.53,
+      "text": "To combat the slump, Derek analyzes sales data to identify underlying issues."
+    },
+    {
+      "t": 1081.83,
+      "text": "He notices that customer preferences are shifting towards more eco-friendly vehicles, a segment his team is not focusing on."
+    },
+    {
+      "t": 1090.64,
+      "text": "Derek organizes a series of training sessions for his team, educating them on the benefits and features of eco-friendly models."
+    },
+    {
+      "t": 1100.06,
+      "text": "He also revamps the marketing strategies to highlight the environmental and economic benefits of these vehicles."
+    },
+    {
+      "t": 1107.64,
+      "text": "With renewed vigor, the team reaches out to potential customers with tailored messages and incentives."
+    },
+    {
+      "t": 1115.31,
+      "text": "Derek personally takes the lead in high-stakes negotiations, demonstrating his commitment to boosting team morale."
+    },
+    {
+      "t": 1123.52,
+      "text": "By the end of the next quarter, Derek's strategies have paid off."
+    },
+    {
+      "t": 1128.35,
+      "text": "Sales numbers have rebounded, and the team is outperforming other departments."
+    },
+    {
+      "t": 1133.69,
+      "text": "His ability to adapt to market trends and lead his team through adversity not only saves his department but also teaches valuable lessons in resilience and adaptability."
+    },
+    {
+      "t": 1145.93,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 1148.6,
+      "text": "Welcome to our Business English Learning Session."
+    },
+    {
+      "t": 1152.38,
+      "text": "Today, we will explore Business English through engaging stories."
+    },
+    {
+      "t": 1157.75,
+      "text": "Let's dive into our first story titled, The Big Presentation."
+    },
+    {
+      "t": 1162.19,
+      "text": "Meet Emily, a young marketing specialist tasked with presenting a new strategy to her company's board of directors."
+    },
+    {
+      "t": 1171.81,
+      "text": "Emily had been with Jackson Marketing for just six months, but her innovative ideas had already caught the attention of senior management."
+    },
+    {
+      "t": 1181.8,
+      "text": "When the company decided to revamp its digital marketing strategy, Emily was unexpectedly chosen to lead the presentation."
+    },
+    {
+      "t": 1191.64,
+      "text": "The night before, she rehearsed diligently, refining her slides and practicing her speech, with her cat as her only audience."
+    },
+    {
+      "t": 1201.46,
+      "text": "She understood that success depended not only on her content but also on her delivery and confidence."
+    },
+    {
+      "t": 1209.37,
+      "text": "The next morning, Emily arrived early, impeccably dressed in her navy blue suit."
+    },
+    {
+      "t": 1216.28,
+      "text": "She meticulously set up the conference room, checking everything from the projector to the handouts."
+    },
+    {
+      "t": 1223.53,
+      "text": "As the board members entered, her nerves tingled, but she took deep breaths to calm herself."
+    },
+    {
+      "t": 1230.42,
+      "text": "Her presentation began with a strong opening that captured everyone's attention."
+    },
+    {
+      "t": 1236.71,
+      "text": "She skillfully navigated through market trends and consumer behavior analytics, proposing a multi-platform approach that combined innovative social media tactics with traditional marketing channels."
+    },
+    {
+      "t": 1251.77,
+      "text": "Her clear explanations and engaging visuals kept everyone interested."
+    },
+    {
+      "t": 1257.32,
+      "text": "As she wrapped up, Emily suggested a pilot project to test her strategy in a small market before a full rollout."
+    },
+    {
+      "t": 1266.54,
+      "text": "The board members nodded in appreciation, and the CEO even smiled, a rare sign of approval."
+    },
+    {
+      "t": 1274.33,
+      "text": "Ultimately, Emily's presentation was more than just a discussion of ideas, it showcased her ability to lead and inspire."
+    },
+    {
+      "t": 1284.2,
+      "text": "Her story exemplifies the power of preparation and passion."
+    },
+    {
+      "t": 1289.33,
+      "text": "Emily's experience highlights the significance of preparation and confidence in any business scenario."
+    },
+    {
+      "t": 1296.88,
+      "text": "By embracing these qualities, anyone can effectively present their ideas, regardless of their experience level."
+    },
+    {
+      "t": 1306.05,
+      "text": "Now, let's revisit the story."
+    },
+    {
+      "t": 1308.31,
+      "text": "2."
+    },
+    {
+      "t": 1309.73,
+      "text": "The Unexpected DAL Introduction, Tom, an experienced sales manager, faces an unexpected challenge when a key client threatens to end their contract."
+    },
+    {
+      "t": 1322.96,
+      "text": "Tom had managed accounts for Technowidget Inc. for over a decade, priding himself on his relationship-building skills."
+    },
+    {
+      "t": 1333.04,
+      "text": "However, when he received an email from his largest client expressing dissatisfaction, he knew he had to act quickly."
+    },
+    {
+      "t": 1342.27,
+      "text": "He requested an in-person meeting to address any issues face-to-face."
+    },
+    {
+      "t": 1347.8,
+      "text": "During the meeting, Tom listened attentively, acknowledging the client's concerns about recent product delivery delays and service disruptions."
+    },
+    {
+      "t": 1358.33,
+      "text": "Understanding the importance of transparency, he explained the challenges his company faced with supply chain disruptions and assured the client of specific steps being taken to resolve these issues."
+    },
+    {
+      "t": 1373.12,
+      "text": "As a gesture of goodwill, he even offered a temporary discount and an upgraded service package."
+    },
+    {
+      "t": 1380.41,
+      "text": "The client appreciated Tom's honesty and proactive approach."
+    },
+    {
+      "t": 1385.62,
+      "text": "What began as a crisis turned into an opportunity to strengthen their relationship."
+    },
+    {
+      "t": 1391.85,
+      "text": "They not only agreed to continue the contract but also discussed possibilities for expanding their collaboration."
+    },
+    {
+      "t": 1400.2,
+      "text": "Tom's swift response and sincere handling of the situation transformed a potential loss into a win-win for both parties."
+    },
+    {
+      "t": 1409.59,
+      "text": "Conclusion This story emphasizes the value of transparency and quick action in maintaining business relationships."
+    },
+    {
+      "t": 1418.38,
+      "text": "When problems arise, addressing them head-on can turn challenges into opportunities for growth and partnership."
+    },
+    {
+      "t": 1426.53,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 1429.53,
+      "text": "Story 3, The Cross-Cultural Conference Introduction, Sarah, a project manager, is tasked with leading a virtual conference with participants from various international offices."
+    },
+    {
+      "t": 1445.07,
+      "text": "Story, Sarah's company, Global Tech, had recently expanded into Europe and Asia."
+    },
+    {
+      "t": 1452.16,
+      "text": "To align the different teams, a virtual conference was scheduled."
+    },
+    {
+      "t": 1457.37,
+      "text": "Known for her organizational skills, Sarah was chosen to manage this event, which included attendees from over 10 countries."
+    },
+    {
+      "t": 1467.67,
+      "text": "As the conference day approached, she prepared meticulously, adjusting the meeting time to accommodate as many time zones as possible and even learning basic greetings in a few of the participants' languages."
+    },
+    {
+      "t": 1482.95,
+      "text": "Her goal was to make everyone feel included and valued."
+    },
+    {
+      "t": 1487.38,
+      "text": "The conference began with Sarah greeting each country's team in their native language, which brought smiles and surprised looks."
+    },
+    {
+      "t": 1496.63,
+      "text": "She then facilitated a session on the company's new global strategy, encouraging input from all regions."
+    },
+    {
+      "t": 1504.88,
+      "text": "Despite a few technical glitches and language barriers, the session was lively and productive."
+    },
+    {
+      "t": 1511.93,
+      "text": "To address cultural differences, Sarah invited a guest speaker specializing in intercultural communication."
+    },
+    {
+      "t": 1520.8,
+      "text": "This session provided practical tips on enhancing collaboration across borders."
+    },
+    {
+      "t": 1527.21,
+      "text": "The conference concluded with virtual breakout rooms where team members could discuss local challenges and successes, fostering a sense of community and sharing innovative ideas specific to each region."
+    },
+    {
+      "t": 1541.55,
+      "text": "Conclusion Sarah's experience illustrates the importance of cultural sensitivity and preparation in international business settings."
+    },
+    {
+      "t": 1551.93,
+      "text": "By acknowledging and respecting cultural differences, companies can foster a more inclusive and effective international team."
+    },
+    {
+      "t": 1561.2,
+      "text": "Now, let's listen to the story again."
+    },
+    {
+      "t": 1564.77,
+      "text": "Story 4, The Last Minute Pitch Introduction, Alex, a startup founder, gets an unexpected chance to pitch to a major investor with very little preparation time."
+    },
+    {
+      "t": 1578.89,
+      "text": "Story, Alex's startup, EcoInnovate, had been gaining traction with its eco-friendly packaging solutions."
+    },
+    {
+      "t": 1588.22,
+      "text": "A chance encounter at an industry conference led to a surprise invitation to pitch to a major investor, but he had just one day to prepare."
+    },
+    {
+      "t": 1598.62,
+      "text": "Knowing the stakes were high, Alex focused on refining his pitch to emphasize the unique value proposition of his products and their scalability."
+    },
+    {
+      "t": 1609.68,
+      "text": "He used vivid examples of how his company's innovations had already made a difference in the market."
+    },
+    {
+      "t": 1616.56,
+      "text": "During the pitch, Alex presented confidently, supported by a clear, visually appealing slide deck that highlighted key figures and potential market growth."
+    },
+    {
+      "t": 1628.88,
+      "text": "He answered the investors' probing questions with detailed explanations and projections, demonstrating his deep understanding of the business landscape."
+    },
+    {
+      "t": 1639.45,
+      "text": "The investor was impressed by Alex's passion and the company's vision for sustainability, which aligned with her interest in supporting environmentally conscious businesses."
+    },
+    {
+      "t": 1652.26,
+      "text": "She expressed interest in a follow-up meeting to discuss further investment."
+    },
+    {
+      "t": 1657.61,
+      "text": "Alex's ability to deliver a compelling pitch under pressure showcased not only his dedication but also his agility in seizing unexpected opportunities."
+    },
+    {
+      "t": 1669.71,
+      "text": "Conclusion, Alex's story reinforces the idea that preparation, even if last minute, is crucial when unexpected opportunities arise."
+    },
+    {
+      "t": 1681.32,
+      "text": "A well-delivered pitch can open doors and attract potential investors, especially when it aligns with their values."
+    },
+    {
+      "t": 1690.05,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 1692.92,
+      "text": "Story 5, The Career Leap Introduction, Jessica, a senior analyst, contemplates a significant career change within her firm to pursue her passion for sustainable business practices."
+    },
+    {
+      "t": 1708.24,
+      "text": "Story, Jessica had spent nearly a decade at FinCorp, excelling as a senior financial analyst."
+    },
+    {
+      "t": 1717.28,
+      "text": "However, her growing interest in environmental sustainability led her to consider a shift to the company's newly formed Green Initiatives team."
+    },
+    {
+      "t": 1727.76,
+      "text": "It was a risky move, leaving her comfort zone for a field where she had less experience."
+    },
+    {
+      "t": 1734.59,
+      "text": "After weeks of deliberation, Jessica decided to take the leap."
+    },
+    {
+      "t": 1739.88,
+      "text": "She prepared a detailed proposal highlighting how her analytical skills could help the firm achieve its sustainability goals, backed by data on successful green projects in similar companies."
+    },
+    {
+      "t": 1754.02,
+      "text": "She arranged a meeting with both her current supervisor and the head of the Green Initiative's team."
+    },
+    {
+      "t": 1760.91,
+      "text": "During the meeting, Jessica presented her proposal passionately, outlining her ideas for new projects that could reduce the company's carbon footprint and enhance its reputation as a leader in sustainability."
+    },
+    {
+      "t": 1776.37,
+      "text": "Impressed by her initiative and clear vision,"
+    },
+    {
+      "t": 1779.45,
+      "text": "The supervisors agreed to her transfer, appreciating her proactive approach and the potential benefits to the company."
+    },
+    {
+      "t": 1788.63,
+      "text": "Jessica's transition was not only a personal win but also an example of how aligning career aspirations with corporate goals can yield mutual benefits."
+    },
+    {
+      "t": 1799.95,
+      "text": "Conclusion Jessica's story highlights the importance of aligning one's career aspirations with their values and interests."
+    },
+    {
+      "t": 1809.31,
+      "text": "It shows that taking calculated risks, backed by thorough preparation and clear communication, can lead to fulfilling career transformations."
+    },
+    {
+      "t": 1820.15,
+      "text": "Now, let's listen to the story again."
+    },
+    {
+      "t": 1823.72,
+      "text": "Story 6, The Diplomatic Negotiator Introduction, Leon, a procurement manager, faces a challenging negotiation with a key supplier demanding higher prices due to market changes."
+    },
+    {
+      "t": 1839.99,
+      "text": "Story, Leon's company depended on stable tech for essential components of their manufacturing process."
+    },
+    {
+      "t": 1847.96,
+      "text": "When StableTech proposed a 20% price increase citing rising material costs, it threatened to disrupt Leon's company's operations significantly."
+    },
+    {
+      "t": 1859.94,
+      "text": "Determined to find a middle ground, Leon entered negotiations with a clear strategy."
+    },
+    {
+      "t": 1866.59,
+      "text": "He acknowledged the market changes impacting StableTech but also presented data on how vital their long-term relationship was to both businesses."
+    },
+    {
+      "t": 1877.63,
+      "text": "Leon proposed several alternatives, such as longer contract terms and larger bulk purchases to offset the price increase."
+    },
+    {
+      "t": 1887.23,
+      "text": "He also suggested collaborative solutions to reduce costs in other areas such as joint logistics improvements."
+    },
+    {
+      "t": 1896.72,
+      "text": "After several rounds of discussions, both parties reached an agreement that balanced immediate needs with long-term benefits."
+    },
+    {
+      "t": 1905.78,
+      "text": "StableTech agreed to a more modest price increase in exchange for a longer contract and a commitment to joint cost-saving initiatives."
+    },
+    {
+      "t": 1915.91,
+      "text": "Conclusion, Leon's story demonstrates the power of diplomatic negotiation and strategic thinking in business interactions."
+    },
+    {
+      "t": 1925.82,
+      "text": "By approaching negotiations with empathy, preparedness, and a willingness to explore creative solutions, it is possible to turn challenges into opportunities for strengthening business relationships."
+    },
+    {
+      "t": 1941.17,
+      "text": "Let's listen to the story again."
+    },
+    {
+      "t": 1943.81,
+      "text": "Story 7, The Unforeseen Opportunity Introduction, Anita, a software developer, discovers a critical flaw in her company's flagship product just before its major release."
+    },
+    {
+      "t": 1959.21,
+      "text": "Story with the release date looming, Anita was running final tests on the new software suite that her company, Digital Front, was about to launch."
+    },
+    {
+      "t": 1970.39,
+      "text": "Unexpectedly, she discovered a severe security flaw that could jeopardize the entire project and the company's reputation."
+    },
+    {
+      "t": 1979.9,
+      "text": "Understanding the gravity of the situation, Anita immediately informed her team leader and proposed an overnight hackathon to address the issue."
+    },
+    {
+      "t": 1990.63,
+      "text": "Her proactive stance and quick thinking galvanized her team into action."
+    },
+    {
+      "t": 1995.95,
+      "text": "Throughout the night, Anita and her colleagues worked tirelessly not only to fix the flaw but also to enhance the software's overall security features."
+    },
+    {
+      "t": 2007.33,
+      "text": "By morning, the team had resolved the issue and improved the software's performance."
+    },
+    {
+      "t": 2013.8,
+      "text": "The successful handling of the crisis transformed a potential disaster into a testament to the team's dedication and skill."
+    },
+    {
+      "t": 2022.79,
+      "text": "At the product launch, the CEO publicly commended Anita and her team for their exceptional effort, highlighting their commitment to quality and security."
+    },
+    {
+      "t": 2034.46,
+      "text": "This recognition not only boosted the team's morale but also solidified their reputation within the tech community."
+    },
+    {
+      "t": 2042.73,
+      "text": "Conclusion, Anita's story underscores the importance of vigilance and swift action in the tech industry."
+    },
+    {
+      "t": 2051.03,
+      "text": "Facing unexpected challenges with determination and teamwork can lead to unforeseen opportunities and enhance both personal and company growth."
+    },
+    {
+      "t": 2061.77,
+      "text": "Now, let's listen to the story again."
+    },
+    {
+      "t": 2065.35,
+      "text": "Story 8, Bridging the Gap."
+    },
+    {
+      "t": 2068.24,
+      "text": "Introduction, Mark, an HR manager, is tasked with integrating two culturally diverse teams after a company merger."
+    },
+    {
+      "t": 2078.13,
+      "text": "Story following the merger of Initech with its European competitor Eurotech, Mark faced the challenge of merging two teams with distinctly different corporate cultures."
+    },
+    {
+      "t": 2090.39,
+      "text": "His goal was to facilitate a seamless integration that would foster an inclusive and productive environment."
+    },
+    {
+      "t": 2098.34,
+      "text": "Mark organized a series of workshops focused on intercultural communication, allowing team members to learn about each other's backgrounds and work styles."
+    },
+    {
+      "t": 2109.46,
+      "text": "He encouraged open discussions and team-building activities that highlighted the strengths of both cultures."
+    },
+    {
+      "t": 2117.72,
+      "text": "To address language barriers, Mark introduced bilingual resources and translation tools to ensure clear communication."
+    },
+    {
+      "t": 2127.16,
+      "text": "He also implemented regular check-ins to monitor the integration process and address any issues promptly."
+    },
+    {
+      "t": 2135.32,
+      "text": "Through these efforts, the teams gradually started to function as a unified group, appreciating their diverse perspectives and collaborating more effectively on projects."
+    },
+    {
+      "t": 2148.3,
+      "text": "This successful integration not only boosted productivity but also created a more dynamic and innovative workplace."
+    },
+    {
+      "t": 2157.14,
+      "text": "Conclusion, Mark's story highlights the importance of thoughtful leadership and strategic planning in managing cultural integration within a business."
+    },
+    {
+      "t": 2168.34,
+      "text": "By prioritizing communication and mutual respect, businesses can overcome cultural barriers and harness the full potential of their diverse teams."
+    }
+  ],
+  "lemmas": [
+    [
+      "story",
+      48
+    ],
+    [
+      "team",
+      44
+    ],
+    [
+      "company",
+      24
+    ],
+    [
+      "listen",
+      23
+    ],
+    [
+      "also",
+      21
+    ],
+    [
+      "meet",
+      20
+    ],
+    [
+      "business",
+      19
+    ],
+    [
+      "tom",
+      17
+    ],
+    [
+      "product",
+      16
+    ],
+    [
+      "alex",
+      16
+    ],
+    [
+      "new",
+      15
+    ],
+    [
+      "conference",
+      15
+    ],
+    [
+      "market",
+      15
+    ],
+    [
+      "client",
+      15
+    ],
+    [
+      "sarah",
+      14
+    ],
+    [
+      "pitch",
+      13
+    ],
+    [
+      "potential",
+      13
+    ],
+    [
+      "lead",
+      13
+    ],
+    [
+      "idea",
+      12
+    ],
+    [
+      "project",
+      12
+    ],
+    [
+      "jessica",
+      12
+    ],
+    [
+      "address",
+      11
+    ],
+    [
+      "negotiation",
+      11
+    ],
+    [
+      "present",
+      10
+    ],
+    [
+      "fac",
+      10
+    ],
+    [
+      "communication",
+      10
+    ],
+    [
+      "cultural",
+      10
+    ],
+    [
+      "member",
+      10
+    ],
+    [
+      "highlight",
+      10
+    ],
+    [
+      "sal",
+      10
+    ],
+    [
+      "innovative",
+      9
+    ],
+    [
+      "challeng",
+      9
+    ],
+    [
+      "solution",
+      9
+    ],
+    [
+      "contract",
+      9
+    ],
+    [
+      "interest",
+      9
+    ],
+    [
+      "tech",
+      9
+    ],
+    [
+      "software",
+      9
+    ],
+    [
+      "customer",
+      9
+    ],
+    [
+      "session",
+      8
+    ],
+    [
+      "enhance",
+      8
+    ],
+    [
+      "skill",
+      8
+    ],
+    [
+      "career",
+      8
+    ],
+    [
+      "room",
+      8
+    ],
+    [
+      "clear",
+      8
+    ],
+    [
+      "align",
+      8
+    ],
+    [
+      "conclusion",
+      8
+    ],
+    [
+      "ability",
+      8
+    ],
+    [
+      "john",
+      8
+    ],
+    [
+      "end",
+      8
+    ],
+    [
+      "manager",
+      8
+    ],
+    [
+      "approach",
+      8
+    ],
+    [
+      "propos",
+      8
+    ],
+    [
+      "unexpect",
+      7
+    ],
+    [
+      "emma",
+      7
+    ],
+    [
+      "success",
+      7
+    ],
+    [
+      "understand",
+      7
+    ],
+    [
+      "concern",
+      7
+    ],
+    [
+      "mr",
+      7
+    ],
+    [
+      "key",
+      7
+    ],
+    [
+      "major",
+      7
+    ],
+    [
+      "day",
+      7
+    ],
+    [
+      "investor",
+      7
+    ],
+    [
+      "change",
+      7
+    ],
+    [
+      "benefit",
+      7
+    ],
+    [
+      "preparation",
+      7
+    ],
+    [
+      "derek",
+      7
+    ],
+    [
+      "emily",
+      7
+    ],
+    [
+      "introduction",
+      7
+    ],
+    [
+      "significantly",
+      6
+    ],
+    [
+      "proposal",
+      6
+    ],
+    [
+      "prepar",
+      6
+    ],
+    [
+      "senior",
+      6
+    ],
+    [
+      "know",
+      6
+    ],
+    [
+      "presentation",
+      6
+    ],
+    [
+      "open",
+      6
+    ],
+    [
+      "think",
+      6
+    ],
+    [
+      "supplier",
+      6
+    ],
+    [
+      "support",
+      6
+    ],
+    [
+      "linda",
+      6
+    ],
+    [
+      "one",
+      6
+    ],
+    [
+      "proactive",
+      6
+    ],
+    [
+      "turn",
+      6
+    ],
+    [
+      "commitment",
+      6
+    ],
+    [
+      "opportuniti",
+      6
+    ],
+    [
+      "startup",
+      6
+    ],
+    [
+      "michael",
+      6
+    ],
+    [
+      "innovation",
+      6
+    ],
+    [
+      "foster",
+      6
+    ],
+    [
+      "vanessa",
+      6
+    ],
+    [
+      "leon",
+      6
+    ],
+    [
+      "anita",
+      6
+    ],
+    [
+      "learn",
+      5
+    ],
+    [
+      "today",
+      5
+    ],
+    [
+      "engag",
+      5
+    ],
+    [
+      "language",
+      5
+    ],
+    [
+      "sustainability",
+      5
+    ],
+    [
+      "showcas",
+      5
+    ],
+    [
+      "data",
+      5
+    ],
+    [
+      "set",
+      5
+    ],
+    [
+      "strategic",
+      5
+    ],
+    [
+      "cost",
+      5
+    ],
+    [
+      "handl",
+      5
+    ],
+    [
+      "benson",
+      5
+    ],
+    [
+      "acknowledg",
+      5
+    ],
+    [
+      "explain",
+      5
+    ],
+    [
+      "offer",
+      5
+    ],
+    [
+      "differenc",
+      5
+    ],
+    [
+      "successful",
+      5
+    ],
+    [
+      "inform",
+      5
+    ],
+    [
+      "goal",
+      5
+    ],
+    [
+      "industry",
+      5
+    ],
+    [
+      "green",
+      5
+    ],
+    [
+      "price",
+      5
+    ],
+    [
+      "increase",
+      5
+    ],
+    [
+      "encourag",
+      5
+    ],
+    [
+      "big",
+      5
+    ],
+    [
+      "integration",
+      5
+    ],
+    [
+      "strategy",
+      5
+    ],
+    [
+      "importance",
+      5
+    ],
+    [
+      "mark",
+      5
+    ],
+    [
+      "english",
+      4
+    ],
+    [
+      "management",
+      4
+    ],
+    [
+      "challenge",
+      4
+    ],
+    [
+      "feel",
+      4
+    ],
+    [
+      "critical",
+      4
+    ],
+    [
+      "everyone",
+      4
+    ],
+    [
+      "opportunity",
+      4
+    ],
+    [
+      "begin",
+      4
+    ],
+    [
+      "eco-friendly",
+      4
+    ],
+    [
+      "material",
+      4
+    ],
+    [
+      "reputation",
+      4
+    ],
+    [
+      "forward",
+      4
+    ],
+    [
+      "nod",
+      4
+    ],
+    [
+      "follow",
+      4
+    ],
+    [
+      "situation",
+      4
+    ],
+    [
+      "task",
+      4
+    ],
+    [
+      "arriv",
+      4
+    ],
+    [
+      "express",
+      4
+    ],
+    [
+      "ensure",
+      4
+    ],
+    [
+      "effectively",
+      4
+    ],
+    [
+      "empathy",
+      4
+    ],
+    [
+      "value",
+      4
+    ],
+    [
+      "agre",
+      4
+    ],
+    [
+      "partnership",
+      4
+    ],
+    [
+      "barrier",
+      4
+    ],
+    [
+      "international",
+      4
+    ],
+    [
+      "launch",
+      4
+    ],
+    [
+      "collaboration",
+      4
+    ],
+    [
+      "diverse",
+      4
+    ],
+    [
+      "creat",
+      4
+    ],
+    [
+      "adjust",
+      4
+    ],
+    [
+      "valu",
+      4
+    ],
+    [
+      "crisis",
+      4
+    ],
+    [
+      "recall",
+      4
+    ],
+    [
+      "maintain",
+      4
+    ],
+    [
+      "transparency",
+      4
+    ],
+    [
+      "organiz",
+      4
+    ],
+    [
+      "provid",
+      4
+    ],
+    [
+      "take",
+      4
+    ],
+    [
+      "network",
+      4
+    ],
+    [
+      "growth",
+      4
+    ],
+    [
+      "ceo",
+      4
+    ],
+    [
+      "make",
+      4
+    ],
+    [
+      "discussion",
+      4
+    ],
+    [
+      "introduc",
+      4
+    ],
+    [
+      "featur",
+      4
+    ],
+    [
+      "impress",
+      4
+    ],
+    [
+      "discuss",
+      4
+    ],
+    [
+      "security",
+      4
+    ],
+    [
+      "confidence",
+      4
+    ],
+    [
+      "focus",
+      4
+    ],
+    [
+      "specific",
+      4
+    ],
+    [
+      "corp",
+      4
+    ],
+    [
+      "demonstrat",
+      4
+    ],
+    [
+      "within",
+      4
+    ],
+    [
+      "boost",
+      4
+    ],
+    [
+      "issu",
+      4
+    ],
+    [
+      "even",
+      4
+    ],
+    [
+      "experience",
+      4
+    ],
+    [
+      "relationship",
+      4
+    ],
+    [
+      "speak",
+      3
+    ],
+    [
+      "welcome",
+      3
+    ],
+    [
+      "various",
+      3
+    ],
+    [
+      "first",
+      3
+    ],
+    [
+      "corporate",
+      3
+    ],
+    [
+      "attention",
+      3
+    ],
+    [
+      "detail",
+      3
+    ],
+    [
+      "creative",
+      3
+    ],
+    [
+      "enter",
+      3
+    ],
+    [
+      "greet",
+      3
+    ],
+    [
+      "morn",
+      3
+    ],
+    [
+      "voice",
+      3
+    ],
+    [
+      "vision",
+      3
+    ],
+    [
+      "meticulously",
+      3
+    ],
+    [
+      "see",
+      3
+    ],
+    [
+      "consumer",
+      3
+    ],
+    [
+      "intently",
+      3
+    ],
+    [
+      "pric",
+      3
+    ],
+    [
+      "initiative",
+      3
+    ],
+    [
+      "long-term",
+      3
+    ],
+    [
+      "look",
+      3
+    ],
+    [
+      "move",
+      3
+    ],
+    [
+      "navigat",
+      3
+    ],
+    [
+      "conversation",
+      3
+    ],
+    [
+      "threaten",
+      3
+    ],
+    [
+      "diplomatic",
+      3
+    ],
+    [
+      "consider",
+      3
+    ],
+    [
+      "performance",
+      3
+    ],
+    [
+      "point",
+      3
+    ],
+    [
+      "term",
+      3
+    ],
+    [
+      "additional",
+      3
+    ],
+    [
+      "firm",
+      3
+    ],
+    [
+      "global",
+      3
+    ],
+    [
+      "crucial",
+      3
+    ],
+    [
+      "different",
+      3
+    ],
+    [
+      "depend",
+      3
+    ],
+    [
+      "participant",
+      3
+    ],
+    [
+      "smil",
+      3
+    ],
+    [
+      "effort",
+      3
+    ],
+    [
+      "ensur",
+      3
+    ],
+    [
+      "arrang",
+      3
+    ],
+    [
+      "respect",
+      3
+    ],
+    [
+      "explore",
+      3
+    ],
+    [
+      "trust",
+      3
+    ],
+    [
+      "service",
+      3
+    ],
+    [
+      "director",
+      3
+    ],
+    [
+      "quickly",
+      3
+    ],
+    [
+      "step",
+      3
+    ],
+    [
+      "exchange",
+      3
+    ],
+    [
+      "issue",
+      3
+    ],
+    [
+      "manag",
+      3
+    ],
+    [
+      "discover",
+      3
+    ],
+    [
+      "find",
+      3
+    ],
+    [
+      "start",
+      3
+    ],
+    [
+      "expand",
+      3
+    ],
+    [
+      "reach",
+      3
+    ],
+    [
+      "leader",
+      3
+    ],
+    [
+      "small",
+      3
+    ],
+    [
+      "operation",
+      3
+    ],
+    [
+      "quick",
+      3
+    ],
+    [
+      "next",
+      3
+    ],
+    [
+      "week",
+      3
+    ],
+    [
+      "tool",
+      3
+    ],
+    [
+      "several",
+      3
+    ],
+    [
+      "effective",
+      3
+    ],
+    [
+      "entire",
+      3
+    ],
+    [
+      "suggest",
+      3
+    ],
+    [
+      "longer",
+      3
+    ],
+    [
+      "help",
+      3
+    ],
+    [
+      "parti",
+      3
+    ],
+    [
+      "leadership",
+      3
+    ],
+    [
+      "department",
+      3
+    ],
+    [
+      "significant",
+      3
+    ],
+    [
+      "process",
+      3
+    ],
+    [
+      "chang",
+      3
+    ],
+    [
+      "transition",
+      3
+    ],
+    [
+      "inclusive",
+      3
+    ],
+    [
+      "transform",
+      3
+    ],
+    [
+      "month",
+      3
+    ],
+    [
+      "thorough",
+      3
+    ],
+    [
+      "need",
+      3
+    ],
+    [
+      "two",
+      3
+    ],
+    [
+      "decid",
+      3
+    ],
+    [
+      "however",
+      3
+    ],
+    [
+      "board",
+      3
+    ],
+    [
+      "began",
+      3
+    ],
+    [
+      "passion",
+      3
+    ],
+    [
+      "appreciat",
+      3
+    ],
+    [
+      "action",
+      3
+    ],
+    [
+      "virtual",
+      3
+    ],
+    [
+      "time",
+      3
+    ],
+    [
+      "initiativ",
+      3
+    ],
+    [
+      "stabletech",
+      3
+    ],
+    [
+      "flaw",
+      3
+    ],
+    [
+      "practice",
+      2
+    ],
+    [
+      "stori",
+      2
+    ],
+    [
+      "dive",
+      2
+    ],
+    [
+      "high-stak",
+      2
+    ],
+    [
+      "design",
+      2
+    ],
+    [
+      "year",
+      2
+    ],
+    [
+      "line",
+      2
+    ],
+    [
+      "ready",
+      2
+    ],
+    [
+      "executiv",
+      2
+    ],
+    [
+      "good",
+      2
+    ],
+    [
+      "slid",
+      2
+    ],
+    [
+      "segment",
+      2
+    ],
+    [
+      "grow",
+      2
+    ],
+    [
+      "appeal",
+      2
+    ],
+    [
+      "environmentally",
+      2
+    ],
+    [
+      "conscious",
+      2
+    ],
+    [
+      "us",
+      2
+    ],
+    [
+      "competitor",
+      2
+    ],
+    [
+      "identifi",
+      2
+    ],
+    [
+      "provide",
+      2
+    ],
+    [
+      "sustainable",
+      2
+    ],
+    [
+      "competitive",
+      2
+    ],
+    [
+      "conclud",
+      2
+    ],
+    [
+      "tension",
+      2
+    ],
+    [
+      "profitability",
+      2
+    ],
+    [
+      "together",
+      2
+    ],
+    [
+      "thoughtful",
+      2
+    ],
+    [
+      "advanc",
+      2
+    ],
+    [
+      "toward",
+      2
+    ],
+    [
+      "difficult",
+      2
+    ],
+    [
+      "account",
+      2
+    ],
+    [
+      "tough",
+      2
+    ],
+    [
+      "without",
+      2
+    ],
+    [
+      "frustration",
+      2
+    ],
+    [
+      "current",
+      2
+    ],
+    [
+      "lay",
+      2
+    ],
+    [
+      "recent",
+      2
+    ],
+    [
+      "campaign",
+      2
+    ],
+    [
+      "believe",
+      2
+    ],
+    [
+      "tablet",
+      2
+    ],
+    [
+      "negotiat",
+      2
+    ],
+    [
+      "valuable",
+      2
+    ],
+    [
+      "reinforc",
+      2
+    ],
+    [
+      "role",
+      2
+    ],
+    [
+      "bridg",
+      2
+    ],
+    [
+      "video",
+      2
+    ],
+    [
+      "countri",
+      2
+    ],
+    [
+      "upcom",
+      2
+    ],
+    [
+      "seamless",
+      2
+    ],
+    [
+      "across",
+      2
+    ],
+    [
+      "background",
+      2
+    ],
+    [
+      "native",
+      2
+    ],
+    [
+      "final",
+      2
+    ],
+    [
+      "confidently",
+      2
+    ],
+    [
+      "facilitat",
+      2
+    ],
+    [
+      "styl",
+      2
+    ],
+    [
+      "timeline",
+      2
+    ],
+    [
+      "enhanc",
+      2
+    ],
+    [
+      "severe",
+      2
+    ],
+    [
+      "act",
+      2
+    ],
+    [
+      "swiftly",
+      2
+    ],
+    [
+      "response",
+      2
+    ],
+    [
+      "safety",
+      2
+    ],
+    [
+      "call",
+      2
+    ],
+    [
+      "monitor",
+      2
+    ],
+    [
+      "real-time",
+      2
+    ],
+    [
+      "calm",
+      2
+    ],
+    [
+      "everyth",
+      2
+    ],
+    [
+      "resolve",
+      2
+    ],
+    [
+      "media",
+      2
+    ],
+    [
+      "future",
+      2
+    ],
+    [
+      "commit",
+      2
+    ],
+    [
+      "disaster",
+      2
+    ],
+    [
+      "demonstration",
+      2
+    ],
+    [
+      "attend",
+      2
+    ],
+    [
+      "determin",
+      2
+    ],
+    [
+      "throughout",
+      2
+    ],
+    [
+      "workshop",
+      2
+    ],
+    [
+      "show",
+      2
+    ],
+    [
+      "manage",
+      2
+    ],
+    [
+      "enthusiasm",
+      2
+    ],
+    [
+      "shar",
+      2
+    ],
+    [
+      "user",
+      2
+    ],
+    [
+      "contact",
+      2
+    ],
+    [
+      "invitation",
+      2
+    ],
+    [
+      "secur",
+      2
+    ],
+    [
+      "door",
+      2
+    ],
+    [
+      "win-win",
+      2
+    ],
+    [
+      "procurement",
+      2
+    ],
+    [
+      "ecobuild",
+      2
+    ],
+    [
+      "constraint",
+      2
+    ],
+    [
+      "risk",
+      2
+    ],
+    [
+      "reason",
+      2
+    ],
+    [
+      "cit",
+      2
+    ],
+    [
+      "attentively",
+      2
+    ],
+    [
+      "middle",
+      2
+    ],
+    [
+      "ground",
+      2
+    ],
+    [
+      "encounter",
+      2
+    ],
+    [
+      "smaller",
+      2
+    ],
+    [
+      "collaborative",
+      2
+    ],
+    [
+      "agreement",
+      2
+    ],
+    [
+      "organizational",
+      2
+    ],
+    [
+      "newly",
+      2
+    ],
+    [
+      "dynamic",
+      2
+    ],
+    [
+      "restructur",
+      2
+    ],
+    [
+      "efficiency",
+      2
+    ],
+    [
+      "plan",
+      2
+    ],
+    [
+      "behind",
+      2
+    ],
+    [
+      "run",
+      2
+    ],
+    [
+      "allow",
+      2
+    ],
+    [
+      "question",
+      2
+    ],
+    [
+      "regular",
+      2
+    ],
+    [
+      "check-in",
+      2
+    ],
+    [
+      "group",
+      2
+    ],
+    [
+      "train",
+      2
+    ],
+    [
+      "skepticism",
+      2
+    ],
+    [
+      "deliver",
+      2
+    ],
+    [
+      "compell",
+      2
+    ],
+    [
+      "tailor",
+      2
+    ],
+    [
+      "analytic",
+      2
+    ],
+    [
+      "similar",
+      2
+    ],
+    [
+      "improv",
+      2
+    ],
+    [
+      "recogniz",
+      2
+    ],
+    [
+      "technical",
+      2
+    ],
+    [
+      "emphasiz",
+      2
+    ],
+    [
+      "later",
+      2
+    ],
+    [
+      "receiv",
+      2
+    ],
+    [
+      "empower",
+      2
+    ],
+    [
+      "culture",
+      2
+    ],
+    [
+      "teamwork",
+      2
+    ],
+    [
+      "workplace",
+      2
+    ],
+    [
+      "employe",
+      2
+    ],
+    [
+      "resourc",
+      2
+    ],
+    [
+      "developer",
+      2
+    ],
+    [
+      "experienc",
+      2
+    ],
+    [
+      "despite",
+      2
+    ],
+    [
+      "six",
+      2
+    ],
+    [
+      "overcom",
+      2
+    ],
+    [
+      "adversity",
+      2
+    ],
+    [
+      "slump",
+      2
+    ],
+    [
+      "resilience",
+      2
+    ],
+    [
+      "quarter",
+      2
+    ],
+    [
+      "shift",
+      2
+    ],
+    [
+      "vehicl",
+      2
+    ],
+    [
+      "seri",
+      2
+    ],
+    [
+      "revamp",
+      2
+    ],
+    [
+      "strategi",
+      2
+    ],
+    [
+      "environmental",
+      2
+    ],
+    [
+      "tak",
+      2
+    ],
+    [
+      "morale",
+      2
+    ],
+    [
+      "trend",
+      2
+    ],
+    [
+      "already",
+      2
+    ],
+    [
+      "digital",
+      2
+    ],
+    [
+      "unexpectedly",
+      2
+    ],
+    [
+      "chosen",
+      2
+    ],
+    [
+      "night",
+      2
+    ],
+    [
+      "refin",
+      2
+    ],
+    [
+      "practic",
+      2
+    ],
+    [
+      "delivery",
+      2
+    ],
+    [
+      "deep",
+      2
+    ],
+    [
+      "explanation",
+      2
+    ],
+    [
+      "test",
+      2
+    ],
+    [
+      "full",
+      2
+    ],
+    [
+      "power",
+      2
+    ],
+    [
+      "decade",
+      2
+    ],
+    [
+      "disruption",
+      2
+    ],
+    [
+      "strengthen",
+      2
+    ],
+    [
+      "swift",
+      2
+    ],
+    [
+      "arise",
+      2
+    ],
+    [
+      "includ",
+      2
+    ],
+    [
+      "possible",
+      2
+    ],
+    [
+      "region",
+      2
+    ],
+    [
+      "productive",
+      2
+    ],
+    [
+      "intercultural",
+      2
+    ],
+    [
+      "community",
+      2
+    ],
+    [
+      "compani",
+      2
+    ],
+    [
+      "last",
+      2
+    ],
+    [
+      "minute",
+      2
+    ],
+    [
+      "chance",
+      2
+    ],
+    [
+      "led",
+      2
+    ],
+    [
+      "dedication",
+      2
+    ],
+    [
+      "leap",
+      2
+    ],
+    [
+      "analyst",
+      2
+    ],
+    [
+      "back",
+      2
+    ],
+    [
+      "supervisor",
+      2
+    ],
+    [
+      "reduce",
+      2
+    ],
+    [
+      "personal",
+      2
+    ],
+    [
+      "aspiration",
+      2
+    ],
+    [
+      "mutual",
+      2
+    ],
+    [
+      "joint",
+      2
+    ],
+    [
+      "unforeseen",
+      2
+    ],
+    [
+      "release",
+      2
+    ],
+    [
+      "work",
+      2
+    ],
+    [
+      "softwar",
+      2
+    ],
+    [
+      "merger",
+      2
+    ],
+    [
+      "cultur",
+      2
+    ],
+    [
+      "mak",
+      1
+    ],
+    [
+      "perfect",
+      1
+    ],
+    [
+      "narrativ",
+      1
+    ],
+    [
+      "improve",
+      1
+    ],
+    [
+      "proficiency",
+      1
+    ],
+    [
+      "luxe",
+      1
+    ],
+    [
+      "five",
+      1
+    ],
+    [
+      "steadily",
+      1
+    ],
+    [
+      "climb",
+      1
+    ],
+    [
+      "ladder",
+      1
+    ],
+    [
+      "meticulous",
+      1
+    ],
+    [
+      "insight",
+      1
+    ],
+    [
+      "biggest",
+      1
+    ],
+    [
+      "sleek",
+      1
+    ],
+    [
+      "palm",
+      1
+    ],
+    [
+      "sweaty",
+      1
+    ],
+    [
+      "fill",
+      1
+    ],
+    [
+      "warmly",
+      1
+    ],
+    [
+      "thank",
+      1
+    ],
+    [
+      "confident",
+      1
+    ],
+    [
+      "excit",
+      1
+    ],
+    [
+      "demographic",
+      1
+    ],
+    [
+      "using",
+      1
+    ],
+    [
+      "remote",
+      1
+    ],
+    [
+      "click",
+      1
+    ],
+    [
+      "powerpoint",
+      1
+    ],
+    [
+      "mockup",
+      1
+    ],
+    [
+      "annual",
+      1
+    ],
+    [
+      "rate",
+      1
+    ],
+    [
+      "biodegradable",
+      1
+    ],
+    [
+      "fabric",
+      1
+    ],
+    [
+      "apart",
+      1
+    ],
+    [
+      "silent",
+      1
+    ],
+    [
+      "anticipat",
+      1
+    ],
+    [
+      "regard",
+      1
+    ],
+    [
+      "sourc",
+      1
+    ],
+    [
+      "high-quality",
+      1
+    ],
+    [
+      "brand",
+      1
+    ],
+    [
+      "drive",
+      1
+    ],
+    [
+      "thought",
+      1
+    ],
+    [
+      "eventual",
+      1
+    ],
+    [
+      "endorsement",
+      1
+    ],
+    [
+      "communicate",
+      1
+    ],
+    [
+      "clearly",
+      1
+    ],
+    [
+      "persuasively",
+      1
+    ],
+    [
+      "propel",
+      1
+    ],
+    [
+      "season",
+      1
+    ],
+    [
+      "prestige",
+      1
+    ],
+    [
+      "daunt",
+      1
+    ],
+    [
+      "convinc",
+      1
+    ],
+    [
+      "long-time",
+      1
+    ],
+    [
+      "terminate",
+      1
+    ],
+    [
+      "lucrative",
+      1
+    ],
+    [
+      "office",
+      1
+    ],
+    [
+      "usher",
+      1
+    ],
+    [
+      "stark",
+      1
+    ],
+    [
+      "await",
+      1
+    ],
+    [
+      "preamble",
+      1
+    ],
+    [
+      "happy",
+      1
+    ],
+    [
+      "result",
+      1
+    ],
+    [
+      "option",
+      1
+    ],
+    [
+      "completely",
+      1
+    ],
+    [
+      "argument",
+      1
+    ],
+    [
+      "weve",
+      1
+    ],
+    [
+      "adjustment",
+      1
+    ],
+    [
+      "graph",
+      1
+    ],
+    [
+      "statistic",
+      1
+    ],
+    [
+      "progress",
+      1
+    ],
+    [
+      "respond",
+      1
+    ],
+    [
+      "concrete",
+      1
+    ],
+    [
+      "compromis",
+      1
+    ],
+    [
+      "reliev",
+      1
+    ],
+    [
+      "trial",
+      1
+    ],
+    [
+      "period",
+      1
+    ],
+    [
+      "navigate",
+      1
+    ],
+    [
+      "professionalism",
+      1
+    ],
+    [
+      "salvag",
+      1
+    ],
+    [
+      "player",
+      1
+    ],
+    [
+      "break",
+      1
+    ],
+    [
+      "witness",
+      1
+    ],
+    [
+      "important",
+      1
+    ],
+    [
+      "four",
+      1
+    ],
+    [
+      "draw",
+      1
+    ],
+    [
+      "appreciative",
+      1
+    ],
+    [
+      "expectation",
+      1
+    ],
+    [
+      "phase",
+      1
+    ],
+    [
+      "announc",
+      1
+    ],
+    [
+      "agenda",
+      1
+    ],
+    [
+      "heard",
+      1
+    ],
+    [
+      "apparent",
+      1
+    ],
+    [
+      "direct",
+      1
+    ],
+    [
+      "prefer",
+      1
+    ],
+    [
+      "roundabout",
+      1
+    ],
+    [
+      "tact",
+      1
+    ],
+    [
+      "paraphras",
+      1
+    ],
+    [
+      "statement",
+      1
+    ],
+    [
+      "clarity",
+      1
+    ],
+    [
+      "confirm",
+      1
+    ],
+    [
+      "moment",
+      1
+    ],
+    [
+      "aris",
+      1
+    ],
+    [
+      "misunderstand",
+      1
+    ],
+    [
+      "deadlin",
+      1
+    ],
+    [
+      "japan",
+      1
+    ],
+    [
+      "aggressive",
+      1
+    ],
+    [
+      "believ",
+      1
+    ],
+    [
+      "manageable",
+      1
+    ],
+    [
+      "compromise",
+      1
+    ],
+    [
+      "slightly",
+      1
+    ],
+    [
+      "japanese",
+      1
+    ],
+    [
+      "adept",
+      1
+    ],
+    [
+      "nuanc",
+      1
+    ],
+    [
+      "cooperation",
+      1
+    ],
+    [
+      "stage",
+      1
+    ],
+    [
+      "mastery",
+      1
+    ],
+    [
+      "efficiently",
+      1
+    ],
+    [
+      "sudden",
+      1
+    ],
+    [
+      "healthsafe",
+      1
+    ],
+    [
+      "defect",
+      1
+    ],
+    [
+      "best-sell",
+      1
+    ],
+    [
+      "thousand",
+      1
+    ],
+    [
+      "unit",
+      1
+    ],
+    [
+      "sold",
+      1
+    ],
+    [
+      "implication",
+      1
+    ],
+    [
+      "emergency",
+      1
+    ],
+    [
+      "prioritize",
+      1
+    ],
+    [
+      "instruct",
+      1
+    ],
+    [
+      "hotline",
+      1
+    ],
+    [
+      "dedicat",
+      1
+    ],
+    [
+      "webpage",
+      1
+    ],
+    [
+      "reimbursement",
+      1
+    ],
+    [
+      "flood",
+      1
+    ],
+    [
+      "empathetic",
+      1
+    ],
+    [
+      "feedback",
+      1
+    ],
+    [
+      "faq",
+      1
+    ],
+    [
+      "emerg",
+      1
+    ],
+    [
+      "particularly",
+      1
+    ],
+    [
+      "distress",
+      1
+    ],
+    [
+      "demeanor",
+      1
+    ],
+    [
+      "reassur",
+      1
+    ],
+    [
+      "extremely",
+      1
+    ],
+    [
+      "sorry",
+      1
+    ],
+    [
+      "inconvenience",
+      1
+    ],
+    [
+      "priority",
+      1
+    ],
+    [
+      "catch",
+      1
+    ],
+    [
+      "wind",
+      1
+    ],
+    [
+      "press",
+      1
+    ],
+    [
+      "upfront",
+      1
+    ],
+    [
+      "rectify",
+      1
+    ],
+    [
+      "measur",
+      1
+    ],
+    [
+      "prevent",
+      1
+    ],
+    [
+      "occurrenc",
+      1
+    ],
+    [
+      "uphold",
+      1
+    ],
+    [
+      "highest",
+      1
+    ],
+    [
+      "standard",
+      1
+    ],
+    [
+      "regain",
+      1
+    ],
+    [
+      "declar",
+      1
+    ],
+    [
+      "transparent",
+      1
+    ],
+    [
+      "pr",
+      1
+    ],
+    [
+      "care",
+      1
+    ],
+    [
+      "execut",
+      1
+    ],
+    [
+      "smoothly",
+      1
+    ],
+    [
+      "largely",
+      1
+    ],
+    [
+      "retain",
+      1
+    ],
+    [
+      "art",
+      1
+    ],
+    [
+      "leverag",
+      1
+    ],
+    [
+      "innovate",
+      1
+    ],
+    [
+      "arm",
+      1
+    ],
+    [
+      "card",
+      1
+    ],
+    [
+      "polish",
+      1
+    ],
+    [
+      "elevator",
+      1
+    ],
+    [
+      "smile",
+      1
+    ],
+    [
+      "meaningful",
+      1
+    ],
+    [
+      "connection",
+      1
+    ],
+    [
+      "panel",
+      1
+    ],
+    [
+      "participat",
+      1
+    ],
+    [
+      "lunch",
+      1
+    ],
+    [
+      "revolutionize",
+      1
+    ],
+    [
+      "way",
+      1
+    ],
+    [
+      "evident",
+      1
+    ],
+    [
+      "demo",
+      1
+    ],
+    [
+      "testimonial",
+      1
+    ],
+    [
+      "quite",
+      1
+    ],
+    [
+      "schedule",
+      1
+    ],
+    [
+      "information",
+      1
+    ],
+    [
+      "crm",
+      1
+    ],
+    [
+      "promis",
+      1
+    ],
+    [
+      "webinar",
+      1
+    ],
+    [
+      "expansion",
+      1
+    ],
+    [
+      "position",
+      1
+    ],
+    [
+      "turnaround",
+      1
+    ],
+    [
+      "potentially",
+      1
+    ],
+    [
+      "disastrous",
+      1
+    ],
+    [
+      "budget",
+      1
+    ],
+    [
+      "unacceptable",
+      1
+    ],
+    [
+      "atmosphere",
+      1
+    ],
+    [
+      "tense",
+      1
+    ],
+    [
+      "hike",
+      1
+    ],
+    [
+      "increas",
+      1
+    ],
+    [
+      "raw",
+      1
+    ],
+    [
+      "inflation",
+      1
+    ],
+    [
+      "stabilize",
+      1
+    ],
+    [
+      "three",
+      1
+    ],
+    [
+      "coupl",
+      1
+    ],
+    [
+      "extend",
+      1
+    ],
+    [
+      "servic",
+      1
+    ],
+    [
+      "add",
+      1
+    ],
+    [
+      "deal",
+      1
+    ],
+    [
+      "satisfi",
+      1
+    ],
+    [
+      "propose",
+      1
+    ],
+    [
+      "spirit",
+      1
+    ],
+    [
+      "continuation",
+      1
+    ],
+    [
+      "feasible",
+      1
+    ],
+    [
+      "guid",
+      1
+    ],
+    [
+      "appoint",
+      1
+    ],
+    [
+      "aim",
+      1
+    ],
+    [
+      "apprehension",
+      1
+    ],
+    [
+      "resistance",
+      1
+    ],
+    [
+      "conven",
+      1
+    ],
+    [
+      "department-wide",
+      1
+    ],
+    [
+      "unsettl",
+      1
+    ],
+    [
+      "transparently",
+      1
+    ],
+    [
+      "long",
+      1
+    ],
+    [
+      "dialogue",
+      1
+    ],
+    [
+      "ease",
+      1
+    ],
+    [
+      "meeting",
+      1
+    ],
+    [
+      "tackle",
+      1
+    ],
+    [
+      "aspect",
+      1
+    ],
+    [
+      "rol",
+      1
+    ],
+    [
+      "responsibiliti",
+      1
+    ],
+    [
+      "style",
+      1
+    ],
+    [
+      "initial",
+      1
+    ],
+    [
+      "direction",
+      1
+    ],
+    [
+      "stronger",
+      1
+    ],
+    [
+      "adaptable",
+      1
+    ],
+    [
+      "watch",
+      1
+    ],
+    [
+      "customiz",
+      1
+    ],
+    [
+      "executive",
+      1
+    ],
+    [
+      "pursu",
+      1
+    ],
+    [
+      "latest",
+      1
+    ],
+    [
+      "finally",
+      1
+    ],
+    [
+      "stand",
+      1
+    ],
+    [
+      "competition",
+      1
+    ],
+    [
+      "headquarter",
+      1
+    ],
+    [
+      "pain",
+      1
+    ],
+    [
+      "research",
+      1
+    ],
+    [
+      "streamlin",
+      1
+    ],
+    [
+      "decision",
+      1
+    ],
+    [
+      "user-friendly",
+      1
+    ],
+    [
+      "interface",
+      1
+    ],
+    [
+      "case",
+      1
+    ],
+    [
+      "studi",
+      1
+    ],
+    [
+      "industri",
+      1
+    ],
+    [
+      "smooth",
+      1
+    ],
+    [
+      "connect",
+      1
+    ],
+    [
+      "resonate",
+      1
+    ],
+    [
+      "system",
+      1
+    ],
+    [
+      "confirmation",
+      1
+    ],
+    [
+      "mov",
+      1
+    ],
+    [
+      "observe",
+      1
+    ],
+    [
+      "creatitech",
+      1
+    ],
+    [
+      "passionate",
+      1
+    ],
+    [
+      "build",
+      1
+    ],
+    [
+      "flourish",
+      1
+    ],
+    [
+      "creativity",
+      1
+    ],
+    [
+      "stay",
+      1
+    ],
+    [
+      "kickstart",
+      1
+    ],
+    [
+      "monthly",
+      1
+    ],
+    [
+      "matter",
+      1
+    ],
+    [
+      "unconventional",
+      1
+    ],
+    [
+      "receive",
+      1
+    ],
+    [
+      "fund",
+      1
+    ],
+    [
+      "development",
+      1
+    ],
+    [
+      "junior",
+      1
+    ],
+    [
+      "hesitantly",
+      1
+    ],
+    [
+      "concept",
+      1
+    ],
+    [
+      "ai-driven",
+      1
+    ],
+    [
+      "personalize",
+      1
+    ],
+    [
+      "platform",
+      1
+    ],
+    [
+      "outside",
+      1
+    ],
+    [
+      "box",
+      1
+    ],
+    [
+      "greenlight",
+      1
+    ],
+    [
+      "pair",
+      1
+    ],
+    [
+      "mentor",
+      1
+    ],
+    [
+      "develop",
+      1
+    ],
+    [
+      "prototype",
+      1
+    ],
+    [
+      "breakthrough",
+      1
+    ],
+    [
+      "profile",
+      1
+    ],
+    [
+      "revenu",
+      1
+    ],
+    [
+      "spur",
+      1
+    ],
+    [
+      "highly",
+      1
+    ],
+    [
+      "motivat",
+      1
+    ],
+    [
+      "workforce",
+      1
+    ],
+    [
+      "veteran",
+      1
+    ],
+    [
+      "autoworld",
+      1
+    ],
+    [
+      "toughest",
+      1
+    ],
+    [
+      "low",
+      1
+    ],
+    [
+      "affect",
+      1
+    ],
+    [
+      "give",
+      1
+    ],
+    [
+      "easily",
+      1
+    ],
+    [
+      "combat",
+      1
+    ],
+    [
+      "analyz",
+      1
+    ],
+    [
+      "identify",
+      1
+    ],
+    [
+      "underly",
+      1
+    ],
+    [
+      "notic",
+      1
+    ],
+    [
+      "preferenc",
+      1
+    ],
+    [
+      "educat",
+      1
+    ],
+    [
+      "model",
+      1
+    ],
+    [
+      "economic",
+      1
+    ],
+    [
+      "renew",
+      1
+    ],
+    [
+      "vigor",
+      1
+    ],
+    [
+      "messag",
+      1
+    ],
+    [
+      "incentiv",
+      1
+    ],
+    [
+      "personally",
+      1
+    ],
+    [
+      "paid",
+      1
+    ],
+    [
+      "number",
+      1
+    ],
+    [
+      "rebound",
+      1
+    ],
+    [
+      "outperform",
+      1
+    ],
+    [
+      "adapt",
+      1
+    ],
+    [
+      "sav",
+      1
+    ],
+    [
+      "teach",
+      1
+    ],
+    [
+      "lesson",
+      1
+    ],
+    [
+      "adaptability",
+      1
+    ],
+    [
+      "titl",
+      1
+    ],
+    [
+      "young",
+      1
+    ],
+    [
+      "specialist",
+      1
+    ],
+    [
+      "jackson",
+      1
+    ],
+    [
+      "caught",
+      1
+    ],
+    [
+      "rehears",
+      1
+    ],
+    [
+      "diligently",
+      1
+    ],
+    [
+      "speech",
+      1
+    ],
+    [
+      "cat",
+      1
+    ],
+    [
+      "audience",
+      1
+    ],
+    [
+      "understood",
+      1
+    ],
+    [
+      "content",
+      1
+    ],
+    [
+      "early",
+      1
+    ],
+    [
+      "impeccably",
+      1
+    ],
+    [
+      "dress",
+      1
+    ],
+    [
+      "navy",
+      1
+    ],
+    [
+      "blue",
+      1
+    ],
+    [
+      "suit",
+      1
+    ],
+    [
+      "check",
+      1
+    ],
+    [
+      "projector",
+      1
+    ],
+    [
+      "handout",
+      1
+    ],
+    [
+      "nerv",
+      1
+    ],
+    [
+      "tingl",
+      1
+    ],
+    [
+      "breath",
+      1
+    ],
+    [
+      "strong",
+      1
+    ],
+    [
+      "captur",
+      1
+    ],
+    [
+      "everyon",
+      1
+    ],
+    [
+      "skillfully",
+      1
+    ],
+    [
+      "behavior",
+      1
+    ],
+    [
+      "multi-platform",
+      1
+    ],
+    [
+      "combin",
+      1
+    ],
+    [
+      "social",
+      1
+    ],
+    [
+      "tactic",
+      1
+    ],
+    [
+      "traditional",
+      1
+    ],
+    [
+      "channel",
+      1
+    ],
+    [
+      "visual",
+      1
+    ],
+    [
+      "keep",
+      1
+    ],
+    [
+      "wrap",
+      1
+    ],
+    [
+      "pilot",
+      1
+    ],
+    [
+      "rollout",
+      1
+    ],
+    [
+      "appreciation",
+      1
+    ],
+    [
+      "rare",
+      1
+    ],
+    [
+      "sign",
+      1
+    ],
+    [
+      "approval",
+      1
+    ],
+    [
+      "ultimately",
+      1
+    ],
+    [
+      "inspire",
+      1
+    ],
+    [
+      "exemplifi",
+      1
+    ],
+    [
+      "significance",
+      1
+    ],
+    [
+      "scenario",
+      1
+    ],
+    [
+      "embrac",
+      1
+    ],
+    [
+      "qualiti",
+      1
+    ],
+    [
+      "anyone",
+      1
+    ],
+    [
+      "regardless",
+      1
+    ],
+    [
+      "level",
+      1
+    ],
+    [
+      "revisit",
+      1
+    ],
+    [
+      "dal",
+      1
+    ],
+    [
+      "technowidget",
+      1
+    ],
+    [
+      "inc",
+      1
+    ],
+    [
+      "prid",
+      1
+    ],
+    [
+      "relationship-build",
+      1
+    ],
+    [
+      "email",
+      1
+    ],
+    [
+      "largest",
+      1
+    ],
+    [
+      "dissatisfaction",
+      1
+    ],
+    [
+      "request",
+      1
+    ],
+    [
+      "in-person",
+      1
+    ],
+    [
+      "face-to-face",
+      1
+    ],
+    [
+      "delay",
+      1
+    ],
+    [
+      "supply",
+      1
+    ],
+    [
+      "chain",
+      1
+    ],
+    [
+      "assur",
+      1
+    ],
+    [
+      "gesture",
+      1
+    ],
+    [
+      "goodwill",
+      1
+    ],
+    [
+      "temporary",
+      1
+    ],
+    [
+      "discount",
+      1
+    ],
+    [
+      "upgrad",
+      1
+    ],
+    [
+      "package",
+      1
+    ],
+    [
+      "honesty",
+      1
+    ],
+    [
+      "continue",
+      1
+    ],
+    [
+      "possibiliti",
+      1
+    ],
+    [
+      "sincere",
+      1
+    ],
+    [
+      "loss",
+      1
+    ],
+    [
+      "problem",
+      1
+    ],
+    [
+      "head-on",
+      1
+    ],
+    [
+      "cross-cultural",
+      1
+    ],
+    [
+      "offic",
+      1
+    ],
+    [
+      "recently",
+      1
+    ],
+    [
+      "europe",
+      1
+    ],
+    [
+      "asia",
+      1
+    ],
+    [
+      "schedul",
+      1
+    ],
+    [
+      "event",
+      1
+    ],
+    [
+      "attende",
+      1
+    ],
+    [
+      "accommodate",
+      1
+    ],
+    [
+      "many",
+      1
+    ],
+    [
+      "zon",
+      1
+    ],
+    [
+      "basic",
+      1
+    ],
+    [
+      "greeting",
+      1
+    ],
+    [
+      "languag",
+      1
+    ],
+    [
+      "country",
+      1
+    ],
+    [
+      "brought",
+      1
+    ],
+    [
+      "surpris",
+      1
+    ],
+    [
+      "input",
+      1
+    ],
+    [
+      "glitch",
+      1
+    ],
+    [
+      "lively",
+      1
+    ],
+    [
+      "invit",
+      1
+    ],
+    [
+      "guest",
+      1
+    ],
+    [
+      "speaker",
+      1
+    ],
+    [
+      "specializ",
+      1
+    ],
+    [
+      "practical",
+      1
+    ],
+    [
+      "tip",
+      1
+    ],
+    [
+      "border",
+      1
+    ],
+    [
+      "breakout",
+      1
+    ],
+    [
+      "local",
+      1
+    ],
+    [
+      "sense",
+      1
+    ],
+    [
+      "illustrat",
+      1
+    ],
+    [
+      "sensitivity",
+      1
+    ],
+    [
+      "setting",
+      1
+    ],
+    [
+      "founder",
+      1
+    ],
+    [
+      "get",
+      1
+    ],
+    [
+      "little",
+      1
+    ],
+    [
+      "ecoinnovate",
+      1
+    ],
+    [
+      "gain",
+      1
+    ],
+    [
+      "traction",
+      1
+    ],
+    [
+      "packag",
+      1
+    ],
+    [
+      "surprise",
+      1
+    ],
+    [
+      "prepare",
+      1
+    ],
+    [
+      "stak",
+      1
+    ],
+    [
+      "high",
+      1
+    ],
+    [
+      "emphasize",
+      1
+    ],
+    [
+      "unique",
+      1
+    ],
+    [
+      "proposition",
+      1
+    ],
+    [
+      "scalability",
+      1
+    ],
+    [
+      "used",
+      1
+    ],
+    [
+      "vivid",
+      1
+    ],
+    [
+      "exampl",
+      1
+    ],
+    [
+      "difference",
+      1
+    ],
+    [
+      "visually",
+      1
+    ],
+    [
+      "slide",
+      1
+    ],
+    [
+      "deck",
+      1
+    ],
+    [
+      "figur",
+      1
+    ],
+    [
+      "answer",
+      1
+    ],
+    [
+      "prob",
+      1
+    ],
+    [
+      "projection",
+      1
+    ],
+    [
+      "landscape",
+      1
+    ],
+    [
+      "follow-up",
+      1
+    ],
+    [
+      "investment",
+      1
+    ],
+    [
+      "pressure",
+      1
+    ],
+    [
+      "agility",
+      1
+    ],
+    [
+      "seiz",
+      1
+    ],
+    [
+      "well-deliver",
+      1
+    ],
+    [
+      "attract",
+      1
+    ],
+    [
+      "especially",
+      1
+    ],
+    [
+      "contemplat",
+      1
+    ],
+    [
+      "pursue",
+      1
+    ],
+    [
+      "spent",
+      1
+    ],
+    [
+      "nearly",
+      1
+    ],
+    [
+      "fincorp",
+      1
+    ],
+    [
+      "excell",
+      1
+    ],
+    [
+      "financial",
+      1
+    ],
+    [
+      "form",
+      1
+    ],
+    [
+      "risky",
+      1
+    ],
+    [
+      "leav",
+      1
+    ],
+    [
+      "comfort",
+      1
+    ],
+    [
+      "zone",
+      1
+    ],
+    [
+      "field",
+      1
+    ],
+    [
+      "less",
+      1
+    ],
+    [
+      "deliberation",
+      1
+    ],
+    [
+      "analytical",
+      1
+    ],
+    [
+      "achieve",
+      1
+    ],
+    [
+      "head",
+      1
+    ],
+    [
+      "passionately",
+      1
+    ],
+    [
+      "outlin",
+      1
+    ],
+    [
+      "carbon",
+      1
+    ],
+    [
+      "footprint",
+      1
+    ],
+    [
+      "transfer",
+      1
+    ],
+    [
+      "win",
+      1
+    ],
+    [
+      "example",
+      1
+    ],
+    [
+      "yield",
+      1
+    ],
+    [
+      "calculat",
+      1
+    ],
+    [
+      "fulfill",
+      1
+    ],
+    [
+      "transformation",
+      1
+    ],
+    [
+      "negotiator",
+      1
+    ],
+    [
+      "demand",
+      1
+    ],
+    [
+      "higher",
+      1
+    ],
+    [
+      "due",
+      1
+    ],
+    [
+      "stable",
+      1
+    ],
+    [
+      "essential",
+      1
+    ],
+    [
+      "component",
+      1
+    ],
+    [
+      "manufactur",
+      1
+    ],
+    [
+      "ris",
+      1
+    ],
+    [
+      "disrupt",
+      1
+    ],
+    [
+      "impact",
+      1
+    ],
+    [
+      "vital",
+      1
+    ],
+    [
+      "alternativ",
+      1
+    ],
+    [
+      "larger",
+      1
+    ],
+    [
+      "bulk",
+      1
+    ],
+    [
+      "purchas",
+      1
+    ],
+    [
+      "offset",
+      1
+    ],
+    [
+      "area",
+      1
+    ],
+    [
+      "logistic",
+      1
+    ],
+    [
+      "improvement",
+      1
+    ],
+    [
+      "round",
+      1
+    ],
+    [
+      "balanc",
+      1
+    ],
+    [
+      "immediate",
+      1
+    ],
+    [
+      "modest",
+      1
+    ],
+    [
+      "cost-sav",
+      1
+    ],
+    [
+      "interaction",
+      1
+    ],
+    [
+      "preparedness",
+      1
+    ],
+    [
+      "willingness",
+      1
+    ],
+    [
+      "flagship",
+      1
+    ],
+    [
+      "date",
+      1
+    ],
+    [
+      "loom",
+      1
+    ],
+    [
+      "suite",
+      1
+    ],
+    [
+      "front",
+      1
+    ],
+    [
+      "jeopardize",
+      1
+    ],
+    [
+      "gravity",
+      1
+    ],
+    [
+      "immediately",
+      1
+    ],
+    [
+      "overnight",
+      1
+    ],
+    [
+      "hackathon",
+      1
+    ],
+    [
+      "stance",
+      1
+    ],
+    [
+      "galvaniz",
+      1
+    ],
+    [
+      "colleagu",
+      1
+    ],
+    [
+      "tirelessly",
+      1
+    ],
+    [
+      "fix",
+      1
+    ],
+    [
+      "overall",
+      1
+    ],
+    [
+      "resolv",
+      1
+    ],
+    [
+      "testament",
+      1
+    ],
+    [
+      "publicly",
+      1
+    ],
+    [
+      "commend",
+      1
+    ],
+    [
+      "exceptional",
+      1
+    ],
+    [
+      "quality",
+      1
+    ],
+    [
+      "recognition",
+      1
+    ],
+    [
+      "solidifi",
+      1
+    ],
+    [
+      "underscor",
+      1
+    ],
+    [
+      "vigilance",
+      1
+    ],
+    [
+      "determination",
+      1
+    ],
+    [
+      "gap",
+      1
+    ],
+    [
+      "hr",
+      1
+    ],
+    [
+      "integrat",
+      1
+    ],
+    [
+      "culturally",
+      1
+    ],
+    [
+      "initech",
+      1
+    ],
+    [
+      "european",
+      1
+    ],
+    [
+      "eurotech",
+      1
+    ],
+    [
+      "merg",
+      1
+    ],
+    [
+      "distinctly",
+      1
+    ],
+    [
+      "facilitate",
+      1
+    ],
+    [
+      "environment",
+      1
+    ],
+    [
+      "team-build",
+      1
+    ],
+    [
+      "activiti",
+      1
+    ],
+    [
+      "strength",
+      1
+    ],
+    [
+      "bilingual",
+      1
+    ],
+    [
+      "translation",
+      1
+    ],
+    [
+      "implement",
+      1
+    ],
+    [
+      "promptly",
+      1
+    ],
+    [
+      "gradually",
+      1
+    ],
+    [
+      "function",
+      1
+    ],
+    [
+      "unifi",
+      1
+    ],
+    [
+      "perspectiv",
+      1
+    ],
+    [
+      "collaborat",
+      1
+    ],
+    [
+      "productivity",
+      1
+    ],
+    [
+      "prioritiz",
+      1
+    ],
+    [
+      "overcome",
+      1
+    ],
+    [
+      "harness",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 4221,
+    "unique_words": 1054,
+    "duration_min": 36.4
+  }
+}

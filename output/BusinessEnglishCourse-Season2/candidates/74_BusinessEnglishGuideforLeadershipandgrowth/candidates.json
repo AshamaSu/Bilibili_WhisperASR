@@ -1,0 +1,9745 @@
+{
+  "file_stem": "74_BusinessEnglishGuideforLeadershipandgrowth",
+  "no": 74,
+  "title_keywords": [
+    [
+      "business",
+      "business"
+    ],
+    [
+      "english",
+      "english"
+    ],
+    [
+      "guide",
+      "guide"
+    ],
+    [
+      "leadership",
+      "leadership"
+    ],
+    [
+      "growth",
+      "growth"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "team",
+      32,
+      "A2"
+    ],
+    [
+      "building",
+      31,
+      "A2"
+    ],
+    [
+      "leadership",
+      27,
+      "B1+"
+    ],
+    [
+      "need",
+      27,
+      "A2"
+    ],
+    [
+      "sources",
+      27,
+      "B1+"
+    ],
+    [
+      "plan",
+      26,
+      "A2"
+    ],
+    [
+      "strategic",
+      26,
+      "B1+"
+    ],
+    [
+      "goals",
+      25,
+      "B1+"
+    ],
+    [
+      "data",
+      23,
+      "B1+"
+    ],
+    [
+      "global",
+      23,
+      "B1+"
+    ],
+    [
+      "specific",
+      23,
+      "B1+"
+    ],
+    [
+      "time",
+      22,
+      "A2"
+    ],
+    [
+      "skills",
+      21,
+      "A2"
+    ],
+    [
+      "focused",
+      20,
+      "B1+"
+    ],
+    [
+      "get",
+      20,
+      "A2"
+    ],
+    [
+      "makes",
+      20,
+      "B1+"
+    ],
+    [
+      "one",
+      18,
+      "A2"
+    ],
+    [
+      "exactly",
+      17,
+      "B1+"
+    ],
+    [
+      "impact",
+      17,
+      "B1+"
+    ],
+    [
+      "know",
+      17,
+      "A2"
+    ],
+    [
+      "leaders",
+      17,
+      "B1+"
+    ],
+    [
+      "say",
+      17,
+      "A2"
+    ],
+    [
+      "see",
+      17,
+      "A2"
+    ],
+    [
+      "value",
+      17,
+      "B1+"
+    ],
+    [
+      "business",
+      16,
+      "B1+"
+    ],
+    [
+      "clear",
+      16,
+      "A2"
+    ],
+    [
+      "high",
+      16,
+      "A2"
+    ],
+    [
+      "key",
+      15,
+      "A2"
+    ],
+    [
+      "personal",
+      15,
+      "B1+"
+    ],
+    [
+      "promotion",
+      15,
+      "B1+"
+    ],
+    [
+      "stress",
+      15,
+      "B1+"
+    ],
+    [
+      "work",
+      15,
+      "A2"
+    ],
+    [
+      "first",
+      14,
+      "A2"
+    ],
+    [
+      "means",
+      14,
+      "A2"
+    ],
+    [
+      "review",
+      14,
+      "B1+"
+    ],
+    [
+      "risks",
+      14,
+      "A2"
+    ],
+    [
+      "strategy",
+      14,
+      "B1+"
+    ],
+    [
+      "absolutely",
+      13,
+      "B1+"
+    ],
+    [
+      "every",
+      13,
+      "A2"
+    ],
+    [
+      "feedback",
+      13,
+      "B1+"
+    ],
+    [
+      "thinking",
+      13,
+      "A2"
+    ],
+    [
+      "want",
+      13,
+      "A2"
+    ],
+    [
+      "ambition",
+      12,
+      "B1+"
+    ],
+    [
+      "career",
+      12,
+      "B1+"
+    ],
+    [
+      "critical",
+      12,
+      "B1+"
+    ],
+    [
+      "growth",
+      12,
+      "B1+"
+    ],
+    [
+      "metrics",
+      12,
+      "B1+"
+    ],
+    [
+      "people",
+      12,
+      "A2"
+    ],
+    [
+      "real",
+      12,
+      "A2"
+    ],
+    [
+      "roadmap",
+      12,
+      "B1+"
+    ],
+    [
+      "sure",
+      12,
+      "A2"
+    ],
+    [
+      "training",
+      12,
+      "A2"
+    ],
+    [
+      "also",
+      11,
+      "A2"
+    ],
+    [
+      "back",
+      11,
+      "A2"
+    ],
+    [
+      "keeps",
+      11,
+      "A2"
+    ],
+    [
+      "language",
+      11,
+      "A2"
+    ],
+    [
+      "launch",
+      11,
+      "B1+"
+    ],
+    [
+      "leading",
+      11,
+      "A2"
+    ],
+    [
+      "operational",
+      11,
+      "B1+"
+    ],
+    [
+      "recommend",
+      11,
+      "B1+"
+    ],
+    [
+      "relationship",
+      11,
+      "B1+"
+    ],
+    [
+      "shared",
+      11,
+      "B1+"
+    ],
+    [
+      "shift",
+      11,
+      "B1+"
+    ],
+    [
+      "ensures",
+      10,
+      "B1+"
+    ],
+    [
+      "immediate",
+      10,
+      "B1+"
+    ],
+    [
+      "market",
+      10,
+      "A2"
+    ],
+    [
+      "measurable",
+      10,
+      "B1+"
+    ],
+    [
+      "networking",
+      10,
+      "B1+"
+    ],
+    [
+      "next",
+      10,
+      "A2"
+    ],
+    [
+      "performance",
+      10,
+      "B1+"
+    ],
+    [
+      "product",
+      10,
+      "B1+"
+    ],
+    [
+      "project",
+      10,
+      "B1+"
+    ],
+    [
+      "request",
+      10,
+      "B1+"
+    ],
+    [
+      "start",
+      10,
+      "A2"
+    ],
+    [
+      "use",
+      10,
+      "A2"
+    ],
+    [
+      "immediately",
+      9,
+      "B1+"
+    ],
+    [
+      "look",
+      9,
+      "A2"
+    ],
+    [
+      "monthly",
+      9,
+      "B1+"
+    ],
+    [
+      "phase",
+      9,
+      "B1+"
+    ],
+    [
+      "point",
+      9,
+      "A2"
+    ],
+    [
+      "shows",
+      9,
+      "A2"
+    ],
+    [
+      "simple",
+      9,
+      "A2"
+    ],
+    [
+      "single",
+      9,
+      "A2"
+    ],
+    [
+      "stakeholder",
+      9,
+      "B1+"
+    ],
+    [
+      "track",
+      9,
+      "B1+"
+    ],
+    [
+      "without",
+      9,
+      "A2"
+    ],
+    [
+      "always",
+      8,
+      "B1+"
+    ],
+    [
+      "asia",
+      8,
+      "B1+"
+    ],
+    [
+      "case",
+      8,
+      "A2"
+    ],
+    [
+      "demonstrates",
+      8,
+      "B1+"
+    ],
+    [
+      "directly",
+      8,
+      "B1+"
+    ],
+    [
+      "essential",
+      8,
+      "B1+"
+    ],
+    [
+      "executive",
+      8,
+      "B1+"
+    ],
+    [
+      "gaps",
+      8,
+      "B1+"
+    ],
+    [
+      "influence",
+      8,
+      "B1+"
+    ],
+    [
+      "learn",
+      8,
+      "A2"
+    ],
+    [
+      "long-term",
+      8,
+      "B1+"
+    ],
+    [
+      "map",
+      8,
+      "A2"
+    ],
+    [
+      "meeting",
+      8,
+      "A2"
+    ],
+    [
+      "moves",
+      8,
+      "B1+"
+    ],
+    [
+      "practice",
+      8,
+      "A2"
+    ],
+    [
+      "quality",
+      8,
+      "A2"
+    ],
+    [
+      "required",
+      8,
+      "B1+"
+    ],
+    [
+      "resilience",
+      8,
+      "B1+"
+    ],
+    [
+      "role",
+      8,
+      "B1+"
+    ],
+    [
+      "set",
+      8,
+      "B1+"
+    ],
+    [
+      "specifically",
+      8,
+      "B1+"
+    ],
+    [
+      "steps",
+      8,
+      "A2"
+    ],
+    [
+      "story",
+      8,
+      "A2"
+    ],
+    [
+      "talk",
+      8,
+      "A2"
+    ],
+    [
+      "targets",
+      8,
+      "B1+"
+    ],
+    [
+      "thing",
+      8,
+      "A2"
+    ],
+    [
+      "two",
+      8,
+      "A2"
+    ],
+    [
+      "us",
+      8,
+      "A2"
+    ],
+    [
+      "you've",
+      8,
+      "B1+"
+    ],
+    [
+      "across",
+      7,
+      "A2"
+    ],
+    [
+      "behavior",
+      7,
+      "B1+"
+    ],
+    [
+      "budget",
+      7,
+      "B1+"
+    ],
+    [
+      "company",
+      7,
+      "B1+"
+    ],
+    [
+      "contingency",
+      7,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "sources recommend",
+      "count": 7,
+      "example": "The sources recommend translating those long-term dreams into quarterly milestones with measurable outcomes and clear owners.",
+      "t": 598.22
+    },
+    {
+      "text": "making sure",
+      "count": 5,
+      "example": "It's about making sure that the daily grind, every task, every project is actually a deliberate step towards that bigger picture you have for yourself.",
+      "t": 43.23
+    },
+    {
+      "text": "you've got",
+      "count": 5,
+      "example": "Then you've got to break that climb down into smaller chunks, quarterly milestones.",
+      "t": 90.25
+    },
+    {
+      "text": "strategic thinking",
+      "count": 5,
+      "example": "Maybe it's strategic thinking.",
+      "t": 100.78
+    },
+    {
+      "text": "high stakes",
+      "count": 5,
+      "example": "It helps you stay realistic about capacity, adjust your workload proactively and avoid that last minute high stress scramble that ultimately just kills the quality of high stakes performance.",
+      "t": 1067.81
+    },
+    {
+      "text": "let's talk",
+      "count": 4,
+      "example": "So let's talk about career ambitions.",
+      "t": 14.14
+    },
+    {
+      "text": "customer value",
+      "count": 4,
+      "example": "Always map your goals back to customer value.",
+      "t": 130.54
+    },
+    {
+      "text": "bilingual team",
+      "count": 4,
+      "example": "It's leading a bilingual team launching products across Asia, while at the same time designing programs for talent growth, a sustainable business impact.",
+      "t": 488.26
+    },
+    {
+      "text": "source material",
+      "count": 4,
+      "example": "So the very first nugget of gold we pull from the source material is all about timing.",
+      "t": 515.99
+    },
+    {
+      "text": "psychological safety",
+      "count": 4,
+      "example": "This is absolutely essential for psychological safety.",
+      "t": 1673.58
+    }
+  ],
+  "phrases": [
+    {
+      "text": "sources recommend",
+      "count": 7,
+      "example": "The sources recommend translating those long-term dreams into quarterly milestones with measurable outcomes and clear owners.",
+      "t": 598.22
+    },
+    {
+      "text": "making sure",
+      "count": 5,
+      "example": "It's about making sure that the daily grind, every task, every project is actually a deliberate step towards that bigger picture you have for yourself.",
+      "t": 43.23
+    },
+    {
+      "text": "you've got",
+      "count": 5,
+      "example": "Then you've got to break that climb down into smaller chunks, quarterly milestones.",
+      "t": 90.25
+    },
+    {
+      "text": "strategic thinking",
+      "count": 5,
+      "example": "Maybe it's strategic thinking.",
+      "t": 100.78
+    },
+    {
+      "text": "high stakes",
+      "count": 5,
+      "example": "It helps you stay realistic about capacity, adjust your workload proactively and avoid that last minute high stress scramble that ultimately just kills the quality of high stakes performance.",
+      "t": 1067.81
+    },
+    {
+      "text": "let's talk",
+      "count": 4,
+      "example": "So let's talk about career ambitions.",
+      "t": 14.14
+    },
+    {
+      "text": "customer value",
+      "count": 4,
+      "example": "Always map your goals back to customer value.",
+      "t": 130.54
+    },
+    {
+      "text": "bilingual team",
+      "count": 4,
+      "example": "It's leading a bilingual team launching products across Asia, while at the same time designing programs for talent growth, a sustainable business impact.",
+      "t": 488.26
+    },
+    {
+      "text": "source material",
+      "count": 4,
+      "example": "So the very first nugget of gold we pull from the source material is all about timing.",
+      "t": 515.99
+    },
+    {
+      "text": "psychological safety",
+      "count": 4,
+      "example": "This is absolutely essential for psychological safety.",
+      "t": 1673.58
+    },
+    {
+      "text": "quarterly milestones",
+      "count": 3,
+      "example": "Then you've got to break that climb down into smaller chunks, quarterly milestones.",
+      "t": 90.25
+    },
+    {
+      "text": "feedback loops",
+      "count": 3,
+      "example": "Think monthly feedback loops to course correct and weekly reviews to see how you're doing.",
+      "t": 119.41
+    },
+    {
+      "text": "urgent requests",
+      "count": 3,
+      "example": "And all those constant urgent requests, the back-to-back meetings, that packed calendar, they just drain it.",
+      "t": 341.91
+    },
+    {
+      "text": "stop times",
+      "count": 3,
+      "example": "Set firm stop times so you can actually disconnect.",
+      "t": 350.96
+    },
+    {
+      "text": "absolutely essential",
+      "count": 3,
+      "example": "They're absolutely essential for high performance over the long haul.",
+      "t": 362.55
+    },
+    {
+      "text": "personal resilience",
+      "count": 3,
+      "example": "Covering everything from negotiating global contracts to closing really specific capability gaps like mastering data storytelling, all the way to making sure your personal resilience doesn't break under the pressure of leadership.",
+      "t": 436.18
+    },
+    {
+      "text": "phase one",
+      "count": 3,
+      "example": "Let's start with phase one, establishing the foundational vision.",
+      "t": 506.24
+    },
+    {
+      "text": "big picture",
+      "count": 3,
+      "example": "This is really where that big picture gets translated into the daily grind.",
+      "t": 510.61
+    },
+    {
+      "text": "make sure",
+      "count": 3,
+      "example": "You proactively make sure that every single project, every deliverable, every minute you spend contributes directly to that huge long-term outcome you want, like that Asia leadership role.",
+      "t": 557.0
+    },
+    {
+      "text": "every single",
+      "count": 3,
+      "example": "You proactively make sure that every single project, every deliverable, every minute you spend contributes directly to that huge long-term outcome you want, like that Asia leadership role.",
+      "t": 557.0
+    },
+    {
+      "text": "business english",
+      "count": 3,
+      "example": "And I imagine this strategic lens really improves your use of professional language, what we might call business English, making sure your communications are always outcome-oriented.",
+      "t": 758.21
+    },
+    {
+      "text": "global leadership",
+      "count": 3,
+      "example": "What specific skills did the source material cite as crucial targets for someone aiming at that bilingual global leadership level?",
+      "t": 804.47
+    },
+    {
+      "text": "skill acquisition",
+      "count": 3,
+      "example": "It just keeps accountability high and the skill acquisition laser focused.",
+      "t": 886.09
+    },
+    {
+      "text": "phase two",
+      "count": 3,
+      "example": "And it sets us up perfectly for phase two, putting rubber to the road and acquiring the specific capabilities you need to achieve those global goals.",
+      "t": 1098.49
+    },
+    {
+      "text": "long term",
+      "count": 3,
+      "example": "That professionalism and respect keeps the relationship balanced and supportive over the long term.",
+      "t": 1661.01
+    },
+    {
+      "text": "future leadership",
+      "count": 3,
+      "example": "The proposal has to highlight the definitive business benefits, filling a critical leadership gap, accelerating knowledge transfer between headquarters in the region, and most importantly, demonstrating your future leadership potential as a globally savvy executive.",
+      "t": 2107.21
+    },
+    {
+      "text": "we're going",
+      "count": 2,
+      "example": "Well, today we're going to clear away that fog.",
+      "t": 27.07
+    },
+    {
+      "text": "performance review",
+      "count": 2,
+      "example": "It's that feeling you get just before a performance review where you kind of wish you'd been a bit more strategic all year.",
+      "t": 37.0
+    },
+    {
+      "text": "daily grind",
+      "count": 2,
+      "example": "It's about making sure that the daily grind, every task, every project is actually a deliberate step towards that bigger picture you have for yourself.",
+      "t": 43.23
+    },
+    {
+      "text": "crystal clear",
+      "count": 2,
+      "example": "This is all about getting crystal clear.",
+      "t": 68.61
+    },
+    {
+      "text": "you'll need",
+      "count": 2,
+      "example": "Next, figure out what skills you'll need for those higher altitudes.",
+      "t": 97.06
+    },
+    {
+      "text": "maybe it's",
+      "count": 2,
+      "example": "Maybe it's strategic thinking.",
+      "t": 100.78
+    },
+    {
+      "text": "monthly feedback",
+      "count": 2,
+      "example": "Think monthly feedback loops to course correct and weekly reviews to see how you're doing.",
+      "t": 119.41
+    },
+    {
+      "text": "weekly reviews",
+      "count": 2,
+      "example": "Think monthly feedback loops to course correct and weekly reviews to see how you're doing.",
+      "t": 119.41
+    },
+    {
+      "text": "monthly feedback loops",
+      "count": 2,
+      "example": "Think monthly feedback loops to course correct and weekly reviews to see how you're doing.",
+      "t": 119.41
+    },
+    {
+      "text": "goals back",
+      "count": 2,
+      "example": "Always map your goals back to customer value.",
+      "t": 130.54
+    },
+    {
+      "text": "back to customer",
+      "count": 2,
+      "example": "Always map your goals back to customer value.",
+      "t": 130.54
+    },
+    {
+      "text": "contingency plans",
+      "count": 2,
+      "example": "Having contingency plans ready means you're prepared.",
+      "t": 138.25
+    },
+    {
+      "text": "real power",
+      "count": 2,
+      "example": "Let's talk about a real power move, mastering negotiation.",
+      "t": 154.89
+    },
+    {
+      "text": "negotiation isn't",
+      "count": 2,
+      "example": "Great negotiation isn't about winning an argument.",
+      "t": 167.45
+    },
+    {
+      "text": "get super",
+      "count": 2,
+      "example": "Instead of just saying something vague, you get super specific.",
+      "t": 184.15
+    },
+    {
+      "text": "building trust",
+      "count": 2,
+      "example": "This keeps feedback totally objective and actionable, and it takes all that personal judgment out of the equation, which is absolutely key for building trust.",
+      "t": 192.99
+    },
+    {
+      "text": "career journey",
+      "count": 2,
+      "example": "You do not have to go it alone on your career journey.",
+      "t": 201.28
+    },
+    {
+      "text": "blind spots",
+      "count": 2,
+      "example": "A good mentor can be your guide, spotting those blind spots you can't see yourself.",
+      "t": 204.72
+    },
+    {
+      "text": "value back",
+      "count": 2,
+      "example": "Start by listing people you really admire, get super clear on your goals, and be ready to offer some value back.",
+      "t": 212.59
+    },
+    {
+      "text": "start by listing",
+      "count": 2,
+      "example": "Start by listing people you really admire, get super clear on your goals, and be ready to offer some value back.",
+      "t": 212.59
+    },
+    {
+      "text": "real opportunities",
+      "count": 2,
+      "example": "We're talking quality over quantity, because this is where the real opportunities come from, when people proactively come to you with ideas.",
+      "t": 262.17
+    },
+    {
+      "text": "quality over quantity",
+      "count": 2,
+      "example": "We're talking quality over quantity, because this is where the real opportunities come from, when people proactively come to you with ideas.",
+      "t": 262.17
+    },
+    {
+      "text": "pilot project",
+      "count": 2,
+      "example": "Run a pilot project.",
+      "t": 273.01
+    },
+    {
+      "text": "solved and risks",
+      "count": 2,
+      "example": "Frame your accomplishments as problems you solved and risks you managed.",
+      "t": 312.72
+    },
+    {
+      "text": "firm stop",
+      "count": 2,
+      "example": "Set firm stop times so you can actually disconnect.",
+      "t": 350.96
+    },
+    {
+      "text": "firm stop times",
+      "count": 2,
+      "example": "Set firm stop times so you can actually disconnect.",
+      "t": 350.96
+    },
+    {
+      "text": "deep focused",
+      "count": 2,
+      "example": "Block out time for deep, focused work.",
+      "t": 354.06
+    },
+    {
+      "text": "focused work",
+      "count": 2,
+      "example": "Block out time for deep, focused work.",
+      "t": 354.06
+    },
+    {
+      "text": "time for deep",
+      "count": 2,
+      "example": "Block out time for deep, focused work.",
+      "t": 354.06
+    },
+    {
+      "text": "deep focused work",
+      "count": 2,
+      "example": "Block out time for deep, focused work.",
+      "t": 354.06
+    },
+    {
+      "text": "potential risks",
+      "count": 2,
+      "example": "You list out the potential risks, you design a response for each one, and you create a communication plan so no one's ever left in the dark.",
+      "t": 375.75
+    },
+    {
+      "text": "communication plan",
+      "count": 2,
+      "example": "You list out the potential risks, you design a response for each one, and you create a communication plan so no one's ever left in the dark.",
+      "t": 375.75
+    },
+    {
+      "text": "become temporary",
+      "count": 2,
+      "example": "When you do this, setbacks just become temporary detours, not career-derailing disasters.",
+      "t": 383.25
+    },
+    {
+      "text": "temporary detours",
+      "count": 2,
+      "example": "When you do this, setbacks just become temporary detours, not career-derailing disasters.",
+      "t": 383.25
+    },
+    {
+      "text": "become temporary detours",
+      "count": 2,
+      "example": "When you do this, setbacks just become temporary detours, not career-derailing disasters.",
+      "t": 383.25
+    },
+    {
+      "text": "hard work",
+      "count": 2,
+      "example": "In the middle of all the planning and all the hard work, you have to celebrate.",
+      "t": 392.0
+    },
+    {
+      "text": "global contracts",
+      "count": 2,
+      "example": "Covering everything from negotiating global contracts to closing really specific capability gaps like mastering data storytelling, all the way to making sure your personal resilience doesn't break under the pressure of leadership.",
+      "t": 436.18
+    },
+    {
+      "text": "mastering data",
+      "count": 2,
+      "example": "Covering everything from negotiating global contracts to closing really specific capability gaps like mastering data storytelling, all the way to making sure your personal resilience doesn't break under the pressure of leadership.",
+      "t": 436.18
+    },
+    {
+      "text": "data storytelling",
+      "count": 2,
+      "example": "Covering everything from negotiating global contracts to closing really specific capability gaps like mastering data storytelling, all the way to making sure your personal resilience doesn't break under the pressure of leadership.",
+      "t": 436.18
+    },
+    {
+      "text": "leadership growth",
+      "count": 2,
+      "example": "We want to give you the blueprint for immediate career acceleration and crucially for sustainable leadership growth.",
+      "t": 468.41
+    },
+    {
+      "text": "business impact",
+      "count": 2,
+      "example": "It's leading a bilingual team launching products across Asia, while at the same time designing programs for talent growth, a sustainable business impact.",
+      "t": 488.26
+    },
+    {
+      "text": "leading a bilingual",
+      "count": 2,
+      "example": "It's leading a bilingual team launching products across Asia, while at the same time designing programs for talent growth, a sustainable business impact.",
+      "t": 488.26
+    },
+    {
+      "text": "let's start",
+      "count": 2,
+      "example": "Let's start with phase one, establishing the foundational vision.",
+      "t": 506.24
+    },
+    {
+      "text": "sources stress",
+      "count": 2,
+      "example": "The sources stress, and they really stress this, aligning your career dreams before the next appraisal cycle begins.",
+      "t": 520.06
+    },
+    {
+      "text": "career dreams",
+      "count": 2,
+      "example": "The sources stress, and they really stress this, aligning your career dreams before the next appraisal cycle begins.",
+      "t": 520.06
+    },
+    {
+      "text": "lot of people",
+      "count": 2,
+      "example": "Now, a lot of people wait for the appraisal to talk about ambition.",
+      "t": 526.43
+    },
+    {
+      "text": "total clarity",
+      "count": 2,
+      "example": "So it maximizes your impact and just provides total clarity from day zero.",
+      "t": 567.19
+    },
+    {
+      "text": "career planning",
+      "count": 2,
+      "example": "So you're basically shifting from playing defense to playing offense in your career planning.",
+      "t": 576.74
+    },
+    {
+      "text": "that's a great",
+      "count": 2,
+      "example": "That's a great way to put it.",
+      "t": 581.34
+    },
+    {
+      "text": "japan and singapore",
+      "count": 2,
+      "example": "The goal of launching a product across Japan and Singapore with a bilingual team.",
+      "t": 586.75
+    },
+    {
+      "text": "global leader",
+      "count": 2,
+      "example": "And by assigning a clear owner, even if that owner is you for certain tasks and a measurable outcome, you shift from saying I want to be a global leader to I will have successfully managed a budget of X dollars to deliver Y intelligence by June 30th.",
+      "t": 660.85
+    },
+    {
+      "text": "x dollars",
+      "count": 2,
+      "example": "And by assigning a clear owner, even if that owner is you for certain tasks and a measurable outcome, you shift from saying I want to be a global leader to I will have successfully managed a budget of X dollars to deliver Y intelligence by June 30th.",
+      "t": 660.85
+    },
+    {
+      "text": "advanced analytics",
+      "count": 2,
+      "example": "So when you present your personal growth goals, let's say securing advanced analytics training, which we'll get into later, you should never frame it as just personal development.",
+      "t": 701.37
+    },
+    {
+      "text": "personal development",
+      "count": 2,
+      "example": "So when you present your personal growth goals, let's say securing advanced analytics training, which we'll get into later, you should never frame it as just personal development.",
+      "t": 701.37
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.47,
+      "text": "Listen."
+    },
+    {
+      "t": 8.54,
+      "text": "Practice."
+    },
+    {
+      "t": 9.58,
+      "text": "Speak."
+    },
+    {
+      "t": 10.62,
+      "text": "Practice makes you perfect."
+    },
+    {
+      "t": 14.14,
+      "text": "So let's talk about career ambitions."
+    },
+    {
+      "t": 16.44,
+      "text": "We all have them, right?"
+    },
+    {
+      "t": 17.74,
+      "text": "But sometimes they just feel a little fuzzy."
+    },
+    {
+      "t": 20.66,
+      "text": "We know we want to move up, but the actual path from where we are now to where we want to be, it can be pretty foggy."
+    },
+    {
+      "t": 27.07,
+      "text": "Well, today we're going to clear away that fog."
+    },
+    {
+      "t": 29.41,
+      "text": "We're going to walk through a concrete playbook for turning those big broad goals into a shark actionable strategy."
+    },
+    {
+      "t": 35.22,
+      "text": "You've probably felt this, right?"
+    },
+    {
+      "t": 37.0,
+      "text": "It's that feeling you get just before a performance review where you kind of wish you'd been a bit more strategic all year."
+    },
+    {
+      "t": 43.23,
+      "text": "It's about making sure that the daily grind, every task, every project is actually a deliberate step towards that bigger picture you have for yourself."
+    },
+    {
+      "t": 51.82,
+      "text": "And that's the real question, isn't it?"
+    },
+    {
+      "t": 54.27,
+      "text": "I mean, it's one thing to have a dream, like I want to lead a new team or I want to launch a product in a totally new market."
+    },
+    {
+      "t": 59.87,
+      "text": "But it's a whole other thing to build the discipline system that actually makes it happen."
+    },
+    {
+      "t": 64.26,
+      "text": "And that is exactly what we're about to break down."
+    },
+    {
+      "t": 66.82,
+      "text": "All right, so act one."
+    },
+    {
+      "t": 68.61,
+      "text": "This is all about getting crystal clear."
+    },
+    {
+      "t": 71.01,
+      "text": "This is where we stop wishful thinking and start building a real, honest-to-goodness strategic plan."
+    },
+    {
+      "t": 76.18,
+      "text": "And this isn't just a plan for you."
+    },
+    {
+      "t": 77.7,
+      "text": "It's the story you're going to tell when you make the case for your next promotion."
+    },
+    {
+      "t": 82.06,
+      "text": "Okay, so how do we actually build this roadmap?"
+    },
+    {
+      "t": 85.6,
+      "text": "First things first, define your vision."
+    },
+    {
+      "t": 88.29,
+      "text": "What's the big mountain you're trying to climb?"
+    },
+    {
+      "t": 90.25,
+      "text": "Then you've got to break that climb down into smaller chunks, quarterly milestones."
+    },
+    {
+      "t": 95.01,
+      "text": "That keeps you from getting overwhelmed."
+    },
+    {
+      "t": 97.06,
+      "text": "Next, figure out what skills you'll need for those higher altitudes."
+    },
+    {
+      "t": 100.78,
+      "text": "Maybe it's strategic thinking."
+    },
+    {
+      "t": 102.2,
+      "text": "Maybe it's better storytelling."
+    },
+    {
+      "t": 103.64,
+      "text": "And finally, you have to track your progress."
+    },
+    {
+      "t": 106.31,
+      "text": "You need real metrics to know if you're still on the right path."
+    },
+    {
+      "t": 109.33,
+      "text": "Look, a roadmap is just a piece of paper if you don't actually use it."
+    },
+    {
+      "t": 114.06,
+      "text": "That means building some essential tracking habits into your routine."
+    },
+    {
+      "t": 117.78,
+      "text": "You need a regular rhythm."
+    },
+    {
+      "t": 119.41,
+      "text": "Think monthly feedback loops to course correct and weekly reviews to see how you're doing."
+    },
+    {
+      "t": 124.29,
+      "text": "A shared visible board for your goals and risks keeps everything out in the open."
+    },
+    {
+      "t": 128.92,
+      "text": "Oh, and this is crucial."
+    },
+    {
+      "t": 130.54,
+      "text": "Always map your goals back to customer value."
+    },
+    {
+      "t": 133.17,
+      "text": "That's a language every executive understands."
+    },
+    {
+      "t": 135.65,
+      "text": "And hey, plan for things to go wrong because they will."
+    },
+    {
+      "t": 138.25,
+      "text": "Having contingency plans ready means you're prepared."
+    },
+    {
+      "t": 141.08,
+      "text": "Okay, you've got your strategy charted."
+    },
+    {
+      "t": 143.26,
+      "text": "So now for act two, it's time to build your leadership toolkit."
+    },
+    {
+      "t": 147.91,
+      "text": "You can have the best plan in the world, but you need the skills to execute it."
+    },
+    {
+      "t": 151.59,
+      "text": "And these are the power moves that are going to get you there."
+    },
+    {
+      "t": 154.89,
+      "text": "Let's talk about a real power move, mastering negotiation."
+    },
+    {
+      "t": 158.98,
+      "text": "It's really all about finding a smart balance between all these competing priorities you're juggling."
+    },
+    {
+      "t": 163.49,
+      "text": "You've got your team's needs over here and stakeholder expectations over there."
+    },
+    {
+      "t": 167.45,
+      "text": "Great negotiation isn't about winning an argument."
+    },
+    {
+      "t": 169.87,
+      "text": "It's about creating an outcome that adds value to the long-term goal."
+    },
+    {
+      "t": 173.58,
+      "text": "It's knowing when to push, for sure, but also knowing when to just listen."
+    },
+    {
+      "t": 177.38,
+      "text": "Giving feedback, oh man, it is so easy to mess up."
+    },
+    {
+      "t": 180.99,
+      "text": "But this little framework, SBI, it's like a secret weapon."
+    },
+    {
+      "t": 184.15,
+      "text": "Instead of just saying something vague, you get super specific."
+    },
+    {
+      "t": 187.14,
+      "text": "You describe the situation, you detail the exact behavior you saw, and then you explain the impact it had."
+    },
+    {
+      "t": 192.99,
+      "text": "This keeps feedback totally objective and actionable, and it takes all that personal judgment out of the equation, which is absolutely key for building trust."
+    },
+    {
+      "t": 200.24,
+      "text": "Here's the thing."
+    },
+    {
+      "t": 201.28,
+      "text": "You do not have to go it alone on your career journey."
+    },
+    {
+      "t": 204.72,
+      "text": "A good mentor can be your guide, spotting those blind spots you can't see yourself."
+    },
+    {
+      "t": 209.58,
+      "text": "But finding the right one is a strategy in itself."
+    },
+    {
+      "t": 212.59,
+      "text": "Start by listing people you really admire, get super clear on your goals, and be ready to offer some value back."
+    },
+    {
+      "t": 218.83,
+      "text": "And here's a critical ground rule."
+    },
+    {
+      "t": 220.51,
+      "text": "This is not a performance review."
+    },
+    {
+      "t": 222.58,
+      "text": "The mentorship space has to be safe and exploratory, completely separate from any formal evaluations."
+    },
+    {
+      "t": 228.18,
+      "text": "That's the only way it really works."
+    },
+    {
+      "t": 230.22,
+      "text": "Okay, act three."
+    },
+    {
+      "t": 231.43,
+      "text": "You've got the plan."
+    },
+    {
+      "t": 232.33,
+      "text": "You've got the tools."
+    },
+    {
+      "t": 233.47,
+      "text": "Now it's go time."
+    },
+    {
+      "t": 234.93,
+      "text": "This is all about execution, showing your impact, creating visibility, and building a powerful, undeniable case for your own advancement."
+    },
+    {
+      "t": 243.06,
+      "text": "Networking."
+    },
+    {
+      "t": 244.11,
+      "text": "We all know we should do it, but let's be honest, not all networking is the same."
+    },
+    {
+      "t": 248.51,
+      "text": "You can forget that transactional stuff, which is just about collecting contacts like trading cards."
+    },
+    {
+      "t": 253.98,
+      "text": "The real power?"
+    },
+    {
+      "t": 255.14,
+      "text": "It's in relational networking."
+    },
+    {
+      "t": 257.0,
+      "text": "It's driven by genuine curiosity, and it's all about building authentic, long-term connections."
+    },
+    {
+      "t": 262.17,
+      "text": "We're talking quality over quantity, because this is where the real opportunities come from, when people proactively come to you with ideas."
+    },
+    {
+      "t": 269.54,
+      "text": "You want to show some real initiative?"
+    },
+    {
+      "t": 271.63,
+      "text": "This is how you do it."
+    },
+    {
+      "t": 273.01,
+      "text": "Run a pilot project."
+    },
+    {
+      "t": 274.69,
+      "text": "It's a fantastic, lightweight way to test out an idea and deliver value fast without needing a massive budget."
+    },
+    {
+      "t": 281.27,
+      "text": "This two-week sprint is a perfect template."
+    },
+    {
+      "t": 283.73,
+      "text": "You draft a simple one-pager, get the right people on board, and launch using tools you already have."
+    },
+    {
+      "t": 289.4,
+      "text": "The key though is to finish strong by presenting results with clear before and after metrics."
+    },
+    {
+      "t": 294.79,
+      "text": "It's proof you can execute and deliver."
+    },
+    {
+      "t": 297.27,
+      "text": "And this right here, this is the absolute foundation of your case for promotion."
+    },
+    {
+      "t": 302.14,
+      "text": "Your credibility is everything."
+    },
+    {
+      "t": 304.25,
+      "text": "As you're putting your story together, just remember that authenticity and hard data will always, always win out over flashy, empty claims."
+    },
+    {
+      "t": 312.72,
+      "text": "Frame your accomplishments as problems you solved and risks you managed."
+    },
+    {
+      "t": 316.4,
+      "text": "That shows foresight and judgment, exactly what leaders are looking for."
+    },
+    {
+      "t": 320.27,
+      "text": "And that brings us to our final act."
+    },
+    {
+      "t": 322.45,
+      "text": "And this is so important."
+    },
+    {
+      "t": 324.04,
+      "text": "It's about playing the long game."
+    },
+    {
+      "t": 325.72,
+      "text": "Because let's face it, ambition is a marathon, not a sprint."
+    },
+    {
+      "t": 329.38,
+      "text": "To really succeed over time, you have to build systems that sustain your energy, your motivation, and your whole team's resilience."
+    },
+    {
+      "t": 336.3,
+      "text": "Think about it."
+    },
+    {
+      "t": 337.14,
+      "text": "Burnout is the ultimate enemy of ambition."
+    },
+    {
+      "t": 339.96,
+      "text": "Your energy is like a battery, right?"
+    },
+    {
+      "t": 341.91,
+      "text": "And all those constant urgent requests, the back-to-back meetings, that packed calendar, they just drain it."
+    },
+    {
+      "t": 348.07,
+      "text": "To recharge, you need deliberate strategies."
+    },
+    {
+      "t": 350.96,
+      "text": "Set firm stop times so you can actually disconnect."
+    },
+    {
+      "t": 354.06,
+      "text": "Block out time for deep, focused work."
+    },
+    {
+      "t": 356.55,
+      "text": "And learn to triage urgent requests instead of just automatically saying yes."
+    },
+    {
+      "t": 360.61,
+      "text": "These aren't just nice-to-haves."
+    },
+    {
+      "t": 362.55,
+      "text": "They're absolutely essential for high performance over the long haul."
+    },
+    {
+      "t": 365.9,
+      "text": "Look, setbacks are going to happen."
+    },
+    {
+      "t": 367.64,
+      "text": "It's not if, it's when."
+    },
+    {
+      "t": 369.58,
+      "text": "A truly resilient team is one that sees them coming."
+    },
+    {
+      "t": 372.47,
+      "text": "This isn't about being pessimistic, it's about being prepared."
+    },
+    {
+      "t": 375.75,
+      "text": "You list out the potential risks, you design a response for each one, and you create a communication plan so no one's ever left in the dark."
+    },
+    {
+      "t": 383.25,
+      "text": "When you do this, setbacks just become temporary detours, not career-derailing disasters."
+    },
+    {
+      "t": 389.13,
+      "text": "And finally, please, please don't forget this one."
+    },
+    {
+      "t": 392.0,
+      "text": "In the middle of all the planning and all the hard work, you have to celebrate."
+    },
+    {
+      "t": 396.46,
+      "text": "Celebration isn't a luxury, it's fuel."
+    },
+    {
+      "t": 399.02,
+      "text": "Recognizing the wins, both the big ones and the small ones, boosts morale, reinforces the right behaviors, and reminds everybody why they're working so hard in the first place."
+    },
+    {
+      "t": 408.24,
+      "text": "It turns the whole journey from a grind into an adventure worth having."
+    },
+    {
+      "t": 411.58,
+      "text": "So there you have it."
+    },
+    {
+      "t": 412.58,
+      "text": "A full four-act playbook to turn that ambition into real concrete action."
+    },
+    {
+      "t": 417.65,
+      "text": "This isn't just theory."
+    },
+    {
+      "t": 418.85,
+      "text": "It's a set of disciplined practices you can use to strategically build the career you really want."
+    },
+    {
+      "t": 423.96,
+      "text": "Your story is unfolding as we speak."
+    },
+    {
+      "t": 426.08,
+      "text": "So the only question left is, what are you going to write in the next chapter?"
+    },
+    {
+      "t": 429.52,
+      "text": "We're looking at real-world templates for strategic ascent."
+    },
+    {
+      "t": 432.59,
+      "text": "So not just ideas, but actual plans."
+    },
+    {
+      "t": 435.19,
+      "text": "Exactly."
+    },
+    {
+      "t": 436.18,
+      "text": "Covering everything from negotiating global contracts to closing really specific capability gaps like mastering data storytelling, all the way to making sure your personal resilience doesn't break under the pressure of leadership."
+    },
+    {
+      "t": 448.26,
+      "text": "Absolutely."
+    },
+    {
+      "t": 449.35,
+      "text": "And you should think of this as getting the privileged information, that underlying strategy for making your career progression."
+    },
+    {
+      "t": 457.02,
+      "text": "Well, not relying on chance, but on surgical discipline planning."
+    },
+    {
+      "t": 460.82,
+      "text": "Our mission today is pretty simple."
+    },
+    {
+      "t": 463.16,
+      "text": "We want to extract the essential measurable steps from these roadmaps."
+    },
+    {
+      "t": 468.41,
+      "text": "We want to give you the blueprint for immediate career acceleration and crucially for sustainable leadership growth."
+    },
+    {
+      "t": 475.15,
+      "text": "And we have a fantastic anchor for this whole discussion, a kind of North Star that pulls every decision in the roadmap forward."
+    },
+    {
+      "t": 482.05,
+      "text": "Oh, this is my favorite part of the material."
+    },
+    {
+      "t": 483.6,
+      "text": "Yeah, it's great."
+    },
+    {
+      "t": 484.46,
+      "text": "The long-term ambition laid out in the sources is so clear."
+    },
+    {
+      "t": 488.26,
+      "text": "It's leading a bilingual team launching products across Asia, while at the same time designing programs for talent growth, a sustainable business impact."
+    },
+    {
+      "t": 495.51,
+      "text": "Which is a massive goal."
+    },
+    {
+      "t": 496.55,
+      "text": "It's an enormous scope of capabilities."
+    },
+    {
+      "t": 498.57,
+      "text": "And the planning dialogues show exactly how to build those capabilities, you know, brick by brick, starting right now."
+    },
+    {
+      "t": 503.72,
+      "text": "Okay, let's unpack this roadmap then."
+    },
+    {
+      "t": 506.24,
+      "text": "Let's start with phase one, establishing the foundational vision."
+    },
+    {
+      "t": 510.61,
+      "text": "This is really where that big picture gets translated into the daily grind."
+    },
+    {
+      "t": 514.47,
+      "text": "The foundation."
+    },
+    {
+      "t": 515.29,
+      "text": "Foundation."
+    },
+    {
+      "t": 515.99,
+      "text": "So the very first nugget of gold we pull from the source material is all about timing."
+    },
+    {
+      "t": 520.06,
+      "text": "The sources stress, and they really stress this, aligning your career dreams before the next appraisal cycle begins."
+    },
+    {
+      "t": 525.9,
+      "text": "Mm-hmm."
+    },
+    {
+      "t": 526.43,
+      "text": "Now, a lot of people wait for the appraisal to talk about ambition."
+    },
+    {
+      "t": 530.4,
+      "text": "So why is that specific pre-cycle timing so crucial for impact?"
+    },
+    {
+      "t": 536.5,
+      "text": "Well, it's a fundamental shift in posture, really."
+    },
+    {
+      "t": 539.04,
+      "text": "If you wait until the appraisal, the conversation is,"
+    },
+    {
+      "t": 542.04,
+      "text": "by its very nature, retrospective."
+    },
+    {
+      "t": 543.92,
+      "text": "Right, you're looking backwards."
+    },
+    {
+      "t": 544.88,
+      "text": "You're justifying the past 12 months of work."
+    },
+    {
+      "t": 547.38,
+      "text": "But if you align your goals, your training plan, your deliverables before the cycle even begins, you're actually setting the strategic agenda for the next 12 months."
+    },
+    {
+      "t": 557.0,
+      "text": "You proactively make sure that every single project, every deliverable, every minute you spend contributes directly to that huge long-term outcome you want, like that Asia leadership role."
+    },
+    {
+      "t": 567.19,
+      "text": "So it maximizes your impact and just provides total clarity from day zero."
+    },
+    {
+      "t": 572.09,
+      "text": "Total clarity."
+    },
+    {
+      "t": 572.89,
+      "text": "And it makes it much, much harder for leadership to say no to you later on."
+    },
+    {
+      "t": 576.74,
+      "text": "So you're basically shifting from playing defense to playing offense in your career planning."
+    },
+    {
+      "t": 581.34,
+      "text": "That's a great way to put it."
+    },
+    {
+      "t": 582.61,
+      "text": "Now, once that overall vision is set, let's use their example."
+    },
+    {
+      "t": 586.75,
+      "text": "The goal of launching a product across Japan and Singapore with a bilingual team."
+    },
+    {
+      "t": 591.78,
+      "text": "How do we break that down so it doesn't feel like this, you know, giant, intimidating monolith?"
+    },
+    {
+      "t": 596.64,
+      "text": "Yeah, that's the key, isn't it?"
+    },
+    {
+      "t": 598.22,
+      "text": "The sources recommend translating those long-term dreams into quarterly milestones with measurable outcomes and clear owners."
+    },
+    {
+      "t": 605.84,
+      "text": "And that structure is, I would say, non-negotiable."
+    },
+    {
+      "t": 610.29,
+      "text": "It's what prevents what the source material pointedly calls drifting when priorities change."
+    },
+    {
+      "t": 616.18,
+      "text": "Drifting."
+    },
+    {
+      "t": 616.6,
+      "text": "Yeah, I see that happen all the time."
+    },
+    {
+      "t": 617.76,
+      "text": "We all do."
+    },
+    {
+      "t": 618.34,
+      "text": "Large goals are abstract and they're so easily deprioritized."
+    },
+    {
+      "t": 622.62,
+      "text": "But quarterly milestones, they're concrete, they're highly visible, and they provide these continuous high accountability progress checks."
+    },
+    {
+      "t": 630.05,
+      "text": "So can you give an example?"
+    },
+    {
+      "t": 631.01,
+      "text": "For that Asia Promise launch, what would a Q1 milestone look like?"
+    },
+    {
+      "t": 635.15,
+      "text": "Sure."
+    },
+    {
+      "t": 635.64,
+      "text": "So the ultimate goal is the launch."
+    },
+    {
+      "t": 637.74,
+      "text": "Q1's milestone can't just be work toward the launch."
+    },
+    {
+      "t": 641.12,
+      "text": "That's useless."
+    },
+    {
+      "t": 641.85,
+      "text": "It has to be something like, by the end of Q1, complete the market analysis and competitive landscaping for two key regions, resulting in an updated feature roadmap that is approved by the regional general manager."
+    },
+    {
+      "t": 653.16,
+      "text": "Wow."
+    },
+    {
+      "t": 653.84,
+      "text": "OK, that immediately moves the goal from like conceptual wishing to a measurable time bound deliverable."
+    },
+    {
+      "t": 660.13,
+      "text": "Absolutely."
+    },
+    {
+      "t": 660.85,
+      "text": "And by assigning a clear owner, even if that owner is you for certain tasks and a measurable outcome, you shift from saying I want to be a global leader to I will have successfully managed a budget of X dollars to deliver Y intelligence by June 30th."
+    },
+    {
+      "t": 677.85,
+      "text": "And that is the language of action."
+    },
+    {
+      "t": 679.31,
+      "text": "It's the only language that matters to executive leadership, really."
+    },
+    {
+      "t": 682.98,
+      "text": "And speaking of executive language, there's a key strategy for resonance that these documents highlight very early on, and that's mapping each goal directly to customer value."
+    },
+    {
+      "t": 691.69,
+      "text": "This might be the single most important framing trick in the entire roadmap."
+    },
+    {
+      "t": 696.5,
+      "text": "Executives are, at the end of the day, focused on business impact, customer retention, the bottom line."
+    },
+    {
+      "t": 701.37,
+      "text": "So when you present your personal growth goals, let's say securing advanced analytics training, which we'll get into later, you should never frame it as just personal development."
+    },
+    {
+      "t": 710.86,
+      "text": "OK, so how do you frame it?"
+    },
+    {
+      "t": 712.18,
+      "text": "You frame it as commercial strategy."
+    },
+    {
+      "t": 714.74,
+      "text": "You say something like this training will allow our team to map adoption rates more accurately and predict churn risk six months earlier than we can now, leading to a projected X percent improvement in customer lifetime value."
+    },
+    {
+      "t": 729.81,
+      "text": "I love that."
+    },
+    {
+      "t": 730.59,
+      "text": "You're not asking for a favor at all."
+    },
+    {
+      "t": 732.25,
+      "text": "You're presenting a vetted high ROI business case that's just wrapped in your personal development."
+    },
+    {
+      "t": 737.35,
+      "text": "Exactly."
+    },
+    {
+      "t": 737.83,
+      "text": "And it sharpens your own priorities, too, because if you can't link one of your goals back to customer value, well, it probably isn't worth pursuing right now."
+    },
+    {
+      "t": 744.98,
+      "text": "That's a great filter."
+    },
+    {
+      "t": 746.04,
+      "text": "It is."
+    },
+    {
+      "t": 746.42,
+      "text": "It makes sure your objectives aren't seen as, you know, just individual ambition, which can sometimes be viewed suspiciously."
+    },
+    {
+      "t": 752.75,
+      "text": "Instead, they're seen as necessary, targeted business strategy that benefits the entire organization."
+    },
+    {
+      "t": 758.21,
+      "text": "And I imagine this strategic lens really improves your use of professional language, what we might call business English, making sure your communications are always outcome-oriented."
+    },
+    {
+      "t": 768.63,
+      "text": "That's it, precisely."
+    },
+    {
+      "t": 769.69,
+      "text": "It forces you into that mindset."
+    },
+    {
+      "t": 771.69,
+      "text": "So we set the strategic tone."
+    },
+    {
+      "t": 773.58,
+      "text": "That leads us directly to the second pillar of this foundational roadmap, pairing results with skill development."
+    },
+    {
+      "t": 781.06,
+      "text": "The sources are so emphatic on this point."
+    },
+    {
+      "t": 784.09,
+      "text": "A compelling promotion narrative needs two pillars, not just one."
+    },
+    {
+      "t": 788.44,
+      "text": "You need demonstrated results, of course, but those results must be paired with specific intentional skills you've acquired."
+    },
+    {
+      "t": 795.09,
+      "text": "Leadership teams want to see that capacity building."
+    },
+    {
+      "t": 797.42,
+      "text": "They want to know how you change to hit those targets, not just that you succeeded."
+    },
+    {
+      "t": 801.81,
+      "text": "This is where that intentionality really shines through."
+    },
+    {
+      "t": 804.47,
+      "text": "What specific skills did the source material cite as crucial targets for someone aiming at that bilingual global leadership level?"
+    },
+    {
+      "t": 812.66,
+      "text": "They specifically cite capacity builders that kind of transcend any single function."
+    },
+    {
+      "t": 817.33,
+      "text": "Things like strategic thinking and crisp storytelling."
+    },
+    {
+      "t": 820.51,
+      "text": "Okay, let's break those down."
+    },
+    {
+      "t": 821.37,
+      "text": "Strategic thinking."
+    },
+    {
+      "t": 822.32,
+      "text": "That's the ability to see around corners, to anticipate market shifts, competitive moves, organizational bottlenecks before they happen."
+    },
+    {
+      "t": 830.32,
+      "text": "And crisp storytelling, especially for a global role."
+    },
+    {
+      "t": 834.15,
+      "text": "I can see that being vital."
+    },
+    {
+      "t": 835.39,
+      "text": "It's absolutely crucial."
+    },
+    {
+      "t": 836.79,
+      "text": "It's the ability to influence without formal authority, to clearly and concisely convey complex data insights, often in a second or third business language, and making sure that no executive's time is ever wasted."
+    },
+    {
+      "t": 850.23,
+      "text": "And to make sure those skills are actually being acquired, not just listed on a plan, they recommend setting up monthly feedback loops."
+    },
+    {
+      "t": 857.14,
+      "text": "Monthly check-ins are the accountability engine here."
+    },
+    {
+      "t": 860.04,
+      "text": "If you wait until the end of the quarter, any course correction is usually too little, too late."
+    },
+    {
+      "t": 864.13,
+      "text": "Right."
+    },
+    {
+      "t": 864.37,
+      "text": "Monthly loops let you adjust scope, pivot direction, surface blockers early, and they prevent any single issue from, you know, gaining critical mass and derailing you."
+    },
+    {
+      "t": 873.02,
+      "text": "So, for example, if your strategic thinking project starts to devolve into just a complex operational checklist..."
+    },
+    {
+      "t": 879.93,
+      "text": "A monthly check in forces a reset."
+    },
+    {
+      "t": 882.66,
+      "text": "It makes you pivot back toward high level strategy and vision."
+    },
+    {
+      "t": 886.09,
+      "text": "It just keeps accountability high and the skill acquisition laser focused."
+    },
+    {
+      "t": 890.39,
+      "text": "That cadence makes a lot of sense."
+    },
+    {
+      "t": 892.53,
+      "text": "Now let's talk about team continuity and alignment."
+    },
+    {
+      "t": 895.19,
+      "text": "The sources repeatedly discuss maintaining transparency through shared documentation."
+    },
+    {
+      "t": 900.96,
+      "text": "Oh, the power of the shared board documenting goals, identifying risks, showing supporting metrics."
+    },
+    {
+      "t": 906.98,
+      "text": "You just can't overstate it."
+    },
+    {
+      "t": 908.35,
+      "text": "The goal here is external transparency."
+    },
+    {
+      "t": 910.67,
+      "text": "For who?"
+    },
+    {
+      "t": 911.21,
+      "text": "For your teammates, your own direct reports, and your cross-functional stakeholders."
+    },
+    {
+      "t": 915.89,
+      "text": "It ensures they understand exactly how they can effectively support your ambition."
+    },
+    {
+      "t": 919.74,
+      "text": "So if your goal requires input from, say, the finance team."
+    },
+    {
+      "t": 923.34,
+      "text": "Or it's dependent on a resource owned by another region, that shared accessible documentation is your first line of defense against misalignment and project friction."
+    },
+    {
+      "t": 931.82,
+      "text": "Transparency also means acknowledging where the vulnerabilities lie."
+    },
+    {
+      "t": 935.56,
+      "text": "Now, let me push back on this a little because most people try to hide vulnerabilities in their career planning, but the sources highlight contingency planning as a core maturity element."
+    },
+    {
+      "t": 944.93,
+      "text": "They absolutely do."
+    },
+    {
+      "t": 945.99,
+      "text": "And it's such a good point."
+    },
+    {
+      "t": 947.71,
+      "text": "Resilience in this context, it isn't just about bouncing back emotionally."
+    },
+    {
+      "t": 951.36,
+      "text": "It's about having smart tactical backup plans already defined."
+    },
+    {
+      "t": 954.8,
+      "text": "So they advocate for planning specific contingency steps for different scenarios."
+    },
+    {
+      "t": 959.02,
+      "text": "Exactly."
+    },
+    {
+      "t": 959.62,
+      "text": "If plan A is the Q3 product launch, what's plan B if key funding is lost?"
+    },
+    {
+      "t": 964.57,
+      "text": "Or what if your executive sponsor suddenly leaves the company?"
+    },
+    {
+      "t": 967.75,
+      "text": "That's a huge one."
+    },
+    {
+      "t": 968.87,
+      "text": "So what are the specific types of contingencies the source materials advise focusing on?"
+    },
+    {
+      "t": 973.63,
+      "text": "They detail three major risk categories that often derail these kinds of high level goals."
+    },
+    {
+      "t": 979.04,
+      "text": "First is funding or budget loss contingency."
+    },
+    {
+      "t": 981.96,
+      "text": "Right."
+    },
+    {
+      "t": 982.1,
+      "text": "If your budget gets cut by 30 percent, which tasks get deferred immediately?"
+    },
+    {
+      "t": 985.55,
+      "text": "And how do you achieve, say, 80 percent of the outcome with only 70 percent of the resources?"
+    },
+    {
+      "t": 990.67,
+      "text": "You need that answer ready."
+    },
+    {
+      "t": 991.82,
+      "text": "The second."
+    },
+    {
+      "t": 992.36,
+      "text": "Key personnel loss contingency."
+    },
+    {
+      "t": 994.58,
+      "text": "If your lead developer or your critical stakeholder leaves, who steps in immediately and what documentation is already in place to minimize that knowledge loss?"
+    },
+    {
+      "t": 1002.39,
+      "text": "And the third must be external."
+    },
+    {
+      "t": 1004.07,
+      "text": "It is."
+    },
+    {
+      "t": 1004.67,
+      "text": "External market disruption contingency."
+    },
+    {
+      "t": 1006.71,
+      "text": "If a new competitor enters the Asian market or a key regulatory hurdle pops up, what's the immediate pivot strategy?"
+    },
+    {
+      "t": 1014.88,
+      "text": "The sources stress that having these answers ready prevents panic and maintains strategic momentum when, you know, the unexpected happens."
+    },
+    {
+      "t": 1022.23,
+      "text": "Which it always does."
+    },
+    {
+      "t": 1023.45,
+      "text": "And that demonstrates foresight, which is exactly what a global leader needs."
+    },
+    {
+      "t": 1026.91,
+      "text": "You're building resilience directly into the process, not just reacting later."
+    },
+    {
+      "t": 1031.17,
+      "text": "That's it."
+    },
+    {
+      "t": 1032.04,
+      "text": "And finally, for phase one, what about the rhythm of accountability?"
+    },
+    {
+      "t": 1036.55,
+      "text": "They stress implementing weekly reviews, and they specifically note a Friday review to stay realistic."
+    },
+    {
+      "t": 1042.32,
+      "text": "The Friday cadence is so intentional and strategic."
+    },
+    {
+      "t": 1045.28,
+      "text": "It forces you to do a workload assessment and adjustment before the weekend begins."
+    },
+    {
+      "t": 1049.64,
+      "text": "Ah, so you don't carry that stress with you."
+    },
+    {
+      "t": 1051.49,
+      "text": "Exactly."
+    },
+    {
+      "t": 1051.97,
+      "text": "If something slipped, a metric went red, a risk materialized, you confront it when you still have time to communicate adjustments or delegate actions for Monday rather than letting that stress build and fester over the weekend."
+    },
+    {
+      "t": 1063.38,
+      "text": "And even a short review can help."
+    },
+    {
+      "t": 1064.84,
+      "text": "A 30 minute review of that shared board."
+    },
+    {
+      "t": 1066.81,
+      "text": "That's it."
+    },
+    {
+      "t": 1067.81,
+      "text": "It helps you stay realistic about capacity, adjust your workload proactively and avoid that last minute high stress scramble that ultimately just kills the quality of high stakes performance."
+    },
+    {
+      "t": 1078.06,
+      "text": "So phase one is really about architecting the entire system."
+    },
+    {
+      "t": 1082.07,
+      "text": "You're anchoring goals to customer value, defining measurable milestones, building in dual tracks for results and skills, and ensuring transparency with built-in specific contingency plans."
+    },
+    {
+      "t": 1094.57,
+      "text": "That is a seriously disciplined foundation."
+    },
+    {
+      "t": 1096.55,
+      "text": "It is the discipline foundation, yes."
+    },
+    {
+      "t": 1098.49,
+      "text": "And it sets us up perfectly for phase two, putting rubber to the road and acquiring the specific capabilities you need to achieve those global goals."
+    },
+    {
+      "t": 1105.89,
+      "text": "Okay, moving into phase two, we dive into the specific practical skill acquisition needed to hit those high stakes global milestones."
+    },
+    {
+      "t": 1113.32,
+      "text": "And the sources identified a key immediate capability gap for the team aiming for Asia, data storytelling."
+    },
+    {
+      "t": 1119.91,
+      "text": "This is, I would argue, one of the most valuable leadership skills right now, particularly in fast-paced markets."
+    },
+    {
+      "t": 1125.13,
+      "text": "I mean, having data just isn't enough."
+    },
+    {
+      "t": 1127.02,
+      "text": "Right."
+    },
+    {
+      "t": 1127.16,
+      "text": "Everyone has data."
+    },
+    {
+      "t": 1128.16,
+      "text": "Everyone has data."
+    },
+    {
+      "t": 1129.4,
+      "text": "You have to be able to craft a concise, compelling narrative around that data that moves decisions faster."
+    },
+    {
+      "t": 1135.07,
+      "text": "The difference between a raw data dump and a data story, well, it's the difference between management scratching their heads and management immediately approving a $10 million expenditure."
+    },
+    {
+      "t": 1146.44,
+      "text": "And if your executive only has five minutes."
+    },
+    {
+      "t": 1148.43,
+      "text": "Your data story, conveyed in that crystal clear business English, needs to land immediately with actionable impact."
+    },
+    {
+      "t": 1154.97,
+      "text": "The sources provide a really detailed, practical approach to closing this gap."
+    },
+    {
+      "t": 1159.6,
+      "text": "They call it the practice loop."
+    },
+    {
+      "t": 1161.96,
+      "text": "What does that actually look like when you implement it on a team?"
+    },
+    {
+      "t": 1164.92,
+      "text": "It's highly iterative and it's focused on real-world application."
+    },
+    {
+      "t": 1168.85,
+      "text": "It means scheduling dedicated, protected sessions with your analytics teams, not just to receive reports, but to actively practice concise narratives using real case studies."
+    },
+    {
+      "t": 1179.32,
+      "text": "You're using your own company's data?"
+    },
+    {
+      "t": 1180.91,
+      "text": "Your own data."
+    },
+    {
+      "t": 1181.93,
+      "text": "The key is gathering strong examples of successful executive communications to model the structure and the tone."
+    },
+    {
+      "t": 1189.02,
+      "text": "Are they using a problem solution impact structure?"
+    },
+    {
+      "t": 1191.41,
+      "text": "How short are the slides?"
+    },
+    {
+      "t": 1193.31,
+      "text": "How do they articulate complex statistical findings in, you know, simple, memorable metaphors?"
+    },
+    {
+      "t": 1199.18,
+      "text": "It sounds like it's about intentionally building a muscle memory for clear, high stakes communication."
+    },
+    {
+      "t": 1204.7,
+      "text": "Precisely."
+    },
+    {
+      "t": 1205.62,
+      "text": "You are conditioning yourself to articulate the so what faster than anyone else."
+    },
+    {
+      "t": 1210.91,
+      "text": "And this is where that training in business English becomes so essential."
+    },
+    {
+      "t": 1215.1,
+      "text": "It's not just about grammar."
+    },
+    {
+      "t": 1216.3,
+      "text": "It's about vocabulary and structure."
+    },
+    {
+      "t": 1217.88,
+      "text": "It's about using the right vocabulary impact, ROI, leverage, mitigation in the right structure to convey confidence and authority."
+    },
+    {
+      "t": 1226.03,
+      "text": "You have to make sure your insights aren't lost in translation or complexity, especially when you're dealing with regional stakeholders whose first language might not be English."
+    },
+    {
+      "t": 1234.52,
+      "text": "That structured practice moves us to another critical skill identified in the sources, one that's absolutely essential for the Asia market, sharpening negotiation skills for global contracts."
+    },
+    {
+      "t": 1245.87,
+      "text": "This is directly tied to that ambition of managing regional vendor contracts and protecting margins."
+    },
+    {
+      "t": 1251.24,
+      "text": "And this is where competence turns into measurable revenue protection."
+    },
+    {
+      "t": 1254.97,
+      "text": "The approach detailed in the sources is beautifully iterative."
+    },
+    {
+      "t": 1258.65,
+      "text": "How so?"
+    },
+    {
+      "t": 1259.17,
+      "text": "They start with passive high observation learning, shadowing procurement during high stay supplier discussions to learn the framing, the pacing, the nonverbal cues used by master negotiators."
+    },
+    {
+      "t": 1269.86,
+      "text": "You're there just to learn their specific professional vocabulary."
+    },
+    {
+      "t": 1273.23,
+      "text": "So you observe the experts, you see the techniques."
+    },
+    {
+      "t": 1275.41,
+      "text": "But then the roadmap mandates an immediate shift to active practice."
+    },
+    {
+      "t": 1279.75,
+      "text": "Right."
+    },
+    {
+      "t": 1280.23,
+      "text": "Just drafting specific scripts and running mock sessions, role playing to quickly identify and refine your professional tone and expose your personal gaps under simulated pressure."
+    },
+    {
+      "t": 1288.44,
+      "text": "That role playing part is vital because negotiation often fails not because of the terms but because of an emotional reaction or poor framing when pressure is applied."
+    },
+    {
+      "t": 1298.13,
+      "text": "They stress the importance of grounding this training in context too."
+    },
+    {
+      "t": 1302.28,
+      "text": "They recommend reading case studies to understand common regional pitfalls and counter strategies."
+    },
+    {
+      "t": 1308.01,
+      "text": "The goal is training that's immediately useful, not just theoretical."
+    },
+    {
+      "t": 1311.75,
+      "text": "And how do they transition this, which is a qualitative skill, into measurable quantitative progress?"
+    },
+    {
+      "t": 1318.32,
+      "text": "They track tangible metrics, most importantly, concession rates."
+    },
+    {
+      "t": 1322.41,
+      "text": "What's concession rate exactly?"
+    },
+    {
+      "t": 1323.93,
+      "text": "It's measuring how much value you gave up relative to your initial ideal ask."
+    },
+    {
+      "t": 1328.49,
+      "text": "So, for example, if you initially asked for a 20 percent margin on a contract and you settled at 12 percent, that eight point gap is your measurable concession."
+    },
+    {
+      "t": 1336.7,
+      "text": "And you track that over time?"
+    },
+    {
+      "t": 1338.1,
+      "text": "You track it not just on price, but on payment terms, scope creep, service level agreements."
+    },
+    {
+      "t": 1342.87,
+      "text": "The question is, are you giving up less value over time?"
+    },
+    {
+      "t": 1346.66,
+      "text": "But negotiation isn't just about raw numbers."
+    },
+    {
+      "t": 1348.82,
+      "text": "It's about relationship quality, especially in global markets."
+    },
+    {
+      "t": 1351.91,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1352.53,
+      "text": "So they also collect qualitative notes feedback on improvements in clarity, trust, relationship strength, sometimes from the vendors themselves."
+    },
+    {
+      "t": 1360.05,
+      "text": "Good negotiation is mutual success."
+    },
+    {
+      "t": 1362.25,
+      "text": "It's about strengthening partner relationships while protecting your margins."
+    },
+    {
+      "t": 1365.72,
+      "text": "Yes."
+    },
+    {
+      "t": 1366.3,
+      "text": "The sources insist on creating a simple, objective scorecard template for monthly skill measurement."
+    },
+    {
+      "t": 1372.07,
+      "text": "This makes sure the progress is visible to leadership and directly strengthens your promotion case."
+    },
+    {
+      "t": 1377.07,
+      "text": "I found the discussion of advanced tactics here really interesting, specifically practicing silence."
+    },
+    {
+      "t": 1383.3,
+      "text": "That is the mark of a truly seasoned negotiator."
+    },
+    {
+      "t": 1386.41,
+      "text": "The sources explain that practicing intentional silence, just waiting after you make a statement or receive an offer,"
+    },
+    {
+      "t": 1392.49,
+      "text": "And it's probably the hardest skill for an amateur to master."
+    },
+    {
+      "t": 1410.37,
+      "text": "The hardest but the most powerful for a professional."
+    },
+    {
+      "t": 1413.23,
+      "text": "So we've talked about acquiring skills."
+    },
+    {
+      "t": 1415.18,
+      "text": "Now let's talk about funding them."
+    },
+    {
+      "t": 1417.03,
+      "text": "Securing training investment specifically for advanced analytics requires a strategy of its own."
+    },
+    {
+      "t": 1423.57,
+      "text": "They say it's not a request, it's a proposal."
+    },
+    {
+      "t": 1425.6,
+      "text": "A critical distinction."
+    },
+    {
+      "t": 1427.5,
+      "text": "When you're requiring funds, the entire focus has to immediately shift to return on investment, to ROI."
+    },
+    {
+      "t": 1434.51,
+      "text": "The key is all in the framing of the proposal."
+    },
+    {
+      "t": 1436.67,
+      "text": "You have to show the expected impact."
+    },
+    {
+      "t": 1438.19,
+      "text": "And how that impact ties directly to immediate team and organizational objectives."
+    },
+    {
+      "t": 1443.23,
+      "text": "You map the training outcomes not just to your personal knowledge, but to metrics like adoption rate improvement, reduced operational risk, or demonstrable revenue influence."
+    },
+    {
+      "t": 1452.44,
+      "text": "So instead of saying, I need to go to this seminar, you say, investing X dollars in this seminar will enable me to build the Q3 dashboard that provides Y dollars of financial clarity."
+    },
+    {
+      "t": 1462.33,
+      "text": "Precisely."
+    },
+    {
+      "t": 1463.45,
+      "text": "And to maximize that value, the sources recommend a really clever twist."
+    },
+    {
+      "t": 1467.94,
+      "text": "You propose to share the learnings via an internal training session or a workshop."
+    },
+    {
+      "t": 1472.16,
+      "text": "Ah, so you multiply the ROI."
+    },
+    {
+      "t": 1473.69,
+      "text": "If the company spends $5,000 on advanced training for one person and you propose to teach 10 teammates, the ROI is magnified tenfold."
+    },
+    {
+      "t": 1482.54,
+      "text": "It instantly transforms a personal request into a team capability lift."
+    },
+    {
+      "t": 1486.85,
+      "text": "I see the financial logic, but what about the political signal this sends?"
+    },
+    {
+      "t": 1490.6,
+      "text": "It signals resourcefulness."
+    },
+    {
+      "t": 1493.22,
+      "text": "The sources recommend that, especially if you expect budget constraints, you should include alternative free resources in your proposal."
+    },
+    {
+      "t": 1500.47,
+      "text": "Likewise."
+    },
+    {
+      "t": 1501.06,
+      "text": "Specific free MOOCs or internal subject matter experts."
+    },
+    {
+      "t": 1506.28,
+      "text": "Or you could propose flexible options like a partial subsidy or a face payment."
+    },
+    {
+      "t": 1511.43,
+      "text": "This demonstrates thoughtfulness, due diligence, and financial responsibility to leadership."
+    },
+    {
+      "t": 1516.16,
+      "text": "That makes sense."
+    },
+    {
+      "t": 1516.86,
+      "text": "Leaders are just far more comfortable approving spending when the requester has demonstrated exhaustive resourcefulness and fiduciary responsibility."
+    },
+    {
+      "t": 1525.03,
+      "text": "Phase two is all about building undeniable, measurable capability that the business needs, not just something that you want."
+    },
+    {
+      "t": 1531.53,
+      "text": "OK, moving into phase three, the focus shifts outward."
+    },
+    {
+      "t": 1535.49,
+      "text": "The career and program becomes explicitly global, focused on influence, visibility and relationship building."
+    },
+    {
+      "t": 1541.8,
+      "text": "And the first strategy is the intentional use of mentorship for accelerated growth."
+    },
+    {
+      "t": 1546.02,
+      "text": "Mentorship is a massive accelerant, but only if you treat it as a strategic partnership, not just a casual chat."
+    },
+    {
+      "t": 1552.25,
+      "text": "The sources emphasize the need to target mentors who have already successfully navigated the transitions you're anticipating, particularly those who have led complex, cross-functional global roles or established a product presence in Asia."
+    },
+    {
+      "t": 1566.81,
+      "text": "This just accelerates your growth path by letting you avoid common blind spots and rookie mistakes."
+    },
+    {
+      "t": 1571.72,
+      "text": "And the outreach needs to be surgical."
+    },
+    {
+      "t": 1573.78,
+      "text": "It's not just sending a generic connection request on a networking site."
+    },
+    {
+      "t": 1577.03,
+      "text": "Never."
+    },
+    {
+      "t": 1577.63,
+      "text": "You start by listing admired individuals."
+    },
+    {
+      "t": 1579.84,
+      "text": "Then you request a very short, specific chat, say 15 minutes, just to gauge the fit and chemistry."
+    },
+    {
+      "t": 1585.91,
+      "text": "And you have to go in prepared."
+    },
+    {
+      "t": 1587.29,
+      "text": "Critically, before that first meeting, you draft specific, focused asks."
+    },
+    {
+      "t": 1591.98,
+      "text": "Mentors are busy."
+    },
+    {
+      "t": 1592.94,
+      "text": "They need to know exactly how they can support you efficiently."
+    },
+    {
+      "t": 1596.19,
+      "text": "Examples they cited were things like requesting strategic leadership advice on handling conflict across cultures or seeking exposure to a specific cross-functional domain like international compliance."
+    },
+    {
+      "t": 1607.1,
+      "text": "That clarity maximizes the effectiveness of every single interaction."
+    },
+    {
+      "t": 1611.46,
+      "text": "This also brings up what they call the reciprocity rule, the idea that the relationship must be balanced to survive."
+    },
+    {
+      "t": 1617.23,
+      "text": "How do you, as the mentee, offer genuine value back to a senior leader?"
+    },
+    {
+      "t": 1623.17,
+      "text": "You have to think beyond your direct functional role."
+    },
+    {
+      "t": 1626.54,
+      "text": "The relationship can't feel like a one-way drain."
+    },
+    {
+      "t": 1629.58,
+      "text": "So what's an example of genuine value?"
+    },
+    {
+      "t": 1631.61,
+      "text": "It could be sharing highly relevant market insights you've recently come across that relate to their domain or providing concise, timely updates on project performance in your sphere of influence that might inform their broader strategic thinking."
+    },
+    {
+      "t": 1645.21,
+      "text": "So it's about being proactive."
+    },
+    {
+      "t": 1646.81,
+      "text": "Right."
+    },
+    {
+      "t": 1647.47,
+      "text": "Don't just say, here's a market insight."
+    },
+    {
+      "t": 1649.25,
+      "text": "Instead, you might ask the mentor, did you see the recent Q3 regulatory shift in Singapore?"
+    },
+    {
+      "t": 1654.72,
+      "text": "I mapped out three immediate implications for our product line."
+    },
+    {
+      "t": 1657.84,
+      "text": "I thought this might be critical for your upcoming strategy meeting."
+    },
+    {
+      "t": 1661.01,
+      "text": "That professionalism and respect keeps the relationship balanced and supportive over the long term."
+    },
+    {
+      "t": 1665.57,
+      "text": "The sources raise a critical boundary I think a lot of people miss, keeping mentorship discussions separate from formal performance evaluations."
+    },
+    {
+      "t": 1673.58,
+      "text": "This is absolutely essential for psychological safety."
+    },
+    {
+      "t": 1676.82,
+      "text": "Mentorship has to be a safe exploratory space for development."
+    },
+    {
+      "t": 1681.51,
+      "text": "And if you mix it with performance reviews."
+    },
+    {
+      "t": 1683.51,
+      "text": "The mentee will naturally hold back."
+    },
+    {
+      "t": 1685.96,
+      "text": "They'll censor their development themes, their challenges, their weaknesses for fear that it will negatively impact their formal rating or their promotion timeline."
+    },
+    {
+      "t": 1694.31,
+      "text": "So you keep the stream separate."
+    },
+    {
+      "t": 1695.46,
+      "text": "Strictly separate."
+    },
+    {
+      "t": 1696.62,
+      "text": "It allows for candid, vulnerable feedback that is essential for true leadership growth."
+    },
+    {
+      "t": 1702.29,
+      "text": "The sources recommend scheduling quarterly retros specifically to review progress against the advice you are given, ensuring the guidance is driving tangible growth without impacting your HR standing."
+    },
+    {
+      "t": 1713.42,
+      "text": "With mentorship accelerating growth, the focus shifts to the immediate future."
+    },
+    {
+      "t": 1718.37,
+      "text": "Promotion readiness."
+    },
+    {
+      "t": 1719.97,
+      "text": "The core hurdle here seems to be achieving clarity on the promotion criteria."
+    },
+    {
+      "t": 1723.86,
+      "text": "You absolutely need to know the explicit rules of the game."
+    },
+    {
+      "t": 1726.63,
+      "text": "And the first step is what they call the HR checklist."
+    },
+    {
+      "t": 1729.54,
+      "text": "Meeting with HR and the relevant committee to formally map the required competencies, the specific evidence you'll need for each competency, and the expected timelines."
+    },
+    {
+      "t": 1739.25,
+      "text": "This formal checklist prevents surprises when the promotion panel reviews your case, and it ensures you haven't wasted time building evidence for the wrong level."
+    },
+    {
+      "t": 1747.45,
+      "text": "And once you have the competencies, you need the evidence portfolio."
+    },
+    {
+      "t": 1751.22,
+      "text": "What does a truly compelling portfolio look like for someone targeting global leadership?"
+    },
+    {
+      "t": 1755.55,
+      "text": "It has to be comprehensive."
+    },
+    {
+      "t": 1757.22,
+      "text": "Yes, you gather specific metrics, revenue impact, process efficiencies, operational improvements."
+    },
+    {
+      "t": 1762.79,
+      "text": "But equally important are the qualitative markers."
+    },
+    {
+      "t": 1765.47,
+      "text": "Such as?"
+    },
+    {
+      "t": 1766.44,
+      "text": "Stakeholder testimonials that highlight your collaboration effectiveness, your influence without authority, and exemplary leadership behaviors."
+    },
+    {
+      "t": 1773.84,
+      "text": "The story needs to be backed by verifiable numbers and clear third-party influence validation."
+    },
+    {
+      "t": 1779.87,
+      "text": "For someone targeting a role leading a bilingual team in Asia, speaking of influence, the sources highlight the non-negotiable need for cross-regional initiatives to prove you have broader influence."
+    },
+    {
+      "t": 1790.44,
+      "text": "That kind of evidence is undeniable credibility."
+    },
+    {
+      "t": 1793.4,
+      "text": "Leading a multi-country effort signals you're ready for wider responsibility and it demonstrates cultural sensitivity."
+    },
+    {
+      "t": 1799.03,
+      "text": "So what could you do?"
+    },
+    {
+      "t": 1800.19,
+      "text": "The source suggests proactively proposing a pilot project connecting, say, the Japan and Singapore teams on an upcoming product rollout."
+    },
+    {
+      "t": 1808.22,
+      "text": "That project demonstrates coordination skills, cultural diplomacy, and the ability to manage complexity all at once."
+    },
+    {
+      "t": 1815.61,
+      "text": "Promotion committees look for leaders who can operate effectively across boundaries, not just within a single silo."
+    },
+    {
+      "t": 1821.36,
+      "text": "Now, before you can move up, you often have to ensure your current role is stabilized."
+    },
+    {
+      "t": 1825.56,
+      "text": "This brings up the necessity of succession planning."
+    },
+    {
+      "t": 1827.7,
+      "text": "This is such a frequently overlooked blocker."
+    },
+    {
+      "t": 1830.27,
+      "text": "A promotion is often denied or delayed if the person is seen as indispensable in their current role, a single point of failure."
+    },
+    {
+      "t": 1837.3,
+      "text": "So what's the strategic move?"
+    },
+    {
+      "t": 1839.0,
+      "text": "You start mentoring a junior colleague explicitly to take over your key responsibilities smoothly."
+    },
+    {
+      "t": 1844.77,
+      "text": "This removes the operational reason to deny your promotion."
+    },
+    {
+      "t": 1847.79,
+      "text": "It shows immense foresight, strategic capability, and a focus on building capability in the team."
+    },
+    {
+      "t": 1854.5,
+      "text": "It proves you're ready to manage up, not just run an individual function."
+    },
+    {
+      "t": 1858.44,
+      "text": "But let's acknowledge the emotional hurdle here."
+    },
+    {
+      "t": 1860.97,
+      "text": "It takes courage to mentor your own replacement."
+    },
+    {
+      "t": 1864.17,
+      "text": "How do the sources suggest addressing that internal anxiety about making yourself redundant?"
+    },
+    {
+      "t": 1869.26,
+      "text": "They reframe it entirely."
+    },
+    {
+      "t": 1870.72,
+      "text": "You are not making yourself redundant."
+    },
+    {
+      "t": 1872.34,
+      "text": "You are proving your value at the next level."
+    },
+    {
+      "t": 1874.59,
+      "text": "By training a high quality replacement, you are providing a business solution to the leadership team."
+    },
+    {
+      "t": 1879.69,
+      "text": "Continuity."
+    },
+    {
+      "t": 1880.67,
+      "text": "That's a powerful reframe."
+    },
+    {
+      "t": 1882.1,
+      "text": "It shows that your focus is on scaling the organization's capabilities, not just protecting your own turf."
+    },
+    {
+      "t": 1887.44,
+      "text": "This foresight is what separates a manager from a true leader."
+    },
+    {
+      "t": 1890.87,
+      "text": "Finally, on this point, the narrative framing itself."
+    },
+    {
+      "t": 1894.35,
+      "text": "The sources recommend framing achievements as problem solved and risks mitigated."
+    },
+    {
+      "t": 1898.76,
+      "text": "This is so crucial for building trust with the promotion committee."
+    },
+    {
+      "t": 1902.28,
+      "text": "Instead of just a simple task list, I launched product X, you elevate the story."
+    },
+    {
+      "t": 1907.03,
+      "text": "To what?"
+    },
+    {
+      "t": 1908.11,
+      "text": "I identified and mitigated the three largest regulatory risks, specifically in the data sovereignty space, which allowed the timely launch of product X, securing Y in revenue and protecting us from Z in penalties."
+    },
+    {
+      "t": 1920.91,
+      "text": "That demonstrates maturity, sound judgment, and foresight."
+    },
+    {
+      "t": 1924.22,
+      "text": "Exactly."
+    },
+    {
+      "t": 1925.08,
+      "text": "And they also stress rehearsing panel questions meticulously and focusing on credibility and authenticity."
+    },
+    {
+      "t": 1931.16,
+      "text": "Overstating your claims is fatal."
+    },
+    {
+      "t": 1933.18,
+      "text": "Verifiable data and confident authenticity carry the most weight."
+    },
+    {
+      "t": 1936.75,
+      "text": "Moving from promotions, we get strategic networking."
+    },
+    {
+      "t": 1939.77,
+      "text": "The goal here is quality over quantity, avoiding those transactional interactions."
+    },
+    {
+      "t": 1944.12,
+      "text": "The sources outline highly intentional methods that move way beyond just collecting business cards."
+    },
+    {
+      "t": 1949.02,
+      "text": "Don't just attend conferences."
+    },
+    {
+      "t": 1950.66,
+      "text": "Attend them with clear, predefined objectives."
+    },
+    {
+      "t": 1953.35,
+      "text": "Prepare concise introductions that highlight not just what you do, but what problems you solve or what areas you're currently exploring."
+    },
+    {
+      "t": 1960.48,
+      "text": "So every interaction has a purpose."
+    },
+    {
+      "t": 1962.52,
+      "text": "It ensures your time spent leads to genuinely meaningful dialogue and real opportunities."
+    },
+    {
+      "t": 1968.31,
+      "text": "And the work continues after the event."
+    },
+    {
+      "t": 1970.43,
+      "text": "How do they recommend sustaining these relationships in a busy calendar?"
+    },
+    {
+      "t": 1973.73,
+      "text": "they create operational discipline around it."
+    },
+    {
+      "t": 1976.24,
+      "text": "This means crafting personalized follow-up notes immediately after meeting someone to keep the conversation warm and blocking dedicated time weekly specifically for networking follow-ups."
+    },
+    {
+      "t": 1986.39,
+      "text": "So it's part of the schedule."
+    },
+    {
+      "t": 1987.38,
+      "text": "It has to be."
+    },
+    {
+      "t": 1987.94,
+      "text": "Furthermore, they stress generosity."
+    },
+    {
+      "t": 1991.01,
+      "text": "proactively connecting to other people when you see a mutual benefit."
+    },
+    {
+      "t": 1995.24,
+      "text": "Building goodwill being a connector is the quickest way to build long-term trust."
+    },
+    {
+      "t": 1999.87,
+      "text": "And they review their network map monthly to identify gaps and new strategic targets."
+    },
+    {
+      "t": 2004.65,
+      "text": "The ultimate signal of success in networking is detailed in the source as the pull signal."
+    },
+    {
+      "t": 2009.79,
+      "text": "What's that?"
+    },
+    {
+      "t": 2010.17,
+      "text": "Yes, that's the moment of truth."
+    },
+    {
+      "t": 2011.6,
+      "text": "You know your networking efforts have shifted from transactional to strategic when partners, peers, or senior leaders proactively approach you with ideas, information, or partnership opportunities."
+    },
+    {
+      "t": 2022.17,
+      "text": "Ah, so it's inbound."
+    },
+    {
+      "t": 2023.27,
+      "text": "That pull signal means your value, your expertise, and your presence are resonating effectively within the industry."
+    },
+    {
+      "t": 2030.98,
+      "text": "It turns your strenuous outreach efforts into inbound opportunities."
+    },
+    {
+      "t": 2034.65,
+      "text": "The final piece of phase three is the core ambition, the global mobility strategy, getting that assignment abroad."
+    },
+    {
+      "t": 2042.48,
+      "text": "And the steps detailed here are so practical and phased to de-risk the transfer for the company."
+    },
+    {
+      "t": 2048.58,
+      "text": "The sources recommend first testing your readiness by proposing to co-lead a critical cross-border project remotely."
+    },
+    {
+      "t": 2054.85,
+      "text": "Ah, so you prove yourself first."
+    },
+    {
+      "t": 2056.85,
+      "text": "Exactly."
+    },
+    {
+      "t": 2057.45,
+      "text": "Success in remote collaboration managing time zones, cultural differences, communication across regions, builds the immediate trust required for a physical relocation later."
+    },
+    {
+      "t": 2067.44,
+      "text": "This is readiness testing in action."
+    },
+    {
+      "t": 2069.4,
+      "text": "And once the move is on the table, integration is key."
+    },
+    {
+      "t": 2072.13,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2072.69,
+      "text": "They advocate for seeking cultural mentors in the target offices, local buddies who can explain the operational nuances and the unwritten rules that manuals always miss."
+    },
+    {
+      "t": 2081.64,
+      "text": "And the language barrier."
+    },
+    {
+      "t": 2082.68,
+      "text": "Crucially, they stress dedicating time daily to improving business fluency in the required language."
+    },
+    {
+      "t": 2088.93,
+      "text": "Confidence in the local business language significantly reduces friction, accelerates integration with local teams, and earns respect quickly."
+    },
+    {
+      "t": 2096.48,
+      "text": "And the proposal to leadership for this move must be carefully crafted to frame it as a business necessity, not a personal travel desire."
+    },
+    {
+      "t": 2106.15,
+      "text": "Correct."
+    },
+    {
+      "t": 2107.21,
+      "text": "The proposal has to highlight the definitive business benefits, filling a critical leadership gap, accelerating knowledge transfer between headquarters in the region, and most importantly, demonstrating your future leadership potential as a globally savvy executive."
+    },
+    {
+      "t": 2121.11,
+      "text": "So the company sees it as an investment."
+    },
+    {
+      "t": 2123.11,
+      "text": "They view global experience as a necessary investment in their future leadership bench, and your proposal must clearly reflect that strategic ROI in alignment with organizational needs."
+    },
+    {
+      "t": 2133.42,
+      "text": "We've established the map, acquired the skills, and positioned for global leadership."
+    },
+    {
+      "t": 2138.05,
+      "text": "Now, phase four focuses on sustaining that growth, operational excellence, and personal resilience, because leading a global bilingual team requires an exceptional and durable operating rhythm."
+    },
+    {
+      "t": 2148.59,
+      "text": "Let's start with high-impact leadership and, perhaps surprisingly, meeting hygiene."
+    },
+    {
+      "t": 2153.77,
+      "text": "Meetings are so often the greatest time sink and the truest test of organizational efficiency."
+    },
+    {
+      "t": 2159.7,
+      "text": "The sources provide a clinical approach to making them effective, ensuring they become high-impact leadership forums."
+    },
+    {
+      "t": 2165.52,
+      "text": "What does that include?"
+    },
+    {
+      "t": 2166.82,
+      "text": "Structured agendas sent out 24 hours in advance, strict time boxing for each point, the use of pre-reads with specific critical questions attached, and summarizing decisions and next steps in real time before you close."
+    },
+    {
+      "t": 2179.54,
+      "text": "I find that suggestion to use pre-reads with explicit questions particularly powerful."
+    },
+    {
+      "t": 2185.16,
+      "text": "It forces pre-work."
+    },
+    {
+      "t": 2187.01,
+      "text": "Instead of people reading on the fly, they arrive ready to debate and decide."
+    },
+    {
+      "t": 2190.83,
+      "text": "And that transforms the meeting from a simple information sharing session into a decision-making engine."
+    },
+    {
+      "t": 2196.78,
+      "text": "That's a huge shift."
+    },
+    {
+      "t": 2197.74,
+      "text": "They also suggest rotating facilitation responsibilities to build confidence and adaptability among team members, which prepares them for future leadership roles."
+    },
+    {
+      "t": 2205.71,
+      "text": "And for one-on-one leadership, they focus intensely on improving coaching skills, especially giving constructive feedback without dampening motivation."
+    },
+    {
+      "t": 2213.91,
+      "text": "This is a really sophisticated leadership skill."
+    },
+    {
+      "t": 2216.72,
+      "text": "You have to be honest about performance gaps while maintaining the individual's commitment and motivation."
+    },
+    {
+      "t": 2222.64,
+      "text": "They specifically cite using the Situation Behavior Impact Framework, or SBI."
+    },
+    {
+      "t": 2227.99,
+      "text": "Right, SBI."
+    },
+    {
+      "t": 2229.15,
+      "text": "Can you walk us through a quick example of how that works in contrast to, say, typical vague feedback?"
+    },
+    {
+      "t": 2236.66,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2237.38,
+      "text": "A poor piece of feedback is something like, you need to be more strategic in meetings."
+    },
+    {
+      "t": 2241.43,
+      "text": "It's vague and it's easily dismissed."
+    },
+    {
+      "t": 2243.37,
+      "text": "Right."
+    },
+    {
+      "t": 2243.59,
+      "text": "What does that even mean?"
+    },
+    {
+      "t": 2244.61,
+      "text": "Exactly."
+    },
+    {
+      "t": 2245.41,
+      "text": "An SBI formatted piece of feedback sounds like this."
+    },
+    {
+      "t": 2248.62,
+      "text": "In the Q3 budget review meeting situation, you frequently interrupted stakeholder X while they were presenting the regional cost model behavior."
+    },
+    {
+      "t": 2257.69,
+      "text": "The impact was that Stakeholder X felt unheard, and we spent an extra 48 hours negotiating a point that was already resolved in the pre-read, which slowed down the final decision."
+    },
+    {
+      "t": 2266.98,
+      "text": "Wow."
+    },
+    {
+      "t": 2267.68,
+      "text": "By focusing purely on observable behavior and its measurable impact, you provide a clear path for improvement without attacking their personality."
+    },
+    {
+      "t": 2275.19,
+      "text": "It makes the feedback defensible and actionable."
+    },
+    {
+      "t": 2277.73,
+      "text": "But what about handling pushback from senior stakeholders, which can be really intimidating for a rising leader?"
+    },
+    {
+      "t": 2284.1,
+      "text": "The advice is to remain composed, data driven and focused on resolution."
+    },
+    {
+      "t": 2288.62,
+      "text": "You acknowledge their concerns immediately."
+    },
+    {
+      "t": 2290.79,
+      "text": "I understand your hesitation regarding the timeline."
+    },
+    {
+      "t": 2293.41,
+      "text": "You offer supporting data and you always propose next steps."
+    },
+    {
+      "t": 2297.16,
+      "text": "Let me analyze the Q4 data and propose two adjusted timelines by end of day tomorrow."
+    },
+    {
+      "t": 2302.69,
+      "text": "So you never freeze or get defensive."
+    },
+    {
+      "t": 2304.5,
+      "text": "Never."
+    },
+    {
+      "t": 2305.3,
+      "text": "And critically, the sources recommend preparing fallback options before you even enter high stakes meetings."
+    },
+    {
+      "t": 2310.93,
+      "text": "This anticipation keeps the leader flexible and composed under pressure, and it signals high maturity and control."
+    },
+    {
+      "t": 2317.48,
+      "text": "The sources also talk about the value of personal reflection here."
+    },
+    {
+      "t": 2320.3,
+      "text": "Yes."
+    },
+    {
+      "t": 2321.13,
+      "text": "Leaders are advised to keep a journal of wins and, more importantly, of lessons learned."
+    },
+    {
+      "t": 2325.7,
+      "text": "This turns raw experience into reusable insights and frameworks."
+    },
+    {
+      "t": 2329.44,
+      "text": "So when a similar problem comes up, you have a documented reference point on what worked, what failed, and why."
+    },
+    {
+      "t": 2334.87,
+      "text": "This systematic reflection just accelerates learning."
+    },
+    {
+      "t": 2338.4,
+      "text": "The next section is critical for long-term survival."
+    },
+    {
+      "t": 2341.69,
+      "text": "Maintaining a sustainable pace and preventing burnout, especially when you're managing complex global operations."
+    },
+    {
+      "t": 2348.32,
+      "text": "Ambition without sustainability is a short-term gamble."
+    },
+    {
+      "t": 2352.05,
+      "text": "The sources are extremely pragmatic here."
+    },
+    {
+      "t": 2354.84,
+      "text": "You have to treat your boundaries as operational discipline."
+    },
+    {
+      "t": 2358.15,
+      "text": "What does that mean in practice?"
+    },
+    {
+      "t": 2359.59,
+      "text": "It means blocking time for deep, focused work and also blocking time for non-negotiable breaks."
+    },
+    {
+      "t": 2365.86,
+      "text": "Setting firm stop times and communicating those stop times is essential to protect your personal commitments."
+    },
+    {
+      "t": 2372.05,
+      "text": "If the business knows you are offline after 6 p.m. because of a personal commitment, they are less likely to violate that boundary."
+    },
+    {
+      "t": 2379.32,
+      "text": "And how do they handle the constant barrage of urgent requests that threaten to derail the plan?"
+    },
+    {
+      "t": 2384.52,
+      "text": "They adopt a quick triage strategy, escalate requests that are truly critical, and defer non-urgent tasks respectfully but firmly."
+    },
+    {
+      "t": 2393.23,
+      "text": "They stress that learning to give thoughtful no's keeps relationships healthy and expectations clear."
+    },
+    {
+      "t": 2398.02,
+      "text": "And they have a calendar trick, right?"
+    },
+    {
+      "t": 2399.36,
+      "text": "Yes."
+    },
+    {
+      "t": 2399.61,
+      "text": "They use shared calendars with buffer slots."
+    },
+    {
+      "t": 2401.97,
+      "text": "Buffer slots."
+    },
+    {
+      "t": 2402.83,
+      "text": "That sounds like a lifesaver."
+    },
+    {
+      "t": 2404.07,
+      "text": "What exactly are they?"
+    },
+    {
+      "t": 2405.16,
+      "text": "Offer slots are dedicated, pre-blocked time segments in your calendar, say 30 minutes mid-morning and 30 minutes mid-afternoon, named something simple, like triage or catch-up."
+    },
+    {
+      "t": 2416.23,
+      "text": "They are intentionally uncommitted space designed to absorb unexpected work, answer those five urgent emails, or handle minor escalations without forcing chaos into your core commitments."
+    },
+    {
+      "t": 2427.72,
+      "text": "So that little bit of built-in slack reduces daily stress."
+    },
+    {
+      "t": 2431.28,
+      "text": "And it ensures the unexpected doesn't derail the strategic path."
+    },
+    {
+      "t": 2434.77,
+      "text": "The guiding principle here is fantastic."
+    },
+    {
+      "t": 2437.42,
+      "text": "Exceptional efforts should remain exceptional, not everyday expectations."
+    },
+    {
+      "t": 2441.64,
+      "text": "That phrase has to be the mantra of any sustainable leader."
+    },
+    {
+      "t": 2444.84,
+      "text": "If working 60 hours a week becomes the norm, the team has no reserve capacity for real crises and quality inevitably drops."
+    },
+    {
+      "t": 2451.79,
+      "text": "They use weekly reflections, a quick personal check on energy levels and focus to adjust workload and spot burnout patterns early."
+    },
+    {
+      "t": 2458.64,
+      "text": "It's about ensuring the steady marathon pace required for those long term global career dreams."
+    },
+    {
+      "t": 2463.93,
+      "text": "Let's pivot to operational stability, tracking, and team alignment."
+    },
+    {
+      "t": 2467.81,
+      "text": "If you can't measure your progress toward that Asia launch goal, you can't manage it."
+    },
+    {
+      "t": 2472.12,
+      "text": "They implement a very precise visibility system."
+    },
+    {
+      "t": 2474.92,
+      "text": "This is usually a simple dashboard, but the structure is key."
+    },
+    {
+      "t": 2477.76,
+      "text": "It has to clearly display owners, deadlines, status, and crucially, color coding for risk."
+    },
+    {
+      "t": 2483.61,
+      "text": "And they warn against information overload."
+    },
+    {
+      "t": 2486.04,
+      "text": "Strongly."
+    },
+    {
+      "t": 2486.92,
+      "text": "They advise leaders to limit metrics to just a few meaningful key performance indicators or KPIs to drive specific immediate action."
+    },
+    {
+      "t": 2496.11,
+      "text": "Too many metrics just leads to analysis paralysis."
+    },
+    {
+      "t": 2498.65,
+      "text": "There's a note on data integrity that stood out to me."
+    },
+    {
+      "t": 2501.48,
+      "text": "Start the dashboard internally and share it only once the data quality is absolutely reliable."
+    },
+    {
+      "t": 2506.81,
+      "text": "Why the internal vetting first?"
+    },
+    {
+      "t": 2508.61,
+      "text": "Because sharing unstable, inaccurate, or messy data erodes executive trust faster than almost anything else."
+    },
+    {
+      "t": 2515.58,
+      "text": "You have to refine the usability and verify the data quality internally first."
+    },
+    {
+      "t": 2519.74,
+      "text": "They also emphasize reviewing your metric definitions quarterly."
+    },
+    {
+      "t": 2523.05,
+      "text": "Why is that important?"
+    },
+    {
+      "t": 2524.23,
+      "text": "It prevents strategic drift."
+    },
+    {
+      "t": 2525.87,
+      "text": "It ensures that what the team is measuring today still perfectly aligns with the company's current priorities."
+    },
+    {
+      "t": 2530.55,
+      "text": "For instance, making sure adoption means the same thing in Japan as it does in the U.S. And operational tracking has to always connect back to the big picture."
+    },
+    {
+      "t": 2538.54,
+      "text": "Otherwise, the team is just chasing numbers."
+    },
+    {
+      "t": 2541.09,
+      "text": "Yes."
+    },
+    {
+      "t": 2541.83,
+      "text": "Leaders have to host specific sessions explaining the big picture and the expected outcomes to the team."
+    },
+    {
+      "t": 2547.97,
+      "text": "They have to clearly link individual work, even the most mundane tasks, to company priorities and that massive global vision."
+    },
+    {
+      "t": 2555.56,
+      "text": "It boosts motivation."
+    },
+    {
+      "t": 2556.66,
+      "text": "It reduces rework, increases motivation, and clarifies purpose."
+    },
+    {
+      "t": 2561.67,
+      "text": "They also institutionalize monthly alignment checks and, crucially, ask for direct feedback on their own leadership style to ensure they're supporting the team effectively, not just driving them relentlessly."
+    },
+    {
+      "t": 2572.27,
+      "text": "Finally, let's address building resilience and celebrating success, two necessary counterbalances in a high-stakes environment."
+    },
+    {
+      "t": 2579.63,
+      "text": "Resilience is preparedness."
+    },
+    {
+      "t": 2581.89,
+      "text": "Leaders should proactively list potential risks, product delays, budget cuts, regulatory changes, and design clear documented responses with designated owners."
+    },
+    {
+      "t": 2591.36,
+      "text": "This includes a clear communication plan for transparency during issues, which is vital for maintaining trust during turbulence."
+    },
+    {
+      "t": 2597.31,
+      "text": "And they emphasize psychological safety."
+    },
+    {
+      "t": 2599.1,
+      "text": "They strongly advocate for fostering psychological safety, which just means encouraging the team to raise red flags early without fear of blame or retribution."
+    },
+    {
+      "t": 2608.55,
+      "text": "And physical preparedness is covered through redundancy."
+    },
+    {
+      "t": 2611.06,
+      "text": "Right."
+    },
+    {
+      "t": 2611.78,
+      "text": "Building organizational redundancy through cross-training and rotation plans."
+    },
+    {
+      "t": 2616.2,
+      "text": "This avoids single points of failure that can crush a global initiative."
+    },
+    {
+      "t": 2620.91,
+      "text": "They even recommend scheduling quarterly stress tests, small simulated crises,"
+    },
+    {
+      "t": 2626.03,
+      "text": "And running small drills monthly to practice crisis responses, much like a fire drill."
+    },
+    {
+      "t": 2631.13,
+      "text": "So setbacks become temporary detours, not catastrophic events."
+    },
+    {
+      "t": 2634.88,
+      "text": "Exactly."
+    },
+    {
+      "t": 2635.48,
+      "text": "And the counterbalance to all that stress is intentional recognition."
+    },
+    {
+      "t": 2639.03,
+      "text": "We have to celebrate wins intentionally and publicly."
+    },
+    {
+      "t": 2642.15,
+      "text": "This means simple, immediate rituals after major milestones, a quick five-minute team toast, a personalized email of thanks, and highlighting specific positive contributions and behaviors, tying them back to the overall goal."
+    },
+    {
+      "t": 2655.97,
+      "text": "So people know their work is valued."
+    },
+    {
+      "t": 2657.67,
+      "text": "It's recognition that fuels long-term motivation and shows that the hard work is noticed and valued."
+    },
+    {
+      "t": 2662.69,
+      "text": "And that documentation of success serves a dual purpose we discussed earlier, doesn't it?"
+    },
+    {
+      "t": 2666.99,
+      "text": "Exactly."
+    },
+    {
+      "t": 2667.97,
+      "text": "Documenting those wins, the outcomes, the lessons learned, the specific stakeholder quotes directly supports performance reviews and future promotion narratives."
+    },
+    {
+      "t": 2678.15,
+      "text": "And sharing these success stories across departments not only builds team visibility, but also spreads best practices and inspires others."
+    },
+    {
+      "t": 2685.68,
+      "text": "Joy and progress makes the demanding career journey sustainable and deeply inspiring."
+    },
+    {
+      "t": 2691.12,
+      "text": "This has been an incredibly detailed and practical deep dive."
+    },
+    {
+      "t": 2695.39,
+      "text": "To recap, the ultimate career roadmap, according to this wealth of source material, isn't just a list of ambitions."
+    },
+    {
+      "t": 2701.57,
+      "text": "It is a disciplined, iterative process."
+    },
+    {
+      "t": 2704.26,
+      "text": "It encompasses intentional skill acquisition like mastering data narratives and high stakes global negotiation tactics paired with strategic reciprocal relationship building through mentorship and focused networking."
+    },
+    {
+      "t": 2715.27,
+      "text": "And it is all anchored by operational stability and personal resilience."
+    },
+    {
+      "t": 2719.13,
+      "text": "The core synthesis really is that consistent delivery plus visible growth tracked rigorously through dashboards and frequent feedback loops naturally creates a compelling, undeniable promotion story."
+    },
+    {
+      "t": 2729.73,
+      "text": "The most successful leaders don't just achieve growth."
+    },
+    {
+      "t": 2732.93,
+      "text": "They intentionally document their entire growth journey."
+    },
+    {
+      "t": 2736.15,
+      "text": "They use the language of commercial value and foresight, making it easy for advocates to champion them at every single stage."
+    },
+    {
+      "t": 2742.99,
+      "text": "The intentionality is what really stands out."
+    },
+    {
+      "t": 2745.9,
+      "text": "Every meeting, every training request, every relationship is viewed through the precise lens of that long term global vision."
+    },
+    {
+      "t": 2753.01,
+      "text": "Just ensuring zero wasted effort."
+    },
+    {
+      "t": 2755.61,
+      "text": "And this leads us to our final provocative thought for you, the listener, to mull over as you build your own roadmap."
+    },
+    {
+      "t": 2762.62,
+      "text": "We've seen that these strategic plans rely heavily on tools for transparency."
+    },
+    {
+      "t": 2766.84,
+      "text": "shared boards, risk dashboards, and clear metrics, all designed to reveal problems and bottlenecks."
+    },
+    {
+      "t": 2772.87,
+      "text": "So the question is, how can you ensure that while you're increasing transparency about goals and metrics, you simultaneously increase psychological safety on your team so that people feel comfortable flagging the red risks that those very dashboards are designed to reveal, rather than trying to bury them until it's too late?"
+    },
+    {
+      "t": 2788.61,
+      "text": "A crucial balance for any emerging leader aiming for that global stage."
+    },
+    {
+      "t": 2793.13,
+      "text": "Thank you for joining us for this deep dive."
+    },
+    {
+      "t": 2795.29,
+      "text": "We hope this roadmap gives you the precise structure you need for your next great leap."
+    }
+  ],
+  "lemmas": [
+    [
+      "team",
+      32
+    ],
+    [
+      "build",
+      31
+    ],
+    [
+      "need",
+      27
+    ],
+    [
+      "leadership",
+      27
+    ],
+    [
+      "sourc",
+      27
+    ],
+    [
+      "strategic",
+      26
+    ],
+    [
+      "plan",
+      26
+    ],
+    [
+      "goal",
+      25
+    ],
+    [
+      "specific",
+      23
+    ],
+    [
+      "data",
+      23
+    ],
+    [
+      "global",
+      23
+    ],
+    [
+      "time",
+      22
+    ],
+    [
+      "skill",
+      21
+    ],
+    [
+      "mak",
+      20
+    ],
+    [
+      "get",
+      20
+    ],
+    [
+      "focus",
+      20
+    ],
+    [
+      "one",
+      18
+    ],
+    [
+      "know",
+      17
+    ],
+    [
+      "exactly",
+      17
+    ],
+    [
+      "see",
+      17
+    ],
+    [
+      "value",
+      17
+    ],
+    [
+      "say",
+      17
+    ],
+    [
+      "impact",
+      17
+    ],
+    [
+      "leader",
+      17
+    ],
+    [
+      "clear",
+      16
+    ],
+    [
+      "high",
+      16
+    ],
+    [
+      "business",
+      16
+    ],
+    [
+      "promotion",
+      15
+    ],
+    [
+      "personal",
+      15
+    ],
+    [
+      "key",
+      15
+    ],
+    [
+      "work",
+      15
+    ],
+    [
+      "stress",
+      15
+    ],
+    [
+      "strategy",
+      14
+    ],
+    [
+      "review",
+      14
+    ],
+    [
+      "mean",
+      14
+    ],
+    [
+      "first",
+      14
+    ],
+    [
+      "risk",
+      14
+    ],
+    [
+      "want",
+      13
+    ],
+    [
+      "every",
+      13
+    ],
+    [
+      "think",
+      13
+    ],
+    [
+      "feedback",
+      13
+    ],
+    [
+      "absolutely",
+      13
+    ],
+    [
+      "career",
+      12
+    ],
+    [
+      "ambition",
+      12
+    ],
+    [
+      "sure",
+      12
+    ],
+    [
+      "real",
+      12
+    ],
+    [
+      "roadmap",
+      12
+    ],
+    [
+      "metric",
+      12
+    ],
+    [
+      "person",
+      12
+    ],
+    [
+      "critical",
+      12
+    ],
+    [
+      "growth",
+      12
+    ],
+    [
+      "train",
+      12
+    ],
+    [
+      "lead",
+      11
+    ],
+    [
+      "launch",
+      11
+    ],
+    [
+      "keep",
+      11
+    ],
+    [
+      "shar",
+      11
+    ],
+    [
+      "back",
+      11
+    ],
+    [
+      "language",
+      11
+    ],
+    [
+      "also",
+      11
+    ],
+    [
+      "shift",
+      11
+    ],
+    [
+      "recommend",
+      11
+    ],
+    [
+      "operational",
+      11
+    ],
+    [
+      "relationship",
+      11
+    ],
+    [
+      "performance",
+      10
+    ],
+    [
+      "project",
+      10
+    ],
+    [
+      "product",
+      10
+    ],
+    [
+      "market",
+      10
+    ],
+    [
+      "start",
+      10
+    ],
+    [
+      "next",
+      10
+    ],
+    [
+      "use",
+      10
+    ],
+    [
+      "network",
+      10
+    ],
+    [
+      "request",
+      10
+    ],
+    [
+      "measurable",
+      10
+    ],
+    [
+      "immediate",
+      10
+    ],
+    [
+      "ensur",
+      10
+    ],
+    [
+      "track",
+      9
+    ],
+    [
+      "look",
+      9
+    ],
+    [
+      "monthly",
+      9
+    ],
+    [
+      "stakeholder",
+      9
+    ],
+    [
+      "show",
+      9
+    ],
+    [
+      "without",
+      9
+    ],
+    [
+      "simple",
+      9
+    ],
+    [
+      "phase",
+      9
+    ],
+    [
+      "single",
+      9
+    ],
+    [
+      "immediately",
+      9
+    ],
+    [
+      "point",
+      9
+    ],
+    [
+      "practice",
+      8
+    ],
+    [
+      "talk",
+      8
+    ],
+    [
+      "youve",
+      8
+    ],
+    [
+      "step",
+      8
+    ],
+    [
+      "thing",
+      8
+    ],
+    [
+      "story",
+      8
+    ],
+    [
+      "case",
+      8
+    ],
+    [
+      "essential",
+      8
+    ],
+    [
+      "alway",
+      8
+    ],
+    [
+      "map",
+      8
+    ],
+    [
+      "executive",
+      8
+    ],
+    [
+      "two",
+      8
+    ],
+    [
+      "mov",
+      8
+    ],
+    [
+      "long-term",
+      8
+    ],
+    [
+      "quality",
+      8
+    ],
+    [
+      "us",
+      8
+    ],
+    [
+      "resilience",
+      8
+    ],
+    [
+      "set",
+      8
+    ],
+    [
+      "learn",
+      8
+    ],
+    [
+      "gap",
+      8
+    ],
+    [
+      "asia",
+      8
+    ],
+    [
+      "directly",
+      8
+    ],
+    [
+      "role",
+      8
+    ],
+    [
+      "target",
+      8
+    ],
+    [
+      "demonstrat",
+      8
+    ],
+    [
+      "specifically",
+      8
+    ],
+    [
+      "influence",
+      8
+    ],
+    [
+      "requir",
+      8
+    ],
+    [
+      "meet",
+      8
+    ],
+    [
+      "feel",
+      7
+    ],
+    [
+      "move",
+      7
+    ],
+    [
+      "question",
+      7
+    ],
+    [
+      "progress",
+      7
+    ],
+    [
+      "contingency",
+      7
+    ],
+    [
+      "ready",
+      7
+    ],
+    [
+      "negotiation",
+      7
+    ],
+    [
+      "instead",
+      7
+    ],
+    [
+      "someth",
+      7
+    ],
+    [
+      "detail",
+      7
+    ],
+    [
+      "behavior",
+      7
+    ],
+    [
+      "trust",
+      7
+    ],
+    [
+      "mentor",
+      7
+    ],
+    [
+      "list",
+      7
+    ],
+    [
+      "mentorship",
+      7
+    ],
+    [
+      "proactively",
+      7
+    ],
+    [
+      "budget",
+      7
+    ],
+    [
+      "across",
+      7
+    ],
+    [
+      "source",
+      7
+    ],
+    [
+      "even",
+      7
+    ],
+    [
+      "structure",
+      7
+    ],
+    [
+      "highlight",
+      7
+    ],
+    [
+      "intentional",
+      7
+    ],
+    [
+      "level",
+      7
+    ],
+    [
+      "transparency",
+      7
+    ],
+    [
+      "company",
+      7
+    ],
+    [
+      "signal",
+      7
+    ],
+    [
+      "going",
+      6
+    ],
+    [
+      "turn",
+      6
+    ],
+    [
+      "big",
+      6
+    ],
+    [
+      "task",
+      6
+    ],
+    [
+      "break",
+      6
+    ],
+    [
+      "vision",
+      6
+    ],
+    [
+      "quarterly",
+      6
+    ],
+    [
+      "mileston",
+      6
+    ],
+    [
+      "good",
+      6
+    ],
+    [
+      "crucial",
+      6
+    ],
+    [
+      "customer",
+      6
+    ],
+    [
+      "go",
+      6
+    ],
+    [
+      "win",
+      6
+    ],
+    [
+      "way",
+      6
+    ],
+    [
+      "three",
+      6
+    ],
+    [
+      "using",
+      6
+    ],
+    [
+      "result",
+      6
+    ],
+    [
+      "problem",
+      6
+    ],
+    [
+      "foresight",
+      6
+    ],
+    [
+      "motivation",
+      6
+    ],
+    [
+      "design",
+      6
+    ],
+    [
+      "communication",
+      6
+    ],
+    [
+      "capability",
+      6
+    ],
+    [
+      "material",
+      6
+    ],
+    [
+      "clarity",
+      6
+    ],
+    [
+      "example",
+      6
+    ],
+    [
+      "prevent",
+      6
+    ],
+    [
+      "document",
+      6
+    ],
+    [
+      "fram",
+      6
+    ],
+    [
+      "percent",
+      6
+    ],
+    [
+      "ask",
+      6
+    ],
+    [
+      "roi",
+      6
+    ],
+    [
+      "especially",
+      6
+    ],
+    [
+      "often",
+      6
+    ],
+    [
+      "support",
+      6
+    ],
+    [
+      "protect",
+      6
+    ],
+    [
+      "success",
+      6
+    ],
+    [
+      "proposal",
+      6
+    ],
+    [
+      "dashboard",
+      6
+    ],
+    [
+      "accelerat",
+      6
+    ],
+    [
+      "little",
+      5
+    ],
+    [
+      "path",
+      5
+    ],
+    [
+      "kind",
+      5
+    ],
+    [
+      "discipline",
+      5
+    ],
+    [
+      "happen",
+      5
+    ],
+    [
+      "make",
+      5
+    ],
+    [
+      "storytell",
+      5
+    ],
+    [
+      "finally",
+      5
+    ],
+    [
+      "loop",
+      5
+    ],
+    [
+      "board",
+      5
+    ],
+    [
+      "prepar",
+      5
+    ],
+    [
+      "master",
+      5
+    ],
+    [
+      "prioriti",
+      5
+    ],
+    [
+      "great",
+      5
+    ],
+    [
+      "offer",
+      5
+    ],
+    [
+      "formal",
+      5
+    ],
+    [
+      "idea",
+      5
+    ],
+    [
+      "test",
+      5
+    ],
+    [
+      "already",
+      5
+    ],
+    [
+      "foundation",
+      5
+    ],
+    [
+      "frame",
+      5
+    ],
+    [
+      "manag",
+      5
+    ],
+    [
+      "play",
+      5
+    ],
+    [
+      "long",
+      5
+    ],
+    [
+      "calendar",
+      5
+    ],
+    [
+      "tim",
+      5
+    ],
+    [
+      "action",
+      5
+    ],
+    [
+      "give",
+      5
+    ],
+    [
+      "sustainable",
+      5
+    ],
+    [
+      "bilingual",
+      5
+    ],
+    [
+      "owner",
+      5
+    ],
+    [
+      "call",
+      5
+    ],
+    [
+      "regional",
+      5
+    ],
+    [
+      "entire",
+      5
+    ],
+    [
+      "development",
+      5
+    ],
+    [
+      "improvement",
+      5
+    ],
+    [
+      "individual",
+      5
+    ],
+    [
+      "forc",
+      5
+    ],
+    [
+      "acquir",
+      5
+    ],
+    [
+      "organizational",
+      5
+    ],
+    [
+      "complex",
+      5
+    ],
+    [
+      "insight",
+      5
+    ],
+    [
+      "let",
+      5
+    ],
+    [
+      "maintain",
+      5
+    ],
+    [
+      "core",
+      5
+    ],
+    [
+      "stak",
+      5
+    ],
+    [
+      "session",
+      5
+    ],
+    [
+      "term",
+      5
+    ],
+    [
+      "propose",
+      5
+    ],
+    [
+      "future",
+      5
+    ],
+    [
+      "effort",
+      5
+    ],
+    [
+      "speak",
+      4
+    ],
+    [
+      "actionable",
+      4
+    ],
+    [
+      "daily",
+      4
+    ],
+    [
+      "toward",
+      4
+    ],
+    [
+      "picture",
+      4
+    ],
+    [
+      "dream",
+      4
+    ],
+    [
+      "new",
+      4
+    ],
+    [
+      "whole",
+      4
+    ],
+    [
+      "system",
+      4
+    ],
+    [
+      "act",
+      4
+    ],
+    [
+      "stop",
+      4
+    ],
+    [
+      "piece",
+      4
+    ],
+    [
+      "weekly",
+      4
+    ],
+    [
+      "visible",
+      4
+    ],
+    [
+      "oh",
+      4
+    ],
+    [
+      "understand",
+      4
+    ],
+    [
+      "power",
+      4
+    ],
+    [
+      "find",
+      4
+    ],
+    [
+      "creat",
+      4
+    ],
+    [
+      "outcome",
+      4
+    ],
+    [
+      "giv",
+      4
+    ],
+    [
+      "sbi",
+      4
+    ],
+    [
+      "explain",
+      4
+    ],
+    [
+      "journey",
+      4
+    ],
+    [
+      "spot",
+      4
+    ],
+    [
+      "space",
+      4
+    ],
+    [
+      "separate",
+      4
+    ],
+    [
+      "visibility",
+      4
+    ],
+    [
+      "powerful",
+      4
+    ],
+    [
+      "undeniable",
+      4
+    ],
+    [
+      "opportuniti",
+      4
+    ],
+    [
+      "run",
+      4
+    ],
+    [
+      "massive",
+      4
+    ],
+    [
+      "present",
+      4
+    ],
+    [
+      "hard",
+      4
+    ],
+    [
+      "final",
+      4
+    ],
+    [
+      "important",
+      4
+    ],
+    [
+      "ultimate",
+      4
+    ],
+    [
+      "urgent",
+      4
+    ],
+    [
+      "meeting",
+      4
+    ],
+    [
+      "block",
+      4
+    ],
+    [
+      "deep",
+      4
+    ],
+    [
+      "truly",
+      4
+    ],
+    [
+      "practic",
+      4
+    ],
+    [
+      "contract",
+      4
+    ],
+    [
+      "pressure",
+      4
+    ],
+    [
+      "information",
+      4
+    ],
+    [
+      "crucially",
+      4
+    ],
+    [
+      "discussion",
+      4
+    ],
+    [
+      "pull",
+      4
+    ],
+    [
+      "decision",
+      4
+    ],
+    [
+      "capabiliti",
+      4
+    ],
+    [
+      "wait",
+      4
+    ],
+    [
+      "provid",
+      4
+    ],
+    [
+      "much",
+      4
+    ],
+    [
+      "later",
+      4
+    ],
+    [
+      "outcom",
+      4
+    ],
+    [
+      "highly",
+      4
+    ],
+    [
+      "provide",
+      4
+    ],
+    [
+      "accountability",
+      4
+    ],
+    [
+      "check",
+      4
+    ],
+    [
+      "end",
+      4
+    ],
+    [
+      "region",
+      4
+    ],
+    [
+      "early",
+      4
+    ],
+    [
+      "advanc",
+      4
+    ],
+    [
+      "never",
+      4
+    ],
+    [
+      "professional",
+      4
+    ],
+    [
+      "english",
+      4
+    ],
+    [
+      "compell",
+      4
+    ],
+    [
+      "capacity",
+      4
+    ],
+    [
+      "someone",
+      4
+    ],
+    [
+      "clearly",
+      4
+    ],
+    [
+      "adjust",
+      4
+    ],
+    [
+      "pivot",
+      4
+    ],
+    [
+      "derail",
+      4
+    ],
+    [
+      "alignment",
+      4
+    ],
+    [
+      "documentation",
+      4
+    ],
+    [
+      "effectively",
+      4
+    ],
+    [
+      "fund",
+      4
+    ],
+    [
+      "regulatory",
+      4
+    ],
+    [
+      "ah",
+      4
+    ],
+    [
+      "avoid",
+      4
+    ],
+    [
+      "practical",
+      4
+    ],
+    [
+      "concise",
+      4
+    ],
+    [
+      "minut",
+      4
+    ],
+    [
+      "approach",
+      4
+    ],
+    [
+      "dedicat",
+      4
+    ],
+    [
+      "sound",
+      4
+    ],
+    [
+      "intentionally",
+      4
+    ],
+    [
+      "revenue",
+      4
+    ],
+    [
+      "investment",
+      4
+    ],
+    [
+      "expect",
+      4
+    ],
+    [
+      "reduc",
+      4
+    ],
+    [
+      "internal",
+      4
+    ],
+    [
+      "psychological",
+      4
+    ],
+    [
+      "safety",
+      4
+    ],
+    [
+      "evidence",
+      4
+    ],
+    [
+      "cultural",
+      4
+    ],
+    [
+      "commitment",
+      4
+    ],
+    [
+      "quick",
+      4
+    ],
+    [
+      "sometim",
+      3
+    ],
+    [
+      "today",
+      3
+    ],
+    [
+      "concrete",
+      3
+    ],
+    [
+      "probably",
+      3
+    ],
+    [
+      "grind",
+      3
+    ],
+    [
+      "try",
+      3
+    ],
+    [
+      "still",
+      3
+    ],
+    [
+      "rhythm",
+      3
+    ],
+    [
+      "course",
+      3
+    ],
+    [
+      "everyth",
+      3
+    ],
+    [
+      "expectation",
+      3
+    ],
+    [
+      "framework",
+      3
+    ],
+    [
+      "vague",
+      3
+    ],
+    [
+      "situation",
+      3
+    ],
+    [
+      "judgment",
+      3
+    ],
+    [
+      "tool",
+      3
+    ],
+    [
+      "transactional",
+      3
+    ],
+    [
+      "collect",
+      3
+    ],
+    [
+      "genuine",
+      3
+    ],
+    [
+      "come",
+      3
+    ],
+    [
+      "fantastic",
+      3
+    ],
+    [
+      "deliver",
+      3
+    ],
+    [
+      "draft",
+      3
+    ],
+    [
+      "credibility",
+      3
+    ],
+    [
+      "put",
+      3
+    ],
+    [
+      "authenticity",
+      3
+    ],
+    [
+      "bring",
+      3
+    ],
+    [
+      "sustain",
+      3
+    ],
+    [
+      "energy",
+      3
+    ],
+    [
+      "burnout",
+      3
+    ],
+    [
+      "triage",
+      3
+    ],
+    [
+      "setback",
+      3
+    ],
+    [
+      "potential",
+      3
+    ],
+    [
+      "become",
+      3
+    ],
+    [
+      "small",
+      3
+    ],
+    [
+      "disciplin",
+      3
+    ],
+    [
+      "anchor",
+      3
+    ],
+    [
+      "part",
+      3
+    ],
+    [
+      "scope",
+      3
+    ],
+    [
+      "establish",
+      3
+    ],
+    [
+      "align",
+      3
+    ],
+    [
+      "appraisal",
+      3
+    ],
+    [
+      "begin",
+      3
+    ],
+    [
+      "lot",
+      3
+    ],
+    [
+      "month",
+      3
+    ],
+    [
+      "minute",
+      3
+    ],
+    [
+      "spend",
+      3
+    ],
+    [
+      "huge",
+      3
+    ],
+    [
+      "day",
+      3
+    ],
+    [
+      "japan",
+      3
+    ],
+    [
+      "singapore",
+      3
+    ],
+    [
+      "non-negotiable",
+      3
+    ],
+    [
+      "drift",
+      3
+    ],
+    [
+      "approv",
+      3
+    ],
+    [
+      "dollar",
+      3
+    ],
+    [
+      "line",
+      3
+    ],
+    [
+      "secur",
+      3
+    ],
+    [
+      "analytic",
+      3
+    ],
+    [
+      "allow",
+      3
+    ],
+    [
+      "adoption",
+      3
+    ],
+    [
+      "rat",
+      3
+    ],
+    [
+      "objectiv",
+      3
+    ],
+    [
+      "view",
+      3
+    ],
+    [
+      "necessary",
+      3
+    ],
+    [
+      "benefit",
+      3
+    ],
+    [
+      "improv",
+      3
+    ],
+    [
+      "precisely",
+      3
+    ],
+    [
+      "tone",
+      3
+    ],
+    [
+      "second",
+      3
+    ],
+    [
+      "pair",
+      3
+    ],
+    [
+      "narrative",
+      3
+    ],
+    [
+      "cite",
+      3
+    ],
+    [
+      "aim",
+      3
+    ],
+    [
+      "ability",
+      3
+    ],
+    [
+      "around",
+      3
+    ],
+    [
+      "vital",
+      3
+    ],
+    [
+      "authority",
+      3
+    ],
+    [
+      "convey",
+      3
+    ],
+    [
+      "wast",
+      3
+    ],
+    [
+      "checklist",
+      3
+    ],
+    [
+      "acquisition",
+      3
+    ],
+    [
+      "identify",
+      3
+    ],
+    [
+      "external",
+      3
+    ],
+    [
+      "direct",
+      3
+    ],
+    [
+      "cross-functional",
+      3
+    ],
+    [
+      "maturity",
+      3
+    ],
+    [
+      "advocate",
+      3
+    ],
+    [
+      "loss",
+      3
+    ],
+    [
+      "achieve",
+      3
+    ],
+    [
+      "answer",
+      3
+    ],
+    [
+      "knowledge",
+      3
+    ],
+    [
+      "hurdle",
+      3
+    ],
+    [
+      "unexpect",
+      3
+    ],
+    [
+      "process",
+      3
+    ],
+    [
+      "implement",
+      3
+    ],
+    [
+      "stay",
+      3
+    ],
+    [
+      "workload",
+      3
+    ],
+    [
+      "red",
+      3
+    ],
+    [
+      "short",
+      3
+    ],
+    [
+      "dive",
+      3
+    ],
+    [
+      "identifi",
+      3
+    ],
+    [
+      "particularly",
+      3
+    ],
+    [
+      "craft",
+      3
+    ],
+    [
+      "faster",
+      3
+    ],
+    [
+      "raw",
+      3
+    ],
+    [
+      "iterative",
+      3
+    ],
+    [
+      "schedul",
+      3
+    ],
+    [
+      "narrativ",
+      3
+    ],
+    [
+      "becom",
+      3
+    ],
+    [
+      "vocabulary",
+      3
+    ],
+    [
+      "confidence",
+      3
+    ],
+    [
+      "margin",
+      3
+    ],
+    [
+      "qualitative",
+      3
+    ],
+    [
+      "importantly",
+      3
+    ],
+    [
+      "concession",
+      3
+    ],
+    [
+      "number",
+      3
+    ],
+    [
+      "weve",
+      3
+    ],
+    [
+      "financial",
+      3
+    ],
+    [
+      "responsibility",
+      3
+    ],
+    [
+      "emphasize",
+      3
+    ],
+    [
+      "advice",
+      3
+    ],
+    [
+      "interaction",
+      3
+    ],
+    [
+      "senior",
+      3
+    ],
+    [
+      "hr",
+      3
+    ],
+    [
+      "readiness",
+      3
+    ],
+    [
+      "suggest",
+      3
+    ],
+    [
+      "connect",
+      3
+    ],
+    [
+      "manage",
+      3
+    ],
+    [
+      "ensure",
+      3
+    ],
+    [
+      "current",
+      3
+    ],
+    [
+      "purpose",
+      3
+    ],
+    [
+      "local",
+      3
+    ],
+    [
+      "exceptional",
+      3
+    ],
+    [
+      "hour",
+      3
+    ],
+    [
+      "pre-read",
+      3
+    ],
+    [
+      "reflection",
+      3
+    ],
+    [
+      "slot",
+      3
+    ],
+    [
+      "precise",
+      3
+    ],
+    [
+      "listen",
+      2
+    ],
+    [
+      "perfect",
+      2
+    ],
+    [
+      "actual",
+      2
+    ],
+    [
+      "pretty",
+      2
+    ],
+    [
+      "walk",
+      2
+    ],
+    [
+      "playbook",
+      2
+    ],
+    [
+      "wish",
+      2
+    ],
+    [
+      "bit",
+      2
+    ],
+    [
+      "deliberate",
+      2
+    ],
+    [
+      "totally",
+      2
+    ],
+    [
+      "crystal",
+      2
+    ],
+    [
+      "climb",
+      2
+    ],
+    [
+      "youll",
+      2
+    ],
+    [
+      "maybe",
+      2
+    ],
+    [
+      "correct",
+      2
+    ],
+    [
+      "wrong",
+      2
+    ],
+    [
+      "execute",
+      2
+    ],
+    [
+      "smart",
+      2
+    ],
+    [
+      "balance",
+      2
+    ],
+    [
+      "push",
+      2
+    ],
+    [
+      "easy",
+      2
+    ],
+    [
+      "super",
+      2
+    ],
+    [
+      "objective",
+      2
+    ],
+    [
+      "tak",
+      2
+    ],
+    [
+      "blind",
+      2
+    ],
+    [
+      "ground",
+      2
+    ],
+    [
+      "rule",
+      2
+    ],
+    [
+      "safe",
+      2
+    ],
+    [
+      "exploratory",
+      2
+    ],
+    [
+      "evaluation",
+      2
+    ],
+    [
+      "honest",
+      2
+    ],
+    [
+      "forget",
+      2
+    ],
+    [
+      "card",
+      2
+    ],
+    [
+      "driven",
+      2
+    ],
+    [
+      "connection",
+      2
+    ],
+    [
+      "quantity",
+      2
+    ],
+    [
+      "initiative",
+      2
+    ],
+    [
+      "pilot",
+      2
+    ],
+    [
+      "sprint",
+      2
+    ],
+    [
+      "template",
+      2
+    ],
+    [
+      "strong",
+      2
+    ],
+    [
+      "claim",
+      2
+    ],
+    [
+      "solv",
+      2
+    ],
+    [
+      "game",
+      2
+    ],
+    [
+      "face",
+      2
+    ],
+    [
+      "marathon",
+      2
+    ],
+    [
+      "constant",
+      2
+    ],
+    [
+      "drain",
+      2
+    ],
+    [
+      "strategi",
+      2
+    ],
+    [
+      "firm",
+      2
+    ],
+    [
+      "com",
+      2
+    ],
+    [
+      "create",
+      2
+    ],
+    [
+      "ever",
+      2
+    ],
+    [
+      "leave",
+      2
+    ],
+    [
+      "temporary",
+      2
+    ],
+    [
+      "detour",
+      2
+    ],
+    [
+      "please",
+      2
+    ],
+    [
+      "celebrate",
+      2
+    ],
+    [
+      "fuel",
+      2
+    ],
+    [
+      "boost",
+      2
+    ],
+    [
+      "place",
+      2
+    ],
+    [
+      "worth",
+      2
+    ],
+    [
+      "real-world",
+      2
+    ],
+    [
+      "cover",
+      2
+    ],
+    [
+      "negotiat",
+      2
+    ],
+    [
+      "clos",
+      2
+    ],
+    [
+      "rely",
+      2
+    ],
+    [
+      "surgical",
+      2
+    ],
+    [
+      "program",
+      2
+    ],
+    [
+      "brick",
+      2
+    ],
+    [
+      "foundational",
+      2
+    ],
+    [
+      "translat",
+      2
+    ],
+    [
+      "cycle",
+      2
+    ],
+    [
+      "conversation",
+      2
+    ],
+    [
+      "agenda",
+      2
+    ],
+    [
+      "deliverable",
+      2
+    ],
+    [
+      "maximiz",
+      2
+    ],
+    [
+      "total",
+      2
+    ],
+    [
+      "zero",
+      2
+    ],
+    [
+      "defense",
+      2
+    ],
+    [
+      "overall",
+      2
+    ],
+    [
+      "intimidat",
+      2
+    ],
+    [
+      "change",
+      2
+    ],
+    [
+      "easily",
+      2
+    ],
+    [
+      "milestone",
+      2
+    ],
+    [
+      "analysis",
+      2
+    ],
+    [
+      "competitive",
+      2
+    ],
+    [
+      "updat",
+      2
+    ],
+    [
+      "manager",
+      2
+    ],
+    [
+      "wow",
+      2
+    ],
+    [
+      "successfully",
+      2
+    ],
+    [
+      "matter",
+      2
+    ],
+    [
+      "ther",
+      2
+    ],
+    [
+      "trick",
+      2
+    ],
+    [
+      "executiv",
+      2
+    ],
+    [
+      "commercial",
+      2
+    ],
+    [
+      "earlier",
+      2
+    ],
+    [
+      "vet",
+      2
+    ],
+    [
+      "sharpen",
+      2
+    ],
+    [
+      "link",
+      2
+    ],
+    [
+      "organization",
+      2
+    ],
+    [
+      "len",
+      2
+    ],
+    [
+      "pillar",
+      2
+    ],
+    [
+      "hit",
+      2
+    ],
+    [
+      "intentionality",
+      2
+    ],
+    [
+      "function",
+      2
+    ],
+    [
+      "crisp",
+      2
+    ],
+    [
+      "bottleneck",
+      2
+    ],
+    [
+      "third",
+      2
+    ],
+    [
+      "engine",
+      2
+    ],
+    [
+      "usually",
+      2
+    ],
+    [
+      "late",
+      2
+    ],
+    [
+      "blocker",
+      2
+    ],
+    [
+      "cadence",
+      2
+    ],
+    [
+      "sense",
+      2
+    ],
+    [
+      "continuity",
+      2
+    ],
+    [
+      "discuss",
+      2
+    ],
+    [
+      "teammat",
+      2
+    ],
+    [
+      "report",
+      2
+    ],
+    [
+      "another",
+      2
+    ],
+    [
+      "friction",
+      2
+    ],
+    [
+      "vulnerabiliti",
+      2
+    ],
+    [
+      "context",
+      2
+    ],
+    [
+      "defin",
+      2
+    ],
+    [
+      "lost",
+      2
+    ],
+    [
+      "leav",
+      2
+    ],
+    [
+      "advise",
+      2
+    ],
+    [
+      "major",
+      2
+    ],
+    [
+      "cut",
+      2
+    ],
+    [
+      "defer",
+      2
+    ],
+    [
+      "resourc",
+      2
+    ],
+    [
+      "enter",
+      2
+    ],
+    [
+      "note",
+      2
+    ],
+    [
+      "friday",
+      2
+    ],
+    [
+      "realistic",
+      2
+    ],
+    [
+      "adjustment",
+      2
+    ],
+    [
+      "weekend",
+      2
+    ],
+    [
+      "carry",
+      2
+    ],
+    [
+      "rather",
+      2
+    ],
+    [
+      "help",
+      2
+    ],
+    [
+      "dual",
+      2
+    ],
+    [
+      "built-in",
+      2
+    ],
+    [
+      "perfectly",
+      2
+    ],
+    [
+      "everyone",
+      2
+    ],
+    [
+      "difference",
+      2
+    ],
+    [
+      "management",
+      2
+    ],
+    [
+      "five",
+      2
+    ],
+    [
+      "receive",
+      2
+    ],
+    [
+      "studi",
+      2
+    ],
+    [
+      "gather",
+      2
+    ],
+    [
+      "exampl",
+      2
+    ],
+    [
+      "successful",
+      2
+    ],
+    [
+      "model",
+      2
+    ],
+    [
+      "solution",
+      2
+    ],
+    [
+      "articulate",
+      2
+    ],
+    [
+      "else",
+      2
+    ],
+    [
+      "complexity",
+      2
+    ],
+    [
+      "structur",
+      2
+    ],
+    [
+      "vendor",
+      2
+    ],
+    [
+      "negotiator",
+      2
+    ],
+    [
+      "expert",
+      2
+    ],
+    [
+      "quickly",
+      2
+    ],
+    [
+      "refine",
+      2
+    ],
+    [
+      "simulat",
+      2
+    ],
+    [
+      "fail",
+      2
+    ],
+    [
+      "emotional",
+      2
+    ],
+    [
+      "poor",
+      2
+    ],
+    [
+      "read",
+      2
+    ],
+    [
+      "common",
+      2
+    ],
+    [
+      "transition",
+      2
+    ],
+    [
+      "tangible",
+      2
+    ],
+    [
+      "rate",
+      2
+    ],
+    [
+      "measur",
+      2
+    ],
+    [
+      "payment",
+      2
+    ],
+    [
+      "less",
+      2
+    ],
+    [
+      "mutual",
+      2
+    ],
+    [
+      "strengthen",
+      2
+    ],
+    [
+      "partner",
+      2
+    ],
+    [
+      "tactic",
+      2
+    ],
+    [
+      "silence",
+      2
+    ],
+    [
+      "hardest",
+      2
+    ],
+    [
+      "seminar",
+      2
+    ],
+    [
+      "share",
+      2
+    ],
+    [
+      "transform",
+      2
+    ],
+    [
+      "send",
+      2
+    ],
+    [
+      "resourcefulness",
+      2
+    ],
+    [
+      "include",
+      2
+    ],
+    [
+      "free",
+      2
+    ],
+    [
+      "flexible",
+      2
+    ],
+    [
+      "option",
+      2
+    ],
+    [
+      "comfortable",
+      2
+    ],
+    [
+      "explicitly",
+      2
+    ],
+    [
+      "treat",
+      2
+    ],
+    [
+      "partnership",
+      2
+    ],
+    [
+      "chat",
+      2
+    ],
+    [
+      "rol",
+      2
+    ],
+    [
+      "presence",
+      2
+    ],
+    [
+      "outreach",
+      2
+    ],
+    [
+      "critically",
+      2
+    ],
+    [
+      "busy",
+      2
+    ],
+    [
+      "handl",
+      2
+    ],
+    [
+      "seek",
+      2
+    ],
+    [
+      "domain",
+      2
+    ],
+    [
+      "effectiveness",
+      2
+    ],
+    [
+      "balanc",
+      2
+    ],
+    [
+      "mentee",
+      2
+    ],
+    [
+      "beyond",
+      2
+    ],
+    [
+      "relevant",
+      2
+    ],
+    [
+      "timely",
+      2
+    ],
+    [
+      "broader",
+      2
+    ],
+    [
+      "upcom",
+      2
+    ],
+    [
+      "respect",
+      2
+    ],
+    [
+      "raise",
+      2
+    ],
+    [
+      "boundary",
+      2
+    ],
+    [
+      "miss",
+      2
+    ],
+    [
+      "naturally",
+      2
+    ],
+    [
+      "fear",
+      2
+    ],
+    [
+      "timeline",
+      2
+    ],
+    [
+      "true",
+      2
+    ],
+    [
+      "driv",
+      2
+    ],
+    [
+      "stand",
+      2
+    ],
+    [
+      "explicit",
+      2
+    ],
+    [
+      "rul",
+      2
+    ],
+    [
+      "committee",
+      2
+    ],
+    [
+      "competenci",
+      2
+    ],
+    [
+      "timelin",
+      2
+    ],
+    [
+      "panel",
+      2
+    ],
+    [
+      "portfolio",
+      2
+    ],
+    [
+      "collaboration",
+      2
+    ],
+    [
+      "verifiable",
+      2
+    ],
+    [
+      "prove",
+      2
+    ],
+    [
+      "propos",
+      2
+    ],
+    [
+      "boundari",
+      2
+    ],
+    [
+      "within",
+      2
+    ],
+    [
+      "necessity",
+      2
+    ],
+    [
+      "frequently",
+      2
+    ],
+    [
+      "delay",
+      2
+    ],
+    [
+      "failure",
+      2
+    ],
+    [
+      "responsibiliti",
+      2
+    ],
+    [
+      "prov",
+      2
+    ],
+    [
+      "acknowledge",
+      2
+    ],
+    [
+      "replacement",
+      2
+    ],
+    [
+      "address",
+      2
+    ],
+    [
+      "redundant",
+      2
+    ],
+    [
+      "reframe",
+      2
+    ],
+    [
+      "mitigat",
+      2
+    ],
+    [
+      "attend",
+      2
+    ],
+    [
+      "spent",
+      2
+    ],
+    [
+      "meaningful",
+      2
+    ],
+    [
+      "event",
+      2
+    ],
+    [
+      "personaliz",
+      2
+    ],
+    [
+      "follow-up",
+      2
+    ],
+    [
+      "inbound",
+      2
+    ],
+    [
+      "transfer",
+      2
+    ],
+    [
+      "physical",
+      2
+    ],
+    [
+      "integration",
+      2
+    ],
+    [
+      "experience",
+      2
+    ],
+    [
+      "high-impact",
+      2
+    ],
+    [
+      "remain",
+      2
+    ],
+    [
+      "compos",
+      2
+    ],
+    [
+      "lesson",
+      2
+    ],
+    [
+      "pace",
+      2
+    ],
+    [
+      "handle",
+      2
+    ],
+    [
+      "buffer",
+      2
+    ],
+    [
+      "email",
+      2
+    ],
+    [
+      "cris",
+      2
+    ],
+    [
+      "stability",
+      2
+    ],
+    [
+      "strongly",
+      2
+    ],
+    [
+      "internally",
+      2
+    ],
+    [
+      "increas",
+      2
+    ],
+    [
+      "preparedness",
+      2
+    ],
+    [
+      "respons",
+      2
+    ],
+    [
+      "flag",
+      2
+    ],
+    [
+      "redundancy",
+      2
+    ],
+    [
+      "drill",
+      2
+    ],
+    [
+      "recognition",
+      2
+    ],
+    [
+      "thank",
+      2
+    ],
+    [
+      "valu",
+      2
+    ],
+    [
+      "inspir",
+      2
+    ],
+    [
+      "stage",
+      2
+    ],
+    [
+      "reveal",
+      2
+    ],
+    [
+      "fuzzy",
+      1
+    ],
+    [
+      "foggy",
+      1
+    ],
+    [
+      "away",
+      1
+    ],
+    [
+      "fog",
+      1
+    ],
+    [
+      "broad",
+      1
+    ],
+    [
+      "shark",
+      1
+    ],
+    [
+      "youd",
+      1
+    ],
+    [
+      "year",
+      1
+    ],
+    [
+      "bigger",
+      1
+    ],
+    [
+      "wishful",
+      1
+    ],
+    [
+      "honest-to-goodness",
+      1
+    ],
+    [
+      "tell",
+      1
+    ],
+    [
+      "define",
+      1
+    ],
+    [
+      "mountain",
+      1
+    ],
+    [
+      "smaller",
+      1
+    ],
+    [
+      "chunk",
+      1
+    ],
+    [
+      "overwhelm",
+      1
+    ],
+    [
+      "figure",
+      1
+    ],
+    [
+      "higher",
+      1
+    ],
+    [
+      "altitud",
+      1
+    ],
+    [
+      "paper",
+      1
+    ],
+    [
+      "habit",
+      1
+    ],
+    [
+      "routine",
+      1
+    ],
+    [
+      "regular",
+      1
+    ],
+    [
+      "open",
+      1
+    ],
+    [
+      "hey",
+      1
+    ],
+    [
+      "chart",
+      1
+    ],
+    [
+      "toolkit",
+      1
+    ],
+    [
+      "world",
+      1
+    ],
+    [
+      "compet",
+      1
+    ],
+    [
+      "juggl",
+      1
+    ],
+    [
+      "argument",
+      1
+    ],
+    [
+      "add",
+      1
+    ],
+    [
+      "man",
+      1
+    ],
+    [
+      "mess",
+      1
+    ],
+    [
+      "secret",
+      1
+    ],
+    [
+      "weapon",
+      1
+    ],
+    [
+      "describe",
+      1
+    ],
+    [
+      "exact",
+      1
+    ],
+    [
+      "equation",
+      1
+    ],
+    [
+      "alone",
+      1
+    ],
+    [
+      "guide",
+      1
+    ],
+    [
+      "admire",
+      1
+    ],
+    [
+      "completely",
+      1
+    ],
+    [
+      "execution",
+      1
+    ],
+    [
+      "advancement",
+      1
+    ],
+    [
+      "stuff",
+      1
+    ],
+    [
+      "contact",
+      1
+    ],
+    [
+      "trad",
+      1
+    ],
+    [
+      "relational",
+      1
+    ],
+    [
+      "curiosity",
+      1
+    ],
+    [
+      "authentic",
+      1
+    ],
+    [
+      "lightweight",
+      1
+    ],
+    [
+      "fast",
+      1
+    ],
+    [
+      "two-week",
+      1
+    ],
+    [
+      "one-pager",
+      1
+    ],
+    [
+      "though",
+      1
+    ],
+    [
+      "finish",
+      1
+    ],
+    [
+      "proof",
+      1
+    ],
+    [
+      "absolute",
+      1
+    ],
+    [
+      "together",
+      1
+    ],
+    [
+      "remember",
+      1
+    ],
+    [
+      "flashy",
+      1
+    ],
+    [
+      "empty",
+      1
+    ],
+    [
+      "accomplishment",
+      1
+    ],
+    [
+      "succe",
+      1
+    ],
+    [
+      "enemy",
+      1
+    ],
+    [
+      "battery",
+      1
+    ],
+    [
+      "back-to-back",
+      1
+    ],
+    [
+      "pack",
+      1
+    ],
+    [
+      "recharge",
+      1
+    ],
+    [
+      "disconnect",
+      1
+    ],
+    [
+      "automatically",
+      1
+    ],
+    [
+      "nice-to-hav",
+      1
+    ],
+    [
+      "haul",
+      1
+    ],
+    [
+      "resilient",
+      1
+    ],
+    [
+      "pessimistic",
+      1
+    ],
+    [
+      "response",
+      1
+    ],
+    [
+      "dark",
+      1
+    ],
+    [
+      "career-derail",
+      1
+    ],
+    [
+      "disaster",
+      1
+    ],
+    [
+      "middle",
+      1
+    ],
+    [
+      "celebration",
+      1
+    ],
+    [
+      "luxury",
+      1
+    ],
+    [
+      "recogniz",
+      1
+    ],
+    [
+      "morale",
+      1
+    ],
+    [
+      "reinforc",
+      1
+    ],
+    [
+      "remind",
+      1
+    ],
+    [
+      "everybody",
+      1
+    ],
+    [
+      "adventure",
+      1
+    ],
+    [
+      "full",
+      1
+    ],
+    [
+      "four-act",
+      1
+    ],
+    [
+      "theory",
+      1
+    ],
+    [
+      "strategically",
+      1
+    ],
+    [
+      "unfold",
+      1
+    ],
+    [
+      "write",
+      1
+    ],
+    [
+      "chapter",
+      1
+    ],
+    [
+      "templat",
+      1
+    ],
+    [
+      "ascent",
+      1
+    ],
+    [
+      "privileg",
+      1
+    ],
+    [
+      "underly",
+      1
+    ],
+    [
+      "progression",
+      1
+    ],
+    [
+      "chance",
+      1
+    ],
+    [
+      "mission",
+      1
+    ],
+    [
+      "extract",
+      1
+    ],
+    [
+      "blueprint",
+      1
+    ],
+    [
+      "acceleration",
+      1
+    ],
+    [
+      "north",
+      1
+    ],
+    [
+      "star",
+      1
+    ],
+    [
+      "forward",
+      1
+    ],
+    [
+      "favorite",
+      1
+    ],
+    [
+      "laid",
+      1
+    ],
+    [
+      "talent",
+      1
+    ],
+    [
+      "enormous",
+      1
+    ],
+    [
+      "dialogu",
+      1
+    ],
+    [
+      "unpack",
+      1
+    ],
+    [
+      "nugget",
+      1
+    ],
+    [
+      "gold",
+      1
+    ],
+    [
+      "mm-hmm",
+      1
+    ],
+    [
+      "pre-cycle",
+      1
+    ],
+    [
+      "fundamental",
+      1
+    ],
+    [
+      "posture",
+      1
+    ],
+    [
+      "nature",
+      1
+    ],
+    [
+      "retrospective",
+      1
+    ],
+    [
+      "backward",
+      1
+    ],
+    [
+      "justify",
+      1
+    ],
+    [
+      "past",
+      1
+    ],
+    [
+      "deliverabl",
+      1
+    ],
+    [
+      "contribut",
+      1
+    ],
+    [
+      "harder",
+      1
+    ],
+    [
+      "offense",
+      1
+    ],
+    [
+      "giant",
+      1
+    ],
+    [
+      "monolith",
+      1
+    ],
+    [
+      "pointedly",
+      1
+    ],
+    [
+      "large",
+      1
+    ],
+    [
+      "abstract",
+      1
+    ],
+    [
+      "deprioritiz",
+      1
+    ],
+    [
+      "continuous",
+      1
+    ],
+    [
+      "promise",
+      1
+    ],
+    [
+      "useless",
+      1
+    ],
+    [
+      "complete",
+      1
+    ],
+    [
+      "landscap",
+      1
+    ],
+    [
+      "feature",
+      1
+    ],
+    [
+      "general",
+      1
+    ],
+    [
+      "conceptual",
+      1
+    ],
+    [
+      "bound",
+      1
+    ],
+    [
+      "assign",
+      1
+    ],
+    [
+      "certain",
+      1
+    ],
+    [
+      "intelligence",
+      1
+    ],
+    [
+      "june",
+      1
+    ],
+    [
+      "th",
+      1
+    ],
+    [
+      "resonance",
+      1
+    ],
+    [
+      "retention",
+      1
+    ],
+    [
+      "bottom",
+      1
+    ],
+    [
+      "accurately",
+      1
+    ],
+    [
+      "predict",
+      1
+    ],
+    [
+      "churn",
+      1
+    ],
+    [
+      "six",
+      1
+    ],
+    [
+      "lifetime",
+      1
+    ],
+    [
+      "love",
+      1
+    ],
+    [
+      "favor",
+      1
+    ],
+    [
+      "wrap",
+      1
+    ],
+    [
+      "pursu",
+      1
+    ],
+    [
+      "filter",
+      1
+    ],
+    [
+      "suspiciously",
+      1
+    ],
+    [
+      "imagine",
+      1
+    ],
+    [
+      "outcome-orient",
+      1
+    ],
+    [
+      "mindset",
+      1
+    ],
+    [
+      "emphatic",
+      1
+    ],
+    [
+      "succeed",
+      1
+    ],
+    [
+      "shin",
+      1
+    ],
+    [
+      "builder",
+      1
+    ],
+    [
+      "transcend",
+      1
+    ],
+    [
+      "corner",
+      1
+    ],
+    [
+      "anticipate",
+      1
+    ],
+    [
+      "concisely",
+      1
+    ],
+    [
+      "check-in",
+      1
+    ],
+    [
+      "quarter",
+      1
+    ],
+    [
+      "correction",
+      1
+    ],
+    [
+      "direction",
+      1
+    ],
+    [
+      "surface",
+      1
+    ],
+    [
+      "issue",
+      1
+    ],
+    [
+      "gain",
+      1
+    ],
+    [
+      "mass",
+      1
+    ],
+    [
+      "devolve",
+      1
+    ],
+    [
+      "reset",
+      1
+    ],
+    [
+      "laser",
+      1
+    ],
+    [
+      "repeatedly",
+      1
+    ],
+    [
+      "overstate",
+      1
+    ],
+    [
+      "input",
+      1
+    ],
+    [
+      "finance",
+      1
+    ],
+    [
+      "dependent",
+      1
+    ],
+    [
+      "resource",
+      1
+    ],
+    [
+      "accessible",
+      1
+    ],
+    [
+      "misalignment",
+      1
+    ],
+    [
+      "acknowledg",
+      1
+    ],
+    [
+      "lie",
+      1
+    ],
+    [
+      "hide",
+      1
+    ],
+    [
+      "element",
+      1
+    ],
+    [
+      "bounc",
+      1
+    ],
+    [
+      "emotionally",
+      1
+    ],
+    [
+      "tactical",
+      1
+    ],
+    [
+      "backup",
+      1
+    ],
+    [
+      "different",
+      1
+    ],
+    [
+      "scenario",
+      1
+    ],
+    [
+      "sponsor",
+      1
+    ],
+    [
+      "suddenly",
+      1
+    ],
+    [
+      "typ",
+      1
+    ],
+    [
+      "contingenci",
+      1
+    ],
+    [
+      "categori",
+      1
+    ],
+    [
+      "personnel",
+      1
+    ],
+    [
+      "developer",
+      1
+    ],
+    [
+      "minimize",
+      1
+    ],
+    [
+      "disruption",
+      1
+    ],
+    [
+      "competitor",
+      1
+    ],
+    [
+      "asian",
+      1
+    ],
+    [
+      "pop",
+      1
+    ],
+    [
+      "panic",
+      1
+    ],
+    [
+      "momentum",
+      1
+    ],
+    [
+      "react",
+      1
+    ],
+    [
+      "assessment",
+      1
+    ],
+    [
+      "slip",
+      1
+    ],
+    [
+      "materializ",
+      1
+    ],
+    [
+      "confront",
+      1
+    ],
+    [
+      "communicate",
+      1
+    ],
+    [
+      "delegate",
+      1
+    ],
+    [
+      "monday",
+      1
+    ],
+    [
+      "fester",
+      1
+    ],
+    [
+      "last",
+      1
+    ],
+    [
+      "scramble",
+      1
+    ],
+    [
+      "ultimately",
+      1
+    ],
+    [
+      "kill",
+      1
+    ],
+    [
+      "architect",
+      1
+    ],
+    [
+      "seriously",
+      1
+    ],
+    [
+      "rubber",
+      1
+    ],
+    [
+      "road",
+      1
+    ],
+    [
+      "argue",
+      1
+    ],
+    [
+      "valuable",
+      1
+    ],
+    [
+      "fast-pac",
+      1
+    ],
+    [
+      "enough",
+      1
+    ],
+    [
+      "able",
+      1
+    ],
+    [
+      "dump",
+      1
+    ],
+    [
+      "scratch",
+      1
+    ],
+    [
+      "head",
+      1
+    ],
+    [
+      "million",
+      1
+    ],
+    [
+      "expenditure",
+      1
+    ],
+    [
+      "land",
+      1
+    ],
+    [
+      "application",
+      1
+    ],
+    [
+      "actively",
+      1
+    ],
+    [
+      "slid",
+      1
+    ],
+    [
+      "statistical",
+      1
+    ],
+    [
+      "finding",
+      1
+    ],
+    [
+      "memorable",
+      1
+    ],
+    [
+      "metaphor",
+      1
+    ],
+    [
+      "muscle",
+      1
+    ],
+    [
+      "memory",
+      1
+    ],
+    [
+      "condition",
+      1
+    ],
+    [
+      "anyone",
+      1
+    ],
+    [
+      "grammar",
+      1
+    ],
+    [
+      "leverage",
+      1
+    ],
+    [
+      "mitigation",
+      1
+    ],
+    [
+      "translation",
+      1
+    ],
+    [
+      "deal",
+      1
+    ],
+    [
+      "whose",
+      1
+    ],
+    [
+      "tied",
+      1
+    ],
+    [
+      "competence",
+      1
+    ],
+    [
+      "protection",
+      1
+    ],
+    [
+      "beautifully",
+      1
+    ],
+    [
+      "passive",
+      1
+    ],
+    [
+      "observation",
+      1
+    ],
+    [
+      "shadow",
+      1
+    ],
+    [
+      "procurement",
+      1
+    ],
+    [
+      "supplier",
+      1
+    ],
+    [
+      "pac",
+      1
+    ],
+    [
+      "nonverbal",
+      1
+    ],
+    [
+      "cue",
+      1
+    ],
+    [
+      "used",
+      1
+    ],
+    [
+      "observe",
+      1
+    ],
+    [
+      "techniqu",
+      1
+    ],
+    [
+      "mandat",
+      1
+    ],
+    [
+      "active",
+      1
+    ],
+    [
+      "script",
+      1
+    ],
+    [
+      "mock",
+      1
+    ],
+    [
+      "expose",
+      1
+    ],
+    [
+      "reaction",
+      1
+    ],
+    [
+      "appli",
+      1
+    ],
+    [
+      "importance",
+      1
+    ],
+    [
+      "pitfall",
+      1
+    ],
+    [
+      "counter",
+      1
+    ],
+    [
+      "useful",
+      1
+    ],
+    [
+      "theoretical",
+      1
+    ],
+    [
+      "quantitative",
+      1
+    ],
+    [
+      "relative",
+      1
+    ],
+    [
+      "initial",
+      1
+    ],
+    [
+      "ideal",
+      1
+    ],
+    [
+      "initially",
+      1
+    ],
+    [
+      "settl",
+      1
+    ],
+    [
+      "eight",
+      1
+    ],
+    [
+      "price",
+      1
+    ],
+    [
+      "creep",
+      1
+    ],
+    [
+      "service",
+      1
+    ],
+    [
+      "agreement",
+      1
+    ],
+    [
+      "strength",
+      1
+    ],
+    [
+      "insist",
+      1
+    ],
+    [
+      "scorecard",
+      1
+    ],
+    [
+      "measurement",
+      1
+    ],
+    [
+      "interest",
+      1
+    ],
+    [
+      "mark",
+      1
+    ],
+    [
+      "season",
+      1
+    ],
+    [
+      "statement",
+      1
+    ],
+    [
+      "amateur",
+      1
+    ],
+    [
+      "distinction",
+      1
+    ],
+    [
+      "return",
+      1
+    ],
+    [
+      "tie",
+      1
+    ],
+    [
+      "demonstrable",
+      1
+    ],
+    [
+      "invest",
+      1
+    ],
+    [
+      "enable",
+      1
+    ],
+    [
+      "maximize",
+      1
+    ],
+    [
+      "clever",
+      1
+    ],
+    [
+      "twist",
+      1
+    ],
+    [
+      "learning",
+      1
+    ],
+    [
+      "via",
+      1
+    ],
+    [
+      "workshop",
+      1
+    ],
+    [
+      "multiply",
+      1
+    ],
+    [
+      "teach",
+      1
+    ],
+    [
+      "magnifi",
+      1
+    ],
+    [
+      "tenfold",
+      1
+    ],
+    [
+      "instantly",
+      1
+    ],
+    [
+      "lift",
+      1
+    ],
+    [
+      "logic",
+      1
+    ],
+    [
+      "political",
+      1
+    ],
+    [
+      "constraint",
+      1
+    ],
+    [
+      "alternative",
+      1
+    ],
+    [
+      "likewise",
+      1
+    ],
+    [
+      "mooc",
+      1
+    ],
+    [
+      "subject",
+      1
+    ],
+    [
+      "partial",
+      1
+    ],
+    [
+      "subsidy",
+      1
+    ],
+    [
+      "thoughtfulness",
+      1
+    ],
+    [
+      "due",
+      1
+    ],
+    [
+      "diligence",
+      1
+    ],
+    [
+      "far",
+      1
+    ],
+    [
+      "requester",
+      1
+    ],
+    [
+      "exhaustive",
+      1
+    ],
+    [
+      "fiduciary",
+      1
+    ],
+    [
+      "outward",
+      1
+    ],
+    [
+      "accelerant",
+      1
+    ],
+    [
+      "casual",
+      1
+    ],
+    [
+      "navigat",
+      1
+    ],
+    [
+      "anticipat",
+      1
+    ],
+    [
+      "led",
+      1
+    ],
+    [
+      "rookie",
+      1
+    ],
+    [
+      "mistak",
+      1
+    ],
+    [
+      "generic",
+      1
+    ],
+    [
+      "site",
+      1
+    ],
+    [
+      "admir",
+      1
+    ],
+    [
+      "gauge",
+      1
+    ],
+    [
+      "fit",
+      1
+    ],
+    [
+      "chemistry",
+      1
+    ],
+    [
+      "efficiently",
+      1
+    ],
+    [
+      "cit",
+      1
+    ],
+    [
+      "conflict",
+      1
+    ],
+    [
+      "cultur",
+      1
+    ],
+    [
+      "exposure",
+      1
+    ],
+    [
+      "international",
+      1
+    ],
+    [
+      "compliance",
+      1
+    ],
+    [
+      "reciprocity",
+      1
+    ],
+    [
+      "survive",
+      1
+    ],
+    [
+      "functional",
+      1
+    ],
+    [
+      "one-way",
+      1
+    ],
+    [
+      "recently",
+      1
+    ],
+    [
+      "relate",
+      1
+    ],
+    [
+      "sphere",
+      1
+    ],
+    [
+      "inform",
+      1
+    ],
+    [
+      "proactive",
+      1
+    ],
+    [
+      "recent",
+      1
+    ],
+    [
+      "implication",
+      1
+    ],
+    [
+      "professionalism",
+      1
+    ],
+    [
+      "supportive",
+      1
+    ],
+    [
+      "mix",
+      1
+    ],
+    [
+      "hold",
+      1
+    ],
+    [
+      "theyll",
+      1
+    ],
+    [
+      "censor",
+      1
+    ],
+    [
+      "challeng",
+      1
+    ],
+    [
+      "weakness",
+      1
+    ],
+    [
+      "negatively",
+      1
+    ],
+    [
+      "stream",
+      1
+    ],
+    [
+      "strictly",
+      1
+    ],
+    [
+      "candid",
+      1
+    ],
+    [
+      "vulnerable",
+      1
+    ],
+    [
+      "retro",
+      1
+    ],
+    [
+      "guidance",
+      1
+    ],
+    [
+      "seem",
+      1
+    ],
+    [
+      "achiev",
+      1
+    ],
+    [
+      "criteria",
+      1
+    ],
+    [
+      "formally",
+      1
+    ],
+    [
+      "competency",
+      1
+    ],
+    [
+      "surpris",
+      1
+    ],
+    [
+      "comprehensive",
+      1
+    ],
+    [
+      "efficienci",
+      1
+    ],
+    [
+      "equally",
+      1
+    ],
+    [
+      "marker",
+      1
+    ],
+    [
+      "testimonial",
+      1
+    ],
+    [
+      "exemplary",
+      1
+    ],
+    [
+      "third-party",
+      1
+    ],
+    [
+      "validation",
+      1
+    ],
+    [
+      "cross-regional",
+      1
+    ],
+    [
+      "initiativ",
+      1
+    ],
+    [
+      "multi-country",
+      1
+    ],
+    [
+      "wider",
+      1
+    ],
+    [
+      "sensitivity",
+      1
+    ],
+    [
+      "rollout",
+      1
+    ],
+    [
+      "coordination",
+      1
+    ],
+    [
+      "diplomacy",
+      1
+    ],
+    [
+      "committe",
+      1
+    ],
+    [
+      "operate",
+      1
+    ],
+    [
+      "silo",
+      1
+    ],
+    [
+      "stabiliz",
+      1
+    ],
+    [
+      "succession",
+      1
+    ],
+    [
+      "overlook",
+      1
+    ],
+    [
+      "deni",
+      1
+    ],
+    [
+      "indispensable",
+      1
+    ],
+    [
+      "junior",
+      1
+    ],
+    [
+      "colleague",
+      1
+    ],
+    [
+      "take",
+      1
+    ],
+    [
+      "smoothly",
+      1
+    ],
+    [
+      "remov",
+      1
+    ],
+    [
+      "reason",
+      1
+    ],
+    [
+      "deny",
+      1
+    ],
+    [
+      "immense",
+      1
+    ],
+    [
+      "courage",
+      1
+    ],
+    [
+      "anxiety",
+      1
+    ],
+    [
+      "entirely",
+      1
+    ],
+    [
+      "scal",
+      1
+    ],
+    [
+      "turf",
+      1
+    ],
+    [
+      "separat",
+      1
+    ],
+    [
+      "achievement",
+      1
+    ],
+    [
+      "elevate",
+      1
+    ],
+    [
+      "largest",
+      1
+    ],
+    [
+      "sovereignty",
+      1
+    ],
+    [
+      "penalti",
+      1
+    ],
+    [
+      "rehears",
+      1
+    ],
+    [
+      "meticulously",
+      1
+    ],
+    [
+      "overstat",
+      1
+    ],
+    [
+      "fatal",
+      1
+    ],
+    [
+      "confident",
+      1
+    ],
+    [
+      "weight",
+      1
+    ],
+    [
+      "outline",
+      1
+    ],
+    [
+      "method",
+      1
+    ],
+    [
+      "conferenc",
+      1
+    ],
+    [
+      "predefin",
+      1
+    ],
+    [
+      "prepare",
+      1
+    ],
+    [
+      "introduction",
+      1
+    ],
+    [
+      "solve",
+      1
+    ],
+    [
+      "area",
+      1
+    ],
+    [
+      "currently",
+      1
+    ],
+    [
+      "explor",
+      1
+    ],
+    [
+      "genuinely",
+      1
+    ],
+    [
+      "dialogue",
+      1
+    ],
+    [
+      "continu",
+      1
+    ],
+    [
+      "warm",
+      1
+    ],
+    [
+      "schedule",
+      1
+    ],
+    [
+      "furthermore",
+      1
+    ],
+    [
+      "generosity",
+      1
+    ],
+    [
+      "goodwill",
+      1
+    ],
+    [
+      "connector",
+      1
+    ],
+    [
+      "quickest",
+      1
+    ],
+    [
+      "moment",
+      1
+    ],
+    [
+      "truth",
+      1
+    ],
+    [
+      "peer",
+      1
+    ],
+    [
+      "expertise",
+      1
+    ],
+    [
+      "resonat",
+      1
+    ],
+    [
+      "industry",
+      1
+    ],
+    [
+      "strenuous",
+      1
+    ],
+    [
+      "mobility",
+      1
+    ],
+    [
+      "assignment",
+      1
+    ],
+    [
+      "abroad",
+      1
+    ],
+    [
+      "phas",
+      1
+    ],
+    [
+      "de-risk",
+      1
+    ],
+    [
+      "co-lead",
+      1
+    ],
+    [
+      "cross-border",
+      1
+    ],
+    [
+      "remotely",
+      1
+    ],
+    [
+      "remote",
+      1
+    ],
+    [
+      "zon",
+      1
+    ],
+    [
+      "differenc",
+      1
+    ],
+    [
+      "relocation",
+      1
+    ],
+    [
+      "table",
+      1
+    ],
+    [
+      "offic",
+      1
+    ],
+    [
+      "buddi",
+      1
+    ],
+    [
+      "nuanc",
+      1
+    ],
+    [
+      "unwritten",
+      1
+    ],
+    [
+      "manual",
+      1
+    ],
+    [
+      "barrier",
+      1
+    ],
+    [
+      "fluency",
+      1
+    ],
+    [
+      "significantly",
+      1
+    ],
+    [
+      "earn",
+      1
+    ],
+    [
+      "carefully",
+      1
+    ],
+    [
+      "travel",
+      1
+    ],
+    [
+      "desire",
+      1
+    ],
+    [
+      "definitive",
+      1
+    ],
+    [
+      "fill",
+      1
+    ],
+    [
+      "headquarter",
+      1
+    ],
+    [
+      "globally",
+      1
+    ],
+    [
+      "savvy",
+      1
+    ],
+    [
+      "bench",
+      1
+    ],
+    [
+      "reflect",
+      1
+    ],
+    [
+      "position",
+      1
+    ],
+    [
+      "four",
+      1
+    ],
+    [
+      "excellence",
+      1
+    ],
+    [
+      "durable",
+      1
+    ],
+    [
+      "operat",
+      1
+    ],
+    [
+      "perhap",
+      1
+    ],
+    [
+      "surprisingly",
+      1
+    ],
+    [
+      "hygiene",
+      1
+    ],
+    [
+      "greatest",
+      1
+    ],
+    [
+      "sink",
+      1
+    ],
+    [
+      "truest",
+      1
+    ],
+    [
+      "efficiency",
+      1
+    ],
+    [
+      "clinical",
+      1
+    ],
+    [
+      "effective",
+      1
+    ],
+    [
+      "forum",
+      1
+    ],
+    [
+      "sent",
+      1
+    ],
+    [
+      "advance",
+      1
+    ],
+    [
+      "strict",
+      1
+    ],
+    [
+      "box",
+      1
+    ],
+    [
+      "attach",
+      1
+    ],
+    [
+      "summariz",
+      1
+    ],
+    [
+      "close",
+      1
+    ],
+    [
+      "suggestion",
+      1
+    ],
+    [
+      "pre-work",
+      1
+    ],
+    [
+      "fly",
+      1
+    ],
+    [
+      "arrive",
+      1
+    ],
+    [
+      "debate",
+      1
+    ],
+    [
+      "decide",
+      1
+    ],
+    [
+      "decision-mak",
+      1
+    ],
+    [
+      "rotat",
+      1
+    ],
+    [
+      "facilitation",
+      1
+    ],
+    [
+      "adaptability",
+      1
+    ],
+    [
+      "among",
+      1
+    ],
+    [
+      "member",
+      1
+    ],
+    [
+      "one-on-one",
+      1
+    ],
+    [
+      "intensely",
+      1
+    ],
+    [
+      "coach",
+      1
+    ],
+    [
+      "constructive",
+      1
+    ],
+    [
+      "dampen",
+      1
+    ],
+    [
+      "sophisticat",
+      1
+    ],
+    [
+      "contrast",
+      1
+    ],
+    [
+      "typical",
+      1
+    ],
+    [
+      "dismiss",
+      1
+    ],
+    [
+      "format",
+      1
+    ],
+    [
+      "interrupt",
+      1
+    ],
+    [
+      "cost",
+      1
+    ],
+    [
+      "unheard",
+      1
+    ],
+    [
+      "extra",
+      1
+    ],
+    [
+      "resolv",
+      1
+    ],
+    [
+      "slow",
+      1
+    ],
+    [
+      "purely",
+      1
+    ],
+    [
+      "observable",
+      1
+    ],
+    [
+      "attack",
+      1
+    ],
+    [
+      "personality",
+      1
+    ],
+    [
+      "defensible",
+      1
+    ],
+    [
+      "pushback",
+      1
+    ],
+    [
+      "ris",
+      1
+    ],
+    [
+      "resolution",
+      1
+    ],
+    [
+      "concern",
+      1
+    ],
+    [
+      "hesitation",
+      1
+    ],
+    [
+      "regard",
+      1
+    ],
+    [
+      "analyze",
+      1
+    ],
+    [
+      "tomorrow",
+      1
+    ],
+    [
+      "freeze",
+      1
+    ],
+    [
+      "defensive",
+      1
+    ],
+    [
+      "fallback",
+      1
+    ],
+    [
+      "anticipation",
+      1
+    ],
+    [
+      "control",
+      1
+    ],
+    [
+      "advis",
+      1
+    ],
+    [
+      "journal",
+      1
+    ],
+    [
+      "reusable",
+      1
+    ],
+    [
+      "similar",
+      1
+    ],
+    [
+      "reference",
+      1
+    ],
+    [
+      "systematic",
+      1
+    ],
+    [
+      "section",
+      1
+    ],
+    [
+      "survival",
+      1
+    ],
+    [
+      "operation",
+      1
+    ],
+    [
+      "sustainability",
+      1
+    ],
+    [
+      "short-term",
+      1
+    ],
+    [
+      "gamble",
+      1
+    ],
+    [
+      "extremely",
+      1
+    ],
+    [
+      "pragmatic",
+      1
+    ],
+    [
+      "communicat",
+      1
+    ],
+    [
+      "offline",
+      1
+    ],
+    [
+      "likely",
+      1
+    ],
+    [
+      "violate",
+      1
+    ],
+    [
+      "barrage",
+      1
+    ],
+    [
+      "threaten",
+      1
+    ],
+    [
+      "adopt",
+      1
+    ],
+    [
+      "escalate",
+      1
+    ],
+    [
+      "non-urgent",
+      1
+    ],
+    [
+      "respectfully",
+      1
+    ],
+    [
+      "firmly",
+      1
+    ],
+    [
+      "thoughtful",
+      1
+    ],
+    [
+      "nos",
+      1
+    ],
+    [
+      "healthy",
+      1
+    ],
+    [
+      "lifesaver",
+      1
+    ],
+    [
+      "pre-block",
+      1
+    ],
+    [
+      "segment",
+      1
+    ],
+    [
+      "mid-morn",
+      1
+    ],
+    [
+      "mid-afternoon",
+      1
+    ],
+    [
+      "nam",
+      1
+    ],
+    [
+      "catch-up",
+      1
+    ],
+    [
+      "uncommit",
+      1
+    ],
+    [
+      "absorb",
+      1
+    ],
+    [
+      "minor",
+      1
+    ],
+    [
+      "escalation",
+      1
+    ],
+    [
+      "chao",
+      1
+    ],
+    [
+      "slack",
+      1
+    ],
+    [
+      "guid",
+      1
+    ],
+    [
+      "principle",
+      1
+    ],
+    [
+      "everyday",
+      1
+    ],
+    [
+      "phrase",
+      1
+    ],
+    [
+      "mantra",
+      1
+    ],
+    [
+      "week",
+      1
+    ],
+    [
+      "norm",
+      1
+    ],
+    [
+      "reserve",
+      1
+    ],
+    [
+      "inevitably",
+      1
+    ],
+    [
+      "drop",
+      1
+    ],
+    [
+      "pattern",
+      1
+    ],
+    [
+      "steady",
+      1
+    ],
+    [
+      "measure",
+      1
+    ],
+    [
+      "display",
+      1
+    ],
+    [
+      "deadlin",
+      1
+    ],
+    [
+      "status",
+      1
+    ],
+    [
+      "color",
+      1
+    ],
+    [
+      "cod",
+      1
+    ],
+    [
+      "warn",
+      1
+    ],
+    [
+      "overload",
+      1
+    ],
+    [
+      "limit",
+      1
+    ],
+    [
+      "indicator",
+      1
+    ],
+    [
+      "kpis",
+      1
+    ],
+    [
+      "drive",
+      1
+    ],
+    [
+      "many",
+      1
+    ],
+    [
+      "paralysis",
+      1
+    ],
+    [
+      "integrity",
+      1
+    ],
+    [
+      "stood",
+      1
+    ],
+    [
+      "reliable",
+      1
+    ],
+    [
+      "unstable",
+      1
+    ],
+    [
+      "inaccurate",
+      1
+    ],
+    [
+      "messy",
+      1
+    ],
+    [
+      "erod",
+      1
+    ],
+    [
+      "almost",
+      1
+    ],
+    [
+      "anyth",
+      1
+    ],
+    [
+      "usability",
+      1
+    ],
+    [
+      "verify",
+      1
+    ],
+    [
+      "definition",
+      1
+    ],
+    [
+      "instance",
+      1
+    ],
+    [
+      "otherwise",
+      1
+    ],
+    [
+      "chas",
+      1
+    ],
+    [
+      "host",
+      1
+    ],
+    [
+      "mundane",
+      1
+    ],
+    [
+      "rework",
+      1
+    ],
+    [
+      "clarifi",
+      1
+    ],
+    [
+      "institutionalize",
+      1
+    ],
+    [
+      "style",
+      1
+    ],
+    [
+      "relentlessly",
+      1
+    ],
+    [
+      "celebrat",
+      1
+    ],
+    [
+      "counterbalanc",
+      1
+    ],
+    [
+      "high-stak",
+      1
+    ],
+    [
+      "environment",
+      1
+    ],
+    [
+      "chang",
+      1
+    ],
+    [
+      "designat",
+      1
+    ],
+    [
+      "includ",
+      1
+    ],
+    [
+      "issu",
+      1
+    ],
+    [
+      "turbulence",
+      1
+    ],
+    [
+      "foster",
+      1
+    ],
+    [
+      "encourag",
+      1
+    ],
+    [
+      "blame",
+      1
+    ],
+    [
+      "retribution",
+      1
+    ],
+    [
+      "cross-train",
+      1
+    ],
+    [
+      "rotation",
+      1
+    ],
+    [
+      "crush",
+      1
+    ],
+    [
+      "crisis",
+      1
+    ],
+    [
+      "fire",
+      1
+    ],
+    [
+      "catastrophic",
+      1
+    ],
+    [
+      "counterbalance",
+      1
+    ],
+    [
+      "publicly",
+      1
+    ],
+    [
+      "ritual",
+      1
+    ],
+    [
+      "five-minute",
+      1
+    ],
+    [
+      "toast",
+      1
+    ],
+    [
+      "positive",
+      1
+    ],
+    [
+      "contribution",
+      1
+    ],
+    [
+      "tying",
+      1
+    ],
+    [
+      "notic",
+      1
+    ],
+    [
+      "serv",
+      1
+    ],
+    [
+      "quot",
+      1
+    ],
+    [
+      "stori",
+      1
+    ],
+    [
+      "department",
+      1
+    ],
+    [
+      "spread",
+      1
+    ],
+    [
+      "joy",
+      1
+    ],
+    [
+      "demand",
+      1
+    ],
+    [
+      "deeply",
+      1
+    ],
+    [
+      "incredibly",
+      1
+    ],
+    [
+      "recap",
+      1
+    ],
+    [
+      "accord",
+      1
+    ],
+    [
+      "wealth",
+      1
+    ],
+    [
+      "encompass",
+      1
+    ],
+    [
+      "reciprocal",
+      1
+    ],
+    [
+      "synthesis",
+      1
+    ],
+    [
+      "consistent",
+      1
+    ],
+    [
+      "delivery",
+      1
+    ],
+    [
+      "plus",
+      1
+    ],
+    [
+      "rigorously",
+      1
+    ],
+    [
+      "frequent",
+      1
+    ],
+    [
+      "advocat",
+      1
+    ],
+    [
+      "champion",
+      1
+    ],
+    [
+      "provocative",
+      1
+    ],
+    [
+      "listener",
+      1
+    ],
+    [
+      "mull",
+      1
+    ],
+    [
+      "heavily",
+      1
+    ],
+    [
+      "simultaneously",
+      1
+    ],
+    [
+      "increase",
+      1
+    ],
+    [
+      "bury",
+      1
+    ],
+    [
+      "emerg",
+      1
+    ],
+    [
+      "join",
+      1
+    ],
+    [
+      "hope",
+      1
+    ],
+    [
+      "leap",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 7733,
+    "unique_words": 1476,
+    "duration_min": 46.9
+  }
+}

@@ -1,0 +1,4631 @@
+{
+  "file_stem": "62_CALLCENTERBusinessEnglishPodcast",
+  "no": 62,
+  "title_keywords": [
+    [
+      "call",
+      "call"
+    ],
+    [
+      "center",
+      "center"
+    ],
+    [
+      "business",
+      "business"
+    ],
+    [
+      "english",
+      "english"
+    ],
+    [
+      "podcast",
+      "podcast"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "customer",
+      25,
+      "B1+"
+    ],
+    [
+      "know",
+      19,
+      "A2"
+    ],
+    [
+      "even",
+      15,
+      "B1+"
+    ],
+    [
+      "absolutely",
+      13,
+      "B1+"
+    ],
+    [
+      "phrases",
+      13,
+      "B1+"
+    ],
+    [
+      "keep",
+      12,
+      "A2"
+    ],
+    [
+      "feels",
+      11,
+      "A2"
+    ],
+    [
+      "think",
+      11,
+      "A2"
+    ],
+    [
+      "exactly",
+      10,
+      "B1+"
+    ],
+    [
+      "way",
+      10,
+      "A2"
+    ],
+    [
+      "we've",
+      10,
+      "B1+"
+    ],
+    [
+      "say",
+      9,
+      "A2"
+    ],
+    [
+      "make",
+      8,
+      "A2"
+    ],
+    [
+      "service",
+      8,
+      "B1+"
+    ],
+    [
+      "document",
+      7,
+      "B1+"
+    ],
+    [
+      "goes",
+      7,
+      "A2"
+    ],
+    [
+      "words",
+      7,
+      "A2"
+    ],
+    [
+      "communication",
+      6,
+      "B1+"
+    ],
+    [
+      "dive",
+      6,
+      "B1+"
+    ],
+    [
+      "genuine",
+      6,
+      "B1+"
+    ],
+    [
+      "good",
+      6,
+      "A2"
+    ],
+    [
+      "instead",
+      6,
+      "A2"
+    ],
+    [
+      "interaction",
+      6,
+      "B1+"
+    ],
+    [
+      "oh",
+      6,
+      "B1+"
+    ],
+    [
+      "call",
+      5,
+      "A2"
+    ],
+    [
+      "conversations",
+      5,
+      "B1+"
+    ],
+    [
+      "creating",
+      5,
+      "B1+"
+    ],
+    [
+      "deep",
+      5,
+      "A2"
+    ],
+    [
+      "going",
+      5,
+      "B1+"
+    ],
+    [
+      "help",
+      5,
+      "A2"
+    ],
+    [
+      "impact",
+      5,
+      "B1+"
+    ],
+    [
+      "kind",
+      5,
+      "A2"
+    ],
+    [
+      "language",
+      5,
+      "A2"
+    ],
+    [
+      "learning",
+      5,
+      "A2"
+    ],
+    [
+      "listen",
+      5,
+      "A2"
+    ],
+    [
+      "power",
+      5,
+      "B1+"
+    ],
+    [
+      "putting",
+      5,
+      "A2"
+    ],
+    [
+      "sense",
+      5,
+      "A2"
+    ],
+    [
+      "sound",
+      5,
+      "A2"
+    ],
+    [
+      "specific",
+      5,
+      "B1+"
+    ],
+    [
+      "thank",
+      5,
+      "A2"
+    ],
+    [
+      "there's",
+      5,
+      "B1+"
+    ],
+    [
+      "time",
+      5,
+      "A2"
+    ],
+    [
+      "today",
+      5,
+      "A2"
+    ],
+    [
+      "world",
+      5,
+      "A2"
+    ],
+    [
+      "bit",
+      4,
+      "A2"
+    ],
+    [
+      "build",
+      4,
+      "A2"
+    ],
+    [
+      "cultural",
+      4,
+      "B1+"
+    ],
+    [
+      "effective",
+      4,
+      "B1+"
+    ],
+    [
+      "empathy",
+      4,
+      "B1+"
+    ],
+    [
+      "find",
+      4,
+      "A2"
+    ],
+    [
+      "flowing",
+      4,
+      "B1+"
+    ],
+    [
+      "got",
+      4,
+      "A2"
+    ],
+    [
+      "jump",
+      4,
+      "A2"
+    ],
+    [
+      "key",
+      4,
+      "A2"
+    ],
+    [
+      "little",
+      4,
+      "A2"
+    ],
+    [
+      "lot",
+      4,
+      "A2"
+    ],
+    [
+      "makes",
+      4,
+      "B1+"
+    ],
+    [
+      "people",
+      4,
+      "A2"
+    ],
+    [
+      "phone",
+      4,
+      "A2"
+    ],
+    [
+      "powerful",
+      4,
+      "B1+"
+    ],
+    [
+      "speak",
+      4,
+      "A2"
+    ],
+    [
+      "sure",
+      4,
+      "A2"
+    ],
+    [
+      "actively",
+      3,
+      "B1+"
+    ],
+    [
+      "also",
+      3,
+      "A2"
+    ],
+    [
+      "anything",
+      3,
+      "B1+"
+    ],
+    [
+      "approach",
+      3,
+      "B1+"
+    ],
+    [
+      "assist",
+      3,
+      "B1+"
+    ],
+    [
+      "balance",
+      3,
+      "B1+"
+    ],
+    [
+      "beyond",
+      3,
+      "B1+"
+    ],
+    [
+      "confirm",
+      3,
+      "B1+"
+    ],
+    [
+      "done",
+      3,
+      "B1+"
+    ],
+    [
+      "else",
+      3,
+      "A2"
+    ],
+    [
+      "emotions",
+      3,
+      "B1+"
+    ],
+    [
+      "experience",
+      3,
+      "A2"
+    ],
+    [
+      "exploring",
+      3,
+      "B1+"
+    ],
+    [
+      "frustrating",
+      3,
+      "B1+"
+    ],
+    [
+      "giving",
+      3,
+      "B1+"
+    ],
+    [
+      "great",
+      3,
+      "A2"
+    ],
+    [
+      "huge",
+      3,
+      "B1+"
+    ],
+    [
+      "internet",
+      3,
+      "B1+"
+    ],
+    [
+      "issue",
+      3,
+      "A2"
+    ],
+    [
+      "let",
+      3,
+      "A2"
+    ],
+    [
+      "level",
+      3,
+      "B1+"
+    ],
+    [
+      "long",
+      3,
+      "A2"
+    ],
+    [
+      "matter",
+      3,
+      "A2"
+    ],
+    [
+      "need",
+      3,
+      "A2"
+    ],
+    [
+      "next",
+      3,
+      "A2"
+    ],
+    [
+      "one",
+      3,
+      "A2"
+    ],
+    [
+      "personalization",
+      3,
+      "B1+"
+    ],
+    [
+      "phrase",
+      3,
+      "B1+"
+    ],
+    [
+      "polite",
+      3,
+      "A2"
+    ],
+    [
+      "practice",
+      3,
+      "A2"
+    ],
+    [
+      "pretty",
+      3,
+      "A2"
+    ],
+    [
+      "problem",
+      3,
+      "A2"
+    ],
+    [
+      "psychology",
+      3,
+      "B1+"
+    ],
+    [
+      "question",
+      3,
+      "A2"
+    ],
+    [
+      "ready",
+      3,
+      "A2"
+    ],
+    [
+      "scripted",
+      3,
+      "B1+"
+    ],
+    [
+      "section",
+      3,
+      "B1+"
+    ],
+    [
+      "see",
+      3,
+      "A2"
+    ],
+    [
+      "seemingly",
+      3,
+      "B1+"
+    ],
+    [
+      "structure",
+      3,
+      "B1+"
+    ],
+    [
+      "suggests",
+      3,
+      "A2"
+    ],
+    [
+      "talked",
+      3,
+      "A2"
+    ],
+    [
+      "thing",
+      3,
+      "A2"
+    ],
+    [
+      "understand",
+      3,
+      "A2"
+    ],
+    [
+      "use",
+      3,
+      "A2"
+    ],
+    [
+      "whole",
+      3,
+      "A2"
+    ],
+    [
+      "without",
+      3,
+      "A2"
+    ],
+    [
+      "wow",
+      3,
+      "B1+"
+    ],
+    [
+      "account",
+      2,
+      "B1+"
+    ],
+    [
+      "acknowledge",
+      2,
+      "B1+"
+    ],
+    [
+      "agent",
+      2,
+      "B1+"
+    ],
+    [
+      "almost",
+      2,
+      "B1+"
+    ],
+    [
+      "amazing",
+      2,
+      "B1+"
+    ],
+    [
+      "analyzing",
+      2,
+      "B1+"
+    ],
+    [
+      "back",
+      2,
+      "A2"
+    ],
+    [
+      "centers",
+      2,
+      "B1+"
+    ],
+    [
+      "choose",
+      2,
+      "A2"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "customer service",
+      "count": 8,
+      "example": "So are you ready to dive deep into the world of customer service?",
+      "t": 14.38
+    },
+    {
+      "text": "deep dive",
+      "count": 4,
+      "example": "I think we've done a pretty deep dive into this topic.",
+      "t": 734.33
+    },
+    {
+      "text": "keep learning",
+      "count": 4,
+      "example": "Keep learning.",
+      "t": 786.64
+    },
+    {
+      "text": "world of customer",
+      "count": 3,
+      "example": "So are you ready to dive deep into the world of customer service?",
+      "t": 14.38
+    },
+    {
+      "text": "we're going",
+      "count": 3,
+      "example": "Today we're going to be looking at some of the language that's used in call centers.",
+      "t": 18.81
+    },
+    {
+      "text": "long way",
+      "count": 3,
+      "example": "Those little touches of personalization can go a long way.",
+      "t": 123.52
+    },
+    {
+      "text": "anything else",
+      "count": 3,
+      "example": "One phrase that jumps out at me is, is there anything else I can assist you with today?",
+      "t": 490.69
+    },
+    {
+      "text": "power of language",
+      "count": 3,
+      "example": "Wow, you've really got me thinking about the power of language.",
+      "t": 535.04
+    },
+    {
+      "text": "we've done",
+      "count": 3,
+      "example": "I think we've done a pretty deep dive into this topic.",
+      "t": 734.33
+    },
+    {
+      "text": "conversations flowing",
+      "count": 3,
+      "example": "And keep those conversations flowing.",
+      "t": 788.72
+    }
+  ],
+  "phrases": [
+    {
+      "text": "customer service",
+      "count": 8,
+      "example": "So are you ready to dive deep into the world of customer service?",
+      "t": 14.38
+    },
+    {
+      "text": "deep dive",
+      "count": 4,
+      "example": "I think we've done a pretty deep dive into this topic.",
+      "t": 734.33
+    },
+    {
+      "text": "keep learning",
+      "count": 4,
+      "example": "Keep learning.",
+      "t": 786.64
+    },
+    {
+      "text": "world of customer",
+      "count": 3,
+      "example": "So are you ready to dive deep into the world of customer service?",
+      "t": 14.38
+    },
+    {
+      "text": "we're going",
+      "count": 3,
+      "example": "Today we're going to be looking at some of the language that's used in call centers.",
+      "t": 18.81
+    },
+    {
+      "text": "long way",
+      "count": 3,
+      "example": "Those little touches of personalization can go a long way.",
+      "t": 123.52
+    },
+    {
+      "text": "anything else",
+      "count": 3,
+      "example": "One phrase that jumps out at me is, is there anything else I can assist you with today?",
+      "t": 490.69
+    },
+    {
+      "text": "power of language",
+      "count": 3,
+      "example": "Wow, you've really got me thinking about the power of language.",
+      "t": 535.04
+    },
+    {
+      "text": "we've done",
+      "count": 3,
+      "example": "I think we've done a pretty deep dive into this topic.",
+      "t": 734.33
+    },
+    {
+      "text": "conversations flowing",
+      "count": 3,
+      "example": "And keep those conversations flowing.",
+      "t": 788.72
+    },
+    {
+      "text": "keep those conversations",
+      "count": 3,
+      "example": "And keep those conversations flowing.",
+      "t": 788.72
+    },
+    {
+      "text": "ready to dive",
+      "count": 2,
+      "example": "So are you ready to dive deep into the world of customer service?",
+      "t": 14.38
+    },
+    {
+      "text": "going beyond",
+      "count": 2,
+      "example": "So we're going beyond just being polite.",
+      "t": 31.58
+    },
+    {
+      "text": "seemingly simple",
+      "count": 2,
+      "example": "Yeah, what's often overlooked is the psychological impact of these seemingly simple phrases.",
+      "t": 42.73
+    },
+    {
+      "text": "good morning",
+      "count": 2,
+      "example": "You know, good morning, good evening.",
+      "t": 101.56
+    },
+    {
+      "text": "morning good",
+      "count": 2,
+      "example": "You know, good morning, good evening.",
+      "t": 101.56
+    },
+    {
+      "text": "good morning good",
+      "count": 2,
+      "example": "You know, good morning, good evening.",
+      "t": 101.56
+    },
+    {
+      "text": "know kind",
+      "count": 2,
+      "example": "And replaces it with, you know, kind of like a we're in this together kind of.",
+      "t": 169.09
+    },
+    {
+      "text": "one phrase",
+      "count": 2,
+      "example": "One phrase that stands out to me is.",
+      "t": 194.65
+    },
+    {
+      "text": "i'm curious",
+      "count": 2,
+      "example": "Now, I'm curious about...",
+      "t": 233.45
+    },
+    {
+      "text": "magic formula",
+      "count": 2,
+      "example": "Is there a magic formula for that?",
+      "t": 241.62
+    },
+    {
+      "text": "instead of saying",
+      "count": 2,
+      "example": "So, for example, instead of saying, what's wrong with your internet, you could try.",
+      "t": 247.91
+    },
+    {
+      "text": "without feeling",
+      "count": 2,
+      "example": "Without feeling judged.",
+      "t": 260.04
+    },
+    {
+      "text": "giving the customer",
+      "count": 2,
+      "example": "It's all about giving the customer a sense of control.",
+      "t": 297.89
+    },
+    {
+      "text": "make sure",
+      "count": 2,
+      "example": "But how do you make sure it comes across as genuine?",
+      "t": 340.92
+    },
+    {
+      "text": "that's a great",
+      "count": 2,
+      "example": "That's a great point.",
+      "t": 346.11
+    },
+    {
+      "text": "it's about reading",
+      "count": 2,
+      "example": "So it's about reading the cues.",
+      "t": 418.02
+    },
+    {
+      "text": "it's amazing",
+      "count": 2,
+      "example": "It's amazing, isn't it?",
+      "t": 538.4
+    },
+    {
+      "text": "effective communication",
+      "count": 2,
+      "example": "For effective communication in any context.",
+      "t": 559.68
+    },
+    {
+      "text": "putting out fires",
+      "count": 2,
+      "example": "It's not just about putting out fires.",
+      "t": 705.34
+    },
+    {
+      "text": "building relationships",
+      "count": 2,
+      "example": "It's about building relationships, creating positive experiences, and fostering a sense of community.",
+      "t": 707.82
+    },
+    {
+      "text": "positive experiences",
+      "count": 2,
+      "example": "It's about building relationships, creating positive experiences, and fostering a sense of community.",
+      "t": 707.82
+    },
+    {
+      "text": "fostering a sense",
+      "count": 2,
+      "example": "It's about building relationships, creating positive experiences, and fostering a sense of community.",
+      "t": 707.82
+    },
+    {
+      "text": "sense of community",
+      "count": 2,
+      "example": "It's about building relationships, creating positive experiences, and fostering a sense of community.",
+      "t": 707.82
+    },
+    {
+      "text": "think we've",
+      "count": 2,
+      "example": "I think we've done a pretty deep dive into this topic.",
+      "t": 734.33
+    },
+    {
+      "text": "pretty deep",
+      "count": 2,
+      "example": "I think we've done a pretty deep dive into this topic.",
+      "t": 734.33
+    },
+    {
+      "text": "think we've done",
+      "count": 2,
+      "example": "I think we've done a pretty deep dive into this topic.",
+      "t": 734.33
+    },
+    {
+      "text": "done a pretty",
+      "count": 2,
+      "example": "I think we've done a pretty deep dive into this topic.",
+      "t": 734.33
+    },
+    {
+      "text": "pretty deep dive",
+      "count": 2,
+      "example": "I think we've done a pretty deep dive into this topic.",
+      "t": 734.33
+    },
+    {
+      "text": "we've gone",
+      "count": 2,
+      "example": "You know, we've gone from analyzing specific phrases to exploring the psychology of communication.",
+      "t": 737.82
+    },
+    {
+      "text": "specific phrases",
+      "count": 2,
+      "example": "You know, we've gone from analyzing specific phrases to exploring the psychology of communication.",
+      "t": 737.82
+    },
+    {
+      "text": "gone from analyzing",
+      "count": 2,
+      "example": "You know, we've gone from analyzing specific phrases to exploring the psychology of communication.",
+      "t": 737.82
+    },
+    {
+      "text": "psychology of communication",
+      "count": 2,
+      "example": "You know, we've gone from analyzing specific phrases to exploring the psychology of communication.",
+      "t": 737.82
+    },
+    {
+      "text": "cultural considerations",
+      "count": 2,
+      "example": "And we've even touched on some of the ethical and cultural considerations involved.",
+      "t": 745.25
+    },
+    {
+      "text": "ethical and cultural",
+      "count": 2,
+      "example": "And we've even touched on some of the ethical and cultural considerations involved.",
+      "t": 745.25
+    },
+    {
+      "text": "lot to think",
+      "count": 2,
+      "example": "A lot to think about.",
+      "t": 749.67
+    },
+    {
+      "text": "everyday conversation",
+      "count": 2,
+      "example": "You know, as you navigate the world of customer service or even just your everyday conversation.",
+      "t": 753.22
+    },
+    {
+      "text": "navigate the world",
+      "count": 2,
+      "example": "You know, as you navigate the world of customer service or even just your everyday conversation.",
+      "t": 753.22
+    },
+    {
+      "text": "service or even",
+      "count": 2,
+      "example": "You know, as you navigate the world of customer service or even just your everyday conversation.",
+      "t": 753.22
+    },
+    {
+      "text": "it's huge",
+      "count": 2,
+      "example": "It's huge.",
+      "t": 760.57
+    },
+    {
+      "text": "words thoughtfully",
+      "count": 2,
+      "example": "Choose your words thoughtfully.",
+      "t": 761.45
+    },
+    {
+      "text": "choose your words",
+      "count": 2,
+      "example": "Choose your words thoughtfully.",
+      "t": 761.45
+    },
+    {
+      "text": "listen actively",
+      "count": 2,
+      "example": "Listen actively.",
+      "t": 763.65
+    },
+    {
+      "text": "don't underestimate",
+      "count": 2,
+      "example": "And don't underestimate the impact of a genuine smile.",
+      "t": 765.07
+    },
+    {
+      "text": "genuine smile",
+      "count": 2,
+      "example": "And don't underestimate the impact of a genuine smile.",
+      "t": 765.07
+    },
+    {
+      "text": "underestimate the impact",
+      "count": 2,
+      "example": "And don't underestimate the impact of a genuine smile.",
+      "t": 765.07
+    },
+    {
+      "text": "goes a long",
+      "count": 2,
+      "example": "It goes a long way.",
+      "t": 768.52
+    },
+    {
+      "text": "joining us",
+      "count": 2,
+      "example": "Thanks for joining us.",
+      "t": 779.13
+    },
+    {
+      "text": "thanks for joining",
+      "count": 2,
+      "example": "Thanks for joining us.",
+      "t": 779.13
+    },
+    {
+      "text": "next time",
+      "count": 2,
+      "example": "And until next time.",
+      "t": 783.3
+    },
+    {
+      "text": "keep exploring",
+      "count": 2,
+      "example": "Keep exploring.",
+      "t": 785.36
+    }
+  ],
+  "sentences": [
+    {
+      "t": 1.08,
+      "text": "Listen."
+    },
+    {
+      "t": 8.52,
+      "text": "Practice."
+    },
+    {
+      "t": 9.58,
+      "text": "Speak."
+    },
+    {
+      "t": 10.63,
+      "text": "Practice makes you perfect."
+    },
+    {
+      "t": 13.9,
+      "text": "All right."
+    },
+    {
+      "t": 14.38,
+      "text": "So are you ready to dive deep into the world of customer service?"
+    },
+    {
+      "t": 17.77,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 18.19,
+      "text": "I'm ready."
+    },
+    {
+      "t": 18.81,
+      "text": "Today we're going to be looking at some of the language that's used in call centers."
+    },
+    {
+      "t": 23.35,
+      "text": "Cool."
+    },
+    {
+      "t": 24.01,
+      "text": "And, you know, you shared a document with me."
+    },
+    {
+      "t": 26.61,
+      "text": "Yes."
+    },
+    {
+      "t": 27.18,
+      "text": "With some common phrases that are used."
+    },
+    {
+      "t": 29.34,
+      "text": "And we're going to kind of unpack that a bit."
+    },
+    {
+      "t": 31.08,
+      "text": "Yeah."
+    },
+    {
+      "t": 31.58,
+      "text": "So we're going beyond just being polite."
+    },
+    {
+      "t": 34.14,
+      "text": "You know, we're looking at, you know, how do the words that we use, how do they build trust?"
+    },
+    {
+      "t": 38.59,
+      "text": "Yes."
+    },
+    {
+      "t": 38.89,
+      "text": "And how do they, you know, influence the customer's perception of a company?"
+    },
+    {
+      "t": 42.73,
+      "text": "Yeah, what's often overlooked is the psychological impact of these seemingly simple phrases."
+    },
+    {
+      "t": 49.02,
+      "text": "Right."
+    },
+    {
+      "t": 49.52,
+      "text": "Yeah, it's like a carefully choreographed dance guiding the customer towards a resolution."
+    },
+    {
+      "t": 55.82,
+      "text": "So let's just jump right into it."
+    },
+    {
+      "t": 57.5,
+      "text": "Right."
+    },
+    {
+      "t": 57.72,
+      "text": "The first section is greeting the customer."
+    },
+    {
+      "t": 59.79,
+      "text": "Okay."
+    },
+    {
+      "t": 60.35,
+      "text": "And this document compares the phrases, how may I assist you to how can I help you?"
+    },
+    {
+      "t": 66.12,
+      "text": "Yeah."
+    },
+    {
+      "t": 66.42,
+      "text": "Now, I might have just glazed over that before, but is there really a difference in impact?"
+    },
+    {
+      "t": 72.71,
+      "text": "Absolutely."
+    },
+    {
+      "t": 73.69,
+      "text": "How can I help you suggests a more proactive stance."
+    },
+    {
+      "t": 77.75,
+      "text": "Right."
+    },
+    {
+      "t": 77.89,
+      "text": "You can make it even more impactful, though, by adding a slight pause before help."
+    },
+    {
+      "t": 82.16,
+      "text": "Right."
+    },
+    {
+      "t": 82.64,
+      "text": "Like, how can I pause?"
+    },
+    {
+      "t": 84.4,
+      "text": "Help you."
+    },
+    {
+      "t": 85.17,
+      "text": "Oh, that projects genuine interest."
+    },
+    {
+      "t": 87.73,
+      "text": "Like you're really ready to dive in and solve their problem."
+    },
+    {
+      "t": 90.83,
+      "text": "Wow."
+    },
+    {
+      "t": 91.23,
+      "text": "So it's not just the words themselves."
+    },
+    {
+      "t": 93.13,
+      "text": "It's also the delivery."
+    },
+    {
+      "t": 94.83,
+      "text": "Absolutely."
+    },
+    {
+      "t": 95.5,
+      "text": "That matters."
+    },
+    {
+      "t": 96.14,
+      "text": "Yeah."
+    },
+    {
+      "t": 96.44,
+      "text": "I hadn't even thought of that."
+    },
+    {
+      "t": 97.56,
+      "text": "Yeah."
+    },
+    {
+      "t": 97.98,
+      "text": "Okay."
+    },
+    {
+      "t": 98.3,
+      "text": "What about those time specific greetings?"
+    },
+    {
+      "t": 101.14,
+      "text": "Yeah."
+    },
+    {
+      "t": 101.56,
+      "text": "You know, good morning, good evening."
+    },
+    {
+      "t": 103.92,
+      "text": "Does it really matter?"
+    },
+    {
+      "t": 104.73,
+      "text": "It's a subtle form of personalization."
+    },
+    {
+      "t": 106.65,
+      "text": "Right."
+    },
+    {
+      "t": 106.97,
+      "text": "You know, you wouldn't walk into a friend's house and say, what's up?"
+    },
+    {
+      "t": 110.27,
+      "text": "Right."
+    },
+    {
+      "t": 110.78,
+      "text": "You would say, good morning, good afternoon, you know, whatever it was."
+    },
+    {
+      "t": 113.68,
+      "text": "Right."
+    },
+    {
+      "t": 113.96,
+      "text": "You would tailor your greeting to the context."
+    },
+    {
+      "t": 116.28,
+      "text": "Right."
+    },
+    {
+      "t": 116.67,
+      "text": "And it's the same principle here."
+    },
+    {
+      "t": 118.07,
+      "text": "So even in, you know, a fast-paced call center environment."
+    },
+    {
+      "t": 122.92,
+      "text": "Right."
+    },
+    {
+      "t": 123.52,
+      "text": "Those little touches of personalization can go a long way."
+    },
+    {
+      "t": 127.32,
+      "text": "Now on to confirming customer details."
+    },
+    {
+      "t": 130.87,
+      "text": "All right."
+    },
+    {
+      "t": 131.25,
+      "text": "Which is all about security and verification."
+    },
+    {
+      "t": 135.04,
+      "text": "Yes."
+    },
+    {
+      "t": 135.65,
+      "text": "And you've got phrases here like, may I have your account number for verification?"
+    },
+    {
+      "t": 141.34,
+      "text": "Right."
+    },
+    {
+      "t": 141.7,
+      "text": "It feels like a necessary evil, but how do you make it less evil sounding?"
+    },
+    {
+      "t": 148.74,
+      "text": "Transparency is key."
+    },
+    {
+      "t": 150.25,
+      "text": "Okay."
+    },
+    {
+      "t": 150.65,
+      "text": "So instead of just asking for the information, explain why you need it."
+    },
+    {
+      "t": 155.13,
+      "text": "Okay."
+    },
+    {
+      "t": 155.35,
+      "text": "Like you could say, to ensure the security of your account, could you please confirm the last four digits of your phone number?"
+    },
+    {
+      "t": 162.88,
+      "text": "Okay."
+    },
+    {
+      "t": 163.22,
+      "text": "You're framing it as a shared goal, not an interrogation."
+    },
+    {
+      "t": 166.82,
+      "text": "It takes the suspicion out of it."
+    },
+    {
+      "t": 168.69,
+      "text": "Right."
+    },
+    {
+      "t": 169.09,
+      "text": "And replaces it with, you know, kind of like a we're in this together kind of."
+    },
+    {
+      "t": 173.15,
+      "text": "Yeah."
+    },
+    {
+      "t": 173.27,
+      "text": "We're on the same side."
+    },
+    {
+      "t": 174.29,
+      "text": "Right."
+    },
+    {
+      "t": 174.72,
+      "text": "But isn't there a risk of overdoing the explanation?"
+    },
+    {
+      "t": 178.14,
+      "text": "Yeah."
+    },
+    {
+      "t": 178.38,
+      "text": "There's definitely a balance to strike."
+    },
+    {
+      "t": 180.14,
+      "text": "Right."
+    },
+    {
+      "t": 180.65,
+      "text": "The key is to sound natural."
+    },
+    {
+      "t": 182.49,
+      "text": "Uh-huh."
+    },
+    {
+      "t": 182.69,
+      "text": "Conversational."
+    },
+    {
+      "t": 183.35,
+      "text": "Okay."
+    },
+    {
+      "t": 183.69,
+      "text": "Even while following those protocols."
+    },
+    {
+      "t": 185.55,
+      "text": "Yeah."
+    },
+    {
+      "t": 185.79,
+      "text": "And that's where the training comes in."
+    },
+    {
+      "t": 187.07,
+      "text": "Right."
+    },
+    {
+      "t": 187.22,
+      "text": "You know, to help people kind of."
+    },
+    {
+      "t": 188.5,
+      "text": "Find that sweet spot."
+    },
+    {
+      "t": 189.84,
+      "text": "Yeah."
+    },
+    {
+      "t": 190.5,
+      "text": "Okay, so let's jump into clarifying the customer's issue."
+    },
+    {
+      "t": 194.37,
+      "text": "Right."
+    },
+    {
+      "t": 194.65,
+      "text": "One phrase that stands out to me is."
+    },
+    {
+      "t": 196.29,
+      "text": "Okay."
+    },
+    {
+      "t": 196.99,
+      "text": "Let me confirm that I understand the issue correctly."
+    },
+    {
+      "t": 199.36,
+      "text": "Is that correct?"
+    },
+    {
+      "t": 200.1,
+      "text": "Uh-huh."
+    },
+    {
+      "t": 200.46,
+      "text": "I can see how that's helpful."
+    },
+    {
+      "t": 201.66,
+      "text": "Right."
+    },
+    {
+      "t": 202.16,
+      "text": "But it feels a bit basic."
+    },
+    {
+      "t": 204.05,
+      "text": "Yeah."
+    },
+    {
+      "t": 204.81,
+      "text": "How can we take it to the next level?"
+    },
+    {
+      "t": 206.21,
+      "text": "This is where the technique of labeling emotions can be really powerful."
+    },
+    {
+      "t": 212.02,
+      "text": "Okay."
+    },
+    {
+      "t": 212.5,
+      "text": "After you paraphrase the issue, you can acknowledge the customer's feelings."
+    },
+    {
+      "t": 217.37,
+      "text": "Okay."
+    },
+    {
+      "t": 217.85,
+      "text": "So you can say something like, it sounds like you're feeling frustrated by this delay."
+    },
+    {
+      "t": 221.77,
+      "text": "Is that right?"
+    },
+    {
+      "t": 222.95,
+      "text": "So you're not just repeating their words."
+    },
+    {
+      "t": 224.63,
+      "text": "You're showing..."
+    },
+    {
+      "t": 225.56,
+      "text": "Empathy."
+    },
+    {
+      "t": 226.28,
+      "text": "Empathy."
+    },
+    {
+      "t": 226.86,
+      "text": "Yeah."
+    },
+    {
+      "t": 227.22,
+      "text": "And validating their emotions."
+    },
+    {
+      "t": 228.44,
+      "text": "Exactly."
+    },
+    {
+      "t": 229.24,
+      "text": "That seems like that could de-escalate a tense situation."
+    },
+    {
+      "t": 231.7,
+      "text": "It can."
+    },
+    {
+      "t": 232.28,
+      "text": "Pretty quickly."
+    },
+    {
+      "t": 233.45,
+      "text": "Now, I'm curious about..."
+    },
+    {
+      "t": 235.93,
+      "text": "Eliciting more details."
+    },
+    {
+      "t": 237.43,
+      "text": "Okay."
+    },
+    {
+      "t": 237.97,
+      "text": "Without making the customer feel like they're explaining poorly."
+    },
+    {
+      "t": 241.12,
+      "text": "Right."
+    },
+    {
+      "t": 241.62,
+      "text": "Is there a magic formula for that?"
+    },
+    {
+      "t": 243.06,
+      "text": "There's no magic formula."
+    },
+    {
+      "t": 244.5,
+      "text": "Okay."
+    },
+    {
+      "t": 244.86,
+      "text": "But using open-ended questions is key."
+    },
+    {
+      "t": 247.45,
+      "text": "Okay."
+    },
+    {
+      "t": 247.91,
+      "text": "So, for example, instead of saying, what's wrong with your internet, you could try."
+    },
+    {
+      "t": 252.88,
+      "text": "Right."
+    },
+    {
+      "t": 253.68,
+      "text": "Could you tell me a little more about what's happening with your internet connection?"
+    },
+    {
+      "t": 257.58,
+      "text": "Okay, so you're inviting them to share more."
+    },
+    {
+      "t": 259.58,
+      "text": "Exactly."
+    },
+    {
+      "t": 260.04,
+      "text": "Without feeling judged."
+    },
+    {
+      "t": 261.38,
+      "text": "Right."
+    },
+    {
+      "t": 261.95,
+      "text": "Okay, so on to offering solutions."
+    },
+    {
+      "t": 264.75,
+      "text": "Right."
+    },
+    {
+      "t": 265.19,
+      "text": "This document emphasizes clear and confident solution presentation."
+    },
+    {
+      "t": 271.29,
+      "text": "Yes."
+    },
+    {
+      "t": 272.33,
+      "text": "What does that actually sound like in practice?"
+    },
+    {
+      "t": 275.55,
+      "text": "So instead of saying, I can do that for you, you could say, here's what I can do to resolve this for you today."
+    },
+    {
+      "t": 281.45,
+      "text": "Right."
+    },
+    {
+      "t": 281.65,
+      "text": "So you're shifting the focus from your ability to their outcome."
+    },
+    {
+      "t": 286.26,
+      "text": "Exactly."
+    },
+    {
+      "t": 286.92,
+      "text": "And that's more reassuring."
+    },
+    {
+      "t": 288.18,
+      "text": "Yes, it is."
+    },
+    {
+      "t": 289.44,
+      "text": "And what about when you have to transfer a call?"
+    },
+    {
+      "t": 291.97,
+      "text": "Okay."
+    },
+    {
+      "t": 292.51,
+      "text": "The source material suggests, let me transfer you."
+    },
+    {
+      "t": 295.51,
+      "text": "Is that okay?"
+    },
+    {
+      "t": 296.31,
+      "text": "Right."
+    },
+    {
+      "t": 296.91,
+      "text": "Why is that so important?"
+    },
+    {
+      "t": 297.89,
+      "text": "It's all about giving the customer a sense of control."
+    },
+    {
+      "t": 301.54,
+      "text": "Okay."
+    },
+    {
+      "t": 301.86,
+      "text": "They're actively involved in the process."
+    },
+    {
+      "t": 303.94,
+      "text": "So instead of feeling like they're being passed around like a hot potato."
+    },
+    {
+      "t": 307.27,
+      "text": "Exactly."
+    },
+    {
+      "t": 307.75,
+      "text": "Okay, we're on the same team here."
+    },
+    {
+      "t": 308.93,
+      "text": "Yeah, we're in this together."
+    },
+    {
+      "t": 309.96,
+      "text": "Let's figure this out."
+    },
+    {
+      "t": 311.32,
+      "text": "And speaking of delicate situations."
+    },
+    {
+      "t": 313.9,
+      "text": "All right."
+    },
+    {
+      "t": 314.22,
+      "text": "The way we handle complaints can make or break."
+    },
+    {
+      "t": 317.47,
+      "text": "Oh, yeah, for sure."
+    },
+    {
+      "t": 318.33,
+      "text": "A customer's trust."
+    },
+    {
+      "t": 319.8,
+      "text": "Absolutely."
+    },
+    {
+      "t": 320.9,
+      "text": "This section's got some real gems on that."
+    },
+    {
+      "t": 323.32,
+      "text": "Okay, good."
+    },
+    {
+      "t": 324.12,
+      "text": "So it highlights the power of empathy."
+    },
+    {
+      "t": 326.26,
+      "text": "Okay."
+    },
+    {
+      "t": 326.81,
+      "text": "Suggesting phrases like, I'm really sorry to hear about that, and I completely understand how frustrating this must be for you."
+    },
+    {
+      "t": 334.12,
+      "text": "It's not just about saying sorry."
+    },
+    {
+      "t": 335.94,
+      "text": "No."
+    },
+    {
+      "t": 336.36,
+      "text": "It's about really connecting with the customer's emotions."
+    },
+    {
+      "t": 339.86,
+      "text": "Right."
+    },
+    {
+      "t": 340.92,
+      "text": "But how do you make sure it comes across as genuine?"
+    },
+    {
+      "t": 343.81,
+      "text": "Right."
+    },
+    {
+      "t": 344.19,
+      "text": "And not just a scripted response."
+    },
+    {
+      "t": 346.11,
+      "text": "That's a great point."
+    },
+    {
+      "t": 347.2,
+      "text": "I've been on the receiving end of those."
+    },
+    {
+      "t": 348.76,
+      "text": "We all have."
+    },
+    {
+      "t": 349.5,
+      "text": "Empty apologies."
+    },
+    {
+      "t": 351.11,
+      "text": "And they feel worse than no apology at all."
+    },
+    {
+      "t": 354.01,
+      "text": "Absolutely."
+    },
+    {
+      "t": 355.31,
+      "text": "So how do you make it sound genuine?"
+    },
+    {
+      "t": 357.25,
+      "text": "Sincerity is everything here."
+    },
+    {
+      "t": 358.99,
+      "text": "Okay."
+    },
+    {
+      "t": 360.2,
+      "text": "One way to make it more authentic is to personalize it."
+    },
+    {
+      "t": 363.34,
+      "text": "So instead of a generic, I understand, try something like, I can only imagine how frustrating it must be when your internet goes down right in the middle of an important meeting."
+    },
+    {
+      "t": 374.18,
+      "text": "So you're not just mirroring their words."
+    },
+    {
+      "t": 376.89,
+      "text": "Right."
+    },
+    {
+      "t": 377.09,
+      "text": "You're reflecting their experience."
+    },
+    {
+      "t": 378.87,
+      "text": "Exactly."
+    },
+    {
+      "t": 379.53,
+      "text": "Back to them in a way that shows that you're really listening."
+    },
+    {
+      "t": 383.28,
+      "text": "And you get it."
+    },
+    {
+      "t": 384.24,
+      "text": "Yeah."
+    },
+    {
+      "t": 384.77,
+      "text": "Yeah."
+    },
+    {
+      "t": 385.21,
+      "text": "That's powerful."
+    },
+    {
+      "t": 386.29,
+      "text": "It is."
+    },
+    {
+      "t": 386.61,
+      "text": "And then you can seamlessly transition into a solution-focused mindset."
+    },
+    {
+      "t": 391.34,
+      "text": "Right."
+    },
+    {
+      "t": 391.78,
+      "text": "With a phrase like..."
+    },
+    {
+      "t": 393.71,
+      "text": "Thank you for bringing this to our attention."
+    },
+    {
+      "t": 396.17,
+      "text": "Let me see how I can resolve this for you."
+    },
+    {
+      "t": 398.23,
+      "text": "Yeah."
+    },
+    {
+      "t": 399.17,
+      "text": "That's a tough balance."
+    },
+    {
+      "t": 400.4,
+      "text": "It is."
+    },
+    {
+      "t": 400.76,
+      "text": "To strike."
+    },
+    {
+      "t": 401.28,
+      "text": "It is."
+    },
+    {
+      "t": 401.78,
+      "text": "How can people gauge when it's time to move from empathy to action?"
+    },
+    {
+      "t": 405.58,
+      "text": "Right."
+    },
+    {
+      "t": 406.36,
+      "text": "Without feeling dismissive."
+    },
+    {
+      "t": 407.98,
+      "text": "Active listening is key."
+    },
+    {
+      "t": 409.71,
+      "text": "Okay."
+    },
+    {
+      "t": 409.99,
+      "text": "You want to make sure you fully understood their concerns and acknowledge their feelings before you jump into problem solving mode."
+    },
+    {
+      "t": 418.02,
+      "text": "So it's about reading the cues."
+    },
+    {
+      "t": 420.07,
+      "text": "It is."
+    },
+    {
+      "t": 420.65,
+      "text": "And adapting your approach to the individual."
+    },
+    {
+      "t": 423.96,
+      "text": "To each person, yeah."
+    },
+    {
+      "t": 425.64,
+      "text": "This almost feels like therapy."
+    },
+    {
+      "t": 427.59,
+      "text": "Right."
+    },
+    {
+      "t": 428.13,
+      "text": "For customer service."
+    },
+    {
+      "t": 429.27,
+      "text": "A little bit, yeah."
+    },
+    {
+      "t": 430.07,
+      "text": "Are there any other psychological techniques that can be helpful?"
+    },
+    {
+      "t": 432.89,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 433.57,
+      "text": "There's a technique called mirroring that can be really effective."
+    },
+    {
+      "t": 437.2,
+      "text": "Okay."
+    },
+    {
+      "t": 437.58,
+      "text": "It's about subtly reflecting the customer's body language or tone of voice."
+    },
+    {
+      "t": 443.82,
+      "text": "Okay."
+    },
+    {
+      "t": 444.25,
+      "text": "It creates a sense of rapport and makes them feel more understood."
+    },
+    {
+      "t": 448.79,
+      "text": "Wow."
+    },
+    {
+      "t": 449.95,
+      "text": "So it's not just about the words you say."
+    },
+    {
+      "t": 452.13,
+      "text": "No, it's everything."
+    },
+    {
+      "t": 453.11,
+      "text": "It's about the entire communication package."
+    },
+    {
+      "t": 455.22,
+      "text": "The whole thing."
+    },
+    {
+      "t": 456.82,
+      "text": "But I bet most people aren't even aware of that."
+    },
+    {
+      "t": 459.08,
+      "text": "Right."
+    },
+    {
+      "t": 459.3,
+      "text": "That they're doing that."
+    },
+    {
+      "t": 460.38,
+      "text": "Oh, they're not."
+    },
+    {
+      "t": 461.24,
+      "text": "So that's why training is so crucial."
+    },
+    {
+      "t": 463.03,
+      "text": "It is."
+    },
+    {
+      "t": 463.79,
+      "text": "So we've talked a lot about individual phrases."
+    },
+    {
+      "t": 466.16,
+      "text": "Right."
+    },
+    {
+      "t": 466.78,
+      "text": "But I'm curious about the overall structure of these interactions."
+    },
+    {
+      "t": 472.36,
+      "text": "Is there a specific flow?"
+    },
+    {
+      "t": 474.27,
+      "text": "Yeah, absolutely."
+    },
+    {
+      "t": 475.19,
+      "text": "There's a general structure that guides the interaction."
+    },
+    {
+      "t": 479.12,
+      "text": "Right."
+    },
+    {
+      "t": 479.7,
+      "text": "But there's room for flexibility as well."
+    },
+    {
+      "t": 481.72,
+      "text": "Okay."
+    },
+    {
+      "t": 481.84,
+      "text": "So it's about finding that balance."
+    },
+    {
+      "t": 483.38,
+      "text": "It is."
+    },
+    {
+      "t": 483.62,
+      "text": "Between structure and spontaneity."
+    },
+    {
+      "t": 486.5,
+      "text": "Exactly."
+    },
+    {
+      "t": 487.63,
+      "text": "Okay."
+    },
+    {
+      "t": 488.19,
+      "text": "Let's talk about the ending the call section."
+    },
+    {
+      "t": 490.23,
+      "text": "Right."
+    },
+    {
+      "t": 490.69,
+      "text": "One phrase that jumps out at me is, is there anything else I can assist you with today?"
+    },
+    {
+      "t": 496.28,
+      "text": "Right."
+    },
+    {
+      "t": 496.8,
+      "text": "I use that all the time, but I never thought about the psychology behind it."
+    },
+    {
+      "t": 500.92,
+      "text": "That seemingly simple question is a powerful tool for creating closure."
+    },
+    {
+      "t": 507.17,
+      "text": "It gives the customer a final opportunity to voice any concerns and it reduces the likelihood of a callback."
+    },
+    {
+      "t": 515.78,
+      "text": "So you're not just being polite."
+    },
+    {
+      "t": 517.49,
+      "text": "Right."
+    },
+    {
+      "t": 518.01,
+      "text": "You're also preventing future problems."
+    },
+    {
+      "t": 519.95,
+      "text": "Proactively."
+    },
+    {
+      "t": 520.81,
+      "text": "Yeah."
+    },
+    {
+      "t": 520.93,
+      "text": "And what about those closing phrases?"
+    },
+    {
+      "t": 522.41,
+      "text": "Okay."
+    },
+    {
+      "t": 523.0,
+      "text": "You know, have a great day."
+    },
+    {
+      "t": 524.62,
+      "text": "Take care."
+    },
+    {
+      "t": 525.28,
+      "text": "Yeah."
+    },
+    {
+      "t": 525.9,
+      "text": "Do those really matter?"
+    },
+    {
+      "t": 527.0,
+      "text": "Well, they might seem like throwaway lines."
+    },
+    {
+      "t": 529.27,
+      "text": "Right."
+    },
+    {
+      "t": 529.75,
+      "text": "They play a crucial role in shaping the final impression that the customer has."
+    },
+    {
+      "t": 535.04,
+      "text": "Wow, you've really got me thinking about the power of language."
+    },
+    {
+      "t": 538.4,
+      "text": "It's amazing, isn't it?"
+    },
+    {
+      "t": 539.64,
+      "text": "Even these seemingly insignificant phrases can have a big impact on the experience."
+    },
+    {
+      "t": 545.89,
+      "text": "Yeah, we've only scratched the surface here."
+    },
+    {
+      "t": 547.74,
+      "text": "Right, it goes way beyond the realm of customer service."
+    },
+    {
+      "t": 550.7,
+      "text": "Absolutely."
+    },
+    {
+      "t": 551.3,
+      "text": "I'm seeing how these principles apply to..."
+    },
+    {
+      "t": 553.65,
+      "text": "All sorts of interactions."
+    },
+    {
+      "t": 554.91,
+      "text": "Yeah."
+    },
+    {
+      "t": 555.47,
+      "text": "Whether it's at work or in your personal life."
+    },
+    {
+      "t": 557.29,
+      "text": "Absolutely."
+    },
+    {
+      "t": 558.13,
+      "text": "Yeah, it's like a blueprint."
+    },
+    {
+      "t": 559.28,
+      "text": "It is."
+    },
+    {
+      "t": 559.68,
+      "text": "For effective communication in any context."
+    },
+    {
+      "t": 562.42,
+      "text": "Right."
+    },
+    {
+      "t": 563.38,
+      "text": "Yeah, it's amazing how powerful these little things can be."
+    },
+    {
+      "t": 567.21,
+      "text": "So as we've been talking, I keep thinking about how much emphasis this document puts on empowering the customer."
+    },
+    {
+      "t": 577.1,
+      "text": "Yes."
+    },
+    {
+      "t": 578.08,
+      "text": "It's woven throughout the entire thing."
+    },
+    {
+      "t": 580.58,
+      "text": "It is."
+    },
+    {
+      "t": 581.24,
+      "text": "You know, phrases like..."
+    },
+    {
+      "t": 583.37,
+      "text": "Is there anything else I can assist you with today?"
+    },
+    {
+      "t": 586.25,
+      "text": "Aren't just about being polite."
+    },
+    {
+      "t": 589.8,
+      "text": "Right."
+    },
+    {
+      "t": 590.28,
+      "text": "They're also subtly shifting the power dynamic."
+    },
+    {
+      "t": 594.22,
+      "text": "Absolutely."
+    },
+    {
+      "t": 594.94,
+      "text": "Instead of the agent, you know, kind of dictating the terms of the interaction."
+    },
+    {
+      "t": 598.85,
+      "text": "They're giving the customer agency."
+    },
+    {
+      "t": 600.23,
+      "text": "Yeah, they're putting them in the driver's seat."
+    },
+    {
+      "t": 601.83,
+      "text": "Exactly."
+    },
+    {
+      "t": 602.55,
+      "text": "It's like we're here to support you, not to control you."
+    },
+    {
+      "t": 606.45,
+      "text": "Exactly."
+    },
+    {
+      "t": 607.47,
+      "text": "And that can make a huge difference."
+    },
+    {
+      "t": 609.11,
+      "text": "Oh, it does."
+    },
+    {
+      "t": 609.75,
+      "text": "In how the customer feels."
+    },
+    {
+      "t": 610.9,
+      "text": "Absolutely."
+    },
+    {
+      "t": 611.52,
+      "text": "Yeah, it makes me wonder if these scripts are tailored to specific demographics or personality types, could you use the same approach with a tech-savvy millennial as you would with someone from a more traditional generation?"
+    },
+    {
+      "t": 629.54,
+      "text": "That's a brilliant question."
+    },
+    {
+      "t": 630.95,
+      "text": "And it speaks to the need for adaptability."
+    },
+    {
+      "t": 633.84,
+      "text": "It does."
+    },
+    {
+      "t": 634.52,
+      "text": "A good agent can sense the customer's communication style and adjust their approach accordingly."
+    },
+    {
+      "t": 640.57,
+      "text": "Exactly."
+    },
+    {
+      "t": 641.39,
+      "text": "So it's not just about memorizing the script."
+    },
+    {
+      "t": 644.19,
+      "text": "Right."
+    },
+    {
+      "t": 644.51,
+      "text": "It's about reading the room."
+    },
+    {
+      "t": 646.35,
+      "text": "It is, yeah."
+    },
+    {
+      "t": 647.05,
+      "text": "So to speak."
+    },
+    {
+      "t": 647.86,
+      "text": "And finding the right tone and level of formality."
+    },
+    {
+      "t": 651.74,
+      "text": "Exactly."
+    },
+    {
+      "t": 652.34,
+      "text": "And that's where experience and emotional intelligence really come into play."
+    },
+    {
+      "t": 657.48,
+      "text": "You know, another thought that keeps popping in my head is the cultural aspect of all this."
+    },
+    {
+      "t": 663.28,
+      "text": "Would these same phrases, strategies be effective in different parts of the world?"
+    },
+    {
+      "t": 667.88,
+      "text": "That's a whole other layer of complexity."
+    },
+    {
+      "t": 670.86,
+      "text": "I can imagine some cultures might find, you know, the level of informality in some of these phrases a bit jarring, while others might crave even more personalization."
+    },
+    {
+      "t": 682.37,
+      "text": "Yes, absolutely."
+    },
+    {
+      "t": 684.08,
+      "text": "It really highlights the importance of cultural sensitivity."
+    },
+    {
+      "t": 686.84,
+      "text": "It does."
+    },
+    {
+      "t": 687.62,
+      "text": "Especially in our increasingly globalized world."
+    },
+    {
+      "t": 690.5,
+      "text": "Yeah."
+    },
+    {
+      "t": 691.26,
+      "text": "So going back to the document itself."
+    },
+    {
+      "t": 693.63,
+      "text": "Okay."
+    },
+    {
+      "t": 694.03,
+      "text": "Is there anything else that stands out to you?"
+    },
+    {
+      "t": 696.87,
+      "text": "What's really struck me is the way this document reframes our perception of customer service."
+    },
+    {
+      "t": 705.34,
+      "text": "It's not just about putting out fires."
+    },
+    {
+      "t": 707.82,
+      "text": "It's about building relationships, creating positive experiences, and fostering a sense of community."
+    },
+    {
+      "t": 714.97,
+      "text": "It's almost like customer service is becoming a form of micro-marketing."
+    },
+    {
+      "t": 719.51,
+      "text": "It is."
+    },
+    {
+      "t": 719.89,
+      "text": "Where every interaction is an opportunity to build brand loyalty and advocacy."
+    },
+    {
+      "t": 725.46,
+      "text": "That's a great way to put it."
+    },
+    {
+      "t": 726.79,
+      "text": "So it's about going beyond just meeting needs."
+    },
+    {
+      "t": 730.25,
+      "text": "It is."
+    },
+    {
+      "t": 730.73,
+      "text": "And creating genuine connections."
+    },
+    {
+      "t": 732.52,
+      "text": "Yeah, for sure."
+    },
+    {
+      "t": 734.33,
+      "text": "I think we've done a pretty deep dive into this topic."
+    },
+    {
+      "t": 737.82,
+      "text": "You know, we've gone from analyzing specific phrases to exploring the psychology of communication."
+    },
+    {
+      "t": 745.25,
+      "text": "And we've even touched on some of the ethical and cultural considerations involved."
+    },
+    {
+      "t": 749.67,
+      "text": "A lot to think about."
+    },
+    {
+      "t": 750.33,
+      "text": "A lot to think about."
+    },
+    {
+      "t": 751.17,
+      "text": "Yeah."
+    },
+    {
+      "t": 751.75,
+      "text": "So to our listener."
+    },
+    {
+      "t": 752.8,
+      "text": "Yes."
+    },
+    {
+      "t": 753.22,
+      "text": "You know, as you navigate the world of customer service or even just your everyday conversation."
+    },
+    {
+      "t": 758.26,
+      "text": "Right."
+    },
+    {
+      "t": 758.78,
+      "text": "Remember the power of language."
+    },
+    {
+      "t": 760.57,
+      "text": "It's huge."
+    },
+    {
+      "t": 761.37,
+      "text": "Yeah."
+    },
+    {
+      "t": 761.45,
+      "text": "Choose your words thoughtfully."
+    },
+    {
+      "t": 763.65,
+      "text": "Listen actively."
+    },
+    {
+      "t": 764.61,
+      "text": "Yes."
+    },
+    {
+      "t": 765.07,
+      "text": "And don't underestimate the impact of a genuine smile."
+    },
+    {
+      "t": 768.52,
+      "text": "It goes a long way."
+    },
+    {
+      "t": 769.74,
+      "text": "Even if it's just over the phone."
+    },
+    {
+      "t": 771.08,
+      "text": "Absolutely."
+    },
+    {
+      "t": 771.66,
+      "text": "And keep in mind that effective communication is an ongoing journey."
+    },
+    {
+      "t": 776.95,
+      "text": "It is."
+    },
+    {
+      "t": 777.31,
+      "text": "Of learning and growth."
+    },
+    {
+      "t": 779.13,
+      "text": "Thanks for joining us."
+    },
+    {
+      "t": 780.35,
+      "text": "Yes."
+    },
+    {
+      "t": 781.01,
+      "text": "Thank you."
+    },
+    {
+      "t": 781.85,
+      "text": "On this deep dive."
+    },
+    {
+      "t": 783.3,
+      "text": "And until next time."
+    },
+    {
+      "t": 784.42,
+      "text": "Yes."
+    },
+    {
+      "t": 785.36,
+      "text": "Keep exploring."
+    },
+    {
+      "t": 786.64,
+      "text": "Keep learning."
+    },
+    {
+      "t": 788.02,
+      "text": "Keep learning."
+    },
+    {
+      "t": 788.72,
+      "text": "And keep those conversations flowing."
+    },
+    {
+      "t": 790.62,
+      "text": "And keep those conversations flowing."
+    },
+    {
+      "t": 792.79,
+      "text": "Yeah."
+    },
+    {
+      "t": 792.93,
+      "text": "It's like we've unlocked a secret code."
+    },
+    {
+      "t": 795.87,
+      "text": "Yeah."
+    },
+    {
+      "t": 796.31,
+      "text": "For human interaction."
+    },
+    {
+      "t": 797.63,
+      "text": "It really is."
+    },
+    {
+      "t": 798.47,
+      "text": "You know, this document is really reframing customer service."
+    },
+    {
+      "t": 803.0,
+      "text": "It is."
+    },
+    {
+      "t": 803.58,
+      "text": "Yeah."
+    },
+    {
+      "t": 803.96,
+      "text": "It's not just about putting out fires."
+    },
+    {
+      "t": 805.62,
+      "text": "No."
+    },
+    {
+      "t": 805.8,
+      "text": "It's about."
+    },
+    {
+      "t": 806.44,
+      "text": "It's about so much more."
+    },
+    {
+      "t": 807.54,
+      "text": "Building relationships."
+    },
+    {
+      "t": 809.33,
+      "text": "Yeah."
+    },
+    {
+      "t": 809.87,
+      "text": "Creating these positive experiences and even fostering a sense of community."
+    },
+    {
+      "t": 814.97,
+      "text": "It's like a whole new way."
+    },
+    {
+      "t": 817.06,
+      "text": "It is."
+    },
+    {
+      "t": 817.76,
+      "text": "Of thinking about."
+    },
+    {
+      "t": 818.44,
+      "text": "So I think we've done a pretty deep dive."
+    },
+    {
+      "t": 820.56,
+      "text": "I think we have."
+    },
+    {
+      "t": 821.92,
+      "text": "You know, into this topic today."
+    },
+    {
+      "t": 824.45,
+      "text": "We've gone from analyzing those specific phrases to the psychology of communication, to the ethical and cultural considerations."
+    },
+    {
+      "t": 834.32,
+      "text": "We've done a lot there."
+    },
+    {
+      "t": 835.4,
+      "text": "So to our listener, as you navigate the world of customer service or even just your everyday conversation."
+    },
+    {
+      "t": 842.29,
+      "text": "Absolutely."
+    },
+    {
+      "t": 843.07,
+      "text": "Remember that power of language."
+    },
+    {
+      "t": 844.71,
+      "text": "It's huge."
+    },
+    {
+      "t": 845.65,
+      "text": "Choose your words thoughtfully and listen actively."
+    },
+    {
+      "t": 849.28,
+      "text": "Mm-hmm."
+    },
+    {
+      "t": 850.13,
+      "text": "Don't underestimate the impact of a genuine smile."
+    },
+    {
+      "t": 853.71,
+      "text": "It goes a long way."
+    },
+    {
+      "t": 854.85,
+      "text": "Even over the phone."
+    },
+    {
+      "t": 855.91,
+      "text": "Even over the phone."
+    },
+    {
+      "t": 857.53,
+      "text": "So thanks for joining us on this deep dive."
+    },
+    {
+      "t": 859.94,
+      "text": "Yes, thank you."
+    },
+    {
+      "t": 860.88,
+      "text": "And until next time, keep exploring."
+    },
+    {
+      "t": 863.52,
+      "text": "Keep learning."
+    },
+    {
+      "t": 864.36,
+      "text": "Keep learning and keep those conversations flowing."
+    },
+    {
+      "t": 867.13,
+      "text": "Absolutely."
+    }
+  ],
+  "lemmas": [
+    [
+      "customer",
+      25
+    ],
+    [
+      "know",
+      19
+    ],
+    [
+      "even",
+      15
+    ],
+    [
+      "phras",
+      13
+    ],
+    [
+      "absolutely",
+      13
+    ],
+    [
+      "keep",
+      12
+    ],
+    [
+      "think",
+      11
+    ],
+    [
+      "feel",
+      11
+    ],
+    [
+      "way",
+      10
+    ],
+    [
+      "exactly",
+      10
+    ],
+    [
+      "weve",
+      10
+    ],
+    [
+      "say",
+      9
+    ],
+    [
+      "service",
+      8
+    ],
+    [
+      "make",
+      8
+    ],
+    [
+      "document",
+      7
+    ],
+    [
+      "word",
+      7
+    ],
+    [
+      "go",
+      7
+    ],
+    [
+      "dive",
+      6
+    ],
+    [
+      "oh",
+      6
+    ],
+    [
+      "genuine",
+      6
+    ],
+    [
+      "good",
+      6
+    ],
+    [
+      "instead",
+      6
+    ],
+    [
+      "communication",
+      6
+    ],
+    [
+      "interaction",
+      6
+    ],
+    [
+      "listen",
+      5
+    ],
+    [
+      "deep",
+      5
+    ],
+    [
+      "world",
+      5
+    ],
+    [
+      "today",
+      5
+    ],
+    [
+      "going",
+      5
+    ],
+    [
+      "language",
+      5
+    ],
+    [
+      "call",
+      5
+    ],
+    [
+      "kind",
+      5
+    ],
+    [
+      "impact",
+      5
+    ],
+    [
+      "help",
+      5
+    ],
+    [
+      "time",
+      5
+    ],
+    [
+      "specific",
+      5
+    ],
+    [
+      "sound",
+      5
+    ],
+    [
+      "ther",
+      5
+    ],
+    [
+      "sense",
+      5
+    ],
+    [
+      "power",
+      5
+    ],
+    [
+      "thank",
+      5
+    ],
+    [
+      "creat",
+      5
+    ],
+    [
+      "put",
+      5
+    ],
+    [
+      "conversation",
+      5
+    ],
+    [
+      "learn",
+      5
+    ],
+    [
+      "speak",
+      4
+    ],
+    [
+      "mak",
+      4
+    ],
+    [
+      "bit",
+      4
+    ],
+    [
+      "build",
+      4
+    ],
+    [
+      "jump",
+      4
+    ],
+    [
+      "little",
+      4
+    ],
+    [
+      "get",
+      4
+    ],
+    [
+      "key",
+      4
+    ],
+    [
+      "phone",
+      4
+    ],
+    [
+      "person",
+      4
+    ],
+    [
+      "find",
+      4
+    ],
+    [
+      "powerful",
+      4
+    ],
+    [
+      "empathy",
+      4
+    ],
+    [
+      "sure",
+      4
+    ],
+    [
+      "effective",
+      4
+    ],
+    [
+      "lot",
+      4
+    ],
+    [
+      "flow",
+      4
+    ],
+    [
+      "cultural",
+      4
+    ],
+    [
+      "practice",
+      3
+    ],
+    [
+      "ready",
+      3
+    ],
+    [
+      "beyond",
+      3
+    ],
+    [
+      "polite",
+      3
+    ],
+    [
+      "use",
+      3
+    ],
+    [
+      "seemingly",
+      3
+    ],
+    [
+      "section",
+      3
+    ],
+    [
+      "assist",
+      3
+    ],
+    [
+      "suggest",
+      3
+    ],
+    [
+      "problem",
+      3
+    ],
+    [
+      "wow",
+      3
+    ],
+    [
+      "also",
+      3
+    ],
+    [
+      "matter",
+      3
+    ],
+    [
+      "personalization",
+      3
+    ],
+    [
+      "long",
+      3
+    ],
+    [
+      "confirm",
+      3
+    ],
+    [
+      "need",
+      3
+    ],
+    [
+      "balance",
+      3
+    ],
+    [
+      "issue",
+      3
+    ],
+    [
+      "one",
+      3
+    ],
+    [
+      "phrase",
+      3
+    ],
+    [
+      "let",
+      3
+    ],
+    [
+      "understand",
+      3
+    ],
+    [
+      "see",
+      3
+    ],
+    [
+      "next",
+      3
+    ],
+    [
+      "level",
+      3
+    ],
+    [
+      "emotion",
+      3
+    ],
+    [
+      "frustrat",
+      3
+    ],
+    [
+      "pretty",
+      3
+    ],
+    [
+      "without",
+      3
+    ],
+    [
+      "question",
+      3
+    ],
+    [
+      "internet",
+      3
+    ],
+    [
+      "giv",
+      3
+    ],
+    [
+      "actively",
+      3
+    ],
+    [
+      "script",
+      3
+    ],
+    [
+      "great",
+      3
+    ],
+    [
+      "experience",
+      3
+    ],
+    [
+      "approach",
+      3
+    ],
+    [
+      "whole",
+      3
+    ],
+    [
+      "thing",
+      3
+    ],
+    [
+      "talk",
+      3
+    ],
+    [
+      "structure",
+      3
+    ],
+    [
+      "anyth",
+      3
+    ],
+    [
+      "else",
+      3
+    ],
+    [
+      "psychology",
+      3
+    ],
+    [
+      "huge",
+      3
+    ],
+    [
+      "done",
+      3
+    ],
+    [
+      "explor",
+      3
+    ],
+    [
+      "look",
+      2
+    ],
+    [
+      "used",
+      2
+    ],
+    [
+      "center",
+      2
+    ],
+    [
+      "shar",
+      2
+    ],
+    [
+      "trust",
+      2
+    ],
+    [
+      "perception",
+      2
+    ],
+    [
+      "psychological",
+      2
+    ],
+    [
+      "simple",
+      2
+    ],
+    [
+      "guid",
+      2
+    ],
+    [
+      "greet",
+      2
+    ],
+    [
+      "difference",
+      2
+    ],
+    [
+      "pause",
+      2
+    ],
+    [
+      "morn",
+      2
+    ],
+    [
+      "form",
+      2
+    ],
+    [
+      "tailor",
+      2
+    ],
+    [
+      "context",
+      2
+    ],
+    [
+      "touch",
+      2
+    ],
+    [
+      "detail",
+      2
+    ],
+    [
+      "security",
+      2
+    ],
+    [
+      "verification",
+      2
+    ],
+    [
+      "youve",
+      2
+    ],
+    [
+      "account",
+      2
+    ],
+    [
+      "number",
+      2
+    ],
+    [
+      "evil",
+      2
+    ],
+    [
+      "explain",
+      2
+    ],
+    [
+      "together",
+      2
+    ],
+    [
+      "strike",
+      2
+    ],
+    [
+      "uh-huh",
+      2
+    ],
+    [
+      "train",
+      2
+    ],
+    [
+      "com",
+      2
+    ],
+    [
+      "stand",
+      2
+    ],
+    [
+      "helpful",
+      2
+    ],
+    [
+      "take",
+      2
+    ],
+    [
+      "technique",
+      2
+    ],
+    [
+      "acknowledge",
+      2
+    ],
+    [
+      "feeling",
+      2
+    ],
+    [
+      "someth",
+      2
+    ],
+    [
+      "show",
+      2
+    ],
+    [
+      "seem",
+      2
+    ],
+    [
+      "situation",
+      2
+    ],
+    [
+      "curious",
+      2
+    ],
+    [
+      "magic",
+      2
+    ],
+    [
+      "formula",
+      2
+    ],
+    [
+      "try",
+      2
+    ],
+    [
+      "connection",
+      2
+    ],
+    [
+      "solution",
+      2
+    ],
+    [
+      "resolve",
+      2
+    ],
+    [
+      "shift",
+      2
+    ],
+    [
+      "transfer",
+      2
+    ],
+    [
+      "important",
+      2
+    ],
+    [
+      "control",
+      2
+    ],
+    [
+      "involv",
+      2
+    ],
+    [
+      "highlight",
+      2
+    ],
+    [
+      "sorry",
+      2
+    ],
+    [
+      "end",
+      2
+    ],
+    [
+      "everyth",
+      2
+    ],
+    [
+      "imagine",
+      2
+    ],
+    [
+      "meet",
+      2
+    ],
+    [
+      "mirror",
+      2
+    ],
+    [
+      "reflect",
+      2
+    ],
+    [
+      "back",
+      2
+    ],
+    [
+      "understood",
+      2
+    ],
+    [
+      "concern",
+      2
+    ],
+    [
+      "read",
+      2
+    ],
+    [
+      "individual",
+      2
+    ],
+    [
+      "almost",
+      2
+    ],
+    [
+      "subtly",
+      2
+    ],
+    [
+      "tone",
+      2
+    ],
+    [
+      "voice",
+      2
+    ],
+    [
+      "entire",
+      2
+    ],
+    [
+      "crucial",
+      2
+    ],
+    [
+      "room",
+      2
+    ],
+    [
+      "final",
+      2
+    ],
+    [
+      "opportunity",
+      2
+    ],
+    [
+      "play",
+      2
+    ],
+    [
+      "amaz",
+      2
+    ],
+    [
+      "much",
+      2
+    ],
+    [
+      "agent",
+      2
+    ],
+    [
+      "refram",
+      2
+    ],
+    [
+      "fir",
+      2
+    ],
+    [
+      "relationship",
+      2
+    ],
+    [
+      "positive",
+      2
+    ],
+    [
+      "experienc",
+      2
+    ],
+    [
+      "foster",
+      2
+    ],
+    [
+      "community",
+      2
+    ],
+    [
+      "topic",
+      2
+    ],
+    [
+      "analyz",
+      2
+    ],
+    [
+      "ethical",
+      2
+    ],
+    [
+      "consideration",
+      2
+    ],
+    [
+      "listener",
+      2
+    ],
+    [
+      "navigate",
+      2
+    ],
+    [
+      "everyday",
+      2
+    ],
+    [
+      "remember",
+      2
+    ],
+    [
+      "choose",
+      2
+    ],
+    [
+      "thoughtfully",
+      2
+    ],
+    [
+      "underestimate",
+      2
+    ],
+    [
+      "smile",
+      2
+    ],
+    [
+      "join",
+      2
+    ],
+    [
+      "us",
+      2
+    ],
+    [
+      "perfect",
+      1
+    ],
+    [
+      "cool",
+      1
+    ],
+    [
+      "common",
+      1
+    ],
+    [
+      "unpack",
+      1
+    ],
+    [
+      "influence",
+      1
+    ],
+    [
+      "company",
+      1
+    ],
+    [
+      "often",
+      1
+    ],
+    [
+      "overlook",
+      1
+    ],
+    [
+      "carefully",
+      1
+    ],
+    [
+      "choreograph",
+      1
+    ],
+    [
+      "dance",
+      1
+    ],
+    [
+      "toward",
+      1
+    ],
+    [
+      "resolution",
+      1
+    ],
+    [
+      "first",
+      1
+    ],
+    [
+      "compar",
+      1
+    ],
+    [
+      "glaz",
+      1
+    ],
+    [
+      "proactive",
+      1
+    ],
+    [
+      "stance",
+      1
+    ],
+    [
+      "impactful",
+      1
+    ],
+    [
+      "though",
+      1
+    ],
+    [
+      "ad",
+      1
+    ],
+    [
+      "slight",
+      1
+    ],
+    [
+      "project",
+      1
+    ],
+    [
+      "interest",
+      1
+    ],
+    [
+      "solve",
+      1
+    ],
+    [
+      "delivery",
+      1
+    ],
+    [
+      "greeting",
+      1
+    ],
+    [
+      "subtle",
+      1
+    ],
+    [
+      "walk",
+      1
+    ],
+    [
+      "friend",
+      1
+    ],
+    [
+      "house",
+      1
+    ],
+    [
+      "afternoon",
+      1
+    ],
+    [
+      "whatever",
+      1
+    ],
+    [
+      "principle",
+      1
+    ],
+    [
+      "fast-pac",
+      1
+    ],
+    [
+      "environment",
+      1
+    ],
+    [
+      "necessary",
+      1
+    ],
+    [
+      "less",
+      1
+    ],
+    [
+      "transparency",
+      1
+    ],
+    [
+      "ask",
+      1
+    ],
+    [
+      "information",
+      1
+    ],
+    [
+      "ensure",
+      1
+    ],
+    [
+      "please",
+      1
+    ],
+    [
+      "last",
+      1
+    ],
+    [
+      "four",
+      1
+    ],
+    [
+      "digit",
+      1
+    ],
+    [
+      "fram",
+      1
+    ],
+    [
+      "goal",
+      1
+    ],
+    [
+      "interrogation",
+      1
+    ],
+    [
+      "tak",
+      1
+    ],
+    [
+      "suspicion",
+      1
+    ],
+    [
+      "replac",
+      1
+    ],
+    [
+      "side",
+      1
+    ],
+    [
+      "risk",
+      1
+    ],
+    [
+      "overdo",
+      1
+    ],
+    [
+      "explanation",
+      1
+    ],
+    [
+      "definitely",
+      1
+    ],
+    [
+      "natural",
+      1
+    ],
+    [
+      "conversational",
+      1
+    ],
+    [
+      "follow",
+      1
+    ],
+    [
+      "protocol",
+      1
+    ],
+    [
+      "sweet",
+      1
+    ],
+    [
+      "spot",
+      1
+    ],
+    [
+      "clarify",
+      1
+    ],
+    [
+      "correctly",
+      1
+    ],
+    [
+      "correct",
+      1
+    ],
+    [
+      "basic",
+      1
+    ],
+    [
+      "label",
+      1
+    ],
+    [
+      "paraphrase",
+      1
+    ],
+    [
+      "delay",
+      1
+    ],
+    [
+      "repeat",
+      1
+    ],
+    [
+      "validat",
+      1
+    ],
+    [
+      "de-escalate",
+      1
+    ],
+    [
+      "tense",
+      1
+    ],
+    [
+      "quickly",
+      1
+    ],
+    [
+      "elicit",
+      1
+    ],
+    [
+      "poorly",
+      1
+    ],
+    [
+      "using",
+      1
+    ],
+    [
+      "open-end",
+      1
+    ],
+    [
+      "example",
+      1
+    ],
+    [
+      "wrong",
+      1
+    ],
+    [
+      "tell",
+      1
+    ],
+    [
+      "happen",
+      1
+    ],
+    [
+      "invit",
+      1
+    ],
+    [
+      "share",
+      1
+    ],
+    [
+      "judg",
+      1
+    ],
+    [
+      "offer",
+      1
+    ],
+    [
+      "emphasiz",
+      1
+    ],
+    [
+      "clear",
+      1
+    ],
+    [
+      "confident",
+      1
+    ],
+    [
+      "presentation",
+      1
+    ],
+    [
+      "focus",
+      1
+    ],
+    [
+      "ability",
+      1
+    ],
+    [
+      "outcome",
+      1
+    ],
+    [
+      "reassur",
+      1
+    ],
+    [
+      "source",
+      1
+    ],
+    [
+      "material",
+      1
+    ],
+    [
+      "process",
+      1
+    ],
+    [
+      "pass",
+      1
+    ],
+    [
+      "around",
+      1
+    ],
+    [
+      "hot",
+      1
+    ],
+    [
+      "potato",
+      1
+    ],
+    [
+      "team",
+      1
+    ],
+    [
+      "figure",
+      1
+    ],
+    [
+      "delicate",
+      1
+    ],
+    [
+      "handle",
+      1
+    ],
+    [
+      "complaint",
+      1
+    ],
+    [
+      "break",
+      1
+    ],
+    [
+      "real",
+      1
+    ],
+    [
+      "gem",
+      1
+    ],
+    [
+      "hear",
+      1
+    ],
+    [
+      "completely",
+      1
+    ],
+    [
+      "connect",
+      1
+    ],
+    [
+      "across",
+      1
+    ],
+    [
+      "response",
+      1
+    ],
+    [
+      "point",
+      1
+    ],
+    [
+      "receiv",
+      1
+    ],
+    [
+      "empty",
+      1
+    ],
+    [
+      "apologi",
+      1
+    ],
+    [
+      "bad",
+      1
+    ],
+    [
+      "apology",
+      1
+    ],
+    [
+      "sincerity",
+      1
+    ],
+    [
+      "authentic",
+      1
+    ],
+    [
+      "personalize",
+      1
+    ],
+    [
+      "generic",
+      1
+    ],
+    [
+      "middle",
+      1
+    ],
+    [
+      "seamlessly",
+      1
+    ],
+    [
+      "transition",
+      1
+    ],
+    [
+      "solution-focus",
+      1
+    ],
+    [
+      "mindset",
+      1
+    ],
+    [
+      "bring",
+      1
+    ],
+    [
+      "attention",
+      1
+    ],
+    [
+      "tough",
+      1
+    ],
+    [
+      "gauge",
+      1
+    ],
+    [
+      "move",
+      1
+    ],
+    [
+      "action",
+      1
+    ],
+    [
+      "dismissive",
+      1
+    ],
+    [
+      "active",
+      1
+    ],
+    [
+      "want",
+      1
+    ],
+    [
+      "fully",
+      1
+    ],
+    [
+      "solv",
+      1
+    ],
+    [
+      "mode",
+      1
+    ],
+    [
+      "cue",
+      1
+    ],
+    [
+      "adapt",
+      1
+    ],
+    [
+      "therapy",
+      1
+    ],
+    [
+      "techniqu",
+      1
+    ],
+    [
+      "body",
+      1
+    ],
+    [
+      "rapport",
+      1
+    ],
+    [
+      "package",
+      1
+    ],
+    [
+      "bet",
+      1
+    ],
+    [
+      "aware",
+      1
+    ],
+    [
+      "overall",
+      1
+    ],
+    [
+      "general",
+      1
+    ],
+    [
+      "flexibility",
+      1
+    ],
+    [
+      "spontaneity",
+      1
+    ],
+    [
+      "never",
+      1
+    ],
+    [
+      "behind",
+      1
+    ],
+    [
+      "tool",
+      1
+    ],
+    [
+      "closure",
+      1
+    ],
+    [
+      "reduc",
+      1
+    ],
+    [
+      "likelihood",
+      1
+    ],
+    [
+      "callback",
+      1
+    ],
+    [
+      "prevent",
+      1
+    ],
+    [
+      "future",
+      1
+    ],
+    [
+      "proactively",
+      1
+    ],
+    [
+      "clos",
+      1
+    ],
+    [
+      "day",
+      1
+    ],
+    [
+      "care",
+      1
+    ],
+    [
+      "throwaway",
+      1
+    ],
+    [
+      "lin",
+      1
+    ],
+    [
+      "role",
+      1
+    ],
+    [
+      "shap",
+      1
+    ],
+    [
+      "impression",
+      1
+    ],
+    [
+      "insignificant",
+      1
+    ],
+    [
+      "big",
+      1
+    ],
+    [
+      "scratch",
+      1
+    ],
+    [
+      "surface",
+      1
+    ],
+    [
+      "realm",
+      1
+    ],
+    [
+      "principl",
+      1
+    ],
+    [
+      "apply",
+      1
+    ],
+    [
+      "sort",
+      1
+    ],
+    [
+      "whether",
+      1
+    ],
+    [
+      "work",
+      1
+    ],
+    [
+      "personal",
+      1
+    ],
+    [
+      "life",
+      1
+    ],
+    [
+      "blueprint",
+      1
+    ],
+    [
+      "emphasis",
+      1
+    ],
+    [
+      "empower",
+      1
+    ],
+    [
+      "woven",
+      1
+    ],
+    [
+      "throughout",
+      1
+    ],
+    [
+      "dynamic",
+      1
+    ],
+    [
+      "dictat",
+      1
+    ],
+    [
+      "term",
+      1
+    ],
+    [
+      "agency",
+      1
+    ],
+    [
+      "driver",
+      1
+    ],
+    [
+      "seat",
+      1
+    ],
+    [
+      "support",
+      1
+    ],
+    [
+      "wonder",
+      1
+    ],
+    [
+      "demographic",
+      1
+    ],
+    [
+      "personality",
+      1
+    ],
+    [
+      "typ",
+      1
+    ],
+    [
+      "tech-savvy",
+      1
+    ],
+    [
+      "millennial",
+      1
+    ],
+    [
+      "someone",
+      1
+    ],
+    [
+      "traditional",
+      1
+    ],
+    [
+      "generation",
+      1
+    ],
+    [
+      "brilliant",
+      1
+    ],
+    [
+      "adaptability",
+      1
+    ],
+    [
+      "style",
+      1
+    ],
+    [
+      "adjust",
+      1
+    ],
+    [
+      "accordingly",
+      1
+    ],
+    [
+      "memoriz",
+      1
+    ],
+    [
+      "formality",
+      1
+    ],
+    [
+      "emotional",
+      1
+    ],
+    [
+      "intelligence",
+      1
+    ],
+    [
+      "come",
+      1
+    ],
+    [
+      "another",
+      1
+    ],
+    [
+      "pop",
+      1
+    ],
+    [
+      "head",
+      1
+    ],
+    [
+      "aspect",
+      1
+    ],
+    [
+      "strategi",
+      1
+    ],
+    [
+      "different",
+      1
+    ],
+    [
+      "part",
+      1
+    ],
+    [
+      "layer",
+      1
+    ],
+    [
+      "complexity",
+      1
+    ],
+    [
+      "cultur",
+      1
+    ],
+    [
+      "informality",
+      1
+    ],
+    [
+      "jar",
+      1
+    ],
+    [
+      "crave",
+      1
+    ],
+    [
+      "importance",
+      1
+    ],
+    [
+      "sensitivity",
+      1
+    ],
+    [
+      "especially",
+      1
+    ],
+    [
+      "increasingly",
+      1
+    ],
+    [
+      "globaliz",
+      1
+    ],
+    [
+      "struck",
+      1
+    ],
+    [
+      "becom",
+      1
+    ],
+    [
+      "micro-market",
+      1
+    ],
+    [
+      "every",
+      1
+    ],
+    [
+      "brand",
+      1
+    ],
+    [
+      "loyalty",
+      1
+    ],
+    [
+      "advocacy",
+      1
+    ],
+    [
+      "mind",
+      1
+    ],
+    [
+      "ongo",
+      1
+    ],
+    [
+      "journey",
+      1
+    ],
+    [
+      "growth",
+      1
+    ],
+    [
+      "unlock",
+      1
+    ],
+    [
+      "secret",
+      1
+    ],
+    [
+      "code",
+      1
+    ],
+    [
+      "human",
+      1
+    ],
+    [
+      "new",
+      1
+    ],
+    [
+      "mm-hmm",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 2343,
+    "unique_words": 461,
+    "duration_min": 14.6
+  }
+}

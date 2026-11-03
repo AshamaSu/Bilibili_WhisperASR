@@ -1,0 +1,8801 @@
+{
+  "file_stem": "66_HumanResourceConversationLearnEnglishWithPodcast",
+  "no": 66,
+  "title_keywords": [
+    [
+      "human",
+      "human"
+    ],
+    [
+      "resource",
+      "resource"
+    ],
+    [
+      "conversation",
+      "conversation"
+    ],
+    [
+      "learn",
+      "learn"
+    ],
+    [
+      "english",
+      "english"
+    ],
+    [
+      "podcast",
+      "podcast"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "exactly",
+      46,
+      "B1+"
+    ],
+    [
+      "people",
+      45,
+      "A2"
+    ],
+    [
+      "good",
+      35,
+      "A2"
+    ],
+    [
+      "get",
+      34,
+      "A2"
+    ],
+    [
+      "make",
+      34,
+      "A2"
+    ],
+    [
+      "talk",
+      33,
+      "A2"
+    ],
+    [
+      "need",
+      29,
+      "A2"
+    ],
+    [
+      "companies",
+      26,
+      "B1+"
+    ],
+    [
+      "employees",
+      26,
+      "B1+"
+    ],
+    [
+      "work",
+      26,
+      "A2"
+    ],
+    [
+      "feel",
+      25,
+      "A2"
+    ],
+    [
+      "makes",
+      25,
+      "B1+"
+    ],
+    [
+      "things",
+      25,
+      "A2"
+    ],
+    [
+      "reviews",
+      24,
+      "B1+"
+    ],
+    [
+      "one",
+      22,
+      "A2"
+    ],
+    [
+      "performance",
+      22,
+      "B1+"
+    ],
+    [
+      "company",
+      21,
+      "B1+"
+    ],
+    [
+      "employee",
+      21,
+      "B1+"
+    ],
+    [
+      "everyone",
+      21,
+      "A2"
+    ],
+    [
+      "know",
+      21,
+      "A2"
+    ],
+    [
+      "feedback",
+      20,
+      "B1+"
+    ],
+    [
+      "job",
+      19,
+      "A2"
+    ],
+    [
+      "oh",
+      19,
+      "B1+"
+    ],
+    [
+      "think",
+      19,
+      "A2"
+    ],
+    [
+      "open",
+      18,
+      "A2"
+    ],
+    [
+      "see",
+      18,
+      "A2"
+    ],
+    [
+      "culture",
+      17,
+      "A2"
+    ],
+    [
+      "sure",
+      17,
+      "A2"
+    ],
+    [
+      "want",
+      17,
+      "A2"
+    ],
+    [
+      "we've",
+      17,
+      "B1+"
+    ],
+    [
+      "important",
+      16,
+      "A2"
+    ],
+    [
+      "mean",
+      16,
+      "A2"
+    ],
+    [
+      "say",
+      16,
+      "A2"
+    ],
+    [
+      "way",
+      16,
+      "A2"
+    ],
+    [
+      "even",
+      15,
+      "B1+"
+    ],
+    [
+      "hr",
+      15,
+      "B1+"
+    ],
+    [
+      "interviews",
+      15,
+      "B1+"
+    ],
+    [
+      "there's",
+      15,
+      "B1+"
+    ],
+    [
+      "workplace",
+      14,
+      "B1+"
+    ],
+    [
+      "go",
+      13,
+      "A2"
+    ],
+    [
+      "shows",
+      13,
+      "A2"
+    ],
+    [
+      "hiring",
+      12,
+      "B1+"
+    ],
+    [
+      "talent",
+      12,
+      "B1+"
+    ],
+    [
+      "whole",
+      12,
+      "A2"
+    ],
+    [
+      "communication",
+      11,
+      "B1+"
+    ],
+    [
+      "deep",
+      11,
+      "A2"
+    ],
+    [
+      "dive",
+      11,
+      "B1+"
+    ],
+    [
+      "exit",
+      11,
+      "B1+"
+    ],
+    [
+      "much",
+      11,
+      "A2"
+    ],
+    [
+      "part",
+      11,
+      "A2"
+    ],
+    [
+      "phrases",
+      11,
+      "B1+"
+    ],
+    [
+      "valued",
+      11,
+      "B1+"
+    ],
+    [
+      "absolutely",
+      10,
+      "B1+"
+    ],
+    [
+      "checking",
+      10,
+      "A2"
+    ],
+    [
+      "creating",
+      10,
+      "B1+"
+    ],
+    [
+      "different",
+      10,
+      "A2"
+    ],
+    [
+      "goals",
+      10,
+      "B1+"
+    ],
+    [
+      "instead",
+      10,
+      "A2"
+    ],
+    [
+      "keep",
+      10,
+      "A2"
+    ],
+    [
+      "lot",
+      10,
+      "A2"
+    ],
+    [
+      "process",
+      10,
+      "B1+"
+    ],
+    [
+      "professional",
+      10,
+      "B1+"
+    ],
+    [
+      "sense",
+      10,
+      "A2"
+    ],
+    [
+      "start",
+      10,
+      "A2"
+    ],
+    [
+      "candidate",
+      9,
+      "B1+"
+    ],
+    [
+      "clear",
+      9,
+      "A2"
+    ],
+    [
+      "comes",
+      9,
+      "B1+"
+    ],
+    [
+      "development",
+      9,
+      "B1+"
+    ],
+    [
+      "finding",
+      9,
+      "A2"
+    ],
+    [
+      "focus",
+      9,
+      "B1+"
+    ],
+    [
+      "great",
+      9,
+      "A2"
+    ],
+    [
+      "hearing",
+      9,
+      "A2"
+    ],
+    [
+      "human",
+      9,
+      "B1+"
+    ],
+    [
+      "interesting",
+      9,
+      "A2"
+    ],
+    [
+      "opportunities",
+      9,
+      "B1+"
+    ],
+    [
+      "understanding",
+      9,
+      "A2"
+    ],
+    [
+      "attracting",
+      8,
+      "B1+"
+    ],
+    [
+      "background",
+      8,
+      "B1+"
+    ],
+    [
+      "behind",
+      8,
+      "A2"
+    ],
+    [
+      "benefits",
+      8,
+      "B1+"
+    ],
+    [
+      "candidates",
+      8,
+      "B1+"
+    ],
+    [
+      "conflict",
+      8,
+      "B1+"
+    ],
+    [
+      "conversation",
+      8,
+      "B1+"
+    ],
+    [
+      "covered",
+      8,
+      "A2"
+    ],
+    [
+      "create",
+      8,
+      "A2"
+    ],
+    [
+      "day",
+      8,
+      "A2"
+    ],
+    [
+      "language",
+      8,
+      "A2"
+    ],
+    [
+      "leaving",
+      8,
+      "B1+"
+    ],
+    [
+      "maybe",
+      8,
+      "A2"
+    ],
+    [
+      "policy",
+      8,
+      "B1+"
+    ],
+    [
+      "safe",
+      8,
+      "A2"
+    ],
+    [
+      "salary",
+      8,
+      "B1+"
+    ],
+    [
+      "seems",
+      8,
+      "A2"
+    ],
+    [
+      "set",
+      8,
+      "B1+"
+    ],
+    [
+      "skills",
+      8,
+      "A2"
+    ],
+    [
+      "someone",
+      8,
+      "A2"
+    ],
+    [
+      "something",
+      8,
+      "B1+"
+    ],
+    [
+      "sometimes",
+      8,
+      "B1+"
+    ],
+    [
+      "speak",
+      8,
+      "A2"
+    ],
+    [
+      "stay",
+      8,
+      "A2"
+    ],
+    [
+      "ah",
+      7,
+      "B1+"
+    ],
+    [
+      "also",
+      7,
+      "A2"
+    ],
+    [
+      "back",
+      7,
+      "A2"
+    ],
+    [
+      "chance",
+      7,
+      "A2"
+    ],
+    [
+      "definitely",
+      7,
+      "B1+"
+    ],
+    [
+      "door",
+      7,
+      "A2"
+    ],
+    [
+      "every",
+      7,
+      "A2"
+    ],
+    [
+      "experience",
+      7,
+      "A2"
+    ],
+    [
+      "grow",
+      7,
+      "A2"
+    ],
+    [
+      "happens",
+      7,
+      "A2"
+    ],
+    [
+      "honest",
+      7,
+      "A2"
+    ],
+    [
+      "learn",
+      7,
+      "A2"
+    ],
+    [
+      "look",
+      7,
+      "A2"
+    ],
+    [
+      "new",
+      7,
+      "A2"
+    ],
+    [
+      "phrase",
+      7,
+      "B1+"
+    ],
+    [
+      "point",
+      7,
+      "A2"
+    ],
+    [
+      "resume",
+      7,
+      "B1+"
+    ],
+    [
+      "terms",
+      7,
+      "A2"
+    ],
+    [
+      "use",
+      7,
+      "A2"
+    ],
+    [
+      "welcome",
+      7,
+      "A2"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "deep dive",
+      "count": 10,
+      "example": "Hey everyone and welcome to The Deep Dive.",
+      "t": 13.99
+    },
+    {
+      "text": "performance reviews",
+      "count": 9,
+      "example": "Performance reviews.",
+      "t": 232.72
+    },
+    {
+      "text": "exit interviews",
+      "count": 8,
+      "example": "Things like an open door policy, exit interviews and diversity and inclusion are key.",
+      "t": 319.36
+    },
+    {
+      "text": "make sure",
+      "count": 7,
+      "example": "How do we make sure human judgment isn't lost in the process?",
+      "t": 140.08
+    },
+    {
+      "text": "professional development",
+      "count": 7,
+      "example": "That's where terms like performance review, workforce engagement, and professional development come in.",
+      "t": 227.82
+    },
+    {
+      "text": "let's talk",
+      "count": 6,
+      "example": "Let's talk about that talent acquisition thing.",
+      "t": 83.78
+    },
+    {
+      "text": "employee relations",
+      "count": 6,
+      "example": "Well, that's where having good employee relations practices is so important.",
+      "t": 314.97
+    },
+    {
+      "text": "open door",
+      "count": 6,
+      "example": "Things like an open door policy, exit interviews and diversity and inclusion are key.",
+      "t": 319.36
+    },
+    {
+      "text": "makes sense",
+      "count": 6,
+      "example": "Makes sense.",
+      "t": 390.08
+    },
+    {
+      "text": "it's about making",
+      "count": 6,
+      "example": "It's about making a workplace where everyone feels valued and respected.",
+      "t": 406.07
+    }
+  ],
+  "phrases": [
+    {
+      "text": "deep dive",
+      "count": 10,
+      "example": "Hey everyone and welcome to The Deep Dive.",
+      "t": 13.99
+    },
+    {
+      "text": "performance reviews",
+      "count": 9,
+      "example": "Performance reviews.",
+      "t": 232.72
+    },
+    {
+      "text": "exit interviews",
+      "count": 8,
+      "example": "Things like an open door policy, exit interviews and diversity and inclusion are key.",
+      "t": 319.36
+    },
+    {
+      "text": "make sure",
+      "count": 7,
+      "example": "How do we make sure human judgment isn't lost in the process?",
+      "t": 140.08
+    },
+    {
+      "text": "professional development",
+      "count": 7,
+      "example": "That's where terms like performance review, workforce engagement, and professional development come in.",
+      "t": 227.82
+    },
+    {
+      "text": "let's talk",
+      "count": 6,
+      "example": "Let's talk about that talent acquisition thing.",
+      "t": 83.78
+    },
+    {
+      "text": "employee relations",
+      "count": 6,
+      "example": "Well, that's where having good employee relations practices is so important.",
+      "t": 314.97
+    },
+    {
+      "text": "open door",
+      "count": 6,
+      "example": "Things like an open door policy, exit interviews and diversity and inclusion are key.",
+      "t": 319.36
+    },
+    {
+      "text": "makes sense",
+      "count": 6,
+      "example": "Makes sense.",
+      "t": 390.08
+    },
+    {
+      "text": "it's about making",
+      "count": 6,
+      "example": "It's about making a workplace where everyone feels valued and respected.",
+      "t": 406.07
+    },
+    {
+      "text": "it's about creating",
+      "count": 6,
+      "example": "It's about creating a culture where everyone feels like they belong.",
+      "t": 413.56
+    },
+    {
+      "text": "hr phrases",
+      "count": 5,
+      "example": "Today we're taking a look at those HR phrases we hear all the time at work, almost like they're a secret code.",
+      "t": 16.35
+    },
+    {
+      "text": "talent acquisition",
+      "count": 5,
+      "example": "Like talent acquisition.",
+      "t": 48.24
+    },
+    {
+      "text": "we've covered",
+      "count": 5,
+      "example": "OK, so we've covered performance reviews and professional development.",
+      "t": 306.7
+    },
+    {
+      "text": "diversity and inclusion",
+      "count": 5,
+      "example": "Things like an open door policy, exit interviews and diversity and inclusion are key.",
+      "t": 319.36
+    },
+    {
+      "text": "open communication",
+      "count": 5,
+      "example": "You need a culture built on trust and open communication.",
+      "t": 340.73
+    },
+    {
+      "text": "everyone feels",
+      "count": 5,
+      "example": "It's about making a workplace where everyone feels valued and respected.",
+      "t": 406.07
+    },
+    {
+      "text": "new hires",
+      "count": 5,
+      "example": "Videos, quizzes, maybe even a forum for new hires to connect.",
+      "t": 1526.66
+    },
+    {
+      "text": "company culture",
+      "count": 4,
+      "example": "OK. Starts with making a job description that doesn't just list duties, but shows off the company culture and what makes that job special.",
+      "t": 92.71
+    },
+    {
+      "text": "maybe even",
+      "count": 4,
+      "example": "Oh, so like reviewing resumes, doing phone interviews, maybe even those online tests.",
+      "t": 127.71
+    },
+    {
+      "text": "let's say",
+      "count": 4,
+      "example": "Okay, so let's say you get through the screening process.",
+      "t": 168.75
+    },
+    {
+      "text": "background check",
+      "count": 4,
+      "example": "The background check.",
+      "t": 182.3
+    },
+    {
+      "text": "instead of waiting",
+      "count": 4,
+      "example": "Instead of waiting for that one big stressful review.",
+      "t": 263.87
+    },
+    {
+      "text": "door policy",
+      "count": 4,
+      "example": "Things like an open door policy, exit interviews and diversity and inclusion are key.",
+      "t": 319.36
+    },
+    {
+      "text": "open door policy",
+      "count": 4,
+      "example": "Things like an open door policy, exit interviews and diversity and inclusion are key.",
+      "t": 319.36
+    },
+    {
+      "text": "feel safe",
+      "count": 4,
+      "example": "Employees need to feel safe speaking up without worrying about getting in trouble.",
+      "t": 344.75
+    },
+    {
+      "text": "people feel",
+      "count": 4,
+      "example": "So it's more about creating an environment where people feel heard.",
+      "t": 349.6
+    },
+    {
+      "text": "covered a lot",
+      "count": 4,
+      "example": "We've covered a lot from attracting talent to managing performance and making a workplace inclusive.",
+      "t": 419.17
+    },
+    {
+      "text": "we've talked",
+      "count": 4,
+      "example": "We've talked about what the terms mean, but I'm curious to see how they reflect those bigger trends and changes happening in the workplace.",
+      "t": 444.29
+    },
+    {
+      "text": "it's true",
+      "count": 3,
+      "example": "It's true.",
+      "t": 22.46
+    },
+    {
+      "text": "job description",
+      "count": 3,
+      "example": "OK. Starts with making a job description that doesn't just list duties, but shows off the company culture and what makes that job special.",
+      "t": 92.71
+    },
+    {
+      "text": "it's hard",
+      "count": 3,
+      "example": "It's hard to measure those things with just an algorithm.",
+      "t": 166.71
+    },
+    {
+      "text": "performance review",
+      "count": 3,
+      "example": "That's where terms like performance review, workforce engagement, and professional development come in.",
+      "t": 227.82
+    },
+    {
+      "text": "lot of companies",
+      "count": 3,
+      "example": "A lot of companies are doing more frequent informal check-ins now.",
+      "t": 243.43
+    },
+    {
+      "text": "getting feedback",
+      "count": 3,
+      "example": "It's like getting feedback on a rough draft instead of waiting for the final grade.",
+      "t": 271.95
+    },
+    {
+      "text": "it's like getting",
+      "count": 3,
+      "example": "It's like getting feedback on a rough draft instead of waiting for the final grade.",
+      "t": 271.95
+    },
+    {
+      "text": "talked about open",
+      "count": 3,
+      "example": "Okay, so we talked about open communication and learning from people who are leaving.",
+      "t": 391.3
+    },
+    {
+      "text": "feels valued",
+      "count": 3,
+      "example": "It's about making a workplace where everyone feels valued and respected.",
+      "t": 406.07
+    },
+    {
+      "text": "everyone feels valued",
+      "count": 3,
+      "example": "It's about making a workplace where everyone feels valued and respected.",
+      "t": 406.07
+    },
+    {
+      "text": "creating a culture",
+      "count": 3,
+      "example": "It's about creating a culture where everyone feels like they belong.",
+      "t": 413.56
+    },
+    {
+      "text": "companies make",
+      "count": 3,
+      "example": "I'm wondering how companies make sure they're not missing out on great candidates who maybe don't fit a certain mold.",
+      "t": 497.31
+    },
+    {
+      "text": "there's a conflict",
+      "count": 3,
+      "example": "Now what about when things aren't going so well like when there's a conflict between employees.",
+      "t": 625.15
+    },
+    {
+      "text": "conflict between employees",
+      "count": 3,
+      "example": "Now what about when things aren't going so well like when there's a conflict between employees.",
+      "t": 625.15
+    },
+    {
+      "text": "create a culture",
+      "count": 3,
+      "example": "You have to create a culture where people feel safe to speak their minds without being afraid of what will happen.",
+      "t": 662.84
+    },
+    {
+      "text": "safe to speak",
+      "count": 3,
+      "example": "You have to create a culture where people feel safe to speak their minds without being afraid of what will happen.",
+      "t": 662.84
+    },
+    {
+      "text": "making sure",
+      "count": 3,
+      "example": "So it's about making sure open communication is encouraged and respected.",
+      "t": 669.11
+    },
+    {
+      "text": "i've noticed",
+      "count": 3,
+      "example": "Yeah, I've noticed that, too.",
+      "t": 758.12
+    },
+    {
+      "text": "employees feel",
+      "count": 3,
+      "example": "Employees feel more confident knowing they're being paid fairly.",
+      "t": 788.03
+    },
+    {
+      "text": "feel valued",
+      "count": 3,
+      "example": "When employees feel valued and supported, they tend to be more engaged and productive and they stay with the company longer.",
+      "t": 847.19
+    },
+    {
+      "text": "exit interview",
+      "count": 3,
+      "example": "And lastly, let's think about that phrase, we're sorry to see you leave, often said during an exit interview.",
+      "t": 1012.85
+    },
+    {
+      "text": "can't forget",
+      "count": 3,
+      "example": "Applications will be accepted until... Can't forget that.",
+      "t": 1372.33
+    },
+    {
+      "text": "welcome aboard",
+      "count": 3,
+      "example": "And you hear, welcome aboard.",
+      "t": 1475.84
+    },
+    {
+      "text": "today we're",
+      "count": 2,
+      "example": "Today we're taking a look at those HR phrases we hear all the time at work, almost like they're a secret code.",
+      "t": 16.35
+    },
+    {
+      "text": "job hunting",
+      "count": 2,
+      "example": "Whether you're job hunting, managing a team, or just figuring out your own career.",
+      "t": 33.52
+    },
+    {
+      "text": "we've got",
+      "count": 2,
+      "example": "We've got a ton of sources here that break down these HR terms.",
+      "t": 41.17
+    },
+    {
+      "text": "job market",
+      "count": 2,
+      "example": "The whole shift to Callan acquisition shows how the job market is changing, you know.",
+      "t": 56.29
+    },
+    {
+      "text": "companies are realizing",
+      "count": 2,
+      "example": "Companies are realizing that finding the right people isn't just about filling a job.",
+      "t": 62.1
+    },
+    {
+      "text": "it's about attracting",
+      "count": 2,
+      "example": "It's about attracting and keeping the best talent.",
+      "t": 66.17
+    },
+    {
+      "text": "attracting and keeping",
+      "count": 2,
+      "example": "It's about attracting and keeping the best talent.",
+      "t": 66.17
+    },
+    {
+      "text": "companies want",
+      "count": 2,
+      "example": "Just like you'd want to look good on a dating app, companies want to do the same with their job descriptions.",
+      "t": 105.3
+    },
+    {
+      "text": "want people",
+      "count": 2,
+      "example": "They want people who fit in culturally, too.",
+      "t": 113.35
+    },
+    {
+      "text": "candidate screening",
+      "count": 2,
+      "example": "Then comes the actual dating part, the candidate screening, I guess.",
+      "t": 116.93
+    },
+    {
+      "text": "human judgment",
+      "count": 2,
+      "example": "How do we make sure human judgment isn't lost in the process?",
+      "t": 140.08
+    },
+    {
+      "text": "good point",
+      "count": 2,
+      "example": "That's such a good point.",
+      "t": 144.29
+    },
+    {
+      "text": "make things",
+      "count": 2,
+      "example": "Technology can definitely help make things faster and more efficient.",
+      "t": 145.43
+    },
+    {
+      "text": "cultural fit",
+      "count": 2,
+      "example": "But it's still so important to have that human intuition to be able to assess those soft skills and that cultural fit.",
+      "t": 149.97
+    },
+    {
+      "text": "salary benefits",
+      "count": 2,
+      "example": "Ideally, you get that offer letter, you know, the one that outlines all the terms, salary, benefits, start date.",
+      "t": 173.53
+    },
+    {
+      "text": "there's one",
+      "count": 2,
+      "example": "Before the celebration starts, there's one more thing.",
+      "t": 180.1
+    },
+    {
+      "text": "oh wow",
+      "count": 2,
+      "example": "Oh, wow.",
+      "t": 191.12
+    },
+    {
+      "text": "red flag",
+      "count": 2,
+      "example": "Candidates need to be honest about anything that might be a red flag.",
+      "t": 203.15
+    },
+    {
+      "text": "companies need",
+      "count": 2,
+      "example": "And companies need to be clear about what their background check policies are.",
+      "t": 208.02
+    },
+    {
+      "text": "it's a two-way",
+      "count": 2,
+      "example": "So it's a two-way street built on trust and communication.",
+      "t": 211.96
+    },
+    {
+      "text": "built on trust",
+      "count": 2,
+      "example": "So it's a two-way street built on trust and communication.",
+      "t": 211.96
+    },
+    {
+      "text": "hiring process",
+      "count": 2,
+      "example": "So let's say we've gone through the whole hiring process.",
+      "t": 219.81
+    },
+    {
+      "text": "one conversation",
+      "count": 2,
+      "example": "And it's hard to cover a whole year's worth of work in one conversation.",
+      "t": 256.51
+    },
+    {
+      "text": "work in one",
+      "count": 2,
+      "example": "And it's hard to cover a whole year's worth of work in one conversation.",
+      "t": 256.51
+    },
+    {
+      "text": "makes more sense",
+      "count": 2,
+      "example": "It makes more sense to talk about things regularly, right?",
+      "t": 261.0
+    },
+    {
+      "text": "talk about things",
+      "count": 2,
+      "example": "It makes more sense to talk about things regularly, right?",
+      "t": 261.0
+    },
+    {
+      "text": "chance to give",
+      "count": 2,
+      "example": "It gives you a chance to give feedback, course correct, and talk about goals more often.",
+      "t": 267.39
+    },
+    {
+      "text": "talk about goals",
+      "count": 2,
+      "example": "It gives you a chance to give feedback, course correct, and talk about goals more often.",
+      "t": 267.39
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.45,
+      "text": "Listen."
+    },
+    {
+      "t": 8.52,
+      "text": "Practice."
+    },
+    {
+      "t": 9.56,
+      "text": "Speak."
+    },
+    {
+      "t": 10.6,
+      "text": "Practice makes you perfect."
+    },
+    {
+      "t": 13.99,
+      "text": "Hey everyone and welcome to The Deep Dive."
+    },
+    {
+      "t": 16.35,
+      "text": "Today we're taking a look at those HR phrases we hear all the time at work, almost like they're a secret code."
+    },
+    {
+      "t": 22.46,
+      "text": "It's true."
+    },
+    {
+      "t": 23.58,
+      "text": "Those phrases are really important to how companies work."
+    },
+    {
+      "t": 26.76,
+      "text": "But they're more than just jargon."
+    },
+    {
+      "t": 28.94,
+      "text": "Yeah, if you can understand them, they can make a real difference."
+    },
+    {
+      "t": 32.26,
+      "text": "Huge difference."
+    },
+    {
+      "t": 33.52,
+      "text": "Whether you're job hunting, managing a team, or just figuring out your own career."
+    },
+    {
+      "t": 38.17,
+      "text": "And that's exactly why we're doing this deep dive."
+    },
+    {
+      "t": 40.59,
+      "text": "Right on."
+    },
+    {
+      "t": 41.17,
+      "text": "We've got a ton of sources here that break down these HR terms."
+    },
+    {
+      "t": 44.62,
+      "text": "Yeah."
+    },
+    {
+      "t": 45.12,
+      "text": "I have to say, some of them really caught my eye."
+    },
+    {
+      "t": 47.48,
+      "text": "Like what?"
+    },
+    {
+      "t": 48.24,
+      "text": "Like talent acquisition."
+    },
+    {
+      "t": 49.46,
+      "text": "It just sounds so much more, I don't know, strategic than plain old hiring."
+    },
+    {
+      "t": 55.11,
+      "text": "It is."
+    },
+    {
+      "t": 56.29,
+      "text": "The whole shift to Callan acquisition shows how the job market is changing, you know."
+    },
+    {
+      "t": 61.46,
+      "text": "How so?"
+    },
+    {
+      "t": 62.1,
+      "text": "Companies are realizing that finding the right people isn't just about filling a job."
+    },
+    {
+      "t": 66.17,
+      "text": "It's about attracting and keeping the best talent."
+    },
+    {
+      "t": 68.84,
+      "text": "Ah, so it's not just about sending out your resume and crossing your fingers anymore."
+    },
+    {
+      "t": 72.3,
+      "text": "Not at all."
+    },
+    {
+      "t": 73.78,
+      "text": "So where do we even begin with all these terms?"
+    },
+    {
+      "t": 77.03,
+      "text": "OK, well, our sources lay out all these different HR functions."
+    },
+    {
+      "t": 80.56,
+      "text": "Right."
+    },
+    {
+      "t": 81.12,
+      "text": "Starting with recruitment and hiring."
+    },
+    {
+      "t": 83.04,
+      "text": "Right."
+    },
+    {
+      "t": 83.78,
+      "text": "Let's talk about that talent acquisition thing."
+    },
+    {
+      "t": 85.78,
+      "text": "What does that actually mean?"
+    },
+    {
+      "t": 87.08,
+      "text": "It's like a whole approach to finding the best person for a job."
+    },
+    {
+      "t": 92.71,
+      "text": "OK. Starts with making a job description that doesn't just list duties, but shows off the company culture and what makes that job special."
+    },
+    {
+      "t": 101.31,
+      "text": "So kind of like a company's dating profile."
+    },
+    {
+      "t": 103.84,
+      "text": "I like that."
+    },
+    {
+      "t": 104.38,
+      "text": "Yeah."
+    },
+    {
+      "t": 105.3,
+      "text": "Just like you'd want to look good on a dating app, companies want to do the same with their job descriptions."
+    },
+    {
+      "t": 110.02,
+      "text": "Attract the right candidates."
+    },
+    {
+      "t": 111.33,
+      "text": "Exactly."
+    },
+    {
+      "t": 112.05,
+      "text": "They don't just want qualified people."
+    },
+    {
+      "t": 113.35,
+      "text": "They want people who fit in culturally, too."
+    },
+    {
+      "t": 115.97,
+      "text": "Got it."
+    },
+    {
+      "t": 116.93,
+      "text": "Then comes the actual dating part, the candidate screening, I guess."
+    },
+    {
+      "t": 121.11,
+      "text": "Right."
+    },
+    {
+      "t": 121.86,
+      "text": "That's when employers go through applications and look for candidates who have the skills and experience they need."
+    },
+    {
+      "t": 127.71,
+      "text": "Oh, so like reviewing resumes, doing phone interviews, maybe even those online tests."
+    },
+    {
+      "t": 132.79,
+      "text": "Yeah, exactly."
+    },
+    {
+      "t": 133.99,
+      "text": "That seems like it could get tricky, though, with AI and algorithms being used more and more in hiring."
+    },
+    {
+      "t": 138.8,
+      "text": "It can, definitely."
+    },
+    {
+      "t": 140.08,
+      "text": "How do we make sure human judgment isn't lost in the process?"
+    },
+    {
+      "t": 144.29,
+      "text": "That's such a good point."
+    },
+    {
+      "t": 145.43,
+      "text": "Technology can definitely help make things faster and more efficient."
+    },
+    {
+      "t": 149.61,
+      "text": "Right."
+    },
+    {
+      "t": 149.97,
+      "text": "But it's still so important to have that human intuition to be able to assess those soft skills and that cultural fit."
+    },
+    {
+      "t": 156.51,
+      "text": "So it's not all about checking boxes on a resume?"
+    },
+    {
+      "t": 159.38,
+      "text": "Nope, not at all."
+    },
+    {
+      "t": 160.29,
+      "text": "Yeah."
+    },
+    {
+      "t": 160.97,
+      "text": "Companies want people who can think critically, solve problems, and adapt to new situations."
+    },
+    {
+      "t": 166.35,
+      "text": "Right."
+    },
+    {
+      "t": 166.71,
+      "text": "It's hard to measure those things with just an algorithm."
+    },
+    {
+      "t": 168.75,
+      "text": "Okay, so let's say you get through the screening process."
+    },
+    {
+      "t": 171.85,
+      "text": "Great."
+    },
+    {
+      "t": 172.33,
+      "text": "What happens next?"
+    },
+    {
+      "t": 173.53,
+      "text": "Ideally, you get that offer letter, you know, the one that outlines all the terms, salary, benefits, start date."
+    },
+    {
+      "t": 179.22,
+      "text": "Yes."
+    },
+    {
+      "t": 179.72,
+      "text": "Hold on."
+    },
+    {
+      "t": 180.1,
+      "text": "Before the celebration starts, there's one more thing."
+    },
+    {
+      "t": 182.18,
+      "text": "Yeah."
+    },
+    {
+      "t": 182.3,
+      "text": "The background check."
+    },
+    {
+      "t": 183.75,
+      "text": "Ah, yes, the background check."
+    },
+    {
+      "t": 185.45,
+      "text": "I remember one of our sources talked about an offer being pulled back because of something that popped up in a background check."
+    },
+    {
+      "t": 191.12,
+      "text": "Oh, wow."
+    },
+    {
+      "t": 192.24,
+      "text": "It seems like that could be a real problem for some people."
+    },
+    {
+      "t": 194.56,
+      "text": "It can be."
+    },
+    {
+      "t": 195.1,
+      "text": "That's why being upfront and honest during the whole application process is so important."
+    },
+    {
+      "t": 201.23,
+      "text": "From both sides."
+    },
+    {
+      "t": 202.07,
+      "text": "Yes."
+    },
+    {
+      "t": 203.15,
+      "text": "Candidates need to be honest about anything that might be a red flag."
+    },
+    {
+      "t": 207.09,
+      "text": "Right."
+    },
+    {
+      "t": 208.02,
+      "text": "And companies need to be clear about what their background check policies are."
+    },
+    {
+      "t": 211.96,
+      "text": "So it's a two-way street built on trust and communication."
+    },
+    {
+      "t": 215.16,
+      "text": "Exactly."
+    },
+    {
+      "t": 216.25,
+      "text": "Both sides have to be open and honest to make sure things work out."
+    },
+    {
+      "t": 219.39,
+      "text": "All right."
+    },
+    {
+      "t": 219.81,
+      "text": "So let's say we've gone through the whole hiring process."
+    },
+    {
+      "t": 222.33,
+      "text": "You got your dream team."
+    },
+    {
+      "t": 223.49,
+      "text": "We got the team."
+    },
+    {
+      "t": 224.39,
+      "text": "Now what?"
+    },
+    {
+      "t": 225.41,
+      "text": "Now it's all about employee management."
+    },
+    {
+      "t": 227.82,
+      "text": "That's where terms like performance review, workforce engagement, and professional development come in."
+    },
+    {
+      "t": 232.72,
+      "text": "Performance reviews."
+    },
+    {
+      "t": 233.96,
+      "text": "Everyone's got a story about those, right?"
+    },
+    {
+      "t": 235.66,
+      "text": "For sure."
+    },
+    {
+      "t": 236.21,
+      "text": "I noticed that some of our sources mentioned that those reviews are changing."
+    },
+    {
+      "t": 240.01,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 240.29,
+      "text": "It's not just a once-a-year thing anymore."
+    },
+    {
+      "t": 242.43,
+      "text": "It's not."
+    },
+    {
+      "t": 243.43,
+      "text": "A lot of companies are doing more frequent informal check-ins now."
+    },
+    {
+      "t": 248.08,
+      "text": "Interesting."
+    },
+    {
+      "t": 248.7,
+      "text": "Why is that?"
+    },
+    {
+      "t": 249.97,
+      "text": "Well, that traditional yearly review can be a pretty big deal."
+    },
+    {
+      "t": 254.15,
+      "text": "Makes people nervous."
+    },
+    {
+      "t": 255.19,
+      "text": "Yeah, I can see that."
+    },
+    {
+      "t": 256.51,
+      "text": "And it's hard to cover a whole year's worth of work in one conversation."
+    },
+    {
+      "t": 260.6,
+      "text": "Right."
+    },
+    {
+      "t": 261.0,
+      "text": "It makes more sense to talk about things regularly, right?"
+    },
+    {
+      "t": 263.87,
+      "text": "Instead of waiting for that one big stressful review."
+    },
+    {
+      "t": 267.39,
+      "text": "It gives you a chance to give feedback, course correct, and talk about goals more often."
+    },
+    {
+      "t": 271.95,
+      "text": "It's like getting feedback on a rough draft instead of waiting for the final grade."
+    },
+    {
+      "t": 276.99,
+      "text": "That's a great way to put it."
+    },
+    {
+      "t": 277.99,
+      "text": "And doesn't this tie into the idea of professional development?"
+    },
+    {
+      "t": 281.41,
+      "text": "Absolutely."
+    },
+    {
+      "t": 282.07,
+      "text": "If you're getting feedback regularly, you can figure out what areas you need to work on."
+    },
+    {
+      "t": 286.32,
+      "text": "Right."
+    },
+    {
+      "t": 286.6,
+      "text": "And then get the training you need."
+    },
+    {
+      "t": 288.67,
+      "text": "And companies who really care about their employees growing will make sure they have those opportunities."
+    },
+    {
+      "t": 294.16,
+      "text": "Not just sending someone to a random conference and calling it a day."
+    },
+    {
+      "t": 298.05,
+      "text": "No, no."
+    },
+    {
+      "t": 299.01,
+      "text": "Effective professional development is about meeting individual needs, you know, aligning with the employee's goals and the company's goals."
+    },
+    {
+      "t": 306.7,
+      "text": "OK, so we've covered performance reviews and professional development."
+    },
+    {
+      "t": 310.27,
+      "text": "But what about those trickier parts of managing employees like conflicts?"
+    },
+    {
+      "t": 314.97,
+      "text": "Well, that's where having good employee relations practices is so important."
+    },
+    {
+      "t": 319.36,
+      "text": "Things like an open door policy, exit interviews and diversity and inclusion are key."
+    },
+    {
+      "t": 325.04,
+      "text": "I'm curious about those open door policies."
+    },
+    {
+      "t": 327.17,
+      "text": "They sound great in theory, but do they really work?"
+    },
+    {
+      "t": 329.55,
+      "text": "Do people actually feel comfortable going to their manager with a problem?"
+    },
+    {
+      "t": 334.06,
+      "text": "It really depends on the company culture."
+    },
+    {
+      "t": 336.84,
+      "text": "An open door policy is more than just having a door that's open."
+    },
+    {
+      "t": 340.05,
+      "text": "Right."
+    },
+    {
+      "t": 340.73,
+      "text": "You need a culture built on trust and open communication."
+    },
+    {
+      "t": 344.75,
+      "text": "Employees need to feel safe speaking up without worrying about getting in trouble."
+    },
+    {
+      "t": 349.6,
+      "text": "So it's more about creating an environment where people feel heard."
+    },
+    {
+      "t": 353.07,
+      "text": "Yes, exactly."
+    },
+    {
+      "t": 354.37,
+      "text": "And that's where leaders have to set the tone, showing they're open to hearing for their employees."
+    },
+    {
+      "t": 358.93,
+      "text": "What about exit interviews?"
+    },
+    {
+      "t": 360.17,
+      "text": "Are those just a formality or can companies actually learn something from them?"
+    },
+    {
+      "t": 364.34,
+      "text": "Exit interviews can be really useful, but only if they're done right."
+    },
+    {
+      "t": 368.48,
+      "text": "It's not about checking a box."
+    },
+    {
+      "t": 370.04,
+      "text": "Right."
+    },
+    {
+      "t": 370.38,
+      "text": "It's about giving someone who's leaving a chance to give honest feedback about what it was like to work there."
+    },
+    {
+      "t": 376.34,
+      "text": "Sort of like a hotel getting an honest review after someone stays there."
+    },
+    {
+      "t": 380.33,
+      "text": "Yeah, exactly."
+    },
+    {
+      "t": 381.03,
+      "text": "You find out what you're doing well and what you could do better."
+    },
+    {
+      "t": 383.87,
+      "text": "Right."
+    },
+    {
+      "t": 384.51,
+      "text": "And just like a hotel wants good reviews, companies should want good feedback in exit interviews."
+    },
+    {
+      "t": 390.08,
+      "text": "Makes sense."
+    },
+    {
+      "t": 391.3,
+      "text": "Okay, so we talked about open communication and learning from people who are leaving."
+    },
+    {
+      "t": 395.31,
+      "text": "What about making the workplace welcoming for everyone who's there now?"
+    },
+    {
+      "t": 401.17,
+      "text": "That's where diversity and inclusion comes in."
+    },
+    {
+      "t": 404.17,
+      "text": "And it's not just a trendy phrase."
+    },
+    {
+      "t": 406.07,
+      "text": "It's about making a workplace where everyone feels valued and respected."
+    },
+    {
+      "t": 409.6,
+      "text": "So it's more than just hiring people from different backgrounds."
+    },
+    {
+      "t": 412.34,
+      "text": "Yeah, for sure."
+    },
+    {
+      "t": 413.56,
+      "text": "It's about creating a culture where everyone feels like they belong."
+    },
+    {
+      "t": 416.84,
+      "text": "OK, I think this is a good place to take a break."
+    },
+    {
+      "t": 419.17,
+      "text": "We've covered a lot from attracting talent to managing performance and making a workplace inclusive."
+    },
+    {
+      "t": 425.31,
+      "text": "It's just the tip of the iceberg, though."
+    },
+    {
+      "t": 426.63,
+      "text": "There's so much more to talk about."
+    },
+    {
+      "t": 427.83,
+      "text": "That's lucky because we have two more parts to this deep dive."
+    },
+    {
+      "t": 430.93,
+      "text": "We'll be back soon to keep going."
+    },
+    {
+      "t": 433.18,
+      "text": "Welcome back to the deep dive."
+    },
+    {
+      "t": 435.58,
+      "text": "Before the break, we were breaking down all these common HR phrases."
+    },
+    {
+      "t": 439.22,
+      "text": "We were, yeah."
+    },
+    {
+      "t": 440.3,
+      "text": "I think we're ready to, you know, go a little deeper now."
+    },
+    {
+      "t": 443.19,
+      "text": "Yes."
+    },
+    {
+      "t": 444.29,
+      "text": "We've talked about what the terms mean, but I'm curious to see how they reflect those bigger trends and changes happening in the workplace."
+    },
+    {
+      "t": 451.17,
+      "text": "Oh, for sure."
+    },
+    {
+      "t": 452.28,
+      "text": "Like, remember, talent acquisition."
+    },
+    {
+      "t": 453.94,
+      "text": "Right."
+    },
+    {
+      "t": 454.96,
+      "text": "The term itself suggests that power dynamic is shifting."
+    },
+    {
+      "t": 459.19,
+      "text": "You know, it's not just companies choosing employees anymore."
+    },
+    {
+      "t": 462.96,
+      "text": "It's about attracting and keeping really talented people in a job market that's so competitive."
+    },
+    {
+      "t": 468.33,
+      "text": "It makes sense."
+    },
+    {
+      "t": 469.33,
+      "text": "Companies have to work harder to stand out and appeal to the best candidates these days."
+    },
+    {
+      "t": 473.36,
+      "text": "Exactly."
+    },
+    {
+      "t": 474.22,
+      "text": "They're starting to see that investing in employer branding and showing off their company culture is"
+    },
+    {
+      "t": 479.28,
+      "text": "is as important as talking about salary and benefits."
+    },
+    {
+      "t": 482.49,
+      "text": "So it's like marketing, but for people instead of products?"
+    },
+    {
+      "t": 485.58,
+      "text": "Precisely."
+    },
+    {
+      "t": 486.5,
+      "text": "And just like a good marketing campaign, talent acquisition needs a strategy."
+    },
+    {
+      "t": 490.65,
+      "text": "Yeah."
+    },
+    {
+      "t": 491.11,
+      "text": "You got to target the right people with the right message."
+    },
+    {
+      "t": 493.93,
+      "text": "And speaking of targeting, we talked about candidate screening earlier."
+    },
+    {
+      "t": 497.31,
+      "text": "I'm wondering how companies make sure they're not missing out on great candidates who maybe don't fit a certain mold."
+    },
+    {
+      "t": 503.46,
+      "text": "That's a really important point."
+    },
+    {
+      "t": 504.72,
+      "text": "And it's a challenge for a lot of companies."
+    },
+    {
+      "t": 506.2,
+      "text": "Yeah, I bet."
+    },
+    {
+      "t": 507.14,
+      "text": "They want to be efficient, of course."
+    },
+    {
+      "t": 508.37,
+      "text": "Right."
+    },
+    {
+      "t": 508.99,
+      "text": "But they also need to stay open-minded and make sure they're not being biased, which can lead to overlooking diverse talent."
+    },
+    {
+      "t": 516.03,
+      "text": "So it's about finding that balance between using those data driven tools and keeping that human judgment involved in the process."
+    },
+    {
+      "t": 524.15,
+      "text": "Absolutely."
+    },
+    {
+      "t": 525.19,
+      "text": "Technology is great."
+    },
+    {
+      "t": 526.11,
+      "text": "It can help sort through all those applications and find potential matches."
+    },
+    {
+      "t": 529.58,
+      "text": "Sure."
+    },
+    {
+      "t": 530.4,
+      "text": "But it shouldn't completely replace human interaction and that ability to assess things like cultural fit, critical thinking and emotional intelligence."
+    },
+    {
+      "t": 538.38,
+      "text": "OK, let's switch gears a bit and talk about performance reviews."
+    },
+    {
+      "t": 541.66,
+      "text": "OK. We all know they can be kind of anxiety inducing for a lot of people."
+    },
+    {
+      "t": 546.01,
+      "text": "That's true."
+    },
+    {
+      "t": 546.93,
+      "text": "But one of the things we read suggested that the way companies are doing performance reviews is changing."
+    },
+    {
+      "t": 552.78,
+      "text": "It is."
+    },
+    {
+      "t": 553.24,
+      "text": "They're moving away from those traditional once a year evaluations and doing more regular informal check ins."
+    },
+    {
+      "t": 559.86,
+      "text": "That's interesting."
+    },
+    {
+      "t": 560.58,
+      "text": "What's behind that shift?"
+    },
+    {
+      "t": 562.44,
+      "text": "I think part of it is that the annual review can be so stressful."
+    },
+    {
+      "t": 566.23,
+      "text": "You know, it makes everyone nervous."
+    },
+    {
+      "t": 567.77,
+      "text": "Yeah, totally."
+    },
+    {
+      "t": 569.13,
+      "text": "And it's hard to capture a whole year of someone's work in one conversation."
+    },
+    {
+      "t": 573.49,
+      "text": "Right."
+    },
+    {
+      "t": 573.96,
+      "text": "Makes more sense to just talk about things more often, right?"
+    },
+    {
+      "t": 576.46,
+      "text": "Exactly."
+    },
+    {
+      "t": 577.22,
+      "text": "It allows for more feedback, more chances to adjust course, and more opportunities to talk about goals."
+    },
+    {
+      "t": 583.19,
+      "text": "It's like getting feedback on a rough draft instead of waiting for the final grade."
+    },
+    {
+      "t": 588.43,
+      "text": "Perfect analogy."
+    },
+    {
+      "t": 589.64,
+      "text": "And wouldn't that tie into the idea of professional development, too?"
+    },
+    {
+      "t": 594.51,
+      "text": "It definitely does."
+    },
+    {
+      "t": 595.57,
+      "text": "If employees are getting regular feedback, they can figure out which areas they want to improve in."
+    },
+    {
+      "t": 599.92,
+      "text": "Exactly."
+    },
+    {
+      "t": 600.74,
+      "text": "And then they can look for the training they need to do that."
+    },
+    {
+      "t": 603.23,
+      "text": "And if a company really cares about its employees growing, they'll make sure those opportunities are available."
+    },
+    {
+      "t": 607.94,
+      "text": "So it's not just about sending employees to some random conference and calling it a day."
+    },
+    {
+      "t": 613.11,
+      "text": "Nope."
+    },
+    {
+      "t": 613.93,
+      "text": "Effective professional development should be tailored to each person's needs."
+    },
+    {
+      "t": 617.59,
+      "text": "Right."
+    },
+    {
+      "t": 618.25,
+      "text": "It should match up with the employee's goals and the company's objectives."
+    },
+    {
+      "t": 621.7,
+      "text": "OK. We've talked about performance reviews and professional development."
+    },
+    {
+      "t": 625.15,
+      "text": "Now what about when things aren't going so well like when there's a conflict between employees."
+    },
+    {
+      "t": 631.48,
+      "text": "Ah, yes."
+    },
+    {
+      "t": 633.6,
+      "text": "Those tricky situations."
+    },
+    {
+      "t": 635.67,
+      "text": "That's where strong employee relations practices come in."
+    },
+    {
+      "t": 639.4,
+      "text": "Right."
+    },
+    {
+      "t": 639.74,
+      "text": "That's when terms like open door policy, exit interviews and diversity and inclusion become so important."
+    },
+    {
+      "t": 645.96,
+      "text": "We talked about open door policies earlier."
+    },
+    {
+      "t": 648.24,
+      "text": "Right."
+    },
+    {
+      "t": 648.48,
+      "text": "But one of our sources questioned how effective they really are."
+    },
+    {
+      "t": 651.34,
+      "text": "It's a fair question."
+    },
+    {
+      "t": 652.54,
+      "text": "Do employees actually feel comfortable speaking up, even if there is a policy?"
+    },
+    {
+      "t": 657.57,
+      "text": "It all comes down to the company's culture."
+    },
+    {
+      "t": 659.64,
+      "text": "I imagine so."
+    },
+    {
+      "t": 660.6,
+      "text": "You can have an open door policy, but it's not enough."
+    },
+    {
+      "t": 662.84,
+      "text": "You have to create a culture where people feel safe to speak their minds without being afraid of what will happen."
+    },
+    {
+      "t": 669.11,
+      "text": "So it's about making sure open communication is encouraged and respected."
+    },
+    {
+      "t": 673.06,
+      "text": "Absolutely."
+    },
+    {
+      "t": 674.06,
+      "text": "And leaders need to set a good example showing they're actually open to hearing from their employees."
+    },
+    {
+      "t": 678.61,
+      "text": "Now, what about those exit interviews?"
+    },
+    {
+      "t": 680.59,
+      "text": "Yeah."
+    },
+    {
+      "t": 681.07,
+      "text": "Are they actually useful or are they just a formality?"
+    },
+    {
+      "t": 683.69,
+      "text": "They can be really valuable."
+    },
+    {
+      "t": 684.84,
+      "text": "They can."
+    },
+    {
+      "t": 685.46,
+      "text": "But only if they're done right."
+    },
+    {
+      "t": 687.52,
+      "text": "It shouldn't be just about checking a box."
+    },
+    {
+      "t": 689.62,
+      "text": "Right."
+    },
+    {
+      "t": 690.0,
+      "text": "It should be about giving the employee who's leaving a chance to honestly share their experience."
+    },
+    {
+      "t": 696.29,
+      "text": "So it's like getting honest feedback after someone stays at a hotel."
+    },
+    {
+      "t": 700.14,
+      "text": "Exactly."
+    },
+    {
+      "t": 700.8,
+      "text": "They can tell you what you're doing well and what could be improved."
+    },
+    {
+      "t": 704.01,
+      "text": "And just like a hotel wants good reviews, companies should want good feedback in exit interviews."
+    },
+    {
+      "t": 709.69,
+      "text": "It shows they care."
+    },
+    {
+      "t": 710.79,
+      "text": "Yes."
+    },
+    {
+      "t": 711.71,
+      "text": "Even if the person is leaving."
+    },
+    {
+      "t": 713.4,
+      "text": "OK, so we've talked about open communication and learning from people who leave."
+    },
+    {
+      "t": 718.23,
+      "text": "But what about making the workplace welcoming and inclusive for everyone who's there?"
+    },
+    {
+      "t": 723.46,
+      "text": "Right."
+    },
+    {
+      "t": 723.8,
+      "text": "That's where diversity and inclusion comes in."
+    },
+    {
+      "t": 726.14,
+      "text": "And that's more than just a buzzword."
+    },
+    {
+      "t": 727.73,
+      "text": "It's about making sure everyone feels valued and respected."
+    },
+    {
+      "t": 731.13,
+      "text": "So it goes beyond just hiring people from different backgrounds."
+    },
+    {
+      "t": 734.2,
+      "text": "It does."
+    },
+    {
+      "t": 734.6,
+      "text": "It's about creating a culture where everyone feels like they belong and has the same opportunities to grow and advance."
+    },
+    {
+      "t": 740.76,
+      "text": "OK, so we've talked about attracting talent, managing performance, employee relations, diversity and inclusion."
+    },
+    {
+      "t": 746.33,
+      "text": "Sounds like we've covered a lot."
+    },
+    {
+      "t": 747.63,
+      "text": "What about the thing everyone loves to talk about?"
+    },
+    {
+      "t": 749.89,
+      "text": "Compensation and benefits."
+    },
+    {
+      "t": 751.67,
+      "text": "Ah, yes."
+    },
+    {
+      "t": 752.82,
+      "text": "The money part."
+    },
+    {
+      "t": 753.8,
+      "text": "One of our sources pointed out this growing trend of salary transparency."
+    },
+    {
+      "t": 758.12,
+      "text": "Yeah, I've noticed that, too."
+    },
+    {
+      "t": 759.71,
+      "text": "It seems like more companies are being open about salary ranges for different positions."
+    },
+    {
+      "t": 764.53,
+      "text": "Why is that?"
+    },
+    {
+      "t": 765.57,
+      "text": "Well, I think it's about creating a more level playing field for job seekers and promoting fairness in how people are paid."
+    },
+    {
+      "t": 773.9,
+      "text": "Makes sense."
+    },
+    {
+      "t": 774.76,
+      "text": "It also takes away some of the guesswork when it comes to salary negotiations."
+    },
+    {
+      "t": 778.59,
+      "text": "It does."
+    },
+    {
+      "t": 779.53,
+      "text": "Candidates can see if the company's compensation philosophy matches their own values."
+    },
+    {
+      "t": 784.38,
+      "text": "So it seems like it's good for both the employee and the employer."
+    },
+    {
+      "t": 787.38,
+      "text": "It does."
+    },
+    {
+      "t": 787.8,
+      "text": "Yeah."
+    },
+    {
+      "t": 788.03,
+      "text": "Employees feel more confident knowing they're being paid fairly."
+    },
+    {
+      "t": 791.39,
+      "text": "Yes."
+    },
+    {
+      "t": 792.17,
+      "text": "And employers can attract better talent by being upfront about how they pay."
+    },
+    {
+      "t": 796.24,
+      "text": "Exactly."
+    },
+    {
+      "t": 797.28,
+      "text": "And beyond just salary, benefits are becoming more and more important these days, especially for younger generations."
+    },
+    {
+      "t": 803.12,
+      "text": "Oh, for sure."
+    },
+    {
+      "t": 803.83,
+      "text": "You know, people who really value work life balance and their overall well-being."
+    },
+    {
+      "t": 808.87,
+      "text": "So it's not just about health insurance and a retirement plan anymore."
+    },
+    {
+      "t": 812.24,
+      "text": "Not at all."
+    },
+    {
+      "t": 813.04,
+      "text": "We're seeing companies offer things like help with paying off student loans, generous parental leave, resources for mental health, pet insurance, even unlimited vacation time."
+    },
+    {
+      "t": 823.92,
+      "text": "Wow."
+    },
+    {
+      "t": 825.09,
+      "text": "It's definitely not your typical benefits package."
+    },
+    {
+      "t": 827.79,
+      "text": "I think companies are realizing that..."
+    },
+    {
+      "t": 830.45,
+      "text": "To get and keep the best people, they need to offer more than just a good salary."
+    },
+    {
+      "t": 836.0,
+      "text": "They need to offer benefits that meet the needs of their employees."
+    },
+    {
+      "t": 839.2,
+      "text": "So it's about recognizing that employees have lives outside of work and supporting their well-being actually benefits everyone."
+    },
+    {
+      "t": 846.37,
+      "text": "Exactly."
+    },
+    {
+      "t": 847.19,
+      "text": "When employees feel valued and supported, they tend to be more engaged and productive and they stay with the company longer."
+    },
+    {
+      "t": 852.67,
+      "text": "Okay, I want to go back to those practical usage scenarios we talked about earlier."
+    },
+    {
+      "t": 856.75,
+      "text": "We've discussed the general ideas, but how do these HR phrases actually play out in real life?"
+    },
+    {
+      "t": 862.7,
+      "text": "I like that."
+    },
+    {
+      "t": 863.44,
+      "text": "Let's take a closer look at how even simple phrases can mean different things depending on the situation."
+    },
+    {
+      "t": 868.5,
+      "text": "For example, imagine a job candidate gets an email that says, please submit your updated resume and references."
+    },
+    {
+      "t": 874.57,
+      "text": "Seems pretty straightforward, right?"
+    },
+    {
+      "t": 876.11,
+      "text": "It does."
+    },
+    {
+      "t": 877.2,
+      "text": "But it's a reminder that the hiring process goes both ways."
+    },
+    {
+      "t": 880.3,
+      "text": "Oh, so."
+    },
+    {
+      "t": 881.3,
+      "text": "The company's checking out the candidate, but the candidate is also checking out the company."
+    },
+    {
+      "t": 887.09,
+      "text": "Ah, I see."
+    },
+    {
+      "t": 887.79,
+      "text": "That request for a resume and references means the company's serious about the candidate and moving forward."
+    },
+    {
+      "t": 894.18,
+      "text": "And for the candidate, it's their chance to show what they've got and make a good impression."
+    },
+    {
+      "t": 898.2,
+      "text": "Exactly."
+    },
+    {
+      "t": 899.14,
+      "text": "Putting your best foot forward."
+    },
+    {
+      "t": 900.67,
+      "text": "Now, let's say someone gets the job and it's their first day."
+    },
+    {
+      "t": 903.79,
+      "text": "Someone says, welcome to the team."
+    },
+    {
+      "t": 905.84,
+      "text": "Nice."
+    },
+    {
+      "t": 906.4,
+      "text": "Could that simple phrase be interpreted in different ways?"
+    },
+    {
+      "t": 909.48,
+      "text": "Definitely."
+    },
+    {
+      "t": 910.52,
+      "text": "On the surface, it's welcoming and friendly, but it could mean different things."
+    },
+    {
+      "t": 915.27,
+      "text": "It might be genuine excitement or might just be a formality."
+    },
+    {
+      "t": 919.01,
+      "text": "It depends on the company culture and how they say it, I guess."
+    },
+    {
+      "t": 922.03,
+      "text": "It does, yeah."
+    },
+    {
+      "t": 923.38,
+      "text": "A truly welcoming environment is more than just words."
+    },
+    {
+      "t": 926.66,
+      "text": "Right."
+    },
+    {
+      "t": 926.8,
+      "text": "It's about making people feel like they belong and giving them what they need to succeed."
+    },
+    {
+      "t": 930.79,
+      "text": "Okay, let's jump ahead a few months."
+    },
+    {
+      "t": 932.53,
+      "text": "It's time for that performance review."
+    },
+    {
+      "t": 934.47,
+      "text": "Whether the manager says, let's review your performance for this quarter or your work has been amazing, those phrases can bring up different emotions for people."
+    },
+    {
+      "t": 943.09,
+      "text": "No doubt."
+    },
+    {
+      "t": 944.17,
+      "text": "Performance reviews can be nerve-wracking, but they can also be a chance to grow and be recognized."
+    },
+    {
+      "t": 949.36,
+      "text": "For sure."
+    },
+    {
+      "t": 949.92,
+      "text": "The way the conversation is set up and how the manager talks can really affect how the employee takes the feedback."
+    },
+    {
+      "t": 955.89,
+      "text": "It's about making it a safe and supportive environment, right?"
+    },
+    {
+      "t": 959.23,
+      "text": "Yes."
+    },
+    {
+      "t": 959.73,
+      "text": "Where feedback is seen as a way to improve, not as a punishment."
+    },
+    {
+      "t": 963.72,
+      "text": "Exactly."
+    },
+    {
+      "t": 964.94,
+      "text": "And when performance reviews are done well, it can actually strengthen the relationship between the manager and the employee."
+    },
+    {
+      "t": 972.34,
+      "text": "Now, what about those times when things go wrong and there's a conflict between employees?"
+    },
+    {
+      "t": 976.8,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 977.22,
+      "text": "Hearing, let's resolve this matter professionally can sound either reassuring or kind of scary, depending on the situation."
+    },
+    {
+      "t": 985.03,
+      "text": "It's a reminder that workplace conflicts should be handled calmly, respectfully, and with a focus on finding solutions."
+    },
+    {
+      "t": 992.12,
+      "text": "Right."
+    },
+    {
+      "t": 992.87,
+      "text": "But it can also feel like a warning to be careful and not make things worse."
+    },
+    {
+      "t": 997.02,
+      "text": "So it's about finding that balance, addressing the issue directly, but also staying professional and respectful."
+    },
+    {
+      "t": 1002.49,
+      "text": "Exactly."
+    },
+    {
+      "t": 1003.67,
+      "text": "And that's where good conflict resolution skills come in."
+    },
+    {
+      "t": 1006.74,
+      "text": "It's about listening to each other, understanding where everyone's coming from, and finding a solution that works for everyone."
+    },
+    {
+      "t": 1012.85,
+      "text": "And lastly, let's think about that phrase, we're sorry to see you leave, often said during an exit interview."
+    },
+    {
+      "t": 1019.58,
+      "text": "Is that always sincere or is it sometimes just something people say?"
+    },
+    {
+      "t": 1023.55,
+      "text": "I think it depends on the company and why the person is leaving."
+    },
+    {
+      "t": 1026.76,
+      "text": "OK."
+    },
+    {
+      "t": 1027.3,
+      "text": "Sometimes it's a genuine expression of regret and acknowledging what that employee contributed."
+    },
+    {
+      "t": 1032.56,
+      "text": "Right."
+    },
+    {
+      "t": 1033.05,
+      "text": "But sometimes it might just be a routine thing they say as part of the process."
+    },
+    {
+      "t": 1037.33,
+      "text": "So you have to kind of read between the lines and consider the whole situation."
+    },
+    {
+      "t": 1040.3,
+      "text": "Exactly."
+    },
+    {
+      "t": 1040.94,
+      "text": "An exit interview, when done with sincerity, can be a good opportunity for everyone to get closure, share feedback and learn from what happened."
+    },
+    {
+      "t": 1048.8,
+      "text": "Wow."
+    },
+    {
+      "t": 1049.34,
+      "text": "We covered a lot in this part of our deep dive."
+    },
+    {
+      "t": 1051.76,
+      "text": "We did."
+    },
+    {
+      "t": 1052.26,
+      "text": "We've explored how these HR phrases connect to bigger workplace trends, looked at how they're used in real life, and talked about the subtle ways they can be interpreted."
+    },
+    {
+      "t": 1061.65,
+      "text": "We really dug into those power dynamics, the importance of communication, and the need for empathy in these sometimes difficult conversations."
+    },
+    {
+      "t": 1069.84,
+      "text": "But there's one more crucial thing we need to talk about before we wrap up."
+    },
+    {
+      "t": 1073.42,
+      "text": "What's that?"
+    },
+    {
+      "t": 1074.06,
+      "text": "The human element."
+    },
+    {
+      "t": 1076.13,
+      "text": "Welcome back to the Deep Dive."
+    },
+    {
+      "t": 1077.37,
+      "text": "We've spent this whole episode trying to decode the language of HR, you know, from talent acquisition all the way to exit interviews."
+    },
+    {
+      "t": 1085.7,
+      "text": "This whole world into itself."
+    },
+    {
+      "t": 1087.25,
+      "text": "It is."
+    },
+    {
+      "t": 1087.99,
+      "text": "But as we wrap things up, I keep thinking about something we talked about earlier, that human element."
+    },
+    {
+      "t": 1092.29,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 1092.71,
+      "text": "That's so important."
+    },
+    {
+      "t": 1093.61,
+      "text": "It's easy to get lost in all the jargon and processes, but we have to remember that HR is really about people."
+    },
+    {
+      "t": 1099.18,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1100.04,
+      "text": "It's about creating workplaces where everyone feels valued and supported, where they can do their best."
+    },
+    {
+      "t": 1106.27,
+      "text": "Couldn't agree more."
+    },
+    {
+      "t": 1107.23,
+      "text": "So how do we bring more of that human touch into these conversations, especially when we're dealing with tricky stuff like performance reviews or conflict resolution?"
+    },
+    {
+      "t": 1115.91,
+      "text": "I think empathy is a huge part of it."
+    },
+    {
+      "t": 1118.07,
+      "text": "Empathy."
+    },
+    {
+      "t": 1118.61,
+      "text": "Yeah, like really trying to see things from the other person's perspective."
+    },
+    {
+      "t": 1122.19,
+      "text": "Putting yourself in their shoes."
+    },
+    {
+      "t": 1123.5,
+      "text": "Exactly."
+    },
+    {
+      "t": 1124.14,
+      "text": "Trying to understand their point of view, what motivates them, what challenges they're facing."
+    },
+    {
+      "t": 1129.74,
+      "text": "It's about remembering that behind every job title, every HR interaction, there's a whole person."
+    },
+    {
+      "t": 1136.94,
+      "text": "Right."
+    },
+    {
+      "t": 1137.24,
+      "text": "With a life outside of work, with dreams and worries and everything else."
+    },
+    {
+      "t": 1141.2,
+      "text": "And that goes both ways, right?"
+    },
+    {
+      "t": 1142.99,
+      "text": "It does."
+    },
+    {
+      "t": 1143.51,
+      "text": "For the employee and the HR person or manager."
+    },
+    {
+      "t": 1148.3,
+      "text": "Yeah."
+    },
+    {
+      "t": 1148.9,
+      "text": "So like when you're giving feedback during a performance review, it's not just about listing what needs to improve."
+    },
+    {
+      "t": 1155.21,
+      "text": "No, it's not."
+    },
+    {
+      "t": 1156.05,
+      "text": "It's about understanding the context, you know, seeing the person's strengths and focusing on how they can grow."
+    },
+    {
+      "t": 1161.06,
+      "text": "You want to make it a conversation, a collaboration to help that person succeed."
+    },
+    {
+      "t": 1165.57,
+      "text": "Not a judgment."
+    },
+    {
+      "t": 1167.23,
+      "text": "What about when there's a conflict between employees?"
+    },
+    {
+      "t": 1170.06,
+      "text": "How do you handle that with that human touch?"
+    },
+    {
+      "t": 1172.96,
+      "text": "That's when really listening and trying to understand the root of the problem is so important."
+    },
+    {
+      "t": 1177.83,
+      "text": "So not just jumping in to fix it."
+    },
+    {
+      "t": 1179.74,
+      "text": "No, it's more about creating that space for people to talk openly and work towards a solution that feels fair to everyone involved."
+    },
+    {
+      "t": 1187.72,
+      "text": "It's about mediating, not dictating."
+    },
+    {
+      "t": 1190.04,
+      "text": "Exactly."
+    },
+    {
+      "t": 1190.88,
+      "text": "And even during an exit interview, you know, when someone's leaving the company."
+    },
+    {
+      "t": 1194.21,
+      "text": "Right."
+    },
+    {
+      "t": 1194.85,
+      "text": "There's a chance to show genuine appreciation for what they've done."
+    },
+    {
+      "t": 1197.92,
+      "text": "To acknowledge their reasons for moving on, wish them well."
+    },
+    {
+      "t": 1200.92,
+      "text": "Yes."
+    },
+    {
+      "t": 1201.82,
+      "text": "And maybe even leave things open for connecting again in the future."
+    },
+    {
+      "t": 1204.82,
+      "text": "You know, it strikes me that it's not just about what you say in these situations but how you say it."
+    },
+    {
+      "t": 1209.59,
+      "text": "Oh, absolutely."
+    },
+    {
+      "t": 1210.36,
+      "text": "The tone of your voice, your body language showing that you care about the other person."
+    },
+    {
+      "t": 1214.66,
+      "text": "Those things matter so much."
+    },
+    {
+      "t": 1216.47,
+      "text": "They do."
+    },
+    {
+      "t": 1216.97,
+      "text": "It's about being aware of that power dynamic and using it in a way that's responsible and ethical."
+    },
+    {
+      "t": 1223.16,
+      "text": "So as we wrap up this deep dive into the language of HR, I think the biggest lesson here is that it's not just about the words, but about how we use them."
+    },
+    {
+      "t": 1232.5,
+      "text": "It's true."
+    },
+    {
+      "t": 1233.3,
+      "text": "It's about remembering that behind every HR phrase, every process, there's a human story."
+    },
+    {
+      "t": 1239.77,
+      "text": "Beautifully put."
+    },
+    {
+      "t": 1240.83,
+      "text": "Thanks for joining us on this journey, everyone."
+    },
+    {
+      "t": 1242.95,
+      "text": "We hope you enjoyed it."
+    },
+    {
+      "t": 1244.03,
+      "text": "We hope this deep dive gave you a fresh perspective on HR and maybe even inspired you to bring a little more humanity into your own workplace."
+    },
+    {
+      "t": 1252.07,
+      "text": "All right."
+    },
+    {
+      "t": 1252.67,
+      "text": "Get ready, because today we're diving deep into HR phrases."
+    },
+    {
+      "t": 1257.46,
+      "text": "Oh, sounds interesting."
+    },
+    {
+      "t": 1258.8,
+      "text": "We've got two guides packed with example."
+    },
+    {
+      "t": 1261.2,
+      "text": "Oh."
+    },
+    {
+      "t": 1261.85,
+      "text": "And we're going to decode them."
+    },
+    {
+      "t": 1263.55,
+      "text": "Awesome."
+    },
+    {
+      "t": 1263.75,
+      "text": "Not just their meanings, but like the strategy behind them."
+    },
+    {
+      "t": 1266.73,
+      "text": "I like it."
+    },
+    {
+      "t": 1267.27,
+      "text": "It's like your secret decoder ring for the workplace."
+    },
+    {
+      "t": 1270.78,
+      "text": "Yeah."
+    },
+    {
+      "t": 1271.1,
+      "text": "From job hunting to performance reviews and everything in between."
+    },
+    {
+      "t": 1275.09,
+      "text": "That's a lot of ground to cover."
+    },
+    {
+      "t": 1276.29,
+      "text": "It is, but it's going to be fun."
+    },
+    {
+      "t": 1278.33,
+      "text": "Okay, I'm ready."
+    },
+    {
+      "t": 1279.21,
+      "text": "So let's start at the very beginning."
+    },
+    {
+      "t": 1280.82,
+      "text": "Okay."
+    },
+    {
+      "t": 1281.32,
+      "text": "Recruitment."
+    },
+    {
+      "t": 1281.92,
+      "text": "We've all seen those job postings."
+    },
+    {
+      "t": 1283.61,
+      "text": "Yeah."
+    },
+    {
+      "t": 1284.35,
+      "text": "You know the ones we are looking for a qualified candidate for the position of?"
+    },
+    {
+      "t": 1288.71,
+      "text": "Ugh, so boring."
+    },
+    {
+      "t": 1290.81,
+      "text": "I know, right?"
+    },
+    {
+      "t": 1292.01,
+      "text": "It's like a robot wrote it."
+    },
+    {
+      "t": 1293.27,
+      "text": "Exactly."
+    },
+    {
+      "t": 1294.31,
+      "text": "So in today's world, don't you think companies need to stand out a bit more?"
+    },
+    {
+      "t": 1297.68,
+      "text": "Definitely."
+    },
+    {
+      "t": 1298.04,
+      "text": "They need to grab your attention, make you actually want to apply."
+    },
+    {
+      "t": 1302.08,
+      "text": "So how can they use language to make a job posting more captivating?"
+    },
+    {
+      "t": 1306.83,
+      "text": "Well, instead of just stating the obvious, they need to paint a picture."
+    },
+    {
+      "t": 1310.97,
+      "text": "Ooh, I like that."
+    },
+    {
+      "t": 1313.19,
+      "text": "You know, highlight the challenges, the opportunities, the impact the person will make."
+    },
+    {
+      "t": 1317.38,
+      "text": "That makes sense."
+    },
+    {
+      "t": 1318.12,
+      "text": "It's about sparking that feeling."
+    },
+    {
+      "t": 1320.35,
+      "text": "What feeling?"
+    },
+    {
+      "t": 1321.13,
+      "text": "That I want to be part of that feeling."
+    },
+    {
+      "t": 1323.45,
+      "text": "Ooh, I get it."
+    },
+    {
+      "t": 1324.22,
+      "text": "Like a sense of purpose."
+    },
+    {
+      "t": 1325.4,
+      "text": "Exactly."
+    },
+    {
+      "t": 1326.38,
+      "text": "Okay, now what about that other classic?"
+    },
+    {
+      "t": 1328.13,
+      "text": "Which one?"
+    },
+    {
+      "t": 1329.09,
+      "text": "The Ideal Candidate Should Possess."
+    },
+    {
+      "t": 1331.99,
+      "text": "Oh, yeah, that one."
+    },
+    {
+      "t": 1333.3,
+      "text": "It seems like every job description has it."
+    },
+    {
+      "t": 1335.36,
+      "text": "Pretty much."
+    },
+    {
+      "t": 1336.42,
+      "text": "But I've noticed some are just laundry lists of requirements."
+    },
+    {
+      "t": 1339.99,
+      "text": "Yeah."
+    },
+    {
+      "t": 1340.81,
+      "text": "While others are more strategic."
+    },
+    {
+      "t": 1342.58,
+      "text": "Interesting."
+    },
+    {
+      "t": 1343.24,
+      "text": "What's the difference?"
+    },
+    {
+      "t": 1344.43,
+      "text": "Well, instead of focusing solely on qualifications, companies should focus on the desired outcomes."
+    },
+    {
+      "t": 1351.58,
+      "text": "Like what?"
+    },
+    {
+      "t": 1352.3,
+      "text": "What will this person achieve?"
+    },
+    {
+      "t": 1354.69,
+      "text": "What problems will they solve?"
+    },
+    {
+      "t": 1356.99,
+      "text": "Interesting."
+    },
+    {
+      "t": 1357.43,
+      "text": "By framing it that way, they attract candidates who are excited about the impact they can make."
+    },
+    {
+      "t": 1362.88,
+      "text": "It's like they're not just filling a role, they're joining a mission."
+    },
+    {
+      "t": 1366.21,
+      "text": "Exactly."
+    },
+    {
+      "t": 1367.12,
+      "text": "I like that."
+    },
+    {
+      "t": 1367.91,
+      "text": "Aligning expectations from the start."
+    },
+    {
+      "t": 1369.87,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1370.59,
+      "text": "And then, of course, there's the deadline."
+    },
+    {
+      "t": 1371.99,
+      "text": "Yeah."
+    },
+    {
+      "t": 1372.33,
+      "text": "Applications will be accepted until... Can't forget that."
+    },
+    {
+      "t": 1375.24,
+      "text": "But is there more to it than just a date?"
+    },
+    {
+      "t": 1377.58,
+      "text": "More than you might think."
+    },
+    {
+      "t": 1378.9,
+      "text": "Really?"
+    },
+    {
+      "t": 1379.4,
+      "text": "It's about subtly communicating expectations."
+    },
+    {
+      "t": 1382.53,
+      "text": "Like what?"
+    },
+    {
+      "t": 1383.59,
+      "text": "Well, respecting deadlines shows you're organized."
+    },
+    {
+      "t": 1386.51,
+      "text": "Makes sense."
+    },
+    {
+      "t": 1387.41,
+      "text": "On the flip side, a company that's vague about deadlines might signal a lack of organization."
+    },
+    {
+      "t": 1393.08,
+      "text": "Ooh, that's a good point."
+    },
+    {
+      "t": 1394.16,
+      "text": "It's like a red flag."
+    },
+    {
+      "t": 1394.98,
+      "text": "Exactly."
+    },
+    {
+      "t": 1395.94,
+      "text": "Okay, so let's say you've applied."
+    },
+    {
+      "t": 1397.81,
+      "text": "No."
+    },
+    {
+      "t": 1398.07,
+      "text": "And you get that email."
+    },
+    {
+      "t": 1399.31,
+      "text": "Oh, yeah."
+    },
+    {
+      "t": 1399.99,
+      "text": "We would like to invite you for an interview."
+    },
+    {
+      "t": 1402.25,
+      "text": "The moment you've been waiting for."
+    },
+    {
+      "t": 1403.82,
+      "text": "It is, but even this phrase can be approached strategically."
+    },
+    {
+      "t": 1407.7,
+      "text": "How so?"
+    },
+    {
+      "t": 1408.68,
+      "text": "What can companies do to make it stand out?"
+    },
+    {
+      "t": 1411.83,
+      "text": "Instead of a generic invitation."
+    },
+    {
+      "t": 1413.45,
+      "text": "Okay."
+    },
+    {
+      "t": 1414.11,
+      "text": "Why not add a personal touch?"
+    },
+    {
+      "t": 1415.86,
+      "text": "Like what?"
+    },
+    {
+      "t": 1416.32,
+      "text": "Mention something specific about the candidate's application, their background."
+    },
+    {
+      "t": 1420.24,
+      "text": "I see."
+    },
+    {
+      "t": 1420.52,
+      "text": "It shows they've actually read it."
+    },
+    {
+      "t": 1421.92,
+      "text": "Yeah, that would make me feel valued."
+    },
+    {
+      "t": 1423.61,
+      "text": "Exactly."
+    },
+    {
+      "t": 1424.25,
+      "text": "Okay, then comes the scheduling back and forth."
+    },
+    {
+      "t": 1426.73,
+      "text": "Oh yeah, the dreaded scheduling dance."
+    },
+    {
+      "t": 1429.54,
+      "text": "Please confirm your availability."
+    },
+    {
+      "t": 1431.3,
+      "text": "So many emails."
+    },
+    {
+      "t": 1432.32,
+      "text": "Any hidden insights here?"
+    },
+    {
+      "t": 1433.72,
+      "text": "Think of it as a test."
+    },
+    {
+      "t": 1435.57,
+      "text": "Of what?"
+    },
+    {
+      "t": 1436.35,
+      "text": "Your communication skills."
+    },
+    {
+      "t": 1437.93,
+      "text": "Interesting."
+    },
+    {
+      "t": 1438.63,
+      "text": "Being prompt and professional shows respect for everyone's time."
+    },
+    {
+      "t": 1442.56,
+      "text": "Right."
+    },
+    {
+      "t": 1442.82,
+      "text": "It's like the first impression."
+    },
+    {
+      "t": 1444.16,
+      "text": "Exactly."
+    },
+    {
+      "t": 1444.91,
+      "text": "Okay."
+    },
+    {
+      "t": 1445.27,
+      "text": "And then the big moment, the interview."
+    },
+    {
+      "t": 1447.37,
+      "text": "Here we go."
+    },
+    {
+      "t": 1448.31,
+      "text": "You're likely to hear, could you elaborate on your experience with..."
+    },
+    {
+      "t": 1453.17,
+      "text": "That's a classic."
+    },
+    {
+      "t": 1454.07,
+      "text": "Any advice for how to handle it?"
+    },
+    {
+      "t": 1455.47,
+      "text": "Be prepared."
+    },
+    {
+      "t": 1457.02,
+      "text": "For what?"
+    },
+    {
+      "t": 1457.54,
+      "text": "To share specific examples of how you've used your skills to achieve results."
+    },
+    {
+      "t": 1463.44,
+      "text": "So it's not just about listing skills."
+    },
+    {
+      "t": 1465.07,
+      "text": "No, it's about telling a story."
+    },
+    {
+      "t": 1467.17,
+      "text": "I like that."
+    },
+    {
+      "t": 1467.65,
+      "text": "A story that showcases your abilities."
+    },
+    {
+      "t": 1469.79,
+      "text": "And makes you memorable."
+    },
+    {
+      "t": 1471.04,
+      "text": "Exactly."
+    },
+    {
+      "t": 1471.9,
+      "text": "Okay, so let's fast forward."
+    },
+    {
+      "t": 1473.64,
+      "text": "Two."
+    },
+    {
+      "t": 1473.94,
+      "text": "You land the job."
+    },
+    {
+      "t": 1475.04,
+      "text": "Woo-hoo."
+    },
+    {
+      "t": 1475.84,
+      "text": "And you hear, welcome aboard."
+    },
+    {
+      "t": 1478.74,
+      "text": "Feels good."
+    },
+    {
+      "t": 1480.19,
+      "text": "But is this just a formality or is there more to it?"
+    },
+    {
+      "t": 1483.57,
+      "text": "It's the gateway."
+    },
+    {
+      "t": 1484.63,
+      "text": "To what?"
+    },
+    {
+      "t": 1485.35,
+      "text": "A successful onboarding experience."
+    },
+    {
+      "t": 1488.26,
+      "text": "Ah, I see."
+    },
+    {
+      "t": 1488.62,
+      "text": "It's about making the new employee feel valued."
+    },
+    {
+      "t": 1491.8,
+      "text": "Part of the team."
+    },
+    {
+      "t": 1492.72,
+      "text": "Exactly."
+    },
+    {
+      "t": 1493.4,
+      "text": "So what comes after welcome aboard?"
+    },
+    {
+      "t": 1495.35,
+      "text": "Well, things like, let's go over your onboarding schedule or please review the employee handbook."
+    },
+    {
+      "t": 1502.41,
+      "text": "Yeah, those are important."
+    },
+    {
+      "t": 1503.52,
+      "text": "They're opportunities."
+    },
+    {
+      "t": 1504.76,
+      "text": "To do what?"
+    },
+    {
+      "t": 1505.42,
+      "text": "set clear expectations, answer questions, make the transition smooth."
+    },
+    {
+      "t": 1510.64,
+      "text": "So it's about structure and support right from the start."
+    },
+    {
+      "t": 1513.56,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1514.22,
+      "text": "But how can companies go beyond the standard handbook?"
+    },
+    {
+      "t": 1517.63,
+      "text": "You mean make it more engaging?"
+    },
+    {
+      "t": 1519.49,
+      "text": "Yeah, more impactful."
+    },
+    {
+      "t": 1520.43,
+      "text": "Well, instead of a dense document, imagine an interactive online handbook."
+    },
+    {
+      "t": 1525.93,
+      "text": "With what?"
+    },
+    {
+      "t": 1526.66,
+      "text": "Videos, quizzes, maybe even a forum for new hires to connect."
+    },
+    {
+      "t": 1531.02,
+      "text": "I love that."
+    },
+    {
+      "t": 1531.8,
+      "text": "Turning something boring into something fun."
+    },
+    {
+      "t": 1533.85,
+      "text": "It's about welcoming them into the culture."
+    },
+    {
+      "t": 1535.97,
+      "text": "That's a great point."
+    },
+    {
+      "t": 1536.73,
+      "text": "It's not just about compliance."
+    },
+    {
+      "t": 1538.02,
+      "text": "It's about belonging."
+    },
+    {
+      "t": 1539.5,
+      "text": "Okay."
+    },
+    {
+      "t": 1539.84,
+      "text": "So onboarding is crucial."
+    },
+    {
+      "t": 1541.5,
+      "text": "Definitely."
+    },
+    {
+      "t": 1542.32,
+      "text": "But it's also about setting employees up for success."
+    },
+    {
+      "t": 1545.53,
+      "text": "Yes."
+    },
+    {
+      "t": 1546.19,
+      "text": "Which brings us to performance management."
+    },
+    {
+      "t": 1548.73,
+      "text": "Right."
+    },
+    {
+      "t": 1548.87,
+      "text": "What's the strategy behind it?"
+    },
+    {
+      "t": 1549.99,
+      "text": "Let's discuss your performance goals for this quarter."
+    },
+    {
+      "t": 1553.02,
+      "text": "It signals a shift."
+    },
+    {
+      "t": 1554.68,
+      "text": "From what?"
+    },
+    {
+      "t": 1555.2,
+      "text": "A top-down approach to a collaborative one."
+    },
+    {
+      "t": 1558.83,
+      "text": "Interesting."
+    },
+    {
+      "t": 1559.55,
+      "text": "It's about aligning expectations and making sure the employee understands how their work contributes to the bigger picture."
+    },
+    {
+      "t": 1566.26,
+      "text": "So it's a two-way conversation."
+    },
+    {
+      "t": 1567.97,
+      "text": "Exactly."
+    },
+    {
+      "t": 1568.45,
+      "text": "Not a dictate."
+    },
+    {
+      "t": 1569.31,
+      "text": "Right."
+    },
+    {
+      "t": 1569.59,
+      "text": "Everyone loves recognition."
+    },
+    {
+      "t": 1571.13,
+      "text": "Of course."
+    },
+    {
+      "t": 1571.56,
+      "text": "But hearing your contributions have been highly valued can sometimes feel generic."
+    },
+    {
+      "t": 1576.81,
+      "text": "Yeah."
+    },
+    {
+      "t": 1577.31,
+      "text": "It needs to be more specific."
+    },
+    {
+      "t": 1579.01,
+      "text": "How can companies make it more meaningful?"
+    },
+    {
+      "t": 1581.22,
+      "text": "Highlight a specific action or achievement."
+    },
+    {
+      "t": 1584.82,
+      "text": "Like what?"
+    },
+    {
+      "t": 1585.48,
+      "text": "Maybe the way you handled that client issue was exceptional and it really saved the day."
+    },
+    {
+      "t": 1590.75,
+      "text": "Oh, wow."
+    },
+    {
+      "t": 1591.25,
+      "text": "That's much better."
+    },
+    {
+      "t": 1592.35,
+      "text": "It's more impactful and memorable."
+    },
+    {
+      "t": 1594.47,
+      "text": "Okay, so now for the elephant in the room."
+    },
+    {
+      "t": 1597.06,
+      "text": "Oh, boy."
+    },
+    {
+      "t": 1597.68,
+      "text": "There's room for improvement."
+    },
+    {
+      "t": 1599.2,
+      "text": "Nobody likes hearing that."
+    },
+    {
+      "t": 1601.32,
+      "text": "It's true, but it's a reality of work life."
+    },
+    {
+      "t": 1604.75,
+      "text": "Unfortunately."
+    },
+    {
+      "t": 1605.79,
+      "text": "So how can managers deliver this feedback constructively?"
+    },
+    {
+      "t": 1609.49,
+      "text": "Frame it as an opportunity for growth."
+    },
+    {
+      "t": 1611.73,
+      "text": "Okay."
+    },
+    {
+      "t": 1612.17,
+      "text": "Instead of focusing on what went wrong, focus on how to improve."
+    },
+    {
+      "t": 1617.28,
+      "text": "Do you think you can give me an example?"
+    },
+    {
+      "t": 1618.76,
+      "text": "Sure."
+    },
+    {
+      "t": 1619.04,
+      "text": "Like, I've noticed that your presentations sometimes lose focus."
+    },
+    {
+      "t": 1623.34,
+      "text": "Let's work together to develop some techniques to keep your audience engaged."
+    },
+    {
+      "t": 1627.23,
+      "text": "That's much better."
+    },
+    {
+      "t": 1627.95,
+      "text": "It's about offering support."
+    },
+    {
+      "t": 1629.19,
+      "text": "Exactly."
+    },
+    {
+      "t": 1629.87,
+      "text": "All right."
+    },
+    {
+      "t": 1630.15,
+      "text": "Now let's dive into employee relations."
+    },
+    {
+      "t": 1632.83,
+      "text": "Okay."
+    },
+    {
+      "t": 1632.95,
+      "text": "What's the message behind employee relations?"
+    },
+    {
+      "t": 1635.23,
+      "text": "we encourage open communication."
+    },
+    {
+      "t": 1637.42,
+      "text": "It's a statement of values."
+    },
+    {
+      "t": 1639.38,
+      "text": "Meaning?"
+    },
+    {
+      "t": 1639.76,
+      "text": "The company values feedback and welcomes ideas."
+    },
+    {
+      "t": 1643.84,
+      "text": "But it's not enough to just say it, right?"
+    },
+    {
+      "t": 1645.77,
+      "text": "No, they have to show it."
+    },
+    {
+      "t": 1647.27,
+      "text": "By actively listening, responding to feedback, creating safe spaces for dialogue."
+    },
+    {
+      "t": 1652.43,
+      "text": "So walking the walk, not just talking the talk."
+    },
+    {
+      "t": 1655.4,
+      "text": "Exactly."
+    },
+    {
+      "t": 1655.96,
+      "text": "Conflicts are bound to happen."
+    },
+    {
+      "t": 1657.22,
+      "text": "In any workplace, yes."
+    },
+    {
+      "t": 1658.56,
+      "text": "What's the significance of, let's address this matter professionally?"
+    },
+    {
+      "t": 1663.16,
+      "text": "It sets the tone."
+    },
+    {
+      "t": 1664.27,
+      "text": "For what?"
+    },
+    {
+      "t": 1664.85,
+      "text": "A respectful and solution-oriented approach."
+    },
+    {
+      "t": 1667.91,
+      "text": "I see."
+    },
+    {
+      "t": 1668.53,
+      "text": "It's about acknowledging the issue and encouraging dialogue."
+    },
+    {
+      "t": 1671.98,
+      "text": "While staying professional."
+    },
+    {
+      "t": 1673.42,
+      "text": "Of course."
+    },
+    {
+      "t": 1674.1,
+      "text": "What about, this is a safe space to discuss your concerns."
+    },
+    {
+      "t": 1677.66,
+      "text": "It's about creating a culture of trust."
+    },
+    {
+      "t": 1679.95,
+      "text": "So employees feel safe to speak up."
+    },
+    {
+      "t": 1682.53,
+      "text": "Exactly."
+    },
+    {
+      "t": 1682.87,
+      "text": "Without fear of repercussions."
+    },
+    {
+      "t": 1684.23,
+      "text": "Right."
+    },
+    {
+      "t": 1684.91,
+      "text": "Okay, so we've covered a lot of ground."
+    },
+    {
+      "t": 1686.96,
+      "text": "We have."
+    },
+    {
+      "t": 1687.7,
+      "text": "From recruitment to employee relations."
+    },
+    {
+      "t": 1690.18,
+      "text": "And everything in between."
+    },
+    {
+      "t": 1691.9,
+      "text": "It's fascinating how much strategy and nuance is packed into these phrases."
+    },
+    {
+      "t": 1695.93,
+      "text": "It really is."
+    },
+    {
+      "t": 1696.63,
+      "text": "Ready to keep exploring."
+    },
+    {
+      "t": 1698.02,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1698.52,
+      "text": "Let's do it."
+    },
+    {
+      "t": 1698.96,
+      "text": "Let's go behind the scenes a bit."
+    },
+    {
+      "t": 1700.2,
+      "text": "Okay."
+    },
+    {
+      "t": 1700.32,
+      "text": "What do you have in mind?"
+    },
+    {
+      "t": 1701.37,
+      "text": "Phrases you might not hear every day but are still super important."
+    },
+    {
+      "t": 1705.01,
+      "text": "Got it."
+    },
+    {
+      "t": 1705.54,
+      "text": "Like, have you ever heard of an ATS?"
+    },
+    {
+      "t": 1707.4,
+      "text": "Yes."
+    },
+    {
+      "t": 1708.22,
+      "text": "Uh, maybe."
+    },
+    {
+      "t": 1710.3,
+      "text": "Vaguely."
+    },
+    {
+      "t": 1711.12,
+      "text": "Applicant tracking system."
+    },
+    {
+      "t": 1712.93,
+      "text": "Oh, right."
+    },
+    {
+      "t": 1713.43,
+      "text": "But what is it exactly?"
+    },
+    {
+      "t": 1714.89,
+      "text": "Think of it like a digital gatekeeper for resumes."
+    },
+    {
+      "t": 1718.12,
+      "text": "Hmm."
+    },
+    {
+      "t": 1718.64,
+      "text": "Is that all?"
+    },
+    {
+      "t": 1719.2,
+      "text": "It uses algorithms to scan through tons of applications, hundreds, even thousands sometimes."
+    },
+    {
+      "t": 1725.97,
+      "text": "Wow."
+    },
+    {
+      "t": 1726.51,
+      "text": "So it's not just about having a good resume."
+    },
+    {
+      "t": 1728.45,
+      "text": "It's about having a resume the ATS understands."
+    },
+    {
+      "t": 1731.38,
+      "text": "So how do you do that?"
+    },
+    {
+      "t": 1732.34,
+      "text": "Pay close attention to the keywords in the job description."
+    },
+    {
+      "t": 1735.46,
+      "text": "Make sure those are in your resume."
+    },
+    {
+      "t": 1737.23,
+      "text": "Use clear language."
+    },
+    {
+      "t": 1739.07,
+      "text": "Avoid jargon or weird formatting."
+    },
+    {
+      "t": 1741.64,
+      "text": "So basically make it easy for the ATS to find your skills."
+    },
+    {
+      "t": 1744.3,
+      "text": "Exactly."
+    },
+    {
+      "t": 1745.34,
+      "text": "All right."
+    },
+    {
+      "t": 1745.72,
+      "text": "Let's talk about onboarding."
+    },
+    {
+      "t": 1747.43,
+      "text": "We talked about the basics."
+    },
+    {
+      "t": 1749.45,
+      "text": "Welcome aboard the handbook."
+    },
+    {
+      "t": 1751.27,
+      "text": "But there's more to it than that, right?"
+    },
+    {
+      "t": 1752.94,
+      "text": "Onboarding is a process."
+    },
+    {
+      "t": 1754.88,
+      "text": "Not just an event."
+    },
+    {
+      "t": 1755.92,
+      "text": "Exactly."
+    },
+    {
+      "t": 1756.46,
+      "text": "It's an ongoing journey."
+    },
+    {
+      "t": 1757.73,
+      "text": "Of what?"
+    },
+    {
+      "t": 1758.81,
+      "text": "Integrating new hires into the company."
+    },
+    {
+      "t": 1760.95,
+      "text": "The culture, the work, everything."
+    },
+    {
+      "t": 1762.88,
+      "text": "Yep."
+    },
+    {
+      "t": 1763.12,
+      "text": "Setting them up for success."
+    },
+    {
+      "t": 1765.14,
+      "text": "I see."
+    },
+    {
+      "t": 1765.58,
+      "text": "But sometimes companies just focus on the logistics."
+    },
+    {
+      "t": 1767.99,
+      "text": "Paperwork, forms, all that."
+    },
+    {
+      "t": 1769.93,
+      "text": "Yeah."
+    },
+    {
+      "t": 1770.35,
+      "text": "How can they make it more engaging?"
+    },
+    {
+      "t": 1771.99,
+      "text": "Get creative."
+    },
+    {
+      "t": 1773.67,
+      "text": "Use gamification challenges."
+    },
+    {
+      "t": 1776.36,
+      "text": "Maybe new hires earn points for completing modules."
+    },
+    {
+      "t": 1779.94,
+      "text": "Okay."
+    },
+    {
+      "t": 1780.54,
+      "text": "Or do a scavenger hunt to learn about different departments."
+    },
+    {
+      "t": 1783.22,
+      "text": "Oh, that's fun."
+    },
+    {
+      "t": 1783.97,
+      "text": "It makes it more interactive and memorable."
+    },
+    {
+      "t": 1785.83,
+      "text": "I like it."
+    },
+    {
+      "t": 1786.97,
+      "text": "All right."
+    },
+    {
+      "t": 1787.19,
+      "text": "Let's talk about keeping employees engaged."
+    },
+    {
+      "t": 1789.75,
+      "text": "Retention."
+    },
+    {
+      "t": 1790.54,
+      "text": "Right."
+    },
+    {
+      "t": 1791.06,
+      "text": "Exactly."
+    },
+    {
+      "t": 1791.72,
+      "text": "What's the key phrase here?"
+    },
+    {
+      "t": 1793.24,
+      "text": "Employee value proposition."
+    },
+    {
+      "t": 1794.74,
+      "text": "EVP."
+    },
+    {
+      "t": 1796.22,
+      "text": "That's it."
+    },
+    {
+      "t": 1797.16,
+      "text": "But what does it mean?"
+    },
+    {
+      "t": 1798.39,
+      "text": "It's why someone would want to work at your company."
+    },
+    {
+      "t": 1800.76,
+      "text": "Beyond just the salary."
+    },
+    {
+      "t": 1802.09,
+      "text": "Right."
+    },
+    {
+      "t": 1802.39,
+      "text": "The culture, the great opportunities, the meaningful work."
+    },
+    {
+      "t": 1805.84,
+      "text": "So it's the whole package."
+    },
+    {
+      "t": 1807.27,
+      "text": "It's what attracts and keeps good people."
+    },
+    {
+      "t": 1810.09,
+      "text": "A lot of companies struggle with this, don't they?"
+    },
+    {
+      "t": 1811.8,
+      "text": "Defining their EVP."
+    },
+    {
+      "t": 1813.18,
+      "text": "Yeah."
+    },
+    {
+      "t": 1813.62,
+      "text": "They do."
+    },
+    {
+      "t": 1814.2,
+      "text": "What's the best way to do it?"
+    },
+    {
+      "t": 1815.7,
+      "text": "Listen to your employees."
+    },
+    {
+      "t": 1817.46,
+      "text": "Okay."
+    },
+    {
+      "t": 1817.88,
+      "text": "What do they value?"
+    },
+    {
+      "t": 1819.68,
+      "text": "Makes sense."
+    },
+    {
+      "t": 1820.53,
+      "text": "Use that to create an EVP that resonates."
+    },
+    {
+      "t": 1823.53,
+      "text": "Authentic and aligned."
+    },
+    {
+      "t": 1824.83,
+      "text": "Exactly."
+    },
+    {
+      "t": 1825.83,
+      "text": "Okay."
+    },
+    {
+      "t": 1825.99,
+      "text": "How about this stay interview?"
+    },
+    {
+      "t": 1828.82,
+      "text": "Interesting one."
+    },
+    {
+      "t": 1829.7,
+      "text": "Seems counterintuitive."
+    },
+    {
+      "t": 1830.98,
+      "text": "It is a bit."
+    },
+    {
+      "t": 1831.74,
+      "text": "I do them."
+    },
+    {
+      "t": 1832.38,
+      "text": "Instead of waiting for someone to quit."
+    },
+    {
+      "t": 1834.38,
+      "text": "Right."
+    },
+    {
+      "t": 1834.6,
+      "text": "You talk to them about what's working, what's not."
+    },
+    {
+      "t": 1836.82,
+      "text": "Before they even think about leaving."
+    },
+    {
+      "t": 1838.51,
+      "text": "Exactly."
+    },
+    {
+      "t": 1839.17,
+      "text": "It's proactive."
+    },
+    {
+      "t": 1840.11,
+      "text": "But would people be honest?"
+    },
+    {
+      "t": 1841.27,
+      "text": "That's where trust comes in."
+    },
+    {
+      "t": 1842.28,
+      "text": "A safe space to talk."
+    },
+    {
+      "t": 1843.7,
+      "text": "Right."
+    },
+    {
+      "t": 1843.92,
+      "text": "It's a conversation, not an interrogation."
+    },
+    {
+      "t": 1846.18,
+      "text": "Okay."
+    },
+    {
+      "t": 1846.5,
+      "text": "Let's talk about growth and development."
+    },
+    {
+      "t": 1849.29,
+      "text": "Creep having is a big one."
+    },
+    {
+      "t": 1850.83,
+      "text": "It is."
+    },
+    {
+      "t": 1851.76,
+      "text": "But what does it actually mean?"
+    },
+    {
+      "t": 1853.09,
+      "text": "Empowering employees to own their careers."
+    },
+    {
+      "t": 1857.26,
+      "text": "Help them figure out their goals."
+    },
+    {
+      "t": 1859.36,
+      "text": "Provide guidance, resources."
+    },
+    {
+      "t": 1861.66,
+      "text": "Exactly."
+    },
+    {
+      "t": 1862.35,
+      "text": "And create opportunities for them to grow."
+    },
+    {
+      "t": 1864.61,
+      "text": "So it's more than just an annual review."
+    },
+    {
+      "t": 1867.37,
+      "text": "Much more."
+    },
+    {
+      "t": 1867.89,
+      "text": "How can companies make it ongoing?"
+    },
+    {
+      "t": 1870.02,
+      "text": "Mentorship programs, skill assessments, job shadowing."
+    },
+    {
+      "t": 1874.22,
+      "text": "I see."
+    },
+    {
+      "t": 1874.7,
+      "text": "Even internal talent marketplaces."
+    },
+    {
+      "t": 1876.94,
+      "text": "What's that?"
+    },
+    {
+      "t": 1877.49,
+      "text": "Where employees can express interest in different projects or roles."
+    },
+    {
+      "t": 1882.97,
+      "text": "Oh, I like that."
+    },
+    {
+      "t": 1883.69,
+      "text": "It's about continuous learning."
+    },
+    {
+      "t": 1885.5,
+      "text": "Essential in today's world."
+    },
+    {
+      "t": 1886.92,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1887.44,
+      "text": "We can't forget about recognition."
+    },
+    {
+      "t": 1890.52,
+      "text": "Important one."
+    },
+    {
+      "t": 1891.26,
+      "text": "Recognition program."
+    },
+    {
+      "t": 1893.07,
+      "text": "But how do you make it meaningful?"
+    },
+    {
+      "t": 1895.19,
+      "text": "Make it personal."
+    },
+    {
+      "t": 1896.92,
+      "text": "Peer to peer recognition."
+    },
+    {
+      "t": 1898.48,
+      "text": "Spot bonuses, timely rewards."
+    },
+    {
+      "t": 1902.39,
+      "text": "So not just a generic employee of the month."
+    },
+    {
+      "t": 1905.01,
+      "text": "No, it needs to be specific and genuine."
+    },
+    {
+      "t": 1907.43,
+      "text": "All right."
+    },
+    {
+      "t": 1907.65,
+      "text": "Let's talk about the other side of retention."
+    },
+    {
+      "t": 1909.24,
+      "text": "The flip side."
+    },
+    {
+      "t": 1910.02,
+      "text": "Employee turnover."
+    },
+    {
+      "t": 1911.3,
+      "text": "Yeah."
+    },
+    {
+      "t": 1911.7,
+      "text": "What's the significance of this phrase?"
+    },
+    {
+      "t": 1913.29,
+      "text": "It tells you how healthy your organization is."
+    },
+    {
+      "t": 1915.55,
+      "text": "Really?"
+    },
+    {
+      "t": 1916.11,
+      "text": "High turnover means something's wrong."
+    },
+    {
+      "t": 1918.57,
+      "text": "Like what?"
+    },
+    {
+      "t": 1919.41,
+      "text": "Low morale, no growth opportunities, bad management."
+    },
+    {
+      "t": 1922.94,
+      "text": "There's a warning sign."
+    },
+    {
+      "t": 1924.08,
+      "text": "It is."
+    },
+    {
+      "t": 1924.4,
+      "text": "You need to figure out why people are leaving."
+    },
+    {
+      "t": 1926.34,
+      "text": "And fix it?"
+    },
+    {
+      "t": 1927.4,
+      "text": "Exactly."
+    },
+    {
+      "t": 1928.25,
+      "text": "Create a place where people want to stay."
+    },
+    {
+      "t": 1930.13,
+      "text": "Okay."
+    },
+    {
+      "t": 1930.51,
+      "text": "All of this happens within the context of?"
+    },
+    {
+      "t": 1932.85,
+      "text": "Of what?"
+    },
+    {
+      "t": 1933.33,
+      "text": "Organizational culture."
+    },
+    {
+      "t": 1934.89,
+      "text": "Ah, the big one."
+    },
+    {
+      "t": 1936.24,
+      "text": "It's a buzzword, but what does it really mean?"
+    },
+    {
+      "t": 1938.43,
+      "text": "It's the invisible force that shapes everything."
+    },
+    {
+      "t": 1941.79,
+      "text": "Everything."
+    },
+    {
+      "t": 1942.29,
+      "text": "How decisions are made."
+    },
+    {
+      "t": 1943.43,
+      "text": "Okay."
+    },
+    {
+      "t": 1943.71,
+      "text": "How people interact."
+    },
+    {
+      "t": 1945.06,
+      "text": "It's the personality of the company."
+    },
+    {
+      "t": 1946.46,
+      "text": "You got it."
+    },
+    {
+      "t": 1947.54,
+      "text": "So how do you create a positive culture?"
+    },
+    {
+      "t": 1949.4,
+      "text": "It starts with leadership."
+    },
+    {
+      "t": 1951.28,
+      "text": "Leaders who live the values, communicate clearly, create a sense of purpose."
+    },
+    {
+      "t": 1955.15,
+      "text": "It's not just about perks and fun stuff."
+    },
+    {
+      "t": 1957.03,
+      "text": "No, it's much deeper than that."
+    },
+    {
+      "t": 1958.87,
+      "text": "All right, let's move on to performance evaluations."
+    },
+    {
+      "t": 1961.43,
+      "text": "Okay."
+    },
+    {
+      "t": 1962.04,
+      "text": "Key performance indicators."
+    },
+    {
+      "t": 1964.33,
+      "text": "KPIs."
+    },
+    {
+      "t": 1965.23,
+      "text": "What's the strategy with those?"
+    },
+    {
+      "t": 1966.58,
+      "text": "KPIs are a way to track progress."
+    },
+    {
+      "t": 1970.38,
+      "text": "Towards goals."
+    },
+    {
+      "t": 1971.28,
+      "text": "Right, but they need to be the right KPIs."
+    },
+    {
+      "t": 1973.67,
+      "text": "Meaning?"
+    },
+    {
+      "t": 1974.21,
+      "text": "Aligned with individual role and business objectives."
+    },
+    {
+      "t": 1977.45,
+      "text": "So not just random metrics."
+    },
+    {
+      "t": 1979.17,
+      "text": "No, they should be meaningful and drive performance."
+    },
+    {
+      "t": 1981.84,
+      "text": "What about 360 degree feedback?"
+    },
+    {
+      "t": 1984.62,
+      "text": "That's a good one."
+    },
+    {
+      "t": 1985.53,
+      "text": "Seems more holistic."
+    },
+    {
+      "t": 1986.76,
+      "text": "It is, you get feedback from everyone."
+    },
+    {
+      "t": 1988.92,
+      "text": "Your boss, your peers."
+    },
+    {
+      "t": 1990.42,
+      "text": "Even your subordinates."
+    },
+    {
+      "t": 1991.72,
+      "text": "Wow, that's a lot of feedback."
+    },
+    {
+      "t": 1993.52,
+      "text": "It gives you a well-rounded view."
+    },
+    {
+      "t": 1995.33,
+      "text": "But could it get messy?"
+    },
+    {
+      "t": 1996.63,
+      "text": "It can if it's not done right."
+    },
+    {
+      "t": 1998.51,
+      "text": "So how do you do it right?"
+    },
+    {
+      "t": 1999.97,
+      "text": "Clear guidelines, constructive criticism."
+    },
+    {
+      "t": 2002.83,
+      "text": "Focus on development, not judgment."
+    },
+    {
+      "t": 2005.39,
+      "text": "Exactly."
+    },
+    {
+      "t": 2006.02,
+      "text": "For new hires, there's often a probation period."
+    },
+    {
+      "t": 2009.28,
+      "text": "Yeah, that's standard."
+    },
+    {
+      "t": 2010.72,
+      "text": "What's the purpose?"
+    },
+    {
+      "t": 2011.48,
+      "text": "It's a trial period."
+    },
+    {
+      "t": 2012.68,
+      "text": "For both sides."
+    },
+    {
+      "t": 2013.64,
+      "text": "Right, the employee and the employer."
+    },
+    {
+      "t": 2015.85,
+      "text": "So they can see if it's a good fit."
+    },
+    {
+      "t": 2017.71,
+      "text": "Exactly."
+    },
+    {
+      "t": 2018.6,
+      "text": "But wouldn't that make new hires anxious?"
+    },
+    {
+      "t": 2020.7,
+      "text": "It could, but clear communication is key."
+    },
+    {
+      "t": 2024.27,
+      "text": "So they know what's expected."
+    },
+    {
+      "t": 2025.65,
+      "text": "Regular check-ins are important too."
+    },
+    {
+      "t": 2027.33,
+      "text": "Make it a collaborative experience."
+    },
+    {
+      "t": 2029.09,
+      "text": "Exactly."
+    },
+    {
+      "t": 2029.81,
+      "text": "Okay, what happens when performance isn't good?"
+    },
+    {
+      "t": 2032.68,
+      "text": "Then you might have a PIP."
+    },
+    {
+      "t": 2034.89,
+      "text": "Performance improvement plan."
+    },
+    {
+      "t": 2036.37,
+      "text": "Yep."
+    },
+    {
+      "t": 2037.25,
+      "text": "But it shouldn't be scary."
+    },
+    {
+      "t": 2038.78,
+      "text": "How so?"
+    },
+    {
+      "t": 2039.6,
+      "text": "It's an opportunity to get back on track."
+    },
+    {
+      "t": 2041.7,
+      "text": "With support and clear goals."
+    },
+    {
+      "t": 2043.57,
+      "text": "Right."
+    },
+    {
+      "t": 2043.81,
+      "text": "It's about improvement, not punishment."
+    },
+    {
+      "t": 2046.24,
+      "text": "I like that."
+    },
+    {
+      "t": 2046.82,
+      "text": "Now what about when someone's doing great?"
+    },
+    {
+      "t": 2049.25,
+      "text": "Time for a reward."
+    },
+    {
+      "t": 2050.51,
+      "text": "Like merit-based pay."
+    },
+    {
+      "t": 2052.21,
+      "text": "That's one way."
+    },
+    {
+      "t": 2053.37,
+      "text": "But it can be controversial."
+    },
+    {
+      "t": 2054.97,
+      "text": "It can."
+    },
+    {
+      "t": 2055.43,
+      "text": "It needs to be fair."
+    },
+    {
+      "t": 2056.42,
+      "text": "Meaning?"
+    },
+    {
+      "t": 2056.84,
+      "text": "Based on clear criteria, transparently communicated."
+    },
+    {
+      "t": 2060.28,
+      "text": "So everyone knows how it works."
+    },
+    {
+      "t": 2061.5,
+      "text": "Exactly."
+    },
+    {
+      "t": 2062.28,
+      "text": "All right."
+    },
+    {
+      "t": 2062.53,
+      "text": "Let's talk about compliance and policy."
+    },
+    {
+      "t": 2064.99,
+      "text": "Okay."
+    },
+    {
+      "t": 2065.27,
+      "text": "Starting with EEO."
+    },
+    {
+      "t": 2067.13,
+      "text": "Equal Employment Opportunity."
+    },
+    {
+      "t": 2068.91,
+      "text": "What does that actually mean in practice?"
+    },
+    {
+      "t": 2070.94,
+      "text": "It means everyone has a fair chance."
+    },
+    {
+      "t": 2073.16,
+      "text": "Regardless of their background."
+    },
+    {
+      "t": 2074.54,
+      "text": "Right."
+    },
+    {
+      "t": 2074.72,
+      "text": "No discrimination."
+    },
+    {
+      "t": 2075.98,
+      "text": "So how do you create a culture of EEO?"
+    },
+    {
+      "t": 2078.27,
+      "text": "Leadership commitment, diversity training, open dialogue, accountability."
+    },
+    {
+      "t": 2084.3,
+      "text": "It's about creating a truly inclusive workplace."
+    },
+    {
+      "t": 2086.99,
+      "text": "That's the goal."
+    },
+    {
+      "t": 2088.04,
+      "text": "Speaking of inclusivity, workplace harassment policy."
+    },
+    {
+      "t": 2091.51,
+      "text": "Can't forget that one."
+    },
+    {
+      "t": 2092.65,
+      "text": "But just having a policy isn't enough."
+    },
+    {
+      "t": 2095.3,
+      "text": "No, you need to enforce it."
+    },
+    {
+      "t": 2096.84,
+      "text": "And create a culture of respect."
+    },
+    {
+      "t": 2098.34,
+      "text": "Exactly."
+    },
+    {
+      "t": 2098.78,
+      "text": "Provide training, clear reporting mechanisms."
+    },
+    {
+      "t": 2101.83,
+      "text": "So people feel safe to speak up."
+    },
+    {
+      "t": 2104.01,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2104.65,
+      "text": "Code of conduct is another important one."
+    },
+    {
+      "t": 2106.21,
+      "text": "Sets the ethical standards."
+    },
+    {
+      "t": 2107.72,
+      "text": "But how do you make it more than just words on paper?"
+    },
+    {
+      "t": 2110.08,
+      "text": "Live it every day."
+    },
+    {
+      "t": 2111.6,
+      "text": "Meanwhile."
+    },
+    {
+      "t": 2112.14,
+      "text": "Review it regularly."
+    },
+    {
+      "t": 2113.12,
+      "text": "Provide training."
+    },
+    {
+      "t": 2115.13,
+      "text": "Hold people accountable."
+    },
+    {
+      "t": 2115.99,
+      "text": "Make ethics part of your DNA."
+    },
+    {
+      "t": 2117.63,
+      "text": "What about the grievance procedure?"
+    },
+    {
+      "t": 2119.83,
+      "text": "Important for resolving issues fairly."
+    },
+    {
+      "t": 2122.07,
+      "text": "So employees have a way to voice concerns."
+    },
+    {
+      "t": 2125.28,
+      "text": "Without fear of retaliation."
+    },
+    {
+      "t": 2126.84,
+      "text": "And finally, compliance training."
+    },
+    {
+      "t": 2129.74,
+      "text": "Everyone's favorite."
+    },
+    {
+      "t": 2131.48,
+      "text": "I know, but it's necessary."
+    },
+    {
+      "t": 2133.05,
+      "text": "It is, but how do you make it less boring?"
+    },
+    {
+      "t": 2135.92,
+      "text": "That's the challenge."
+    },
+    {
+      "t": 2136.92,
+      "text": "Get creative."
+    },
+    {
+      "t": 2137.78,
+      "text": "Again."
+    },
+    {
+      "t": 2138.14,
+      "text": "Always."
+    },
+    {
+      "t": 2139.7,
+      "text": "Use scenarios, games, make it relevant."
+    },
+    {
+      "t": 2142.05,
+      "text": "So people actually learn something."
+    },
+    {
+      "t": 2143.83,
+      "text": "Exactly."
+    },
+    {
+      "t": 2144.45,
+      "text": "Turn it into a positive experience."
+    },
+    {
+      "t": 2146.4,
+      "text": "Wow."
+    },
+    {
+      "t": 2146.76,
+      "text": "We've covered so much."
+    },
+    {
+      "t": 2148.1,
+      "text": "We have."
+    },
+    {
+      "t": 2148.82,
+      "text": "From A to Z of HR."
+    },
+    {
+      "t": 2150.46,
+      "text": "It's amazing how much these phrases matter."
+    },
+    {
+      "t": 2152.53,
+      "text": "They really do."
+    },
+    {
+      "t": 2153.17,
+      "text": "They shape the whole employee experience."
+    },
+    {
+      "t": 2155.54,
+      "text": "I used to think they were just about being formal, you know."
+    },
+    {
+      "t": 2158.09,
+      "text": "It's this procedure."
+    },
+    {
+      "t": 2159.09,
+      "text": "Yeah."
+    },
+    {
+      "t": 2159.49,
+      "text": "But now I see them differently."
+    },
+    {
+      "t": 2160.81,
+      "text": "How so?"
+    },
+    {
+      "t": 2161.49,
+      "text": "They're tools for creating a good workplace."
+    },
+    {
+      "t": 2163.85,
+      "text": "A positive and productive environment."
+    },
+    {
+      "t": 2166.12,
+      "text": "Exactly."
+    },
+    {
+      "t": 2166.62,
+      "text": "And anyone can benefit from understanding them."
+    },
+    {
+      "t": 2169.14,
+      "text": "That's true."
+    },
+    {
+      "t": 2169.9,
+      "text": "No matter your role."
+    },
+    {
+      "t": 2170.8,
+      "text": "It's about communication and understanding the dynamics."
+    },
+    {
+      "t": 2173.49,
+      "text": "I feel like we've only scratched the surface."
+    },
+    {
+      "t": 2175.51,
+      "text": "We have."
+    },
+    {
+      "t": 2176.13,
+      "text": "There's always more to explore."
+    },
+    {
+      "t": 2177.55,
+      "text": "This has been a great deep dive, though."
+    },
+    {
+      "t": 2179.58,
+      "text": "I agree."
+    },
+    {
+      "t": 2180.0,
+      "text": "It's been fun."
+    },
+    {
+      "t": 2180.66,
+      "text": "So as we wrap up, any final thoughts for our listeners?"
+    },
+    {
+      "t": 2184.4,
+      "text": "Just pay attention to the language around you."
+    },
+    {
+      "t": 2186.96,
+      "text": "At work."
+    },
+    {
+      "t": 2187.6,
+      "text": "Everywhere, really, but especially at work."
+    },
+    {
+      "t": 2190.01,
+      "text": "What should we be listening for?"
+    },
+    {
+      "t": 2191.69,
+      "text": "Not just the words themselves."
+    },
+    {
+      "t": 2193.01,
+      "text": "But the meaning behind them."
+    },
+    {
+      "t": 2194.29,
+      "text": "Exactly, the intentions, the impact."
+    },
+    {
+      "t": 2196.51,
+      "text": "It's like being a language detective."
+    },
+    {
+      "t": 2198.24,
+      "text": "Kind of."
+    },
+    {
+      "t": 2199.16,
+      "text": "Being mindful of the power of words."
+    },
+    {
+      "t": 2201.06,
+      "text": "I like that."
+    },
+    {
+      "t": 2201.74,
+      "text": "Using language to make work better."
+    },
+    {
+      "t": 2203.44,
+      "text": "For everyone."
+    },
+    {
+      "t": 2205.11,
+      "text": "Well said."
+    },
+    {
+      "t": 2205.57,
+      "text": "Thanks for joining us on this deep dive, everyone."
+    },
+    {
+      "t": 2207.71,
+      "text": "It's been a pleasure."
+    },
+    {
+      "t": 2208.95,
+      "text": "Remember, clear communication is key to a thriving workplace."
+    },
+    {
+      "t": 2213.26,
+      "text": "Until next time."
+    },
+    {
+      "t": 2218.47,
+      "text": "Thank you."
+    }
+  ],
+  "lemmas": [
+    [
+      "exactly",
+      46
+    ],
+    [
+      "person",
+      45
+    ],
+    [
+      "good",
+      35
+    ],
+    [
+      "make",
+      34
+    ],
+    [
+      "get",
+      34
+    ],
+    [
+      "talk",
+      33
+    ],
+    [
+      "need",
+      29
+    ],
+    [
+      "work",
+      26
+    ],
+    [
+      "compani",
+      26
+    ],
+    [
+      "employe",
+      26
+    ],
+    [
+      "mak",
+      25
+    ],
+    [
+      "thing",
+      25
+    ],
+    [
+      "feel",
+      25
+    ],
+    [
+      "review",
+      24
+    ],
+    [
+      "one",
+      22
+    ],
+    [
+      "performance",
+      22
+    ],
+    [
+      "everyone",
+      21
+    ],
+    [
+      "know",
+      21
+    ],
+    [
+      "company",
+      21
+    ],
+    [
+      "employee",
+      21
+    ],
+    [
+      "feedback",
+      20
+    ],
+    [
+      "job",
+      19
+    ],
+    [
+      "oh",
+      19
+    ],
+    [
+      "think",
+      19
+    ],
+    [
+      "open",
+      18
+    ],
+    [
+      "see",
+      18
+    ],
+    [
+      "weve",
+      17
+    ],
+    [
+      "culture",
+      17
+    ],
+    [
+      "want",
+      17
+    ],
+    [
+      "sure",
+      17
+    ],
+    [
+      "important",
+      16
+    ],
+    [
+      "say",
+      16
+    ],
+    [
+      "mean",
+      16
+    ],
+    [
+      "way",
+      16
+    ],
+    [
+      "hr",
+      15
+    ],
+    [
+      "even",
+      15
+    ],
+    [
+      "interview",
+      15
+    ],
+    [
+      "ther",
+      15
+    ],
+    [
+      "workplace",
+      14
+    ],
+    [
+      "show",
+      13
+    ],
+    [
+      "go",
+      13
+    ],
+    [
+      "talent",
+      12
+    ],
+    [
+      "hir",
+      12
+    ],
+    [
+      "whole",
+      12
+    ],
+    [
+      "deep",
+      11
+    ],
+    [
+      "dive",
+      11
+    ],
+    [
+      "phras",
+      11
+    ],
+    [
+      "much",
+      11
+    ],
+    [
+      "part",
+      11
+    ],
+    [
+      "communication",
+      11
+    ],
+    [
+      "exit",
+      11
+    ],
+    [
+      "valu",
+      11
+    ],
+    [
+      "keep",
+      10
+    ],
+    [
+      "different",
+      10
+    ],
+    [
+      "start",
+      10
+    ],
+    [
+      "process",
+      10
+    ],
+    [
+      "check",
+      10
+    ],
+    [
+      "professional",
+      10
+    ],
+    [
+      "lot",
+      10
+    ],
+    [
+      "sense",
+      10
+    ],
+    [
+      "instead",
+      10
+    ],
+    [
+      "goal",
+      10
+    ],
+    [
+      "absolutely",
+      10
+    ],
+    [
+      "creat",
+      10
+    ],
+    [
+      "hear",
+      9
+    ],
+    [
+      "understand",
+      9
+    ],
+    [
+      "find",
+      9
+    ],
+    [
+      "com",
+      9
+    ],
+    [
+      "candidate",
+      9
+    ],
+    [
+      "human",
+      9
+    ],
+    [
+      "great",
+      9
+    ],
+    [
+      "clear",
+      9
+    ],
+    [
+      "development",
+      9
+    ],
+    [
+      "interest",
+      9
+    ],
+    [
+      "opportuniti",
+      9
+    ],
+    [
+      "focus",
+      9
+    ],
+    [
+      "speak",
+      8
+    ],
+    [
+      "attract",
+      8
+    ],
+    [
+      "candidat",
+      8
+    ],
+    [
+      "skill",
+      8
+    ],
+    [
+      "maybe",
+      8
+    ],
+    [
+      "seem",
+      8
+    ],
+    [
+      "salary",
+      8
+    ],
+    [
+      "benefit",
+      8
+    ],
+    [
+      "background",
+      8
+    ],
+    [
+      "someth",
+      8
+    ],
+    [
+      "cover",
+      8
+    ],
+    [
+      "conversation",
+      8
+    ],
+    [
+      "someone",
+      8
+    ],
+    [
+      "day",
+      8
+    ],
+    [
+      "conflict",
+      8
+    ],
+    [
+      "policy",
+      8
+    ],
+    [
+      "safe",
+      8
+    ],
+    [
+      "set",
+      8
+    ],
+    [
+      "leav",
+      8
+    ],
+    [
+      "stay",
+      8
+    ],
+    [
+      "behind",
+      8
+    ],
+    [
+      "create",
+      8
+    ],
+    [
+      "sometim",
+      8
+    ],
+    [
+      "language",
+      8
+    ],
+    [
+      "welcome",
+      7
+    ],
+    [
+      "look",
+      7
+    ],
+    [
+      "term",
+      7
+    ],
+    [
+      "ah",
+      7
+    ],
+    [
+      "resume",
+      7
+    ],
+    [
+      "experience",
+      7
+    ],
+    [
+      "definitely",
+      7
+    ],
+    [
+      "point",
+      7
+    ],
+    [
+      "new",
+      7
+    ],
+    [
+      "happen",
+      7
+    ],
+    [
+      "back",
+      7
+    ],
+    [
+      "wow",
+      7
+    ],
+    [
+      "honest",
+      7
+    ],
+    [
+      "chance",
+      7
+    ],
+    [
+      "grow",
+      7
+    ],
+    [
+      "door",
+      7
+    ],
+    [
+      "learn",
+      7
+    ],
+    [
+      "phrase",
+      7
+    ],
+    [
+      "also",
+      7
+    ],
+    [
+      "every",
+      7
+    ],
+    [
+      "use",
+      7
+    ],
+    [
+      "listen",
+      6
+    ],
+    [
+      "time",
+      6
+    ],
+    [
+      "sourc",
+      6
+    ],
+    [
+      "acquisition",
+      6
+    ],
+    [
+      "application",
+      6
+    ],
+    [
+      "situation",
+      6
+    ],
+    [
+      "offer",
+      6
+    ],
+    [
+      "remember",
+      6
+    ],
+    [
+      "giv",
+      6
+    ],
+    [
+      "course",
+      6
+    ],
+    [
+      "train",
+      6
+    ],
+    [
+      "relation",
+      6
+    ],
+    [
+      "diversity",
+      6
+    ],
+    [
+      "manager",
+      6
+    ],
+    [
+      "done",
+      6
+    ],
+    [
+      "welcom",
+      6
+    ],
+    [
+      "respect",
+      6
+    ],
+    [
+      "support",
+      6
+    ],
+    [
+      "everyth",
+      6
+    ],
+    [
+      "true",
+      5
+    ],
+    [
+      "team",
+      5
+    ],
+    [
+      "sound",
+      5
+    ],
+    [
+      "kind",
+      5
+    ],
+    [
+      "fit",
+      5
+    ],
+    [
+      "employer",
+      5
+    ],
+    [
+      "help",
+      5
+    ],
+    [
+      "problem",
+      5
+    ],
+    [
+      "big",
+      5
+    ],
+    [
+      "wait",
+      5
+    ],
+    [
+      "align",
+      5
+    ],
+    [
+      "inclusion",
+      5
+    ],
+    [
+      "key",
+      5
+    ],
+    [
+      "going",
+      5
+    ],
+    [
+      "depend",
+      5
+    ],
+    [
+      "strategy",
+      5
+    ],
+    [
+      "pay",
+      5
+    ],
+    [
+      "life",
+      5
+    ],
+    [
+      "engag",
+      5
+    ],
+    [
+      "word",
+      5
+    ],
+    [
+      "matter",
+      5
+    ],
+    [
+      "fun",
+      5
+    ],
+    [
+      "specific",
+      5
+    ],
+    [
+      "onboard",
+      5
+    ],
+    [
+      "today",
+      4
+    ],
+    [
+      "real",
+      4
+    ],
+    [
+      "manag",
+      4
+    ],
+    [
+      "break",
+      4
+    ],
+    [
+      "shift",
+      4
+    ],
+    [
+      "market",
+      4
+    ],
+    [
+      "chang",
+      4
+    ],
+    [
+      "anymore",
+      4
+    ],
+    [
+      "approach",
+      4
+    ],
+    [
+      "description",
+      4
+    ],
+    [
+      "list",
+      4
+    ],
+    [
+      "used",
+      4
+    ],
+    [
+      "judgment",
+      4
+    ],
+    [
+      "trust",
+      4
+    ],
+    [
+      "everyon",
+      4
+    ],
+    [
+      "story",
+      4
+    ],
+    [
+      "notic",
+      4
+    ],
+    [
+      "give",
+      4
+    ],
+    [
+      "often",
+      4
+    ],
+    [
+      "put",
+      4
+    ],
+    [
+      "idea",
+      4
+    ],
+    [
+      "figure",
+      4
+    ],
+    [
+      "without",
+      4
+    ],
+    [
+      "environment",
+      4
+    ],
+    [
+      "formality",
+      4
+    ],
+    [
+      "hotel",
+      4
+    ],
+    [
+      "belong",
+      4
+    ],
+    [
+      "ready",
+      4
+    ],
+    [
+      "power",
+      4
+    ],
+    [
+      "dynamic",
+      4
+    ],
+    [
+      "earlier",
+      4
+    ],
+    [
+      "bit",
+      4
+    ],
+    [
+      "improve",
+      4
+    ],
+    [
+      "fair",
+      4
+    ],
+    [
+      "example",
+      4
+    ],
+    [
+      "leave",
+      4
+    ],
+    [
+      "beyond",
+      4
+    ],
+    [
+      "genuine",
+      4
+    ],
+    [
+      "bring",
+      4
+    ],
+    [
+      "opportunity",
+      4
+    ],
+    [
+      "wrap",
+      4
+    ],
+    [
+      "try",
+      4
+    ],
+    [
+      "expectation",
+      4
+    ],
+    [
+      "handbook",
+      4
+    ],
+    [
+      "recognition",
+      4
+    ],
+    [
+      "meaningful",
+      4
+    ],
+    [
+      "practice",
+      3
+    ],
+    [
+      "tak",
+      3
+    ],
+    [
+      "jargon",
+      3
+    ],
+    [
+      "difference",
+      3
+    ],
+    [
+      "hunt",
+      3
+    ],
+    [
+      "send",
+      3
+    ],
+    [
+      "recruitment",
+      3
+    ],
+    [
+      "dat",
+      3
+    ],
+    [
+      "screen",
+      3
+    ],
+    [
+      "tricky",
+      3
+    ],
+    [
+      "though",
+      3
+    ],
+    [
+      "algorithm",
+      3
+    ],
+    [
+      "box",
+      3
+    ],
+    [
+      "hard",
+      3
+    ],
+    [
+      "sid",
+      3
+    ],
+    [
+      "polici",
+      3
+    ],
+    [
+      "management",
+      3
+    ],
+    [
+      "come",
+      3
+    ],
+    [
+      "pretty",
+      3
+    ],
+    [
+      "year",
+      3
+    ],
+    [
+      "regularly",
+      3
+    ],
+    [
+      "final",
+      3
+    ],
+    [
+      "care",
+      3
+    ],
+    [
+      "random",
+      3
+    ],
+    [
+      "effective",
+      3
+    ],
+    [
+      "leader",
+      3
+    ],
+    [
+      "tone",
+      3
+    ],
+    [
+      "inclusive",
+      3
+    ],
+    [
+      "two",
+      3
+    ],
+    [
+      "bigger",
+      3
+    ],
+    [
+      "trend",
+      3
+    ],
+    [
+      "stand",
+      3
+    ],
+    [
+      "balance",
+      3
+    ],
+    [
+      "using",
+      3
+    ],
+    [
+      "match",
+      3
+    ],
+    [
+      "read",
+      3
+    ],
+    [
+      "mov",
+      3
+    ],
+    [
+      "regular",
+      3
+    ],
+    [
+      "someon",
+      3
+    ],
+    [
+      "question",
+      3
+    ],
+    [
+      "imagine",
+      3
+    ],
+    [
+      "enough",
+      3
+    ],
+    [
+      "share",
+      3
+    ],
+    [
+      "tell",
+      3
+    ],
+    [
+      "especially",
+      3
+    ],
+    [
+      "value",
+      3
+    ],
+    [
+      "discuss",
+      3
+    ],
+    [
+      "email",
+      3
+    ],
+    [
+      "please",
+      3
+    ],
+    [
+      "forward",
+      3
+    ],
+    [
+      "theyve",
+      3
+    ],
+    [
+      "wrong",
+      3
+    ],
+    [
+      "solution",
+      3
+    ],
+    [
+      "issue",
+      3
+    ],
+    [
+      "alway",
+      3
+    ],
+    [
+      "connect",
+      3
+    ],
+    [
+      "empathy",
+      3
+    ],
+    [
+      "world",
+      3
+    ],
+    [
+      "touch",
+      3
+    ],
+    [
+      "challeng",
+      3
+    ],
+    [
+      "space",
+      3
+    ],
+    [
+      "thank",
+      3
+    ],
+    [
+      "join",
+      3
+    ],
+    [
+      "us",
+      3
+    ],
+    [
+      "bor",
+      3
+    ],
+    [
+      "attention",
+      3
+    ],
+    [
+      "ooh",
+      3
+    ],
+    [
+      "impact",
+      3
+    ],
+    [
+      "purpose",
+      3
+    ],
+    [
+      "role",
+      3
+    ],
+    [
+      "forget",
+      3
+    ],
+    [
+      "side",
+      3
+    ],
+    [
+      "youve",
+      3
+    ],
+    [
+      "generic",
+      3
+    ],
+    [
+      "memorable",
+      3
+    ],
+    [
+      "aboard",
+      3
+    ],
+    [
+      "standard",
+      3
+    ],
+    [
+      "compliance",
+      3
+    ],
+    [
+      "improvement",
+      3
+    ],
+    [
+      "growth",
+      3
+    ],
+    [
+      "dialogue",
+      3
+    ],
+    [
+      "ats",
+      3
+    ],
+    [
+      "track",
+      3
+    ],
+    [
+      "evp",
+      3
+    ],
+    [
+      "provide",
+      3
+    ],
+    [
+      "peer",
+      3
+    ],
+    [
+      "positive",
+      3
+    ],
+    [
+      "kpis",
+      3
+    ],
+    [
+      "perfect",
+      2
+    ],
+    [
+      "secret",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "huge",
+      2
+    ],
+    [
+      "whether",
+      2
+    ],
+    [
+      "career",
+      2
+    ],
+    [
+      "ton",
+      2
+    ],
+    [
+      "strategic",
+      2
+    ],
+    [
+      "realiz",
+      2
+    ],
+    [
+      "fill",
+      2
+    ],
+    [
+      "begin",
+      2
+    ],
+    [
+      "qualifi",
+      2
+    ],
+    [
+      "guess",
+      2
+    ],
+    [
+      "resum",
+      2
+    ],
+    [
+      "online",
+      2
+    ],
+    [
+      "test",
+      2
+    ],
+    [
+      "lost",
+      2
+    ],
+    [
+      "technology",
+      2
+    ],
+    [
+      "efficient",
+      2
+    ],
+    [
+      "still",
+      2
+    ],
+    [
+      "assess",
+      2
+    ],
+    [
+      "cultural",
+      2
+    ],
+    [
+      "solve",
+      2
+    ],
+    [
+      "next",
+      2
+    ],
+    [
+      "date",
+      2
+    ],
+    [
+      "hold",
+      2
+    ],
+    [
+      "upfront",
+      2
+    ],
+    [
+      "red",
+      2
+    ],
+    [
+      "flag",
+      2
+    ],
+    [
+      "two-way",
+      2
+    ],
+    [
+      "built",
+      2
+    ],
+    [
+      "dream",
+      2
+    ],
+    [
+      "mention",
+      2
+    ],
+    [
+      "informal",
+      2
+    ],
+    [
+      "check-in",
+      2
+    ],
+    [
+      "traditional",
+      2
+    ],
+    [
+      "deal",
+      2
+    ],
+    [
+      "nervous",
+      2
+    ],
+    [
+      "stressful",
+      2
+    ],
+    [
+      "rough",
+      2
+    ],
+    [
+      "draft",
+      2
+    ],
+    [
+      "grade",
+      2
+    ],
+    [
+      "tie",
+      2
+    ],
+    [
+      "area",
+      2
+    ],
+    [
+      "conference",
+      2
+    ],
+    [
+      "call",
+      2
+    ],
+    [
+      "meet",
+      2
+    ],
+    [
+      "individual",
+      2
+    ],
+    [
+      "practic",
+      2
+    ],
+    [
+      "curious",
+      2
+    ],
+    [
+      "comfortable",
+      2
+    ],
+    [
+      "heard",
+      2
+    ],
+    [
+      "useful",
+      2
+    ],
+    [
+      "sort",
+      2
+    ],
+    [
+      "place",
+      2
+    ],
+    [
+      "take",
+      2
+    ],
+    [
+      "little",
+      2
+    ],
+    [
+      "deeper",
+      2
+    ],
+    [
+      "suggest",
+      2
+    ],
+    [
+      "target",
+      2
+    ],
+    [
+      "message",
+      2
+    ],
+    [
+      "challenge",
+      2
+    ],
+    [
+      "tool",
+      2
+    ],
+    [
+      "involv",
+      2
+    ],
+    [
+      "interaction",
+      2
+    ],
+    [
+      "away",
+      2
+    ],
+    [
+      "evaluation",
+      2
+    ],
+    [
+      "annual",
+      2
+    ],
+    [
+      "objectiv",
+      2
+    ],
+    [
+      "mind",
+      2
+    ],
+    [
+      "encourag",
+      2
+    ],
+    [
+      "buzzword",
+      2
+    ],
+    [
+      "lov",
+      2
+    ],
+    [
+      "compensation",
+      2
+    ],
+    [
+      "position",
+      2
+    ],
+    [
+      "play",
+      2
+    ],
+    [
+      "paid",
+      2
+    ],
+    [
+      "fairly",
+      2
+    ],
+    [
+      "well-be",
+      2
+    ],
+    [
+      "health",
+      2
+    ],
+    [
+      "insurance",
+      2
+    ],
+    [
+      "plan",
+      2
+    ],
+    [
+      "resourc",
+      2
+    ],
+    [
+      "package",
+      2
+    ],
+    [
+      "recogniz",
+      2
+    ],
+    [
+      "outside",
+      2
+    ],
+    [
+      "productive",
+      2
+    ],
+    [
+      "scenario",
+      2
+    ],
+    [
+      "simple",
+      2
+    ],
+    [
+      "referenc",
+      2
+    ],
+    [
+      "reminder",
+      2
+    ],
+    [
+      "impression",
+      2
+    ],
+    [
+      "first",
+      2
+    ],
+    [
+      "interpret",
+      2
+    ],
+    [
+      "surface",
+      2
+    ],
+    [
+      "truly",
+      2
+    ],
+    [
+      "succe",
+      2
+    ],
+    [
+      "jump",
+      2
+    ],
+    [
+      "month",
+      2
+    ],
+    [
+      "quarter",
+      2
+    ],
+    [
+      "amaz",
+      2
+    ],
+    [
+      "punishment",
+      2
+    ],
+    [
+      "professionally",
+      2
+    ],
+    [
+      "scary",
+      2
+    ],
+    [
+      "handl",
+      2
+    ],
+    [
+      "warn",
+      2
+    ],
+    [
+      "bad",
+      2
+    ],
+    [
+      "address",
+      2
+    ],
+    [
+      "respectful",
+      2
+    ],
+    [
+      "resolution",
+      2
+    ],
+    [
+      "acknowledg",
+      2
+    ],
+    [
+      "contribut",
+      2
+    ],
+    [
+      "explor",
+      2
+    ],
+    [
+      "crucial",
+      2
+    ],
+    [
+      "element",
+      2
+    ],
+    [
+      "decode",
+      2
+    ],
+    [
+      "easy",
+      2
+    ],
+    [
+      "agree",
+      2
+    ],
+    [
+      "stuff",
+      2
+    ],
+    [
+      "perspective",
+      2
+    ],
+    [
+      "view",
+      2
+    ],
+    [
+      "context",
+      2
+    ],
+    [
+      "handle",
+      2
+    ],
+    [
+      "fix",
+      2
+    ],
+    [
+      "toward",
+      2
+    ],
+    [
+      "voice",
+      2
+    ],
+    [
+      "ethical",
+      2
+    ],
+    [
+      "journey",
+      2
+    ],
+    [
+      "hope",
+      2
+    ],
+    [
+      "pack",
+      2
+    ],
+    [
+      "ground",
+      2
+    ],
+    [
+      "picture",
+      2
+    ],
+    [
+      "highlight",
+      2
+    ],
+    [
+      "classic",
+      2
+    ],
+    [
+      "achieve",
+      2
+    ],
+    [
+      "communicat",
+      2
+    ],
+    [
+      "deadlin",
+      2
+    ],
+    [
+      "flip",
+      2
+    ],
+    [
+      "signal",
+      2
+    ],
+    [
+      "organization",
+      2
+    ],
+    [
+      "moment",
+      2
+    ],
+    [
+      "personal",
+      2
+    ],
+    [
+      "schedul",
+      2
+    ],
+    [
+      "impactful",
+      2
+    ],
+    [
+      "interactive",
+      2
+    ],
+    [
+      "turn",
+      2
+    ],
+    [
+      "success",
+      2
+    ],
+    [
+      "collaborative",
+      2
+    ],
+    [
+      "room",
+      2
+    ],
+    [
+      "walk",
+      2
+    ],
+    [
+      "significance",
+      2
+    ],
+    [
+      "concern",
+      2
+    ],
+    [
+      "fear",
+      2
+    ],
+    [
+      "ongo",
+      2
+    ],
+    [
+      "creative",
+      2
+    ],
+    [
+      "retention",
+      2
+    ],
+    [
+      "program",
+      2
+    ],
+    [
+      "reward",
+      2
+    ],
+    [
+      "turnover",
+      2
+    ],
+    [
+      "leadership",
+      2
+    ],
+    [
+      "live",
+      2
+    ],
+    [
+      "period",
+      2
+    ],
+    [
+      "eeo",
+      2
+    ],
+    [
+      "procedure",
+      2
+    ],
+    [
+      "hey",
+      1
+    ],
+    [
+      "almost",
+      1
+    ],
+    [
+      "figur",
+      1
+    ],
+    [
+      "caught",
+      1
+    ],
+    [
+      "eye",
+      1
+    ],
+    [
+      "plain",
+      1
+    ],
+    [
+      "old",
+      1
+    ],
+    [
+      "callan",
+      1
+    ],
+    [
+      "cross",
+      1
+    ],
+    [
+      "finger",
+      1
+    ],
+    [
+      "lay",
+      1
+    ],
+    [
+      "function",
+      1
+    ],
+    [
+      "duti",
+      1
+    ],
+    [
+      "special",
+      1
+    ],
+    [
+      "profile",
+      1
+    ],
+    [
+      "youd",
+      1
+    ],
+    [
+      "app",
+      1
+    ],
+    [
+      "culturally",
+      1
+    ],
+    [
+      "actual",
+      1
+    ],
+    [
+      "phone",
+      1
+    ],
+    [
+      "ai",
+      1
+    ],
+    [
+      "faster",
+      1
+    ],
+    [
+      "intuition",
+      1
+    ],
+    [
+      "able",
+      1
+    ],
+    [
+      "soft",
+      1
+    ],
+    [
+      "critically",
+      1
+    ],
+    [
+      "adapt",
+      1
+    ],
+    [
+      "measure",
+      1
+    ],
+    [
+      "ideally",
+      1
+    ],
+    [
+      "letter",
+      1
+    ],
+    [
+      "outlin",
+      1
+    ],
+    [
+      "celebration",
+      1
+    ],
+    [
+      "pull",
+      1
+    ],
+    [
+      "pop",
+      1
+    ],
+    [
+      "anyth",
+      1
+    ],
+    [
+      "street",
+      1
+    ],
+    [
+      "workforce",
+      1
+    ],
+    [
+      "engagement",
+      1
+    ],
+    [
+      "once-a-year",
+      1
+    ],
+    [
+      "frequent",
+      1
+    ],
+    [
+      "yearly",
+      1
+    ],
+    [
+      "worth",
+      1
+    ],
+    [
+      "correct",
+      1
+    ],
+    [
+      "trickier",
+      1
+    ],
+    [
+      "theory",
+      1
+    ],
+    [
+      "worry",
+      1
+    ],
+    [
+      "trouble",
+      1
+    ],
+    [
+      "trendy",
+      1
+    ],
+    [
+      "tip",
+      1
+    ],
+    [
+      "iceberg",
+      1
+    ],
+    [
+      "lucky",
+      1
+    ],
+    [
+      "soon",
+      1
+    ],
+    [
+      "common",
+      1
+    ],
+    [
+      "reflect",
+      1
+    ],
+    [
+      "choos",
+      1
+    ],
+    [
+      "competitive",
+      1
+    ],
+    [
+      "harder",
+      1
+    ],
+    [
+      "appeal",
+      1
+    ],
+    [
+      "invest",
+      1
+    ],
+    [
+      "brand",
+      1
+    ],
+    [
+      "product",
+      1
+    ],
+    [
+      "precisely",
+      1
+    ],
+    [
+      "campaign",
+      1
+    ],
+    [
+      "wonder",
+      1
+    ],
+    [
+      "miss",
+      1
+    ],
+    [
+      "certain",
+      1
+    ],
+    [
+      "mold",
+      1
+    ],
+    [
+      "bet",
+      1
+    ],
+    [
+      "open-mind",
+      1
+    ],
+    [
+      "bias",
+      1
+    ],
+    [
+      "lead",
+      1
+    ],
+    [
+      "overlook",
+      1
+    ],
+    [
+      "diverse",
+      1
+    ],
+    [
+      "data",
+      1
+    ],
+    [
+      "driven",
+      1
+    ],
+    [
+      "potential",
+      1
+    ],
+    [
+      "completely",
+      1
+    ],
+    [
+      "replace",
+      1
+    ],
+    [
+      "ability",
+      1
+    ],
+    [
+      "critical",
+      1
+    ],
+    [
+      "emotional",
+      1
+    ],
+    [
+      "intelligence",
+      1
+    ],
+    [
+      "switch",
+      1
+    ],
+    [
+      "gear",
+      1
+    ],
+    [
+      "anxiety",
+      1
+    ],
+    [
+      "induc",
+      1
+    ],
+    [
+      "ins",
+      1
+    ],
+    [
+      "totally",
+      1
+    ],
+    [
+      "capture",
+      1
+    ],
+    [
+      "allow",
+      1
+    ],
+    [
+      "chanc",
+      1
+    ],
+    [
+      "adjust",
+      1
+    ],
+    [
+      "analogy",
+      1
+    ],
+    [
+      "car",
+      1
+    ],
+    [
+      "theyll",
+      1
+    ],
+    [
+      "available",
+      1
+    ],
+    [
+      "tailor",
+      1
+    ],
+    [
+      "strong",
+      1
+    ],
+    [
+      "become",
+      1
+    ],
+    [
+      "afraid",
+      1
+    ],
+    [
+      "valuable",
+      1
+    ],
+    [
+      "honestly",
+      1
+    ],
+    [
+      "improv",
+      1
+    ],
+    [
+      "advance",
+      1
+    ],
+    [
+      "money",
+      1
+    ],
+    [
+      "transparency",
+      1
+    ],
+    [
+      "rang",
+      1
+    ],
+    [
+      "level",
+      1
+    ],
+    [
+      "field",
+      1
+    ],
+    [
+      "seeker",
+      1
+    ],
+    [
+      "promot",
+      1
+    ],
+    [
+      "fairness",
+      1
+    ],
+    [
+      "guesswork",
+      1
+    ],
+    [
+      "negotiation",
+      1
+    ],
+    [
+      "philosophy",
+      1
+    ],
+    [
+      "confident",
+      1
+    ],
+    [
+      "becom",
+      1
+    ],
+    [
+      "younger",
+      1
+    ],
+    [
+      "generation",
+      1
+    ],
+    [
+      "overall",
+      1
+    ],
+    [
+      "retirement",
+      1
+    ],
+    [
+      "student",
+      1
+    ],
+    [
+      "loan",
+      1
+    ],
+    [
+      "generous",
+      1
+    ],
+    [
+      "parental",
+      1
+    ],
+    [
+      "mental",
+      1
+    ],
+    [
+      "pet",
+      1
+    ],
+    [
+      "unlimit",
+      1
+    ],
+    [
+      "vacation",
+      1
+    ],
+    [
+      "typical",
+      1
+    ],
+    [
+      "liv",
+      1
+    ],
+    [
+      "tend",
+      1
+    ],
+    [
+      "longer",
+      1
+    ],
+    [
+      "practical",
+      1
+    ],
+    [
+      "usage",
+      1
+    ],
+    [
+      "general",
+      1
+    ],
+    [
+      "closer",
+      1
+    ],
+    [
+      "submit",
+      1
+    ],
+    [
+      "updat",
+      1
+    ],
+    [
+      "straightforward",
+      1
+    ],
+    [
+      "request",
+      1
+    ],
+    [
+      "serious",
+      1
+    ],
+    [
+      "foot",
+      1
+    ],
+    [
+      "nice",
+      1
+    ],
+    [
+      "friendly",
+      1
+    ],
+    [
+      "excitement",
+      1
+    ],
+    [
+      "ahead",
+      1
+    ],
+    [
+      "emotion",
+      1
+    ],
+    [
+      "doubt",
+      1
+    ],
+    [
+      "nerve-wrack",
+      1
+    ],
+    [
+      "affect",
+      1
+    ],
+    [
+      "supportive",
+      1
+    ],
+    [
+      "strengthen",
+      1
+    ],
+    [
+      "relationship",
+      1
+    ],
+    [
+      "tim",
+      1
+    ],
+    [
+      "resolve",
+      1
+    ],
+    [
+      "either",
+      1
+    ],
+    [
+      "reassur",
+      1
+    ],
+    [
+      "calmly",
+      1
+    ],
+    [
+      "respectfully",
+      1
+    ],
+    [
+      "careful",
+      1
+    ],
+    [
+      "directly",
+      1
+    ],
+    [
+      "lastly",
+      1
+    ],
+    [
+      "sorry",
+      1
+    ],
+    [
+      "sincere",
+      1
+    ],
+    [
+      "expression",
+      1
+    ],
+    [
+      "regret",
+      1
+    ],
+    [
+      "routine",
+      1
+    ],
+    [
+      "lin",
+      1
+    ],
+    [
+      "consider",
+      1
+    ],
+    [
+      "sincerity",
+      1
+    ],
+    [
+      "closure",
+      1
+    ],
+    [
+      "subtle",
+      1
+    ],
+    [
+      "dug",
+      1
+    ],
+    [
+      "importance",
+      1
+    ],
+    [
+      "difficult",
+      1
+    ],
+    [
+      "spent",
+      1
+    ],
+    [
+      "episode",
+      1
+    ],
+    [
+      "workplac",
+      1
+    ],
+    [
+      "sho",
+      1
+    ],
+    [
+      "motivat",
+      1
+    ],
+    [
+      "fac",
+      1
+    ],
+    [
+      "title",
+      1
+    ],
+    [
+      "worri",
+      1
+    ],
+    [
+      "else",
+      1
+    ],
+    [
+      "strength",
+      1
+    ],
+    [
+      "collaboration",
+      1
+    ],
+    [
+      "root",
+      1
+    ],
+    [
+      "openly",
+      1
+    ],
+    [
+      "mediat",
+      1
+    ],
+    [
+      "dictat",
+      1
+    ],
+    [
+      "appreciation",
+      1
+    ],
+    [
+      "acknowledge",
+      1
+    ],
+    [
+      "reason",
+      1
+    ],
+    [
+      "wish",
+      1
+    ],
+    [
+      "future",
+      1
+    ],
+    [
+      "strik",
+      1
+    ],
+    [
+      "body",
+      1
+    ],
+    [
+      "aware",
+      1
+    ],
+    [
+      "responsible",
+      1
+    ],
+    [
+      "biggest",
+      1
+    ],
+    [
+      "lesson",
+      1
+    ],
+    [
+      "beautifully",
+      1
+    ],
+    [
+      "enjoy",
+      1
+    ],
+    [
+      "fresh",
+      1
+    ],
+    [
+      "inspir",
+      1
+    ],
+    [
+      "humanity",
+      1
+    ],
+    [
+      "div",
+      1
+    ],
+    [
+      "guid",
+      1
+    ],
+    [
+      "awesome",
+      1
+    ],
+    [
+      "meaning",
+      1
+    ],
+    [
+      "decoder",
+      1
+    ],
+    [
+      "ring",
+      1
+    ],
+    [
+      "posting",
+      1
+    ],
+    [
+      "ugh",
+      1
+    ],
+    [
+      "robot",
+      1
+    ],
+    [
+      "write",
+      1
+    ],
+    [
+      "grab",
+      1
+    ],
+    [
+      "apply",
+      1
+    ],
+    [
+      "post",
+      1
+    ],
+    [
+      "captivat",
+      1
+    ],
+    [
+      "stat",
+      1
+    ],
+    [
+      "obvious",
+      1
+    ],
+    [
+      "paint",
+      1
+    ],
+    [
+      "spark",
+      1
+    ],
+    [
+      "ideal",
+      1
+    ],
+    [
+      "possess",
+      1
+    ],
+    [
+      "laundry",
+      1
+    ],
+    [
+      "requirement",
+      1
+    ],
+    [
+      "solely",
+      1
+    ],
+    [
+      "qualification",
+      1
+    ],
+    [
+      "desir",
+      1
+    ],
+    [
+      "outcom",
+      1
+    ],
+    [
+      "fram",
+      1
+    ],
+    [
+      "excit",
+      1
+    ],
+    [
+      "mission",
+      1
+    ],
+    [
+      "deadline",
+      1
+    ],
+    [
+      "accept",
+      1
+    ],
+    [
+      "subtly",
+      1
+    ],
+    [
+      "organiz",
+      1
+    ],
+    [
+      "vague",
+      1
+    ],
+    [
+      "lack",
+      1
+    ],
+    [
+      "appli",
+      1
+    ],
+    [
+      "invite",
+      1
+    ],
+    [
+      "strategically",
+      1
+    ],
+    [
+      "invitation",
+      1
+    ],
+    [
+      "add",
+      1
+    ],
+    [
+      "forth",
+      1
+    ],
+    [
+      "dread",
+      1
+    ],
+    [
+      "dance",
+      1
+    ],
+    [
+      "confirm",
+      1
+    ],
+    [
+      "availability",
+      1
+    ],
+    [
+      "many",
+      1
+    ],
+    [
+      "hidden",
+      1
+    ],
+    [
+      "insight",
+      1
+    ],
+    [
+      "prompt",
+      1
+    ],
+    [
+      "likely",
+      1
+    ],
+    [
+      "elaborate",
+      1
+    ],
+    [
+      "advice",
+      1
+    ],
+    [
+      "prepar",
+      1
+    ],
+    [
+      "exampl",
+      1
+    ],
+    [
+      "result",
+      1
+    ],
+    [
+      "showcas",
+      1
+    ],
+    [
+      "abiliti",
+      1
+    ],
+    [
+      "fast",
+      1
+    ],
+    [
+      "land",
+      1
+    ],
+    [
+      "woo-hoo",
+      1
+    ],
+    [
+      "gateway",
+      1
+    ],
+    [
+      "successful",
+      1
+    ],
+    [
+      "schedule",
+      1
+    ],
+    [
+      "answer",
+      1
+    ],
+    [
+      "transition",
+      1
+    ],
+    [
+      "smooth",
+      1
+    ],
+    [
+      "structure",
+      1
+    ],
+    [
+      "dense",
+      1
+    ],
+    [
+      "document",
+      1
+    ],
+    [
+      "video",
+      1
+    ],
+    [
+      "quizz",
+      1
+    ],
+    [
+      "forum",
+      1
+    ],
+    [
+      "love",
+      1
+    ],
+    [
+      "top-down",
+      1
+    ],
+    [
+      "dictate",
+      1
+    ],
+    [
+      "contribution",
+      1
+    ],
+    [
+      "highly",
+      1
+    ],
+    [
+      "action",
+      1
+    ],
+    [
+      "achievement",
+      1
+    ],
+    [
+      "client",
+      1
+    ],
+    [
+      "exceptional",
+      1
+    ],
+    [
+      "sav",
+      1
+    ],
+    [
+      "elephant",
+      1
+    ],
+    [
+      "boy",
+      1
+    ],
+    [
+      "nobody",
+      1
+    ],
+    [
+      "lik",
+      1
+    ],
+    [
+      "reality",
+      1
+    ],
+    [
+      "unfortunately",
+      1
+    ],
+    [
+      "deliver",
+      1
+    ],
+    [
+      "constructively",
+      1
+    ],
+    [
+      "frame",
+      1
+    ],
+    [
+      "presentation",
+      1
+    ],
+    [
+      "lose",
+      1
+    ],
+    [
+      "together",
+      1
+    ],
+    [
+      "develop",
+      1
+    ],
+    [
+      "techniqu",
+      1
+    ],
+    [
+      "audience",
+      1
+    ],
+    [
+      "encourage",
+      1
+    ],
+    [
+      "statement",
+      1
+    ],
+    [
+      "actively",
+      1
+    ],
+    [
+      "respond",
+      1
+    ],
+    [
+      "spac",
+      1
+    ],
+    [
+      "bound",
+      1
+    ],
+    [
+      "solution-orient",
+      1
+    ],
+    [
+      "repercussion",
+      1
+    ],
+    [
+      "fascinat",
+      1
+    ],
+    [
+      "nuance",
+      1
+    ],
+    [
+      "scen",
+      1
+    ],
+    [
+      "super",
+      1
+    ],
+    [
+      "ever",
+      1
+    ],
+    [
+      "vaguely",
+      1
+    ],
+    [
+      "applicant",
+      1
+    ],
+    [
+      "system",
+      1
+    ],
+    [
+      "digital",
+      1
+    ],
+    [
+      "gatekeeper",
+      1
+    ],
+    [
+      "scan",
+      1
+    ],
+    [
+      "hundred",
+      1
+    ],
+    [
+      "thousand",
+      1
+    ],
+    [
+      "close",
+      1
+    ],
+    [
+      "keyword",
+      1
+    ],
+    [
+      "avoid",
+      1
+    ],
+    [
+      "weird",
+      1
+    ],
+    [
+      "format",
+      1
+    ],
+    [
+      "basic",
+      1
+    ],
+    [
+      "event",
+      1
+    ],
+    [
+      "integrat",
+      1
+    ],
+    [
+      "logistic",
+      1
+    ],
+    [
+      "paperwork",
+      1
+    ],
+    [
+      "form",
+      1
+    ],
+    [
+      "gamification",
+      1
+    ],
+    [
+      "earn",
+      1
+    ],
+    [
+      "complet",
+      1
+    ],
+    [
+      "modul",
+      1
+    ],
+    [
+      "scavenger",
+      1
+    ],
+    [
+      "department",
+      1
+    ],
+    [
+      "proposition",
+      1
+    ],
+    [
+      "struggle",
+      1
+    ],
+    [
+      "defin",
+      1
+    ],
+    [
+      "resonat",
+      1
+    ],
+    [
+      "authentic",
+      1
+    ],
+    [
+      "counterintuitive",
+      1
+    ],
+    [
+      "quit",
+      1
+    ],
+    [
+      "proactive",
+      1
+    ],
+    [
+      "interrogation",
+      1
+    ],
+    [
+      "creep",
+      1
+    ],
+    [
+      "empower",
+      1
+    ],
+    [
+      "guidance",
+      1
+    ],
+    [
+      "mentorship",
+      1
+    ],
+    [
+      "assessment",
+      1
+    ],
+    [
+      "shadow",
+      1
+    ],
+    [
+      "internal",
+      1
+    ],
+    [
+      "marketplac",
+      1
+    ],
+    [
+      "express",
+      1
+    ],
+    [
+      "project",
+      1
+    ],
+    [
+      "rol",
+      1
+    ],
+    [
+      "continuous",
+      1
+    ],
+    [
+      "essential",
+      1
+    ],
+    [
+      "spot",
+      1
+    ],
+    [
+      "bonus",
+      1
+    ],
+    [
+      "timely",
+      1
+    ],
+    [
+      "healthy",
+      1
+    ],
+    [
+      "high",
+      1
+    ],
+    [
+      "something",
+      1
+    ],
+    [
+      "low",
+      1
+    ],
+    [
+      "morale",
+      1
+    ],
+    [
+      "sign",
+      1
+    ],
+    [
+      "within",
+      1
+    ],
+    [
+      "organizational",
+      1
+    ],
+    [
+      "invisible",
+      1
+    ],
+    [
+      "force",
+      1
+    ],
+    [
+      "shap",
+      1
+    ],
+    [
+      "decision",
+      1
+    ],
+    [
+      "interact",
+      1
+    ],
+    [
+      "personality",
+      1
+    ],
+    [
+      "communicate",
+      1
+    ],
+    [
+      "clearly",
+      1
+    ],
+    [
+      "perk",
+      1
+    ],
+    [
+      "move",
+      1
+    ],
+    [
+      "indicator",
+      1
+    ],
+    [
+      "progress",
+      1
+    ],
+    [
+      "business",
+      1
+    ],
+    [
+      "metric",
+      1
+    ],
+    [
+      "drive",
+      1
+    ],
+    [
+      "degree",
+      1
+    ],
+    [
+      "holistic",
+      1
+    ],
+    [
+      "boss",
+      1
+    ],
+    [
+      "subordinat",
+      1
+    ],
+    [
+      "well-round",
+      1
+    ],
+    [
+      "messy",
+      1
+    ],
+    [
+      "guidelin",
+      1
+    ],
+    [
+      "constructive",
+      1
+    ],
+    [
+      "criticism",
+      1
+    ],
+    [
+      "probation",
+      1
+    ],
+    [
+      "trial",
+      1
+    ],
+    [
+      "anxious",
+      1
+    ],
+    [
+      "expect",
+      1
+    ],
+    [
+      "pip",
+      1
+    ],
+    [
+      "merit-bas",
+      1
+    ],
+    [
+      "controversial",
+      1
+    ],
+    [
+      "bas",
+      1
+    ],
+    [
+      "criteria",
+      1
+    ],
+    [
+      "transparently",
+      1
+    ],
+    [
+      "equal",
+      1
+    ],
+    [
+      "employment",
+      1
+    ],
+    [
+      "regardless",
+      1
+    ],
+    [
+      "discrimination",
+      1
+    ],
+    [
+      "commitment",
+      1
+    ],
+    [
+      "accountability",
+      1
+    ],
+    [
+      "inclusivity",
+      1
+    ],
+    [
+      "harassment",
+      1
+    ],
+    [
+      "enforce",
+      1
+    ],
+    [
+      "report",
+      1
+    ],
+    [
+      "mechanism",
+      1
+    ],
+    [
+      "conduct",
+      1
+    ],
+    [
+      "another",
+      1
+    ],
+    [
+      "paper",
+      1
+    ],
+    [
+      "meanwhile",
+      1
+    ],
+    [
+      "accountable",
+      1
+    ],
+    [
+      "ethic",
+      1
+    ],
+    [
+      "dna",
+      1
+    ],
+    [
+      "grievance",
+      1
+    ],
+    [
+      "resolv",
+      1
+    ],
+    [
+      "issu",
+      1
+    ],
+    [
+      "retaliation",
+      1
+    ],
+    [
+      "finally",
+      1
+    ],
+    [
+      "favorite",
+      1
+    ],
+    [
+      "necessary",
+      1
+    ],
+    [
+      "less",
+      1
+    ],
+    [
+      "gam",
+      1
+    ],
+    [
+      "relevant",
+      1
+    ],
+    [
+      "shape",
+      1
+    ],
+    [
+      "formal",
+      1
+    ],
+    [
+      "differently",
+      1
+    ],
+    [
+      "anyone",
+      1
+    ],
+    [
+      "scratch",
+      1
+    ],
+    [
+      "explore",
+      1
+    ],
+    [
+      "thought",
+      1
+    ],
+    [
+      "listener",
+      1
+    ],
+    [
+      "around",
+      1
+    ],
+    [
+      "everywhere",
+      1
+    ],
+    [
+      "intention",
+      1
+    ],
+    [
+      "detective",
+      1
+    ],
+    [
+      "mindful",
+      1
+    ],
+    [
+      "pleasure",
+      1
+    ],
+    [
+      "thriv",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 6439,
+    "unique_words": 914,
+    "duration_min": 37.0
+  }
+}

@@ -1,0 +1,5669 @@
+{
+  "file_stem": "42_HumanResourcesConversationEFFECTIVECommunicationSkills",
+  "no": 42,
+  "title_keywords": [
+    [
+      "human",
+      "human"
+    ],
+    [
+      "resources",
+      "resourc"
+    ],
+    [
+      "conversation",
+      "conversation"
+    ],
+    [
+      "effective",
+      "effective"
+    ],
+    [
+      "communication",
+      "communication"
+    ],
+    [
+      "skills",
+      "skill"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "employee",
+      81,
+      "B1+"
+    ],
+    [
+      "hr",
+      54,
+      "B1+"
+    ],
+    [
+      "workplace",
+      47,
+      "B1+"
+    ],
+    [
+      "leadership",
+      30,
+      "B1+"
+    ],
+    [
+      "performance",
+      29,
+      "B1+"
+    ],
+    [
+      "policies",
+      28,
+      "B1+"
+    ],
+    [
+      "enhances",
+      27,
+      "B1+"
+    ],
+    [
+      "improve",
+      25,
+      "B1+"
+    ],
+    [
+      "engagement",
+      23,
+      "B1+"
+    ],
+    [
+      "productivity",
+      23,
+      "B1+"
+    ],
+    [
+      "fosters",
+      22,
+      "B1+"
+    ],
+    [
+      "programs",
+      22,
+      "A2"
+    ],
+    [
+      "training",
+      22,
+      "A2"
+    ],
+    [
+      "improves",
+      21,
+      "B1+"
+    ],
+    [
+      "planning",
+      21,
+      "A2"
+    ],
+    [
+      "employees",
+      20,
+      "B1+"
+    ],
+    [
+      "ensures",
+      19,
+      "B1+"
+    ],
+    [
+      "compliance",
+      18,
+      "B1+"
+    ],
+    [
+      "management",
+      18,
+      "B1+"
+    ],
+    [
+      "remote",
+      18,
+      "B1+"
+    ],
+    [
+      "support",
+      18,
+      "A2"
+    ],
+    [
+      "development",
+      16,
+      "B1+"
+    ],
+    [
+      "enhance",
+      16,
+      "B1+"
+    ],
+    [
+      "retention",
+      16,
+      "B1+"
+    ],
+    [
+      "workforce",
+      16,
+      "B1+"
+    ],
+    [
+      "feedback",
+      15,
+      "B1+"
+    ],
+    [
+      "hiring",
+      15,
+      "B1+"
+    ],
+    [
+      "builds",
+      14,
+      "A2"
+    ],
+    [
+      "compensation",
+      14,
+      "B1+"
+    ],
+    [
+      "culture",
+      14,
+      "A2"
+    ],
+    [
+      "organizational",
+      14,
+      "B1+"
+    ],
+    [
+      "strengthens",
+      14,
+      "B1+"
+    ],
+    [
+      "talent",
+      14,
+      "B1+"
+    ],
+    [
+      "analytics",
+      13,
+      "B1+"
+    ],
+    [
+      "diversity",
+      13,
+      "B1+"
+    ],
+    [
+      "work",
+      13,
+      "A2"
+    ],
+    [
+      "boost",
+      12,
+      "B1+"
+    ],
+    [
+      "data",
+      12,
+      "B1+"
+    ],
+    [
+      "drive",
+      12,
+      "A2"
+    ],
+    [
+      "efficiency",
+      12,
+      "B1+"
+    ],
+    [
+      "goal",
+      12,
+      "B1+"
+    ],
+    [
+      "professional",
+      12,
+      "B1+"
+    ],
+    [
+      "satisfaction",
+      12,
+      "B1+"
+    ],
+    [
+      "strategies",
+      12,
+      "B1+"
+    ],
+    [
+      "benefits",
+      11,
+      "B1+"
+    ],
+    [
+      "business",
+      11,
+      "B1+"
+    ],
+    [
+      "collaboration",
+      11,
+      "B1+"
+    ],
+    [
+      "job",
+      11,
+      "A2"
+    ],
+    [
+      "recruitment",
+      11,
+      "B1+"
+    ],
+    [
+      "help",
+      10,
+      "A2"
+    ],
+    [
+      "systems",
+      10,
+      "A2"
+    ],
+    [
+      "team",
+      10,
+      "A2"
+    ],
+    [
+      "trust",
+      10,
+      "B1+"
+    ],
+    [
+      "virtual",
+      10,
+      "B1+"
+    ],
+    [
+      "align",
+      9,
+      "B1+"
+    ],
+    [
+      "candidate",
+      9,
+      "B1+"
+    ],
+    [
+      "ensure",
+      9,
+      "B1+"
+    ],
+    [
+      "equity",
+      9,
+      "B1+"
+    ],
+    [
+      "ethical",
+      9,
+      "B1+"
+    ],
+    [
+      "growth",
+      9,
+      "B1+"
+    ],
+    [
+      "increase",
+      9,
+      "A2"
+    ],
+    [
+      "innovation",
+      9,
+      "B1+"
+    ],
+    [
+      "wellness",
+      9,
+      "B1+"
+    ],
+    [
+      "communication",
+      8,
+      "B1+"
+    ],
+    [
+      "encourages",
+      8,
+      "B1+"
+    ],
+    [
+      "flexible",
+      8,
+      "B1+"
+    ],
+    [
+      "impacts",
+      8,
+      "B1+"
+    ],
+    [
+      "needs",
+      8,
+      "A2"
+    ],
+    [
+      "onboarding",
+      8,
+      "B1+"
+    ],
+    [
+      "pay",
+      8,
+      "A2"
+    ],
+    [
+      "practices",
+      8,
+      "B1+"
+    ],
+    [
+      "recognition",
+      8,
+      "B1+"
+    ],
+    [
+      "skills",
+      8,
+      "A2"
+    ],
+    [
+      "track",
+      8,
+      "B1+"
+    ],
+    [
+      "automation",
+      7,
+      "B1+"
+    ],
+    [
+      "conflict",
+      7,
+      "B1+"
+    ],
+    [
+      "digital",
+      7,
+      "B1+"
+    ],
+    [
+      "experiences",
+      7,
+      "B1+"
+    ],
+    [
+      "insights",
+      7,
+      "B1+"
+    ],
+    [
+      "laws",
+      7,
+      "A2"
+    ],
+    [
+      "learning",
+      7,
+      "A2"
+    ],
+    [
+      "prevents",
+      7,
+      "A2"
+    ],
+    [
+      "protect",
+      7,
+      "A2"
+    ],
+    [
+      "protection",
+      7,
+      "B1+"
+    ],
+    [
+      "provide",
+      7,
+      "A2"
+    ],
+    [
+      "reduces",
+      7,
+      "B1+"
+    ],
+    [
+      "risks",
+      7,
+      "A2"
+    ],
+    [
+      "setting",
+      7,
+      "B1+"
+    ],
+    [
+      "ai-driven",
+      6,
+      "B1+"
+    ],
+    [
+      "attract",
+      6,
+      "B1+"
+    ],
+    [
+      "coaching",
+      6,
+      "B1+"
+    ],
+    [
+      "confidentiality",
+      6,
+      "B1+"
+    ],
+    [
+      "effectiveness",
+      6,
+      "B1+"
+    ],
+    [
+      "employer",
+      6,
+      "B1+"
+    ],
+    [
+      "experience",
+      6,
+      "A2"
+    ],
+    [
+      "fair",
+      6,
+      "A2"
+    ],
+    [
+      "hybrid",
+      6,
+      "B1+"
+    ],
+    [
+      "improvement",
+      6,
+      "B1+"
+    ],
+    [
+      "inclusive",
+      6,
+      "B1+"
+    ],
+    [
+      "initiatives",
+      6,
+      "B1+"
+    ],
+    [
+      "key",
+      6,
+      "A2"
+    ],
+    [
+      "predictive",
+      6,
+      "B1+"
+    ],
+    [
+      "reporting",
+      6,
+      "A2"
+    ],
+    [
+      "safety",
+      6,
+      "B1+"
+    ],
+    [
+      "salary",
+      6,
+      "B1+"
+    ],
+    [
+      "strategy",
+      6,
+      "B1+"
+    ],
+    [
+      "streamline",
+      6,
+      "B1+"
+    ],
+    [
+      "succession",
+      6,
+      "B1+"
+    ],
+    [
+      "surveys",
+      6,
+      "B1+"
+    ],
+    [
+      "transparent",
+      6,
+      "B1+"
+    ],
+    [
+      "workflow",
+      6,
+      "B1+"
+    ],
+    [
+      "accessibility",
+      5,
+      "B1+"
+    ],
+    [
+      "accountability",
+      5,
+      "B1+"
+    ],
+    [
+      "address",
+      5,
+      "B1+"
+    ],
+    [
+      "analysis",
+      5,
+      "B1+"
+    ],
+    [
+      "audits",
+      5,
+      "B1+"
+    ],
+    [
+      "benchmarking",
+      5,
+      "B1+"
+    ],
+    [
+      "bias",
+      5,
+      "B1+"
+    ],
+    [
+      "branding",
+      5,
+      "B1+"
+    ],
+    [
+      "career",
+      5,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "wellness programs",
+      "count": 8,
+      "example": "Health and wellness programs improve retention.",
+      "t": 152.5
+    },
+    {
+      "text": "employee engagement",
+      "count": 7,
+      "example": "Employee engagement and motivation.",
+      "t": 503.27
+    },
+    {
+      "text": "workplace culture",
+      "count": 6,
+      "example": "A positive workplace culture enhances retention.",
+      "t": 257.57
+    },
+    {
+      "text": "employee satisfaction",
+      "count": 6,
+      "example": "Employee satisfaction impacts productivity.",
+      "t": 286.26
+    },
+    {
+      "text": "remote work",
+      "count": 6,
+      "example": "Remote work solutions require secure HR systems.",
+      "t": 480.23
+    },
+    {
+      "text": "succession planning",
+      "count": 6,
+      "example": "Succession planning ensures leadership continuity.",
+      "t": 893.33
+    },
+    {
+      "text": "recognition programs",
+      "count": 5,
+      "example": "Recognition programs increase motivation.",
+      "t": 59.18
+    },
+    {
+      "text": "flexible benefits",
+      "count": 5,
+      "example": "Employees value flexible benefits.",
+      "t": 116.26
+    },
+    {
+      "text": "conflict resolution",
+      "count": 5,
+      "example": "Conflict resolution is a key HR function.",
+      "t": 229.2
+    },
+    {
+      "text": "leadership fosters",
+      "count": 5,
+      "example": "Transparent leadership fosters organizational trust.",
+      "t": 1092.13
+    }
+  ],
+  "phrases": [
+    {
+      "text": "wellness programs",
+      "count": 8,
+      "example": "Health and wellness programs improve retention.",
+      "t": 152.5
+    },
+    {
+      "text": "employee engagement",
+      "count": 7,
+      "example": "Employee engagement and motivation.",
+      "t": 503.27
+    },
+    {
+      "text": "workplace culture",
+      "count": 6,
+      "example": "A positive workplace culture enhances retention.",
+      "t": 257.57
+    },
+    {
+      "text": "employee satisfaction",
+      "count": 6,
+      "example": "Employee satisfaction impacts productivity.",
+      "t": 286.26
+    },
+    {
+      "text": "remote work",
+      "count": 6,
+      "example": "Remote work solutions require secure HR systems.",
+      "t": 480.23
+    },
+    {
+      "text": "succession planning",
+      "count": 6,
+      "example": "Succession planning ensures leadership continuity.",
+      "t": 893.33
+    },
+    {
+      "text": "recognition programs",
+      "count": 5,
+      "example": "Recognition programs increase motivation.",
+      "t": 59.18
+    },
+    {
+      "text": "flexible benefits",
+      "count": 5,
+      "example": "Employees value flexible benefits.",
+      "t": 116.26
+    },
+    {
+      "text": "conflict resolution",
+      "count": 5,
+      "example": "Conflict resolution is a key HR function.",
+      "t": 229.2
+    },
+    {
+      "text": "leadership fosters",
+      "count": 5,
+      "example": "Transparent leadership fosters organizational trust.",
+      "t": 1092.13
+    },
+    {
+      "text": "workforce planning",
+      "count": 5,
+      "example": "People analytics improve workforce planning.",
+      "t": 1159.01
+    },
+    {
+      "text": "new hire",
+      "count": 5,
+      "example": "Digital onboarding enhances new hire experiences.",
+      "t": 1219.12
+    },
+    {
+      "text": "performance improvement",
+      "count": 4,
+      "example": "Clear KPIs drive performance improvement.",
+      "t": 14.19
+    },
+    {
+      "text": "salary benchmarking",
+      "count": 4,
+      "example": "Salary benchmarking ensures fair pay.",
+      "t": 109.14
+    },
+    {
+      "text": "ensures fair",
+      "count": 4,
+      "example": "Salary benchmarking ensures fair pay.",
+      "t": 109.14
+    },
+    {
+      "text": "drive productivity",
+      "count": 4,
+      "example": "Performance bonuses drive productivity.",
+      "t": 131.06
+    },
+    {
+      "text": "programs improve",
+      "count": 4,
+      "example": "Health and wellness programs improve retention.",
+      "t": 152.5
+    },
+    {
+      "text": "improve retention",
+      "count": 4,
+      "example": "Health and wellness programs improve retention.",
+      "t": 152.5
+    },
+    {
+      "text": "wellness programs improve",
+      "count": 4,
+      "example": "Health and wellness programs improve retention.",
+      "t": 152.5
+    },
+    {
+      "text": "employee relations",
+      "count": 4,
+      "example": "Employee Relations and Workplace Policies Open communication builds trust in the workplace.",
+      "t": 204.88
+    },
+    {
+      "text": "builds trust",
+      "count": 4,
+      "example": "Employee Relations and Workplace Policies Open communication builds trust in the workplace.",
+      "t": 204.88
+    },
+    {
+      "text": "programs support",
+      "count": 4,
+      "example": "Employee assistance programs support mental health.",
+      "t": 267.47
+    },
+    {
+      "text": "automation reduces",
+      "count": 4,
+      "example": "Workplace automation reduces manual effort.",
+      "t": 384.48
+    },
+    {
+      "text": "hr systems",
+      "count": 4,
+      "example": "Cloud-based HR systems improve accessibility.",
+      "t": 407.8
+    },
+    {
+      "text": "hr analytics",
+      "count": 4,
+      "example": "HR analytics provide data-driven insights.",
+      "t": 418.35
+    },
+    {
+      "text": "data protection",
+      "count": 4,
+      "example": "Cybersecurity is crucial for HR data protection.",
+      "t": 435.96
+    },
+    {
+      "text": "compliance training",
+      "count": 4,
+      "example": "Compliance training is mandatory.",
+      "t": 622.65
+    },
+    {
+      "text": "employer branding",
+      "count": 4,
+      "example": "Employer branding impacts recruitment success.",
+      "t": 729.88
+    },
+    {
+      "text": "enhance employee",
+      "count": 4,
+      "example": "Smart goals enhance employee performance tracking.",
+      "t": 843.17
+    },
+    {
+      "text": "professional growth",
+      "count": 4,
+      "example": "Peer mentoring enhances professional growth.",
+      "t": 915.13
+    },
+    {
+      "text": "onboarding enhances",
+      "count": 4,
+      "example": "Digital onboarding enhances new hire experiences.",
+      "t": 1219.12
+    },
+    {
+      "text": "improves workflow",
+      "count": 4,
+      "example": "HR software integration improves workflow automation.",
+      "t": 1241.56
+    },
+    {
+      "text": "hr practices",
+      "count": 4,
+      "example": "Ethical HR practices build corporate credibility.",
+      "t": 1297.28
+    },
+    {
+      "text": "audits ensure",
+      "count": 4,
+      "example": "HR audits ensure regulatory adherence.",
+      "t": 1349.05
+    },
+    {
+      "text": "work policies",
+      "count": 4,
+      "example": "Remote work policies outline expectations.",
+      "t": 1495.83
+    },
+    {
+      "text": "goal alignment",
+      "count": 3,
+      "example": "Goal alignment ensures team productivity.",
+      "t": 33.39
+    },
+    {
+      "text": "employee performance",
+      "count": 3,
+      "example": "Employee performance should be measurable.",
+      "t": 47.83
+    },
+    {
+      "text": "compensation and benefits",
+      "count": 3,
+      "example": "Compensation and benefits.",
+      "t": 105.44
+    },
+    {
+      "text": "work-life balance",
+      "count": 3,
+      "example": "Paid parental leave supports work-life balance.",
+      "t": 126.41
+    },
+    {
+      "text": "performance bonuses",
+      "count": 3,
+      "example": "Performance bonuses drive productivity.",
+      "t": 131.06
+    },
+    {
+      "text": "bonuses drive",
+      "count": 3,
+      "example": "Performance bonuses drive productivity.",
+      "t": 131.06
+    },
+    {
+      "text": "performance bonuses drive",
+      "count": 3,
+      "example": "Performance bonuses drive productivity.",
+      "t": 131.06
+    },
+    {
+      "text": "profit sharing",
+      "count": 3,
+      "example": "Profit sharing plans boost employee loyalty.",
+      "t": 144.45
+    },
+    {
+      "text": "sharing plans",
+      "count": 3,
+      "example": "Profit sharing plans boost employee loyalty.",
+      "t": 144.45
+    },
+    {
+      "text": "profit sharing plans",
+      "count": 3,
+      "example": "Profit sharing plans boost employee loyalty.",
+      "t": 144.45
+    },
+    {
+      "text": "workplace policies",
+      "count": 3,
+      "example": "Employee Relations and Workplace Policies Open communication builds trust in the workplace.",
+      "t": 204.88
+    },
+    {
+      "text": "open communication",
+      "count": 3,
+      "example": "Employee Relations and Workplace Policies Open communication builds trust in the workplace.",
+      "t": 204.88
+    },
+    {
+      "text": "relations and workplace",
+      "count": 3,
+      "example": "Employee Relations and Workplace Policies Open communication builds trust in the workplace.",
+      "t": 204.88
+    },
+    {
+      "text": "labor laws",
+      "count": 3,
+      "example": "HR policies must comply with labor laws.",
+      "t": 239.17
+    },
+    {
+      "text": "positive workplace",
+      "count": 3,
+      "example": "A positive workplace culture enhances retention.",
+      "t": 257.57
+    },
+    {
+      "text": "positive workplace culture",
+      "count": 3,
+      "example": "A positive workplace culture enhances retention.",
+      "t": 257.57
+    },
+    {
+      "text": "practices build",
+      "count": 3,
+      "example": "Ethical workplace practices build a strong reputation.",
+      "t": 294.4
+    },
+    {
+      "text": "time management",
+      "count": 3,
+      "example": "Workplace productivity and time management.",
+      "t": 301.83
+    },
+    {
+      "text": "goal setting",
+      "count": 3,
+      "example": "Goal setting enhances productivity.",
+      "t": 338.41
+    },
+    {
+      "text": "hr technology",
+      "count": 3,
+      "example": "HR technology and data management.",
+      "t": 401.94
+    },
+    {
+      "text": "cloud-based hr",
+      "count": 3,
+      "example": "Cloud-based HR systems improve accessibility.",
+      "t": 407.8
+    },
+    {
+      "text": "systems improve",
+      "count": 3,
+      "example": "Cloud-based HR systems improve accessibility.",
+      "t": 407.8
+    },
+    {
+      "text": "cloud-based hr systems",
+      "count": 3,
+      "example": "Cloud-based HR systems improve accessibility.",
+      "t": 407.8
+    },
+    {
+      "text": "hr systems improve",
+      "count": 3,
+      "example": "Cloud-based HR systems improve accessibility.",
+      "t": 407.8
+    },
+    {
+      "text": "ai-driven recruitment",
+      "count": 3,
+      "example": "AI-driven recruitment enhances hiring decisions.",
+      "t": 464.77
+    },
+    {
+      "text": "recruitment enhances",
+      "count": 3,
+      "example": "AI-driven recruitment enhances hiring decisions.",
+      "t": 464.77
+    },
+    {
+      "text": "workplace diversity",
+      "count": 3,
+      "example": "Workplace diversity enhances creativity.",
+      "t": 527.13
+    },
+    {
+      "text": "feedback culture",
+      "count": 3,
+      "example": "A feedback culture supports professional development.",
+      "t": 555.71
+    },
+    {
+      "text": "job satisfaction",
+      "count": 3,
+      "example": "Empowering employees boosts job satisfaction.",
+      "t": 575.3
+    },
+    {
+      "text": "cross-functional collaboration",
+      "count": 3,
+      "example": "Cross-functional collaboration strengthens engagement.",
+      "t": 585.33
+    },
+    {
+      "text": "employee autonomy",
+      "count": 3,
+      "example": "Employee autonomy encourages innovation.",
+      "t": 593.68
+    },
+    {
+      "text": "training is mandatory",
+      "count": 3,
+      "example": "Compliance training is mandatory.",
+      "t": 622.65
+    },
+    {
+      "text": "conduct policies",
+      "count": 3,
+      "example": "Code of conduct policies set workplace standards.",
+      "t": 663.92
+    },
+    {
+      "text": "code of conduct",
+      "count": 3,
+      "example": "Code of conduct policies set workplace standards.",
+      "t": 663.92
+    },
+    {
+      "text": "employee data",
+      "count": 3,
+      "example": "Confidentiality policies safeguard employee data.",
+      "t": 684.08
+    },
+    {
+      "text": "talent acquisition",
+      "count": 3,
+      "example": "Talent Acquisition and Recruitment We use competency-based interviews to assess skills.",
+      "t": 703.1
+    },
+    {
+      "text": "passive candidate",
+      "count": 3,
+      "example": "Passive candidate sourcing requires strategic outreach.",
+      "t": 745.98
+    },
+    {
+      "text": "candidate sourcing",
+      "count": 3,
+      "example": "Passive candidate sourcing requires strategic outreach.",
+      "t": 745.98
+    },
+    {
+      "text": "performance management",
+      "count": 3,
+      "example": "Performance management and employee development.",
+      "t": 815.31
+    },
+    {
+      "text": "employee development",
+      "count": 3,
+      "example": "Performance management and employee development.",
+      "t": 815.31
+    },
+    {
+      "text": "degree feedback",
+      "count": 3,
+      "example": "360-degree feedback provides well-rounded insights.",
+      "t": 818.47
+    },
+    {
+      "text": "smart goals",
+      "count": 3,
+      "example": "Smart goals enhance employee performance tracking.",
+      "t": 843.17
+    },
+    {
+      "text": "culture fosters",
+      "count": 3,
+      "example": "Coaching culture fosters continuous learning.",
+      "t": 852.78
+    },
+    {
+      "text": "leadership development",
+      "count": 3,
+      "example": "Leadership development programs prepare future executives.",
+      "t": 860.53
+    },
+    {
+      "text": "planning ensures",
+      "count": 3,
+      "example": "Succession planning ensures leadership continuity.",
+      "t": 893.33
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.45,
+      "text": "Listen."
+    },
+    {
+      "t": 8.52,
+      "text": "Practice."
+    },
+    {
+      "t": 9.57,
+      "text": "Speak."
+    },
+    {
+      "t": 10.61,
+      "text": "Practice makes you perfect."
+    },
+    {
+      "t": 14.19,
+      "text": "Clear KPIs drive performance improvement."
+    },
+    {
+      "t": 18.7,
+      "text": "Clear KPIs drive performance improvement."
+    },
+    {
+      "t": 23.25,
+      "text": "Feedback loops help employees refine their skills."
+    },
+    {
+      "t": 28.35,
+      "text": "Feedback loops help employees refine their skills."
+    },
+    {
+      "t": 33.39,
+      "text": "Goal alignment ensures team productivity."
+    },
+    {
+      "t": 42.51,
+      "text": "Managers should conduct regular check-ins."
+    },
+    {
+      "t": 47.83,
+      "text": "Employee performance should be measurable."
+    },
+    {
+      "t": 59.18,
+      "text": "Recognition programs increase motivation."
+    },
+    {
+      "t": 63.78,
+      "text": "Recognition programs increase motivation."
+    },
+    {
+      "t": 68.31,
+      "text": "Peer reviews provide balanced feedback."
+    },
+    {
+      "t": 76.92,
+      "text": "Performance discussion should be solution-focused."
+    },
+    {
+      "t": 86.36,
+      "text": "A well-structured appraisal system fosters growth."
+    },
+    {
+      "t": 96.48,
+      "text": "Performance incentives encourage excellence."
+    },
+    {
+      "t": 100.95,
+      "text": "Performance incentives encourage excellence."
+    },
+    {
+      "t": 105.44,
+      "text": "Compensation and benefits."
+    },
+    {
+      "t": 109.14,
+      "text": "Salary benchmarking ensures fair pay."
+    },
+    {
+      "t": 113.38,
+      "text": "Salary benchmarking ensures fair pay."
+    },
+    {
+      "t": 116.26,
+      "text": "Employees value flexible benefits."
+    },
+    {
+      "t": 122.15,
+      "text": "Employees value flexible benefits."
+    },
+    {
+      "t": 126.41,
+      "text": "Paid parental leave supports work-life balance."
+    },
+    {
+      "t": 131.06,
+      "text": "Performance bonuses drive productivity."
+    },
+    {
+      "t": 138.63,
+      "text": "Performance bonuses drive productivity."
+    },
+    {
+      "t": 144.45,
+      "text": "Profit sharing plans boost employee loyalty."
+    },
+    {
+      "t": 149.23,
+      "text": "Profit sharing plans boost employee loyalty."
+    },
+    {
+      "t": 152.5,
+      "text": "Health and wellness programs improve retention."
+    },
+    {
+      "t": 158.4,
+      "text": "Health and wellness programs improve retention."
+    },
+    {
+      "t": 162.85,
+      "text": "Retirement benefits attract experienced professionals."
+    },
+    {
+      "t": 167.21,
+      "text": "Professionals."
+    },
+    {
+      "t": 169.6,
+      "text": "Retirement benefits attract experienced professionals."
+    },
+    {
+      "t": 174.97,
+      "text": "Work from home allowances enhance flexibility."
+    },
+    {
+      "t": 183.3,
+      "text": "Fair compensation reduces turnover rates."
+    },
+    {
+      "t": 191.81,
+      "text": "Employees appreciate tuition reimbursement programs."
+    },
+    {
+      "t": 204.88,
+      "text": "Employee Relations and Workplace Policies Open communication builds trust in the workplace."
+    },
+    {
+      "t": 214.93,
+      "text": "Employee surveys provide valuable feedback."
+    },
+    {
+      "t": 229.2,
+      "text": "Conflict resolution is a key HR function."
+    },
+    {
+      "t": 233.99,
+      "text": "Conflict resolution is a key HR function."
+    },
+    {
+      "t": 239.17,
+      "text": "HR policies must comply with labor laws."
+    },
+    {
+      "t": 246.36,
+      "text": "Grievance procedures should be transparent."
+    },
+    {
+      "t": 257.57,
+      "text": "A positive workplace culture enhances retention."
+    },
+    {
+      "t": 262.4,
+      "text": "A positive workplace culture enhances retention."
+    },
+    {
+      "t": 267.47,
+      "text": "Employee assistance programs support mental health."
+    },
+    {
+      "t": 277.53,
+      "text": "Respect in the workplace is non-negotiable."
+    },
+    {
+      "t": 286.26,
+      "text": "Employee satisfaction impacts productivity."
+    },
+    {
+      "t": 290.96,
+      "text": "Employee satisfaction impacts productivity."
+    },
+    {
+      "t": 294.4,
+      "text": "Ethical workplace practices build a strong reputation."
+    },
+    {
+      "t": 301.83,
+      "text": "Workplace productivity and time management."
+    },
+    {
+      "t": 311.24,
+      "text": "Prioritization helps employees stay organized."
+    },
+    {
+      "t": 316.21,
+      "text": "Prioritization helps employees stay organized."
+    },
+    {
+      "t": 321.14,
+      "text": "Effective time management boosts efficiency."
+    },
+    {
+      "t": 324.33,
+      "text": "Effective time management boosts efficiency."
+    },
+    {
+      "t": 329.0,
+      "text": "Task delegation prevents burnout."
+    },
+    {
+      "t": 334.42,
+      "text": "Task delegation prevents burnout."
+    },
+    {
+      "t": 338.41,
+      "text": "Goal setting enhances productivity."
+    },
+    {
+      "t": 341.03,
+      "text": "Goal setting enhances productivity."
+    },
+    {
+      "t": 345.14,
+      "text": "Distraction-free environments improve focus."
+    },
+    {
+      "t": 351.28,
+      "text": "Distraction-free environments improve focus."
+    },
+    {
+      "t": 356.09,
+      "text": "Virtual collaboration tools increase efficiency."
+    },
+    {
+      "t": 359.64,
+      "text": "Agile workflows improve adaptability."
+    },
+    {
+      "t": 369.07,
+      "text": "Setting deadlines fosters accountability."
+    },
+    {
+      "t": 379.97,
+      "text": "Setting deadlines fosters accountability."
+    },
+    {
+      "t": 384.48,
+      "text": "Workplace automation reduces manual effort."
+    },
+    {
+      "t": 394.01,
+      "text": "Clear communication prevents workflow delays."
+    },
+    {
+      "t": 401.94,
+      "text": "HR technology and data management."
+    },
+    {
+      "t": 407.8,
+      "text": "Cloud-based HR systems improve accessibility."
+    },
+    {
+      "t": 412.99,
+      "text": "Cloud-based HR systems improve accessibility."
+    },
+    {
+      "t": 418.35,
+      "text": "HR analytics provide data-driven insights."
+    },
+    {
+      "t": 424.42,
+      "text": "Payroll automation reduces errors."
+    },
+    {
+      "t": 431.99,
+      "text": "Payroll automation reduces errors."
+    },
+    {
+      "t": 435.96,
+      "text": "Cybersecurity is crucial for HR data protection."
+    },
+    {
+      "t": 441.45,
+      "text": "Cybersecurity is crucial for HR data protection."
+    },
+    {
+      "t": 446.98,
+      "text": "HR Dashboard Streamline Reporting HR Dashboard Streamline Reporting Employee Self-Service Portals Increase Engagement Employee Self-Service Portals Increase Engagement"
+    },
+    {
+      "t": 464.77,
+      "text": "AI-driven recruitment enhances hiring decisions."
+    },
+    {
+      "t": 470.41,
+      "text": "Digital record-keeping ensures compliance."
+    },
+    {
+      "t": 480.23,
+      "text": "Remote work solutions require secure HR systems."
+    },
+    {
+      "t": 494.74,
+      "text": "Virtual HR support improves accessibility."
+    },
+    {
+      "t": 499.81,
+      "text": "Virtual HR support improves accessibility."
+    },
+    {
+      "t": 503.27,
+      "text": "Employee engagement and motivation."
+    },
+    {
+      "t": 508.98,
+      "text": "A strong company mission inspires employees."
+    },
+    {
+      "t": 513.72,
+      "text": "A strong company mission inspires employees."
+    },
+    {
+      "t": 518.43,
+      "text": "Team recognition fosters camaraderie."
+    },
+    {
+      "t": 522.67,
+      "text": "Team recognition fosters camaraderie."
+    },
+    {
+      "t": 527.13,
+      "text": "Workplace diversity enhances creativity."
+    },
+    {
+      "t": 530.36,
+      "text": "Workplace diversity enhances creativity."
+    },
+    {
+      "t": 535.1,
+      "text": "Career growth opportunities improve engagement."
+    },
+    {
+      "t": 543.21,
+      "text": "Employee appreciation events increase morale."
+    },
+    {
+      "t": 550.85,
+      "text": "Employee appreciation events increase morale."
+    },
+    {
+      "t": 555.71,
+      "text": "A feedback culture supports professional development."
+    },
+    {
+      "t": 560.82,
+      "text": "A feedback culture supports professional development."
+    },
+    {
+      "t": 565.91,
+      "text": "Wellness programs improve overall engagement."
+    },
+    {
+      "t": 570.57,
+      "text": "Wellness programs improve overall engagement."
+    },
+    {
+      "t": 575.3,
+      "text": "Empowering employees boosts job satisfaction."
+    },
+    {
+      "t": 580.16,
+      "text": "Empowering employees boosts job satisfaction."
+    },
+    {
+      "t": 585.33,
+      "text": "Cross-functional collaboration strengthens engagement."
+    },
+    {
+      "t": 593.68,
+      "text": "Employee autonomy encourages innovation."
+    },
+    {
+      "t": 599.75,
+      "text": "Employee autonomy encourages innovation."
+    },
+    {
+      "t": 604.39,
+      "text": "Workplace ethics and compliance."
+    },
+    {
+      "t": 609.56,
+      "text": "Ethical leadership builds trust."
+    },
+    {
+      "t": 617.14,
+      "text": "Diversity policies ensure an inclusive workplace."
+    },
+    {
+      "t": 622.65,
+      "text": "Compliance training is mandatory."
+    },
+    {
+      "t": 629.66,
+      "text": "Harassment prevention training is essential."
+    },
+    {
+      "t": 639.26,
+      "text": "Harassment prevention training is essential."
+    },
+    {
+      "t": 642.2,
+      "text": "Anti-discrimination policies protect employees."
+    },
+    {
+      "t": 649.17,
+      "text": "Anti-discrimination policies protect employees."
+    },
+    {
+      "t": 654.47,
+      "text": "A strong HR compliance framework is vital."
+    },
+    {
+      "t": 663.92,
+      "text": "Code of conduct policies set workplace standards."
+    },
+    {
+      "t": 668.72,
+      "text": "Code of conduct policies set workplace standards."
+    },
+    {
+      "t": 673.69,
+      "text": "Transparency in decision making builds credibility."
+    },
+    {
+      "t": 677.39,
+      "text": "Transparency in decision making builds credibility."
+    },
+    {
+      "t": 684.08,
+      "text": "Confidentiality policies safeguard employee data."
+    },
+    {
+      "t": 689.27,
+      "text": "Confidentiality policies safeguard employee data."
+    },
+    {
+      "t": 694.5,
+      "text": "A whistleblower policy encourages accountability."
+    },
+    {
+      "t": 699.43,
+      "text": "A whistleblower policy encourages accountability."
+    },
+    {
+      "t": 703.1,
+      "text": "Talent Acquisition and Recruitment We use competency-based interviews to assess skills."
+    },
+    {
+      "t": 719.21,
+      "text": "A robust talent pipeline ensures long-term success."
+    },
+    {
+      "t": 729.88,
+      "text": "Employer branding impacts recruitment success."
+    },
+    {
+      "t": 739.85,
+      "text": "We prioritize diversity hiring to build inclusive teams."
+    },
+    {
+      "t": 745.98,
+      "text": "Passive candidate sourcing requires strategic outreach."
+    },
+    {
+      "t": 757.01,
+      "text": "Passive candidate sourcing requires strategic outreach."
+    },
+    {
+      "t": 762.6,
+      "text": "Our applicant tracking system streamlines recruitment."
+    },
+    {
+      "t": 772.55,
+      "text": "Behavioral assessments help predict job performance."
+    },
+    {
+      "t": 777.74,
+      "text": "Behavioral assessments help predict job performance."
+    },
+    {
+      "t": 782.9,
+      "text": "Executive search firms specialize in senior-level hiring."
+    },
+    {
+      "t": 794.38,
+      "text": "We leverage AI-driven recruitment for efficiency."
+    },
+    {
+      "t": 803.43,
+      "text": "Pre-employment testing ensures role suitability."
+    },
+    {
+      "t": 809.76,
+      "text": "Pre-employment testing ensures role suitability."
+    },
+    {
+      "t": 813.19,
+      "text": "2."
+    },
+    {
+      "t": 815.31,
+      "text": "Performance management and employee development."
+    },
+    {
+      "t": 818.47,
+      "text": "360-degree feedback provides well-rounded insights."
+    },
+    {
+      "t": 826.3,
+      "text": "360-degree feedback provides well-rounded insights."
+    },
+    {
+      "t": 832.49,
+      "text": "Performance improvement plans address productivity gaps."
+    },
+    {
+      "t": 837.74,
+      "text": "Performance improvement plans address productivity gaps."
+    },
+    {
+      "t": 843.17,
+      "text": "Smart goals enhance employee performance tracking."
+    },
+    {
+      "t": 848.03,
+      "text": "Smart goals enhance employee performance tracking."
+    },
+    {
+      "t": 852.78,
+      "text": "Coaching culture fosters continuous learning."
+    },
+    {
+      "t": 857.39,
+      "text": "Coaching culture fosters continuous learning."
+    },
+    {
+      "t": 860.53,
+      "text": "Leadership development programs prepare future executives."
+    },
+    {
+      "t": 867.56,
+      "text": "Leadership development programs prepare future executives."
+    },
+    {
+      "t": 876.21,
+      "text": "Competency frameworks define required skills."
+    },
+    {
+      "t": 883.28,
+      "text": "Employee recognition programs boost engagement."
+    },
+    {
+      "t": 893.33,
+      "text": "Succession planning ensures leadership continuity."
+    },
+    {
+      "t": 898.37,
+      "text": "Succession planning ensures leadership continuity."
+    },
+    {
+      "t": 902.06,
+      "text": "High potential employees receive tailored career development."
+    },
+    {
+      "t": 909.37,
+      "text": "High potential employees receive tailored career development."
+    },
+    {
+      "t": 915.13,
+      "text": "Peer mentoring enhances professional growth."
+    },
+    {
+      "t": 919.8,
+      "text": "Peer mentoring enhances professional growth."
+    },
+    {
+      "t": 924.56,
+      "text": "Three, compensation and benefits."
+    },
+    {
+      "t": 928.75,
+      "text": "Total reward strategy optimizes employee satisfaction."
+    },
+    {
+      "t": 934.66,
+      "text": "Total reward strategy optimizes employee satisfaction."
+    },
+    {
+      "t": 940.63,
+      "text": "Salary benchmarking maintains market competitiveness."
+    },
+    {
+      "t": 946.0,
+      "text": "Salary benchmarking maintains market competitiveness."
+    },
+    {
+      "t": 951.28,
+      "text": "Performance-based incentives drive productivity."
+    },
+    {
+      "t": 956.13,
+      "text": "Performance-based incentives drive productivity."
+    },
+    {
+      "t": 961.2,
+      "text": "Equity compensation retains key talent."
+    },
+    {
+      "t": 965.8,
+      "text": "Equity compensation retains key talent."
+    },
+    {
+      "t": 970.37,
+      "text": "Employee stock ownership plans increase commitment."
+    },
+    {
+      "t": 975.36,
+      "text": "Employee stock ownership plans increase commitment."
+    },
+    {
+      "t": 980.28,
+      "text": "Flexible benefits packages cater to diverse needs."
+    },
+    {
+      "t": 985.55,
+      "text": "Flexible benefits packages cater to diverse needs."
+    },
+    {
+      "t": 990.77,
+      "text": "Pay transparency builds trust in compensation policies."
+    },
+    {
+      "t": 997.28,
+      "text": "Pay transparency builds trust in compensation policies."
+    },
+    {
+      "t": 1002.93,
+      "text": "Competitive remuneration attracts top-tier candidates."
+    },
+    {
+      "t": 1013.42,
+      "text": "Cost of living adjustments reflect economic conditions."
+    },
+    {
+      "t": 1018.73,
+      "text": "Cost of living adjustments reflect economic conditions."
+    },
+    {
+      "t": 1024.02,
+      "text": "Wellness programs reduce absenteeism."
+    },
+    {
+      "t": 1028.34,
+      "text": "Wellness programs reduce absenteeism."
+    },
+    {
+      "t": 1031.12,
+      "text": "4."
+    },
+    {
+      "t": 1033.3,
+      "text": "Workplace culture and employee engagement."
+    },
+    {
+      "t": 1037.73,
+      "text": "Employee engagement surveys measure workplace satisfaction."
+    },
+    {
+      "t": 1043.21,
+      "text": "Employee engagement surveys measure workplace satisfaction."
+    },
+    {
+      "t": 1047.45,
+      "text": "Psychological safety encourages open communication."
+    },
+    {
+      "t": 1058.55,
+      "text": "Diversity, equity, and inclusion initiatives promote fairness."
+    },
+    {
+      "t": 1072.54,
+      "text": "A positive workplace culture boosts retention rates."
+    },
+    {
+      "t": 1082.81,
+      "text": "Hybrid work models enhance work-life balance."
+    },
+    {
+      "t": 1092.13,
+      "text": "Transparent leadership fosters organizational trust."
+    },
+    {
+      "t": 1102.73,
+      "text": "Cross-functional collaboration enhances innovation."
+    },
+    {
+      "t": 1106.31,
+      "text": "Employee experience directly impacts performance."
+    },
+    {
+      "t": 1122.87,
+      "text": "Gamification in HR makes engagement fun and effective."
+    },
+    {
+      "t": 1128.41,
+      "text": "Gamification in HR makes engagement fun and effective."
+    },
+    {
+      "t": 1134.1,
+      "text": "Continuous feedback culture drives improvement."
+    },
+    {
+      "t": 1137.32,
+      "text": "5."
+    },
+    {
+      "t": 1140.63,
+      "text": "HR Technology and Data Analytics HR analytics drive data-informed decision-making."
+    },
+    {
+      "t": 1154.06,
+      "text": "HR analytics drive data-informed decision-making."
+    },
+    {
+      "t": 1159.01,
+      "text": "People analytics improve workforce planning."
+    },
+    {
+      "t": 1166.55,
+      "text": "Predictive analytics help forecast employee turnover."
+    },
+    {
+      "t": 1178.65,
+      "text": "Cloud-based HR systems improve efficiency."
+    },
+    {
+      "t": 1188.34,
+      "text": "AI-powered chatbots enhance HR service delivery."
+    },
+    {
+      "t": 1197.89,
+      "text": "Blockchain technology secures employee records."
+    },
+    {
+      "t": 1206.88,
+      "text": "Learning management systems facilitate training."
+    },
+    {
+      "t": 1219.12,
+      "text": "Digital onboarding enhances new hire experiences."
+    },
+    {
+      "t": 1224.54,
+      "text": "Digital onboarding enhances new hire experiences."
+    },
+    {
+      "t": 1229.99,
+      "text": "Biometric attendance systems streamline payroll processing."
+    },
+    {
+      "t": 1235.7,
+      "text": "Biometric attendance systems streamline payroll processing."
+    },
+    {
+      "t": 1241.56,
+      "text": "HR software integration improves workflow automation."
+    },
+    {
+      "t": 1246.84,
+      "text": "HR software integration improves workflow automation 6."
+    },
+    {
+      "t": 1253.27,
+      "text": "Employee relations and workplace policies Conflict resolution strategies strengthen team dynamics Conflict resolution strategies strengthen team dynamics Anti-harassment training ensures a safe workplace"
+    },
+    {
+      "t": 1273.57,
+      "text": "Anti-harassment training ensures a safe workplace."
+    },
+    {
+      "t": 1278.74,
+      "text": "Employee grievances should be addressed promptly."
+    },
+    {
+      "t": 1281.84,
+      "text": "Employee grievances should be addressed promptly."
+    },
+    {
+      "t": 1286.48,
+      "text": "Open-door policies encourage honest feedback."
+    },
+    {
+      "t": 1297.28,
+      "text": "Ethical HR practices build corporate credibility."
+    },
+    {
+      "t": 1302.29,
+      "text": "Ethical HR practices build corporate credibility."
+    },
+    {
+      "t": 1306.04,
+      "text": "Workplace mediation resolves disputes effectively."
+    },
+    {
+      "t": 1311.14,
+      "text": "A zero-tolerance policy enforces workplace ethics."
+    },
+    {
+      "t": 1328.23,
+      "text": "Employee handbooks clarify organizational expectations."
+    },
+    {
+      "t": 1334.38,
+      "text": "Employee handbooks clarify organizational expectations."
+    },
+    {
+      "t": 1340.28,
+      "text": "Compliance training is mandatory for all employees."
+    },
+    {
+      "t": 1345.43,
+      "text": "Compliance training is mandatory for all employees."
+    },
+    {
+      "t": 1349.05,
+      "text": "HR audits ensure regulatory adherence."
+    },
+    {
+      "t": 1355.23,
+      "text": "HR audits ensure regulatory adherence."
+    },
+    {
+      "t": 1360.08,
+      "text": "7."
+    },
+    {
+      "t": 1360.74,
+      "text": "Legal Compliance and Risk Management Workplace investigations require confidentiality."
+    },
+    {
+      "t": 1368.67,
+      "text": "HR must align with labor laws and regulations."
+    },
+    {
+      "t": 1385.94,
+      "text": "Equal employment opportunity policies prevent discrimination."
+    },
+    {
+      "t": 1390.57,
+      "text": "Equal employment opportunity policies prevent discrimination."
+    },
+    {
+      "t": 1396.62,
+      "text": "OSHA compliance ensures workplace safety."
+    },
+    {
+      "t": 1401.79,
+      "text": "OSHA compliance ensures workplace safety."
+    },
+    {
+      "t": 1408.04,
+      "text": "FMLA policies govern employee leave entitlements."
+    },
+    {
+      "t": 1413.21,
+      "text": "fmla policies govern employee leave entitlements data protection laws impact hr record keeping data protection laws impact hr record keeping exit interviews provide compliance insights exit interviews provide compliance insights whistleblower protection encourages ethical reporting"
+    },
+    {
+      "t": 1443.77,
+      "text": "Whistleblower protection encourages ethical reporting."
+    },
+    {
+      "t": 1449.06,
+      "text": "Background checks help mitigate hiring risks."
+    },
+    {
+      "t": 1453.76,
+      "text": "Background checks help mitigate hiring risks."
+    },
+    {
+      "t": 1458.44,
+      "text": "Confidentiality agreements protect company interests."
+    },
+    {
+      "t": 1463.93,
+      "text": "Confidentiality agreements protect company interests."
+    },
+    {
+      "t": 1467.83,
+      "text": "8."
+    },
+    {
+      "t": 1469.97,
+      "text": "Remote work and hybrid workforce management."
+    },
+    {
+      "t": 1474.43,
+      "text": "Virtual team building strengthens remote collaboration."
+    },
+    {
+      "t": 1480.22,
+      "text": "Asynchronous communication supports global teams."
+    },
+    {
+      "t": 1495.83,
+      "text": "Remote work policies outline expectations."
+    },
+    {
+      "t": 1505.11,
+      "text": "Cybersecurity training is crucial for remote employees."
+    },
+    {
+      "t": 1514.88,
+      "text": "Digital Nomad policies address compliance challenges."
+    },
+    {
+      "t": 1527.28,
+      "text": "Virtual onboarding enhances remote hiring experiences."
+    },
+    {
+      "t": 1532.97,
+      "text": "Virtual onboarding enhances remote hiring experiences."
+    },
+    {
+      "t": 1538.72,
+      "text": "Time zone management optimizes global operations."
+    },
+    {
+      "t": 1549.34,
+      "text": "Flexible scheduling supports employee autonomy."
+    },
+    {
+      "t": 1559.52,
+      "text": "Productivity monitoring tools track remote efficiency."
+    },
+    {
+      "t": 1564.94,
+      "text": "Productivity monitoring tools track remote efficiency."
+    },
+    {
+      "t": 1570.29,
+      "text": "Cloud collaboration software improves workflow."
+    },
+    {
+      "t": 1575.27,
+      "text": "Cloud collaboration software improves workflow talent acquisition and recruitment."
+    },
+    {
+      "t": 1582.58,
+      "text": "Strategic workforce planning aligns hiring with business goals."
+    },
+    {
+      "t": 1588.24,
+      "text": "AI-driven recruitment enhances candidate selection accuracy."
+    },
+    {
+      "t": 1593.06,
+      "text": "Employer reputation significantly impacts talent attraction."
+    },
+    {
+      "t": 1600.51,
+      "text": "Niche job boards improve targeted candidate sourcing."
+    },
+    {
+      "t": 1605.6,
+      "text": "Recruitment marketing strengthens employer branding."
+    },
+    {
+      "t": 1611.56,
+      "text": "Job fit analysis predicts long-term employee retention."
+    },
+    {
+      "t": 1616.99,
+      "text": "Social media recruiting expands talent reach."
+    },
+    {
+      "t": 1622.04,
+      "text": "Passive candidate engagement requires personalized outreach."
+    },
+    {
+      "t": 1627.96,
+      "text": "Employer referrals improve hiring efficiency."
+    },
+    {
+      "t": 1631.25,
+      "text": "Structured onboarding improves new hire integration."
+    },
+    {
+      "t": 1637.93,
+      "text": "Two, performance management and employee development."
+    },
+    {
+      "t": 1643.22,
+      "text": "Continuous performance feedback fosters a growth mindset."
+    },
+    {
+      "t": 1648.81,
+      "text": "Goal alignment improves organizational efficiency."
+    },
+    {
+      "t": 1653.89,
+      "text": "Personalized development plans enhance career progression."
+    },
+    {
+      "t": 1659.48,
+      "text": "Upskilling initiatives future-proof the workforce."
+    },
+    {
+      "t": 1664.41,
+      "text": "Employee coaching programs maximize potential."
+    },
+    {
+      "t": 1669.24,
+      "text": "Leadership competencies define managerial effectiveness."
+    },
+    {
+      "t": 1675.03,
+      "text": "Individual development plans support professional growth."
+    },
+    {
+      "t": 1680.53,
+      "text": "Training ROI metrics evaluate learning effectiveness."
+    },
+    {
+      "t": 1685.84,
+      "text": "Peer feedback strengthens performance evaluations."
+    },
+    {
+      "t": 1691.0,
+      "text": "Cross-functional training fosters collaboration."
+    },
+    {
+      "t": 1695.85,
+      "text": "Three, compensation and benefits."
+    },
+    {
+      "t": 1700.09,
+      "text": "Competitive salary structures improve employee satisfaction."
+    },
+    {
+      "t": 1704.57,
+      "text": "Total rewards packages attract high-caliber professionals."
+    },
+    {
+      "t": 1711.72,
+      "text": "Incentive-based compensation boosts motivation."
+    },
+    {
+      "t": 1716.79,
+      "text": "Pay equity audits ensure fairness in compensation."
+    },
+    {
+      "t": 1721.87,
+      "text": "Performance bonuses drive organizational success."
+    },
+    {
+      "t": 1726.98,
+      "text": "Wellness stipends promote employee health."
+    },
+    {
+      "t": 1731.51,
+      "text": "Paid parental leave improves work-life balance."
+    },
+    {
+      "t": 1736.14,
+      "text": "Employee assistance programs support mental well-being."
+    },
+    {
+      "t": 1741.24,
+      "text": "Profit sharing plans align employee and business interests."
+    },
+    {
+      "t": 1746.75,
+      "text": "Recognition programs enhance workplace morale."
+    },
+    {
+      "t": 1750.16,
+      "text": "4."
+    },
+    {
+      "t": 1752.22,
+      "text": "Employee Engagement and Workplace Culture"
+    },
+    {
+      "t": 1756.48,
+      "text": "Employee advocacy strengthens corporate branding."
+    },
+    {
+      "t": 1760.07,
+      "text": "Transparent leadership fosters organizational trust."
+    },
+    {
+      "t": 1766.91,
+      "text": "Employee-driven innovation enhances competitiveness."
+    },
+    {
+      "t": 1772.2,
+      "text": "Flexible work policies boost job satisfaction."
+    },
+    {
+      "t": 1777.38,
+      "text": "Psychological safety encourages open dialogue."
+    },
+    {
+      "t": 1782.39,
+      "text": "Hybrid workplace strategies improve employee retention."
+    },
+    {
+      "t": 1787.63,
+      "text": "Active listening strengthens workplace relationships."
+    },
+    {
+      "t": 1792.8,
+      "text": "Employee sentiment analysis predicts retention risks."
+    },
+    {
+      "t": 1798.25,
+      "text": "Recognition culture improves productivity levels."
+    },
+    {
+      "t": 1803.34,
+      "text": "Team-building initiatives enhance collaboration."
+    },
+    {
+      "t": 1809.04,
+      "text": "HR technology and people analytics."
+    },
+    {
+      "t": 1814.13,
+      "text": "Data-driven decision-making improves workforce strategies."
+    },
+    {
+      "t": 1819.76,
+      "text": "Predictive analytics optimize succession planning."
+    },
+    {
+      "t": 1823.44,
+      "text": "HR chatbots improve candidate experience."
+    },
+    {
+      "t": 1829.87,
+      "text": "Employee polls surveys track engagement trends."
+    },
+    {
+      "t": 1834.68,
+      "text": "AI-driven sentiment analysis enhances HR strategies."
+    },
+    {
+      "t": 1840.52,
+      "text": "HR automation reduces administrative workload."
+    },
+    {
+      "t": 1845.89,
+      "text": "Performance dashboards visualize employee progress."
+    },
+    {
+      "t": 1851.04,
+      "text": "Biometric attendance systems ensure payroll accuracy."
+    },
+    {
+      "t": 1856.61,
+      "text": "Predictive turnover modeling helps retention efforts."
+    },
+    {
+      "t": 1861.88,
+      "text": "AI-powered learning platforms personalize training."
+    },
+    {
+      "t": 1866.74,
+      "text": "Six, employee relations and conflict resolution."
+    },
+    {
+      "t": 1872.13,
+      "text": "Conflict mediation fosters a positive work environment."
+    },
+    {
+      "t": 1877.84,
+      "text": "Constructive feedback strengthens professional relationships."
+    },
+    {
+      "t": 1883.47,
+      "text": "Employee wellness programs prevent burnout."
+    },
+    {
+      "t": 1887.94,
+      "text": "Zero tolerance policies enforce ethical behavior."
+    },
+    {
+      "t": 1893.1,
+      "text": "Confidential grievance mechanisms build employee trust."
+    },
+    {
+      "t": 1898.69,
+      "text": "Transparent disciplinary actions maintain workplace order."
+    },
+    {
+      "t": 1904.44,
+      "text": "Employee empowerment improves workplace harmony."
+    },
+    {
+      "t": 1907.79,
+      "text": "Team dynamics assessments enhance collaboration."
+    },
+    {
+      "t": 1914.36,
+      "text": "Open door policies encourage honest discussions."
+    },
+    {
+      "t": 1919.01,
+      "text": "Mediation skills are essential for HR professionals."
+    },
+    {
+      "t": 1923.07,
+      "text": "7."
+    },
+    {
+      "t": 1925.28,
+      "text": "Diversity, Equity and Inclusion Unconscious bias training promotes fair hiring practices."
+    },
+    {
+      "t": 1935.95,
+      "text": "Inclusive workplace policies enhance cultural competence."
+    },
+    {
+      "t": 1941.44,
+      "text": "Diversity metrics measure organizational inclusivity."
+    },
+    {
+      "t": 1946.83,
+      "text": "DEI task forces drive systemic change."
+    },
+    {
+      "t": 1951.56,
+      "text": "Pay equity ensures fair compensation across demographics."
+    },
+    {
+      "t": 1957.19,
+      "text": "Gender neutral hiring practices reduce discrimination."
+    },
+    {
+      "t": 1962.66,
+      "text": "Cultural intelligence training fosters inclusivity."
+    },
+    {
+      "t": 1966.4,
+      "text": "Employee resource groups, ERGs, support workplace diversity."
+    },
+    {
+      "t": 1974.15,
+      "text": "Equitable promotion opportunities improve retention."
+    },
+    {
+      "t": 1979.56,
+      "text": "Intersectionality awareness enhances diversity efforts."
+    },
+    {
+      "t": 1985.28,
+      "text": "8."
+    },
+    {
+      "t": 1985.84,
+      "text": "Leadership and Organizational Development Leadership agility improves adaptability in fast-changing environments."
+    },
+    {
+      "t": 1996.84,
+      "text": "Transformational leadership inspires innovation."
+    },
+    {
+      "t": 2001.64,
+      "text": "Emotional intelligence enhances leadership effectiveness."
+    },
+    {
+      "t": 2008.49,
+      "text": "Decision-making frameworks improve managerial clarity."
+    },
+    {
+      "t": 2012.54,
+      "text": "Change management strategies minimize workplace disruptions."
+    },
+    {
+      "t": 2019.72,
+      "text": "Transparent communication strengthens leadership credibility."
+    },
+    {
+      "t": 2024.01,
+      "text": "Executive coaching maximizes leadership potential."
+    },
+    {
+      "t": 2030.63,
+      "text": "Authentic leadership builds workplace trust."
+    },
+    {
+      "t": 2035.24,
+      "text": "Inclusive leadership fosters diverse perspectives."
+    },
+    {
+      "t": 2040.26,
+      "text": "Leadership resilience improves crisis management."
+    },
+    {
+      "t": 2045.35,
+      "text": "Nine, compliance and employment law."
+    },
+    {
+      "t": 2049.51,
+      "text": "GDPR compliance protects employee data privacy."
+    },
+    {
+      "t": 2055.18,
+      "text": "Workplace harassment policies ensure a safe environment."
+    },
+    {
+      "t": 2060.72,
+      "text": "Employment contracts outline legal obligations."
+    },
+    {
+      "t": 2065.77,
+      "text": "Whistleblower protections safeguard ethical reporting."
+    },
+    {
+      "t": 2071.1,
+      "text": "Labor law compliance prevents legal disputes."
+    },
+    {
+      "t": 2075.91,
+      "text": "Regulatory audits ensure HR policy adherence."
+    },
+    {
+      "t": 2081.28,
+      "text": "Workplace investigations require confidentiality."
+    },
+    {
+      "t": 2086.59,
+      "text": "Code of conduct policies establish behavioral expectations."
+    },
+    {
+      "t": 2092.82,
+      "text": "Termination procedures must align with labor laws."
+    },
+    {
+      "t": 2098.19,
+      "text": "Occupational health and safety policies mitigate risks."
+    },
+    {
+      "t": 2104.09,
+      "text": "10."
+    },
+    {
+      "t": 2104.43,
+      "text": "Remote work and hybrid workforces Digital collaboration tools enhance remote teamwork."
+    },
+    {
+      "t": 2113.41,
+      "text": "Virtual engagement strategies boost remote morale."
+    },
+    {
+      "t": 2118.55,
+      "text": "Remote onboarding improves new hire retention."
+    },
+    {
+      "t": 2123.36,
+      "text": "Asynchronous communication reduces time zone challenges."
+    },
+    {
+      "t": 2129.07,
+      "text": "Cybersecurity training protects remote employees."
+    },
+    {
+      "t": 2134.38,
+      "text": "Flexible work arrangements support productivity."
+    },
+    {
+      "t": 2139.32,
+      "text": "Work-from-home stipends enhance remote work setups."
+    },
+    {
+      "t": 2144.32,
+      "text": "Hybrid work models require strategic implementation."
+    },
+    {
+      "t": 2149.79,
+      "text": "Digital HR solutions streamline remote management."
+    },
+    {
+      "t": 2154.96,
+      "text": "Virtual mentoring programs support professional growth."
+    },
+    {
+      "t": 2158.64,
+      "text": "11."
+    },
+    {
+      "t": 2160.69,
+      "text": "HR Strategy and Business Alignment HR business partners bridge strategy and execution."
+    },
+    {
+      "t": 2170.66,
+      "text": "Human capital strategy drives organizational success."
+    },
+    {
+      "t": 2176.51,
+      "text": "Employee lifecycle management improves retention."
+    },
+    {
+      "t": 2181.61,
+      "text": "Workforce agility supports business adaptability."
+    },
+    {
+      "t": 2185.26,
+      "text": "Employer branding strengthens market positioning."
+    },
+    {
+      "t": 2191.78,
+      "text": "Organizational culture transformation enhances engagement."
+    },
+    {
+      "t": 2197.39,
+      "text": "HR key performance indicators, KPIs, track efficiency."
+    },
+    {
+      "t": 2203.8,
+      "text": "People-centered leadership fosters long-term growth."
+    },
+    {
+      "t": 2208.81,
+      "text": "Talent optimization improves workforce productivity."
+    },
+    {
+      "t": 2212.98,
+      "text": "HR innovation fuels competitive advantage."
+    },
+    {
+      "t": 2219.31,
+      "text": "Talent acquisition and workforce planning."
+    },
+    {
+      "t": 2223.46,
+      "text": "Predictive hiring analytics improve recruitment accuracy."
+    },
+    {
+      "t": 2227.79,
+      "text": "Proactive talent pipelining ensures business continuity."
+    },
+    {
+      "t": 2233.27,
+      "text": "Employer branding influences candidate perception."
+    },
+    {
+      "t": 2240.06,
+      "text": "AI-powered resume screening enhances efficiency."
+    },
+    {
+      "t": 2243.7,
+      "text": "Behavioral interview techniques assess cultural fit."
+    },
+    {
+      "t": 2250.36,
+      "text": "Data-driven hiring decisions reduce bias Virtual recruitment strategies expand talent pools Gamification in recruitment enhances candidate experience Candidate experience optimization improves offer acceptance rates Workforce planning aligns hiring with future needs"
+    },
+    {
+      "t": 2277.31,
+      "text": "Two, employee onboarding and development."
+    },
+    {
+      "t": 2282.24,
+      "text": "Structured onboarding accelerates productivity."
+    },
+    {
+      "t": 2285.66,
+      "text": "Social integration enhances new hire retention."
+    },
+    {
+      "t": 2292.37,
+      "text": "Job shadowing strengthens skill acquisition."
+    },
+    {
+      "t": 2296.95,
+      "text": "Knowledge transfer programs ensure business continuity."
+    },
+    {
+      "t": 2302.28,
+      "text": "Micro-learning modules improve training effectiveness."
+    },
+    {
+      "t": 2307.22,
+      "text": "Competency mapping aligns skills with job roles."
+    },
+    {
+      "t": 2312.1,
+      "text": "Succession planning ensures leadership continuity."
+    },
+    {
+      "t": 2315.66,
+      "text": "Performance development plans enhance employee growth."
+    },
+    {
+      "t": 2322.33,
+      "text": "Learning experience platforms personalize employee development."
+    },
+    {
+      "t": 2328.28,
+      "text": "Career pathing increases internal mobility."
+    },
+    {
+      "t": 2331.42,
+      "text": "3."
+    },
+    {
+      "t": 2333.78,
+      "text": "Performance management and productivity."
+    },
+    {
+      "t": 2338.01,
+      "text": "OKRs, objectives and key results, drive goal alignment."
+    },
+    {
+      "t": 2344.08,
+      "text": "360-degree feedback fosters holistic performance evaluations."
+    },
+    {
+      "t": 2351.45,
+      "text": "Continuous performance monitoring improves productivity."
+    },
+    {
+      "t": 2357.11,
+      "text": "Employee self-assessments encourage accountability."
+    },
+    {
+      "t": 2362.18,
+      "text": "Productivity analytics provide workforce insights."
+    },
+    {
+      "t": 2367.32,
+      "text": "AI-driven performance reviews minimize bias."
+    },
+    {
+      "t": 2372.43,
+      "text": "High-performance culture fosters innovation."
+    },
+    {
+      "t": 2377.06,
+      "text": "Smart goals improve employee goal setting."
+    },
+    {
+      "t": 2381.54,
+      "text": "Skilled gap analysis informs training initiatives."
+    },
+    {
+      "t": 2386.41,
+      "text": "Competency-based assessments measure job proficiency."
+    },
+    {
+      "t": 2390.26,
+      "text": "4."
+    },
+    {
+      "t": 2392.46,
+      "text": "Compensation, Benefits and Rewards"
+    },
+    {
+      "t": 2396.77,
+      "text": "Pay transparency fosters trust and equity."
+    },
+    {
+      "t": 2400.09,
+      "text": "Total reward strategy enhances employee value proposition."
+    },
+    {
+      "t": 2407.81,
+      "text": "Variable pay structures incentivize high performance."
+    },
+    {
+      "t": 2413.18,
+      "text": "Benchmarking salaries ensures market competitiveness."
+    },
+    {
+      "t": 2418.49,
+      "text": "Flexible benefits cater to diverse workforce needs."
+    },
+    {
+      "t": 2424.45,
+      "text": "Personalized compensation packages improve retention."
+    },
+    {
+      "t": 2430.13,
+      "text": "Equity-based compensation attracts executive talent."
+    },
+    {
+      "t": 2435.52,
+      "text": "Cost of living adjustments maintain salary competitiveness."
+    },
+    {
+      "t": 2441.26,
+      "text": "Financial wellness programs support employee stability."
+    },
+    {
+      "t": 2446.63,
+      "text": "Performance-linked incentives drive engagement."
+    },
+    {
+      "t": 2451.31,
+      "text": "5."
+    },
+    {
+      "t": 2452.07,
+      "text": "Diversity, Equity and Inclusion Inclusive hiring practices reduce unconscious bias."
+    },
+    {
+      "t": 2462.39,
+      "text": "Intersectionality informs effective DEI strategies."
+    },
+    {
+      "t": 2467.96,
+      "text": "DEI scorecards measure diversity impact."
+    },
+    {
+      "t": 2473.0,
+      "text": "Bias mitigation training fosters workplace fairness."
+    },
+    {
+      "t": 2478.24,
+      "text": "Inclusive leadership drives organizational equity."
+    },
+    {
+      "t": 2483.49,
+      "text": "Diversity audits identify representation gaps."
+    },
+    {
+      "t": 2488.82,
+      "text": "Employee resource groups empower marginalized voices."
+    },
+    {
+      "t": 2495.24,
+      "text": "Accessibility initiatives support disabled employees."
+    },
+    {
+      "t": 2500.83,
+      "text": "Supplier diversity programs promote economic inclusion."
+    },
+    {
+      "t": 2506.41,
+      "text": "Gender-neutral job descriptions attract diverse applicants."
+    },
+    {
+      "t": 2512.09,
+      "text": "6."
+    },
+    {
+      "t": 2512.78,
+      "text": "Employee Engagement and Workplace Culture Employee Net Promoter Score measures engagement."
+    },
+    {
+      "t": 2523.35,
+      "text": "Psychological safety promotes open communication."
+    },
+    {
+      "t": 2528.7,
+      "text": "Recognition programs boost morale and productivity."
+    },
+    {
+      "t": 2533.93,
+      "text": "Workplace gamification increases engagement."
+    },
+    {
+      "t": 2538.81,
+      "text": "Employee listening strategies improve satisfaction."
+    },
+    {
+      "t": 2543.96,
+      "text": "Wellbeing initiatives enhance employee experience."
+    },
+    {
+      "t": 2549.06,
+      "text": "Hybrid work policies support work-life integration."
+    },
+    {
+      "t": 2554.15,
+      "text": "Managerial coaching strengthens workplace relationships."
+    },
+    {
+      "t": 2559.75,
+      "text": "Employee empowerment fosters innovation."
+    },
+    {
+      "t": 2564.12,
+      "text": "Transparent communication builds organizational trust."
+    },
+    {
+      "t": 2569.79,
+      "text": "7."
+    },
+    {
+      "t": 2570.55,
+      "text": "HR analytics and data-driven decision-making."
+    },
+    {
+      "t": 2575.22,
+      "text": "People analytics optimize workforce planning."
+    },
+    {
+      "t": 2579.88,
+      "text": "Predictive retention models forecast turnover risks."
+    },
+    {
+      "t": 2585.29,
+      "text": "Data-driven succession planning enhances leadership pipelines."
+    },
+    {
+      "t": 2590.93,
+      "text": "AI-powered sentiment analysis tracks employee engagement."
+    },
+    {
+      "t": 2596.78,
+      "text": "Real-time HR dashboards provide actionable insights."
+    },
+    {
+      "t": 2602.19,
+      "text": "Workforce analytics align HR with business goals."
+    },
+    {
+      "t": 2607.62,
+      "text": "HR automation streamlines administrative processes."
+    },
+    {
+      "t": 2612.84,
+      "text": "Pulse surveys collect real-time employee feedback."
+    },
+    {
+      "t": 2617.6,
+      "text": "Predictive performance metrics improve talent management."
+    },
+    {
+      "t": 2623.79,
+      "text": "Data visualization tools enhance HR reporting."
+    },
+    {
+      "t": 2627.51,
+      "text": "8."
+    },
+    {
+      "t": 2629.57,
+      "text": "Leadership development and organizational effectiveness Transformational leadership drives organizational change."
+    },
+    {
+      "t": 2640.35,
+      "text": "Servant leadership prioritizes employee well-being."
+    },
+    {
+      "t": 2645.29,
+      "text": "Change management frameworks support workforce transitions."
+    },
+    {
+      "t": 2650.75,
+      "text": "Crisis leadership enhances resilience."
+    },
+    {
+      "t": 2655.3,
+      "text": "Leadership pipeline development ensures business sustainability."
+    },
+    {
+      "t": 2659.68,
+      "text": "Emotional intelligence strengthens leadership effectiveness."
+    },
+    {
+      "t": 2666.87,
+      "text": "Adaptive leadership fosters innovation."
+    },
+    {
+      "t": 2671.3,
+      "text": "Cross-functional collaboration improves team synergy."
+    },
+    {
+      "t": 2676.34,
+      "text": "Executive coaching maximizes leadership potential."
+    },
+    {
+      "t": 2681.64,
+      "text": "Leadership succession planning minimizes disruption."
+    },
+    {
+      "t": 2685.21,
+      "text": "9."
+    },
+    {
+      "t": 2687.37,
+      "text": "Employee relations and workplace compliance."
+    },
+    {
+      "t": 2691.86,
+      "text": "Workplace mediation resolves conflicts sufficiently."
+    },
+    {
+      "t": 2695.58,
+      "text": "Employee advocacy fosters workplace fairness."
+    },
+    {
+      "t": 2702.15,
+      "text": "Ethics training reinforces corporate values."
+    },
+    {
+      "t": 2706.71,
+      "text": "workplace investigations ensure compliance with regulations."
+    },
+    {
+      "t": 2712.84,
+      "text": "HR policy standardization improves consistency."
+    },
+    {
+      "t": 2718.18,
+      "text": "Employee retention strategies mitigate turnover risks."
+    },
+    {
+      "t": 2723.87,
+      "text": "Compliance training reduces legal liabilities."
+    },
+    {
+      "t": 2728.99,
+      "text": "Employee satisfaction surveys inform workplace improvements."
+    },
+    {
+      "t": 2734.73,
+      "text": "Remote work policies enhance productivity and flexibility."
+    },
+    {
+      "t": 2740.93,
+      "text": "Cybersecurity awareness training protects company data."
+    },
+    {
+      "t": 2744.92,
+      "text": "10."
+    },
+    {
+      "t": 2747.18,
+      "text": "The future of HR and emerging trends HR digital transformation accelerates efficiency."
+    },
+    {
+      "t": 2757.07,
+      "text": "Blockchain in HR enhances data security."
+    },
+    {
+      "t": 2761.81,
+      "text": "AI-driven talent management personalizes employee experiences."
+    },
+    {
+      "t": 2768.36,
+      "text": "Neurodiversity inclusion creates innovative workplaces."
+    },
+    {
+      "t": 2774.07,
+      "text": "Remote workforce optimization drives business agility."
+    },
+    {
+      "t": 2779.55,
+      "text": "Virtual reality training revolutionizes learning."
+    },
+    {
+      "t": 2785.64,
+      "text": "Gig economy adaptation reshapes workforce dynamics."
+    },
+    {
+      "t": 2791.12,
+      "text": "People-first HR strategies prioritize employee well-being."
+    },
+    {
+      "t": 2795.55,
+      "text": "Ethical AI implementation ensures fair HR practices."
+    },
+    {
+      "t": 2802.94,
+      "text": "Sustainable HR practices align with corporate responsibility, general business phrases."
+    },
+    {
+      "t": 2810.84,
+      "text": "Let's touch base later."
+    },
+    {
+      "t": 2814.01,
+      "text": "Let's touch base later."
+    },
+    {
+      "t": 2815.57,
+      "text": "We need to think outside the box."
+    },
+    {
+      "t": 2820.77,
+      "text": "We need to think outside the box."
+    },
+    {
+      "t": 2824.56,
+      "text": "Let's circle back on this."
+    },
+    {
+      "t": 2828.16,
+      "text": "Can you give me a ballpark figure?"
+    },
+    {
+      "t": 2837.43,
+      "text": "We're on the same page."
+    },
+    {
+      "t": 2845.24,
+      "text": "Let's take this offline."
+    },
+    {
+      "t": 2851.5,
+      "text": "We need to streamline the process."
+    },
+    {
+      "t": 2859.19,
+      "text": "Let's put a pin in this for now."
+    },
+    {
+      "t": 2866.26,
+      "text": "We need to hit the ground running."
+    },
+    {
+      "t": 2873.23,
+      "text": "Let's align our goals."
+    },
+    {
+      "t": 2876.28,
+      "text": "Meeting Phrases"
+    },
+    {
+      "t": 2881.96,
+      "text": "Let's kick off the meeting."
+    },
+    {
+      "t": 2886.93,
+      "text": "What's the agenda for today?"
+    },
+    {
+      "t": 2893.64,
+      "text": "Let's move on to the next item."
+    }
+  ],
+  "lemmas": [
+    [
+      "employee",
+      81
+    ],
+    [
+      "hr",
+      54
+    ],
+    [
+      "workplace",
+      47
+    ],
+    [
+      "leadership",
+      30
+    ],
+    [
+      "performance",
+      29
+    ],
+    [
+      "polici",
+      28
+    ],
+    [
+      "enhanc",
+      27
+    ],
+    [
+      "improve",
+      25
+    ],
+    [
+      "productivity",
+      23
+    ],
+    [
+      "engagement",
+      23
+    ],
+    [
+      "program",
+      22
+    ],
+    [
+      "foster",
+      22
+    ],
+    [
+      "train",
+      22
+    ],
+    [
+      "plan",
+      21
+    ],
+    [
+      "improv",
+      21
+    ],
+    [
+      "employe",
+      20
+    ],
+    [
+      "ensur",
+      19
+    ],
+    [
+      "support",
+      18
+    ],
+    [
+      "management",
+      18
+    ],
+    [
+      "compliance",
+      18
+    ],
+    [
+      "remote",
+      18
+    ],
+    [
+      "retention",
+      16
+    ],
+    [
+      "enhance",
+      16
+    ],
+    [
+      "development",
+      16
+    ],
+    [
+      "workforce",
+      16
+    ],
+    [
+      "feedback",
+      15
+    ],
+    [
+      "hir",
+      15
+    ],
+    [
+      "compensation",
+      14
+    ],
+    [
+      "build",
+      14
+    ],
+    [
+      "culture",
+      14
+    ],
+    [
+      "strengthen",
+      14
+    ],
+    [
+      "talent",
+      14
+    ],
+    [
+      "organizational",
+      14
+    ],
+    [
+      "work",
+      13
+    ],
+    [
+      "analytic",
+      13
+    ],
+    [
+      "diversity",
+      13
+    ],
+    [
+      "drive",
+      12
+    ],
+    [
+      "goal",
+      12
+    ],
+    [
+      "boost",
+      12
+    ],
+    [
+      "professional",
+      12
+    ],
+    [
+      "satisfaction",
+      12
+    ],
+    [
+      "efficiency",
+      12
+    ],
+    [
+      "data",
+      12
+    ],
+    [
+      "strategi",
+      12
+    ],
+    [
+      "benefit",
+      11
+    ],
+    [
+      "collaboration",
+      11
+    ],
+    [
+      "recruitment",
+      11
+    ],
+    [
+      "job",
+      11
+    ],
+    [
+      "business",
+      11
+    ],
+    [
+      "help",
+      10
+    ],
+    [
+      "team",
+      10
+    ],
+    [
+      "system",
+      10
+    ],
+    [
+      "trust",
+      10
+    ],
+    [
+      "virtual",
+      10
+    ],
+    [
+      "increase",
+      9
+    ],
+    [
+      "growth",
+      9
+    ],
+    [
+      "wellness",
+      9
+    ],
+    [
+      "ethical",
+      9
+    ],
+    [
+      "innovation",
+      9
+    ],
+    [
+      "ensure",
+      9
+    ],
+    [
+      "candidate",
+      9
+    ],
+    [
+      "equity",
+      9
+    ],
+    [
+      "align",
+      9
+    ],
+    [
+      "skill",
+      8
+    ],
+    [
+      "recognition",
+      8
+    ],
+    [
+      "pay",
+      8
+    ],
+    [
+      "flexible",
+      8
+    ],
+    [
+      "communication",
+      8
+    ],
+    [
+      "impact",
+      8
+    ],
+    [
+      "practic",
+      8
+    ],
+    [
+      "encourag",
+      8
+    ],
+    [
+      "track",
+      8
+    ],
+    [
+      "need",
+      8
+    ],
+    [
+      "onboard",
+      8
+    ],
+    [
+      "provide",
+      7
+    ],
+    [
+      "experienc",
+      7
+    ],
+    [
+      "reduc",
+      7
+    ],
+    [
+      "conflict",
+      7
+    ],
+    [
+      "law",
+      7
+    ],
+    [
+      "prevent",
+      7
+    ],
+    [
+      "set",
+      7
+    ],
+    [
+      "automation",
+      7
+    ],
+    [
+      "insight",
+      7
+    ],
+    [
+      "protection",
+      7
+    ],
+    [
+      "digital",
+      7
+    ],
+    [
+      "protect",
+      7
+    ],
+    [
+      "learn",
+      7
+    ],
+    [
+      "risk",
+      7
+    ],
+    [
+      "improvement",
+      6
+    ],
+    [
+      "salary",
+      6
+    ],
+    [
+      "fair",
+      6
+    ],
+    [
+      "attract",
+      6
+    ],
+    [
+      "survey",
+      6
+    ],
+    [
+      "key",
+      6
+    ],
+    [
+      "transparent",
+      6
+    ],
+    [
+      "workflow",
+      6
+    ],
+    [
+      "streamline",
+      6
+    ],
+    [
+      "report",
+      6
+    ],
+    [
+      "ai-driven",
+      6
+    ],
+    [
+      "inclusive",
+      6
+    ],
+    [
+      "confidentiality",
+      6
+    ],
+    [
+      "employer",
+      6
+    ],
+    [
+      "coach",
+      6
+    ],
+    [
+      "succession",
+      6
+    ],
+    [
+      "strategy",
+      6
+    ],
+    [
+      "safety",
+      6
+    ],
+    [
+      "initiativ",
+      6
+    ],
+    [
+      "hybrid",
+      6
+    ],
+    [
+      "experience",
+      6
+    ],
+    [
+      "predictive",
+      6
+    ],
+    [
+      "effectiveness",
+      6
+    ],
+    [
+      "mak",
+      5
+    ],
+    [
+      "incentiv",
+      5
+    ],
+    [
+      "encourage",
+      5
+    ],
+    [
+      "benchmark",
+      5
+    ],
+    [
+      "health",
+      5
+    ],
+    [
+      "turnover",
+      5
+    ],
+    [
+      "open",
+      5
+    ],
+    [
+      "resolution",
+      5
+    ],
+    [
+      "time",
+      5
+    ],
+    [
+      "effective",
+      5
+    ],
+    [
+      "environment",
+      5
+    ],
+    [
+      "tool",
+      5
+    ],
+    [
+      "accountability",
+      5
+    ],
+    [
+      "accessibility",
+      5
+    ],
+    [
+      "data-driven",
+      5
+    ],
+    [
+      "payroll",
+      5
+    ],
+    [
+      "cybersecurity",
+      5
+    ],
+    [
+      "company",
+      5
+    ],
+    [
+      "career",
+      5
+    ],
+    [
+      "morale",
+      5
+    ],
+    [
+      "transparency",
+      5
+    ],
+    [
+      "credibility",
+      5
+    ],
+    [
+      "whistleblower",
+      5
+    ],
+    [
+      "policy",
+      5
+    ],
+    [
+      "brand",
+      5
+    ],
+    [
+      "address",
+      5
+    ],
+    [
+      "continuous",
+      5
+    ],
+    [
+      "continuity",
+      5
+    ],
+    [
+      "potential",
+      5
+    ],
+    [
+      "reward",
+      5
+    ],
+    [
+      "market",
+      5
+    ],
+    [
+      "competitiveness",
+      5
+    ],
+    [
+      "diverse",
+      5
+    ],
+    [
+      "reduce",
+      5
+    ],
+    [
+      "measure",
+      5
+    ],
+    [
+      "inclusion",
+      5
+    ],
+    [
+      "driv",
+      5
+    ],
+    [
+      "decision-mak",
+      5
+    ],
+    [
+      "new",
+      5
+    ],
+    [
+      "hire",
+      5
+    ],
+    [
+      "integration",
+      5
+    ],
+    [
+      "corporate",
+      5
+    ],
+    [
+      "audit",
+      5
+    ],
+    [
+      "analysis",
+      5
+    ],
+    [
+      "bia",
+      5
+    ],
+    [
+      "alignment",
+      4
+    ],
+    [
+      "conduct",
+      4
+    ],
+    [
+      "motivation",
+      4
+    ],
+    [
+      "peer",
+      4
+    ],
+    [
+      "leave",
+      4
+    ],
+    [
+      "work-life",
+      4
+    ],
+    [
+      "relation",
+      4
+    ],
+    [
+      "labor",
+      4
+    ],
+    [
+      "positive",
+      4
+    ],
+    [
+      "strong",
+      4
+    ],
+    [
+      "technology",
+      4
+    ],
+    [
+      "dashboard",
+      4
+    ],
+    [
+      "decision",
+      4
+    ],
+    [
+      "require",
+      4
+    ],
+    [
+      "cross-functional",
+      4
+    ],
+    [
+      "framework",
+      4
+    ],
+    [
+      "acquisition",
+      4
+    ],
+    [
+      "interview",
+      4
+    ],
+    [
+      "success",
+      4
+    ],
+    [
+      "requir",
+      4
+    ],
+    [
+      "strategic",
+      4
+    ],
+    [
+      "behavioral",
+      4
+    ],
+    [
+      "assessment",
+      4
+    ],
+    [
+      "predict",
+      4
+    ],
+    [
+      "executive",
+      4
+    ],
+    [
+      "gap",
+      4
+    ],
+    [
+      "future",
+      4
+    ],
+    [
+      "total",
+      4
+    ],
+    [
+      "maintain",
+      4
+    ],
+    [
+      "packag",
+      4
+    ],
+    [
+      "fairness",
+      4
+    ],
+    [
+      "model",
+      4
+    ],
+    [
+      "gamification",
+      4
+    ],
+    [
+      "ai-power",
+      4
+    ],
+    [
+      "process",
+      4
+    ],
+    [
+      "software",
+      4
+    ],
+    [
+      "dynamic",
+      4
+    ],
+    [
+      "mediation",
+      4
+    ],
+    [
+      "expectation",
+      4
+    ],
+    [
+      "legal",
+      4
+    ],
+    [
+      "employment",
+      4
+    ],
+    [
+      "mitigate",
+      4
+    ],
+    [
+      "personaliz",
+      4
+    ],
+    [
+      "structur",
+      4
+    ],
+    [
+      "change",
+      4
+    ],
+    [
+      "listen",
+      3
+    ],
+    [
+      "clear",
+      3
+    ],
+    [
+      "kpis",
+      3
+    ],
+    [
+      "value",
+      3
+    ],
+    [
+      "balance",
+      3
+    ],
+    [
+      "bonus",
+      3
+    ],
+    [
+      "profit",
+      3
+    ],
+    [
+      "shar",
+      3
+    ],
+    [
+      "rat",
+      3
+    ],
+    [
+      "task",
+      3
+    ],
+    [
+      "burnout",
+      3
+    ],
+    [
+      "adaptability",
+      3
+    ],
+    [
+      "effort",
+      3
+    ],
+    [
+      "cloud-bas",
+      3
+    ],
+    [
+      "crucial",
+      3
+    ],
+    [
+      "inspir",
+      3
+    ],
+    [
+      "empower",
+      3
+    ],
+    [
+      "autonomy",
+      3
+    ],
+    [
+      "ethic",
+      3
+    ],
+    [
+      "mandatory",
+      3
+    ],
+    [
+      "harassment",
+      3
+    ],
+    [
+      "essential",
+      3
+    ],
+    [
+      "code",
+      3
+    ],
+    [
+      "safeguard",
+      3
+    ],
+    [
+      "long-term",
+      3
+    ],
+    [
+      "passive",
+      3
+    ],
+    [
+      "sourc",
+      3
+    ],
+    [
+      "outreach",
+      3
+    ],
+    [
+      "degree",
+      3
+    ],
+    [
+      "smart",
+      3
+    ],
+    [
+      "high",
+      3
+    ],
+    [
+      "mentor",
+      3
+    ],
+    [
+      "optimiz",
+      3
+    ],
+    [
+      "cater",
+      3
+    ],
+    [
+      "competitive",
+      3
+    ],
+    [
+      "cost",
+      3
+    ],
+    [
+      "liv",
+      3
+    ],
+    [
+      "adjustment",
+      3
+    ],
+    [
+      "economic",
+      3
+    ],
+    [
+      "psychological",
+      3
+    ],
+    [
+      "promote",
+      3
+    ],
+    [
+      "person",
+      3
+    ],
+    [
+      "record",
+      3
+    ],
+    [
+      "biometric",
+      3
+    ],
+    [
+      "attendance",
+      3
+    ],
+    [
+      "safe",
+      3
+    ],
+    [
+      "regulatory",
+      3
+    ],
+    [
+      "adherence",
+      3
+    ],
+    [
+      "investigation",
+      3
+    ],
+    [
+      "discrimination",
+      3
+    ],
+    [
+      "interest",
+      3
+    ],
+    [
+      "monitor",
+      3
+    ],
+    [
+      "accuracy",
+      3
+    ],
+    [
+      "managerial",
+      3
+    ],
+    [
+      "metric",
+      3
+    ],
+    [
+      "well-be",
+      3
+    ],
+    [
+      "relationship",
+      3
+    ],
+    [
+      "sentiment",
+      3
+    ],
+    [
+      "cultural",
+      3
+    ],
+    [
+      "dei",
+      3
+    ],
+    [
+      "intelligence",
+      3
+    ],
+    [
+      "agility",
+      3
+    ],
+    [
+      "optimization",
+      3
+    ],
+    [
+      "inform",
+      3
+    ],
+    [
+      "practice",
+      2
+    ],
+    [
+      "loop",
+      2
+    ],
+    [
+      "refine",
+      2
+    ],
+    [
+      "review",
+      2
+    ],
+    [
+      "discussion",
+      2
+    ],
+    [
+      "excellence",
+      2
+    ],
+    [
+      "paid",
+      2
+    ],
+    [
+      "parental",
+      2
+    ],
+    [
+      "loyalty",
+      2
+    ],
+    [
+      "retirement",
+      2
+    ],
+    [
+      "flexibility",
+      2
+    ],
+    [
+      "function",
+      2
+    ],
+    [
+      "grievance",
+      2
+    ],
+    [
+      "procedur",
+      2
+    ],
+    [
+      "assistance",
+      2
+    ],
+    [
+      "mental",
+      2
+    ],
+    [
+      "reputation",
+      2
+    ],
+    [
+      "prioritization",
+      2
+    ],
+    [
+      "stay",
+      2
+    ],
+    [
+      "organiz",
+      2
+    ],
+    [
+      "delegation",
+      2
+    ],
+    [
+      "distraction-free",
+      2
+    ],
+    [
+      "focus",
+      2
+    ],
+    [
+      "deadlin",
+      2
+    ],
+    [
+      "error",
+      2
+    ],
+    [
+      "self-service",
+      2
+    ],
+    [
+      "portal",
+      2
+    ],
+    [
+      "solution",
+      2
+    ],
+    [
+      "mission",
+      2
+    ],
+    [
+      "camaraderie",
+      2
+    ],
+    [
+      "creativity",
+      2
+    ],
+    [
+      "opportuniti",
+      2
+    ],
+    [
+      "appreciation",
+      2
+    ],
+    [
+      "event",
+      2
+    ],
+    [
+      "overall",
+      2
+    ],
+    [
+      "prevention",
+      2
+    ],
+    [
+      "anti-discrimination",
+      2
+    ],
+    [
+      "standard",
+      2
+    ],
+    [
+      "competency-bas",
+      2
+    ],
+    [
+      "assess",
+      2
+    ],
+    [
+      "pipeline",
+      2
+    ],
+    [
+      "prioritize",
+      2
+    ],
+    [
+      "applicant",
+      2
+    ],
+    [
+      "streamlin",
+      2
+    ],
+    [
+      "pre-employment",
+      2
+    ],
+    [
+      "test",
+      2
+    ],
+    [
+      "role",
+      2
+    ],
+    [
+      "suitability",
+      2
+    ],
+    [
+      "provid",
+      2
+    ],
+    [
+      "well-round",
+      2
+    ],
+    [
+      "prepare",
+      2
+    ],
+    [
+      "executiv",
+      2
+    ],
+    [
+      "competency",
+      2
+    ],
+    [
+      "define",
+      2
+    ],
+    [
+      "receive",
+      2
+    ],
+    [
+      "tailor",
+      2
+    ],
+    [
+      "three",
+      2
+    ],
+    [
+      "performance-bas",
+      2
+    ],
+    [
+      "retain",
+      2
+    ],
+    [
+      "stock",
+      2
+    ],
+    [
+      "ownership",
+      2
+    ],
+    [
+      "commitment",
+      2
+    ],
+    [
+      "reflect",
+      2
+    ],
+    [
+      "condition",
+      2
+    ],
+    [
+      "absenteeism",
+      2
+    ],
+    [
+      "fun",
+      2
+    ],
+    [
+      "data-inform",
+      2
+    ],
+    [
+      "forecast",
+      2
+    ],
+    [
+      "chatbot",
+      2
+    ],
+    [
+      "blockchain",
+      2
+    ],
+    [
+      "anti-harassment",
+      2
+    ],
+    [
+      "grievanc",
+      2
+    ],
+    [
+      "promptly",
+      2
+    ],
+    [
+      "honest",
+      2
+    ],
+    [
+      "resolv",
+      2
+    ],
+    [
+      "disput",
+      2
+    ],
+    [
+      "handbook",
+      2
+    ],
+    [
+      "clarify",
+      2
+    ],
+    [
+      "regulation",
+      2
+    ],
+    [
+      "equal",
+      2
+    ],
+    [
+      "opportunity",
+      2
+    ],
+    [
+      "osha",
+      2
+    ],
+    [
+      "fmla",
+      2
+    ],
+    [
+      "govern",
+      2
+    ],
+    [
+      "entitlement",
+      2
+    ],
+    [
+      "keep",
+      2
+    ],
+    [
+      "exit",
+      2
+    ],
+    [
+      "background",
+      2
+    ],
+    [
+      "check",
+      2
+    ],
+    [
+      "agreement",
+      2
+    ],
+    [
+      "asynchronous",
+      2
+    ],
+    [
+      "global",
+      2
+    ],
+    [
+      "outline",
+      2
+    ],
+    [
+      "challeng",
+      2
+    ],
+    [
+      "zone",
+      2
+    ],
+    [
+      "cloud",
+      2
+    ],
+    [
+      "fit",
+      2
+    ],
+    [
+      "social",
+      2
+    ],
+    [
+      "expand",
+      2
+    ],
+    [
+      "two",
+      2
+    ],
+    [
+      "evaluation",
+      2
+    ],
+    [
+      "stipend",
+      2
+    ],
+    [
+      "advocacy",
+      2
+    ],
+    [
+      "optimize",
+      2
+    ],
+    [
+      "trend",
+      2
+    ],
+    [
+      "administrative",
+      2
+    ],
+    [
+      "platform",
+      2
+    ],
+    [
+      "personalize",
+      2
+    ],
+    [
+      "empowerment",
+      2
+    ],
+    [
+      "unconscious",
+      2
+    ],
+    [
+      "promot",
+      2
+    ],
+    [
+      "inclusivity",
+      2
+    ],
+    [
+      "resource",
+      2
+    ],
+    [
+      "group",
+      2
+    ],
+    [
+      "intersectionality",
+      2
+    ],
+    [
+      "awareness",
+      2
+    ],
+    [
+      "transformational",
+      2
+    ],
+    [
+      "emotional",
+      2
+    ],
+    [
+      "minimize",
+      2
+    ],
+    [
+      "disruption",
+      2
+    ],
+    [
+      "maximiz",
+      2
+    ],
+    [
+      "resilience",
+      2
+    ],
+    [
+      "crisis",
+      2
+    ],
+    [
+      "implementation",
+      2
+    ],
+    [
+      "transformation",
+      2
+    ],
+    [
+      "pipelin",
+      2
+    ],
+    [
+      "accelerat",
+      2
+    ],
+    [
+      "increas",
+      2
+    ],
+    [
+      "real-time",
+      2
+    ],
+    [
+      "phras",
+      2
+    ],
+    [
+      "touch",
+      2
+    ],
+    [
+      "base",
+      2
+    ],
+    [
+      "later",
+      2
+    ],
+    [
+      "think",
+      2
+    ],
+    [
+      "outside",
+      2
+    ],
+    [
+      "box",
+      2
+    ],
+    [
+      "meet",
+      2
+    ],
+    [
+      "speak",
+      1
+    ],
+    [
+      "perfect",
+      1
+    ],
+    [
+      "manager",
+      1
+    ],
+    [
+      "regular",
+      1
+    ],
+    [
+      "check-in",
+      1
+    ],
+    [
+      "measurable",
+      1
+    ],
+    [
+      "balanc",
+      1
+    ],
+    [
+      "solution-focus",
+      1
+    ],
+    [
+      "well-structur",
+      1
+    ],
+    [
+      "appraisal",
+      1
+    ],
+    [
+      "home",
+      1
+    ],
+    [
+      "allowanc",
+      1
+    ],
+    [
+      "appreciate",
+      1
+    ],
+    [
+      "tuition",
+      1
+    ],
+    [
+      "reimbursement",
+      1
+    ],
+    [
+      "valuable",
+      1
+    ],
+    [
+      "comply",
+      1
+    ],
+    [
+      "respect",
+      1
+    ],
+    [
+      "non-negotiable",
+      1
+    ],
+    [
+      "agile",
+      1
+    ],
+    [
+      "manual",
+      1
+    ],
+    [
+      "delay",
+      1
+    ],
+    [
+      "record-keep",
+      1
+    ],
+    [
+      "secure",
+      1
+    ],
+    [
+      "vital",
+      1
+    ],
+    [
+      "use",
+      1
+    ],
+    [
+      "robust",
+      1
+    ],
+    [
+      "search",
+      1
+    ],
+    [
+      "firm",
+      1
+    ],
+    [
+      "specialize",
+      1
+    ],
+    [
+      "senior-level",
+      1
+    ],
+    [
+      "leverage",
+      1
+    ],
+    [
+      "remuneration",
+      1
+    ],
+    [
+      "top-tier",
+      1
+    ],
+    [
+      "candidat",
+      1
+    ],
+    [
+      "directly",
+      1
+    ],
+    [
+      "service",
+      1
+    ],
+    [
+      "delivery",
+      1
+    ],
+    [
+      "secur",
+      1
+    ],
+    [
+      "facilitate",
+      1
+    ],
+    [
+      "open-door",
+      1
+    ],
+    [
+      "effectively",
+      1
+    ],
+    [
+      "zero-tolerance",
+      1
+    ],
+    [
+      "enforc",
+      1
+    ],
+    [
+      "nomad",
+      1
+    ],
+    [
+      "operation",
+      1
+    ],
+    [
+      "schedul",
+      1
+    ],
+    [
+      "selection",
+      1
+    ],
+    [
+      "significantly",
+      1
+    ],
+    [
+      "attraction",
+      1
+    ],
+    [
+      "niche",
+      1
+    ],
+    [
+      "board",
+      1
+    ],
+    [
+      "target",
+      1
+    ],
+    [
+      "media",
+      1
+    ],
+    [
+      "recruit",
+      1
+    ],
+    [
+      "reach",
+      1
+    ],
+    [
+      "referral",
+      1
+    ],
+    [
+      "mindset",
+      1
+    ],
+    [
+      "progression",
+      1
+    ],
+    [
+      "upskill",
+      1
+    ],
+    [
+      "future-proof",
+      1
+    ],
+    [
+      "maximize",
+      1
+    ],
+    [
+      "competenci",
+      1
+    ],
+    [
+      "individual",
+      1
+    ],
+    [
+      "roi",
+      1
+    ],
+    [
+      "evaluate",
+      1
+    ],
+    [
+      "high-caliber",
+      1
+    ],
+    [
+      "incentive-bas",
+      1
+    ],
+    [
+      "employee-driven",
+      1
+    ],
+    [
+      "dialogue",
+      1
+    ],
+    [
+      "active",
+      1
+    ],
+    [
+      "level",
+      1
+    ],
+    [
+      "team-build",
+      1
+    ],
+    [
+      "poll",
+      1
+    ],
+    [
+      "workload",
+      1
+    ],
+    [
+      "visualize",
+      1
+    ],
+    [
+      "progress",
+      1
+    ],
+    [
+      "six",
+      1
+    ],
+    [
+      "constructive",
+      1
+    ],
+    [
+      "zero",
+      1
+    ],
+    [
+      "tolerance",
+      1
+    ],
+    [
+      "enforce",
+      1
+    ],
+    [
+      "behavior",
+      1
+    ],
+    [
+      "confidential",
+      1
+    ],
+    [
+      "mechanism",
+      1
+    ],
+    [
+      "disciplinary",
+      1
+    ],
+    [
+      "action",
+      1
+    ],
+    [
+      "order",
+      1
+    ],
+    [
+      "harmony",
+      1
+    ],
+    [
+      "door",
+      1
+    ],
+    [
+      "competence",
+      1
+    ],
+    [
+      "forc",
+      1
+    ],
+    [
+      "systemic",
+      1
+    ],
+    [
+      "across",
+      1
+    ],
+    [
+      "demographic",
+      1
+    ],
+    [
+      "gender",
+      1
+    ],
+    [
+      "neutral",
+      1
+    ],
+    [
+      "erg",
+      1
+    ],
+    [
+      "equitable",
+      1
+    ],
+    [
+      "promotion",
+      1
+    ],
+    [
+      "fast-chang",
+      1
+    ],
+    [
+      "clarity",
+      1
+    ],
+    [
+      "authentic",
+      1
+    ],
+    [
+      "perspectiv",
+      1
+    ],
+    [
+      "nine",
+      1
+    ],
+    [
+      "gdpr",
+      1
+    ],
+    [
+      "privacy",
+      1
+    ],
+    [
+      "contract",
+      1
+    ],
+    [
+      "obligation",
+      1
+    ],
+    [
+      "establish",
+      1
+    ],
+    [
+      "termination",
+      1
+    ],
+    [
+      "occupational",
+      1
+    ],
+    [
+      "workforc",
+      1
+    ],
+    [
+      "teamwork",
+      1
+    ],
+    [
+      "arrangement",
+      1
+    ],
+    [
+      "work-from-home",
+      1
+    ],
+    [
+      "setup",
+      1
+    ],
+    [
+      "partner",
+      1
+    ],
+    [
+      "bridge",
+      1
+    ],
+    [
+      "execution",
+      1
+    ],
+    [
+      "human",
+      1
+    ],
+    [
+      "capital",
+      1
+    ],
+    [
+      "lifecycle",
+      1
+    ],
+    [
+      "position",
+      1
+    ],
+    [
+      "indicator",
+      1
+    ],
+    [
+      "people-center",
+      1
+    ],
+    [
+      "fuel",
+      1
+    ],
+    [
+      "advantage",
+      1
+    ],
+    [
+      "proactive",
+      1
+    ],
+    [
+      "influenc",
+      1
+    ],
+    [
+      "perception",
+      1
+    ],
+    [
+      "resume",
+      1
+    ],
+    [
+      "screen",
+      1
+    ],
+    [
+      "techniqu",
+      1
+    ],
+    [
+      "pool",
+      1
+    ],
+    [
+      "offer",
+      1
+    ],
+    [
+      "acceptance",
+      1
+    ],
+    [
+      "shadow",
+      1
+    ],
+    [
+      "knowledge",
+      1
+    ],
+    [
+      "transfer",
+      1
+    ],
+    [
+      "micro-learn",
+      1
+    ],
+    [
+      "modul",
+      1
+    ],
+    [
+      "map",
+      1
+    ],
+    [
+      "rol",
+      1
+    ],
+    [
+      "path",
+      1
+    ],
+    [
+      "internal",
+      1
+    ],
+    [
+      "mobility",
+      1
+    ],
+    [
+      "okr",
+      1
+    ],
+    [
+      "objectiv",
+      1
+    ],
+    [
+      "result",
+      1
+    ],
+    [
+      "holistic",
+      1
+    ],
+    [
+      "self-assessment",
+      1
+    ],
+    [
+      "high-performance",
+      1
+    ],
+    [
+      "proficiency",
+      1
+    ],
+    [
+      "proposition",
+      1
+    ],
+    [
+      "variable",
+      1
+    ],
+    [
+      "incentivize",
+      1
+    ],
+    [
+      "salari",
+      1
+    ],
+    [
+      "equity-bas",
+      1
+    ],
+    [
+      "financial",
+      1
+    ],
+    [
+      "stability",
+      1
+    ],
+    [
+      "performance-link",
+      1
+    ],
+    [
+      "scorecard",
+      1
+    ],
+    [
+      "mitigation",
+      1
+    ],
+    [
+      "identify",
+      1
+    ],
+    [
+      "representation",
+      1
+    ],
+    [
+      "marginaliz",
+      1
+    ],
+    [
+      "voic",
+      1
+    ],
+    [
+      "disabl",
+      1
+    ],
+    [
+      "supplier",
+      1
+    ],
+    [
+      "gender-neutral",
+      1
+    ],
+    [
+      "description",
+      1
+    ],
+    [
+      "net",
+      1
+    ],
+    [
+      "promoter",
+      1
+    ],
+    [
+      "score",
+      1
+    ],
+    [
+      "measur",
+      1
+    ],
+    [
+      "wellbe",
+      1
+    ],
+    [
+      "actionable",
+      1
+    ],
+    [
+      "pulse",
+      1
+    ],
+    [
+      "collect",
+      1
+    ],
+    [
+      "visualization",
+      1
+    ],
+    [
+      "servant",
+      1
+    ],
+    [
+      "prioritiz",
+      1
+    ],
+    [
+      "transition",
+      1
+    ],
+    [
+      "sustainability",
+      1
+    ],
+    [
+      "adaptive",
+      1
+    ],
+    [
+      "synergy",
+      1
+    ],
+    [
+      "minimiz",
+      1
+    ],
+    [
+      "sufficiently",
+      1
+    ],
+    [
+      "reinforc",
+      1
+    ],
+    [
+      "valu",
+      1
+    ],
+    [
+      "standardization",
+      1
+    ],
+    [
+      "consistency",
+      1
+    ],
+    [
+      "liabiliti",
+      1
+    ],
+    [
+      "emerg",
+      1
+    ],
+    [
+      "security",
+      1
+    ],
+    [
+      "neurodiversity",
+      1
+    ],
+    [
+      "creat",
+      1
+    ],
+    [
+      "innovative",
+      1
+    ],
+    [
+      "workplac",
+      1
+    ],
+    [
+      "reality",
+      1
+    ],
+    [
+      "revolutioniz",
+      1
+    ],
+    [
+      "gig",
+      1
+    ],
+    [
+      "economy",
+      1
+    ],
+    [
+      "adaptation",
+      1
+    ],
+    [
+      "reshap",
+      1
+    ],
+    [
+      "people-first",
+      1
+    ],
+    [
+      "ai",
+      1
+    ],
+    [
+      "sustainable",
+      1
+    ],
+    [
+      "responsibility",
+      1
+    ],
+    [
+      "general",
+      1
+    ],
+    [
+      "circle",
+      1
+    ],
+    [
+      "back",
+      1
+    ],
+    [
+      "give",
+      1
+    ],
+    [
+      "ballpark",
+      1
+    ],
+    [
+      "figure",
+      1
+    ],
+    [
+      "page",
+      1
+    ],
+    [
+      "take",
+      1
+    ],
+    [
+      "offline",
+      1
+    ],
+    [
+      "put",
+      1
+    ],
+    [
+      "pin",
+      1
+    ],
+    [
+      "hit",
+      1
+    ],
+    [
+      "ground",
+      1
+    ],
+    [
+      "run",
+      1
+    ],
+    [
+      "kick",
+      1
+    ],
+    [
+      "agenda",
+      1
+    ],
+    [
+      "today",
+      1
+    ],
+    [
+      "move",
+      1
+    ],
+    [
+      "next",
+      1
+    ],
+    [
+      "item",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 2707,
+    "unique_words": 632,
+    "duration_min": 48.5
+  }
+}
