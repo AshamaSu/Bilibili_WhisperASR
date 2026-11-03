@@ -21,7 +21,7 @@
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
-| presentation | /ˌpreznˈteɪʃn/ | n. 演示（标题词，41 集已收） | We'll see how they've had success with their business strategy presentation. |
+| masterclass | /ˈmɑːstəklɑːs/ | n. 大师课、范例 | This is turning into quite a masterclass in business strategy. |
 | innovation | /ˌɪnəˈveɪʃn/ | n. 创新（12 集已收） | Nurturing a culture of innovation. |
 | warehouse | /ˈweəhaʊs/ | n. 仓库 | They're using automated guided vehicles in their warehouses. |
 | launch | /lɔːntʃ/ | n. 上市、发布 | Success with revenue growth, product launches. |
