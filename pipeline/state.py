@@ -10,7 +10,7 @@ STATUSES = {"pending", "converting", "transcribing", "extracting",
             "done", "failed", "suspect"}
 
 TRANSITIONS = {
-    "pending": {"converting"},
+    "pending": {"converting", "transcribing"},   # http 后端无 convert 阶段，直接进转写
     "converting": {"transcribing", "failed", "pending"},
     "transcribing": {"extracting", "suspect", "failed", "pending"},
     "extracting": {"done", "suspect", "failed", "pending"},

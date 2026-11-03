@@ -20,12 +20,27 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
 ROOT = Path(__file__).resolve().parent.parent
-OUTPUT_DIR = ROOT / "output"
-INDEX_JSON = ROOT / "index" / "episodes.json"
-VOCAB_JSON = ROOT / "vocab_index.json"
+sys.path.insert(0, str(ROOT))
+from pipeline import config  # 季路径唯一来源
+
+OUTPUT_DIR = None
+INDEX_JSON = None
+VOCAB_JSON = None
 TEMPLATE = Path(__file__).resolve().parent / "template.html"
-DEFAULT_OUT = ROOT / "review_site" / "index.html"
-DEFAULT_DIST = ROOT / "dist" / "review-site" / "index.html"
+DEFAULT_OUT = None
+DEFAULT_DIST = None
+
+
+def use_season(name=None):
+    """切换季：产出 seasons/<season>/{output,index,vocab_index.json,review_site}。"""
+    global OUTPUT_DIR, INDEX_JSON, VOCAB_JSON, DEFAULT_OUT, DEFAULT_DIST
+    season = config.set_season(name)
+    OUTPUT_DIR = config.OUTPUT_DIR
+    INDEX_JSON = config.EPISODES_JSON
+    VOCAB_JSON = config.VOCAB_INDEX_JSON
+    DEFAULT_OUT = config.SEASON_DIR / "review_site" / "index.html"
+    DEFAULT_DIST = ROOT / "dist" / "review-site" / config.SEASON_KEY / "index.html"
+    return season
 
 SCHEMA_VERSION = 1
 MAX_BYTES = 8 * 1024 * 1024
@@ -498,15 +513,26 @@ def check_output(html: str) -> List[str]:
 def main(argv: Optional[List[str]] = None) -> int:
     ap = argparse.ArgumentParser(description="生成商务英语复习工作台单文件站点")
     ap.add_argument("--mode", choices=("full", "minimal"), default="full")
-    ap.add_argument("--out", default=str(DEFAULT_OUT))
+    ap.add_argument("--season", default=None, help="课程季，如 season1 / season2")
+    ap.add_argument("--out", default=None, help="默认 output/<季目录>/review_site/index.html")
     ap.add_argument("--generated-at", default=None)
-    ap.add_argument("--dist", default=str(DEFAULT_DIST),
-                    help="发布包路径（minimal 模式默认同步过去）")
+    ap.add_argument("--dist", default=None,
+                    help="发布包路径（默认 dist/review-site/<season>/index.html）")
     ap.add_argument("--no-dist", action="store_true", help="不同步发布包")
     ap.add_argument("--force-dist", action="store_true",
                     help="full 模式也同步发布包（含原文例句，勿用于公开部署）")
     ap.add_argument("--dump", action="store_true", help="只打印解析统计，不写文件")
     args = ap.parse_args(argv)
+
+    try:
+        use_season(args.season)
+    except ValueError as e:
+        print("ERROR %s" % e, file=sys.stderr)
+        return 1
+    if not args.out:
+        args.out = str(DEFAULT_OUT)
+    if not args.dist:
+        args.dist = str(DEFAULT_DIST)
 
     try:
         episodes = load_episodes(INDEX_JSON)

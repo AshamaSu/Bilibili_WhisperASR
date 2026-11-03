@@ -1,0 +1,8449 @@
+{
+  "file_stem": "50_LearnEnglishThroughBusinessStories",
+  "no": 50,
+  "title_keywords": [
+    [
+      "learn",
+      "learn"
+    ],
+    [
+      "english",
+      "english"
+    ],
+    [
+      "business",
+      "business"
+    ],
+    [
+      "stories",
+      "stori"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "tesla",
+      59,
+      "B1+"
+    ],
+    [
+      "innovation",
+      51,
+      "B1+"
+    ],
+    [
+      "nike",
+      49,
+      "B1+"
+    ],
+    [
+      "apple",
+      46,
+      "A2"
+    ],
+    [
+      "car",
+      46,
+      "A2"
+    ],
+    [
+      "story",
+      45,
+      "A2"
+    ],
+    [
+      "small",
+      40,
+      "A2"
+    ],
+    [
+      "company",
+      39,
+      "B1+"
+    ],
+    [
+      "world",
+      38,
+      "A2"
+    ],
+    [
+      "brand",
+      36,
+      "B1+"
+    ],
+    [
+      "global",
+      36,
+      "B1+"
+    ],
+    [
+      "know",
+      34,
+      "A2"
+    ],
+    [
+      "business",
+      33,
+      "B1+"
+    ],
+    [
+      "success",
+      33,
+      "B1+"
+    ],
+    [
+      "think",
+      33,
+      "A2"
+    ],
+    [
+      "vision",
+      33,
+      "B1+"
+    ],
+    [
+      "jobs",
+      32,
+      "A2"
+    ],
+    [
+      "lessons",
+      32,
+      "A2"
+    ],
+    [
+      "idea",
+      31,
+      "A2"
+    ],
+    [
+      "mcdonald's",
+      31,
+      "B1+"
+    ],
+    [
+      "shoes",
+      31,
+      "B1+"
+    ],
+    [
+      "products",
+      30,
+      "B1+"
+    ],
+    [
+      "technology",
+      30,
+      "B1+"
+    ],
+    [
+      "also",
+      28,
+      "A2"
+    ],
+    [
+      "design",
+      28,
+      "B1+"
+    ],
+    [
+      "became",
+      27,
+      "B1+"
+    ],
+    [
+      "made",
+      26,
+      "A2"
+    ],
+    [
+      "today",
+      26,
+      "A2"
+    ],
+    [
+      "persistence",
+      25,
+      "B1+"
+    ],
+    [
+      "work",
+      25,
+      "A2"
+    ],
+    [
+      "even",
+      24,
+      "B1+"
+    ],
+    [
+      "marketing",
+      24,
+      "A2"
+    ],
+    [
+      "people",
+      24,
+      "A2"
+    ],
+    [
+      "amazon",
+      23,
+      "B1+"
+    ],
+    [
+      "empire",
+      23,
+      "B1+"
+    ],
+    [
+      "history",
+      23,
+      "A2"
+    ],
+    [
+      "electric",
+      22,
+      "B1+"
+    ],
+    [
+      "started",
+      22,
+      "A2"
+    ],
+    [
+      "big",
+      21,
+      "A2"
+    ],
+    [
+      "created",
+      21,
+      "B1+"
+    ],
+    [
+      "one",
+      21,
+      "A2"
+    ],
+    [
+      "strategies",
+      21,
+      "B1+"
+    ],
+    [
+      "disney",
+      20,
+      "B1+"
+    ],
+    [
+      "phil",
+      19,
+      "B1+"
+    ],
+    [
+      "risks",
+      19,
+      "A2"
+    ],
+    [
+      "sell",
+      19,
+      "A2"
+    ],
+    [
+      "stay",
+      19,
+      "A2"
+    ],
+    [
+      "wanted",
+      19,
+      "A2"
+    ],
+    [
+      "customers",
+      18,
+      "B1+"
+    ],
+    [
+      "focused",
+      18,
+      "B1+"
+    ],
+    [
+      "millions",
+      18,
+      "B1+"
+    ],
+    [
+      "every",
+      17,
+      "A2"
+    ],
+    [
+      "introduced",
+      17,
+      "B1+"
+    ],
+    [
+      "launched",
+      17,
+      "B1+"
+    ],
+    [
+      "sports",
+      17,
+      "A2"
+    ],
+    [
+      "struggles",
+      17,
+      "B1+"
+    ],
+    [
+      "create",
+      16,
+      "A2"
+    ],
+    [
+      "first",
+      16,
+      "A2"
+    ],
+    [
+      "journey",
+      16,
+      "A2"
+    ],
+    [
+      "nike's",
+      16,
+      "B1+"
+    ],
+    [
+      "restaurant",
+      16,
+      "A2"
+    ],
+    [
+      "running",
+      16,
+      "A2"
+    ],
+    [
+      "turn",
+      16,
+      "A2"
+    ],
+    [
+      "build",
+      15,
+      "A2"
+    ],
+    [
+      "challenges",
+      15,
+      "B1+"
+    ],
+    [
+      "proves",
+      15,
+      "B1+"
+    ],
+    [
+      "bold",
+      14,
+      "B1+"
+    ],
+    [
+      "determination",
+      14,
+      "B1+"
+    ],
+    [
+      "faced",
+      14,
+      "B1+"
+    ],
+    [
+      "knight",
+      14,
+      "B1+"
+    ],
+    [
+      "musk",
+      14,
+      "B1+"
+    ],
+    [
+      "athletes",
+      13,
+      "B1+"
+    ],
+    [
+      "brothers",
+      13,
+      "A2"
+    ],
+    [
+      "dreams",
+      13,
+      "A2"
+    ],
+    [
+      "new",
+      13,
+      "A2"
+    ],
+    [
+      "ray",
+      13,
+      "B1+"
+    ],
+    [
+      "something",
+      13,
+      "B1+"
+    ],
+    [
+      "valuable",
+      13,
+      "B1+"
+    ],
+    [
+      "begins",
+      12,
+      "A2"
+    ],
+    [
+      "computer",
+      12,
+      "A2"
+    ],
+    [
+      "creativity",
+      12,
+      "B1+"
+    ],
+    [
+      "end",
+      12,
+      "A2"
+    ],
+    [
+      "production",
+      12,
+      "B1+"
+    ],
+    [
+      "steve",
+      12,
+      "B1+"
+    ],
+    [
+      "walt",
+      12,
+      "B1+"
+    ],
+    [
+      "worldwide",
+      12,
+      "B1+"
+    ],
+    [
+      "bezos",
+      11,
+      "B1+"
+    ],
+    [
+      "change",
+      11,
+      "A2"
+    ],
+    [
+      "came",
+      11,
+      "A2"
+    ],
+    [
+      "get",
+      11,
+      "A2"
+    ],
+    [
+      "inspired",
+      11,
+      "B1+"
+    ],
+    [
+      "learn",
+      11,
+      "A2"
+    ],
+    [
+      "performance",
+      11,
+      "B1+"
+    ],
+    [
+      "revolutionary",
+      11,
+      "B1+"
+    ],
+    [
+      "video",
+      11,
+      "A2"
+    ],
+    [
+      "become",
+      10,
+      "A2"
+    ],
+    [
+      "day",
+      10,
+      "A2"
+    ],
+    [
+      "deep",
+      10,
+      "A2"
+    ],
+    [
+      "diving",
+      10,
+      "B1+"
+    ],
+    [
+      "elon",
+      10,
+      "B1+"
+    ],
+    [
+      "everybody",
+      10,
+      "B1+"
+    ],
+    [
+      "expand",
+      10,
+      "B1+"
+    ],
+    [
+      "fascinating",
+      10,
+      "B1+"
+    ],
+    [
+      "fast",
+      10,
+      "A2"
+    ],
+    [
+      "garage",
+      10,
+      "B1+"
+    ],
+    [
+      "improving",
+      10,
+      "B1+"
+    ],
+    [
+      "many",
+      10,
+      "A2"
+    ],
+    [
+      "never",
+      10,
+      "A2"
+    ],
+    [
+      "passion",
+      10,
+      "B1+"
+    ],
+    [
+      "showing",
+      10,
+      "A2"
+    ],
+    [
+      "simple",
+      10,
+      "A2"
+    ],
+    [
+      "stop",
+      10,
+      "A2"
+    ],
+    [
+      "time",
+      10,
+      "A2"
+    ],
+    [
+      "young",
+      10,
+      "A2"
+    ],
+    [
+      "air",
+      9,
+      "A2"
+    ],
+    [
+      "billion",
+      9,
+      "B1+"
+    ],
+    [
+      "early",
+      9,
+      "A2"
+    ],
+    [
+      "failures",
+      9,
+      "B1+"
+    ],
+    [
+      "failure",
+      9,
+      "B1+"
+    ],
+    [
+      "food",
+      9,
+      "A2"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "everybody knows",
+      "count": 10,
+      "example": "Everybody knows about McDonald's.",
+      "t": 33.35
+    },
+    {
+      "text": "diving deep",
+      "count": 10,
+      "example": "Stay with me, because today, we are diving deep into the fascinating journey of McDonald's,",
+      "t": 51.82
+    },
+    {
+      "text": "fascinating journey",
+      "count": 10,
+      "example": "Stay with me, because today, we are diving deep into the fascinating journey of McDonald's,",
+      "t": 51.82
+    },
+    {
+      "text": "also learn",
+      "count": 10,
+      "example": "By the end of this video, you will not only know McDonald's history, but also learn valuable",
+      "t": 70.08
+    },
+    {
+      "text": "let's get",
+      "count": 10,
+      "example": "So let's get started.",
+      "t": 80.84
+    },
+    {
+      "text": "get started",
+      "count": 10,
+      "example": "So let's get started.",
+      "t": 80.84
+    },
+    {
+      "text": "let's get started",
+      "count": 10,
+      "example": "So let's get started.",
+      "t": 80.84
+    },
+    {
+      "text": "story begins",
+      "count": 10,
+      "example": "Our story begins in the 1940s, in the United States.",
+      "t": 84.0
+    },
+    {
+      "text": "vision persistence",
+      "count": 10,
+      "example": "From a small burger stand to a global empire serving 69 million customers daily, the McDonald's story is proof that vision, persistence, and innovation can change the world.",
+      "t": 592.02
+    },
+    {
+      "text": "elon musk",
+      "count": 10,
+      "example": "Or how Elon Musk turned a risky idea into a revolutionary business?",
+      "t": 1071.15
+    }
+  ],
+  "phrases": [
+    {
+      "text": "everybody knows",
+      "count": 10,
+      "example": "Everybody knows about McDonald's.",
+      "t": 33.35
+    },
+    {
+      "text": "diving deep",
+      "count": 10,
+      "example": "Stay with me, because today, we are diving deep into the fascinating journey of McDonald's,",
+      "t": 51.82
+    },
+    {
+      "text": "fascinating journey",
+      "count": 10,
+      "example": "Stay with me, because today, we are diving deep into the fascinating journey of McDonald's,",
+      "t": 51.82
+    },
+    {
+      "text": "also learn",
+      "count": 10,
+      "example": "By the end of this video, you will not only know McDonald's history, but also learn valuable",
+      "t": 70.08
+    },
+    {
+      "text": "let's get",
+      "count": 10,
+      "example": "So let's get started.",
+      "t": 80.84
+    },
+    {
+      "text": "get started",
+      "count": 10,
+      "example": "So let's get started.",
+      "t": 80.84
+    },
+    {
+      "text": "let's get started",
+      "count": 10,
+      "example": "So let's get started.",
+      "t": 80.84
+    },
+    {
+      "text": "story begins",
+      "count": 10,
+      "example": "Our story begins in the 1940s, in the United States.",
+      "t": 84.0
+    },
+    {
+      "text": "vision persistence",
+      "count": 10,
+      "example": "From a small burger stand to a global empire serving 69 million customers daily, the McDonald's story is proof that vision, persistence, and innovation can change the world.",
+      "t": 592.02
+    },
+    {
+      "text": "elon musk",
+      "count": 10,
+      "example": "Or how Elon Musk turned a risky idea into a revolutionary business?",
+      "t": 1071.15
+    },
+    {
+      "text": "electric cars",
+      "count": 10,
+      "example": "Electric cars were considered a niche market, and many people thought they would never",
+      "t": 1112.99
+    },
+    {
+      "text": "history but also",
+      "count": 9,
+      "example": "By the end of this video, you will not only know McDonald's history, but also learn valuable",
+      "t": 70.08
+    },
+    {
+      "text": "phil knight",
+      "count": 9,
+      "example": "A young man named Phil Knight had a passion for running.",
+      "t": 664.69
+    },
+    {
+      "text": "ray kroc",
+      "count": 8,
+      "example": "how two brothers started it, how a man named Ray Kroc took it to the next level, and",
+      "t": 58.94
+    },
+    {
+      "text": "teaches us",
+      "count": 8,
+      "example": "The story of McDonald's teaches us. Think big. Be consistent. Adapt to change. Expand smartly. Take risks.",
+      "t": 575.01
+    },
+    {
+      "text": "it's a lesson",
+      "count": 8,
+      "example": "It's a lesson in resilience, creativity, and thinking big.",
+      "t": 1015.02
+    },
+    {
+      "text": "car company",
+      "count": 8,
+      "example": "Everybody knows Tesla, the electric car company that has changed the way the world",
+      "t": 1056.6
+    },
+    {
+      "text": "steve jobs",
+      "count": 8,
+      "example": "Steve Jobs, a college dropout, turned a small garage project into a global technology",
+      "t": 1540.19
+    },
+    {
+      "text": "change the world",
+      "count": 7,
+      "example": "From a small burger stand to a global empire serving 69 million customers daily, the McDonald's story is proof that vision, persistence, and innovation can change the world.",
+      "t": 592.02
+    },
+    {
+      "text": "every day",
+      "count": 6,
+      "example": "I post amazing videos every day to help you learn English through stories.",
+      "t": 14.04
+    },
+    {
+      "text": "business lessons",
+      "count": 6,
+      "example": "knowledge, business lessons, and inspiration.",
+      "t": 27.63
+    },
+    {
+      "text": "powerful business",
+      "count": 6,
+      "example": "powerful business strategies that made it what it is today.",
+      "t": 64.98
+    },
+    {
+      "text": "strategies that made",
+      "count": 6,
+      "example": "powerful business strategies that made it what it is today.",
+      "t": 64.98
+    },
+    {
+      "text": "mcdonald brothers",
+      "count": 6,
+      "example": "In 1940, the McDonald Brothers opened a small drive-in restaurant called McDonald's Barbecue.",
+      "t": 125.64
+    },
+    {
+      "text": "small idea",
+      "count": 6,
+      "example": "of Nike from a small idea to a global sports empire.",
+      "t": 637.4
+    },
+    {
+      "text": "global sports",
+      "count": 6,
+      "example": "of Nike from a small idea to a global sports empire.",
+      "t": 637.4
+    },
+    {
+      "text": "running shoes",
+      "count": 6,
+      "example": "Japanese running shoes were lightweight,",
+      "t": 690.4
+    },
+    {
+      "text": "blue ribbon",
+      "count": 6,
+      "example": "a company called Blue Ribbon Sports. Their mission was simple, provide high-quality",
+      "t": 722.54
+    },
+    {
+      "text": "ribbon sports",
+      "count": 6,
+      "example": "a company called Blue Ribbon Sports. Their mission was simple, provide high-quality",
+      "t": 722.54
+    },
+    {
+      "text": "blue ribbon sports",
+      "count": 6,
+      "example": "a company called Blue Ribbon Sports. Their mission was simple, provide high-quality",
+      "t": 722.54
+    },
+    {
+      "text": "didn't stop",
+      "count": 6,
+      "example": "Nike didn't stop there. They invested in technology and innovation.",
+      "t": 870.66
+    },
+    {
+      "text": "becoming a global",
+      "count": 6,
+      "example": "Nike's strategies for becoming a global empire can be summarized in key lessons.",
+      "t": 942.81
+    },
+    {
+      "text": "testament to vision",
+      "count": 6,
+      "example": "story is a testament to vision, persistence, and bold action.",
+      "t": 1004.27
+    },
+    {
+      "text": "work hard",
+      "count": 6,
+      "example": "If you work hard, think smart, and take calculated risks, you too can achieve extraordinary success.",
+      "t": 1035.81
+    },
+    {
+      "text": "electric car",
+      "count": 6,
+      "example": "Everybody knows Tesla, the electric car company that has changed the way the world",
+      "t": 1056.6
+    },
+    {
+      "text": "struggles innovations",
+      "count": 6,
+      "example": "its struggles, innovations, and the bold strategies that made it a global powerhouse.",
+      "t": 1084.74
+    },
+    {
+      "text": "us that success",
+      "count": 6,
+      "example": "The story of Tesla teaches us that success is not about avoiding failure, it's about",
+      "t": 1496.72
+    },
+    {
+      "text": "even a small",
+      "count": 6,
+      "example": "If you work hard, think strategically and stay committed to your vision, even a small",
+      "t": 1509.8
+    },
+    {
+      "text": "learn valuable",
+      "count": 5,
+      "example": "By the end of this video, you will not only know McDonald's history, but also learn valuable",
+      "t": 70.08
+    },
+    {
+      "text": "also learn valuable",
+      "count": 5,
+      "example": "By the end of this video, you will not only know McDonald's history, but also learn valuable",
+      "t": 70.08
+    },
+    {
+      "text": "business success",
+      "count": 5,
+      "example": "lessons about business success and life.",
+      "t": 76.46
+    },
+    {
+      "text": "lessons about business",
+      "count": 5,
+      "example": "lessons about business success and life.",
+      "t": 76.46
+    },
+    {
+      "text": "think big",
+      "count": 5,
+      "example": "The story of McDonald's teaches us. Think big. Be consistent. Adapt to change. Expand smartly. Take risks.",
+      "t": 575.01
+    },
+    {
+      "text": "global empire",
+      "count": 5,
+      "example": "From a small burger stand to a global empire serving 69 million customers daily, the McDonald's story is proof that vision, persistence, and innovation can change the world.",
+      "t": 592.02
+    },
+    {
+      "text": "persistence and innovation",
+      "count": 5,
+      "example": "From a small burger stand to a global empire serving 69 million customers daily, the McDonald's story is proof that vision, persistence, and innovation can change the world.",
+      "t": 592.02
+    },
+    {
+      "text": "bill bowerman",
+      "count": 5,
+      "example": "In 1964, Phil Knight partnered with his former track coach, Bill Bowerman, and founded",
+      "t": 714.92
+    },
+    {
+      "text": "name nike",
+      "count": 5,
+      "example": "Inspired by the Greek goddess of victory, they chose the name Nike.",
+      "t": 788.44
+    },
+    {
+      "text": "air jordan",
+      "count": 5,
+      "example": "Together, they launched the Air Jordan line, which revolutionized basketball shoes and sneaker culture.",
+      "t": 846.02
+    },
+    {
+      "text": "thinking big",
+      "count": 5,
+      "example": "It's a lesson in resilience, creativity, and thinking big.",
+      "t": 1015.02
+    },
+    {
+      "text": "success provide",
+      "count": 5,
+      "example": "Tesla's strategies for success provide powerful business lessons.",
+      "t": 1388.83
+    },
+    {
+      "text": "provide powerful",
+      "count": 5,
+      "example": "Tesla's strategies for success provide powerful business lessons.",
+      "t": 1388.83
+    },
+    {
+      "text": "strategies for success",
+      "count": 5,
+      "example": "Tesla's strategies for success provide powerful business lessons.",
+      "t": 1388.83
+    },
+    {
+      "text": "success provide powerful",
+      "count": 5,
+      "example": "Tesla's strategies for success provide powerful business lessons.",
+      "t": 1388.83
+    },
+    {
+      "text": "provide powerful business",
+      "count": 5,
+      "example": "Tesla's strategies for success provide powerful business lessons.",
+      "t": 1388.83
+    },
+    {
+      "text": "powerful business lessons",
+      "count": 5,
+      "example": "Tesla's strategies for success provide powerful business lessons.",
+      "t": 1388.83
+    },
+    {
+      "text": "small garage",
+      "count": 5,
+      "example": "Steve Jobs, a college dropout, turned a small garage project into a global technology",
+      "t": 1540.19
+    },
+    {
+      "text": "turned a small",
+      "count": 5,
+      "example": "Steve Jobs, a college dropout, turned a small garage project into a global technology",
+      "t": 1540.19
+    },
+    {
+      "text": "united states",
+      "count": 4,
+      "example": "Our story begins in the 1940s, in the United States.",
+      "t": 84.0
+    },
+    {
+      "text": "people lined",
+      "count": 4,
+      "example": "Their restaurant became so popular that people lined up outside every day.",
+      "t": 257.9
+    },
+    {
+      "text": "nike became",
+      "count": 4,
+      "example": "how Nike became the giant it is today? Do you know the struggles, risks, and clever strategies",
+      "t": 620.98
+    },
+    {
+      "text": "sports empire",
+      "count": 4,
+      "example": "of Nike from a small idea to a global sports empire.",
+      "t": 637.4
+    },
+    {
+      "text": "global sports empire",
+      "count": 4,
+      "example": "of Nike from a small idea to a global sports empire.",
+      "t": 637.4
+    },
+    {
+      "text": "passion for running",
+      "count": 4,
+      "example": "A young man named Phil Knight had a passion for running.",
+      "t": 664.69
+    },
+    {
+      "text": "japanese running",
+      "count": 4,
+      "example": "Japanese running shoes were lightweight,",
+      "t": 690.4
+    },
+    {
+      "text": "japanese running shoes",
+      "count": 4,
+      "example": "Japanese running shoes were lightweight,",
+      "t": 690.4
+    },
+    {
+      "text": "company called",
+      "count": 4,
+      "example": "a company called Blue Ribbon Sports. Their mission was simple, provide high-quality",
+      "t": 722.54
+    },
+    {
+      "text": "company faced",
+      "count": 4,
+      "example": "The company faced struggles early on.",
+      "t": 759.12
+    },
+    {
+      "text": "marketing also",
+      "count": 4,
+      "example": "Marketing also played a crucial role.",
+      "t": 887.26
+    },
+    {
+      "text": "also played",
+      "count": 4,
+      "example": "Marketing also played a crucial role.",
+      "t": 887.26
+    },
+    {
+      "text": "crucial role",
+      "count": 4,
+      "example": "Marketing also played a crucial role.",
+      "t": 887.26
+    },
+    {
+      "text": "marketing also played",
+      "count": 4,
+      "example": "Marketing also played a crucial role.",
+      "t": 887.26
+    },
+    {
+      "text": "played a crucial",
+      "count": 4,
+      "example": "Marketing also played a crucial role.",
+      "t": 887.26
+    },
+    {
+      "text": "became a global",
+      "count": 4,
+      "example": "Nike's slogan, just do it, launched in 1988, became a global mantra.",
+      "t": 890.74
+    },
+    {
+      "text": "selling shoes",
+      "count": 4,
+      "example": "It wasn't just selling shoes, it was selling inspiration, determination, and achievement.",
+      "t": 899.29
+    },
+    {
+      "text": "success didn't",
+      "count": 4,
+      "example": "But success didn't come easy.",
+      "t": 907.77
+    },
+    {
+      "text": "didn't come",
+      "count": 4,
+      "example": "But success didn't come easy.",
+      "t": 907.77
+    },
+    {
+      "text": "success didn't come",
+      "count": 4,
+      "example": "But success didn't come easy.",
+      "t": 907.77
+    },
+    {
+      "text": "nike faced",
+      "count": 4,
+      "example": "Nike faced controversies and challenges.",
+      "t": 911.25
+    },
+    {
+      "text": "key lessons",
+      "count": 4,
+      "example": "Nike's strategies for becoming a global empire can be summarized in key lessons.",
+      "t": 942.81
+    },
+    {
+      "text": "strategies for becoming",
+      "count": 4,
+      "example": "Nike's strategies for becoming a global empire can be summarized in key lessons.",
+      "t": 942.81
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen, practice, speak, practice makes you perfect."
+    },
+    {
+      "t": 14.04,
+      "text": "I post amazing videos every day to help you learn English through stories."
+    },
+    {
+      "t": 20.99,
+      "text": "And trust me, today's story is not just about improving your English, it's also about gaining"
+    },
+    {
+      "t": 27.63,
+      "text": "knowledge, business lessons, and inspiration."
+    },
+    {
+      "t": 33.35,
+      "text": "Everybody knows about McDonald's."
+    },
+    {
+      "t": 36.71,
+      "text": "But do you know how it became a billion dollar empire?"
+    },
+    {
+      "t": 41.37,
+      "text": "Do you know how much money McDonald's makes every year?"
+    },
+    {
+      "t": 46.15,
+      "text": "Or why it became the number one fast food chain in the world?"
+    },
+    {
+      "t": 51.82,
+      "text": "Stay with me, because today, we are diving deep into the fascinating journey of McDonald's,"
+    },
+    {
+      "t": 58.94,
+      "text": "how two brothers started it, how a man named Ray Kroc took it to the next level, and"
+    },
+    {
+      "t": 64.98,
+      "text": "powerful business strategies that made it what it is today."
+    },
+    {
+      "t": 70.08,
+      "text": "By the end of this video, you will not only know McDonald's history, but also learn valuable"
+    },
+    {
+      "t": 76.46,
+      "text": "lessons about business success and life."
+    },
+    {
+      "t": 80.84,
+      "text": "So let's get started."
+    },
+    {
+      "t": 84.0,
+      "text": "Our story begins in the 1940s, in the United States."
+    },
+    {
+      "t": 90.02,
+      "text": "Two brothers, Richard Dick McDonald and Morris Mac McDonald, were born in New Hampshire."
+    },
+    {
+      "t": 98.9,
+      "text": "They came from a working-class family, and dreamed of success."
+    },
+    {
+      "t": 104.74,
+      "text": "They wanted to do something big, something that would make them rich and successful."
+    },
+    {
+      "t": 111.42,
+      "text": "Like many young men at the time, they believed that California was the land of opportunities."
+    },
+    {
+      "t": 118.64,
+      "text": "So, they packed their bags and moved to San Bernardino, California."
+    },
+    {
+      "t": 125.64,
+      "text": "In 1940, the McDonald Brothers opened a small drive-in restaurant called McDonald's Barbecue."
+    },
+    {
+      "t": 134.36,
+      "text": "It was like other restaurants at the time, car hops, waiters who served food to people"
+    },
+    {
+      "t": 140.42,
+      "text": "in their cars, a large menu, and slow service."
+    },
+    {
+      "t": 146.1,
+      "text": "But after running the restaurant for a few years, they noticed something important."
+    },
+    {
+      "t": 153.02,
+      "text": "Most of their customers only ordered three things, burgers, fries, and milkshakes."
+    },
+    {
+      "t": 160.22,
+      "text": "So, in 1948, they made a bold decision."
+    },
+    {
+      "t": 167.08,
+      "text": "They closed their restaurant for three months, yes, they shut it down completely, because"
+    },
+    {
+      "t": 173.72,
+      "text": "they wanted to create something new."
+    },
+    {
+      "t": 177.78,
+      "text": "and different. When they reopened, they introduced a brand new speedy service system, a revolutionary"
+    },
+    {
+      "t": 186.38,
+      "text": "way of serving food fast. The McDonald Brothers created a kitchen assembly line where every"
+    },
+    {
+      "t": 194.03,
+      "text": "worker had a specific job. One person grilled the patties, another assembled the burgers,"
+    },
+    {
+      "t": 202.46,
+      "text": "added condiments, and another packed the food."
+    },
+    {
+      "t": 207.28,
+      "text": "This was assembly line cooking, inspired by Henry Ford's car factories."
+    },
+    {
+      "t": 214.14,
+      "text": "Why was this revolutionary?"
+    },
+    {
+      "t": 217.69,
+      "text": "Super fast, instead of waiting 20-30 minutes, customers got their food in under a minute."
+    },
+    {
+      "t": 226.25,
+      "text": "Limited menu, only burgers, fries, and milkshakes, which made service faster."
+    },
+    {
+      "t": 234.67,
+      "text": "No car hops, customers walked up to the counter to order, reducing costs."
+    },
+    {
+      "t": 241.98,
+      "text": "It was simple, fast, efficient, and it worked."
+    },
+    {
+      "t": 247.42,
+      "text": "By 1952, McDonald's was making $350,000 per year, a huge amount at that time."
+    },
+    {
+      "t": 257.9,
+      "text": "Their restaurant became so popular that people lined up outside every day."
+    },
+    {
+      "t": 264.46,
+      "text": "Other restaurant owners wanted to copy their idea."
+    },
+    {
+      "t": 269.08,
+      "text": "And that's when the most important character in our story enters, Ray Kroc."
+    },
+    {
+      "t": 275.58,
+      "text": "Who was Ray Kroc?"
+    },
+    {
+      "t": 278.52,
+      "text": "Born in 1902 in Illinois, USA, he started as a paper cup salesman and later became"
+    },
+    {
+      "t": 286.06,
+      "text": "a milkshake machine salesman."
+    },
+    {
+      "t": 289.75,
+      "text": "One day in 1954, Ray Kroc noticed something unusual."
+    },
+    {
+      "t": 295.25,
+      "text": "A small restaurant in San Bernardino was ordering eight milkshake machines at once."
+    },
+    {
+      "t": 302.71,
+      "text": "This was strange, no small restaurant needed that many machines."
+    },
+    {
+      "t": 308.8,
+      "text": "Curious, Ray Kroc visited the restaurant."
+    },
+    {
+      "t": 313.7,
+      "text": "What he saw shocked him, the line outside was huge, and food was coming out in seconds."
+    },
+    {
+      "t": 322.51,
+      "text": "Faster than anything he had ever seen."
+    },
+    {
+      "t": 326.1,
+      "text": "Ray Kroc immediately saw the future."
+    },
+    {
+      "t": 330.38,
+      "text": "This wasn't just a restaurant, it was a business model that could be copied and expanded"
+    },
+    {
+      "t": 336.0,
+      "text": "across the country."
+    },
+    {
+      "t": 338.68,
+      "text": "He asked the McDonald Brothers, have you ever thought about franchising this restaurant?"
+    },
+    {
+      "t": 346.1,
+      "text": "hundreds of McDonald's all over America. The brothers were not interested. They were"
+    },
+    {
+      "t": 354.32,
+      "text": "happy running one successful restaurant and didn't want the stress of expansion. But Ray"
+    },
+    {
+      "t": 361.27,
+      "text": "Crock was relentless. He convinced them to let him handle franchising. In 1955, Ray"
+    },
+    {
+      "t": 371.26,
+      "text": "Crock opened the first franchised McDonald's into Plains, Illinois, and that was the"
+    },
+    {
+      "t": 377.46,
+      "text": "beginning of McDonald's massive expansion. But there was a problem. The McDonald brothers"
+    },
+    {
+      "t": 385.68,
+      "text": "didn't share his vision. They were happy with their one successful restaurant."
+    },
+    {
+      "t": 393.34,
+      "text": "Ray Kroc, however, thought big and took risks. He started franchising McDonald's with"
+    },
+    {
+      "t": 401.45,
+      "text": "or without the brothers' full support. At first, things were slow, and he struggled"
+    },
+    {
+      "t": 408.88,
+      "text": "financially. The McDonald Brothers had a contract that limited his profits. Franchising meant"
+    },
+    {
+      "t": 417.94,
+      "text": "other people could open McDonald's restaurants, but most profits went to the brothers. Frustrated,"
+    },
+    {
+      "t": 426.59,
+      "text": "working day and night, Ray Kroc decided he wanted full control. In 1961, he made the"
+    },
+    {
+      "t": 435.18,
+      "text": "the McDonald Brothers an offer to buy the company."
+    },
+    {
+      "t": 439.76,
+      "text": "At first, they refused, but after months of negotiations, they sold McDonald's to Ray"
+    },
+    {
+      "t": 446.72,
+      "text": "Croc for $2.7 million, a huge sum at the time."
+    },
+    {
+      "t": 453.43,
+      "text": "Ray Croc now had full control."
+    },
+    {
+      "t": 457.44,
+      "text": "He implemented two powerful strategies."
+    },
+    {
+      "t": 461.88,
+      "text": "estate empire, instead of just selling franchises, he bought the land where McDonald's restaurants"
+    },
+    {
+      "t": 469.06,
+      "text": "were built and rented it to franchise owners."
+    },
+    {
+      "t": 473.61,
+      "text": "This guaranteed profit even if a restaurant failed."
+    },
+    {
+      "t": 478.97,
+      "text": "Marketing and branding, the Golden Arches, Ronald McDonald, and a focus on families made"
+    },
+    {
+      "t": 485.65,
+      "text": "McDonald's a global brand."
+    },
+    {
+      "t": 489.16,
+      "text": "By the 1970s, McDonald's was unstoppable."
+    },
+    {
+      "t": 494.82,
+      "text": "It expanded internationally, Canada, Japan, Germany, Australia, France, the UK, and Ray"
+    },
+    {
+      "t": 504.1,
+      "text": "Kroc continued innovating."
+    },
+    {
+      "t": 507.71,
+      "text": "Key Strategies for McDonald's Success"
+    },
+    {
+      "t": 511.99,
+      "text": "Affordability, mass production, efficient cooking, limited menu."
+    },
+    {
+      "t": 518.58,
+      "text": "Happy Meals, Introduced in 1979, Targeting Children to Drive Family Visits"
+    },
+    {
+      "t": 527.15,
+      "text": "Drive Thrues, Introduced in 1975, Revolutionizing Convenience"
+    },
+    {
+      "t": 535.31,
+      "text": "Cleanliness and Hygiene, Strict Standards Built Customer Trust"
+    },
+    {
+      "t": 541.66,
+      "text": "Local Adaptation, McDonald's menus adjusted to local tastes, like the Mcaloo Tiki in"
+    },
+    {
+      "t": 548.74,
+      "text": "India or Teriyaki burgers in Japan. McDonald's makes money from three sources, food sales,"
+    },
+    {
+      "t": 557.96,
+      "text": "real estate, and franchise fees, building a business empire, not just a fast food chain."
+    },
+    {
+      "t": 566.77,
+      "text": "Even today, McDonald's innovates with AI, automation, sustainable food, and new markets."
+    },
+    {
+      "t": 575.01,
+      "text": "The story of McDonald's teaches us. Think big. Be consistent. Adapt to change. Expand smartly. Take risks."
+    },
+    {
+      "t": 592.02,
+      "text": "From a small burger stand to a global empire serving 69 million customers daily, the McDonald's story is proof that vision, persistence, and innovation can change the world."
+    },
+    {
+      "t": 606.6,
+      "text": "world. Everybody knows Nike, one of the biggest sports brands in the world. But do you know"
+    },
+    {
+      "t": 620.98,
+      "text": "how Nike became the giant it is today? Do you know the struggles, risks, and clever strategies"
+    },
+    {
+      "t": 629.21,
+      "text": "behind its rise? Stay with me, because today we are diving deep into the fascinating journey"
+    },
+    {
+      "t": 637.4,
+      "text": "of Nike from a small idea to a global sports empire."
+    },
+    {
+      "t": 643.55,
+      "text": "By the end of this video, you will not only know Nike's history, but also learn valuable"
+    },
+    {
+      "t": 649.91,
+      "text": "lessons about business, success, and determination."
+    },
+    {
+      "t": 655.97,
+      "text": "So let's get started."
+    },
+    {
+      "t": 659.17,
+      "text": "Our story begins in the 1960s in the United States."
+    },
+    {
+      "t": 664.69,
+      "text": "A young man named Phil Knight had a passion for running."
+    },
+    {
+      "t": 669.78,
+      "text": "Born in 1938 in Oregon, USA, Phil loved athletics,"
+    },
+    {
+      "t": 675.7,
+      "text": "but also dreamed of doing something big in life."
+    },
+    {
+      "t": 680.3,
+      "text": "After graduating from college, Phil went on a world tour."
+    },
+    {
+      "t": 686.04,
+      "text": "During his travels, he discovered something interesting."
+    },
+    {
+      "t": 690.4,
+      "text": "Japanese running shoes were lightweight,"
+    },
+    {
+      "t": 693.4,
+      "text": "high quality, and affordable."
+    },
+    {
+      "t": 697.1,
+      "text": "He realized that American runners were paying too much for heavy, expensive shoes."
+    },
+    {
+      "t": 704.6,
+      "text": "And that's when he had a big idea, import these Japanese shoes to the U.S. and sell"
+    },
+    {
+      "t": 712.0,
+      "text": "them to athletes."
+    },
+    {
+      "t": 714.92,
+      "text": "In 1964, Phil Knight partnered with his former track coach, Bill Bowerman, and founded"
+    },
+    {
+      "t": 722.54,
+      "text": "a company called Blue Ribbon Sports. Their mission was simple, provide high-quality"
+    },
+    {
+      "t": 729.82,
+      "text": "shoes for runners at reasonable prices. At first, it was a small operation. Phil sold"
+    },
+    {
+      "t": 739.67,
+      "text": "shoes out of his car at track meets. Bill Bowerman experimented with shoe designs in"
+    },
+    {
+      "t": 746.9,
+      "text": "his kitchen, even creating a revolutionary sole by pouring rubber into his waffle"
+    },
+    {
+      "t": 752.78,
+      "text": "iron, which would later inspire Nike's iconic waffle sole."
+    },
+    {
+      "t": 759.12,
+      "text": "The company faced struggles early on."
+    },
+    {
+      "t": 763.98,
+      "text": "Competition was fierce, and profits were small."
+    },
+    {
+      "t": 768.45,
+      "text": "But Phil and Bill were relentless, working day and night to grow their brand."
+    },
+    {
+      "t": 775.32,
+      "text": "In 1971, blue ribbon sports needed a new identity."
+    },
+    {
+      "t": 781.96,
+      "text": "wanted a name that symbolized speed, movement, and victory."
+    },
+    {
+      "t": 788.44,
+      "text": "Inspired by the Greek goddess of victory, they chose the name Nike."
+    },
+    {
+      "t": 794.79,
+      "text": "Along with the name, Nike introduced the famous swoosh logo, designed by a student named"
+    },
+    {
+      "t": 801.71,
+      "text": "Carolyn Davidson."
+    },
+    {
+      "t": 804.5,
+      "text": "She was paid just $35 at the time, not knowing the logo would become one of the"
+    },
+    {
+      "t": 810.62,
+      "text": "most recognized symbols in the world."
+    },
+    {
+      "t": 814.6,
+      "text": "Nike's first breakthrough came with innovative marketing."
+    },
+    {
+      "t": 819.77,
+      "text": "Unlike other shoe companies,"
+    },
+    {
+      "t": 822.13,
+      "text": "Nike focused on athletes and performance."
+    },
+    {
+      "t": 826.61,
+      "text": "They signed endorsement deals with runners,"
+    },
+    {
+      "t": 829.81,
+      "text": "football players, and eventually basketball stars."
+    },
+    {
+      "t": 835.12,
+      "text": "The game changer came in 1984."
+    },
+    {
+      "t": 839.35,
+      "text": "Nike signed a young, promising basketball player named Michael Jordan."
+    },
+    {
+      "t": 846.02,
+      "text": "Together, they launched the Air Jordan line, which revolutionized basketball shoes and sneaker culture."
+    },
+    {
+      "t": 855.18,
+      "text": "The Air Jordan shoes weren't just footwear, they were status symbols."
+    },
+    {
+      "t": 861.64,
+      "text": "People lined up for hours to buy them."
+    },
+    {
+      "t": 865.5,
+      "text": "Nike had successfully created desirability and brand loyalty."
+    },
+    {
+      "t": 870.66,
+      "text": "Nike didn't stop there. They invested in technology and innovation."
+    },
+    {
+      "t": 879.26,
+      "text": "They developed air cushioning, lightweight materials, and designs that improved athletic performance."
+    },
+    {
+      "t": 887.26,
+      "text": "Marketing also played a crucial role."
+    },
+    {
+      "t": 890.74,
+      "text": "Nike's slogan, just do it, launched in 1988, became a global mantra."
+    },
+    {
+      "t": 899.29,
+      "text": "It wasn't just selling shoes, it was selling inspiration, determination, and achievement."
+    },
+    {
+      "t": 907.77,
+      "text": "But success didn't come easy."
+    },
+    {
+      "t": 911.25,
+      "text": "Nike faced controversies and challenges."
+    },
+    {
+      "t": 915.76,
+      "text": "In the 1990s, reports about poor working conditions in factories abroad threatened the brand's reputation."
+    },
+    {
+      "t": 925.27,
+      "text": "Nike responded by improving labor standards, increasing transparency, and focusing on sustainability."
+    },
+    {
+      "t": 936.3,
+      "text": "These moves allowed Nike to maintain trust and continue growing globally."
+    },
+    {
+      "t": 942.81,
+      "text": "Nike's strategies for becoming a global empire can be summarized in key lessons."
+    },
+    {
+      "t": 950.26,
+      "text": "Innovation, constantly improving product design and performance."
+    },
+    {
+      "t": 956.77,
+      "text": "Marketing mastery, connecting with athletes and inspiring consumers."
+    },
+    {
+      "t": 963.52,
+      "text": "Branding, creating a recognizable logo and slogan that symbolize achievement."
+    },
+    {
+      "t": 971.04,
+      "text": "Strategic endorsements, partnering with athletes to create demand."
+    },
+    {
+      "t": 977.39,
+      "text": "Global expansion, adapting to markets worldwide while maintaining brand identity."
+    },
+    {
+      "t": 983.63,
+      "text": "Today, Nike has over $50 billion in annual revenue, employs hundreds of thousands globally,"
+    },
+    {
+      "t": 993.73,
+      "text": "and serves millions of customers every day."
+    },
+    {
+      "t": 998.11,
+      "text": "From selling shoes out of a car to becoming a global sports and lifestyle brand, Nike's"
+    },
+    {
+      "t": 1004.27,
+      "text": "story is a testament to vision, persistence, and bold action."
+    },
+    {
+      "t": 1010.7,
+      "text": "The story of Nike is more than just a business story."
+    },
+    {
+      "t": 1015.02,
+      "text": "It's a lesson in resilience, creativity, and thinking big."
+    },
+    {
+      "t": 1021.12,
+      "text": "Phil Knight and Bill Bowerman started with a simple idea and a passion for running, yet"
+    },
+    {
+      "t": 1026.92,
+      "text": "through innovation, strategy, and courage, they built one of the most iconic brands"
+    },
+    {
+      "t": 1033.52,
+      "text": "in history."
+    },
+    {
+      "t": 1035.81,
+      "text": "If you work hard, think smart, and take calculated risks, you too can achieve extraordinary success."
+    },
+    {
+      "t": 1045.4,
+      "text": "Just like Nike, even small ideas, when nurtured with vision and determination, can turn into"
+    },
+    {
+      "t": 1052.96,
+      "text": "legendary empires."
+    },
+    {
+      "t": 1056.6,
+      "text": "Everybody knows Tesla, the electric car company that has changed the way the world"
+    },
+    {
+      "t": 1061.6,
+      "text": "thinks about cars."
+    },
+    {
+      "t": 1064.48,
+      "text": "But do you know how Tesla became one of the most valuable car companies in the world?"
+    },
+    {
+      "t": 1071.15,
+      "text": "Or how Elon Musk turned a risky idea into a revolutionary business?"
+    },
+    {
+      "t": 1078.02,
+      "text": "Stay with me, because today we are diving deep into the fascinating journey of Tesla,"
+    },
+    {
+      "t": 1084.74,
+      "text": "its struggles, innovations, and the bold strategies that made it a global powerhouse."
+    },
+    {
+      "t": 1092.57,
+      "text": "By the end of this video, you will not only know Tesla's history, but also learn valuable"
+    },
+    {
+      "t": 1098.99,
+      "text": "lessons about vision, risk-taking, and perseverance."
+    },
+    {
+      "t": 1103.57,
+      "text": "So, let's get started."
+    },
+    {
+      "t": 1108.1,
+      "text": "Our story begins in the early 2000s."
+    },
+    {
+      "t": 1112.99,
+      "text": "Electric cars were considered a niche market, and many people thought they would never"
+    },
+    {
+      "t": 1117.87,
+      "text": "be practical."
+    },
+    {
+      "t": 1120.35,
+      "text": "The idea of an electric car company seemed risky, expensive, and even impossible."
+    },
+    {
+      "t": 1128.3,
+      "text": "But a group of engineers, including Martin Eberhard and Mark Tarpenning, believed in"
+    },
+    {
+      "t": 1134.3,
+      "text": "the potential of electric vehicles."
+    },
+    {
+      "t": 1138.05,
+      "text": "They wanted to create a high-performance, stylish electric car."
+    },
+    {
+      "t": 1143.92,
+      "text": "In 2003, they founded Tesla Motors with a clear goal, proved that electric cars could"
+    },
+    {
+      "t": 1150.84,
+      "text": "compete with gasoline cars. Early on, Tesla faced enormous challenges. Technology was expensive."
+    },
+    {
+      "t": 1163.02,
+      "text": "Batteries were heavy and inefficient. Investors were skeptical."
+    },
+    {
+      "t": 1170.09,
+      "text": "And competing with established car companies felt like trying to climb a mountain without gear."
+    },
+    {
+      "t": 1176.01,
+      "text": "In 2004, Elon Musk joined Tesla as an investor and chairman of the board."
+    },
+    {
+      "t": 1185.45,
+      "text": "Musk had already made his fortune with PayPal, but he was passionate about sustainable energy"
+    },
+    {
+      "t": 1191.73,
+      "text": "and ambitious projects."
+    },
+    {
+      "t": 1195.0,
+      "text": "He saw Tesla as more than a car company, he wanted to change the world."
+    },
+    {
+      "t": 1202.18,
+      "text": "Tesla's first car, the Roadster, launched in 2008."
+    },
+    {
+      "t": 1207.94,
+      "text": "It was fast, sleek, and fully electric, but building it was extremely difficult."
+    },
+    {
+      "t": 1216.02,
+      "text": "The company faced production delays, technical failures, and financial crises."
+    },
+    {
+      "t": 1223.82,
+      "text": "Elon Musk invested his own money, often putting millions of dollars at risk to keep the"
+    },
+    {
+      "t": 1230.06,
+      "text": "company alive."
+    },
+    {
+      "t": 1232.76,
+      "text": "At one point, Tesla had just enough money to last a few weeks."
+    },
+    {
+      "t": 1238.9,
+      "text": "The future was uncertain, and failure was a real possibility."
+    },
+    {
+      "t": 1245.01,
+      "text": "But Musk and the Tesla team refused to give up."
+    },
+    {
+      "t": 1249.65,
+      "text": "They solved engineering problems, improved battery technology, and streamlined production."
+    },
+    {
+      "t": 1257.75,
+      "text": "Slowly, Tesla proved that electric cars could be desirable, reliable, and hyper-forming."
+    },
+    {
+      "t": 1266.83,
+      "text": "In 2012, Tesla launched the Model S, a luxury electric sedan that captured the world's attention."
+    },
+    {
+      "t": 1276.69,
+      "text": "It wasn't just a car, it was a statement."
+    },
+    {
+      "t": 1281.58,
+      "text": "Sleek design, long battery range, fast acceleration, and high-tech features set Tesla apart."
+    },
+    {
+      "t": 1290.78,
+      "text": "Tesla didn't just innovate cars, it revolutionized the industry."
+    },
+    {
+      "t": 1297.21,
+      "text": "They introduced over-the-air software updates, autopilot technology, and a direct-to-consumer"
+    },
+    {
+      "t": 1304.17,
+      "text": "sales model cutting out traditional dealerships."
+    },
+    {
+      "t": 1309.89,
+      "text": "Marketing also played a crucial role."
+    },
+    {
+      "t": 1313.46,
+      "text": "Tesla didn't rely on traditional advertising."
+    },
+    {
+      "t": 1317.78,
+      "text": "Instead, they built a brand associated with innovation, luxury, and sustainability."
+    },
+    {
+      "t": 1326.89,
+      "text": "Every launch, every event, and every social media post was a lesson in creating hype and"
+    },
+    {
+      "t": 1333.73,
+      "text": "loyalty."
+    },
+    {
+      "t": 1335.96,
+      "text": "But Tesla's journey was never smooth."
+    },
+    {
+      "t": 1339.92,
+      "text": "The company-faced production bottlenecks with the Model 3 struggles with cash flow"
+    },
+    {
+      "t": 1346.44,
+      "text": "and skepticism from critics who doubted electric cars could go mainstream."
+    },
+    {
+      "t": 1352.76,
+      "text": "Elon Musk famously slept in the Tesla factory to oversee production and motivate employees."
+    },
+    {
+      "t": 1361.14,
+      "text": "He embraced risk, worked tirelessly, and stayed obsessed with solving problems."
+    },
+    {
+      "t": 1368.7,
+      "text": "By 2020, Tesla became the world's most valuable car company, surpassing traditional giants"
+    },
+    {
+      "t": 1376.18,
+      "text": "like Ford and General Motors."
+    },
+    {
+      "t": 1379.83,
+      "text": "It proved that vision, persistence, and innovation could disrupt even the largest, most established"
+    },
+    {
+      "t": 1387.71,
+      "text": "industries."
+    },
+    {
+      "t": 1388.83,
+      "text": "Tesla's strategies for success provide powerful business lessons."
+    },
+    {
+      "t": 1396.33,
+      "text": "Think big and aim to change the world."
+    },
+    {
+      "t": 1399.57,
+      "text": "Tesla wasn't just making cars, it was solving global energy challenges."
+    },
+    {
+      "t": 1406.69,
+      "text": "At this risk, Elon Musk risked personal fortune to save Tesla."
+    },
+    {
+      "t": 1413.47,
+      "text": "Innovate relentlessly the electric cars, autopilot, direct sales, and battery technology."
+    },
+    {
+      "t": 1422.94,
+      "text": "Build a strong brand."
+    },
+    {
+      "t": 1425.1,
+      "text": "Tesla represents innovation, performance, and sustainability."
+    },
+    {
+      "t": 1431.72,
+      "text": "problems with persistence, production delays, technical failures, and financial crises didn't"
+    },
+    {
+      "t": 1439.56,
+      "text": "stop Tesla. Today, Tesla doesn't just sell cars. It manufactures solar panels, energy"
+    },
+    {
+      "t": 1449.78,
+      "text": "storage systems, and even spacecraft technology through SpaceX, showing that vision and persistence"
+    },
+    {
+      "t": 1457.82,
+      "text": "can expand into multiple industries. Tesla's story is more than a business success story."
+    },
+    {
+      "t": 1466.68,
+      "text": "It's a lesson in dreaming big, staying persistent, and never fearing failure."
+    },
+    {
+      "t": 1474.0,
+      "text": "It proves that even against overwhelming odds, determination and innovation can create a global"
+    },
+    {
+      "t": 1481.04,
+      "text": "empire. From a small startup with a risky idea to a company worth hundreds of billions of"
+    },
+    {
+      "t": 1488.49,
+      "text": "of dollars, Tesla has transformed the automotive world and inspired millions to think differently."
+    },
+    {
+      "t": 1496.72,
+      "text": "The story of Tesla teaches us that success is not about avoiding failure, it's about"
+    },
+    {
+      "t": 1502.72,
+      "text": "embracing challenges, taking bold risks and pushing beyond limits."
+    },
+    {
+      "t": 1509.8,
+      "text": "If you work hard, think strategically and stay committed to your vision, even a small"
+    },
+    {
+      "t": 1516.0,
+      "text": "idea can become revolutionary. Tesla started as an ambitious dream. Today, it's a symbol"
+    },
+    {
+      "t": 1524.75,
+      "text": "of innovation, persistence, and the power of thinking big. Everybody knows Apple. But do"
+    },
+    {
+      "t": 1533.96,
+      "text": "you know how Apple became one of the most valuable companies in the world? Or how"
+    },
+    {
+      "t": 1540.19,
+      "text": "Steve Jobs, a college dropout, turned a small garage project into a global technology"
+    },
+    {
+      "t": 1547.37,
+      "text": "Empire."
+    },
+    {
+      "t": 1549.79,
+      "text": "Stay with me, because today we are diving deep into the fascinating journey of Apple, its"
+    },
+    {
+      "t": 1556.35,
+      "text": "struggles, innovations, failures, and the powerful strategies that made it a worldwide"
+    },
+    {
+      "t": 1563.23,
+      "text": "icon."
+    },
+    {
+      "t": 1565.35,
+      "text": "By the end of this video, you will not only understand Apple's history, but also learn"
+    },
+    {
+      "t": 1571.55,
+      "text": "lessons about innovation, vision, resilience, and leadership."
+    },
+    {
+      "t": 1578.28,
+      "text": "So let's get started."
+    },
+    {
+      "t": 1581.48,
+      "text": "Our story begins in 1976 in Cupertino, California."
+    },
+    {
+      "t": 1588.02,
+      "text": "Two young men, Steve Jobs and Steve Wozniak, were passionate about electronics and computing."
+    },
+    {
+      "t": 1597.44,
+      "text": "Jobs was ambitious, full of ideas, and obsessed with design."
+    },
+    {
+      "t": 1603.84,
+      "text": "Wozniak was a genius engineer who could turn ideas into working machines."
+    },
+    {
+      "t": 1610.76,
+      "text": "Together, they started Apple in Jobs' parents' garage."
+    },
+    {
+      "t": 1616.4,
+      "text": "Their first product, the Apple One, was a simple computer kit."
+    },
+    {
+      "t": 1622.49,
+      "text": "It wasn't fancy, but it worked."
+    },
+    {
+      "t": 1626.43,
+      "text": "They sold it to computer enthusiasts, hobbyists, and small businesses."
+    },
+    {
+      "t": 1633.7,
+      "text": "This was the birth of Apple, a company that would eventually change the way the world"
+    },
+    {
+      "t": 1639.02,
+      "text": "interacts with technology."
+    },
+    {
+      "t": 1642.3,
+      "text": "In 1977, they introduced the Apple II, a fully assembled personal computer with color graphics."
+    },
+    {
+      "t": 1652.26,
+      "text": "It was a huge success, making Apple a serious player in the tech industry."
+    },
+    {
+      "t": 1659.27,
+      "text": "But success didn't come without challenges."
+    },
+    {
+      "t": 1663.58,
+      "text": "The computer market was competitive, and Apple needed to innovate constantly."
+    },
+    {
+      "t": 1670.74,
+      "text": "Its obsession with perfection sometimes caused conflicts with employees and investors, but"
+    },
+    {
+      "t": 1677.18,
+      "text": "it also drove the company to create products that were revolutionary, not just functional."
+    },
+    {
+      "t": 1684.64,
+      "text": "The 1980s brought both triumph and turmoil."
+    },
+    {
+      "t": 1689.46,
+      "text": "Apple launched the Macintosh in 1984, introducing a graphical user interface and a mouse, innovations"
+    },
+    {
+      "t": 1697.94,
+      "text": "that made computing accessible to ordinary people, not just tech experts."
+    },
+    {
+      "t": 1704.78,
+      "text": "The launch was historic with the famous 1984 commercial directed by Ridley Scott, which"
+    },
+    {
+      "t": 1713.18,
+      "text": "aired during the Super Bowl."
+    },
+    {
+      "t": 1716.5,
+      "text": "It portrayed Apple as a rebel against conformity, symbolizing innovation and creativity."
+    },
+    {
+      "t": 1724.6,
+      "text": "However, internal conflicts led to Steve Jobs leaving Apple in 1985."
+    },
+    {
+      "t": 1733.13,
+      "text": "Many thought this was the end of the visionary leader, but Jobs' journey was far from over."
+    },
+    {
+      "t": 1740.59,
+      "text": "During his time away from Apple, Jobs founded Next, a computer company focused on high-end"
+    },
+    {
+      "t": 1747.23,
+      "text": "machines for education and business."
+    },
+    {
+      "t": 1751.42,
+      "text": "He also acquired Pixar, turning it into the most successful animation studio in history,"
+    },
+    {
+      "t": 1758.6,
+      "text": "producing hits like Toy Story."
+    },
+    {
+      "t": 1762.28,
+      "text": "These experiences taught Jobs important lessons about business, technology, storytelling,"
+    },
+    {
+      "t": 1769.84,
+      "text": "and leadership, which he would later bring back to Apple."
+    },
+    {
+      "t": 1774.84,
+      "text": "In 1997, Apple was struggling."
+    },
+    {
+      "t": 1779.6,
+      "text": "The company was near bankruptcy, losing millions, and products weren't selling."
+    },
+    {
+      "t": 1786.99,
+      "text": "That's when Steve Jobs returned."
+    },
+    {
+      "t": 1790.61,
+      "text": "He brought a clear vision, Apple must focus on innovation, simplicity, and design excellence."
+    },
+    {
+      "t": 1800.04,
+      "text": "Jobs made bold moves, he cut unnecessary products, streamlined the product line,"
+    },
+    {
+      "t": 1806.92,
+      "text": "and focused on creating devices that people loved."
+    },
+    {
+      "t": 1811.69,
+      "text": "This philosophy was simple, design is not just what it looks like."
+    },
+    {
+      "t": 1818.38,
+      "text": "Design is how it works."
+    },
+    {
+      "t": 1821.15,
+      "text": "The result?"
+    },
+    {
+      "t": 1823.27,
+      "text": "The iMac, introduced in 1998, became an instant hit."
+    },
+    {
+      "t": 1830.16,
+      "text": "Its colorful design, easy to use interface, and unique look made Apple cool again."
+    },
+    {
+      "t": 1837.96,
+      "text": "But jobs didn't stop there."
+    },
+    {
+      "t": 1841.36,
+      "text": "He revolutionized music with the iPod and iTunes, smartphones with the iPhone, tablets"
+    },
+    {
+      "t": 1848.4,
+      "text": "with the iPad, and smartwatches with the Apple Watch."
+    },
+    {
+      "t": 1854.18,
+      "text": "Each product wasn't just a device."
+    },
+    {
+      "t": 1857.02,
+      "text": "It was a statement about innovation, simplicity, and lifestyle."
+    },
+    {
+      "t": 1863.67,
+      "text": "Apple's strategies for becoming a global tech leader can be summarized in key lessons."
+    },
+    {
+      "t": 1870.92,
+      "text": "Think differently, Apple didn't just make products, it created experiences."
+    },
+    {
+      "t": 1878.71,
+      "text": "Focus and simplicity, jobs cut unnecessary complexity to create intuitive products."
+    },
+    {
+      "t": 1887.55,
+      "text": "Innovation through design, every detail mattered, from hardware to software."
+    },
+    {
+      "t": 1894.57,
+      "text": "Built an ecosystem, iTunes, iCloud, App Store, and devices all connected seamlessly."
+    },
+    {
+      "t": 1904.41,
+      "text": "Brand loyalty, Apple customers weren't just buyers, they became lifelong fans."
+    },
+    {
+      "t": 1912.8,
+      "text": "Jobs also taught the importance of resilience."
+    },
+    {
+      "t": 1917.22,
+      "text": "He was fired, faced bankruptcy, and endured failures, yet he returned stronger, showing"
+    },
+    {
+      "t": 1925.0,
+      "text": "that setbacks are stepping stones to success. Today, Apple is worth over $3 trillion, employs"
+    },
+    {
+      "t": 1934.74,
+      "text": "millions worldwide, and its products have shaped the way billions of people communicate,"
+    },
+    {
+      "t": 1941.38,
+      "text": "work, and entertain themselves. From a small garage project to the most valuable technology"
+    },
+    {
+      "t": 1949.08,
+      "text": "company in history, Apple's story is a testament to vision, persistence, and relentless innovation."
+    },
+    {
+      "t": 1957.91,
+      "text": "The story of Apple teaches us that success is not just about ideas, it's about execution,"
+    },
+    {
+      "t": 1965.03,
+      "text": "design, persistence, and the courage to challenge the status quo. If you work hard, stay focused,"
+    },
+    {
+      "t": 1974.55,
+      "text": "and never stop innovating, even a small idea can become a global revolution."
+    },
+    {
+      "t": 1981.86,
+      "text": "Apple didn't just make computers and phones, it changed the world."
+    },
+    {
+      "t": 1988.1,
+      "text": "This story is more than business history, it's a lesson in creativity, vision, and determination."
+    },
+    {
+      "t": 1996.86,
+      "text": "Steve Jobs' life proves that with passion, boldness, and persistence, you can overcome"
+    },
+    {
+      "t": 2003.9,
+      "text": "any challenge and build something legendary. From a garage in California to a trillion dollar empire,"
+    },
+    {
+      "t": 2012.55,
+      "text": "Apple's story shows that innovation and dedication can turn dreams into reality."
+    },
+    {
+      "t": 2023.96,
+      "text": "Everybody knows Amazon, the online shopping giant that delivers millions of products worldwide."
+    },
+    {
+      "t": 2032.52,
+      "text": "But do you know how Amazon became the largest e-commerce company in the world?"
+    },
+    {
+      "t": 2037.56,
+      "text": "or how Jeff Bezos turned a small online bookstore into a trillion dollar empire."
+    },
+    {
+      "t": 2045.07,
+      "text": "Stay with me because today we are diving deep into the fascinating journey of Amazon,"
+    },
+    {
+      "t": 2052.62,
+      "text": "its struggles, innovations, and strategies that transformed retail forever."
+    },
+    {
+      "t": 2059.62,
+      "text": "By the end of this video, you will not only know Amazon's history,"
+    },
+    {
+      "t": 2065.13,
+      "text": "history, but also learn lessons about vision, risk-taking, and long-term thinking."
+    },
+    {
+      "t": 2073.12,
+      "text": "So let's get started."
+    },
+    {
+      "t": 2076.32,
+      "text": "Our story begins in 1994."
+    },
+    {
+      "t": 2080.58,
+      "text": "Jeff Bezos was working at a high-paying hedge fund job in New York."
+    },
+    {
+      "t": 2086.9,
+      "text": "But he had a vision, the internet was growing rapidly, and he wanted to build a company"
+    },
+    {
+      "t": 2092.82,
+      "text": "that could take advantage of this new technology."
+    },
+    {
+      "t": 2097.35,
+      "text": "He studied trends and realized something important."
+    },
+    {
+      "t": 2101.53,
+      "text": "People would soon want to buy things online."
+    },
+    {
+      "t": 2105.54,
+      "text": "He made a list of 20 products to sell online, and books topped the list."
+    },
+    {
+      "t": 2112.83,
+      "text": "Books were easy to ship, had huge demand, and were simple to store."
+    },
+    {
+      "t": 2119.54,
+      "text": "Bezos quit his high-paying job and moved to Seattle, Washington."
+    },
+    {
+      "t": 2125.68,
+      "text": "He rented a small garage and founded a company called Cadabra, which he later renamed Amazon,"
+    },
+    {
+      "t": 2133.28,
+      "text": "inspired by the largest river in the world, symbolizing scale and ambition."
+    },
+    {
+      "t": 2140.59,
+      "text": "In the beginning, Amazon was a small online bookstore."
+    },
+    {
+      "t": 2146.1,
+      "text": "Bezos focused on three principles."
+    },
+    {
+      "t": 2150.84,
+      "text": "Customer obsession, always putting the customer first."
+    },
+    {
+      "t": 2155.92,
+      "text": "Long-term thinking, prioritizing growth over immediate profit, innovation, using technology"
+    },
+    {
+      "t": 2164.55,
+      "text": "to solve problems and improve service."
+    },
+    {
+      "t": 2169.11,
+      "text": "Even in its early years, Amazon faced huge challenges."
+    },
+    {
+      "t": 2175.73,
+      "text": "Investors were skeptical, shipping was slow, and running an online business was risky."
+    },
+    {
+      "t": 2183.38,
+      "text": "But Bezos was relentless."
+    },
+    {
+      "t": 2186.84,
+      "text": "He personally packaged books, improved the website, and optimized logistics."
+    },
+    {
+      "t": 2194.43,
+      "text": "By 1997, Amazon went public, raising millions to expand."
+    },
+    {
+      "t": 2201.94,
+      "text": "But Bezos had bigger plans."
+    },
+    {
+      "t": 2205.69,
+      "text": "He didn't just want to sell books, he wanted Amazon to become the everything store."
+    },
+    {
+      "t": 2213.88,
+      "text": "began adding new product categories, music, electronics, toys, clothes, gradually expanding"
+    },
+    {
+      "t": 2222.84,
+      "text": "into virtually every retail market. Bezos introduced innovations that changed the"
+    },
+    {
+      "t": 2230.12,
+      "text": "retail industry forever. Customer reviews, letting buyers share their experiences and"
+    },
+    {
+      "t": 2238.14,
+      "text": "build trust. One-click ordering, making online shopping faster and easier. Amazon Prime offering"
+    },
+    {
+      "t": 2249.05,
+      "text": "fast shipping and exclusive benefits to loyal customers. Amazon also revolutionized logistics"
+    },
+    {
+      "t": 2258.17,
+      "text": "and technology. Bezos invested heavily in warehouses, robotics, and delivery systems,"
+    },
+    {
+      "t": 2267.51,
+      "text": "Ensuring orders could be delivered quickly and efficiently."
+    },
+    {
+      "t": 2272.63,
+      "text": "But the road wasn't always smooth."
+    },
+    {
+      "t": 2276.56,
+      "text": "During the dot-com crash of 2000, Amazon stock plummeted."
+    },
+    {
+      "t": 2282.92,
+      "text": "Many critics said the company would fail."
+    },
+    {
+      "t": 2286.76,
+      "text": "But Bezos stayed focused on long-term growth, not short-term profits."
+    },
+    {
+      "t": 2293.89,
+      "text": "His gamble paid off."
+    },
+    {
+      "t": 2296.88,
+      "text": "By focusing on scale, technology, and customer experience, Amazon became unbeatable in e-commerce."
+    },
+    {
+      "t": 2307.2,
+      "text": "In the 2000s and 2010s, Amazon expanded into cloud computing with Amazon Web Services,"
+    },
+    {
+      "t": 2315.24,
+      "text": "AWS, which became a massive source of revenue and transformed the company into a tech"
+    },
+    {
+      "t": 2321.92,
+      "text": "powerhouse."
+    },
+    {
+      "t": 2325.03,
+      "text": "Amazon also innovated in retail experiences with Kindle E-Readers, Alexa Smart Devices,"
+    },
+    {
+      "t": 2332.69,
+      "text": "and physical stores like Amazon Go, blending technology with everyday shopping."
+    },
+    {
+      "t": 2340.45,
+      "text": "Amazon's strategies for success provide powerful business lessons."
+    },
+    {
+      "t": 2346.46,
+      "text": "Think big and act boldly."
+    },
+    {
+      "t": 2348.74,
+      "text": "Bezos didn't just want to sell books, he wanted to dominate global retail."
+    },
+    {
+      "t": 2356.17,
+      "text": "on the customer. Everything starts with the customer experience. Embrace risk and failure,"
+    },
+    {
+      "t": 2364.36,
+      "text": "launching new products and services always involves uncertainty. Invest in technology,"
+    },
+    {
+      "t": 2372.55,
+      "text": "automation, logistics, and cloud computing-powered Amazon's growth. Think long-term,"
+    },
+    {
+      "t": 2380.97,
+      "text": "Success is about strategy and patience, not instant profits."
+    },
+    {
+      "t": 2387.24,
+      "text": "Today, Amazon is worth over $1 trillion, employs millions worldwide, and serves millions of"
+    },
+    {
+      "t": 2395.8,
+      "text": "customers every day. From a small online bookstore in a garage to a global e-commerce and tech empire,"
+    },
+    {
+      "t": 2404.9,
+      "text": "Amazon's story is a testament to vision, persistence, and innovation."
+    },
+    {
+      "t": 2411.77,
+      "text": "Jeff Bezos' journey teaches us that bold ideas, relentless execution, and thinking ahead of time"
+    },
+    {
+      "t": 2419.37,
+      "text": "can change industries and create history. Amazon didn't just sell products, it redefined shopping,"
+    },
+    {
+      "t": 2428.44,
+      "text": "technology, and logistics."
+    },
+    {
+      "t": 2432.52,
+      "text": "Its story proves that even a small idea, nurtured with vision, innovation, and determination,"
+    },
+    {
+      "t": 2440.28,
+      "text": "can become a global empire."
+    },
+    {
+      "t": 2443.51,
+      "text": "If you want, I can also create a fully-audiated, ready version of this Amazon story with pauses,"
+    },
+    {
+      "t": 2451.67,
+      "text": "emphasis, and narration cues, so it will sound natural and engaging for YouTube narration"
+    },
+    {
+      "t": 2459.03,
+      "text": "just like your McDonald's and Tesla stories."
+    },
+    {
+      "t": 2463.27,
+      "text": "Everybody knows Disney, the entertainment company that has created some of the most"
+    },
+    {
+      "t": 2468.79,
+      "text": "beloved movies, characters, and theme parks in the world."
+    },
+    {
+      "t": 2474.74,
+      "text": "But do you know how Walt Disney, a man with big dreams,"
+    },
+    {
+      "t": 2479.38,
+      "text": "turned a small animation studio into a global entertainment empire?"
+    },
+    {
+      "t": 2485.61,
+      "text": "Stay with me, because today we are diving deep into the fascinating journey of Disney."
+    },
+    {
+      "t": 2492.65,
+      "text": "It struggles, innovations, failures, and the bold strategies that transformed entertainment"
+    },
+    {
+      "t": 2499.69,
+      "text": "forever."
+    },
+    {
+      "t": 2501.84,
+      "text": "By the end of this video, you will not only know Disney's history, but also learn lessons"
+    },
+    {
+      "t": 2508.16,
+      "text": "about vision, creativity, persistence, and innovation."
+    },
+    {
+      "t": 2514.5,
+      "text": "So let's get started."
+    },
+    {
+      "t": 2517.7,
+      "text": "Our story begins in the early 1920s."
+    },
+    {
+      "t": 2522.62,
+      "text": "Walt Disney was a young artist with a passion for drawing and storytelling."
+    },
+    {
+      "t": 2528.8,
+      "text": "He started with small animation projects, including a short film series called The Alice"
+    },
+    {
+      "t": 2535.44,
+      "text": "Commodies."
+    },
+    {
+      "t": 2537.76,
+      "text": "In 1923, Walt and his brother Roy Disney founded the Disney Brothers Studio in Hollywood,"
+    },
+    {
+      "t": 2545.8,
+      "text": "It was a small operation with limited funds, but Walt had a clear vision to create animated"
+    },
+    {
+      "t": 2555.0,
+      "text": "stories that could entertain and inspire people."
+    },
+    {
+      "t": 2559.86,
+      "text": "Their first major success came with the creation of Oswald the Lucky Rabbit, but Walt lost"
+    },
+    {
+      "t": 2566.14,
+      "text": "the rights to the character in a contract dispute with the distributor."
+    },
+    {
+      "t": 2571.94,
+      "text": "This was a huge setback, but Walt didn't give up."
+    },
+    {
+      "t": 2577.14,
+      "text": "Instead, he created a new character, one that would change the world, Mickey Mouse."
+    },
+    {
+      "t": 2585.1,
+      "text": "In 1928, Mickey made his debut in the animated short Steamboat Willie, which featured synchronized"
+    },
+    {
+      "t": 2593.22,
+      "text": "sound, a groundbreaking innovation at the time."
+    },
+    {
+      "t": 2598.26,
+      "text": "Mickey Mouse was an instant success, capturing the hearts of audiences worldwide."
+    },
+    {
+      "t": 2605.82,
+      "text": "But Walt didn't stop there."
+    },
+    {
+      "t": 2609.0,
+      "text": "He introduced new characters like Donald Duck, Goofy, and Pluto, building a universe that"
+    },
+    {
+      "t": 2616.16,
+      "text": "people loved."
+    },
+    {
+      "t": 2618.71,
+      "text": "In 1937, Disney released Snow White and the Seven Dwarfs, the first full-length animated"
+    },
+    {
+      "t": 2626.23,
+      "text": "feature film in history."
+    },
+    {
+      "t": 2629.66,
+      "text": "Many people thought a feature-length cartoon would fail, but it became a massive success,"
+    },
+    {
+      "t": 2636.22,
+      "text": "proving that animated storytelling could be both profitable and influential."
+    },
+    {
+      "t": 2642.47,
+      "text": "This success allowed Disney to invest in new technologies, storytelling techniques, and"
+    },
+    {
+      "t": 2649.39,
+      "text": "ambitious projects."
+    },
+    {
+      "t": 2652.39,
+      "text": "The 1940s and 1950s were a period of expansion and experimentation."
+    },
+    {
+      "t": 2660.17,
+      "text": "Disney created live-action films, documentaries, and television shows."
+    },
+    {
+      "t": 2667.44,
+      "text": "But Walt had an even bigger dream, a theme park unlike anything the world had seen."
+    },
+    {
+      "t": 2674.84,
+      "text": "He wanted a place where families could experience stories in real life, not just on the screen."
+    },
+    {
+      "t": 2682.96,
+      "text": "After years of planning, overcoming zoning issues, and raising funds, Disneyland opened"
+    },
+    {
+      "t": 2690.0,
+      "text": "in 1955 in Anaheim, California."
+    },
+    {
+      "t": 2695.76,
+      "text": "Disneyland was revolutionary."
+    },
+    {
+      "t": 2698.67,
+      "text": "combined entertainment, storytelling, and cutting-edge technology to create a magical"
+    },
+    {
+      "t": 2705.43,
+      "text": "experience. People lined up for hours to experience attractions like Sleeping Beauty"
+    },
+    {
+      "t": 2712.76,
+      "text": "Castle, Pirates of the Caribbean, and Space Mountain. Walt Disney faced many challenges"
+    },
+    {
+      "t": 2720.69,
+      "text": "throughout his career. He dealt with financial struggles, skepticism from investors, technical"
+    },
+    {
+      "t": 2729.12,
+      "text": "difficulties and even health problems."
+    },
+    {
+      "t": 2733.8,
+      "text": "But his vision, persistence and creativity allowed him to overcome these obstacles."
+    },
+    {
+      "t": 2741.76,
+      "text": "He expanded Disney into television, merchandise and international markets, creating a brand"
+    },
+    {
+      "t": 2749.32,
+      "text": "that became synonymous with family entertainment and imagination."
+    },
+    {
+      "t": 2755.42,
+      "text": "Many strategies for success provide powerful business lessons."
+    },
+    {
+      "t": 2761.4,
+      "text": "Think big and imagine the impossible."
+    },
+    {
+      "t": 2764.52,
+      "text": "Walt created worlds that didn't exist yet and brought them to life."
+    },
+    {
+      "t": 2770.76,
+      "text": "Innovation drives growth, Disney pioneered synchronized sound, full-length animation,"
+    },
+    {
+      "t": 2777.52,
+      "text": "and theme park design."
+    },
+    {
+      "t": 2781.15,
+      "text": "Persistence through failure, setbacks like losing Oswald taught Walt to protect his"
+    },
+    {
+      "t": 2786.43,
+      "text": "ideas and push forward."
+    },
+    {
+      "t": 2790.01,
+      "text": "Build a brand people trust."
+    },
+    {
+      "t": 2792.57,
+      "text": "Disney became synonymous with quality, creativity, and family fun."
+    },
+    {
+      "t": 2799.21,
+      "text": "Diversify, films, merchandise, theme parks, and television all contributed to the empire."
+    },
+    {
+      "t": 2808.47,
+      "text": "Today, Disney is worth over $250 billion, employs thousands worldwide, and entertains"
+    },
+    {
+      "t": 2817.31,
+      "text": "millions every day. From a small animation studio to a global media and entertainment"
+    },
+    {
+      "t": 2824.98,
+      "text": "empire, Disney's story is a testament to creativity, vision, and relentless determination. The"
+    },
+    {
+      "t": 2833.6,
+      "text": "story of Disney teaches us that success is not just about money, it's about dreaming"
+    },
+    {
+      "t": 2839.9,
+      "text": "big, taking risks, and believing in your ideas. Walt Disney didn't just create cartoons,"
+    },
+    {
+      "t": 2848.8,
+      "text": "He created a world of imagination that continues to inspire generations."
+    },
+    {
+      "t": 2855.58,
+      "text": "From a small studio in California to theme parks, movies, and media networks worldwide,"
+    },
+    {
+      "t": 2863.06,
+      "text": "Disney proves that vision, creativity, and hard work can turn dreams into reality."
+    },
+    {
+      "t": 2871.02,
+      "text": "This story is more than business history."
+    },
+    {
+      "t": 2874.18,
+      "text": "It's a lesson in imagination, resilience, and leadership."
+    },
+    {
+      "t": 2880.18,
+      "text": "What Disney's life shows that with passion, persistence, and bold thinking, you can overcome"
+    },
+    {
+      "t": 2887.14,
+      "text": "obstacles and leave a lasting legacy."
+    },
+    {
+      "t": 2892.0,
+      "text": "Everybody knows Nike, the iconic sportswear brand with the famous swoosh logo and the"
+    },
+    {
+      "t": 2898.4,
+      "text": "slogan, just do it."
+    },
+    {
+      "t": 2901.14,
+      "text": "But do you know how Nike became a global sports empire?"
+    },
+    {
+      "t": 2906.34,
+      "text": "For how Phil Knight turned a small sneaker import business into one of the most recognizable"
+    },
+    {
+      "t": 2912.26,
+      "text": "brands in the world."
+    },
+    {
+      "t": 2915.28,
+      "text": "Stay with me, because today we are diving deep into the fascinating journey of Nike, its"
+    },
+    {
+      "t": 2922.08,
+      "text": "challenges, innovations, and strategies that made it a global leader in sportswear."
+    },
+    {
+      "t": 2929.99,
+      "text": "By the end of this video, you will not only know Nike's history, but also learn lessons"
+    },
+    {
+      "t": 2936.31,
+      "text": "about perseverance, branding, innovation, and thinking big."
+    },
+    {
+      "t": 2942.87,
+      "text": "So let's get started."
+    },
+    {
+      "t": 2946.07,
+      "text": "Our story begins in 1962."
+    },
+    {
+      "t": 2950.62,
+      "text": "Phil Knight was a young man who had just graduated from business school."
+    },
+    {
+      "t": 2956.6,
+      "text": "He loved running and had a passion for sports."
+    },
+    {
+      "t": 2961.28,
+      "text": "While traveling, he discovered high quality, low-cost running shoes being made in Japan"
+    },
+    {
+      "t": 2967.64,
+      "text": "by a company called Onesuka Tiger."
+    },
+    {
+      "t": 2971.91,
+      "text": "Knight saw an opportunity."
+    },
+    {
+      "t": 2975.02,
+      "text": "He believed that he could sell these shoes in the United States at a competitive price"
+    },
+    {
+      "t": 2980.3,
+      "text": "and grow a business around athletic footwear."
+    },
+    {
+      "t": 2984.73,
+      "text": "With just $1,000 borrowed from his father, he co-founded Blue Ribbon Sports, a small"
+    },
+    {
+      "t": 2991.77,
+      "text": "company that imported and sold Japanese running shoes."
+    },
+    {
+      "t": 2997.17,
+      "text": "But first, it was a struggle."
+    },
+    {
+      "t": 3001.34,
+      "text": "Sales were slow, and the market for running shoes in America was small."
+    },
+    {
+      "t": 3007.92,
+      "text": "Knight traveled constantly, building relationships with retailers, convincing people that running"
+    },
+    {
+      "t": 3014.64,
+      "text": "shoes could improve performance and comfort."
+    },
+    {
+      "t": 3019.09,
+      "text": "In 1971, Blue Ribbon Sports decided to launch its own brand of shoes."
+    },
+    {
+      "t": 3027.21,
+      "text": "That's when the name Nike was born, inspired by the Greek goddess of victory."
+    },
+    {
+      "t": 3033.74,
+      "text": "The company also introduced the slush logo, designed by a young student named Carolyn"
+    },
+    {
+      "t": 3040.08,
+      "text": "Davidson for just $35."
+    },
+    {
+      "t": 3045.12,
+      "text": "Nike faced enormous challenges in the 1970s."
+    },
+    {
+      "t": 3050.79,
+      "text": "Producing shoes at scale was difficult, cash flow was tight, and larger competitors"
+    },
+    {
+      "t": 3056.83,
+      "text": "like Adidas and Puma dominated the market."
+    },
+    {
+      "t": 3061.38,
+      "text": "But Knight and his team focused on quality, innovation, and athlete partnerships."
+    },
+    {
+      "t": 3068.94,
+      "text": "They signed up professional runners and athletes to promote the shoes, showing that Nike was"
+    },
+    {
+      "t": 3075.02,
+      "text": "a brand associated with performance and excellence."
+    },
+    {
+      "t": 3080.34,
+      "text": "Nike's first big breakthrough came with the Nike Cortez running shoe, released during"
+    },
+    {
+      "t": 3086.58,
+      "text": "the 1972 Olympics. Athletes loved it and sales skyrocketed. Nike became known for innovative"
+    },
+    {
+      "t": 3097.62,
+      "text": "designs, comfort and style, setting it apart from competitors. But Phil Knight didn't"
+    },
+    {
+      "t": 3106.05,
+      "text": "stop there. He realized that marketing and branding were just as important as product"
+    },
+    {
+      "t": 3112.91,
+      "text": "quality. Nike invested in advertising campaigns that inspired and motivated people, not just"
+    },
+    {
+      "t": 3121.66,
+      "text": "sold shoes. The just do it slogan introduced in 1988 became a global phenomenon. It captured"
+    },
+    {
+      "t": 3133.11,
+      "text": "the essence of motivation, determination and personal achievement, connecting Nike with"
+    },
+    {
+      "t": 3139.91,
+      "text": "millions of athletes and everyday people alike. Nike also embraced innovation in product design."
+    },
+    {
+      "t": 3150.15,
+      "text": "They developed lightweight shoes, cushioning technology, and specialized footwear for different"
+    },
+    {
+      "t": 3156.91,
+      "text": "sports. Nike constantly adapted to trends and listened to athletes, ensuring their"
+    },
+    {
+      "t": 3164.59,
+      "text": "products met performance needs. By the 1990s, Nike had become a dominant global brand,"
+    },
+    {
+      "t": 3173.55,
+      "text": "sponsoring top athletes like Michael Jordan, Tiger Woods, and Serena Williams."
+    },
+    {
+      "t": 3181.23,
+      "text": "The launch of the Air Jordan line revolutionized sports marketing and created a massive cultural"
+    },
+    {
+      "t": 3188.03,
+      "text": "impact. Nike's strategies for success provide powerful business lessons. Take risks early,"
+    },
+    {
+      "t": 3197.97,
+      "text": "fill night borrowed money and started a business with almost nothing. Innovate constantly,"
+    },
+    {
+      "t": 3205.52,
+      "text": "product development and technology set Nike apart. Build a strong brand, marketing, slogans,"
+    },
+    {
+      "t": 3215.23,
+      "text": "and athlete endorsements created an emotional connection with customers."
+    },
+    {
+      "t": 3221.47,
+      "text": "Adapt and expand, Nike diversified into apparel, equipment, and international markets."
+    },
+    {
+      "t": 3230.54,
+      "text": "Persistence pays off, Nike faced financial struggles, production challenges,"
+    },
+    {
+      "t": 3237.66,
+      "text": "and fierce competition, but never gave up."
+    },
+    {
+      "t": 3240.94,
+      "text": "Today, Nike is worth over $200 billion, employs thousands worldwide, and is a leader in sportswear,"
+    },
+    {
+      "t": 3252.07,
+      "text": "shoes, and athletic gear."
+    },
+    {
+      "t": 3256.01,
+      "text": "From a small importer of Japanese running shoes to a global sports empire, Nike's story"
+    },
+    {
+      "t": 3262.57,
+      "text": "is a testament to vision, persistence, and bold marketing."
+    },
+    {
+      "t": 3268.62,
+      "text": "Bill Knight's journey teaches us that success is not just about having a good product, it's"
+    },
+    {
+      "t": 3274.5,
+      "text": "about innovation, branding, and never giving up even when the odds are against you."
+    },
+    {
+      "t": 3282.3,
+      "text": "Nike didn't just sell shoes, it inspired people to push limits, achieve goals, and embrace"
+    },
+    {
+      "t": 3289.54,
+      "text": "athletic excellence."
+    },
+    {
+      "t": 3292.7,
+      "text": "Its story proves that even a small idea, nurtured with hard work and vision, can"
+    },
+    {
+      "t": 3298.58,
+      "text": "become a global powerhouse. This story is more than business history. It's a lesson"
+    },
+    {
+      "t": 3305.88,
+      "text": "in risk-taking, creativity, and determination. Phil Knight's life shows that with passion,"
+    },
+    {
+      "t": 3314.48,
+      "text": "persistence, and strategic thinking, you can overcome obstacles and build something"
+    },
+    {
+      "t": 3320.7,
+      "text": "legendary. From a small shoe company in the 1960s to a global sportswear empire,"
+    },
+    {
+      "t": 3328.85,
+      "text": "Nike proves that bold ideas, smart execution, and a strong brand can change the world."
+    },
+    {
+      "t": 3337.71,
+      "text": "Everybody knows Nike, one of the biggest sports brands in the world."
+    },
+    {
+      "t": 3343.58,
+      "text": "But do you know how Nike became the giant it is today?"
+    },
+    {
+      "t": 3348.46,
+      "text": "Do you know the struggles, risks, and clever strategies behind its rise?"
+    },
+    {
+      "t": 3355.33,
+      "text": "Stay with me because today we are diving deep into the fascinating journey of Nike from"
+    },
+    {
+      "t": 3361.97,
+      "text": "a small idea to a global sports empire."
+    },
+    {
+      "t": 3366.66,
+      "text": "By the end of this video you will not only know Nike's history but also learn valuable"
+    },
+    {
+      "t": 3373.02,
+      "text": "lessons about business, success and determination."
+    },
+    {
+      "t": 3379.06,
+      "text": "So let's get started."
+    },
+    {
+      "t": 3382.26,
+      "text": "Our story begins in the 1960s in the United States."
+    },
+    {
+      "t": 3387.8,
+      "text": "A young man named Phil Knight had a passion for running."
+    },
+    {
+      "t": 3393.2,
+      "text": "Born in 1938 in Oregon, USA, Phil loved athletics but also dreamed of doing something big in"
+    },
+    {
+      "t": 3401.64,
+      "text": "life."
+    },
+    {
+      "t": 3403.75,
+      "text": "After graduating from college, Phil went on a world tour."
+    },
+    {
+      "t": 3409.45,
+      "text": "During his travels, he discovered something interesting."
+    },
+    {
+      "t": 3414.17,
+      "text": "Japanese running shoes were lightweight, high quality, and affordable."
+    },
+    {
+      "t": 3420.23,
+      "text": "He realized that American runners were paying too much for heavy, expensive shoes."
+    },
+    {
+      "t": 3427.75,
+      "text": "And that's when he had a big idea."
+    },
+    {
+      "t": 3430.59,
+      "text": "Import these Japanese shoes to the U.S."
+    },
+    {
+      "t": 3434.79,
+      "text": "And sell them to athletes."
+    },
+    {
+      "t": 3438.03,
+      "text": "In 1964, Phil Knight partnered with his former track coach, Bill Bowerman, and founded a"
+    },
+    {
+      "t": 3445.71,
+      "text": "company called Blue Ribbon Sports."
+    },
+    {
+      "t": 3449.86,
+      "text": "Their mission was simple, provide high-quality shoes for runners at reasonable prices."
+    },
+    {
+      "t": 3457.61,
+      "text": "At first, it was a small operation."
+    },
+    {
+      "t": 3462.18,
+      "text": "Phil sold shoes out of his car at track meets."
+    },
+    {
+      "t": 3467.04,
+      "text": "Bauerman experimented with shoe designs in his kitchen, even creating a revolutionary soul"
+    },
+    {
+      "t": 3473.76,
+      "text": "by pouring rubber into his waffle iron, which would later inspire Nike's iconic waffle soul."
+    },
+    {
+      "t": 3482.07,
+      "text": "The company faced struggles early on. Competition was fierce, and profits were small."
+    },
+    {
+      "t": 3491.32,
+      "text": "But Phil and Bill were relentless, working day and night to grow their brand."
+    },
+    {
+      "t": 3496.84,
+      "text": "In 1971, blue ribbon sports needed a new identity."
+    },
+    {
+      "t": 3503.32,
+      "text": "Phil wanted a name that symbolized speed, movement, and victory."
+    },
+    {
+      "t": 3509.96,
+      "text": "Inspired by the Greek goddess of victory, they chose the name Nike."
+    },
+    {
+      "t": 3516.4,
+      "text": "Along with the name, Nike introduced the famous swoosh logo,"
+    },
+    {
+      "t": 3521.92,
+      "text": "designed by a student named Carolyn Davidson."
+    },
+    {
+      "t": 3525.92,
+      "text": "She was paid just $35 at the time, not knowing the logo would become one of the most recognized"
+    },
+    {
+      "t": 3534.89,
+      "text": "symbols in the world."
+    },
+    {
+      "t": 3538.11,
+      "text": "Nike's first breakthrough came with innovative marketing."
+    },
+    {
+      "t": 3543.06,
+      "text": "Unlike other shoe companies, Nike focused on athletes and performance."
+    },
+    {
+      "t": 3549.82,
+      "text": "They signed endorsement deals with runners, football players, and eventually basketball"
+    },
+    {
+      "t": 3556.18,
+      "text": "stars."
+    },
+    {
+      "t": 3558.3,
+      "text": "The game changer came in 1984."
+    },
+    {
+      "t": 3562.45,
+      "text": "Nike signed a young, promising basketball player named Michael Jordan."
+    },
+    {
+      "t": 3568.99,
+      "text": "Together, they launched the Air Jordan line, which revolutionized basketball shoes and"
+    },
+    {
+      "t": 3575.67,
+      "text": "sneaker culture."
+    },
+    {
+      "t": 3578.38,
+      "text": "The Air Jordan shoes weren't just footwear, they were status symbols."
+    },
+    {
+      "t": 3585.09,
+      "text": "People lined up for hours to buy them."
+    },
+    {
+      "t": 3588.68,
+      "text": "Nike had successfully created desirability and brand loyalty."
+    },
+    {
+      "t": 3595.07,
+      "text": "Nike didn't stop there."
+    },
+    {
+      "t": 3598.18,
+      "text": "They invested in technology and innovation."
+    },
+    {
+      "t": 3602.7,
+      "text": "They developed air cushioning, lightweight materials,"
+    },
+    {
+      "t": 3606.78,
+      "text": "and designs that improved athletic performance."
+    },
+    {
+      "t": 3611.46,
+      "text": "Marketing also played a crucial role."
+    },
+    {
+      "t": 3615.52,
+      "text": "Nike's slogan, Just Do It, launched in 1988"
+    },
+    {
+      "t": 3620.52,
+      "text": "became a global mantra. It wasn't just selling shoes, it was selling inspiration, determination,"
+    },
+    {
+      "t": 3629.73,
+      "text": "and achievement. But success didn't come easy."
+    },
+    {
+      "t": 3635.79,
+      "text": "Nike faced controversies and challenges. In the 1990s, reports about poor working conditions"
+    },
+    {
+      "t": 3644.59,
+      "text": "in factories abroad threatened the brand's reputation."
+    },
+    {
+      "t": 3649.98,
+      "text": "Nike responded by improving labor standards, increasing transparency, and focusing on sustainability."
+    },
+    {
+      "t": 3659.78,
+      "text": "These moves allowed Nike to maintain trust and continue growing globally."
+    },
+    {
+      "t": 3666.53,
+      "text": "Nike's strategies for becoming a global empire can be summarized in key lessons."
+    },
+    {
+      "t": 3673.62,
+      "text": "Innovation, constantly improving product design and performance."
+    },
+    {
+      "t": 3680.42,
+      "text": "Mastery, Connecting with Athletes and Inspiring Consumers, Branding, Creating a Recognizable"
+    },
+    {
+      "t": 3689.46,
+      "text": "Logo and Slogan that Symbolize Achievement, Strategic Endorsements, Partnering with Athletes"
+    },
+    {
+      "t": 3697.75,
+      "text": "to Create Demand, Global Expansion, Adapting to Markets Worldwide while Maintaining Brand"
+    },
+    {
+      "t": 3706.01,
+      "text": "identity. Today, Nike has over $50 billion in annual revenue, employs hundreds of thousands"
+    },
+    {
+      "t": 3715.55,
+      "text": "globally, and serves millions of customers every day."
+    },
+    {
+      "t": 3721.19,
+      "text": "From selling shoes out of a car to becoming a global sports and lifestyle brand, Nike's"
+    },
+    {
+      "t": 3727.37,
+      "text": "story is a testament to vision, persistence, and bold action."
+    },
+    {
+      "t": 3733.81,
+      "text": "The story of Nike is more than just a business story, it's a lesson in resilience, creativity,"
+    },
+    {
+      "t": 3741.69,
+      "text": "and thinking big."
+    },
+    {
+      "t": 3744.24,
+      "text": "Phil Knight and Bill Bowerman started with a simple idea and a passion for running, yet"
+    },
+    {
+      "t": 3750.04,
+      "text": "through innovation, strategy, and courage, they built one of the most iconic brands"
+    },
+    {
+      "t": 3756.64,
+      "text": "in history."
+    },
+    {
+      "t": 3758.91,
+      "text": "If you work hard, think smart, and take calculated risks, you too can achieve extraordinary success."
+    },
+    {
+      "t": 3768.49,
+      "text": "Just like Nike, even small ideas, when nurtured with vision and determination, can turn into"
+    },
+    {
+      "t": 3776.05,
+      "text": "legendary empires."
+    },
+    {
+      "t": 3779.7,
+      "text": "Everybody knows Tesla, the electric car company that has changed the way the world"
+    },
+    {
+      "t": 3784.74,
+      "text": "thinks about cars."
+    },
+    {
+      "t": 3787.58,
+      "text": "But do you know how Tesla became one of the most valuable car companies in the world?"
+    },
+    {
+      "t": 3794.25,
+      "text": "Or how Elon Musk turned a risky idea into a revolutionary business?"
+    },
+    {
+      "t": 3801.14,
+      "text": "Stay with me, because today we are diving deep into the fascinating journey of Tesla,"
+    },
+    {
+      "t": 3807.84,
+      "text": "its struggles, innovations, and the bold strategies that made it a global powerhouse."
+    },
+    {
+      "t": 3815.69,
+      "text": "By the end of this video, you will not only know Tesla's history, but also learn valuable"
+    },
+    {
+      "t": 3822.13,
+      "text": "lessons about vision, risk-taking, and perseverance."
+    },
+    {
+      "t": 3828.03,
+      "text": "So let's get started."
+    },
+    {
+      "t": 3831.23,
+      "text": "Our story begins in the early 2000s."
+    },
+    {
+      "t": 3836.14,
+      "text": "Electric cars were considered a niche market, and many people thought they would never"
+    },
+    {
+      "t": 3841.02,
+      "text": "be practical."
+    },
+    {
+      "t": 3843.5,
+      "text": "The idea of an electric car company seemed risky, expensive, and even impossible."
+    },
+    {
+      "t": 3851.44,
+      "text": "But a group of engineers, including Martin Eberhard and Mark Tarpenning, believed in"
+    },
+    {
+      "t": 3857.44,
+      "text": "the potential of electric vehicles."
+    },
+    {
+      "t": 3861.19,
+      "text": "They wanted to create a high-performance, stylish electric car."
+    },
+    {
+      "t": 3867.07,
+      "text": "In 2003, they founded Tesla Motors with a clear goal, proved that electric cars could"
+    },
+    {
+      "t": 3873.99,
+      "text": "compete with gasoline cars. Early on, Tesla faced enormous challenges. Technology was expensive."
+    },
+    {
+      "t": 3886.22,
+      "text": "Batteries were heavy and inefficient. Investors were skeptical."
+    },
+    {
+      "t": 3893.21,
+      "text": "And competing with established car companies felt like trying to climb a mountain without gear."
+    },
+    {
+      "t": 3900.52,
+      "text": "In 2004, Elon Musk joined Tesla as an investor and chairman of the board."
+    },
+    {
+      "t": 3907.0,
+      "text": "Musk had already made his fortune with PayPal, but he was passionate about sustainable energy"
+    },
+    {
+      "t": 3914.85,
+      "text": "and ambitious projects."
+    },
+    {
+      "t": 3918.12,
+      "text": "He saw Tesla as more than a car company, he wanted to change the world."
+    },
+    {
+      "t": 3925.26,
+      "text": "Tesla's first car, the Roadster, launched in 2008."
+    },
+    {
+      "t": 3931.08,
+      "text": "It was fast, sleek, and fully electric, but building it was extremely difficult."
+    },
+    {
+      "t": 3939.11,
+      "text": "The company faced production delays, technical failures, and financial crises."
+    },
+    {
+      "t": 3946.83,
+      "text": "Elon Musk invested his own money, often putting millions of dollars at risk to keep the company"
+    },
+    {
+      "t": 3953.87,
+      "text": "alive."
+    },
+    {
+      "t": 3955.88,
+      "text": "At one point, Tesla had just enough money to last a few weeks."
+    },
+    {
+      "t": 3962.0,
+      "text": "The future was uncertain, and failure was a real possibility."
+    },
+    {
+      "t": 3968.1,
+      "text": "But Musk and the Tesla team refused to give up."
+    },
+    {
+      "t": 3972.75,
+      "text": "They solved engineering problems, improved battery technology, and streamlined production."
+    },
+    {
+      "t": 3980.98,
+      "text": "Slowly, Tesla proved that electric cars could be desirable, reliable, and hyperforming."
+    },
+    {
+      "t": 3989.9,
+      "text": "In 2012, Tesla launched the Model S, a luxury electric sedan that captured the world's"
+    },
+    {
+      "t": 3997.74,
+      "text": "attention."
+    },
+    {
+      "t": 3999.78,
+      "text": "It wasn't just a car, it was a statement."
+    },
+    {
+      "t": 4004.67,
+      "text": "Sleep design, long battery range, fast acceleration, and high-tech features set Tesla apart."
+    },
+    {
+      "t": 4013.86,
+      "text": "Tesla didn't just innovate cars, it revolutionized the industry."
+    },
+    {
+      "t": 4020.3,
+      "text": "They introduced over-the-air software updates, autopilot technology, and a direct-to-consumer"
+    },
+    {
+      "t": 4027.26,
+      "text": "sales model, cutting out traditional dealerships. Marketing also played a crucial role. Tesla"
+    },
+    {
+      "t": 4036.97,
+      "text": "didn't rely on traditional advertising. Instead, they built a brand associated with innovation,"
+    },
+    {
+      "t": 4045.95,
+      "text": "luxury, and sustainability. Every launch, every event, and every social media post"
+    },
+    {
+      "t": 4054.43,
+      "text": "was a lesson in creating hype and loyalty, but Tesla's journey was never smooth."
+    },
+    {
+      "t": 4063.03,
+      "text": "The company-faced production bottlenecks with the Model 3 struggles with cash flow and skepticism"
+    },
+    {
+      "t": 4070.67,
+      "text": "from critics who doubted electric cars could go mainstream."
+    },
+    {
+      "t": 4075.84,
+      "text": "Elon Musk famously slept in the Tesla factory to oversee production and motivate employees."
+    },
+    {
+      "t": 4084.22,
+      "text": "He embraced risk, worked tirelessly, and stayed obsessed with solving problems."
+    },
+    {
+      "t": 4091.82,
+      "text": "By 2020, Tesla became the world's most valuable car company, surpassing traditional giants"
+    },
+    {
+      "t": 4099.28,
+      "text": "like Ford and General Motors."
+    },
+    {
+      "t": 4102.93,
+      "text": "It proved that vision, persistence, and innovation could disrupt even the largest, most-established"
+    },
+    {
+      "t": 4110.91,
+      "text": "industries."
+    },
+    {
+      "t": 4112.95,
+      "text": "Tesla's strategies for success provide powerful business lessons."
+    },
+    {
+      "t": 4119.1,
+      "text": "Think big and aim to change the world."
+    },
+    {
+      "t": 4122.14,
+      "text": "Tesla wasn't just making cars."
+    },
+    {
+      "t": 4124.94,
+      "text": "It was solving global energy challenges."
+    },
+    {
+      "t": 4129.18,
+      "text": "Embrace risk."
+    },
+    {
+      "t": 4130.7,
+      "text": "Elon Musk risked personal fortune to save Tesla."
+    },
+    {
+      "t": 4135.93,
+      "text": "Innovate relentlessly."
+    },
+    {
+      "t": 4138.09,
+      "text": "Electric cars, autopilot, direct sales, and battery technology."
+    },
+    {
+      "t": 4144.49,
+      "text": "Build a strong brand. Tesla represents innovation, performance, and sustainability."
+    },
+    {
+      "t": 4153.0,
+      "text": "Solve problems with persistence, production delays, technical failures, and financial crises didn't stop Tesla."
+    },
+    {
+      "t": 4163.54,
+      "text": "Today, Tesla doesn't just sell cars."
+    },
+    {
+      "t": 4168.09,
+      "text": "It manufactures solar panels, energy storage systems, and even spacecraft technology through SpaceX,"
+    },
+    {
+      "t": 4178.54,
+      "text": "showing that vision and persistence can expand into multiple industries."
+    },
+    {
+      "t": 4183.54,
+      "text": "Tesla's story is more than a business success story."
+    },
+    {
+      "t": 4188.08,
+      "text": "It's a lesson in dreaming big, staying persistent, and never fearing failure."
+    },
+    {
+      "t": 4195.59,
+      "text": "failure. It proves that even against overwhelming odds, determination and innovation can create"
+    },
+    {
+      "t": 4203.5,
+      "text": "a global empire."
+    },
+    {
+      "t": 4206.45,
+      "text": "From a small startup with a risky idea to a company worth hundreds of billions of dollars,"
+    },
+    {
+      "t": 4213.21,
+      "text": "Tesla has transformed the automotive world and inspired millions to think differently."
+    },
+    {
+      "t": 4219.84,
+      "text": "The story of Tesla teaches us that success is not about avoiding failure, it's about"
+    },
+    {
+      "t": 4225.84,
+      "text": "embracing challenges, taking bold risks, and pushing beyond limits."
+    },
+    {
+      "t": 4232.93,
+      "text": "If you work hard, think strategically, and stay committed to your vision, even a small"
+    },
+    {
+      "t": 4239.17,
+      "text": "idea can become revolutionary."
+    },
+    {
+      "t": 4242.95,
+      "text": "Tesla started as an ambitious dream."
+    },
+    {
+      "t": 4246.07,
+      "text": "Today, it's a symbol of innovation, persistence, and the power of thinking big."
+    },
+    {
+      "t": 4254.39,
+      "text": "Everybody knows Apple."
+    },
+    {
+      "t": 4256.93,
+      "text": "But do you know how Apple became one of the most valuable companies in the world?"
+    },
+    {
+      "t": 4263.08,
+      "text": "Or how Steve Jobs, a college dropout, turned a small garage project into a global technology"
+    },
+    {
+      "t": 4270.6,
+      "text": "empire?"
+    },
+    {
+      "t": 4272.9,
+      "text": "Stay with me, because today we are diving deep into the fascinating journey of Apple,"
+    },
+    {
+      "t": 4279.42,
+      "text": "its struggles, innovations, failures, and the powerful strategies that made it a"
+    },
+    {
+      "t": 4285.54,
+      "text": "a worldwide icon. By the end of this video, you will not only understand Apple's history,"
+    },
+    {
+      "t": 4293.86,
+      "text": "but also learn lessons about innovation, vision, resilience, and leadership. So let's get started."
+    },
+    {
+      "t": 4304.64,
+      "text": "Our story begins in 1976 in Cupertino, California. Two young men, Steve Jobs and Steve Wozniak,"
+    },
+    {
+      "t": 4315.85,
+      "text": "passionate about electronics and computing. Jobs was ambitious, full of ideas, and obsessed"
+    },
+    {
+      "t": 4324.63,
+      "text": "with design."
+    },
+    {
+      "t": 4327.11,
+      "text": "Wozniak was a genius engineer who could turn ideas into working machines. Together, they"
+    },
+    {
+      "t": 4334.87,
+      "text": "started Apple in Jobs' parents' garage. Their first product, the Apple One, was a simple"
+    },
+    {
+      "t": 4343.04,
+      "text": "computer kit. It wasn't fancy, but it worked. They sold it to computer enthusiasts, hobbyists,"
+    },
+    {
+      "t": 4353.76,
+      "text": "and small businesses. This was the birth of Apple, a company that would eventually change"
+    },
+    {
+      "t": 4361.0,
+      "text": "the way the world interacts with technology. In 1977, they introduced the Apple II, a"
+    },
+    {
+      "t": 4370.12,
+      "text": "fully assembled personal computer with color graphics."
+    },
+    {
+      "t": 4375.28,
+      "text": "It was a huge success, making Apple a serious player"
+    },
+    {
+      "t": 4379.68,
+      "text": "in the tech industry."
+    },
+    {
+      "t": 4382.27,
+      "text": "But success didn't come without challenges."
+    },
+    {
+      "t": 4386.66,
+      "text": "The computer market was competitive"
+    },
+    {
+      "t": 4389.42,
+      "text": "and Apple needed to innovate constantly."
+    },
+    {
+      "t": 4393.48,
+      "text": "Jobs obsession with perfection sometimes caused conflicts"
+    },
+    {
+      "t": 4397.74,
+      "text": "with employees and investors,"
+    },
+    {
+      "t": 4400.22,
+      "text": "but it also drove the company to create products"
+    },
+    {
+      "t": 4403.3,
+      "text": "that were revolutionary, not just functional."
+    },
+    {
+      "t": 4407.72,
+      "text": "The 1980s brought both triumph and turmoil."
+    },
+    {
+      "t": 4412.59,
+      "text": "Apple launched the Macintosh in 1984,"
+    },
+    {
+      "t": 4416.23,
+      "text": "introducing a graphical user interface and a mouse,"
+    },
+    {
+      "t": 4420.31,
+      "text": "innovations that made computing accessible"
+    },
+    {
+      "t": 4423.05,
+      "text": "to ordinary people, not just tech experts."
+    },
+    {
+      "t": 4427.87,
+      "text": "The launch was historic with the famous 1984 commercial directed by Ridley Scott, which"
+    },
+    {
+      "t": 4436.27,
+      "text": "aired during the Super Bowl."
+    },
+    {
+      "t": 4439.6,
+      "text": "It portrayed Apple as a rebel against conformity, symbolizing innovation and creativity."
+    },
+    {
+      "t": 4447.52,
+      "text": "However, internal conflicts led to Steve Jobs leaving Apple in 1985."
+    },
+    {
+      "t": 4456.23,
+      "text": "Many thought this was the end of the visionary leader, but Jobs' journey was far from over."
+    },
+    {
+      "t": 4463.74,
+      "text": "During his time away from Apple, Jobs founded Next, a computer company focused on high-end"
+    },
+    {
+      "t": 4470.38,
+      "text": "machines for education and business."
+    },
+    {
+      "t": 4474.54,
+      "text": "He also acquired Pixar, turning it into the most successful animation studio in history,"
+    },
+    {
+      "t": 4481.74,
+      "text": "producing hits like Toy Story."
+    },
+    {
+      "t": 4485.41,
+      "text": "These experiences taught Jobs important lessons about business, technology, storytelling, and"
+    },
+    {
+      "t": 4493.07,
+      "text": "leadership, which he would later bring back to Apple."
+    },
+    {
+      "t": 4497.95,
+      "text": "In 1997, Apple was struggling."
+    },
+    {
+      "t": 4502.73,
+      "text": "The company was near bankruptcy, losing millions, and products weren't selling."
+    },
+    {
+      "t": 4510.11,
+      "text": "That's when Steve Jobs returned."
+    },
+    {
+      "t": 4513.74,
+      "text": "He brought a clear vision, Apple must focus on innovation, simplicity, and design excellence."
+    },
+    {
+      "t": 4523.13,
+      "text": "Jobs made bold moves, he cut unnecessary products, streamlined the product line, and focused"
+    },
+    {
+      "t": 4530.63,
+      "text": "on creating devices that people loved."
+    },
+    {
+      "t": 4534.84,
+      "text": "His philosophy was simple, design is not just what it looks like."
+    },
+    {
+      "t": 4541.55,
+      "text": "Design is how it works."
+    },
+    {
+      "t": 4544.34,
+      "text": "The result?"
+    },
+    {
+      "t": 4546.42,
+      "text": "The iMac, introduced in 1998, became an instant hit."
+    },
+    {
+      "t": 4553.31,
+      "text": "Its colorful design, easy to use interface, and unique look made Apple cool again."
+    },
+    {
+      "t": 4561.11,
+      "text": "But Jobs didn't stop there."
+    },
+    {
+      "t": 4564.5,
+      "text": "He revolutionized music with the iPod and iTunes, smartphones with the iPhone, tablets"
+    },
+    {
+      "t": 4571.58,
+      "text": "with the iPad, and smartwatches with the Apple Watch."
+    },
+    {
+      "t": 4577.34,
+      "text": "Each product wasn't just a device, it was a statement about innovation, simplicity,"
+    },
+    {
+      "t": 4584.22,
+      "text": "and lifestyle."
+    },
+    {
+      "t": 4586.83,
+      "text": "Apple's strategies for becoming a global tech leader can be summarized in key lessons."
+    },
+    {
+      "t": 4594.1,
+      "text": "Think differently, Apple didn't just make products, it created experiences."
+    },
+    {
+      "t": 4601.86,
+      "text": "and simplicity, jobs cut unnecessary complexity to create intuitive products."
+    },
+    {
+      "t": 4610.7,
+      "text": "Innovation through design, every detail mattered, from hardware to software."
+    },
+    {
+      "t": 4617.73,
+      "text": "Build an ecosystem, iTunes, iCloud, App Store, and devices all connected seamlessly."
+    },
+    {
+      "t": 4627.52,
+      "text": "And loyalty, Apple customers weren't just buyers, they became lifelong fans."
+    },
+    {
+      "t": 4635.86,
+      "text": "Jobs also taught the importance of resilience."
+    },
+    {
+      "t": 4640.31,
+      "text": "He was fired, faced bankruptcy, and endured failures, yet he returned stronger, showing"
+    },
+    {
+      "t": 4648.09,
+      "text": "that setbacks are stepping stones to success."
+    },
+    {
+      "t": 4652.79,
+      "text": "Today, Apple is worth over $3 trillion, employs millions worldwide, and its products have shaped"
+    },
+    {
+      "t": 4661.43,
+      "text": "the way billions of people communicate, work, and entertain themselves."
+    },
+    {
+      "t": 4668.06,
+      "text": "From a small garage project to the most valuable technology company in history,"
+    },
+    {
+      "t": 4673.9,
+      "text": "Apple's story is a testament to vision, persistence, and relentless innovation."
+    },
+    {
+      "t": 4679.66,
+      "text": "The story of Apple teaches us that success is not just about ideas, it's about execution,"
+    },
+    {
+      "t": 4688.33,
+      "text": "design, persistence, and the courage to challenge the status quo."
+    },
+    {
+      "t": 4694.89,
+      "text": "If you work hard, stay focused, and never stop innovating, even a small idea can become"
+    },
+    {
+      "t": 4702.11,
+      "text": "a global revolution."
+    },
+    {
+      "t": 4705.4,
+      "text": "Apple didn't just make computers and phones, it changed the world."
+    },
+    {
+      "t": 4711.47,
+      "text": "This story is more than business history, it's a lesson in creativity, vision, and determination."
+    },
+    {
+      "t": 4720.18,
+      "text": "Steve Jobs' life proves that with passion, boldness, and persistence, you can overcome"
+    },
+    {
+      "t": 4727.06,
+      "text": "any challenge and build something legendary."
+    },
+    {
+      "t": 4731.48,
+      "text": "From a garage in California to a trillion-dollar empire, Apple's story shows that innovation"
+    },
+    {
+      "t": 4738.2,
+      "text": "and dedication can turn dreams into reality."
+    }
+  ],
+  "lemmas": [
+    [
+      "tesla",
+      59
+    ],
+    [
+      "innovation",
+      51
+    ],
+    [
+      "nike",
+      49
+    ],
+    [
+      "car",
+      46
+    ],
+    [
+      "apple",
+      46
+    ],
+    [
+      "story",
+      45
+    ],
+    [
+      "small",
+      40
+    ],
+    [
+      "company",
+      39
+    ],
+    [
+      "world",
+      38
+    ],
+    [
+      "brand",
+      36
+    ],
+    [
+      "global",
+      36
+    ],
+    [
+      "know",
+      34
+    ],
+    [
+      "business",
+      33
+    ],
+    [
+      "success",
+      33
+    ],
+    [
+      "think",
+      33
+    ],
+    [
+      "vision",
+      33
+    ],
+    [
+      "lesson",
+      32
+    ],
+    [
+      "job",
+      32
+    ],
+    [
+      "mcdonald",
+      31
+    ],
+    [
+      "idea",
+      31
+    ],
+    [
+      "sho",
+      31
+    ],
+    [
+      "technology",
+      30
+    ],
+    [
+      "product",
+      30
+    ],
+    [
+      "also",
+      28
+    ],
+    [
+      "design",
+      28
+    ],
+    [
+      "became",
+      27
+    ],
+    [
+      "today",
+      26
+    ],
+    [
+      "make",
+      26
+    ],
+    [
+      "work",
+      25
+    ],
+    [
+      "persistence",
+      25
+    ],
+    [
+      "person",
+      24
+    ],
+    [
+      "even",
+      24
+    ],
+    [
+      "market",
+      24
+    ],
+    [
+      "empire",
+      23
+    ],
+    [
+      "history",
+      23
+    ],
+    [
+      "amazon",
+      23
+    ],
+    [
+      "start",
+      22
+    ],
+    [
+      "electric",
+      22
+    ],
+    [
+      "one",
+      21
+    ],
+    [
+      "strategi",
+      21
+    ],
+    [
+      "big",
+      21
+    ],
+    [
+      "creat",
+      21
+    ],
+    [
+      "disney",
+      20
+    ],
+    [
+      "stay",
+      19
+    ],
+    [
+      "want",
+      19
+    ],
+    [
+      "risk",
+      19
+    ],
+    [
+      "sell",
+      19
+    ],
+    [
+      "phil",
+      19
+    ],
+    [
+      "customer",
+      18
+    ],
+    [
+      "million",
+      18
+    ],
+    [
+      "focus",
+      18
+    ],
+    [
+      "every",
+      17
+    ],
+    [
+      "introduc",
+      17
+    ],
+    [
+      "struggl",
+      17
+    ],
+    [
+      "sport",
+      17
+    ],
+    [
+      "launch",
+      17
+    ],
+    [
+      "journey",
+      16
+    ],
+    [
+      "restaurant",
+      16
+    ],
+    [
+      "run",
+      16
+    ],
+    [
+      "create",
+      16
+    ],
+    [
+      "first",
+      16
+    ],
+    [
+      "nik",
+      16
+    ],
+    [
+      "turn",
+      16
+    ],
+    [
+      "build",
+      15
+    ],
+    [
+      "challeng",
+      15
+    ],
+    [
+      "prov",
+      15
+    ],
+    [
+      "bold",
+      14
+    ],
+    [
+      "determination",
+      14
+    ],
+    [
+      "knight",
+      14
+    ],
+    [
+      "fac",
+      14
+    ],
+    [
+      "musk",
+      14
+    ],
+    [
+      "brother",
+      13
+    ],
+    [
+      "ray",
+      13
+    ],
+    [
+      "valuable",
+      13
+    ],
+    [
+      "new",
+      13
+    ],
+    [
+      "dream",
+      13
+    ],
+    [
+      "someth",
+      13
+    ],
+    [
+      "athlet",
+      13
+    ],
+    [
+      "end",
+      12
+    ],
+    [
+      "begin",
+      12
+    ],
+    [
+      "production",
+      12
+    ],
+    [
+      "worldwide",
+      12
+    ],
+    [
+      "creativity",
+      12
+    ],
+    [
+      "steve",
+      12
+    ],
+    [
+      "computer",
+      12
+    ],
+    [
+      "walt",
+      12
+    ],
+    [
+      "video",
+      11
+    ],
+    [
+      "learn",
+      11
+    ],
+    [
+      "get",
+      11
+    ],
+    [
+      "come",
+      11
+    ],
+    [
+      "revolutionary",
+      11
+    ],
+    [
+      "inspir",
+      11
+    ],
+    [
+      "change",
+      11
+    ],
+    [
+      "performance",
+      11
+    ],
+    [
+      "bezo",
+      11
+    ],
+    [
+      "day",
+      10
+    ],
+    [
+      "improv",
+      10
+    ],
+    [
+      "everybody",
+      10
+    ],
+    [
+      "fast",
+      10
+    ],
+    [
+      "div",
+      10
+    ],
+    [
+      "deep",
+      10
+    ],
+    [
+      "fascinat",
+      10
+    ],
+    [
+      "many",
+      10
+    ],
+    [
+      "young",
+      10
+    ],
+    [
+      "time",
+      10
+    ],
+    [
+      "simple",
+      10
+    ],
+    [
+      "expand",
+      10
+    ],
+    [
+      "passion",
+      10
+    ],
+    [
+      "become",
+      10
+    ],
+    [
+      "stop",
+      10
+    ],
+    [
+      "elon",
+      10
+    ],
+    [
+      "never",
+      10
+    ],
+    [
+      "show",
+      10
+    ],
+    [
+      "garage",
+      10
+    ],
+    [
+      "mak",
+      9
+    ],
+    [
+      "billion",
+      9
+    ],
+    [
+      "food",
+      9
+    ],
+    [
+      "kroc",
+      9
+    ],
+    [
+      "powerful",
+      9
+    ],
+    [
+      "life",
+      9
+    ],
+    [
+      "problem",
+      9
+    ],
+    [
+      "revolutioniz",
+      9
+    ],
+    [
+      "early",
+      9
+    ],
+    [
+      "air",
+      9
+    ],
+    [
+      "failur",
+      9
+    ],
+    [
+      "failure",
+      9
+    ],
+    [
+      "money",
+      8
+    ],
+    [
+      "man",
+      8
+    ],
+    [
+      "nam",
+      8
+    ],
+    [
+      "california",
+      8
+    ],
+    [
+      "line",
+      8
+    ],
+    [
+      "huge",
+      8
+    ],
+    [
+      "relentless",
+      8
+    ],
+    [
+      "profit",
+      8
+    ],
+    [
+      "teach",
+      8
+    ],
+    [
+      "us",
+      8
+    ],
+    [
+      "bill",
+      8
+    ],
+    [
+      "found",
+      8
+    ],
+    [
+      "logo",
+      8
+    ],
+    [
+      "compani",
+      8
+    ],
+    [
+      "jordan",
+      8
+    ],
+    [
+      "invest",
+      8
+    ],
+    [
+      "hard",
+      8
+    ],
+    [
+      "investor",
+      8
+    ],
+    [
+      "project",
+      8
+    ],
+    [
+      "appl",
+      8
+    ],
+    [
+      "tech",
+      8
+    ],
+    [
+      "online",
+      8
+    ],
+    [
+      "dollar",
+      7
+    ],
+    [
+      "take",
+      7
+    ],
+    [
+      "way",
+      7
+    ],
+    [
+      "limit",
+      7
+    ],
+    [
+      "see",
+      7
+    ],
+    [
+      "model",
+      7
+    ],
+    [
+      "go",
+      7
+    ],
+    [
+      "sold",
+      7
+    ],
+    [
+      "built",
+      7
+    ],
+    [
+      "sal",
+      7
+    ],
+    [
+      "lov",
+      7
+    ],
+    [
+      "athletic",
+      7
+    ],
+    [
+      "runner",
+      7
+    ],
+    [
+      "provide",
+      7
+    ],
+    [
+      "name",
+      7
+    ],
+    [
+      "slogan",
+      7
+    ],
+    [
+      "constantly",
+      7
+    ],
+    [
+      "employ",
+      7
+    ],
+    [
+      "testament",
+      7
+    ],
+    [
+      "resilience",
+      7
+    ],
+    [
+      "risky",
+      7
+    ],
+    [
+      "ambitious",
+      7
+    ],
+    [
+      "innovate",
+      7
+    ],
+    [
+      "worth",
+      7
+    ],
+    [
+      "trust",
+      6
+    ],
+    [
+      "mov",
+      6
+    ],
+    [
+      "call",
+      6
+    ],
+    [
+      "serv",
+      6
+    ],
+    [
+      "important",
+      6
+    ],
+    [
+      "later",
+      6
+    ],
+    [
+      "machin",
+      6
+    ],
+    [
+      "need",
+      6
+    ],
+    [
+      "franchis",
+      6
+    ],
+    [
+      "japanese",
+      6
+    ],
+    [
+      "quality",
+      6
+    ],
+    [
+      "expensive",
+      6
+    ],
+    [
+      "blue",
+      6
+    ],
+    [
+      "ribbon",
+      6
+    ],
+    [
+      "shoe",
+      6
+    ],
+    [
+      "grow",
+      6
+    ],
+    [
+      "symbol",
+      6
+    ],
+    [
+      "player",
+      6
+    ],
+    [
+      "basketball",
+      6
+    ],
+    [
+      "loyalty",
+      6
+    ],
+    [
+      "sustainability",
+      6
+    ],
+    [
+      "becom",
+      6
+    ],
+    [
+      "engineer",
+      6
+    ],
+    [
+      "energy",
+      6
+    ],
+    [
+      "financial",
+      6
+    ],
+    [
+      "solv",
+      6
+    ],
+    [
+      "battery",
+      6
+    ],
+    [
+      "cut",
+      6
+    ],
+    [
+      "traditional",
+      6
+    ],
+    [
+      "leader",
+      6
+    ],
+    [
+      "animation",
+      6
+    ],
+    [
+      "studio",
+      6
+    ],
+    [
+      "experienc",
+      6
+    ],
+    [
+      "storytell",
+      6
+    ],
+    [
+      "simplicity",
+      6
+    ],
+    [
+      "entertainment",
+      6
+    ],
+    [
+      "year",
+      5
+    ],
+    [
+      "two",
+      5
+    ],
+    [
+      "born",
+      5
+    ],
+    [
+      "successful",
+      5
+    ],
+    [
+      "believ",
+      5
+    ],
+    [
+      "order",
+      5
+    ],
+    [
+      "burger",
+      5
+    ],
+    [
+      "instead",
+      5
+    ],
+    [
+      "character",
+      5
+    ],
+    [
+      "hundred",
+      5
+    ],
+    [
+      "expansion",
+      5
+    ],
+    [
+      "without",
+      5
+    ],
+    [
+      "full",
+      5
+    ],
+    [
+      "innovat",
+      5
+    ],
+    [
+      "key",
+      5
+    ],
+    [
+      "adapt",
+      5
+    ],
+    [
+      "giant",
+      5
+    ],
+    [
+      "lightweight",
+      5
+    ],
+    [
+      "bowerman",
+      5
+    ],
+    [
+      "iconic",
+      5
+    ],
+    [
+      "symboliz",
+      5
+    ],
+    [
+      "victory",
+      5
+    ],
+    [
+      "famous",
+      5
+    ],
+    [
+      "sign",
+      5
+    ],
+    [
+      "endorsement",
+      5
+    ],
+    [
+      "achievement",
+      5
+    ],
+    [
+      "easy",
+      5
+    ],
+    [
+      "connect",
+      5
+    ],
+    [
+      "yet",
+      5
+    ],
+    [
+      "legendary",
+      5
+    ],
+    [
+      "chang",
+      5
+    ],
+    [
+      "clear",
+      5
+    ],
+    [
+      "technical",
+      5
+    ],
+    [
+      "industry",
+      5
+    ],
+    [
+      "embrac",
+      5
+    ],
+    [
+      "industri",
+      5
+    ],
+    [
+      "personal",
+      5
+    ],
+    [
+      "transform",
+      5
+    ],
+    [
+      "leadership",
+      5
+    ],
+    [
+      "comput",
+      5
+    ],
+    [
+      "brought",
+      5
+    ],
+    [
+      "taught",
+      5
+    ],
+    [
+      "devic",
+      5
+    ],
+    [
+      "trillion",
+      5
+    ],
+    [
+      "overcome",
+      5
+    ],
+    [
+      "retail",
+      5
+    ],
+    [
+      "book",
+      5
+    ],
+    [
+      "experience",
+      5
+    ],
+    [
+      "theme",
+      5
+    ],
+    [
+      "park",
+      5
+    ],
+    [
+      "stori",
+      4
+    ],
+    [
+      "unit",
+      4
+    ],
+    [
+      "stat",
+      4
+    ],
+    [
+      "family",
+      4
+    ],
+    [
+      "open",
+      4
+    ],
+    [
+      "slow",
+      4
+    ],
+    [
+      "service",
+      4
+    ],
+    [
+      "three",
+      4
+    ],
+    [
+      "system",
+      4
+    ],
+    [
+      "lin",
+      4
+    ],
+    [
+      "massive",
+      4
+    ],
+    [
+      "night",
+      4
+    ],
+    [
+      "buy",
+      4
+    ],
+    [
+      "real",
+      4
+    ],
+    [
+      "college",
+      4
+    ],
+    [
+      "travel",
+      4
+    ],
+    [
+      "realiz",
+      4
+    ],
+    [
+      "heavy",
+      4
+    ],
+    [
+      "import",
+      4
+    ],
+    [
+      "partner",
+      4
+    ],
+    [
+      "track",
+      4
+    ],
+    [
+      "waffle",
+      4
+    ],
+    [
+      "inspire",
+      4
+    ],
+    [
+      "identity",
+      4
+    ],
+    [
+      "eventually",
+      4
+    ],
+    [
+      "together",
+      4
+    ],
+    [
+      "footwear",
+      4
+    ],
+    [
+      "status",
+      4
+    ],
+    [
+      "play",
+      4
+    ],
+    [
+      "crucial",
+      4
+    ],
+    [
+      "role",
+      4
+    ],
+    [
+      "allow",
+      4
+    ],
+    [
+      "maintain",
+      4
+    ],
+    [
+      "globally",
+      4
+    ],
+    [
+      "summariz",
+      4
+    ],
+    [
+      "thousand",
+      4
+    ],
+    [
+      "lifestyle",
+      4
+    ],
+    [
+      "courage",
+      4
+    ],
+    [
+      "smart",
+      4
+    ],
+    [
+      "nurtur",
+      4
+    ],
+    [
+      "powerhouse",
+      4
+    ],
+    [
+      "risk-tak",
+      4
+    ],
+    [
+      "motor",
+      4
+    ],
+    [
+      "fortune",
+      4
+    ],
+    [
+      "passionate",
+      4
+    ],
+    [
+      "fully",
+      4
+    ],
+    [
+      "delay",
+      4
+    ],
+    [
+      "cris",
+      4
+    ],
+    [
+      "give",
+      4
+    ],
+    [
+      "streamlin",
+      4
+    ],
+    [
+      "luxury",
+      4
+    ],
+    [
+      "captur",
+      4
+    ],
+    [
+      "statement",
+      4
+    ],
+    [
+      "set",
+      4
+    ],
+    [
+      "apart",
+      4
+    ],
+    [
+      "software",
+      4
+    ],
+    [
+      "autopilot",
+      4
+    ],
+    [
+      "media",
+      4
+    ],
+    [
+      "employe",
+      4
+    ],
+    [
+      "obsess",
+      4
+    ],
+    [
+      "largest",
+      4
+    ],
+    [
+      "direct",
+      4
+    ],
+    [
+      "strong",
+      4
+    ],
+    [
+      "differently",
+      4
+    ],
+    [
+      "push",
+      4
+    ],
+    [
+      "wozniak",
+      4
+    ],
+    [
+      "conflict",
+      4
+    ],
+    [
+      "interface",
+      4
+    ],
+    [
+      "mouse",
+      4
+    ],
+    [
+      "hit",
+      4
+    ],
+    [
+      "bankruptcy",
+      4
+    ],
+    [
+      "return",
+      4
+    ],
+    [
+      "excellence",
+      4
+    ],
+    [
+      "unnecessary",
+      4
+    ],
+    [
+      "look",
+      4
+    ],
+    [
+      "instant",
+      4
+    ],
+    [
+      "itun",
+      4
+    ],
+    [
+      "store",
+      4
+    ],
+    [
+      "setback",
+      4
+    ],
+    [
+      "entertain",
+      4
+    ],
+    [
+      "execution",
+      4
+    ],
+    [
+      "challenge",
+      4
+    ],
+    [
+      "shop",
+      4
+    ],
+    [
+      "long-term",
+      4
+    ],
+    [
+      "growth",
+      4
+    ],
+    [
+      "logistic",
+      4
+    ],
+    [
+      "film",
+      4
+    ],
+    [
+      "animat",
+      4
+    ],
+    [
+      "sportswear",
+      4
+    ],
+    [
+      "post",
+      3
+    ],
+    [
+      "inspiration",
+      3
+    ],
+    [
+      "much",
+      3
+    ],
+    [
+      "next",
+      3
+    ],
+    [
+      "menu",
+      3
+    ],
+    [
+      "thing",
+      3
+    ],
+    [
+      "kitchen",
+      3
+    ],
+    [
+      "assembl",
+      3
+    ],
+    [
+      "ford",
+      3
+    ],
+    [
+      "factori",
+      3
+    ],
+    [
+      "super",
+      3
+    ],
+    [
+      "faster",
+      3
+    ],
+    [
+      "usa",
+      3
+    ],
+    [
+      "future",
+      3
+    ],
+    [
+      "interest",
+      3
+    ],
+    [
+      "happy",
+      3
+    ],
+    [
+      "however",
+      3
+    ],
+    [
+      "refus",
+      3
+    ],
+    [
+      "fail",
+      3
+    ],
+    [
+      "japan",
+      3
+    ],
+    [
+      "standard",
+      3
+    ],
+    [
+      "sustainable",
+      3
+    ],
+    [
+      "graduat",
+      3
+    ],
+    [
+      "discover",
+      3
+    ],
+    [
+      "high",
+      3
+    ],
+    [
+      "pay",
+      3
+    ],
+    [
+      "operation",
+      3
+    ],
+    [
+      "meet",
+      3
+    ],
+    [
+      "competition",
+      3
+    ],
+    [
+      "fierce",
+      3
+    ],
+    [
+      "greek",
+      3
+    ],
+    [
+      "goddess",
+      3
+    ],
+    [
+      "swoosh",
+      3
+    ],
+    [
+      "student",
+      3
+    ],
+    [
+      "carolyn",
+      3
+    ],
+    [
+      "davidson",
+      3
+    ],
+    [
+      "paid",
+      3
+    ],
+    [
+      "breakthrough",
+      3
+    ],
+    [
+      "innovative",
+      3
+    ],
+    [
+      "unlike",
+      3
+    ],
+    [
+      "michael",
+      3
+    ],
+    [
+      "sneaker",
+      3
+    ],
+    [
+      "hour",
+      3
+    ],
+    [
+      "develop",
+      3
+    ],
+    [
+      "cushion",
+      3
+    ],
+    [
+      "recognizable",
+      3
+    ],
+    [
+      "strategic",
+      3
+    ],
+    [
+      "demand",
+      3
+    ],
+    [
+      "revenue",
+      3
+    ],
+    [
+      "strategy",
+      3
+    ],
+    [
+      "achieve",
+      3
+    ],
+    [
+      "perseverance",
+      3
+    ],
+    [
+      "impossible",
+      3
+    ],
+    [
+      "includ",
+      3
+    ],
+    [
+      "goal",
+      3
+    ],
+    [
+      "enormous",
+      3
+    ],
+    [
+      "skeptical",
+      3
+    ],
+    [
+      "establish",
+      3
+    ],
+    [
+      "mountain",
+      3
+    ],
+    [
+      "gear",
+      3
+    ],
+    [
+      "sleek",
+      3
+    ],
+    [
+      "difficult",
+      3
+    ],
+    [
+      "put",
+      3
+    ],
+    [
+      "last",
+      3
+    ],
+    [
+      "team",
+      3
+    ],
+    [
+      "featur",
+      3
+    ],
+    [
+      "advertis",
+      3
+    ],
+    [
+      "associat",
+      3
+    ],
+    [
+      "smooth",
+      3
+    ],
+    [
+      "cash",
+      3
+    ],
+    [
+      "flow",
+      3
+    ],
+    [
+      "skepticism",
+      3
+    ],
+    [
+      "critic",
+      3
+    ],
+    [
+      "odd",
+      3
+    ],
+    [
+      "tak",
+      3
+    ],
+    [
+      "electronic",
+      3
+    ],
+    [
+      "competitive",
+      3
+    ],
+    [
+      "obsession",
+      3
+    ],
+    [
+      "produc",
+      3
+    ],
+    [
+      "toy",
+      3
+    ],
+    [
+      "los",
+      3
+    ],
+    [
+      "music",
+      3
+    ],
+    [
+      "buyer",
+      3
+    ],
+    [
+      "reality",
+      3
+    ],
+    [
+      "e-commerce",
+      3
+    ],
+    [
+      "jeff",
+      3
+    ],
+    [
+      "bookstore",
+      3
+    ],
+    [
+      "forever",
+      3
+    ],
+    [
+      "fund",
+      3
+    ],
+    [
+      "ship",
+      3
+    ],
+    [
+      "scale",
+      3
+    ],
+    [
+      "alway",
+      3
+    ],
+    [
+      "embrace",
+      3
+    ],
+    [
+      "sound",
+      3
+    ],
+    [
+      "mickey",
+      3
+    ],
+    [
+      "television",
+      3
+    ],
+    [
+      "obstacl",
+      3
+    ],
+    [
+      "imagination",
+      3
+    ],
+    [
+      "listen",
+      2
+    ],
+    [
+      "practice",
+      2
+    ],
+    [
+      "english",
+      2
+    ],
+    [
+      "chain",
+      2
+    ],
+    [
+      "land",
+      2
+    ],
+    [
+      "pack",
+      2
+    ],
+    [
+      "san",
+      2
+    ],
+    [
+      "bernardino",
+      2
+    ],
+    [
+      "hop",
+      2
+    ],
+    [
+      "notic",
+      2
+    ],
+    [
+      "fri",
+      2
+    ],
+    [
+      "milkshak",
+      2
+    ],
+    [
+      "month",
+      2
+    ],
+    [
+      "different",
+      2
+    ],
+    [
+      "assembly",
+      2
+    ],
+    [
+      "another",
+      2
+    ],
+    [
+      "ad",
+      2
+    ],
+    [
+      "cook",
+      2
+    ],
+    [
+      "efficient",
+      2
+    ],
+    [
+      "outside",
+      2
+    ],
+    [
+      "owner",
+      2
+    ],
+    [
+      "illinois",
+      2
+    ],
+    [
+      "salesman",
+      2
+    ],
+    [
+      "milkshake",
+      2
+    ],
+    [
+      "visit",
+      2
+    ],
+    [
+      "anyth",
+      2
+    ],
+    [
+      "ever",
+      2
+    ],
+    [
+      "america",
+      2
+    ],
+    [
+      "crock",
+      2
+    ],
+    [
+      "convinc",
+      2
+    ],
+    [
+      "let",
+      2
+    ],
+    [
+      "share",
+      2
+    ],
+    [
+      "contract",
+      2
+    ],
+    [
+      "decid",
+      2
+    ],
+    [
+      "control",
+      2
+    ],
+    [
+      "offer",
+      2
+    ],
+    [
+      "croc",
+      2
+    ],
+    [
+      "estate",
+      2
+    ],
+    [
+      "rent",
+      2
+    ],
+    [
+      "franchise",
+      2
+    ],
+    [
+      "famili",
+      2
+    ],
+    [
+      "continu",
+      2
+    ],
+    [
+      "drive",
+      2
+    ],
+    [
+      "local",
+      2
+    ],
+    [
+      "automation",
+      2
+    ],
+    [
+      "biggest",
+      2
+    ],
+    [
+      "clever",
+      2
+    ],
+    [
+      "behind",
+      2
+    ],
+    [
+      "rise",
+      2
+    ],
+    [
+      "oregon",
+      2
+    ],
+    [
+      "tour",
+      2
+    ],
+    [
+      "affordable",
+      2
+    ],
+    [
+      "american",
+      2
+    ],
+    [
+      "former",
+      2
+    ],
+    [
+      "coach",
+      2
+    ],
+    [
+      "mission",
+      2
+    ],
+    [
+      "high-quality",
+      2
+    ],
+    [
+      "reasonable",
+      2
+    ],
+    [
+      "pric",
+      2
+    ],
+    [
+      "experiment",
+      2
+    ],
+    [
+      "sole",
+      2
+    ],
+    [
+      "pour",
+      2
+    ],
+    [
+      "rubber",
+      2
+    ],
+    [
+      "iron",
+      2
+    ],
+    [
+      "spe",
+      2
+    ],
+    [
+      "movement",
+      2
+    ],
+    [
+      "chose",
+      2
+    ],
+    [
+      "along",
+      2
+    ],
+    [
+      "recogniz",
+      2
+    ],
+    [
+      "deal",
+      2
+    ],
+    [
+      "football",
+      2
+    ],
+    [
+      "star",
+      2
+    ],
+    [
+      "game",
+      2
+    ],
+    [
+      "changer",
+      2
+    ],
+    [
+      "promis",
+      2
+    ],
+    [
+      "culture",
+      2
+    ],
+    [
+      "successfully",
+      2
+    ],
+    [
+      "desirability",
+      2
+    ],
+    [
+      "material",
+      2
+    ],
+    [
+      "mantra",
+      2
+    ],
+    [
+      "controversi",
+      2
+    ],
+    [
+      "report",
+      2
+    ],
+    [
+      "poor",
+      2
+    ],
+    [
+      "condition",
+      2
+    ],
+    [
+      "abroad",
+      2
+    ],
+    [
+      "threaten",
+      2
+    ],
+    [
+      "reputation",
+      2
+    ],
+    [
+      "respond",
+      2
+    ],
+    [
+      "labor",
+      2
+    ],
+    [
+      "increas",
+      2
+    ],
+    [
+      "transparency",
+      2
+    ],
+    [
+      "continue",
+      2
+    ],
+    [
+      "mastery",
+      2
+    ],
+    [
+      "consumer",
+      2
+    ],
+    [
+      "symbolize",
+      2
+    ],
+    [
+      "annual",
+      2
+    ],
+    [
+      "action",
+      2
+    ],
+    [
+      "calculat",
+      2
+    ],
+    [
+      "extraordinary",
+      2
+    ],
+    [
+      "empir",
+      2
+    ],
+    [
+      "consider",
+      2
+    ],
+    [
+      "niche",
+      2
+    ],
+    [
+      "practical",
+      2
+    ],
+    [
+      "seem",
+      2
+    ],
+    [
+      "group",
+      2
+    ],
+    [
+      "martin",
+      2
+    ],
+    [
+      "eberhard",
+      2
+    ],
+    [
+      "mark",
+      2
+    ],
+    [
+      "tarpen",
+      2
+    ],
+    [
+      "potential",
+      2
+    ],
+    [
+      "vehicl",
+      2
+    ],
+    [
+      "high-performance",
+      2
+    ],
+    [
+      "stylish",
+      2
+    ],
+    [
+      "compete",
+      2
+    ],
+    [
+      "gasoline",
+      2
+    ],
+    [
+      "batteri",
+      2
+    ],
+    [
+      "inefficient",
+      2
+    ],
+    [
+      "compet",
+      2
+    ],
+    [
+      "feel",
+      2
+    ],
+    [
+      "try",
+      2
+    ],
+    [
+      "climb",
+      2
+    ],
+    [
+      "join",
+      2
+    ],
+    [
+      "chairman",
+      2
+    ],
+    [
+      "board",
+      2
+    ],
+    [
+      "already",
+      2
+    ],
+    [
+      "paypal",
+      2
+    ],
+    [
+      "roadster",
+      2
+    ],
+    [
+      "extremely",
+      2
+    ],
+    [
+      "often",
+      2
+    ],
+    [
+      "keep",
+      2
+    ],
+    [
+      "alive",
+      2
+    ],
+    [
+      "point",
+      2
+    ],
+    [
+      "enough",
+      2
+    ],
+    [
+      "week",
+      2
+    ],
+    [
+      "uncertain",
+      2
+    ],
+    [
+      "possibility",
+      2
+    ],
+    [
+      "slowly",
+      2
+    ],
+    [
+      "desirable",
+      2
+    ],
+    [
+      "reliable",
+      2
+    ],
+    [
+      "sedan",
+      2
+    ],
+    [
+      "attention",
+      2
+    ],
+    [
+      "long",
+      2
+    ],
+    [
+      "range",
+      2
+    ],
+    [
+      "acceleration",
+      2
+    ],
+    [
+      "high-tech",
+      2
+    ],
+    [
+      "over-the-air",
+      2
+    ],
+    [
+      "updat",
+      2
+    ],
+    [
+      "direct-to-consumer",
+      2
+    ],
+    [
+      "dealership",
+      2
+    ],
+    [
+      "rely",
+      2
+    ],
+    [
+      "event",
+      2
+    ],
+    [
+      "social",
+      2
+    ],
+    [
+      "hype",
+      2
+    ],
+    [
+      "company-fac",
+      2
+    ],
+    [
+      "bottleneck",
+      2
+    ],
+    [
+      "doubt",
+      2
+    ],
+    [
+      "mainstream",
+      2
+    ],
+    [
+      "famously",
+      2
+    ],
+    [
+      "slept",
+      2
+    ],
+    [
+      "factory",
+      2
+    ],
+    [
+      "oversee",
+      2
+    ],
+    [
+      "motivate",
+      2
+    ],
+    [
+      "tirelessly",
+      2
+    ],
+    [
+      "surpass",
+      2
+    ],
+    [
+      "general",
+      2
+    ],
+    [
+      "disrupt",
+      2
+    ],
+    [
+      "aim",
+      2
+    ],
+    [
+      "save",
+      2
+    ],
+    [
+      "relentlessly",
+      2
+    ],
+    [
+      "represent",
+      2
+    ],
+    [
+      "manufactur",
+      2
+    ],
+    [
+      "solar",
+      2
+    ],
+    [
+      "panel",
+      2
+    ],
+    [
+      "storage",
+      2
+    ],
+    [
+      "spacecraft",
+      2
+    ],
+    [
+      "spacex",
+      2
+    ],
+    [
+      "multiple",
+      2
+    ],
+    [
+      "persistent",
+      2
+    ],
+    [
+      "fear",
+      2
+    ],
+    [
+      "overwhelm",
+      2
+    ],
+    [
+      "startup",
+      2
+    ],
+    [
+      "automotive",
+      2
+    ],
+    [
+      "avoid",
+      2
+    ],
+    [
+      "beyond",
+      2
+    ],
+    [
+      "strategically",
+      2
+    ],
+    [
+      "commit",
+      2
+    ],
+    [
+      "power",
+      2
+    ],
+    [
+      "dropout",
+      2
+    ],
+    [
+      "icon",
+      2
+    ],
+    [
+      "understand",
+      2
+    ],
+    [
+      "cupertino",
+      2
+    ],
+    [
+      "genius",
+      2
+    ],
+    [
+      "parent",
+      2
+    ],
+    [
+      "kit",
+      2
+    ],
+    [
+      "fancy",
+      2
+    ],
+    [
+      "enthusiast",
+      2
+    ],
+    [
+      "hobbyist",
+      2
+    ],
+    [
+      "birth",
+      2
+    ],
+    [
+      "interact",
+      2
+    ],
+    [
+      "ii",
+      2
+    ],
+    [
+      "color",
+      2
+    ],
+    [
+      "graphic",
+      2
+    ],
+    [
+      "serious",
+      2
+    ],
+    [
+      "perfection",
+      2
+    ],
+    [
+      "sometim",
+      2
+    ],
+    [
+      "caus",
+      2
+    ],
+    [
+      "drove",
+      2
+    ],
+    [
+      "functional",
+      2
+    ],
+    [
+      "triumph",
+      2
+    ],
+    [
+      "turmoil",
+      2
+    ],
+    [
+      "macintosh",
+      2
+    ],
+    [
+      "graphical",
+      2
+    ],
+    [
+      "user",
+      2
+    ],
+    [
+      "accessible",
+      2
+    ],
+    [
+      "ordinary",
+      2
+    ],
+    [
+      "expert",
+      2
+    ],
+    [
+      "historic",
+      2
+    ],
+    [
+      "commercial",
+      2
+    ],
+    [
+      "ridley",
+      2
+    ],
+    [
+      "scott",
+      2
+    ],
+    [
+      "bowl",
+      2
+    ],
+    [
+      "portray",
+      2
+    ],
+    [
+      "rebel",
+      2
+    ],
+    [
+      "conformity",
+      2
+    ],
+    [
+      "internal",
+      2
+    ],
+    [
+      "led",
+      2
+    ],
+    [
+      "leav",
+      2
+    ],
+    [
+      "visionary",
+      2
+    ],
+    [
+      "far",
+      2
+    ],
+    [
+      "away",
+      2
+    ],
+    [
+      "high-end",
+      2
+    ],
+    [
+      "education",
+      2
+    ],
+    [
+      "acquir",
+      2
+    ],
+    [
+      "pixar",
+      2
+    ],
+    [
+      "bring",
+      2
+    ],
+    [
+      "back",
+      2
+    ],
+    [
+      "near",
+      2
+    ],
+    [
+      "philosophy",
+      2
+    ],
+    [
+      "result",
+      2
+    ],
+    [
+      "imac",
+      2
+    ],
+    [
+      "colorful",
+      2
+    ],
+    [
+      "use",
+      2
+    ],
+    [
+      "unique",
+      2
+    ],
+    [
+      "cool",
+      2
+    ],
+    [
+      "ipod",
+      2
+    ],
+    [
+      "smartphon",
+      2
+    ],
+    [
+      "iphone",
+      2
+    ],
+    [
+      "tablet",
+      2
+    ],
+    [
+      "ipad",
+      2
+    ],
+    [
+      "smartwatch",
+      2
+    ],
+    [
+      "watch",
+      2
+    ],
+    [
+      "device",
+      2
+    ],
+    [
+      "complexity",
+      2
+    ],
+    [
+      "intuitive",
+      2
+    ],
+    [
+      "detail",
+      2
+    ],
+    [
+      "matter",
+      2
+    ],
+    [
+      "hardware",
+      2
+    ],
+    [
+      "ecosystem",
+      2
+    ],
+    [
+      "icloud",
+      2
+    ],
+    [
+      "app",
+      2
+    ],
+    [
+      "seamlessly",
+      2
+    ],
+    [
+      "lifelong",
+      2
+    ],
+    [
+      "fan",
+      2
+    ],
+    [
+      "importance",
+      2
+    ],
+    [
+      "fir",
+      2
+    ],
+    [
+      "endur",
+      2
+    ],
+    [
+      "stronger",
+      2
+    ],
+    [
+      "step",
+      2
+    ],
+    [
+      "ston",
+      2
+    ],
+    [
+      "shap",
+      2
+    ],
+    [
+      "communicate",
+      2
+    ],
+    [
+      "quo",
+      2
+    ],
+    [
+      "revolution",
+      2
+    ],
+    [
+      "phon",
+      2
+    ],
+    [
+      "boldness",
+      2
+    ],
+    [
+      "dedication",
+      2
+    ],
+    [
+      "deliver",
+      2
+    ],
+    [
+      "high-pay",
+      2
+    ],
+    [
+      "trend",
+      2
+    ],
+    [
+      "list",
+      2
+    ],
+    [
+      "top",
+      2
+    ],
+    [
+      "solve",
+      2
+    ],
+    [
+      "improve",
+      2
+    ],
+    [
+      "rais",
+      2
+    ],
+    [
+      "bigger",
+      2
+    ],
+    [
+      "plan",
+      2
+    ],
+    [
+      "everyth",
+      2
+    ],
+    [
+      "ensur",
+      2
+    ],
+    [
+      "cloud",
+      2
+    ],
+    [
+      "servic",
+      2
+    ],
+    [
+      "everyday",
+      2
+    ],
+    [
+      "narration",
+      2
+    ],
+    [
+      "movi",
+      2
+    ],
+    [
+      "short",
+      2
+    ],
+    [
+      "oswald",
+      2
+    ],
+    [
+      "synchroniz",
+      2
+    ],
+    [
+      "releas",
+      2
+    ],
+    [
+      "full-length",
+      2
+    ],
+    [
+      "cartoon",
+      2
+    ],
+    [
+      "disneyland",
+      2
+    ],
+    [
+      "sleep",
+      2
+    ],
+    [
+      "merchandise",
+      2
+    ],
+    [
+      "international",
+      2
+    ],
+    [
+      "synonymous",
+      2
+    ],
+    [
+      "tiger",
+      2
+    ],
+    [
+      "borrow",
+      2
+    ],
+    [
+      "comfort",
+      2
+    ],
+    [
+      "competitor",
+      2
+    ],
+    [
+      "athlete",
+      2
+    ],
+    [
+      "soul",
+      2
+    ],
+    [
+      "speak",
+      1
+    ],
+    [
+      "perfect",
+      1
+    ],
+    [
+      "amaz",
+      1
+    ],
+    [
+      "help",
+      1
+    ],
+    [
+      "gain",
+      1
+    ],
+    [
+      "knowledge",
+      1
+    ],
+    [
+      "number",
+      1
+    ],
+    [
+      "level",
+      1
+    ],
+    [
+      "richard",
+      1
+    ],
+    [
+      "dick",
+      1
+    ],
+    [
+      "morris",
+      1
+    ],
+    [
+      "mac",
+      1
+    ],
+    [
+      "hampshire",
+      1
+    ],
+    [
+      "working-class",
+      1
+    ],
+    [
+      "rich",
+      1
+    ],
+    [
+      "opportuniti",
+      1
+    ],
+    [
+      "bag",
+      1
+    ],
+    [
+      "drive-in",
+      1
+    ],
+    [
+      "barbecue",
+      1
+    ],
+    [
+      "waiter",
+      1
+    ],
+    [
+      "large",
+      1
+    ],
+    [
+      "decision",
+      1
+    ],
+    [
+      "clos",
+      1
+    ],
+    [
+      "shut",
+      1
+    ],
+    [
+      "completely",
+      1
+    ],
+    [
+      "reopen",
+      1
+    ],
+    [
+      "speedy",
+      1
+    ],
+    [
+      "worker",
+      1
+    ],
+    [
+      "specific",
+      1
+    ],
+    [
+      "grill",
+      1
+    ],
+    [
+      "patti",
+      1
+    ],
+    [
+      "condiment",
+      1
+    ],
+    [
+      "henry",
+      1
+    ],
+    [
+      "wait",
+      1
+    ],
+    [
+      "minut",
+      1
+    ],
+    [
+      "minute",
+      1
+    ],
+    [
+      "walk",
+      1
+    ],
+    [
+      "counter",
+      1
+    ],
+    [
+      "reduc",
+      1
+    ],
+    [
+      "cost",
+      1
+    ],
+    [
+      "per",
+      1
+    ],
+    [
+      "amount",
+      1
+    ],
+    [
+      "popular",
+      1
+    ],
+    [
+      "copy",
+      1
+    ],
+    [
+      "enter",
+      1
+    ],
+    [
+      "paper",
+      1
+    ],
+    [
+      "cup",
+      1
+    ],
+    [
+      "machine",
+      1
+    ],
+    [
+      "unusual",
+      1
+    ],
+    [
+      "eight",
+      1
+    ],
+    [
+      "strange",
+      1
+    ],
+    [
+      "curious",
+      1
+    ],
+    [
+      "shock",
+      1
+    ],
+    [
+      "com",
+      1
+    ],
+    [
+      "second",
+      1
+    ],
+    [
+      "immediately",
+      1
+    ],
+    [
+      "copi",
+      1
+    ],
+    [
+      "across",
+      1
+    ],
+    [
+      "country",
+      1
+    ],
+    [
+      "ask",
+      1
+    ],
+    [
+      "stress",
+      1
+    ],
+    [
+      "handle",
+      1
+    ],
+    [
+      "plain",
+      1
+    ],
+    [
+      "support",
+      1
+    ],
+    [
+      "financially",
+      1
+    ],
+    [
+      "meant",
+      1
+    ],
+    [
+      "frustrat",
+      1
+    ],
+    [
+      "negotiation",
+      1
+    ],
+    [
+      "sum",
+      1
+    ],
+    [
+      "implement",
+      1
+    ],
+    [
+      "bought",
+      1
+    ],
+    [
+      "guarante",
+      1
+    ],
+    [
+      "golden",
+      1
+    ],
+    [
+      "arch",
+      1
+    ],
+    [
+      "ronald",
+      1
+    ],
+    [
+      "unstoppable",
+      1
+    ],
+    [
+      "internationally",
+      1
+    ],
+    [
+      "canada",
+      1
+    ],
+    [
+      "germany",
+      1
+    ],
+    [
+      "australia",
+      1
+    ],
+    [
+      "france",
+      1
+    ],
+    [
+      "uk",
+      1
+    ],
+    [
+      "affordability",
+      1
+    ],
+    [
+      "mass",
+      1
+    ],
+    [
+      "meal",
+      1
+    ],
+    [
+      "target",
+      1
+    ],
+    [
+      "child",
+      1
+    ],
+    [
+      "thru",
+      1
+    ],
+    [
+      "convenience",
+      1
+    ],
+    [
+      "cleanliness",
+      1
+    ],
+    [
+      "hygiene",
+      1
+    ],
+    [
+      "strict",
+      1
+    ],
+    [
+      "adaptation",
+      1
+    ],
+    [
+      "menus",
+      1
+    ],
+    [
+      "adjust",
+      1
+    ],
+    [
+      "tast",
+      1
+    ],
+    [
+      "mcaloo",
+      1
+    ],
+    [
+      "tiki",
+      1
+    ],
+    [
+      "india",
+      1
+    ],
+    [
+      "teriyaki",
+      1
+    ],
+    [
+      "sourc",
+      1
+    ],
+    [
+      "fee",
+      1
+    ],
+    [
+      "ai",
+      1
+    ],
+    [
+      "consistent",
+      1
+    ],
+    [
+      "smartly",
+      1
+    ],
+    [
+      "stand",
+      1
+    ],
+    [
+      "daily",
+      1
+    ],
+    [
+      "proof",
+      1
+    ],
+    [
+      "hyper-form",
+      1
+    ],
+    [
+      "hedge",
+      1
+    ],
+    [
+      "york",
+      1
+    ],
+    [
+      "internet",
+      1
+    ],
+    [
+      "rapidly",
+      1
+    ],
+    [
+      "advantage",
+      1
+    ],
+    [
+      "studi",
+      1
+    ],
+    [
+      "soon",
+      1
+    ],
+    [
+      "quit",
+      1
+    ],
+    [
+      "seattle",
+      1
+    ],
+    [
+      "washington",
+      1
+    ],
+    [
+      "cadabra",
+      1
+    ],
+    [
+      "renam",
+      1
+    ],
+    [
+      "river",
+      1
+    ],
+    [
+      "ambition",
+      1
+    ],
+    [
+      "principl",
+      1
+    ],
+    [
+      "prioritiz",
+      1
+    ],
+    [
+      "immediate",
+      1
+    ],
+    [
+      "using",
+      1
+    ],
+    [
+      "personally",
+      1
+    ],
+    [
+      "packag",
+      1
+    ],
+    [
+      "website",
+      1
+    ],
+    [
+      "optimiz",
+      1
+    ],
+    [
+      "public",
+      1
+    ],
+    [
+      "began",
+      1
+    ],
+    [
+      "categori",
+      1
+    ],
+    [
+      "cloth",
+      1
+    ],
+    [
+      "gradually",
+      1
+    ],
+    [
+      "virtually",
+      1
+    ],
+    [
+      "review",
+      1
+    ],
+    [
+      "one-click",
+      1
+    ],
+    [
+      "easier",
+      1
+    ],
+    [
+      "prime",
+      1
+    ],
+    [
+      "exclusive",
+      1
+    ],
+    [
+      "benefit",
+      1
+    ],
+    [
+      "loyal",
+      1
+    ],
+    [
+      "heavily",
+      1
+    ],
+    [
+      "warehous",
+      1
+    ],
+    [
+      "robotic",
+      1
+    ],
+    [
+      "delivery",
+      1
+    ],
+    [
+      "quickly",
+      1
+    ],
+    [
+      "efficiently",
+      1
+    ],
+    [
+      "road",
+      1
+    ],
+    [
+      "dot-com",
+      1
+    ],
+    [
+      "crash",
+      1
+    ],
+    [
+      "stock",
+      1
+    ],
+    [
+      "plummet",
+      1
+    ],
+    [
+      "say",
+      1
+    ],
+    [
+      "short-term",
+      1
+    ],
+    [
+      "gamble",
+      1
+    ],
+    [
+      "unbeatable",
+      1
+    ],
+    [
+      "web",
+      1
+    ],
+    [
+      "aws",
+      1
+    ],
+    [
+      "source",
+      1
+    ],
+    [
+      "kindle",
+      1
+    ],
+    [
+      "e-reader",
+      1
+    ],
+    [
+      "alexa",
+      1
+    ],
+    [
+      "physical",
+      1
+    ],
+    [
+      "stor",
+      1
+    ],
+    [
+      "blend",
+      1
+    ],
+    [
+      "act",
+      1
+    ],
+    [
+      "boldly",
+      1
+    ],
+    [
+      "dominate",
+      1
+    ],
+    [
+      "involv",
+      1
+    ],
+    [
+      "uncertainty",
+      1
+    ],
+    [
+      "computing-power",
+      1
+    ],
+    [
+      "patience",
+      1
+    ],
+    [
+      "ahead",
+      1
+    ],
+    [
+      "redefin",
+      1
+    ],
+    [
+      "fully-audiat",
+      1
+    ],
+    [
+      "ready",
+      1
+    ],
+    [
+      "version",
+      1
+    ],
+    [
+      "paus",
+      1
+    ],
+    [
+      "emphasis",
+      1
+    ],
+    [
+      "cue",
+      1
+    ],
+    [
+      "natural",
+      1
+    ],
+    [
+      "engag",
+      1
+    ],
+    [
+      "youtube",
+      1
+    ],
+    [
+      "belov",
+      1
+    ],
+    [
+      "artist",
+      1
+    ],
+    [
+      "draw",
+      1
+    ],
+    [
+      "seri",
+      1
+    ],
+    [
+      "alice",
+      1
+    ],
+    [
+      "commodi",
+      1
+    ],
+    [
+      "roy",
+      1
+    ],
+    [
+      "hollywood",
+      1
+    ],
+    [
+      "major",
+      1
+    ],
+    [
+      "creation",
+      1
+    ],
+    [
+      "lucky",
+      1
+    ],
+    [
+      "rabbit",
+      1
+    ],
+    [
+      "lost",
+      1
+    ],
+    [
+      "dispute",
+      1
+    ],
+    [
+      "distributor",
+      1
+    ],
+    [
+      "debut",
+      1
+    ],
+    [
+      "steamboat",
+      1
+    ],
+    [
+      "willie",
+      1
+    ],
+    [
+      "groundbreak",
+      1
+    ],
+    [
+      "heart",
+      1
+    ],
+    [
+      "audienc",
+      1
+    ],
+    [
+      "donald",
+      1
+    ],
+    [
+      "duck",
+      1
+    ],
+    [
+      "goofy",
+      1
+    ],
+    [
+      "pluto",
+      1
+    ],
+    [
+      "universe",
+      1
+    ],
+    [
+      "snow",
+      1
+    ],
+    [
+      "white",
+      1
+    ],
+    [
+      "seven",
+      1
+    ],
+    [
+      "dwarf",
+      1
+    ],
+    [
+      "feature",
+      1
+    ],
+    [
+      "feature-length",
+      1
+    ],
+    [
+      "profitable",
+      1
+    ],
+    [
+      "influential",
+      1
+    ],
+    [
+      "technologi",
+      1
+    ],
+    [
+      "techniqu",
+      1
+    ],
+    [
+      "period",
+      1
+    ],
+    [
+      "experimentation",
+      1
+    ],
+    [
+      "live-action",
+      1
+    ],
+    [
+      "documentari",
+      1
+    ],
+    [
+      "place",
+      1
+    ],
+    [
+      "screen",
+      1
+    ],
+    [
+      "overcom",
+      1
+    ],
+    [
+      "zon",
+      1
+    ],
+    [
+      "issu",
+      1
+    ],
+    [
+      "anaheim",
+      1
+    ],
+    [
+      "combin",
+      1
+    ],
+    [
+      "cutting-edge",
+      1
+    ],
+    [
+      "magical",
+      1
+    ],
+    [
+      "attraction",
+      1
+    ],
+    [
+      "beauty",
+      1
+    ],
+    [
+      "castle",
+      1
+    ],
+    [
+      "pirat",
+      1
+    ],
+    [
+      "caribbean",
+      1
+    ],
+    [
+      "space",
+      1
+    ],
+    [
+      "throughout",
+      1
+    ],
+    [
+      "career",
+      1
+    ],
+    [
+      "dealt",
+      1
+    ],
+    [
+      "difficulti",
+      1
+    ],
+    [
+      "health",
+      1
+    ],
+    [
+      "imagine",
+      1
+    ],
+    [
+      "exist",
+      1
+    ],
+    [
+      "driv",
+      1
+    ],
+    [
+      "pioneer",
+      1
+    ],
+    [
+      "protect",
+      1
+    ],
+    [
+      "forward",
+      1
+    ],
+    [
+      "fun",
+      1
+    ],
+    [
+      "diversify",
+      1
+    ],
+    [
+      "contribut",
+      1
+    ],
+    [
+      "generation",
+      1
+    ],
+    [
+      "network",
+      1
+    ],
+    [
+      "leave",
+      1
+    ],
+    [
+      "legacy",
+      1
+    ],
+    [
+      "school",
+      1
+    ],
+    [
+      "low-cost",
+      1
+    ],
+    [
+      "onesuka",
+      1
+    ],
+    [
+      "opportunity",
+      1
+    ],
+    [
+      "price",
+      1
+    ],
+    [
+      "around",
+      1
+    ],
+    [
+      "father",
+      1
+    ],
+    [
+      "co-found",
+      1
+    ],
+    [
+      "struggle",
+      1
+    ],
+    [
+      "relationship",
+      1
+    ],
+    [
+      "retailer",
+      1
+    ],
+    [
+      "slush",
+      1
+    ],
+    [
+      "tight",
+      1
+    ],
+    [
+      "larger",
+      1
+    ],
+    [
+      "adida",
+      1
+    ],
+    [
+      "puma",
+      1
+    ],
+    [
+      "dominat",
+      1
+    ],
+    [
+      "partnership",
+      1
+    ],
+    [
+      "professional",
+      1
+    ],
+    [
+      "promote",
+      1
+    ],
+    [
+      "cortez",
+      1
+    ],
+    [
+      "olympic",
+      1
+    ],
+    [
+      "skyrocket",
+      1
+    ],
+    [
+      "style",
+      1
+    ],
+    [
+      "campaign",
+      1
+    ],
+    [
+      "motivat",
+      1
+    ],
+    [
+      "phenomenon",
+      1
+    ],
+    [
+      "essence",
+      1
+    ],
+    [
+      "motivation",
+      1
+    ],
+    [
+      "alike",
+      1
+    ],
+    [
+      "specializ",
+      1
+    ],
+    [
+      "dominant",
+      1
+    ],
+    [
+      "sponsor",
+      1
+    ],
+    [
+      "wood",
+      1
+    ],
+    [
+      "serena",
+      1
+    ],
+    [
+      "william",
+      1
+    ],
+    [
+      "cultural",
+      1
+    ],
+    [
+      "impact",
+      1
+    ],
+    [
+      "fill",
+      1
+    ],
+    [
+      "almost",
+      1
+    ],
+    [
+      "noth",
+      1
+    ],
+    [
+      "development",
+      1
+    ],
+    [
+      "emotional",
+      1
+    ],
+    [
+      "connection",
+      1
+    ],
+    [
+      "diversifi",
+      1
+    ],
+    [
+      "apparel",
+      1
+    ],
+    [
+      "equipment",
+      1
+    ],
+    [
+      "importer",
+      1
+    ],
+    [
+      "good",
+      1
+    ],
+    [
+      "giv",
+      1
+    ],
+    [
+      "bauerman",
+      1
+    ],
+    [
+      "hyperform",
+      1
+    ],
+    [
+      "most-establish",
+      1
+    ],
+    [
+      "trillion-dollar",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 7745,
+    "unique_words": 1068,
+    "duration_min": 79.1
+  }
+}

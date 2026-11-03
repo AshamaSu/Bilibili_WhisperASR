@@ -1,0 +1,10325 @@
+{
+  "file_stem": "57_MadeaMistakeatWorkHowtoExplainItProfessionally",
+  "no": 57,
+  "title_keywords": [
+    [
+      "made",
+      "make"
+    ],
+    [
+      "mistake",
+      "mistake"
+    ],
+    [
+      "work",
+      "work"
+    ],
+    [
+      "explain",
+      "explain"
+    ],
+    [
+      "professionally",
+      "professionally"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "process",
+      45,
+      "B1+"
+    ],
+    [
+      "need",
+      38,
+      "A2"
+    ],
+    [
+      "client",
+      37,
+      "B1+"
+    ],
+    [
+      "fix",
+      35,
+      "B1+"
+    ],
+    [
+      "error",
+      33,
+      "B1+"
+    ],
+    [
+      "immediate",
+      32,
+      "B1+"
+    ],
+    [
+      "professional",
+      31,
+      "B1+"
+    ],
+    [
+      "pressure",
+      26,
+      "B1+"
+    ],
+    [
+      "people",
+      25,
+      "A2"
+    ],
+    [
+      "exactly",
+      24,
+      "B1+"
+    ],
+    [
+      "system",
+      24,
+      "A2"
+    ],
+    [
+      "maybe",
+      23,
+      "A2"
+    ],
+    [
+      "say",
+      23,
+      "A2"
+    ],
+    [
+      "something",
+      23,
+      "B1+"
+    ],
+    [
+      "team",
+      23,
+      "A2"
+    ],
+    [
+      "language",
+      22,
+      "A2"
+    ],
+    [
+      "data",
+      21,
+      "B1+"
+    ],
+    [
+      "know",
+      21,
+      "A2"
+    ],
+    [
+      "clear",
+      20,
+      "A2"
+    ],
+    [
+      "communication",
+      20,
+      "B1+"
+    ],
+    [
+      "making",
+      20,
+      "B1+"
+    ],
+    [
+      "specific",
+      20,
+      "B1+"
+    ],
+    [
+      "accountability",
+      18,
+      "B1+"
+    ],
+    [
+      "happen",
+      18,
+      "A2"
+    ],
+    [
+      "key",
+      18,
+      "A2"
+    ],
+    [
+      "new",
+      18,
+      "A2"
+    ],
+    [
+      "things",
+      18,
+      "A2"
+    ],
+    [
+      "think",
+      18,
+      "A2"
+    ],
+    [
+      "focus",
+      17,
+      "B1+"
+    ],
+    [
+      "shows",
+      17,
+      "A2"
+    ],
+    [
+      "call",
+      16,
+      "A2"
+    ],
+    [
+      "point",
+      16,
+      "A2"
+    ],
+    [
+      "commits",
+      15,
+      "B1+"
+    ],
+    [
+      "design",
+      15,
+      "B1+"
+    ],
+    [
+      "keep",
+      15,
+      "A2"
+    ],
+    [
+      "leadership",
+      15,
+      "B1+"
+    ],
+    [
+      "safeguards",
+      15,
+      "B1+"
+    ],
+    [
+      "source",
+      15,
+      "B1+"
+    ],
+    [
+      "control",
+      14,
+      "B1+"
+    ],
+    [
+      "got",
+      14,
+      "A2"
+    ],
+    [
+      "human",
+      14,
+      "B1+"
+    ],
+    [
+      "immediately",
+      14,
+      "B1+"
+    ],
+    [
+      "recovery",
+      14,
+      "B1+"
+    ],
+    [
+      "setting",
+      14,
+      "B1+"
+    ],
+    [
+      "trust",
+      14,
+      "B1+"
+    ],
+    [
+      "critical",
+      13,
+      "B1+"
+    ],
+    [
+      "even",
+      13,
+      "B1+"
+    ],
+    [
+      "make",
+      13,
+      "A2"
+    ],
+    [
+      "mistake",
+      13,
+      "A2"
+    ],
+    [
+      "one",
+      13,
+      "A2"
+    ],
+    [
+      "response",
+      13,
+      "B1+"
+    ],
+    [
+      "shift",
+      13,
+      "B1+"
+    ],
+    [
+      "sources",
+      13,
+      "B1+"
+    ],
+    [
+      "starting",
+      13,
+      "A2"
+    ],
+    [
+      "whole",
+      13,
+      "A2"
+    ],
+    [
+      "crisis",
+      12,
+      "B1+"
+    ],
+    [
+      "failure",
+      12,
+      "B1+"
+    ],
+    [
+      "feels",
+      12,
+      "A2"
+    ],
+    [
+      "flagging",
+      12,
+      "B1+"
+    ],
+    [
+      "leader",
+      12,
+      "B1+"
+    ],
+    [
+      "legal",
+      12,
+      "B1+"
+    ],
+    [
+      "look",
+      12,
+      "A2"
+    ],
+    [
+      "manager",
+      12,
+      "B1+"
+    ],
+    [
+      "next",
+      12,
+      "A2"
+    ],
+    [
+      "phase",
+      12,
+      "B1+"
+    ],
+    [
+      "review",
+      12,
+      "B1+"
+    ],
+    [
+      "see",
+      12,
+      "A2"
+    ],
+    [
+      "steps",
+      12,
+      "A2"
+    ],
+    [
+      "strategic",
+      12,
+      "B1+"
+    ],
+    [
+      "systemic",
+      12,
+      "B1+"
+    ],
+    [
+      "turns",
+      12,
+      "A2"
+    ],
+    [
+      "variance",
+      12,
+      "B1+"
+    ],
+    [
+      "alerts",
+      11,
+      "B1+"
+    ],
+    [
+      "back",
+      11,
+      "A2"
+    ],
+    [
+      "cause",
+      11,
+      "A2"
+    ],
+    [
+      "finance",
+      11,
+      "B1+"
+    ],
+    [
+      "impact",
+      11,
+      "B1+"
+    ],
+    [
+      "offer",
+      11,
+      "A2"
+    ],
+    [
+      "plan",
+      11,
+      "A2"
+    ],
+    [
+      "risk",
+      11,
+      "A2"
+    ],
+    [
+      "shared",
+      11,
+      "B1+"
+    ],
+    [
+      "sounds",
+      11,
+      "A2"
+    ],
+    [
+      "absolutely",
+      10,
+      "B1+"
+    ],
+    [
+      "away",
+      10,
+      "A2"
+    ],
+    [
+      "business",
+      10,
+      "B1+"
+    ],
+    [
+      "commitment",
+      10,
+      "B1+"
+    ],
+    [
+      "first",
+      10,
+      "A2"
+    ],
+    [
+      "individual",
+      10,
+      "B1+"
+    ],
+    [
+      "leads",
+      10,
+      "A2"
+    ],
+    [
+      "learning",
+      10,
+      "A2"
+    ],
+    [
+      "operations",
+      10,
+      "B1+"
+    ],
+    [
+      "root",
+      10,
+      "B1+"
+    ],
+    [
+      "rushed",
+      10,
+      "B1+"
+    ],
+    [
+      "signals",
+      10,
+      "B1+"
+    ],
+    [
+      "structured",
+      10,
+      "B1+"
+    ],
+    [
+      "today",
+      10,
+      "A2"
+    ],
+    [
+      "us",
+      10,
+      "A2"
+    ],
+    [
+      "ah",
+      9,
+      "B1+"
+    ],
+    [
+      "compliance",
+      9,
+      "B1+"
+    ],
+    [
+      "concrete",
+      9,
+      "B1+"
+    ],
+    [
+      "crucial",
+      9,
+      "B1+"
+    ],
+    [
+      "crucially",
+      9,
+      "B1+"
+    ],
+    [
+      "help",
+      9,
+      "A2"
+    ],
+    [
+      "involved",
+      9,
+      "B1+"
+    ],
+    [
+      "loop",
+      9,
+      "B1+"
+    ],
+    [
+      "maturity",
+      9,
+      "B1+"
+    ],
+    [
+      "mistakes",
+      9,
+      "B1+"
+    ],
+    [
+      "organizational",
+      9,
+      "B1+"
+    ],
+    [
+      "ownership",
+      9,
+      "B1+"
+    ],
+    [
+      "personal",
+      9,
+      "B1+"
+    ],
+    [
+      "preventing",
+      9,
+      "A2"
+    ],
+    [
+      "slipped",
+      9,
+      "B1+"
+    ],
+    [
+      "support",
+      9,
+      "A2"
+    ],
+    [
+      "sure",
+      9,
+      "A2"
+    ],
+    [
+      "tracking",
+      9,
+      "B1+"
+    ],
+    [
+      "transparent",
+      9,
+      "B1+"
+    ],
+    [
+      "work",
+      9,
+      "A2"
+    ],
+    [
+      "also",
+      8,
+      "A2"
+    ],
+    [
+      "asking",
+      8,
+      "A2"
+    ],
+    [
+      "builds",
+      8,
+      "A2"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "traces back",
+      "count": 7,
+      "example": "And unfortunately, the variance traces back to my approval.",
+      "t": 156.34
+    },
+    {
+      "text": "business english",
+      "count": 6,
+      "example": "The specific constructive business English and the communication tactics people use to navigate those errors.",
+      "t": 29.81
+    },
+    {
+      "text": "root cause",
+      "count": 6,
+      "example": "The deeper dive, the root cause analysis that follows, that's where you figure out the systemic stuff.",
+      "t": 237.56
+    },
+    {
+      "text": "source material",
+      "count": 5,
+      "example": "Well, we've got some great source material you shared with us.",
+      "t": 46.25
+    },
+    {
+      "text": "downstream impact",
+      "count": 5,
+      "example": "The manager asks, what downstream impact are we facing and who needs a heads up before noon?",
+      "t": 292.78
+    },
+    {
+      "text": "shiny launches",
+      "count": 5,
+      "example": "Communicate to product leads that stability trumps shiny launches today.",
+      "t": 1016.18
+    },
+    {
+      "text": "leadership maturity",
+      "count": 5,
+      "example": "It signals true leadership maturity.",
+      "t": 1024.28
+    },
+    {
+      "text": "dashboard data",
+      "count": 4,
+      "example": "Not just the mistake itself, you know, the shipment variance, the wrong invoice, maybe some wonky dashboard data.",
+      "t": 21.9
+    },
+    {
+      "text": "making sure",
+      "count": 4,
+      "example": "And finally, phase four, cultivating a learning culture, making sure the lessons actually stick.",
+      "t": 110.54
+    },
+    {
+      "text": "variance traces",
+      "count": 4,
+      "example": "And unfortunately, the variance traces back to my approval.",
+      "t": 156.34
+    }
+  ],
+  "phrases": [
+    {
+      "text": "traces back",
+      "count": 7,
+      "example": "And unfortunately, the variance traces back to my approval.",
+      "t": 156.34
+    },
+    {
+      "text": "business english",
+      "count": 6,
+      "example": "The specific constructive business English and the communication tactics people use to navigate those errors.",
+      "t": 29.81
+    },
+    {
+      "text": "root cause",
+      "count": 6,
+      "example": "The deeper dive, the root cause analysis that follows, that's where you figure out the systemic stuff.",
+      "t": 237.56
+    },
+    {
+      "text": "source material",
+      "count": 5,
+      "example": "Well, we've got some great source material you shared with us.",
+      "t": 46.25
+    },
+    {
+      "text": "downstream impact",
+      "count": 5,
+      "example": "The manager asks, what downstream impact are we facing and who needs a heads up before noon?",
+      "t": 292.78
+    },
+    {
+      "text": "shiny launches",
+      "count": 5,
+      "example": "Communicate to product leads that stability trumps shiny launches today.",
+      "t": 1016.18
+    },
+    {
+      "text": "leadership maturity",
+      "count": 5,
+      "example": "It signals true leadership maturity.",
+      "t": 1024.28
+    },
+    {
+      "text": "dashboard data",
+      "count": 4,
+      "example": "Not just the mistake itself, you know, the shipment variance, the wrong invoice, maybe some wonky dashboard data.",
+      "t": 21.9
+    },
+    {
+      "text": "making sure",
+      "count": 4,
+      "example": "And finally, phase four, cultivating a learning culture, making sure the lessons actually stick.",
+      "t": 110.54
+    },
+    {
+      "text": "variance traces",
+      "count": 4,
+      "example": "And unfortunately, the variance traces back to my approval.",
+      "t": 156.34
+    },
+    {
+      "text": "variance traces back",
+      "count": 4,
+      "example": "And unfortunately, the variance traces back to my approval.",
+      "t": 156.34
+    },
+    {
+      "text": "service credit",
+      "count": 4,
+      "example": "And connected to that, they're thinking about the financial side, too, asking, do we need to offer a service credit or will swift corrections satisfy their leadership?",
+      "t": 532.4
+    },
+    {
+      "text": "product leads",
+      "count": 4,
+      "example": "Think about, say, the product leads.",
+      "t": 587.71
+    },
+    {
+      "text": "personal and sincere",
+      "count": 4,
+      "example": "Loop legal by sharing the draft email, but keep the client call personal and sincere.",
+      "t": 636.98
+    },
+    {
+      "text": "concrete evidence",
+      "count": 4,
+      "example": "Concrete evidence is king.",
+      "t": 708.88
+    },
+    {
+      "text": "platform engineering",
+      "count": 4,
+      "example": "Invite platform engineering to add role restrictions.",
+      "t": 830.53
+    },
+    {
+      "text": "role restrictions",
+      "count": 4,
+      "example": "Invite platform engineering to add role restrictions.",
+      "t": 830.53
+    },
+    {
+      "text": "makes sense",
+      "count": 4,
+      "example": "Makes sense.",
+      "t": 918.22
+    },
+    {
+      "text": "stability trumps",
+      "count": 4,
+      "example": "Communicate to product leads that stability trumps shiny launches today.",
+      "t": 1016.18
+    },
+    {
+      "text": "trumps shiny",
+      "count": 4,
+      "example": "Communicate to product leads that stability trumps shiny launches today.",
+      "t": 1016.18
+    },
+    {
+      "text": "stability trumps shiny",
+      "count": 4,
+      "example": "Communicate to product leads that stability trumps shiny launches today.",
+      "t": 1016.18
+    },
+    {
+      "text": "trumps shiny launches",
+      "count": 4,
+      "example": "Communicate to product leads that stability trumps shiny launches today.",
+      "t": 1016.18
+    },
+    {
+      "text": "transparent growth",
+      "count": 4,
+      "example": "Now, phase four, the cultural pivot and transparent growth, making sure the learning sticks.",
+      "t": 1047.7
+    },
+    {
+      "text": "support structures",
+      "count": 4,
+      "example": "Honestly, acknowledging the pressure helps us design support structures better.",
+      "t": 1088.71
+    },
+    {
+      "text": "brown bag",
+      "count": 4,
+      "example": "Scheduling a brown bag session, you know, an informal lunch meeting to teach everyone the updated process and explain the new safeguards.",
+      "t": 1200.49
+    },
+    {
+      "text": "whole process",
+      "count": 4,
+      "example": "And the ultimate outcome, as the source material puts it, is that this whole process demonstrates leadership maturity and ensures the same oversight never repeats.",
+      "t": 1264.53
+    },
+    {
+      "text": "executive presence",
+      "count": 4,
+      "example": "Finally, turning back to reassurance and maybe executive presence.",
+      "t": 2379.68
+    },
+    {
+      "text": "go wrong",
+      "count": 3,
+      "example": "We're looking at what happens after things go wrong.",
+      "t": 19.11
+    },
+    {
+      "text": "handle setbacks",
+      "count": 3,
+      "example": "That shows you can handle setbacks transparently.",
+      "t": 43.56
+    },
+    {
+      "text": "setbacks transparently",
+      "count": 3,
+      "example": "That shows you can handle setbacks transparently.",
+      "t": 43.56
+    },
+    {
+      "text": "handle setbacks transparently",
+      "count": 3,
+      "example": "That shows you can handle setbacks transparently.",
+      "t": 43.56
+    },
+    {
+      "text": "next time",
+      "count": 3,
+      "example": "So you, listening, can walk away knowing exactly what to say the next time something like this crops up in your world.",
+      "t": 70.62
+    },
+    {
+      "text": "phase one",
+      "count": 3,
+      "example": "First up is phase one, the language of immediate accountability, basically owning the miss right away.",
+      "t": 90.91
+    },
+    {
+      "text": "immediate accountability",
+      "count": 3,
+      "example": "First up is phase one, the language of immediate accountability, basically owning the miss right away.",
+      "t": 90.91
+    },
+    {
+      "text": "phase two",
+      "count": 3,
+      "example": "Then phase two, strategic stakeholder communication, getting the message right both outside and inside the company.",
+      "t": 97.86
+    },
+    {
+      "text": "inside the company",
+      "count": 3,
+      "example": "Then phase two, strategic stakeholder communication, getting the message right both outside and inside the company.",
+      "t": 97.86
+    },
+    {
+      "text": "process safeguards",
+      "count": 3,
+      "example": "Phase three is about building the fix, designing technical and process safeguards so it doesn't happen again.",
+      "t": 104.39
+    },
+    {
+      "text": "unexpected variance",
+      "count": 3,
+      "example": "I spotted an unexpected variance in the shipment logs from yesterday.",
+      "t": 130.75
+    },
+    {
+      "text": "thanks for flagging",
+      "count": 3,
+      "example": "They say, thanks for flagging it quickly.",
+      "t": 186.2
+    },
+    {
+      "text": "flagging it quickly",
+      "count": 3,
+      "example": "They say, thanks for flagging it quickly.",
+      "t": 186.2
+    },
+    {
+      "text": "immediate ownership",
+      "count": 3,
+      "example": "But in really high functioning teams, that immediate ownership is about establishing a single point for fixing it now.",
+      "t": 231.05
+    },
+    {
+      "text": "cause analysis",
+      "count": 3,
+      "example": "The deeper dive, the root cause analysis that follows, that's where you figure out the systemic stuff.",
+      "t": 237.56
+    },
+    {
+      "text": "root cause analysis",
+      "count": 3,
+      "example": "The deeper dive, the root cause analysis that follows, that's where you figure out the systemic stuff.",
+      "t": 237.56
+    },
+    {
+      "text": "bypassing safeguards",
+      "count": 3,
+      "example": "Pressure happens, yet bypassing safeguards exposes us.",
+      "t": 271.48
+    },
+    {
+      "text": "path forward",
+      "count": 3,
+      "example": "So the path forward starts taking shape right away.",
+      "t": 340.7
+    },
+    {
+      "text": "honest update",
+      "count": 3,
+      "example": "They commit to drafting an honest update, something stressing accountability and our corrective path forward.",
+      "t": 343.83
+    },
+    {
+      "text": "containment steps",
+      "count": 3,
+      "example": "And the individual also commits to calling operations directly to own the miss and outline the temporary containment steps clearly.",
+      "t": 354.08
+    },
+    {
+      "text": "root causes",
+      "count": 3,
+      "example": "Yeah, the manager says something like, after the calls, block 30 minutes with me to dissect root causes calmly.",
+      "t": 375.22
+    },
+    {
+      "text": "within the hour",
+      "count": 3,
+      "example": "Honesty within the hour keeps confidence intact despite today's stumble.",
+      "t": 427.02
+    },
+    {
+      "text": "apologize plainly",
+      "count": 3,
+      "example": "I'll call their project lead, apologize plainly, and share the corrected statement while we talk.",
+      "t": 457.07
+    },
+    {
+      "text": "one thing",
+      "count": 3,
+      "example": "You're not just fixing this one thing.",
+      "t": 493.4
+    },
+    {
+      "text": "surprises later",
+      "count": 3,
+      "example": "The rule here is transparency to avoid surprises later.",
+      "t": 575.72
+    },
+    {
+      "text": "client call",
+      "count": 3,
+      "example": "Loop legal by sharing the draft email, but keep the client call personal and sincere.",
+      "t": 636.98
+    },
+    {
+      "text": "call personal",
+      "count": 3,
+      "example": "Loop legal by sharing the draft email, but keep the client call personal and sincere.",
+      "t": 636.98
+    },
+    {
+      "text": "keep the client",
+      "count": 3,
+      "example": "Loop legal by sharing the draft email, but keep the client call personal and sincere.",
+      "t": 636.98
+    },
+    {
+      "text": "client call personal",
+      "count": 3,
+      "example": "Loop legal by sharing the draft email, but keep the client call personal and sincere.",
+      "t": 636.98
+    },
+    {
+      "text": "recovery process",
+      "count": 3,
+      "example": "You have to document the recovery process.",
+      "t": 673.07
+    },
+    {
+      "text": "new alerts",
+      "count": 3,
+      "example": "By being specific, they share the new alerts we activated tonight and explicitly highlight things like hourly validations.",
+      "t": 853.96
+    },
+    {
+      "text": "human element",
+      "count": 3,
+      "example": "You have to address the process safeguards, the human element.",
+      "t": 882.07
+    },
+    {
+      "text": "buddy review",
+      "count": 3,
+      "example": "And what about the buddy review?",
+      "t": 918.88
+    },
+    {
+      "text": "fresh eyes",
+      "count": 3,
+      "example": "Ah, the buddy review rotation so approvals always have fresh eyes regardless of rush.",
+      "t": 920.23
+    },
+    {
+      "text": "peer review",
+      "count": 3,
+      "example": "Institutionalized peer review.",
+      "t": 941.06
+    },
+    {
+      "text": "contingency playbook",
+      "count": 3,
+      "example": "They talk about drafting a contingency playbook.",
+      "t": 948.7
+    },
+    {
+      "text": "muscle memory",
+      "count": 3,
+      "example": "tabletop exercises, organizing quarterly simulations to keep that muscle memory sharp during crisis.",
+      "t": 980.79
+    },
+    {
+      "text": "launches today",
+      "count": 3,
+      "example": "Communicate to product leads that stability trumps shiny launches today.",
+      "t": 1016.18
+    },
+    {
+      "text": "shiny launches today",
+      "count": 3,
+      "example": "Communicate to product leads that stability trumps shiny launches today.",
+      "t": 1016.18
+    },
+    {
+      "text": "three urgent",
+      "count": 3,
+      "example": "Let's set a threshold where you ping me once three urgent tasks collide.",
+      "t": 1152.35
+    },
+    {
+      "text": "urgent tasks",
+      "count": 3,
+      "example": "Let's set a threshold where you ping me once three urgent tasks collide.",
+      "t": 1152.35
+    },
+    {
+      "text": "tasks collide",
+      "count": 3,
+      "example": "Let's set a threshold where you ping me once three urgent tasks collide.",
+      "t": 1152.35
+    },
+    {
+      "text": "three urgent tasks",
+      "count": 3,
+      "example": "Let's set a threshold where you ping me once three urgent tasks collide.",
+      "t": 1152.35
+    },
+    {
+      "text": "urgent tasks collide",
+      "count": 3,
+      "example": "Let's set a threshold where you ping me once three urgent tasks collide.",
+      "t": 1152.35
+    },
+    {
+      "text": "compliance weekly",
+      "count": 3,
+      "example": "They agree to track compliance weekly for the next quarter.",
+      "t": 1237.7
+    },
+    {
+      "text": "next quarter",
+      "count": 3,
+      "example": "They agree to track compliance weekly for the next quarter.",
+      "t": 1237.7
+    },
+    {
+      "text": "cultural shift",
+      "count": 3,
+      "example": "It makes the cultural shift measurable.",
+      "t": 1261.56
+    },
+    {
+      "text": "owning mistakes",
+      "count": 3,
+      "example": "It shows that owning mistakes openly with proof of correction actually builds more trust in the long run than trying to hide things or just glossing over them.",
+      "t": 1352.26
+    },
+    {
+      "text": "long term",
+      "count": 3,
+      "example": "How do you maintain that vigilance long term?",
+      "t": 1419.34
+    },
+    {
+      "text": "sources show",
+      "count": 3,
+      "example": "The sources show you need to start with a really objective statement of discovery.",
+      "t": 1579.47
+    },
+    {
+      "text": "measurable process",
+      "count": 3,
+      "example": "We've really analyzed how to turn these high-pressure, high-stakes errors, whether they're shipping variances, dashboard data slips, or billing mistakes, into a structured, measurable process that's defined entirely by professional communication.",
+      "t": 3064.09
+    },
+    {
+      "text": "things go",
+      "count": 2,
+      "example": "We're looking at what happens after things go wrong.",
+      "t": 19.11
+    },
+    {
+      "text": "things go wrong",
+      "count": 2,
+      "example": "We're looking at what happens after things go wrong.",
+      "t": 19.11
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.47,
+      "text": "Today, we're really getting into the weeds of high-stakes professional conversations."
+    },
+    {
+      "t": 18.7,
+      "text": "That's right."
+    },
+    {
+      "t": 19.11,
+      "text": "We're looking at what happens after things go wrong."
+    },
+    {
+      "t": 21.0,
+      "text": "Yeah, exactly."
+    },
+    {
+      "t": 21.9,
+      "text": "Not just the mistake itself, you know, the shipment variance, the wrong invoice, maybe some wonky dashboard data."
+    },
+    {
+      "t": 27.9,
+      "text": "We're focusing on the actual language."
+    },
+    {
+      "t": 29.81,
+      "text": "The specific constructive business English and the communication tactics people use to navigate those errors."
+    },
+    {
+      "t": 38.27,
+      "text": "How do you turn that failure, that hiccup, into something that actually builds confidence?"
+    },
+    {
+      "t": 43.56,
+      "text": "That shows you can handle setbacks transparently."
+    },
+    {
+      "t": 46.25,
+      "text": "Well, we've got some great source material you shared with us."
+    },
+    {
+      "t": 48.84,
+      "text": "Real-time business conversations right after these kinds of significant mistakes happen."
+    },
+    {
+      "t": 53.92,
+      "text": "Yeah, real dialogues."
+    },
+    {
+      "t": 54.96,
+      "text": "And what's fascinating is seeing how effective leaders pivot."
+    },
+    {
+      "t": 58.83,
+      "text": "They move almost instantly from the panic of the mistake itself to the very precise actions needed for recovery."
+    },
+    {
+      "t": 65.98,
+      "text": "So our mission here is to pull out that essential vocabulary, those communication roadmaps."
+    },
+    {
+      "t": 70.62,
+      "text": "So you, listening, can walk away knowing exactly what to say the next time something like this crops up in your world."
+    },
+    {
+      "t": 77.75,
+      "text": "Because it's not just about what happened."
+    },
+    {
+      "t": 79.77,
+      "text": "It's about how you respond, the words you choose."
+    },
+    {
+      "t": 82.8,
+      "text": "Okay, so dealing with a crisis like this, it isn't random, is it?"
+    },
+    {
+      "t": 87.04,
+      "text": "There's a structure."
+    },
+    {
+      "t": 87.88,
+      "text": "We've broken it down into four key phases."
+    },
+    {
+      "t": 90.33,
+      "text": "We have."
+    },
+    {
+      "t": 90.91,
+      "text": "First up is phase one, the language of immediate accountability, basically owning the miss right away."
+    },
+    {
+      "t": 97.86,
+      "text": "Then phase two, strategic stakeholder communication, getting the message right both outside and inside the company."
+    },
+    {
+      "t": 104.39,
+      "text": "Phase three is about building the fix, designing technical and process safeguards so it doesn't happen again."
+    },
+    {
+      "t": 110.54,
+      "text": "And finally, phase four, cultivating a learning culture, making sure the lessons actually stick."
+    },
+    {
+      "t": 115.78,
+      "text": "Yeah, there's a lot of really nuanced language here to unpack."
+    },
+    {
+      "t": 118.44,
+      "text": "Let's dive in."
+    },
+    {
+      "t": 119.32,
+      "text": "Okay, phase one, starting right at the beginning, the moment the error comes to light."
+    },
+    {
+      "t": 123.55,
+      "text": "Ground zero."
+    },
+    {
+      "t": 124.56,
+      "text": "The dialogue we looked at starts very factually."
+    },
+    {
+      "t": 127.36,
+      "text": "Prompt clear identification, someone says."
+    },
+    {
+      "t": 130.75,
+      "text": "I spotted an unexpected variance in the shipment logs from yesterday."
+    },
+    {
+      "t": 134.12,
+      "text": "And that phrasing is key, isn't it?"
+    },
+    {
+      "t": 136.28,
+      "text": "It's objective, unexpected variance."
+    },
+    {
+      "t": 138.89,
+      "text": "It just states the fact, no drama, no blame yet."
+    },
+    {
+      "t": 141.84,
+      "text": "Right."
+    },
+    {
+      "t": 142.18,
+      "text": "Just the data."
+    },
+    {
+      "t": 143.12,
+      "text": "And that immediate clear flagging, it's sort of foundational."
+    },
+    {
+      "t": 146.91,
+      "text": "But what really stood out to me was the response from the person whose area it was."
+    },
+    {
+      "t": 152.31,
+      "text": "They don't wait to be cornered."
+    },
+    {
+      "t": 153.33,
+      "text": "They jump right in."
+    },
+    {
+      "t": 154.71,
+      "text": "I noticed it, too."
+    },
+    {
+      "t": 156.34,
+      "text": "And unfortunately, the variance traces back to my approval."
+    },
+    {
+      "t": 160.04,
+      "text": "Wow."
+    },
+    {
+      "t": 160.86,
+      "text": "That's taking ownership instantly."
+    },
+    {
+      "t": 163.15,
+      "text": "Traces back to my approval."
+    },
+    {
+      "t": 164.39,
+      "text": "Exactly."
+    },
+    {
+      "t": 164.87,
+      "text": "It's surgical, like you said."
+    },
+    {
+      "t": 166.25,
+      "text": "It tells everyone, OK, I see it."
+    },
+    {
+      "t": 167.83,
+      "text": "I know where it originated."
+    },
+    {
+      "t": 169.31,
+      "text": "I'm dealing with it, not just reacting defensively."
+    },
+    {
+      "t": 171.76,
+      "text": "I really like that phrase, traces back to my approval."
+    },
+    {
+      "t": 174.02,
+      "text": "It feels very professional."
+    },
+    {
+      "t": 175.16,
+      "text": "It shifts the focus from, you know, oh, no, I messed up to, OK, the breakdown in the process happened here."
+    },
+    {
+      "t": 181.01,
+      "text": "Precisely."
+    },
+    {
+      "t": 182.02,
+      "text": "It helps control the narrative right from the start."
+    },
+    {
+      "t": 184.46,
+      "text": "And the manager's response is also important."
+    },
+    {
+      "t": 186.2,
+      "text": "They say, thanks for flagging it quickly."
+    },
+    {
+      "t": 188.33,
+      "text": "Ah, so acknowledging the speed, reinforcing the behavior."
+    },
+    {
+      "t": 191.69,
+      "text": "If you want people to be honest next time, you reward that transparency, even when the news is bad."
+    },
+    {
+      "t": 198.44,
+      "text": "Simple gratitude goes a long way."
+    },
+    {
+      "t": 200.3,
+      "text": "Okay, so validation, then straight to analysis."
+    },
+    {
+      "t": 202.81,
+      "text": "Pretty much."
+    },
+    {
+      "t": 203.33,
+      "text": "The manager pivots immediately, asking, let's unpack how this slipped through our checks."
+    },
+    {
+      "t": 207.53,
+      "text": "Unpack how this slipped through."
+    },
+    {
+      "t": 208.69,
+      "text": "I like that, too."
+    },
+    {
+      "t": 209.23,
+      "text": "It sounds collaborative, analytical, like solving a puzzle, not pointing fingers."
+    },
+    {
+      "t": 214.26,
+      "text": "Right."
+    },
+    {
+      "t": 214.96,
+      "text": "It frames it as a systemic question, not just an individual failing."
+    },
+    {
+      "t": 218.71,
+      "text": "But I wonder when someone takes responsibility that fast, is there a danger they're falling on their sword for a bigger, maybe systemic issue?"
+    },
+    {
+      "t": 227.72,
+      "text": "That's a really fair point."
+    },
+    {
+      "t": 229.05,
+      "text": "And yes, there can be a risk."
+    },
+    {
+      "t": 231.05,
+      "text": "But in really high functioning teams, that immediate ownership is about establishing a single point for fixing it now."
+    },
+    {
+      "t": 237.44,
+      "text": "Okay."
+    },
+    {
+      "t": 237.56,
+      "text": "The deeper dive, the root cause analysis that follows, that's where you figure out the systemic stuff."
+    },
+    {
+      "t": 242.89,
+      "text": "Yeah."
+    },
+    {
+      "t": 243.01,
+      "text": "It's the process, the tools, the training."
+    },
+    {
+      "t": 245.85,
+      "text": "Got it."
+    },
+    {
+      "t": 246.37,
+      "text": "So in this case, what was the reason it slipped through?"
+    },
+    {
+      "t": 248.78,
+      "text": "It came down to human pressure, basically overriding the established controls."
+    },
+    {
+      "t": 253.19,
+      "text": "The person admitted, I skipped the secondary review because the client pinged me repeatedly for confirmation."
+    },
+    {
+      "t": 259.48,
+      "text": "Oh, okay."
+    },
+    {
+      "t": 259.86,
+      "text": "The classic pressure situation."
+    },
+    {
+      "t": 261.32,
+      "text": "Client needs it now."
+    },
+    {
+      "t": 262.26,
+      "text": "Yep."
+    },
+    {
+      "t": 263.51,
+      "text": "And the system had a vulnerability there."
+    },
+    {
+      "t": 265.87,
+      "text": "The manager addresses it really well, though."
+    },
+    {
+      "t": 268.25,
+      "text": "Very clear professional coaching language."
+    },
+    {
+      "t": 271.48,
+      "text": "Pressure happens, yet bypassing safeguards exposes us."
+    },
+    {
+      "t": 274.67,
+      "text": "It acknowledges the reality pressure does happen."
+    },
+    {
+      "t": 277.74,
+      "text": "But it also draws a firm line."
+    },
+    {
+      "t": 279.76,
+      "text": "You just can't skip the safety checks."
+    },
+    {
+      "t": 281.67,
+      "text": "The standard has to hold."
+    },
+    {
+      "t": 283.25,
+      "text": "So accepting responsibility, identifying the immediate cause."
+    },
+    {
+      "t": 288.04,
+      "text": "What's next?"
+    },
+    {
+      "t": 288.84,
+      "text": "Assessing the impact."
+    },
+    {
+      "t": 290.2,
+      "text": "The downstream effects."
+    },
+    {
+      "t": 291.28,
+      "text": "This is where they figure out the scope of the problem."
+    },
+    {
+      "t": 292.78,
+      "text": "The manager asks, what downstream impact are we facing and who needs a heads up before noon?"
+    },
+    {
+      "t": 297.35,
+      "text": "Okay."
+    },
+    {
+      "t": 297.67,
+      "text": "Downstream impact."
+    },
+    {
+      "t": 299.19,
+      "text": "Why that term specifically?"
+    },
+    {
+      "t": 300.92,
+      "text": "Not just, you know, what's the damage?"
+    },
+    {
+      "t": 302.68,
+      "text": "Well, downstream impact sounds more systemic, more organizational."
+    },
+    {
+      "t": 307.23,
+      "text": "It suggests the error doesn't just stop here."
+    },
+    {
+      "t": 309.31,
+      "text": "It ripples out."
+    },
+    {
+      "t": 310.71,
+      "text": "Affects finance, maybe operations."
+    },
+    {
+      "t": 312.42,
+      "text": "Definitely the client."
+    },
+    {
+      "t": 313.28,
+      "text": "Right."
+    },
+    {
+      "t": 313.46,
+      "text": "It forces a broader view."
+    },
+    {
+      "t": 314.6,
+      "text": "Exactly."
+    },
+    {
+      "t": 315.54,
+      "text": "It makes you think beyond just your own desk or your own team."
+    },
+    {
+      "t": 319.69,
+      "text": "And the answer in the source material was specific."
+    },
+    {
+      "t": 322.61,
+      "text": "Finance is reconciling now, and the client expects revised data before their 2.00 call."
+    },
+    {
+      "t": 328.28,
+      "text": "Ah, the 2.00 PM call."
+    },
+    {
+      "t": 330.48,
+      "text": "That sets a very clear, hard deadline."
+    },
+    {
+      "t": 333.46,
+      "text": "Creates immediate urgency."
+    },
+    {
+      "t": 335.45,
+      "text": "Definitely."
+    },
+    {
+      "t": 336.06,
+      "text": "No ambiguity there."
+    },
+    {
+      "t": 337.56,
+      "text": "Success or failure hinges on hitting that deadline."
+    },
+    {
+      "t": 340.7,
+      "text": "So the path forward starts taking shape right away."
+    },
+    {
+      "t": 343.83,
+      "text": "They commit to drafting an honest update, something stressing accountability and our corrective path forward."
+    },
+    {
+      "t": 349.42,
+      "text": "Notice they're communicating the plan to fix it even before it's fully fixed."
+    },
+    {
+      "t": 352.86,
+      "text": "That's important."
+    },
+    {
+      "t": 354.08,
+      "text": "And the individual also commits to calling operations directly to own the miss and outline the temporary containment steps clearly."
+    },
+    {
+      "t": 361.54,
+      "text": "Own the miss."
+    },
+    {
+      "t": 362.68,
+      "text": "That phrase keeps coming up."
+    },
+    {
+      "t": 363.99,
+      "text": "It really encapsulates this whole first phase, doesn't it?"
+    },
+    {
+      "t": 366.09,
+      "text": "It's concise."
+    },
+    {
+      "t": 366.89,
+      "text": "It's active."
+    },
+    {
+      "t": 367.51,
+      "text": "It focuses on fixing things, not making excuses."
+    },
+    {
+      "t": 370.2,
+      "text": "And they structure the response, too, separating the immediate firefighting from the deeper analysis."
+    },
+    {
+      "t": 375.22,
+      "text": "Yeah, the manager says something like, after the calls, block 30 minutes with me to dissect root causes calmly."
+    },
+    {
+      "t": 381.97,
+      "text": "They isolate the urgent stuff so the strategic thinking isn't rushed or done in panic mode."
+    },
+    {
+      "t": 387.26,
+      "text": "Smart."
+    },
+    {
+      "t": 388.06,
+      "text": "And the final bit here seems to be about tracking everything."
+    },
+    {
+      "t": 390.78,
+      "text": "I'm capturing each action so nothing falls between responsibilities."
+    },
+    {
+      "t": 395.01,
+      "text": "Absolutely."
+    },
+    {
+      "t": 395.91,
+      "text": "That systematic tracking, who's doing what by when, ensures accountability and shows discipline."
+    },
+    {
+      "t": 401.66,
+      "text": "It's the foundation for restoring trust quickly."
+    },
+    {
+      "t": 404.28,
+      "text": "OK, so that's phase one, immediate accountability, clear language, setting the stage for recovery."
+    },
+    {
+      "t": 409.79,
+      "text": "Now phase two, strategic communication and stakeholder management."
+    },
+    {
+      "t": 414.43,
+      "text": "Right."
+    },
+    {
+      "t": 414.71,
+      "text": "You've owned it internally."
+    },
+    {
+      "t": 415.95,
+      "text": "Now you need to manage how it looks externally, especially to the client, and keep things stable inside the company."
+    },
+    {
+      "t": 422.21,
+      "text": "Let's talk about the client first."
+    },
+    {
+      "t": 423.63,
+      "text": "The sources really stress honesty and crucially timing."
+    },
+    {
+      "t": 427.02,
+      "text": "Honesty within the hour keeps confidence intact despite today's stumble."
+    },
+    {
+      "t": 430.62,
+      "text": "Within the hour."
+    },
+    {
+      "t": 431.94,
+      "text": "That's not just a random time frame."
+    },
+    {
+      "t": 433.73,
+      "text": "It's about control."
+    },
+    {
+      "t": 434.99,
+      "text": "If you wait too long, the client might discover the error themselves."
+    },
+    {
+      "t": 438.77,
+      "text": "Maybe their finance department flags a weird invoice or they notice the shipment hasn't arrived."
+    },
+    {
+      "t": 444.05,
+      "text": "Ah, and finding out secondhand is always worse."
+    },
+    {
+      "t": 446.91,
+      "text": "Much worse."
+    },
+    {
+      "t": 447.97,
+      "text": "When you deliver the bad news proactively, you control the narrative."
+    },
+    {
+      "t": 452.26,
+      "text": "You show you're on top of it, vigilant."
+    },
+    {
+      "t": 454.89,
+      "text": "And the action required is specific, too."
+    },
+    {
+      "t": 457.07,
+      "text": "I'll call their project lead, apologize plainly, and share the corrected statement while we talk."
+    },
+    {
+      "t": 463.14,
+      "text": "Why, apologize plainly."
+    },
+    {
+      "t": 465.29,
+      "text": "Plain language cuts through."
+    },
+    {
+      "t": 466.89,
+      "text": "In a crisis, corporate jargon or overly careful legalistic phrasing can sound like you're hiding something or deflecting."
+    },
+    {
+      "t": 474.39,
+      "text": "Right."
+    },
+    {
+      "t": 474.75,
+      "text": "It sounds insincere."
+    },
+    {
+      "t": 476.05,
+      "text": "Exactly."
+    },
+    {
+      "t": 476.71,
+      "text": "A simple direct apology says, we get it."
+    },
+    {
+      "t": 478.78,
+      "text": "We understand this affects you."
+    },
+    {
+      "t": 480.46,
+      "text": "And crucially, they immediately link that apology to proving it won't happen again."
+    },
+    {
+      "t": 484.55,
+      "text": "Oh."
+    },
+    {
+      "t": 485.25,
+      "text": "By promising to start auditing similar invoices so nothing else blindsides their finance crew."
+    },
+    {
+      "t": 489.82,
+      "text": "Oh, that's clever."
+    },
+    {
+      "t": 490.56,
+      "text": "It shows the mistake is already driving broader improvements."
+    },
+    {
+      "t": 493.4,
+      "text": "You're not just fixing this one thing."
+    },
+    {
+      "t": 495.31,
+      "text": "You're strengthening the whole system because of it."
+    },
+    {
+      "t": 497.87,
+      "text": "It turns a negative into a demonstration of diligence."
+    },
+    {
+      "t": 501.64,
+      "text": "And then there's the follow-up, offering a 15-minute sink."
+    },
+    {
+      "t": 504.81,
+      "text": "Yeah, just 15 minutes seems short."
+    },
+    {
+      "t": 507.56,
+      "text": "That's the point."
+    },
+    {
+      "t": 508.3,
+      "text": "It's tactical."
+    },
+    {
+      "t": 509.58,
+      "text": "A 15-minute sync signals control and respect for their time."
+    },
+    {
+      "t": 513.42,
+      "text": "It says, we've got this handled."
+    },
+    {
+      "t": 515.12,
+      "text": "Here's the update."
+    },
+    {
+      "t": 515.85,
+      "text": "We know you're busy."
+    },
+    {
+      "t": 517.11,
+      "text": "Ah, whereas an hour-long meeting might suggest panic, like, oh, God, we need to have a massive damage control session."
+    },
+    {
+      "t": 522.81,
+      "text": "Precisely."
+    },
+    {
+      "t": 523.85,
+      "text": "The short sync shows we're committed to stabilizing operations efficiently."
+    },
+    {
+      "t": 528.6,
+      "text": "It offers availability without suggesting the problem is spiraling."
+    },
+    {
+      "t": 532.4,
+      "text": "And connected to that, they're thinking about the financial side, too, asking, do we need to offer a service credit or will swift corrections satisfy their leadership?"
+    },
+    {
+      "t": 540.54,
+      "text": "Right."
+    },
+    {
+      "t": 541.0,
+      "text": "Making the response proportional."
+    },
+    {
+      "t": 543.0,
+      "text": "Is a quick, clean fix enough?"
+    },
+    {
+      "t": 545.59,
+      "text": "Or was the impact significant enough to warrant a concession like a service credit?"
+    },
+    {
+      "t": 549.49,
+      "text": "But you can't just offer things randomly, right?"
+    },
+    {
+      "t": 551.83,
+      "text": "No, definitely not."
+    },
+    {
+      "t": 553.35,
+      "text": "The guidance is clear."
+    },
+    {
+      "t": 554.7,
+      "text": "Any concession has to align with our contracts and precedent."
+    },
+    {
+      "t": 558.67,
+      "text": "You need to check with legal or compliance."
+    },
+    {
+      "t": 561.01,
+      "text": "Sincerity is crucial, but the response also has to be strategically sound and contractually viable."
+    },
+    {
+      "t": 567.42,
+      "text": "Okay, that covers the external communication."
+    },
+    {
+      "t": 569.71,
+      "text": "What about internally, managing stakeholders inside the company?"
+    },
+    {
+      "t": 574.46,
+      "text": "Equally critical."
+    },
+    {
+      "t": 575.72,
+      "text": "The rule here is transparency to avoid surprises later."
+    },
+    {
+      "t": 579.09,
+      "text": "As the source says, loop them in now, surprises later would erode trust we worked hard to rebuild."
+    },
+    {
+      "t": 584.35,
+      "text": "Hmm."
+    },
+    {
+      "t": 584.87,
+      "text": "Trust is hard won, easily lost."
+    },
+    {
+      "t": 587.05,
+      "text": "Exactly."
+    },
+    {
+      "t": 587.71,
+      "text": "Think about, say, the product leads."
+    },
+    {
+      "t": 589.97,
+      "text": "If they're planning a launch based on that faulty dashboard data..."
+    },
+    {
+      "t": 593.11,
+      "text": "They're building on shaky ground."
+    },
+    {
+      "t": 594.76,
+      "text": "Right."
+    },
+    {
+      "t": 595.08,
+      "text": "So sharing the issue in the remediation timeline keeps their planning grounded in reality."
+    },
+    {
+      "t": 600.64,
+      "text": "You're treating the mistake not as a secret shame, but as shared operational knowledge."
+    },
+    {
+      "t": 604.99,
+      "text": "But isn't there a risk in telling everyone internally straight away?"
+    },
+    {
+      "t": 607.75,
+      "text": "Couldn't it cause unnecessary panic or draw too much scrutiny before you even fully understand the root cause?"
+    },
+    {
+      "t": 613.57,
+      "text": "That's where tiered communication comes in."
+    },
+    {
+      "t": 615.91,
+      "text": "You immediately loop in the people directly affected or involved in the fix, like finance, operations, relevant product leads, maybe not a company-wide broadcast initially."
+    },
+    {
+      "t": 625.68,
+      "text": "Okay."
+    },
+    {
+      "t": 626.02,
+      "text": "Targeted transparency."
+    },
+    {
+      "t": 627.21,
+      "text": "Yes."
+    },
+    {
+      "t": 627.85,
+      "text": "And you provide a clear, consistent message."
+    },
+    {
+      "t": 631.31,
+      "text": "For tricky issues like myth billing with potential legal implications, the protocol is specific."
+    },
+    {
+      "t": 636.98,
+      "text": "Loop legal by sharing the draft email, but keep the client call personal and sincere."
+    },
+    {
+      "t": 641.84,
+      "text": "Ah, so legal checks, the wording, the risk, the policy."
+    },
+    {
+      "t": 646.17,
+      "text": "But the relationship owner delivers the message personally, maintaining that human connection."
+    },
+    {
+      "t": 651.32,
+      "text": "That distinction feels important."
+    },
+    {
+      "t": 653.16,
+      "text": "Legal covers the formal side."
+    },
+    {
+      "t": 654.59,
+      "text": "The leader handles the relationship tone."
+    },
+    {
+      "t": 656.89,
+      "text": "Absolutely."
+    },
+    {
+      "t": 657.77,
+      "text": "And making sure everyone's singing from the same hymn sheet is vital."
+    },
+    {
+      "t": 660.82,
+      "text": "That's why posting key takeaways in a shared leadership channel is mentioned."
+    },
+    {
+      "t": 664.7,
+      "text": "One source of truth."
+    },
+    {
+      "t": 665.66,
+      "text": "Got it."
+    },
+    {
+      "t": 666.1,
+      "text": "So clear communication internally and externally."
+    },
+    {
+      "t": 669.55,
+      "text": "What's the final piece of this phase?"
+    },
+    {
+      "t": 671.25,
+      "text": "Documentation."
+    },
+    {
+      "t": 672.37,
+      "text": "Proof."
+    },
+    {
+      "t": 673.07,
+      "text": "You have to document the recovery process."
+    },
+    {
+      "t": 674.72,
+      "text": "Not just for now, but for later."
+    },
+    {
+      "t": 676.36,
+      "text": "Both."
+    },
+    {
+      "t": 677.46,
+      "text": "For immediate stakeholders, so everyone knows what's happening, and definitely for future audits or reviews, summarizing notes in the incident channel creates that real-time log."
+    },
+    {
+      "t": 688.07,
+      "text": "And the sources mention specific metrics for updates, like for the next day's stand-up meeting."
+    },
+    {
+      "t": 693.54,
+      "text": "Yeah, something like, I'll gather variance totals and note expected recovery by Friday for transparency."
+    },
+    {
+      "t": 699.83,
+      "text": "Setting that recovery by Friday target gives everyone a concrete goal."
+    },
+    {
+      "t": 704.02,
+      "text": "Focus shifts from the past mistake to the future resolution."
+    },
+    {
+      "t": 707.76,
+      "text": "And for the auditors?"
+    },
+    {
+      "t": 708.88,
+      "text": "Concrete evidence is king."
+    },
+    {
+      "t": 710.57,
+      "text": "They commit to capturing screenshots, documenting changes."
+    },
+    {
+      "t": 714.29,
+      "text": "Because, as the source notes, auditors appreciate concrete evidence when revisiting quarterly controls."
+    },
+    {
+      "t": 719.66,
+      "text": "It proves the six wasn't just talk."
+    },
+    {
+      "t": 721.57,
+      "text": "It was implemented, logged, verifiable."
+    },
+    {
+      "t": 724.53,
+      "text": "Exactly."
+    },
+    {
+      "t": 725.17,
+      "text": "It demonstrates a high level of professional discipline and accountability."
+    },
+    {
+      "t": 728.92,
+      "text": "That commitment to auditable proof goes a long way in reinforcing long-term trust."
+    },
+    {
+      "t": 733.28,
+      "text": "Okay, so that's phase two done, communication managed."
+    },
+    {
+      "t": 735.91,
+      "text": "Now phase three, designing quick guardrails and long-term safeguards."
+    },
+    {
+      "t": 739.09,
+      "text": "Right."
+    },
+    {
+      "t": 739.57,
+      "text": "This is where we move from reacting to the fire to actually fireproofing the building."
+    },
+    {
+      "t": 744.17,
+      "text": "Shifting from damage control to prevention."
+    },
+    {
+      "t": 746.93,
+      "text": "The objective is clear."
+    },
+    {
+      "t": 748.46,
+      "text": "Design quick guardrails and a sustainable long-term safeguard."
+    },
+    {
+      "t": 752.28,
+      "text": "And this, for me, is where true organizational maturity shows."
+    },
+    {
+      "t": 756.23,
+      "text": "Fixing a mistake once is one thing."
+    },
+    {
+      "t": 759.12,
+      "text": "Ensuring it can never happen again in the same way."
+    },
+    {
+      "t": 762.04,
+      "text": "That's the goal."
+    },
+    {
+      "t": 763.1,
+      "text": "So how do they approach that, starting with the technical side?"
+    },
+    {
+      "t": 766.03,
+      "text": "Yeah, they look at the system logic first."
+    },
+    {
+      "t": 767.77,
+      "text": "The manual process failed under pressure, so they look to automate."
+    },
+    {
+      "t": 771.89,
+      "text": "A key example is implementing automated variance alerts tied to thresholds."
+    },
+    {
+      "t": 776.23,
+      "text": "OK, what's the significance of thresholds there?"
+    },
+    {
+      "t": 778.59,
+      "text": "It means the system isn't just flagging every tiny change."
+    },
+    {
+      "t": 781.67,
+      "text": "It's configured to only alert when a variance goes above a certain percentage or dollar amount."
+    },
+    {
+      "t": 787.2,
+      "text": "Something predefined is significant."
+    },
+    {
+      "t": 789.24,
+      "text": "It flags the anomalies that actually matter."
+    },
+    {
+      "t": 791.52,
+      "text": "So less noise, more signal."
+    },
+    {
+      "t": 793.53,
+      "text": "Exactly."
+    },
+    {
+      "t": 794.47,
+      "text": "And they ensure the alert routing hits both of us instantly."
+    },
+    {
+      "t": 798.59,
+      "text": "That builds in redundancy."
+    },
+    {
+      "t": 800.47,
+      "text": "Maybe it needs two people to acknowledge it before it clears."
+    },
+    {
+      "t": 803.08,
+      "text": "And they tackle the specific failure point, the manual override."
+    },
+    {
+      "t": 806.37,
+      "text": "Right."
+    },
+    {
+      "t": 806.73,
+      "text": "The plan is to automate the sign-off so that manual overrides trigger alerts automatically."
+    },
+    {
+      "t": 811.9,
+      "text": "The system itself enforces the discipline."
+    },
+    {
+      "t": 815.64,
+      "text": "If someone bypasses a control, it's immediately visible."
+    },
+    {
+      "t": 819.21,
+      "text": "Using the tech to guide the behavior."
+    },
+    {
+      "t": 822.29,
+      "text": "And importantly, they don't try to be heroes and fix everything themselves."
+    },
+    {
+      "t": 826.76,
+      "text": "If it involves the core platform, they bring in the experts."
+    },
+    {
+      "t": 830.53,
+      "text": "Invite platform engineering to add role restrictions."
+    },
+    {
+      "t": 833.7,
+      "text": "Role restrictions, meaning limiting who can actually make certain changes."
+    },
+    {
+      "t": 837.77,
+      "text": "Precisely."
+    },
+    {
+      "t": 838.79,
+      "text": "Defining tightly who has the authority to adjust critical configurations."
+    },
+    {
+      "t": 843.18,
+      "text": "It's about limiting the potential blast radius if someone does make a mistake."
+    },
+    {
+      "t": 847.1,
+      "text": "Constraint-based design."
+    },
+    {
+      "t": 848.35,
+      "text": "And how do they communicate these technical upgrades back to the, say, client to rebuild that confidence?"
+    },
+    {
+      "t": 853.96,
+      "text": "By being specific, they share the new alerts we activated tonight and explicitly highlight things like hourly validations."
+    },
+    {
+      "t": 860.78,
+      "text": "Ah, showing, not just telling."
+    },
+    {
+      "t": 862.5,
+      "text": "Yeah."
+    },
+    {
+      "t": 862.94,
+      "text": "Pointing to hourly checks signals a shift from being reactive to being constantly vigilant."
+    },
+    {
+      "t": 867.77,
+      "text": "It communicates a proactive stance, demonstrating the system is now more robust."
+    },
+    {
+      "t": 871.88,
+      "text": "OK, tech safeguards make sense."
+    },
+    {
+      "t": 874.05,
+      "text": "But the initial failure was also human, right?"
+    },
+    {
+      "t": 877.04,
+      "text": "Skipping the checklist under pressure."
+    },
+    {
+      "t": 878.89,
+      "text": "Absolutely."
+    },
+    {
+      "t": 879.61,
+      "text": "Technology alone isn't enough."
+    },
+    {
+      "t": 882.07,
+      "text": "You have to address the process safeguards, the human element."
+    },
+    {
+      "t": 885.64,
+      "text": "The source noted the secondary checklist was skipped because it felt redundant."
+    },
+    {
+      "t": 889.49,
+      "text": "Which probably means it was too long or clunky or people didn't see the value."
+    },
+    {
+      "t": 893.8,
+      "text": "Likely."
+    },
+    {
+      "t": 894.86,
+      "text": "So the solution isn't just enforcing the old checklist, it's redesigning it, making it a concise gate with clear accountability assignments."
+    },
+    {
+      "t": 902.75,
+      "text": "A gate?"
+    },
+    {
+      "t": 903.79,
+      "text": "What does that imply?"
+    },
+    {
+      "t": 904.69,
+      "text": "Think of it like a toll booth, a clear go-no-go decision point."
+    },
+    {
+      "t": 908.67,
+      "text": "It needs specific criteria met, maybe specific evidence attached, and a clear sign-off."
+    },
+    {
+      "t": 913.54,
+      "text": "It's concise, so it's not a huge burden, but it's mandatory."
+    },
+    {
+      "t": 917.0,
+      "text": "You can't just drive around it."
+    },
+    {
+      "t": 918.22,
+      "text": "Makes sense."
+    },
+    {
+      "t": 918.88,
+      "text": "And what about the buddy review?"
+    },
+    {
+      "t": 920.23,
+      "text": "Ah, the buddy review rotation so approvals always have fresh eyes regardless of rush."
+    },
+    {
+      "t": 925.63,
+      "text": "This is smart organizational design."
+    },
+    {
+      "t": 927.56,
+      "text": "It distributes the oversight load."
+    },
+    {
+      "t": 929.92,
+      "text": "Reduces the chance that one person, feeling rushed, misses something."
+    },
+    {
+      "t": 933.91,
+      "text": "And because it rotates, you always get a fresh perspective."
+    },
+    {
+      "t": 936.79,
+      "text": "Someone less likely to make the same assumptions as the person doing the primary work."
+    },
+    {
+      "t": 941.06,
+      "text": "Institutionalized peer review."
+    },
+    {
+      "t": 942.82,
+      "text": "OK, so better checklist, buddy system."
+    },
+    {
+      "t": 945.17,
+      "text": "What else on the process side?"
+    },
+    {
+      "t": 947.21,
+      "text": "Preparing for the next crisis."
+    },
+    {
+      "t": 948.7,
+      "text": "They talk about drafting a contingency playbook."
+    },
+    {
+      "t": 951.26,
+      "text": "A playbook, like for different scenarios."
+    },
+    {
+      "t": 953.52,
+      "text": "Exactly."
+    },
+    {
+      "t": 954.4,
+      "text": "Outlining steps for various potential failures."
+    },
+    {
+      "t": 957.43,
+      "text": "Assigning owners for each step."
+    },
+    {
+      "t": 959.29,
+      "text": "And crucially, including scripts for transparent communication under pressure."
+    },
+    {
+      "t": 963.37,
+      "text": "Pre-approved language."
+    },
+    {
+      "t": 964.63,
+      "text": "Yeah."
+    },
+    {
+      "t": 965.03,
+      "text": "So when stress is high, people aren't trying to invent the right sensitive, legally sound apology on the fly."
+    },
+    {
+      "t": 971.0,
+      "text": "They have vetted, honest language ready to go."
+    },
+    {
+      "t": 973.89,
+      "text": "It reduces cognitive load when you need clarity most."
+    },
+    {
+      "t": 977.17,
+      "text": "That sounds incredibly useful."
+    },
+    {
+      "t": 978.47,
+      "text": "And then they mentioned practicing it."
+    },
+    {
+      "t": 979.95,
+      "text": "Mm-hmm."
+    },
+    {
+      "t": 980.79,
+      "text": "tabletop exercises, organizing quarterly simulations to keep that muscle memory sharp during crisis."
+    },
+    {
+      "t": 987.3,
+      "text": "So not just having the playbook on the shelf, but actually walking through it regularly."
+    },
+    {
+      "t": 991.18,
+      "text": "Right."
+    },
+    {
+      "t": 991.47,
+      "text": "It's like a fire drill."
+    },
+    {
+      "t": 992.73,
+      "text": "You practice the escape route."
+    },
+    {
+      "t": 994.15,
+      "text": "Right."
+    },
+    {
+      "t": 994.45,
+      "text": "In a tabletop, you simulate a data breach or a major system outage."
+    },
+    {
+      "t": 998.36,
+      "text": "Who calls legal?"
+    },
+    {
+      "t": 999.64,
+      "text": "Who updates the status page?"
+    },
+    {
+      "t": 1000.88,
+      "text": "Who handles client comms?"
+    },
+    {
+      "t": 1002.58,
+      "text": "Practicing builds that reflex."
+    },
+    {
+      "t": 1004.47,
+      "text": "OK, tech fixes, process fixes, practice."
+    },
+    {
+      "t": 1007.27,
+      "text": "But underlying all this is focus, right?"
+    },
+    {
+      "t": 1010.24,
+      "text": "Prioritization."
+    },
+    {
+      "t": 1011.52,
+      "text": "Absolutely critical."
+    },
+    {
+      "t": 1012.28,
+      "text": "It's a very clear statement."
+    },
+    {
+      "t": 1013.82,
+      "text": "Pause anything touching reporting."
+    },
+    {
+      "t": 1016.18,
+      "text": "Communicate to product leads that stability trumps shiny launches today."
+    },
+    {
+      "t": 1020.81,
+      "text": "Stability trumps shiny launches."
+    },
+    {
+      "t": 1022.58,
+      "text": "That's a powerful phrase."
+    },
+    {
+      "t": 1023.74,
+      "text": "It really is."
+    },
+    {
+      "t": 1024.28,
+      "text": "It signals true leadership maturity."
+    },
+    {
+      "t": 1026.81,
+      "text": "In the heat of recovery, you can't afford distractions or adding more risk."
+    },
+    {
+      "t": 1030.55,
+      "text": "You focus resources on stabilizing the core."
+    },
+    {
+      "t": 1033.3,
+      "text": "It might mean delaying a feature launch, which can be painful."
+    },
+    {
+      "t": 1036.08,
+      "text": "Sure."
+    },
+    {
+      "t": 1036.52,
+      "text": "But it sends an unmistakable message that foundational integrity, data accuracy, client trust, those things are non-negotiable."
+    },
+    {
+      "t": 1043.19,
+      "text": "It's a major strategic decision."
+    },
+    {
+      "t": 1045.02,
+      "text": "Okay."
+    },
+    {
+      "t": 1045.28,
+      "text": "We've rebuilt the system, hardened the process."
+    },
+    {
+      "t": 1047.7,
+      "text": "Now, phase four, the cultural pivot and transparent growth, making sure the learning sticks."
+    },
+    {
+      "t": 1052.66,
+      "text": "This is maybe the hardest part, but also the most important for long-term health."
+    },
+    {
+      "t": 1057.37,
+      "text": "It starts with the debrief after the incident."
+    },
+    {
+      "t": 1059.99,
+      "text": "And the key here is learning, not blame."
+    },
+    {
+      "t": 1062.23,
+      "text": "Totally."
+    },
+    {
+      "t": 1064.14,
+      "text": "Look at how the manager opens that conversation."
+    },
+    {
+      "t": 1066.64,
+      "text": "I want to understand your perspective throughout today."
+    },
+    {
+      "t": 1070.23,
+      "text": "Very different from, why did you mess up?"
+    },
+    {
+      "t": 1072.37,
+      "text": "World's different."
+    },
+    {
+      "t": 1073.53,
+      "text": "It's an invitation to share the context, the pressures, the thought process."
+    },
+    {
+      "t": 1078.02,
+      "text": "And the employee responds, honestly, I felt rushed, worried about disappointing the client, so I cut a corner."
+    },
+    {
+      "t": 1083.83,
+      "text": "And the manager's response to that vulnerability is crucial."
+    },
+    {
+      "t": 1086.55,
+      "text": "It is."
+    },
+    {
+      "t": 1087.11,
+      "text": "They say, thanks for sharing."
+    },
+    {
+      "t": 1088.71,
+      "text": "Honestly, acknowledging the pressure helps us design support structures better."
+    },
+    {
+      "t": 1092.98,
+      "text": "That validation is huge for psychological safety."
+    },
+    {
+      "t": 1095.76,
+      "text": "It says, your experience, even the mistake, is valuable data for us to improve."
+    },
+    {
+      "t": 1100.59,
+      "text": "It frames the person not as the problem, but as part of the solution."
+    },
+    {
+      "t": 1104.15,
+      "text": "Exactly."
+    },
+    {
+      "t": 1105.15,
+      "text": "And they reinforce the core philosophy directly."
+    },
+    {
+      "t": 1107.98,
+      "text": "I'll continue providing candid coaching while reinforcing that accountability does not equal punishment."
+    },
+    {
+      "t": 1113.33,
+      "text": "That needs to be the mantra, right?"
+    },
+    {
+      "t": 1114.93,
+      "text": "Accountability is essential, but it's about improvement, not retribution."
+    },
+    {
+      "t": 1119.6,
+      "text": "That has to be lived and breathed by leadership for people to truly feel safe admitting errors."
+    },
+    {
+      "t": 1125.31,
+      "text": "So how does this translate into practical support structures?"
+    },
+    {
+      "t": 1128.97,
+      "text": "It becomes very concrete."
+    },
+    {
+      "t": 1130.76,
+      "text": "They ask the employee to identify their own signals of being overloaded."
+    },
+    {
+      "t": 1134.7,
+      "text": "The employee figures out, when my inbox surges in meeting stack, I should pause and request prioritization support."
+    },
+    {
+      "t": 1141.97,
+      "text": "So turning that feeling of stress into a specific trigger for action."
+    },
+    {
+      "t": 1146.36,
+      "text": "Yes."
+    },
+    {
+      "t": 1147.26,
+      "text": "Self-awareness linked to a process."
+    },
+    {
+      "t": 1149.61,
+      "text": "And the manager mirrors this with their own commitment."
+    },
+    {
+      "t": 1152.35,
+      "text": "Let's set a threshold where you ping me once three urgent tasks collide."
+    },
+    {
+      "t": 1156.86,
+      "text": "Ah, so it's a two-way street."
+    },
+    {
+      "t": 1158.56,
+      "text": "A clear, agreed-upon signal for when help is needed."
+    },
+    {
+      "t": 1161.27,
+      "text": "It turns stress management from a vague idea into a specific, measurable interaction."
+    },
+    {
+      "t": 1166.28,
+      "text": "And they don't just keep these agreements private."
+    },
+    {
+      "t": 1168.14,
+      "text": "No, that's key."
+    },
+    {
+      "t": 1169.29,
+      "text": "The manager commits to checking bandwidth regularly."
+    },
+    {
+      "t": 1171.95,
+      "text": "The employee commits to flagging risks early."
+    },
+    {
+      "t": 1173.92,
+      "text": "And crucially, they agree to share this framework with a wider team."
+    },
+    {
+      "t": 1178.15,
+      "text": "Why?"
+    },
+    {
+      "t": 1178.77,
+      "text": "To normalize transparent growth conversations."
+    },
+    {
+      "t": 1181.28,
+      "text": "Make it okay for everyone to talk about workload and pressure."
+    },
+    {
+      "t": 1184.47,
+      "text": "Exactly."
+    },
+    {
+      "t": 1185.31,
+      "text": "It destigmatizes asking for help or admitting you're stretched thin."
+    },
+    {
+      "t": 1189.76,
+      "text": "It shows how the team handles it constructively."
+    },
+    {
+      "t": 1192.06,
+      "text": "Okay, so personal support is clear."
+    },
+    {
+      "t": 1194.48,
+      "text": "How do they embed the lessons across the whole organization?"
+    },
+    {
+      "t": 1197.71,
+      "text": "Several ways."
+    },
+    {
+      "t": 1198.45,
+      "text": "First, training."
+    },
+    {
+      "t": 1200.49,
+      "text": "Scheduling a brown bag session, you know, an informal lunch meeting to teach everyone the updated process and explain the new safeguards."
+    },
+    {
+      "t": 1207.98,
+      "text": "Spreading the knowledge beyond just the people directly involved."
+    },
+    {
+      "t": 1211.44,
+      "text": "Then, peer review of the fix itself."
+    },
+    {
+      "t": 1214.13,
+      "text": "The manager pairs up with another manager, Jordan, to review the new process."
+    },
+    {
+      "t": 1217.91,
+      "text": "Why bring in someone else?"
+    },
+    {
+      "t": 1219.14,
+      "text": "To challenge assumptions."
+    },
+    {
+      "t": 1221.24,
+      "text": "The person who designed the fix might have blind spots because they're too close to it."
+    },
+    {
+      "t": 1225.79,
+      "text": "An external peer review, like Jordan's, can catch things the original team might overlook, preventing groupthink."
+    },
+    {
+      "t": 1231.33,
+      "text": "Fresh eyes on the solution."
+    },
+    {
+      "t": 1232.77,
+      "text": "Makes sense."
+    },
+    {
+      "t": 1233.38,
+      "text": "And finally, measurement."
+    },
+    {
+      "t": 1235.02,
+      "text": "You can't just implement changes and hope they stick."
+    },
+    {
+      "t": 1237.7,
+      "text": "They agree to track compliance weekly for the next quarter."
+    },
+    {
+      "t": 1240.42,
+      "text": "Tracking compliance, meaning are people actually using the new checklist, following the buddy system?"
+    },
+    {
+      "t": 1246.67,
+      "text": "Exactly."
+    },
+    {
+      "t": 1247.92,
+      "text": "Are people adhering to the new safeguards?"
+    },
+    {
+      "t": 1250.82,
+      "text": "Tracking it makes it real."
+    },
+    {
+      "t": 1252.44,
+      "text": "It confirms that adoption sticks, that the changes become part of the actual day-to-day workflow, the standard operating rhythm."
+    },
+    {
+      "t": 1259.06,
+      "text": "not just a temporary fix that fades away."
+    },
+    {
+      "t": 1261.56,
+      "text": "It makes the cultural shift measurable."
+    },
+    {
+      "t": 1263.65,
+      "text": "Precisely."
+    },
+    {
+      "t": 1264.53,
+      "text": "And the ultimate outcome, as the source material puts it, is that this whole process demonstrates leadership maturity and ensures the same oversight never repeats."
+    },
+    {
+      "t": 1274.43,
+      "text": "The individual involved even commits to using the experience to become a stronger version of my leadership."
+    },
+    {
+      "t": 1280.02,
+      "text": "So it's not just about fixing the error."
+    },
+    {
+      "t": 1281.72,
+      "text": "It's about systemic improvement and personal growth driven by very specific intentional language."
+    },
+    {
+      "t": 1287.57,
+      "text": "That's it."
+    },
+    {
+      "t": 1287.93,
+      "text": "Exactly."
+    },
+    {
+      "t": 1288.88,
+      "text": "Mastering this kind of strategic, accountable business English is what separates teams that merely survive pressure from those that actually get stronger because of it."
+    },
+    {
+      "t": 1297.6,
+      "text": "Resilience built word by word."
+    },
+    {
+      "t": 1299.62,
+      "text": "Wow."
+    },
+    {
+      "t": 1300.19,
+      "text": "OK, that was a really thorough deep dive."
+    },
+    {
+      "t": 1302.29,
+      "text": "If you listening have been searching for that practical, usable language to handle professional mistakes effectively, I think the big takeaway is the sheer power of being specific and constructive."
+    },
+    {
+      "t": 1311.96,
+      "text": "Yeah, those phrases we unpacked, owning the miss, downstream impact, unpack how this slipped through, fortifying, monitoring, even stability trumps shiny launches."
+    },
+    {
+      "t": 1324.35,
+      "text": "They aren't just corporate speak."
+    },
+    {
+      "t": 1325.49,
+      "text": "No, they're tools, organizational tools to rebuild trust, demonstrate control, and reinforce standards all in real time."
+    },
+    {
+      "t": 1333.62,
+      "text": "And the structured approach matters too, right?"
+    },
+    {
+      "t": 1335.62,
+      "text": "Yeah."
+    },
+    {
+      "t": 1335.92,
+      "text": "That four-phase framework, starting with plain prompt accountability, moving through careful stakeholder communication, then engineering the technical and process fixes."
+    },
+    {
+      "t": 1345.35,
+      "text": "And finally, embedding it in the culture with support and measurement."
+    },
+    {
+      "t": 1349.46,
+      "text": "That whole sequence provides a roadmap."
+    },
+    {
+      "t": 1352.26,
+      "text": "It shows that owning mistakes openly with proof of correction actually builds more trust in the long run than trying to hide things or just glossing over them."
+    },
+    {
+      "t": 1359.92,
+      "text": "It really is the blueprint for turning a potential disaster into a demonstration of competence."
+    },
+    {
+      "t": 1365.07,
+      "text": "Definitely."
+    },
+    {
+      "t": 1366.17,
+      "text": "Now, as we wrap up, the source material we looked at ends with leadership endorsing the plan, providing resources."
+    },
+    {
+      "t": 1372.36,
+      "text": "That's crucial, obviously."
+    },
+    {
+      "t": 1373.74,
+      "text": "But it leaves us with a final thought, especially for those of you in leadership roles."
+    },
+    {
+      "t": 1377.82,
+      "text": "What critical shift needs to happen in"
+    },
+    {
+      "t": 1379.88,
+      "text": "to make this kind of accountability truly stick?"
+    },
+    {
+      "t": 1383.41,
+      "text": "What happens when owning mistakes and participating in this kind of transparent recovery process becomes officially aligned with performance goals?"
+    },
+    {
+      "t": 1391.54,
+      "text": "So it's not just encouraged."
+    },
+    {
+      "t": 1393.55,
+      "text": "It's actually part of how performance is evaluated, making it feel shared, not punitive."
+    },
+    {
+      "t": 1398.88,
+      "text": "Exactly."
+    },
+    {
+      "t": 1399.78,
+      "text": "And how does an organization ensure that this whole new way of working the buddy reviews, the tabletop exercises that ping me when three urgent tasks collide rule?"
+    },
+    {
+      "t": 1411.74,
+      "text": "How do you make sure that becomes the permanent standard operating rhythm?"
+    },
+    {
+      "t": 1414.54,
+      "text": "Not just something you do for a few months after a crisis, but the way things are always done."
+    },
+    {
+      "t": 1419.34,
+      "text": "How do you maintain that vigilance long term?"
+    },
+    {
+      "t": 1421.7,
+      "text": "That's the challenge to think about."
+    },
+    {
+      "t": 1423.41,
+      "text": "How do you embed this resilience deep into the organizational DNA?"
+    },
+    {
+      "t": 1426.86,
+      "text": "Something to everyone to consider."
+    },
+    {
+      "t": 1434.95,
+      "text": "A really high stakes investigation."
+    },
+    {
+      "t": 1437.21,
+      "text": "But we're not tracking some kind of mysterious global conspiracy or, you know, an ancient archaeological find."
+    },
+    {
+      "t": 1444.14,
+      "text": "No, definitely not."
+    },
+    {
+      "t": 1445.2,
+      "text": "We are decoding something far more immediately useful, I think."
+    },
+    {
+      "t": 1448.97,
+      "text": "It's the exact language professionals use when things, well, when things go wrong."
+    },
+    {
+      "t": 1453.76,
+      "text": "This is basically the business English toolkit for crisis moments."
+    },
+    {
+      "t": 1457.1,
+      "text": "That's right."
+    },
+    {
+      "t": 1457.8,
+      "text": "Yeah, we're diving into a pretty unique set of source materials today."
+    },
+    {
+      "t": 1461.35,
+      "text": "These are real life, high pressure professional dialogues."
+    },
+    {
+      "t": 1464.87,
+      "text": "They focus entirely on the three sort of critical phases of managing errors."
+    },
+    {
+      "t": 1470.84,
+      "text": "OK. That's immediate accountability, structured remediation, and then thinking about the long term process safeguards."
+    },
+    {
+      "t": 1476.27,
+      "text": "So forget those vague ideas about taking responsibility."
+    },
+    {
+      "t": 1479.43,
+      "text": "Right."
+    },
+    {
+      "t": 1479.53,
+      "text": "These are the actual scripts, you know, the precise vocabulary and the structural commitments you really need for professional fluency when mistakes inevitably happen."
+    },
+    {
+      "t": 1487.95,
+      "text": "Yeah."
+    },
+    {
+      "t": 1488.33,
+      "text": "And we've basically synthesized sources that act like a shortcut, really, to confidence during a crisis."
+    },
+    {
+      "t": 1494.68,
+      "text": "Our goal here is to pull out those critical phrases, those strategies that let professionals not just own the mess, as they say, but do it constructively."
+    },
+    {
+      "t": 1503.56,
+      "text": "You know, rebuild confidence, maybe with demanding clients and make sure that every single mistake directly leads to an improved, safer system."
+    },
+    {
+      "t": 1511.8,
+      "text": "It's essentially the playbook for turning a momentary blunder into, well, a massive boost in organizational trust."
+    },
+    {
+      "t": 1518.75,
+      "text": "And this language, it's so vital because it really signifies a profound cultural shift."
+    },
+    {
+      "t": 1524.68,
+      "text": "I mean, when we analyze these specific phrases, you know, from that immediate admission right through to the structured debrief, we're actually analyzing a move away from a culture of blame."
+    },
+    {
+      "t": 1532.65,
+      "text": "Yeah, the finger pointing."
+    },
+    {
+      "t": 1533.73,
+      "text": "Exactly."
+    },
+    {
+      "t": 1534.29,
+      "text": "Where people hide errors, they fear retribution, moving towards a culture of transparent growth."
+    },
+    {
+      "t": 1539.22,
+      "text": "So for you, the listener, our mission is really to help you internalize these strategic phrases so that when the pressure inevitably hits, your response is almost automated, professional, and entirely focused on that systemic recovery."
+    },
+    {
+      "t": 1552.86,
+      "text": "Okay, sounds good."
+    },
+    {
+      "t": 1554.34,
+      "text": "Let's unpack this blueprint then chronologically, starting with what I think is often the absolute hardest part, that moment of immediate ownership, or as we see it in materials, owning the mess constructively."
+    },
+    {
+      "t": 1568.23,
+      "text": "So that moment of discovery, that's the first crucial test, right?"
+    },
+    {
+      "t": 1571.63,
+      "text": "If you find a problem, you got to flag immediately."
+    },
+    {
+      "t": 1574.2,
+      "text": "But the language you use, it really sets the psychological tone for the whole recovery process."
+    },
+    {
+      "t": 1578.69,
+      "text": "Absolutely."
+    },
+    {
+      "t": 1579.47,
+      "text": "The sources show you need to start with a really objective statement of discovery."
+    },
+    {
+      "t": 1583.1,
+      "text": "Not a judgment, just, you know, the facts."
+    },
+    {
+      "t": 1585.16,
+      "text": "Something like, I spotted an unexpected variance in the shipment logs from yesterday."
+    },
+    {
+      "t": 1590.25,
+      "text": "Notice how sterile that is."
+    },
+    {
+      "t": 1592.37,
+      "text": "It just removes the emotion, focuses entirely on the data."
+    },
+    {
+      "t": 1595.95,
+      "text": "Now, the real power move has to come right after that objective flagging."
+    },
+    {
+      "t": 1599.56,
+      "text": "If the error traces back to you, the immediate response isn't, you know, wait for the boss to investigate."
+    },
+    {
+      "t": 1604.73,
+      "text": "It's to take ownership instantly."
+    },
+    {
+      "t": 1606.73,
+      "text": "The key phrase the sources give us is something like, I noticed it too."
+    },
+    {
+      "t": 1610.29,
+      "text": "And unfortunately, the variance traces back to my approval."
+    },
+    {
+      "t": 1613.4,
+      "text": "OK, that sentence, the variance traces back to my approval."
+    },
+    {
+      "t": 1618.19,
+      "text": "that feels incredibly powerful because it just bypasses that whole conversational loop of denial or defense or pointing fingers exactly it acknowledges the cause and effect right and it pivots the discussion immediately to okay how do we fix this but i have to ask what if the person isn't completely sure or maybe the error involves several people is this still the script"
+    },
+    {
+      "t": 1642.36,
+      "text": "Yeah, that's a really critical question."
+    },
+    {
+      "t": 1644.52,
+      "text": "The sources suggest that even if the error is, let's say, shared, the language should still focus on the individual's immediate point of failure within the process they controlled."
+    },
+    {
+      "t": 1653.75,
+      "text": "Oh."
+    },
+    {
+      "t": 1654.19,
+      "text": "So the professional isn't necessarily saying they caused the root problem, but that the error passed their checkpoint."
+    },
+    {
+      "t": 1659.4,
+      "text": "For example, they might say something like, I traced the import script, and while the error originated externally, the system should have stopped it at my verification stage."
+    },
+    {
+      "t": 1668.18,
+      "text": "Like you see."
+    },
+    {
+      "t": 1669.19,
+      "text": "It's about owning the gap in the guardrail you're responsible for."
+    },
+    {
+      "t": 1672.39,
+      "text": "That makes a lot of sense."
+    },
+    {
+      "t": 1673.4,
+      "text": "It's owning the process failure, not necessarily like a moral failure."
+    },
+    {
+      "t": 1677.79,
+      "text": "And in the dialogue we looked at, the host immediately rewards that transparency, which feels key for reinforcing this new culture, they say."
+    },
+    {
+      "t": 1685.32,
+      "text": "Thanks for flagging it quickly."
+    },
+    {
+      "t": 1687.18,
+      "text": "Then they move right into analyzing the cause of the slip up, crucially, not the character of the person who slipped up."
+    },
+    {
+      "t": 1693.3,
+      "text": "And what's fascinating here is how the dialogue identifies that common root cause of so many professional slips."
+    },
+    {
+      "t": 1700.96,
+      "text": "It's the psychological pressure, right?"
+    },
+    {
+      "t": 1703.1,
+      "text": "That pressure that leads to bypassing safeguards."
+    },
+    {
+      "t": 1705.38,
+      "text": "We hear that honest admission and this is where vulnerability becomes, well, useful data."
+    },
+    {
+      "t": 1710.03,
+      "text": "Right."
+    },
+    {
+      "t": 1710.31,
+      "text": "I skipped the secondary review because the client pinged me repeatedly for confirmation."
+    },
+    {
+      "t": 1715.54,
+      "text": "Now, this isn't presented as an excuse."
+    },
+    {
+      "t": 1718.13,
+      "text": "It's crucial context that helps leadership design a systemic fix for when those rush decisions inevitably happen."
+    },
+    {
+      "t": 1724.86,
+      "text": "And that context allows the leader then to deliver the required shift in mindset without condemning the individual."
+    },
+    {
+      "t": 1732.28,
+      "text": "They offer that crucial counter advice."
+    },
+    {
+      "t": 1734.19,
+      "text": "It's like a foundational truth in these high stakes environments."
+    },
+    {
+      "t": 1737.31,
+      "text": "Pressure happens, yet bypassing safeguards exposes us."
+    },
+    {
+      "t": 1740.74,
+      "text": "Yeah."
+    },
+    {
+      "t": 1741.32,
+      "text": "That phrasing, it acknowledges the reality pressure is constant, but it defines the professional non-negotiable."
+    },
+    {
+      "t": 1747.97,
+      "text": "Safeguards are absolute."
+    },
+    {
+      "t": 1749.13,
+      "text": "Yeah."
+    },
+    {
+      "t": 1749.71,
+      "text": "It sort of sets a boundary for the next time without sounding punitive."
+    },
+    {
+      "t": 1752.72,
+      "text": "Precisely."
+    },
+    {
+      "t": 1753.56,
+      "text": "And that recognition of the pressure allows the professional to then offer the immediate containment commitment."
+    },
+    {
+      "t": 1759.55,
+      "text": "It shows they're internalizing the lesson right away."
+    },
+    {
+      "t": 1762.03,
+      "text": "They acknowledge the mistake and outline what should have been done."
+    },
+    {
+      "t": 1764.99,
+      "text": "Like, understood, I should have messaged you or Jordan before sending the final numbers."
+    },
+    {
+      "t": 1770.38,
+      "text": "This confirms they grasp the required procedure moving forward."
+    },
+    {
+      "t": 1774.23,
+      "text": "It's like active learning embedded right there in the immediate dialogue."
+    },
+    {
+      "t": 1777.68,
+      "text": "So this transition from admission to action, it needs the right professional language for that quick triage."
+    },
+    {
+      "t": 1783.28,
+      "text": "The sources, they kind of distill the key question that instantly pivots the discussion away from blame towards consequence."
+    },
+    {
+      "t": 1790.65,
+      "text": "And that question is, what downstream impact are we facing and who needs a heads up before noon?"
+    },
+    {
+      "t": 1797.71,
+      "text": "That timing before noon, it forces an immediate focus on consequences, resource allocation, communication urgency."
+    },
+    {
+      "t": 1805.46,
+      "text": "It's very direct."
+    },
+    {
+      "t": 1806.47,
+      "text": "Yeah, and the underlying insight here is really strategic."
+    },
+    {
+      "t": 1809.77,
+      "text": "Immediate ownership allows for speed, and speed minimizes damage."
+    },
+    {
+      "t": 1813.88,
+      "text": "The leader's response to the admission that simple, thanks for flagging it quickly, reinforces the idea that while owning mistakes openly reinforces trust more than hiding behind reports."
+    },
+    {
+      "t": 1824.29,
+      "text": "That's a great point."
+    },
+    {
+      "t": 1825.03,
+      "text": "If the individual feels psychologically safe enough to be honest, they will communicate faster, and the damage can potentially be contained hours sooner."
+    },
+    {
+      "t": 1832.32,
+      "text": "So trust isn't really about perfection."
+    },
+    {
+      "t": 1834.47,
+      "text": "It's about having a reliable, transparent process for recovery when things inevitably go wrong."
+    },
+    {
+      "t": 1840.06,
+      "text": "Okay, so once ownership is established, the immediate problem is sort of contained."
+    },
+    {
+      "t": 1843.89,
+      "text": "The next step is communication."
+    },
+    {
+      "t": 1846.19,
+      "text": "And this requires assessing both internal and external impact, often simultaneously."
+    },
+    {
+      "t": 1851.5,
+      "text": "You've got these two urgent audiences who need information fast, but probably different information."
+    },
+    {
+      "t": 1857.16,
+      "text": "Absolutely, yeah."
+    },
+    {
+      "t": 1857.92,
+      "text": "The source materials detail the two critical teams that need notification first, and that really defines the scope of immediate remediation."
+    },
+    {
+      "t": 1865.47,
+      "text": "Internally, you need finance."
+    },
+    {
+      "t": 1867.28,
+      "text": "The example was finance is reconciling now."
+    },
+    {
+      "t": 1870.19,
+      "text": "Why finance first?"
+    },
+    {
+      "t": 1871.39,
+      "text": "Is that always the case?"
+    },
+    {
+      "t": 1872.37,
+      "text": "Often, yeah."
+    },
+    {
+      "t": 1873.17,
+      "text": "Because almost any error, whether it's a shipment log or a data dashboard issue, usually has some kind of financial implication that needs to be quantified immediately."
+    },
+    {
+      "t": 1881.42,
+      "text": "And then externally, obviously, the client is primary, the source said."
+    },
+    {
+      "t": 1885.53,
+      "text": "And the client expects revised data before their 2.0 call."
+    },
+    {
+      "t": 1889.64,
+      "text": "So this dictates the urgent timeline and the resource deployment."
+    },
+    {
+      "t": 1892.82,
+      "text": "Finance handles the calculation, maybe."
+    },
+    {
+      "t": 1894.94,
+      "text": "And operations handles the file delivery, something like that."
+    },
+    {
+      "t": 1897.84,
+      "text": "Okay."
+    },
+    {
+      "t": 1898.51,
+      "text": "And the strategy for actually drafting that client communication, it needs to be really structured, doesn't it?"
+    },
+    {
+      "t": 1903.79,
+      "text": "To manage expectations effectively."
+    },
+    {
+      "t": 1905.78,
+      "text": "We know we need to draft an honest update."
+    },
+    {
+      "t": 1908.04,
+      "text": "What's the structure, the anatomy of that communication?"
+    },
+    {
+      "t": 1910.92,
+      "text": "Yeah."
+    },
+    {
+      "t": 1911.39,
+      "text": "The instruction is really explicit and tactical."
+    },
+    {
+      "t": 1913.57,
+      "text": "It has to be transparent."
+    },
+    {
+      "t": 1915.05,
+      "text": "Draft an honest update email with timelines."
+    },
+    {
+      "t": 1917.64,
+      "text": "And it stresses two core components."
+    },
+    {
+      "t": 1919.9,
+      "text": "accountability, and our corrective path forward."
+    },
+    {
+      "t": 1923.42,
+      "text": "The client needs to see that you own it, and crucially, they need to see the plan to fix it."
+    },
+    {
+      "t": 1927.87,
+      "text": "You're not just summarizing the error, you're structuring the recovery almost like a mini project plan."
+    },
+    {
+      "t": 1932.41,
+      "text": "And to keep those expectations grounded, structure is key."
+    },
+    {
+      "t": 1935.42,
+      "text": "The professional is told to include a short bullet plan summarizing the fix so expectations stay grounded."
+    },
+    {
+      "t": 1942.3,
+      "text": "Why is that bullet plan so critical in business English, especially when you're in remediation mode?"
+    },
+    {
+      "t": 1947.12,
+      "text": "Well, think about it."
+    },
+    {
+      "t": 1948.26,
+      "text": "Anxiety thrives on ambiguity, right?"
+    },
+    {
+      "t": 1951.78,
+      "text": "A bulleted list is basically the antidote."
+    },
+    {
+      "t": 1954.65,
+      "text": "It lets the recipient, the client, immediately scan and understand the immediate steps, the expected outcome, the timeframes involved."
+    },
+    {
+      "t": 1962.08,
+      "text": "You're using concrete lists and timelines to replace the client's anxiety with clarity and a sense of control."
+    },
+    {
+      "t": 1968.2,
+      "text": "That's just essential business communication providing immediate structure during chaos."
+    },
+    {
+      "t": 1972.77,
+      "text": "Okay."
+    },
+    {
+      "t": 1973.63,
+      "text": "But there's an interesting dilemma that comes up in the sources regarding internal transparency."
+    },
+    {
+      "t": 1977.84,
+      "text": "When you're firefighting like this, it's tempting to sort of isolate the crisis, keep it contained."
+    },
+    {
+      "t": 1983.31,
+      "text": "The question is posed, should we loop in operations now or wait until we finalize the corrected files?"
+    },
+    {
+      "t": 1989.65,
+      "text": "Ah, yes."
+    },
+    {
+      "t": 1990.06,
+      "text": "That's the moment where leadership maturity is really tested, isn't it?"
+    },
+    {
+      "t": 1993.38,
+      "text": "The definitive answer provided is crystal clear, and it focuses on the long-term cost of silence."
+    },
+    {
+      "t": 1998.69,
+      "text": "Loop them in now."
+    },
+    {
+      "t": 1999.53,
+      "text": "Surprises later would erode trust we worked hard to rebuild."
+    },
+    {
+      "t": 2002.64,
+      "text": "That makes sense."
+    },
+    {
+      "t": 2003.5,
+      "text": "Waiting often backfires because those teams, operations, logistics, maybe even sales, they will eventually find out about the problem, potentially from an outside source like the client themselves."
+    },
+    {
+      "t": 2014.45,
+      "text": "And finding out you tried to fix it secretly is way more damaging to trust than hearing the bad news up front from you."
+    },
+    {
+      "t": 2020.66,
+      "text": "Right."
+    },
+    {
+      "t": 2021.08,
+      "text": "Okay."
+    },
+    {
+      "t": 2021.66,
+      "text": "So the action step that comes from that rule really confirms that ownership narrative."
+    },
+    {
+      "t": 2026.43,
+      "text": "I'll call operations, own the miss, and outline the temporary containment steps clearly."
+    },
+    {
+      "t": 2032.42,
+      "text": "This ensures everyone's on the same page, stops the rumor mill before it starts, and prevents operations from, say, continuing work based on faulty data."
+    },
+    {
+      "t": 2040.62,
+      "text": "Exactly."
+    },
+    {
+      "t": 2041.38,
+      "text": "And once that immediate firefighting and those containment steps are underway, the conversation has to transition smoothly from the quick fix to the longer term root cause analysis."
+    },
+    {
+      "t": 2050.1,
+      "text": "The leader says something like, after the calls, block 30 minutes with me to dissect root causes calmly."
+    },
+    {
+      "t": 2055.66,
+      "text": "Notice the word calmly."
+    },
+    {
+      "t": 2057.01,
+      "text": "Yes."
+    },
+    {
+      "t": 2057.77,
+      "text": "It's a deliberate signal, isn't it?"
+    },
+    {
+      "t": 2059.55,
+      "text": "To ensure the analysis is objective, systematic, not emotionally charged or rushed, the focus is dissecting the process, not the person."
+    },
+    {
+      "t": 2067.03,
+      "text": "And documentation, of course, is non-negotiable, especially for audit readiness later on."
+    },
+    {
+      "t": 2072.58,
+      "text": "The sources show the professional committing."
+    },
+    {
+      "t": 2075.08,
+      "text": "I'm capturing each action so nothing falls between responsibilities."
+    },
+    {
+      "t": 2079.09,
+      "text": "This creates that clean audit trail showing exactly who did what, when, and why."
+    },
+    {
+      "t": 2084.06,
+      "text": "Crucial for the eventual process write-up."
+    },
+    {
+      "t": 2086.51,
+      "text": "And critically, they then turn this documentation into long term organizational learning."
+    },
+    {
+      "t": 2092.11,
+      "text": "They commit to document lessons for the team retro to prevent repeat confusion."
+    },
+    {
+      "t": 2096.64,
+      "text": "Furthermore, they add these lessons to a learning tracker, highlighting cues to pause despite client urgency."
+    },
+    {
+      "t": 2103.41,
+      "text": "OK, for listeners who might not be familiar, what exactly is a learning tracker in this context?"
+    },
+    {
+      "t": 2107.85,
+      "text": "Yeah, good question."
+    },
+    {
+      "t": 2108.71,
+      "text": "It's basically just a centralized shared place, could be a document, a database, whatever, where organizational errors, their root causes, and the specific systemic fixes that were implemented are recorded."
+    },
+    {
+      "t": 2120.59,
+      "text": "It effectively turns individual mistakes into collective institutional knowledge."
+    },
+    {
+      "t": 2125.42,
+      "text": "Got it."
+    },
+    {
+      "t": 2126.44,
+      "text": "That concept really moves the whole process from just being reactive to being proactive, ensuring that the investment you made in the fix actually pays dividends and prevention down the line."
+    },
+    {
+      "t": 2137.62,
+      "text": "OK, so what happens when the error directly impacts the client?"
+    },
+    {
+      "t": 2141.19,
+      "text": "Let's say a scenario involving incorrect billing figures or maybe wrong data being sent."
+    },
+    {
+      "t": 2147.44,
+      "text": "That external communication has to be managed meticulously."
+    },
+    {
+      "t": 2150.64,
+      "text": "The source material really emphasizes the tone right away."
+    },
+    {
+      "t": 2153.75,
+      "text": "Apologize plainly."
+    },
+    {
+      "t": 2155.05,
+      "text": "Keep the client call personal and sincere."
+    },
+    {
+      "t": 2157.87,
+      "text": "Yeah."
+    },
+    {
+      "t": 2158.37,
+      "text": "And the strategy to restore confidence despite the stumble, it relies on two main factors, speed and sincerity."
+    },
+    {
+      "t": 2165.4,
+      "text": "The key mantra seems to be that honesty within the hour keeps confidence intact despite today's stumble."
+    },
+    {
+      "t": 2171.6,
+      "text": "Delaying that tough conversation, it just amplifies the perception of guilt or maybe negligence."
+    },
+    {
+      "t": 2176.73,
+      "text": "You really have to call them ideally before they notice the error themselves, if that's even possible."
+    },
+    {
+      "t": 2180.87,
+      "text": "But the client's probably thinking beyond just this immediate error, right?"
+    },
+    {
+      "t": 2183.61,
+      "text": "They're wondering, OK, if this happened once, where else did they mess up?"
+    },
+    {
+      "t": 2186.46,
+      "text": "How do you address that?"
+    },
+    {
+      "t": 2187.49,
+      "text": "Exactly."
+    },
+    {
+      "t": 2188.19,
+      "text": "And the truly professional move is always proactive mitigation, addressing that anticipated anxiety."
+    },
+    {
+      "t": 2194.2,
+      "text": "You can't just fix the immediate issue."
+    },
+    {
+      "t": 2196.26,
+      "text": "You have to preempt their next concern."
+    },
+    {
+      "t": 2198.8,
+      "text": "The instruction we saw was to remember to mention we're auditing similar invoices so nothing else blindsides their finance crew."
+    },
+    {
+      "t": 2206.77,
+      "text": "Oh, that's smart."
+    },
+    {
+      "t": 2207.57,
+      "text": "It shows systemic awareness, right, and care for their internal pain points."
+    },
+    {
+      "t": 2212.5,
+      "text": "It demonstrates your vigilance extends beyond just this specific incident."
+    },
+    {
+      "t": 2216.87,
+      "text": "I think that's a real hallmark of professional maturity, actually."
+    },
+    {
+      "t": 2219.69,
+      "text": "It's not just solving their problem, but also solving their worry."
+    },
+    {
+      "t": 2223.38,
+      "text": "And this seems to be backed up by demonstrating availability and commitment."
+    },
+    {
+      "t": 2226.84,
+      "text": "Yes."
+    },
+    {
+      "t": 2227.44,
+      "text": "Instead of waiting for the client to request a meeting, the instruction is to proactively offer a 15-minute sync."
+    },
+    {
+      "t": 2233.85,
+      "text": "Why?"
+    },
+    {
+      "t": 2234.15,
+      "text": "Well, because demonstrating availability shows we're committed to stabilizing operations."
+    },
+    {
+      "t": 2239.2,
+      "text": "It's a tangible gesture."
+    },
+    {
+      "t": 2240.81,
+      "text": "The professional should probably say something like, look, I've cleared my calendar for the next hour to ensure we can talk through this or any related concerns you might have."
+    },
+    {
+      "t": 2248.39,
+      "text": "I also like the use of visual confirmation to structure the recovery."
+    },
+    {
+      "t": 2252.3,
+      "text": "It's not just a verbal promise, it's documented and delivered."
+    },
+    {
+      "t": 2255.9,
+      "text": "Attach a short timeline showing when each corrected invoice will hit their system."
+    },
+    {
+      "t": 2261.47,
+      "text": "That turns a vague promise into something concrete and trackable."
+    },
+    {
+      "t": 2264.81,
+      "text": "Then we get into that strategic tightrope walk, the relationship with legal and compliance."
+    },
+    {
+      "t": 2271.61,
+      "text": "When should they be looped in?"
+    },
+    {
+      "t": 2272.92,
+      "text": "Especially when you're considering compliance implications from something like misbilling."
+    },
+    {
+      "t": 2278.42,
+      "text": "Our professional audience needs to know how to maintain that personal touch while still protecting the organization."
+    },
+    {
+      "t": 2283.57,
+      "text": "Yeah, that's the classic strategic duality, isn't it?"
+    },
+    {
+      "t": 2286.21,
+      "text": "If the call needs to be personal and sincere, how do you keep legal informed without sounding like a robot or, you know, exposing the organization unnecessarily?"
+    },
+    {
+      "t": 2293.18,
+      "text": "The protocol is defined pretty precisely."
+    },
+    {
+      "t": 2295.86,
+      "text": "Loop legal by sharing the draft email, but keep the client call personal and sincere."
+    },
+    {
+      "t": 2301.18,
+      "text": "So legal reviews, the written language, the email checking for contractual exposure, precedent before it's sent."
+    },
+    {
+      "t": 2307.95,
+      "text": "That safeguards the organization."
+    },
+    {
+      "t": 2309.89,
+      "text": "But the phone call itself, that needs to be direct, empathetic, human."
+    },
+    {
+      "t": 2315.01,
+      "text": "The client interacts with the business face, not the legal firewall."
+    },
+    {
+      "t": 2319.0,
+      "text": "That's how you maintain trust while still managing risk."
+    },
+    {
+      "t": 2321.84,
+      "text": "This careful balance seems even more vital when you start gauging and managing concessions."
+    },
+    {
+      "t": 2327.32,
+      "text": "If you've made a significant error, do you just immediately offer a service credit or a discount?"
+    },
+    {
+      "t": 2332.26,
+      "text": "No, that's actually a common mistake."
+    },
+    {
+      "t": 2333.63,
+      "text": "You don't want to lead with a huge discount because it might devalue your product or service, or worse, set an unsustainable precedent for the future."
+    },
+    {
+      "t": 2340.94,
+      "text": "The tactical approach is more nuanced."
+    },
+    {
+      "t": 2343.36,
+      "text": "Gauge their reaction first."
+    },
+    {
+      "t": 2344.84,
+      "text": "If they escalate, then we can discuss gestures with finance quickly."
+    },
+    {
+      "t": 2348.57,
+      "text": "This lets the negotiation be tailored to the client's actual level of distress and preserves your margin unless it's absolutely necessary."
+    },
+    {
+      "t": 2355.36,
+      "text": "But you still have to maintain your professional boundaries during that process, I imagine?"
+    },
+    {
+      "t": 2359.27,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2359.83,
+      "text": "The professional is specifically instructed."
+    },
+    {
+      "t": 2362.72,
+      "text": "Keep legal informed so concessions align with our contracts in precedent."
+    },
+    {
+      "t": 2367.0,
+      "text": "This ensures that any offer, whether it's a service credit or a temporary discount, is properly approved and documented."
+    },
+    {
+      "t": 2373.37,
+      "text": "It prevents creating these informal, potentially future-damaging contractual obligations."
+    },
+    {
+      "t": 2378.86,
+      "text": "Okay."
+    },
+    {
+      "t": 2379.68,
+      "text": "Finally, turning back to reassurance and maybe executive presence."
+    },
+    {
+      "t": 2383.56,
+      "text": "Once the immediate crisis is solved, you need to prove the systems are actually safe for now."
+    },
+    {
+      "t": 2388.37,
+      "text": "The instruction is explicit."
+    },
+    {
+      "t": 2390.39,
+      "text": "Reassure them we fortified monitoring."
+    },
+    {
+      "t": 2392.67,
+      "text": "Share the new alerts we activated tonight."
+    },
+    {
+      "t": 2394.56,
+      "text": "Yeah, sharing those new alerts isn't just a technical detail."
+    },
+    {
+      "t": 2397.3,
+      "text": "It's a powerful proof point of commitment."
+    },
+    {
+      "t": 2399.97,
+      "text": "Instead of just saying, hey, we fixed it, you're providing concrete evidence that the process is now physically harder to break."
+    },
+    {
+      "t": 2406.7,
+      "text": "Furthermore, if the client requests executive involvement, you know, asks for executive presence, the leader needs to be ready to step in."
+    },
+    {
+      "t": 2413.7,
+      "text": "The offer is clear."
+    },
+    {
+      "t": 2414.73,
+      "text": "If they request executive presence, I'm available early morning to reinforce our commitment."
+    },
+    {
+      "t": 2419.01,
+      "text": "What exactly is the strategic impact of offering that executive presence?"
+    },
+    {
+      "t": 2423.02,
+      "text": "Why does that matter so much?"
+    },
+    {
+      "t": 2424.36,
+      "text": "Well, it signals that the issue has the absolute highest internal visibility and priority."
+    },
+    {
+      "t": 2429.45,
+      "text": "An executive stepping in validates the client's pain and turns what might have seemed like a hiccup managed by a department head into proof that we handle setbacks transparently right from the top of the organization."
+    },
+    {
+      "t": 2442.47,
+      "text": "This is really a foundational element of leadership maturity, assuring the client that the entire organization is aligned on their success."
+    },
+    {
+      "t": 2450.2,
+      "text": "All right."
+    },
+    {
+      "t": 2450.42,
+      "text": "So we shift now from the immediate crisis management, the reaction to process fortification, which is all about prevention."
+    },
+    {
+      "t": 2457.75,
+      "text": "One source we looked at discussed a dashboard data error and it was caused by a manual override."
+    },
+    {
+      "t": 2463.37,
+      "text": "The immediate technical fix is described pretty straightforwardly."
+    },
+    {
+      "t": 2466.82,
+      "text": "Restore yesterday's backup, rerun the imports, then verify line by line."
+    },
+    {
+      "t": 2471.4,
+      "text": "That's just triage, right?"
+    },
+    {
+      "t": 2472.46,
+      "text": "Exactly."
+    },
+    {
+      "t": 2472.91,
+      "text": "That's stopping the bleeding."
+    },
+    {
+      "t": 2474.36,
+      "text": "But the real professional value lies in designing that long-term system fix."
+    },
+    {
+      "t": 2478.57,
+      "text": "The goal has to be something like automating the sign-off process so that manual overrides trigger alerts automatically."
+    },
+    {
+      "t": 2485.2,
+      "text": "This is the key philosophical shift."
+    },
+    {
+      "t": 2487.52,
+      "text": "Moving the burden of vigilance from human memory, which we know is fallible, especially under pressure, to the system itself, which is predictable and tireless."
+    },
+    {
+      "t": 2495.8,
+      "text": "But you probably can't build those complex systems alone."
+    },
+    {
+      "t": 2499.47,
+      "text": "To achieve this, you have to involve specialized teams in the design process."
+    },
+    {
+      "t": 2503.96,
+      "text": "The operational team in the dialogue realizes they need extra help."
+    },
+    {
+      "t": 2508.26,
+      "text": "Maybe platform engineering can add role restrictions."
+    },
+    {
+      "t": 2511.21,
+      "text": "Let's invite them to help design."
+    },
+    {
+      "t": 2513.75,
+      "text": "Why is platform engineering specifically critical here?"
+    },
+    {
+      "t": 2517.14,
+      "text": "Well, platform engineering, or sometimes DevSecOps, they specialize in designing the underlying infrastructure that enforces these controls."
+    },
+    {
+      "t": 2525.49,
+      "text": "Role restrictions basically limiting who can access or override sensitive data fields are essential for preventing that human factor error."
+    },
+    {
+      "t": 2533.0,
+      "text": "The operational team owns the mistake and the need for the fix, but these specialized teams own the technical implementation of that robust guardrail."
+    },
+    {
+      "t": 2541.1,
+      "text": "OK. And when you go to request engineering time, which, let's face it, is always in high demand, you need language that really prioritizes this work immediately, often bumping plan feature development."
+    },
+    {
+      "t": 2550.91,
+      "text": "How do you phrase that?"
+    },
+    {
+      "t": 2551.61,
+      "text": "Yeah, absolutely crucial."
+    },
+    {
+      "t": 2553.37,
+      "text": "The professional is tasked with drafting a proposal highlighting three key things."
+    },
+    {
+      "t": 2558.06,
+      "text": "the failure points required automation and estimated effort for engineering and critically ensuring prioritization aligns with the pain we're addressing the language has to leverage customer impact metrics to make the case effectively something like"
+    },
+    {
+      "t": 2573.18,
+      "text": "This error caused X hours of client downtime and exposed us to Y risk."
+    },
+    {
+      "t": 2577.61,
+      "text": "Fixing this has to be P1, you know, top priority."
+    },
+    {
+      "t": 2580.33,
+      "text": "This leads directly to that often difficult decision about prioritizing stability over maybe shiny new features."
+    },
+    {
+      "t": 2586.53,
+      "text": "The question has to be asked internally."
+    },
+    {
+      "t": 2588.43,
+      "text": "Should we pause new feature releases until the guardrails are confirmed and tested?"
+    },
+    {
+      "t": 2592.57,
+      "text": "And the definitive statement provided in the sources is really a core piece of high-level business English, signaling clear risk management priorities."
+    },
+    {
+      "t": 2600.1,
+      "text": "Pause anything touching reporting."
+    },
+    {
+      "t": 2601.86,
+      "text": "Communicate to product leads that stability trumps shiny launches today."
+    },
+    {
+      "t": 2605.43,
+      "text": "That's quite direct."
+    },
+    {
+      "t": 2606.43,
+      "text": "It is, but it works because it speaks the product manager's language launches and features, but asserts unequivocally that the cost of instability, lost trust, compliance exposure, rework far outweighs the immediate excitement of a new market release."
+    },
+    {
+      "t": 2621.55,
+      "text": "OK, to ensure the system is truly hardened and ready for audit, the sources detail a pretty comprehensive three layers approach for future safeguards."
+    },
+    {
+      "t": 2630.16,
+      "text": "Let's maybe break down what failure mode each layer is designed to prevent."
+    },
+    {
+      "t": 2634.08,
+      "text": "Yeah, the layers create redundancy, right?"
+    },
+    {
+      "t": 2636.23,
+      "text": "Preventing a single point of human or systemic failure."
+    },
+    {
+      "t": 2639.35,
+      "text": "The first layer is technical, integrating automated variance alerts tied to thresholds."
+    },
+    {
+      "t": 2644.66,
+      "text": "This stops data drift or incorrect inputs from just silently propagating through the system."
+    },
+    {
+      "t": 2649.41,
+      "text": "So the system itself flags the issue before a human even looks at the data."
+    },
+    {
+      "t": 2653.51,
+      "text": "Ideally, yes."
+    },
+    {
+      "t": 2654.81,
+      "text": "The second layer is about human redundancy."
+    },
+    {
+      "t": 2657.07,
+      "text": "Establishing a buddy review rotation for fresh eyes, regardless of how rushed things are."
+    },
+    {
+      "t": 2661.68,
+      "text": "This prevents that fatigue-induced error where one person, maybe rushing under client pressure, skips a key sign-off."
+    },
+    {
+      "t": 2668.25,
+      "text": "The human element is integrated, but as a necessary cross-check."
+    },
+    {
+      "t": 2671.53,
+      "text": "And the third layer sounds like it's about executive awareness."
+    },
+    {
+      "t": 2674.13,
+      "text": "Correct."
+    },
+    {
+      "t": 2674.93,
+      "text": "Capturing key risk indicators in a dashboard that the whole leadership team monitors regularly, maybe daily or weekly."
+    },
+    {
+      "t": 2681.81,
+      "text": "This ensures that process failures, even small ones, don't stay hidden in one department silo and that resource allocation for systemic fixes stays prioritized right at the top level."
+    },
+    {
+      "t": 2692.71,
+      "text": "And throughout this whole process of implementing new controls, there's a strong focus on audit readiness."
+    },
+    {
+      "t": 2698.43,
+      "text": "The instruction is to capture screenshots documenting changes."
+    },
+    {
+      "t": 2702.2,
+      "text": "Auditors appreciate concrete evidence when revisiting quarterly controls."
+    },
+    {
+      "t": 2706.02,
+      "text": "Why is this documentation so critical beyond just the immediate fix?"
+    },
+    {
+      "t": 2709.53,
+      "text": "Well, when an auditor or maybe a compliance team revisits a past error, they need proof."
+    },
+    {
+      "t": 2714.85,
+      "text": "Not just that you identified the root cause, but that you physically changed the process."
+    },
+    {
+      "t": 2718.82,
+      "text": "And crucially, that the change is enforceable and being enforced."
+    },
+    {
+      "t": 2722.32,
+      "text": "Screenshots, signed-off documentation, they prove that the fix is now institutionalized, not just reliant on temporary human goodwill or memory."
+    },
+    {
+      "t": 2730.63,
+      "text": "Makes sense."
+    },
+    {
+      "t": 2731.53,
+      "text": "Finally, you can't just rely on hope."
+    },
+    {
+      "t": 2733.64,
+      "text": "You need muscle memory for this stuff."
+    },
+    {
+      "t": 2736.02,
+      "text": "This means creating a contingency playbook, outlining immediate steps, different scenarios, and even providing scripts for transparent communication under pressure."
+    },
+    {
+      "t": 2746.83,
+      "text": "For our listeners, can you just clarify what a contingency playbook typically involves?"
+    },
+    {
+      "t": 2750.55,
+      "text": "Sure."
+    },
+    {
+      "t": 2751.22,
+      "text": "It's essentially a pre-written guide."
+    },
+    {
+      "t": 2753.38,
+      "text": "It maps specific types of failures to specific response plans."
+    },
+    {
+      "t": 2757.46,
+      "text": "Who does what?"
+    },
+    {
+      "t": 2758.75,
+      "text": "Who calls whom?"
+    },
+    {
+      "t": 2759.59,
+      "text": "What are the key messages?"
+    },
+    {
+      "t": 2761.41,
+      "text": "The idea is to reduce the cognitive load during an actual crisis so people aren't trying to figure things out from scratch when the pressure is on."
+    },
+    {
+      "t": 2768.34,
+      "text": "And then the crucial step."
+    },
+    {
+      "t": 2769.96,
+      "text": "actually rehearsing it."
+    },
+    {
+      "t": 2771.14,
+      "text": "The source mentioned running simulations quarterly to keep muscle memory sharp during crisis."
+    },
+    {
+      "t": 2776.13,
+      "text": "Exactly."
+    },
+    {
+      "t": 2776.71,
+      "text": "Without rehearsal, the playbook is just a document sitting on a shelf, probably outdated."
+    },
+    {
+      "t": 2781.06,
+      "text": "With rehearsal, it becomes ingrained behavior, almost instinctual."
+    },
+    {
+      "t": 2784.57,
+      "text": "And once the process is updated, you need to ensure adoption across the team."
+    },
+    {
+      "t": 2789.39,
+      "text": "They schedule a brown bag to teach the updated process and gather feedback live."
+    },
+    {
+      "t": 2794.6,
+      "text": "Can you just quickly define brown bag in this professional context?"
+    },
+    {
+      "t": 2797.52,
+      "text": "Yeah, certainly."
+    },
+    {
+      "t": 2798.72,
+      "text": "A brown bag session is typically an informal, often voluntary training or lunch and learn session."
+    },
+    {
+      "t": 2804.39,
+      "text": "It's where the team can digest new process changes or strategic information in a lower pressure setting."
+    },
+    {
+      "t": 2810.55,
+      "text": "It's usually non-mandatory and encourages open questions and feedback, which is absolutely key for successful change management."
+    },
+    {
+      "t": 2817.88,
+      "text": "And then crucially, the team commits to tracking compliance weekly for the next quarter, which effectively closes the loop on that systemic improvement."
+    },
+    {
+      "t": 2825.26,
+      "text": "OK, we've addressed the system, the client communications, the immediate fix."
+    },
+    {
+      "t": 2829.75,
+      "text": "Now let's look at the human element and the culture of support, which, as we kind of established earlier, is really the foundation of effective accountability."
+    },
+    {
+      "t": 2837.48,
+      "text": "The sources guide the leader on how to handle that candid debriefing process, starting by setting a supportive tone."
+    },
+    {
+      "t": 2843.55,
+      "text": "The phrase was, let's debrief while details remain fresh."
+    },
+    {
+      "t": 2846.88,
+      "text": "I want to understand your perspective throughout today."
+    },
+    {
+      "t": 2849.02,
+      "text": "That phrase is just a masterpiece of leadership language, isn't it?"
+    },
+    {
+      "t": 2853.17,
+      "text": "It immediately shifts the focus away from fault finding towards empathy and data collection."
+    },
+    {
+      "t": 2858.72,
+      "text": "And this supportive environment is what elicits the vulnerability needed for true root cause analysis."
+    },
+    {
+      "t": 2864.32,
+      "text": "You get admissions like, I felt rushed and worried about disappointing the client, so I cut a corner."
+    },
+    {
+      "t": 2868.63,
+      "text": "And that admission is so critical because it identifies pressure, not malice or incompetence, as the specific failure point."
+    },
+    {
+      "t": 2877.07,
+      "text": "And the leader's supportive response uses that data to design better support structures going forward."
+    },
+    {
+      "t": 2883.27,
+      "text": "Honestly, acknowledging the pressure helps us design support structures better."
+    },
+    {
+      "t": 2886.42,
+      "text": "This is that fundamental cultural pivot we talked about."
+    },
+    {
+      "t": 2889.44,
+      "text": "The mistake is now seen not as like ammunition for discipline, but as a critical piece of data that's required for future process improvement."
+    },
+    {
+      "t": 2897.13,
+      "text": "You're analyzing the system failure through the human experience of it."
+    },
+    {
+      "t": 2901.37,
+      "text": "This naturally leads into identifying overload signals and setting boundaries."
+    },
+    {
+      "t": 2905.62,
+      "text": "The employee actually self-assesses, taking personal ownership of their mental workload."
+    },
+    {
+      "t": 2912.69,
+      "text": "Quote, This moves the responsibility for setting boundaries back to the individual, but crucially, with explicit support from leadership."
+    },
+    {
+      "t": 2924.99,
+      "text": "And to make this really actionable and measurable, they create a concrete alert threshold together."
+    },
+    {
+      "t": 2930.12,
+      "text": "Something like, set a threshold where you ping me once three urgent tasks collide."
+    },
+    {
+      "t": 2935.35,
+      "text": "Now, this is pretty revolutionary in a lot of business settings because it makes the process responsible for risk mitigation, not just the individual's ability to cope under potentially infinite stress."
+    },
+    {
+      "t": 2944.66,
+      "text": "It's an actionable, measurable guardrail against future burnout-induced mistakes."
+    },
+    {
+      "t": 2949.53,
+      "text": "The overarching theme here really seems to be the partnership language of accountability."
+    },
+    {
+      "t": 2954.07,
+      "text": "The leader reinforces this positive framework that shifts the whole psychological dynamic."
+    },
+    {
+      "t": 2958.86,
+      "text": "Accountability does not equal punishment."
+    },
+    {
+      "t": 2960.96,
+      "text": "Yeah, and that foundational mindset is honestly what makes the entire system work."
+    },
+    {
+      "t": 2965.4,
+      "text": "If accountability is just synonymous with discipline, people will hide errors."
+    },
+    {
+      "t": 2970.31,
+      "text": "It's that simple."
+    },
+    {
+      "t": 2971.43,
+      "text": "If accountability is synonymous with process improvement, people bring errors forward instantly, allowing for that rapid response."
+    },
+    {
+      "t": 2978.47,
+      "text": "And the sources show that this positive framing has a direct motivational effect on the professional involved."
+    },
+    {
+      "t": 2984.48,
+      "text": "They actually state that this structure motivates me to lean in instead of deflecting responsibility when errors happen."
+    },
+    {
+      "t": 2991.66,
+      "text": "The error becomes a development opportunity, not something that's career limiting."
+    },
+    {
+      "t": 2995.95,
+      "text": "And to normalize this growth conversation across the team, they capture and share personal commitments."
+    },
+    {
+      "t": 3001.36,
+      "text": "Like the leader commits to checking the employee's bandwidth twice weekly, the employee commits to flagging risks early."
+    },
+    {
+      "t": 3007.55,
+      "text": "They agree to share these commitments with the team to normalize transparent growth conversations."
+    },
+    {
+      "t": 3012.52,
+      "text": "This is really how you scale cultural maturity by making vulnerability public, safe and, frankly, expected."
+    },
+    {
+      "t": 3018.99,
+      "text": "And finally, the leader needs to communicate this resilience and recovery upwards to the executive team."
+    },
+    {
+      "t": 3025.06,
+      "text": "You can't just dwell on the error."
+    },
+    {
+      "t": 3026.78,
+      "text": "You have to emphasize the professional response and the improvements made."
+    },
+    {
+      "t": 3030.68,
+      "text": "The goal is to emphasize that processes improved because we responded swiftly."
+    },
+    {
+      "t": 3036.94,
+      "text": "They have to focus relentlessly on the lessons learned, not on blame."
+    },
+    {
+      "t": 3040.64,
+      "text": "The leader commits."
+    },
+    {
+      "t": 3041.82,
+      "text": "I'll highlight resilience and what we learned so they see proactive ownership rather than blame."
+    },
+    {
+      "t": 3046.25,
+      "text": "And perhaps the ultimate sign of organizational maturity is scheduling that retrospective, including engineering, analytics, and client success partners, making sure everyone who was touched by the error actually contributes to the solution."
+    },
+    {
+      "t": 3057.7,
+      "text": "That really cements the cultural shift for good."
+    },
+    {
+      "t": 3060.0,
+      "text": "Hashtag tag tag at TRO."
+    },
+    {
+      "t": 3061.53,
+      "text": "Wow, this has been a remarkably detailed blueprint."
+    },
+    {
+      "t": 3064.09,
+      "text": "We've really analyzed how to turn these high-pressure, high-stakes errors, whether they're shipping variances, dashboard data slips, or billing mistakes, into a structured, measurable process that's defined entirely by professional communication."
+    },
+    {
+      "t": 3076.89,
+      "text": "We've moved way beyond just a simple apology into a full business English framework for recovery and process fortification."
+    },
+    {
+      "t": 3085.28,
+      "text": "Yeah, that's the strategic key takeaway, I think."
+    },
+    {
+      "t": 3088.34,
+      "text": "Handling errors isn't about immediate punishment or blame."
+    },
+    {
+      "t": 3092.05,
+      "text": "It's a measurable process focused on communication and system improvement."
+    },
+    {
+      "t": 3096.51,
+      "text": "The real value of these specific phrases we dissected, you know, from the variance traces back to my approval right through to stability Trump's shiny launches today, is that they transform a professional hiccup into external pref that we handle setbacks transparently."
+    },
+    {
+      "t": 3111.82,
+      "text": "And that ultimately drives leadership maturity across the entire organization."
+    },
+    {
+      "t": 3115.46,
+      "text": "And we saw that team committing to track compliance weekly for the next quarter just to confirm the new guardrails actually stick, making the whole process repeatable."
+    },
+    {
+      "t": 3123.09,
+      "text": "Exactly."
+    },
+    {
+      "t": 3123.77,
+      "text": "So if true accountability is really defined by repeatable success, we want to leave you, our listener, with a final provocative thought."
+    },
+    {
+      "t": 3132.14,
+      "text": "We saw the immense pressure that can cause individuals to bypass safeguards."
+    },
+    {
+      "t": 3136.82,
+      "text": "So for your own work, think about that one thing you currently tend to rush through when you're under deadline pressure."
+    },
+    {
+      "t": 3141.78,
+      "text": "What is one single measurable process guardrail?"
+    },
+    {
+      "t": 3145.51,
+      "text": "Maybe it's a mandatory 60 second pause before hitting send or an automatic alert you could set up that you can immediately implement and track this week to prevent your most recent professional slip."
+    },
+    {
+      "t": 3155.57,
+      "text": "Use some of the language we discussed today to maybe solidify that commitment with your own team."
+    }
+  ],
+  "lemmas": [
+    [
+      "process",
+      45
+    ],
+    [
+      "need",
+      38
+    ],
+    [
+      "client",
+      37
+    ],
+    [
+      "fix",
+      35
+    ],
+    [
+      "error",
+      33
+    ],
+    [
+      "immediate",
+      32
+    ],
+    [
+      "professional",
+      31
+    ],
+    [
+      "pressure",
+      26
+    ],
+    [
+      "person",
+      25
+    ],
+    [
+      "exactly",
+      24
+    ],
+    [
+      "system",
+      24
+    ],
+    [
+      "maybe",
+      23
+    ],
+    [
+      "someth",
+      23
+    ],
+    [
+      "say",
+      23
+    ],
+    [
+      "team",
+      23
+    ],
+    [
+      "language",
+      22
+    ],
+    [
+      "know",
+      21
+    ],
+    [
+      "data",
+      21
+    ],
+    [
+      "specific",
+      20
+    ],
+    [
+      "communication",
+      20
+    ],
+    [
+      "mak",
+      20
+    ],
+    [
+      "clear",
+      20
+    ],
+    [
+      "happen",
+      18
+    ],
+    [
+      "thing",
+      18
+    ],
+    [
+      "key",
+      18
+    ],
+    [
+      "accountability",
+      18
+    ],
+    [
+      "new",
+      18
+    ],
+    [
+      "think",
+      18
+    ],
+    [
+      "focus",
+      17
+    ],
+    [
+      "show",
+      17
+    ],
+    [
+      "point",
+      16
+    ],
+    [
+      "call",
+      16
+    ],
+    [
+      "source",
+      15
+    ],
+    [
+      "design",
+      15
+    ],
+    [
+      "safeguard",
+      15
+    ],
+    [
+      "commit",
+      15
+    ],
+    [
+      "keep",
+      15
+    ],
+    [
+      "leadership",
+      15
+    ],
+    [
+      "get",
+      14
+    ],
+    [
+      "recovery",
+      14
+    ],
+    [
+      "control",
+      14
+    ],
+    [
+      "immediately",
+      14
+    ],
+    [
+      "human",
+      14
+    ],
+    [
+      "set",
+      14
+    ],
+    [
+      "trust",
+      14
+    ],
+    [
+      "mistake",
+      13
+    ],
+    [
+      "one",
+      13
+    ],
+    [
+      "start",
+      13
+    ],
+    [
+      "response",
+      13
+    ],
+    [
+      "shift",
+      13
+    ],
+    [
+      "even",
+      13
+    ],
+    [
+      "whole",
+      13
+    ],
+    [
+      "sourc",
+      13
+    ],
+    [
+      "critical",
+      13
+    ],
+    [
+      "make",
+      13
+    ],
+    [
+      "look",
+      12
+    ],
+    [
+      "variance",
+      12
+    ],
+    [
+      "turn",
+      12
+    ],
+    [
+      "failure",
+      12
+    ],
+    [
+      "see",
+      12
+    ],
+    [
+      "leader",
+      12
+    ],
+    [
+      "next",
+      12
+    ],
+    [
+      "crisis",
+      12
+    ],
+    [
+      "phase",
+      12
+    ],
+    [
+      "strategic",
+      12
+    ],
+    [
+      "flag",
+      12
+    ],
+    [
+      "feel",
+      12
+    ],
+    [
+      "manager",
+      12
+    ],
+    [
+      "systemic",
+      12
+    ],
+    [
+      "review",
+      12
+    ],
+    [
+      "step",
+      12
+    ],
+    [
+      "legal",
+      12
+    ],
+    [
+      "shar",
+      11
+    ],
+    [
+      "back",
+      11
+    ],
+    [
+      "sound",
+      11
+    ],
+    [
+      "risk",
+      11
+    ],
+    [
+      "cause",
+      11
+    ],
+    [
+      "impact",
+      11
+    ],
+    [
+      "finance",
+      11
+    ],
+    [
+      "plan",
+      11
+    ],
+    [
+      "offer",
+      11
+    ],
+    [
+      "alert",
+      11
+    ],
+    [
+      "today",
+      10
+    ],
+    [
+      "business",
+      10
+    ],
+    [
+      "us",
+      10
+    ],
+    [
+      "away",
+      10
+    ],
+    [
+      "first",
+      10
+    ],
+    [
+      "learn",
+      10
+    ],
+    [
+      "individual",
+      10
+    ],
+    [
+      "root",
+      10
+    ],
+    [
+      "operation",
+      10
+    ],
+    [
+      "rush",
+      10
+    ],
+    [
+      "absolutely",
+      10
+    ],
+    [
+      "lead",
+      10
+    ],
+    [
+      "signal",
+      10
+    ],
+    [
+      "commitment",
+      10
+    ],
+    [
+      "structur",
+      10
+    ],
+    [
+      "mistak",
+      9
+    ],
+    [
+      "sure",
+      9
+    ],
+    [
+      "ownership",
+      9
+    ],
+    [
+      "help",
+      9
+    ],
+    [
+      "ah",
+      9
+    ],
+    [
+      "slip",
+      9
+    ],
+    [
+      "organizational",
+      9
+    ],
+    [
+      "track",
+      9
+    ],
+    [
+      "crucially",
+      9
+    ],
+    [
+      "compliance",
+      9
+    ],
+    [
+      "crucial",
+      9
+    ],
+    [
+      "loop",
+      9
+    ],
+    [
+      "work",
+      9
+    ],
+    [
+      "involv",
+      9
+    ],
+    [
+      "personal",
+      9
+    ],
+    [
+      "concrete",
+      9
+    ],
+    [
+      "maturity",
+      9
+    ],
+    [
+      "transparent",
+      9
+    ],
+    [
+      "support",
+      9
+    ],
+    [
+      "prevent",
+      9
+    ],
+    [
+      "conversation",
+      8
+    ],
+    [
+      "go",
+      8
+    ],
+    [
+      "build",
+      8
+    ],
+    [
+      "weve",
+      8
+    ],
+    [
+      "material",
+      8
+    ],
+    [
+      "kind",
+      8
+    ],
+    [
+      "real",
+      8
+    ],
+    [
+      "two",
+      8
+    ],
+    [
+      "three",
+      8
+    ],
+    [
+      "technical",
+      8
+    ],
+    [
+      "phras",
+      8
+    ],
+    [
+      "trac",
+      8
+    ],
+    [
+      "everyone",
+      8
+    ],
+    [
+      "also",
+      8
+    ],
+    [
+      "long",
+      8
+    ],
+    [
+      "way",
+      8
+    ],
+    [
+      "ask",
+      8
+    ],
+    [
+      "check",
+      8
+    ],
+    [
+      "question",
+      8
+    ],
+    [
+      "problem",
+      8
+    ],
+    [
+      "draft",
+      8
+    ],
+    [
+      "ensur",
+      8
+    ],
+    [
+      "improvement",
+      8
+    ],
+    [
+      "launch",
+      8
+    ],
+    [
+      "document",
+      8
+    ],
+    [
+      "guardrail",
+      8
+    ],
+    [
+      "engineer",
+      8
+    ],
+    [
+      "provid",
+      8
+    ],
+    [
+      "organization",
+      8
+    ],
+    [
+      "executive",
+      8
+    ],
+    [
+      "confidence",
+      7
+    ],
+    [
+      "action",
+      7
+    ],
+    [
+      "time",
+      7
+    ],
+    [
+      "structure",
+      7
+    ],
+    [
+      "blame",
+      7
+    ],
+    [
+      "approval",
+      7
+    ],
+    [
+      "phrase",
+      7
+    ],
+    [
+      "oh",
+      7
+    ],
+    [
+      "reinforc",
+      7
+    ],
+    [
+      "honest",
+      7
+    ],
+    [
+      "high",
+      7
+    ],
+    [
+      "stress",
+      7
+    ],
+    [
+      "directly",
+      7
+    ],
+    [
+      "seem",
+      7
+    ],
+    [
+      "talk",
+      7
+    ],
+    [
+      "alway",
+      7
+    ],
+    [
+      "share",
+      7
+    ],
+    [
+      "audit",
+      7
+    ],
+    [
+      "handl",
+      7
+    ],
+    [
+      "manag",
+      7
+    ],
+    [
+      "chang",
+      7
+    ],
+    [
+      "mean",
+      7
+    ],
+    [
+      "sense",
+      7
+    ],
+    [
+      "good",
+      7
+    ],
+    [
+      "playbook",
+      7
+    ],
+    [
+      "measurable",
+      7
+    ],
+    [
+      "mov",
+      7
+    ],
+    [
+      "often",
+      7
+    ],
+    [
+      "dashboard",
+      6
+    ],
+    [
+      "english",
+      6
+    ],
+    [
+      "use",
+      6
+    ],
+    [
+      "pivot",
+      6
+    ],
+    [
+      "move",
+      6
+    ],
+    [
+      "instantly",
+      6
+    ],
+    [
+      "miss",
+      6
+    ],
+    [
+      "finally",
+      6
+    ],
+    [
+      "culture",
+      6
+    ],
+    [
+      "lesson",
+      6
+    ],
+    [
+      "stick",
+      6
+    ],
+    [
+      "unpack",
+      6
+    ],
+    [
+      "someone",
+      6
+    ],
+    [
+      "wait",
+      6
+    ],
+    [
+      "precisely",
+      6
+    ],
+    [
+      "quickly",
+      6
+    ],
+    [
+      "acknowledg",
+      6
+    ],
+    [
+      "transparency",
+      6
+    ],
+    [
+      "bad",
+      6
+    ],
+    [
+      "analysis",
+      6
+    ],
+    [
+      "pretty",
+      6
+    ],
+    [
+      "issue",
+      6
+    ],
+    [
+      "skip",
+      6
+    ],
+    [
+      "address",
+      6
+    ],
+    [
+      "bypass",
+      6
+    ],
+    [
+      "downstream",
+      6
+    ],
+    [
+      "definitely",
+      6
+    ],
+    [
+      "beyond",
+      6
+    ],
+    [
+      "forward",
+      6
+    ],
+    [
+      "caus",
+      6
+    ],
+    [
+      "urgent",
+      6
+    ],
+    [
+      "internally",
+      6
+    ],
+    [
+      "especially",
+      6
+    ],
+    [
+      "hour",
+      6
+    ],
+    [
+      "find",
+      6
+    ],
+    [
+      "requir",
+      6
+    ],
+    [
+      "meet",
+      6
+    ],
+    [
+      "product",
+      6
+    ],
+    [
+      "proof",
+      6
+    ],
+    [
+      "future",
+      6
+    ],
+    [
+      "goal",
+      6
+    ],
+    [
+      "implement",
+      6
+    ],
+    [
+      "demonstrat",
+      6
+    ],
+    [
+      "long-term",
+      6
+    ],
+    [
+      "threshold",
+      6
+    ],
+    [
+      "ensure",
+      6
+    ],
+    [
+      "defin",
+      6
+    ],
+    [
+      "probably",
+      6
+    ],
+    [
+      "buddy",
+      6
+    ],
+    [
+      "pause",
+      6
+    ],
+    [
+      "stability",
+      6
+    ],
+    [
+      "shiny",
+      6
+    ],
+    [
+      "cultural",
+      6
+    ],
+    [
+      "growth",
+      6
+    ],
+    [
+      "employee",
+      6
+    ],
+    [
+      "becom",
+      6
+    ],
+    [
+      "admission",
+      6
+    ],
+    [
+      "layer",
+      6
+    ],
+    [
+      "wrong",
+      5
+    ],
+    [
+      "shipment",
+      5
+    ],
+    [
+      "actual",
+      5
+    ],
+    [
+      "handle",
+      5
+    ],
+    [
+      "almost",
+      5
+    ],
+    [
+      "word",
+      5
+    ],
+    [
+      "ther",
+      5
+    ],
+    [
+      "stakeholder",
+      5
+    ],
+    [
+      "moment",
+      5
+    ],
+    [
+      "com",
+      5
+    ],
+    [
+      "ground",
+      5
+    ],
+    [
+      "dialogue",
+      5
+    ],
+    [
+      "log",
+      5
+    ],
+    [
+      "objective",
+      5
+    ],
+    [
+      "sort",
+      5
+    ],
+    [
+      "foundational",
+      5
+    ],
+    [
+      "tak",
+      5
+    ],
+    [
+      "mess",
+      5
+    ],
+    [
+      "want",
+      5
+    ],
+    [
+      "simple",
+      5
+    ],
+    [
+      "responsibility",
+      5
+    ],
+    [
+      "establish",
+      5
+    ],
+    [
+      "ping",
+      5
+    ],
+    [
+      "vulnerability",
+      5
+    ],
+    [
+      "term",
+      5
+    ],
+    [
+      "damage",
+      5
+    ],
+    [
+      "stop",
+      5
+    ],
+    [
+      "expect",
+      5
+    ],
+    [
+      "creat",
+      5
+    ],
+    [
+      "hit",
+      5
+    ],
+    [
+      "notice",
+      5
+    ],
+    [
+      "temporary",
+      5
+    ],
+    [
+      "final",
+      5
+    ],
+    [
+      "discipline",
+      5
+    ],
+    [
+      "management",
+      5
+    ],
+    [
+      "direct",
+      5
+    ],
+    [
+      "understand",
+      5
+    ],
+    [
+      "else",
+      5
+    ],
+    [
+      "without",
+      5
+    ],
+    [
+      "service",
+      5
+    ],
+    [
+      "quick",
+      5
+    ],
+    [
+      "align",
+      5
+    ],
+    [
+      "external",
+      5
+    ],
+    [
+      "later",
+      5
+    ],
+    [
+      "rebuild",
+      5
+    ],
+    [
+      "maintain",
+      5
+    ],
+    [
+      "mention",
+      5
+    ],
+    [
+      "documentation",
+      5
+    ],
+    [
+      "updat",
+      5
+    ],
+    [
+      "evidence",
+      5
+    ],
+    [
+      "manual",
+      5
+    ],
+    [
+      "core",
+      5
+    ],
+    [
+      "platform",
+      5
+    ],
+    [
+      "communicate",
+      5
+    ],
+    [
+      "checklist",
+      5
+    ],
+    [
+      "fresh",
+      5
+    ],
+    [
+      "different",
+      5
+    ],
+    [
+      "script",
+      5
+    ],
+    [
+      "memory",
+      5
+    ],
+    [
+      "trump",
+      5
+    ],
+    [
+      "part",
+      5
+    ],
+    [
+      "context",
+      5
+    ],
+    [
+      "request",
+      5
+    ],
+    [
+      "weekly",
+      5
+    ],
+    [
+      "confirm",
+      5
+    ],
+    [
+      "effectively",
+      5
+    ],
+    [
+      "still",
+      5
+    ],
+    [
+      "detail",
+      5
+    ],
+    [
+      "instruction",
+      5
+    ],
+    [
+      "significant",
+      4
+    ],
+    [
+      "panic",
+      4
+    ],
+    [
+      "essential",
+      4
+    ],
+    [
+      "message",
+      4
+    ],
+    [
+      "tell",
+      4
+    ],
+    [
+      "important",
+      4
+    ],
+    [
+      "thank",
+      4
+    ],
+    [
+      "spe",
+      4
+    ],
+    [
+      "much",
+      4
+    ],
+    [
+      "solv",
+      4
+    ],
+    [
+      "single",
+      4
+    ],
+    [
+      "expos",
+      4
+    ],
+    [
+      "line",
+      4
+    ],
+    [
+      "standard",
+      4
+    ],
+    [
+      "suggest",
+      4
+    ],
+    [
+      "hard",
+      4
+    ],
+    [
+      "success",
+      4
+    ],
+    [
+      "update",
+      4
+    ],
+    [
+      "containment",
+      4
+    ],
+    [
+      "dissect",
+      4
+    ],
+    [
+      "done",
+      4
+    ],
+    [
+      "captur",
+      4
+    ],
+    [
+      "noth",
+      4
+    ],
+    [
+      "externally",
+      4
+    ],
+    [
+      "within",
+      4
+    ],
+    [
+      "despite",
+      4
+    ],
+    [
+      "deliver",
+      4
+    ],
+    [
+      "top",
+      4
+    ],
+    [
+      "correct",
+      4
+    ],
+    [
+      "statement",
+      4
+    ],
+    [
+      "apology",
+      4
+    ],
+    [
+      "short",
+      4
+    ],
+    [
+      "session",
+      4
+    ],
+    [
+      "side",
+      4
+    ],
+    [
+      "credit",
+      4
+    ],
+    [
+      "enough",
+      4
+    ],
+    [
+      "concession",
+      4
+    ],
+    [
+      "precedent",
+      4
+    ],
+    [
+      "remediation",
+      4
+    ],
+    [
+      "potential",
+      4
+    ],
+    [
+      "email",
+      4
+    ],
+    [
+      "sincere",
+      4
+    ],
+    [
+      "tone",
+      4
+    ],
+    [
+      "auditor",
+      4
+    ],
+    [
+      "quarterly",
+      4
+    ],
+    [
+      "true",
+      4
+    ],
+    [
+      "approach",
+      4
+    ],
+    [
+      "automat",
+      4
+    ],
+    [
+      "sign-off",
+      4
+    ],
+    [
+      "enforc",
+      4
+    ],
+    [
+      "using",
+      4
+    ],
+    [
+      "try",
+      4
+    ],
+    [
+      "role",
+      4
+    ],
+    [
+      "restriction",
+      4
+    ],
+    [
+      "limit",
+      4
+    ],
+    [
+      "highlight",
+      4
+    ],
+    [
+      "proactive",
+      4
+    ],
+    [
+      "element",
+      4
+    ],
+    [
+      "solution",
+      4
+    ],
+    [
+      "decision",
+      4
+    ],
+    [
+      "touch",
+      4
+    ],
+    [
+      "debrief",
+      4
+    ],
+    [
+      "honestly",
+      4
+    ],
+    [
+      "psychological",
+      4
+    ],
+    [
+      "truly",
+      4
+    ],
+    [
+      "safe",
+      4
+    ],
+    [
+      "task",
+      4
+    ],
+    [
+      "idea",
+      4
+    ],
+    [
+      "framework",
+      4
+    ],
+    [
+      "across",
+      4
+    ],
+    [
+      "brown",
+      4
+    ],
+    [
+      "bag",
+      4
+    ],
+    [
+      "resilience",
+      4
+    ],
+    [
+      "entirely",
+      4
+    ],
+    [
+      "inevitably",
+      4
+    ],
+    [
+      "analyz",
+      4
+    ],
+    [
+      "listener",
+      4
+    ],
+    [
+      "allow",
+      4
+    ],
+    [
+      "potentially",
+      4
+    ],
+    [
+      "internal",
+      4
+    ],
+    [
+      "presence",
+      4
+    ],
+    [
+      "invoice",
+      3
+    ],
+    [
+      "hiccup",
+      3
+    ],
+    [
+      "setback",
+      3
+    ],
+    [
+      "transparently",
+      3
+    ],
+    [
+      "walk",
+      3
+    ],
+    [
+      "respond",
+      3
+    ],
+    [
+      "four",
+      3
+    ],
+    [
+      "inside",
+      3
+    ],
+    [
+      "company",
+      3
+    ],
+    [
+      "lot",
+      3
+    ],
+    [
+      "dive",
+      3
+    ],
+    [
+      "spot",
+      3
+    ],
+    [
+      "unexpect",
+      3
+    ],
+    [
+      "yesterday",
+      3
+    ],
+    [
+      "yet",
+      3
+    ],
+    [
+      "corner",
+      3
+    ],
+    [
+      "wow",
+      3
+    ],
+    [
+      "narrative",
+      3
+    ],
+    [
+      "behavior",
+      3
+    ],
+    [
+      "validation",
+      3
+    ],
+    [
+      "finger",
+      3
+    ],
+    [
+      "fram",
+      3
+    ],
+    [
+      "fall",
+      3
+    ],
+    [
+      "figure",
+      3
+    ],
+    [
+      "stuff",
+      3
+    ],
+    [
+      "tool",
+      3
+    ],
+    [
+      "train",
+      3
+    ],
+    [
+      "case",
+      3
+    ],
+    [
+      "overrid",
+      3
+    ],
+    [
+      "admit",
+      3
+    ],
+    [
+      "secondary",
+      3
+    ],
+    [
+      "confirmation",
+      3
+    ],
+    [
+      "reality",
+      3
+    ],
+    [
+      "identify",
+      3
+    ],
+    [
+      "effect",
+      3
+    ],
+    [
+      "head",
+      3
+    ],
+    [
+      "noon",
+      3
+    ],
+    [
+      "specifically",
+      3
+    ],
+    [
+      "affect",
+      3
+    ],
+    [
+      "deadline",
+      3
+    ],
+    [
+      "urgency",
+      3
+    ],
+    [
+      "path",
+      3
+    ],
+    [
+      "outline",
+      3
+    ],
+    [
+      "concise",
+      3
+    ],
+    [
+      "firefight",
+      3
+    ],
+    [
+      "minut",
+      3
+    ],
+    [
+      "calmly",
+      3
+    ],
+    [
+      "mode",
+      3
+    ],
+    [
+      "smart",
+      3
+    ],
+    [
+      "youve",
+      3
+    ],
+    [
+      "honesty",
+      3
+    ],
+    [
+      "stumble",
+      3
+    ],
+    [
+      "department",
+      3
+    ],
+    [
+      "apologize",
+      3
+    ],
+    [
+      "plainly",
+      3
+    ],
+    [
+      "cut",
+      3
+    ],
+    [
+      "careful",
+      3
+    ],
+    [
+      "minute",
+      3
+    ],
+    [
+      "tactical",
+      3
+    ],
+    [
+      "sync",
+      3
+    ],
+    [
+      "stabiliz",
+      3
+    ],
+    [
+      "availability",
+      3
+    ],
+    [
+      "rule",
+      3
+    ],
+    [
+      "surpris",
+      3
+    ],
+    [
+      "timeline",
+      3
+    ],
+    [
+      "operational",
+      3
+    ],
+    [
+      "knowledge",
+      3
+    ],
+    [
+      "bill",
+      3
+    ],
+    [
+      "implication",
+      3
+    ],
+    [
+      "relationship",
+      3
+    ],
+    [
+      "vital",
+      3
+    ],
+    [
+      "takeaway",
+      3
+    ],
+    [
+      "piece",
+      3
+    ],
+    [
+      "summariz",
+      3
+    ],
+    [
+      "incident",
+      3
+    ],
+    [
+      "screenshot",
+      3
+    ],
+    [
+      "revisit",
+      3
+    ],
+    [
+      "level",
+      3
+    ],
+    [
+      "prevention",
+      3
+    ],
+    [
+      "example",
+      3
+    ],
+    [
+      "change",
+      3
+    ],
+    [
+      "matter",
+      3
+    ],
+    [
+      "redundancy",
+      3
+    ],
+    [
+      "override",
+      3
+    ],
+    [
+      "trigger",
+      3
+    ],
+    [
+      "tech",
+      3
+    ],
+    [
+      "guide",
+      3
+    ],
+    [
+      "bring",
+      3
+    ],
+    [
+      "add",
+      3
+    ],
+    [
+      "value",
+      3
+    ],
+    [
+      "huge",
+      3
+    ],
+    [
+      "eye",
+      3
+    ],
+    [
+      "load",
+      3
+    ],
+    [
+      "perspective",
+      3
+    ],
+    [
+      "peer",
+      3
+    ],
+    [
+      "contingency",
+      3
+    ],
+    [
+      "scenario",
+      3
+    ],
+    [
+      "failur",
+      3
+    ],
+    [
+      "ready",
+      3
+    ],
+    [
+      "useful",
+      3
+    ],
+    [
+      "tabletop",
+      3
+    ],
+    [
+      "muscle",
+      3
+    ],
+    [
+      "regularly",
+      3
+    ],
+    [
+      "underly",
+      3
+    ],
+    [
+      "prioritization",
+      3
+    ],
+    [
+      "report",
+      3
+    ],
+    [
+      "powerful",
+      3
+    ],
+    [
+      "feature",
+      3
+    ],
+    [
+      "send",
+      3
+    ],
+    [
+      "non-negotiable",
+      3
+    ],
+    [
+      "throughout",
+      3
+    ],
+    [
+      "experience",
+      3
+    ],
+    [
+      "reinforce",
+      3
+    ],
+    [
+      "punishment",
+      3
+    ],
+    [
+      "collide",
+      3
+    ],
+    [
+      "vague",
+      3
+    ],
+    [
+      "early",
+      3
+    ],
+    [
+      "agree",
+      3
+    ],
+    [
+      "normalize",
+      3
+    ],
+    [
+      "constructively",
+      3
+    ],
+    [
+      "informal",
+      3
+    ],
+    [
+      "jordan",
+      3
+    ],
+    [
+      "quarter",
+      3
+    ],
+    [
+      "monitor",
+      3
+    ],
+    [
+      "hide",
+      3
+    ],
+    [
+      "blueprint",
+      3
+    ],
+    [
+      "vigilance",
+      3
+    ],
+    [
+      "toward",
+      3
+    ],
+    [
+      "absolute",
+      3
+    ],
+    [
+      "test",
+      3
+    ],
+    [
+      "identifi",
+      3
+    ],
+    [
+      "resource",
+      3
+    ],
+    [
+      "contain",
+      3
+    ],
+    [
+      "information",
+      3
+    ],
+    [
+      "whether",
+      3
+    ],
+    [
+      "expectation",
+      3
+    ],
+    [
+      "explicit",
+      3
+    ],
+    [
+      "bullet",
+      3
+    ],
+    [
+      "stay",
+      3
+    ],
+    [
+      "anxiety",
+      3
+    ],
+    [
+      "pain",
+      3
+    ],
+    [
+      "instead",
+      3
+    ],
+    [
+      "discount",
+      3
+    ],
+    [
+      "discuss",
+      3
+    ],
+    [
+      "boundari",
+      3
+    ],
+    [
+      "entire",
+      3
+    ],
+    [
+      "prioritiz",
+      3
+    ],
+    [
+      "supportive",
+      3
+    ],
+    [
+      "high-stak",
+      2
+    ],
+    [
+      "constructive",
+      2
+    ],
+    [
+      "great",
+      2
+    ],
+    [
+      "real-time",
+      2
+    ],
+    [
+      "dialogu",
+      2
+    ],
+    [
+      "fascinat",
+      2
+    ],
+    [
+      "effective",
+      2
+    ],
+    [
+      "precise",
+      2
+    ],
+    [
+      "mission",
+      2
+    ],
+    [
+      "pull",
+      2
+    ],
+    [
+      "vocabulary",
+      2
+    ],
+    [
+      "roadmap",
+      2
+    ],
+    [
+      "listen",
+      2
+    ],
+    [
+      "world",
+      2
+    ],
+    [
+      "deal",
+      2
+    ],
+    [
+      "random",
+      2
+    ],
+    [
+      "phas",
+      2
+    ],
+    [
+      "outside",
+      2
+    ],
+    [
+      "nuanc",
+      2
+    ],
+    [
+      "prompt",
+      2
+    ],
+    [
+      "fact",
+      2
+    ],
+    [
+      "notic",
+      2
+    ],
+    [
+      "unfortunately",
+      2
+    ],
+    [
+      "originat",
+      2
+    ],
+    [
+      "react",
+      2
+    ],
+    [
+      "reward",
+      2
+    ],
+    [
+      "straight",
+      2
+    ],
+    [
+      "fail",
+      2
+    ],
+    [
+      "wonder",
+      2
+    ],
+    [
+      "fast",
+      2
+    ],
+    [
+      "deeper",
+      2
+    ],
+    [
+      "follow",
+      2
+    ],
+    [
+      "come",
+      2
+    ],
+    [
+      "repeatedly",
+      2
+    ],
+    [
+      "classic",
+      2
+    ],
+    [
+      "coach",
+      2
+    ],
+    [
+      "draw",
+      2
+    ],
+    [
+      "safety",
+      2
+    ],
+    [
+      "assess",
+      2
+    ],
+    [
+      "scope",
+      2
+    ],
+    [
+      "fac",
+      2
+    ],
+    [
+      "forc",
+      2
+    ],
+    [
+      "broader",
+      2
+    ],
+    [
+      "answer",
+      2
+    ],
+    [
+      "reconcil",
+      2
+    ],
+    [
+      "revis",
+      2
+    ],
+    [
+      "ambiguity",
+      2
+    ],
+    [
+      "corrective",
+      2
+    ],
+    [
+      "communicat",
+      2
+    ],
+    [
+      "fully",
+      2
+    ],
+    [
+      "clearly",
+      2
+    ],
+    [
+      "active",
+      2
+    ],
+    [
+      "separat",
+      2
+    ],
+    [
+      "block",
+      2
+    ],
+    [
+      "isolate",
+      2
+    ],
+    [
+      "everyth",
+      2
+    ],
+    [
+      "responsibiliti",
+      2
+    ],
+    [
+      "systematic",
+      2
+    ],
+    [
+      "foundation",
+      2
+    ],
+    [
+      "stage",
+      2
+    ],
+    [
+      "manage",
+      2
+    ],
+    [
+      "tim",
+      2
+    ],
+    [
+      "intact",
+      2
+    ],
+    [
+      "proactively",
+      2
+    ],
+    [
+      "vigilant",
+      2
+    ],
+    [
+      "project",
+      2
+    ],
+    [
+      "plain",
+      2
+    ],
+    [
+      "corporate",
+      2
+    ],
+    [
+      "hid",
+      2
+    ],
+    [
+      "deflect",
+      2
+    ],
+    [
+      "link",
+      2
+    ],
+    [
+      "prov",
+      2
+    ],
+    [
+      "similar",
+      2
+    ],
+    [
+      "invoic",
+      2
+    ],
+    [
+      "blindsid",
+      2
+    ],
+    [
+      "crew",
+      2
+    ],
+    [
+      "driv",
+      2
+    ],
+    [
+      "demonstration",
+      2
+    ],
+    [
+      "massive",
+      2
+    ],
+    [
+      "financial",
+      2
+    ],
+    [
+      "correction",
+      2
+    ],
+    [
+      "clean",
+      2
+    ],
+    [
+      "contract",
+      2
+    ],
+    [
+      "sincerity",
+      2
+    ],
+    [
+      "cover",
+      2
+    ],
+    [
+      "erode",
+      2
+    ],
+    [
+      "lost",
+      2
+    ],
+    [
+      "bas",
+      2
+    ],
+    [
+      "faulty",
+      2
+    ],
+    [
+      "target",
+      2
+    ],
+    [
+      "protocol",
+      2
+    ],
+    [
+      "owner",
+      2
+    ],
+    [
+      "everyon",
+      2
+    ],
+    [
+      "channel",
+      2
+    ],
+    [
+      "truth",
+      2
+    ],
+    [
+      "metric",
+      2
+    ],
+    [
+      "gather",
+      2
+    ],
+    [
+      "friday",
+      2
+    ],
+    [
+      "past",
+      2
+    ],
+    [
+      "appreciate",
+      2
+    ],
+    [
+      "fire",
+      2
+    ],
+    [
+      "never",
+      2
+    ],
+    [
+      "automate",
+      2
+    ],
+    [
+      "tied",
+      2
+    ],
+    [
+      "every",
+      2
+    ],
+    [
+      "certain",
+      2
+    ],
+    [
+      "less",
+      2
+    ],
+    [
+      "acknowledge",
+      2
+    ],
+    [
+      "automatically",
+      2
+    ],
+    [
+      "invite",
+      2
+    ],
+    [
+      "activat",
+      2
+    ],
+    [
+      "tonight",
+      2
+    ],
+    [
+      "hourly",
+      2
+    ],
+    [
+      "reactive",
+      2
+    ],
+    [
+      "robust",
+      2
+    ],
+    [
+      "alone",
+      2
+    ],
+    [
+      "likely",
+      2
+    ],
+    [
+      "gate",
+      2
+    ],
+    [
+      "attach",
+      2
+    ],
+    [
+      "burden",
+      2
+    ],
+    [
+      "mandatory",
+      2
+    ],
+    [
+      "rotation",
+      2
+    ],
+    [
+      "regardless",
+      2
+    ],
+    [
+      "oversight",
+      2
+    ],
+    [
+      "reduc",
+      2
+    ],
+    [
+      "assumption",
+      2
+    ],
+    [
+      "primary",
+      2
+    ],
+    [
+      "institutionaliz",
+      2
+    ],
+    [
+      "outlin",
+      2
+    ],
+    [
+      "includ",
+      2
+    ],
+    [
+      "sensitive",
+      2
+    ],
+    [
+      "cognitive",
+      2
+    ],
+    [
+      "clarity",
+      2
+    ],
+    [
+      "incredibly",
+      2
+    ],
+    [
+      "practic",
+      2
+    ],
+    [
+      "exercis",
+      2
+    ],
+    [
+      "simulation",
+      2
+    ],
+    [
+      "sharp",
+      2
+    ],
+    [
+      "shelf",
+      2
+    ],
+    [
+      "practice",
+      2
+    ],
+    [
+      "major",
+      2
+    ],
+    [
+      "page",
+      2
+    ],
+    [
+      "anyth",
+      2
+    ],
+    [
+      "resourc",
+      2
+    ],
+    [
+      "delay",
+      2
+    ],
+    [
+      "harden",
+      2
+    ],
+    [
+      "hardest",
+      2
+    ],
+    [
+      "open",
+      2
+    ],
+    [
+      "worri",
+      2
+    ],
+    [
+      "disappoint",
+      2
+    ],
+    [
+      "candid",
+      2
+    ],
+    [
+      "equal",
+      2
+    ],
+    [
+      "mantra",
+      2
+    ],
+    [
+      "retribution",
+      2
+    ],
+    [
+      "practical",
+      2
+    ],
+    [
+      "overload",
+      2
+    ],
+    [
+      "figur",
+      2
+    ],
+    [
+      "bandwidth",
+      2
+    ],
+    [
+      "workload",
+      2
+    ],
+    [
+      "emb",
+      2
+    ],
+    [
+      "several",
+      2
+    ],
+    [
+      "schedul",
+      2
+    ],
+    [
+      "lunch",
+      2
+    ],
+    [
+      "teach",
+      2
+    ],
+    [
+      "challenge",
+      2
+    ],
+    [
+      "measurement",
+      2
+    ],
+    [
+      "hope",
+      2
+    ],
+    [
+      "adoption",
+      2
+    ],
+    [
+      "become",
+      2
+    ],
+    [
+      "operat",
+      2
+    ],
+    [
+      "rhythm",
+      2
+    ],
+    [
+      "ultimate",
+      2
+    ],
+    [
+      "outcome",
+      2
+    ],
+    [
+      "repeat",
+      2
+    ],
+    [
+      "stronger",
+      2
+    ],
+    [
+      "deep",
+      2
+    ],
+    [
+      "power",
+      2
+    ],
+    [
+      "speak",
+      2
+    ],
+    [
+      "embed",
+      2
+    ],
+    [
+      "openly",
+      2
+    ],
+    [
+      "run",
+      2
+    ],
+    [
+      "obviously",
+      2
+    ],
+    [
+      "performance",
+      2
+    ],
+    [
+      "encourag",
+      2
+    ],
+    [
+      "punitive",
+      2
+    ],
+    [
+      "consider",
+      2
+    ],
+    [
+      "stak",
+      2
+    ],
+    [
+      "far",
+      2
+    ],
+    [
+      "demand",
+      2
+    ],
+    [
+      "improv",
+      2
+    ],
+    [
+      "essentially",
+      2
+    ],
+    [
+      "discovery",
+      2
+    ],
+    [
+      "discussion",
+      2
+    ],
+    [
+      "necessarily",
+      2
+    ],
+    [
+      "import",
+      2
+    ],
+    [
+      "responsible",
+      2
+    ],
+    [
+      "common",
+      2
+    ],
+    [
+      "hear",
+      2
+    ],
+    [
+      "mindset",
+      2
+    ],
+    [
+      "environment",
+      2
+    ],
+    [
+      "messag",
+      2
+    ],
+    [
+      "transition",
+      2
+    ],
+    [
+      "triage",
+      2
+    ],
+    [
+      "allocation",
+      2
+    ],
+    [
+      "usually",
+      2
+    ],
+    [
+      "strategy",
+      2
+    ],
+    [
+      "timelin",
+      2
+    ],
+    [
+      "list",
+      2
+    ],
+    [
+      "definitive",
+      2
+    ],
+    [
+      "cost",
+      2
+    ],
+    [
+      "readiness",
+      2
+    ],
+    [
+      "critically",
+      2
+    ],
+    [
+      "furthermore",
+      2
+    ],
+    [
+      "tracker",
+      2
+    ],
+    [
+      "incorrect",
+      2
+    ],
+    [
+      "sent",
+      2
+    ],
+    [
+      "restore",
+      2
+    ],
+    [
+      "factor",
+      2
+    ],
+    [
+      "ideally",
+      2
+    ],
+    [
+      "mitigation",
+      2
+    ],
+    [
+      "concern",
+      2
+    ],
+    [
+      "awareness",
+      2
+    ],
+    [
+      "promise",
+      2
+    ],
+    [
+      "inform",
+      2
+    ],
+    [
+      "contractual",
+      2
+    ],
+    [
+      "exposure",
+      2
+    ],
+    [
+      "face",
+      2
+    ],
+    [
+      "reaction",
+      2
+    ],
+    [
+      "necessary",
+      2
+    ],
+    [
+      "prove",
+      2
+    ],
+    [
+      "physically",
+      2
+    ],
+    [
+      "break",
+      2
+    ],
+    [
+      "priority",
+      2
+    ],
+    [
+      "fortification",
+      2
+    ],
+    [
+      "specializ",
+      2
+    ],
+    [
+      "development",
+      2
+    ],
+    [
+      "featur",
+      2
+    ],
+    [
+      "create",
+      2
+    ],
+    [
+      "integrat",
+      2
+    ],
+    [
+      "second",
+      2
+    ],
+    [
+      "capture",
+      2
+    ],
+    [
+      "typically",
+      2
+    ],
+    [
+      "rehearsal",
+      2
+    ],
+    [
+      "feedback",
+      2
+    ],
+    [
+      "actionable",
+      2
+    ],
+    [
+      "positive",
+      2
+    ],
+    [
+      "synonymous",
+      2
+    ],
+    [
+      "emphasize",
+      2
+    ],
+    [
+      "tag",
+      2
+    ],
+    [
+      "repeatable",
+      2
+    ],
+    [
+      "weed",
+      1
+    ],
+    [
+      "wonky",
+      1
+    ],
+    [
+      "tactic",
+      1
+    ],
+    [
+      "navigate",
+      1
+    ],
+    [
+      "crop",
+      1
+    ],
+    [
+      "choose",
+      1
+    ],
+    [
+      "broken",
+      1
+    ],
+    [
+      "cultivat",
+      1
+    ],
+    [
+      "begin",
+      1
+    ],
+    [
+      "light",
+      1
+    ],
+    [
+      "zero",
+      1
+    ],
+    [
+      "factually",
+      1
+    ],
+    [
+      "identification",
+      1
+    ],
+    [
+      "stat",
+      1
+    ],
+    [
+      "drama",
+      1
+    ],
+    [
+      "stood",
+      1
+    ],
+    [
+      "whose",
+      1
+    ],
+    [
+      "area",
+      1
+    ],
+    [
+      "jump",
+      1
+    ],
+    [
+      "surgical",
+      1
+    ],
+    [
+      "defensively",
+      1
+    ],
+    [
+      "breakdown",
+      1
+    ],
+    [
+      "gratitude",
+      1
+    ],
+    [
+      "collaborative",
+      1
+    ],
+    [
+      "analytical",
+      1
+    ],
+    [
+      "puzzle",
+      1
+    ],
+    [
+      "danger",
+      1
+    ],
+    [
+      "sword",
+      1
+    ],
+    [
+      "bigger",
+      1
+    ],
+    [
+      "fair",
+      1
+    ],
+    [
+      "function",
+      1
+    ],
+    [
+      "reason",
+      1
+    ],
+    [
+      "situation",
+      1
+    ],
+    [
+      "though",
+      1
+    ],
+    [
+      "firm",
+      1
+    ],
+    [
+      "hold",
+      1
+    ],
+    [
+      "accept",
+      1
+    ],
+    [
+      "rippl",
+      1
+    ],
+    [
+      "view",
+      1
+    ],
+    [
+      "desk",
+      1
+    ],
+    [
+      "pm",
+      1
+    ],
+    [
+      "hing",
+      1
+    ],
+    [
+      "shape",
+      1
+    ],
+    [
+      "encapsulat",
+      1
+    ],
+    [
+      "excus",
+      1
+    ],
+    [
+      "bit",
+      1
+    ],
+    [
+      "restor",
+      1
+    ],
+    [
+      "stable",
+      1
+    ],
+    [
+      "frame",
+      1
+    ],
+    [
+      "discover",
+      1
+    ],
+    [
+      "weird",
+      1
+    ],
+    [
+      "arriv",
+      1
+    ],
+    [
+      "secondhand",
+      1
+    ],
+    [
+      "jargon",
+      1
+    ],
+    [
+      "overly",
+      1
+    ],
+    [
+      "legalistic",
+      1
+    ],
+    [
+      "insincere",
+      1
+    ],
+    [
+      "promis",
+      1
+    ],
+    [
+      "clever",
+      1
+    ],
+    [
+      "already",
+      1
+    ],
+    [
+      "strengthen",
+      1
+    ],
+    [
+      "negative",
+      1
+    ],
+    [
+      "diligence",
+      1
+    ],
+    [
+      "follow-up",
+      1
+    ],
+    [
+      "sink",
+      1
+    ],
+    [
+      "respect",
+      1
+    ],
+    [
+      "busy",
+      1
+    ],
+    [
+      "wherea",
+      1
+    ],
+    [
+      "hour-long",
+      1
+    ],
+    [
+      "god",
+      1
+    ],
+    [
+      "efficiently",
+      1
+    ],
+    [
+      "spiral",
+      1
+    ],
+    [
+      "connect",
+      1
+    ],
+    [
+      "swift",
+      1
+    ],
+    [
+      "satisfy",
+      1
+    ],
+    [
+      "proportional",
+      1
+    ],
+    [
+      "warrant",
+      1
+    ],
+    [
+      "randomly",
+      1
+    ],
+    [
+      "guidance",
+      1
+    ],
+    [
+      "strategically",
+      1
+    ],
+    [
+      "contractually",
+      1
+    ],
+    [
+      "viable",
+      1
+    ],
+    [
+      "equally",
+      1
+    ],
+    [
+      "avoid",
+      1
+    ],
+    [
+      "won",
+      1
+    ],
+    [
+      "easily",
+      1
+    ],
+    [
+      "shaky",
+      1
+    ],
+    [
+      "treat",
+      1
+    ],
+    [
+      "secret",
+      1
+    ],
+    [
+      "shame",
+      1
+    ],
+    [
+      "unnecessary",
+      1
+    ],
+    [
+      "scrutiny",
+      1
+    ],
+    [
+      "tier",
+      1
+    ],
+    [
+      "relevant",
+      1
+    ],
+    [
+      "company-wide",
+      1
+    ],
+    [
+      "broadcast",
+      1
+    ],
+    [
+      "initially",
+      1
+    ],
+    [
+      "provide",
+      1
+    ],
+    [
+      "consistent",
+      1
+    ],
+    [
+      "tricky",
+      1
+    ],
+    [
+      "issu",
+      1
+    ],
+    [
+      "myth",
+      1
+    ],
+    [
+      "policy",
+      1
+    ],
+    [
+      "personally",
+      1
+    ],
+    [
+      "connection",
+      1
+    ],
+    [
+      "distinction",
+      1
+    ],
+    [
+      "formal",
+      1
+    ],
+    [
+      "sing",
+      1
+    ],
+    [
+      "hymn",
+      1
+    ],
+    [
+      "sheet",
+      1
+    ],
+    [
+      "post",
+      1
+    ],
+    [
+      "day",
+      1
+    ],
+    [
+      "stand-up",
+      1
+    ],
+    [
+      "total",
+      1
+    ],
+    [
+      "note",
+      1
+    ],
+    [
+      "giv",
+      1
+    ],
+    [
+      "resolution",
+      1
+    ],
+    [
+      "king",
+      1
+    ],
+    [
+      "six",
+      1
+    ],
+    [
+      "verifiable",
+      1
+    ],
+    [
+      "auditable",
+      1
+    ],
+    [
+      "fireproof",
+      1
+    ],
+    [
+      "sustainable",
+      1
+    ],
+    [
+      "logic",
+      1
+    ],
+    [
+      "significance",
+      1
+    ],
+    [
+      "tiny",
+      1
+    ],
+    [
+      "configur",
+      1
+    ],
+    [
+      "percentage",
+      1
+    ],
+    [
+      "dollar",
+      1
+    ],
+    [
+      "amount",
+      1
+    ],
+    [
+      "predefin",
+      1
+    ],
+    [
+      "anomali",
+      1
+    ],
+    [
+      "noise",
+      1
+    ],
+    [
+      "rout",
+      1
+    ],
+    [
+      "tackle",
+      1
+    ],
+    [
+      "visible",
+      1
+    ],
+    [
+      "importantly",
+      1
+    ],
+    [
+      "hero",
+      1
+    ],
+    [
+      "expert",
+      1
+    ],
+    [
+      "tightly",
+      1
+    ],
+    [
+      "authority",
+      1
+    ],
+    [
+      "adjust",
+      1
+    ],
+    [
+      "configuration",
+      1
+    ],
+    [
+      "blast",
+      1
+    ],
+    [
+      "radius",
+      1
+    ],
+    [
+      "constraint-bas",
+      1
+    ],
+    [
+      "upgrad",
+      1
+    ],
+    [
+      "explicitly",
+      1
+    ],
+    [
+      "constantly",
+      1
+    ],
+    [
+      "stance",
+      1
+    ],
+    [
+      "initial",
+      1
+    ],
+    [
+      "technology",
+      1
+    ],
+    [
+      "redundant",
+      1
+    ],
+    [
+      "clunky",
+      1
+    ],
+    [
+      "old",
+      1
+    ],
+    [
+      "redesign",
+      1
+    ],
+    [
+      "assignment",
+      1
+    ],
+    [
+      "imply",
+      1
+    ],
+    [
+      "toll",
+      1
+    ],
+    [
+      "booth",
+      1
+    ],
+    [
+      "go-no-go",
+      1
+    ],
+    [
+      "criteria",
+      1
+    ],
+    [
+      "drive",
+      1
+    ],
+    [
+      "around",
+      1
+    ],
+    [
+      "distribut",
+      1
+    ],
+    [
+      "chance",
+      1
+    ],
+    [
+      "rotat",
+      1
+    ],
+    [
+      "prepar",
+      1
+    ],
+    [
+      "various",
+      1
+    ],
+    [
+      "assign",
+      1
+    ],
+    [
+      "pre-approv",
+      1
+    ],
+    [
+      "invent",
+      1
+    ],
+    [
+      "legally",
+      1
+    ],
+    [
+      "fly",
+      1
+    ],
+    [
+      "vet",
+      1
+    ],
+    [
+      "mm-hmm",
+      1
+    ],
+    [
+      "organiz",
+      1
+    ],
+    [
+      "drill",
+      1
+    ],
+    [
+      "escape",
+      1
+    ],
+    [
+      "route",
+      1
+    ],
+    [
+      "simulate",
+      1
+    ],
+    [
+      "breach",
+      1
+    ],
+    [
+      "outage",
+      1
+    ],
+    [
+      "status",
+      1
+    ],
+    [
+      "comm",
+      1
+    ],
+    [
+      "reflex",
+      1
+    ],
+    [
+      "heat",
+      1
+    ],
+    [
+      "afford",
+      1
+    ],
+    [
+      "distraction",
+      1
+    ],
+    [
+      "ad",
+      1
+    ],
+    [
+      "painful",
+      1
+    ],
+    [
+      "unmistakable",
+      1
+    ],
+    [
+      "integrity",
+      1
+    ],
+    [
+      "accuracy",
+      1
+    ],
+    [
+      "rebuilt",
+      1
+    ],
+    [
+      "health",
+      1
+    ],
+    [
+      "totally",
+      1
+    ],
+    [
+      "invitation",
+      1
+    ],
+    [
+      "pressur",
+      1
+    ],
+    [
+      "valuable",
+      1
+    ],
+    [
+      "improve",
+      1
+    ],
+    [
+      "philosophy",
+      1
+    ],
+    [
+      "continue",
+      1
+    ],
+    [
+      "liv",
+      1
+    ],
+    [
+      "breath",
+      1
+    ],
+    [
+      "translate",
+      1
+    ],
+    [
+      "inbox",
+      1
+    ],
+    [
+      "surg",
+      1
+    ],
+    [
+      "stack",
+      1
+    ],
+    [
+      "self-awareness",
+      1
+    ],
+    [
+      "mirror",
+      1
+    ],
+    [
+      "two-way",
+      1
+    ],
+    [
+      "street",
+      1
+    ],
+    [
+      "agreed-upon",
+      1
+    ],
+    [
+      "interaction",
+      1
+    ],
+    [
+      "agreement",
+      1
+    ],
+    [
+      "private",
+      1
+    ],
+    [
+      "wider",
+      1
+    ],
+    [
+      "destigmatiz",
+      1
+    ],
+    [
+      "stretch",
+      1
+    ],
+    [
+      "thin",
+      1
+    ],
+    [
+      "explain",
+      1
+    ],
+    [
+      "spread",
+      1
+    ],
+    [
+      "pair",
+      1
+    ],
+    [
+      "another",
+      1
+    ],
+    [
+      "blind",
+      1
+    ],
+    [
+      "close",
+      1
+    ],
+    [
+      "catch",
+      1
+    ],
+    [
+      "original",
+      1
+    ],
+    [
+      "overlook",
+      1
+    ],
+    [
+      "groupthink",
+      1
+    ],
+    [
+      "adher",
+      1
+    ],
+    [
+      "day-to-day",
+      1
+    ],
+    [
+      "workflow",
+      1
+    ],
+    [
+      "fad",
+      1
+    ],
+    [
+      "put",
+      1
+    ],
+    [
+      "version",
+      1
+    ],
+    [
+      "driven",
+      1
+    ],
+    [
+      "intentional",
+      1
+    ],
+    [
+      "master",
+      1
+    ],
+    [
+      "accountable",
+      1
+    ],
+    [
+      "merely",
+      1
+    ],
+    [
+      "survive",
+      1
+    ],
+    [
+      "built",
+      1
+    ],
+    [
+      "thorough",
+      1
+    ],
+    [
+      "search",
+      1
+    ],
+    [
+      "usable",
+      1
+    ],
+    [
+      "big",
+      1
+    ],
+    [
+      "sheer",
+      1
+    ],
+    [
+      "fortify",
+      1
+    ],
+    [
+      "demonstrate",
+      1
+    ],
+    [
+      "four-phase",
+      1
+    ],
+    [
+      "sequence",
+      1
+    ],
+    [
+      "gloss",
+      1
+    ],
+    [
+      "disaster",
+      1
+    ],
+    [
+      "competence",
+      1
+    ],
+    [
+      "wrap",
+      1
+    ],
+    [
+      "end",
+      1
+    ],
+    [
+      "endors",
+      1
+    ],
+    [
+      "leav",
+      1
+    ],
+    [
+      "rol",
+      1
+    ],
+    [
+      "participat",
+      1
+    ],
+    [
+      "officially",
+      1
+    ],
+    [
+      "evaluat",
+      1
+    ],
+    [
+      "permanent",
+      1
+    ],
+    [
+      "month",
+      1
+    ],
+    [
+      "dna",
+      1
+    ],
+    [
+      "investigation",
+      1
+    ],
+    [
+      "mysterious",
+      1
+    ],
+    [
+      "global",
+      1
+    ],
+    [
+      "conspiracy",
+      1
+    ],
+    [
+      "ancient",
+      1
+    ],
+    [
+      "archaeological",
+      1
+    ],
+    [
+      "decod",
+      1
+    ],
+    [
+      "exact",
+      1
+    ],
+    [
+      "toolkit",
+      1
+    ],
+    [
+      "div",
+      1
+    ],
+    [
+      "unique",
+      1
+    ],
+    [
+      "life",
+      1
+    ],
+    [
+      "forget",
+      1
+    ],
+    [
+      "structural",
+      1
+    ],
+    [
+      "fluency",
+      1
+    ],
+    [
+      "synthesiz",
+      1
+    ],
+    [
+      "act",
+      1
+    ],
+    [
+      "shortcut",
+      1
+    ],
+    [
+      "strategi",
+      1
+    ],
+    [
+      "let",
+      1
+    ],
+    [
+      "safer",
+      1
+    ],
+    [
+      "momentary",
+      1
+    ],
+    [
+      "blunder",
+      1
+    ],
+    [
+      "boost",
+      1
+    ],
+    [
+      "signifi",
+      1
+    ],
+    [
+      "profound",
+      1
+    ],
+    [
+      "analyze",
+      1
+    ],
+    [
+      "fear",
+      1
+    ],
+    [
+      "internalize",
+      1
+    ],
+    [
+      "chronologically",
+      1
+    ],
+    [
+      "judgment",
+      1
+    ],
+    [
+      "sterile",
+      1
+    ],
+    [
+      "remov",
+      1
+    ],
+    [
+      "emotion",
+      1
+    ],
+    [
+      "boss",
+      1
+    ],
+    [
+      "investigate",
+      1
+    ],
+    [
+      "take",
+      1
+    ],
+    [
+      "give",
+      1
+    ],
+    [
+      "sentence",
+      1
+    ],
+    [
+      "conversational",
+      1
+    ],
+    [
+      "denial",
+      1
+    ],
+    [
+      "defense",
+      1
+    ],
+    [
+      "completely",
+      1
+    ],
+    [
+      "controll",
+      1
+    ],
+    [
+      "pass",
+      1
+    ],
+    [
+      "checkpoint",
+      1
+    ],
+    [
+      "verification",
+      1
+    ],
+    [
+      "gap",
+      1
+    ],
+    [
+      "moral",
+      1
+    ],
+    [
+      "host",
+      1
+    ],
+    [
+      "character",
+      1
+    ],
+    [
+      "many",
+      1
+    ],
+    [
+      "present",
+      1
+    ],
+    [
+      "excuse",
+      1
+    ],
+    [
+      "condemn",
+      1
+    ],
+    [
+      "counter",
+      1
+    ],
+    [
+      "advice",
+      1
+    ],
+    [
+      "constant",
+      1
+    ],
+    [
+      "boundary",
+      1
+    ],
+    [
+      "recognition",
+      1
+    ],
+    [
+      "internaliz",
+      1
+    ],
+    [
+      "understood",
+      1
+    ],
+    [
+      "number",
+      1
+    ],
+    [
+      "grasp",
+      1
+    ],
+    [
+      "procedure",
+      1
+    ],
+    [
+      "distill",
+      1
+    ],
+    [
+      "consequence",
+      1
+    ],
+    [
+      "consequenc",
+      1
+    ],
+    [
+      "insight",
+      1
+    ],
+    [
+      "minimiz",
+      1
+    ],
+    [
+      "behind",
+      1
+    ],
+    [
+      "psychologically",
+      1
+    ],
+    [
+      "faster",
+      1
+    ],
+    [
+      "sooner",
+      1
+    ],
+    [
+      "perfection",
+      1
+    ],
+    [
+      "reliable",
+      1
+    ],
+    [
+      "simultaneously",
+      1
+    ],
+    [
+      "audienc",
+      1
+    ],
+    [
+      "notification",
+      1
+    ],
+    [
+      "quantifi",
+      1
+    ],
+    [
+      "dictat",
+      1
+    ],
+    [
+      "deployment",
+      1
+    ],
+    [
+      "calculation",
+      1
+    ],
+    [
+      "file",
+      1
+    ],
+    [
+      "delivery",
+      1
+    ],
+    [
+      "anatomy",
+      1
+    ],
+    [
+      "component",
+      1
+    ],
+    [
+      "mini",
+      1
+    ],
+    [
+      "include",
+      1
+    ],
+    [
+      "thriv",
+      1
+    ],
+    [
+      "antidote",
+      1
+    ],
+    [
+      "recipient",
+      1
+    ],
+    [
+      "scan",
+      1
+    ],
+    [
+      "timefram",
+      1
+    ],
+    [
+      "replace",
+      1
+    ],
+    [
+      "chao",
+      1
+    ],
+    [
+      "interest",
+      1
+    ],
+    [
+      "dilemma",
+      1
+    ],
+    [
+      "regard",
+      1
+    ],
+    [
+      "tempt",
+      1
+    ],
+    [
+      "pos",
+      1
+    ],
+    [
+      "finalize",
+      1
+    ],
+    [
+      "fil",
+      1
+    ],
+    [
+      "crystal",
+      1
+    ],
+    [
+      "silence",
+      1
+    ],
+    [
+      "backfir",
+      1
+    ],
+    [
+      "logistic",
+      1
+    ],
+    [
+      "sal",
+      1
+    ],
+    [
+      "eventually",
+      1
+    ],
+    [
+      "tri",
+      1
+    ],
+    [
+      "secretly",
+      1
+    ],
+    [
+      "damag",
+      1
+    ],
+    [
+      "front",
+      1
+    ],
+    [
+      "rumor",
+      1
+    ],
+    [
+      "mill",
+      1
+    ],
+    [
+      "continu",
+      1
+    ],
+    [
+      "underway",
+      1
+    ],
+    [
+      "smoothly",
+      1
+    ],
+    [
+      "longer",
+      1
+    ],
+    [
+      "deliberate",
+      1
+    ],
+    [
+      "emotionally",
+      1
+    ],
+    [
+      "charg",
+      1
+    ],
+    [
+      "course",
+      1
+    ],
+    [
+      "trail",
+      1
+    ],
+    [
+      "eventual",
+      1
+    ],
+    [
+      "write-up",
+      1
+    ],
+    [
+      "retro",
+      1
+    ],
+    [
+      "confusion",
+      1
+    ],
+    [
+      "cue",
+      1
+    ],
+    [
+      "familiar",
+      1
+    ],
+    [
+      "centraliz",
+      1
+    ],
+    [
+      "place",
+      1
+    ],
+    [
+      "database",
+      1
+    ],
+    [
+      "whatever",
+      1
+    ],
+    [
+      "record",
+      1
+    ],
+    [
+      "collective",
+      1
+    ],
+    [
+      "institutional",
+      1
+    ],
+    [
+      "concept",
+      1
+    ],
+    [
+      "investment",
+      1
+    ],
+    [
+      "pay",
+      1
+    ],
+    [
+      "dividend",
+      1
+    ],
+    [
+      "meticulously",
+      1
+    ],
+    [
+      "emphasiz",
+      1
+    ],
+    [
+      "reli",
+      1
+    ],
+    [
+      "main",
+      1
+    ],
+    [
+      "tough",
+      1
+    ],
+    [
+      "amplifi",
+      1
+    ],
+    [
+      "perception",
+      1
+    ],
+    [
+      "guilt",
+      1
+    ],
+    [
+      "negligence",
+      1
+    ],
+    [
+      "possible",
+      1
+    ],
+    [
+      "anticipat",
+      1
+    ],
+    [
+      "preempt",
+      1
+    ],
+    [
+      "remember",
+      1
+    ],
+    [
+      "care",
+      1
+    ],
+    [
+      "extend",
+      1
+    ],
+    [
+      "hallmark",
+      1
+    ],
+    [
+      "worry",
+      1
+    ],
+    [
+      "tangible",
+      1
+    ],
+    [
+      "gesture",
+      1
+    ],
+    [
+      "calendar",
+      1
+    ],
+    [
+      "relat",
+      1
+    ],
+    [
+      "visual",
+      1
+    ],
+    [
+      "verbal",
+      1
+    ],
+    [
+      "trackable",
+      1
+    ],
+    [
+      "tightrope",
+      1
+    ],
+    [
+      "misbill",
+      1
+    ],
+    [
+      "audience",
+      1
+    ],
+    [
+      "protect",
+      1
+    ],
+    [
+      "duality",
+      1
+    ],
+    [
+      "robot",
+      1
+    ],
+    [
+      "unnecessarily",
+      1
+    ],
+    [
+      "write",
+      1
+    ],
+    [
+      "phone",
+      1
+    ],
+    [
+      "empathetic",
+      1
+    ],
+    [
+      "interact",
+      1
+    ],
+    [
+      "firewall",
+      1
+    ],
+    [
+      "balance",
+      1
+    ],
+    [
+      "gaug",
+      1
+    ],
+    [
+      "devalue",
+      1
+    ],
+    [
+      "unsustainable",
+      1
+    ],
+    [
+      "gauge",
+      1
+    ],
+    [
+      "escalate",
+      1
+    ],
+    [
+      "gestur",
+      1
+    ],
+    [
+      "negotiation",
+      1
+    ],
+    [
+      "tailor",
+      1
+    ],
+    [
+      "distress",
+      1
+    ],
+    [
+      "preserv",
+      1
+    ],
+    [
+      "margin",
+      1
+    ],
+    [
+      "unless",
+      1
+    ],
+    [
+      "imagine",
+      1
+    ],
+    [
+      "instruct",
+      1
+    ],
+    [
+      "properly",
+      1
+    ],
+    [
+      "approv",
+      1
+    ],
+    [
+      "future-damag",
+      1
+    ],
+    [
+      "obligation",
+      1
+    ],
+    [
+      "reassurance",
+      1
+    ],
+    [
+      "reassure",
+      1
+    ],
+    [
+      "fortifi",
+      1
+    ],
+    [
+      "hey",
+      1
+    ],
+    [
+      "harder",
+      1
+    ],
+    [
+      "involvement",
+      1
+    ],
+    [
+      "available",
+      1
+    ],
+    [
+      "morn",
+      1
+    ],
+    [
+      "highest",
+      1
+    ],
+    [
+      "visibility",
+      1
+    ],
+    [
+      "validat",
+      1
+    ],
+    [
+      "assur",
+      1
+    ],
+    [
+      "describ",
+      1
+    ],
+    [
+      "straightforwardly",
+      1
+    ],
+    [
+      "backup",
+      1
+    ],
+    [
+      "rerun",
+      1
+    ],
+    [
+      "verify",
+      1
+    ],
+    [
+      "bleed",
+      1
+    ],
+    [
+      "lie",
+      1
+    ],
+    [
+      "philosophical",
+      1
+    ],
+    [
+      "fallible",
+      1
+    ],
+    [
+      "predictable",
+      1
+    ],
+    [
+      "tireless",
+      1
+    ],
+    [
+      "complex",
+      1
+    ],
+    [
+      "achieve",
+      1
+    ],
+    [
+      "involve",
+      1
+    ],
+    [
+      "realiz",
+      1
+    ],
+    [
+      "extra",
+      1
+    ],
+    [
+      "sometim",
+      1
+    ],
+    [
+      "devsecop",
+      1
+    ],
+    [
+      "specialize",
+      1
+    ],
+    [
+      "infrastructure",
+      1
+    ],
+    [
+      "access",
+      1
+    ],
+    [
+      "field",
+      1
+    ],
+    [
+      "implementation",
+      1
+    ],
+    [
+      "bump",
+      1
+    ],
+    [
+      "proposal",
+      1
+    ],
+    [
+      "automation",
+      1
+    ],
+    [
+      "estimat",
+      1
+    ],
+    [
+      "effort",
+      1
+    ],
+    [
+      "leverage",
+      1
+    ],
+    [
+      "customer",
+      1
+    ],
+    [
+      "downtime",
+      1
+    ],
+    [
+      "difficult",
+      1
+    ],
+    [
+      "releas",
+      1
+    ],
+    [
+      "high-level",
+      1
+    ],
+    [
+      "prioriti",
+      1
+    ],
+    [
+      "quite",
+      1
+    ],
+    [
+      "assert",
+      1
+    ],
+    [
+      "unequivocally",
+      1
+    ],
+    [
+      "instability",
+      1
+    ],
+    [
+      "rework",
+      1
+    ],
+    [
+      "outweigh",
+      1
+    ],
+    [
+      "excitement",
+      1
+    ],
+    [
+      "market",
+      1
+    ],
+    [
+      "release",
+      1
+    ],
+    [
+      "comprehensive",
+      1
+    ],
+    [
+      "drift",
+      1
+    ],
+    [
+      "input",
+      1
+    ],
+    [
+      "silently",
+      1
+    ],
+    [
+      "propagat",
+      1
+    ],
+    [
+      "fatigue-induc",
+      1
+    ],
+    [
+      "cross-check",
+      1
+    ],
+    [
+      "third",
+      1
+    ],
+    [
+      "indicator",
+      1
+    ],
+    [
+      "daily",
+      1
+    ],
+    [
+      "small",
+      1
+    ],
+    [
+      "hidden",
+      1
+    ],
+    [
+      "silo",
+      1
+    ],
+    [
+      "strong",
+      1
+    ],
+    [
+      "enforceable",
+      1
+    ],
+    [
+      "signed-off",
+      1
+    ],
+    [
+      "reliant",
+      1
+    ],
+    [
+      "goodwill",
+      1
+    ],
+    [
+      "rely",
+      1
+    ],
+    [
+      "clarify",
+      1
+    ],
+    [
+      "pre-written",
+      1
+    ],
+    [
+      "map",
+      1
+    ],
+    [
+      "typ",
+      1
+    ],
+    [
+      "reduce",
+      1
+    ],
+    [
+      "scratch",
+      1
+    ],
+    [
+      "rehears",
+      1
+    ],
+    [
+      "sit",
+      1
+    ],
+    [
+      "outdat",
+      1
+    ],
+    [
+      "ingrain",
+      1
+    ],
+    [
+      "instinctual",
+      1
+    ],
+    [
+      "schedule",
+      1
+    ],
+    [
+      "live",
+      1
+    ],
+    [
+      "define",
+      1
+    ],
+    [
+      "certainly",
+      1
+    ],
+    [
+      "voluntary",
+      1
+    ],
+    [
+      "digest",
+      1
+    ],
+    [
+      "lower",
+      1
+    ],
+    [
+      "non-mandatory",
+      1
+    ],
+    [
+      "successful",
+      1
+    ],
+    [
+      "clos",
+      1
+    ],
+    [
+      "earlier",
+      1
+    ],
+    [
+      "remain",
+      1
+    ],
+    [
+      "masterpiece",
+      1
+    ],
+    [
+      "fault",
+      1
+    ],
+    [
+      "empathy",
+      1
+    ],
+    [
+      "collection",
+      1
+    ],
+    [
+      "elicit",
+      1
+    ],
+    [
+      "malice",
+      1
+    ],
+    [
+      "incompetence",
+      1
+    ],
+    [
+      "going",
+      1
+    ],
+    [
+      "fundamental",
+      1
+    ],
+    [
+      "ammunition",
+      1
+    ],
+    [
+      "naturally",
+      1
+    ],
+    [
+      "self-assess",
+      1
+    ],
+    [
+      "mental",
+      1
+    ],
+    [
+      "quote",
+      1
+    ],
+    [
+      "together",
+      1
+    ],
+    [
+      "revolutionary",
+      1
+    ],
+    [
+      "setting",
+      1
+    ],
+    [
+      "ability",
+      1
+    ],
+    [
+      "cope",
+      1
+    ],
+    [
+      "infinite",
+      1
+    ],
+    [
+      "burnout-induc",
+      1
+    ],
+    [
+      "overarch",
+      1
+    ],
+    [
+      "theme",
+      1
+    ],
+    [
+      "partnership",
+      1
+    ],
+    [
+      "dynamic",
+      1
+    ],
+    [
+      "rapid",
+      1
+    ],
+    [
+      "motivational",
+      1
+    ],
+    [
+      "state",
+      1
+    ],
+    [
+      "motivat",
+      1
+    ],
+    [
+      "lean",
+      1
+    ],
+    [
+      "opportunity",
+      1
+    ],
+    [
+      "career",
+      1
+    ],
+    [
+      "employe",
+      1
+    ],
+    [
+      "twice",
+      1
+    ],
+    [
+      "scale",
+      1
+    ],
+    [
+      "public",
+      1
+    ],
+    [
+      "frankly",
+      1
+    ],
+    [
+      "upward",
+      1
+    ],
+    [
+      "dwell",
+      1
+    ],
+    [
+      "swiftly",
+      1
+    ],
+    [
+      "relentlessly",
+      1
+    ],
+    [
+      "rather",
+      1
+    ],
+    [
+      "perhap",
+      1
+    ],
+    [
+      "sign",
+      1
+    ],
+    [
+      "retrospective",
+      1
+    ],
+    [
+      "analytic",
+      1
+    ],
+    [
+      "partner",
+      1
+    ],
+    [
+      "contribut",
+      1
+    ],
+    [
+      "cement",
+      1
+    ],
+    [
+      "hashtag",
+      1
+    ],
+    [
+      "tro",
+      1
+    ],
+    [
+      "remarkably",
+      1
+    ],
+    [
+      "high-pressure",
+      1
+    ],
+    [
+      "ship",
+      1
+    ],
+    [
+      "varianc",
+      1
+    ],
+    [
+      "full",
+      1
+    ],
+    [
+      "transform",
+      1
+    ],
+    [
+      "pref",
+      1
+    ],
+    [
+      "ultimately",
+      1
+    ],
+    [
+      "leave",
+      1
+    ],
+    [
+      "provocative",
+      1
+    ],
+    [
+      "immense",
+      1
+    ],
+    [
+      "currently",
+      1
+    ],
+    [
+      "tend",
+      1
+    ],
+    [
+      "automatic",
+      1
+    ],
+    [
+      "week",
+      1
+    ],
+    [
+      "recent",
+      1
+    ],
+    [
+      "solidify",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 8701,
+    "unique_words": 1410,
+    "duration_min": 52.8
+  }
+}

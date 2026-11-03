@@ -2,7 +2,7 @@
 """把 transcripts/ 句级字幕 + data/m4a 音频组装成单文件精读页 intensive/index.html。
 
 数据源：index/episodes.json（67 集）+ transcripts/<file_stem>/transcript.json（segments）。
-音频不内联：<audio> 相对路径 ../data/m4a/<file_stem>.m4a（file:// 双击即用）。
+音频不内联：<audio> 指向 data/<Season>/m4a/<file_stem>.m4a（相对路径按产物位置自动计算，file:// 双击即用）。
 用法:
     python webgen/build_intensive.py            # 生成 intensive/index.html
     python webgen/build_intensive.py --dump     # 只打印统计
@@ -20,15 +20,30 @@ from pathlib import Path
 from typing import List, Optional
 
 ROOT = Path(__file__).resolve().parent.parent
-INDEX_JSON = ROOT / "index" / "episodes.json"
-TRANSCRIPTS = ROOT / "transcripts"
-M4A_DIR = ROOT / "data" / "m4a"
+sys.path.insert(0, str(ROOT))
+from pipeline import config  # 季路径唯一来源
+
+INDEX_JSON = None      # 由 use_season() 填充
+TRANSCRIPTS = None
+M4A_DIR = None
 TEMPLATE = Path(__file__).resolve().parent / "template_intensive.html"
-DEFAULT_OUT = ROOT / "intensive" / "index.html"
+
+
+def use_season(name=None):
+    """切换季并同步本模块的路径常量。"""
+    global INDEX_JSON, TRANSCRIPTS, M4A_DIR, DEFAULT_OUT
+    config.set_season(name)
+    INDEX_JSON = config.EPISODES_JSON
+    TRANSCRIPTS = config.TRANSCRIPTS_DIR
+    M4A_DIR = config.M4A_DIR
+    DEFAULT_OUT = config.SEASON_DIR / "intensive" / "index.html"
+    return config.SEASON
 
 MAX_BYTES = 8 * 1024 * 1024
 WARN_BYTES = 6 * 1024 * 1024
 PLACEHOLDER = "__SITE_DATA__"
+CONFIG_PLACEHOLDER = "__SITE_CONFIG__"
+
 
 
 def load_episodes(path: Path) -> List[dict]:
@@ -88,10 +103,11 @@ def embed_json(data: dict) -> str:
     return s
 
 
-def render_template(tpl: str, payload: str) -> str:
-    if tpl.count(PLACEHOLDER) != 1:
-        raise ValueError("占位符出现 %d 次，必须恰好 1 次" % tpl.count(PLACEHOLDER))
-    return tpl.replace(PLACEHOLDER, payload)
+def render_template(tpl: str, payload: str, config: str = "") -> str:
+    for ph in (PLACEHOLDER, CONFIG_PLACEHOLDER):
+        if tpl.count(ph) != 1:
+            raise ValueError("占位符 %s 出现 %d 次，必须恰好 1 次" % (ph, tpl.count(ph)))
+    return tpl.replace(PLACEHOLDER, payload).replace(CONFIG_PLACEHOLDER, config)
 
 
 def write_atomic(path: Path, text: str) -> None:
@@ -118,9 +134,25 @@ def check_output(html: str) -> List[str]:
 
 def main(argv: Optional[List[str]] = None) -> int:
     ap = argparse.ArgumentParser(description="生成精读辅助单文件页面")
-    ap.add_argument("--out", default=str(DEFAULT_OUT))
+    ap.add_argument("--season", default=None, help="课程季，如 season1 / season2")
+    ap.add_argument("--out", default=None, help="默认 output/<季目录>/intensive/index.html")
     ap.add_argument("--dump", action="store_true", help="只打印统计，不写文件")
+    ap.add_argument("--audio-base", default=None,
+                    help="音频相对基址；默认按产物位置到 data/<Season>/m4a/ 的相对路径计算")
     args = ap.parse_args(argv)
+
+    try:
+        use_season(args.season)
+    except ValueError as e:
+        print("ERROR %s" % e, file=sys.stderr)
+        return 1
+    if not args.out:
+        args.out = str(DEFAULT_OUT)
+    if not args.audio_base:
+        # 产物在 output/<季目录>/intensive/ 下，音频在 data/<Season>/m4a/，按实际位置算相对路径
+        args.audio_base = os.path.relpath(M4A_DIR, Path(args.out).parent) + "/"
+    if not args.audio_base.endswith("/"):
+        args.audio_base += "/"
 
     try:
         data = build_data()
@@ -134,7 +166,8 @@ def main(argv: Optional[List[str]] = None) -> int:
 
     try:
         tpl = TEMPLATE.read_text(encoding="utf-8")
-        html = render_template(tpl, embed_json(data))
+        cfg = embed_json({"audioBase": args.audio_base})
+        html = render_template(tpl, embed_json(data), cfg)
     except (OSError, ValueError) as e:
         print("ERROR 渲染失败：%s" % e, file=sys.stderr)
         return 1

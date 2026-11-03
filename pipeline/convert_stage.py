@@ -22,14 +22,29 @@ def check_disk():
 
 
 def source_audio(ep):
-    """优先用 B 站缓存原件；缓存已清理时回退到 data/m4a/<file_stem>.m4a。"""
-    m4s = config.DATA_DIR / ep["dir"] / ep["m4s_rel"]
-    if m4s.exists():
-        return m4s
-    m4a = config.DATA_DIR / "m4a" / f"{ep['file_stem']}.m4a"
+    """优先用 B 站缓存原件；缓存已清理时回退到 <Season>/m4a/<file_stem>.m4a。"""
+    if ep.get("m4s_rel"):
+        m4s = config.DATA_DIR / ep["dir"] / ep["m4s_rel"]
+        if m4s.exists():
+            return m4s
+    m4a = config.M4A_DIR / f"{ep['file_stem']}.m4a"
     if m4a.exists():
         return m4a
     raise ConvertError(f"音频不存在: {m4s} / {m4a}")
+
+
+def http_source_audio(ep):
+    """http 后端的上传源：优先 data/m4a 完整容器（已实测），m4s 仅作兜底。
+
+    返回的是 data/ 下的只读原件，调用方绝不可删除。
+    """
+    m4a = config.M4A_DIR / f"{ep['file_stem']}.m4a"
+    if m4a.exists():
+        return m4a
+    m4s = (config.DATA_DIR / ep["dir"] / ep["m4s_rel"]) if ep.get("m4s_rel") else None
+    if m4s and m4s.exists():
+        return m4s
+    raise ConvertError(f"音频不存在: {m4a}" + (f" / {m4s}" if m4s else ""))
 
 
 def convert_episode(ep):

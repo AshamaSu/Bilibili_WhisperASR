@@ -1,0 +1,10813 @@
+{
+  "file_stem": "48_AISkillsEveryFutureBusinessProNeedsNow",
+  "no": 48,
+  "title_keywords": [
+    [
+      "ai",
+      "ai"
+    ],
+    [
+      "skills",
+      "skill"
+    ],
+    [
+      "every",
+      "every"
+    ],
+    [
+      "future",
+      "future"
+    ],
+    [
+      "business",
+      "business"
+    ],
+    [
+      "pro",
+      "pro"
+    ],
+    [
+      "needs",
+      "need"
+    ]
+  ],
+  "unigram_freq": [
+    [
+      "ai",
+      74,
+      "B1+"
+    ],
+    [
+      "need",
+      64,
+      "A2"
+    ],
+    [
+      "market",
+      32,
+      "A2"
+    ],
+    [
+      "innovation",
+      28,
+      "B1+"
+    ],
+    [
+      "operational",
+      28,
+      "B1+"
+    ],
+    [
+      "risk",
+      26,
+      "A2"
+    ],
+    [
+      "skills",
+      26,
+      "A2"
+    ],
+    [
+      "customer",
+      24,
+      "B1+"
+    ],
+    [
+      "leadership",
+      23,
+      "B1+"
+    ],
+    [
+      "planning",
+      21,
+      "A2"
+    ],
+    [
+      "strategic",
+      21,
+      "B1+"
+    ],
+    [
+      "exactly",
+      20,
+      "B1+"
+    ],
+    [
+      "talent",
+      20,
+      "B1+"
+    ],
+    [
+      "teams",
+      20,
+      "A2"
+    ],
+    [
+      "adoption",
+      19,
+      "B1+"
+    ],
+    [
+      "employees",
+      19,
+      "B1+"
+    ],
+    [
+      "insights",
+      19,
+      "B1+"
+    ],
+    [
+      "learning",
+      19,
+      "A2"
+    ],
+    [
+      "supply",
+      19,
+      "B1+"
+    ],
+    [
+      "chain",
+      18,
+      "B1+"
+    ],
+    [
+      "cost",
+      18,
+      "A2"
+    ],
+    [
+      "decision",
+      18,
+      "B1+"
+    ],
+    [
+      "models",
+      18,
+      "B1+"
+    ],
+    [
+      "regions",
+      18,
+      "B1+"
+    ],
+    [
+      "also",
+      17,
+      "A2"
+    ],
+    [
+      "critical",
+      17,
+      "B1+"
+    ],
+    [
+      "global",
+      17,
+      "B1+"
+    ],
+    [
+      "one",
+      17,
+      "A2"
+    ],
+    [
+      "agreed",
+      16,
+      "B1+"
+    ],
+    [
+      "alignment",
+      16,
+      "B1+"
+    ],
+    [
+      "data",
+      16,
+      "B1+"
+    ],
+    [
+      "digital",
+      16,
+      "B1+"
+    ],
+    [
+      "tools",
+      16,
+      "A2"
+    ],
+    [
+      "communication",
+      15,
+      "B1+"
+    ],
+    [
+      "esg",
+      15,
+      "B1+"
+    ],
+    [
+      "feel",
+      15,
+      "A2"
+    ],
+    [
+      "growth",
+      15,
+      "B1+"
+    ],
+    [
+      "performance",
+      15,
+      "B1+"
+    ],
+    [
+      "professionals",
+      15,
+      "B1+"
+    ],
+    [
+      "initiatives",
+      14,
+      "B1+"
+    ],
+    [
+      "predictive",
+      14,
+      "B1+"
+    ],
+    [
+      "processes",
+      14,
+      "B1+"
+    ],
+    [
+      "training",
+      14,
+      "A2"
+    ],
+    [
+      "us",
+      14,
+      "A2"
+    ],
+    [
+      "we've",
+      14,
+      "B1+"
+    ],
+    [
+      "analytics",
+      13,
+      "B1+"
+    ],
+    [
+      "business",
+      13,
+      "B1+"
+    ],
+    [
+      "efficiency",
+      13,
+      "B1+"
+    ],
+    [
+      "forecasting",
+      13,
+      "B1+"
+    ],
+    [
+      "kpis",
+      13,
+      "B1+"
+    ],
+    [
+      "leaders",
+      13,
+      "B1+"
+    ],
+    [
+      "programs",
+      13,
+      "A2"
+    ],
+    [
+      "projects",
+      13,
+      "B1+"
+    ],
+    [
+      "strategy",
+      13,
+      "B1+"
+    ],
+    [
+      "understand",
+      13,
+      "A2"
+    ],
+    [
+      "want",
+      13,
+      "A2"
+    ],
+    [
+      "without",
+      13,
+      "A2"
+    ],
+    [
+      "clear",
+      12,
+      "A2"
+    ],
+    [
+      "collaboration",
+      12,
+      "B1+"
+    ],
+    [
+      "essential",
+      12,
+      "B1+"
+    ],
+    [
+      "financial",
+      12,
+      "B1+"
+    ],
+    [
+      "integration",
+      12,
+      "B1+"
+    ],
+    [
+      "metrics",
+      12,
+      "B1+"
+    ],
+    [
+      "scenario",
+      12,
+      "B1+"
+    ],
+    [
+      "thinking",
+      12,
+      "A2"
+    ],
+    [
+      "across",
+      11,
+      "A2"
+    ],
+    [
+      "aligned",
+      11,
+      "B1+"
+    ],
+    [
+      "becoming",
+      11,
+      "B1+"
+    ],
+    [
+      "development",
+      11,
+      "B1+"
+    ],
+    [
+      "direction",
+      11,
+      "B1+"
+    ],
+    [
+      "human",
+      11,
+      "B1+"
+    ],
+    [
+      "operations",
+      11,
+      "B1+"
+    ],
+    [
+      "potential",
+      11,
+      "B1+"
+    ],
+    [
+      "remains",
+      11,
+      "A2"
+    ],
+    [
+      "systems",
+      11,
+      "A2"
+    ],
+    [
+      "accountability",
+      10,
+      "B1+"
+    ],
+    [
+      "cross-functional",
+      10,
+      "B1+"
+    ],
+    [
+      "ensure",
+      10,
+      "B1+"
+    ],
+    [
+      "experience",
+      10,
+      "A2"
+    ],
+    [
+      "future",
+      10,
+      "A2"
+    ],
+    [
+      "good",
+      10,
+      "A2"
+    ],
+    [
+      "help",
+      10,
+      "A2"
+    ],
+    [
+      "key",
+      10,
+      "A2"
+    ],
+    [
+      "management",
+      10,
+      "B1+"
+    ],
+    [
+      "means",
+      10,
+      "A2"
+    ],
+    [
+      "pillars",
+      10,
+      "B1+"
+    ],
+    [
+      "regional",
+      10,
+      "B1+"
+    ],
+    [
+      "reporting",
+      10,
+      "A2"
+    ],
+    [
+      "shift",
+      10,
+      "B1+"
+    ],
+    [
+      "support",
+      10,
+      "A2"
+    ],
+    [
+      "testing",
+      10,
+      "A2"
+    ],
+    [
+      "behavior",
+      9,
+      "B1+"
+    ],
+    [
+      "capability",
+      9,
+      "B1+"
+    ],
+    [
+      "continuous",
+      9,
+      "B1+"
+    ],
+    [
+      "core",
+      9,
+      "B1+"
+    ],
+    [
+      "ensures",
+      9,
+      "B1+"
+    ],
+    [
+      "excellence",
+      9,
+      "B1+"
+    ],
+    [
+      "first",
+      9,
+      "A2"
+    ],
+    [
+      "high",
+      9,
+      "A2"
+    ],
+    [
+      "impact",
+      9,
+      "B1+"
+    ],
+    [
+      "morale",
+      9,
+      "B1+"
+    ],
+    [
+      "outcomes",
+      9,
+      "B1+"
+    ],
+    [
+      "people",
+      9,
+      "A2"
+    ],
+    [
+      "technology",
+      9,
+      "B1+"
+    ],
+    [
+      "another",
+      8,
+      "A2"
+    ],
+    [
+      "clarity",
+      8,
+      "B1+"
+    ],
+    [
+      "competitive",
+      8,
+      "B1+"
+    ],
+    [
+      "discipline",
+      8,
+      "B1+"
+    ],
+    [
+      "even",
+      8,
+      "B1+"
+    ],
+    [
+      "executive",
+      8,
+      "B1+"
+    ],
+    [
+      "focus",
+      8,
+      "B1+"
+    ],
+    [
+      "leads",
+      8,
+      "A2"
+    ],
+    [
+      "local",
+      8,
+      "A2"
+    ],
+    [
+      "maintain",
+      8,
+      "B1+"
+    ],
+    [
+      "move",
+      8,
+      "A2"
+    ],
+    [
+      "organization",
+      8,
+      "B1+"
+    ],
+    [
+      "ownership",
+      8,
+      "B1+"
+    ],
+    [
+      "real-time",
+      8,
+      "B1+"
+    ],
+    [
+      "reviews",
+      8,
+      "B1+"
+    ],
+    [
+      "simulations",
+      8,
+      "B1+"
+    ]
+  ],
+  "chunks": [
+    {
+      "text": "supply chain",
+      "count": 16,
+      "example": "If we want plant upgrades, supply chain upgrades,",
+      "t": 412.8
+    },
+    {
+      "text": "ai tools",
+      "count": 7,
+      "example": "Have you noticed how these AI tools are becoming a critical skill for almost every professional?",
+      "t": 28.36
+    },
+    {
+      "text": "generative ai",
+      "count": 6,
+      "example": "Today, we're focusing on how Generative AI is transforming the workplace.",
+      "t": 21.3
+    },
+    {
+      "text": "let's talk",
+      "count": 6,
+      "example": "Let's talk money.",
+      "t": 411.52
+    },
+    {
+      "text": "operational excellence",
+      "count": 6,
+      "example": "should focus on operational excellence,",
+      "t": 487.25
+    },
+    {
+      "text": "let's move",
+      "count": 6,
+      "example": "Now, let's move on to workload and morale.",
+      "t": 938.96
+    },
+    {
+      "text": "customer experience",
+      "count": 6,
+      "example": "Are we aiming to be an innovation leader, a customer experience benchmark, a cost efficiency",
+      "t": 1432.54
+    },
+    {
+      "text": "across regions",
+      "count": 6,
+      "example": "High potential employees should rotate across regions to gain exposure to different market",
+      "t": 1999.2
+    },
+    {
+      "text": "strategic pillars",
+      "count": 5,
+      "example": "Then perhaps we should begin by redefining our core strategic pillars for the next",
+      "t": 1494.62
+    },
+    {
+      "text": "predictive analytics",
+      "count": 5,
+      "example": "automation, predictive analytics, and ESG compliance.",
+      "t": 1844.38
+    }
+  ],
+  "phrases": [
+    {
+      "text": "supply chain",
+      "count": 16,
+      "example": "If we want plant upgrades, supply chain upgrades,",
+      "t": 412.8
+    },
+    {
+      "text": "ai tools",
+      "count": 7,
+      "example": "Have you noticed how these AI tools are becoming a critical skill for almost every professional?",
+      "t": 28.36
+    },
+    {
+      "text": "generative ai",
+      "count": 6,
+      "example": "Today, we're focusing on how Generative AI is transforming the workplace.",
+      "t": 21.3
+    },
+    {
+      "text": "let's talk",
+      "count": 6,
+      "example": "Let's talk money.",
+      "t": 411.52
+    },
+    {
+      "text": "operational excellence",
+      "count": 6,
+      "example": "should focus on operational excellence,",
+      "t": 487.25
+    },
+    {
+      "text": "let's move",
+      "count": 6,
+      "example": "Now, let's move on to workload and morale.",
+      "t": 938.96
+    },
+    {
+      "text": "customer experience",
+      "count": 6,
+      "example": "Are we aiming to be an innovation leader, a customer experience benchmark, a cost efficiency",
+      "t": 1432.54
+    },
+    {
+      "text": "across regions",
+      "count": 6,
+      "example": "High potential employees should rotate across regions to gain exposure to different market",
+      "t": 1999.2
+    },
+    {
+      "text": "strategic pillars",
+      "count": 5,
+      "example": "Then perhaps we should begin by redefining our core strategic pillars for the next",
+      "t": 1494.62
+    },
+    {
+      "text": "predictive analytics",
+      "count": 5,
+      "example": "automation, predictive analytics, and ESG compliance.",
+      "t": 1844.38
+    },
+    {
+      "text": "high potential",
+      "count": 5,
+      "example": "High potential employees should rotate across regions to gain exposure to different market",
+      "t": 1999.2
+    },
+    {
+      "text": "critical thinking",
+      "count": 4,
+      "example": "Prompting, reviewing outputs, and applying critical thinking",
+      "t": 77.21
+    },
+    {
+      "text": "decision making",
+      "count": 4,
+      "example": "are now part of business decision making.",
+      "t": 122.01
+    },
+    {
+      "text": "help employees",
+      "count": 4,
+      "example": "I think organizations should consider launching a company-wide program to help employees develop",
+      "t": 212.79
+    },
+    {
+      "text": "succession planning",
+      "count": 4,
+      "example": "succession planning, conflict resolution,",
+      "t": 545.46
+    },
+    {
+      "text": "need clarity",
+      "count": 4,
+      "example": "We need clarity, structure, and direction.",
+      "t": 721.92
+    },
+    {
+      "text": "competitive advantage",
+      "count": 4,
+      "example": "we can scale efficiently later. That's our competitive advantage.",
+      "t": 1232.91
+    },
+    {
+      "text": "demand forecasting",
+      "count": 4,
+      "example": "And we need tighter alignment between supply planning and demand forecasting.",
+      "t": 1867.04
+    },
+    {
+      "text": "advanced analytics",
+      "count": 4,
+      "example": "Moving to the topic of digital reinvention, how do you see AI and advanced analytics transforming",
+      "t": 2081.06
+    },
+    {
+      "text": "operational kpis",
+      "count": 4,
+      "example": "alongside operational KPIs.",
+      "t": 2215.83
+    },
+    {
+      "text": "cross-functional collaboration",
+      "count": 4,
+      "example": "and cross-functional collaboration.",
+      "t": 2224.77
+    },
+    {
+      "text": "scenario planning",
+      "count": 4,
+      "example": "Advanced scenario planning,",
+      "t": 2543.02
+    },
+    {
+      "text": "ai adoption",
+      "count": 4,
+      "example": "Speaking of customer experience, AI adoption for personalization is growing, but human",
+      "t": 2900.69
+    },
+    {
+      "text": "problem solving",
+      "count": 3,
+      "example": "It's becoming a core competency, just like communication or problem solving.",
+      "t": 44.74
+    },
+    {
+      "text": "professionals need",
+      "count": 3,
+      "example": "And that means professionals need to master AI collaboration",
+      "t": 66.7
+    },
+    {
+      "text": "data literacy",
+      "count": 3,
+      "example": "Another important skill is data literacy.",
+      "t": 98.57
+    },
+    {
+      "text": "need to understand",
+      "count": 3,
+      "example": "they need to understand how data works",
+      "t": 105.09
+    },
+    {
+      "text": "ai can provide",
+      "count": 3,
+      "example": "AI can provide the data, but humans must communicate it effectively.",
+      "t": 191.31
+    },
+    {
+      "text": "talent development",
+      "count": 3,
+      "example": "HR plus talent development section.",
+      "t": 500.74
+    },
+    {
+      "text": "clear ownership",
+      "count": 3,
+      "example": "Then we need a clear ownership matrix.",
+      "t": 1053.79
+    },
+    {
+      "text": "emerging markets",
+      "count": 3,
+      "example": "And emerging markets are behaving unpredictably.",
+      "t": 1358.32
+    },
+    {
+      "text": "innovation leadership",
+      "count": 3,
+      "example": "Innovation leadership in our primary segments, operational excellence in the legacy segments,",
+      "t": 1452.0
+    },
+    {
+      "text": "regional teams",
+      "count": 3,
+      "example": "Agreed. And our regional teams have been asking for this. They keep telling us that",
+      "t": 1477.51
+    },
+    {
+      "text": "digital reinvention",
+      "count": 3,
+      "example": "operational excellence and scalability, innovation leadership and digital reinvention,",
+      "t": 1558.14
+    },
+    {
+      "text": "change management",
+      "count": 3,
+      "example": "I support that direction. But we'll need a change management roadmap. Structural changes",
+      "t": 1777.1
+    },
+    {
+      "text": "project ownership",
+      "count": 3,
+      "example": "career progression or project ownership.",
+      "t": 1980.84
+    },
+    {
+      "text": "potential employees",
+      "count": 3,
+      "example": "High potential employees should rotate across regions to gain exposure to different market",
+      "t": 1999.2
+    },
+    {
+      "text": "high potential employees",
+      "count": 3,
+      "example": "High potential employees should rotate across regions to gain exposure to different market",
+      "t": 1999.2
+    },
+    {
+      "text": "also need",
+      "count": 3,
+      "example": "But we also need to avoid over-rotation.",
+      "t": 2011.76
+    },
+    {
+      "text": "ai insights",
+      "count": 3,
+      "example": "We should establish a decision framework where AI insights are mandatory inputs but",
+      "t": 2121.3
+    },
+    {
+      "text": "global operations",
+      "count": 3,
+      "example": "We need a global operations blueprint that standardizes processes while allowing regional",
+      "t": 2311.2
+    },
+    {
+      "text": "performance incentives",
+      "count": 3,
+      "example": "And tied to performance incentives.",
+      "t": 2374.08
+    },
+    {
+      "text": "resource allocation",
+      "count": 3,
+      "example": "Resource allocation should reflect both market potential and strategic importance.",
+      "t": 2439.11
+    },
+    {
+      "text": "threat detection",
+      "count": 3,
+      "example": "Regular penetration testing, AI-driven threat detection,",
+      "t": 2562.54
+    },
+    {
+      "text": "interpret ai",
+      "count": 3,
+      "example": "Training customer-facing employees to interpret AI insights effectively ensures they act",
+      "t": 2935.97
+    },
+    {
+      "text": "essential skills",
+      "count": 2,
+      "example": "Welcome to our Business English Learning Dialogue on Essential Skills for Future Business Professionals.",
+      "t": 14.3
+    },
+    {
+      "text": "future business",
+      "count": 2,
+      "example": "Welcome to our Business English Learning Dialogue on Essential Skills for Future Business Professionals.",
+      "t": 14.3
+    },
+    {
+      "text": "business professionals",
+      "count": 2,
+      "example": "Welcome to our Business English Learning Dialogue on Essential Skills for Future Business Professionals.",
+      "t": 14.3
+    },
+    {
+      "text": "future business professionals",
+      "count": 2,
+      "example": "Welcome to our Business English Learning Dialogue on Essential Skills for Future Business Professionals.",
+      "t": 14.3
+    },
+    {
+      "text": "longer optional",
+      "count": 2,
+      "example": "The modern workplace is evolving so fast that understanding generative AI is no longer optional.",
+      "t": 36.98
+    },
+    {
+      "text": "becoming a core",
+      "count": 2,
+      "example": "It's becoming a core competency, just like communication or problem solving.",
+      "t": 44.74
+    },
+    {
+      "text": "prompting reviewing",
+      "count": 2,
+      "example": "Prompting, reviewing outputs, and applying critical thinking",
+      "t": 77.21
+    },
+    {
+      "text": "reviewing outputs",
+      "count": 2,
+      "example": "Prompting, reviewing outputs, and applying critical thinking",
+      "t": 77.21
+    },
+    {
+      "text": "applying critical",
+      "count": 2,
+      "example": "Prompting, reviewing outputs, and applying critical thinking",
+      "t": 77.21
+    },
+    {
+      "text": "prompting reviewing outputs",
+      "count": 2,
+      "example": "Prompting, reviewing outputs, and applying critical thinking",
+      "t": 77.21
+    },
+    {
+      "text": "outputs and applying",
+      "count": 2,
+      "example": "Prompting, reviewing outputs, and applying critical thinking",
+      "t": 77.21
+    },
+    {
+      "text": "applying critical thinking",
+      "count": 2,
+      "example": "Prompting, reviewing outputs, and applying critical thinking",
+      "t": 77.21
+    },
+    {
+      "text": "ai generated",
+      "count": 2,
+      "example": "AI generated information without verifying accuracy.",
+      "t": 87.81
+    },
+    {
+      "text": "understand how data",
+      "count": 2,
+      "example": "they need to understand how data works",
+      "t": 105.09
+    },
+    {
+      "text": "bias transparency",
+      "count": 2,
+      "example": "Issues like bias, transparency, and responsible usage",
+      "t": 117.45
+    },
+    {
+      "text": "use ai",
+      "count": 2,
+      "example": "Organizations want employees who can use AI responsibly",
+      "t": 125.99
+    },
+    {
+      "text": "communication skills",
+      "count": 2,
+      "example": "And communication skills remain essential,",
+      "t": 172.57
+    },
+    {
+      "text": "insights clearly",
+      "count": 2,
+      "example": "AI-generated insights clearly and confidently in meetings.",
+      "t": 178.09
+    },
+    {
+      "text": "employees develop",
+      "count": 2,
+      "example": "I think organizations should consider launching a company-wide program to help employees develop",
+      "t": 212.79
+    },
+    {
+      "text": "help employees develop",
+      "count": 2,
+      "example": "I think organizations should consider launching a company-wide program to help employees develop",
+      "t": 212.79
+    },
+    {
+      "text": "ai supports",
+      "count": 2,
+      "example": "demonstrate real use cases and help employees understand how generative AI supports productivity.",
+      "t": 225.43
+    },
+    {
+      "text": "continuous learning",
+      "count": 2,
+      "example": "to continuous learning.",
+      "t": 319.09
+    },
+    {
+      "text": "future ready",
+      "count": 2,
+      "example": "these future ready capabilities.",
+      "t": 341.79
+    },
+    {
+      "text": "let's shift",
+      "count": 2,
+      "example": "Let's shift to production capacity.",
+      "t": 351.56
+    },
+    {
+      "text": "production capacity",
+      "count": 2,
+      "example": "Let's shift to production capacity.",
+      "t": 351.56
+    },
+    {
+      "text": "we're spending",
+      "count": 2,
+      "example": "We're spending more on repairs",
+      "t": 361.64
+    },
+    {
+      "text": "also workforce",
+      "count": 2,
+      "example": "Also workforce fatigue is becoming a problem.",
+      "t": 366.64
+    },
+    {
+      "text": "even simple",
+      "count": 2,
+      "example": "Even simple recognition can go a long way.",
+      "t": 401.24
+    },
+    {
+      "text": "need to justify",
+      "count": 2,
+      "example": "or additional staff, we need to justify the budget.",
+      "t": 415.88
+    },
+    {
+      "text": "growth targets",
+      "count": 2,
+      "example": "especially with the growth targets we have.",
+      "t": 443.78
+    },
+    {
+      "text": "customer satisfaction",
+      "count": 2,
+      "example": "customer satisfaction, and scalable growth.",
+      "t": 489.85
+    },
+    {
+      "text": "mid-level managers",
+      "count": 2,
+      "example": "We've been hearing concerns that mid-level managers feel overwhelmed.",
+      "t": 505.66
+    },
+    {
+      "text": "team leads",
+      "count": 2,
+      "example": "Two team leads have hinted they're considering other opportunities.",
+      "t": 528.22
+    },
+    {
+      "text": "performance review",
+      "count": 2,
+      "example": "performance review systems, and wellness programs.",
+      "t": 551.5
+    },
+    {
+      "text": "crisis management",
+      "count": 2,
+      "example": "Crisis management scenario, by the way,",
+      "t": 555.54
+    }
+  ],
+  "sentences": [
+    {
+      "t": 0.0,
+      "text": "Listen. Practice. Speak. Practice makes you perfect."
+    },
+    {
+      "t": 14.3,
+      "text": "Welcome to our Business English Learning Dialogue on Essential Skills for Future Business Professionals."
+    },
+    {
+      "t": 21.3,
+      "text": "Today, we're focusing on how Generative AI is transforming the workplace."
+    },
+    {
+      "t": 28.36,
+      "text": "Have you noticed how these AI tools are becoming a critical skill for almost every professional?"
+    },
+    {
+      "t": 35.36,
+      "text": "Absolutely."
+    },
+    {
+      "t": 36.98,
+      "text": "The modern workplace is evolving so fast that understanding generative AI is no longer optional."
+    },
+    {
+      "t": 44.74,
+      "text": "It's becoming a core competency, just like communication or problem solving."
+    },
+    {
+      "t": 50.5,
+      "text": "True."
+    },
+    {
+      "t": 51.62,
+      "text": "One of the biggest advantages is how AI helps professionals work smarter."
+    },
+    {
+      "t": 57.42,
+      "text": "Tasks like research, summarizing reports, drafting emails, or analyzing trends can"
+    },
+    {
+      "t": 63.7,
+      "text": "now be done in minutes."
+    },
+    {
+      "t": 65.42,
+      "text": "Exactly."
+    },
+    {
+      "t": 66.7,
+      "text": "And that means professionals need to master AI collaboration"
+    },
+    {
+      "t": 70.42,
+      "text": "skills, not just knowing what AI can do,"
+    },
+    {
+      "t": 74.38,
+      "text": "but understanding how to direct it."
+    },
+    {
+      "t": 77.21,
+      "text": "Prompting, reviewing outputs, and applying critical thinking"
+    },
+    {
+      "t": 81.69,
+      "text": "are essential skills now."
+    },
+    {
+      "t": 83.49,
+      "text": "Critical thinking is key."
+    },
+    {
+      "t": 85.41,
+      "text": "Without it, there's a risk of accepting"
+    },
+    {
+      "t": 87.81,
+      "text": "AI generated information without verifying accuracy."
+    },
+    {
+      "t": 92.33,
+      "text": "Professionals most learn to evaluate, cross-check,"
+    },
+    {
+      "t": 95.99,
+      "text": "and refine AI results."
+    },
+    {
+      "t": 98.57,
+      "text": "Another important skill is data literacy."
+    },
+    {
+      "t": 101.97,
+      "text": "Even if someone isn't in a technical role,"
+    },
+    {
+      "t": 105.09,
+      "text": "they need to understand how data works"
+    },
+    {
+      "t": 108.21,
+      "text": "because AI relies heavily on good, clean data."
+    },
+    {
+      "t": 112.17,
+      "text": "Absolutely, and understanding AI ethics"
+    },
+    {
+      "t": 115.47,
+      "text": "is becoming crucial too."
+    },
+    {
+      "t": 117.45,
+      "text": "Issues like bias, transparency, and responsible usage"
+    },
+    {
+      "t": 122.01,
+      "text": "are now part of business decision making."
+    },
+    {
+      "t": 124.65,
+      "text": "You're right."
+    },
+    {
+      "t": 125.99,
+      "text": "Organizations want employees who can use AI responsibly"
+    },
+    {
+      "t": 130.21,
+      "text": "while keeping privacy, compliance, and fairness in mind."
+    },
+    {
+      "t": 134.73,
+      "text": "One more future skill is adaptability."
+    },
+    {
+      "t": 137.97,
+      "text": "Since AI tools are evolving rapidly,"
+    },
+    {
+      "t": 140.77,
+      "text": "professionals must be comfortable"
+    },
+    {
+      "t": 142.53,
+      "text": "learning new technologies on the go."
+    },
+    {
+      "t": 144.73,
+      "text": "I agree."
+    },
+    {
+      "t": 145.69,
+      "text": "The most successful professionals"
+    },
+    {
+      "t": 147.45,
+      "text": "will be those who embrace change instead of resisting it."
+    },
+    {
+      "t": 151.65,
+      "text": "Have you noticed how AI is also reshaping teamwork?"
+    },
+    {
+      "t": 155.45,
+      "text": "Collaboration now means working not only with colleagues,"
+    },
+    {
+      "t": 158.81,
+      "text": "but also with AI systems."
+    },
+    {
+      "t": 161.13,
+      "text": "Exactly."
+    },
+    {
+      "t": 162.61,
+      "text": "And tools like AI-powered project planners,"
+    },
+    {
+      "t": 165.81,
+      "text": "brainstorming assistants,"
+    },
+    {
+      "t": 167.61,
+      "text": "and real-time analytics dashboards"
+    },
+    {
+      "t": 169.97,
+      "text": "are enhancing team performance."
+    },
+    {
+      "t": 172.57,
+      "text": "And communication skills remain essential,"
+    },
+    {
+      "t": 175.81,
+      "text": "especially when professionals need to present"
+    },
+    {
+      "t": 178.09,
+      "text": "AI-generated insights clearly and confidently in meetings."
+    },
+    {
+      "t": 183.09,
+      "text": "Presentation skills, storytelling skills, and persuasive speaking are becoming even more"
+    },
+    {
+      "t": 189.81,
+      "text": "important."
+    },
+    {
+      "t": 191.31,
+      "text": "AI can provide the data, but humans must communicate it effectively."
+    },
+    {
+      "t": 197.21,
+      "text": "Do you think all professionals are ready for this shift?"
+    },
+    {
+      "t": 200.61,
+      "text": "Not yet."
+    },
+    {
+      "t": 201.61,
+      "text": "That's why upskilling is so crucial."
+    },
+    {
+      "t": 205.43,
+      "text": "programs, workshops, and hands-on practice with AI tools will prepare teams for the future."
+    },
+    {
+      "t": 212.79,
+      "text": "I think organizations should consider launching a company-wide program to help employees develop"
+    },
+    {
+      "t": 219.11,
+      "text": "these essential AI skills. That would be a great idea. We could even bring in experts to"
+    },
+    {
+      "t": 225.43,
+      "text": "demonstrate real use cases and help employees understand how generative AI supports productivity."
+    },
+    {
+      "t": 232.55,
+      "text": "Let's draft a proposal for leadership. With the right training, our teams will be well equipped for the future of business."
+    },
+    {
+      "t": 240.55,
+      "text": "Agreed. Let's make sure our organization leads the way in embracing AI confidently and responsibly."
+    },
+    {
+      "t": 248.55,
+      "text": "Have you noticed how generative AI is becoming a core skill for future business professionals?"
+    },
+    {
+      "t": 255.65,
+      "text": "Absolutely. Understanding how to use AI tools effectively is now just as important as traditional"
+    },
+    {
+      "t": 264.01,
+      "text": "workplace skills."
+    },
+    {
+      "t": 266.2,
+      "text": "AI accelerates research, reporting, content creation, and data analysis. Professionals"
+    },
+    {
+      "t": 273.12,
+      "text": "need to learn how to collaborate with AI."
+    },
+    {
+      "t": 276.38,
+      "text": "And that means being good at prompting, reviewing outputs, and applying critical thinking."
+    },
+    {
+      "t": 283.43,
+      "text": "Social thinking helps avoid mistakes and ensures AI-generated information is accurate and reliable."
+    },
+    {
+      "t": 291.03,
+      "text": "Data literacy is another essential skill."
+    },
+    {
+      "t": 293.59,
+      "text": "AI depends on good data, so professionals need to understand how data is collected,"
+    },
+    {
+      "t": 300.31,
+      "text": "used, and interpreted."
+    },
+    {
+      "t": 303.13,
+      "text": "Ethical awareness is also important."
+    },
+    {
+      "t": 305.93,
+      "text": "Professionals must consider bias, transparency, and privacy when using AI tools."
+    },
+    {
+      "t": 312.69,
+      "text": "is becoming a top priority too. AI tools evolve quickly, so employees must be open"
+    },
+    {
+      "t": 319.09,
+      "text": "to continuous learning."
+    },
+    {
+      "t": 321.47,
+      "text": "Collaboration now includes working with AI-powered systems to improve performance and productivity."
+    },
+    {
+      "t": 328.79,
+      "text": "And communication skills are more important than ever. Professionals must explain AI-driven"
+    },
+    {
+      "t": 335.07,
+      "text": "insights clearly and persuasively."
+    },
+    {
+      "t": 339.05,
+      "text": "skilling programs can help employees develop"
+    },
+    {
+      "t": 341.79,
+      "text": "these future ready capabilities."
+    },
+    {
+      "t": 344.09,
+      "text": "Agreed."
+    },
+    {
+      "t": 345.05,
+      "text": "With proper training, organizations"
+    },
+    {
+      "t": 347.47,
+      "text": "can unlock the full potential of generative AI."
+    },
+    {
+      "t": 351.56,
+      "text": "Let's shift to production capacity."
+    },
+    {
+      "t": 354.16,
+      "text": "Where are we struggling the most?"
+    },
+    {
+      "t": 356.12,
+      "text": "Mainly in Plant 2."
+    },
+    {
+      "t": 357.96,
+      "text": "The machinery is outdated and downtime has increased."
+    },
+    {
+      "t": 361.64,
+      "text": "We're spending more on repairs"
+    },
+    {
+      "t": 363.56,
+      "text": "than replacements would cost in the long run."
+    },
+    {
+      "t": 366.64,
+      "text": "Also workforce fatigue is becoming a problem."
+    },
+    {
+      "t": 370.56,
+      "text": "Output has dropped not because people are lazy"
+    },
+    {
+      "t": 374.08,
+      "text": "but because they're stretched."
+    },
+    {
+      "t": 376.4,
+      "text": "Some employees have already expressed concerns"
+    },
+    {
+      "t": 379.32,
+      "text": "about workload and unclear direction."
+    },
+    {
+      "t": 382.4,
+      "text": "Then we need to address both technology and morale."
+    },
+    {
+      "t": 386.64,
+      "text": "For technology, we can propose equipment upgrades."
+    },
+    {
+      "t": 389.76,
+      "text": "For morale, maybe training, clear communication"
+    },
+    {
+      "t": 394.04,
+      "text": "and better workload distribution."
+    },
+    {
+      "t": 396.68,
+      "text": "Agreed."
+    },
+    {
+      "t": 398.0,
+      "text": "And maybe include appreciation initiatives."
+    },
+    {
+      "t": 401.24,
+      "text": "Even simple recognition can go a long way."
+    },
+    {
+      "t": 404.56,
+      "text": "True."
+    },
+    {
+      "t": 405.4,
+      "text": "People want to feel seen, not just used."
+    },
+    {
+      "t": 408.52,
+      "text": "Deep dive financial structure."
+    },
+    {
+      "t": 411.52,
+      "text": "Let's talk money."
+    },
+    {
+      "t": 412.8,
+      "text": "If we want plant upgrades, supply chain upgrades,"
+    },
+    {
+      "t": 415.88,
+      "text": "or additional staff, we need to justify the budget."
+    },
+    {
+      "t": 419.43,
+      "text": "Have you estimated the financial implications?"
+    },
+    {
+      "t": 422.27,
+      "text": "Roughly, yes."
+    },
+    {
+      "t": 424.31,
+      "text": "The equipment upgrade for plant two"
+    },
+    {
+      "t": 426.51,
+      "text": "might cost around 2.7 million,"
+    },
+    {
+      "t": 430.6,
+      "text": "but the payoff is strong,"
+    },
+    {
+      "t": 432.54,
+      "text": "higher efficiency, lower maintenance costs,"
+    },
+    {
+      "t": 435.5,
+      "text": "and fewer delays."
+    },
+    {
+      "t": 437.54,
+      "text": "What's the payback period?"
+    },
+    {
+      "t": 439.38,
+      "text": "Estimated 18 to 20 months."
+    },
+    {
+      "t": 442.38,
+      "text": "That's acceptable,"
+    },
+    {
+      "t": 443.78,
+      "text": "especially with the growth targets we have."
+    },
+    {
+      "t": 446.96,
+      "text": "Let's imagine the company one year from now,"
+    },
+    {
+      "t": 449.64,
+      "text": "What needs to be true for us to hit the board's growth targets without collapsing internally?"
+    },
+    {
+      "t": 456.52,
+      "text": "A few things. Supply chain reliability must improve by at least 30 percent."
+    },
+    {
+      "t": 463.28,
+      "text": "Production capacity must increase by 15 to 20 percent. Morale must rise."
+    },
+    {
+      "t": 470.76,
+      "text": "Processes must become more automated. Sales and marketing must align more closely with"
+    },
+    {
+      "t": 477.88,
+      "text": "actual operational capabilities,"
+    },
+    {
+      "t": 480.93,
+      "text": "internal communication must become seamless."
+    },
+    {
+      "t": 484.41,
+      "text": "Exactly, and that means our strategy"
+    },
+    {
+      "t": 487.25,
+      "text": "should focus on operational excellence,"
+    },
+    {
+      "t": 489.85,
+      "text": "customer satisfaction, and scalable growth."
+    },
+    {
+      "t": 493.65,
+      "text": "I agree."
+    },
+    {
+      "t": 494.73,
+      "text": "If we strengthen the internal foundation,"
+    },
+    {
+      "t": 497.21,
+      "text": "growth becomes a natural byproduct."
+    },
+    {
+      "t": 500.74,
+      "text": "HR plus talent development section."
+    },
+    {
+      "t": 503.94,
+      "text": "Let's talk about people."
+    },
+    {
+      "t": 505.66,
+      "text": "We've been hearing concerns that mid-level managers feel overwhelmed."
+    },
+    {
+      "t": 510.22,
+      "text": "Yes."
+    },
+    {
+      "t": 511.46,
+      "text": "They're caught between pressure from senior leadership"
+    },
+    {
+      "t": 514.62,
+      "text": "and expectations from the workforce."
+    },
+    {
+      "t": 517.58,
+      "text": "They need support, training, clearer KPIs, and communication tools."
+    },
+    {
+      "t": 524.22,
+      "text": "Are we at risk of losing key people?"
+    },
+    {
+      "t": 526.82,
+      "text": "Potentially."
+    },
+    {
+      "t": 528.22,
+      "text": "Two team leads have hinted they're considering other opportunities."
+    },
+    {
+      "t": 532.26,
+      "text": "Their main issues are workload and lack of clarity"
+    },
+    {
+      "t": 535.86,
+      "text": "about the company's direction."
+    },
+    {
+      "t": 537.86,
+      "text": "Then we need to intervene before it becomes a resignation."
+    },
+    {
+      "t": 542.42,
+      "text": "Conversation goes deep into talent mapping,"
+    },
+    {
+      "t": 545.46,
+      "text": "succession planning, conflict resolution,"
+    },
+    {
+      "t": 548.46,
+      "text": "leadership training, employee engagement,"
+    },
+    {
+      "t": 551.5,
+      "text": "performance review systems, and wellness programs."
+    },
+    {
+      "t": 555.54,
+      "text": "Crisis management scenario, by the way,"
+    },
+    {
+      "t": 558.76,
+      "text": "did you hear about the customer complaint"
+    },
+    {
+      "t": 560.74,
+      "text": "escalation last week?"
+    },
+    {
+      "t": 562.22,
+      "text": "Yes. They experienced a major delay due to missing documents. That shouldn't have happened."
+    },
+    {
+      "t": 569.5,
+      "text": "One department assumed another department handled the paperwork."
+    },
+    {
+      "t": 573.46,
+      "text": "Classic coordination failure."
+    },
+    {
+      "t": 575.46,
+      "text": "Exactly. And the customer was furious."
+    },
+    {
+      "t": 579.74,
+      "text": "We managed to calm them down after apologizing, but we can't let such incidents repeat."
+    },
+    {
+      "t": 585.78,
+      "text": "What about negotiations with the logistics provider? Are we close to securing better"
+    },
+    {
+      "t": 591.1,
+      "text": "terms?"
+    },
+    {
+      "t": 592.1,
+      "text": "We're getting there."
+    },
+    {
+      "t": 593.65,
+      "text": "They proposed a revised contract with a 4% rate increase, but I think we can negotiate"
+    },
+    {
+      "t": 599.41,
+      "text": "it down to 2% if we offer a longer-term partnership."
+    },
+    {
+      "t": 604.49,
+      "text": "Then go for it."
+    },
+    {
+      "t": 605.69,
+      "text": "Emphasize stability and volume commitment."
+    },
+    {
+      "t": 609.66,
+      "text": "This has been one of the most productive discussions we've had in months."
+    },
+    {
+      "t": 614.26,
+      "text": "We've touched on every critical area."
+    },
+    {
+      "t": 616.3,
+      "text": "Now, let's outline our next steps clearly."
+    },
+    {
+      "t": 619.38,
+      "text": "Agreed."
+    },
+    {
+      "t": 620.54,
+      "text": "Let me summarize what we've covered and confirm the next actions."
+    },
+    {
+      "t": 625.2,
+      "text": "Please go ahead."
+    },
+    {
+      "t": 626.76,
+      "text": "First, we will diversify suppliers and initiate onboarding for a secondary vendor."
+    },
+    {
+      "t": 633.31,
+      "text": "Second, we will create a weekly forecasting update process with the sales team."
+    },
+    {
+      "t": 639.4,
+      "text": "Third, we will establish a real-time communication channel for supply chain coordination."
+    },
+    {
+      "t": 646.32,
+      "text": "Fourth, we will prepare a proposal for upgrading equipment at Plant 2."
+    },
+    {
+      "t": 652.35,
+      "text": "Fifth, we will introduce initiatives to boost team morale and support middle-level managers."
+    },
+    {
+      "t": 659.29,
+      "text": "Sixth, we will improve crisis management protocols and document flow."
+    },
+    {
+      "t": 665.12,
+      "text": "Seventh, we will strengthen our negotiation strategy."
+    },
+    {
+      "t": 669.12,
+      "text": "Before we get into the numbers, let me ask you something."
+    },
+    {
+      "t": 673.28,
+      "text": "Over the past month, have you felt that the organization is becoming harder to steer?"
+    },
+    {
+      "t": 679.92,
+      "text": "I mean, in terms of alignment, priorities, and execution, because from where I'm sitting,"
+    },
+    {
+      "t": 687.52,
+      "text": "things feel like they're drifting slightly out of sync."
+    },
+    {
+      "t": 691.12,
+      "text": "You're not imagining it. I've sensed the same thing. People are busy, yes,"
+    },
+    {
+      "t": 696.24,
+      "text": "but not always aligned. Workloads are high, communication is inconsistent,"
+    },
+    {
+      "t": 702.08,
+      "text": "and decision-making seems slower than usual."
+    },
+    {
+      "t": 705.28,
+      "text": "It's not a crisis yet, but it's trending in a concerning direction."
+    },
+    {
+      "t": 709.6,
+      "text": "Exactly. And if we don't address it now, it could become a major problem."
+    },
+    {
+      "t": 716.08,
+      "text": "That's why I want this conversation to be as detailed and candid as possible."
+    },
+    {
+      "t": 721.92,
+      "text": "We need clarity, structure, and direction."
+    },
+    {
+      "t": 725.84,
+      "text": "So let me start by asking, what's your honest assessment of the last quarter?"
+    },
+    {
+      "t": 730.72,
+      "text": "Honestly? Mixed. We delivered results, but not efficiently. We hit targets, but not confidently."
+    },
+    {
+      "t": 738.16,
+      "text": "We responded to issues, but didn't anticipate them. And I think everyone feels the strain."
+    },
+    {
+      "t": 744.96,
+      "text": "Performance was acceptable, but the process was messy."
+    },
+    {
+      "t": 748.88,
+      "text": "I completely agree. And that tells me the foundation is weakening. Not collapsing,"
+    },
+    {
+      "t": 755.92,
+      "text": "but weakening. And before we grow or expand or introduce anything new, we need to reinforce"
+    },
+    {
+      "t": 764.32,
+      "text": "that foundation. Absolutely. So, where do you want to begin? There are so many layers,"
+    },
+    {
+      "t": 770.32,
+      "text": "supply chain, production alignment, communication gaps, leadership bandwidth."
+    },
+    {
+      "t": 775.56,
+      "text": "Let's start with the core operations. Because if the engine doesn't run smoothly,"
+    },
+    {
+      "t": 782.32,
+      "text": "nothing else works. Understood. So the biggest operational challenge right now"
+    },
+    {
+      "t": 788.6,
+      "text": "is predictability. We can produce but inconsistently. We can deliver but with"
+    },
+    {
+      "t": 795.36,
+      "text": "fluctuating timelines. And the reason is simple. The planning inputs are"
+    },
+    {
+      "t": 800.68,
+      "text": "unstable. Sales forecasts change too often and without enough justification."
+    },
+    {
+      "t": 807.4,
+      "text": "That's a recurring issue. Sales is optimistic by nature, which is good for morale, but bad"
+    },
+    {
+      "t": 814.32,
+      "text": "for planning. So, what's your suggestion? How do we anchor the forecasting process so"
+    },
+    {
+      "t": 820.52,
+      "text": "you can plan with confidence?"
+    },
+    {
+      "t": 823.16,
+      "text": "Three things. First, we need data-driven forecasting, not optimism-driven forecasting."
+    },
+    {
+      "t": 830.0,
+      "text": "Second, we need a rolling weekly adjustment window rather than abrupt monthly changes."
+    },
+    {
+      "t": 837.04,
+      "text": "Third, we need accountability."
+    },
+    {
+      "t": 839.56,
+      "text": "If forecasts deviate wildly from reality, someone must explain why."
+    },
+    {
+      "t": 845.4,
+      "text": "I like all three."
+    },
+    {
+      "t": 847.16,
+      "text": "The third one especially."
+    },
+    {
+      "t": 849.36,
+      "text": "People need to justify their numbers, not just submit them."
+    },
+    {
+      "t": 854.0,
+      "text": "Accountability creates discipline."
+    },
+    {
+      "t": 855.96,
+      "text": "Exactly."
+    },
+    {
+      "t": 857.32,
+      "text": "And discipline is the difference between consistency and chaos."
+    },
+    {
+      "t": 861.76,
+      "text": "Alright, let's talk about capacity."
+    },
+    {
+      "t": 865.0,
+      "text": "quarter, you mentioned that plant 2 is operating at only about 76% effective capacity. Why?"
+    },
+    {
+      "t": 874.08,
+      "text": "What's dragging it down?"
+    },
+    {
+      "t": 876.24,
+      "text": "Maintenance. Or rather, insufficient maintenance. The machines are aging. Repairs are reactive,"
+    },
+    {
+      "t": 883.04,
+      "text": "not preventative. So, we face unexpected downtime, and when machines stop unexpectedly,"
+    },
+    {
+      "t": 889.4,
+      "text": "We lose not just time, but also workforce rhythm."
+    },
+    {
+      "t": 893.56,
+      "text": "People get frustrated, morale dips, and output drops."
+    },
+    {
+      "t": 897.96,
+      "text": "What's the real solution?"
+    },
+    {
+      "t": 900.2,
+      "text": "Not a band-aid, an actual fix."
+    },
+    {
+      "t": 903.52,
+      "text": "Realistically, a capital investment into new machinery, or at least major upgrades."
+    },
+    {
+      "t": 910.12,
+      "text": "Anything else is temporary."
+    },
+    {
+      "t": 911.84,
+      "text": "We've stretched the existing equipment as far as it can go."
+    },
+    {
+      "t": 915.36,
+      "text": "How much would an upgrade cost?"
+    },
+    {
+      "t": 918.16,
+      "text": "on the configuration, somewhere between 2.5 to 3 million."
+    },
+    {
+      "t": 924.32,
+      "text": "That's significant."
+    },
+    {
+      "t": 925.76,
+      "text": "But if it fixes a bottleneck that's costing us far more in hidden losses, then it's worth"
+    },
+    {
+      "t": 931.08,
+      "text": "considering."
+    },
+    {
+      "t": 932.58,
+      "text": "Exactly."
+    },
+    {
+      "t": 933.58,
+      "text": "The cost of inefficiency is greater than the cost of improvement."
+    },
+    {
+      "t": 937.96,
+      "text": "Well said."
+    },
+    {
+      "t": 938.96,
+      "text": "Now, let's move on to workload and morale."
+    },
+    {
+      "t": 943.04,
+      "text": "We've seen early signs of burnout."
+    },
+    {
+      "t": 945.38,
+      "text": "People aren't complaining loudly, but subtle comments and behavior tell a story."
+    },
+    {
+      "t": 951.04,
+      "text": "Have you noticed the same?"
+    },
+    {
+      "t": 952.66,
+      "text": "Yes."
+    },
+    {
+      "t": 953.84,
+      "text": "Many team members feel they're constantly firefighting."
+    },
+    {
+      "t": 957.48,
+      "text": "And firefighting creates fatigue."
+    },
+    {
+      "t": 959.96,
+      "text": "They want clarity, stability, and direction."
+    },
+    {
+      "t": 963.82,
+      "text": "Then we need to give them that."
+    },
+    {
+      "t": 965.64,
+      "text": "We can't keep pushing without supporting them."
+    },
+    {
+      "t": 968.8,
+      "text": "Agreed."
+    },
+    {
+      "t": 969.8,
+      "text": "We need structural clarity."
+    },
+    {
+      "t": 972.04,
+      "text": "What's urgent?"
+    },
+    {
+      "t": 973.16,
+      "text": "What's important?"
+    },
+    {
+      "t": 974.4,
+      "text": "It's optional and what can wait."
+    },
+    {
+      "t": 977.23,
+      "text": "Right now everything feels urgent to them because priorities change too often."
+    },
+    {
+      "t": 982.79,
+      "text": "We need a priority architecture."
+    },
+    {
+      "t": 985.35,
+      "text": "Exactly."
+    },
+    {
+      "t": 986.75,
+      "text": "Let's talk about communication breakdowns."
+    },
+    {
+      "t": 989.79,
+      "text": "Where are the biggest gaps?"
+    },
+    {
+      "t": 991.95,
+      "text": "Three areas."
+    },
+    {
+      "t": 993.45,
+      "text": "First, interdepartmental communication is inconsistent, especially between sales and"
+    },
+    {
+      "t": 999.19,
+      "text": "operations."
+    },
+    {
+      "t": 1000.19,
+      "text": "Second, mid-level managers often receive updates, but not context."
+    },
+    {
+      "t": 1005.47,
+      "text": "Third, information flows upward too slowly and downward without clarity."
+    },
+    {
+      "t": 1011.79,
+      "text": "So basically, we need to redesign how communication happens, not just what is communicated."
+    },
+    {
+      "t": 1018.75,
+      "text": "Yes, we need real-time channels, not email threads."
+    },
+    {
+      "t": 1023.13,
+      "text": "We need clear action owners, not vague instructions."
+    },
+    {
+      "t": 1026.89,
+      "text": "And we need coordination meetings with structured agendas, not informal chats."
+    },
+    {
+      "t": 1032.43,
+      "text": "Make sense."
+    },
+    {
+      "t": 1033.43,
+      "text": "Now let's shift to execution discipline."
+    },
+    {
+      "t": 1036.67,
+      "text": "What slows execution the most?"
+    },
+    {
+      "t": 1040.15,
+      "text": "Unclear responsibilities."
+    },
+    {
+      "t": 1042.23,
+      "text": "Sometimes two departments think the other one is handling something, and sometimes nobody's"
+    },
+    {
+      "t": 1046.51,
+      "text": "handling it."
+    },
+    {
+      "t": 1048.11,
+      "text": "That's when delays happen."
+    },
+    {
+      "t": 1050.31,
+      "text": "Classic accountability gap."
+    },
+    {
+      "t": 1052.59,
+      "text": "Exactly."
+    },
+    {
+      "t": 1053.79,
+      "text": "Then we need a clear ownership matrix."
+    },
+    {
+      "t": 1056.71,
+      "text": "Every task must have one owner, not two, not zero."
+    },
+    {
+      "t": 1061.79,
+      "text": "Agreed."
+    },
+    {
+      "t": 1062.79,
+      "text": "Let's pivot to financial performance."
+    },
+    {
+      "t": 1066.27,
+      "text": "What's your take on the cost structure right now?"
+    },
+    {
+      "t": 1069.67,
+      "text": "Bloated."
+    },
+    {
+      "t": 1071.2,
+      "text": "Not disastrously, but enough to cut into profitability."
+    },
+    {
+      "t": 1075.36,
+      "text": "We're spending too much on emergency logistics and repairs."
+    },
+    {
+      "t": 1079.56,
+      "text": "Unplanned costs always exceed planned costs."
+    },
+    {
+      "t": 1083.8,
+      "text": "Which tells us we need better anticipation, not more budget."
+    },
+    {
+      "t": 1088.24,
+      "text": "Exactly."
+    },
+    {
+      "t": 1089.88,
+      "text": "Predictability is cheaper than improvising."
+    },
+    {
+      "t": 1092.6,
+      "text": "Well said."
+    },
+    {
+      "t": 1094.0,
+      "text": "Now what about inventory balance?"
+    },
+    {
+      "t": 1096.72,
+      "text": "Are we holding too much or too little?"
+    },
+    {
+      "t": 1099.84,
+      "text": "A mix."
+    },
+    {
+      "t": 1101.24,
+      "text": "Some skews are overstocked, others are understocked."
+    },
+    {
+      "t": 1104.94,
+      "text": "The imbalance comes from inconsistent demand signals and slow adjustment cycles."
+    },
+    {
+      "t": 1110.96,
+      "text": "So we need dynamic inventory tuning."
+    },
+    {
+      "t": 1114.12,
+      "text": "Yes."
+    },
+    {
+      "t": 1115.28,
+      "text": "And cross-team alignment."
+    },
+    {
+      "t": 1117.8,
+      "text": "Let's talk about the leadership team."
+    },
+    {
+      "t": 1120.16,
+      "text": "Do you feel they're aligned?"
+    },
+    {
+      "t": 1122.4,
+      "text": "Aligned in intent, misaligned in execution."
+    },
+    {
+      "t": 1126.52,
+      "text": "Everyone wants improvement, but not everyone understands the same priorities."
+    },
+    {
+      "t": 1132.02,
+      "text": "Some focus on short-term wins, others focus on long-term stability."
+    },
+    {
+      "t": 1137.28,
+      "text": "That's dangerous."
+    },
+    {
+      "t": 1139.12,
+      "text": "Must be unified. Yes. Otherwise we're rumbling in different directions. What's causing the misalignment?"
+    },
+    {
+      "t": 1147.28,
+      "text": "Lack of shared visibility. Some leaders see only their department, not the whole system."
+    },
+    {
+      "t": 1153.6,
+      "text": "So they optimize locally instead of systemically. Exactly. Now about the escalation that happened"
+    },
+    {
+      "t": 1162.08,
+      "text": "last week, the one with the delayed shipment. What went wrong? A sequence of avoidable"
+    },
+    {
+      "t": 1168.16,
+      "text": "mistakes. Procurement assumed logistics had coordinated documentation. Logistics"
+    },
+    {
+      "t": 1174.2,
+      "text": "assumed production sent the batch details. Production assumed sales requested"
+    },
+    {
+      "t": 1179.68,
+      "text": "the shipping window. So three assumptions collided and nobody owned the final"
+    },
+    {
+      "t": 1185.32,
+      "text": "check. And the customer paid the price. Yes, and they weren't happy."
+    },
+    {
+      "t": 1191.56,
+      "text": "understandably. So we need a verification step, a final checkpoint before orders leave the facility."
+    },
+    {
+      "t": 1200.6,
+      "text": "Exactly. A single point of verification. No assumptions."
+    },
+    {
+      "t": 1205.32,
+      "text": "Let's move toward future direction. What do you see as the biggest risk in the next six months?"
+    },
+    {
+      "t": 1212.36,
+      "text": "If we don't fix internal alignment, the organization will feel increasingly reactive."
+    },
+    {
+      "t": 1218.44,
+      "text": "that leads to burnout, turnover, and declining quality."
+    },
+    {
+      "t": 1222.83,
+      "text": "The risk isn't external, it's internal."
+    },
+    {
+      "t": 1225.79,
+      "text": "Agreed. And the biggest opportunity?"
+    },
+    {
+      "t": 1229.31,
+      "text": "If we strengthen our structure and processes now,"
+    },
+    {
+      "t": 1232.91,
+      "text": "we can scale efficiently later. That's our competitive advantage."
+    },
+    {
+      "t": 1237.23,
+      "text": "Absolutely. Discipline first, growth second."
+    },
+    {
+      "t": 1242.11,
+      "text": "We've covered everything from operations to morale to finance to alignment."
+    },
+    {
+      "t": 1247.31,
+      "text": "Let's conclude with next steps. What do you propose?"
+    },
+    {
+      "t": 1251.39,
+      "text": "I propose eight actions. Weekly rolling forecast updates, clear ownership matrix for all cross-functional tasks,"
+    },
+    {
+      "t": 1261.8,
+      "text": "real-time communication channel for operational issues, preventative maintenance program and"
+    },
+    {
+      "t": 1267.64,
+      "text": "CAPEX proposal, rebalanced workload and morale initiatives, leadership alignment sessions"
+    },
+    {
+      "t": 1275.1,
+      "text": "with transparent priorities, verification checkpoint for outgoing shipments, and monthly"
+    },
+    {
+      "t": 1282.87,
+      "text": "performance review cycle focused on process, not just results."
+    },
+    {
+      "t": 1288.05,
+      "text": "That's comprehensive, and exactly what we need."
+    },
+    {
+      "t": 1292.29,
+      "text": "I'll prepare the documentation, communicate with team leads, and initiate the first"
+    },
+    {
+      "t": 1297.21,
+      "text": "steps."
+    },
+    {
+      "t": 1298.21,
+      "text": "Perfect."
+    },
+    {
+      "t": 1299.21,
+      "text": "I feel much clearer after this conversation."
+    },
+    {
+      "t": 1302.83,
+      "text": "Same here."
+    },
+    {
+      "t": 1303.99,
+      "text": "When we talk honestly and practically, solutions emerge naturally."
+    },
+    {
+      "t": 1308.83,
+      "text": "Then let's move forward."
+    },
+    {
+      "t": 1310.23,
+      "text": "Stronger, clearer, and aligned."
+    },
+    {
+      "t": 1313.63,
+      "text": "Agreed."
+    },
+    {
+      "t": 1314.63,
+      "text": "Let's get to work."
+    },
+    {
+      "t": 1317.08,
+      "text": "Thank you for joining this meeting on short notice."
+    },
+    {
+      "t": 1320.36,
+      "text": "We have several critical agenda points today."
+    },
+    {
+      "t": 1323.76,
+      "text": "But more importantly, we need clarity on the direction the corporation is taking"
+    },
+    {
+      "t": 1328.96,
+      "text": "over the next five to seven years."
+    },
+    {
+      "t": 1331.92,
+      "text": "I believe we've reached a point where incremental adjustments are no longer sufficient."
+    },
+    {
+      "t": 1338.56,
+      "text": "We need a strategic recalibration."
+    },
+    {
+      "t": 1342.36,
+      "text": "I agree."
+    },
+    {
+      "t": 1343.36,
+      "text": "The environment around us is changing faster than our internal processes can adapt."
+    },
+    {
+      "t": 1350.2,
+      "text": "Competition is becoming more sophisticated."
+    },
+    {
+      "t": 1353.48,
+      "text": "Regulations are evolving."
+    },
+    {
+      "t": 1355.52,
+      "text": "Consumer expectations are rising."
+    },
+    {
+      "t": 1358.32,
+      "text": "And emerging markets are behaving unpredictably."
+    },
+    {
+      "t": 1361.52,
+      "text": "If we don't reposition ourselves decisively, we risk falling behind, even with our scale advantage."
+    },
+    {
+      "t": 1369.52,
+      "text": "Exactly. Scale alone isn't the safety net it was even five years ago."
+    },
+    {
+      "t": 1375.94,
+      "text": "What used to be our greatest competitive advantage, distribution reach, manufacturing footprint,"
+    },
+    {
+      "t": 1381.94,
+      "text": "and global brand presence is now being challenged by players who are far more agile."
+    },
+    {
+      "t": 1387.94,
+      "text": "They move rapidly, test aggressively, and pivot immediately."
+    },
+    {
+      "t": 1392.92,
+      "text": "Our cycles, by comparison, still feel sluggish."
+    },
+    {
+      "t": 1398.06,
+      "text": "The irony is that we've invested heavily in technology, process improvement, and global"
+    },
+    {
+      "t": 1404.7,
+      "text": "alignment initiatives, yet the agility gap persists."
+    },
+    {
+      "t": 1408.78,
+      "text": "I think part of the issue is structural."
+    },
+    {
+      "t": 1412.18,
+      "text": "We're operating with legacy layers that were designed for stability, not speed."
+    },
+    {
+      "t": 1419.26,
+      "text": "Stability served us well for decades, but today the market demands something different."
+    },
+    {
+      "t": 1426.3,
+      "text": "Which brings us to the core question, what strategic identity should we prioritize?"
+    },
+    {
+      "t": 1432.54,
+      "text": "Are we aiming to be an innovation leader, a customer experience benchmark, a cost efficiency"
+    },
+    {
+      "t": 1439.14,
+      "text": "powerhouse, or a diversified global portfolio that balances stability with selective innovation."
+    },
+    {
+      "t": 1448.16,
+      "text": "My view is that we need a hybrid approach."
+    },
+    {
+      "t": 1452.0,
+      "text": "Innovation leadership in our primary segments, operational excellence in the legacy segments,"
+    },
+    {
+      "t": 1458.34,
+      "text": "and customer-centric transformation across every market."
+    },
+    {
+      "t": 1463.0,
+      "text": "But executing a hybrid model requires an underlying operating philosophy we currently"
+    },
+    {
+      "t": 1469.16,
+      "text": "lack. We need clarity that cascades down each market, each division, each function."
+    },
+    {
+      "t": 1477.51,
+      "text": "Agreed. And our regional teams have been asking for this. They keep telling us that"
+    },
+    {
+      "t": 1482.73,
+      "text": "corporate strategy feels too conceptual. They want concrete frameworks, not just directional"
+    },
+    {
+      "t": 1489.63,
+      "text": "aspirations. They need actionable pathways."
+    },
+    {
+      "t": 1494.62,
+      "text": "Then perhaps we should begin by redefining our core strategic pillars for the next"
+    },
+    {
+      "t": 1499.62,
+      "text": "We can refine them later, but we need a baseline to align on."
+    },
+    {
+      "t": 1504.62,
+      "text": "Let's start with the key question."
+    },
+    {
+      "t": 1506.62,
+      "text": "What is the overarching ambition for the corporation?"
+    },
+    {
+      "t": 1510.62,
+      "text": "I would articulate it like this."
+    },
+    {
+      "t": 1514.01,
+      "text": "To become the world's most adaptive, customer-driven, multinational corporation,"
+    },
+    {
+      "t": 1521.01,
+      "text": "powered by scalable innovation and operational excellence,"
+    },
+    {
+      "t": 1526.01,
+      "text": "excellence. It captures agility, customer centricity, and the balance between innovation"
+    },
+    {
+      "t": 1533.55,
+      "text": "and efficiency."
+    },
+    {
+      "t": 1536.14,
+      "text": "That phrasing is strong. It reflects ambition, but also acknowledges the foundational strengths"
+    },
+    {
+      "t": 1543.14,
+      "text": "we already possess. But ambition alone is insufficient. We must break it down into"
+    },
+    {
+      "t": 1550.22,
+      "text": "operationalizable pillars. I propose four strategic pillars, customer-driven growth,"
+    },
+    {
+      "t": 1558.14,
+      "text": "operational excellence and scalability, innovation leadership and digital reinvention,"
+    },
+    {
+      "t": 1564.86,
+      "text": "and organizational agility and talent transformation."
+    },
+    {
+      "t": 1570.06,
+      "text": "Those pillars seem comprehensive. Let's unpack each one. Starting with customer-driven growth,"
+    },
+    {
+      "t": 1577.66,
+      "text": "What does that mean for a multinational operating in over 45 countries with varied maturity levels?"
+    },
+    {
+      "t": 1586.34,
+      "text": "It means shifting from a product-centric mindset to a solution-centric mindset. Historically,"
+    },
+    {
+      "t": 1593.78,
+      "text": "we have exported global products into local markets. Going forward, we need regionalized"
+    },
+    {
+      "t": 1600.82,
+      "text": "innovation, segment-specific value propositions, and customer journey optimization tailored"
+    },
+    {
+      "t": 1607.66,
+      "text": "to local behaviors."
+    },
+    {
+      "t": 1610.25,
+      "text": "So essentially, empowerment of regional teams with structured guardrails from corporate"
+    },
+    {
+      "t": 1616.65,
+      "text": "because full autonomy risks fragmentation while centralization limits relevance."
+    },
+    {
+      "t": 1624.21,
+      "text": "Exactly."
+    },
+    {
+      "t": 1625.65,
+      "text": "What we need is guided autonomy."
+    },
+    {
+      "t": 1628.49,
+      "text": "The framework sets the direction, but markets choose the execution pathway based on customer"
+    },
+    {
+      "t": 1634.81,
+      "text": "insights and ecosystem dynamics."
+    },
+    {
+      "t": 1638.54,
+      "text": "That brings us to the challenge of data."
+    },
+    {
+      "t": 1641.42,
+      "text": "Our customer analytics are fragmented, inconsistent, and often delayed."
+    },
+    {
+      "t": 1646.8,
+      "text": "If we want to be customer-driven, we need an integrated data platform that unifies"
+    },
+    {
+      "t": 1652.62,
+      "text": "purchase behavior, channel preference, journey moments, loyalty triggers, and satisfaction metrics."
+    },
+    {
+      "t": 1661.46,
+      "text": "Yes, but integration alone won't solve the problem. We need analytical capability at the local level."
+    },
+    {
+      "t": 1669.46,
+      "text": "Many of our regional teams simply don't have the talent or tools to extract actionable insights."
+    },
+    {
+      "t": 1676.58,
+      "text": "Without capability building, the data will just sit there."
+    },
+    {
+      "t": 1680.18,
+      "text": "Capability building has to be a strategic mandate, not an optional initiative, which"
+    },
+    {
+      "t": 1687.12,
+      "text": "ties directly into your fourth pillar, organizational agility and talent transformation."
+    },
+    {
+      "t": 1693.8,
+      "text": "Our leadership pipeline, for example, still favors experience over adaptability."
+    },
+    {
+      "t": 1699.68,
+      "text": "That model is outdated."
+    },
+    {
+      "t": 1702.73,
+      "text": "Precisely."
+    },
+    {
+      "t": 1704.69,
+      "text": "Experience is valuable, but adaptability is mission critical."
+    },
+    {
+      "t": 1709.57,
+      "text": "The leaders of the future are those who can operate in ambiguity, manage diverse stakeholder"
+    },
+    {
+      "t": 1715.85,
+      "text": "groups and make fast decisions without perfect information."
+    },
+    {
+      "t": 1721.05,
+      "text": "Our current development programs are too linear and slow."
+    },
+    {
+      "t": 1726.14,
+      "text": "And this raises another concern I want us to address honestly."
+    },
+    {
+      "t": 1731.18,
+      "text": "Are we structured in a way that allows talent to excel or do our hierarchical layers"
+    },
+    {
+      "t": 1737.54,
+      "text": "suppress initiative?"
+    },
+    {
+      "t": 1740.16,
+      "text": "If we're being candid, yes, our structure is still too hierarchical."
+    },
+    {
+      "t": 1747.42,
+      "text": "Decision-making layers slow us down."
+    },
+    {
+      "t": 1750.16,
+      "text": "Even simple approvals sometimes move through three or four levels unnecessarily."
+    },
+    {
+      "t": 1756.26,
+      "text": "It creates frustration and reduces accountability because decisions become distributed and diluted."
+    },
+    {
+      "t": 1764.27,
+      "text": "Then one of our first operational decisions should be simplification, a reduction in"
+    },
+    {
+      "t": 1769.69,
+      "text": "bureaucratic layers, clearer decision rights, and more empowered cross-functional units."
+    },
+    {
+      "t": 1777.1,
+      "text": "I support that direction. But we'll need a change management roadmap. Structural changes"
+    },
+    {
+      "t": 1782.94,
+      "text": "without behavioral alignment will create confusion. People need clarity on what empowerment means"
+    },
+    {
+      "t": 1789.98,
+      "text": "and what responsibilities accompany it. True. Empowerment isn't about relinquishing control."
+    },
+    {
+      "t": 1797.64,
+      "text": "it's about assigning ownership with accountability. That distinction must be communicated."
+    },
+    {
+      "t": 1805.15,
+      "text": "Let's move to the second pillar, operational excellence and scalability. Our operational"
+    },
+    {
+      "t": 1811.79,
+      "text": "footprint spans manufacturing, logistics, procurement, quality, and supply chain. Yet our"
+    },
+    {
+      "t": 1819.71,
+      "text": "global integration is inconsistent. Some regions operate with world-class efficiency,"
+    },
+    {
+      "t": 1826.03,
+      "text": "other's lags significantly."
+    },
+    {
+      "t": 1829.03,
+      "text": "That inconsistency is costing us millions annually."
+    },
+    {
+      "t": 1833.38,
+      "text": "We need a unified operational excellence model,"
+    },
+    {
+      "t": 1837.38,
+      "text": "a standardized playbook that outlines best practices"
+    },
+    {
+      "t": 1841.38,
+      "text": "for manufacturing, digital supply chain,"
+    },
+    {
+      "t": 1844.38,
+      "text": "automation, predictive analytics, and ESG compliance."
+    },
+    {
+      "t": 1849.38,
+      "text": "Right now our operations function behaves more like"
+    },
+    {
+      "t": 1853.76,
+      "text": "a collection of regional clusters, rather than a global ecosystem."
+    },
+    {
+      "t": 1859.32,
+      "text": "We need to build a global center of excellence that drives continuous improvement across all markets."
+    },
+    {
+      "t": 1867.04,
+      "text": "And we need tighter alignment between supply planning and demand forecasting."
+    },
+    {
+      "t": 1872.46,
+      "text": "Demand forecasting accuracy is one of our ongoing weaknesses."
+    },
+    {
+      "t": 1876.72,
+      "text": "It results in either excess inventory or stockouts in key markets."
+    },
+    {
+      "t": 1882.0,
+      "text": "Both are costly."
+    },
+    {
+      "t": 1884.28,
+      "text": "Demand forecasting will only improve when the commercial teams and operations function"
+    },
+    {
+      "t": 1890.12,
+      "text": "communicate more transparently. Right now, insights flow in one direction. Commercial pushes"
+    },
+    {
+      "t": 1897.0,
+      "text": "numbers upward, but operations rarely pushes back with scenario evaluations or risk assessments."
+    },
+    {
+      "t": 1905.38,
+      "text": "So we need integrated forecasting teams, a blend of commercial, finance, and supply chain experts"
+    },
+    {
+      "t": 1912.26,
+      "text": "working together with shared KPIs."
+    },
+    {
+      "t": 1915.68,
+      "text": "Yes. Shared KPIs are essential."
+    },
+    {
+      "t": 1919.52,
+      "text": "Curseably, each function optimizes for its own success metrics,"
+    },
+    {
+      "t": 1924.12,
+      "text": "which sometimes conflict with the corporation's overall objectives."
+    },
+    {
+      "t": 1928.76,
+      "text": "We need a synchronized KPI architecture."
+    },
+    {
+      "t": 1933.01,
+      "text": "Let's move on to the third pillar,"
+    },
+    {
+      "t": 1935.77,
+      "text": "innovation, leadership and digital reinvention."
+    },
+    {
+      "t": 1939.13,
+      "text": "We've invested heavily in digital, yet our innovation speed still trails smaller competitors, why?"
+    },
+    {
+      "t": 1947.13,
+      "text": "Because our digital investments were driven by technology, not by customer journeys or strategic objectives."
+    },
+    {
+      "t": 1955.61,
+      "text": "We have tools, but we don't have integrated digital ecosystems."
+    },
+    {
+      "t": 1960.61,
+      "text": "Exactly. We must shift from technology adoption to capability transformation."
+    },
+    {
+      "t": 1967.84,
+      "text": "Innovation should be driven by unmet co…"
+    },
+    {
+      "t": 1971.22,
+      "text": "Future skills certification is essential, but it must be meaningful."
+    },
+    {
+      "t": 1976.24,
+      "text": "Employees should see direct correlation between acquiring new skills and opportunities for"
+    },
+    {
+      "t": 1980.84,
+      "text": "career progression or project ownership."
+    },
+    {
+      "t": 1983.76,
+      "text": "Exactly, and it should be integrated into our succession planning."
+    },
+    {
+      "t": 1988.16,
+      "text": "We can't just develop talent for the sake of development."
+    },
+    {
+      "t": 1991.2,
+      "text": "We need a clear path from capability to leadership roles."
+    },
+    {
+      "t": 1995.68,
+      "text": "That also means rethinking our global talent mobility."
+    },
+    {
+      "t": 1999.2,
+      "text": "High potential employees should rotate across regions to gain exposure to different market"
+    },
+    {
+      "t": 2004.44,
+      "text": "dynamics, cultures, and operational models."
+    },
+    {
+      "t": 2007.68,
+      "text": "Yes, rotation builds both perspective and network."
+    },
+    {
+      "t": 2011.76,
+      "text": "But we also need to avoid over-rotation."
+    },
+    {
+      "t": 2014.8,
+      "text": "The goal is depth in regional understanding while maintaining global exposure."
+    },
+    {
+      "t": 2020.12,
+      "text": "Agreed."
+    },
+    {
+      "t": 2021.12,
+      "text": "We should map career journeys with a mix of lateral and vertical moves, ensuring each"
+    },
+    {
+      "t": 2025.96,
+      "text": "rotation strengthens both functional and strategic capabilities."
+    },
+    {
+      "t": 2030.76,
+      "text": "On a related note, we need to discuss succession planning in executive roles."
+    },
+    {
+      "t": 2035.76,
+      "text": "Our current approach is reactive."
+    },
+    {
+      "t": 2038.12,
+      "text": "We identify successors late and sometimes promote based on tenure rather than capability."
+    },
+    {
+      "t": 2044.72,
+      "text": "That's a major risk."
+    },
+    {
+      "t": 2046.68,
+      "text": "succession should be a living plan, updated quarterly, aligned with the strategic pillars"
+    },
+    {
+      "t": 2052.08,
+      "text": "and tested against multiple scenarios. Scenario testing is key. We need simulations"
+    },
+    {
+      "t": 2058.2,
+      "text": "that anticipate business disruptions, economic shocks, regulatory changes, competitive pressures,"
+    },
+    {
+      "t": 2065.12,
+      "text": "and evaluate how potential leaders respond. And these simulations should not be confined"
+    },
+    {
+      "t": 2071.24,
+      "text": "to board-level exercises. They should cascade down to functional and regional leaders."
+    },
+    {
+      "t": 2076.52,
+      "text": "We want a culture where scenario thinking is standard practice."
+    },
+    {
+      "t": 2081.06,
+      "text": "Moving to the topic of digital reinvention, how do you see AI and advanced analytics transforming"
+    },
+    {
+      "t": 2087.5,
+      "text": "our decision-making processes?"
+    },
+    {
+      "t": 2090.1,
+      "text": "AI has two main roles."
+    },
+    {
+      "t": 2091.7,
+      "text": "First, it enhances operational efficiency by predicting trends, optimizing supply chains"
+    },
+    {
+      "t": 2097.74,
+      "text": "and automating repetitive tasks."
+    },
+    {
+      "t": 2100.18,
+      "text": "Second, it empowers decision-making with predictive insights, but we must avoid treating"
+    },
+    {
+      "t": 2105.58,
+      "text": "AI as infallible."
+    },
+    {
+      "t": 2107.66,
+      "text": "Agreed."
+    },
+    {
+      "t": 2108.66,
+      "text": "AI is an augmentation tool, not a replacement for judgment."
+    },
+    {
+      "t": 2113.26,
+      "text": "Leaders still need to contextualize insights, apply experience, and evaluate risk."
+    },
+    {
+      "t": 2119.34,
+      "text": "That's why governance is crucial."
+    },
+    {
+      "t": 2121.3,
+      "text": "We should establish a decision framework where AI insights are mandatory inputs but"
+    },
+    {
+      "t": 2126.58,
+      "text": "not sole determinants."
+    },
+    {
+      "t": 2128.58,
+      "text": "And this ties into transparency."
+    },
+    {
+      "t": 2131.42,
+      "text": "must understand how AI conclusions are derived."
+    },
+    {
+      "t": 2135.86,
+      "text": "Explainable AI is no longer optional."
+    },
+    {
+      "t": 2138.5,
+      "text": "It's a trust requirement."
+    },
+    {
+      "t": 2140.62,
+      "text": "Exactly."
+    },
+    {
+      "t": 2142.02,
+      "text": "Explainable AI ensures that business decisions can be audited and defended both internally"
+    },
+    {
+      "t": 2146.74,
+      "text": "and externally, especially in regulated markets."
+    },
+    {
+      "t": 2150.99,
+      "text": "Let's talk about market expansion."
+    },
+    {
+      "t": 2152.99,
+      "text": "We've historically relied on organic growth."
+    },
+    {
+      "t": 2155.99,
+      "text": "But should we consider more aggressive M&A activity in strategic segments?"
+    },
+    {
+      "t": 2161.07,
+      "text": "Possibly, but with discipline."
+    },
+    {
+      "t": 2163.07,
+      "text": "Acquisitions should reinforce our core strategic pillars,"
+    },
+    {
+      "t": 2166.71,
+      "text": "not distract from them."
+    },
+    {
+      "t": 2168.51,
+      "text": "Every potential acquisition needs a clear rationale."
+    },
+    {
+      "t": 2171.63,
+      "text": "Growth acceleration, capability acquisition,"
+    },
+    {
+      "t": 2174.59,
+      "text": "or market entry."
+    },
+    {
+      "t": 2176.47,
+      "text": "And we must evaluate integration risk upfront."
+    },
+    {
+      "t": 2179.87,
+      "text": "Poorly integrated acquisitions have historically eroded"
+    },
+    {
+      "t": 2183.31,
+      "text": "value rather than created it."
+    },
+    {
+      "t": 2185.79,
+      "text": "Integration planning must begin before the deal closes."
+    },
+    {
+      "t": 2189.19,
+      "text": "Leadership alignment, systems compatibility,"
+    },
+    {
+      "t": 2192.15,
+      "text": "cultural assessment, and communication strategy"
+    },
+    {
+      "t": 2195.31,
+      "text": "all need to be in place early."
+    },
+    {
+      "t": 2198.11,
+      "text": "On the topic of culture,"
+    },
+    {
+      "t": 2199.83,
+      "text": "I want to address the innovation mindset."
+    },
+    {
+      "t": 2203.11,
+      "text": "Many regions still prioritize operational adherence"
+    },
+    {
+      "t": 2206.85,
+      "text": "over creative problem solving."
+    },
+    {
+      "t": 2208.95,
+      "text": "How do we shift this mindset"
+    },
+    {
+      "t": 2210.91,
+      "text": "without undermining accountability?"
+    },
+    {
+      "t": 2213.67,
+      "text": "By embedding innovation metrics"
+    },
+    {
+      "t": 2215.83,
+      "text": "alongside operational KPIs."
+    },
+    {
+      "t": 2218.39,
+      "text": "For instance, measure not only efficiency, but also idea generation, implementation speed,"
+    },
+    {
+      "t": 2224.77,
+      "text": "and cross-functional collaboration."
+    },
+    {
+      "t": 2227.25,
+      "text": "And incentivize calculated risk-taking."
+    },
+    {
+      "t": 2230.89,
+      "text": "Employees should feel safe to experiment."
+    },
+    {
+      "t": 2233.49,
+      "text": "Mistakes should be viewed as learning opportunities, not failures."
+    },
+    {
+      "t": 2238.41,
+      "text": "Leadership behavior is critical here."
+    },
+    {
+      "t": 2240.49,
+      "text": "If leaders visibly reward experimentation and curiosity, the culture shift will follow"
+    },
+    {
+      "t": 2245.49,
+      "text": "more naturally."
+    },
+    {
+      "t": 2247.49,
+      "text": "Another aspect is external partnerships."
+    },
+    {
+      "t": 2250.21,
+      "text": "We've been too cautious in collaborating with startups, technology vendors, and research"
+    },
+    {
+      "t": 2255.85,
+      "text": "institutions."
+    },
+    {
+      "t": 2257.41,
+      "text": "Strategic alliances could accelerate innovation."
+    },
+    {
+      "t": 2260.49,
+      "text": "Absolutely."
+    },
+    {
+      "t": 2262.33,
+      "text": "Co-creation ecosystems allow us to test concepts rapidly, leverage external expertise, and"
+    },
+    {
+      "t": 2267.81,
+      "text": "share risk."
+    },
+    {
+      "t": 2269.01,
+      "text": "But we need structured processes to evaluate, onboard, and manage partners effectively."
+    },
+    {
+      "t": 2275.01,
+      "text": "Which leads us to governance."
+    },
+    {
+      "t": 2276.89,
+      "text": "We can't have innovation run ad hoc."
+    },
+    {
+      "t": 2279.83,
+      "text": "A formal innovation governance council could oversee pipeline prioritization, budget allocation,"
+    },
+    {
+      "t": 2286.15,
+      "text": "and outcome tracking."
+    },
+    {
+      "t": 2287.87,
+      "text": "Agreed."
+    },
+    {
+      "t": 2288.87,
+      "text": "It should include representation from strategy, operations, finance, and regional leaders."
+    },
+    {
+      "t": 2294.39,
+      "text": "The council ensures alignment, avoids duplication, and validates business impact."
+    },
+    {
+      "t": 2300.44,
+      "text": "Now regarding operational scalability, I've noticed supply chain resilience is still"
+    },
+    {
+      "t": 2305.6,
+      "text": "inconsistent across regions. How can we create a unified approach?"
+    },
+    {
+      "t": 2311.2,
+      "text": "We need a global operations blueprint that standardizes processes while allowing regional"
+    },
+    {
+      "t": 2316.62,
+      "text": "adaptation. Automation, predictive inventory, and integrated logistics platforms are central"
+    },
+    {
+      "t": 2322.94,
+      "text": "to this."
+    },
+    {
+      "t": 2324.44,
+      "text": "And we must build contingency planning. Each region should maintain a tiered risk map"
+    },
+    {
+      "t": 2329.88,
+      "text": "with mitigation protocols for disruptions from regulatory shifts to natural disasters."
+    },
+    {
+      "t": 2335.72,
+      "text": "Technology can support this. Advanced analytics can simulate disruptions and optimize responses."
+    },
+    {
+      "t": 2342.04,
+      "text": "But humans must interpret and execute plans. Pure automation is insufficient."
+    },
+    {
+      "t": 2347.89,
+      "text": "Let's discuss environmental, social, and governance objectives."
+    },
+    {
+      "t": 2351.89,
+      "text": "Investors are scrutinizing ESG performance more than ever."
+    },
+    {
+      "t": 2356.21,
+      "text": "How do we integrate ESG into our operational DNA?"
+    },
+    {
+      "t": 2360.4,
+      "text": "ESG needs to be operationalized, not just reported."
+    },
+    {
+      "t": 2364.16,
+      "text": "For instance, sustainable sourcing, carbon neutral manufacturing,"
+    },
+    {
+      "t": 2368.24,
+      "text": "diversity in leadership, and ethical supply chain practices should be measurable KPIs."
+    },
+    {
+      "t": 2374.08,
+      "text": "And tied to performance incentives."
+    },
+    {
+      "t": 2376.4,
+      "text": "If leaders' bonuses depend partially on ESG outcomes, the organization takes it seriously."
+    },
+    {
+      "t": 2382.4,
+      "text": "Indeed, ESG integration also strengthens our brand perception in global markets and mitigates"
+    },
+    {
+      "t": 2389.28,
+      "text": "regulatory and reputational risk."
+    },
+    {
+      "t": 2392.56,
+      "text": "Switching to digital transformation."
+    },
+    {
+      "t": 2395.08,
+      "text": "We've implemented multiple systems across regions, ERP, CRM, analytics."
+    },
+    {
+      "t": 2401.24,
+      "text": "But adoption varies."
+    },
+    {
+      "t": 2403.08,
+      "text": "How do we standardize usage without imposing rigidity?"
+    },
+    {
+      "t": 2407.36,
+      "text": "We should focus on capability enablement, not tool enforcement."
+    },
+    {
+      "t": 2411.56,
+      "text": "Training, coaching, and peer-led knowledge sharing can drive adoption more effectively"
+    },
+    {
+      "t": 2416.24,
+      "text": "than mandates alone."
+    },
+    {
+      "t": 2418.52,
+      "text": "And we need executive sponsorship in each region to reinforce accountability."
+    },
+    {
+      "t": 2424.72,
+      "text": "Tools alone don't change behavior."
+    },
+    {
+      "t": 2427.76,
+      "text": "Leadership does."
+    },
+    {
+      "t": 2429.2,
+      "text": "Agreed."
+    },
+    {
+      "t": 2430.2,
+      "text": "Let's move to financial strategy."
+    },
+    {
+      "t": 2431.92,
+      "text": "Our revenue mix across segments shows stagnation in certain regions."
+    },
+    {
+      "t": 2436.0,
+      "text": "How do we prioritize investment?"
+    },
+    {
+      "t": 2439.11,
+      "text": "Resource allocation should reflect both market potential and strategic importance."
+    },
+    {
+      "t": 2444.05,
+      "text": "High growth segments deserve capital infusion for expansion and innovation."
+    },
+    {
+      "t": 2448.99,
+      "text": "Low growth segments require cost discipline and efficiency programs."
+    },
+    {
+      "t": 2453.83,
+      "text": "But we must also be careful not to starve regions with latent potential."
+    },
+    {
+      "t": 2458.63,
+      "text": "Early stage investments in emerging markets may not show immediate ROI but can yield long-term"
+    },
+    {
+      "t": 2464.51,
+      "text": "competitive advantage? Correct. A balanced portfolio approach is necessary. Short-term"
+    },
+    {
+      "t": 2470.83,
+      "text": "profitability for mature markets, long-term growth for emerging markets, and financial"
+    },
+    {
+      "t": 2476.63,
+      "text": "performance must be linked to operational KPIs. For example, supply chain efficiency,"
+    },
+    {
+      "t": 2482.63,
+      "text": "customer acquisition costs, and innovation pipeline velocity should influence budget"
+    },
+    {
+      "t": 2487.51,
+      "text": "allocation. Talent costs are also a factor. Hiring globally competitive skill sets,"
+    },
+    {
+      "t": 2493.6,
+      "text": "particularly in digital and analytics, is expensive."
+    },
+    {
+      "t": 2497.38,
+      "text": "We need a holistic cost to impact model."
+    },
+    {
+      "t": 2500.72,
+      "text": "Speaking of talent, I've noticed retention risks"
+    },
+    {
+      "t": 2503.68,
+      "text": "in high potential cohorts."
+    },
+    {
+      "t": 2505.48,
+      "text": "Our current engagement programs"
+    },
+    {
+      "t": 2507.28,
+      "text": "don't sufficiently differentiate top performers."
+    },
+    {
+      "t": 2510.52,
+      "text": "Then we need targeted retention strategies,"
+    },
+    {
+      "t": 2513.32,
+      "text": "career acceleration, skill development,"
+    },
+    {
+      "t": 2516.28,
+      "text": "global exposure, and meaningful project ownership."
+    },
+    {
+      "t": 2520.72,
+      "text": "and competitive rewards, but not purely monetary."
+    },
+    {
+      "t": 2523.88,
+      "text": "Recognition, autonomy, and purpose-driven projects"
+    },
+    {
+      "t": 2527.12,
+      "text": "can be more motivating for high performers."
+    },
+    {
+      "t": 2530.18,
+      "text": "Moving to risk management."
+    },
+    {
+      "t": 2532.14,
+      "text": "Geopolitical shifts and supply chain vulnerabilities"
+    },
+    {
+      "t": 2535.3,
+      "text": "are increasingly material."
+    },
+    {
+      "t": 2537.54,
+      "text": "How do we future-proof?"
+    },
+    {
+      "t": 2539.86,
+      "text": "Risk mapping must be continuous and predictive."
+    },
+    {
+      "t": 2543.02,
+      "text": "Advanced scenario planning,"
+    },
+    {
+      "t": 2544.66,
+      "text": "geopolitical intelligence,"
+    },
+    {
+      "t": 2546.38,
+      "text": "and supply chain diversification are key levers."
+    },
+    {
+      "t": 2550.1,
+      "text": "Cyber security is also critical."
+    },
+    {
+      "t": 2552.54,
+      "text": "Digital integration increases exposure."
+    },
+    {
+      "t": 2555.62,
+      "text": "Are we confident our systems are resilient enough?"
+    },
+    {
+      "t": 2559.14,
+      "text": "We've strengthened infrastructure, but security is dynamic."
+    },
+    {
+      "t": 2562.54,
+      "text": "Regular penetration testing, AI-driven threat detection,"
+    },
+    {
+      "t": 2566.14,
+      "text": "and employee awareness programs"
+    },
+    {
+      "t": 2568.06,
+      "text": "must remain ongoing priorities."
+    },
+    {
+      "t": 2570.96,
+      "text": "Returning to market strategy,"
+    },
+    {
+      "t": 2572.72,
+      "text": "I'd like to explore portfolio rationalization."
+    },
+    {
+      "t": 2576.18,
+      "text": "Are there non-core assets we should divest"
+    },
+    {
+      "t": 2579.12,
+      "text": "to fund strategic growth?"
+    },
+    {
+      "t": 2581.41,
+      "text": "Certainly."
+    },
+    {
+      "t": 2582.29,
+      "text": "Non-core businesses that deliver low returns"
+    },
+    {
+      "t": 2585.09,
+      "text": "or no longer align with strategic pillars"
+    },
+    {
+      "t": 2587.53,
+      "text": "should be reviewed."
+    },
+    {
+      "t": 2588.97,
+      "text": "Divestment can free capital and management"
+    },
+    {
+      "t": 2591.37,
+      "text": "attention for higher impact areas."
+    },
+    {
+      "t": 2594.24,
+      "text": "How do we approach integration across regions?"
+    },
+    {
+      "t": 2597.56,
+      "text": "Some markets adopt best practices quickly, others lag."
+    },
+    {
+      "t": 2602.04,
+      "text": "Integration requires structured knowledge transfer,"
+    },
+    {
+      "t": 2605.24,
+      "text": "mentoring, and process standardization."
+    },
+    {
+      "t": 2607.92,
+      "text": "We should document lessons learned in high-performing regions and replicate them globally."
+    },
+    {
+      "t": 2613.65,
+      "text": "On innovation, I want us to be clear on balancing incremental versus disruptive projects."
+    },
+    {
+      "t": 2620.07,
+      "text": "Too much focus on the former leads to stagnation."
+    },
+    {
+      "t": 2623.73,
+      "text": "Too much on the latter risks overextending."
+    },
+    {
+      "t": 2626.57,
+      "text": "Picking up from culture, we need to ensure our values are embedded in daily operations,"
+    },
+    {
+      "t": 2633.29,
+      "text": "not just statements on the intranet."
+    },
+    {
+      "t": 2635.81,
+      "text": "How do we operationalize this?"
+    },
+    {
+      "t": 2639.11,
+      "text": "Metrics are essential."
+    },
+    {
+      "t": 2640.81,
+      "text": "We can measure collaboration through cross-functional projects, innovation through idea submission"
+    },
+    {
+      "t": 2646.77,
+      "text": "rates and execution, and accountability through milestone adherence."
+    },
+    {
+      "t": 2652.03,
+      "text": "And leadership visibility reinforces these metrics."
+    },
+    {
+      "t": 2656.03,
+      "text": "When senior leaders actively model the behaviors, it cascades throughout the organization."
+    },
+    {
+      "t": 2663.07,
+      "text": "On the topic of transformation, digital adoption remains uneven."
+    },
+    {
+      "t": 2668.49,
+      "text": "We should develop a standardized adoption roadmap across regions, incorporating training,"
+    },
+    {
+      "t": 2674.37,
+      "text": "mentoring, and executive sponsorship."
+    },
+    {
+      "t": 2677.61,
+      "text": "Agreed."
+    },
+    {
+      "t": 2678.61,
+      "text": "Tools alone aren't sufficient."
+    },
+    {
+      "t": 2681.61,
+      "text": "Change management programs must accompany system rollouts to embed behaviors."
+    },
+    {
+      "t": 2687.45,
+      "text": "Let's examine operational efficiency."
+    },
+    {
+      "t": 2691.01,
+      "text": "The fly chain digitization is progressing, but predictive analytics adoption lags."
+    },
+    {
+      "t": 2696.67,
+      "text": "How do we accelerate this?"
+    },
+    {
+      "t": 2698.97,
+      "text": "Prioritize high impact nodes first, warehouses, transportation hubs, and inventory heavy regions."
+    },
+    {
+      "t": 2707.41,
+      "text": "Use predictive models to optimize stock levels, route planning, and demand forecasting."
+    },
+    {
+      "t": 2714.29,
+      "text": "And then scale to secondary regions."
+    },
+    {
+      "t": 2717.25,
+      "text": "We should ensure the system is flexible to accommodate local constraints while maintaining"
+    },
+    {
+      "t": 2722.37,
+      "text": "global standards."
+    },
+    {
+      "t": 2724.73,
+      "text": "Speaking of scaling, talent development must mirror operational expansion."
+    },
+    {
+      "t": 2730.99,
+      "text": "If we implement advanced analytics in one region, local teams must have the skills"
+    },
+    {
+      "t": 2736.63,
+      "text": "to leverage insights."
+    },
+    {
+      "t": 2738.73,
+      "text": "Exactly."
+    },
+    {
+      "t": 2740.43,
+      "text": "That ties into our learning and development strategy."
+    },
+    {
+      "t": 2743.85,
+      "text": "Mean modules should be role-specific and include simulations for real-world application."
+    },
+    {
+      "t": 2749.89,
+      "text": "We also need to consider retention of newly trained employees."
+    },
+    {
+      "t": 2754.75,
+      "text": "High-skill talent is mobile."
+    },
+    {
+      "t": 2757.01,
+      "text": "Engagement, career pathways, and project ownership are critical."
+    },
+    {
+      "t": 2762.37,
+      "text": "Switching to innovation."
+    },
+    {
+      "t": 2764.33,
+      "text": "We discussed portfolio balance."
+    },
+    {
+      "t": 2767.33,
+      "text": "Incremental innovation is easy to track, but how do we measure exploratory or disruptive"
+    },
+    {
+      "t": 2772.89,
+      "text": "initiatives. Use milestone-based evaluation. Track hypothesis validation, prototype completion,"
+    },
+    {
+      "t": 2781.77,
+      "text": "market testing, and early adoption metrics. ROI is longer term, but structured evaluation"
+    },
+    {
+      "t": 2789.21,
+      "text": "prevents runaway costs. And for disruptive projects, cross-functional mentorship is essential."
+    },
+    {
+      "t": 2796.73,
+      "text": "Teams often lack diverse perspectives, which can limit creativity or risk assessment."
+    },
+    {
+      "t": 2801.53,
+      "text": "Partnerships can help too. Collaboration with universities, startups, and research labs accelerates"
+    },
+    {
+      "t": 2809.21,
+      "text": "learning and reduces experimentation risk."
+    },
+    {
+      "t": 2813.25,
+      "text": "Now, financial oversight. Our global operations involve diverse currencies, tax regimes, and"
+    },
+    {
+      "t": 2820.41,
+      "text": "regulatory frameworks. How do we ensure consistent financial discipline?"
+    },
+    {
+      "t": 2826.09,
+      "text": "Standardized financial KPIs, consolidated reporting and routine audits are crucial."
+    },
+    {
+      "t": 2832.77,
+      "text": "Transparency and timeliness of reporting allow leadership to intervene before variances"
+    },
+    {
+      "t": 2838.97,
+      "text": "become critical."
+    },
+    {
+      "t": 2841.29,
+      "text": "Cimmerio modeling also helps."
+    },
+    {
+      "t": 2843.45,
+      "text": "Running simulations for different macroeconomic conditions, currency fluctuations or supply"
+    },
+    {
+      "t": 2848.89,
+      "text": "shocks enables proactive planning."
+    },
+    {
+      "t": 2852.25,
+      "text": "and integrating predictive analytics into our financial models improves accuracy and decision confidence."
+    },
+    {
+      "t": 2860.25,
+      "text": "On ESG again, compliance reporting is necessary but insufficient. How do we make ESG outcomes measurable and tied to performance incentives?"
+    },
+    {
+      "t": 2872.25,
+      "text": "Define specific, quantifiable ESG targets, carbon reduction percentages, supplier diversity"
+    },
+    {
+      "t": 2880.41,
+      "text": "metrics, community investment and safety compliance rates. Link a portion of leadership"
+    },
+    {
+      "t": 2886.37,
+      "text": "and operational bonuses to these outcomes. And reporting must be transparent. Internal"
+    },
+    {
+      "t": 2892.93,
+      "text": "dashboards and external disclosures should reflect progress accurately. This builds"
+    },
+    {
+      "t": 2898.21,
+      "text": "trust with stakeholders and investors."
+    },
+    {
+      "t": 2900.69,
+      "text": "Speaking of customer experience, AI adoption for personalization is growing, but human"
+    },
+    {
+      "t": 2907.33,
+      "text": "touch remains vital."
+    },
+    {
+      "t": 2909.39,
+      "text": "How do we balance automation with empathy?"
+    },
+    {
+      "t": 2912.69,
+      "text": "We segment customer interactions."
+    },
+    {
+      "t": 2915.41,
+      "text": "Routine queries can be automated, complex, high-impact, or emotionally sensitive interactions"
+    },
+    {
+      "t": 2921.57,
+      "text": "require human engagement."
+    },
+    {
+      "t": 2923.89,
+      "text": "Additionally, AI can provide decision support to human agents, real-time recommendations,"
+    },
+    {
+      "t": 2930.73,
+      "text": "predictive next best actions, and sentiment analysis."
+    },
+    {
+      "t": 2935.97,
+      "text": "Training customer-facing employees to interpret AI insights effectively ensures they act"
+    },
+    {
+      "t": 2941.35,
+      "text": "with context, enhancing both efficiency and experience."
+    },
+    {
+      "t": 2946.77,
+      "text": "Data privacy must be embedded too."
+    },
+    {
+      "t": 2950.05,
+      "text": "Most experiences require trust, which depends on secure handling of customer information."
+    },
+    {
+      "t": 2956.97,
+      "text": "On global growth strategy, we previously discussed market prioritization."
+    },
+    {
+      "t": 2962.69,
+      "text": "Should we accelerate entry into emerging economies now or adopt a phased approach?"
+    },
+    {
+      "t": 2968.33,
+      "text": "A phased approach is prudent."
+    },
+    {
+      "t": 2970.77,
+      "text": "Pilot high potential markets first, validate models, refine go-to-market strategies,"
+    },
+    {
+      "t": 2976.89,
+      "text": "then scale systematically."
+    },
+    {
+      "t": 2979.46,
+      "text": "But we should maintain visibility on all markets."
+    },
+    {
+      "t": 2982.98,
+      "text": "Real-time dashboards on market performance, customer adoption, and competitive intelligence"
+    },
+    {
+      "t": 2988.3,
+      "text": "allow agile decision-making."
+    },
+    {
+      "t": 2990.98,
+      "text": "Speaking of scaling, AI integration into business processes must be continuous."
+    },
+    {
+      "t": 2997.3,
+      "text": "Predictive analytics, generative AI, and automated reporting can unlock efficiency if aligned"
+    },
+    {
+      "t": 3004.46,
+      "text": "with strategic objectives."
+    },
+    {
+      "t": 3006.94,
+      "text": "And adoption should be coupled with capability development."
+    },
+    {
+      "t": 3010.94,
+      "text": "Employees need to understand how to interpret AI outputs and make decisions accordingly."
+    },
+    {
+      "t": 3016.46,
+      "text": "Agreed."
+    },
+    {
+      "t": 3017.98,
+      "text": "Leadership must also champion AI usage."
+    },
+    {
+      "t": 3021.26,
+      "text": "Without executive buy-in, adoption is uneven and inconsistent."
+    },
+    {
+      "t": 3026.66,
+      "text": "Regarding risk management, geopolitical volatility, cyber threats, and operational disruptions"
+    },
+    {
+      "t": 3032.62,
+      "text": "remain key concerns, how do we institutionalize resilience?"
+    },
+    {
+      "t": 3037.9,
+      "text": "Multilayered risk frameworks are required. Scenario planning, predictive modeling, business"
+    },
+    {
+      "t": 3043.74,
+      "text": "continuity protocols, and regular stress tests build organizational resilience."
+    },
+    {
+      "t": 3050.62,
+      "text": "Supply chain diversification is central. Overreliance on single suppliers or geographies increases"
+    },
+    {
+      "t": 3057.66,
+      "text": "vulnerability. Cyber security must be proactive. AI-driven threat detection,"
+    },
+    {
+      "t": 3063.66,
+      "text": "regular audits, employee training, and incident response protocols create a"
+    },
+    {
+      "t": 3069.5,
+      "text": "secure environment. Talent risk is another dimension. High potential employees"
+    },
+    {
+      "t": 3074.94,
+      "text": "may leave or skill gaps may emerge in critical areas. Continuous learning"
+    },
+    {
+      "t": 3080.14,
+      "text": "and retention strategies mitigate this. Let's consolidate transformation"
+    },
+    {
+      "t": 3085.46,
+      "text": "initiatives. We have digital adoption, supply chain optimization, talent development, innovation"
+    },
+    {
+      "t": 3093.3,
+      "text": "governance, ESG integration, customer experience enhancement, market expansion, financial"
+    },
+    {
+      "t": 3100.5,
+      "text": "discipline, and risk resilience. Each initiative requires a detailed roadmap,"
+    },
+    {
+      "t": 3107.26,
+      "text": "milestones, responsible owners, budgets, timelines, KPIs, and escalation protocols."
+    },
+    {
+      "t": 3115.66,
+      "text": "And cross-functional coordination."
+    },
+    {
+      "t": 3118.42,
+      "text": "Many initiatives intersect."
+    },
+    {
+      "t": 3120.78,
+      "text": "Alignment is critical to avoid duplication or conflict."
+    },
+    {
+      "t": 3125.9,
+      "text": "Communication is key too."
+    },
+    {
+      "t": 3127.94,
+      "text": "Clear articulation of objectives, expected behaviors, and success criteria ensures"
+    },
+    {
+      "t": 3133.1,
+      "text": "alignment across geographies and functions."
+    },
+    {
+      "t": 3136.98,
+      "text": "Forms should be regular, quarterly strategy reviews, monthly operational reviews, and"
+    },
+    {
+      "t": 3142.84,
+      "text": "weekly check-ins for critical initiatives."
+    },
+    {
+      "t": 3146.18,
+      "text": "And we need a feedback mechanism."
+    },
+    {
+      "t": 3148.9,
+      "text": "Employees and managers should have channels to report challenges, insights, and suggestions"
+    },
+    {
+      "t": 3154.42,
+      "text": "to continuously refine the plan."
+    },
+    {
+      "t": 3157.06,
+      "text": "Metrics should be both leading and lagging."
+    },
+    {
+      "t": 3160.26,
+      "text": "Leading indicators, adoption rates, training completion, project milestones predict success,"
+    },
+    {
+      "t": 3166.94,
+      "text": "While lagging indicators, financial results, market share, customer satisfaction, validate"
+    },
+    {
+      "t": 3173.02,
+      "text": "outcomes."
+    },
+    {
+      "t": 3174.02,
+      "text": "Let's address innovation again."
+    },
+    {
+      "t": 3177.66,
+      "text": "Incremental versus disruptive innovation must be managed as a portfolio."
+    },
+    {
+      "t": 3182.54,
+      "text": "Resource allocation should be dynamic based on validation, feasibility, and strategic"
+    },
+    {
+      "t": 3187.7,
+      "text": "importance."
+    },
+    {
+      "t": 3188.94,
+      "text": "Rapid prototyping and iterative testing reduce risk."
+    },
+    {
+      "t": 3193.38,
+      "text": "All scale pilots allow learning and scalability before full-scale investment."
+    },
+    {
+      "t": 3199.3,
+      "text": "We should create innovation hubs in key regions."
+    },
+    {
+      "t": 3202.9,
+      "text": "These hubs serve as centers of excellence for AI, advanced analytics, and customer experience"
+    },
+    {
+      "t": 3208.58,
+      "text": "experimentation."
+    },
+    {
+      "t": 3211.02,
+      "text": "Collaboration with external partners, startups, academia, and technology providers enhances"
+    },
+    {
+      "t": 3216.62,
+      "text": "capabilities and accelerates learning."
+    },
+    {
+      "t": 3219.82,
+      "text": "Returning to talent, succession planning and skill development are central."
+    },
+    {
+      "t": 3225.48,
+      "text": "High potential employees should have visibility on career pathways and be included in cross-functional"
+    },
+    {
+      "t": 3231.36,
+      "text": "strategic projects."
+    },
+    {
+      "t": 3233.76,
+      "text": "Mentorship and sponsorship programs reinforce development."
+    },
+    {
+      "t": 3237.88,
+      "text": "Leaders must actively guide successors, provide exposure, and challenge them with"
+    },
+    {
+      "t": 3243.08,
+      "text": "complex assignments."
+    },
+    {
+      "t": 3245.28,
+      "text": "In financial oversight, portfolio rationalization and resource allocation must align with strategic"
+    },
+    {
+      "t": 3251.56,
+      "text": "priorities."
+    },
+    {
+      "t": 3252.64,
+      "text": "Capital, talent and technology should flow toward initiatives that maximize long-term"
+    },
+    {
+      "t": 3258.72,
+      "text": "impact."
+    },
+    {
+      "t": 3259.72,
+      "text": "Performance dashboards, scenario modeling and ROI tracking ensure disciplined execution"
+    },
+    {
+      "t": 3266.36,
+      "text": "and adaptive strategy adjustments."
+    },
+    {
+      "t": 3269.24,
+      "text": "ESG initiatives, customer experience, and operational resilience are not just compliance or marketing goals,"
+    },
+    {
+      "t": 3276.54,
+      "text": "they are core to sustaining competitive advantage."
+    },
+    {
+      "t": 3279.74,
+      "text": "Indeed. They must..."
+    },
+    {
+      "t": 3281.34,
+      "text": "As we scale digital initiatives, integration across legacy systems and cloud platforms remains a challenge."
+    },
+    {
+      "t": 3289.24,
+      "text": "How do we ensure seamless interoperability?"
+    },
+    {
+      "t": 3292.74,
+      "text": "Standardization is key."
+    },
+    {
+      "t": 3295.74,
+      "text": "Defining APIs, data formats, and protocols up front reduces friction."
+    },
+    {
+      "t": 3302.74,
+      "text": "We also need a governance layer to monitor integrations continuously."
+    },
+    {
+      "t": 3308.74,
+      "text": "And robust change management."
+    },
+    {
+      "t": 3311.74,
+      "text": "Teams must be trained to understand dependencies and the impact of modifications in one system on others."
+    },
+    {
+      "t": 3319.74,
+      "text": "Exactly. On AI adoption, one issue is decision accountability. How do we ensure human leaders"
+    },
+    {
+      "t": 3329.42,
+      "text": "remain responsible even when AI supports decision making?"
+    },
+    {
+      "t": 3335.69,
+      "text": "Clear ownership of decisions. AI provides insights, but humans interpret, validate,"
+    },
+    {
+      "t": 3342.65,
+      "text": "and act. Documentation of AI recommendations and rationale strengthens accountability."
+    },
+    {
+      "t": 3348.89,
+      "text": "Regarding performance metrics, should we introduce AI specific KPIs or integrate AI outcomes into"
+    },
+    {
+      "t": 3359.25,
+      "text": "existing operational KPIs? Both. Operational KPIs remain, but we add AI adoption metrics,"
+    },
+    {
+      "t": 3368.53,
+      "text": "accuracy of predictions, usage frequency, decision latency, and impact on outcomes."
+    },
+    {
+      "t": 3375.69,
+      "text": "Talent readiness is another concern. Employees need skills in AI interpretation,"
+    },
+    {
+      "t": 3382.69,
+      "text": "data literacy, and ethical considerations. How do we upskill effectively?"
+    },
+    {
+      "t": 3389.69,
+      "text": "Multilayered learning, e-learning for fundamentals, workshops for applied, and mentorship programs for ongoing support."
+    },
+    {
+      "t": 3398.69,
+      "text": "Simulations help employees see real impact."
+    },
+    {
+      "t": 3403.69,
+      "text": "On cross-functional collaboration, AI often breaks traditional silos."
+    },
+    {
+      "t": 3410.69,
+      "text": "How do we foster coordination between departments?"
+    },
+    {
+      "t": 3414.75,
+      "text": "Incentive alignment, reward collaboration, shared outcomes, and joint problem solving."
+    },
+    {
+      "t": 3422.75,
+      "text": "Leadership reinforcement is crucial to signal that collaboration is non-negotiable."
+    },
+    {
+      "t": 3427.75,
+      "text": "For global operations, localization of AI solutions is important."
+    },
+    {
+      "t": 3434.75,
+      "text": "Models trained in one region may not generalize globally."
+    },
+    {
+      "t": 3439.75,
+      "text": "Correct. Data diversity and local validation are essential."
+    },
+    {
+      "t": 3444.75,
+      "text": "We must adapt algorithms to account for regional market behavior, language and culture."
+    },
+    {
+      "t": 3450.75,
+      "text": "Shifting to innovation governance, how do we balance exploratory AI initiatives with core"
+    },
+    {
+      "t": 3459.64,
+      "text": "business efficiency?"
+    },
+    {
+      "t": 3461.4,
+      "text": "Portfolio management categorize projects as core, adjacent, or transformative."
+    },
+    {
+      "t": 3468.47,
+      "text": "Allocate resources proportionally, monitor progress, and allow rapid pivoting if hypotheses fail."
+    },
+    {
+      "t": 3475.87,
+      "text": "And maintain a culture that tolerates intelligent risk-taking. Teams must feel"
+    },
+    {
+      "t": 3483.69,
+      "text": "safe to experiment and learn from failures. On customer engagement, predictive AI"
+    },
+    {
+      "t": 3491.01,
+      "text": "enables hyper personalization, but overreliance may feel intrusive. How do"
+    },
+    {
+      "t": 3497.29,
+      "text": "we maintain trust? Transparency. Customers should understand what data is"
+    },
+    {
+      "t": 3503.89,
+      "text": "used and why. Consent mechanisms and clear privacy policies are vital balance"
+    },
+    {
+      "t": 3511.56,
+      "text": "efficiency with empathy. Supply chain digitization continues to be a focus"
+    },
+    {
+      "t": 3517.75,
+      "text": "predictive analytics can prevent bottlenecks but real-time visibility is"
+    },
+    {
+      "t": 3522.83,
+      "text": "critical. IoT sensors RFID tracking and AI driven alerts enable proactive"
+    },
+    {
+      "t": 3531.47,
+      "text": "interventions. Coupled with scenario planning, we can mitigate delays and cost"
+    },
+    {
+      "t": 3538.01,
+      "text": "overruns. Talent deployment is essential. Skilled professionals must interpret AI"
+    },
+    {
+      "t": 3544.71,
+      "text": "driven recommendations for procurement, logistics, and inventory management."
+    },
+    {
+      "t": 3550.79,
+      "text": "Finance remains complex with AI generated forecasting. How do we ensure models"
+    },
+    {
+      "t": 3558.16,
+      "text": "Reflect market realities."
+    },
+    {
+      "t": 3562.1,
+      "text": "Continuous monitoring and recalibration."
+    },
+    {
+      "t": 3565.08,
+      "text": "Human judgment must validate model assumptions."
+    },
+    {
+      "t": 3568.76,
+      "text": "Stress testing under multiple economic scenarios ensures robustness."
+    },
+    {
+      "t": 3574.32,
+      "text": "ESG remains a strategic imperative."
+    },
+    {
+      "t": 3578.04,
+      "text": "AI contracts sustainability metrics, but how do we link outcomes to leadership performance?"
+    },
+    {
+      "t": 3586.46,
+      "text": "Great ESG metrics into executive KPIs."
+    },
+    {
+      "t": 3590.52,
+      "text": "Track carbon reductions, supplier compliance, and diversity targets."
+    },
+    {
+      "t": 3596.02,
+      "text": "Link bonuses to measurable improvements."
+    },
+    {
+      "t": 3600.0,
+      "text": "On organizational learning, AI can accelerate decision making by surfacing insights faster."
+    },
+    {
+      "t": 3608.66,
+      "text": "How do we prevent bias in interpretation?"
+    },
+    {
+      "t": 3613.02,
+      "text": "decision-making teams, algorithm audits, and scenario testing reduce bias."
+    },
+    {
+      "t": 3619.76,
+      "text": "Encouraging critical thinking alongside AI insights is essential."
+    },
+    {
+      "t": 3625.8,
+      "text": "Digital transformation is continuous."
+    },
+    {
+      "t": 3629.84,
+      "text": "How do we sustain momentum across regions with varying maturity levels?"
+    },
+    {
+      "t": 3636.35,
+      "text": "Phased adoption, centralized support, and regional champions."
+    },
+    {
+      "t": 3641.67,
+      "text": "adoption and impact, and adjust strategies based on local feedback."
+    },
+    {
+      "t": 3648.19,
+      "text": "On innovation culture, AI tools enable rapid prototyping."
+    },
+    {
+      "t": 3653.71,
+      "text": "How do we evaluate ideas systematically?"
+    },
+    {
+      "t": 3658.14,
+      "text": "Define clear criteria, market potential, strategic alignment, technical feasibility,"
+    },
+    {
+      "t": 3664.78,
+      "text": "and scalability."
+    },
+    {
+      "t": 3666.62,
+      "text": "Use stage gate reviews to monitor progress."
+    },
+    {
+      "t": 3670.62,
+      "text": "retention is another dimension. High-performing employees expect exposure to strategic initiatives."
+    },
+    {
+      "t": 3679.58,
+      "text": "AI projects must include opportunities for growth. Rotational assignments, mentorship,"
+    },
+    {
+      "t": 3687.1,
+      "text": "and involvement in high-impact initiatives help retain top talent."
+    },
+    {
+      "t": 3692.49,
+      "text": "Let's address cybersecurity. AI enables detection of anomalies and proactive response,"
+    },
+    {
+      "t": 3700.41,
+      "text": "but are we prepared for AI-driven attacks?"
+    },
+    {
+      "t": 3704.65,
+      "text": "Multi-layered defense, real-time monitoring,"
+    },
+    {
+      "t": 3708.17,
+      "text": "AI-assisted threat detection, employee training,"
+    },
+    {
+      "t": 3711.93,
+      "text": "and regular audits. Simulation exercises improve readiness."
+    },
+    {
+      "t": 3717.08,
+      "text": "For customer experience, AI can predict, churn, and optimize engagement,"
+    },
+    {
+      "t": 3723.16,
+      "text": "but how do we act on these predictions without alienating customers?"
+    },
+    {
+      "t": 3729.08,
+      "text": "personalized, non-intrusive interventions, offer solutions or recommendations that add value."
+    },
+    {
+      "t": 3735.96,
+      "text": "Human oversight ensures empathy is preserved. On leadership development, future ready executives"
+    },
+    {
+      "t": 3744.48,
+      "text": "must be fluent in digital, AI, and data-driven decision making. How do we structure learning"
+    },
+    {
+      "t": 3752.72,
+      "text": "paths. Executive boot camps, peer learning, and hands-on AI projects. Leadership KPI's"
+    },
+    {
+      "t": 3760.64,
+      "text": "should include digital fluency, AI adoption, and cross-functional collaboration. Global"
+    },
+    {
+      "t": 3767.92,
+      "text": "expansion strategy must be agile. AI-driven market intelligence helps, but human judgment"
+    },
+    {
+      "t": 3776.32,
+      "text": "remains critical for entry decisions."
+    },
+    {
+      "t": 3779.84,
+      "text": "Combine predictive models with local insights."
+    },
+    {
+      "t": 3783.16,
+      "text": "Pilot programs provide validation before scaling."
+    },
+    {
+      "t": 3787.2,
+      "text": "Pause."
+    },
+    {
+      "t": 3788.16,
+      "text": "Continuous feedback loops are vital for adaptive strategy."
+    },
+    {
+      "t": 3792.72,
+      "text": "On innovation, AI-powered simulations accelerate R&D."
+    },
+    {
+      "t": 3798.52,
+      "text": "How do we integrate insights into operational workflows?"
+    },
+    {
+      "t": 3803.52,
+      "text": "Embed AI outputs into decision-making dashboards,"
+    },
+    {
+      "t": 3807.88,
+      "text": "tie recommendations to business processes,"
+    },
+    {
+      "t": 3810.96,
+      "text": "and monitor outcomes for continuous improvement."
+    },
+    {
+      "t": 3814.9,
+      "text": "Talent upskilling should be ongoing."
+    },
+    {
+      "t": 3818.46,
+      "text": "AI models evolve, employees must evolve with them."
+    },
+    {
+      "t": 3823.93,
+      "text": "Subscription learning, internal AI academies,"
+    },
+    {
+      "t": 3827.43,
+      "text": "and project-based learning ensure skills stay current."
+    },
+    {
+      "t": 3831.63,
+      "text": "pause, retention incentives linked to skill acquisition,"
+    },
+    {
+      "t": 3835.51,
+      "text": "reinforce adoption."
+    },
+    {
+      "t": 3837.81,
+      "text": "For finance, AI-driven scenario planning"
+    },
+    {
+      "t": 3841.49,
+      "text": "enables proactive risk mitigation."
+    },
+    {
+      "t": 3844.37,
+      "text": "How do we ensure executive trust in models?"
+    },
+    {
+      "t": 3848.33,
+      "text": "Transparency, explainability, and consistent results."
+    },
+    {
+      "t": 3853.25,
+      "text": "Human validation and periodic recalibration"
+    },
+    {
+      "t": 3856.69,
+      "text": "maintain confidence."
+    },
+    {
+      "t": 3859.05,
+      "text": "Supply chain resilience requires predictive insights and contingency planning."
+    },
+    {
+      "t": 3865.61,
+      "text": "AI identifies risks, but teams must act decisively."
+    },
+    {
+      "t": 3871.74,
+      "text": "Decentralized decision authority, clear escalation paths,"
+    },
+    {
+      "t": 3876.62,
+      "text": "and scenario-based simulations strengthen operational resilience."
+    },
+    {
+      "t": 3881.98,
+      "text": "Pause."
+    },
+    {
+      "t": 3882.38,
+      "text": "On customer engagement, hyper personalization should not compromise brand consistency."
+    },
+    {
+      "t": 3891.53,
+      "text": "How do we maintain alignment?"
+    },
+    {
+      "t": 3894.73,
+      "text": "Standardized brand guidelines, automated compliance checks, and AI moderation tools ensure recommendations"
+    },
+    {
+      "t": 3902.33,
+      "text": "align with brand voice."
+    },
+    {
+      "t": 3904.73,
+      "text": "ESG goals must be measurable and auditable."
+    },
+    {
+      "t": 3909.45,
+      "text": "AI can provide insights, but ownership must reside with accountable leaders."
+    },
+    {
+      "t": 3916.45,
+      "text": "Agreed. Incorporate ESG dashboards into Executive Reporting and link performance incentives to measurable improvements."
+    },
+    {
+      "t": 3925.45,
+      "text": "Pause."
+    },
+    {
+      "t": 3927.45,
+      "text": "Cross-functional collaboration ensures AI-driven insights translate to action."
+    },
+    {
+      "t": 3933.45,
+      "text": "Incentives. Transparency."
+    }
+  ],
+  "lemmas": [
+    [
+      "ai",
+      74
+    ],
+    [
+      "need",
+      64
+    ],
+    [
+      "market",
+      32
+    ],
+    [
+      "operational",
+      28
+    ],
+    [
+      "innovation",
+      28
+    ],
+    [
+      "skill",
+      26
+    ],
+    [
+      "risk",
+      26
+    ],
+    [
+      "customer",
+      24
+    ],
+    [
+      "leadership",
+      23
+    ],
+    [
+      "plan",
+      21
+    ],
+    [
+      "strategic",
+      21
+    ],
+    [
+      "exactly",
+      20
+    ],
+    [
+      "team",
+      20
+    ],
+    [
+      "talent",
+      20
+    ],
+    [
+      "learn",
+      19
+    ],
+    [
+      "employe",
+      19
+    ],
+    [
+      "insight",
+      19
+    ],
+    [
+      "supply",
+      19
+    ],
+    [
+      "adoption",
+      19
+    ],
+    [
+      "decision",
+      18
+    ],
+    [
+      "cost",
+      18
+    ],
+    [
+      "chain",
+      18
+    ],
+    [
+      "model",
+      18
+    ],
+    [
+      "region",
+      18
+    ],
+    [
+      "critical",
+      17
+    ],
+    [
+      "one",
+      17
+    ],
+    [
+      "also",
+      17
+    ],
+    [
+      "global",
+      17
+    ],
+    [
+      "tool",
+      16
+    ],
+    [
+      "data",
+      16
+    ],
+    [
+      "agre",
+      16
+    ],
+    [
+      "alignment",
+      16
+    ],
+    [
+      "digital",
+      16
+    ],
+    [
+      "professional",
+      15
+    ],
+    [
+      "communication",
+      15
+    ],
+    [
+      "performance",
+      15
+    ],
+    [
+      "feel",
+      15
+    ],
+    [
+      "growth",
+      15
+    ],
+    [
+      "esg",
+      15
+    ],
+    [
+      "train",
+      14
+    ],
+    [
+      "initiativ",
+      14
+    ],
+    [
+      "us",
+      14
+    ],
+    [
+      "process",
+      14
+    ],
+    [
+      "weve",
+      14
+    ],
+    [
+      "predictive",
+      14
+    ],
+    [
+      "business",
+      13
+    ],
+    [
+      "understand",
+      13
+    ],
+    [
+      "without",
+      13
+    ],
+    [
+      "want",
+      13
+    ],
+    [
+      "project",
+      13
+    ],
+    [
+      "analytic",
+      13
+    ],
+    [
+      "program",
+      13
+    ],
+    [
+      "efficiency",
+      13
+    ],
+    [
+      "strategy",
+      13
+    ],
+    [
+      "kpis",
+      13
+    ],
+    [
+      "forecast",
+      13
+    ],
+    [
+      "leader",
+      13
+    ],
+    [
+      "essential",
+      12
+    ],
+    [
+      "collaboration",
+      12
+    ],
+    [
+      "think",
+      12
+    ],
+    [
+      "clear",
+      12
+    ],
+    [
+      "financial",
+      12
+    ],
+    [
+      "scenario",
+      12
+    ],
+    [
+      "metric",
+      12
+    ],
+    [
+      "integration",
+      12
+    ],
+    [
+      "becom",
+      11
+    ],
+    [
+      "system",
+      11
+    ],
+    [
+      "remain",
+      11
+    ],
+    [
+      "human",
+      11
+    ],
+    [
+      "potential",
+      11
+    ],
+    [
+      "direction",
+      11
+    ],
+    [
+      "align",
+      11
+    ],
+    [
+      "development",
+      11
+    ],
+    [
+      "operation",
+      11
+    ],
+    [
+      "across",
+      11
+    ],
+    [
+      "future",
+      10
+    ],
+    [
+      "help",
+      10
+    ],
+    [
+      "report",
+      10
+    ],
+    [
+      "mean",
+      10
+    ],
+    [
+      "key",
+      10
+    ],
+    [
+      "good",
+      10
+    ],
+    [
+      "shift",
+      10
+    ],
+    [
+      "support",
+      10
+    ],
+    [
+      "management",
+      10
+    ],
+    [
+      "accountability",
+      10
+    ],
+    [
+      "cross-functional",
+      10
+    ],
+    [
+      "test",
+      10
+    ],
+    [
+      "experience",
+      10
+    ],
+    [
+      "regional",
+      10
+    ],
+    [
+      "pillar",
+      10
+    ],
+    [
+      "ensure",
+      10
+    ],
+    [
+      "core",
+      9
+    ],
+    [
+      "ensur",
+      9
+    ],
+    [
+      "continuous",
+      9
+    ],
+    [
+      "person",
+      9
+    ],
+    [
+      "technology",
+      9
+    ],
+    [
+      "morale",
+      9
+    ],
+    [
+      "excellence",
+      9
+    ],
+    [
+      "first",
+      9
+    ],
+    [
+      "high",
+      9
+    ],
+    [
+      "behavior",
+      9
+    ],
+    [
+      "capability",
+      9
+    ],
+    [
+      "impact",
+      9
+    ],
+    [
+      "outcom",
+      9
+    ],
+    [
+      "focus",
+      8
+    ],
+    [
+      "review",
+      8
+    ],
+    [
+      "another",
+      8
+    ],
+    [
+      "even",
+      8
+    ],
+    [
+      "organization",
+      8
+    ],
+    [
+      "real-time",
+      8
+    ],
+    [
+      "lead",
+      8
+    ],
+    [
+      "strengthen",
+      8
+    ],
+    [
+      "clarity",
+      8
+    ],
+    [
+      "discipline",
+      8
+    ],
+    [
+      "move",
+      8
+    ],
+    [
+      "ownership",
+      8
+    ],
+    [
+      "competitive",
+      8
+    ],
+    [
+      "transformation",
+      8
+    ],
+    [
+      "local",
+      8
+    ],
+    [
+      "maintain",
+      8
+    ],
+    [
+      "executive",
+      8
+    ],
+    [
+      "simulation",
+      8
+    ],
+    [
+      "work",
+      7
+    ],
+    [
+      "important",
+      7
+    ],
+    [
+      "transparency",
+      7
+    ],
+    [
+      "compliance",
+      7
+    ],
+    [
+      "go",
+      7
+    ],
+    [
+      "change",
+      7
+    ],
+    [
+      "ai-driven",
+      7
+    ],
+    [
+      "see",
+      7
+    ],
+    [
+      "talk",
+      7
+    ],
+    [
+      "internal",
+      7
+    ],
+    [
+      "engagement",
+      7
+    ],
+    [
+      "logistic",
+      7
+    ],
+    [
+      "next",
+      7
+    ],
+    [
+      "execution",
+      7
+    ],
+    [
+      "inconsistent",
+      7
+    ],
+    [
+      "decision-mak",
+      7
+    ],
+    [
+      "improvement",
+      7
+    ],
+    [
+      "scale",
+      7
+    ],
+    [
+      "still",
+      7
+    ],
+    [
+      "portfolio",
+      7
+    ],
+    [
+      "approach",
+      7
+    ],
+    [
+      "segment",
+      7
+    ],
+    [
+      "integrat",
+      7
+    ],
+    [
+      "build",
+      7
+    ],
+    [
+      "allow",
+      7
+    ],
+    [
+      "culture",
+      7
+    ],
+    [
+      "governance",
+      7
+    ],
+    [
+      "resilience",
+      7
+    ],
+    [
+      "speak",
+      6
+    ],
+    [
+      "generative",
+      6
+    ],
+    [
+      "notic",
+      6
+    ],
+    [
+      "absolutely",
+      6
+    ],
+    [
+      "problem",
+      6
+    ],
+    [
+      "output",
+      6
+    ],
+    [
+      "evaluate",
+      6
+    ],
+    [
+      "result",
+      6
+    ],
+    [
+      "use",
+      6
+    ],
+    [
+      "dashboard",
+      6
+    ],
+    [
+      "effectively",
+      6
+    ],
+    [
+      "consider",
+      6
+    ],
+    [
+      "interpret",
+      6
+    ],
+    [
+      "concern",
+      6
+    ],
+    [
+      "workload",
+      6
+    ],
+    [
+      "address",
+      6
+    ],
+    [
+      "structure",
+      6
+    ],
+    [
+      "delay",
+      6
+    ],
+    [
+      "target",
+      6
+    ],
+    [
+      "become",
+      6
+    ],
+    [
+      "sal",
+      6
+    ],
+    [
+      "stability",
+      6
+    ],
+    [
+      "second",
+      6
+    ],
+    [
+      "protocol",
+      6
+    ],
+    [
+      "prioriti",
+      6
+    ],
+    [
+      "layer",
+      6
+    ],
+    [
+      "often",
+      6
+    ],
+    [
+      "investment",
+      6
+    ],
+    [
+      "much",
+      6
+    ],
+    [
+      "structur",
+      6
+    ],
+    [
+      "inventory",
+      6
+    ],
+    [
+      "balance",
+      6
+    ],
+    [
+      "demand",
+      6
+    ],
+    [
+      "alone",
+      6
+    ],
+    [
+      "exposure",
+      6
+    ],
+    [
+      "acquisition",
+      6
+    ],
+    [
+      "track",
+      6
+    ],
+    [
+      "link",
+      6
+    ],
+    [
+      "retention",
+      6
+    ],
+    [
+      "recommendation",
+      6
+    ],
+    [
+      "monitor",
+      6
+    ],
+    [
+      "mak",
+      5
+    ],
+    [
+      "every",
+      5
+    ],
+    [
+      "longer",
+      5
+    ],
+    [
+      "biggest",
+      5
+    ],
+    [
+      "information",
+      5
+    ],
+    [
+      "crucial",
+      5
+    ],
+    [
+      "especially",
+      5
+    ],
+    [
+      "provide",
+      5
+    ],
+    [
+      "yet",
+      5
+    ],
+    [
+      "make",
+      5
+    ],
+    [
+      "avoid",
+      5
+    ],
+    [
+      "improve",
+      5
+    ],
+    [
+      "production",
+      5
+    ],
+    [
+      "plant",
+      5
+    ],
+    [
+      "upgrad",
+      5
+    ],
+    [
+      "include",
+      5
+    ],
+    [
+      "budget",
+      5
+    ],
+    [
+      "two",
+      5
+    ],
+    [
+      "automat",
+      5
+    ],
+    [
+      "succession",
+      5
+    ],
+    [
+      "department",
+      5
+    ],
+    [
+      "coordination",
+      5
+    ],
+    [
+      "action",
+      5
+    ],
+    [
+      "create",
+      5
+    ],
+    [
+      "third",
+      5
+    ],
+    [
+      "channel",
+      5
+    ],
+    [
+      "reinforce",
+      5
+    ],
+    [
+      "many",
+      5
+    ],
+    [
+      "gap",
+      5
+    ],
+    [
+      "three",
+      5
+    ],
+    [
+      "rather",
+      5
+    ],
+    [
+      "sometim",
+      5
+    ],
+    [
+      "dynamic",
+      5
+    ],
+    [
+      "shar",
+      5
+    ],
+    [
+      "visibility",
+      5
+    ],
+    [
+      "external",
+      5
+    ],
+    [
+      "advantage",
+      5
+    ],
+    [
+      "finance",
+      5
+    ],
+    [
+      "brand",
+      5
+    ],
+    [
+      "requir",
+      5
+    ],
+    [
+      "function",
+      5
+    ],
+    [
+      "framework",
+      5
+    ],
+    [
+      "scalability",
+      5
+    ],
+    [
+      "level",
+      5
+    ],
+    [
+      "lag",
+      5
+    ],
+    [
+      "standardiz",
+      5
+    ],
+    [
+      "objectiv",
+      5
+    ],
+    [
+      "career",
+      5
+    ],
+    [
+      "advanc",
+      5
+    ],
+    [
+      "trust",
+      5
+    ],
+    [
+      "audit",
+      5
+    ],
+    [
+      "expansion",
+      5
+    ],
+    [
+      "accelerate",
+      5
+    ],
+    [
+      "allocation",
+      5
+    ],
+    [
+      "measurable",
+      5
+    ],
+    [
+      "incentiv",
+      5
+    ],
+    [
+      "regular",
+      5
+    ],
+    [
+      "validation",
+      5
+    ],
+    [
+      "proactive",
+      5
+    ],
+    [
+      "practice",
+      4
+    ],
+    [
+      "optional",
+      4
+    ],
+    [
+      "true",
+      4
+    ],
+    [
+      "task",
+      4
+    ],
+    [
+      "research",
+      4
+    ],
+    [
+      "accuracy",
+      4
+    ],
+    [
+      "refine",
+      4
+    ],
+    [
+      "issu",
+      4
+    ],
+    [
+      "bia",
+      4
+    ],
+    [
+      "usage",
+      4
+    ],
+    [
+      "privacy",
+      4
+    ],
+    [
+      "new",
+      4
+    ],
+    [
+      "agree",
+      4
+    ],
+    [
+      "enhanc",
+      4
+    ],
+    [
+      "develop",
+      4
+    ],
+    [
+      "idea",
+      4
+    ],
+    [
+      "way",
+      4
+    ],
+    [
+      "used",
+      4
+    ],
+    [
+      "capabiliti",
+      4
+    ],
+    [
+      "capacity",
+      4
+    ],
+    [
+      "run",
+      4
+    ],
+    [
+      "propose",
+      4
+    ],
+    [
+      "equipment",
+      4
+    ],
+    [
+      "maintenance",
+      4
+    ],
+    [
+      "month",
+      4
+    ],
+    [
+      "thing",
+      4
+    ],
+    [
+      "manager",
+      4
+    ],
+    [
+      "clearer",
+      4
+    ],
+    [
+      "opportuniti",
+      4
+    ],
+    [
+      "lack",
+      4
+    ],
+    [
+      "map",
+      4
+    ],
+    [
+      "employee",
+      4
+    ],
+    [
+      "escalation",
+      4
+    ],
+    [
+      "major",
+      4
+    ],
+    [
+      "happen",
+      4
+    ],
+    [
+      "assum",
+      4
+    ],
+    [
+      "handl",
+      4
+    ],
+    [
+      "let",
+      4
+    ],
+    [
+      "get",
+      4
+    ],
+    [
+      "area",
+      4
+    ],
+    [
+      "step",
+      4
+    ],
+    [
+      "supplier",
+      4
+    ],
+    [
+      "weekly",
+      4
+    ],
+    [
+      "flow",
+      4
+    ],
+    [
+      "start",
+      4
+    ],
+    [
+      "assessment",
+      4
+    ],
+    [
+      "mix",
+      4
+    ],
+    [
+      "tell",
+      4
+    ],
+    [
+      "challenge",
+      4
+    ],
+    [
+      "adjustment",
+      4
+    ],
+    [
+      "chang",
+      4
+    ],
+    [
+      "creat",
+      4
+    ],
+    [
+      "operat",
+      4
+    ],
+    [
+      "insufficient",
+      4
+    ],
+    [
+      "solution",
+      4
+    ],
+    [
+      "capital",
+      4
+    ],
+    [
+      "early",
+      4
+    ],
+    [
+      "slow",
+      4
+    ],
+    [
+      "long-term",
+      4
+    ],
+    [
+      "unifi",
+      4
+    ],
+    [
+      "different",
+      4
+    ],
+    [
+      "optimize",
+      4
+    ],
+    [
+      "corporation",
+      4
+    ],
+    [
+      "incremental",
+      4
+    ],
+    [
+      "emerg",
+      4
+    ],
+    [
+      "manufactur",
+      4
+    ],
+    [
+      "agility",
+      4
+    ],
+    [
+      "prioritize",
+      4
+    ],
+    [
+      "pathway",
+      4
+    ],
+    [
+      "customer-driven",
+      4
+    ],
+    [
+      "reflect",
+      4
+    ],
+    [
+      "organizational",
+      4
+    ],
+    [
+      "mindset",
+      4
+    ],
+    [
+      "journey",
+      4
+    ],
+    [
+      "bas",
+      4
+    ],
+    [
+      "ecosystem",
+      4
+    ],
+    [
+      "tie",
+      4
+    ],
+    [
+      "current",
+      4
+    ],
+    [
+      "automation",
+      4
+    ],
+    [
+      "ongo",
+      4
+    ],
+    [
+      "driven",
+      4
+    ],
+    [
+      "discuss",
+      4
+    ],
+    [
+      "disruption",
+      4
+    ],
+    [
+      "regulatory",
+      4
+    ],
+    [
+      "diversity",
+      4
+    ],
+    [
+      "strategi",
+      4
+    ],
+    [
+      "threat",
+      4
+    ],
+    [
+      "detection",
+      4
+    ],
+    [
+      "disruptive",
+      4
+    ],
+    [
+      "progress",
+      4
+    ],
+    [
+      "mentorship",
+      4
+    ],
+    [
+      "enabl",
+      4
+    ],
+    [
+      "act",
+      4
+    ],
+    [
+      "validate",
+      4
+    ],
+    [
+      "pause",
+      4
+    ],
+    [
+      "perfect",
+      3
+    ],
+    [
+      "today",
+      3
+    ],
+    [
+      "workplace",
+      3
+    ],
+    [
+      "evolv",
+      3
+    ],
+    [
+      "solv",
+      3
+    ],
+    [
+      "trend",
+      3
+    ],
+    [
+      "apply",
+      3
+    ],
+    [
+      "literacy",
+      3
+    ],
+    [
+      "heavily",
+      3
+    ],
+    [
+      "responsible",
+      3
+    ],
+    [
+      "keep",
+      3
+    ],
+    [
+      "adaptability",
+      3
+    ],
+    [
+      "rapidly",
+      3
+    ],
+    [
+      "ai-power",
+      3
+    ],
+    [
+      "clearly",
+      3
+    ],
+    [
+      "confidently",
+      3
+    ],
+    [
+      "communicate",
+      3
+    ],
+    [
+      "ready",
+      3
+    ],
+    [
+      "upskill",
+      3
+    ],
+    [
+      "prepare",
+      3
+    ],
+    [
+      "bring",
+      3
+    ],
+    [
+      "real",
+      3
+    ],
+    [
+      "proposal",
+      3
+    ],
+    [
+      "accelerat",
+      3
+    ],
+    [
+      "mistak",
+      3
+    ],
+    [
+      "depend",
+      3
+    ],
+    [
+      "ethical",
+      3
+    ],
+    [
+      "top",
+      3
+    ],
+    [
+      "evolve",
+      3
+    ],
+    [
+      "increas",
+      3
+    ],
+    [
+      "repair",
+      3
+    ],
+    [
+      "workforce",
+      3
+    ],
+    [
+      "simple",
+      3
+    ],
+    [
+      "million",
+      3
+    ],
+    [
+      "year",
+      3
+    ],
+    [
+      "satisfaction",
+      3
+    ],
+    [
+      "foundation",
+      3
+    ],
+    [
+      "conversation",
+      3
+    ],
+    [
+      "conflict",
+      3
+    ],
+    [
+      "crisis",
+      3
+    ],
+    [
+      "last",
+      3
+    ],
+    [
+      "document",
+      3
+    ],
+    [
+      "term",
+      3
+    ],
+    [
+      "partnership",
+      3
+    ],
+    [
+      "introduce",
+      3
+    ],
+    [
+      "number",
+      3
+    ],
+    [
+      "ask",
+      3
+    ],
+    [
+      "someth",
+      3
+    ],
+    [
+      "detail",
+      3
+    ],
+    [
+      "honestly",
+      3
+    ],
+    [
+      "deliver",
+      3
+    ],
+    [
+      "everyone",
+      3
+    ],
+    [
+      "begin",
+      3
+    ],
+    [
+      "enough",
+      3
+    ],
+    [
+      "issue",
+      3
+    ],
+    [
+      "confidence",
+      3
+    ],
+    [
+      "monthly",
+      3
+    ],
+    [
+      "reactive",
+      3
+    ],
+    [
+      "fix",
+      3
+    ],
+    [
+      "far",
+      3
+    ],
+    [
+      "push",
+      3
+    ],
+    [
+      "structural",
+      3
+    ],
+    [
+      "updat",
+      3
+    ],
+    [
+      "owner",
+      3
+    ],
+    [
+      "pivot",
+      3
+    ],
+    [
+      "procurement",
+      3
+    ],
+    [
+      "documentation",
+      3
+    ],
+    [
+      "assumption",
+      3
+    ],
+    [
+      "verification",
+      3
+    ],
+    [
+      "point",
+      3
+    ],
+    [
+      "recalibration",
+      3
+    ],
+    [
+      "agile",
+      3
+    ],
+    [
+      "legacy",
+      3
+    ],
+    [
+      "spe",
+      3
+    ],
+    [
+      "balanc",
+      3
+    ],
+    [
+      "ambition",
+      3
+    ],
+    [
+      "adaptive",
+      3
+    ],
+    [
+      "reinvention",
+      3
+    ],
+    [
+      "historically",
+      3
+    ],
+    [
+      "value",
+      3
+    ],
+    [
+      "empowerment",
+      3
+    ],
+    [
+      "autonomy",
+      3
+    ],
+    [
+      "platform",
+      3
+    ],
+    [
+      "initiative",
+      3
+    ],
+    [
+      "pipeline",
+      3
+    ],
+    [
+      "diverse",
+      3
+    ],
+    [
+      "reduc",
+      3
+    ],
+    [
+      "reduction",
+      3
+    ],
+    [
+      "roadmap",
+      3
+    ],
+    [
+      "practic",
+      3
+    ],
+    [
+      "commercial",
+      3
+    ],
+    [
+      "evaluation",
+      3
+    ],
+    [
+      "success",
+      3
+    ],
+    [
+      "path",
+      3
+    ],
+    [
+      "rol",
+      3
+    ],
+    [
+      "goal",
+      3
+    ],
+    [
+      "mov",
+      3
+    ],
+    [
+      "multiple",
+      3
+    ],
+    [
+      "topic",
+      3
+    ],
+    [
+      "predict",
+      3
+    ],
+    [
+      "judgment",
+      3
+    ],
+    [
+      "entry",
+      3
+    ],
+    [
+      "embed",
+      3
+    ],
+    [
+      "measure",
+      3
+    ],
+    [
+      "reward",
+      3
+    ],
+    [
+      "experimentation",
+      3
+    ],
+    [
+      "startup",
+      3
+    ],
+    [
+      "regard",
+      3
+    ],
+    [
+      "central",
+      3
+    ],
+    [
+      "integrate",
+      3
+    ],
+    [
+      "carbon",
+      3
+    ],
+    [
+      "bonus",
+      3
+    ],
+    [
+      "sponsorship",
+      3
+    ],
+    [
+      "resource",
+      3
+    ],
+    [
+      "require",
+      3
+    ],
+    [
+      "roi",
+      3
+    ],
+    [
+      "globally",
+      3
+    ],
+    [
+      "geopolitical",
+      3
+    ],
+    [
+      "intelligence",
+      3
+    ],
+    [
+      "cyber",
+      3
+    ],
+    [
+      "security",
+      3
+    ],
+    [
+      "return",
+      3
+    ],
+    [
+      "rat",
+      3
+    ],
+    [
+      "hub",
+      3
+    ],
+    [
+      "scal",
+      3
+    ],
+    [
+      "prevent",
+      3
+    ],
+    [
+      "oversight",
+      3
+    ],
+    [
+      "personalization",
+      3
+    ],
+    [
+      "vital",
+      3
+    ],
+    [
+      "empathy",
+      3
+    ],
+    [
+      "complex",
+      3
+    ],
+    [
+      "phas",
+      3
+    ],
+    [
+      "pilot",
+      3
+    ],
+    [
+      "feedback",
+      3
+    ],
+    [
+      "rapid",
+      3
+    ],
+    [
+      "transform",
+      2
+    ],
+    [
+      "fast",
+      2
+    ],
+    [
+      "draft",
+      2
+    ],
+    [
+      "email",
+      2
+    ],
+    [
+      "direct",
+      2
+    ],
+    [
+      "prompt",
+      2
+    ],
+    [
+      "generat",
+      2
+    ],
+    [
+      "someone",
+      2
+    ],
+    [
+      "technical",
+      2
+    ],
+    [
+      "reli",
+      2
+    ],
+    [
+      "part",
+      2
+    ],
+    [
+      "responsibly",
+      2
+    ],
+    [
+      "instead",
+      2
+    ],
+    [
+      "ai-generat",
+      2
+    ],
+    [
+      "meeting",
+      2
+    ],
+    [
+      "workshop",
+      2
+    ],
+    [
+      "hands-on",
+      2
+    ],
+    [
+      "great",
+      2
+    ],
+    [
+      "expert",
+      2
+    ],
+    [
+      "productivity",
+      2
+    ],
+    [
+      "traditional",
+      2
+    ],
+    [
+      "analysis",
+      2
+    ],
+    [
+      "social",
+      2
+    ],
+    [
+      "awareness",
+      2
+    ],
+    [
+      "priority",
+      2
+    ],
+    [
+      "quickly",
+      2
+    ],
+    [
+      "includ",
+      2
+    ],
+    [
+      "ever",
+      2
+    ],
+    [
+      "explain",
+      2
+    ],
+    [
+      "unlock",
+      2
+    ],
+    [
+      "full",
+      2
+    ],
+    [
+      "machinery",
+      2
+    ],
+    [
+      "outdat",
+      2
+    ],
+    [
+      "downtime",
+      2
+    ],
+    [
+      "spend",
+      2
+    ],
+    [
+      "replacement",
+      2
+    ],
+    [
+      "long",
+      2
+    ],
+    [
+      "fatigue",
+      2
+    ],
+    [
+      "drop",
+      2
+    ],
+    [
+      "stretch",
+      2
+    ],
+    [
+      "already",
+      2
+    ],
+    [
+      "unclear",
+      2
+    ],
+    [
+      "maybe",
+      2
+    ],
+    [
+      "distribution",
+      2
+    ],
+    [
+      "recognition",
+      2
+    ],
+    [
+      "deep",
+      2
+    ],
+    [
+      "justify",
+      2
+    ],
+    [
+      "estimat",
+      2
+    ],
+    [
+      "upgrade",
+      2
+    ],
+    [
+      "around",
+      2
+    ],
+    [
+      "strong",
+      2
+    ],
+    [
+      "higher",
+      2
+    ],
+    [
+      "acceptable",
+      2
+    ],
+    [
+      "company",
+      2
+    ],
+    [
+      "hit",
+      2
+    ],
+    [
+      "collaps",
+      2
+    ],
+    [
+      "internally",
+      2
+    ],
+    [
+      "least",
+      2
+    ],
+    [
+      "percent",
+      2
+    ],
+    [
+      "increase",
+      2
+    ],
+    [
+      "actual",
+      2
+    ],
+    [
+      "seamless",
+      2
+    ],
+    [
+      "scalable",
+      2
+    ],
+    [
+      "natural",
+      2
+    ],
+    [
+      "hear",
+      2
+    ],
+    [
+      "mid-level",
+      2
+    ],
+    [
+      "senior",
+      2
+    ],
+    [
+      "expectation",
+      2
+    ],
+    [
+      "main",
+      2
+    ],
+    [
+      "intervene",
+      2
+    ],
+    [
+      "week",
+      2
+    ],
+    [
+      "experienc",
+      2
+    ],
+    [
+      "classic",
+      2
+    ],
+    [
+      "manag",
+      2
+    ],
+    [
+      "incident",
+      2
+    ],
+    [
+      "negotiation",
+      2
+    ],
+    [
+      "provider",
+      2
+    ],
+    [
+      "contract",
+      2
+    ],
+    [
+      "offer",
+      2
+    ],
+    [
+      "touch",
+      2
+    ],
+    [
+      "cover",
+      2
+    ],
+    [
+      "initiate",
+      2
+    ],
+    [
+      "onboard",
+      2
+    ],
+    [
+      "secondary",
+      2
+    ],
+    [
+      "vendor",
+      2
+    ],
+    [
+      "establish",
+      2
+    ],
+    [
+      "fourth",
+      2
+    ],
+    [
+      "sit",
+      2
+    ],
+    [
+      "alway",
+      2
+    ],
+    [
+      "seem",
+      2
+    ],
+    [
+      "candid",
+      2
+    ],
+    [
+      "quarter",
+      2
+    ],
+    [
+      "efficiently",
+      2
+    ],
+    [
+      "respond",
+      2
+    ],
+    [
+      "anticipate",
+      2
+    ],
+    [
+      "weaken",
+      2
+    ],
+    [
+      "grow",
+      2
+    ],
+    [
+      "anyth",
+      2
+    ],
+    [
+      "else",
+      2
+    ],
+    [
+      "predictability",
+      2
+    ],
+    [
+      "timelin",
+      2
+    ],
+    [
+      "input",
+      2
+    ],
+    [
+      "suggestion",
+      2
+    ],
+    [
+      "data-driven",
+      2
+    ],
+    [
+      "roll",
+      2
+    ],
+    [
+      "window",
+      2
+    ],
+    [
+      "consistency",
+      2
+    ],
+    [
+      "machin",
+      2
+    ],
+    [
+      "preventative",
+      2
+    ],
+    [
+      "exist",
+      2
+    ],
+    [
+      "bottleneck",
+      2
+    ],
+    [
+      "say",
+      2
+    ],
+    [
+      "burnout",
+      2
+    ],
+    [
+      "firefight",
+      2
+    ],
+    [
+      "urgent",
+      2
+    ],
+    [
+      "everyth",
+      2
+    ],
+    [
+      "architecture",
+      2
+    ],
+    [
+      "context",
+      2
+    ],
+    [
+      "upward",
+      2
+    ],
+    [
+      "communicat",
+      2
+    ],
+    [
+      "agenda",
+      2
+    ],
+    [
+      "responsibiliti",
+      2
+    ],
+    [
+      "nobody",
+      2
+    ],
+    [
+      "matrix",
+      2
+    ],
+    [
+      "profitability",
+      2
+    ],
+    [
+      "signal",
+      2
+    ],
+    [
+      "cycl",
+      2
+    ],
+    [
+      "short-term",
+      2
+    ],
+    [
+      "shipment",
+      2
+    ],
+    [
+      "final",
+      2
+    ],
+    [
+      "check",
+      2
+    ],
+    [
+      "checkpoint",
+      2
+    ],
+    [
+      "leave",
+      2
+    ],
+    [
+      "single",
+      2
+    ],
+    [
+      "toward",
+      2
+    ],
+    [
+      "increasingly",
+      2
+    ],
+    [
+      "quality",
+      2
+    ],
+    [
+      "later",
+      2
+    ],
+    [
+      "transparent",
+      2
+    ],
+    [
+      "comprehensive",
+      2
+    ],
+    [
+      "emerge",
+      2
+    ],
+    [
+      "naturally",
+      2
+    ],
+    [
+      "forward",
+      2
+    ],
+    [
+      "tak",
+      2
+    ],
+    [
+      "five",
+      2
+    ],
+    [
+      "reach",
+      2
+    ],
+    [
+      "sufficient",
+      2
+    ],
+    [
+      "environment",
+      2
+    ],
+    [
+      "faster",
+      2
+    ],
+    [
+      "adapt",
+      2
+    ],
+    [
+      "behav",
+      2
+    ],
+    [
+      "decisively",
+      2
+    ],
+    [
+      "safety",
+      2
+    ],
+    [
+      "footprint",
+      2
+    ],
+    [
+      "challeng",
+      2
+    ],
+    [
+      "invest",
+      2
+    ],
+    [
+      "question",
+      2
+    ],
+    [
+      "view",
+      2
+    ],
+    [
+      "hybrid",
+      2
+    ],
+    [
+      "cascad",
+      2
+    ],
+    [
+      "corporate",
+      2
+    ],
+    [
+      "actionable",
+      2
+    ],
+    [
+      "multinational",
+      2
+    ],
+    [
+      "break",
+      2
+    ],
+    [
+      "four",
+      2
+    ],
+    [
+      "vari",
+      2
+    ],
+    [
+      "maturity",
+      2
+    ],
+    [
+      "optimization",
+      2
+    ],
+    [
+      "limit",
+      2
+    ],
+    [
+      "set",
+      2
+    ],
+    [
+      "example",
+      2
+    ],
+    [
+      "operate",
+      2
+    ],
+    [
+      "manage",
+      2
+    ],
+    [
+      "stakeholder",
+      2
+    ],
+    [
+      "hierarchical",
+      2
+    ],
+    [
+      "empower",
+      2
+    ],
+    [
+      "accompany",
+      2
+    ],
+    [
+      "center",
+      2
+    ],
+    [
+      "optimiz",
+      2
+    ],
+    [
+      "meaningful",
+      2
+    ],
+    [
+      "rotation",
+      2
+    ],
+    [
+      "functional",
+      2
+    ],
+    [
+      "successor",
+      2
+    ],
+    [
+      "quarterly",
+      2
+    ],
+    [
+      "economic",
+      2
+    ],
+    [
+      "shock",
+      2
+    ],
+    [
+      "exercis",
+      2
+    ],
+    [
+      "standard",
+      2
+    ],
+    [
+      "explainable",
+      2
+    ],
+    [
+      "rationale",
+      2
+    ],
+    [
+      "acceleration",
+      2
+    ],
+    [
+      "adherence",
+      2
+    ],
+    [
+      "alongside",
+      2
+    ],
+    [
+      "instance",
+      2
+    ],
+    [
+      "risk-tak",
+      2
+    ],
+    [
+      "safe",
+      2
+    ],
+    [
+      "experiment",
+      2
+    ],
+    [
+      "failur",
+      2
+    ],
+    [
+      "leverage",
+      2
+    ],
+    [
+      "share",
+      2
+    ],
+    [
+      "partner",
+      2
+    ],
+    [
+      "council",
+      2
+    ],
+    [
+      "prioritization",
+      2
+    ],
+    [
+      "duplication",
+      2
+    ],
+    [
+      "contingency",
+      2
+    ],
+    [
+      "mitigation",
+      2
+    ],
+    [
+      "investor",
+      2
+    ],
+    [
+      "tied",
+      2
+    ],
+    [
+      "inde",
+      2
+    ],
+    [
+      "switch",
+      2
+    ],
+    [
+      "implement",
+      2
+    ],
+    [
+      "knowledge",
+      2
+    ],
+    [
+      "show",
+      2
+    ],
+    [
+      "stagnation",
+      2
+    ],
+    [
+      "importance",
+      2
+    ],
+    [
+      "low",
+      2
+    ],
+    [
+      "stage",
+      2
+    ],
+    [
+      "correct",
+      2
+    ],
+    [
+      "necessary",
+      2
+    ],
+    [
+      "performer",
+      2
+    ],
+    [
+      "diversification",
+      2
+    ],
+    [
+      "rationalization",
+      2
+    ],
+    [
+      "non-core",
+      2
+    ],
+    [
+      "adopt",
+      2
+    ],
+    [
+      "mentor",
+      2
+    ],
+    [
+      "standardization",
+      2
+    ],
+    [
+      "high-perform",
+      2
+    ],
+    [
+      "versus",
+      2
+    ],
+    [
+      "actively",
+      2
+    ],
+    [
+      "uneven",
+      2
+    ],
+    [
+      "emb",
+      2
+    ],
+    [
+      "digitization",
+      2
+    ],
+    [
+      "exploratory",
+      2
+    ],
+    [
+      "completion",
+      2
+    ],
+    [
+      "consistent",
+      2
+    ],
+    [
+      "routine",
+      2
+    ],
+    [
+      "define",
+      2
+    ],
+    [
+      "specific",
+      2
+    ],
+    [
+      "interaction",
+      2
+    ],
+    [
+      "high-impact",
+      2
+    ],
+    [
+      "secure",
+      2
+    ],
+    [
+      "systematically",
+      2
+    ],
+    [
+      "coupl",
+      2
+    ],
+    [
+      "champion",
+      2
+    ],
+    [
+      "multilayer",
+      2
+    ],
+    [
+      "stress",
+      2
+    ],
+    [
+      "overreliance",
+      2
+    ],
+    [
+      "geographi",
+      2
+    ],
+    [
+      "response",
+      2
+    ],
+    [
+      "dimension",
+      2
+    ],
+    [
+      "mitigate",
+      2
+    ],
+    [
+      "mileston",
+      2
+    ],
+    [
+      "expect",
+      2
+    ],
+    [
+      "criteria",
+      2
+    ],
+    [
+      "mechanism",
+      2
+    ],
+    [
+      "continuously",
+      2
+    ],
+    [
+      "indicator",
+      2
+    ],
+    [
+      "feasibility",
+      2
+    ],
+    [
+      "prototyp",
+      2
+    ],
+    [
+      "reduce",
+      2
+    ],
+    [
+      "assignment",
+      2
+    ],
+    [
+      "sustain",
+      2
+    ],
+    [
+      "add",
+      2
+    ],
+    [
+      "prediction",
+      2
+    ],
+    [
+      "readiness",
+      2
+    ],
+    [
+      "interpretation",
+      2
+    ],
+    [
+      "algorithm",
+      2
+    ],
+    [
+      "hyper",
+      2
+    ],
+    [
+      "enable",
+      2
+    ],
+    [
+      "intervention",
+      2
+    ],
+    [
+      "listen",
+      1
+    ],
+    [
+      "welcome",
+      1
+    ],
+    [
+      "english",
+      1
+    ],
+    [
+      "dialogue",
+      1
+    ],
+    [
+      "almost",
+      1
+    ],
+    [
+      "modern",
+      1
+    ],
+    [
+      "competency",
+      1
+    ],
+    [
+      "advantag",
+      1
+    ],
+    [
+      "smarter",
+      1
+    ],
+    [
+      "summariz",
+      1
+    ],
+    [
+      "analyz",
+      1
+    ],
+    [
+      "done",
+      1
+    ],
+    [
+      "minut",
+      1
+    ],
+    [
+      "master",
+      1
+    ],
+    [
+      "know",
+      1
+    ],
+    [
+      "ther",
+      1
+    ],
+    [
+      "accept",
+      1
+    ],
+    [
+      "verify",
+      1
+    ],
+    [
+      "cross-check",
+      1
+    ],
+    [
+      "role",
+      1
+    ],
+    [
+      "clean",
+      1
+    ],
+    [
+      "ethic",
+      1
+    ],
+    [
+      "fairness",
+      1
+    ],
+    [
+      "mind",
+      1
+    ],
+    [
+      "since",
+      1
+    ],
+    [
+      "comfortable",
+      1
+    ],
+    [
+      "technologi",
+      1
+    ],
+    [
+      "successful",
+      1
+    ],
+    [
+      "embrace",
+      1
+    ],
+    [
+      "resist",
+      1
+    ],
+    [
+      "reshap",
+      1
+    ],
+    [
+      "teamwork",
+      1
+    ],
+    [
+      "colleagu",
+      1
+    ],
+    [
+      "planner",
+      1
+    ],
+    [
+      "brainstorm",
+      1
+    ],
+    [
+      "assistant",
+      1
+    ],
+    [
+      "present",
+      1
+    ],
+    [
+      "presentation",
+      1
+    ],
+    [
+      "storytell",
+      1
+    ],
+    [
+      "persuasive",
+      1
+    ],
+    [
+      "launch",
+      1
+    ],
+    [
+      "company-wide",
+      1
+    ],
+    [
+      "demonstrate",
+      1
+    ],
+    [
+      "cas",
+      1
+    ],
+    [
+      "equip",
+      1
+    ],
+    [
+      "sure",
+      1
+    ],
+    [
+      "embrac",
+      1
+    ],
+    [
+      "content",
+      1
+    ],
+    [
+      "creation",
+      1
+    ],
+    [
+      "collaborate",
+      1
+    ],
+    [
+      "accurate",
+      1
+    ],
+    [
+      "reliable",
+      1
+    ],
+    [
+      "collect",
+      1
+    ],
+    [
+      "using",
+      1
+    ],
+    [
+      "open",
+      1
+    ],
+    [
+      "persuasively",
+      1
+    ],
+    [
+      "proper",
+      1
+    ],
+    [
+      "struggl",
+      1
+    ],
+    [
+      "mainly",
+      1
+    ],
+    [
+      "lazy",
+      1
+    ],
+    [
+      "express",
+      1
+    ],
+    [
+      "appreciation",
+      1
+    ],
+    [
+      "dive",
+      1
+    ],
+    [
+      "money",
+      1
+    ],
+    [
+      "additional",
+      1
+    ],
+    [
+      "staff",
+      1
+    ],
+    [
+      "implication",
+      1
+    ],
+    [
+      "roughly",
+      1
+    ],
+    [
+      "payoff",
+      1
+    ],
+    [
+      "lower",
+      1
+    ],
+    [
+      "fewer",
+      1
+    ],
+    [
+      "payback",
+      1
+    ],
+    [
+      "period",
+      1
+    ],
+    [
+      "imagine",
+      1
+    ],
+    [
+      "board",
+      1
+    ],
+    [
+      "reliability",
+      1
+    ],
+    [
+      "rise",
+      1
+    ],
+    [
+      "closely",
+      1
+    ],
+    [
+      "byproduct",
+      1
+    ],
+    [
+      "hr",
+      1
+    ],
+    [
+      "plus",
+      1
+    ],
+    [
+      "section",
+      1
+    ],
+    [
+      "overwhelm",
+      1
+    ],
+    [
+      "caught",
+      1
+    ],
+    [
+      "pressure",
+      1
+    ],
+    [
+      "los",
+      1
+    ],
+    [
+      "potentially",
+      1
+    ],
+    [
+      "hint",
+      1
+    ],
+    [
+      "resignation",
+      1
+    ],
+    [
+      "resolution",
+      1
+    ],
+    [
+      "wellness",
+      1
+    ],
+    [
+      "complaint",
+      1
+    ],
+    [
+      "due",
+      1
+    ],
+    [
+      "miss",
+      1
+    ],
+    [
+      "paperwork",
+      1
+    ],
+    [
+      "failure",
+      1
+    ],
+    [
+      "furious",
+      1
+    ],
+    [
+      "calm",
+      1
+    ],
+    [
+      "apologiz",
+      1
+    ],
+    [
+      "repeat",
+      1
+    ],
+    [
+      "close",
+      1
+    ],
+    [
+      "secur",
+      1
+    ],
+    [
+      "propos",
+      1
+    ],
+    [
+      "revis",
+      1
+    ],
+    [
+      "rate",
+      1
+    ],
+    [
+      "negotiate",
+      1
+    ],
+    [
+      "longer-term",
+      1
+    ],
+    [
+      "emphasize",
+      1
+    ],
+    [
+      "volume",
+      1
+    ],
+    [
+      "commitment",
+      1
+    ],
+    [
+      "productive",
+      1
+    ],
+    [
+      "discussion",
+      1
+    ],
+    [
+      "outline",
+      1
+    ],
+    [
+      "summarize",
+      1
+    ],
+    [
+      "confirm",
+      1
+    ],
+    [
+      "please",
+      1
+    ],
+    [
+      "ahead",
+      1
+    ],
+    [
+      "diversify",
+      1
+    ],
+    [
+      "update",
+      1
+    ],
+    [
+      "fifth",
+      1
+    ],
+    [
+      "boost",
+      1
+    ],
+    [
+      "middle-level",
+      1
+    ],
+    [
+      "sixth",
+      1
+    ],
+    [
+      "seventh",
+      1
+    ],
+    [
+      "past",
+      1
+    ],
+    [
+      "harder",
+      1
+    ],
+    [
+      "steer",
+      1
+    ],
+    [
+      "drift",
+      1
+    ],
+    [
+      "slightly",
+      1
+    ],
+    [
+      "sync",
+      1
+    ],
+    [
+      "imagin",
+      1
+    ],
+    [
+      "sens",
+      1
+    ],
+    [
+      "busy",
+      1
+    ],
+    [
+      "slower",
+      1
+    ],
+    [
+      "usual",
+      1
+    ],
+    [
+      "possible",
+      1
+    ],
+    [
+      "honest",
+      1
+    ],
+    [
+      "strain",
+      1
+    ],
+    [
+      "messy",
+      1
+    ],
+    [
+      "completely",
+      1
+    ],
+    [
+      "expand",
+      1
+    ],
+    [
+      "bandwidth",
+      1
+    ],
+    [
+      "engine",
+      1
+    ],
+    [
+      "smoothly",
+      1
+    ],
+    [
+      "noth",
+      1
+    ],
+    [
+      "understood",
+      1
+    ],
+    [
+      "produce",
+      1
+    ],
+    [
+      "inconsistently",
+      1
+    ],
+    [
+      "fluctuat",
+      1
+    ],
+    [
+      "reason",
+      1
+    ],
+    [
+      "unstable",
+      1
+    ],
+    [
+      "justification",
+      1
+    ],
+    [
+      "recur",
+      1
+    ],
+    [
+      "optimistic",
+      1
+    ],
+    [
+      "nature",
+      1
+    ],
+    [
+      "bad",
+      1
+    ],
+    [
+      "anchor",
+      1
+    ],
+    [
+      "optimism-driven",
+      1
+    ],
+    [
+      "abrupt",
+      1
+    ],
+    [
+      "deviate",
+      1
+    ],
+    [
+      "wildly",
+      1
+    ],
+    [
+      "reality",
+      1
+    ],
+    [
+      "submit",
+      1
+    ],
+    [
+      "difference",
+      1
+    ],
+    [
+      "chao",
+      1
+    ],
+    [
+      "alright",
+      1
+    ],
+    [
+      "mention",
+      1
+    ],
+    [
+      "effective",
+      1
+    ],
+    [
+      "drag",
+      1
+    ],
+    [
+      "aging",
+      1
+    ],
+    [
+      "face",
+      1
+    ],
+    [
+      "unexpect",
+      1
+    ],
+    [
+      "stop",
+      1
+    ],
+    [
+      "unexpectedly",
+      1
+    ],
+    [
+      "lose",
+      1
+    ],
+    [
+      "time",
+      1
+    ],
+    [
+      "rhythm",
+      1
+    ],
+    [
+      "frustrat",
+      1
+    ],
+    [
+      "dip",
+      1
+    ],
+    [
+      "band-aid",
+      1
+    ],
+    [
+      "realistically",
+      1
+    ],
+    [
+      "temporary",
+      1
+    ],
+    [
+      "configuration",
+      1
+    ],
+    [
+      "somewhere",
+      1
+    ],
+    [
+      "significant",
+      1
+    ],
+    [
+      "hidden",
+      1
+    ],
+    [
+      "loss",
+      1
+    ],
+    [
+      "worth",
+      1
+    ],
+    [
+      "inefficiency",
+      1
+    ],
+    [
+      "greater",
+      1
+    ],
+    [
+      "sign",
+      1
+    ],
+    [
+      "complain",
+      1
+    ],
+    [
+      "loudly",
+      1
+    ],
+    [
+      "subtle",
+      1
+    ],
+    [
+      "comment",
+      1
+    ],
+    [
+      "story",
+      1
+    ],
+    [
+      "member",
+      1
+    ],
+    [
+      "constantly",
+      1
+    ],
+    [
+      "give",
+      1
+    ],
+    [
+      "wait",
+      1
+    ],
+    [
+      "breakdown",
+      1
+    ],
+    [
+      "interdepartmental",
+      1
+    ],
+    [
+      "receive",
+      1
+    ],
+    [
+      "slowly",
+      1
+    ],
+    [
+      "downward",
+      1
+    ],
+    [
+      "redesign",
+      1
+    ],
+    [
+      "thread",
+      1
+    ],
+    [
+      "vague",
+      1
+    ],
+    [
+      "instruction",
+      1
+    ],
+    [
+      "informal",
+      1
+    ],
+    [
+      "chat",
+      1
+    ],
+    [
+      "sense",
+      1
+    ],
+    [
+      "zero",
+      1
+    ],
+    [
+      "take",
+      1
+    ],
+    [
+      "bloat",
+      1
+    ],
+    [
+      "disastrously",
+      1
+    ],
+    [
+      "cut",
+      1
+    ],
+    [
+      "emergency",
+      1
+    ],
+    [
+      "unplan",
+      1
+    ],
+    [
+      "exce",
+      1
+    ],
+    [
+      "anticipation",
+      1
+    ],
+    [
+      "cheaper",
+      1
+    ],
+    [
+      "improvis",
+      1
+    ],
+    [
+      "hold",
+      1
+    ],
+    [
+      "little",
+      1
+    ],
+    [
+      "skew",
+      1
+    ],
+    [
+      "overstock",
+      1
+    ],
+    [
+      "understock",
+      1
+    ],
+    [
+      "imbalance",
+      1
+    ],
+    [
+      "com",
+      1
+    ],
+    [
+      "tun",
+      1
+    ],
+    [
+      "cross-team",
+      1
+    ],
+    [
+      "intent",
+      1
+    ],
+    [
+      "misalign",
+      1
+    ],
+    [
+      "win",
+      1
+    ],
+    [
+      "dangerous",
+      1
+    ],
+    [
+      "otherwise",
+      1
+    ],
+    [
+      "rumbl",
+      1
+    ],
+    [
+      "caus",
+      1
+    ],
+    [
+      "misalignment",
+      1
+    ],
+    [
+      "whole",
+      1
+    ],
+    [
+      "locally",
+      1
+    ],
+    [
+      "systemically",
+      1
+    ],
+    [
+      "wrong",
+      1
+    ],
+    [
+      "sequence",
+      1
+    ],
+    [
+      "avoidable",
+      1
+    ],
+    [
+      "coordinat",
+      1
+    ],
+    [
+      "sent",
+      1
+    ],
+    [
+      "batch",
+      1
+    ],
+    [
+      "request",
+      1
+    ],
+    [
+      "ship",
+      1
+    ],
+    [
+      "collid",
+      1
+    ],
+    [
+      "paid",
+      1
+    ],
+    [
+      "price",
+      1
+    ],
+    [
+      "happy",
+      1
+    ],
+    [
+      "understandably",
+      1
+    ],
+    [
+      "order",
+      1
+    ],
+    [
+      "facility",
+      1
+    ],
+    [
+      "six",
+      1
+    ],
+    [
+      "turnover",
+      1
+    ],
+    [
+      "declin",
+      1
+    ],
+    [
+      "opportunity",
+      1
+    ],
+    [
+      "conclude",
+      1
+    ],
+    [
+      "eight",
+      1
+    ],
+    [
+      "capex",
+      1
+    ],
+    [
+      "rebalanc",
+      1
+    ],
+    [
+      "session",
+      1
+    ],
+    [
+      "outgo",
+      1
+    ],
+    [
+      "cycle",
+      1
+    ],
+    [
+      "practically",
+      1
+    ],
+    [
+      "stronger",
+      1
+    ],
+    [
+      "thank",
+      1
+    ],
+    [
+      "join",
+      1
+    ],
+    [
+      "meet",
+      1
+    ],
+    [
+      "short",
+      1
+    ],
+    [
+      "notice",
+      1
+    ],
+    [
+      "several",
+      1
+    ],
+    [
+      "importantly",
+      1
+    ],
+    [
+      "seven",
+      1
+    ],
+    [
+      "believe",
+      1
+    ],
+    [
+      "competition",
+      1
+    ],
+    [
+      "sophisticat",
+      1
+    ],
+    [
+      "regulation",
+      1
+    ],
+    [
+      "consumer",
+      1
+    ],
+    [
+      "ris",
+      1
+    ],
+    [
+      "unpredictably",
+      1
+    ],
+    [
+      "reposition",
+      1
+    ],
+    [
+      "fall",
+      1
+    ],
+    [
+      "behind",
+      1
+    ],
+    [
+      "net",
+      1
+    ],
+    [
+      "ago",
+      1
+    ],
+    [
+      "greatest",
+      1
+    ],
+    [
+      "presence",
+      1
+    ],
+    [
+      "player",
+      1
+    ],
+    [
+      "aggressively",
+      1
+    ],
+    [
+      "immediately",
+      1
+    ],
+    [
+      "comparison",
+      1
+    ],
+    [
+      "sluggish",
+      1
+    ],
+    [
+      "irony",
+      1
+    ],
+    [
+      "persist",
+      1
+    ],
+    [
+      "design",
+      1
+    ],
+    [
+      "serv",
+      1
+    ],
+    [
+      "decad",
+      1
+    ],
+    [
+      "identity",
+      1
+    ],
+    [
+      "aim",
+      1
+    ],
+    [
+      "benchmark",
+      1
+    ],
+    [
+      "powerhouse",
+      1
+    ],
+    [
+      "diversifi",
+      1
+    ],
+    [
+      "selective",
+      1
+    ],
+    [
+      "primary",
+      1
+    ],
+    [
+      "customer-centric",
+      1
+    ],
+    [
+      "execut",
+      1
+    ],
+    [
+      "underly",
+      1
+    ],
+    [
+      "philosophy",
+      1
+    ],
+    [
+      "currently",
+      1
+    ],
+    [
+      "division",
+      1
+    ],
+    [
+      "conceptual",
+      1
+    ],
+    [
+      "concrete",
+      1
+    ],
+    [
+      "directional",
+      1
+    ],
+    [
+      "aspiration",
+      1
+    ],
+    [
+      "perhap",
+      1
+    ],
+    [
+      "redefin",
+      1
+    ],
+    [
+      "baseline",
+      1
+    ],
+    [
+      "overarch",
+      1
+    ],
+    [
+      "articulate",
+      1
+    ],
+    [
+      "world",
+      1
+    ],
+    [
+      "power",
+      1
+    ],
+    [
+      "captur",
+      1
+    ],
+    [
+      "centricity",
+      1
+    ],
+    [
+      "phras",
+      1
+    ],
+    [
+      "acknowledg",
+      1
+    ],
+    [
+      "foundational",
+      1
+    ],
+    [
+      "strength",
+      1
+    ],
+    [
+      "possess",
+      1
+    ],
+    [
+      "operationalizable",
+      1
+    ],
+    [
+      "unpack",
+      1
+    ],
+    [
+      "countri",
+      1
+    ],
+    [
+      "product-centric",
+      1
+    ],
+    [
+      "solution-centric",
+      1
+    ],
+    [
+      "export",
+      1
+    ],
+    [
+      "product",
+      1
+    ],
+    [
+      "going",
+      1
+    ],
+    [
+      "regionaliz",
+      1
+    ],
+    [
+      "segment-specific",
+      1
+    ],
+    [
+      "proposition",
+      1
+    ],
+    [
+      "tailor",
+      1
+    ],
+    [
+      "essentially",
+      1
+    ],
+    [
+      "guardrail",
+      1
+    ],
+    [
+      "fragmentation",
+      1
+    ],
+    [
+      "centralization",
+      1
+    ],
+    [
+      "relevance",
+      1
+    ],
+    [
+      "guid",
+      1
+    ],
+    [
+      "choose",
+      1
+    ],
+    [
+      "fragment",
+      1
+    ],
+    [
+      "purchase",
+      1
+    ],
+    [
+      "preference",
+      1
+    ],
+    [
+      "moment",
+      1
+    ],
+    [
+      "loyalty",
+      1
+    ],
+    [
+      "trigger",
+      1
+    ],
+    [
+      "solve",
+      1
+    ],
+    [
+      "analytical",
+      1
+    ],
+    [
+      "simply",
+      1
+    ],
+    [
+      "extract",
+      1
+    ],
+    [
+      "mandate",
+      1
+    ],
+    [
+      "directly",
+      1
+    ],
+    [
+      "favor",
+      1
+    ],
+    [
+      "precisely",
+      1
+    ],
+    [
+      "valuable",
+      1
+    ],
+    [
+      "mission",
+      1
+    ],
+    [
+      "ambiguity",
+      1
+    ],
+    [
+      "group",
+      1
+    ],
+    [
+      "linear",
+      1
+    ],
+    [
+      "rais",
+      1
+    ],
+    [
+      "excel",
+      1
+    ],
+    [
+      "suppress",
+      1
+    ],
+    [
+      "approval",
+      1
+    ],
+    [
+      "unnecessarily",
+      1
+    ],
+    [
+      "frustration",
+      1
+    ],
+    [
+      "distribut",
+      1
+    ],
+    [
+      "dilut",
+      1
+    ],
+    [
+      "simplification",
+      1
+    ],
+    [
+      "bureaucratic",
+      1
+    ],
+    [
+      "unit",
+      1
+    ],
+    [
+      "behavioral",
+      1
+    ],
+    [
+      "confusion",
+      1
+    ],
+    [
+      "relinquish",
+      1
+    ],
+    [
+      "control",
+      1
+    ],
+    [
+      "assign",
+      1
+    ],
+    [
+      "distinction",
+      1
+    ],
+    [
+      "span",
+      1
+    ],
+    [
+      "world-class",
+      1
+    ],
+    [
+      "significantly",
+      1
+    ],
+    [
+      "inconsistency",
+      1
+    ],
+    [
+      "annually",
+      1
+    ],
+    [
+      "playbook",
+      1
+    ],
+    [
+      "outlin",
+      1
+    ],
+    [
+      "collection",
+      1
+    ],
+    [
+      "cluster",
+      1
+    ],
+    [
+      "driv",
+      1
+    ],
+    [
+      "tighter",
+      1
+    ],
+    [
+      "weakness",
+      1
+    ],
+    [
+      "either",
+      1
+    ],
+    [
+      "excess",
+      1
+    ],
+    [
+      "stockout",
+      1
+    ],
+    [
+      "costly",
+      1
+    ],
+    [
+      "transparently",
+      1
+    ],
+    [
+      "rarely",
+      1
+    ],
+    [
+      "back",
+      1
+    ],
+    [
+      "blend",
+      1
+    ],
+    [
+      "together",
+      1
+    ],
+    [
+      "curseably",
+      1
+    ],
+    [
+      "overall",
+      1
+    ],
+    [
+      "synchroniz",
+      1
+    ],
+    [
+      "kpi",
+      1
+    ],
+    [
+      "trail",
+      1
+    ],
+    [
+      "smaller",
+      1
+    ],
+    [
+      "competitor",
+      1
+    ],
+    [
+      "unmet",
+      1
+    ],
+    [
+      "co",
+      1
+    ],
+    [
+      "certification",
+      1
+    ],
+    [
+      "correlation",
+      1
+    ],
+    [
+      "acquir",
+      1
+    ],
+    [
+      "progression",
+      1
+    ],
+    [
+      "sake",
+      1
+    ],
+    [
+      "rethink",
+      1
+    ],
+    [
+      "mobility",
+      1
+    ],
+    [
+      "rotate",
+      1
+    ],
+    [
+      "gain",
+      1
+    ],
+    [
+      "cultur",
+      1
+    ],
+    [
+      "perspective",
+      1
+    ],
+    [
+      "network",
+      1
+    ],
+    [
+      "over-rotation",
+      1
+    ],
+    [
+      "depth",
+      1
+    ],
+    [
+      "lateral",
+      1
+    ],
+    [
+      "vertical",
+      1
+    ],
+    [
+      "relat",
+      1
+    ],
+    [
+      "note",
+      1
+    ],
+    [
+      "identify",
+      1
+    ],
+    [
+      "late",
+      1
+    ],
+    [
+      "promote",
+      1
+    ],
+    [
+      "tenure",
+      1
+    ],
+    [
+      "liv",
+      1
+    ],
+    [
+      "pressur",
+      1
+    ],
+    [
+      "confin",
+      1
+    ],
+    [
+      "board-level",
+      1
+    ],
+    [
+      "cascade",
+      1
+    ],
+    [
+      "repetitive",
+      1
+    ],
+    [
+      "treat",
+      1
+    ],
+    [
+      "infallible",
+      1
+    ],
+    [
+      "augmentation",
+      1
+    ],
+    [
+      "contextualize",
+      1
+    ],
+    [
+      "mandatory",
+      1
+    ],
+    [
+      "sole",
+      1
+    ],
+    [
+      "determinant",
+      1
+    ],
+    [
+      "conclusion",
+      1
+    ],
+    [
+      "deriv",
+      1
+    ],
+    [
+      "requirement",
+      1
+    ],
+    [
+      "defend",
+      1
+    ],
+    [
+      "externally",
+      1
+    ],
+    [
+      "regulat",
+      1
+    ],
+    [
+      "organic",
+      1
+    ],
+    [
+      "aggressive",
+      1
+    ],
+    [
+      "activity",
+      1
+    ],
+    [
+      "possibly",
+      1
+    ],
+    [
+      "distract",
+      1
+    ],
+    [
+      "upfront",
+      1
+    ],
+    [
+      "poorly",
+      1
+    ],
+    [
+      "erod",
+      1
+    ],
+    [
+      "deal",
+      1
+    ],
+    [
+      "clos",
+      1
+    ],
+    [
+      "compatibility",
+      1
+    ],
+    [
+      "cultural",
+      1
+    ],
+    [
+      "place",
+      1
+    ],
+    [
+      "creative",
+      1
+    ],
+    [
+      "undermin",
+      1
+    ],
+    [
+      "generation",
+      1
+    ],
+    [
+      "implementation",
+      1
+    ],
+    [
+      "incentivize",
+      1
+    ],
+    [
+      "calculat",
+      1
+    ],
+    [
+      "visibly",
+      1
+    ],
+    [
+      "curiosity",
+      1
+    ],
+    [
+      "follow",
+      1
+    ],
+    [
+      "aspect",
+      1
+    ],
+    [
+      "cautious",
+      1
+    ],
+    [
+      "collaborat",
+      1
+    ],
+    [
+      "institution",
+      1
+    ],
+    [
+      "allianc",
+      1
+    ],
+    [
+      "co-creation",
+      1
+    ],
+    [
+      "concept",
+      1
+    ],
+    [
+      "expertise",
+      1
+    ],
+    [
+      "ad",
+      1
+    ],
+    [
+      "hoc",
+      1
+    ],
+    [
+      "formal",
+      1
+    ],
+    [
+      "oversee",
+      1
+    ],
+    [
+      "outcome",
+      1
+    ],
+    [
+      "representation",
+      1
+    ],
+    [
+      "validat",
+      1
+    ],
+    [
+      "blueprint",
+      1
+    ],
+    [
+      "adaptation",
+      1
+    ],
+    [
+      "tier",
+      1
+    ],
+    [
+      "disaster",
+      1
+    ],
+    [
+      "simulate",
+      1
+    ],
+    [
+      "respons",
+      1
+    ],
+    [
+      "execute",
+      1
+    ],
+    [
+      "pure",
+      1
+    ],
+    [
+      "environmental",
+      1
+    ],
+    [
+      "scrutiniz",
+      1
+    ],
+    [
+      "dna",
+      1
+    ],
+    [
+      "operationaliz",
+      1
+    ],
+    [
+      "sustainable",
+      1
+    ],
+    [
+      "sourc",
+      1
+    ],
+    [
+      "neutral",
+      1
+    ],
+    [
+      "partially",
+      1
+    ],
+    [
+      "seriously",
+      1
+    ],
+    [
+      "perception",
+      1
+    ],
+    [
+      "mitigat",
+      1
+    ],
+    [
+      "reputational",
+      1
+    ],
+    [
+      "erp",
+      1
+    ],
+    [
+      "crm",
+      1
+    ],
+    [
+      "standardize",
+      1
+    ],
+    [
+      "impos",
+      1
+    ],
+    [
+      "rigidity",
+      1
+    ],
+    [
+      "enablement",
+      1
+    ],
+    [
+      "enforcement",
+      1
+    ],
+    [
+      "coach",
+      1
+    ],
+    [
+      "peer-l",
+      1
+    ],
+    [
+      "drive",
+      1
+    ],
+    [
+      "mandat",
+      1
+    ],
+    [
+      "revenue",
+      1
+    ],
+    [
+      "certain",
+      1
+    ],
+    [
+      "deserve",
+      1
+    ],
+    [
+      "infusion",
+      1
+    ],
+    [
+      "careful",
+      1
+    ],
+    [
+      "starve",
+      1
+    ],
+    [
+      "latent",
+      1
+    ],
+    [
+      "immediate",
+      1
+    ],
+    [
+      "yield",
+      1
+    ],
+    [
+      "mature",
+      1
+    ],
+    [
+      "velocity",
+      1
+    ],
+    [
+      "influence",
+      1
+    ],
+    [
+      "factor",
+      1
+    ],
+    [
+      "hir",
+      1
+    ],
+    [
+      "particularly",
+      1
+    ],
+    [
+      "expensive",
+      1
+    ],
+    [
+      "holistic",
+      1
+    ],
+    [
+      "cohort",
+      1
+    ],
+    [
+      "sufficiently",
+      1
+    ],
+    [
+      "differentiate",
+      1
+    ],
+    [
+      "purely",
+      1
+    ],
+    [
+      "monetary",
+      1
+    ],
+    [
+      "purpose-driven",
+      1
+    ],
+    [
+      "motivat",
+      1
+    ],
+    [
+      "vulnerabiliti",
+      1
+    ],
+    [
+      "material",
+      1
+    ],
+    [
+      "future-proof",
+      1
+    ],
+    [
+      "lever",
+      1
+    ],
+    [
+      "confident",
+      1
+    ],
+    [
+      "resilient",
+      1
+    ],
+    [
+      "infrastructure",
+      1
+    ],
+    [
+      "penetration",
+      1
+    ],
+    [
+      "explore",
+      1
+    ],
+    [
+      "asset",
+      1
+    ],
+    [
+      "divest",
+      1
+    ],
+    [
+      "fund",
+      1
+    ],
+    [
+      "certainly",
+      1
+    ],
+    [
+      "divestment",
+      1
+    ],
+    [
+      "free",
+      1
+    ],
+    [
+      "attention",
+      1
+    ],
+    [
+      "transfer",
+      1
+    ],
+    [
+      "lesson",
+      1
+    ],
+    [
+      "replicate",
+      1
+    ],
+    [
+      "former",
+      1
+    ],
+    [
+      "latter",
+      1
+    ],
+    [
+      "overextend",
+      1
+    ],
+    [
+      "pick",
+      1
+    ],
+    [
+      "valu",
+      1
+    ],
+    [
+      "daily",
+      1
+    ],
+    [
+      "statement",
+      1
+    ],
+    [
+      "intranet",
+      1
+    ],
+    [
+      "operationalize",
+      1
+    ],
+    [
+      "submission",
+      1
+    ],
+    [
+      "milestone",
+      1
+    ],
+    [
+      "reinforc",
+      1
+    ],
+    [
+      "throughout",
+      1
+    ],
+    [
+      "incorporat",
+      1
+    ],
+    [
+      "rollout",
+      1
+    ],
+    [
+      "examine",
+      1
+    ],
+    [
+      "fly",
+      1
+    ],
+    [
+      "nod",
+      1
+    ],
+    [
+      "warehous",
+      1
+    ],
+    [
+      "transportation",
+      1
+    ],
+    [
+      "heavy",
+      1
+    ],
+    [
+      "stock",
+      1
+    ],
+    [
+      "route",
+      1
+    ],
+    [
+      "flexible",
+      1
+    ],
+    [
+      "accommodate",
+      1
+    ],
+    [
+      "constraint",
+      1
+    ],
+    [
+      "mirror",
+      1
+    ],
+    [
+      "modul",
+      1
+    ],
+    [
+      "role-specific",
+      1
+    ],
+    [
+      "real-world",
+      1
+    ],
+    [
+      "application",
+      1
+    ],
+    [
+      "newly",
+      1
+    ],
+    [
+      "high-skill",
+      1
+    ],
+    [
+      "mobile",
+      1
+    ],
+    [
+      "easy",
+      1
+    ],
+    [
+      "milestone-bas",
+      1
+    ],
+    [
+      "hypothesis",
+      1
+    ],
+    [
+      "prototype",
+      1
+    ],
+    [
+      "runaway",
+      1
+    ],
+    [
+      "perspectiv",
+      1
+    ],
+    [
+      "creativity",
+      1
+    ],
+    [
+      "universiti",
+      1
+    ],
+    [
+      "lab",
+      1
+    ],
+    [
+      "involve",
+      1
+    ],
+    [
+      "currenci",
+      1
+    ],
+    [
+      "tax",
+      1
+    ],
+    [
+      "regim",
+      1
+    ],
+    [
+      "consolidat",
+      1
+    ],
+    [
+      "timeliness",
+      1
+    ],
+    [
+      "varianc",
+      1
+    ],
+    [
+      "cimmerio",
+      1
+    ],
+    [
+      "macroeconomic",
+      1
+    ],
+    [
+      "condition",
+      1
+    ],
+    [
+      "currency",
+      1
+    ],
+    [
+      "fluctuation",
+      1
+    ],
+    [
+      "improv",
+      1
+    ],
+    [
+      "quantifiable",
+      1
+    ],
+    [
+      "percentag",
+      1
+    ],
+    [
+      "community",
+      1
+    ],
+    [
+      "portion",
+      1
+    ],
+    [
+      "disclosur",
+      1
+    ],
+    [
+      "accurately",
+      1
+    ],
+    [
+      "queri",
+      1
+    ],
+    [
+      "emotionally",
+      1
+    ],
+    [
+      "sensitive",
+      1
+    ],
+    [
+      "additionally",
+      1
+    ],
+    [
+      "agent",
+      1
+    ],
+    [
+      "sentiment",
+      1
+    ],
+    [
+      "customer-fac",
+      1
+    ],
+    [
+      "previously",
+      1
+    ],
+    [
+      "economi",
+      1
+    ],
+    [
+      "prudent",
+      1
+    ],
+    [
+      "go-to-market",
+      1
+    ],
+    [
+      "accordingly",
+      1
+    ],
+    [
+      "buy-in",
+      1
+    ],
+    [
+      "volatility",
+      1
+    ],
+    [
+      "institutionalize",
+      1
+    ],
+    [
+      "continuity",
+      1
+    ],
+    [
+      "vulnerability",
+      1
+    ],
+    [
+      "consolidate",
+      1
+    ],
+    [
+      "enhancement",
+      1
+    ],
+    [
+      "intersect",
+      1
+    ],
+    [
+      "articulation",
+      1
+    ],
+    [
+      "form",
+      1
+    ],
+    [
+      "check-in",
+      1
+    ],
+    [
+      "iterative",
+      1
+    ],
+    [
+      "full-scale",
+      1
+    ],
+    [
+      "serve",
+      1
+    ],
+    [
+      "academia",
+      1
+    ],
+    [
+      "guide",
+      1
+    ],
+    [
+      "maximize",
+      1
+    ],
+    [
+      "disciplin",
+      1
+    ],
+    [
+      "cloud",
+      1
+    ],
+    [
+      "interoperability",
+      1
+    ],
+    [
+      "defin",
+      1
+    ],
+    [
+      "apis",
+      1
+    ],
+    [
+      "format",
+      1
+    ],
+    [
+      "front",
+      1
+    ],
+    [
+      "friction",
+      1
+    ],
+    [
+      "robust",
+      1
+    ],
+    [
+      "dependenci",
+      1
+    ],
+    [
+      "modification",
+      1
+    ],
+    [
+      "provid",
+      1
+    ],
+    [
+      "frequency",
+      1
+    ],
+    [
+      "latency",
+      1
+    ],
+    [
+      "consideration",
+      1
+    ],
+    [
+      "e-learn",
+      1
+    ],
+    [
+      "fundamental",
+      1
+    ],
+    [
+      "appli",
+      1
+    ],
+    [
+      "silo",
+      1
+    ],
+    [
+      "foster",
+      1
+    ],
+    [
+      "incentive",
+      1
+    ],
+    [
+      "joint",
+      1
+    ],
+    [
+      "reinforcement",
+      1
+    ],
+    [
+      "non-negotiable",
+      1
+    ],
+    [
+      "localization",
+      1
+    ],
+    [
+      "generalize",
+      1
+    ],
+    [
+      "account",
+      1
+    ],
+    [
+      "language",
+      1
+    ],
+    [
+      "categorize",
+      1
+    ],
+    [
+      "adjacent",
+      1
+    ],
+    [
+      "transformative",
+      1
+    ],
+    [
+      "allocate",
+      1
+    ],
+    [
+      "resourc",
+      1
+    ],
+    [
+      "proportionally",
+      1
+    ],
+    [
+      "hypothes",
+      1
+    ],
+    [
+      "fail",
+      1
+    ],
+    [
+      "tolerat",
+      1
+    ],
+    [
+      "intelligent",
+      1
+    ],
+    [
+      "intrusive",
+      1
+    ],
+    [
+      "consent",
+      1
+    ],
+    [
+      "polici",
+      1
+    ],
+    [
+      "continu",
+      1
+    ],
+    [
+      "iot",
+      1
+    ],
+    [
+      "sensor",
+      1
+    ],
+    [
+      "rfid",
+      1
+    ],
+    [
+      "alert",
+      1
+    ],
+    [
+      "overrun",
+      1
+    ],
+    [
+      "deployment",
+      1
+    ],
+    [
+      "realiti",
+      1
+    ],
+    [
+      "robustness",
+      1
+    ],
+    [
+      "imperative",
+      1
+    ],
+    [
+      "sustainability",
+      1
+    ],
+    [
+      "surfac",
+      1
+    ],
+    [
+      "encourag",
+      1
+    ],
+    [
+      "momentum",
+      1
+    ],
+    [
+      "vary",
+      1
+    ],
+    [
+      "centraliz",
+      1
+    ],
+    [
+      "adjust",
+      1
+    ],
+    [
+      "gate",
+      1
+    ],
+    [
+      "rotational",
+      1
+    ],
+    [
+      "involvement",
+      1
+    ],
+    [
+      "retain",
+      1
+    ],
+    [
+      "cybersecurity",
+      1
+    ],
+    [
+      "anomali",
+      1
+    ],
+    [
+      "prepar",
+      1
+    ],
+    [
+      "attack",
+      1
+    ],
+    [
+      "multi-layer",
+      1
+    ],
+    [
+      "defense",
+      1
+    ],
+    [
+      "ai-assist",
+      1
+    ],
+    [
+      "churn",
+      1
+    ],
+    [
+      "alienat",
+      1
+    ],
+    [
+      "personaliz",
+      1
+    ],
+    [
+      "non-intrusive",
+      1
+    ],
+    [
+      "preserv",
+      1
+    ],
+    [
+      "executiv",
+      1
+    ],
+    [
+      "fluent",
+      1
+    ],
+    [
+      "boot",
+      1
+    ],
+    [
+      "camp",
+      1
+    ],
+    [
+      "peer",
+      1
+    ],
+    [
+      "fluency",
+      1
+    ],
+    [
+      "combine",
+      1
+    ],
+    [
+      "loop",
+      1
+    ],
+    [
+      "workflow",
+      1
+    ],
+    [
+      "subscription",
+      1
+    ],
+    [
+      "academi",
+      1
+    ],
+    [
+      "project-bas",
+      1
+    ],
+    [
+      "stay",
+      1
+    ],
+    [
+      "explainability",
+      1
+    ],
+    [
+      "periodic",
+      1
+    ],
+    [
+      "identifi",
+      1
+    ],
+    [
+      "decentraliz",
+      1
+    ],
+    [
+      "authority",
+      1
+    ],
+    [
+      "scenario-bas",
+      1
+    ],
+    [
+      "compromise",
+      1
+    ],
+    [
+      "guidelin",
+      1
+    ],
+    [
+      "moderation",
+      1
+    ],
+    [
+      "voice",
+      1
+    ],
+    [
+      "auditable",
+      1
+    ],
+    [
+      "reside",
+      1
+    ],
+    [
+      "accountable",
+      1
+    ],
+    [
+      "incorporate",
+      1
+    ],
+    [
+      "translate",
+      1
+    ]
+  ],
+  "stats": {
+    "total_words": 7013,
+    "unique_words": 1514,
+    "duration_min": 65.7
+  }
+}

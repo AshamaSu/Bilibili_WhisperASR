@@ -65,6 +65,18 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
 .status{position:fixed;left:-9999px}
 .banner{background:var(--warn-soft,#fdf1dc);border:1px solid #ecd3a0;color:#8a5300;border-radius:10px;padding:8px 12px;font-size:14px}
 @supports not (overscroll-behavior:contain){.subs{height:480px}}
+/* 触摸设备：大按钮控制条替代键盘；字幕区留给内容 */
+.touch{display:none}
+@media (pointer:coarse){
+  .touch{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
+  .touch .btn{min-height:54px;font-size:15px;padding:6px 4px;display:flex;align-items:center;justify-content:center}
+  .hintbar .kb{display:none}
+  .sub{padding:12px 10px}
+  main{padding-bottom:calc(28px + env(safe-area-inset-bottom))}
+  .appbar .inner{padding-top:calc(6px + env(safe-area-inset-top))}
+}
+@media (pointer:coarse){.subs{height:min(46dvh,520px)}}
+@supports not (height:100dvh){@media (pointer:coarse){.subs{height:min(46vh,520px)}}}
 </style>
 </head>
 <body>
@@ -87,6 +99,13 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
       <span class="time small muted" id="timeTotal">–:––</span>
       <div class="speed" id="speedBox" role="group" aria-label="播放速率"></div>
     </div>
+    <div class="touch" id="touchBar" role="group" aria-label="播放控制">
+      <button class="btn" type="button" data-act="prev" aria-label="上一句">⏮ 句</button>
+      <button class="btn" type="button" data-act="back" aria-label="后退 10 秒">−10s</button>
+      <button class="btn" type="button" data-act="play" id="tpPlay" aria-label="播放">▶</button>
+      <button class="btn" type="button" data-act="fwd" aria-label="前进 10 秒">+10s</button>
+      <button class="btn" type="button" data-act="next" aria-label="下一句">⏭ 句</button>
+    </div>
     <div class="row spread" style="margin-top:6px">
       <span class="tiny muted" id="sentNo">–</span>
       <span class="tiny muted" id="loadState"></span>
@@ -98,7 +117,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
       <input type="checkbox" id="followChk" checked style="width:18px;height:18px;accent-color:var(--accent)">
       <span>同步滚动</span>
     </label>
-    <span class="muted"><kbd>↑</kbd><kbd>↓</kbd> 句 <kbd>←</kbd><kbd>→</kbd> ±10s <kbd>Space</kbd> 播放 <kbd>?</kbd> 帮助</span>
+    <span class="muted kb"><kbd>↑</kbd><kbd>↓</kbd> 句 <kbd>←</kbd><kbd>→</kbd> ±10s <kbd>Space</kbd> 播放 <kbd>?</kbd> 帮助</span>
     <button class="btn small" id="helpBtn" style="min-height:32px;padding:4px 10px">快捷键</button>
   </div>
 </main>
@@ -114,10 +133,13 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
 <div class="status" id="live" aria-live="polite"></div>
 <audio id="player" preload="metadata" tabindex="-1"></audio>
 <script id="site-data" type="application/json">__SITE_DATA__</script>
+<script id="site-config" type="application/json">__SITE_CONFIG__</script>
 <script>
 "use strict";
 (function(){
   var DATA = JSON.parse(document.getElementById("site-data").textContent);
+  var CFG = JSON.parse(document.getElementById("site-config").textContent);
+  var AUDIO_BASE = CFG.audioBase;
   var eps = DATA.eps;   // [{no,file_stem,title,dur_min,sents:[[s,e,text],...]}]
   var $ = function(id){ return document.getElementById(id); };
   var player=$("player"), subsEl=$("subs"), epSel=$("epSel"), playBtn=$("playBtn"), playIco=$("playIco");
@@ -171,6 +193,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     cur.ep = ep; cur.sents = ep.sents; cur.idx = -1; cur.metaReady = false;
     epTitle.textContent = String(ep.no).padStart(2,"0") + " · " + ep.title;
     epMeta.textContent = ep.sents.length + " 句 · 约 " + Math.round(ep.dur_min) + " 分钟";
+    setMediaMeta(ep);
     subsEl.textContent = "";
     var frag = document.createDocumentFragment();
     ep.sents.forEach(function(s, j){
@@ -185,7 +208,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
       frag.appendChild(b);
     });
     subsEl.appendChild(frag);
-    player.src = "../data/m4a/" + encodeURIComponent(ep.file_stem) + ".m4a";
+    player.src = AUDIO_BASE + encodeURIComponent(ep.file_stem) + ".m4a";
     loadState.textContent = "加载中…";
     timeTotal.textContent = "–:––";
     timeNow.textContent = "0:00";
@@ -301,23 +324,34 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     applyRate();
     refresh(player.currentTime);
   });
+  var lastPosSync = 0;
   player.addEventListener("timeupdate", function(){
     refresh(player.currentTime);
     savePos(false);
+    var now = Date.now();
+    if(now - lastPosSync > 1000){ lastPosSync = now; syncPosState(); }
   });
+  function paintPlay(playing){
+    var icon = playing ? "⏸" : "▶";
+    var label = playing ? "暂停" : "播放";
+    playIco.textContent = icon; playBtn.setAttribute("aria-label", label);
+    var tp = $("tpPlay");
+    if(tp){ tp.textContent = icon; tp.setAttribute("aria-label", label); }
+    if(navigator.mediaSession) navigator.mediaSession.playbackState = playing ? "playing" : "paused";
+  }
   player.addEventListener("play", function(){
-    playIco.textContent = "⏸"; playBtn.setAttribute("aria-label","暂停");
+    paintPlay(true);
     applyRate(); savePos(true);
   });
   player.addEventListener("pause", function(){
-    playIco.textContent = "▶"; playBtn.setAttribute("aria-label","播放"); savePos(true);
+    paintPlay(false); savePos(true);
   });
   player.addEventListener("ended", function(){
-    playIco.textContent = "▶"; playBtn.setAttribute("aria-label","播放"); savePos(true);
+    paintPlay(false); savePos(true);
   });
   player.addEventListener("error", function(){
     loadState.textContent = "音频加载失败";
-    banner.hidden = false; banner.textContent = "找不到 ../data/m4a/" + cur.ep.file_stem + ".m4a（请确认目录结构）";
+    banner.hidden = false; banner.textContent = "找不到 " + AUDIO_BASE + cur.ep.file_stem + ".m4a（请确认音频目录）";
   });
 
   // ---------- 变速 ----------
@@ -375,6 +409,56 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     if(b) goToSentence(parseInt(b.dataset.i, 10));
   });
   playBtn.addEventListener("click", togglePlay);
+
+  // ---------- 触摸控制条（手机） ----------
+  $("touchBar").addEventListener("click", function(e){
+    var b = e.target.closest("[data-act]");
+    if(!b) return;
+    var act = b.dataset.act;
+    if(act === "prev") goToSentence(cur.idx - 1);
+    else if(act === "next") goToSentence(cur.idx + 1);
+    else if(act === "back") seekTo(Math.max(0, player.currentTime - 10));
+    else if(act === "fwd") seekTo(player.currentTime + 10);
+    else if(act === "play") togglePlay();
+  });
+
+  // ---------- 锁屏 / 通知栏（Media Session） ----------
+  var ms = navigator.mediaSession;
+  function setMediaMeta(ep){
+    if(!ms || !window.MediaMetadata) return;
+    try{
+      ms.metadata = new MediaMetadata({
+        title: String(ep.no).padStart(2, "0") + " · " + ep.title,
+        artist: "精读辅助",
+        album: "商务英语 67 集"
+      });
+    }catch(e){}
+  }
+  function syncPosState(){
+    if(!ms || !ms.setPositionState) return;
+    if(!cur.metaReady || !isFinite(player.duration) || player.duration <= 0) return;
+    try{
+      ms.setPositionState({
+        duration: player.duration,
+        position: Math.min(player.currentTime, player.duration),
+        playbackRate: player.playbackRate
+      });
+    }catch(e){}
+  }
+  if(ms && ms.setActionHandler){
+    var msActions = {
+      play: togglePlay,
+      pause: function(){ player.pause(); },
+      seekbackward: function(){ seekTo(Math.max(0, player.currentTime - 10)); },
+      seekforward: function(){ seekTo(player.currentTime + 10); },
+      previoustrack: function(){ goToSentence(cur.idx - 1); },
+      nexttrack: function(){ goToSentence(cur.idx + 1); }
+    };
+    Object.keys(msActions).forEach(function(k){
+      try{ ms.setActionHandler(k, msActions[k]); }catch(e){}
+    });
+  }
+
   var helpDlg = $("helpDlg");
   $("helpBtn").addEventListener("click", function(){ helpDlg.showModal(); });
   $("helpClose").addEventListener("click", function(){ helpDlg.close(); });

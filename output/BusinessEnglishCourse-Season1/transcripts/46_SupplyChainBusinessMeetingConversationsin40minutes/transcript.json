@@ -1,0 +1,3193 @@
+{
+  "no": 46,
+  "file_stem": "46_SupplyChainBusinessMeetingConversationsin40minutes",
+  "cid": "38194317295",
+  "title_fixed": "Supply Chain Business Meeting Conversations in 40 minutes",
+  "metrics": {
+    "language": "en",
+    "language_probability": 0.996,
+    "duration": 2619.3
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.37,
+      "text": "Listen, practice, speak. Practice makes you perfect."
+    },
+    {
+      "start": 12.37,
+      "end": 16.23,
+      "text": "Good morning. Thanks for joining the call today."
+    },
+    {
+      "start": 16.23,
+      "end": 22.23,
+      "text": "I know your schedule has been packed lately with the regional audits and the vendor evaluation cycle,"
+    },
+    {
+      "start": 22.23,
+      "end": 27.23,
+      "text": "but I'm glad we could carve out some time to discuss our supply chain performance"
+    },
+    {
+      "start": 27.23,
+      "end": 30.23,
+      "text": "and procurement strategy for the next quarter."
+    },
+    {
+      "start": 30.23,
+      "end": 33.23,
+      "text": "Absolutely. Glad to be here."
+    },
+    {
+      "start": 33.23,
+      "end": 37.79,
+      "text": "And yes, things have been pretty hectic on my side, especially with the new sustainability"
+    },
+    {
+      "start": 37.79,
+      "end": 40.35,
+      "text": "requirements coming from headquarters."
+    },
+    {
+      "start": 40.35,
+      "end": 42.87,
+      "text": "But honestly, this discussion is overdue."
+    },
+    {
+      "start": 42.87,
+      "end": 48.19,
+      "text": "We've been operating under increasing pressure from both suppliers and internal stakeholders."
+    },
+    {
+      "start": 48.19,
+      "end": 51.43,
+      "text": "So aligning our strategy is more important than ever."
+    },
+    {
+      "start": 51.43,
+      "end": 52.63,
+      "text": "Exactly."
+    },
+    {
+      "start": 52.63,
+      "end": 56.19,
+      "text": "And I think we need to address several pain points at once."
+    },
+    {
+      "start": 56.19,
+      "end": 58.43,
+      "text": "Lead times are increasing."
+    },
+    {
+      "start": 58.43,
+      "end": 61.43,
+      "text": "Suppliers are pushing new price revisions."
+    },
+    {
+      "start": 61.43,
+      "end": 66.07,
+      "text": "delays are becoming more frequent and the procurement team is feeling overwhelmed."
+    },
+    {
+      "start": 66.63,
+      "end": 71.75,
+      "text": "So maybe we can start by reviewing where we currently stand in terms of operations."
+    },
+    {
+      "start": 72.74,
+      "end": 79.06,
+      "text": "Sure, let me give you a brief overview. As of last month, our average supplier lead time"
+    },
+    {
+      "start": 79.06,
+      "end": 84.9,
+      "text": "increased from 22 days to about 29 days. A large portion of that increase is coming from"
+    },
+    {
+      "start": 84.9,
+      "end": 90.66,
+      "text": "our Tier 2 suppliers, especially those dealing with specialized components. And as you probably"
+    },
+    {
+      "start": 90.66,
+      "end": 97.46,
+      "text": "noticed our freight costs have gone up by nearly 14% due to port congestion and rising fuel surcharges."
+    },
+    {
+      "start": 98.18,
+      "end": 103.46,
+      "text": "Yes, I saw those numbers in the report. And honestly, what concerned me the most was the"
+    },
+    {
+      "start": 103.46,
+      "end": 110.18,
+      "text": "variability. It's not just that lead times are longer, they're unpredictable. Sometimes shipments"
+    },
+    {
+      "start": 110.18,
+      "end": 115.38,
+      "text": "arrive early, sometimes they're delayed, sometimes they're split without notice."
+    },
+    {
+      "start": 115.38,
+      "end": 120.82,
+      "text": "That makes it incredibly difficult for our planning team to create stable production schedules."
+    },
+    {
+      "start": 121.62,
+      "end": 126.74,
+      "text": "Exactly. And the unpredictability also impacts our safety stock planning."
+    },
+    {
+      "start": 126.74,
+      "end": 130.5,
+      "text": "If you look at the last three months, our stockouts increased by 17%."
+    },
+    {
+      "start": 131.38,
+      "end": 135.46,
+      "text": "But at the same time, we have excess inventory of slow-moving items."
+    },
+    {
+      "start": 135.46,
+      "end": 140.58,
+      "text": "It's a classic imbalance. Too much of what we don't need and too little of what we urgently"
+    },
+    {
+      "start": 140.58,
+      "end": 145.38,
+      "text": "require. This is a direct reflection of inconsistent supply patterns."
+    },
+    {
+      "start": 145.38,
+      "end": 151.18,
+      "text": "Right. And we need to think critically about our supplier portfolio. We've been working"
+    },
+    {
+      "start": 151.18,
+      "end": 157.0,
+      "text": "with some of these vendors for years, but I'm not sure they have the capacity or digital"
+    },
+    {
+      "start": 157.0,
+      "end": 162.1,
+      "text": "maturity to keep up with our growth. I'm not suggesting that we terminate anyone"
+    },
+    {
+      "start": 162.1,
+      "end": 168.7,
+      "text": "immediately, but maybe it's time to reconsider our vendor diversification strategy."
+    },
+    {
+      "start": 168.7,
+      "end": 174.42,
+      "text": "I completely agree. A healthy supply chain shouldn't rely too heavily on a handful of suppliers,"
+    },
+    {
+      "start": 174.42,
+      "end": 179.38,
+      "text": "especially for critical components. And we've seen firsthand what happens when that risk"
+    },
+    {
+      "start": 179.38,
+      "end": 184.46,
+      "text": "turns into a reality. Remember the shutdown we experienced last quarter due to a single"
+    },
+    {
+      "start": 184.46,
+      "end": 190.86,
+      "text": "supplier delay? That one event alone cost us nearly two weeks of production time."
+    },
+    {
+      "start": 190.86,
+      "end": 196.62,
+      "text": "Don't remind me. The ripple effects were everywhere. Customer complaints, expedited"
+    },
+    {
+      "start": 196.62,
+      "end": 203.58,
+      "text": "shipping fees, production over time. It was a mess. I think procurement needs to take a more"
+    },
+    {
+      "start": 203.58,
+      "end": 209.98,
+      "text": "active role in monitoring supplier risk indicators. Things like financial stability, operational"
+    },
+    {
+      "start": 209.98,
+      "end": 217.18,
+      "text": "capacity, and geopolitical exposure have to be evaluated regularly, not just during annual reviews."
+    },
+    {
+      "start": 217.98,
+      "end": 223.18,
+      "text": "Agreed. And speaking of reviews, I think we need to rethink our vendor's scorecard."
+    },
+    {
+      "start": 223.18,
+      "end": 228.86,
+      "text": "Right now, it's focused too heavily on pricing and on-time delivery, but modern supply chains"
+    },
+    {
+      "start": 228.86,
+      "end": 235.02,
+      "text": "require broader metrics, digital capability, sustainability compliance, responsiveness during"
+    },
+    {
+      "start": 235.02,
+      "end": 240.06,
+      "text": "disruptions, level of transparency, and willingness to participate in data sharing."
+    },
+    {
+      "start": 240.62,
+      "end": 243.02,
+      "text": "These factors can make or break our resilience."
+    },
+    {
+      "start": 243.82,
+      "end": 249.9,
+      "text": "Yes, and resilience is the key word here. After the last few years with the pandemic,"
+    },
+    {
+      "start": 249.9,
+      "end": 256.78,
+      "text": "like port shutdowns, economic shifts, and geopolitical tensions, resilience isn't a luxury anymore."
+    },
+    {
+      "start": 256.78,
+      "end": 258.64,
+      "text": "It's a requirement."
+    },
+    {
+      "start": 258.64,
+      "end": 263.54,
+      "text": "To achieve that resilience, we need stronger collaboration between procurement, supply"
+    },
+    {
+      "start": 263.54,
+      "end": 267.46,
+      "text": "chain operations, and our suppliers themselves."
+    },
+    {
+      "start": 267.46,
+      "end": 269.98,
+      "text": "I'm glad you mentioned collaboration."
+    },
+    {
+      "start": 269.98,
+      "end": 274.32,
+      "text": "One major challenge we've been facing is the lack of real-time visibility."
+    },
+    {
+      "start": 274.32,
+      "end": 279.58,
+      "text": "Many of our suppliers still send order updates manually via email or spreadsheets."
+    },
+    {
+      "start": 279.58,
+      "end": 285.06,
+      "text": "creates delays, errors, and communication gaps. If we want to improve performance, we need"
+    },
+    {
+      "start": 285.06,
+      "end": 291.58,
+      "text": "to push for digital integration. Even basic EDI or API connections would make a huge difference."
+    },
+    {
+      "start": 291.58,
+      "end": 297.9,
+      "text": "Absolutely. Automation, real-time data sharing would remove half the surprises we experience"
+    },
+    {
+      "start": 297.9,
+      "end": 304.18,
+      "text": "today. And if suppliers can provide consistent updates, order confirmations, shipping..."
+    },
+    {
+      "start": 304.18,
+      "end": 308.98,
+      "text": "Good morning. Thanks for making the time to sit down today. I know your schedule"
+    },
+    {
+      "start": 308.98,
+      "end": 314.5,
+      "text": "has been packed, and with the quarter closing, procurement topics have been piling up faster"
+    },
+    {
+      "start": 314.5,
+      "end": 316.26,
+      "text": "than we expected."
+    },
+    {
+      "start": 316.26,
+      "end": 321.54,
+      "text": "But I thought it would be useful if we could walk through a full overview of the supply chain"
+    },
+    {
+      "start": 321.54,
+      "end": 324.3,
+      "text": "performance issues we've been observing."
+    },
+    {
+      "start": 324.3,
+      "end": 329.62,
+      "text": "I'd like us to get aligned, especially because leadership is starting to request more frequent"
+    },
+    {
+      "start": 329.62,
+      "end": 330.62,
+      "text": "updates."
+    },
+    {
+      "start": 330.62,
+      "end": 332.46,
+      "text": "So, let's dive in."
+    },
+    {
+      "start": 332.46,
+      "end": 333.46,
+      "text": "How does that sound?"
+    },
+    {
+      "start": 333.46,
+      "end": 334.46,
+      "text": "Absolutely."
+    },
+    {
+      "start": 334.46,
+      "end": 336.7,
+      "text": "I'm glad we're doing this."
+    },
+    {
+      "start": 336.7,
+      "end": 342.62,
+      "text": "It feels like we've had bits and pieces of this conversation across different emails and"
+    },
+    {
+      "start": 342.62,
+      "end": 348.18,
+      "text": "short meetings, but not a full comprehensive discussion."
+    },
+    {
+      "start": 348.18,
+      "end": 354.54,
+      "text": "And with what's happening globally, the volatility and raw material availability, freight cost"
+    },
+    {
+      "start": 354.54,
+      "end": 360.62,
+      "text": "spikes, and the ongoing supplier reliability challenges, we definitely need a consolidated"
+    },
+    {
+      "start": 360.62,
+      "end": 361.62,
+      "text": "view."
+    },
+    {
+      "start": 361.62,
+      "end": 363.92,
+      "text": "So yes, this is the right time."
+    },
+    {
+      "start": 363.92,
+      "end": 365.94,
+      "text": "Where would you like to begin?"
+    },
+    {
+      "start": 365.94,
+      "end": 370.34,
+      "text": "Maybe we start with the most pressing point, supplier performance."
+    },
+    {
+      "start": 370.34,
+      "end": 377.18,
+      "text": "Over the past three months, we've seen on-time delivery drop from 87% down to 73%."
+    },
+    {
+      "start": 377.18,
+      "end": 381.32,
+      "text": "And as you know, that's caused a ripple effect in production planning."
+    },
+    {
+      "start": 381.32,
+      "end": 385.62,
+      "text": "Our manufacturing teams have had to issue multiple schedule adjustments."
+    },
+    {
+      "start": 385.62,
+      "end": 390.26,
+      "text": "They're frustrated, our customers feel the delays, and it's becoming a reputational"
+    },
+    {
+      "start": 390.26,
+      "end": 391.26,
+      "text": "risk."
+    },
+    {
+      "start": 391.26,
+      "end": 392.82,
+      "text": "What's your perspective?"
+    },
+    {
+      "start": 392.82,
+      "end": 396.18,
+      "text": "Have suppliers provided any credible explanations?"
+    },
+    {
+      "start": 396.18,
+      "end": 401.38,
+      "text": "I've spoken with several of them, and honestly, the reasons are mixed."
+    },
+    {
+      "start": 401.38,
+      "end": 407.62,
+      "text": "Some cite labor shortages, some point to port congestion, and others blame upstream shortages"
+    },
+    {
+      "start": 407.62,
+      "end": 409.74,
+      "text": "from their own suppliers."
+    },
+    {
+      "start": 409.74,
+      "end": 416.38,
+      "text": "But what concerns me is that many of these explanations feel reactive, rather than strategic."
+    },
+    {
+      "start": 416.38,
+      "end": 420.5,
+      "text": "It's like they're trying to put out fires instead of preventing them."
+    },
+    {
+      "start": 420.5,
+      "end": 425.98,
+      "text": "And that tells me we may need to evaluate whether certain suppliers are still the right"
+    },
+    {
+      "start": 425.98,
+      "end": 427.9,
+      "text": "long-term partners."
+    },
+    {
+      "start": 427.9,
+      "end": 429.3,
+      "text": "I agree."
+    },
+    {
+      "start": 429.3,
+      "end": 434.1,
+      "text": "But before we get to that decision point, I think it's important to analyze whether"
+    },
+    {
+      "start": 434.1,
+      "end": 440.06,
+      "text": "the performance issues are due to their internal inefficiencies, or if there's something"
+    },
+    {
+      "start": 440.06,
+      "end": 444.74,
+      "text": "systemic in our processes that's contributing to the delays."
+    },
+    {
+      "start": 444.74,
+      "end": 448.34,
+      "text": "For instance, our forecasting hasn't exactly been stable."
+    },
+    {
+      "start": 448.34,
+      "end": 453.38,
+      "text": "We've had several last-minute quantity adjustments, and although they weren't huge changes, some"
+    },
+    {
+      "start": 453.38,
+      "end": 456.38,
+      "text": "suppliers are sensitive to fluctuations."
+    },
+    {
+      "start": 456.38,
+      "end": 460.24,
+      "text": "Do you think our forecasting accuracy is part of the problem?"
+    },
+    {
+      "start": 460.24,
+      "end": 464.0,
+      "text": "It could be, but only partially."
+    },
+    {
+      "start": 464.0,
+      "end": 473.04,
+      "text": "Forecasting accuracy dropped from around 80% to 72%, which is noticeable, but not catastrophic."
+    },
+    {
+      "start": 473.04,
+      "end": 476.68,
+      "text": "Many mature suppliers can handle that level of variation."
+    },
+    {
+      "start": 476.68,
+      "end": 481.78,
+      "text": "The bigger issue, from what I've observed, is that some of our supply partners are still"
+    },
+    {
+      "start": 481.78,
+      "end": 484.74,
+      "text": "operating with outdated planning systems."
+    },
+    {
+      "start": 484.74,
+      "end": 490.92,
+      "text": "They rely heavily on manual entry, spreadsheets, and internal communication chains that are"
+    },
+    {
+      "start": 490.92,
+      "end": 494.01,
+      "text": "slow."
+    },
+    {
+      "start": 494.01,
+      "end": 499.05,
+      "text": "And when they're slow communication, even small forecasting changes can cause major"
+    },
+    {
+      "start": 499.05,
+      "end": 500.05,
+      "text": "disruptions."
+    },
+    {
+      "start": 500.05,
+      "end": 501.05,
+      "text": "Right."
+    },
+    {
+      "start": 501.05,
+      "end": 506.11,
+      "text": "I've also noticed that their response times to our inquiries have increased."
+    },
+    {
+      "start": 506.11,
+      "end": 512.59,
+      "text": "What used to be a 12-hour turnaround is now closer to 36 hours, sometimes even 48 hours."
+    },
+    {
+      "start": 512.59,
+      "end": 516.95,
+      "text": "And in global supply chains, that delay accumulates quickly."
+    },
+    {
+      "start": 516.95,
+      "end": 519.14,
+      "text": "It becomes a bottleneck."
+    },
+    {
+      "start": 519.14,
+      "end": 524.26,
+      "text": "Have we considered conducting an operational assessment on their planning capabilities?"
+    },
+    {
+      "start": 524.26,
+      "end": 526.18,
+      "text": "I have, yes."
+    },
+    {
+      "start": 526.18,
+      "end": 531.36,
+      "text": "In fact, I drafted a preliminary vendor capability assessment framework last week."
+    },
+    {
+      "start": 531.36,
+      "end": 538.04,
+      "text": "That includes criteria like digital maturity, demand, planning responsiveness, risk management"
+    },
+    {
+      "start": 538.04,
+      "end": 541.4,
+      "text": "structure, and supply chain visibility tools."
+    },
+    {
+      "start": 541.4,
+      "end": 548.08,
+      "text": "But before we implement it, we need internal alignment, especially with legal and compliance."
+    },
+    {
+      "start": 548.08,
+      "end": 554.0,
+      "text": "If we start evaluating suppliers more strictly, some may push back or feel threatened."
+    },
+    {
+      "start": 554.0,
+      "end": 556.08,
+      "text": "But I believe it's necessary."
+    },
+    {
+      "start": 556.08,
+      "end": 557.08,
+      "text": "Definitely necessary."
+    },
+    {
+      "start": 557.08,
+      "end": 562.28,
+      "text": "And honestly, if a supplier feels threatened by transparency and capability assessments,"
+    },
+    {
+      "start": 562.28,
+      "end": 568.28,
+      "text": "that might be revealing in itself. In modern procurement, suppliers should expect evaluation."
+    },
+    {
+      "start": 568.28,
+      "end": 573.11,
+      "text": "It's part of strategic sourcing. Speaking of strategic sourcing, have you given"
+    },
+    {
+      "start": 573.11,
+      "end": 578.63,
+      "text": "any more thought to whether we should diversify our supplier base? Right now, we rely heavily"
+    },
+    {
+      "start": 578.63,
+      "end": 584.79,
+      "text": "on three primary suppliers for nearly 80% of our raw material inputs. That feels risky."
+    },
+    {
+      "start": 584.79,
+      "end": 592.71,
+      "text": "Very risky. And the current environment makes it riskier. Single source or limited"
+    },
+    {
+      "start": 592.71,
+      "end": 598.23,
+      "text": "source strategies were fine when stability and predictability were high, but the world has changed."
+    },
+    {
+      "start": 598.87,
+      "end": 605.75,
+      "text": "I actually think supplier diversification is not just an option, it's essential. The challenge"
+    },
+    {
+      "start": 605.75,
+      "end": 611.35,
+      "text": "of course is qualifying new suppliers. The onboarding process is long, but at the same time"
+    },
+    {
+      "start": 611.35,
+      "end": 614.95,
+      "text": "it might be longer-term pain for shorter-term gain."
+    },
+    {
+      "start": 614.95,
+      "end": 618.31,
+      "text": "Agreed. And something else has been bothering me."
+    },
+    {
+      "start": 618.31,
+      "end": 622.15,
+      "text": "It's the lack of real-time visibility across our supply chain."
+    },
+    {
+      "start": 622.79,
+      "end": 625.99,
+      "text": "We track shipments, but the data is fragmented."
+    },
+    {
+      "start": 625.99,
+      "end": 630.55,
+      "text": "Our ERP shows one thing, the freight forwarder system shows something else,"
+    },
+    {
+      "start": 630.55,
+      "end": 633.67,
+      "text": "and sometimes we don't reconcile the data until days later."
+    },
+    {
+      "start": 634.55,
+      "end": 638.79,
+      "text": "If we're serious about performance improvement, we need end-to-end visibility."
+    },
+    {
+      "start": 639.66,
+      "end": 639.9,
+      "text": "Yes."
+    },
+    {
+      "start": 639.9,
+      "end": 648.05,
+      "text": "Good morning. I hope you had a smooth commute today. I know the traffic around the industrial"
+    },
+    {
+      "start": 648.05,
+      "end": 653.65,
+      "text": "zone has been terrible this week. Morning. Yes, it took me a little longer than usual,"
+    },
+    {
+      "start": 653.65,
+      "end": 658.21,
+      "text": "but it's all good. I grabbed a coffee on the way to stay energized. I know we have a long"
+    },
+    {
+      "start": 658.21,
+      "end": 661.89,
+      "text": "discussion ahead regarding the supply chain bottlenecks and procurement strategy for the"
+    },
+    {
+      "start": 661.89,
+      "end": 668.25,
+      "text": "next quarter. Absolutely. That's precisely why I wanted us to sit together today. A lot"
+    },
+    {
+      "start": 668.25,
+      "end": 673.45,
+      "text": "That has changed over the past few weeks, especially with the fluctuations in lead times"
+    },
+    {
+      "start": 673.45,
+      "end": 678.05,
+      "text": "and the unexpected delays from two of our main suppliers."
+    },
+    {
+      "start": 678.05,
+      "end": 683.09,
+      "text": "Procurement has been stretched thin and supply chain operations have been reacting rather"
+    },
+    {
+      "start": 683.09,
+      "end": 684.09,
+      "text": "than planning."
+    },
+    {
+      "start": 684.09,
+      "end": 687.69,
+      "text": "I believe this is the right moment to align ourselves."
+    },
+    {
+      "start": 687.69,
+      "end": 688.77,
+      "text": "I agree."
+    },
+    {
+      "start": 688.77,
+      "end": 693.81,
+      "text": "In fact, I've been reviewing all the data and the patterns are quite concerning."
+    },
+    {
+      "start": 693.81,
+      "end": 699.81,
+      "text": "Supplier A in Malaysia has pushed their lead time from 22 days to nearly 36 days."
+    },
+    {
+      "start": 699.81,
+      "end": 703.85,
+      "text": "Supplier B in India has been struggling with raw material shortages, which is affecting"
+    },
+    {
+      "start": 703.85,
+      "end": 706.41,
+      "text": "their ability to dispatch on time."
+    },
+    {
+      "start": 706.41,
+      "end": 710.81,
+      "text": "And supplier C from Vietnam has introduced a new quality inspection cycle that adds"
+    },
+    {
+      "start": 710.81,
+      "end": 713.53,
+      "text": "an additional five days to their timeline."
+    },
+    {
+      "start": 713.53,
+      "end": 717.05,
+      "text": "These shifts are creating ripple effects across the entire chain."
+    },
+    {
+      "start": 717.05,
+      "end": 718.05,
+      "text": "Exactly."
+    },
+    {
+      "start": 718.05,
+      "end": 723.53,
+      "text": "And what's even more worrying is the impact this is having on our production planning."
+    },
+    {
+      "start": 723.53,
+      "end": 729.85,
+      "text": "When inbound materials don't arrive consistently, the factory floor ends up either overstocked"
+    },
+    {
+      "start": 729.85,
+      "end": 732.05,
+      "text": "or undersupplied."
+    },
+    {
+      "start": 732.05,
+      "end": 737.57,
+      "text": "Last week, production had to slow down because one critical component wasn't available,"
+    },
+    {
+      "start": 737.57,
+      "end": 741.25,
+      "text": "even though inventories of other components were piling up."
+    },
+    {
+      "start": 741.25,
+      "end": 743.81,
+      "text": "That imbalance is costing us."
+    },
+    {
+      "start": 743.81,
+      "end": 748.13,
+      "text": "Yes, and that's why I think we need to rethink how procurement interacts with supply"
+    },
+    {
+      "start": 748.13,
+      "end": 749.89,
+      "text": "chain operations."
+    },
+    {
+      "start": 749.89,
+      "end": 752.57,
+      "text": "Right now, we're functioning too independently."
+    },
+    {
+      "start": 752.57,
+      "end": 757.43,
+      "text": "is negotiating contracts and placing orders, while supply chain is tracking deliveries and"
+    },
+    {
+      "start": 757.43,
+      "end": 762.03,
+      "text": "planning logistics. But the two processes need to be more integrated. Otherwise, we will"
+    },
+    {
+      "start": 762.03,
+      "end": 764.01,
+      "text": "continue to experience these gaps."
+    },
+    {
+      "start": 764.01,
+      "end": 769.15,
+      "text": "You're right. It's no longer enough to just source cost effectively. We have to source"
+    },
+    {
+      "start": 769.15,
+      "end": 775.61,
+      "text": "reliably. Supplier performance should be evaluated not only based on price and quality,"
+    },
+    {
+      "start": 775.61,
+      "end": 782.55,
+      "text": "but also consistency, responsiveness, communication speed, and their ability to handle fluctuations."
+    },
+    {
+      "start": 782.55,
+      "end": 787.35,
+      "text": "Right now, our vendor scorecards only capture part of the picture."
+    },
+    {
+      "start": 787.35,
+      "end": 789.65,
+      "text": "That's one of the things I wanted us to address."
+    },
+    {
+      "start": 789.65,
+      "end": 794.25,
+      "text": "For example, supplier A has good pricing, but their communication is extremely slow."
+    },
+    {
+      "start": 794.25,
+      "end": 797.85,
+      "text": "Sometimes it takes them two or three days just to confirm a dispatch date."
+    },
+    {
+      "start": 797.85,
+      "end": 801.35,
+      "text": "When unexpected delays occur, they notify us too late."
+    },
+    {
+      "start": 801.35,
+      "end": 804.65,
+      "text": "That lack of transparency hurts our planning accuracy."
+    },
+    {
+      "start": 804.65,
+      "end": 805.85,
+      "text": "Precisely."
+    },
+    {
+      "start": 805.85,
+      "end": 809.65,
+      "text": "And I've noticed that when we follow up with them repeatedly,"
+    },
+    {
+      "start": 809.65,
+      "end": 815.17,
+      "text": "We still don't get proactive responses. They still wait until we push them."
+    },
+    {
+      "start": 815.17,
+      "end": 820.93,
+      "text": "This reactive communication style does not work for a high-volume production environment like ours."
+    },
+    {
+      "start": 821.57,
+      "end": 826.29,
+      "text": "So, one thing we could do is implement a more structured communication protocol."
+    },
+    {
+      "start": 826.29,
+      "end": 829.09,
+      "text": "We could require weekly updates from all suppliers,"
+    },
+    {
+      "start": 829.09,
+      "end": 833.01,
+      "text": "short bulletins stating their raw material situation, production progress,"
+    },
+    {
+      "start": 833.01,
+      "end": 837.33,
+      "text": "and expected dispatch schedules. This way we get early warning signals instead of"
+    },
+    {
+      "start": 837.33,
+      "end": 843.25,
+      "text": "last minute surprises. I like that approach. It's simple, sustainable and doesn't require"
+    },
+    {
+      "start": 843.25,
+      "end": 850.21,
+      "text": "any major investment. And more importantly, it sets a clear expectation. Suppliers will know"
+    },
+    {
+      "start": 850.21,
+      "end": 856.85,
+      "text": "that silence is not acceptable. Yes. Another topic I wanted to address is safety stock."
+    },
+    {
+      "start": 856.85,
+      "end": 860.45,
+      "text": "I know maintaining too much inventory increases our carrying costs,"
+    },
+    {
+      "start": 860.45,
+      "end": 864.29,
+      "text": "but with the current volatility, I believe we need to review our safety stock levels."
+    },
+    {
+      "start": 864.29,
+      "end": 869.29,
+      "text": "Some items may require temporary increases until the supplier situation stabilizes."
+    },
+    {
+      "start": 869.29,
+      "end": 876.29,
+      "text": "That's a good point. Historically our safety stock was calculated based on average lead times"
+    },
+    {
+      "start": 876.29,
+      "end": 884.29,
+      "text": "and average consumption, but today the variance is so high that those calculations don't reflect reality anymore."
+    },
+    {
+      "start": 884.29,
+      "end": 891.29,
+      "text": "If a supplier suddenly extends their lead time by 10 to 14 days, we risk stock outs."
+    },
+    {
+      "start": 891.29,
+      "end": 900.29,
+      "text": "Exactly. We cannot rely on outdated parameters. I think we should recalculate safety stock using higher variability assumptions."
+    },
+    {
+      "start": 900.29,
+      "end": 906.29,
+      "text": "Perhaps we could also use a dynamic safety stock model that adjusts based on real-time demand and supplier performance."
+    },
+    {
+      "start": 906.29,
+      "end": 912.29,
+      "text": "That would be ideal. It may require support from the planning team, but it's doable."
+    },
+    {
+      "start": 912.29,
+      "end": 919.29,
+      "text": "If we present a clear case showing how recent delays have affected production, I'm sure we can get quick approval."
+    },
+    {
+      "start": 919.29,
+      "end": 924.49,
+      "text": "approval. Absolutely. Speaking of planning, I think we need to strengthen the relationship"
+    },
+    {
+      "start": 924.49,
+      "end": 930.81,
+      "text": "between procurement, supply chain, and production planning. Right now, each team has their own"
+    },
+    {
+      "start": 930.81,
+      "end": 936.89,
+      "text": "set of priorities and sometimes communication becomes fragmented. True. I've seen situations"
+    },
+    {
+      "start": 936.89,
+      "end": 942.65,
+      "text": "where planning has changed production schedules without informing procurement early enough,"
+    },
+    {
+      "start": 942.65,
+      "end": 948.33,
+      "text": "so we weren't able to adjust purchase orders in time. That creates unnecessary pressure"
+    },
+    {
+      "start": 948.33,
+      "end": 950.41,
+      "text": "on both sides."
+    },
+    {
+      "start": 950.41,
+      "end": 952.69,
+      "text": "And the opposite happens as well."
+    },
+    {
+      "start": 952.69,
+      "end": 956.41,
+      "text": "Procurement sometimes changes order quantities or delivery schedules based on negotiations"
+    },
+    {
+      "start": 956.41,
+      "end": 960.13,
+      "text": "with suppliers, but planning doesn't get updated on time."
+    },
+    {
+      "start": 960.13,
+      "end": 963.89,
+      "text": "This creates confusion on the shop floor and forces last-minute adjustments."
+    },
+    {
+      "start": 963.89,
+      "end": 966.43,
+      "text": "All of this highlights one thing."
+    },
+    {
+      "start": 966.43,
+      "end": 968.85,
+      "text": "We need improved alignment."
+    },
+    {
+      "start": 968.85,
+      "end": 971.01,
+      "text": "And not just occasional meetings."
+    },
+    {
+      "start": 971.01,
+      "end": 974.17,
+      "text": "We need a structured process."
+    },
+    {
+      "start": 974.17,
+      "end": 975.17,
+      "text": "Good morning."
+    },
+    {
+      "start": 975.17,
+      "end": 977.05,
+      "text": "Thanks for making time to sit down today."
+    },
+    {
+      "start": 977.05,
+      "end": 980.19,
+      "text": "I know your schedule has been packed recently."
+    },
+    {
+      "start": 980.19,
+      "end": 985.49,
+      "text": "With everything happening in the market, logistics delays, rising material costs, and suppliers"
+    },
+    {
+      "start": 985.49,
+      "end": 990.39,
+      "text": "renegotiating their terms, I figured it would be ideal for us to take a deeper look at our"
+    },
+    {
+      "start": 990.39,
+      "end": 992.89,
+      "text": "supply chain and procurement strategy."
+    },
+    {
+      "start": 992.89,
+      "end": 993.89,
+      "text": "Absolutely."
+    },
+    {
+      "start": 993.89,
+      "end": 994.89,
+      "text": "Good morning."
+    },
+    {
+      "start": 994.89,
+      "end": 995.89,
+      "text": "I agree."
+    },
+    {
+      "start": 995.89,
+      "end": 997.69,
+      "text": "The timing is right."
+    },
+    {
+      "start": 997.69,
+      "end": 1001.53,
+      "text": "There's been a lot of pressure on the supply side during the past quarter, and even"
+    },
+    {
+      "start": 1001.53,
+      "end": 1006.69,
+      "text": "though we anticipated some turbulence, the magnitude surprised us."
+    },
+    {
+      "start": 1006.69,
+      "end": 1010.09,
+      "text": "Before we get started, though, let me quickly confirm."
+    },
+    {
+      "start": 1010.09,
+      "end": 1016.71,
+      "text": "Are we focusing on reviewing the entire procurement cycle or only the critical supplier segment?"
+    },
+    {
+      "start": 1016.71,
+      "end": 1019.93,
+      "text": "My intention is to go through the entire cycle."
+    },
+    {
+      "start": 1019.93,
+      "end": 1024.77,
+      "text": "I know it's a big scope, but a holistic review might help us understand where the bottlenecks"
+    },
+    {
+      "start": 1024.77,
+      "end": 1026.69,
+      "text": "and vulnerabilities are."
+    },
+    {
+      "start": 1026.69,
+      "end": 1031.17,
+      "text": "It could also help us identify areas where we can build resilience, especially in how"
+    },
+    {
+      "start": 1031.17,
+      "end": 1034.93,
+      "text": "we forecast demand and manage supplier relationships."
+    },
+    {
+      "start": 1034.93,
+      "end": 1036.37,
+      "text": "That makes sense."
+    },
+    {
+      "start": 1036.37,
+      "end": 1041.33,
+      "text": "When we consider the complexity of today's supply chains, global sourcing, fluctuating"
+    },
+    {
+      "start": 1041.33,
+      "end": 1047.17,
+      "text": "demand, compliance requirements, taking a step back to analyze the full picture is not only"
+    },
+    {
+      "start": 1047.17,
+      "end": 1049.49,
+      "text": "practical but necessary."
+    },
+    {
+      "start": 1049.49,
+      "end": 1055.25,
+      "text": "So perhaps we can start by revisiting our demand forecasting and inventory planning"
+    },
+    {
+      "start": 1055.25,
+      "end": 1062.09,
+      "text": "and then proceed to supplier evaluation, negotiations, logistics, and risk mitigation."
+    },
+    {
+      "start": 1062.09,
+      "end": 1063.68,
+      "text": "Exactly."
+    },
+    {
+      "start": 1063.68,
+      "end": 1066.96,
+      "text": "Let me start with demand forecasting."
+    },
+    {
+      "start": 1066.96,
+      "end": 1072.16,
+      "text": "Over the past three quarters, our variance has been significantly higher than typical."
+    },
+    {
+      "start": 1072.16,
+      "end": 1078.16,
+      "text": "We've usually kept forecasts within a 7% deviation, but recently we've seen swings upward"
+    },
+    {
+      "start": 1078.16,
+      "end": 1080.16,
+      "text": "of 18%."
+    },
+    {
+      "start": 1080.16,
+      "end": 1085.24,
+      "text": "Such volatility affects our procurement planning, cash flow, and even the reliability of our"
+    },
+    {
+      "start": 1085.24,
+      "end": 1087.2,
+      "text": "commitments to key clients."
+    },
+    {
+      "start": 1087.2,
+      "end": 1088.2,
+      "text": "You're right."
+    },
+    {
+      "start": 1088.2,
+      "end": 1093.64,
+      "text": "I reviewed some of the data from the last quarter, and I noticed the same."
+    },
+    {
+      "start": 1093.64,
+      "end": 1100.48,
+      "text": "A major issue seems to be that our forecasting model heavily relies on historical sales without"
+    },
+    {
+      "start": 1100.48,
+      "end": 1106.72,
+      "text": "giving enough weight to external indicators, market trends, macroeconomic shifts, competitor"
+    },
+    {
+      "start": 1106.72,
+      "end": 1110.68,
+      "text": "behavior, and even geopolitical influences."
+    },
+    {
+      "start": 1110.68,
+      "end": 1115.64,
+      "text": "Our forecasting team is talented, but the tools they use may not fully capture the"
+    },
+    {
+      "start": 1115.64,
+      "end": 1118.12,
+      "text": "dynamics of the current business landscape."
+    },
+    {
+      "start": 1118.12,
+      "end": 1119.12,
+      "text": "True."
+    },
+    {
+      "start": 1119.12,
+      "end": 1124.12,
+      "text": "The model served us well when demand patterns were stable, but today's environment demands"
+    },
+    {
+      "start": 1124.12,
+      "end": 1126.32,
+      "text": "more adaptive systems."
+    },
+    {
+      "start": 1126.32,
+      "end": 1131.96,
+      "text": "I've been thinking that we should integrate more predictive analytics, AI-driven models,"
+    },
+    {
+      "start": 1131.96,
+      "end": 1135.72,
+      "text": "scenario planning, even real-time demand sensing."
+    },
+    {
+      "start": 1135.72,
+      "end": 1137.56,
+      "text": "That could help us reduce the variance."
+    },
+    {
+      "start": 1137.56,
+      "end": 1139.23,
+      "text": "I agree."
+    },
+    {
+      "start": 1139.23,
+      "end": 1145.11,
+      "text": "Another factor is the communication flow between sales, product development, operations"
+    },
+    {
+      "start": 1145.11,
+      "end": 1150.63,
+      "text": "and procurement. Sometimes the sales team receives early signals about customer shifts,"
+    },
+    {
+      "start": 1150.63,
+      "end": 1156.17,
+      "text": "but doesn't relay them fast enough. By the time procurement adjusts the orders, suppliers"
+    },
+    {
+      "start": 1156.17,
+      "end": 1161.67,
+      "text": "have limited capacity or extended lead times, which creates stress throughout the chain."
+    },
+    {
+      "start": 1161.67,
+      "end": 1167.39,
+      "text": "Exactly. The classic information lag. If we could strengthen our sales and operations"
+    },
+    {
+      "start": 1167.39,
+      "end": 1173.03,
+      "text": "planning collaboration, we'd be able to align demand with supply more accurately."
+    },
+    {
+      "start": 1173.03,
+      "end": 1178.73,
+      "text": "monthly alignment meetings is good, but maybe we should increase the frequency or implement"
+    },
+    {
+      "start": 1178.73,
+      "end": 1182.41,
+      "text": "a rolling SNOP cycle with more dynamic adjustments."
+    },
+    {
+      "start": 1182.41,
+      "end": 1184.92,
+      "text": "A rolling model could help."
+    },
+    {
+      "start": 1184.92,
+      "end": 1189.72,
+      "text": "Now, shifting to procurement practices, I've noticed that some of our supplier contracts"
+    },
+    {
+      "start": 1189.72,
+      "end": 1192.76,
+      "text": "haven't been updated in nearly three years."
+    },
+    {
+      "start": 1192.76,
+      "end": 1197.72,
+      "text": "Certain clauses, especially regarding price adjustment, delivery flexibility, and risk"
+    },
+    {
+      "start": 1197.72,
+      "end": 1201.34,
+      "text": "allocation, don't reflect current realities."
+    },
+    {
+      "start": 1201.34,
+      "end": 1205.62,
+      "text": "Suppliers are asking for cost escalations, but we don't have the framework to negotiate"
+    },
+    {
+      "start": 1205.62,
+      "end": 1208.22,
+      "text": "fairly or push back when necessary."
+    },
+    {
+      "start": 1208.22,
+      "end": 1210.94,
+      "text": "Yes, that's been a challenge."
+    },
+    {
+      "start": 1210.94,
+      "end": 1216.22,
+      "text": "Many suppliers have informal agreements with us, and while that used to be fine, it's"
+    },
+    {
+      "start": 1216.22,
+      "end": 1218.06,
+      "text": "no longer sustainable."
+    },
+    {
+      "start": 1218.06,
+      "end": 1224.34,
+      "text": "We need more structured, well-defined contracts that include SLAs, price review mechanisms,"
+    },
+    {
+      "start": 1224.34,
+      "end": 1227.42,
+      "text": "performance metrics, and risk-sharing models."
+    },
+    {
+      "start": 1227.42,
+      "end": 1230.58,
+      "text": "A clear contract protects both sides."
+    },
+    {
+      "start": 1230.58,
+      "end": 1236.5,
+      "text": "Exactly. I also think we should revisit our supplier segmentation. Right now, we have a"
+    },
+    {
+      "start": 1236.5,
+      "end": 1242.5,
+      "text": "fairly broad classification, critical suppliers, strategic suppliers, non-critical suppliers,"
+    },
+    {
+      "start": 1242.5,
+      "end": 1248.16,
+      "text": "and spot suppliers. But the way they're categorized doesn't necessarily reflect their actual"
+    },
+    {
+      "start": 1248.16,
+      "end": 1252.5,
+      "text": "impact on production, risk exposure, or financial value."
+    },
+    {
+      "start": 1252.5,
+      "end": 1258.14,
+      "text": "I've been thinking the same. For example, some suppliers classified as non-critical"
+    },
+    {
+      "start": 1258.14,
+      "end": 1263.18,
+      "text": "actually supply components that could halt production if disrupted. On the other hand,"
+    },
+    {
+      "start": 1263.18,
+      "end": 1268.94,
+      "text": "some suppliers considered strategic may not contribute significantly to competitive advantage"
+    },
+    {
+      "start": 1268.94,
+      "end": 1274.46,
+      "text": "or innovation. So maybe we need a more refined segmentation model, something like the"
+    },
+    {
+      "start": 1274.46,
+      "end": 1280.22,
+      "text": "crawl check matrix where suppliers are evaluated on profit impact and supply risk."
+    },
+    {
+      "start": 1280.22,
+      "end": 1286.7,
+      "text": "That's a good approach. If we categorize suppliers using that matrix, leverage items,"
+    },
+    {
+      "start": 1286.7,
+      "end": 1293.66,
+      "text": "strategic items, routine items, and bottleneck items, we can craft more tailored strategies."
+    },
+    {
+      "start": 1293.66,
+      "end": 1299.18,
+      "text": "For instance, strategic items require stronger partnerships and long-term agreements,"
+    },
+    {
+      "start": 1299.18,
+      "end": 1304.3,
+      "text": "while routine items could be handled through automation or consolidated purchasing."
+    },
+    {
+      "start": 1304.3,
+      "end": 1310.78,
+      "text": "Right. And for bottleneck items we need contingency plans, multiple sources, inventory buffers,"
+    },
+    {
+      "start": 1310.78,
+      "end": 1314.1,
+      "text": "or redesigning components to reduce dependency."
+    },
+    {
+      "start": 1314.1,
+      "end": 1317.06,
+      "text": "The goal is resilience and agility."
+    },
+    {
+      "start": 1317.06,
+      "end": 1320.54,
+      "text": "Speaking of resilience, let's talk about supplier."
+    },
+    {
+      "start": 1320.54,
+      "end": 1321.9,
+      "text": "Good morning."
+    },
+    {
+      "start": 1321.9,
+      "end": 1324.54,
+      "text": "Thanks for making the time to sit down today."
+    },
+    {
+      "start": 1324.54,
+      "end": 1326.46,
+      "text": "I know your schedule has been packed"
+    },
+    {
+      "start": 1326.46,
+      "end": 1328.38,
+      "text": "and with the quarter closing,"
+    },
+    {
+      "start": 1328.38,
+      "end": 1330.62,
+      "text": "procurement topics have been piling up"
+    },
+    {
+      "start": 1330.62,
+      "end": 1332.54,
+      "text": "faster than we expected."
+    },
+    {
+      "start": 1332.54,
+      "end": 1334.14,
+      "text": "But I thought it would be useful"
+    },
+    {
+      "start": 1334.14,
+      "end": 1337.02,
+      "text": "if we could walk through a full overview"
+    },
+    {
+      "start": 1337.02,
+      "end": 1339.14,
+      "text": "of the supply chain performance issues"
+    },
+    {
+      "start": 1339.14,
+      "end": 1340.78,
+      "text": "we've been observing."
+    },
+    {
+      "start": 1340.78,
+      "end": 1346.1,
+      "text": "I'd like us to get aligned, especially because leadership is starting to request more frequent"
+    },
+    {
+      "start": 1346.1,
+      "end": 1347.1,
+      "text": "updates."
+    },
+    {
+      "start": 1347.1,
+      "end": 1348.94,
+      "text": "So, let's dive in."
+    },
+    {
+      "start": 1348.94,
+      "end": 1349.94,
+      "text": "How does that sound?"
+    },
+    {
+      "start": 1349.94,
+      "end": 1350.94,
+      "text": "Absolutely."
+    },
+    {
+      "start": 1350.94,
+      "end": 1353.18,
+      "text": "I'm glad we're doing this."
+    },
+    {
+      "start": 1353.18,
+      "end": 1358.7,
+      "text": "It feels like we've had bits and pieces of this conversation across different emails"
+    },
+    {
+      "start": 1358.7,
+      "end": 1364.62,
+      "text": "and short meetings, but not a full comprehensive discussion."
+    },
+    {
+      "start": 1364.62,
+      "end": 1371.06,
+      "text": "And with what's happening globally, the volatility and raw material availability, freight cost"
+    },
+    {
+      "start": 1371.06,
+      "end": 1377.3,
+      "text": "spikes, and the ongoing supplier reliability challenges, we definitely need a consolidated"
+    },
+    {
+      "start": 1377.3,
+      "end": 1378.3,
+      "text": "view."
+    },
+    {
+      "start": 1378.3,
+      "end": 1380.42,
+      "text": "So yes, this is the right time."
+    },
+    {
+      "start": 1380.42,
+      "end": 1382.42,
+      "text": "Where would you like to begin?"
+    },
+    {
+      "start": 1382.42,
+      "end": 1386.78,
+      "text": "Maybe we start with the most pressing point, supplier performance."
+    },
+    {
+      "start": 1386.78,
+      "end": 1393.66,
+      "text": "Over the past three months, we've seen on time delivery drop from 87% down to 73%."
+    },
+    {
+      "start": 1393.66,
+      "end": 1397.78,
+      "text": "And as you know, that's caused a ripple effect in production planning."
+    },
+    {
+      "start": 1397.78,
+      "end": 1402.06,
+      "text": "Our manufacturing teams have had to issue multiple schedule adjustments."
+    },
+    {
+      "start": 1402.06,
+      "end": 1407.94,
+      "text": "They're frustrated, our customers feel the delays, and it's becoming a reputational risk."
+    },
+    {
+      "start": 1407.94,
+      "end": 1409.3,
+      "text": "What's your perspective?"
+    },
+    {
+      "start": 1409.3,
+      "end": 1412.66,
+      "text": "Have suppliers provided any credible explanations?"
+    },
+    {
+      "start": 1412.66,
+      "end": 1417.86,
+      "text": "I've spoken with several of them, and honestly, the reasons are mixed."
+    },
+    {
+      "start": 1417.86,
+      "end": 1424.12,
+      "text": "Some cite labor shortages, some point to port congestion, and others blame upstream shortages"
+    },
+    {
+      "start": 1424.12,
+      "end": 1426.24,
+      "text": "from their own suppliers."
+    },
+    {
+      "start": 1426.24,
+      "end": 1432.86,
+      "text": "But what concerns me is that many of these explanations feel reactive, rather than strategic."
+    },
+    {
+      "start": 1432.86,
+      "end": 1436.98,
+      "text": "It's like they're trying to put out fires instead of preventing them."
+    },
+    {
+      "start": 1436.98,
+      "end": 1442.46,
+      "text": "And that tells me we may need to evaluate whether certain suppliers are still the right"
+    },
+    {
+      "start": 1442.46,
+      "end": 1444.38,
+      "text": "long-term partners."
+    },
+    {
+      "start": 1444.38,
+      "end": 1450.58,
+      "text": "I agree, but before we get to that decision point, I think it's important to analyze whether"
+    },
+    {
+      "start": 1450.58,
+      "end": 1456.58,
+      "text": "the performance issues are due to their internal inefficiencies, or if there's something"
+    },
+    {
+      "start": 1456.58,
+      "end": 1461.26,
+      "text": "systemic in our processes that's contributing to the delays."
+    },
+    {
+      "start": 1461.26,
+      "end": 1464.82,
+      "text": "For instance, our forecasting hasn't exactly been stable."
+    },
+    {
+      "start": 1464.82,
+      "end": 1469.9,
+      "text": "We've had several last-minute quantity adjustments, and although they weren't huge changes,"
+    },
+    {
+      "start": 1469.9,
+      "end": 1472.9,
+      "text": "some suppliers are sensitive to fluctuations."
+    },
+    {
+      "start": 1472.9,
+      "end": 1476.77,
+      "text": "Do you think our forecasting accuracy is part of the problem?"
+    },
+    {
+      "start": 1476.77,
+      "end": 1480.55,
+      "text": "It could be, but only partially."
+    },
+    {
+      "start": 1480.55,
+      "end": 1489.57,
+      "text": "Forecasting accuracy dropped from around 80% to 72%, which is noticeable, but not catastrophic."
+    },
+    {
+      "start": 1489.57,
+      "end": 1493.19,
+      "text": "Many mature suppliers can handle that level of variation."
+    },
+    {
+      "start": 1493.19,
+      "end": 1497.81,
+      "text": "The bigger issue, from what I've observed, is that some of our supply partners are"
+    },
+    {
+      "start": 1497.81,
+      "end": 1501.25,
+      "text": "still operating with outdated planning systems."
+    },
+    {
+      "start": 1501.25,
+      "end": 1507.37,
+      "text": "They rely heavily on manual entry, spreadsheets, and internal communication chains that are"
+    },
+    {
+      "start": 1507.37,
+      "end": 1510.5,
+      "text": "slow."
+    },
+    {
+      "start": 1510.5,
+      "end": 1516.66,
+      "text": "And when they're slow communication, even small forecasting changes can cause major disruptions."
+    },
+    {
+      "start": 1516.66,
+      "end": 1517.66,
+      "text": "Right."
+    },
+    {
+      "start": 1517.66,
+      "end": 1522.58,
+      "text": "I've also noticed that their response times to our inquiries have increased."
+    },
+    {
+      "start": 1522.58,
+      "end": 1529.06,
+      "text": "What used to be a 12-hour turnaround is now closer to 36 hours, sometimes even 48 hours."
+    },
+    {
+      "start": 1529.06,
+      "end": 1533.44,
+      "text": "And in global supply chains, that delay accumulates quickly."
+    },
+    {
+      "start": 1533.44,
+      "end": 1535.63,
+      "text": "It becomes a bottleneck."
+    },
+    {
+      "start": 1535.63,
+      "end": 1540.76,
+      "text": "Have we considered conducting an operational assessment on their planning capabilities?"
+    },
+    {
+      "start": 1540.76,
+      "end": 1542.64,
+      "text": "I have, yes."
+    },
+    {
+      "start": 1542.64,
+      "end": 1547.84,
+      "text": "In fact, I drafted a preliminary vendor capability assessment framework last week."
+    },
+    {
+      "start": 1547.84,
+      "end": 1554.52,
+      "text": "It includes criteria like digital maturity, demand, planning responsiveness, risk management"
+    },
+    {
+      "start": 1554.52,
+      "end": 1557.86,
+      "text": "structure, and supply chain visibility tools."
+    },
+    {
+      "start": 1557.86,
+      "end": 1564.56,
+      "text": "But before we implement it, we need internal alignment, especially with legal and compliance."
+    },
+    {
+      "start": 1564.56,
+      "end": 1570.46,
+      "text": "If we start evaluating suppliers more strictly, some may push back or feel threatened."
+    },
+    {
+      "start": 1570.46,
+      "end": 1572.58,
+      "text": "But I believe it's necessary."
+    },
+    {
+      "start": 1572.58,
+      "end": 1573.86,
+      "text": "Definitely necessary."
+    },
+    {
+      "start": 1573.86,
+      "end": 1579.02,
+      "text": "And honestly, if a supplier feels threatened by transparency and capability assessments,"
+    },
+    {
+      "start": 1579.02,
+      "end": 1581.22,
+      "text": "that might be revealing in itself."
+    },
+    {
+      "start": 1581.22,
+      "end": 1585.02,
+      "text": "In modern procurement, suppliers should expect evaluation."
+    },
+    {
+      "start": 1585.02,
+      "end": 1587.37,
+      "text": "It's part of strategic sourcing."
+    },
+    {
+      "start": 1587.37,
+      "end": 1591.93,
+      "text": "Speaking of strategic sourcing, have you given any more thought to whether we should diversify"
+    },
+    {
+      "start": 1591.93,
+      "end": 1593.53,
+      "text": "our supplier base?"
+    },
+    {
+      "start": 1593.53,
+      "end": 1599.85,
+      "text": "Right now, we rely heavily on three primary suppliers for nearly 80% of our raw material"
+    },
+    {
+      "start": 1599.85,
+      "end": 1600.85,
+      "text": "inputs."
+    },
+    {
+      "start": 1600.85,
+      "end": 1602.61,
+      "text": "That feels risky."
+    },
+    {
+      "start": 1602.61,
+      "end": 1604.05,
+      "text": "Very risky."
+    },
+    {
+      "start": 1604.05,
+      "end": 1607.61,
+      "text": "And the current environment makes it riskier."
+    },
+    {
+      "start": 1607.61,
+      "end": 1612.49,
+      "text": "Single source or limited source strategies were fine when stability and predictability"
+    },
+    {
+      "start": 1612.49,
+      "end": 1615.45,
+      "text": "were high, but the world has changed."
+    },
+    {
+      "start": 1615.45,
+      "end": 1621.93,
+      "text": "I actually think supplier diversification is not just an option, it's essential."
+    },
+    {
+      "start": 1621.93,
+      "end": 1624.81,
+      "text": "The challenge of course is qualifying new suppliers."
+    },
+    {
+      "start": 1624.81,
+      "end": 1629.93,
+      "text": "The onboarding process is long, but at the same time, it might be longer term pain for"
+    },
+    {
+      "start": 1629.93,
+      "end": 1631.61,
+      "text": "shorter term gain."
+    },
+    {
+      "start": 1631.61,
+      "end": 1632.85,
+      "text": "Agreed."
+    },
+    {
+      "start": 1632.85,
+      "end": 1635.13,
+      "text": "And something else has been bothering me."
+    },
+    {
+      "start": 1635.13,
+      "end": 1639.53,
+      "text": "It's the lack of real-time visibility across our supply chain."
+    },
+    {
+      "start": 1639.53,
+      "end": 1642.69,
+      "text": "We track shipments, but the data is fragmented."
+    },
+    {
+      "start": 1642.69,
+      "end": 1647.93,
+      "text": "Our ERP shows one thing, the freight forwarder system shows something else, and sometimes"
+    },
+    {
+      "start": 1647.93,
+      "end": 1651.32,
+      "text": "we don't reconcile the data until days later."
+    },
+    {
+      "start": 1651.32,
+      "end": 1655.6,
+      "text": "If we're serious about performance improvement, we need end-to-end visibility."
+    },
+    {
+      "start": 1655.6,
+      "end": 1656.66,
+      "text": "Yes."
+    },
+    {
+      "start": 1656.66,
+      "end": 1658.58,
+      "text": "Good morning."
+    },
+    {
+      "start": 1658.58,
+      "end": 1661.18,
+      "text": "I hope you had a smooth commute today."
+    },
+    {
+      "start": 1661.18,
+      "end": 1665.94,
+      "text": "I know the traffic around the industrial zone has been terrible this week."
+    },
+    {
+      "start": 1665.94,
+      "end": 1666.94,
+      "text": "Morning."
+    },
+    {
+      "start": 1666.94,
+      "end": 1670.02,
+      "text": "Yes, it took me a little longer than usual, but it's all good."
+    },
+    {
+      "start": 1670.02,
+      "end": 1672.5,
+      "text": "I grabbed a coffee on the way to stay energized."
+    },
+    {
+      "start": 1672.5,
+      "end": 1676.3,
+      "text": "I know we have a long discussion ahead regarding the supply chain bottlenecks and procurement"
+    },
+    {
+      "start": 1676.3,
+      "end": 1678.22,
+      "text": "strategy for the next quarter."
+    },
+    {
+      "start": 1678.22,
+      "end": 1679.38,
+      "text": "Absolutely."
+    },
+    {
+      "start": 1679.38,
+      "end": 1683.06,
+      "text": "That's precisely why I wanted us to sit together today."
+    },
+    {
+      "start": 1683.06,
+      "end": 1688.54,
+      "text": "A lot has changed over the past few weeks, especially with the fluctuations in lead times"
+    },
+    {
+      "start": 1688.54,
+      "end": 1693.14,
+      "text": "and the unexpected delays from two of our main suppliers."
+    },
+    {
+      "start": 1693.14,
+      "end": 1697.86,
+      "text": "Procurement has been stretched thin and supply chain operations have been reacting"
+    },
+    {
+      "start": 1697.86,
+      "end": 1699.42,
+      "text": "rather than planning."
+    },
+    {
+      "start": 1699.42,
+      "end": 1702.78,
+      "text": "I believe this is the right moment to align ourselves."
+    },
+    {
+      "start": 1702.78,
+      "end": 1703.78,
+      "text": "I agree."
+    },
+    {
+      "start": 1703.78,
+      "end": 1705.98,
+      "text": "In fact, I've been reviewing all the data,"
+    },
+    {
+      "start": 1705.98,
+      "end": 1708.46,
+      "text": "and the patterns are quite concerning."
+    },
+    {
+      "start": 1708.46,
+      "end": 1711.26,
+      "text": "Supplier A in Malaysia has pushed their lead time"
+    },
+    {
+      "start": 1711.26,
+      "end": 1714.46,
+      "text": "from 22 days to nearly 36 days."
+    },
+    {
+      "start": 1714.46,
+      "end": 1716.9,
+      "text": "Supplier B in India has been struggling"
+    },
+    {
+      "start": 1716.9,
+      "end": 1718.26,
+      "text": "with raw material shortages,"
+    },
+    {
+      "start": 1718.26,
+      "end": 1721.34,
+      "text": "which is affecting their ability to dispatch on time."
+    },
+    {
+      "start": 1721.34,
+      "end": 1723.38,
+      "text": "And Supplier C from Vietnam"
+    },
+    {
+      "start": 1723.38,
+      "end": 1725.5,
+      "text": "has introduced a new quality inspection cycle"
+    },
+    {
+      "start": 1725.5,
+      "end": 1728.42,
+      "text": "that adds an additional five days to their timeline."
+    },
+    {
+      "start": 1728.42,
+      "end": 1731.86,
+      "text": "these shifts are creating ripple effects across the entire chain."
+    },
+    {
+      "start": 1731.86,
+      "end": 1738.34,
+      "text": "Exactly. And what's even more worrying is the impact this is having on our production planning."
+    },
+    {
+      "start": 1738.34,
+      "end": 1743.94,
+      "text": "When inbound materials don't arrive consistently, the factory floor ends up either"
+    },
+    {
+      "start": 1743.94,
+      "end": 1750.5,
+      "text": "overstocked or undersupplied. Last week, production had to slow down because one critical"
+    },
+    {
+      "start": 1750.5,
+      "end": 1756.02,
+      "text": "component wasn't available, even though inventories of other components were piling up."
+    },
+    {
+      "start": 1756.02,
+      "end": 1758.84,
+      "text": "that imbalance is costing us."
+    },
+    {
+      "start": 1758.84,
+      "end": 1761.54,
+      "text": "Yes, and that's why I think we need to rethink"
+    },
+    {
+      "start": 1761.54,
+      "end": 1764.74,
+      "text": "how procurement interacts with supply chain operations."
+    },
+    {
+      "start": 1764.74,
+      "end": 1767.18,
+      "text": "Right now, we're functioning too independently."
+    },
+    {
+      "start": 1767.18,
+      "end": 1770.38,
+      "text": "Procurement is negotiating contracts and placing orders"
+    },
+    {
+      "start": 1770.38,
+      "end": 1772.22,
+      "text": "while supply chain is tracking deliveries"
+    },
+    {
+      "start": 1772.22,
+      "end": 1773.9,
+      "text": "and planning logistics."
+    },
+    {
+      "start": 1773.9,
+      "end": 1776.34,
+      "text": "But the two processes need to be more integrated."
+    },
+    {
+      "start": 1776.34,
+      "end": 1779.06,
+      "text": "Otherwise, we will continue to experience these gaps."
+    },
+    {
+      "start": 1779.06,
+      "end": 1779.98,
+      "text": "You're right."
+    },
+    {
+      "start": 1779.98,
+      "end": 1783.42,
+      "text": "It's no longer enough to just source cost effectively,"
+    },
+    {
+      "start": 1783.42,
+      "end": 1785.78,
+      "text": "we have to source reliably."
+    },
+    {
+      "start": 1785.78,
+      "end": 1792.1,
+      "text": "Supplier performance should be evaluated not only based on price and quality, but also consistency,"
+    },
+    {
+      "start": 1792.1,
+      "end": 1797.78,
+      "text": "responsiveness, communication speed, and their ability to handle fluctuations."
+    },
+    {
+      "start": 1797.78,
+      "end": 1802.5,
+      "text": "Right now, our vendor scorecards only capture part of the picture."
+    },
+    {
+      "start": 1802.5,
+      "end": 1806.74,
+      "text": "That's one of the things I wanted us to address. For example, Supplier A has good pricing,"
+    },
+    {
+      "start": 1806.74,
+      "end": 1810.98,
+      "text": "but their communication is extremely slow. Sometimes it takes them two or three days"
+    },
+    {
+      "start": 1810.98,
+      "end": 1816.74,
+      "text": "just to confirm a dispatch date. When unexpected delays occur, they notify us too late. That"
+    },
+    {
+      "start": 1816.74,
+      "end": 1819.9,
+      "text": "lack of transparency hurts our planning accuracy."
+    },
+    {
+      "start": 1819.9,
+      "end": 1825.82,
+      "text": "Precisely. And I've noticed that when we follow up with them repeatedly, we still don't get"
+    },
+    {
+      "start": 1825.82,
+      "end": 1831.82,
+      "text": "proactive responses. They still wait until we push them. This reactive communication"
+    },
+    {
+      "start": 1831.82,
+      "end": 1836.86,
+      "text": "style does not work for a high volume production environment like ours."
+    },
+    {
+      "start": 1836.86,
+      "end": 1841.54,
+      "text": "So one thing we could do is implement a more structured communication protocol."
+    },
+    {
+      "start": 1841.54,
+      "end": 1846.3,
+      "text": "We could require weekly updates from all suppliers, short bulletins stating their raw material"
+    },
+    {
+      "start": 1846.3,
+      "end": 1850.5,
+      "text": "situation, production progress, and expected dispatch schedules."
+    },
+    {
+      "start": 1850.5,
+      "end": 1853.9,
+      "text": "This way we get early warning signals instead of last-minute surprises."
+    },
+    {
+      "start": 1853.9,
+      "end": 1855.46,
+      "text": "I like that approach."
+    },
+    {
+      "start": 1855.46,
+      "end": 1860.38,
+      "text": "It's simple, sustainable, and doesn't require any major investment."
+    },
+    {
+      "start": 1860.38,
+      "end": 1864.62,
+      "text": "And more importantly, it sets a clear expectation."
+    },
+    {
+      "start": 1864.62,
+      "end": 1868.06,
+      "text": "will know that silence is not acceptable."
+    },
+    {
+      "start": 1868.06,
+      "end": 1873.74,
+      "text": "Yes. Another topic I wanted to address is safety stock. I know maintaining too much inventory"
+    },
+    {
+      "start": 1873.74,
+      "end": 1878.26,
+      "text": "increases our carrying costs, but with the current volatility, I believe we need to review"
+    },
+    {
+      "start": 1878.26,
+      "end": 1883.78,
+      "text": "our safety stock levels. Some items may require temporary increases until the supplier situation"
+    },
+    {
+      "start": 1883.78,
+      "end": 1884.78,
+      "text": "stabilizes."
+    },
+    {
+      "start": 1884.78,
+      "end": 1890.68,
+      "text": "That's a good point. Historically, our safety stock was calculated based on average"
+    },
+    {
+      "start": 1890.68,
+      "end": 1897.96,
+      "text": "lead times and average consumption, but today the variance is so high that those calculations"
+    },
+    {
+      "start": 1897.96,
+      "end": 1900.2,
+      "text": "don't reflect reality anymore."
+    },
+    {
+      "start": 1900.2,
+      "end": 1907.4,
+      "text": "If a supplier suddenly extends their lead time by 10 to 14 days, we risk stock outs."
+    },
+    {
+      "start": 1907.4,
+      "end": 1908.4,
+      "text": "Exactly."
+    },
+    {
+      "start": 1908.4,
+      "end": 1910.96,
+      "text": "We cannot rely on outdated parameters."
+    },
+    {
+      "start": 1910.96,
+      "end": 1916.0,
+      "text": "I think we should recalculate safety stock using higher variability assumptions."
+    },
+    {
+      "start": 1916.0,
+      "end": 1919.92,
+      "text": "Perhaps we could also use a dynamic safety stock model that adjusts based on real-time"
+    },
+    {
+      "start": 1919.92,
+      "end": 1926.08,
+      "text": "demand and supplier performance. That would be ideal. It may require support from the planning"
+    },
+    {
+      "start": 1926.08,
+      "end": 1933.04,
+      "text": "team, but it's doable. If we present a clear case showing how recent delays have affected production,"
+    },
+    {
+      "start": 1933.04,
+      "end": 1938.4,
+      "text": "I'm sure we can get quick approval. Absolutely. Speaking of planning, I think we need to"
+    },
+    {
+      "start": 1938.4,
+      "end": 1943.12,
+      "text": "strengthen the relationship between procurement, supply chain, and production planning."
+    },
+    {
+      "start": 1943.92,
+      "end": 1948.72,
+      "text": "Right now, each team has their own set of priorities and sometimes communication becomes"
+    },
+    {
+      "start": 1948.72,
+      "end": 1954.4,
+      "text": "fragmented. True. I've seen situations where planning has changed production"
+    },
+    {
+      "start": 1954.4,
+      "end": 1958.96,
+      "text": "schedules without informing procurement early enough so we weren't able to"
+    },
+    {
+      "start": 1958.96,
+      "end": 1963.92,
+      "text": "adjust purchase orders in time. That creates unnecessary pressure on both"
+    },
+    {
+      "start": 1963.92,
+      "end": 1968.8,
+      "text": "sides. And the opposite happens as well. Procurement sometimes changes order"
+    },
+    {
+      "start": 1968.8,
+      "end": 1972.76,
+      "text": "quantities or delivery schedules based on negotiations with suppliers but"
+    },
+    {
+      "start": 1972.76,
+      "end": 1976.52,
+      "text": "planning doesn't get updated on time. This creates confusion on the shop"
+    },
+    {
+      "start": 1976.52,
+      "end": 1978.92,
+      "text": "flooring forces last-minute adjustments."
+    },
+    {
+      "start": 1978.92,
+      "end": 1981.5,
+      "text": "All of this highlights one thing."
+    },
+    {
+      "start": 1981.5,
+      "end": 1983.92,
+      "text": "We need improved alignment."
+    },
+    {
+      "start": 1983.92,
+      "end": 1989.2,
+      "text": "And not just occasional meetings, we need a structured process."
+    },
+    {
+      "start": 1989.2,
+      "end": 1990.2,
+      "text": "Good morning."
+    },
+    {
+      "start": 1990.2,
+      "end": 1992.16,
+      "text": "Thanks for joining the call today."
+    },
+    {
+      "start": 1992.16,
+      "end": 1996.32,
+      "text": "I know your schedule has been packed lately with the regional audits and the vendor"
+    },
+    {
+      "start": 1996.32,
+      "end": 2001.6,
+      "text": "evaluation cycle, but I'm glad we could carve out some time to discuss our supply"
+    },
+    {
+      "start": 2001.6,
+      "end": 2006.4,
+      "text": "chain performance and procurement strategy for the next quarter."
+    },
+    {
+      "start": 2006.4,
+      "end": 2008.62,
+      "text": "Absolutely. Glad to be here."
+    },
+    {
+      "start": 2008.62,
+      "end": 2012.76,
+      "text": "And yes, things have been pretty hectic on my side, especially with the new sustainability"
+    },
+    {
+      "start": 2012.76,
+      "end": 2015.32,
+      "text": "requirements coming from headquarters."
+    },
+    {
+      "start": 2015.32,
+      "end": 2017.84,
+      "text": "But honestly, this discussion is overdue."
+    },
+    {
+      "start": 2017.84,
+      "end": 2023.16,
+      "text": "We've been operating under increasing pressure from both suppliers and internal stakeholders,"
+    },
+    {
+      "start": 2023.16,
+      "end": 2026.4,
+      "text": "so aligning our strategy is more important than ever."
+    },
+    {
+      "start": 2026.4,
+      "end": 2027.4,
+      "text": "Exactly."
+    },
+    {
+      "start": 2027.4,
+      "end": 2031.2,
+      "text": "And I think we need to address several pain points at once."
+    },
+    {
+      "start": 2031.2,
+      "end": 2037.0,
+      "text": "Lead times are increasing, suppliers are pushing new price revisions, logistics delays are"
+    },
+    {
+      "start": 2037.0,
+      "end": 2041.8,
+      "text": "becoming more frequent, and the procurement team is feeling overwhelmed."
+    },
+    {
+      "start": 2041.8,
+      "end": 2047.32,
+      "text": "So maybe we can start by reviewing where we currently stand in terms of operations."
+    },
+    {
+      "start": 2047.32,
+      "end": 2048.84,
+      "text": "Sure."
+    },
+    {
+      "start": 2048.84,
+      "end": 2051.0,
+      "text": "Let me give you a brief overview."
+    },
+    {
+      "start": 2051.0,
+      "end": 2056.36,
+      "text": "As of last month, our average supplier lead time increased from 22 days to about"
+    },
+    {
+      "start": 2056.36,
+      "end": 2057.86,
+      "text": "29 days."
+    },
+    {
+      "start": 2057.86,
+      "end": 2062.14,
+      "text": "A large portion of that increase is coming from our Tier 2 suppliers, especially those"
+    },
+    {
+      "start": 2062.14,
+      "end": 2064.78,
+      "text": "dealing with specialized components."
+    },
+    {
+      "start": 2064.78,
+      "end": 2070.64,
+      "text": "And as you probably noticed, our freight costs have gone up by nearly 14% due to port congestion"
+    },
+    {
+      "start": 2070.64,
+      "end": 2072.82,
+      "text": "and rising fuel surcharges."
+    },
+    {
+      "start": 2072.82,
+      "end": 2076.02,
+      "text": "Yes, I saw those numbers in the report."
+    },
+    {
+      "start": 2076.02,
+      "end": 2080.06,
+      "text": "And honestly, what concerned me the most was the variability."
+    },
+    {
+      "start": 2080.06,
+      "end": 2084.74,
+      "text": "It's not just that lead times are longer, they're unpredictable."
+    },
+    {
+      "start": 2084.74,
+      "end": 2090.66,
+      "text": "shipments arrive early, sometimes they're delayed, sometimes they're split without notice."
+    },
+    {
+      "start": 2090.66,
+      "end": 2096.38,
+      "text": "That makes it incredibly difficult for our planning team to create stable production schedules."
+    },
+    {
+      "start": 2096.38,
+      "end": 2098.02,
+      "text": "Exactly."
+    },
+    {
+      "start": 2098.02,
+      "end": 2101.94,
+      "text": "And the unpredictability also impacts our safety stock planning."
+    },
+    {
+      "start": 2101.94,
+      "end": 2106.68,
+      "text": "If you look at the last three months, our stockouts increased by 17%."
+    },
+    {
+      "start": 2106.68,
+      "end": 2110.74,
+      "text": "But at the same time, we have excess inventory of slow-moving items."
+    },
+    {
+      "start": 2110.74,
+      "end": 2112.5,
+      "text": "It's a classic imbalance."
+    },
+    {
+      "start": 2112.5,
+      "end": 2117.62,
+      "text": "much of what we don't need and too little of what we urgently require. This is a direct"
+    },
+    {
+      "start": 2117.62,
+      "end": 2123.46,
+      "text": "reflection of inconsistent supply patterns. Right. And we need to think critically about"
+    },
+    {
+      "start": 2123.46,
+      "end": 2129.14,
+      "text": "our supplier portfolio. We've been working with some of these vendors for years, but I'm"
+    },
+    {
+      "start": 2129.14,
+      "end": 2135.02,
+      "text": "not sure they have the capacity or digital maturity to keep up with our growth. I'm"
+    },
+    {
+      "start": 2135.02,
+      "end": 2140.62,
+      "text": "not suggesting that we terminate anyone immediately, but maybe it's time to reconsider"
+    },
+    {
+      "start": 2140.62,
+      "end": 2143.7,
+      "text": "our vendor diversification strategy."
+    },
+    {
+      "start": 2143.7,
+      "end": 2145.18,
+      "text": "I completely agree."
+    },
+    {
+      "start": 2145.18,
+      "end": 2147.58,
+      "text": "A healthy supply chain shouldn't rely too heavily"
+    },
+    {
+      "start": 2147.58,
+      "end": 2149.38,
+      "text": "on a handful of suppliers,"
+    },
+    {
+      "start": 2149.38,
+      "end": 2151.54,
+      "text": "especially for critical components."
+    },
+    {
+      "start": 2151.54,
+      "end": 2153.58,
+      "text": "And we've seen firsthand what happens"
+    },
+    {
+      "start": 2153.58,
+      "end": 2156.16,
+      "text": "when that risk turns into a reality."
+    },
+    {
+      "start": 2156.16,
+      "end": 2158.7,
+      "text": "Remember the shutdown we experienced last quarter"
+    },
+    {
+      "start": 2158.7,
+      "end": 2160.94,
+      "text": "due to a single supplier delay?"
+    },
+    {
+      "start": 2160.94,
+      "end": 2163.58,
+      "text": "That one event alone cost us nearly two weeks"
+    },
+    {
+      "start": 2163.58,
+      "end": 2164.62,
+      "text": "of production time."
+    },
+    {
+      "start": 2165.58,
+      "end": 2166.94,
+      "text": "Don't remind me."
+    },
+    {
+      "start": 2166.94,
+      "end": 2169.46,
+      "text": "The ripple effects were everywhere."
+    },
+    {
+      "start": 2169.46,
+      "end": 2175.62,
+      "text": "customer complaints, expedited shipping fees, production over time, it was a mess."
+    },
+    {
+      "start": 2176.34,
+      "end": 2182.26,
+      "text": "I think procurement needs to take a more active role in monitoring supplier risk indicators."
+    },
+    {
+      "start": 2182.26,
+      "end": 2188.74,
+      "text": "Things like financial stability, operational capacity, and geopolitical exposure have to be"
+    },
+    {
+      "start": 2188.74,
+      "end": 2192.18,
+      "text": "evaluated regularly, not just during annual reviews."
+    },
+    {
+      "start": 2192.98,
+      "end": 2198.26,
+      "text": "Agreed. And speaking of reviews, I think we need to rethink our vendor scorecard."
+    },
+    {
+      "start": 2198.26,
+      "end": 2203.86,
+      "text": "Right now, it's focused too heavily on pricing and on-time delivery, but modern supply chains"
+    },
+    {
+      "start": 2203.86,
+      "end": 2210.02,
+      "text": "require broader metrics—digital capability, sustainability compliance, responsiveness during"
+    },
+    {
+      "start": 2210.02,
+      "end": 2215.06,
+      "text": "disruptions, level of transparency, and willingness to participate in data sharing."
+    },
+    {
+      "start": 2215.62,
+      "end": 2218.02,
+      "text": "These factors can make or break our resilience."
+    },
+    {
+      "start": 2218.82,
+      "end": 2221.7,
+      "text": "Yes, and resilience is the key word here."
+    },
+    {
+      "start": 2221.7,
+      "end": 2228.34,
+      "text": "After the last few years with the pandemic, port shutdowns, economic shifts, and geopolitical"
+    },
+    {
+      "start": 2228.34,
+      "end": 2233.59,
+      "text": "tensions, resilience isn't a luxury anymore, it's a requirement."
+    },
+    {
+      "start": 2233.59,
+      "end": 2238.51,
+      "text": "To achieve that resilience, we need stronger collaboration between procurement, supply"
+    },
+    {
+      "start": 2238.51,
+      "end": 2242.43,
+      "text": "chain operations, and our suppliers themselves."
+    },
+    {
+      "start": 2242.43,
+      "end": 2244.95,
+      "text": "I'm glad you mentioned collaboration."
+    },
+    {
+      "start": 2244.95,
+      "end": 2249.27,
+      "text": "One major challenge we've been facing is the lack of real-time visibility."
+    },
+    {
+      "start": 2249.27,
+      "end": 2254.53,
+      "text": "Many of our suppliers still send order updates manually, via email or spreadsheets."
+    },
+    {
+      "start": 2254.53,
+      "end": 2258.23,
+      "text": "That creates delays, errors, and communication gaps."
+    },
+    {
+      "start": 2258.23,
+      "end": 2262.27,
+      "text": "If we want to improve performance, we need to push for digital integration."
+    },
+    {
+      "start": 2262.27,
+      "end": 2266.63,
+      "text": "Even basic EDI or API connections would make a huge difference."
+    },
+    {
+      "start": 2266.63,
+      "end": 2267.95,
+      "text": "Absolutely."
+    },
+    {
+      "start": 2267.95,
+      "end": 2274.07,
+      "text": "Automation, real-time data sharing would remove half the surprises we experience today."
+    },
+    {
+      "start": 2274.07,
+      "end": 2279.19,
+      "text": "And if suppliers can provide consistent updates, order confirmations, shipping..."
+    },
+    {
+      "start": 2279.19,
+      "end": 2280.19,
+      "text": "Good morning."
+    },
+    {
+      "start": 2280.19,
+      "end": 2282.75,
+      "text": "I hope you had a smooth commute today."
+    },
+    {
+      "start": 2282.75,
+      "end": 2287.15,
+      "text": "I know the traffic around the industrial zone has been terrible this week."
+    },
+    {
+      "start": 2287.15,
+      "end": 2288.15,
+      "text": "Morning."
+    },
+    {
+      "start": 2288.15,
+      "end": 2291.55,
+      "text": "Yes, it took me a little longer than usual, but it's all good."
+    },
+    {
+      "start": 2291.55,
+      "end": 2294.03,
+      "text": "I grabbed a coffee on the way to stay energized."
+    },
+    {
+      "start": 2294.03,
+      "end": 2297.83,
+      "text": "I know we have a long discussion ahead regarding the supply chain bottlenecks and procurement"
+    },
+    {
+      "start": 2297.83,
+      "end": 2299.75,
+      "text": "strategy for the next quarter."
+    },
+    {
+      "start": 2299.75,
+      "end": 2300.91,
+      "text": "Absolutely."
+    },
+    {
+      "start": 2300.91,
+      "end": 2304.59,
+      "text": "That's precisely why I wanted us to sit together today."
+    },
+    {
+      "start": 2304.59,
+      "end": 2310.07,
+      "text": "A lot has changed over the past few weeks, especially with the fluctuations in lead times"
+    },
+    {
+      "start": 2310.07,
+      "end": 2314.67,
+      "text": "and the unexpected delays from two of our main suppliers."
+    },
+    {
+      "start": 2314.67,
+      "end": 2319.71,
+      "text": "Procurement has been stretched thin, and supply chain operations have been reacting rather"
+    },
+    {
+      "start": 2319.71,
+      "end": 2320.95,
+      "text": "than planning."
+    },
+    {
+      "start": 2320.95,
+      "end": 2324.27,
+      "text": "I believe this is the right moment to align ourselves."
+    },
+    {
+      "start": 2324.27,
+      "end": 2325.27,
+      "text": "I agree."
+    },
+    {
+      "start": 2325.27,
+      "end": 2330.43,
+      "text": "In fact, I've been reviewing all the data and the patterns are quite concerning."
+    },
+    {
+      "start": 2330.43,
+      "end": 2336.43,
+      "text": "Supplier A in Malaysia has pushed their lead time from 22 days to nearly 36 days."
+    },
+    {
+      "start": 2336.43,
+      "end": 2340.47,
+      "text": "Supplier B in India has been struggling with raw material shortages, which is affecting"
+    },
+    {
+      "start": 2340.47,
+      "end": 2343.03,
+      "text": "their ability to dispatch on time."
+    },
+    {
+      "start": 2343.03,
+      "end": 2347.43,
+      "text": "And supplier C from Vietnam has introduced a new quality inspection cycle that adds"
+    },
+    {
+      "start": 2347.43,
+      "end": 2350.15,
+      "text": "an additional five days to their timeline."
+    },
+    {
+      "start": 2350.15,
+      "end": 2353.67,
+      "text": "These shifts are creating ripple effects across the entire chain."
+    },
+    {
+      "start": 2353.67,
+      "end": 2354.67,
+      "text": "Exactly."
+    },
+    {
+      "start": 2354.67,
+      "end": 2360.15,
+      "text": "And what's even more worrying is the impact this is having on our production planning."
+    },
+    {
+      "start": 2360.15,
+      "end": 2366.47,
+      "text": "When inbound materials don't arrive consistently, the factory floor ends up either overstocked"
+    },
+    {
+      "start": 2366.47,
+      "end": 2368.67,
+      "text": "or undersupplied."
+    },
+    {
+      "start": 2368.67,
+      "end": 2374.15,
+      "text": "Last week, production had to slow down because one critical component wasn't available,"
+    },
+    {
+      "start": 2374.15,
+      "end": 2377.83,
+      "text": "even though inventories of other components were piling up."
+    },
+    {
+      "start": 2377.83,
+      "end": 2380.27,
+      "text": "That imbalance is costing us."
+    },
+    {
+      "start": 2380.27,
+      "end": 2385.03,
+      "text": "Yes, and that's why I think we need to rethink how procurement interacts with supply chain"
+    },
+    {
+      "start": 2385.03,
+      "end": 2386.53,
+      "text": "operations."
+    },
+    {
+      "start": 2386.53,
+      "end": 2389.19,
+      "text": "Right now, we're functioning too independently."
+    },
+    {
+      "start": 2389.19,
+      "end": 2394.07,
+      "text": "is negotiating contracts and placing orders, while supply chain is tracking deliveries and"
+    },
+    {
+      "start": 2394.07,
+      "end": 2398.67,
+      "text": "planning logistics. But the two processes need to be more integrated. Otherwise, we will"
+    },
+    {
+      "start": 2398.67,
+      "end": 2400.75,
+      "text": "continue to experience these gaps."
+    },
+    {
+      "start": 2400.75,
+      "end": 2405.77,
+      "text": "You're right. It's no longer enough to just source cost effectively. We have to source"
+    },
+    {
+      "start": 2405.77,
+      "end": 2412.25,
+      "text": "reliably. Supplier performance should be evaluated not only based on price and quality,"
+    },
+    {
+      "start": 2412.25,
+      "end": 2419.17,
+      "text": "but also consistency, responsiveness, communication speed, and their ability to handle fluctuations."
+    },
+    {
+      "start": 2419.17,
+      "end": 2423.97,
+      "text": "Right now, our vendor scorecards only capture part of the picture."
+    },
+    {
+      "start": 2423.97,
+      "end": 2426.27,
+      "text": "That's one of the things I wanted us to address."
+    },
+    {
+      "start": 2426.27,
+      "end": 2430.87,
+      "text": "For example, supplier A has good pricing, but their communication is extremely slow."
+    },
+    {
+      "start": 2430.87,
+      "end": 2434.47,
+      "text": "Sometimes it takes them two or three days just to confirm a dispatch date."
+    },
+    {
+      "start": 2434.47,
+      "end": 2437.97,
+      "text": "When unexpected delays occur, they notify us too late."
+    },
+    {
+      "start": 2437.97,
+      "end": 2441.27,
+      "text": "That lack of transparency hurts our planning accuracy."
+    },
+    {
+      "start": 2441.27,
+      "end": 2442.47,
+      "text": "Precisely."
+    },
+    {
+      "start": 2442.47,
+      "end": 2446.27,
+      "text": "And I've noticed that when we follow up with them repeatedly,"
+    },
+    {
+      "start": 2446.27,
+      "end": 2451.79,
+      "text": "we still don't get proactive responses. They still wait until we push them."
+    },
+    {
+      "start": 2451.79,
+      "end": 2457.55,
+      "text": "This reactive communication style does not work for a high-volume production environment like ours."
+    },
+    {
+      "start": 2458.27,
+      "end": 2462.91,
+      "text": "So, one thing we could do is implement a more structured communication protocol."
+    },
+    {
+      "start": 2462.91,
+      "end": 2465.71,
+      "text": "We could require weekly updates from all suppliers,"
+    },
+    {
+      "start": 2465.71,
+      "end": 2469.63,
+      "text": "short bulletins stating their raw material situation, production progress,"
+    },
+    {
+      "start": 2469.63,
+      "end": 2473.95,
+      "text": "and expected dispatch schedules. This way we get early warning signals instead of"
+    },
+    {
+      "start": 2473.95,
+      "end": 2479.87,
+      "text": "last-minute surprises. I like that approach. It's simple, sustainable, and doesn't require"
+    },
+    {
+      "start": 2479.87,
+      "end": 2486.83,
+      "text": "any major investment. And more importantly, it sets a clear expectation. Suppliers will know"
+    },
+    {
+      "start": 2486.83,
+      "end": 2493.47,
+      "text": "that silence is not acceptable. Yes. Another topic I wanted to address is safety stock."
+    },
+    {
+      "start": 2493.47,
+      "end": 2497.07,
+      "text": "I know maintaining too much inventory increases our carrying costs,"
+    },
+    {
+      "start": 2497.07,
+      "end": 2500.91,
+      "text": "but with the current volatility, I believe we need to review our safety stock levels."
+    },
+    {
+      "start": 2500.91,
+      "end": 2505.91,
+      "text": "Some items may require temporary increases until the supplier situation stabilizes."
+    },
+    {
+      "start": 2505.91,
+      "end": 2511.39,
+      "text": "That's a good point. Historically, our safety stock was calculated based on"
+    },
+    {
+      "start": 2511.39,
+      "end": 2518.59,
+      "text": "average lead times and average consumption, but today the variance is so high that those"
+    },
+    {
+      "start": 2518.59,
+      "end": 2524.51,
+      "text": "calculations don't reflect reality anymore. If a supplier suddenly extends their lead time"
+    },
+    {
+      "start": 2524.51,
+      "end": 2531.87,
+      "text": "by 10 to 14 days, we risk stockouts. Exactly. We cannot rely on outdated parameters."
+    },
+    {
+      "start": 2532.51,
+      "end": 2537.07,
+      "text": "I think we should recalculate safety stock using higher variability assumptions."
+    },
+    {
+      "start": 2537.07,
+      "end": 2541.47,
+      "text": "Perhaps we could also use a dynamic safety stock model that adjusts based on real-time"
+    },
+    {
+      "start": 2541.47,
+      "end": 2547.63,
+      "text": "demand and supplier performance. That would be ideal. It may require support from the planning"
+    },
+    {
+      "start": 2547.63,
+      "end": 2553.63,
+      "text": "team, but it's doable. If we present a clear case showing how recent delays have affected"
+    },
+    {
+      "start": 2553.63,
+      "end": 2559.23,
+      "text": "production I'm sure we can get quick approval. Absolutely. Speaking of planning"
+    },
+    {
+      "start": 2559.23,
+      "end": 2562.91,
+      "text": "I think we need to strengthen the relationship between procurement, supply"
+    },
+    {
+      "start": 2562.91,
+      "end": 2567.71,
+      "text": "chain, and production planning. Right now each team has their own set of"
+    },
+    {
+      "start": 2567.71,
+      "end": 2572.63,
+      "text": "priorities and sometimes communication becomes fragmented. True. I've seen"
+    },
+    {
+      "start": 2572.63,
+      "end": 2577.71,
+      "text": "situations where planning has changed production schedules without informing"
+    },
+    {
+      "start": 2577.71,
+      "end": 2582.23,
+      "text": "procurement early enough so we weren't able to adjust purchase orders in time."
+    },
+    {
+      "start": 2582.23,
+      "end": 2586.23,
+      "text": "That creates unnecessary pressure on both sides."
+    },
+    {
+      "start": 2586.23,
+      "end": 2588.23,
+      "text": "And the opposite happens as well."
+    },
+    {
+      "start": 2588.23,
+      "end": 2593.23,
+      "text": "Procurement sometimes changes order quantities or delivery schedules based on negotiations with suppliers,"
+    },
+    {
+      "start": 2593.23,
+      "end": 2596.23,
+      "text": "but planning doesn't get updated on time."
+    },
+    {
+      "start": 2596.23,
+      "end": 2600.23,
+      "text": "This creates confusion on the shop floor and forces last-minute adjustments."
+    },
+    {
+      "start": 2600.23,
+      "end": 2602.23,
+      "text": "All of this highlights one thing."
+    },
+    {
+      "start": 2602.23,
+      "end": 2605.23,
+      "text": "We need improved alignment."
+    },
+    {
+      "start": 2605.23,
+      "end": 2607.23,
+      "text": "And not just occasional meetings."
+    },
+    {
+      "start": 2607.23,
+      "end": 2610.23,
+      "text": "We need a structured process."
+    },
+    {
+      "start": 2610.23,
+      "end": 2612.23,
+      "text": "Thank you."
+    }
+  ]
+}

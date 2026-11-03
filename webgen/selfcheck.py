@@ -17,11 +17,26 @@ import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_HTML = ROOT / "review_site" / "index.html"
-DIST_HTML = ROOT / "dist" / "review-site" / "index.html"
-OUTPUT_DIR = ROOT / "output"
-INDEX_JSON = ROOT / "index" / "episodes.json"
-VOCAB_JSON = ROOT / "vocab_index.json"
+sys.path.insert(0, str(ROOT))
+from pipeline import config  # 季路径唯一来源
+
+DEFAULT_HTML = None
+DIST_HTML = None
+OUTPUT_DIR = None
+INDEX_JSON = None
+VOCAB_JSON = None
+SEASON = None
+
+
+def use_season(name=None):
+    global DEFAULT_HTML, DIST_HTML, OUTPUT_DIR, INDEX_JSON, VOCAB_JSON, SEASON
+    SEASON = config.set_season(name)
+    DEFAULT_HTML = config.SEASON_DIR / "review_site" / "index.html"
+    DIST_HTML = ROOT / "dist" / "review-site" / config.SEASON_KEY / "index.html"
+    OUTPUT_DIR = config.OUTPUT_DIR
+    INDEX_JSON = config.EPISODES_JSON
+    VOCAB_JSON = config.VOCAB_INDEX_JSON
+    return SEASON
 
 # 基线随 done 集数增长；改完 md 后按自检输出更新这两个常量
 EXPECT = {"core": 927, "supp": 772, "chunks": 334, "patterns": 799, "trans": 1225, "blanks": 667}
@@ -264,7 +279,8 @@ def check_idempotent() -> None:
         with tempfile.TemporaryDirectory() as td:
             out = Path(td) / ("a%d.html" % i)
             proc = subprocess.run([sys.executable, str(build), "--generated-at", "2026-10-27T00:00:00Z",
-                                   "--out", str(out), "--no-dist"], capture_output=True, text=True)
+                                   "--season", SEASON, "--out", str(out), "--no-dist"],
+                                  capture_output=True, text=True)
             if proc.returncode != 0:
                 fail("幂等检查构建失败：%s" % proc.stderr.strip()[:200])
                 return
@@ -291,9 +307,18 @@ def _check_dist_sync(min_build) -> None:
 
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description="复习工作台独立校验")
-    ap.add_argument("html", nargs="?", default=str(DEFAULT_HTML))
+    ap.add_argument("html", nargs="?", default=None)
+    ap.add_argument("--season", default=None, help="课程季，如 season1 / season2")
     ap.add_argument("--no-build-check", action="store_true", help="跳过幂等与 minimal 重建检查")
     args = ap.parse_args(argv)
+
+    try:
+        use_season(args.season)
+    except ValueError as e:
+        print("ERROR %s" % e, file=sys.stderr)
+        return 1
+    if not args.html:
+        args.html = str(DEFAULT_HTML)
 
     path = Path(args.html)
     if not path.exists():
@@ -307,7 +332,8 @@ def main(argv=None) -> int:
         with tempfile.TemporaryDirectory() as td:
             out = Path(td) / "min.html"
             proc = subprocess.run([sys.executable, str(ROOT / "webgen" / "build_site.py"),
-                                   "--mode", "minimal", "--out", str(out), "--no-dist"],
+                                   "--mode", "minimal", "--season", SEASON,
+                                   "--out", str(out), "--no-dist"],
                                   capture_output=True, text=True)
             if proc.returncode != 0:
                 fail("minimal 构建失败：%s" % proc.stderr.strip()[:200])

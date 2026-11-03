@@ -25,6 +25,45 @@ class RepetitionError(TranscribeError):
     """检测到复读循环——可用更保守参数重试。"""
 
 
+class RemoteError(TranscribeError):
+    """远端转写失败。retryable=False 表示该集不可重试（参数/文件类 4xx）。"""
+
+    def __init__(self, msg, *, retryable=True):
+        super().__init__(msg)
+        self.retryable = retryable
+
+
+class BackendUnavailable(TranscribeError):
+    """连不上/鉴权类故障——整批中止，不消耗单集重试预算。"""
+
+
+class CoverageError(RemoteError):
+    """远端返回的段覆盖不足，防静默截断。"""
+
+
+def backend():
+    """当前后端（config.BACKEND，可由 --backend / ASR_BACKEND 覆盖）。"""
+    name = (config.BACKEND or "local").strip().lower()
+    if name not in config.BACKENDS:
+        raise ValueError(f"未知后端 {config.BACKEND!r}（可选 {', '.join(config.BACKENDS)}）")
+    return name
+
+
+def transcribe(audio_path, expected_duration=None, beam_size=None,
+               limit_minutes=None, extra=None, min_span=None):
+    """后端分派，返回与 transcribe_wav 同构的 (segments, metrics)。
+
+    http：audio_path 是 data/ 下的 m4a/m4s 原件；local：必须是 16k mono WAV。
+    """
+    if backend() == "http":
+        from . import http_backend   # 延迟导入：local 路径不需要 httpx
+        return http_backend.transcribe_file(
+            audio_path, expected_duration=expected_duration,
+            limit_minutes=limit_minutes, min_span=min_span)
+    return transcribe_wav(audio_path, beam_size=beam_size,
+                          limit_minutes=limit_minutes, extra=extra)
+
+
 def get_model():
     global _model
     if _model is None:
