@@ -21,7 +21,7 @@
 
 | 词 | 音标 | 释义 | 原文例句摘录 |
 |---|---|---|---|
-| jargon | /ˈdʒɑːɡən/ | n. 行话（43 集已收） | It is easy to get lost in all the jargon and processes. |
+| jargon | /ˈdʒɑːɡən/ | n. 行话（43 集已收） | It's easy to get lost in all the jargon and processes, but we have to remember that HR is really about people. |
 | performance | /pəˈfɔːməns/ | n. 绩效（11 集已收） | Performance reviews. |
 | professional | /prəˈfeʃənl/ | adj. 职业的（01 集已收） | Professional development. |
 | market | /ˈmɑːkɪt/ | n. 市场（12 集已收） | How the job market is changing. |
