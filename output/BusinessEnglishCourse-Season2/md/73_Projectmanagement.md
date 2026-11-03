@@ -57,14 +57,14 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. We need to ______ on scope, timelines and key outcomes.
-2. They draft a one-______.
-3. They know they need executive ______.
-4. Let's talk about budget ______.
-5. A quality gate is the ______ that the project has to clear.
-6. The ______ rate is how quickly the budget is being spent.
-7. They explicitly budget for ______ debt protection.
-8. It guarantees infinite ______ creep at the very end.
+1. It guarantees infinite ______ creep at the very end of the project.
+2. Does this new request provide greater ______ than the feature we're going to have to drop to make room for it?
+3. Does it add more than two ______ to the timeline?
+4. Does the test coverage report show a minimum of ______ coverage?
+5. It means it satisfies all of those ______, not just the coding part.
+6. I wonder, though, if ______ too quickly might cause some critical risks or blockers to go unnoticed.
+7. A quality gate is basically the ______ that the project has to clear in order to advance.
+8. Is there a danger in moving to ______ meetings if the project is really complex?
 
 ## 3. 词句翻译
 
