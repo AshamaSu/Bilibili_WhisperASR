@@ -58,7 +58,7 @@
 ### 填空版（听完自测，关键短语挖空）
 
 1. ______ get started.
-2. The client said there's an issue with the payment system. I'll ______ into it.
+2. Let's ______ later.
 3. Could you ______ that?
 4. Let's touch ______ later.
 5. We're running ______ schedule.

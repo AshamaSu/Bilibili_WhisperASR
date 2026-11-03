@@ -62,7 +62,7 @@
 3. We have two ______ remaining on topic two.
 4. What I'm ______ is that we must choose option A.
 5. I want to ensure we are hearing from different ______ today.
-6. Just conscious of our time ______, can you guide us to your final three action items?
+6. It prevents ______ and it ensures focus.
 7. Does this decision ______ the timeline for the marketing website relaunch?
 8. You define a ______ plan.
 

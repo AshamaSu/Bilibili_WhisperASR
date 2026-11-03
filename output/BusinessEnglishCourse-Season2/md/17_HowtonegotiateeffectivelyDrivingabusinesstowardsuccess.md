@@ -62,8 +62,8 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. Negotiations have evolved way beyond just closing a ______.
-2. It's the language you use, those specific ______, and the ______ you build.
+1. They strongly recommend we identify the ______ early.
+2. Declaring sustainable revenue and ______ as primary goals.
 3. It's about ensuring your profit ______ remain stable.
 4. Another absolutely critical piece from the sources is ______.
 5. They strongly recommend we identify the core ______ early.

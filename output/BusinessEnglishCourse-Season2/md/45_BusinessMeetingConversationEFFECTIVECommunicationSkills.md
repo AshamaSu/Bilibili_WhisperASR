@@ -58,7 +58,7 @@
 ### 填空版（听完自测，关键短语挖空）
 
 1. Today, we're diving into ______ communication, especially in business.
-2. Your posture and facial expressions ______ volumes.
+2. Being aware of your own is important, but you've got to ______ to others.
 3. You pick up on those little ______ cues.
 4. Being aware of your own is important, but you've got to ______ ______ to others.
 5. Open ______ usually means they're confident.

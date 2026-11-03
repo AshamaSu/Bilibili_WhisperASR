@@ -61,10 +61,10 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. A leadership style fostered through ______ cultivates higher ______ rates.
-2. These discussions hammer home the value of frequent ______ sessions.
+1. Sharing ______ across the organization.
+2. Let's move on then to fostering a ______ culture.
 3. Effective coaching fosters that crucial sense of ______.
-4. Let's move on to fostering a ______ ______ culture.
+4. Encouraging ______ where people can celebrate their improvements.
 5. Sharing ______ ______ across the organization.
 6. Cultivating ______ thinking requires analyzing complex trends.
 7. Encouraging open ______ where people celebrate improvements.

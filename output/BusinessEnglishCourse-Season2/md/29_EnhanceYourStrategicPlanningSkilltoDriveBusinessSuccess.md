@@ -65,8 +65,8 @@
 1. Strategies from ______ business ______.
 2. You also want people to have the ______ to act.
 3. It's about breaking down ______, making the workforce more ______.
-4. The call for open ______ loops using a shared ______.
-5. The source pushes for transparent ______ reports.
+4. The call for ______ using a shared dashboard.
+5. The call for ______ using a shared dashboard for real-time input.
 6. The source emphasizes tracking ______, energy use, waste volume.
 7. Make sure everyone's pulling in the same ______.
 8. You absolutely need distinct campaigns for each ______.

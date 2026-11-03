@@ -58,7 +58,7 @@
 ### 填空版（听完自测，关键短语挖空）
 
 1. What are the big ______ from this deep dive?
-2. They turned gaming into a language ______ tool.
+2. Maybe you'll even ______ a tip or two for yourself.
 3. You're constantly ______ up new words.
 4. It's basically how we learn our ______ language.
 5. You're ______ by the language all the time.

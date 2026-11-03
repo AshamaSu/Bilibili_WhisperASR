@@ -59,8 +59,8 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. The conversations suggested really strict ______.
-2. Maybe even a ______ to ensure you hit the essential points.
+1. You lock in X first, then ______ Y around them.
+2. You lock in the critical tasks first, the must-dos, then ______ these flex blocks.
 3. Another big theme was ______ ______.
 4. Agree on the goals up front, stick to the ______.
 5. You lock in the critical tasks first, the ______.

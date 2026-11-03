@@ -60,7 +60,7 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. The first big theme that ______ ______ is starting the conversation.
+1. Even ______ around sharing things.
 2. A massive part of workplace chat is making ______, asking for help.
 3. Can you send me the report ______ ______?
 4. I understand your ______, but I see it differently.

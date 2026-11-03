@@ -62,7 +62,7 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. Today, I am excited to present an idea that aligns with our company's vision for ______.
+1. Witness how Linda bridges ______ during an international video conference.
 2. He ______ terms that provide additional value to the client.
 3. Michael faces tough negotiations with a key ______ proposing a price ______.
 4. Tom handles a sudden product ______ crisis while maintaining ______.

@@ -63,7 +63,7 @@
 
 1. We've put together a list of 20 essential business English ______.
 2. It's more like figuring out the specific ______ of business English.
-3. Every industry, sometimes even just one team, develops their own little ______.
+3. It's a quick way to connect, find a bit of ______ over something small.
 4. Closely related is phrase 19, to ______ ______.
 5. I'd love to ______ a few ideas off you.
 6. Being ______ about time zones shows real communicative ______.

@@ -57,7 +57,7 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. But how do you ______ gracefully, effectively, without burning bridges?
+1. I'm operating ______ and thus cannot take on further responsibilities
 2. I'm currently ______ to take this on.
 3. My current ______ prevents me from accepting additional tasks now.
 4. I'm operating at full ______ and thus cannot take on further responsibilities.

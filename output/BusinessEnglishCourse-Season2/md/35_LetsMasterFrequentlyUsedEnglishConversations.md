@@ -61,11 +61,11 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. The ______ ______ from this one seems to be a structured approach.
+1. Strengthening the ______ framework.
 2. Refining sales ______ for the ______ quarter.
 3. A really thoughtful, ______ approach to leadership development.
 4. Getting ______ from the ______ heads.
-5. Clarifying that project's ______ before anyone commits.
+5. The ______ from this one seems to be the importance of a structured approach.
 6. Providing quick ______ on shared documents is also ______.
 7. They actively explore how they could ______ production activities.
 8. That ______ continuous improvement.

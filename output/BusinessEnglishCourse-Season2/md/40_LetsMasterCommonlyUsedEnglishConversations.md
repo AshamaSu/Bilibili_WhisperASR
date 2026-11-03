@@ -61,7 +61,7 @@
 
 1. And then even a step further, they're talking about ______ content.
 2. They're also talking about thoughtfully adapting key ______.
-3. Comparing ______ rates in regions with and without it.
+3. Starting with ______ in smaller markets before going all in globally.
 4. Starting with ______ programs in smaller markets.
 5. Cross-cultural training programs to foster more ______.
 6. They're even considering ______ roles temporarily.

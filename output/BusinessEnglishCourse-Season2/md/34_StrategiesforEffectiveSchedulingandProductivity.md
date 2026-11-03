@@ -64,7 +64,7 @@
 1. The conversation also highlighted scheduling necessary ______.
 2. The conversation also proposed managers review ______ weekly.
 3. Preventing those time wasting ______.
-4. The conversation stressed allocating specific ______ of time.
+4. The idea of a ______ was also suggested.
 5. To keep it ______, the conversation suggested a weekly ______ session.
 6. The idea of a knowledge ______ database was also suggested.
 7. Setting ______ time limits for discussions.

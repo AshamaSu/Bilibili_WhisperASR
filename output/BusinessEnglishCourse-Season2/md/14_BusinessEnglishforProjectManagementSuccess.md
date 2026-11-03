@@ -64,11 +64,11 @@
 
 1. Today we're not just observing, we're diving deep into the dynamic world of ______ ______.
 2. What really ______ ______ to me was the discussion around ______.
-3. It's all about organizing tasks within those set ______.
+3. It's a ______ of X, not just Y.
 4. This skill is described as inspiring and ______ the team.
 5. It's a communication strategy of trust and ______, not just giving ______.
 6. The source highlights that ______ risks allows for proactive ______.
-7. It's like a ______ for using business English to build ______.
+7. It's a ______ of trust and empowerment, not just giving orders.
 8. It's about avoiding ______ and ensuring tasks are handled by the right person.
 
 ## 3. 词句翻译

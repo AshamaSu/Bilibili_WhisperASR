@@ -64,7 +64,7 @@
 ### 填空版（听完自测，关键短语挖空）
 
 1. Today we're doing a ______ ______ into the essential language.
-2. So ______ first, then step two is ______ the agenda.
+2. It's a natural icebreaker, leads to a bit of ______ before the main agenda.
 3. Then you, as the ______, need to verbally outline the ______.
 4. I'd like to get your ______ on the new design.
 5. The first ______ on the ______ is social media.

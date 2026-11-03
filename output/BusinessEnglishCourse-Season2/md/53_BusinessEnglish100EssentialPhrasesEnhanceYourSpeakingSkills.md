@@ -60,7 +60,7 @@
 1. Let's update the ______ work policy.
 2. Employee ______ is a concern we need to address.
 3. Let's schedule one-on-one ______ with the team.
-4. Let's celebrate the team's ______.
+4. Let's define the ______ clearly.
 5. Let's highlight our product's unique ______.
 6. Let's identify high-value ______.
 7. Let's define the project ______ clearly.

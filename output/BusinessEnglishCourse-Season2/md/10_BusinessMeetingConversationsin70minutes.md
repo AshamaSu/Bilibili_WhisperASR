@@ -62,9 +62,9 @@
 
 1. Who would like to take the ______ on this ______?
 2. This phrase is a vital ______ check.
-3. By stating it up front, you respect everyone's ______.
+3. A proactive ______ strategy.
 4. These phrases ensure ______ and structure the path forward.
-5. It focuses on the challenges without ______ ______.
+5. This approach fosters a sense of ______ over the strategy.
 6. This approach ______ a sense of shared ______.
 7. What are the potential ______ involved in this project?
 8. It signals that all voices are ______.

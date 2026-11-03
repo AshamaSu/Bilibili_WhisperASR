@@ -61,8 +61,8 @@
 2. Today we're going to be talking all about ______ English.
 3. Taking the ______ out of the criticism.
 4. When you start with I ______ your effort.
-5. I still ______ with how to deliver the feedback.
-6. Those all work to ______ the blow.
+5. Do these phrases, ______ and here's a suggestion.
+6. Those all work to kind of ______ and keep things constructive.
 7. Keep things ______.
 8. We've covered so much ______ already.
 

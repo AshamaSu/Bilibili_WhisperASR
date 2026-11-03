@@ -58,8 +58,8 @@
 ### 填空版（听完自测，关键短语挖空）
 
 1. Boosting your business ______ skills.
-2. A lot of people don't ______ how important it is.
-3. What makes business English different from casual ______?
+2. Those X can ______ a deal.
+3. Those cultural differences can ______ a deal.
 4. Those cultural differences can make or ______ a deal.
 5. And this is really crucial, cultural ______.
 6. Honestly, public ______ freaks me out.

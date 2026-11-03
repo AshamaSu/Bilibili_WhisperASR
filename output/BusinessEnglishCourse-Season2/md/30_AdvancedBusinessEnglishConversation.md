@@ -63,8 +63,8 @@
 ### 填空版（听完自测，关键短语挖空）
 
 1. Advanced systems free employees from ______ tasks.
-2. Having employees who fill multiple roles creates a ______ workforce.
-3. It reduces ______, especially during fluctuations or urgent deadlines.
+2. Once things are running, ______ hinges on data.
+3. Exposing individuals to ______ for holistic growth.
 4. Risk management ______ championing greener operations.
 5. Continuous improvement ______ on data.
 6. These sources stress employee ______ sessions.

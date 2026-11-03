@@ -63,7 +63,7 @@
 
 1. A ______ ______ of essential business phrases.
 2. Knowing exactly where ______ are occurring.
-3. Technology for real-time ______ was crucial for ______.
+3. A ______ of essential business phrases and what they actually mean.
 4. Implementing a formal ______ program.
 5. Making ______ more personalized, maybe adding exclusive ______.
 6. The first step was identifying projects that weren't absolutely ______.

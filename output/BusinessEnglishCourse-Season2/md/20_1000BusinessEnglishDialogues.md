@@ -63,8 +63,8 @@
 ### 填空版（听完自测，关键短语挖空）
 
 1. Everything from managing client ______ through to fostering better ______.
-2. Maybe you risk the quality, ______ ______ the team, or stretch the ______?
-3. The most powerful suggestion was personally calling clients who gave negative ______.
+2. Ideas like an ______ or a scavenger hunt came up.
+3. Maybe you risk X, ______ the team, or do you stretch the timeline?
 4. Ditching annual ______ altogether, replacing them with ______ feedback sessions.
 5. Project delays, ______ problems, even stuff like office ______.
 6. It naturally flowed into the ______ ______.

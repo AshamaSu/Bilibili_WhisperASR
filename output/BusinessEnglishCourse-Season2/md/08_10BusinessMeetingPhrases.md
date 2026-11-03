@@ -65,8 +65,8 @@
 
 1. Can you ______ a quick ______?
 2. Let me ______ ______ the slides one more time.
-3. Making sure you're all on the same ______ before you start talking.
-4. Sounding professional, organized, and on top of your ______.
+3. Let me ______ one more time.
+4. Making sure you're all ______ before you even start talking.
 5. It gives you a clear ______ for sounding professional.
 6. It's about ensuring your ______ is as ______ as your ideas.
 7. You can end up in that endless email ______ and ______.

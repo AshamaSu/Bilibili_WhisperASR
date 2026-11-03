@@ -58,10 +58,10 @@
 ### 填空版（听完自测，关键短语挖空）
 
 1. Welcome to this ______ ______ on effective business communication.
-2. The guide dives deep into email ______.
+2. Like ______ and headings.
 3. Starting with the ______ ______.
 4. Headings act as ______ guiding them through it.
-5. ______ ______ helps you project confidence.
+5. How can someone take these ______ tips and apply them?
 6. Where ______ and action are so important.
 7. It tells them exactly what it is and why they should ______.
 8. Like bullet ______ and headings.

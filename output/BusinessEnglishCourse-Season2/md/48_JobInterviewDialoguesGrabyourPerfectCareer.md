@@ -59,8 +59,8 @@
 
 1. No two interviews are ______ alike.
 2. How do you even ______ those interviews?
-3. We're going to be like interview ______.
-4. Acknowledging Sarah's ______ work and her ______.
+3. Asking about ______ and company culture.
+4. We hope you enjoyed this ______ into the world of interviews.
 5. If you're not being ______, techniques don't help.
 6. Asking about team ______ and company ______.
 7. Some of them feel a bit ______.

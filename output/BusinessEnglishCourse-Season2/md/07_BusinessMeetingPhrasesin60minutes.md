@@ -62,7 +62,7 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. We're taking a really ______ ______ into essential business English phrases.
+1. Just wanted to ______ to my question from last week.
 2. ______ stands for end of day.
 3. Keeping people in the ______ means making sure all the relevant people know what's going on.
 4. Workhorse has really strong positive ______.

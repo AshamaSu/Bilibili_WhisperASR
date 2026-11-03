@@ -62,14 +62,14 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. I just received a ______ from one of our major ______.
+1. I believe we need a robust ______ to better understand our customers' needs.
 2. They will need to be ______ to ensure they meet our ______ standards.
-3. I believe we need a ______ feedback ______.
+3. What about introducing weekly ______ to clarify priorities and address challenges?
 4. I'll ______ with HR to ensure we get comprehensive and honest ______.
 5. What about introducing weekly ______ meetings to clarify ______?
 6. Did we communicate this issue to the client ______?
 7. Team members are often ______ too many tasks at once.
-8. Some employees feel their contributions aren't ______ enough.
+8. I just received a complaint from one of our ______ about delays in our service delivery.
 
 ## 3. 词句翻译
 

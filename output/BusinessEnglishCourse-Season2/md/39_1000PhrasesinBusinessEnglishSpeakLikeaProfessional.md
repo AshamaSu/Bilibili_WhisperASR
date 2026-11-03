@@ -56,7 +56,7 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. All those worries about ______ ______ and user ______.
+1. And ______ about X.
 2. Let's talk about data ______, which is absolutely ______.
 3. A network ______ brought their entire company down.
 4. And let's not forget about the ______ piece.

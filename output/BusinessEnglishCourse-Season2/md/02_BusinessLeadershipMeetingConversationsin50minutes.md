@@ -66,7 +66,7 @@
 ### 填空版（听完自测，关键短语挖空）
 
 1. Our focus today is specifically ______ ______ for team excellence.
-2. Nurturing team dynamics, ______, ______, innovation — that's what makes a team hum.
+2. Developing ______ is key.
 3. How leaders talk, listen and connect shapes team performance and their ______.
 4. ______ is a massive motivator.
 5. The emphasis was on staying flexible and ______ our strategy when necessary.

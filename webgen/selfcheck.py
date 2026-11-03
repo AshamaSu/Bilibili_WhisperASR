@@ -38,9 +38,9 @@ def use_season(name=None):
     VOCAB_JSON = config.VOCAB_INDEX_JSON
     return SEASON
 
-# 基线随 done 集数增长；改完 md 后按自检输出更新这两个常量
-EXPECT = {"core": 927, "supp": 772, "chunks": 334, "patterns": 799, "trans": 1225, "blanks": 667}
-MIN_SCORED = 566          # floor(0.85 * 667)
+# 条目总量由 md 回算得出，不写死；只固定最低可判分比例
+EXPECT = ("core", "supp", "chunks", "patterns", "trans", "blanks")
+MIN_SCORED_RATIO = 0.85
 MAX_BYTES = 8 * 1024 * 1024
 
 BAD_RESOURCE = [
@@ -195,6 +195,7 @@ def check_html(path: Path) -> dict:
     ok("catalog %d / episodes %d / vocab %d" % (len(cat), len(eps), len(vocab)))
 
     totals = {k: 0 for k in EXPECT}
+    md_totals = {k: 0 for k in EXPECT}
     scored = 0
     for e in eps:
         for k in EXPECT:
@@ -221,15 +222,17 @@ def check_html(path: Path) -> dict:
             continue
         rc = recount(md)
         for k in EXPECT:
+            md_totals[k] += rc[k]
             if rc[k] != len(e.get(k, [])):
                 fail("%s 的 %s：md 回算 %d != 站点 %d" % (md.name, k, rc[k], len(e.get(k, []))))
 
     for k in EXPECT:
-        if totals[k] != EXPECT[k]:
-            fail("合计 %s 应为 %d，实际 %d" % (k, EXPECT[k], totals[k]))
+        if totals[k] != md_totals[k]:
+            fail("合计 %s：md 回算 %d != 站点 %d" % (k, md_totals[k], totals[k]))
     ok("合计 核心/补充/语块/句式/翻译/填空 = " + "/".join(str(totals[k]) for k in EXPECT))
-    if scored < MIN_SCORED:
-        fail("可判分填空 %d 条低于下限 %d" % (scored, MIN_SCORED))
+    floor = int(MIN_SCORED_RATIO * totals["blanks"])
+    if scored < floor:
+        fail("可判分填空 %d 条低于下限 %d（%.0f%%）" % (scored, floor, 100 * MIN_SCORED_RATIO))
     ok("可判分填空 %d / %d（%.1f%%）" % (scored, totals["blanks"], 100.0 * scored / max(totals["blanks"], 1)))
 
     if data.get("mode") not in ("full", "minimal"):

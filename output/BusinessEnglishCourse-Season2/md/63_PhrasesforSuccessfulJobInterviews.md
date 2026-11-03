@@ -57,8 +57,8 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. Have you ever psyched yourself out before a job ______?
-2. This deep dive is for anyone who's felt that pre-interview ______.
+1. You're not afraid to ______ to your mistakes.
+2. Exactly, and that you're not afraid to ______ to your mistakes.
 3. It's about being aware of your ______ language.
 4. Standing tall, making ______ contact, offering a firm ______.
 5. It shows the interviewer that you've done your ______.

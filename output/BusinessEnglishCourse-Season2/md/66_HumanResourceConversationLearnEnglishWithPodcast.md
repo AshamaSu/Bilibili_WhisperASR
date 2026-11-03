@@ -57,7 +57,7 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. Welcome to The Deep ______.
+1. Things like an open door policy, ______ and diversity and inclusion are key.
 2. How do we make sure human ______ isn't lost in the process?
 3. That's where diversity and ______ comes in.
 4. Things like an open ______ policy and exit ______.

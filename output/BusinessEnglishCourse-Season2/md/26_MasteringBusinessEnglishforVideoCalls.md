@@ -67,7 +67,7 @@
 3. Sorry, my Internet has been ______ ______.
 4. So let me try ______ or maybe let me ______.
 5. We saw an example dialogue where someone's connection was really ______.
-6. Instead of saying your internet is bad, which can feel ______.
+6. So let me ______ or maybe let me rejoin.
 7. Could you try checking your ______ ______?
 8. An ______ way to ask is just, oh, where'd you go?
 

@@ -63,7 +63,7 @@
 ### 填空版（听完自测，关键短语挖空）
 
 1. How do you manage ______ ______ and high ______ situations?
-2. I focus on ______ tasks and maintaining ______ communication.
+2. I focus on prioritizing tasks, maintaining ______ with my team.
 3. I use various communication tools and set clear ______.
 4. I once led a team tasked with overhauling our CRM system within a ______ three-month ______.
 5. I facilitated a discussion between two team members, promoting open ______.

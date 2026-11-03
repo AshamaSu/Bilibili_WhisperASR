@@ -65,7 +65,7 @@
 1. I'm also curious about ______ ______ opportunities here.
 2. Agile is that sort of ______ approach to managing projects.
 3. This flexible approach not only ______ our workflow, but also made our project development more ______.
-4. Delivering a stable product is always better for the company's ______.
+4. We have a dedicated ______ budget for each employee.
 5. Suggest postponing the release to prioritize ______ over ______.
 6. My true ______ lies in web development and complex problem solving.
 7. It's the innovative ______ that truly makes a difference.

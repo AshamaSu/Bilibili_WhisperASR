@@ -68,7 +68,7 @@
 1. Let's ______ this and really learn how to ______ yourself in English.
 2. If you can ______ a strong, clear, authentic introduction, you immediately set a positive ______.
 3. Knowing your ______ and your ______ is a crucial element.
-4. It's not about fabricating some ______, but about highlighting the most ______ facets.
+4. Which is especially crucial for ______ learners.
 5. Alternatively, you can say, I'm a ______ job title.
 6. These all ______ a sense of self-assurance and ______.
 7. It's ______, I know, but it's a shift that can instantly convey approachability.

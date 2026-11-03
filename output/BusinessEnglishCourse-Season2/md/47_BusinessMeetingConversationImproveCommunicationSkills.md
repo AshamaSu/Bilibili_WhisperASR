@@ -59,7 +59,7 @@
 
 1. Sending out ______ along with the ______.
 2. Detailed agendas, clear ______.
-3. Using visual ______ to keep everyone focused.
+3. As we ______ this part of our deep dive.
 4. They even talked about creating a ______ ______ plan.
 5. This idea of ______ tasks.
 6. They're being proactive about preventing communication ______.

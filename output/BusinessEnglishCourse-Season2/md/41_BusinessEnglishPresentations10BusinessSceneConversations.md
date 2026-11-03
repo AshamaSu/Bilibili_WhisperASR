@@ -62,7 +62,7 @@
 2. Using ______ strategically, not just for the sake of it.
 3. Designing slides that clarify, not ______.
 4. You can't ______ the ______ and adjust.
-5. Persuading them with ______, and driving them to ______.
+5. It's like we're ______ during the planning stages.
 6. Tell people exactly what you want them to do ______.
 7. They're there to ______ you, not distract from it.
 8. You can't just ______ it.

@@ -59,9 +59,9 @@
 
 1. What's their plan for ______ off competitors?
 2. Some positions have been reduced through ______.
-3. They've created new roles in technology and ______.
+3. Their work in AI, ______ and data analytics.
 4. Make sure it's accurate and ______.
-5. They're really ______ a culture of innovation.
+5. What's their plan for ______ and keeping customers happy?
 6. Using sensors to ______ data on machine performance.
 7. They're upping their game in customer ______.
 8. It's not just about the numbers, but understanding the ______.

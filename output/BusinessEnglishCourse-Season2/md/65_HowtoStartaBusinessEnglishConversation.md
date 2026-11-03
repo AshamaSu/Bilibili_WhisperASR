@@ -59,10 +59,10 @@
 
 1. Let's jump into this deep dive on ______ business English conversations.
 2. I'd say ______ listening.
-3. It's so structured and ______.
+3. Mastering ______ conversations.
 4. Exactly, a conversational ______.
 5. It's got articles, research and even some example ______.
-6. Make sure it's ______ enough to get you to the other side.
+6. All right, let's jump into this deep dive on mastering ______ conversations.
 7. It's interesting you should ______ that.
 8. Which is exactly what I ______.
 

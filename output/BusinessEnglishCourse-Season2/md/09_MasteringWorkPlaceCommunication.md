@@ -63,7 +63,7 @@
 
 ### 填空版（听完自测，关键短语挖空）
 
-1. Now let's move to a crucial aspect of workplace ______.
+1. It's just a nice, easy way to ______ a colleague about their current day.
 2. When it comes to ______, you'll hear a range.
 3. It ______ progress, but hints at ______.
 4. It's a nice, easy way to ______ about a colleague's day at work.

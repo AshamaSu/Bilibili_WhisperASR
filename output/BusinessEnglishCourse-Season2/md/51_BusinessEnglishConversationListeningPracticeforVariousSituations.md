@@ -60,9 +60,9 @@
 1. A master class in subtle ______ ______.
 2. Upgrading their security ______.
 3. Implementing regular ______ testing.
-4. We're talking about regulatory ______.
+4. We're getting into the ______ of how they're going to make it happen.
 5. People's jobs and livelihoods are on the ______.
-6. This conversation highlights the complexities of going ______.
+6. Speaking of tricky situations, let's ______ and move on to this contract negotiation.
 7. Let's shift our focus to the ______ stage.
 8. We're getting into the ______ gritty.
 

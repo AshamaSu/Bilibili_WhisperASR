@@ -60,12 +60,12 @@
 ### 填空版（听完自测，关键短语挖空）
 
 1. A structured, ______ approach to managing costs.
-2. They explore how to ______ activities to stay within budget.
+2. An expedited ______ that aligns with the company's guidelines.
 3. An ______ review process that aligns with the company's ______.
-4. Having thorough ______ processes is essential.
+4. The conversation identifies a very typical ______ of this kind of tension.
 5. Defining those crystal clear ______ for what counts as acceptance.
-6. The conversation identifies a typical ______ ______ of this tension.
-7. They also consider ______ with established experts.
+6. They're also very mindful of the need to protect their ______ naturally.
+7. The ______ from this conversation is the importance of a structured, methodical approach.
 8. That ______ the importance of continuous improvement.
 
 ## 3. 词句翻译
