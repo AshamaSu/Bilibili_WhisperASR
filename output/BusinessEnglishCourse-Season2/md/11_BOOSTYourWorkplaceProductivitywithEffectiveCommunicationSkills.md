@@ -54,10 +54,11 @@
 | Problem needs immediate attention. | 描述紧急状况 | Problem needs immediate attention. |
 | Recording the official decisions and actions. | 说明会议记录内容 | Recording the official decisions and actions. |
 | Gross salary is the big number before anything is taken out. | 解释薪酬术语 | Gross salary or gross pay is the big number. |
-| It shows up in how you speak. | 说明某能力的外显 | critical part let's talk about expressing opinions effectively moving beyond just I think yes how to ask for opinions first instead of just what do you think right try something more inviting like what are your thoughts on for example what are your thoughts on this new proposal it encourages a more detailed answer okay shows you value their perspective what else |
 | Good team spirit boosts productivity, resilience. | 说明因果 | Good team spirit boosts productivity, resilience. |
 | Remember the silent B in doubt. | 提醒发音陷阱 | Remember the silent B in doubt. |
 | I have no doubt that… | 表达确信 | I have no doubt that. |
+| What are your thoughts on this new proposal? | 征询意见，比 what do you think 更邀请式 | What are your thoughts on this new proposal? |
+| That's the art of agreement and disagreement. | 概括沟通的分寸 | That's the art of agreement and disagreement. |
 
 ### 填空版（听完自测，关键短语挖空）
 
@@ -81,7 +82,6 @@
 | Gross salary or gross pay is the big number, the total before anything is taken out. | 税前工资就是那个大数字，是扣除任何费用之前的总额。 |
 | Remember the silent B in doubt. | 记住 doubt 里的 b 不发音。 |
 | What about reacting to others, agreeing and disagreeing? | 那回应他人、表示同意和不同意又怎么说？ |
-| It shows up in how you speak in a workplace setting. | 它体现在你在职场里怎么说话。 |
 | Salary, experience, and performance. | 薪水、经验和绩效。 |
 | I have no doubt that. | 我对此毫不怀疑。 |
 | Communication is more than just words. | 沟通不只是用词。 |
@@ -89,3 +89,4 @@
 | Morale booster. | 提升士气的东西。 |
 | Problems and decisions. | 问题与决策。 |
 | And often productivity, too, I bet. | 我猜效率往往也会跟着提升。 |
+| That's the art of agreement and disagreement. | 这就是同意与不同意的分寸艺术。 |
