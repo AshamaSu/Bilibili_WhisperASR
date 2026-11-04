@@ -21,7 +21,6 @@ sys.path.insert(0, str(ROOT))
 from pipeline import config  # 季路径唯一来源
 
 DEFAULT_HTML = None
-DIST_HTML = None
 OUTPUT_DIR = None
 INDEX_JSON = None
 VOCAB_JSON = None
@@ -29,10 +28,9 @@ SEASON = None
 
 
 def use_season(name=None):
-    global DEFAULT_HTML, DIST_HTML, OUTPUT_DIR, INDEX_JSON, VOCAB_JSON, SEASON
+    global DEFAULT_HTML, OUTPUT_DIR, INDEX_JSON, VOCAB_JSON, SEASON
     SEASON = config.set_season(name)
     DEFAULT_HTML = config.SEASON_DIR / "review_site" / "index.html"
-    DIST_HTML = ROOT / "dist" / "review-site" / config.SEASON_KEY / "index.html"
     OUTPUT_DIR = config.OUTPUT_DIR
     INDEX_JSON = config.EPISODES_JSON
     VOCAB_JSON = config.VOCAB_INDEX_JSON
@@ -282,7 +280,7 @@ def check_idempotent() -> None:
         with tempfile.TemporaryDirectory() as td:
             out = Path(td) / ("a%d.html" % i)
             proc = subprocess.run([sys.executable, str(build), "--generated-at", "2026-10-27T00:00:00Z",
-                                   "--season", SEASON, "--out", str(out), "--no-dist"],
+                                   "--season", SEASON, "--out", str(out)],
                                   capture_output=True, text=True)
             if proc.returncode != 0:
                 fail("幂等检查构建失败：%s" % proc.stderr.strip()[:200])
@@ -293,19 +291,6 @@ def check_idempotent() -> None:
     else:
         ok("幂等：两次构建 sha256 相同（%s…）" % digests[0][:12])
 
-
-def _check_dist_sync(min_build) -> None:
-    """发布包必须与当前 minimal 构建逐字节一致（dist 已纳入标准流程）。"""
-    if not DIST_HTML.exists():
-        ok("发布包 %s 不存在（跳过同步检查）" % DIST_HTML.name)
-        return
-    built = hashlib.sha256(min_build.read_bytes()).hexdigest()
-    shipped = hashlib.sha256(DIST_HTML.read_bytes()).hexdigest()
-    if built != shipped:
-        fail("发布包 dist/review-site/index.html 与当前 minimal 构建不一致"
-             "（重跑 python3 webgen/build_site.py --mode minimal）")
-    else:
-        ok("发布包与 minimal 构建一致（sha256 %s…）" % built[:12])
 
 
 def main(argv=None) -> int:
@@ -336,7 +321,7 @@ def main(argv=None) -> int:
             out = Path(td) / "min.html"
             proc = subprocess.run([sys.executable, str(ROOT / "webgen" / "build_site.py"),
                                    "--mode", "minimal", "--season", SEASON,
-                                   "--out", str(out), "--no-dist"],
+                                   "--out", str(out)],
                                   capture_output=True, text=True)
             if proc.returncode != 0:
                 fail("minimal 构建失败：%s" % proc.stderr.strip()[:200])
@@ -346,7 +331,6 @@ def main(argv=None) -> int:
                 if len(problems) > len(saved):
                     fail("minimal 产物复检未通过（见上）")
                 ok("minimal 重建复检通过")
-                _check_dist_sync(out)
 
     for n in notes:
         print("  ok  " + n)

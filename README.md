@@ -101,7 +101,7 @@ python -m pipeline status --season season2          # 查看各集状态
 
 ```bash
 python3 webgen/build_site.py --season season1                  # → output/BusinessEnglishCourse-Season1/review_site/index.html（full，含原文例句）
-python3 webgen/build_site.py --season season1 --mode minimal   # 公开版：不含例句，并同步 dist/review-site/season1/
+python3 webgen/build_site.py --season season1 --mode minimal   # 公开版：不含原文例句
 python3 webgen/selfcheck.py --season season1                   # 18 项自动校验（含幂等、minimal 复检、发布包一致性）
 ```
 

@@ -248,7 +248,7 @@ def main(argv=None) -> int:
     out.mkdir(parents=True, exist_ok=True)
 
     rc = bs.main(["--season", args.season or season, "--mode", args.mode,
-                  "--out", str(out / "index.html"), "--no-dist"])
+                  "--out", str(out / "index.html")])
     if rc != 0:
         print("ERROR 复习站构建失败（%d）" % rc, file=sys.stderr)
         return rc

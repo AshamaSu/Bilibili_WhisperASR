@@ -4,7 +4,7 @@
 数据源只用 index/episodes.json 中 status==done 的 file_stem，不 glob output/。
 用法:
     python webgen/build_site.py                       # full 模式（不同步发布包）
-    python webgen/build_site.py --mode minimal        # 公开投稿版：同时同步 dist/review-site/index.html
+    python webgen/build_site.py --mode minimal        # 对外版（剥掉原文例句）；部署用 build_server.py
     python webgen/build_site.py --dump                # 只打印解析统计
 退出码: 0 成功 / 1 解析或数据校验失败 / 2 用法错误 / 3 产物校验失败
 """
@@ -28,18 +28,16 @@ INDEX_JSON = None
 VOCAB_JSON = None
 TEMPLATE = Path(__file__).resolve().parent / "template.html"
 DEFAULT_OUT = None
-DEFAULT_DIST = None
 
 
 def use_season(name=None):
     """切换季：产出 seasons/<season>/{output,index,vocab_index.json,review_site}。"""
-    global OUTPUT_DIR, INDEX_JSON, VOCAB_JSON, DEFAULT_OUT, DEFAULT_DIST
+    global OUTPUT_DIR, INDEX_JSON, VOCAB_JSON, DEFAULT_OUT
     season = config.set_season(name)
     OUTPUT_DIR = config.OUTPUT_DIR
     INDEX_JSON = config.EPISODES_JSON
     VOCAB_JSON = config.VOCAB_INDEX_JSON
     DEFAULT_OUT = config.SEASON_DIR / "review_site" / "index.html"
-    DEFAULT_DIST = ROOT / "dist" / "review-site" / config.SEASON_KEY / "index.html"
     return season
 
 SCHEMA_VERSION = 1
@@ -516,11 +514,6 @@ def main(argv: Optional[List[str]] = None) -> int:
     ap.add_argument("--season", default=None, help="课程季，如 season1 / season2")
     ap.add_argument("--out", default=None, help="默认 output/<季目录>/review_site/index.html")
     ap.add_argument("--generated-at", default=None)
-    ap.add_argument("--dist", default=None,
-                    help="发布包路径（默认 dist/review-site/<season>/index.html）")
-    ap.add_argument("--no-dist", action="store_true", help="不同步发布包")
-    ap.add_argument("--force-dist", action="store_true",
-                    help="full 模式也同步发布包（含原文例句，勿用于公开部署）")
     ap.add_argument("--dump", action="store_true", help="只打印解析统计，不写文件")
     args = ap.parse_args(argv)
 
@@ -531,8 +524,6 @@ def main(argv: Optional[List[str]] = None) -> int:
         return 1
     if not args.out:
         args.out = str(DEFAULT_OUT)
-    if not args.dist:
-        args.dist = str(DEFAULT_DIST)
 
     try:
         episodes = load_episodes(INDEX_JSON)
@@ -580,17 +571,6 @@ def main(argv: Optional[List[str]] = None) -> int:
     if size > WARN_BYTES:
         print("WARN 产物 %.2f MB，已超过 2 MB 提示线" % (size / 1048576.0), file=sys.stderr)
     print("已写出 %s (%.0f KB, mode=%s)" % (out, size / 1024.0, args.mode))
-
-    # 发布包默认跟着走：只有 minimal（对外版）才自动同步，避免把原文例句带进 dist
-    if args.no_dist:
-        return 0
-    dist = Path(args.dist)
-    if args.mode != "minimal" and not args.force_dist:
-        print("WARN full 模式未同步发布包（含原文例句）；需要请加 --force-dist",
-              file=sys.stderr)
-        return 0
-    write_atomic(dist, html)
-    print("已同步发布包 %s" % dist)
     return 0
 
 
