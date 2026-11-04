@@ -53,13 +53,22 @@ main{flex:1 1 auto;min-height:0;width:100%;max-width:760px;margin:0 auto;padding
 #epMeta{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 #loadState,#cacheState{white-space:nowrap;flex:0 0 auto}
 #cacheState{overflow:hidden;text-overflow:ellipsis;max-width:12em}
-.ctl-sub{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:nowrap;min-width:0;margin-top:5px}
+.ctl-sub{display:flex;align-items:center;justify-content:flex-start;gap:8px;flex-wrap:wrap;min-width:0;margin-top:5px}
+#cacheState{margin-left:auto}
 .ctl-toggle{display:none;align-items:center;justify-content:center;gap:6px;width:100%;height:22px;margin-top:4px;
   border:0;background:none;color:var(--muted);font-size:12px;cursor:pointer;padding:0;line-height:1}
 .ctl-toggle .chev{font-size:12px}
 #ctlInfo{font-variant-numeric:tabular-nums;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-#ctlCard.collapsed #ctlMain{display:none}
+#ctlCard{display:flex;flex-direction:column}
+/* 收起时只留播放控制条（触屏 5 键），其余行隐藏 */
+#ctlCard.collapsed #ctlMain > .ep-title,
+#ctlCard.collapsed #ctlMain > .meta-row,
+#ctlCard.collapsed #ctlMain > .ctl-row,
+#ctlCard.collapsed .ctl-sub > .speed,
+#ctlCard.collapsed .ctl-sub > .divider,
+#ctlCard.collapsed .ctl-sub > #cacheState{display:none}
 #ctlCard:not(.collapsed) #ctlInfo{display:none}
+.ctl-toggle{order:-1;margin-top:0;margin-bottom:2px}
 /* 字幕区 */
 .subs{
   flex:1 1 auto; min-height:240px; overflow-y:auto; border:1px solid var(--line); border-radius:12px;
@@ -88,11 +97,17 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   #sentNo{font-size:11px}
   .speed .btn{padding:4px 5px;font-size:12px}
 }
-/* 触摸设备：大按钮控制条替代键盘；字幕区留给内容 */
-.touch{display:none}
+/* 控制条：桌面与倍速同排（竖线分隔），触摸端独占一行大按钮 */
+.touch{display:flex;align-items:center;gap:6px;min-width:0}
+.touch .btn{min-height:36px;height:36px;padding:4px 8px;font-size:13px;display:inline-flex;align-items:center;justify-content:center;gap:2px}
+.divider{width:1px;height:24px;background:var(--line);flex:0 0 auto;margin:0 4px}
 @media (pointer:coarse){
-  .touch{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
-  .touch .btn{min-height:54px;font-size:15px;padding:6px 4px;display:flex;align-items:center;justify-content:center}
+  .ctl-sub{flex-wrap:wrap;gap:8px}
+  .touch{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:8px;order:2;width:100%}
+  .touch .btn{min-height:54px;height:auto;font-size:15px;padding:6px 4px;display:flex;align-items:center;justify-content:center}
+  .divider{display:none}
+  .speed{order:1}
+  #cacheState{order:1;margin-left:auto}
   .ctl-toggle{display:flex}
   .sub{padding:12px 10px}
   main{padding-bottom:calc(28px + env(safe-area-inset-bottom))}
@@ -128,6 +143,14 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
         <button class="btn btn--icon" id="helpBtn" type="button" aria-label="帮助与快捷键" title="帮助">?</button>
       </div>
       <div class="ctl-sub">
+        <div class="touch" id="touchBar" role="group" aria-label="播放控制">
+          <button class="btn" type="button" data-act="prev" aria-label="上一句">⏮ 句</button>
+          <button class="btn" type="button" data-act="back" aria-label="后退 10 秒">−10s</button>
+          <button class="btn" type="button" data-act="play" id="tpPlay" aria-label="播放">▶</button>
+          <button class="btn" type="button" data-act="fwd" aria-label="前进 10 秒">+10s</button>
+          <button class="btn" type="button" data-act="next" aria-label="下一句">⏭ 句</button>
+        </div>
+        <span class="divider" aria-hidden="true"></span>
         <div class="speed" id="speedBox" role="group" aria-label="播放速率"></div>
         <span class="tiny muted" id="cacheState"></span>
       </div>
@@ -135,13 +158,6 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     <button class="ctl-toggle" id="ctlToggle" type="button" aria-expanded="true" aria-controls="ctlMain" aria-label="收起或展开控制区">
       <span class="chev" id="ctlChev">⌃</span><span id="ctlInfo"></span>
     </button>
-    <div class="touch" id="touchBar" role="group" aria-label="播放控制">
-      <button class="btn" type="button" data-act="prev" aria-label="上一句">⏮ 句</button>
-      <button class="btn" type="button" data-act="back" aria-label="后退 10 秒">−10s</button>
-      <button class="btn" type="button" data-act="play" id="tpPlay" aria-label="播放">▶</button>
-      <button class="btn" type="button" data-act="fwd" aria-label="前进 10 秒">+10s</button>
-      <button class="btn" type="button" data-act="next" aria-label="下一句">⏭ 句</button>
-    </div>
   </section>
   <div class="subs" id="subs" tabindex="0" aria-label="字幕列表，点击句子跳转播放"></div>
 </main>
@@ -196,6 +212,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   });
 
   // 控制区折叠：收起后只留折叠条 + 播放控制条，把高度让给字幕
+  var coarse = !window.matchMedia || window.matchMedia("(pointer: coarse)").matches;
   var ctlOpen = store.get("wh:intensive:ctl") !== "0";
   function ctlStatus(){
     var t = fmt(playTime()) + " / " + fmt(player.duration);
@@ -203,11 +220,12 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     return c ? t + " · " + c : t;
   }
   function paintCtl(){
-    ctlCard.classList.toggle("collapsed", !ctlOpen);
-    ctlToggle.setAttribute("aria-expanded", ctlOpen ? "true" : "false");
-    ctlToggle.setAttribute("aria-label", ctlOpen ? "收起控制区" : "展开控制区");
-    ctlChev.textContent = ctlOpen ? "⌃" : "⌄";
-    ctlInfo.textContent = ctlOpen ? "" : ctlStatus();
+    var open = ctlOpen || !coarse;          // 桌面端不折叠（没有折叠条可点）
+    ctlCard.classList.toggle("collapsed", !open);
+    ctlToggle.setAttribute("aria-expanded", open ? "true" : "false");
+    ctlToggle.setAttribute("aria-label", open ? "收起控制区" : "展开控制区");
+    ctlChev.textContent = open ? "⌃" : "⌄";
+    ctlInfo.textContent = open ? "" : ctlStatus();
   }
   ctlToggle.addEventListener("click", function(){
     ctlOpen = !ctlOpen;
