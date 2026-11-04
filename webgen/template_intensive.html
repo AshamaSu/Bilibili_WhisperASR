@@ -28,8 +28,8 @@ button{font:inherit;color:inherit}
 .appbar .inner{max-width:760px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:10px}
 .appbar h1{font-size:17px;font-weight:650;flex:1;min-width:0;margin:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 select{font:inherit;border:1px solid var(--line);border-radius:10px;padding:8px 10px;min-height:44px;background:var(--surface);max-width:46vw}
-.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:14px;box-shadow:var(--shadow)}
-main{flex:1 1 auto;min-height:0;width:100%;max-width:760px;margin:0 auto;padding:14px 16px 40px;display:flex;flex-direction:column;gap:12px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:12px;box-shadow:var(--shadow)}
+main{flex:1 1 auto;min-height:0;width:100%;max-width:760px;margin:0 auto;padding:12px 14px 40px;display:flex;flex-direction:column;gap:10px}
 .ep-title{font-size:18px;font-weight:650;line-height:1.4;word-break:break-word}
 .muted{color:var(--muted)}
 .small{font-size:14px}
@@ -41,10 +41,25 @@ main{flex:1 1 auto;min-height:0;width:100%;max-width:760px;margin:0 auto;padding
 .btn--primary{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
 .btn[aria-pressed="true"]{background:var(--accent-soft);border-color:#b9cbf3;color:var(--accent);font-weight:600}
 .btn .ico{font-size:16px}
-.btn--icon{width:44px;min-width:44px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:18px;line-height:1}
+.btn--icon{width:36px;min-width:36px;height:36px;min-height:36px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:17px;line-height:1}
 .time{font-variant-numeric:tabular-nums;white-space:nowrap}
-.speed{display:flex;gap:6px;flex-wrap:wrap}
-.speed .btn{padding:6px 10px;min-height:40px;font-size:14px}
+.speed{display:flex;gap:5px;flex-wrap:nowrap;min-width:0}
+.speed .btn{padding:4px 7px;min-height:36px;height:36px;font-size:13px}
+/* 控制区：单行不折行 + 可折叠 */
+.ctl-row{display:flex;align-items:center;gap:4px;flex-wrap:nowrap;min-width:0}
+.ctl-row .time{font-size:13px}
+#sentNo{font-size:12px}
+.meta-row{display:flex;align-items:center;gap:8px;min-width:0;justify-content:space-between}
+#epMeta{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#loadState,#cacheState{white-space:nowrap;flex:0 0 auto}
+#cacheState{overflow:hidden;text-overflow:ellipsis;max-width:12em}
+.ctl-sub{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:nowrap;min-width:0;margin-top:5px}
+.ctl-toggle{display:none;align-items:center;justify-content:center;gap:6px;width:100%;height:22px;margin-top:4px;
+  border:0;background:none;color:var(--muted);font-size:12px;cursor:pointer;padding:0;line-height:1}
+.ctl-toggle .chev{font-size:12px}
+#ctlInfo{font-variant-numeric:tabular-nums;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#ctlCard.collapsed #ctlMain{display:none}
+#ctlCard:not(.collapsed) #ctlInfo{display:none}
 /* 字幕区 */
 .subs{
   flex:1 1 auto; min-height:240px; overflow-y:auto; border:1px solid var(--line); border-radius:12px;
@@ -65,11 +80,20 @@ dialog{border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(-
 dialog::backdrop{background:rgba(0,0,0,.35)}
 .status{position:fixed;left:-9999px}
 .banner{background:var(--warn-soft,#fdf1dc);border:1px solid #ecd3a0;color:#8a5300;border-radius:10px;padding:8px 12px;font-size:14px}
+/* 窄屏（<=340px）：再压一档，保证播放行不折行 */
+@media (max-width:340px){
+  .btn--icon{width:32px;min-width:32px;height:32px;min-height:32px;font-size:15px}
+  .ctl-row{gap:3px}
+  .ctl-row .time{font-size:12px}
+  #sentNo{font-size:11px}
+  .speed .btn{padding:4px 5px;font-size:12px}
+}
 /* 触摸设备：大按钮控制条替代键盘；字幕区留给内容 */
 .touch{display:none}
 @media (pointer:coarse){
   .touch{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:10px}
   .touch .btn{min-height:54px;font-size:15px;padding:6px 4px;display:flex;align-items:center;justify-content:center}
+  .ctl-toggle{display:flex}
   .sub{padding:12px 10px}
   main{padding-bottom:calc(28px + env(safe-area-inset-bottom))}
   .appbar .inner{padding-top:calc(6px + env(safe-area-inset-top))}
@@ -86,26 +110,31 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
 </header>
 <main>
   <div id="banner" class="banner" hidden></div>
-  <section class="card">
-    <div class="ep-title" id="epTitle"></div>
-    <div class="row spread" style="margin-top:2px">
-      <span class="tiny muted" id="epMeta"></span>
-      <span class="tiny muted" id="loadState"></span>
+  <section class="card" id="ctlCard">
+    <div id="ctlMain">
+      <div class="ep-title" id="epTitle"></div>
+      <div class="meta-row" style="margin-top:2px">
+        <span class="tiny muted" id="epMeta"></span>
+        <span class="tiny muted" id="loadState"></span>
+      </div>
+      <div class="ctl-row" style="margin-top:8px">
+        <button class="btn btn--primary btn--icon" id="playBtn" aria-label="播放"><span class="ico" id="playIco">▶</span></button>
+        <span class="tiny muted time" id="sentNo">–/–</span>
+        <span class="time" id="timeNow">0:00</span>
+        <span class="muted">/</span>
+        <span class="time muted" id="timeTotal">–:––</span>
+        <span style="flex:1 1 auto"></span>
+        <button class="btn btn--icon" id="followBtn" type="button" aria-pressed="true" aria-label="同步滚动" title="同步滚动">⇅</button>
+        <button class="btn btn--icon" id="helpBtn" type="button" aria-label="帮助与快捷键" title="帮助">?</button>
+      </div>
+      <div class="ctl-sub">
+        <div class="speed" id="speedBox" role="group" aria-label="播放速率"></div>
+        <span class="tiny muted" id="cacheState"></span>
+      </div>
     </div>
-    <div class="row" style="margin-top:8px;gap:8px">
-      <button class="btn btn--primary btn--icon" id="playBtn" aria-label="播放"><span class="ico" id="playIco">▶</span></button>
-      <span class="tiny muted time" id="sentNo">– / –</span>
-      <span class="time small" id="timeNow">0:00</span>
-      <span class="muted">/</span>
-      <span class="time small muted" id="timeTotal">–:––</span>
-      <span style="flex:1 1 auto"></span>
-      <button class="btn btn--icon" id="followBtn" type="button" aria-pressed="true" aria-label="同步滚动" title="同步滚动">⇅</button>
-      <button class="btn btn--icon" id="helpBtn" type="button" aria-label="帮助与快捷键" title="帮助">?</button>
-    </div>
-    <div class="row spread" style="margin-top:8px">
-      <div class="speed" id="speedBox" role="group" aria-label="播放速率"></div>
-      <span class="tiny muted" id="cacheState"></span>
-    </div>
+    <button class="ctl-toggle" id="ctlToggle" type="button" aria-expanded="true" aria-controls="ctlMain" aria-label="收起或展开控制区">
+      <span class="chev" id="ctlChev">⌃</span><span id="ctlInfo"></span>
+    </button>
     <div class="touch" id="touchBar" role="group" aria-label="播放控制">
       <button class="btn" type="button" data-act="prev" aria-label="上一句">⏮ 句</button>
       <button class="btn" type="button" data-act="back" aria-label="后退 10 秒">−10s</button>
@@ -140,6 +169,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   var timeNow=$("timeNow"), timeTotal=$("timeTotal"), sentNo=$("sentNo"), live=$("live"), loadState=$("loadState");
   var cacheState=$("cacheState");
   var epTitle=$("epTitle"), epMeta=$("epMeta"), banner=$("banner");
+  var ctlCard=$("ctlCard"), ctlToggle=$("ctlToggle"), ctlChev=$("ctlChev"), ctlInfo=$("ctlInfo");
 
   // ---------- localStorage（file:// 各浏览器分区不同；一律 try/catch） ----------
   // 同一域名下多季共用 /s1/、/s2/ 子路径时，靠 NS 隔离进度，避免互相覆盖
@@ -164,6 +194,28 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     announce(follow ? "同步滚动已开启" : "同步滚动已关闭");
     if(follow && cur.idx >= 0) scrollSub(subsEl.children[cur.idx]);
   });
+
+  // 控制区折叠：收起后只留折叠条 + 播放控制条，把高度让给字幕
+  var ctlOpen = store.get("wh:intensive:ctl") !== "0";
+  function ctlStatus(){
+    var t = fmt(playTime()) + " / " + fmt(player.duration);
+    var c = cacheState.textContent;
+    return c ? t + " · " + c : t;
+  }
+  function paintCtl(){
+    ctlCard.classList.toggle("collapsed", !ctlOpen);
+    ctlToggle.setAttribute("aria-expanded", ctlOpen ? "true" : "false");
+    ctlToggle.setAttribute("aria-label", ctlOpen ? "收起控制区" : "展开控制区");
+    ctlChev.textContent = ctlOpen ? "⌃" : "⌄";
+    ctlInfo.textContent = ctlOpen ? "" : ctlStatus();
+  }
+  ctlToggle.addEventListener("click", function(){
+    ctlOpen = !ctlOpen;
+    store.set("wh:intensive:ctl", ctlOpen ? "1" : "0");
+    paintCtl();
+    if(ctlOpen && cur.idx >= 0) restoreFollow();
+  });
+  paintCtl();
   var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   function fmt(t){
@@ -258,6 +310,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     timeNow.textContent = "0:00";
     if(SENTS_BASE && !ep.sents) loadSents(ep);
     schedulePrefetch();
+    paintCtl();
   }
 
   loadState.addEventListener("click", function(){
@@ -269,7 +322,10 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   var PREFETCH_MAX = 64 * 1048576;
   var cache = { token:0, ctrl:null, state:"idle", recv:0, total:0, url:null, ep:null };
 
-  function cacheLabel(msg){ cacheState.textContent = msg || ""; }
+  function cacheLabel(msg){
+    cacheState.textContent = msg || "";
+    if(!ctlOpen) ctlInfo.textContent = ctlStatus();
+  }
   var AUDIO_VER = CFG.audioVersion || "";
   function audioUrl(ep){
     return AUDIO_BASE + encodeURIComponent(ep.file_stem) + ".m4a"
@@ -478,6 +534,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   var lastPosSync = 0;
   player.addEventListener("timeupdate", function(){
     if(cur.swap) return;
+    if(!ctlOpen) ctlInfo.textContent = ctlStatus();
     refresh(player.currentTime);
     savePos(false);
     var now = Date.now();
