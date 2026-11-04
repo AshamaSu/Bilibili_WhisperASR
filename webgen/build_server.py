@@ -83,8 +83,8 @@ def write_text(path: Path, text: str) -> None:
 
 
 def nginx_conf(root: str, season_key: str) -> str:
-    return """# %(season)s 站点：/ 复习站，/listen/ 精听页（两页互不链接）
-# 部署：把本目录内容放到 %(root)s，然后 nginx -t && systemctl reload nginx
+    conf = """# %(season)s 站点：/ 复习站，/listen/ 精听页（两页互不链接）
+# 放到 /etc/nginx/conf.d/ 下；把 root 指到站点目录后 nginx -t && systemctl reload nginx
 server {
     listen 80;
     server_name _;
@@ -96,38 +96,41 @@ server {
     gzip_types text/html application/json;
     gzip_min_length 1024;
 
-    add_header X-Robots-Tag "noindex, nofollow" always;
-
-    location = /robots.txt {
-        add_header Content-Type text/plain;
-        return 200 "User-agent: *\\nDisallow: /\\n";
-    }
     location = / {
         try_files /index.html =404;
+        add_header X-Robots-Tag "noindex, nofollow" always;
         add_header Cache-Control "no-cache";
     }
-    # 精听页没有入口，改目录名即可隐藏（页面内全是相对路径）
+    # 精听页没有入口；改目录名即可隐藏（页面内全是相对路径）
     location /listen/ {
-        try_files $uri $uri/ =404;
+        try_files $uri $uri/index.html =404;
+        add_header X-Robots-Tag "noindex, nofollow" always;
         add_header Cache-Control "no-cache";
-        # 只给自己用的话可开 Basic Auth：
+        # 只给自己用可开 Basic Auth：
         # auth_basic "restricted"; auth_basic_user_file /etc/nginx/.htpasswd;
     }
     location /listen/data/ {
+        add_header X-Robots-Tag "noindex, nofollow" always;
         add_header Cache-Control "public, max-age=604800";
     }
-    location /listen/audio/ {
+    # ^~ 让下面的 .m4a 拦截规则不作用于本目录（否则音频会被 404）
+    location ^~ /listen/audio/ {
         types { audio/mp4 m4a; }
         default_type audio/mp4;
         add_header Accept-Ranges bytes;
         add_header Cache-Control "public, max-age=31536000, immutable";
         open_file_cache max=64 inactive=1h;
         open_file_cache_valid 10m;
-        limit_conn addr 2;          # 5 Mbps 出口：同时最多两路下载
+        # 5 Mbps 出口建议限并发：先在 http{} 加
+        #   limit_conn_zone $binary_remote_addr zone=perip:10m;
+        # 再打开下一行
+        # limit_conn perip 2;
     }
-    location ~* \\.m4a$ { return 404; }   # 只能从 /listen/audio/ 取音频
+    # 音频只能从这个目录取，防止绕过缓存头
+    location ~* \\.m4a$ { return 404; }
 }
-""" % {"season": season_key, "root": root}
+"""
+    return conf % {"season": season_key, "root": root}
 
 
 README = """# %(season)s 站点
@@ -148,8 +151,12 @@ README = """# %(season)s 站点
     rsync -av --delete dist/server/%(season)s/ user@host:/var/www/whisper/releases/%(stamp)s/
     # 2. 切软链
     ssh user@host 'ln -sfn /var/www/whisper/releases/%(stamp)s /var/www/whisper/current'
-    # 3. 配好 nginx.conf 里的 root（指向 current）后重载
+    # 3. 把 nginx.conf 拷进 /etc/nginx/conf.d/whisper.conf，root 指到 current
+    scp nginx.conf user@host:/etc/nginx/conf.d/whisper.conf
     ssh user@host 'nginx -t && systemctl reload nginx'
+
+线上不需要 serve.py：nginx 自己提供 audio/mp4 MIME 与 Range/206。serve.py 只用于本地预览。
+同一台机器要同时放两季时，改 listen 端口或 server_name（或用 /s1/ /s2/ 两级目录，root 指到上一级）。
 
 ## 注意
 
@@ -266,6 +273,7 @@ def main(argv=None) -> int:
 
     root = "/var/www/whisper/%s" % config.SEASON_KEY
     write_text(out / "nginx.conf", nginx_conf(root, config.SEASON_KEY))
+    write_text(out / "robots.txt", "User-agent: *\nDisallow: /\n")
     total = sum(p.stat().st_size for p in (out / AUDIO_SUB).glob("*.m4a"))
     write_text(out / "README.md", README % {
         "season": config.SEASON_KEY, "mode": args.mode, "count": len(stems),
