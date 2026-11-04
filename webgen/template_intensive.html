@@ -273,7 +273,11 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   var cache = { token:0, ctrl:null, state:"idle", recv:0, total:0, url:null, ep:null };
 
   function cacheLabel(msg){ cacheState.textContent = msg || ""; }
-  function audioUrl(ep){ return AUDIO_BASE + encodeURIComponent(ep.file_stem) + ".m4a"; }
+  var AUDIO_VER = CFG.audioVersion || "";
+  function audioUrl(ep){
+    return AUDIO_BASE + encodeURIComponent(ep.file_stem) + ".m4a"
+         + (AUDIO_VER ? "?v=" + encodeURIComponent(AUDIO_VER) : "");
+  }
   function playTime(){ return cur.swap ? cur.swap.t : (player.currentTime || 0); }
   function curRate(){ return cur.swap ? cur.swap.rate : (player.playbackRate || 1); }
 

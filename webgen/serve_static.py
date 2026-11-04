@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
-"""手机离线版专用静态服务器：修正 .m4a 的 MIME 并支持 Range。
+"""本地预览用静态服务器：修正 .m4a 的 MIME 并支持 Range。
 
 python -m http.server 的两个毛病会让音频播不出来：
   1. .m4a 被映射成 audio/mp4a-latm，Chromium 内核据此判定格式不支持
   2. 不支持 Range，媒体元素 seek 时只能整包重下，且会反复重连
 
+线上由 nginx 提供同等能力（见 dist/server/<季>/nginx.conf）；本脚本只在本地
+预览 dist/server 产物时用，build_server.py 会把它拷成产物里的 serve.py。
+
 用法:
     python serve.py                 # 127.0.0.1:8080，根目录为本文件所在目录
-    python serve.py --port 8081
+    python serve.py --port 8081 --root /path/to/site
     python serve.py --verbose       # 打印访问日志（默认安静）
 """
 from __future__ import annotations

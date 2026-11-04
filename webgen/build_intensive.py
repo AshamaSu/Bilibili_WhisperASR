@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""把 transcripts/ 句级字幕 + data/m4a 音频组装成单文件精读页 intensive/index.html。
+"""把 transcripts/ 句级字幕 + data/m4a 音频组装成精读页 intensive/index.html。
+
+默认单文件（字幕内联，file:// 可直接双击）；--split 则字幕按集拆到 data/<stem>.json，
+页面按需 fetch 并内存缓存，供服务器部署使用（首屏从 1.4 MB gzip 降到 ~13 KB）。
 
 数据源：index/episodes.json（67 集）+ transcripts/<file_stem>/transcript.json（segments）。
 音频不内联：<audio> 指向 data/<Season>/m4a/<file_stem>.m4a（相对路径按产物位置自动计算，file:// 双击即用）。
@@ -147,6 +150,8 @@ def main(argv: Optional[List[str]] = None) -> int:
     ap.add_argument("--dump", action="store_true", help="只打印统计，不写文件")
     ap.add_argument("--audio-base", default=None,
                     help="音频相对基址；默认按产物位置到 data/<Season>/m4a/ 的相对路径计算")
+    ap.add_argument("--audio-version", default="",
+                    help="音频版本串，拼到 URL 的 ?v= 上（重转码后绕开 immutable 缓存）")
     ap.add_argument("--split", action="store_true",
                     help="字幕按集拆成 data/<stem>.json，页面按需加载（服务器部署用）")
     ap.add_argument("--data-dir", default=None,
@@ -178,6 +183,8 @@ def main(argv: Optional[List[str]] = None) -> int:
 
     out = Path(args.out)
     cfg_obj = {"audioBase": args.audio_base}
+    if args.audio_version:
+        cfg_obj["audioVersion"] = args.audio_version
     if args.split:
         data_dir = Path(args.data_dir) if args.data_dir else out.parent / "data"
         rel = os.path.relpath(data_dir, out.parent).replace(os.sep, "/")

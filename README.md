@@ -28,7 +28,7 @@ whisperASR/
 │       ├── review_site/      # §8 复习工作台（生成物）
 │       └── work/             # 瞬态：WAV / 日志（不入库）
 ├── webgen/                   # 构建脚本 + 模板 + 能力探针 + 独立校验器
-├── dist/                     # 发布包（不入库）：mobile/<season>、review-site/<season>
+├── dist/                     # 发布包（不入库）：server/<season>（复习站 + 精听 + 音频）
 └── PLAN.md                   # 执行计划（含 §5 v2 提取规则、§8 复习工作台）
 ```
 
@@ -107,21 +107,22 @@ python3 webgen/selfcheck.py --season season1                   # 18 项自动校
 
 页面含五个视图（今日 / 词句 / 自测 / 词表 / 进度），学习进度只存浏览器 localStorage；新增集数后重跑 build 即可增量进入站点。
 
-## 精读页与手机离线版
+## 精读页与服务器部署
 
-`intensive/index.html` 是**音频同步的精读页**：顶部选集，逐句字幕点哪跳哪，同步滚动、倍速、进度记忆，
-数据全内联、零外链。桌面用 `file://` 双击即可。
+`intensive/index.html` 是**音频同步的精读页**：顶部选集，逐句字幕点哪跳哪，同步滚动、倍速、进度记忆。
+默认单文件内联、零外链，桌面 `file://` 双击即可；加 `--split` 则字幕按集拆成
+`data/<stem>.json`，页面按需加载（服务器模式，首屏从 1.4 MB gzip 降到 ~13 KB）。
 
-安卓上 `file://` 不可用（Scoped Storage 下相对路径失效、origin 为 opaque 导致 localStorage 不可写），
-因此另出了一套「手机本地服务器」形态：页面和音频放手机存储，用静态 HTTP 服务器 app 挂到
-`127.0.0.1`，浏览器打开即用，**不需要 HTTPS、不需要 Service Worker、不需要联网**。
+`build_server.py` 把复习站、精听页和音频组装成一个可直接 rsync 的目录：
 
 ```bash
-python3 webgen/build_intensive.py --season season1                 # → output/BusinessEnglishCourse-Season1/intensive/index.html
 python3 webgen/transcode_mobile.py --season season1 --bitrate 32k  # → data/<Season>/m4a_32/（22.05kHz 单声道）
-python3 webgen/build_mobile.py --season season1                    # → dist/mobile/season1/
-python3 webgen/build_mobile.py --season season1 --verify           # 只校验已有产物
+python3 webgen/build_server.py --season season1                    # → dist/server/BusinessEnglishCourse-Season1/
+python3 webgen/build_server.py --season season1 --verify           # 只校验已有产物
 ```
+
+产物里 `/` 是复习站，`/listen/` 是精听页（直链进入，两页互不链接），`listen/audio/` 是硬链接过来的音频；
+`serve.py` 本地预览，`nginx.conf` / `README.md` 直接用于部署。
 
 - 转码参数：`-ac 1 -ar 22050 -b:a 32k -af highpass=f=70`；源为 44.1kHz stereo ~72kbps，降到 22.05kHz
   后同码率更集中在中频。`--bitrate 24k` 可再省约 170MB。
@@ -134,4 +135,5 @@ python3 webgen/build_mobile.py --season season1 --verify           # 只校验�
 
 - [x] 阶段一：67 集编号映射（index/episodes.md，6 处标题 typo 已修正）
 - [x] 01–67 集转写 + 学习 md（output/）
-- [x] 复习工作台（§8）与精读页、手机离线版
+- [x] 复习工作台（§8）与精读页
+- [x] 服务器部署包（dist/server）：复习站 + 精听页 + 音频，整集 Blob 缓存

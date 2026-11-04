@@ -9,10 +9,10 @@
 | 工作区 | `/Users/aaronliu/Workspaces/whisperASR/` |
 | venv | `whisperASR_env/`（Python 3.12.13；faster-whisper 1.2.1 / ctranslate2 4.8.1 / onnxruntime 1.31.0 已装好） |
 | 模型缓存 | `models/`（空，执行时 `export HF_HOME=/Users/aaronliu/Workspaces/whisperASR/models`） |
-| 源音频 | `data/BusinessEnglishCourse-Season<N>/`：`c_<cid>/`（B 站缓存原件）、`m4a/`（流复制）、`m4a_32/`（手机版转码） |
+| 源音频 | `data/BusinessEnglishCourse-Season<N>/`：`c_<cid>/`（B 站缓存原件）、`m4a/`（流复制）、`m4a_32/`（22.05kHz 单声道 32k 转码，站点与手机共用） |
 | 季划分 | 第一季 67 集 / 56.1h；第二季 81 集 / 75.8h（2026-11-03 接入） |
 | 产出目录 | `output/BusinessEnglishCourse-Season<N>/`（与 data 同名）：`index/` `transcripts/` `candidates/` `md/` `vocab_index.json` `intensive/` `review_site/` |
-| 发布包 | `dist/mobile/<season>/`、`dist/review-site/<season>/`（不入库） |
+| 发布包 | `dist/server/<SeasonKey>/`（复习站 + 精听页 + 音频，不入库） |
 
 激活环境：
 
@@ -356,7 +356,7 @@ segments, info = model.transcribe(
 - 源：data/BusinessEnglishCourse-Season<N>/，只读，不入库
 - 切换方式：`--season season1` 与 `--season BusinessEnglishCourse-Season1` 等价
 - 产出：output/BusinessEnglishCourse-Season<N>/（与 data 子目录严格同名），入库；每季独立编号（都从 1 开始）、独立词表、独立站点；学习 md 放 `md/`，避免 output/…/output 嵌套
-- 发布：dist/mobile/<season>/（手机离线包）、dist/review-site/<season>/（公开版站点）
+- 发布：dist/server/<SeasonKey>/（`/` 复习站 + `/listen/` 精听页 + `listen/audio/` 音频；手机离线包已退役）
 
 两条硬规则：
 
