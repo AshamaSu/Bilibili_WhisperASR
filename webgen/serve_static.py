@@ -125,6 +125,13 @@ class Handler(SimpleHTTPRequestHandler):
             self._remaining = length
         return f
 
+    def handle_one_request(self):
+        # 浏览器主动断开（音频换源 / 预取取消 / preload 探测）属正常现象，别刷栈
+        try:
+            super().handle_one_request()
+        except (BrokenPipeError, ConnectionResetError):
+            self.close_connection = True
+
     def copyfile(self, source, outputfile):
         remaining = getattr(self, "_remaining", None)
         if remaining is None:
@@ -144,9 +151,16 @@ class Handler(SimpleHTTPRequestHandler):
             pass
 
 
+class Server(ThreadingHTTPServer):
+    def handle_error(self, request, client_address):
+        if isinstance(sys.exc_info()[1], (BrokenPipeError, ConnectionResetError)):
+            return
+        super().handle_error(request, client_address)
+
+
 def main(argv=None) -> int:
     here = os.path.dirname(os.path.abspath(__file__))
-    ap = argparse.ArgumentParser(description="手机离线版静态服务器")
+    ap = argparse.ArgumentParser(description="本地预览静态服务器（MIME + Range）")
     ap.add_argument("--port", type=int, default=8080)
     ap.add_argument("--bind", default="127.0.0.1")
     ap.add_argument("--root", default=here)
@@ -158,7 +172,7 @@ def main(argv=None) -> int:
 
     handler = partial(Handler, directory=args.root)
     ThreadingHTTPServer.allow_reuse_address = True
-    httpd = ThreadingHTTPServer((args.bind, args.port), handler)
+    httpd = Server((args.bind, args.port), handler)
     httpd.verbose = args.verbose
     print("根目录: %s" % args.root, flush=True)
     print("服务中: http://%s:%d/   (Ctrl+C 停止)" % (args.bind, args.port), flush=True)
