@@ -109,6 +109,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     <div class="row spread" style="margin-top:6px">
       <span class="tiny muted" id="sentNo">–</span>
       <span class="tiny muted" id="loadState"></span>
+      <span class="tiny muted" id="cacheState"></span>
     </div>
   </section>
   <div class="subs" id="subs" tabindex="0" aria-label="字幕列表，点击句子跳转播放"></div>
@@ -144,6 +145,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   var $ = function(id){ return document.getElementById(id); };
   var player=$("player"), subsEl=$("subs"), epSel=$("epSel"), playBtn=$("playBtn"), playIco=$("playIco");
   var timeNow=$("timeNow"), timeTotal=$("timeTotal"), sentNo=$("sentNo"), live=$("live"), loadState=$("loadState");
+  var cacheState=$("cacheState");
   var epTitle=$("epTitle"), epMeta=$("epMeta"), banner=$("banner");
 
   // ---------- localStorage（file:// 各浏览器分区不同；一律 try/catch） ----------
@@ -217,7 +219,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     cur.sents = rows;
     paintSubs();
     loadState.textContent = "";
-    if(cur.metaReady) refresh(player.currentTime);
+    if(cur.metaReady) refresh(playTime());
   }
 
   function loadSents(ep){
@@ -244,6 +246,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
 
   function renderEpisode(i){
     var ep = eps[i];
+    if(typeof resetCache === "function") resetCache();
     if(cur.sentsCtrl){ try{ cur.sentsCtrl.abort(); }catch(e){} cur.sentsCtrl = null; }
     sentsToken++;                      // 作废上一集在途的字幕请求
     cur.ep = ep; cur.sents = ep.sents || []; cur.idx = -1; cur.metaReady = false;
@@ -252,16 +255,103 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     setMediaMeta(ep);
     subsEl.textContent = "";
     if(cur.sents.length) paintSubs(); else sentNo.textContent = "– / " + epCount(ep);
-    player.src = AUDIO_BASE + encodeURIComponent(ep.file_stem) + ".m4a";
+    player.src = audioUrl(ep);
     loadState.textContent = "加载中…";
     timeTotal.textContent = "–:––";
     timeNow.textContent = "0:00";
     if(SENTS_BASE && !ep.sents) loadSents(ep);
+    schedulePrefetch();
   }
 
   loadState.addEventListener("click", function(){
     if(SENTS_BASE && cur.ep && !cur.sents.length) loadSents(cur.ep);
   });
+
+  // ---------- 整集缓存（fetch -> Blob；换源后同集内拖动完全本地） ----------
+  var PREFETCH = CFG.prefetch !== false;
+  var PREFETCH_MAX = 64 * 1048576;
+  var cache = { token:0, ctrl:null, state:"idle", recv:0, total:0, url:null, ep:null };
+
+  function cacheLabel(msg){ cacheState.textContent = msg || ""; }
+  function audioUrl(ep){ return AUDIO_BASE + encodeURIComponent(ep.file_stem) + ".m4a"; }
+  function playTime(){ return cur.swap ? cur.swap.t : (player.currentTime || 0); }
+  function curRate(){ return cur.swap ? cur.swap.rate : (player.playbackRate || 1); }
+
+  function resetCache(){
+    cache.token++;                      // 作废在途请求与进度回调
+    cache.state = "idle"; cache.ep = null; cache.recv = cache.total = 0;
+    if(cache.ctrl){ try{ cache.ctrl.abort(); }catch(e){} cache.ctrl = null; }
+    cur.swap = null;
+    var old = cache.url; cache.url = null;
+    cacheLabel("");
+    if(old) setTimeout(function(){ try{ URL.revokeObjectURL(old); }catch(e){} }, 2000);
+  }
+
+  function paintCache(got, total){
+    if(!total){ cacheLabel("缓存整集 " + (got / 1048576).toFixed(1) + " MB"); return; }
+    var pct = Math.min(100, Math.round(got * 100 / total));
+    cacheLabel("缓存整集 " + pct + "%");
+  }
+
+  function startPrefetch(ep){
+    if(!PREFETCH || location.protocol === "file:") return;
+    if(!window.fetch || !window.Blob || !URL.createObjectURL) return;
+    var token = cache.token;
+    cache.state = "fetching"; cache.ep = ep; cache.recv = 0; cache.total = 0;
+    cache.ctrl = window.AbortController ? new AbortController() : null;
+    cacheLabel("缓存整集 0%");
+    fetch(audioUrl(ep), cache.ctrl ? {signal: cache.ctrl.signal} : undefined)
+      .then(function(res){
+        if(!res.ok) throw new Error("HTTP " + res.status);
+        var len = parseInt(res.headers.get("Content-Length") || "0", 10);
+        if(len > PREFETCH_MAX) throw new Error("too-large");
+        cache.total = len;
+        if(!res.body || !res.body.getReader) return res.blob();
+        var reader = res.body.getReader(), chunks = [], got = 0;
+        function pump(){
+          return reader.read().then(function(r){
+            if(token !== cache.token) throw new Error("stale");
+            if(r.done) return new Blob(chunks, {type:"audio/mp4"});
+            chunks.push(r.value); got += r.value.length; cache.recv = got;
+            paintCache(got, len);
+            if(got > PREFETCH_MAX) throw new Error("too-large");
+            return pump();
+          });
+        }
+        return pump();
+      })
+      .then(function(blob){
+        if(token !== cache.token || cur.ep !== ep) return;      // 切集竞态：丢弃
+        if(cache.total && blob.size !== cache.total) throw new Error("truncated");
+        attachBlob(ep, URL.createObjectURL(blob), token);
+      })
+      .catch(function(err){
+        if(token !== cache.token) return;
+        if(err && err.name === "AbortError"){ cache.state = "idle"; return; }
+        cache.state = "failed";
+        cacheLabel("整集缓存失败，可在线播放");
+      });
+  }
+
+  function attachBlob(ep, url, token){
+    if(token !== cache.token || cur.ep !== ep){ try{ URL.revokeObjectURL(url); }catch(e){} return; }
+    cache.url = url; cache.state = "ready";
+    cur.swap = { t: player.currentTime || 0,
+                 playing: !player.paused && !player.ended,
+                 rate: player.playbackRate || 1 };
+    cur.metaReady = false;
+    player.src = url;
+    player.load();
+    cacheLabel("整集已缓存 · 本地拖动");
+  }
+
+  function schedulePrefetch(){
+    if(!PREFETCH || cache.state !== "idle") return;
+    var ep = cur.ep;
+    setTimeout(function(){
+      if(ep === cur.ep && cache.state === "idle") startPrefetch(ep);
+    }, 300);
+  }
 
   // ---------- 高亮与滚动 ----------
   function findIdx(t){
@@ -356,14 +446,26 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     var now = Date.now();
     if(!force && now - lastSave < 5000) return;
     lastSave = now;
-    store.set("wh:intensive:pos:" + cur.ep.file_stem, String(player.currentTime || 0));
-    store.set("wh:intensive:rate", String(player.playbackRate));
+    store.set("wh:intensive:pos:" + cur.ep.file_stem, String(playTime()));
+    store.set("wh:intensive:rate", String(curRate()));
   }
 
   player.addEventListener("loadedmetadata", function(){
     cur.metaReady = true;
     timeTotal.textContent = fmt(player.duration);
     loadState.textContent = "";
+    if(cur.swap){                       // 刚从网络源换到 Blob：恢复位置/倍速/播放态
+      var sw = cur.swap; cur.swap = null;
+      var target = (cur.pendingSeek != null) ? cur.pendingSeek : sw.t;
+      cur.pendingSeek = null;
+      try{
+        player.currentTime = Math.min(Math.max(0, target), Math.max(0, player.duration - 0.05));
+      }catch(e){}
+      player.playbackRate = sw.rate;
+      if(sw.playing) player.play().catch(function(){ paintPlay(false); });
+      refresh(target);
+      return;
+    }
     if(cur.pendingSeek != null){ player.currentTime = cur.pendingSeek; cur.pendingSeek = null; }
     else {
       var saved = parseFloat(store.get("wh:intensive:pos:" + cur.ep.file_stem) || "0");
@@ -374,6 +476,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   });
   var lastPosSync = 0;
   player.addEventListener("timeupdate", function(){
+    if(cur.swap) return;
     refresh(player.currentTime);
     savePos(false);
     var now = Date.now();
@@ -398,6 +501,16 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     paintPlay(false); savePos(true);
   });
   player.addEventListener("error", function(){
+    var src = player.currentSrc || "";
+    if(src.indexOf("blob:") === 0 && cur.ep){    // Blob 异常：回退网络源，别让人卡死
+      var t = playTime(), wasPlaying = !player.paused;
+      cur.swap = { t: t, playing: wasPlaying, rate: curRate() };
+      cur.metaReady = false;
+      player.src = audioUrl(cur.ep);
+      player.load();
+      banner.hidden = false; banner.textContent = "本地缓存异常，已回退在线播放。";
+      return;
+    }
     loadState.textContent = "音频加载失败";
     banner.hidden = false; banner.textContent = "找不到 " + AUDIO_BASE + cur.ep.file_stem + ".m4a（请确认音频目录）";
   });
@@ -420,6 +533,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     b.textContent = s + "×";
     b.addEventListener("click", function(){
       player.playbackRate = s;
+      if(cur.swap) cur.swap.rate = s;
       store.set("wh:intensive:rate", String(s));
       applyRate();
       announce("播放速率 " + s + "×");
@@ -440,8 +554,8 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     switch(e.key){
       case "ArrowUp": e.preventDefault(); goToSentence(cur.idx - 1); break;
       case "ArrowDown": e.preventDefault(); goToSentence(cur.idx + 1); break;
-      case "ArrowLeft": e.preventDefault(); if(!onArrow()) seekTo(Math.max(0, player.currentTime - 10)); break;
-      case "ArrowRight": e.preventDefault(); if(!onArrow()) seekTo(player.currentTime + 10); break;
+      case "ArrowLeft": e.preventDefault(); if(!onArrow()) seekTo(Math.max(0, playTime() - 10)); break;
+      case "ArrowRight": e.preventDefault(); if(!onArrow()) seekTo(playTime() + 10); break;
       case " ": case "Spacebar": e.preventDefault(); togglePlay(); break;
       case "?": e.preventDefault(); helpDlg.showModal(); break;
       case "Enter":
@@ -465,8 +579,8 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     var act = b.dataset.act;
     if(act === "prev") goToSentence(cur.idx - 1);
     else if(act === "next") goToSentence(cur.idx + 1);
-    else if(act === "back") seekTo(Math.max(0, player.currentTime - 10));
-    else if(act === "fwd") seekTo(player.currentTime + 10);
+    else if(act === "back") seekTo(Math.max(0, playTime() - 10));
+    else if(act === "fwd") seekTo(playTime() + 10);
     else if(act === "play") togglePlay();
   });
 
@@ -484,12 +598,12 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   }
   function syncPosState(){
     if(!ms || !ms.setPositionState) return;
-    if(!cur.metaReady || !isFinite(player.duration) || player.duration <= 0) return;
+    if(cur.swap || !cur.metaReady || !isFinite(player.duration) || player.duration <= 0) return;
     try{
       ms.setPositionState({
         duration: player.duration,
-        position: Math.min(player.currentTime, player.duration),
-        playbackRate: player.playbackRate
+        position: Math.min(playTime(), player.duration),
+        playbackRate: curRate()
       });
     }catch(e){}
   }
@@ -497,8 +611,8 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     var msActions = {
       play: togglePlay,
       pause: function(){ player.pause(); },
-      seekbackward: function(){ seekTo(Math.max(0, player.currentTime - 10)); },
-      seekforward: function(){ seekTo(player.currentTime + 10); },
+      seekbackward: function(){ seekTo(Math.max(0, playTime() - 10)); },
+      seekforward: function(){ seekTo(playTime() + 10); },
       previoustrack: function(){ goToSentence(cur.idx - 1); },
       nexttrack: function(){ goToSentence(cur.idx + 1); }
     };
