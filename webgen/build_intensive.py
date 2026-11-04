@@ -78,8 +78,10 @@ def load_sents(file_stem: str) -> List[list]:
     return sents
 
 
-def build_data() -> dict:
+def build_data(embed_sents: bool = True) -> tuple:
+    """返回 (页面数据, 每集字幕)。embed_sents=False 时页面只带集目录，字幕按集拆文件。"""
     eps = []
+    sents_map = {}
     total = 0
     for ep in load_episodes(INDEX_JSON):
         stem = ep["file_stem"]
@@ -87,11 +89,15 @@ def build_data() -> dict:
         if not m4a.exists():
             raise ValueError("音频缺失: %s" % m4a)
         sents = load_sents(stem)
+        sents_map[stem] = sents
         total += len(sents)
-        eps.append({"no": ep["no"], "file_stem": stem,
-                    "title": ep.get("title_fixed") or ep.get("title_raw", ""),
-                    "dur_min": ep.get("duration_min"), "sents": sents})
-    return {"v": 1, "eps": eps, "total_sents": total}
+        row = {"no": ep["no"], "file_stem": stem,
+               "title": ep.get("title_fixed") or ep.get("title_raw", ""),
+               "dur_min": ep.get("duration_min"), "n": len(sents)}
+        if embed_sents:
+            row["sents"] = sents
+        eps.append(row)
+    return {"v": 2, "eps": eps, "total_sents": total}, sents_map
 
 
 def embed_json(data: dict) -> str:
@@ -124,8 +130,10 @@ def check_output(html: str) -> List[str]:
     if size > MAX_BYTES:
         errs.append("产物 %.2f MB 超过 8 MB 上限" % (size / 1048576.0))
     # 外部资源黑名单（相对路径 audio src 除外，这正是本页的核心）
+    # 允许同源相对路径 fetch（按集加载字幕 / 整集预取音频），只拦绝对地址与外部资源
     bad = [r"<script[^>]+src=", r"<link[^>]+href=", r"<img[^>]+src=",
-           r"<iframe", r"<video", r"@import", r"(?<![\\w-])url\(", r"fetch\(", r"XMLHttpRequest"]
+           r"<iframe", r"<video", r"@import", r"(?<![\w-])url\(",
+           r"""fetch\(\s*["'](?:https?:)?//""", r"XMLHttpRequest"]
     for pat in bad:
         if re.search(pat, html, re.I):
             errs.append("检出外链/网络请求：%s" % pat)
@@ -139,6 +147,10 @@ def main(argv: Optional[List[str]] = None) -> int:
     ap.add_argument("--dump", action="store_true", help="只打印统计，不写文件")
     ap.add_argument("--audio-base", default=None,
                     help="音频相对基址；默认按产物位置到 data/<Season>/m4a/ 的相对路径计算")
+    ap.add_argument("--split", action="store_true",
+                    help="字幕按集拆成 data/<stem>.json，页面按需加载（服务器部署用）")
+    ap.add_argument("--data-dir", default=None,
+                    help="拆分时字幕输出目录，默认与 index.html 同级的 data/")
     args = ap.parse_args(argv)
 
     try:
@@ -155,7 +167,7 @@ def main(argv: Optional[List[str]] = None) -> int:
         args.audio_base += "/"
 
     try:
-        data = build_data()
+        data, sents_map = build_data(embed_sents=not args.split)
     except (ValueError, OSError, json.JSONDecodeError) as e:
         print("ERROR %s" % e, file=sys.stderr)
         return 1
@@ -164,9 +176,16 @@ def main(argv: Optional[List[str]] = None) -> int:
     if args.dump:
         return 0
 
+    out = Path(args.out)
+    cfg_obj = {"audioBase": args.audio_base}
+    if args.split:
+        data_dir = Path(args.data_dir) if args.data_dir else out.parent / "data"
+        rel = os.path.relpath(data_dir, out.parent).replace(os.sep, "/")
+        cfg_obj["sentsBase"] = rel.rstrip("/") + "/"
+
     try:
         tpl = TEMPLATE.read_text(encoding="utf-8")
-        cfg = embed_json({"audioBase": args.audio_base})
+        cfg = embed_json(cfg_obj)
         html = render_template(tpl, embed_json(data), cfg)
     except (OSError, ValueError) as e:
         print("ERROR 渲染失败：%s" % e, file=sys.stderr)
@@ -178,7 +197,11 @@ def main(argv: Optional[List[str]] = None) -> int:
             print("ERROR 产物校验：%s" % e, file=sys.stderr)
         return 3
 
-    out = Path(args.out)
+    if args.split:
+        for stem, rows in sents_map.items():
+            write_atomic(data_dir / (stem + ".json"),
+                         json.dumps(rows, ensure_ascii=False, separators=(",", ":")))
+        print("字幕拆分为 %d 个文件 → %s" % (len(sents_map), data_dir))
     write_atomic(out, html)
     size = len(html.encode("utf-8"))
     if size > WARN_BYTES:

@@ -187,16 +187,17 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   if(isNaN(savedEp) || savedEp < 0 || savedEp >= eps.length) savedEp = 0;
   epSel.value = String(savedEp);
 
-  // ---------- 字幕渲染（只渲染当前集） ----------
-  function renderEpisode(i){
-    var ep = eps[i];
-    cur.ep = ep; cur.sents = ep.sents; cur.idx = -1; cur.metaReady = false;
-    epTitle.textContent = String(ep.no).padStart(2,"0") + " · " + ep.title;
-    epMeta.textContent = ep.sents.length + " 句 · 约 " + Math.round(ep.dur_min) + " 分钟";
-    setMediaMeta(ep);
+  // ---------- 字幕渲染（只渲染当前集；服务器模式按集懒加载） ----------
+  var SENTS_BASE = CFG.sentsBase || "";     // 为空表示字幕已内联（单文件/file:// 模式）
+  var sentsCache = Object.create(null);     // stem -> sents，切回已看过的集 0 请求
+  var sentsToken = 0;
+
+  function epCount(ep){ return ep.n != null ? ep.n : (ep.sents ? ep.sents.length : 0); }
+
+  function paintSubs(){
     subsEl.textContent = "";
     var frag = document.createDocumentFragment();
-    ep.sents.forEach(function(s, j){
+    cur.sents.forEach(function(s, j){
       var b = document.createElement("button");
       b.className = "sub"; b.type = "button";
       b.dataset.i = String(j);
@@ -208,12 +209,59 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
       frag.appendChild(b);
     });
     subsEl.appendChild(frag);
+    updateSentNo();
+  }
+
+  function applySents(ep, rows){
+    if(cur.ep !== ep) return;
+    cur.sents = rows;
+    paintSubs();
+    loadState.textContent = "";
+    if(cur.metaReady) refresh(player.currentTime);
+  }
+
+  function loadSents(ep){
+    var key = ep.file_stem;
+    if(sentsCache[key]){ applySents(ep, sentsCache[key]); return; }
+    var token = ++sentsToken;
+    var ctrl = window.AbortController ? new AbortController() : null;
+    cur.sentsCtrl = ctrl;
+    loadState.textContent = "加载字幕…";
+    fetch(SENTS_BASE + encodeURIComponent(key) + ".json", ctrl ? {signal: ctrl.signal} : undefined)
+      .then(function(r){ if(!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then(function(rows){
+        if(token !== sentsToken || cur.ep !== ep) return;
+        if(!rows || !rows.length) throw new Error("空字幕");
+        sentsCache[key] = rows;
+        applySents(ep, rows);
+      })
+      .catch(function(err){
+        if(token !== sentsToken || (err && err.name === "AbortError")) return;
+        loadState.textContent = "字幕加载失败，点此重试";
+        announce("字幕加载失败，可点此重试");
+      });
+  }
+
+  function renderEpisode(i){
+    var ep = eps[i];
+    if(cur.sentsCtrl){ try{ cur.sentsCtrl.abort(); }catch(e){} cur.sentsCtrl = null; }
+    sentsToken++;                      // 作废上一集在途的字幕请求
+    cur.ep = ep; cur.sents = ep.sents || []; cur.idx = -1; cur.metaReady = false;
+    epTitle.textContent = String(ep.no).padStart(2,"0") + " · " + ep.title;
+    epMeta.textContent = epCount(ep) + " 句 · 约 " + Math.round(ep.dur_min) + " 分钟";
+    setMediaMeta(ep);
+    subsEl.textContent = "";
+    if(cur.sents.length) paintSubs(); else sentNo.textContent = "– / " + epCount(ep);
     player.src = AUDIO_BASE + encodeURIComponent(ep.file_stem) + ".m4a";
     loadState.textContent = "加载中…";
     timeTotal.textContent = "–:––";
     timeNow.textContent = "0:00";
-    sentNo.textContent = "– / " + ep.sents.length;
+    if(SENTS_BASE && !ep.sents) loadSents(ep);
   }
+
+  loadState.addEventListener("click", function(){
+    if(SENTS_BASE && cur.ep && !cur.sents.length) loadSents(cur.ep);
+  });
 
   // ---------- 高亮与滚动 ----------
   function findIdx(t){
