@@ -182,7 +182,7 @@ def main(argv: Optional[List[str]] = None) -> int:
         return 0
 
     out = Path(args.out)
-    cfg_obj = {"audioBase": args.audio_base}
+    cfg_obj = {"audioBase": args.audio_base, "ns": config.SEASON}
     if args.audio_version:
         cfg_obj["audioVersion"] = args.audio_version
     if args.split:

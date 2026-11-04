@@ -82,39 +82,31 @@ def write_text(path: Path, text: str) -> None:
     os.replace(tmp, path)
 
 
-def nginx_conf(root: str, season_key: str) -> str:
-    conf = """# %(season)s 站点：/ 复习站，/listen/ 精听页（两页互不链接）
-# 放到 /etc/nginx/conf.d/ 下；把 root 指到站点目录后 nginx -t && systemctl reload nginx
-server {
-    listen 80;
-    server_name _;
-    root %(root)s;
-    charset utf-8;
-    sendfile on; tcp_nopush on; keepalive_timeout 65;
-
-    gzip on;
-    gzip_types text/html application/json;
-    gzip_min_length 1024;
-
-    location = / {
-        try_files /index.html =404;
+def _locations(pre: str) -> str:
+    """生成挂在某个 URL 前缀下的 location 块（不含 server 包裹）。"""
+    return """    location = %(pre)s/ {
+        try_files $uri $uri/index.html =404;
         add_header X-Robots-Tag "noindex, nofollow" always;
         add_header Cache-Control "no-cache";
     }
+    # 少一个结尾斜杠时补上，否则页面里的相对路径会算错一层
+    location = %(pre)s/listen {
+        return 301 %(pre)s/listen/;
+    }
     # 精听页没有入口；改目录名即可隐藏（页面内全是相对路径）
-    location /listen/ {
+    location %(pre)s/listen/ {
         try_files $uri $uri/index.html =404;
         add_header X-Robots-Tag "noindex, nofollow" always;
         add_header Cache-Control "no-cache";
         # 只给自己用可开 Basic Auth：
         # auth_basic "restricted"; auth_basic_user_file /etc/nginx/.htpasswd;
     }
-    location /listen/data/ {
+    location %(pre)s/listen/data/ {
         add_header X-Robots-Tag "noindex, nofollow" always;
         add_header Cache-Control "public, max-age=604800";
     }
     # ^~ 让下面的 .m4a 拦截规则不作用于本目录（否则音频会被 404）
-    location ^~ /listen/audio/ {
+    location ^~ %(pre)s/listen/audio/ {
         types { audio/mp4 m4a; }
         default_type audio/mp4;
         add_header Accept-Ranges bytes;
@@ -126,17 +118,56 @@ server {
         # 再打开下一行
         # limit_conn perip 2;
     }
-    # 音频只能从这个目录取，防止绕过缓存头
+""" % {"pre": pre}
+
+
+def nginx_conf(root: str, season_key: str, base: str = "") -> str:
+    """base 为空：整站独占一个 server 块；非空：多季共用一个 server，本文件只是骨架。"""
+    pre = ("/" + base.strip("/")) if base.strip("/") else ""
+    if not pre:
+        return """# %(season)s 站点：/ 复习站，/listen/ 精听页（两页互不链接）
+# 放到 /etc/nginx/conf.d/ 下；root 指向站点目录后 nginx -t && systemctl reload nginx
+server {
+    listen 80;
+    server_name _;
+    root %(root)s;
+    charset utf-8;
+    sendfile on; tcp_nopush on; keepalive_timeout 65;
+
+    gzip on;
+    gzip_types text/html application/json;
+    gzip_min_length 1024;
+
+%(loc)s    # 音频只能从这个目录取，防止绕过缓存头
     location ~* \\.m4a$ { return 404; }
 }
-"""
-    return conf % {"season": season_key, "root": root}
+""" % {"season": season_key, "root": root, "loc": _locations("")}
+
+    return """# 多季共用入口：本文件只保留一份，各季的 location 在 /etc/nginx/whisper/*.locations
+# 站点目录：%(root)s/%(base)s/（目录名必须等于 URL 段）
+server {
+    listen 80;
+    server_name _;
+    root %(root)s;
+    charset utf-8;
+    sendfile on; tcp_nopush on; keepalive_timeout 65;
+
+    gzip on;
+    gzip_types text/html application/json;
+    gzip_min_length 1024;
+
+    include /etc/nginx/whisper/*.locations;
+
+    # 音频只能从各季的 <前缀>/listen/audio/ 取
+    location ~* \\.m4a$ { return 404; }
+}
+""" % {"root": root, "base": base.strip("/")}
 
 
 README = """# %(season)s 站点
 
-- / 复习站（%(mode)s 模式）
-- /listen/ 精听页（直链进入，两页互不链接）
+- %(url)s/ 复习站（%(mode)s 模式）
+- %(url)s/listen/ 精听页（直链进入，两页互不链接）
 - 音频 %(count)d 集 / %(size).0f MB，单集 22.05 kHz 单声道 AAC
 
 ## 本地预览
@@ -158,6 +189,7 @@ README = """# %(season)s 站点
 线上不需要 serve.py：nginx 自己提供 audio/mp4 MIME 与 Range/206。serve.py 只用于本地预览。
 同一台机器要同时放两季时，改 listen 端口或 server_name（或用 /s1/ /s2/ 两级目录，root 指到上一级）。
 
+%(layout)s
 ## 注意
 
 - 音频 URL 带 ?v=%(ver)s；重新转码后必须换版本号，否则浏览器会一直用旧文件。
@@ -222,6 +254,8 @@ def main(argv=None) -> int:
     ap.add_argument("--mode", choices=("full", "minimal"), default="full")
     ap.add_argument("--audio", default=None, help="默认 data/<Season>/m4a_32")
     ap.add_argument("--audio-version", default="", help="音频版本串，默认用最新 mtime 的日期")
+    ap.add_argument("--base-path", default="",
+                    help="子路径部署，如 /s1；留空表示站点在根路径")
     ap.add_argument("--verify", action="store_true", help="只校验已有产物")
     ap.add_argument("--dump", action="store_true", help="只打印计划，不写文件")
     args = ap.parse_args(argv)
@@ -271,13 +305,31 @@ def main(argv=None) -> int:
     linked, copied = link_audio(audio_dir, out / AUDIO_SUB, stems)
     shutil.copy2(HERE / "serve_static.py", out / "serve.py")
 
-    root = "/var/www/whisper/%s" % config.SEASON_KEY
-    write_text(out / "nginx.conf", nginx_conf(root, config.SEASON_KEY))
+    base = args.base_path.strip("/")
+    if base:
+        # 子路径模式下 root 是站点父目录，站点目录名必须等于 base（可用软链）
+        root = "/var/www/whisper"
+        print("子路径模式：站点目录需挂到 %s/%s" % (root, base))
+    else:
+        root = "/var/www/whisper/%s" % config.SEASON_KEY
+    write_text(out / "nginx.conf", nginx_conf(root, config.SEASON_KEY, base))
+    if base:
+        write_text(out / "nginx-locations.conf", _locations("/" + base))
     write_text(out / "robots.txt", "User-agent: *\nDisallow: /\n")
     total = sum(p.stat().st_size for p in (out / AUDIO_SUB).glob("*.m4a"))
     write_text(out / "README.md", README % {
         "season": config.SEASON_KEY, "mode": args.mode, "count": len(stems),
         "size": total / 1048576.0, "ver": ver,
+        "url": ("/" + base) if base else "",
+        "layout": ("""
+
+### 子路径部署（多季共用 80 端口）
+
+本次是子路径模式，站点目录必须是 %s/%s：
+- 把 nginx-locations.conf 传到 /etc/nginx/whisper/%s.locations
+- nginx.conf 是多季共用的 server 骨架，只保留一份（里面 include 了 *.locations）
+- 第二季照同样方式再生成一份 locations 即可，两季互不干扰
+""" % (root, base, config.SEASON_KEY)) if base else "",
         "stamp": time.strftime("%Y%m%d-%H%M%S"),
     })
     print("音频：硬链接 %d / 复制 %d" % (linked, copied))

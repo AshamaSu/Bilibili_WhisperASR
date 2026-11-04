@@ -452,6 +452,7 @@ def build_site_data(done: List[dict], catalog: List[dict], vocab: Dict[str, dict
     return {
         "schema": SCHEMA_VERSION,
         "mode": mode,
+        "ns": config.SEASON,          # localStorage 命名空间（多季共用域名时隔离进度）
         "generated_at": generated_at,
         "meta": {
             "ep_total": len(catalog),

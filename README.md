@@ -190,7 +190,36 @@ curl -r 0-1023 -o /dev/null -w '%{http_code}\n' http://<IP>/listen/audio/01_...m
 浏览器里再确认一次：打开 `/listen/` 播一集，等右上出现「整集已缓存 · 本地拖动」后，
 Network 过滤 `m4a` 应为 0 条新请求，`player.currentSrc` 以 `blob:` 开头。
 
-### 6. 注意事项
+### 6. 子路径部署（两季共用一个 IP）
+
+想把两季挂在同一个 80 端口下（`http://IP/BusinessEnglishCourse-Season1/`、`.../Season2/`）：
+
+```bash
+python3 webgen/build_server.py --season season1 --base-path /BusinessEnglishCourse-Season1
+python3 webgen/build_server.py --season season2 --base-path /BusinessEnglishCourse-Season2
+```
+
+约定与差异：
+
+- **站点目录名必须等于 URL 段**：`/var/www/whisper/BusinessEnglishCourse-Season1/`、`...Season2/`。
+- 子路径模式会多产一个 `nginx-locations.conf`，拷到 `/etc/nginx/whisper/<季目录名>.locations`。
+- 此时的 `nginx.conf` 是**两季共用的 server 骨架**（`root /var/www/whisper` + `include /etc/nginx/whisper/*.locations`），只保留一份。
+- `robots.txt` 整站一份，放 `/var/www/whisper/robots.txt`。
+- 页面内全是相对路径（`audio/`、`data/`），换层级不用改页面；进度用季名做 localStorage 命名空间，两季不会互相覆盖。
+- 访问 `/BusinessEnglishCourse-Season1`（少结尾斜杠）会 301 到带斜杠的版本，避免相对路径算错一层。
+
+```bash
+# 只有一台机器、两个子路径时的完整发布
+for S in BusinessEnglishCourse-Season1 BusinessEnglishCourse-Season2; do
+  rsync -av --delete dist/server/$S/ user@host:/var/www/whisper/$S/
+done
+scp dist/server/BusinessEnglishCourse-Season1/nginx.conf user@host:/etc/nginx/conf.d/whisper.conf
+scp dist/server/BusinessEnglishCourse-Season1/nginx-locations.conf user@host:/etc/nginx/whisper/BusinessEnglishCourse-Season1.locations
+scp dist/server/BusinessEnglishCourse-Season2/nginx-locations.conf user@host:/etc/nginx/whisper/BusinessEnglishCourse-Season2.locations
+ssh user@host 'mkdir -p /etc/nginx/whisper && nginx -t && systemctl reload nginx'
+```
+
+### 7. 注意事项
 
 - **音频版本**：文件名固定 + `immutable`，所以 URL 带 `?v=<日期>`；重新转码后必须重新 `build_server.py`，
   否则浏览器一直用旧文件。
@@ -199,8 +228,7 @@ Network 过滤 `m4a` 应为 0 条新请求，`player.currentSrc` 以 `blob:` 开
 - **HTTP → HTTPS** 会改变 origin，浏览器里存的进度/上次位置会全部失效；换域名前先想清楚。
 - **版权**：full 版含课程原文例句，只放私有服务器；已设 `X-Robots-Tag: noindex` + `robots.txt`，
   但别公开分享链接。想更严就打开 `nginx.conf` 里注释的 Basic Auth，或把 `listen` 目录改个随机名。
-- **多季**：每季跑一次 `build_server.py`，用两个 `server{}` 绑不同端口/域名；或用 `root /var/www/whisper`
-  配 `/s1/`、`/s2/` 两级目录（页面内全是相对路径，换层级不用改页面）。
+- **多季**：见上面「子路径部署」；想用独立域名/端口就每季一个 `server{}`，不加 `--base-path`。
 - **转码参数**：`-ac 1 -ar 22050 -b:a 32k -af highpass=f=70`；`--bitrate 24k` 可再省约 25%。
 - `webgen/probe.html` 是浏览器能力探针（安全上下文 / SW / Cache / AAC 实解 / Media Session），
   换设备或换浏览器时先跑它。

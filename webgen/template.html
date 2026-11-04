@@ -208,7 +208,9 @@ var VOCAB = Object.keys(DATA.vocab).map(function(k){
 
 var INTERVALS = [1,2,4,7,15];
 var DAY_CUTOFF = 4;
-var KEY = "wh:state:v1";
+// 同一域名下多季共用子路径时，用季名隔离进度
+var NS = DATA.ns ? DATA.ns + ":" : "";
+var KEY = NS + "wh:state:v1";
 var TABS = [
   {id:"words",   label:"核心词"},
   {id:"supp",    label:"补充词"},

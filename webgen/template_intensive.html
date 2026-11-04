@@ -149,9 +149,11 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   var epTitle=$("epTitle"), epMeta=$("epMeta"), banner=$("banner");
 
   // ---------- localStorage（file:// 各浏览器分区不同；一律 try/catch） ----------
+  // 同一域名下多季共用 /s1/、/s2/ 子路径时，靠 NS 隔离进度，避免互相覆盖
+  var NS = CFG.ns ? CFG.ns + ":" : "";
   var store = {
-    get:function(k){ try{ return localStorage.getItem(k); }catch(e){ return null; } },
-    set:function(k,v){ try{ localStorage.setItem(k,v); }catch(e){} },
+    get:function(k){ try{ return localStorage.getItem(NS + k); }catch(e){ return null; } },
+    set:function(k,v){ try{ localStorage.setItem(NS + k, v); }catch(e){} },
   };
 
   // ---------- 状态 ----------
