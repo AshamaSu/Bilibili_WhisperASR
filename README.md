@@ -102,34 +102,108 @@ python -m pipeline status --season season2          # 查看各集状态
 ```bash
 python3 webgen/build_site.py --season season1                  # → output/BusinessEnglishCourse-Season1/review_site/index.html（full，含原文例句）
 python3 webgen/build_site.py --season season1 --mode minimal   # 公开版：不含原文例句
-python3 webgen/selfcheck.py --season season1                   # 18 项自动校验（含幂等、minimal 复检、发布包一致性）
+python3 webgen/selfcheck.py --season season1                   # 17 项自动校验（含幂等构建、minimal 复检、可判分率）
 ```
 
 页面含五个视图（今日 / 词句 / 自测 / 词表 / 进度），学习进度只存浏览器 localStorage；新增集数后重跑 build 即可增量进入站点。
 
-## 精读页与服务器部署
+## 精读页
 
 `intensive/index.html` 是**音频同步的精读页**：顶部选集，逐句字幕点哪跳哪，同步滚动、倍速、进度记忆。
-默认单文件内联、零外链，桌面 `file://` 双击即可；加 `--split` 则字幕按集拆成
-`data/<stem>.json`，页面按需加载（服务器模式，首屏从 1.4 MB gzip 降到 ~13 KB）。
 
-`build_server.py` 把复习站、精听页和音频组装成一个可直接 rsync 的目录：
+- 默认单文件内联、零外链，桌面 `file://` 双击即可用。
+- 加 `--split` 则字幕按集拆成 `listen/data/<stem>.json`，页面按需 `fetch` 并内存缓存：
+  首屏从 1.4 MB gzip 降到 ~13 KB，切回看过的集 0 请求（服务器形态用这个）。
+- 整集缓存：打开某集后后台把整集音频 `fetch` 成 Blob，完成后 `<audio>` 换到 `blob:` 源，
+  同一集里点句、±10s、拖进度条都不再走网络；`>64 MB`、字节数不符、Blob 播放出错都会回退在线播放。
+- 手机分支：`@media (pointer:coarse)` 大按钮控制条、`dvh` 字幕区、Media Session 锁屏六键。
+
+## 部署到服务器（nginx）
+
+### 1. 构建产物
 
 ```bash
-python3 webgen/transcode_mobile.py --season season1 --bitrate 32k  # → data/<Season>/m4a_32/（22.05kHz 单声道）
+python3 webgen/transcode_mobile.py --season season1 --bitrate 32k  # m4a → data/<Season>/m4a_32/（22.05kHz 单声道）
 python3 webgen/build_server.py --season season1                    # → dist/server/BusinessEnglishCourse-Season1/
-python3 webgen/build_server.py --season season1 --verify           # 只校验已有产物
+python3 webgen/build_server.py --season season1 --verify           # 只校验，不重建
 ```
 
-产物里 `/` 是复习站，`/listen/` 是精听页（直链进入，两页互不链接），`listen/audio/` 是硬链接过来的音频；
-`serve.py` 本地预览，`nginx.conf` / `README.md` 直接用于部署。
+```
+dist/server/<SeasonKey>/
+├── index.html              复习站（默认 full，含原文例句）
+├── listen/index.html       精听页外壳（约 38 KB）
+├── listen/data/*.json      每集字幕（约 60 KB/集）
+├── listen/audio/*.m4a      音频（硬链接到 data/<Season>/m4a_32，不额外占盘）
+├── serve.py                本地预览（线上不需要）
+├── nginx.conf              站点配置
+├── robots.txt              全站 Disallow
+└── README.md               同内容精简版
+```
 
-- 转码参数：`-ac 1 -ar 22050 -b:a 32k -af highpass=f=70`；源为 44.1kHz stereo ~72kbps，降到 22.05kHz
-  后同码率更集中在中频。`--bitrate 24k` 可再省约 170MB。
-- 移动端页面分支：`@media (pointer:coarse)` 显示大按钮控制条、隐藏键盘提示、字幕区改 `dvh`；
-  接 Media Session（锁屏显示集名、上一句/下一句/±10s）。
+URL：`/` 复习站，`/listen/` 精听页；两页互不链接，精听走直链。
+
+### 2. 本地先看一遍
+
+```bash
+cd dist/server/BusinessEnglishCourse-Season1
+python3 serve.py --port 8080
+# http://127.0.0.1:8080/       复习站
+# http://127.0.0.1:8080/listen/ 精听页
+```
+
+`serve.py` 只是为了本地能播（修正 `.m4a` 的 MIME、支持 Range）；线上由 nginx 提供同等能力。
+
+### 3. 服务器准备（一次性）
+
+```bash
+sudo apt install -y nginx
+sudo mkdir -p /var/www/whisper/releases
+# 云服务器记得在安全组放行 80；只给自己用就只放行自己的 IP
+```
+
+### 4. 发布（每次更新都走这四步）
+
+```bash
+STAMP=$(date +%Y%m%d-%H%M)
+# ① 传到新目录，不要直接覆盖线上目录
+rsync -av --delete dist/server/BusinessEnglishCourse-Season1/ user@host:/var/www/whisper/releases/$STAMP/
+# ② 切软链（原子替换，失败可秒回滚）
+ssh user@host "ln -sfn /var/www/whisper/releases/$STAMP /var/www/whisper/current"
+# ③ 首次部署时上传配置，并把 root 改成 /var/www/whisper/current
+scp dist/server/BusinessEnglishCourse-Season1/nginx.conf user@host:/etc/nginx/conf.d/whisper.conf
+# ④ 校验并重载
+ssh user@host 'nginx -t && systemctl reload nginx'
+```
+
+权限：`rsync -a` 保留 644/755 即可，nginx 的 `www-data` 只要能读；放在 `/root` 下会 403。
+
+### 5. 验证
+
+```bash
+curl -I  http://<IP>/                                  # 200，gzip，Cache-Control: no-cache
+curl -I  http://<IP>/listen/                           # 200
+curl -I  http://<IP>/listen/audio/01_Howtoexplainaprojectyouworkedon.m4a
+# 期望：Content-Type: audio/mp4 / Accept-Ranges: bytes / Cache-Control: max-age=31536000, immutable
+curl -r 0-1023 -o /dev/null -w '%{http_code}\n' http://<IP>/listen/audio/01_...m4a   # 206
+```
+
+浏览器里再确认一次：打开 `/listen/` 播一集，等右上出现「整集已缓存 · 本地拖动」后，
+Network 过滤 `m4a` 应为 0 条新请求，`player.currentSrc` 以 `blob:` 开头。
+
+### 6. 注意事项
+
+- **音频版本**：文件名固定 + `immutable`，所以 URL 带 `?v=<日期>`；重新转码后必须重新 `build_server.py`，
+  否则浏览器一直用旧文件。
+- **5 Mbps 出口**：单集中位 12 MB ≈ 20 秒；同时开两个标签页预取会互相拖慢。限并发见 `nginx.conf`
+  里注释的 `limit_conn`（zone 要写在 `http{}` 里）。
+- **HTTP → HTTPS** 会改变 origin，浏览器里存的进度/上次位置会全部失效；换域名前先想清楚。
+- **版权**：full 版含课程原文例句，只放私有服务器；已设 `X-Robots-Tag: noindex` + `robots.txt`，
+  但别公开分享链接。想更严就打开 `nginx.conf` 里注释的 Basic Auth，或把 `listen` 目录改个随机名。
+- **多季**：每季跑一次 `build_server.py`，用两个 `server{}` 绑不同端口/域名；或用 `root /var/www/whisper`
+  配 `/s1/`、`/s2/` 两级目录（页面内全是相对路径，换层级不用改页面）。
+- **转码参数**：`-ac 1 -ar 22050 -b:a 32k -af highpass=f=70`；`--bitrate 24k` 可再省约 25%。
 - `webgen/probe.html` 是浏览器能力探针（安全上下文 / SW / Cache / AAC 实解 / Media Session），
-  换设备或换浏览器时先跑它再决定形态。
+  换设备或换浏览器时先跑它。
 
 ## 进度
 
