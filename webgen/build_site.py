@@ -482,7 +482,11 @@ def render_template(tpl: str, payload: str, source_url: str) -> str:
 
 
 def write_atomic(path: Path, text: str) -> None:
+    """内容未变则跳过写入：保留 mtime，rsync 按 size+mtime 判定时不会重传。"""
     path.parent.mkdir(parents=True, exist_ok=True)
+    data = text.encode("utf-8")
+    if path.exists() and path.read_bytes() == data:
+        return
     tmp = path.with_name(path.name + ".tmp")
     with tmp.open("w", encoding="utf-8", newline="\n") as f:
         f.write(text)
