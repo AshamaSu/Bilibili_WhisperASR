@@ -15,7 +15,7 @@
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%;height:100%}
 body{
-  margin:0; background:var(--bg); color:var(--ink); height:100%;
+  margin:0; background:var(--bg); color:var(--ink); height:100%; height:100dvh;
   display:flex; flex-direction:column;
   font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
 }
@@ -28,8 +28,8 @@ button{font:inherit;color:inherit}
 .appbar .inner{max-width:760px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:10px}
 .appbar h1{font-size:17px;font-weight:650;flex:1;min-width:0;margin:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 select{font:inherit;border:1px solid var(--line);border-radius:10px;padding:8px 10px;min-height:44px;background:var(--surface);max-width:46vw}
-.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:12px;box-shadow:var(--shadow)}
-main{flex:1 1 auto;min-height:0;width:100%;max-width:760px;margin:0 auto;padding:12px 14px 40px;display:flex;flex-direction:column;gap:10px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:12px;box-shadow:var(--shadow);min-width:0}
+main{flex:1 1 auto;min-height:0;width:100%;max-width:760px;margin:0 auto;padding:10px 14px;display:flex;flex-direction:column;gap:10px}
 .ep-title{font-size:18px;font-weight:650;line-height:1.4;word-break:break-word}
 .muted{color:var(--muted)}
 .small{font-size:14px}
@@ -71,7 +71,7 @@ main{flex:1 1 auto;min-height:0;width:100%;max-width:760px;margin:0 auto;padding
 .ctl-toggle{order:-1;margin-top:0;margin-bottom:2px}
 /* 字幕区 */
 .subs{
-  flex:1 1 auto; min-height:240px; overflow-y:auto; border:1px solid var(--line); border-radius:12px;
+  flex:1 1 auto; min-height:200px; overflow-y:auto; border:1px solid var(--line); border-radius:12px;
   background:var(--surface); scroll-behavior:auto; padding:8px; overscroll-behavior:contain;
 }
 .sub{
@@ -85,10 +85,10 @@ main{flex:1 1 auto;min-height:0;width:100%;max-width:760px;margin:0 auto;padding
 }
 .sub .idx{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums;margin-right:8px}
 kbd{background:#f0f2f5;border:1px solid var(--line);border-bottom-width:2px;border-radius:6px;padding:1px 6px;font-size:12px}
-dialog{border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);max-width:420px;padding:18px}
+dialog{border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:18px;width:min(420px,calc(100vw - 24px));max-height:calc(100dvh - 24px);overflow-y:auto;overscroll-behavior:contain}
 dialog::backdrop{background:rgba(0,0,0,.35)}
 .status{position:fixed;left:-9999px}
-.banner{background:var(--warn-soft,#fdf1dc);border:1px solid #ecd3a0;color:#8a5300;border-radius:10px;padding:8px 12px;font-size:14px}
+.banner{background:var(--warn-soft,#fdf1dc);border:1px solid #ecd3a0;color:#8a5300;border-radius:10px;padding:8px 12px;font-size:14px;min-width:0;overflow-wrap:anywhere}
 /* 窄屏（<=340px）：再压一档，保证播放行不折行 */
 @media (max-width:340px){
   .btn--icon{width:32px;min-width:32px;height:32px;min-height:32px;font-size:15px}
@@ -99,19 +99,31 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
 }
 /* 控制条：桌面与倍速同排（竖线分隔），触摸端独占一行大按钮 */
 .touch{display:flex;align-items:center;gap:6px;min-width:0}
-.touch .btn{min-height:36px;height:36px;padding:4px 8px;font-size:13px;display:inline-flex;align-items:center;justify-content:center;gap:2px}
+.touch .btn{min-height:36px;height:36px;padding:4px 10px;font-size:15px;line-height:1;display:inline-flex;align-items:center;justify-content:center}
 .divider{width:1px;height:24px;background:var(--line);flex:0 0 auto;margin:0 4px}
 @media (pointer:coarse){
   .ctl-sub{flex-wrap:wrap;gap:8px}
-  .touch{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:8px;order:2;width:100%}
-  .touch .btn{min-height:54px;height:auto;font-size:15px;padding:6px 4px;display:flex;align-items:center;justify-content:center}
+  /* 同步滚动并入播放条：六键一行，宽度自适应且不折行 */
+  .touch{display:flex;flex-wrap:nowrap;gap:6px;margin-top:8px;order:2;width:100%}
+  .touch .btn{
+    flex:1 1 auto;min-width:0;height:auto;min-height:54px;padding:6px 2px;font-size:17px;line-height:1;
+    display:flex;align-items:center;justify-content:center;white-space:nowrap;
+  }
+  #tpPlay,#followBtn{flex:0 0 auto;width:auto;min-width:44px;padding:6px 8px}
   .divider{display:none}
   .speed{order:1}
   #cacheState{order:1;margin-left:auto}
   .ctl-toggle{display:flex}
   .sub{padding:12px 10px}
-  main{padding-bottom:calc(28px + env(safe-area-inset-bottom))}
+  /* 三段纵向间距统一为 10px（上、中、下），字幕区高度自适应填满剩余空间 */
+  main{padding:10px 14px calc(10px + env(safe-area-inset-bottom))}
+  .subs{min-height:0}
   .appbar .inner{padding-top:calc(6px + env(safe-area-inset-top))}
+}
+/* 窄屏（<=360px）：六键同排再压一档，确保不折行、不横向溢出 */
+@media (pointer:coarse) and (max-width:360px){
+  .touch .btn{padding:6px 1px}
+  #tpPlay,#followBtn{min-width:40px;padding:6px 6px}
 }
 </style>
 </head>
@@ -132,8 +144,8 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
         <span class="tiny muted" id="epMeta"></span>
         <span class="tiny muted" id="loadState"></span>
       </div>
-      <div class="ctl-row" style="margin-top:8px">
-        <button class="btn btn--primary btn--icon" id="playBtn" aria-label="播放"><span class="ico" id="playIco">▶</span></button>
+      <div class="ctl-row" id="ctlRow" style="margin-top:8px">
+        <button class="btn btn--primary btn--icon" id="playBtn" aria-label="播放"><span class="ico" id="playIco">▶︎</span></button>
         <span class="tiny muted time" id="sentNo">–/–</span>
         <span class="time" id="timeNow">0:00</span>
         <span class="muted">/</span>
@@ -144,11 +156,11 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
       </div>
       <div class="ctl-sub">
         <div class="touch" id="touchBar" role="group" aria-label="播放控制">
-          <button class="btn" type="button" data-act="prev" aria-label="上一句">⏮ 句</button>
-          <button class="btn" type="button" data-act="back" aria-label="后退 10 秒">−10s</button>
-          <button class="btn" type="button" data-act="play" id="tpPlay" aria-label="播放">▶</button>
-          <button class="btn" type="button" data-act="fwd" aria-label="前进 10 秒">+10s</button>
-          <button class="btn" type="button" data-act="next" aria-label="下一句">⏭ 句</button>
+          <button class="btn" type="button" data-act="prev" aria-label="上一句">⏮︎</button>
+          <button class="btn" type="button" data-act="back" aria-label="后退 10 秒">⏪︎</button>
+          <button class="btn" type="button" data-act="play" id="tpPlay" aria-label="播放">▶︎</button>
+          <button class="btn" type="button" data-act="fwd" aria-label="前进 10 秒">⏩︎</button>
+          <button class="btn" type="button" data-act="next" aria-label="下一句">⏭︎</button>
         </div>
         <span class="divider" aria-hidden="true"></span>
         <div class="speed" id="speedBox" role="group" aria-label="播放速率"></div>
@@ -163,10 +175,17 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
 </main>
 <dialog id="helpDlg" aria-labelledby="helpTitle">
   <h2 id="helpTitle" style="margin:0 0 10px;font-size:16px">帮助</h2>
-  <p style="margin:6px 0"><b>⇅ 同步滚动</b>：开启时当前句保持在字幕区中部；手动滚动会临时暂停跟随，约 4 秒后自动恢复（点句子或 ±10s 立即恢复）。</p>
-  <p style="margin:6px 0"><b>整集缓存</b>：打开一集会自动把整集音频下到本机，先显示「缓存中 xx%」，完成后变成「已缓存」；此后本集内点句、±10s、拖动进度条都不再走网络。缓存失败不影响在线播放。</p>
-  <p style="margin:6px 0" class="muted small">点击任意句子可跳转。</p>
-  <p style="margin:6px 0" class="muted small">键盘：<kbd>↑</kbd><kbd>↓</kbd> 上/下一句，<kbd>←</kbd><kbd>→</kbd> ±10 秒，<kbd>Space</kbd> 播放/暂停，<kbd>Enter</kbd> 跳转聚焦句。</p>
+  <p style="margin:6px 0"><b>播放控制</b>：从左到右依次是 ⏮︎ 上一句、⏪︎ 后退 10 秒、▶︎/⏸︎ 播放暂停、⏩︎ 前进 10 秒、⏭︎ 下一句，手机端末尾多一个 ⇅ 同步滚动。</p>
+  <p style="margin:6px 0"><b>倍速控制</b>：0.75× / 1× / 1.25× / 1.5× 四档，点一下立即生效。</p>
+  <p style="margin:6px 0"><b>选集</b>：顶部下拉框切换集数，每项显示集号、标题和时长。</p>
+  <p style="margin:6px 0"><b>点句跳转</b>：点字幕里任意一句，音频直接跳到该句开头。</p>
+  <p style="margin:6px 0"><b>当前句</b>：正在播放的句子高亮显示，并自动滚到字幕区中间。</p>
+  <p style="margin:6px 0"><b>同步滚动</b>：⇅ 打开后字幕跟随播放自动滚动；手动滚动会立即关闭跟随，按钮同时变为未启用，需要时再点一下 ⇅。</p>
+  <p style="margin:6px 0"><b>整集缓存</b>：打开一集自动下载整集音频，先显示「缓存中 xx%」，完成后显示「已缓存」，之后本集播放不再走网络；缓存失败不影响在线播放。</p>
+  <p style="margin:6px 0"><b>进度记忆</b>：自动记住上次的集数、播放位置和倍速，下次打开接着听。</p>
+  <p style="margin:6px 0"><b>折叠控制区</b>：手机端点控制区底部的折叠条收起，只留播放条，把屏幕让给字幕，再点一次展开。</p>
+  <p style="margin:6px 0"><b>锁屏控制</b>：手机锁屏和通知栏支持播放、暂停、上一句、下一句、快退、快进。</p>
+  <p style="margin:6px 0"><b>键盘</b>：<kbd>↑</kbd><kbd>↓</kbd> 上/下一句，<kbd>←</kbd><kbd>→</kbd> 后退/前进 10 秒，<kbd>Space</kbd> 播放/暂停，<kbd>Enter</kbd> 跳到选中句，<kbd>?</kbd> 打开帮助。</p>
   <div style="text-align:right;margin-top:12px"><button class="btn btn--primary" id="helpClose">知道了</button></div>
 </dialog>
 <div class="status" id="live" aria-live="polite"></div>
@@ -198,8 +217,23 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   // ---------- 状态 ----------
   var cur = { ep:null, sents:[], idx:-1, metaReady:false, pendingSeek:null };
   var lastSave = 0, lastArrow = 0;
-  var followBtn = $("followBtn");
-  // 同步滚动开关：按下=跟随进度自动滚动（当前句居中）；手动滚动字幕会临时暂停跟随，句切换/seek 恢复
+  var followBtn = $("followBtn"), touchBar = $("touchBar"), ctlRow = $("ctlRow"), helpBtn = $("helpBtn");
+  // 手机端把同步滚动按钮并入六键播放条，桌面端留在时间行（不改 DOM 结构就能两处复用）
+  var coarseMq = window.matchMedia ? window.matchMedia("(pointer: coarse)") : null;
+  function placeFollow(){
+    if(!touchBar || !ctlRow) return;
+    if(coarseMq && coarseMq.matches){
+      if(followBtn.parentNode !== touchBar) touchBar.appendChild(followBtn);
+    }else if(followBtn.parentNode !== ctlRow){
+      ctlRow.insertBefore(followBtn, helpBtn);
+    }
+  }
+  placeFollow();
+  if(coarseMq){
+    if(coarseMq.addEventListener) coarseMq.addEventListener("change", placeFollow);
+    else if(coarseMq.addListener) coarseMq.addListener(placeFollow);
+  }
+  // 同步滚动开关：按下=跟随进度自动滚动（当前句居中）；手动滚动字幕会关闭跟随并同步按钮状态
   var follow = store.get("wh:intensive:follow") !== "0";
   function paintFollow(){ followBtn.setAttribute("aria-pressed", follow ? "true" : "false"); }
   paintFollow();
@@ -437,7 +471,6 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     }
     return ans;   // gap 期间保持上一句（start<=t<next.start）
   }
-  var progScrollUntil = 0;   // 程序滚动窗口：此时刻前的 scroll 事件都是平滑滚动动画自身发出的
   function scrollSub(el){
     // 当前句置于字幕显示区中部：上下句可见，便于精读对照。
     // 用 rect 相对计算：subs 无 position 定位时 offsetTop 是相对页面的，会算错
@@ -448,8 +481,6 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     } else {
       subsEl.scrollTo({top:target, behavior:"smooth"});
     }
-    // smooth 滚动会连续触发几十个 scroll 事件，计数器必被击穿；改用时间窗口
-    progScrollUntil = Date.now() + 700;
   }
   function setIdx(i, opts){
     opts = opts || {};
@@ -471,15 +502,16 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
 
   // 手动滚动只认真实用户手势：滚轮 / 触摸 / 按住滚动条拖动。
   // 不能靠 scroll 事件判手动——程序 smooth 滚动的几十个 scroll 事件会被误判。
-  // 手动接管后暂停跟随，4 秒无操作自动恢复（勾选框仍开启时）
-  var manualTimer = null;
+  // 手动滚动即关闭跟随，按钮同步置为未启用；需要时再点 ⇅ 重新打开。
   function pauseFollow(){
     if(!follow) return;
     follow = false;
-    if(manualTimer) clearTimeout(manualTimer);
-    manualTimer = setTimeout(function(){ restoreFollow(); }, 4000);
+    store.set("wh:intensive:follow", "0");
+    paintFollow();
+    announce("同步滚动已关闭");
   }
-  ["wheel", "touchstart"].forEach(function(ev){
+  // 触摸用 touchmove 而不是 touchstart：点句子也会触发 touchstart，会误判成手动滚动
+  ["wheel", "touchmove"].forEach(function(ev){
     subsEl.addEventListener(ev, pauseFollow, {passive:true});
   });
   subsEl.addEventListener("pointerdown", function(e){
@@ -488,8 +520,6 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   });
   function restoreFollow(){
     if(!follow) return;
-    follow = true;
-    if(manualTimer){ clearTimeout(manualTimer); manualTimer = null; }
     if(cur.idx >= 0) scrollSub(subsEl.children[cur.idx]);
   }
 
@@ -498,7 +528,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     if(!cur.metaReady){ cur.pendingSeek = t; return; }
     player.currentTime = t;
     refresh(t);
-    restoreFollow();   // 用户主动 seek（点句/±10s）即恢复自动跟随
+    restoreFollow();   // 跟随开启时，seek 后把当前句滚回中部
     savePos(true);
   }
   function goToSentence(i){
@@ -559,7 +589,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     if(now - lastPosSync > 1000){ lastPosSync = now; syncPosState(); }
   });
   function paintPlay(playing){
-    var icon = playing ? "⏸" : "▶";
+    var icon = playing ? "⏸︎" : "▶︎";
     var label = playing ? "暂停" : "播放";
     playIco.textContent = icon; playBtn.setAttribute("aria-label", label);
     var tp = $("tpPlay");
@@ -633,7 +663,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
       case "ArrowLeft": e.preventDefault(); if(!onArrow()) seekTo(Math.max(0, playTime() - 10)); break;
       case "ArrowRight": e.preventDefault(); if(!onArrow()) seekTo(playTime() + 10); break;
       case " ": case "Spacebar": e.preventDefault(); togglePlay(); break;
-      case "?": e.preventDefault(); helpDlg.showModal(); break;
+      case "?": e.preventDefault(); openHelp(); break;
       case "Enter":
         if(e.target.classList && e.target.classList.contains("sub")){
           e.preventDefault(); goToSentence(parseInt(e.target.dataset.i, 10));
@@ -698,7 +728,8 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   }
 
   var helpDlg = $("helpDlg");
-  $("helpBtn").addEventListener("click", function(){ helpDlg.showModal(); });
+  function openHelp(){ helpDlg.showModal(); helpDlg.scrollTop = 0; }
+  $("helpBtn").addEventListener("click", openHelp);
   $("helpClose").addEventListener("click", function(){ helpDlg.close(); });
   epSel.addEventListener("change", function(){
     store.set("wh:intensive:ep", epSel.value);
