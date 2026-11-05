@@ -9,6 +9,7 @@
 :root{
   --bg:#f6f7f9; --surface:#ffffff; --ink:#171a1f; --muted:#626b78;
   --line:#e3e6eb; --accent:#2559d6; --accent-soft:#e9effc;
+  --play-soft:#ffe9c2; --play-line:#eec98c; --play-ink:#7a4a00;
   --radius:14px;
   --shadow:0 1px 2px rgba(16,24,40,.06),0 6px 18px rgba(16,24,40,.05);
 }
@@ -39,6 +40,8 @@ main{flex:1 1 auto;min-height:0;width:100%;max-width:760px;margin:0 auto;padding
 .btn{border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:8px 14px;cursor:pointer;min-height:44px;min-width:44px}
 .btn:hover{border-color:#c9ced6}
 .btn--primary{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+/* 播放中（按钮显示 ⏸）：整钮填充淡橙黄 */
+.btn.playing,.btn--primary.playing{background:var(--play-soft);border-color:var(--play-line);color:var(--play-ink)}
 .btn[aria-pressed="true"]{background:var(--accent-soft);border-color:#b9cbf3;color:var(--accent);font-weight:600}
 .btn .ico{font-size:16px}
 .btn--icon{width:36px;min-width:36px;height:36px;min-height:36px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:17px;line-height:1}
@@ -577,8 +580,9 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     var icon = playing ? "⏸︎" : "▶︎";
     var label = playing ? "暂停" : "播放";
     playIco.textContent = icon; playBtn.setAttribute("aria-label", label);
+    playBtn.classList.toggle("playing", playing);
     var tp = $("tpPlay");
-    if(tp){ tp.textContent = icon; tp.setAttribute("aria-label", label); }
+    if(tp){ tp.textContent = icon; tp.setAttribute("aria-label", label); tp.classList.toggle("playing", playing); }
     if(navigator.mediaSession) navigator.mediaSession.playbackState = playing ? "playing" : "paused";
   }
   player.addEventListener("play", function(){
