@@ -43,7 +43,7 @@ main{flex:1 1 auto;min-height:0;width:100%;max-width:760px;margin:0 auto;padding
 .btn .ico{font-size:16px}
 .btn--icon{width:36px;min-width:36px;height:36px;min-height:36px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:17px;line-height:1}
 .time{font-variant-numeric:tabular-nums;white-space:nowrap}
-.speed{display:flex;gap:5px;flex-wrap:nowrap;min-width:0}
+.speed{display:flex;gap:5px;flex-wrap:nowrap;min-width:0;flex:0 0 auto}
 .speed .btn{padding:4px 7px;min-height:36px;height:36px;font-size:13px}
 /* 控制区：单行不折行 + 可折叠 */
 .ctl-row{display:flex;align-items:center;gap:4px;flex-wrap:nowrap;min-width:0}
@@ -55,7 +55,7 @@ main{flex:1 1 auto;min-height:0;width:100%;max-width:760px;margin:0 auto;padding
 #cacheState{overflow:hidden;text-overflow:ellipsis;max-width:12em}
 .ctl-sub{display:flex;align-items:center;justify-content:flex-start;gap:8px;flex-wrap:wrap;min-width:0;margin-top:5px}
 #cacheState{margin-left:auto}
-.ctl-toggle{display:none;align-items:center;justify-content:center;gap:6px;width:100%;height:22px;margin-top:4px;
+.ctl-toggle{display:flex;align-items:center;justify-content:center;gap:6px;width:100%;height:22px;margin-top:4px;
   border:0;background:none;color:var(--muted);font-size:12px;cursor:pointer;padding:0;line-height:1}
 .ctl-toggle .chev{font-size:12px}
 #ctlInfo{font-variant-numeric:tabular-nums;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -98,13 +98,14 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   .speed .btn{padding:4px 5px;font-size:12px}
 }
 /* 控制条：桌面与倍速同排（竖线分隔），触摸端独占一行大按钮 */
-.touch{display:flex;align-items:center;gap:6px;min-width:0}
-.touch .btn{min-height:36px;height:36px;padding:4px 10px;font-size:15px;line-height:1;display:inline-flex;align-items:center;justify-content:center}
+/* 播放条：六键均分剩余宽度（倍速固定、缓存定长，三段各自自适应） */
+.touch{display:flex;align-items:center;gap:6px;min-width:0;flex:1 1 auto}
+.touch .btn{flex:1 1 0;min-width:0;min-height:36px;height:36px;padding:4px 6px;font-size:15px;line-height:1;display:inline-flex;align-items:center;justify-content:center}
 .divider{width:1px;height:24px;background:var(--line);flex:0 0 auto;margin:0 4px}
 @media (pointer:coarse){
   .ctl-sub{flex-wrap:wrap;gap:8px}
   /* 同步滚动并入播放条：六键一行，宽度自适应且不折行 */
-  .touch{display:flex;flex-wrap:nowrap;gap:6px;margin-top:8px;order:2;width:100%}
+  .touch{display:flex;flex-wrap:nowrap;gap:6px;margin-top:8px;order:2;width:100%;flex:0 0 auto}
   .touch .btn{
     flex:1 1 auto;min-width:0;height:auto;min-height:54px;padding:6px 2px;font-size:17px;line-height:1;
     display:flex;align-items:center;justify-content:center;white-space:nowrap;
@@ -144,26 +145,26 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
         <span class="tiny muted" id="epMeta"></span>
         <span class="tiny muted" id="loadState"></span>
       </div>
-      <div class="ctl-row" id="ctlRow" style="margin-top:8px">
+      <div class="ctl-row" style="margin-top:8px">
         <button class="btn btn--primary btn--icon" id="playBtn" aria-label="播放"><span class="ico" id="playIco">▶︎</span></button>
         <span class="tiny muted time" id="sentNo">–/–</span>
         <span class="time" id="timeNow">0:00</span>
         <span class="muted">/</span>
         <span class="time muted" id="timeTotal">–:––</span>
         <span style="flex:1 1 auto"></span>
-        <button class="btn btn--icon" id="followBtn" type="button" aria-pressed="true" aria-label="同步滚动" title="同步滚动">⇅</button>
         <button class="btn btn--icon" id="helpBtn" type="button" aria-label="帮助与快捷键" title="帮助">?</button>
       </div>
       <div class="ctl-sub">
+        <div class="speed" id="speedBox" role="group" aria-label="播放速率"></div>
+        <span class="divider" aria-hidden="true"></span>
         <div class="touch" id="touchBar" role="group" aria-label="播放控制">
           <button class="btn" type="button" data-act="prev" aria-label="上一句">⏮︎</button>
           <button class="btn" type="button" data-act="back" aria-label="后退 10 秒">⏪︎</button>
           <button class="btn" type="button" data-act="play" id="tpPlay" aria-label="播放">▶︎</button>
           <button class="btn" type="button" data-act="fwd" aria-label="前进 10 秒">⏩︎</button>
           <button class="btn" type="button" data-act="next" aria-label="下一句">⏭︎</button>
+          <button class="btn" id="followBtn" type="button" aria-pressed="true" aria-label="同步滚动" title="同步滚动">⇅</button>
         </div>
-        <span class="divider" aria-hidden="true"></span>
-        <div class="speed" id="speedBox" role="group" aria-label="播放速率"></div>
         <span class="tiny muted" id="cacheState"></span>
       </div>
     </div>
@@ -175,7 +176,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
 </main>
 <dialog id="helpDlg" aria-labelledby="helpTitle">
   <h2 id="helpTitle" style="margin:0 0 10px;font-size:16px">帮助</h2>
-  <p style="margin:6px 0"><b>播放控制</b>：从左到右依次是 ⏮︎ 上一句、⏪︎ 后退 10 秒、▶︎/⏸︎ 播放暂停、⏩︎ 前进 10 秒、⏭︎ 下一句，手机端末尾多一个 ⇅ 同步滚动。</p>
+  <p style="margin:6px 0"><b>播放控制</b>：从左到右依次是 ⏮︎ 上一句、⏪︎ 后退 10 秒、▶︎/⏸︎ 播放暂停、⏩︎ 前进 10 秒、⏭︎ 下一句、⇅ 同步滚动。</p>
   <p style="margin:6px 0"><b>倍速控制</b>：0.75× / 1× / 1.25× / 1.5× 四档，点一下立即生效。</p>
   <p style="margin:6px 0"><b>选集</b>：顶部下拉框切换集数，每项显示集号、标题和时长。</p>
   <p style="margin:6px 0"><b>点句跳转</b>：点字幕里任意一句，音频直接跳到该句开头。</p>
@@ -183,7 +184,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   <p style="margin:6px 0"><b>同步滚动</b>：⇅ 打开后字幕跟随播放自动滚动；手动滚动会立即关闭跟随，按钮同时变为未启用，需要时再点一下 ⇅。</p>
   <p style="margin:6px 0"><b>整集缓存</b>：打开一集自动下载整集音频，先显示「缓存中 xx%」，完成后显示「已缓存」，之后本集播放不再走网络；缓存失败不影响在线播放。</p>
   <p style="margin:6px 0"><b>进度记忆</b>：自动记住上次的集数、播放位置和倍速，下次打开接着听。</p>
-  <p style="margin:6px 0"><b>折叠控制区</b>：手机端点控制区底部的折叠条收起，只留播放条，把屏幕让给字幕，再点一次展开。</p>
+  <p style="margin:6px 0"><b>折叠控制区</b>：点控制卡顶部的折叠条收起，只留播放条，把屏幕让给字幕，再点一次展开。</p>
   <p style="margin:6px 0"><b>锁屏控制</b>：手机锁屏和通知栏支持播放、暂停、上一句、下一句、快退、快进。</p>
   <p style="margin:6px 0"><b>键盘</b>：<kbd>↑</kbd><kbd>↓</kbd> 上/下一句，<kbd>←</kbd><kbd>→</kbd> 后退/前进 10 秒，<kbd>Space</kbd> 播放/暂停，<kbd>Enter</kbd> 跳到选中句，<kbd>?</kbd> 打开帮助。</p>
   <div style="text-align:right;margin-top:12px"><button class="btn btn--primary" id="helpClose">知道了</button></div>
@@ -217,22 +218,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   // ---------- 状态 ----------
   var cur = { ep:null, sents:[], idx:-1, metaReady:false, pendingSeek:null };
   var lastSave = 0, lastArrow = 0;
-  var followBtn = $("followBtn"), touchBar = $("touchBar"), ctlRow = $("ctlRow"), helpBtn = $("helpBtn");
-  // 手机端把同步滚动按钮并入六键播放条，桌面端留在时间行（不改 DOM 结构就能两处复用）
-  var coarseMq = window.matchMedia ? window.matchMedia("(pointer: coarse)") : null;
-  function placeFollow(){
-    if(!touchBar || !ctlRow) return;
-    if(coarseMq && coarseMq.matches){
-      if(followBtn.parentNode !== touchBar) touchBar.appendChild(followBtn);
-    }else if(followBtn.parentNode !== ctlRow){
-      ctlRow.insertBefore(followBtn, helpBtn);
-    }
-  }
-  placeFollow();
-  if(coarseMq){
-    if(coarseMq.addEventListener) coarseMq.addEventListener("change", placeFollow);
-    else if(coarseMq.addListener) coarseMq.addListener(placeFollow);
-  }
+  var followBtn = $("followBtn");
   // 同步滚动开关：按下=跟随进度自动滚动（当前句居中）；手动滚动字幕会关闭跟随并同步按钮状态
   var follow = store.get("wh:intensive:follow") !== "0";
   function paintFollow(){ followBtn.setAttribute("aria-pressed", follow ? "true" : "false"); }
@@ -246,7 +232,6 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   });
 
   // 控制区折叠：收起后只留折叠条 + 播放控制条，把高度让给字幕
-  var coarse = !window.matchMedia || window.matchMedia("(pointer: coarse)").matches;
   var ctlOpen = store.get("wh:intensive:ctl") !== "0";
   function ctlStatus(){
     var t = fmt(playTime()) + " / " + fmt(player.duration);
@@ -254,7 +239,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     return c ? t + " · " + c : t;
   }
   function paintCtl(){
-    var open = ctlOpen || !coarse;          // 桌面端不折叠（没有折叠条可点）
+    var open = ctlOpen;
     ctlCard.classList.toggle("collapsed", !open);
     ctlToggle.setAttribute("aria-expanded", open ? "true" : "false");
     ctlToggle.setAttribute("aria-label", open ? "收起控制区" : "展开控制区");
