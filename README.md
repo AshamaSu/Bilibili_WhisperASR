@@ -114,11 +114,15 @@ python3 webgen/selfcheck.py --season season1                   # 17 项自动校
 - 默认单文件内联、零外链，桌面 `file://` 双击即可用。
 - 加 `--split` 则字幕按集拆成 `listen/data/<stem>.json`，页面按需 `fetch` 并内存缓存：
   首屏从 1.4 MB gzip 降到 ~13 KB，切回看过的集 0 请求（服务器形态用这个）。
-- 整集缓存：打开某集后后台把整集音频 `fetch` 成 Blob，完成后 `<audio>` 换到 `blob:` 源，
-  同一集里点句、±10s、拖进度条都不再走网络；`>64 MB`、字节数不符、Blob 播放出错都会回退在线播放。
+- 整集缓存：打开某集后后台把整集音频 `fetch` 成 Blob，**只在暂停且页面在前台时**才把 `<audio>`
+  换到 `blob:` 源（避免移动端换源与锁屏重叠时卡住元数据）；之后同一集里点句、±10s、拖进度条都不再走网络。
+  `>64 MB`、字节数不符、6 秒内没等到元数据、Blob 播放出错都会回退在线播放。
 - 手机分支：`@media (pointer:coarse)` 大按钮控制条、`dvh` 字幕区、Media Session 锁屏六键。
 
 ## 部署到服务器（nginx）
+
+分工约定：**构建（含重建 `dist/`）由开发方完成；发布由维护者本人执行**——rsync、切软链、
+拷配置、`systemctl reload nginx`、线上验证都不在构建范围里，构建完只报告产物与校验结果。
 
 ### 1. 构建产物
 
@@ -161,7 +165,7 @@ sudo mkdir -p /var/www/whisper/releases
 # 云服务器记得在安全组放行 80；只给自己用就只放行自己的 IP
 ```
 
-### 4. 发布（每次更新都走这四步）
+### 4. 发布（由维护者本人执行，每次更新都走这四步）
 
 ```bash
 STAMP=$(date +%Y%m%d-%H%M)
@@ -187,8 +191,8 @@ curl -I  http://<IP>/listen/audio/01_Howtoexplainaprojectyouworkedon.m4a
 curl -r 0-1023 -o /dev/null -w '%{http_code}\n' http://<IP>/listen/audio/01_...m4a   # 206
 ```
 
-浏览器里再确认一次：打开 `/listen/` 播一集，等右上出现「整集已缓存 · 本地拖动」后，
-Network 过滤 `m4a` 应为 0 条新请求，`player.currentSrc` 以 `blob:` 开头。
+浏览器里再确认一次：打开 `/listen/` 播一集，暂停一次（换源只在暂停且前台时发生，状态显示「已缓存」），
+再拖动进度条，Network 过滤 `m4a` 不应有新请求，`player.currentSrc` 以 `blob:` 开头。
 
 ### 6. 子路径部署（两季共用一个 IP）
 
