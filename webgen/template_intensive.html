@@ -609,9 +609,10 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     refresh(player.currentTime);
     maybeSwap();                        // 元数据就绪后才具备换源条件（页面打开后一直没播也算）
   });
-  var lastPosSync = 0;
+  var lastPosSync = 0, lastTu = 0;
   player.addEventListener("timeupdate", function(){
     if(cur.swap) return;
+    lastTu = Date.now();
     if(!ctlOpen) ctlInfo.textContent = ctlStatus();
     refresh(player.currentTime);
     savePos(false);
@@ -643,11 +644,36 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     if(cur.swap) return;
     resync();          // 用元素 seek 后的真实落点重算，别沿用请求值
   });
+  // 时钟自检：移动端锁屏/切后台后音频交给系统播放器继续，元素自身的时钟
+  // 可能没走满实际播放时长（回到前台 timeupdate 恢复了，但 currentTime 仍偏小）。
+  // 用墙钟补一次差；超过 2 分钟不补——那更像是真的被暂停了，不能乱跳。
+  var away = null;
   document.addEventListener("visibilitychange", function(){
-    if(document.visibilityState !== "visible") return;
+    if(document.visibilityState === "hidden"){
+      away = { t: playTime(), wall: Date.now(),
+               playing: !player.paused && !player.ended && !cur.swap && cur.metaReady };
+      return;
+    }
+    var a = away; away = null;
+    if(a && a.playing && !cur.swap && !player.paused && !player.seeking &&
+       isFinite(player.duration) && player.duration > 0){
+      var elapsed = (Date.now() - a.wall) / 1000 * curRate();
+      var lost = elapsed - ((player.currentTime || 0) - a.t);
+      if(lost > 3 && lost < 120){
+        try{ player.currentTime = Math.min(a.t + elapsed, player.duration - 0.2); }catch(e){}
+      }
+    }
     resync();
     maybeSwap();       // 暂停在后台时被推迟的换源，回到前台再补
   });
+  // timeupdate 被节流时兜底刷新，别让画面僵在旧句上
+  setInterval(function(){
+    if(cur.swap || !cur.metaReady || player.paused || player.seeking) return;
+    if(document.visibilityState !== "visible") return;
+    if(Date.now() - lastTu < 1500) return;
+    refresh(player.currentTime);
+    syncPosState();
+  }, 1000);
   player.addEventListener("ended", function(){
     paintPlay(false); savePos(true);
   });
