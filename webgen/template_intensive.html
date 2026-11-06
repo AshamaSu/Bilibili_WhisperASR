@@ -231,7 +231,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     store.set("wh:intensive:follow", follow ? "1" : "0");
     paintFollow();
     announce(follow ? "同步滚动已开启" : "同步滚动已关闭");
-    if(follow && cur.idx >= 0) scrollSub(subsEl.children[cur.idx]);
+    if(follow) resync();     // 打开时以真实进度重算当前句并滚到中部
   });
 
   // 控制区折叠：收起后只留折叠条 + 播放控制条，把高度让给字幕
@@ -535,6 +535,13 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     if(i >= 0) setIdx(i);
     timeNow.textContent = fmt(t);
   }
+  // 重新校准：以当前真实播放位置重算高亮、复位滚动、刷新锁屏进度。
+  // timeupdate 在锁屏/切后台时会被挂起，回到前台或暂停后不会自己补一次，必须显式调用。
+  function resync(){
+    refresh(playTime());
+    restoreFollow();
+    syncPosState();
+  }
   function savePos(force){
     var now = Date.now();
     if(!force && now - lastSave < 5000) return;
@@ -588,9 +595,18 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   player.addEventListener("play", function(){
     paintPlay(true);
     applyRate(); savePos(true);
+    resync();          // 恢复播放时按真实进度重算一次（锁屏回来可能很久没有 timeupdate）
   });
   player.addEventListener("pause", function(){
     paintPlay(false); savePos(true);
+    resync();          // 暂停点就是最可信的落点，停在这里重算
+  });
+  player.addEventListener("seeked", function(){
+    if(cur.swap) return;
+    resync();          // 用元素 seek 后的真实落点重算，别沿用请求值
+  });
+  document.addEventListener("visibilitychange", function(){
+    if(document.visibilityState === "visible") resync();
   });
   player.addEventListener("ended", function(){
     paintPlay(false); savePos(true);
