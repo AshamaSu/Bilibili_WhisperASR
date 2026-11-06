@@ -360,7 +360,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   // ---------- 整集缓存（fetch -> Blob；换源后同集内拖动完全本地） ----------
   var PREFETCH = CFG.prefetch !== false;
   var PREFETCH_MAX = 64 * 1048576;
-  var cache = { token:0, ctrl:null, state:"idle", recv:0, total:0, url:null, ep:null };
+  var cache = { token:0, ctrl:null, state:"idle", recv:0, total:0, url:null, ep:null, timer:null };
 
   function cacheLabel(msg){
     cacheState.textContent = msg || "";
@@ -374,14 +374,22 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   function playTime(){ return cur.swap ? cur.swap.t : (player.currentTime || 0); }
   function curRate(){ return cur.swap ? cur.swap.rate : (player.playbackRate || 1); }
 
+  function clearSwapTimer(){
+    if(cache.timer){ clearTimeout(cache.timer); cache.timer = null; }
+  }
+  function dropBlob(){
+    var old = cache.url; cache.url = null;
+    if(old) setTimeout(function(){ try{ URL.revokeObjectURL(old); }catch(e){} }, 2000);
+  }
+
   function resetCache(){
     cache.token++;                      // 作废在途请求与进度回调
     cache.state = "idle"; cache.ep = null; cache.recv = cache.total = 0;
     if(cache.ctrl){ try{ cache.ctrl.abort(); }catch(e){} cache.ctrl = null; }
+    clearSwapTimer();
     cur.swap = null;
-    var old = cache.url; cache.url = null;
+    dropBlob();
     cacheLabel("");
-    if(old) setTimeout(function(){ try{ URL.revokeObjectURL(old); }catch(e){} }, 2000);
   }
 
   function paintCache(got, total){
@@ -430,16 +438,40 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
       });
   }
 
+  // 预取完成只登记，不立刻换源：换源会重建媒体管线，在播放中或后台换源时
+  // 移动端可能迟迟不派发 loadedmetadata，把 cur.swap / cur.metaReady 卡死
+  // （表现为高亮停更、跳转全失效）。只挑「暂停 + 前台」这个安全点换。
   function attachBlob(ep, url, token){
     if(token !== cache.token || cur.ep !== ep){ try{ URL.revokeObjectURL(url); }catch(e){} return; }
     cache.url = url; cache.state = "ready";
+    cacheLabel("已缓存");
+    maybeSwap();
+  }
+
+  function maybeSwap(){
+    if(cache.state !== "ready" || !cache.url) return;
+    if(cur.swap || !cur.metaReady || !player.paused) return;
+    if(document.visibilityState !== "visible") return;
+    if(player.ended) return;                                  // 播完了换源没意义，还会把进度钉到结尾
+    if(isFinite(player.duration) && player.duration - player.currentTime < 5) return;
+    var ep = cur.ep;
+    cache.state = "swapping";
     cur.swap = { t: player.currentTime || 0,
-                 playing: !player.paused && !player.ended,
+                 playing: false,               // 只在暂停时换源，换完保持暂停
                  rate: player.playbackRate || 1 };
     cur.metaReady = false;
-    player.src = url;
+    cache.timer = setTimeout(function(){
+      cache.timer = null;
+      if(cache.state !== "swapping" || cur.ep !== ep) return;
+      // 兜底：metadata 迟迟不来就退回在线播放，别把播放器锁死
+      cache.state = "failed";
+      player.src = audioUrl(ep);
+      player.load();
+      dropBlob();
+      cacheLabel("缓存超时，已回退在线");
+    }, 6000);
+    player.src = cache.url;
     player.load();
-    cacheLabel("已缓存");
   }
 
   function schedulePrefetch(){
@@ -552,6 +584,8 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
 
   player.addEventListener("loadedmetadata", function(){
     cur.metaReady = true;
+    clearSwapTimer();
+    if(cache.state === "swapping") cache.state = "swapped";
     timeTotal.textContent = fmt(player.duration);
     loadState.textContent = "";
     if(cur.swap){                       // 刚从网络源换到 Blob：恢复位置/倍速/播放态
@@ -573,6 +607,7 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     }
     applyRate();
     refresh(player.currentTime);
+    maybeSwap();                        // 元数据就绪后才具备换源条件（页面打开后一直没播也算）
   });
   var lastPosSync = 0;
   player.addEventListener("timeupdate", function(){
@@ -593,20 +628,25 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
     if(navigator.mediaSession) navigator.mediaSession.playbackState = playing ? "playing" : "paused";
   }
   player.addEventListener("play", function(){
+    if(cur.swap) cur.swap.playing = true;   // 换源在途时记住播放意图
     paintPlay(true);
     applyRate(); savePos(true);
     resync();          // 恢复播放时按真实进度重算一次（锁屏回来可能很久没有 timeupdate）
   });
   player.addEventListener("pause", function(){
+    if(cur.swap) cur.swap.playing = false;  // 换源在途时记住暂停意图
     paintPlay(false); savePos(true);
     resync();          // 暂停点就是最可信的落点，停在这里重算
+    maybeSwap();       // 只有暂停+前台才换源
   });
   player.addEventListener("seeked", function(){
     if(cur.swap) return;
     resync();          // 用元素 seek 后的真实落点重算，别沿用请求值
   });
   document.addEventListener("visibilitychange", function(){
-    if(document.visibilityState === "visible") resync();
+    if(document.visibilityState !== "visible") return;
+    resync();
+    maybeSwap();       // 暂停在后台时被推迟的换源，回到前台再补
   });
   player.addEventListener("ended", function(){
     paintPlay(false); savePos(true);
@@ -614,8 +654,11 @@ dialog::backdrop{background:rgba(0,0,0,.35)}
   player.addEventListener("error", function(){
     var src = player.currentSrc || "";
     if(src.indexOf("blob:") === 0 && cur.ep){    // Blob 异常：回退网络源，别让人卡死
+      clearSwapTimer();
+      cache.state = "failed";
       var t = playTime(), wasPlaying = !player.paused;
       cur.swap = { t: t, playing: wasPlaying, rate: curRate() };
+      dropBlob();
       cur.metaReady = false;
       player.src = audioUrl(cur.ep);
       player.load();
