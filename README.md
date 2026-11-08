@@ -17,7 +17,7 @@ whisperASR/
 │   │   ├── c_<cid>/          # B 站缓存原件（entry.json + 64/audio.m4s）
 │   │   └── m4a/              # prepare-audio 流复制产物
 │   └── c_00000000000/        # 脱敏样例（结构演示，不参与编号）
-├── output/                   # 产出物（入库），子目录名与 data 严格同名
+├── output/                   # 产出物（不入库，仅本地保留），子目录名与 data 严格同名
 │   └── BusinessEnglishCourse-Season1|Season2/
 │       ├── index/            # 阶段一：episodes.json / episodes.md
 │       ├── transcripts/      # 阶段三：每集 transcript.txt / .srt / .json
@@ -33,6 +33,8 @@ whisperASR/
 ```
 
 **所有产出物按季隔离在 `output/<与 data 同名的季目录>/`**，命令用 `--season` 切换：短名 `season1` 与全名 `BusinessEnglishCourse-Season1` 等价（默认 season1，也可设环境变量 `ASR_SEASON`）。
+
+> `output/` 自 2026-11-08 起整体加入 `.gitignore`、不再入库：转写 / 候选词 / 索引 / 复习站可由管线与构建脚本再生，但 `md/NN_*.md` 逐集学习笔记为手工整理、仓库内无生成脚本，仅存本地，请自行异地备份；新克隆不含任何产出物。
 
 ## 流水线
 

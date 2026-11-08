@@ -357,7 +357,7 @@ segments, info = model.transcribe(
 
 - 源：data/BusinessEnglishCourse-Season<N>/，只读，不入库
 - 切换方式：`--season season1` 与 `--season BusinessEnglishCourse-Season1` 等价
-- 产出：output/BusinessEnglishCourse-Season<N>/（与 data 子目录严格同名），入库；每季独立编号（都从 1 开始）、独立词表、独立站点；学习 md 放 `md/`，避免 output/…/output 嵌套
+- 产出：output/BusinessEnglishCourse-Season<N>/（与 data 子目录严格同名），2026-11-08 起整体 gitignore、不入库（仅本地保留；逐集手写 md 无生成脚本，需自行备份）；每季独立编号（都从 1 开始）、独立词表、独立站点；学习 md 放 `md/`，避免 output/…/output 嵌套
 - 发布：dist/server/<SeasonKey>/（`/` 复习站 + `/listen/` 精听页 + `listen/audio/` 音频；手机离线包已退役）
 
 两条硬规则：

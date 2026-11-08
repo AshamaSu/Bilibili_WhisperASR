@@ -266,7 +266,7 @@ def run_episodes(selection_spec="all", retry_failed=False, beam_size=None,
                 if not force:
                     counts["skip"] += 1
                     continue
-                # 显式重跑：done 不在状态机里，直接重置（旧产物仍在 git 里可回滚）
+                # 显式重跑：done 不在状态机里，直接重置；output/ 不入库，重跑前请自行备份旧产物
                 ep["status"] = "pending"
                 ep["retries"] = 0
                 state.save(episodes)
