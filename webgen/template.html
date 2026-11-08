@@ -183,6 +183,19 @@ dialog::backdrop{background:rgba(16,24,40,.45)}
   </div>
 </dialog>
 
+<dialog id="promptDlg" aria-labelledby="promptTitle">
+  <div class="dlg-body">
+    <h2 id="promptTitle">对话练习提示词</h2>
+    <p class="muted small">复制下面这段给大模型，即可开始本集的英文角色扮演对话练习；也可复制整份自测作答请它查错。</p>
+    <textarea id="promptText" readonly rows="12" style="display:block;width:100%;box-sizing:border-box;font:inherit;font-size:13px;line-height:1.6;padding:10px;border:1px solid #c9ced6;border-radius:8px;background:#fff"></textarea>
+    <div class="row" style="margin-top:10px">
+      <button class="btn btn--primary" type="button" id="promptCopy">复制对话提示词</button>
+      <button class="btn" type="button" id="promptCopyAll">复制全部自测</button>
+      <button class="btn btn--ghost" type="button" id="promptClose">关闭</button>
+    </div>
+  </div>
+</dialog>
+
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
 <noscript><p style="padding:20px">本页面需要启用 JavaScript 才能使用。</p></noscript>
@@ -500,6 +513,9 @@ function renderToday(main){
     ]));
   }
 
+  renderIntensiveHint(main, t);
+  renderPracticeCard(main);
+
   main.appendChild(h("p", {class:"muted tiny", text:"排程规则：每集完成一次进入下一盒子，间隔 1 / 2 / 4 / 7 / 15 天；凌晨 4 点算换天。"}));
 }
 function epCard(no, kicker, kind){
@@ -664,21 +680,201 @@ function markTokens(answer, input){
   return frag;
 }
 
+/* ---------------- 复制 / 对话练习 / 精听提示 ---------------- */
+
+var lastPromptText = "";
+var lastSelfTestText = "";
+var pendingPromptNo = null;
+
+function copyText(t, btn, label){
+  function fallback(){
+    var ta = document.createElement("textarea");
+    ta.value = t;
+    ta.setAttribute("readonly", "");
+    ta.style.position = "fixed";
+    ta.style.opacity = "0";
+    document.body.appendChild(ta);
+    ta.select();
+    var done = false;
+    try { done = document.execCommand("copy"); } catch (e) { done = false; }
+    document.body.removeChild(ta);
+    return done;
+  }
+  function feedback(okFlag){
+    btn.textContent = okFlag ? "已复制 ✓" : "复制失败，请手动选中文本";
+    setTimeout(function(){ btn.textContent = label; }, 2500);
+  }
+  var clip = navigator.clipboard;
+  if (clip && clip.writeText) {
+    var p = null;
+    try { p = clip.writeText(t); } catch (e) { p = null; }
+    if (p && p.then) p.then(function(){ feedback(true); }, function(){ feedback(fallback()); });
+    else feedback(fallback());
+  } else {
+    feedback(fallback());
+  }
+}
+
+function buildDialoguePrompt(no){
+  var e = EP[no], c = CAT[no] || {}, L = [], seen = {};
+  if (!e) return "";
+  L.push("你是一位商务英语对话陪练（CEFR B1+）。请和我进行一场英文角色扮演对话练习。");
+  L.push("主题：第 " + no + " 集《" + (c.t || e.title) + "》（约 " + Math.round(c.d || e.duration_min) + " 分钟）。");
+  L.push("规则：1) 全程用英文，围绕该工作/商务场景；2) 尽量自然地使用下列目标词、语块与句式，并在每轮后用 [used:…] 标注用到的表达；3) 每轮只说你这一方并停下，等我回复；4) 我回复后先用一两句指出语法/用词/搭配问题，再继续对话；5) 不要一次写出整段范文或全部答案；6) 对话结束时给 3 条具体改进建议。");
+  var core = [], supp = [], chunks = [], patterns = [], ex = [], uniq = [];
+  e.core.forEach(function(w){ core.push(w.w + (w.g ? "（" + w.g + "）" : "")); });
+  e.supp.forEach(function(w){ supp.push(w.w + (w.g ? "（" + w.g + "）" : "")); });
+  e.chunks.forEach(function(x){ chunks.push(x.c + (x.s ? " — " + x.s : "")); });
+  e.patterns.forEach(function(x){ patterns.push(x.p); });
+  if (core.length) L.push("【核心词】" + core.join("；"));
+  if (supp.length) L.push("【补充词】" + supp.join("；"));
+  if (chunks.length) L.push("【语块】" + chunks.join("；"));
+  if (patterns.length) L.push("【句式】" + patterns.join("；"));
+  ["core", "supp", "chunks", "patterns"].forEach(function(k){
+    e[k].forEach(function(x){ if (x.ex) ex.push(x.ex); });
+  });
+  e.trans.forEach(function(x){ if (x.en) ex.push(x.en); });
+  ex.forEach(function(s){ if (s && !seen[s]) { seen[s] = 1; uniq.push(s); } });
+  if (uniq.length) L.push("【参考例句（摘录）】\n  - " + uniq.slice(0, 30).join("\n  - "));
+  L.push("现在开始第一轮：先设定场景、做自我介绍并抛出第一个问题，然后等我回复。");
+  return L.join("\n") + "\n";
+}
+
+function buildSelfTestText(no){
+  var e = EP[no], c = CAT[no] || {}, L = [];
+  if (!e) return "";
+  L.push("以下是我第 " + no + " 集《" + (c.t || e.title) + "》的自测作答，请对照参考答案逐题核对，指出错误、解释原因并给改进建议。");
+  L.push("说明：【】内是我的作答；「参考答案」是标准答案。标「对照练习·不判分」的题无标准答案，请参考附带的参考句式与例句。");
+  L.push("");
+  var words = pickWords(no, 6);
+  L.push("① 拼写（共 " + words.length + " 题）");
+  words.forEach(function(w, i){
+    var inp = qs("#sp_" + i);
+    L.push((i + 1) + ". 释义：" + (w.g || "—") + "　我的作答：【" + (inp ? inp.value : "") + "】　参考答案：" + w.w);
+  });
+  L.push("");
+  L.push("② 填空（共 " + e.blanks.length + " 题）");
+  e.blanks.forEach(function(item, qi){
+    var parts = item.t.split(/_{6,}/);
+    var rebuilt = "", gi;
+    for (gi = 0; gi < parts.length - 1; gi++){
+      var inp = qs("#g_" + qi + "_" + gi);
+      rebuilt += parts[gi] + "【" + (inp ? inp.value : "") + "】";
+    }
+    rebuilt += parts[parts.length - 1];
+    L.push((qi + 1) + ". [" + (item.scored ? "可判分" : "对照练习·不判分") + "] " + rebuilt);
+    if (item.scored) {
+      var refs = [];
+      item.gaps.forEach(function(gap, g){
+        refs.push("第 " + (g + 1) + " 空：" + (gap.a && gap.a.length ? gap.a.join(" / ") : "—"));
+      });
+      L.push("　参考答案：" + refs.join("；"));
+    } else {
+      var hint = e.patterns[item.hint];
+      L.push("　参考答案：（对照练习，无标准答案）参考句式：" + (hint ? hint.p : "—") + "；例句：" + (hint && hint.ex ? hint.ex : "—"));
+    }
+  });
+  return L.join("\n") + "\n";
+}
+
+var INTENSIVE_TIP = "听懂 70~80% 的集才做精听，听不懂的先泛听";
+function renderIntensiveHint(main, t){
+  var pp = t.split("-");
+  var dow = new Date(+pp[0], +pp[1] - 1, +pp[2]).getDay();
+  var weekend = (dow === 5 || dow === 6 || dow === 0);
+  if (!weekend) {
+    main.appendChild(h("p", {class:"muted tiny", text:"精听安排在周末。" + INTENSIVE_TIP}));
+    return;
+  }
+  var cands = [], k;
+  for (k in state.eps) {
+    if (!Object.prototype.hasOwnProperty.call(state.eps, k)) continue;
+    var st = state.eps[k];
+    var no = +k;
+    if (!st || (st.box || 0) < 1 || st.intensiveDone === true || !st.due || st.due === t) continue;
+    cands.push({no:no, due:st.due});
+  }
+  cands.sort(function(a, b){ return a.due < b.due ? -1 : a.due > b.due ? 1 : a.no - b.no; });
+  cands = cands.slice(0, 3);
+  if (!cands.length) {
+    main.appendChild(h("p", {class:"muted tiny", text:INTENSIVE_TIP}));
+    return;
+  }
+  var card = h("div", {class:"card"}, [h("h2", {text:"本周建议精听"})]);
+  cands.forEach(function(c){
+    var title = CAT[c.no] ? CAT[c.no].t : (EP[c.no] ? EP[c.no].title : "");
+    var line = h("div", {class:"row", style:"margin-top:8px;align-items:center"}, [
+      h("span", {text:"建议精听：第 " + (c.no < 10 ? "0" : "") + c.no + " 集 · " + title})
+    ]);
+    var btn = h("button", {class:"btn btn--ghost", type:"button", text:"已精听"});
+    btn.addEventListener("click", function(){
+      var s = state.eps[c.no];
+      if (s) { s.intensiveDone = true; save(); }
+      route();
+    });
+    line.appendChild(btn);
+    card.appendChild(line);
+  });
+  card.appendChild(h("p", {class:"muted tiny", style:"margin-top:10px", text:INTENSIVE_TIP}));
+  main.appendChild(card);
+}
+
+function renderPracticeCard(main){
+  var no = pendingPromptNo || state.ui.lastEp;
+  pendingPromptNo = null;
+  if (!no || !EP[no]) return;
+  var btn = h("button", {class:"btn btn--primary", type:"button", text:"查看并复制提示词"});
+  btn.addEventListener("click", function(){
+    qs("#promptText").value = lastPromptText || buildDialoguePrompt(no);
+    qs("#promptDlg").showModal();
+  });
+  main.appendChild(h("div", {class:"card"}, [
+    h("div", {class:"row"}, [h("span", {class:"pill pill--gray", text:"对话练习"})]),
+    h("h2", {class:"title-en", style:"margin-top:10px", text:"第 " + (no < 10 ? "0" : "") + no + " 集 · 给大模型的练习提示词"}),
+    h("div", {class:"row", style:"margin-top:10px"}, [btn])
+  ]));
+}
+
 /* ---------------- 自测 ---------------- */
 
+var PICK_CACHE = {};
+function shuffleIdx(count, seed){
+  var idx = [];
+  for (var i = 0; i < count; i++) idx.push(i);
+  var s = (seed >>> 0) || 1;
+  for (var j = count - 1; j > 0; j--){
+    s = (s * 1664525 + 1013904223) >>> 0;
+    var k = s % (j + 1);
+    var t = idx[j]; idx[j] = idx[k]; idx[k] = t;
+  }
+  return idx;
+}
 function pickWords(no, n){
+  if (PICK_CACHE[no]) return PICK_CACHE[no].slice(0, n);
   var e = EP[no];
+  if (!e) return [];
   var pool = e.core.map(function(w){ return {w:w.w, g:w.g}; })
     .concat(e.supp.map(function(w){ return {w:w.w, g:w.g}; }));
   if (!pool.length) return [];
-  var order = pool.map(function(_, i){ return i; });
-  // 确定性打散：哈希排序，同一集每次刷新顺序一致；用满长度避免取模撞车
-  order.sort(function(a, b){
-    var ha = (a * 7919 + no * 104729) % 1000003;
-    var hb = (b * 7919 + no * 104729) % 1000003;
-    return ha - hb || a - b;
+
+  // 跨集去重：跳过前面集已经考过的词；池子不够再用重复词补
+  var used = {};
+  DONE_NOS.forEach(function(other){
+    if (other >= no) return;
+    pickWords(other, 6).forEach(function(w){
+      used[String(w.w).toLowerCase()] = 1;
+    });
   });
-  return order.slice(0, Math.min(n, pool.length)).map(function(i){ return pool[i]; });
+
+  var order = shuffleIdx(pool.length, no * 2654435761 + 7);
+  var fresh = [], repeated = [];
+  order.forEach(function(i){
+    var w = pool[i];
+    (used[String(w.w).toLowerCase()] ? repeated : fresh).push(w);
+  });
+  var picked = fresh.concat(repeated).slice(0, Math.min(n, pool.length));
+  PICK_CACHE[no] = picked;
+  return picked.slice(0, Math.min(n, pool.length));
 }
 
 function renderQuiz(main, r){
@@ -743,11 +939,20 @@ function renderQuiz(main, r){
   var live = h("div", {class:"fb", role:"status", "aria-live":"polite", style:"font-weight:600"});
   var checkBtn = h("button", {class:"btn btn--primary", type:"button", text:"检查答案"});
   var revealBtn = h("button", {class:"btn", type:"button", text:"显示答案"});
+  var copyAllBtn = h("button", {class:"btn", type:"button", text:"复制全部自测"});
+  var copyPromptBtn = h("button", {class:"btn", type:"button", text:"复制对话提示词"});
   var doneBtn = h("button", {class:"btn", type:"button", text:"完成本集"});
-  main.appendChild(h("div", {class:"sticky-foot"}, [checkBtn, revealBtn, doneBtn]));
+  main.appendChild(h("div", {class:"sticky-foot"}, [checkBtn, revealBtn, copyAllBtn, copyPromptBtn, doneBtn]));
   main.appendChild(live);
 
   var revealed = false;
+
+  copyAllBtn.addEventListener("click", function(){
+    copyText(buildSelfTestText(no), copyAllBtn, "复制全部自测");
+  });
+  copyPromptBtn.addEventListener("click", function(){
+    copyText(buildDialoguePrompt(no), copyPromptBtn, "复制对话提示词");
+  });
 
   checkBtn.addEventListener("click", function(){
     if (revealed) { live.textContent = "已显示答案，本次不计分。"; return; }
@@ -813,6 +1018,9 @@ function renderQuiz(main, r){
   });
 
   doneBtn.addEventListener("click", function(){
+    lastSelfTestText = buildSelfTestText(no);
+    lastPromptText = buildDialoguePrompt(no);
+    pendingPromptNo = no;
     var isNew = !state.eps[no];
     completeEpisode(no, isNew ? "new" : "review");
     toast("第 " + no + " 集已完成，进入盒子 " + state.eps[no].box + "，下次 " + pretty(state.eps[no].due));
@@ -968,6 +1176,24 @@ function initHelp(){
   }
 }
 
+function initPromptDlg(){
+  var dlg = qs("#promptDlg");
+  qs("#promptClose").addEventListener("click", function(){ dlg.close(); });
+  qs("#promptCopy").addEventListener("click", function(){
+    copyText(qs("#promptText").value, this, "复制对话提示词");
+  });
+  qs("#promptCopyAll").addEventListener("click", function(){
+    var btn = this;
+    if (!lastSelfTestText) {
+      btn.textContent = "请先完成一集自测";
+      setTimeout(function(){ btn.textContent = "复制全部自测"; }, 2500);
+      return;
+    }
+    qs("#promptText").value = lastSelfTestText;
+    copyText(lastSelfTestText, btn, "复制全部自测");
+  });
+}
+
 /* ---------------- 启动 ---------------- */
 
 function footMeta(){
@@ -981,6 +1207,7 @@ footMeta();
 window.addEventListener("hashchange", route);
 route();
 initHelp();
+initPromptDlg();
 })();
 </script>
 </body>

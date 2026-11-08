@@ -105,11 +105,21 @@ def process_episode(episodes, ep, log, beam_size=None, limit_minutes=None,
                          "language_probability": metrics["language_probability"],
                          "word_count": qa["word_count"],
                          "repetition_ratio": qa["repetition_ratio"],
-                         "flags": qa["flags"]})
+                         "flags": qa["flags"],
+                         "warnings": qa["warnings"],
+                         "sparse_count": qa["sparse_count"],
+                         "sparse": qa["sparse"]})
         info = {"words": qa["word_count"], "rep": qa["repetition_ratio"],
                 "span": metrics.get("span_ratio"),
+                "sparse": qa["sparse_count"],
                 "bytes": metrics.get("upload_bytes") or 0,
                 "seconds": round(time.time() - t0, 1)}
+        if qa["sparse_count"]:
+            preview = "; ".join(
+                f"{x['start']:.0f}s/{x['span']:.1f}s/{x['words']}w"
+                for x in qa["sparse"][:3])
+            log(f"[ep{ep['no']}] ⚠ 疑似吞句 {qa['sparse_count']} 段"
+                f"（跨度/词数：{preview}），仅告警不阻断")
         if qa["flags"]:
             state.set_status(ep, "suspect")
             state.save(episodes)
@@ -159,7 +169,9 @@ def process_episode(episodes, ep, log, beam_size=None, limit_minutes=None,
                 pass
 
 
-def _actionable(selected, retry_failed):
+def _actionable(selected, retry_failed, force=False):
+    if force:
+        return list(selected)
     out = []
     for ep in selected:
         if ep["status"] == "done":
@@ -189,12 +201,12 @@ def _warn_batch(todo, be, total_min, selection_spec):
 
 def _print_summary(log, rows, counts, be, total_min, wall_s):
     log("==== 批次汇总 backend=%s ====" % be)
-    log("%4s %-8s %8s %6s %7s %7s" % ("no", "status", "words", "rep", "span", "sec"))
+    log("%4s %-8s %8s %6s %7s %6s %7s" % ("no", "status", "words", "rep", "span", "sparse", "sec"))
     for r in rows:
         span = "-" if r.get("span") is None else "%.3f" % r["span"]
-        log("%4d %-8s %8d %6.3f %7s %7.1f"
+        log("%4d %-8s %8d %6.3f %7s %6d %7.1f"
             % (r["no"], r["result"], r.get("words") or 0, r.get("rep") or 0.0,
-               span, r.get("seconds") or 0.0))
+               span, r.get("sparse") or 0, r.get("seconds") or 0.0))
     up = sum(r.get("bytes") or 0 for r in rows)
     hours = total_min / 60
     rtf = (wall_s / (total_min * 60)) if total_min else 0.0
@@ -205,7 +217,7 @@ def _print_summary(log, rows, counts, be, total_min, wall_s):
 
 def run_episodes(selection_spec="all", retry_failed=False, beam_size=None,
                  limit_minutes=None, log_file=None, backend=None,
-                 remote_clean=None, min_span=None):
+                 remote_clean=None, min_span=None, force=False):
     """跑一批。返回退出码：0 正常 / 2 后端不可用（批次中止）。"""
     be = backend or transcribe_stage.backend()
     episodes = state.load()
@@ -231,7 +243,7 @@ def run_episodes(selection_spec="all", retry_failed=False, beam_size=None,
         log(f"[backend] local {config.MODEL_NAME} ({config.DEVICE}/{config.COMPUTE_TYPE})")
 
     selected = [state.by_no(episodes, no) for no in nos]
-    todo = _actionable(selected, retry_failed)
+    todo = _actionable(selected, retry_failed, force)
     total_min = sum(ep["duration_min"] for ep in selected)
     todo_min = sum(ep["duration_min"] for ep in todo)
     _warn_batch(todo, be, todo_min, selection_spec)
@@ -251,13 +263,20 @@ def run_episodes(selection_spec="all", retry_failed=False, beam_size=None,
     try:
         for ep in selected:
             if ep["status"] == "done":
-                counts["skip"] += 1
-                continue
+                if not force:
+                    counts["skip"] += 1
+                    continue
+                # 显式重跑：done 不在状态机里，直接重置（旧产物仍在 git 里可回滚）
+                ep["status"] = "pending"
+                ep["retries"] = 0
+                state.save(episodes)
             if ep["status"] in ("failed", "suspect"):
-                if not retry_failed:
+                if not retry_failed and not force:
                     counts["skip"] += 1
                     continue
                 state.set_status(ep, "pending")
+                if force:
+                    ep["retries"] = 0
                 state.save(episodes)
             elif ep["status"] in ("converting", "transcribing", "extracting"):
                 # 上次中断的中间态：幂等重入（评审修正 #4）

@@ -53,6 +53,7 @@ whisperASR/
 
 - faster-whisper `small` / CPU int8，`condition_on_previous_text=False` 防长音频幻觉漂移，实测 ≈4× 实时
 - 语种门禁：`language_probability < 0.8` 判 suspect，不烧重试预算；复读循环自动降参重试
+- 吞句 QA：跨度 ≥8s 却 ≤5 词、且词/秒 <1.0 的段记 `warnings=["sparse"]`（片尾 30s 不计）；**只告警不阻断**，`run` 日志和 `status` 的 `sparse(N)` 会提示
 - 续跑幂等：状态原子写（temp+fsync+rename），三件产物齐才置 `done`；总词表每次全量重渲染
 - 提取规则 v2（PLAN §5）：标题实词硬性入选核心词；CEFR 分层只收 B1+；语块（3~5 条固定表达）单列；系列词去重标注「→ 见总词表」
 

@@ -123,6 +123,13 @@ REPETITION_NGRAM = 8          # 词 n-gram 大小
 REPETITION_LOOP_RATIO = 0.5   # 窗口内重复占比 ≥ 此值 → 复读循环（可重试）
 REPETITION_SUSPECT_RATIO = 0.2  # 全篇占比 > 此值 → suspect
 MAX_RETRIES = 2               # PLAN §7：重试不超过 2 次
+
+# 吞句检测（只告警，不阻断）：长跨度却只有很少词，常见于 VAD/合并把整句吞掉
+SPARSE_MIN_SPAN_S = 8.0       # 段跨度至少 8 秒
+SPARSE_MAX_WORDS = 5          # 且词数 ≤ 5（6 词以上多为慢速口播，不报）
+SPARSE_MAX_WORDS_PER_SEC = 1.0  # 且词/秒 < 1.0
+SPARSE_TAIL_EXCLUDE_S = 30.0  # 片尾 30 秒的告别/音乐不算
+SPARSE_REPORT_LIMIT = 5       # metrics 里最多保留几条明细
 RETRY_PARAMS = {"beam_size": 1, "no_speech_threshold": 0.7}
 
 # ---- ASR 后端（PLAN §9）：默认自建 GPU 服务，本地 faster-whisper 仍可切换 ----

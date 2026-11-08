@@ -77,6 +77,8 @@ def build_parser():
                     help="覆盖门禁放宽到该比例（片尾长静音等误报时显式使用）")
     sp.add_argument("--retry-failed", action="store_true",
                     help="重新武装 failed/suspect 的剧集")
+    sp.add_argument("--force", action="store_true",
+                    help="已 done 的集也重跑（重置该集 retries）")
 
     sp = sub.add_parser("status", help="查看各集状态")
     _add_season_arg(sp)
@@ -109,7 +111,7 @@ def _run_transcribe(ep, args):
           f"lang={metrics['language']}({metrics['language_probability']}) "
           f"segs={len(segments)} words={qa['word_count']} "
           f"rep={qa['repetition_ratio']} span={metrics.get('span_ratio')} "
-          f"flags={qa['flags']}{tail}")
+          f"flags={qa['flags']} sparse={qa['sparse_count']}{tail}")
 
 
 def main(argv=None):
@@ -140,11 +142,15 @@ def main(argv=None):
 
     if args.cmd == "status":
         episodes = state.load()
-        print(f"{'no':>3}  {'status':<12} {'ret':>3}  {'flags':<12} file_stem")
+        print(f"{'no':>3}  {'status':<12} {'ret':>3}  {'flags':<12} {'warn':<12} file_stem")
         for ep in episodes:
-            flags = ",".join(ep["qa"]["flags"]) or "-"
+            qa = ep.get("qa") or {}
+            flags = ",".join(qa.get("flags") or []) or "-"
+            warn = ",".join(qa.get("warnings") or []) or "-"
+            if qa.get("sparse_count"):
+                warn += f"({qa['sparse_count']})"
             print(f"{ep['no']:>3}  {ep['status']:<12} {ep['retries']:>3}  "
-                  f"{flags:<12} {ep['file_stem']}")
+                  f"{flags:<12} {warn:<12} {ep['file_stem']}")
         return 0
 
     if args.cmd == "prepare-audio":
@@ -210,7 +216,7 @@ def main(argv=None):
         return runner.run_episodes(args.episodes, retry_failed=args.retry_failed,
                                    beam_size=args.beam,
                                    limit_minutes=args.limit_minutes,
-                                   min_span=args.min_span)
+                                   min_span=args.min_span, force=args.force)
 
     if args.cmd == "smoke":
         runner.run_smoke()

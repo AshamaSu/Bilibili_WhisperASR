@@ -76,6 +76,8 @@ segments, info = model.transcribe(
 - 质量门禁（来自 whisper-local 专家 SOP）：
   - 输出不得为空；每集转完抽查开头/中间/结尾各 1 段
   - 语种必须是 en，若检测成其他语言则报错跳过并记录
+  - 吞句告警：段跨度 ≥8s、词数 ≤5、词/秒 <1.0（片尾 30s 排除）→ `warnings=["sparse"]`；
+    只告警不阻断（长音频整文件转写可能把整句合并成一句短文本），`status` 显示 `sparse(N)`
   - `status` 字段更新：pending → converting → transcribing → done / failed
 
 ## 5. 阶段四：内容加工（英语学习向，逐集生成 md）

@@ -26,6 +26,10 @@ conn/
 # dist/：发布包产物（index.html 由 build_site.py --mode minimal 生成），不入库
 dist/
 
+# output/：产出物总目录（转写/候选词/索引/复习站/逐集学习笔记），2026-11-08 起整体不入库
+# 注意：md/NN_*.md 为手工整理内容、仓库内无生成脚本，撤销跟踪后仅存本地，请另行备份
+output/
+
 # intensive/：精读页产物（由 build_intensive.py 从 transcripts/ 再生，含全量句级字幕），不入库
 intensive/
 
@@ -36,3 +40,15 @@ intensive/
 *.swp
 *.swo
 *~
+
+# 服务器侧工作产物（2026-11-07 补）
+output.bak-*/
+.venv/
+*.bak
+*.log
+.pytest_cache/
+
+# 本地工作笔记 / AI 工具项目级配置，不入库
+Notes.md
+TASK.md
+.codebuddy/

@@ -122,8 +122,37 @@ def transcribe_wav(wav_path, beam_size=None, limit_minutes=None, extra=None):
     return segments, metrics
 
 
+def sparse_segments(segments, duration_min):
+    """找出疑似被吞句的段：跨度长、词却很少。
+
+    这类段通常是 WhisperX/VAD 把整句合并成一句短文本，时间戳却覆盖
+    整段语音（例：19 秒只对应 `That makes sense.`）。只做告警，不改状态；
+    片尾告别/音乐会被 SPARSE_TAIL_EXCLUDE_S 排除，减少误报。
+    """
+    tail = (duration_min or 0) * 60 - config.SPARSE_TAIL_EXCLUDE_S
+    out = []
+    for s in segments:
+        span = s["end"] - s["start"]
+        if span < config.SPARSE_MIN_SPAN_S:
+            continue
+        if tail > 0 and s["start"] >= tail:
+            continue
+        words = len(re.findall(r"[a-zA-Z']+", s["text"]))
+        if words == 0 or words > config.SPARSE_MAX_WORDS:
+            continue
+        if words / span >= config.SPARSE_MAX_WORDS_PER_SEC:
+            continue
+        out.append({"start": round(s["start"], 2), "end": round(s["end"], 2),
+                    "span": round(span, 1), "words": words,
+                    "text": s["text"][:80]})
+    return out
+
+
 def qa_check(segments, duration_min):
-    """自动 QA 门禁。返回 metrics dict（含 flags，非空 → suspect）。"""
+    """自动 QA 门禁。返回 metrics dict（flags 非空 → suspect）。
+
+    `warnings` 是非阻断告警（目前只有 sparse 吞句），不改变 done/suspect。
+    """
     text = " ".join(s["text"] for s in segments)
     word_count = len(re.findall(r"[a-zA-Z']+", text))
     rep = ngram_repeat_ratio(segments)
@@ -135,8 +164,11 @@ def qa_check(segments, duration_min):
         flags.append("word_count")
     if rep > config.REPETITION_SUSPECT_RATIO:
         flags.append("repetition")
+    sparse = sparse_segments(segments, duration_min)
     return {"word_count": word_count, "repetition_ratio": round(rep, 4),
-            "flags": flags}
+            "flags": flags, "warnings": ["sparse"] if sparse else [],
+            "sparse_count": len(sparse),
+            "sparse": sparse[:config.SPARSE_REPORT_LIMIT]}
 
 
 def _srt_ts(t):
