@@ -252,10 +252,10 @@ def check_html(path: Path) -> dict:
     ok("资源型外链检测：0 命中")
 
     n_url = len(re.findall(r"https?://", html))
-    if n_url != 1:
-        fail("https:// 出现 %d 次，应恰好 1 次（footer 课程来源）" % n_url)
+    if n_url != 0:
+        fail("https:// 出现 %d 次，应为 0 次（footer 已移除课程来源）" % n_url)
     else:
-        ok("https:// 出现 1 次（footer）")
+        ok("https:// 出现 0 次")
 
     block = re.search(r'<script id="site-data" type="application/json">(.*?)</script>', html, re.S)
     if block and "http" in block.group(1).lower():
