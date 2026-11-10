@@ -184,11 +184,10 @@ dialog::backdrop{background:rgba(16,24,40,.45)}
 <dialog id="promptDlg" aria-labelledby="promptTitle">
   <div class="dlg-body">
     <h2 id="promptTitle">对话练习提示词</h2>
-    <p class="muted small">复制下面这段给大模型，即可开始本集的英文角色扮演对话练习；也可复制整份自测作答请它查错。</p>
+    <p class="muted small">复制下面这段给大模型，即可开始本集的英文角色扮演对话练习。</p>
     <textarea id="promptText" readonly rows="12" style="display:block;width:100%;box-sizing:border-box;font:inherit;font-size:13px;line-height:1.6;padding:10px;border:1px solid #c9ced6;border-radius:8px;background:#fff"></textarea>
     <div class="row" style="margin-top:10px">
       <button class="btn btn--primary" type="button" id="promptCopy">复制对话提示词</button>
-      <button class="btn" type="button" id="promptCopyAll">复制全部自测</button>
       <button class="btn btn--ghost" type="button" id="promptClose">关闭</button>
     </div>
   </div>
@@ -680,9 +679,8 @@ function markTokens(answer, input){
 
 /* ---------------- 复制 / 对话练习 / 精听提示 ---------------- */
 
-var lastPromptText = "";
-var lastSelfTestText = "";
 var pendingPromptNo = null;
+var promptDlgNo = null;
 
 function copyText(t, btn, label){
   function fallback(){
@@ -691,11 +689,14 @@ function copyText(t, btn, label){
     ta.setAttribute("readonly", "");
     ta.style.position = "fixed";
     ta.style.opacity = "0";
-    document.body.appendChild(ta);
+    // 模态 <dialog> 打开时，对话框外的元素是 inert 的，选区拿不到焦点；
+    // 此时把临时 textarea 放进对话框内部，保证 execCommand("copy") 能复制到全文。
+    var host = document.querySelector("dialog[open]") || document.body;
+    host.appendChild(ta);
     ta.select();
     var done = false;
     try { done = document.execCommand("copy"); } catch (e) { done = false; }
-    document.body.removeChild(ta);
+    host.removeChild(ta);
     return done;
   }
   function feedback(okFlag){
@@ -823,7 +824,8 @@ function renderPracticeCard(main){
   if (!no || !EP[no]) return;
   var btn = h("button", {class:"btn btn--primary", type:"button", text:"查看并复制提示词"});
   btn.addEventListener("click", function(){
-    qs("#promptText").value = lastPromptText || buildDialoguePrompt(no);
+    promptDlgNo = no;
+    qs("#promptText").value = buildDialoguePrompt(no);
     qs("#promptDlg").showModal();
   });
   main.appendChild(h("div", {class:"card"}, [
@@ -1016,8 +1018,6 @@ function renderQuiz(main, r){
   });
 
   doneBtn.addEventListener("click", function(){
-    lastSelfTestText = buildSelfTestText(no);
-    lastPromptText = buildDialoguePrompt(no);
     pendingPromptNo = no;
     var isNew = !state.eps[no];
     completeEpisode(no, isNew ? "new" : "review");
@@ -1178,17 +1178,10 @@ function initPromptDlg(){
   var dlg = qs("#promptDlg");
   qs("#promptClose").addEventListener("click", function(){ dlg.close(); });
   qs("#promptCopy").addEventListener("click", function(){
-    copyText(qs("#promptText").value, this, "复制对话提示词");
-  });
-  qs("#promptCopyAll").addEventListener("click", function(){
-    var btn = this;
-    if (!lastSelfTestText) {
-      btn.textContent = "请先完成一集自测";
-      setTimeout(function(){ btn.textContent = "复制全部自测"; }, 2500);
-      return;
-    }
-    qs("#promptText").value = lastSelfTestText;
-    copyText(lastSelfTestText, btn, "复制全部自测");
+    var t = buildDialoguePrompt(promptDlgNo);
+    if (!t) t = qs("#promptText").value;
+    qs("#promptText").value = t;
+    copyText(t, this, "复制对话提示词");
   });
 }
 
