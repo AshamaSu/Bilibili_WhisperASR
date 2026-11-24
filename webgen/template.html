@@ -75,18 +75,20 @@ main{max-width:760px;margin:0 auto;padding:18px 16px 64px}
 .flip{width:100%;min-height:96px;border-radius:12px;border:1px solid var(--line);background:var(--surface);
   display:flex;flex-direction:column;gap:4px;align-items:flex-start;justify-content:center;padding:12px;cursor:pointer;text-align:left;
   transition:transform .16s ease,border-color .16s ease,background .16s ease}
-.flip--word{padding-right:48px}
+.flip--word{padding-right:38px}
 .cardwrap.removed .flip{opacity:.55}
 .removed-note{margin:6px 2px 0;font-size:13px;color:var(--warn)}
-.star{position:absolute;top:6px;right:6px;width:40px;height:40px;border-radius:10px;border:1px solid transparent;
-  background:transparent;color:#8a93a1;font-size:22px;line-height:1;display:flex;align-items:center;justify-content:center;
+.star{position:absolute;top:4px;right:4px;width:34px;height:34px;border-radius:9px;border:1px solid transparent;
+  background:transparent;color:#8a93a1;font-size:20px;line-height:1;display:flex;align-items:center;justify-content:center;
   cursor:pointer;padding:0;z-index:2;touch-action:manipulation;-webkit-tap-highlight-color:transparent}
 .star:hover{background:#f0f2f5}
 .star[aria-pressed="true"]{color:#c47f00;background:#fff6dd;border-color:#f2dfae}
 .star:active{transform:scale(.92)}
 .flip:hover{border-color:#c3cad6}
 .flip[aria-pressed="true"]{background:var(--accent-soft);border-color:#b9cbf3}
-.flip .w{font-size:17px;font-weight:650;word-break:break-word}
+.flip .w{font-size:16.5px;font-weight:650;letter-spacing:-.2px;word-break:break-word;overflow-wrap:anywhere}
+.flip .w.w--long{font-size:15px;letter-spacing:-.3px}
+.flip .w.w--xlong{font-size:13.5px;letter-spacing:-.4px}
 .flip .back{display:none;font-size:14px;color:var(--ink)}
 .flip[aria-pressed="true"] .front{display:none}
 .flip[aria-pressed="true"] .back{display:block}
@@ -189,7 +191,7 @@ dialog::backdrop{background:rgba(16,24,40,.45)}
   <div class="dlg-body">
     <h2 id="helpTitle">怎么用</h2>
     <ol>
-      <li><strong>今日</strong>：按间隔复习排程给出今天该复习的一集，学完点「完成本集」。</li>
+      <li><strong>今日</strong>：按间隔复习排程给出今天该复习的一集，学完点「完成本集」；另有「今日泛听」一集，原速听完点「已泛听」，只打卡不升盒。</li>
       <li><strong>词句</strong>：五类内容（核心词 / 补充词 / 语块 / 句式 / 翻译）。词卡点一下翻面看释义，再点一下看例句；右上角星标可加入生词本。</li>
       <li><strong>自测</strong>：拼写题 + 填空，每题附中文语境提示（不写英文答案）。能判分的填空会逐词标出对错；标了「对照练习」的题不判分，只做对照。</li>
       <li><strong>词表</strong>：全部词汇可搜索，点进去跳到它出现的某一集。</li>
@@ -552,6 +554,82 @@ function renderMissing(main, no){
 
 /* ---------------- 今日 ---------------- */
 
+function listenTotal(){
+  var n = 0, k;
+  for (k in state.eps) if (state.eps[k] && state.eps[k].listenN) n += state.eps[k].listenN;
+  return n;
+}
+
+function listenPick(t){
+  if (state.ui.listenDay === t) return null;   // 每天只安排一集泛听
+  var cands = [], k, e;
+  for (k in state.eps) {
+    if (!Object.prototype.hasOwnProperty.call(state.eps, k)) continue;
+    e = state.eps[k];
+    if (!e || !e.due || e.due > t) continue;
+    cands.push({no:+k, box:e.box || 0, due:e.due, listen:e.listen || ""});
+  }
+  if (cands.length) {
+    cands.sort(function(a, b){
+      if (a.box !== b.box) return a.box - b.box;
+      if (a.listen !== b.listen) return a.listen < b.listen ? -1 : 1;
+      if (a.due !== b.due) return a.due < b.due ? -1 : 1;
+      return a.no - b.no;
+    });
+    return {no:cands[0].no, box:cands[0].box, due:cands[0].due, overdue:diffDays(cands[0].due, t)};
+  }
+  // 没有到期集时，退回「最近学过、但不是今天新学」的那一集；今天已听过则不再推
+  var latest = null;
+  for (k in state.eps) {
+    if (!Object.prototype.hasOwnProperty.call(state.eps, k)) continue;
+    e = state.eps[k];
+    if (!e || !e.last || e.last >= t || e.listen === t) continue;
+    if (!latest || e.last > latest.last) latest = {no:+k, box:e.box || 0, last:e.last};
+  }
+  return latest;
+}
+
+function renderListenCard(main, t){
+  var pick = listenPick(t);
+  if (!pick) {
+    if (Object.keys(state.eps).length) {
+      var doneNo = state.ui.listenDay === t ? state.ui.listenNo : null;
+      main.appendChild(h("p", {class:"muted tiny", text: doneNo
+        ? "今天泛听已完成：第 " + (doneNo < 10 ? "0" : "") + doneNo + " 集，明天按复习曲线继续。"
+        : "今天没有可安排的泛听，明天按复习曲线继续。"}));
+    }
+    return;
+  }
+  var e = EP[pick.no], c = CAT[pick.no] || {};
+  var when = pick.overdue > 0 ? "逾期 " + pick.overdue + " 天" : "今天到期";
+  var btn = h("button", {class:"btn btn--primary", type:"button", text:"已泛听"});
+  btn.addEventListener("click", function(){
+    var s = state.eps[pick.no];
+    if (!s) return;
+    s.listen = t;
+    s.listenN = (s.listenN || 0) + 1;
+    state.ui.listenDay = t;
+    state.ui.listenNo = pick.no;
+    touchDay();
+    var d = state.days[t];
+    if (d) d.listen = (d.listen || 0) + 1;
+    save();
+    toast("已记录泛听：第 " + pick.no + " 集");
+    route();
+  });
+  main.appendChild(h("div", {class:"card"}, [
+    h("div", {class:"row"}, [
+      h("span", {class:"pill", text:"今日泛听"}),
+      pick.due ? h("span", {class:"pill pill--gray", text:when}) : null
+    ]),
+    h("h2", {class:"title-en", style:"margin-top:10px",
+      text:"第 " + (pick.no < 10 ? "0" : "") + pick.no + " 集 · " + (c.t || e.title)}),
+    h("p", {class:"muted small", text:"时长约 " + Math.round(c.d || e.duration_min) + " 分钟 · 盒子 " + pick.box + " · 原速整集听一遍，不暂停"}),
+    h("p", {class:"muted tiny", text:"泛听只打卡，不升盒、不占词卡复习队列；自己打开精听页选这一集听即可。"}),
+    h("div", {class:"row", style:"margin-top:10px"}, [btn])
+  ]));
+}
+
 function renderToday(main){
   var p = plan();
   var t = dayKey();
@@ -597,6 +675,7 @@ function renderToday(main){
     ]));
   }
 
+  renderListenCard(main, t);
   renderIntensiveHint(main, t);
   renderPracticeCard(main);
 
@@ -677,10 +756,12 @@ function wordCard(w, no, opts){
     h("br"),
     h("span", {text: w.g})
   ]);
+  var len = (w.w || "").replace(/\s+/g, "").length;
+  var wcls = "front w" + (len >= 15 ? " w--xlong" : len >= 11 ? " w--long" : "");
   var btn = h("button", {
     class:"flip flip--word", type:"button", "aria-pressed":"false",
     "aria-label": w.w + "，显示释义"
-  }, [h("span", {class:"front w", text: w.w}), back]);
+  }, [h("span", {class: wcls, text: w.w}), back]);
   var ex = h("p", {class:"ex", hidden:true, text: w.ex || ""});
   btn.addEventListener("click", function(){
     pressed = !pressed;
@@ -1219,6 +1300,7 @@ function renderProgress(main){
       h("span", {class:"pill", text:"生成 " + DATA.meta.ep_done + " / " + DATA.meta.ep_total}),
       h("span", {class:"pill", text:"连续 " + state.streak + " 天"}),
       h("span", {class:"pill", text:"生词 " + starCount()}),
+      h("span", {class:"pill", text:"泛听 " + listenTotal()}),
       h("span", {class:"pill", text:"词汇 " + Object.keys(DATA.vocab).length})
     ])
   ]));
