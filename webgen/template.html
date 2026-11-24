@@ -39,8 +39,8 @@ button{font:inherit;color:inherit}
 .btn[disabled]{opacity:.45;cursor:not-allowed}
 .tabs{max-width:760px;margin:0 auto;padding:0 8px;display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
 .tabs::-webkit-scrollbar{display:none}
-.tabs a{flex:1 0 auto;text-align:center;padding:10px 12px;min-height:44px;display:flex;align-items:center;justify-content:center;
-  color:var(--muted);text-decoration:none;font-size:15px;border-bottom:2px solid transparent}
+.tabs a{flex:1 0 auto;text-align:center;padding:10px 12px;min-height:44px;min-width:44px;display:flex;align-items:center;justify-content:center;
+  color:var(--muted);text-decoration:none;font-size:15px;border-bottom:2px solid transparent;white-space:nowrap;touch-action:manipulation}
 .tabs a[aria-current="page"]{color:var(--accent);border-bottom-color:var(--accent);font-weight:600}
 
 main{max-width:760px;margin:0 auto;padding:18px 16px 64px}
@@ -60,17 +60,30 @@ main{max-width:760px;margin:0 auto;padding:18px 16px 64px}
 .streak .n{font-size:34px;font-weight:700;line-height:1;color:var(--accent);font-variant-numeric:tabular-nums}
 .title-en{font-size:19px;font-weight:650;line-height:1.4;word-break:break-word}
 
-.subtabs{display:flex;gap:6px;overflow-x:auto;padding:2px 0 12px;scrollbar-width:none}
+.subtabs{display:flex;gap:8px;overflow-x:auto;padding:2px 0 14px;scrollbar-width:none;
+  -webkit-overflow-scrolling:touch}
 .subtabs::-webkit-scrollbar{display:none}
-.subtabs a{flex:0 0 auto;padding:8px 14px;border-radius:999px;background:var(--surface);border:1px solid var(--line);
-  text-decoration:none;color:var(--muted);min-height:40px;display:flex;align-items:center;font-size:14px}
+.subtabs a{flex:0 0 auto;padding:10px 18px;border-radius:999px;background:var(--surface);border:1px solid var(--line);
+  text-decoration:none;color:var(--muted);min-height:46px;min-width:60px;display:flex;align-items:center;justify-content:center;font-size:15px;
+  touch-action:manipulation;-webkit-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent;
+  transition:background .12s,color .12s,transform .12s}
+.subtabs a:active{transform:scale(.96)}
 .subtabs a[aria-current="page"]{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
 
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;list-style:none;margin:0;padding:0}
-.cardwrap{margin:0}
+.cardwrap{margin:0;position:relative}
 .flip{width:100%;min-height:96px;border-radius:12px;border:1px solid var(--line);background:var(--surface);
   display:flex;flex-direction:column;gap:4px;align-items:flex-start;justify-content:center;padding:12px;cursor:pointer;text-align:left;
   transition:transform .16s ease,border-color .16s ease,background .16s ease}
+.flip--word{padding-right:48px}
+.cardwrap.removed .flip{opacity:.55}
+.removed-note{margin:6px 2px 0;font-size:13px;color:var(--warn)}
+.star{position:absolute;top:6px;right:6px;width:40px;height:40px;border-radius:10px;border:1px solid transparent;
+  background:transparent;color:#8a93a1;font-size:22px;line-height:1;display:flex;align-items:center;justify-content:center;
+  cursor:pointer;padding:0;z-index:2;touch-action:manipulation;-webkit-tap-highlight-color:transparent}
+.star:hover{background:#f0f2f5}
+.star[aria-pressed="true"]{color:#c47f00;background:#fff6dd;border-color:#f2dfae}
+.star:active{transform:scale(.92)}
 .flip:hover{border-color:#c3cad6}
 .flip[aria-pressed="true"]{background:var(--accent-soft);border-color:#b9cbf3}
 .flip .w{font-size:17px;font-weight:650;word-break:break-word}
@@ -99,6 +112,9 @@ ol.qlist>li{margin-bottom:20px}
 .fb .tok.miss{background:var(--bad-soft);color:var(--bad);text-decoration:line-through}
 .fb .extra{color:var(--muted)}
 .unscored{font-size:13px;color:var(--warn);background:var(--warn-soft);border-radius:8px;padding:6px 10px;display:inline-block;margin-bottom:6px}
+.qhint{font-size:13px;color:var(--muted);background:#f7f8fa;border:1px solid var(--line);border-radius:8px;
+  padding:5px 9px;margin:4px 0 0;display:inline-block;line-height:1.5}
+.qhint b{font-weight:600;color:#48505c}
 .spell{list-style:none;margin:0;padding:0}
 .spell li{display:flex;gap:10px;align-items:center;padding:9px 0;border-bottom:1px solid var(--line);flex-wrap:wrap}
 .spell .gloss{flex:1 1 160px;min-width:0}
@@ -142,6 +158,8 @@ dialog::backdrop{background:rgba(16,24,40,.45)}
 @media (max-width:420px){
   .grid{grid-template-columns:repeat(auto-fill,minmax(132px,1fr))}
   .appbar h1{font-size:15px}
+  .tabs a{font-size:14px;padding:10px 6px}
+  .subtabs a{font-size:14px;padding:10px 15px}
   main{padding:14px 12px 56px}
 }
 </style>
@@ -172,9 +190,10 @@ dialog::backdrop{background:rgba(16,24,40,.45)}
     <h2 id="helpTitle">怎么用</h2>
     <ol>
       <li><strong>今日</strong>：按间隔复习排程给出今天该复习的一集，学完点「完成本集」。</li>
-      <li><strong>词句</strong>：五类内容（核心词 / 补充词 / 语块 / 句式 / 翻译）。词卡点一下翻面看释义，再点一下看例句。</li>
-      <li><strong>自测</strong>：拼写题 + 填空。能判分的填空会逐词标出对错；标了「对照练习」的题不判分，只做对照。</li>
+      <li><strong>词句</strong>：五类内容（核心词 / 补充词 / 语块 / 句式 / 翻译）。词卡点一下翻面看释义，再点一下看例句；右上角星标可加入生词本。</li>
+      <li><strong>自测</strong>：拼写题 + 填空，每题附中文语境提示（不写英文答案）。能判分的填空会逐词标出对错；标了「对照练习」的题不判分，只做对照。</li>
       <li><strong>词表</strong>：全部词汇可搜索，点进去跳到它出现的某一集。</li>
+      <li><strong>生词本</strong>：集中复习星标过的词，词卡与「词句」一致；再点星标移除，列表不会立刻刷新，避免误触。</li>
       <li><strong>进度</strong>：67 集地图与学习记录，可导出备份。所有数据只存在这台设备的浏览器里。</li>
     </ol>
     <button class="btn btn--primary" id="helpClose">知道了</button>
@@ -302,7 +321,15 @@ function sig(){
   return x.toString(16);
 }
 function fresh(){
-  return {v:1, sig:sig(), createdDay:dayKey(), lastDay:null, streak:0, best:0, days:{}, eps:{}, ui:{help:0, lastEp:null}};
+  return {v:1, sig:sig(), createdDay:dayKey(), lastDay:null, streak:0, best:0,
+          days:{}, eps:{}, stars:{}, ui:{help:0, lastEp:null}};
+}
+function normalizeState(s){
+  if (!s.eps) s.eps = {};
+  if (!s.days) s.days = {};
+  if (!s.ui) s.ui = {help:0, lastEp:null};
+  if (!s.stars || typeof s.stars !== "object" || Array.isArray(s.stars)) s.stars = {};
+  return s;
 }
 function load(){
   if (!probe()) { memMode = true; return fresh(); }
@@ -315,10 +342,7 @@ function load(){
     try { localStorage.setItem(KEY + ":orphan:" + Date.now(), raw); } catch (e) {}
     return fresh();
   }
-  if (!s.eps) s.eps = {};
-  if (!s.days) s.days = {};
-  if (!s.ui) s.ui = {help:0, lastEp:null};
-  return s;
+  return normalizeState(s);
 }
 var state = load();
 
@@ -333,6 +357,59 @@ function renderBanner(){
   b.hidden = false;
   clear(b);
   b.appendChild(document.createTextNode("当前浏览器不允许本地存储（常见于 Safari 直接打开本地文件），学习记录只保存在本次会话中。可在「进度」里导出备份。"));
+}
+
+/* ---------------- 生词本（星标） ---------------- */
+
+function starKey(w){ return norm(w); }
+function starCount(){ return Object.keys(state.stars).length; }
+function starList(){
+  return Object.keys(state.stars).map(function(k){ return state.stars[k]; })
+    .filter(function(x){ return x && x.w; })
+    .sort(function(a, b){ return (b.ts || 0) - (a.ts || 0) || (a.w < b.w ? -1 : 1); });
+}
+function toggleStar(entry){
+  var k = starKey(entry.w), on = !!state.stars[k];
+  if (on) {
+    delete state.stars[k];
+  } else {
+    state.stars[k] = {
+      w: entry.w, g: entry.g || "", ipa: entry.ipa || "",
+      ex: entry.ex || "", no: entry.no || null, ts: Date.now()
+    };
+  }
+  save();
+  return !on;
+}
+function updateStarCounts(){
+  var n = starCount();
+  var els = document.querySelectorAll("[data-star-count]");
+  for (var i = 0; i < els.length; i++) els[i].textContent = String(n);
+}
+function starButton(entry, wrap){
+  var on = !!state.stars[starKey(entry.w)];
+  var btn = h("button", {
+    class: "star", type: "button", text: on ? "★" : "☆",
+    "aria-pressed": on ? "true" : "false",
+    "aria-label": (on ? "从生词本移除 " : "加入生词本 ") + entry.w,
+    title: on ? "从生词本移除" : "加入生词本"
+  });
+  btn.addEventListener("click", function(ev){
+    ev.stopPropagation();
+    var now = toggleStar(entry);
+    btn.textContent = now ? "★" : "☆";
+    btn.setAttribute("aria-pressed", now ? "true" : "false");
+    btn.setAttribute("aria-label", (now ? "从生词本移除 " : "加入生词本 ") + entry.w);
+    btn.title = now ? "从生词本移除" : "加入生词本";
+    if (wrap && wrap.dataset.starView === "1") {
+      wrap.classList.toggle("removed", !now);
+      var note = qs(".removed-note", wrap);
+      if (note) note.hidden = now;
+    }
+    updateStarCounts();
+    toast(now ? "已加入生词本" : "已从生词本移除");
+  });
+  return btn;
 }
 
 /* ---------------- 状态写入 ---------------- */
@@ -409,6 +486,7 @@ function parseHash(){
   }
   if (v === "quiz") return {view:"quiz", no: seg[1] ? +seg[1] : null};
   if (v === "vocab") return {view:"vocab"};
+  if (v === "starred") return {view:"starred"};
   if (v === "progress") return {view:"progress"};
   return {view:"today"};
 }
@@ -417,6 +495,9 @@ function go(hash){ location.hash = hash; }
 var currentRoute = null;
 function route(){
   var r = parseHash();
+  var prev = currentRoute;
+  // 同一集切子页签：不清滚动位置，避免手机端点一下页面跳回顶部
+  var sameEp = !!(prev && prev.view === "episode" && r.view === "episode" && prev.no === r.no && EP[r.no]);
   currentRoute = r;
   renderTabs(r);
   var main = qs("#main");
@@ -429,23 +510,29 @@ function route(){
   }
   else if (r.view === "quiz") { title = "自测"; renderQuiz(main, r); }
   else if (r.view === "vocab") { title = "词表"; renderVocab(main); }
+  else if (r.view === "starred") { title = "生词本"; renderStarred(main); }
   else if (r.view === "progress") { title = "进度"; renderProgress(main); }
   var h1 = qs("#viewTitle");
   h1.textContent = title;
   document.title = title + " · 商务英语每日复习工作台";
-  window.scrollTo(0, 0);
-  h1.focus({preventScroll:true});
+  if (sameEp) {
+    var act = qs('.subtabs a[aria-current="page"]');
+    if (act) act.focus({preventScroll:true});
+  } else {
+    window.scrollTo(0, 0);
+    h1.focus({preventScroll:true});
+  }
 }
 
 function renderTabs(r){
   var nav = qs("#mainTabs");
   clear(nav);
-  var lastEp = state.ui.lastEp || (plan().no || DONE_NOS[0] || 1);
+  // 词句 / 自测 是「集内子页」，入口在今日卡片、词表、进度地图里，
+  // 不再占用顶部主导航，避免与首页卡片重复。
   var items = [
     {href:"#/today", label:"今日", on: r.view === "today"},
-    {href:"#/ep/" + lastEp + "/words", label:"词句", on: r.view === "episode"},
-    {href:"#/quiz", label:"自测", on: r.view === "quiz"},
     {href:"#/vocab", label:"词表", on: r.view === "vocab"},
+    {href:"#/starred", label:"生词本", on: r.view === "starred"},
     {href:"#/progress", label:"进度", on: r.view === "progress"}
   ];
   items.forEach(function(it){
@@ -562,31 +649,9 @@ function renderEpisode(main, r){
   if (r.tab === "words" || r.tab === "supp") {
     var list = r.tab === "words" ? e.core : e.supp;
     if (!list.length) { panel.appendChild(h("p", {class:"muted", text:"本集没有这一类内容。"})); return; }
-    panel.appendChild(h("p", {class:"muted tiny", text:"点卡片翻面看释义，再点一次展开例句。"}));
+    panel.appendChild(h("p", {class:"muted tiny", text:"点卡片翻面看释义，再点一次展开例句；右上角星标可加入生词本。"}));
     var ul = h("ul", {class:"grid", style:"margin-top:10px"});
-    list.forEach(function(w, i){
-      var pressed = false;
-      var back = h("span", {class:"back"}, [
-        h("span", {class:"muted", text: w.ipa || ""}),
-        h("br"),
-        h("span", {text: w.g})
-      ]);
-      var btn = h("button", {
-        class:"flip", type:"button", "aria-pressed":"false",
-        "aria-label": w.w + "，显示释义"
-      }, [h("span", {class:"front w", text: w.w}), back]);
-      var ex = h("p", {class:"ex", hidden:true, text: w.ex || ""});
-      btn.addEventListener("click", function(){
-        pressed = !pressed;
-        btn.setAttribute("aria-pressed", pressed ? "true" : "false");
-        btn.setAttribute("aria-label", w.w + (pressed ? "，收起释义" : "，显示释义"));
-        ex.hidden = !pressed || !w.ex;
-      });
-      btn.addEventListener("keydown", function(ev){
-        if (ev.key === "Escape" && pressed) { btn.click(); ev.stopPropagation(); }
-      });
-      ul.appendChild(h("li", {class:"cardwrap"}, [btn, ex]));
-    });
+    list.forEach(function(w){ ul.appendChild(wordCard(w, r.no)); });
     panel.appendChild(ul);
   } else if (r.tab === "chunks") {
     panel.appendChild(h("h2", {text:"语块 · 整体记忆"}));
@@ -599,6 +664,71 @@ function renderEpisode(main, r){
     panel.appendChild(h("h2", {text:"词句翻译"}));
     panel.appendChild(table(["英文", "中文"], e.trans.map(function(x){ return [x.en, x.zh]; })));
   }
+}
+
+function wordCard(w, no, opts){
+  opts = opts || {};
+  var pressed = false;
+  var li = h("li", {class:"cardwrap"});
+  if (opts.starView) li.dataset.starView = "1";
+
+  var back = h("span", {class:"back"}, [
+    h("span", {class:"muted", text: w.ipa || ""}),
+    h("br"),
+    h("span", {text: w.g})
+  ]);
+  var btn = h("button", {
+    class:"flip flip--word", type:"button", "aria-pressed":"false",
+    "aria-label": w.w + "，显示释义"
+  }, [h("span", {class:"front w", text: w.w}), back]);
+  var ex = h("p", {class:"ex", hidden:true, text: w.ex || ""});
+  btn.addEventListener("click", function(){
+    pressed = !pressed;
+    btn.setAttribute("aria-pressed", pressed ? "true" : "false");
+    btn.setAttribute("aria-label", w.w + (pressed ? "，收起释义" : "，显示释义"));
+    ex.hidden = !pressed || !w.ex;
+  });
+  btn.addEventListener("keydown", function(ev){
+    if (ev.key === "Escape" && pressed) { btn.click(); ev.stopPropagation(); }
+  });
+
+  li.appendChild(btn);
+  li.appendChild(starButton({w:w.w, g:w.g, ipa:w.ipa, ex:w.ex, no:no}, li));
+  li.appendChild(ex);
+  if (opts.starView) {
+    li.appendChild(h("p", {class:"removed-note", hidden:true,
+      text:"已从生词本移除，离开本页后不再显示"}));
+  }
+  return li;
+}
+
+/* ---------------- 生词本 ---------------- */
+
+function renderStarred(main){
+  var list = starList();
+  main.appendChild(h("div", {class:"card"}, [
+    h("h2", {text:"生词本"}),
+    h("p", {class:"muted small"}, [
+      "共 ", h("b", {"data-star-count":"", text:String(list.length)}),
+      " 个词 · 点卡片翻面看释义，右上角星标可移除"
+    ]),
+    h("p", {class:"muted tiny", text:"在本页移除星标不会立刻刷新列表，方便误触后马上加回来；离开后再进来才会消失。"})
+  ]));
+
+  if (!list.length) {
+    main.appendChild(h("div", {class:"card"}, [
+      h("p", {class:"muted", text:"生词本还是空的。"}),
+      h("p", {class:"muted small", text:"在核心词 / 补充词的词卡右上角点星标即可加入。"}),
+      h("a", {class:"btn", href:"#/today", text:"去今日复习"})
+    ]));
+    return;
+  }
+
+  var ul = h("ul", {class:"grid", style:"margin-top:10px"});
+  list.forEach(function(w){ ul.appendChild(wordCard(w, w.no, {starView:true})); });
+  var card = h("div", {class:"card"});
+  card.appendChild(ul);
+  main.appendChild(card);
 }
 
 function table(head, rows){
@@ -762,6 +892,7 @@ function buildSelfTestText(no){
     }
     rebuilt += parts[parts.length - 1];
     L.push((qi + 1) + ". [" + (item.scored ? "可判分" : "对照练习·不判分") + "] " + rebuilt);
+    if (item.hintText) L.push("　提示：" + item.hintText);
     if (item.scored) {
       var refs = [];
       item.gaps.forEach(function(gap, g){
@@ -928,6 +1059,12 @@ function renderQuiz(main, r){
       }
     });
     li.appendChild(sent);
+    if (item.hintText) {
+      li.appendChild(h("p", {class:"qhint"}, [
+        h("b", {text:"提示" + (item.hintFrom ? "（" + item.hintFrom + "）" : "") + "："}),
+        h("span", {text:item.hintText})
+      ]));
+    }
     var fb = h("div", {class:"fb", "data-fb":qi});
     li.appendChild(fb);
     olist.appendChild(li);
@@ -1081,6 +1218,7 @@ function renderProgress(main){
       h("span", {class:"pill", text:"已学 " + learned + " 集"}),
       h("span", {class:"pill", text:"生成 " + DATA.meta.ep_done + " / " + DATA.meta.ep_total}),
       h("span", {class:"pill", text:"连续 " + state.streak + " 天"}),
+      h("span", {class:"pill", text:"生词 " + starCount()}),
       h("span", {class:"pill", text:"词汇 " + Object.keys(DATA.vocab).length})
     ])
   ]));
@@ -1102,7 +1240,7 @@ function renderProgress(main){
 
   var io = h("div", {class:"card"}, [
     h("h2", {text:"备份与重置"}),
-    h("p", {class:"muted small", text:"学习记录只存在本机浏览器，清除浏览器数据会丢失，建议定期导出。"})
+    h("p", {class:"muted small", text:"学习记录与生词本只存在本机浏览器，清除浏览器数据会丢失，建议定期导出。"})
   ]);
   var row = h("div", {class:"row"});
   var exp = h("button", {class:"btn", type:"button", text:"导出 JSON"});
@@ -1124,7 +1262,7 @@ function renderProgress(main){
       try {
         var s = JSON.parse(String(reader.result));
         if (!s || s.v !== 1 || !s.eps) throw new Error("bad");
-        state = s;
+        state = normalizeState(s);
         save();
         toast("已导入备份");
         route();
@@ -1136,7 +1274,7 @@ function renderProgress(main){
   var reset = h("button", {class:"btn btn--danger", type:"button", text:"重置进度"});
   reset.addEventListener("click", function(){
     if (!confirm("确定要清空全部学习记录吗？此操作无法撤销（建议先导出备份）。")) return;
-    if (!confirm("再确认一次：清空后连续天数、盒子等级、自测成绩都会丢失。")) return;
+    if (!confirm("再确认一次：清空后连续天数、盒子等级、自测成绩、生词本都会丢失。")) return;
     state = fresh();
     state.ui.help = 1;
     save();

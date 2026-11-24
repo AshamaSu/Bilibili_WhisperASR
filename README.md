@@ -108,7 +108,7 @@ python3 webgen/build_site.py --season season1 --mode minimal   # 公开版：不
 python3 webgen/selfcheck.py --season season1                   # 17 项自动校验（含幂等构建、minimal 复检、可判分率）
 ```
 
-页面含五个视图（今日 / 词句 / 自测 / 词表 / 进度），学习进度只存浏览器 localStorage；新增集数后重跑 build 即可增量进入站点。
+页面含六个视图：顶部四个 Tab（今日 / 词表 / 生词本 / 进度），词句与自测作为「集内子页」从今日卡片、词表、进度地图进入。学习进度与生词本只存浏览器 localStorage；新增集数后重跑 build 即可增量进入站点。核心词 / 补充词词卡右上角可点星标加入生词本，自测填空逐题附中文语境提示（不写出英文答案）。
 
 ## 精读页
 

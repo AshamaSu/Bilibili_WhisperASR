@@ -382,17 +382,17 @@ def build_blank_items(ep: dict) -> Tuple[List[dict], int]:
     scored = 0
     for text in ep["blanks"]:
         answers = recover_answers(text, cands)
+        item = {"t": text,
+                "gaps": [{"a": variants(a)} for a in answers] if answers else
+                        [{"a": []} for _ in range(len(RE_BLANK.findall(text)))],
+                "scored": bool(answers),
+                "hint": _closest_pattern(text, ep["patterns"])}
+        hint_text, hint_from = _blank_hint(text, ep, item)
+        item["hintText"] = hint_text
+        item["hintFrom"] = hint_from
         if answers:
             scored += 1
-            items.append({"t": text,
-                          "gaps": [{"a": variants(a)} for a in answers],
-                          "scored": True,
-                          "hint": _closest_pattern(text, ep["patterns"])})
-        else:
-            items.append({"t": text,
-                          "gaps": [{"a": []} for _ in range(len(RE_BLANK.findall(text)))],
-                          "scored": False,
-                          "hint": _closest_pattern(text, ep["patterns"])})
+        items.append(item)
     return items, scored
 
 
@@ -408,6 +408,74 @@ def _closest_pattern(text: str, patterns: List[dict]) -> int:
         if s > best_s:
             best_i, best_s = i, s
     return best_i
+
+
+# 语境提示：只给中文场景/释义，绝不回填英文答案。
+HINT_MIN_COVERAGE = 0.25   # 原句被挖空后仍应覆盖参考句 token 的 25%
+HINT_MIN_OVERLAP = 2       # 至少两个实词重合，避免「That's __.」只凭一个词乱匹配
+
+
+def _hint_candidates(ep: dict) -> List[Tuple[str, str, str]]:
+    """(类型, 提示文本, 参考句)，按可信度优先级排列。"""
+    out: List[Tuple[str, str, str]] = []
+    for kind, key, field in (("句式", "patterns", "s"),
+                             ("语块", "chunks", "s"),
+                             ("核心词", "core", "g"),
+                             ("补充词", "supp", "g")):
+        for it in ep.get(key, []):
+            sent = it.get("ex") or ""
+            label = it.get(field) or ""
+            if sent and label:
+                out.append((kind, label, sent))
+    return out
+
+
+def _answer_gloss(ep: dict, answers: List[str]) -> str:
+    """兜底：答案词若在本集词表里，用它的中文释义当提示。"""
+    for a in answers:
+        want = set(RE_TOKEN.findall(a.lower()))
+        for key in ("core", "supp"):
+            for it in ep.get(key, []):
+                have = set(RE_TOKEN.findall((it.get("w") or "").lower()))
+                if have and have <= want:
+                    return it.get("g") or ""
+    return ""
+
+
+def _blank_hint(text: str, ep: dict, item: dict) -> Tuple[str, str]:
+    """给填空题挑一条中文语境；没有可靠匹配时退回本集主题。"""
+    want = set(RE_TOKEN.findall(text.lower()))
+    ranked: List[Tuple[float, int, str, str, set]] = []
+    for kind, label, sent in _hint_candidates(ep):
+        have = set(RE_TOKEN.findall(sent.lower()))
+        if not have:
+            continue
+        overlap = len(want & have)
+        if overlap < HINT_MIN_OVERLAP:
+            continue
+        coverage = overlap / float(len(have))
+        if coverage < HINT_MIN_COVERAGE:
+            continue
+        ranked.append((coverage, overlap, kind, label, have))
+    ranked.sort(key=lambda x: (-x[0], -x[1]))
+
+    answers = [a for gap in item.get("gaps", []) for a in gap.get("a", [])]
+    answer_tokens = set()
+    for a in answers:
+        answer_tokens |= set(RE_TOKEN.findall(a.lower()))
+
+    for _cov, _overlap, kind, label, have in ranked:
+        # 提示语里出现被挖掉的词（如「收到 offer 先致谢」）就换下一条；
+        # 判分题再叠加一层「答案 token」防护，避免同义改写漏网。
+        label_tokens = set(RE_TOKEN.findall(label.lower()))
+        if label_tokens & ((have - want) | answer_tokens):
+            continue
+        return label, kind
+
+    gloss = _answer_gloss(ep, answers)
+    if gloss:
+        return gloss, "释义"
+    return "本集主题《%s》" % (ep.get("title") or ""), "语境"
 
 
 # ---------------------------------------------------------------- 组装

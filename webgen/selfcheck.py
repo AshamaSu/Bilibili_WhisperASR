@@ -206,6 +206,18 @@ def check_html(path: Path) -> dict:
             gaps = b.get("gaps", [])
             if len(re.findall(r"_{6,}", b.get("t", ""))) != len(gaps):
                 fail("第 %s 集填空挖空数与 gaps 数不一致：%s" % (e.get("no"), b.get("t", "")[:40]))
+            if not b.get("hintText"):
+                fail("第 %s 集填空缺少语境提示：%s" % (e.get("no"), b.get("t", "")[:40]))
+            if b.get("hintFrom") not in ("句式", "语块", "核心词", "补充词", "释义", "语境"):
+                fail("第 %s 集提示来源异常：%r" % (e.get("no"), b.get("hintFrom")))
+            if b.get("scored") and b.get("hintFrom") != "语境":
+                hint_tokens = set(re.findall(r"[a-z0-9]+(?:['-][a-z0-9]+)*", b.get("hintText", "").lower()))
+                answer_tokens = set()
+                for g in gaps:
+                    for a in g.get("a", []):
+                        answer_tokens |= set(re.findall(r"[a-z0-9]+(?:['-][a-z0-9]+)*", a.lower()))
+                if hint_tokens & answer_tokens:
+                    fail("第 %s 集提示泄露英文答案：%s → %s" % (e.get("no"), b.get("t", "")[:40], b.get("hintText")))
             if b.get("scored"):
                 for g in gaps:
                     if not g.get("a"):
